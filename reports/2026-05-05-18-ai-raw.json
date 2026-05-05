@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-05",
+  "hour": "18",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 15181,
+    "completion_tokens": 3352,
+    "total_tokens": 18533
+  },
+  "content_length": 1692,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"现货黄金突破4560美元\",\n      \"summary\": \"现货黄金价格突破4560美元/盎司，日内上涨0.59%，创历史新高。地缘政治紧张（霍尔木兹海峡局势）推升避险情绪，叠加全球央行购金需求，黄金板块或受提振。看多黄金板块及贵金属相关个股。\",\n      \"reason\": \"黄金价格创历史新高，直接利好A股黄金概念股，属于市场情绪和避险资产信号，影响较大。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"黄金概念\", \"山东黄金\", \"紫金矿业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDTkVIQW1ucWk0bTNFMHpRMkptVzhqRnE0Vm5SVklYZWR6Y3ZqWnV5ZHVzV25QRXliVlEwTzRscm5nRTlzelUtN3VoejI5UTVnVnZn?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"华鑫证券首次覆盖国博电子\",\n      \"summary\": \"华鑫证券发布研报首次覆盖国博电子并给予买入评级。国博电子是军用射频芯片龙头，近期受益于军工电子化和自主可控需求。券商首次覆盖通常表明关注度提升，可能吸引资金关注。看多国博电子及军工芯片板块。\",\n      \"reason\": \"券商首次覆盖并给予买入评级，对个股有一定催化作用，属于机构调研/评级变动，中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"国博电子\", \"军工芯片\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEd05UMlJya3FZRE05SzVmazdBTzdBUVZiSUN6QkR0cTMwRlFvTHhkVEN4aGk5eXhkc0ZVaEd3emdndWtZZzlTanJDZE0wN01vLU1NendHZXVIaVA1WFE?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"闪迪长约规模持续扩大\",\n      \"summary\": \"闪迪称2027财年超三分之一出货量已通过长约锁定，目标达50%。这表明存储芯片需求强劲，供需格局改善。对A股存储芯片概念如长江存储产业链、兆易创新等形成利好。看多存储芯片板块。\",\n      \"reason\": \"存储芯片巨头长约锁定显示需求旺盛，行业景气度提升，可能带动A股存储概念股走强。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"存储芯片\", \"兆易创新\", \"澜起科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3771579\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"近6小时A股重大消息较少，多数为个股异动或重复信息，仅筛选出3条相对有价值的消息。\"\n}"
+}
