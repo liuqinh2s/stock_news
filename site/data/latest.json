@@ -3,98 +3,53 @@
   "hour": "01",
   "news": [
     {
-      "title": "北信源复牌",
-      "summary": "北信源于2026年5月6日复牌。停牌期间公司可能披露了重大事项，复牌后股价或出现波动。需关注复牌公告内容及市场反应。该事件对个股影响较大，但对整体市场影响有限。",
-      "reason": "交易所停复牌公告，属于优先级一，直接影响个股交易。",
+      "title": "葡萄酒企业控制权变更停牌",
+      "summary": "A股老牌葡萄酒上市企业因控制权拟变更，立即停牌。实控人闫鹏飞此前因涉嫌挪用资金罪被监视居住。该事件可能引发公司治理风险，对葡萄酒板块及个股产生利空影响，但停牌期间不确定性较大。信号偏空。",
+      "reason": "公司控制权变更及实控人涉刑，属于重大公司事件，停牌影响交易，可能引发市场对该板块的担忧。",
       "category": "公司公告",
       "impact_stocks": [
-        "北信源",
-        "网络安全"
+        "葡萄酒板块",
+        "*ST通葡"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FMXBQbFhpMENrYzZmVnJpbVRBUlU2eWU2cm13SmM3UG5ZY081bXI4YTBOVUVPZS1YRVJ1NFQxNHFSVFRiR2w5ZGpxVXZHajE1OHljRmVxOE05MEhWZ1pwVU9R?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOXc5RjBoYnBrXzAtVE1OcDJVQkJZWVNHM2V2MkF5cFRVQ0ZhVEtWOTMwaWFLY3FxVmI1UFZVYVJRa095djZqTWgxV1gzQ2xVZmVuWjg3NU1tV1BKRzNGY2p3UFRNcFQxMDZaNTlqWlA2OFUzM2c?oc=5"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "黑石KKR拟接入谷歌AI模型",
-      "summary": "黑石集团和KKR正与Alphabet谈判接入谷歌AI模型。此举显示机构对AI算力的需求持续增长，有望推动AI基础设施投资，利好数据中心、算力及AI应用板块。A股中AI算力相关个股如中际旭创、浪潮信息等或受益。",
-      "reason": "AI行业重大动态，机构资本介入，中期利多AI产业链。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "AI算力",
-        "中际旭创",
-        "浪潮信息",
-        "数据中心"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363132?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "CBOT小麦跌2%",
-      "summary": "CBOT小麦期货日内跌幅达2%，国际粮价承压。可能受全球供应改善或需求疲软影响，对A股农业种植板块形成利空，如北大荒、苏垦农发等。同时有利于下游饲料加工企业降低成本。",
-      "reason": "国际农产品期货波动，影响A股农业板块预期。",
+      "title": "迅捷兴登龙虎榜",
+      "summary": "迅捷兴（688655）于4月30日登上交易所龙虎榜，表明有游资或机构集中交易。龙虎榜数据通常反映短期资金博弈，可能带来交易机会，但需结合具体席位分析。信号中性偏多。",
+      "reason": "龙虎榜异动属于市场情绪信号，可能反映短线资金关注，影响个股波动。",
       "category": "市场情绪",
       "impact_stocks": [
-        "农业种植",
-        "北大荒",
-        "苏垦农发",
-        "饲料"
+        "迅捷兴"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363126?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QX1hpYjZvcm1HOUhtOWxpd0RyQ0FWVEUtVjZtVy1IWEd3MktlUWxMQXBNZ1FRV2F6MGpYZFJCNjlOS3EyVGtFem9MOXdKZ3pCNWpLbllFSklPendkdzE2UlZTTkt4MjdES2w4?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "热门赛道一季报盘点",
-      "summary": "上海证券报盘点热门赛道龙头一季报，揭示新能源、半导体、医药等板块业绩分化。高景气赛道如AI算力、新能源车增速亮眼，而部分消费电子、医药股承压。该盘点有助于投资者把握节后板块轮动方向。",
-      "reason": "宏观经济数据补充，提供行业业绩线索，影响中期配置逻辑。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "新能源",
-        "半导体",
-        "医药",
-        "AI算力"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "上海证券报",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HMWdPXzhWZHY4bnRDRHhrN21kckJhX01WT1NlWTJiakJyZ1ZVVGRLaEhScGhNQVFWTlJ1SFdibnVpYzVIS2Y0aWMzMUtiTWhZMkxKekdDQ05Nd1FTdWlaMnU3VmtVQzA0bFRFU1AzbjdhblpoWEE?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "天风证券Q4净利润降99%",
-      "summary": "天风证券年报显示第四季度单季净利润同比下降99.47%。券商行业业绩波动显著，市场环境不佳导致自营、经纪业务受挫。对券商板块整体情绪偏空，尤其对中小券商影响较大。",
-      "reason": "上市公司重大业绩公告，反映行业景气度，利空券商板块。",
+      "title": "天风证券年报净利暴跌",
+      "summary": "天风证券年报显示第四季度单季净利润同比下降99.47%，业绩大幅下滑。这可能反映券商行业在2025年第四季度经营压力，影响投资者对券商板块的信心。信号偏空。",
+      "reason": "业绩大幅下滑属于公司重大事件，对券商板块有负面影响。",
       "category": "公司公告",
       "impact_stocks": [
         "天风证券",
         "券商板块"
       ],
       "signal": "bearish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
           "name": "东方财富",
@@ -102,8 +57,63 @@
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "华天科技主力资金净流入",
+      "summary": "华天科技（002185）4月30日主力资金净流入1.4亿元，占总成交额5.5%，显示大资金看多。华天科技为半导体封装龙头，资金流入可能预示短期上涨，但需确认持续性。信号偏多。",
+      "reason": "主力资金大幅流入属于资金流向信号，对个股有正面影响。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "华天科技",
+        "半导体封装"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GWEJXdl9ZT3VCbnViN3ctakNUMkx0bTQtNnNhMXBQSUR6QnRNRjhOMWNqWWtJTmNJYnRMYk1mMS1RRi11NW9hQlR2QXBuaVh5WWRUMjhTdFpYLTBXUnJGVWFjcnpCY2h0cUFZ?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "卓然股份纳入异动股票池",
+      "summary": "卓然股份自5月6日起被纳入异动股票池，表明股价或成交量出现异常波动。该股可能受到游资或事件驱动关注，短期波动加大。信号中性。",
+      "reason": "异动股票池属于市场情绪信号，提示关注该股短期交易机会。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "卓然股份"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yZ0JfdmFlcXFpZmxXVWhDV0Mtc3ZNM0VXTmljS1U4MWdOeTE5dGZENkJnTjc4OTF2N1dhRWpCOXUtajZkQUdaUy1zZ2Q5WkxheUxnTm5sTXhxV3J1MWc?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "北信源复牌公告",
+      "summary": "北信源于2026年5月6日复牌，停牌原因未明确，复牌后股价可能波动。投资者需关注复牌后走势及消息面变化，信号中性。",
+      "reason": "停复牌公告属于公司重大事件，复牌可能带来交易机会或风险。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "北信源"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FMXBQbFhpMENrYzZmVnJpbVRBUlU2eWU2cm13SmM3UG5ZY081bXI4YTBOVUVPZS1YRVJ1NFQxNHFSVFRiR2w5ZGpxVXZHajE1OHljRmVxOE05MEhWZ1pwVU9R?oc=5"
+        }
+      ],
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 34,
-  "generated_at": "2026-05-06T01:01:42.773321+08:00"
+  "total_fetched": 14,
+  "generated_at": "2026-05-06T01:14:13.686313+08:00"
 }
