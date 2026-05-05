@@ -3,67 +3,146 @@
   "hour": "06",
   "news": [
     {
-      "title": "AMD盘后大涨超10%",
-      "summary": "AMD在美股盘后交易中涨幅扩大至10%以上，此前公司发布一季度财报，营收103亿美元超预期，二季度营收指引109-115亿美元亦超市场预期的105.2亿美元，并预计CPU市场到2030年复合增长率超35%。AMD业绩强劲反映AI算力需求持续爆发，将对A股半导体、AI芯片、光模块等科技板块形成情绪提振，看多信号。",
-      "reason": "AMD业绩超预期且盘后大涨，作为全球芯片龙头，直接映射A股相关板块，属于行业动态。",
-      "category": "行业动态",
+      "title": "买断式逆回购净回笼5000亿元",
+      "summary": "央行开展买断式逆回购操作，但净回笼资金5000亿元，显示央行在维持流动性合理充裕的同时，避免过度宽松。可能影响银行间市场资金利率，对A股短期资金面形成一定压力，属于中性偏空信号。",
+      "reason": "货币政策操作直接影响资金面，属于优先级一。净回笼规模较大，可能引发市场对流动性收紧的担忧。",
+      "category": "货币政策",
       "impact_stocks": [
-        "半导体",
-        "AI算力",
-        "光模块"
+        "银行",
+        "地产",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363193"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "百基齐发，公募布局权益市场",
+      "summary": "五一节后超百只基金同时发行，公募基金积极布局权益市场，显示机构对A股后市乐观。新基金建仓将为市场带来增量资金，利好整体行情，尤其利好科技、消费等赛道。",
+      "reason": "基金发行异常火爆属于市场情绪信号，优先级三，但资金面影响重大。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "创业板",
+        "科技板块"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363186"
-        },
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771600"
+          "url": "https://api3.cls.cn/share/article/2363192"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "纽约金价收涨0.73%",
-      "summary": "COMEX黄金期货主力合约收涨0.73%，报4566.7美元/盎司。金价上涨受地缘局势和美元走弱推动，A股黄金板块（如山东黄金、紫金矿业）将受提振，但幅度不大，关注持续性。",
-      "reason": "大宗商品价格直接影响A股黄金股盈利预期，属于行业动态。",
+      "title": "私募4月调研超5000次聚焦科技",
+      "summary": "4月私募调研次数超过5000次，重点聚焦绩优科技股。私募密集调研通常意味着后续加仓方向，科技股有望获得增量资金，尤其关注半导体、AI、算力等领域。",
+      "reason": "机构调研密集属于优先级二，反映机构关注方向，对板块有指引作用。",
       "category": "行业动态",
       "impact_stocks": [
-        "黄金",
-        "有色金属"
+        "半导体",
+        "AI概念",
+        "算力",
+        "科技板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363194"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "Meta开发AI代理Hatch",
+      "summary": "Meta计划推出AI代理Hatch及基于代理的购物工具，进一步推动AI应用落地。利好A股AI概念、软件、电商等板块，增强市场对AI产业长期增长的信心。",
+      "reason": "海外科技巨头AI动态影响A股映射行情，属于行业动态，优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "软件服务",
+        "电商"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363176"
+          "url": "https://api3.cls.cn/share/article/2363198"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "券商集中发布回报方案",
-      "summary": "多家券商近期发布2026年度“提质增效重回报”行动方案，承诺通过分红、回购、加强治理等方式提升股东回报。此举显示券商板块重视投资者关系，利好券商板块估值修复，同时提振市场信心。",
-      "reason": "券商集体行动，属于行业监管/公司治理动态，对板块有正向催化。",
-      "category": "公司公告",
+      "title": "美联储6月维持利率概率96%",
+      "summary": "CME美联储观察显示，美联储6月维持利率不变的概率为96.0%。利率稳定有利于全球风险资产估值，对A股尤其是成长股构成利好，外资流出压力减轻。",
+      "reason": "美联储货币政策预期影响全球流动性，属于优先级二，且概率极高。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "券商"
+        "沪深300",
+        "创业板",
+        "成长股"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363188"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "机构：5月A股科技主线有望延续",
+      "summary": "多家机构认为，全球科技股在AI高景气驱动下共振，A股科技主线有望在5月延续。科技板块主要受AI、半导体、算力等驱动，建议关注相关龙头。",
+      "reason": "机构观点影响市场共识，属于优先级二，但需结合其他信号。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "科技板块",
+        "半导体",
+        "AI概念"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMVBWY3luWWlSYkFnQ21VQ0N5SHJOV3FTM3B4QzRkMThld3B0R0xtcm44TWpTdHlDRmNsMGc0S1lmWVBvNHV3SVFpYXNrVUVKSUNkMzZrQ1FmT2N4OHZFb1VjZTRqQQ?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363191"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
+    },
+    {
+      "title": "嘉晨智能(920096.BJ)开启申购",
+      "summary": "北交所新股嘉晨智能开启申购，主营业务为电机驱动控制系统等。虽为北交所新股，但 IPO 节奏对市场资金面有一定影响，不过单只新股规模较小，影响有限。",
+      "reason": "新股申购属于IPO动态，优先级一，但规模小。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "北交所",
+        "电机驱动"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTFE2QWt6cWl4RlVjLTB2Y0tmUTBDTGNqVlpWYWI5SjlVRWgtX3BleGFYc3BTeEd3R3BUQ05mMGlkb21ZUXFKTGdlZ0JHUTg1S1VZMFJJdHJZdjN6M1V2Q0s0a29QV3JxUkpqZ2NPLXYzMFBwZm5wVWpTUko4OHhYeHhiN2RhR3cyOWdET2NR?oc=5"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 31,
-  "generated_at": "2026-05-06T06:03:19.935264+08:00"
+  "total_fetched": 26,
+  "generated_at": "2026-05-06T06:45:46.033888+08:00"
 }
