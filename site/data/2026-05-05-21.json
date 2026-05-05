@@ -3,86 +3,89 @@
   "hour": "21",
   "news": [
     {
-      "title": "豆包将推付费订阅版本",
-      "summary": "豆包（字节跳动旗下AI产品）将推出付费订阅版本，标志着AI大模型从免费对话向商业化变现迈进。AI大模型进入智能体时代，Token消耗激增，推理算力需求或呈指数级增长，利好A股AI算力、服务器、芯片等板块，如中科曙光、浪潮信息、寒武纪。看多AI板块。",
-      "reason": "AI大模型商业化加速，直接提升算力需求预期，属于行业重大动态，对AI板块构成利好。",
+      "title": "A股分红王出炉派息1105亿",
+      "summary": "据统计，2025年度A股上市公司现金分红总额达1105亿元，创历史新高。高分红公司主要集中在银行、煤炭、食品饮料等板块，如工商银行、中国神华、贵州茅台等。积极信号，显示上市公司加大股东回报力度，有利于提升市场估值中枢，吸引长期资金入市。",
+      "reason": "A股分红总金额创纪录，属于利好市场情绪的中期信号，提升蓝筹股吸引力。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "银行",
+        "食品饮料",
+        "贵州茅台"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UaFZMZHdFSFc0UXBTSDBmWUJOMlVJTS0wSVlXMFB5VmdqOU12YThJY0Y5TnpfOHV3WHljR1I2QkFfbjdPSEV0WEZsV2MtSXVheWZzN3BvcDVBcV9FN29aX00wc29hZFM2U2VPS1ZoVG5vUEE4OWRzZw?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "现货黄金站上4580美元",
+      "summary": "5月5日，现货黄金价格突破4580美元/盎司，日内涨幅超1%，创历史新高。受美伊冲突升级、全球避险情绪升温及美国国债收益率突破5%等多重因素推动。黄金板块短期看多，山东黄金、中金黄金等受益。",
+      "reason": "金价创新高直接利好黄金股，反映避险情绪持续发酵。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "黄金概念",
+        "山东黄金",
+        "中金黄金"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260505/c676455878.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "豆包推出付费版 利好AI算力",
+      "summary": "豆包将推出付费订阅版本，随着AI进入智能体时代，Token消耗激增，推理算力需求呈指数级增长。利好AI芯片、算力基础设施板块，如中科曙光、浪潮信息、海光信息等。",
+      "reason": "豆包付费意味着商业化加速，算力需求确定性增强，直接利好AI算力产业链。",
       "category": "行业动态",
       "impact_stocks": [
         "AI算力",
         "中科曙光",
-        "浪潮信息"
+        "浪潮信息",
+        "海光信息"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2362929"
+          "url": "https://api3.cls.cn/share/article/2362929?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "五一上海消费增长7.7%",
-      "summary": "五一假期上海线上线下消费增长7.7%，显示消费复苏势头良好。叠加此前全国跨区域人员流动量创新高、五一档票房超去年等数据，消费板块有望获得提振。关注食品饮料、旅游、零售等板块个股，如中国中免、贵州茅台。看多消费板块。",
-      "reason": "消费数据超预期，提振市场对消费复苏的信心，属于宏观经济中的结构性利好。",
-      "category": "宏观经济",
+      "title": "中国移动将推出AI-eSIM产品",
+      "summary": "中国移动计划推出AI-eSIM产品，结合人工智能与嵌入式SIM卡技术，有望推动物联网、智能穿戴设备发展。利好物联网模组、通信芯片、AI应用等板块，如移远通信、广和通、紫光国微等。",
+      "reason": "运营商新动作显示AI与终端融合加速，利好相关产业链。",
+      "category": "行业动态",
       "impact_stocks": [
-        "消费板块",
-        "中国中免",
-        "贵州茅台"
+        "AI应用",
+        "物联网",
+        "移远通信",
+        "广和通"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363028"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103164632.html"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "伊拉克打折卖油WTI跌超3%",
-      "summary": "伊拉克对愿意途经霍尔木兹海峡运输原油的买家大幅下调油价（每桶让利33美元），WTI原油期货跌超3%，报103.195美元/桶。原油价格下跌短期利好航空、化工等用油行业，但地缘风险仍存。关注中国国航、恒力石化等。看空原油板块，看多下游受益行业。",
-      "reason": "油价大跌直接影响能源板块盈利预期，同时航空、化工等成本降低，属于行业动态中的结构性影响。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "航空板块",
-        "化工板块",
-        "中国国航",
-        "恒力石化"
-      ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363042"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "PayPal盘前跌超10%",
-      "summary": "PayPal盘前交易下跌8%后跌幅扩大至10%，尽管营收和利润超预期，但计划裁员且新任CEO推行战略转型，市场反应负面。可能拖累美股科技板块情绪，进而通过情绪传导影响A股科技股，但直接影响有限。中性偏空。",
-      "reason": "美股重要个股大跌可能引发科技板块情绪波动，属于市场情绪信号，但影响较弱。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "科技板块",
-        "创业板"
-      ],
-      "signal": "bearish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363048"
-        }
-      ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 55,
-  "generated_at": "2026-05-05T21:01:34.732610+08:00"
+  "total_fetched": 66,
+  "generated_at": "2026-05-05T21:09:40.882244+08:00"
 }
