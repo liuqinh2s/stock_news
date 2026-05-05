@@ -3,29 +3,92 @@
   "hour": "04",
   "news": [
     {
-      "title": "中东局势现缓和信号",
-      "summary": "美国防长称停火未结束，美军未达重启大规模作战门槛，特朗普称伊朗知道不该做什么。近期伊美冲突趋缓，可能降低原油风险溢价，缓解全球避险情绪。利好A股航空、化工等成本敏感行业，利空石油股。整体看多A股风险偏好。",
-      "reason": "地缘政治风险缓解，影响原油价格和全球市场情绪，传导至A股。",
-      "category": "宏观经济",
+      "title": "美股纳指标普创新高",
+      "summary": "当地时间5月5日，美股三大指数收盘涨跌互现，纳斯达克指数和标普500指数均创历史新高，道琼斯指数微涨。科技股普遍上涨，英伟达、AMD等领涨。此消息对A股开盘情绪构成积极影响，尤其利好科技成长板块，如半导体、AI算力等。信号偏多，但需注意A股自身节奏。",
+      "reason": "美股创新高直接提振A股市场情绪，尤其是科技板块情绪，属于市场情绪信号。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "中国国航",
-        "万华化学",
-        "中国石油"
+        "沪深300",
+        "创业板指",
+        "半导体",
+        "AI算力"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771596"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363161"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "逾七成投顾看涨二季度",
-      "summary": "上海证券报调查显示，超过70%的投顾看好2026年第二季度A股行情，认为经济复苏预期稳固，市场有望延续上行。这反映市场情绪偏乐观，可能吸引增量资金入场，支撑指数走强。看多沪深300等核心资产。",
-      "reason": "市场情绪指标，投顾调查具有前瞻性，偏多信号。",
+      "title": "AMD财报超预期盘后涨6%",
+      "summary": "AMD发布2026年第一季度财报，营收103亿美元超预期，第二季度营收指引109-115亿美元，也高于市场预期105.2亿美元。受此提振，AMD美股盘后涨超6%。该消息将直接刺激A股半导体、AI算力产业链，如CPU/GPU概念、芯片封测、光模块等板块高开，信号偏多。",
+      "reason": "AMD作为全球AI芯片龙头，财报超预期验证AI需求高景气，对A股相关板块有强带动作用。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "AI算力",
+        "光模块",
+        "芯片封测"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363167"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "API原油库存大减814万桶",
+      "summary": "美国至5月1日当周API原油库存减少814.1万桶，远超预期的减少275万桶，前值为减少179.3万桶。数据显示美国原油供应趋紧，短期内可能推动油价反弹，利好A股石油开采及化工板块。关注今日晚间EIA数据确认。信号偏多。",
+      "reason": "原油库存大幅超预期下降，直接利好油价，A股石油板块有望受益。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油开采",
+        "中国石油",
+        "中国石化",
+        "化工"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363173"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "鲁比奥确认对伊军事行动结束",
+      "summary": "美国国务卿鲁比奥确认代号为“史诗怒火”的军事行动已结束，中东紧张局势阶段性缓和。此前美军与伊朗在霍尔木兹海峡附近有小规模冲突。停火将降低地缘政治风险，提升全球风险偏好，对A股整体偏多，但原油供给担忧缓解可能压制油价，利空石油板块。综合看，对多数行业偏多，对石油板块偏空。信号中性偏多。",
+      "reason": "中东局势缓和减少市场不确定性，有利于A股风险偏好回升，但需注意对石油板块的负面影响。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "石油开采"
+      ],
+      "signal": "neutral",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363165"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "逾七成投顾看涨二季度A股",
+      "summary": "上海证券报发布的2026年第二季度投顾调查显示，超过70%的投顾看涨二季度A股走势。调查覆盖多家券商营业部，反映出市场专业投资者对经济复苏和行情的乐观预期。该调查结果可作为情绪支撑，但实际影响偏弱，中等利多信号。",
+      "reason": "投顾调查反映市场情绪偏乐观，对资金入市有正面引导作用。",
       "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
@@ -36,70 +99,12 @@
       "sources": [
         {
           "name": "上海证券报",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pQTdMR196RV9jcDZOWlBZNkhQM09iOGU5b3hjNXlVTi1KOWFrTlItMFp0Q3JFQUx6eU5Ea0dGZFRYWXpBVmhWVHRadXdoUlRBc2Q2VjhoQjNrMUdLaDRvYg"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "山东天岳先进股东减持",
-      "summary": "山东天岳先进科技股份有限公司披露股东及一致行动人减持计划，拟减持不超过一定比例股份。减持可能对股价构成短期压力，尤其是半导体材料板块情绪受影响。但减持规模有限，偏空个股。",
-      "reason": "公司公告减持，属于利空信号，影响相关个股及板块情绪。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "天岳先进",
-        "半导体材料"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxUjZ2SFowTjJILWlvamxRZm5hT0NnbFkzNkkyVzgyWVNsa1U0SDZxdHJhd0ZYLXZ3UjVBWVhVbEc3WW1lWW1IczVFYnIyZjllOENQTXlnRzQ1eEZyZ19hcXRsNW5Ka3dWWXNUX29BdElOR2dqWGZxZA"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "ST嘉应5月6日复牌",
-      "summary": "ST嘉应（股票代码不详）将于2026年5月6日复牌。此前公司因相关事项停牌，复牌后可能面临补跌或退市风险。投资者需警惕风险，尤其对ST板块情绪有负面影响。偏空信号。",
-      "reason": "复牌公告可能带来不确定性，尤其是ST股通常风险较高，影响相关板块情绪。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "ST板块",
-        "ST嘉应"
-      ],
-      "signal": "bearish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMM3piYks4b2JIeDFwNC11SWc3dl9JYnk1WVhMNXBNblZwX2VZZHI5Mlp3ZVRyajVFNmhqc3pWSXdhb1Q0Z2lMWjNyY3JQUjNjNWtDR01MQ3k3eUR3ckhnd1BB"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "OpenAI推出ChatGPT广告管理器",
-      "summary": "OpenAI开始逐步推出ChatGPT中的测试版自助广告管理器，标志着AI商业化加速。这将利好AI应用、广告营销等相关板块，如蓝色光标、科大讯飞等。看多AI应用方向。",
-      "reason": "AI商业化重要进展，利好AI应用和广告营销产业链，属于行业动态。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "蓝色光标",
-        "科大讯飞",
-        "AI应用"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363149"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GSXVHTWZmM0Z6ZWRnOHRXV1R0akUtYVdxOHY1RTRvSnRuakx6MmtCNTBVY1dGR05lUlJrWDNSd3B2MVJtVDJhVVF6ZHZZczcxYm10WXBoWExnZXR6Wjh3alBJZVFVTnRGaDg3dDFn"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 23,
-  "generated_at": "2026-05-06T04:01:27.761670+08:00"
+  "total_fetched": 33,
+  "generated_at": "2026-05-06T04:53:42.812254+08:00"
 }
