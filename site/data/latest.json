@@ -3,52 +3,91 @@
   "hour": "12",
   "news": [
     {
-      "title": "苹果考虑英特尔三星造芯片",
-      "summary": "据报道，苹果正评估用英特尔和三星为其设备生产处理器，英特尔美股夜盘涨超3%。此举可能改变全球芯片代工格局，对A股半导体板块构成情绪提振。但苹果若转移订单，可能削弱台积电及国内代工企业预期，整体影响偏中性。利好A股英特尔概念股（如通富微电等封装测试企业），但需警惕国产替代逻辑弱化风险。",
-      "reason": "科技巨头重大战略变化，影响半导体产业链预期，且英特尔夜盘大涨反映市场积极反应。",
-      "category": "行业动态",
+      "title": "澳洲央行加息25基点",
+      "summary": "澳洲央行今日宣布将指标利率从4.10%上调至4.35%，符合市场预期。加息主因中东局势推升通胀，燃料价格上涨加剧。作为发达经济体紧缩信号，可能引发全球流动性收紧预期，对A股市场情绪构成短期压制，尤其对利率敏感的银行、地产板块形成利空。这是海外央行紧缩的延续，需关注后续其他央行动作。",
+      "reason": "海外央行加息属于货币政策联动，影响全球资金流向和风险偏好，对A股有传导效应，符合优先级二海外市场联动标准。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "半导体",
-        "通富微电",
-        "长电科技"
+        "沪深300",
+        "银行",
+        "地产"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2362791"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260505/c676453642.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "东鹏饮料一季度营收增21.46%",
-      "summary": "东鹏饮料H股盘中涨超5%，一季度营收同比增长21.46%。消费复苏趋势确认，功能饮料赛道维持高景气。该业绩超预期，对A股食品饮料板块尤其是软饮料个股形成带动。利好东鹏饮料、承德露露等消费股，建议关注。",
-      "reason": "消费股业绩增长信号，提振市场对消费复苏的信心。",
-      "category": "公司公告",
+      "title": "印尼GDP增长超预期",
+      "summary": "印尼第一季度GDP同比增长5.6%，高于预期的5.3%，环比下降0.8%但好于预期的下降1.0%。印尼作为资源出口大国，经济强劲意味着对大宗商品需求有支撑，尤其利好有色金属、煤炭等板块。A股相关资源股有望受益，但整体影响有限。",
+      "reason": "宏观经济数据超预期，影响大宗商品需求预期，对A股资源板块形成正面驱动，符合优先级二宏观经济标准。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "东鹏饮料",
-        "食品饮料",
-        "消费"
+        "有色金属",
+        "煤炭",
+        "沪深300"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2362810?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "高盛上调寒武纪评级",
+      "summary": "高盛发布报告，上调寒武纪目标价并维持买入，同时下调浪潮信息评级。高盛看好国产AI芯片崛起趋势，认为寒武纪将受益于国产替代加速。此举直接提振寒武纪及AI芯片板块，对浪潮信息等传统服务器厂商则构成利空。市场关注AI算力自主可控主题。",
+      "reason": "知名机构评级变动对个股和板块有直接指引作用，符合优先级二机构调研/评级变动标准。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "寒武纪",
+        "浪潮信息",
+        "AI芯片"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "中国证券报",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdjU0ejlnb0h6OHlQYmRNUVpRd19Ec3l1SzNzczRTZnZ3VTRUY0duNExfS1h1NzVXdFJiS0JINTF0REZxZHlMSjE4cG8zZkpiRDNKSVpOLS1P14NURmbTdVYkM0UUlhdjE2Q0FOWWxwVnB2cQ"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771568"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "五一档观影人次超去年",
-      "summary": "2026年五一档观影人次突破1891万，超过去年同期。电影市场强势复苏，叠加暑期档预期，利好影视院线板块。万达电影、中国电影等龙头有望受益，但需注意票房增长持续性。",
-      "reason": "节假日消费数据超预期，直接利好影视传媒板块。",
-      "category": "市场情绪",
+      "title": "华谊兄弟股权溢价拍出",
+      "summary": "ST华谊0.06%股权司法拍卖结束，经过80次出价，最终以溢价超9%成交，由横琴天晟拍得。此前该拍卖竞价已较二级市场溢价，最终成交显示市场对ST华谊重组或壳价值仍有预期。不过此次拍卖规模极小，对整体公司价值影响有限，但可能短期提振ST板块炒作情绪。",
+      "reason": "司法拍卖溢价成交反映市场情绪，属于公司层面事件，但影响范围小，符合优先级三市场情绪信号。",
+      "category": "公司公告",
       "impact_stocks": [
-        "影视院线",
+        "ST板块",
+        "华谊兄弟"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2362815?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "五一档观影人次新高",
+      "summary": "2026年五一档观影人次突破1891万，超过去年同期，显示电影市场持续复苏。虽然五一档已过，但数据利好影视板块，提振市场对行业回暖的信心。相关公司如万达电影、中国电影等有望受益，但需注意后续影片供应和票房持续性。",
+      "reason": "行业数据超预期，对影视板块形成短期利好，符合优先级二行业政策变动或市场情绪标准。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "影视传媒",
         "万达电影",
         "中国电影"
       ],
@@ -56,70 +95,13 @@
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2362801"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260505/c676453533.shtml"
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "华泰证券与印尼BNI战略合作",
-      "summary": "华泰证券宣布与印尼BNI银行启动战略合作，推进国际化布局。此举有助于华泰拓展东南亚市场，提升跨境服务能力。对券商板块国际化进程有正面示范，但短期业绩贡献有限，中性偏多。",
-      "reason": "头部券商国际化重要动作，反映行业发展趋势。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "华泰证券",
-        "券商"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xV0NlbUpPenNabTBOUUZ0WFdvcFpaWXJnSUtKRmctc0pWSWpwbFJHT3VtNmQwU3dsWWNBcFBKcE8tQ0hXSHA0MjNOLUhua1liNVU5LTBlM3VpVC1kLS1FRg"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "中银证券:给予星源材质增持评级",
-      "summary": "中银证券给予星源材质增持评级，看好其锂电隔膜产能扩张及盈利改善。新能源产业链中隔膜环节竞争格局较好，龙头公司具备成长空间。利好星源材质及锂电池板块。",
-      "reason": "机构评级影响个股预期，且锂电板块为市场热点。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "星源材质",
-        "锂电池"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqZFFUa2dXVlZ3UXpMaGVEYjBEUFl0SlZKNnNUbFoySlFkX21Fc0ZPVXg1UFJEeFJ5MlUzQk9iOGdZY2FIeVZUNHl0MGVsTC1oV1Z2Ynl6dEhfeWgxRXo4MVBvSklVclB4VHpR"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "美银证券升先导智能目标价至64港元",
-      "summary": "美银证券将先导智能目标价上调至64港元，指出公司毛利率改善。先导智能为锂电设备龙头，受益于全球动力电池扩产。目标价上调反映海外机构看好，对A股锂电设备板块有提振。",
-      "reason": "国际投行上调目标价，增强市场信心。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "先导智能",
-        "锂电设备"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zSVBfOGExeElBWUxiR0RwX2xLa1NIUnd6WVUtU25UNTJDNXBrSWNWQlNkQVFKTVNoQTljSXd1VGNjRlhXYjBsU3NSRVhocmtZWEdVNnhzd0FTNGxDN0tMbjhKUzNlaFQ4aE9n"
-        }
-      ],
-      "urgency": "days"
     }
   ],
-  "total_fetched": 49,
-  "generated_at": "2026-05-05T12:01:36.354817+08:00"
+  "total_fetched": 58,
+  "generated_at": "2026-05-05T12:54:55.338929+08:00"
 }

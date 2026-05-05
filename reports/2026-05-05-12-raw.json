@@ -1,43 +1,15 @@
 {
   "date": "2026-05-05",
   "hour": "12",
-  "total": 49,
-  "fetched_at": "2026-05-05T12:00:30.666854+08:00",
+  "total": 58,
+  "fetched_at": "2026-05-05T12:53:35.985116+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "最高上千万 A股财务高管2025年薪酬前50 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9aVVIxZ0dDSDVNVXdWNnZxa1BaMEtIdXJkWWNjSDNnQlZVZXRST21aVXVNbFN4RnF5OE42cjFvSlhmdkZta1p3di1mUVlzTUZCVkVRY1FMZXhDd3pzeDNFcS1nV0FFV21EeVpXUXFseVhBTGpYY0E?oc=5\" target=\"_blank\">最高上千万 A股财务高管2025年薪酬前50</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aVVIxZ0dDSDVNVXdWNnZxa1BaMEtIdXJkWWNjSDNnQlZVZXRST21aVXVNbFN4RnF5OE42cjFvSlhmdkZta1p3di1mUVlzTUZCVkVRY1FMZXhDd3pzeDNFcS1nV0FFV21EeVpXUXFseVhBTGpYY0E?oc=5",
-      "published": "Tue, 05 May 2026 02:42:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "会计所A股客户规模排行（2025，收入、资产、市值、归母净利润） - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1nY1Fnckc1Qm9DMlVtelhFRmt2b0xyVTA0OUJ4dUVVMy1jb1RZWXA3Ry04THk2Y2ZwTHZ4eVdYZ1ZkS29fcFBZY2VuTU4wR2ZHaWJyRndiandxblE4TW5yNVVRZXBObFNfejlQSkhiU3k3Y2FLLWc?oc=5\" target=\"_blank\">会计所A股客户规模排行（2025，收入、资产、市值、归母净利润）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nY1Fnckc1Qm9DMlVtelhFRmt2b0xyVTA0OUJ4dUVVMy1jb1RZWXA3Ry04THk2Y2ZwTHZ4eVdYZ1ZkS29fcFBZY2VuTU4wR2ZHaWJyRndiandxblE4TW5yNVVRZXBObFNfejlQSkhiU3k3Y2FLLWc?oc=5",
-      "published": "Tue, 05 May 2026 02:42:00 GMT"
-    },
     {
       "source": "新浪财经",
       "title": "红星美凯龙完成注销104.48万股已回购A股股份 总股本缩减 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBnWU9RN21DdEpUeHR5SHhNeEl1ajNJMlp6Y2k0TFdkYkd0RkdQQnJvQUJGMm9JbEJPM285NDRzaHFScEJOQVUyTXNSMHFJVHVxRHlvdTFQekJ4eHY3cnB3bzNhZ01GNm5IakhHc2s1MWxlT0JEeTNBZA?oc=5\" target=\"_blank\">红星美凯龙完成注销104.48万股已回购A股股份 总股本缩减</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnWU9RN21DdEpUeHR5SHhNeEl1ajNJMlp6Y2k0TFdkYkd0RkdQQnJvQUJGMm9JbEJPM285NDRzaHFScEJOQVUyTXNSMHFJVHVxRHlvdTFQekJ4eHY3cnB3bzNhZ01GNm5IakhHc2s1MWxlT0JEeTNBZA?oc=5",
       "published": "Tue, 05 May 2026 03:06:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "一季度，头部券商排位大洗牌 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE16eUptX3IyWnB4S2JrZHE2dm50YkVsMEoxcXVJZXdLX0plbjJfYWtQQlFUVTZJMmVaRnFOWERIaDlYTlhNOE9pWkdkR25XLXU4Z1hmMmlTWWMyOTEyMzFlekY1aTVwOW9wdnYxdUczNzBWQWtVRFpwQg?oc=5\" target=\"_blank\">一季度，头部券商排位大洗牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16eUptX3IyWnB4S2JrZHE2dm50YkVsMEoxcXVJZXdLX0plbjJfYWtQQlFUVTZJMmVaRnFOWERIaDlYTlhNOE9pWkdkR25XLXU4Z1hmMmlTWWMyOTEyMzFlekY1aTVwOW9wdnYxdUczNzBWQWtVRFpwQg?oc=5",
-      "published": "Tue, 05 May 2026 02:03:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "星展：精锋医疗首予“买入”评级 目标价68.10港元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlNqLUZkWlY0X0JnSUc5TE9XcnRUNDZKbk9wQWdFbEtKbDhvdjFhSEl5Q3cxWDRmTF9mSmxkRktsVDQwek85UEowam93S2s2V2J3NlpoU29vQkVGbDRfd2FIWmFuazhsbGt6TkUtNDRpdV9FWHZBcWxrbWNMQnN0dGdhUERmTDFxaU1n?oc=5\" target=\"_blank\">星展：精锋医疗首予“买入”评级 目标价68.10港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMlNqLUZkWlY0X0JnSUc5TE9XcnRUNDZKbk9wQWdFbEtKbDhvdjFhSEl5Q3cxWDRmTF9mSmxkRktsVDQwek85UEowam93S2s2V2J3NlpoU29vQkVGbDRfd2FIWmFuazhsbGt6TkUtNDRpdV9FWHZBcWxrbWNMQnN0dGdhUERmTDFxaU1n?oc=5",
-      "published": "Tue, 05 May 2026 03:01:00 GMT"
     },
     {
       "source": "东方财富",
@@ -59,13 +31,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE40THloc25aNVlfWm5QSUdqYkxZS3MyQ0UxcGpSRlBvVFFjelA0T1d3czZtekZ2NWhPM3pwdi01alNZb2hiOWtaQWNmQ2R5YXBOY2ZHR3BjSHJLUkJtVG9KdnNUZFB0QQ?oc=5\" target=\"_blank\">富通科技在港交所公告，公司股票已于今日10时32分起短暂停牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40THloc25aNVlfWm5QSUdqYkxZS3MyQ0UxcGpSRlBvVFFjelA0T1d3czZtekZ2NWhPM3pwdi01alNZb2hiOWtaQWNmQ2R5YXBOY2ZHR3BjSHJLUkJtVG9KdnNUZFB0QQ?oc=5",
       "published": "Tue, 05 May 2026 03:37:46 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "中航证券：给予国泰海通买入评级 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBaYnh0NnF6WDYyejdKeEVnZk1sUll0Yml0Zm1mYm94d19BT211a2pMUzV1WjZzdm1tbG0zeFhXc2VSR2dWYTRMM3cwcElDUFdpRzJZWG8yOEZITXk0UUFDWWEzSGljSEdJSEFR?oc=5\" target=\"_blank\">中航证券：给予国泰海通买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaYnh0NnF6WDYyejdKeEVnZk1sUll0Yml0Zm1mYm94d19BT211a2pMUzV1WjZzdm1tbG0zeFhXc2VSR2dWYTRMM3cwcElDUFdpRzJZWG8yOEZITXk0UUFDWWEzSGljSEdJSEFR?oc=5",
-      "published": "Tue, 05 May 2026 02:12:00 GMT"
     },
     {
       "source": "东方财富",
@@ -97,20 +62,6 @@
     },
     {
       "source": "东方财富",
-      "title": "中航证券：给予大金重工买入评级 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZXNRWFZldm1SbVl4YTJtYlR0a1NORVFaZGtoVTkwWHlJaGZGa2Zfb3JDUTNpQ2JDUy1IRmp5VGw4c3l2WmRXOFpUXzNVRmFSMW1BQzJMX0lUZjZCR19HR2RKLUo5aTlNNXow?oc=5\" target=\"_blank\">中航证券：给予大金重工买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZXNRWFZldm1SbVl4YTJtYlR0a1NORVFaZGtoVTkwWHlJaGZGa2Zfb3JDUTNpQ2JDUy1IRmp5VGw4c3l2WmRXOFpUXzNVRmFSMW1BQzJMX0lUZjZCR19HR2RKLUo5aTlNNXow?oc=5",
-      "published": "Tue, 05 May 2026 02:24:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "一、公司最新状态（2026-05-05）全称：上海富控互动娱乐股份有限公司（曾用 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE81emVWdDM3Nm9YYVozcldtRU1rMG1wMVNzNXltY19xU0NUT3lHLVp1QkRVRGY3LWgwNXBsMFVPWWp2dXp6UUgwem5ySnh3eWhIOEJNaXhFdUQ3eFBrblluQmpCVHctcEFfaXFB?oc=5\" target=\"_blank\">一、公司最新状态（2026-05-05）全称：上海富控互动娱乐股份有限公司（曾用</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81emVWdDM3Nm9YYVozcldtRU1rMG1wMVNzNXltY19xU0NUT3lHLVp1QkRVRGY3LWgwNXBsMFVPWWp2dXp6UUgwem5ySnh3eWhIOEJNaXhFdUQ3eFBrblluQmpCVHctcEFfaXFB?oc=5",
-      "published": "Tue, 05 May 2026 02:40:00 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "特朗普：买入英特尔，我在过去8个月让美国赚了450亿美元 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1LX0hETGhwaTNVVDlwaDRjdHpYeEN0c01FbXVhT3hVQkNpWW53d3B6Y2VXWGp1TTFqM1pmcDJ0WlRyYVpySXdZYWFJQWlhUnU3ZHYzUkRkUGZjSUxsZ3NITTJUb3g0RU1qRWVz?oc=5\" target=\"_blank\">特朗普：买入英特尔，我在过去8个月让美国赚了450亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LX0hETGhwaTNVVDlwaDRjdHpYeEN0c01FbXVhT3hVQkNpWW53d3B6Y2VXWGp1TTFqM1pmcDJ0WlRyYVpySXdZYWFJQWlhUnU3ZHYzUkRkUGZjSUxsZ3NITTJUb3g0RU1qRWVz?oc=5",
@@ -118,59 +69,248 @@
     },
     {
       "source": "同花顺",
-      "title": "中航证券：给予小商品城买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UeF9ubG9fRzRVMzBsVHV0UF9tS1FUaEpaSThvUjRUSlFUM2U1TENBb21xczBnWlYyMzNPM3hZdXRqMTh1VGN1cm9oZlcySWgzTkxaY2pHOG5CUE1CbGc?oc=5\" target=\"_blank\">中航证券：给予小商品城买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UeF9ubG9fRzRVMzBsVHV0UF9tS1FUaEpaSThvUjRUSlFUM2U1TENBb21xczBnWlYyMzNPM3hZdXRqMTh1VGN1cm9oZlcySWgzTkxaY2pHOG5CUE1CbGc?oc=5",
-      "published": "Tue, 05 May 2026 02:26:08 GMT"
+      "title": "澳洲央行表示，一如预期，中东局势进展正对通胀产生影响",
+      "summary": "澳洲央行表示，一如预期，中东局势进展正对通胀产生影响。燃料价格上涨加剧通胀，且有迹象表明，这可能会对更广泛的商品和服务价格产生第二轮效应。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453685.shtml",
+      "published": "Tue, 05 May 2026 04:46:59 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中航证券：给予大金重工买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2X1R3ekxKQ1ZKRzdXOVFuX1lJY1V0T2JyT2NKdWVpMm12ZXdYYlR0Z0lfaWlTZzJHU2dZaEQzMG5wbGRBWHRQQnJUTWR5YzBmX3dxRXpVa3dER1pZcEE?oc=5\" target=\"_blank\">中航证券：给予大金重工买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2X1R3ekxKQ1ZKRzdXOVFuX1lJY1V0T2JyT2NKdWVpMm12ZXdYYlR0Z0lfaWlTZzJHU2dZaEQzMG5wbGRBWHRQQnJUTWR5YzBmX3dxRXpVa3dER1pZcEE?oc=5",
-      "published": "Tue, 05 May 2026 02:26:08 GMT"
+      "title": "澳洲央行宣布将指标利率从4.10%上调至4.35%，预估为4.35%",
+      "summary": "澳洲央行宣布将指标利率从4.10%上调至4.35%，预估为4.35%。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453642.shtml",
+      "published": "Tue, 05 May 2026 04:31:21 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中航证券：给予国泰海通买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQdlBsYndBQnF2MnE0ajlJbjhGU0FvbEFXZXlMTk83U3VUVGpkLVZoRm44N3d6QzFIVHVuSERFSUxBLWxWcGxHUHYtb3BhNTVUMkIxSUFKQlpvTlRJMnk3clhR?oc=5\" target=\"_blank\">中航证券：给予国泰海通买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQdlBsYndBQnF2MnE0ajlJbjhGU0FvbEFXZXlMTk83U3VUVGpkLVZoRm44N3d6QzFIVHVuSERFSUxBLWxWcGxHUHYtb3BhNTVUMkIxSUFKQlpvTlRJMnk3clhR?oc=5",
-      "published": "Tue, 05 May 2026 02:21:06 GMT"
+      "title": "世卫组织：涉疫邮轮出现7个病例 公众面临风险较低",
+      "summary": "世界卫生组织4日发布的“洪迪厄斯”号邮轮汉坦病毒疫情相关通报显示，目前船上已出现7个病例，根据现有信息和以往对病毒的了解，公众面临的总体风险较低。\n\n世卫组织4日发布的最新通报说，该机构2日接到“洪迪厄斯”号上有乘客发生严重急性呼吸道疾病并出现死亡病例的报告，截至4日已报告7个病例，包括2个经实验室确诊的汉坦病毒感染病例和5个疑似病例，其中3人死亡，1人病情危重，另外3人症状轻微。所有患者的发病时间介于4月6日至28日之间，症状表现为发热、胃肠道不适等，甚至迅速发展为肺炎、急性呼吸窘迫综合征和休克。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676453618.shtml",
+      "published": "Tue, 05 May 2026 04:22:05 GMT"
     },
     {
       "source": "同花顺",
-      "title": "东吴证券：给予禾迈股份买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lN01yUTVERnI5ODFzVU5XM2Rod2l2aG40dUVEZGJlaF8yNHQ3RXY4WVZiU3pDOVd5QzlCNDJTd19VT1NIUWZCUWdFUjlQN3J6LXg3OVh2cUNXdFZabzBrc0R3?oc=5\" target=\"_blank\">东吴证券：给予禾迈股份买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lN01yUTVERnI5ODFzVU5XM2Rod2l2aG40dUVEZGJlaF8yNHQ3RXY4WVZiU3pDOVd5QzlCNDJTd19VT1NIUWZCUWdFUjlQN3J6LXg3OVh2cUNXdFZabzBrc0R3?oc=5",
-      "published": "Tue, 05 May 2026 03:36:30 GMT"
+      "title": "长和在港交所公告称，和记拥有的Vodafonethree 49%股份将按代价金额43亿英镑予以注销",
+      "summary": "长和在港交所公告称，和记拥有的Vodafonethree 49%股份将按代价金额43亿英镑予以注销。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453603.shtml",
+      "published": "Tue, 05 May 2026 04:13:47 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中银证券：给予科达利增持评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zS1J3MWJhc1RiZ0NFYTh5R1VtOUdtZUNXb3F2OEZlclZ0aS1WQ0tERHlGSVRyandPN3NKY1ZIMVVDOS1WNGJLcjNuVnNiSDc1QVRNXzdNaUtOckUzOV9zU0FB?oc=5\" target=\"_blank\">中银证券：给予科达利增持评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zS1J3MWJhc1RiZ0NFYTh5R1VtOUdtZUNXb3F2OEZlclZ0aS1WQ0tERHlGSVRyandPN3NKY1ZIMVVDOS1WNGJLcjNuVnNiSDc1QVRNXzdNaUtOckUzOV9zU0FB?oc=5",
-      "published": "Tue, 05 May 2026 03:01:14 GMT"
+      "title": "五一假期全国铁路累计发送旅客超1亿人次",
+      "summary": "记者从中国国家铁路集团有限公司获悉，5月4日，全国铁路发送旅客2038.3万人次，4月29日五一假期运输启动以来全国铁路累计发送旅客1.17亿人次，运输安全平稳有序。5月5日，铁路返程客流继续攀升，全国铁路预计发送旅客2300万人次，计划加开旅客列车2225列。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676453592.shtml",
+      "published": "Tue, 05 May 2026 04:11:07 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中银证券：给予星源材质增持评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wd0xfZTlSemR2N3lsSUN0YmZLdEV0eUdlU2FCeUVjNFN2MFpIaEFRa2liWXMycGhQSXVBWmdqalJIeWZ4Q3FrR3NNZl9KMGZsalVqOXRfeUtiU2U5Z1JvYjRB?oc=5\" target=\"_blank\">中银证券：给予星源材质增持评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wd0xfZTlSemR2N3lsSUN0YmZLdEV0eUdlU2FCeUVjNFN2MFpIaEFRa2liWXMycGhQSXVBWmdqalJIeWZ4Q3FrR3NNZl9KMGZsalVqOXRfeUtiU2U5Z1JvYjRB?oc=5",
-      "published": "Tue, 05 May 2026 03:01:14 GMT"
+      "title": "联合国结束从土耳其进入叙利亚的跨境人道主义行动",
+      "summary": "联合国秘书长发言人迪雅里克4日说，随着边境口岸重新向商业运输开放以及通过常规路线运送物资的状况得到改善，联合国已结束从土耳其进入叙利亚的跨境人道主义行动。 迪雅里克在例行记者会上说，自跨境人道主义行动开始以来，联合国成功调动超过6.5万辆卡车运送关键援助物资跨境运输，平均每年向125万叙利亚人提供援助。就行动规模、协调复杂性以及在叙境内运输面临的挑战而言，这是规模最大、最为复杂的人道主义供应链之一。 迪雅里克表示，叙利亚对外贸易关系逐步恢复正常，扩大了通过常规商业渠道运送人道主义物资的机会。这一变化反映了人道主义援助交付方式的转变。不过，叙利亚的人道主义需求依然十分巨大，目前超过1300万人需要粮食援助，1200万人需要清洁水源，另有近1300万人需要医疗卫生方面的支持。 联合国安理会2014年7月通过决议，授权联合国人道主义机构及其执行伙伴可跨越边界线和冲突线，向叙利亚人民提供紧急人道主义救援。安理会随后多次延长这一授权。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676453569.shtml",
+      "published": "Tue, 05 May 2026 04:06:30 GMT"
     },
     {
       "source": "同花顺",
-      "title": "东吴证券：给予箭牌家居增持评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZekpRa3pSZUUwVVdiR2kwZUgzV01RNHZocFA2RkhmVFpEQ0hkUE5RdnZlczBTc211VFNLOWtrLXdmckd4X01MMC01clJaRGVRb2F6YmlKTjdVTS1iNmQyNmdR?oc=5\" target=\"_blank\">东吴证券：给予箭牌家居增持评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZekpRa3pSZUUwVVdiR2kwZUgzV01RNHZocFA2RkhmVFpEQ0hkUE5RdnZlczBTc211VFNLOWtrLXdmckd4X01MMC01clJaRGVRb2F6YmlKTjdVTS1iNmQyNmdR?oc=5",
-      "published": "Tue, 05 May 2026 02:16:04 GMT"
+      "title": "港股午评：恒生指数跌1.16%，恒生科技指数跌1.83%",
+      "summary": "港股午间收盘，恒生指数跌1.16%，恒生科技指数跌1.83%。板块方面，工业集团企业、半导体产品与设备板块涨幅靠前；通信设备、汽车板块跌幅靠前。个股方面，天星医疗涨132.49%，量化派涨9.35%，怡俊集团控股涨8.4%，华勤技术涨8.2%，粤港湾控股涨7.81%；群核科技跌7.19%，轻松健康跌7.05%，瑞浦兰钧跌6.42%，五一视界跌6.25%，赛力斯跌6.17%。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453542.shtml",
+      "published": "Tue, 05 May 2026 04:01:21 GMT"
     },
     {
       "source": "同花顺",
-      "title": "东吴证券：给予广脉科技买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zTTFfOUkzRVIyTGJUV1Ayc0dGQkVGZnhjUmNaTEJ0eEpXV3dJbC16RGFHNVlza0twQWVIWXN0YWRjN0MzZTM3UXM2Vkp6RWhnRmxDR1RuS25maGhqNHNfY1lR?oc=5\" target=\"_blank\">东吴证券：给予广脉科技买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zTTFfOUkzRVIyTGJUV1Ayc0dGQkVGZnhjUmNaTEJ0eEpXV3dJbC16RGFHNVlza0twQWVIWXN0YWRjN0MzZTM3UXM2Vkp6RWhnRmxDR1RuS25maGhqNHNfY1lR?oc=5",
-      "published": "Tue, 05 May 2026 02:26:08 GMT"
+      "title": "2026年五一档观影人次突破1891万 超过去年",
+      "summary": "据灯塔专业版，截至5月4日11时40分，2026年五一档总观影人次突破1891万，已超过去年五一档最终观影人次成绩（1890.85万）。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453533.shtml",
+      "published": "Tue, 05 May 2026 03:57:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苏丹决定召回驻埃塞俄比亚大使",
+      "summary": "苏丹外交部5日凌晨发表声明说，苏丹决定召回本国驻埃塞俄比亚大使，并已做好与埃塞俄比亚公开对抗的准备。\n\n苏丹外交部长穆希丁·萨利姆在声明中说，4日袭击苏丹设施的无人机自埃塞俄比亚巴赫达尔机场起飞，苏丹有权以适当方式回应这一“侵略”。“我们无意对任何国家发动侵略，但对来犯之举必将予以回击。”(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676453530.shtml",
+      "published": "Tue, 05 May 2026 03:55:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英特尔美股夜盘涨超3%",
+      "summary": "英特尔美股夜盘涨超3%，有报道称苹果正考虑与英特尔和三星合作，为其设备制造处理器。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453515.shtml",
+      "published": "Tue, 05 May 2026 03:49:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美军称在加勒比海打死两名毒贩",
+      "summary": "美军南方司令部4日说，美军当日在加勒比海对一艘由恐怖组织运营的船只进行了打击，两名毒贩被打死。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676453514.shtml",
+      "published": "Tue, 05 May 2026 03:49:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩国通报该国霍尔木兹海峡起火船只最新情况",
+      "summary": "当地时间5月5日上午，据韩国外交部消息，此前一日在霍尔木兹海峡附近爆炸起火的韩国船只，经确认所有24名船员无人员伤亡，船只已经完成灭火，但相关船只能否继续正常航行仍不清楚，将在停靠临近港口后进行检查以及修理。韩国外交部表示，事故具体原因预计在停靠后检查船只过程中查清。据了解，这艘船只由韩国海运企业HMM（原现代商船）运营。HMM方面表示，爆炸声传出后，机舱左舷起火，船员随即释放二氧化碳展开灭火作业，持续约4小时。HMM方面表示，尚无法确认是遭受外部袭击，还是船舶内部问题引发爆炸。HMM计划调派拖船，将受损船舶转移至附近的迪拜港，相关作业预计需耗时数日。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676453508.shtml",
+      "published": "Tue, 05 May 2026 03:47:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "比特币升破81000美元，日内涨1.46%",
+      "summary": "比特币升破81000美元，日内涨1.46%。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453488.shtml",
+      "published": "Tue, 05 May 2026 03:39:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ST华谊0.06%股权司法拍卖竞拍持续 出价已较二级市场溢价超5%",
+      "summary": "记者记者从京东资产平台获悉，在今日王忠磊持有的ST华谊180万股（约占公司总股本的0.06%）无限售流通股的司法拍卖中，目前竞拍最高出价345.06万元，折合每股价格约1.92元，较二级市场现价（4月30日收盘价 1.82元/股）溢价超过5%，目前竞拍仍在进行中。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260505/c676453480.shtml",
+      "published": "Tue, 05 May 2026 03:36:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "印度尼西亚央行表示，将优化外汇市场干预措施",
+      "summary": "印度尼西亚央行表示，将优化外汇市场干预措施。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453443.shtml",
+      "published": "Tue, 05 May 2026 03:30:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "业内人士：没有了精神航空，美国普通家庭可能更难买得起机票",
+      "summary": "业内观察人士预计，美国机票票价上涨已成定局。Spirit Airlines精神航空虽然宣布倒闭，但其增长及盈利能力，一度促使大型航司开发自己的基础经济舱产品，并加快了降价步伐。美国交通部监察长办公室（Office of Inspector General）在2024年的一份研究报告中发现，当包括Spirit、Frontier Airlines和Allegiant在内的廉价航司开始执飞新航线时，大型航空公司会相应下调最低档票价。 航空咨询公司Atmosphere Research Group创始人Henry Harteveldt表示，Spirit的策略让更多原本无力负担机票的普通大众也能乘飞机出行。他指出，没有了Spirit，时薪劳动者和普通家庭可能更难买得起机票。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260505/c676453416.shtml",
+      "published": "Tue, 05 May 2026 03:21:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "高通前高管将加入英特尔，领导客户端计算与物理AI事业部",
+      "summary": "5月5日，英特尔宣布，英特尔公司宣布两项重要领导层任命。Alex Katouzian将于5月加入英特尔，担任执行副总裁兼客户端计算与物理AI事业部总经理。Katouzian此前任职于高通技术公司，担任执行副总裁兼手机、计算和XR事业群总经理。英特尔同时宣布，正式任命此前担任代理首席技术官的Pushkar Ranade出任首席技术官。",
+      "link": "https://news.10jqka.com.cn/20260505/c676453411.shtml",
+      "published": "Tue, 05 May 2026 03:19:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴西小飞机撞居民楼 3人死亡",
+      "summary": "巴西米纳斯吉拉斯州医院基金会4日晚证实，当天中午在该州首府贝洛奥里藏特市发生的小飞机撞楼事故中的一名伤者最终不治身亡，致使该事故死亡人数上升至3人。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260505/c676453383.shtml",
+      "published": "Tue, 05 May 2026 03:09:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苹果据悉正评估在美国用英特尔和三星来生产其主要设备芯片",
+      "summary": "苹果据悉正评估在美国用英特尔和三星来生产其主要设备芯片。(财联社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676453330.shtml",
+      "published": "Tue, 05 May 2026 02:59:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "连续45年下降 日本15岁以下儿童人数创新低",
+      "summary": "日本总务省4日公布的数据显示，截至4月1日，日本未满15周岁的儿童人数为1329万，较去年减少35万，连续45年下降；当前日本15岁以下儿童占总人口比例为10.8%，较去年下降0.3个百分点；相关儿童人数及其所占人口比例均创1950年有相关统计数据以来新低。据日本共同社报道，日本15岁以下儿童人数在1954年达到2989万峰值后开始减少，迄今已缩减过半。1947年至1949年第一次婴儿潮时期过后的1950年，15岁以下儿童数量占总人口比例一度高达35.4%，随后占比整体呈下降趋势。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676453314.shtml",
+      "published": "Tue, 05 May 2026 02:58:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "湖南浏阳烟花厂爆炸事故现场最新情况：正进行第二轮排查",
+      "summary": "【湖南浏阳烟花厂爆炸事故现场最新情况：正进行第二轮排查】财联社5月5日电，昨天下午，湖南长沙浏阳市华盛烟花制造燃放有限公司车间发生爆炸。记者从事故现场指挥部了解到，截至目前，事故已造成21人遇难，61人受伤。目前，现场救援指挥部正组织开展第二轮排查。公安机关已对涉事企业负责人采取控制措施，事故原因调查、善后处置等工作正在有序进行。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2362818?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:47:21 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，澳洲央行表示，一如预期，中东局势进展正对通胀产生影响。燃料价格上涨加剧通胀，且有迹象表明，这可能会对更广泛的商品和服务价格产生第二轮效...",
+      "summary": "财联社5月5日电，澳洲央行表示，一如预期，中东局势进展正对通胀产生影响。燃料价格上涨加剧通胀，且有迹象表明，这可能会对更广泛的商品和服务价格产生第二轮效应。",
+      "link": "https://api3.cls.cn/share/article/2362817?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:40:27 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "80次出价成交较二级市场溢价超9% ST华谊0.06%股权由横琴天晟拍得",
+      "summary": "【80次出价成交较二级市场溢价超9% ST华谊0.06%股权由横琴天晟拍得】财联社5月5日电，财联社记者从京东资产交易平台获悉，今日，在王忠磊持有的ST华谊180万股（约占公司总股本的0.06%）无限售流通股的司法拍卖中，中国中信旗下的珠海横琴天晟股权投资合伙企业（有限合伙）以358.26万元的最高应价拍得，折合每股价格约1.99元。根据ST华谊最新收盘价1.82元/股测算，此次珠海横琴天晟拍得ST华谊股票的价格较二级市场溢价超9%。\n\n记者注意到，竞价期间，拍卖氛围热烈，多次出现截拍前10秒内的出价，最终经80轮竞价、56次延时后方竞拍成功。此外，另有王忠磊持有的ST华谊950万股（约占公司总股本的0.34%）无限售流通股将于5月5日-9日分5次在京东资产平台进行拍卖。（财联社记者 方彦博）",
+      "link": "https://api3.cls.cn/share/article/2362815?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:35:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，澳洲联储预计2026年第二季度GDP增速为1.9%，2027年第二季度为1.3%，2028年第二季度为1.4%。",
+      "summary": "财联社5月5日电，澳洲联储预计2026年第二季度GDP增速为1.9%，2027年第二季度为1.3%，2028年第二季度为1.4%。",
+      "link": "https://api3.cls.cn/share/article/2362816?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:34:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，澳洲联储预计第二季度CPI为4.8%，第四季度为4.0%。",
+      "summary": "财联社5月5日电，澳洲联储预计第二季度CPI为4.8%，第四季度为4.0%。",
+      "link": "https://api3.cls.cn/share/article/2362814?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:33:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，澳洲央行宣布将指标利率从4.10%上调至4.35%，预估为4.35%。",
+      "summary": "财联社5月5日电，澳洲央行宣布将指标利率从4.10%上调至4.35%，预估为4.35%。",
+      "link": "https://api3.cls.cn/share/article/2362813?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:30:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，印尼第一季度GDP同比增长5.6%，预估为增长5.3%，环比下降0.8%，预估下降1.0%。",
+      "summary": "财联社5月5日电，印尼第一季度GDP同比增长5.6%，预估为增长5.3%，环比下降0.8%，预估下降1.0%。",
+      "link": "https://api3.cls.cn/share/article/2362810?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:15:35 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，长和在港交所公告称，和记拥有的Vodafonethree 49%股份将按代价金额43亿英镑予以注销。",
+      "summary": "财联社5月5日电，长和在港交所公告称，和记拥有的Vodafonethree 49%股份将按代价金额43亿英镑予以注销。",
+      "link": "https://api3.cls.cn/share/article/2362809?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:13:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，汇丰表示，是否恢复股票回购，将取决于正常的季度回购考量与流程。",
+      "summary": "财联社5月5日电，汇丰表示，是否恢复股票回购，将取决于正常的季度回购考量与流程。",
+      "link": "https://api3.cls.cn/share/article/2362808?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:11:29 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "五一假期全国铁路累计发送旅客超1亿人次",
+      "summary": "【五一假期全国铁路累计发送旅客超1亿人次】财联社5月5日电，记者从中国国家铁路集团有限公司获悉，5月4日，全国铁路发送旅客2038.3万人次，4月29日五一假期运输启动以来全国铁路累计发送旅客1.17亿人次，运输安全平稳有序。5月5日，铁路返程客流继续攀升，全国铁路预计发送旅客2300万人次，计划加开旅客列车2225列。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2362807?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:10:19 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，汇丰表示，目前预计2026年银行业务净利息收入约460亿美元。",
+      "summary": "财联社5月5日电，汇丰表示，目前预计2026年银行业务净利息收入约460亿美元。",
+      "link": "https://api3.cls.cn/share/article/2362806?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:08:25 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "瑞银：维持长飞光纤光缆买入评级",
+      "summary": "【瑞银：维持长飞光纤光缆买入评级】财联社5月5日电，瑞银就长飞光纤光缆(06869.HK)发布研报称，维持盈利预测及目标价290港元不变; 维持“买入”评级。长飞光纤光缆首季业绩逊市场预期，期内收入37亿元人民币，年增28%; 毛利为15亿元，年增90%; 净利润为4.95亿元，同比增长226%。该行预期，随着产品组合持续优化，及合约续约逐步反映光纤价格上升，未来数季毛利率将继续改善。",
+      "link": "https://api3.cls.cn/share/article/2362805?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:07:25 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电， 汇丰控股公布最新财报显示，第一季度除税后利润73.94亿美元，去年同期为75.7亿美元。",
+      "summary": "财联社5月5日电， 汇丰控股公布最新财报显示，第一季度除税后利润73.94亿美元，去年同期为75.7亿美元。",
+      "link": "https://api3.cls.cn/share/article/2362804?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:04:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "摩根士丹利：降中国中免目标价至77港元",
+      "summary": "【摩根士丹利：降中国中免目标价至77港元】财联社5月5日电，摩根士丹利就中国中免(01880.HK)发布研报称，考虑到近期市场趋势及该公司首季业绩，将2026至2027年每股盈利预测下调6%至7%，并将收入预测各下调13%；H股目标价由89 港元下调至77港元，评级“与大市同步”。",
+      "link": "https://api3.cls.cn/share/article/2362803?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:03:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "港股午评：恒指跌超1% 芯片股及锂电池概念逆势走强",
+      "summary": "【港股午评：恒指跌超1% 芯片股及锂电池概念逆势走强】财联社5月5日电，港股今日早盘回落走低，截至午间收盘，恒指跌1.16%，恒生科技指数跌1.83%，恒指大市成交额收窄至645.4亿港元。盘面上，存储概念、半导体、锂电池、医疗设备股上涨，水务、电讯设备股回暖拉升；旅游、稀土概念、体育用品股回调，电力设备、商业航天、汽车股走势疲软。个股方面，天星医疗首日上市涨超132%，宁德时代涨2.6%，百度涨1.8%；李宁、地平线机器人、零跑汽车均跌超4%，老铺黄金、安踏体育跌近4%。小米集团跌超3%，中芯国际跌超2%。",
+      "link": "https://api3.cls.cn/share/article/2362802?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 04:01:10 GMT"
     },
     {
       "source": "财联社",
@@ -208,144 +348,67 @@
       "published": "Tue, 05 May 2026 03:30:32 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月5日电，印度尼西亚央行表示，将优化外汇市场干预措施。",
-      "summary": "财联社5月5日电，印度尼西亚央行表示，将优化外汇市场干预措施。",
-      "link": "https://api3.cls.cn/share/article/2362794?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 03:26:10 GMT"
+      "source": "华尔街见闻",
+      "title": "决战企业级API：Anthropic ARR首超OpenAI，大模型下半场正被“B端逻辑”改写",
+      "summary": "<h2 style=\"text-align: left;\">一、发生了什么？Anthropic将成为准万亿级别AI基础设施</h2><p style=\"text-align: left;\">据TechCrunch连续两天独家报道，Anthropic正以约9000亿美元估值发起一轮高达500亿美元的融资，投资人被要求在48小时内提交额度申请，整轮交易预计两周内关闭。有一家机构投资者准备单独押注50亿美元，结果连Anthropic CFO Krishna Rao的面都还没约上。</p><p style=\"text-align: left;\">这不是Anthropic主动要钱。是投资人拿着支票本跑上门，还不止一家。TechCrunch的表述是：公司“已收到多份主动报价，愿意按8500亿到9000亿美元估值、约500亿美元规模向其注资”。</p><p style=\"text-align: left;\">三个月前，Anthropic上一轮估值才3800亿美元。三个月，估值增长了140%。至此，Anthropic已经是准万亿级别的AI基础设施资产。</p><p style=\"text-align:",
+      "link": "https://wallstreetcn.com/member/articles/3771535",
+      "published": "Tue, 05 May 2026 04:25:55 GMT"
     },
     {
-      "source": "财联社",
-      "title": "高通前高管将加入英特尔 领导客户端计算与物理AI事业部",
-      "summary": "【高通前高管将加入英特尔 领导客户端计算与物理AI事业部】财联社5月5日电，英特尔5月5日宣布，英特尔公司宣布两项重要领导层任命。Alex Katouzian将于5月加入英特尔，担任执行副总裁兼客户端计算与物理AI事业部总经理。Katouzian此前任职于高通技术公司，担任执行副总裁兼手机、计算和XR事业群总经理。英特尔同时宣布，正式任命此前担任代理首席技术官的Pushkar Ranade出任首席技术官。作为首席技术官，他将推进公司技术战略，主导专项技术项目，并推动量子计算、神经拟态计算、光子学及新型材料等关键新兴领域的发展。",
-      "link": "https://api3.cls.cn/share/article/2362793?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 03:19:44 GMT"
+      "source": "华尔街见闻",
+      "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
+      "summary": "<p>苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。</p>\n<p>5月5日，据彭博报道，苹果正就委托英特尔和三星生产其主要设备芯片进行了初步探讨。同时，苹果的高管也曾到访三星正在得克萨斯州建设的一家先进芯片工厂。</p>\n<p>知情人士向媒体透露，目前双方谈判均处于非常早期阶段，尚未产生任何订单。苹果对使用非台积电技术存有顾虑，最终可能不会真的跟其他伙伴合作。苹果、英特尔、三星和台积电的发言人均未置评。</p>\n<h2><strong>为何是英特尔和三星</strong></h2>\n<p>苹果历来偏好为每个核心零部件保留至少两家供应商，以在议价和供应保障上保持主动权——屏幕供应商的多元化布局即是一例。</p>\n<p>英特尔方面，双方有超过十年的合作历史。英特尔曾于2006年至2020年间为Mac供应处理器，直至苹果转向自研芯片。对于现任CEO陈立武而言，吸引苹果成为代工客户将是其重振英特尔晶圆代工业务的重大突破。</p>\n<p>此外，部分苹果高管认为，与英特尔合作还有政治层面的考量——此举可能有助于改善苹果与特朗普政府的关系。白宫去年促成了对英特尔的投资，并将其视为美国半导体产",
+      "link": "https://wallstreetcn.com/articles/3771570",
+      "published": "Tue, 05 May 2026 03:32:48 GMT"
     },
     {
-      "source": "财联社",
-      "title": "连续45年下降 日本15岁以下儿童人数创新低",
-      "summary": "【连续45年下降 日本15岁以下儿童人数创新低】财联社5月5日电，日本总务省4日公布的数据显示，截至4月1日，日本未满15周岁的儿童人数为1329万，较去年减少35万，连续45年下降；当前日本15岁以下儿童占总人口比例为10.8%，较去年下降0.3个百分点；相关儿童人数及其所占人口比例均创1950年有相关统计数据以来新低。",
-      "link": "https://api3.cls.cn/share/article/2362792?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:59:15 GMT"
+      "source": "华尔街见闻",
+      "title": "从过度宽松到边际收敛：5月流动性为何会收紧？",
+      "summary": "<p style=\"text-align: left;\">今年Q1以来，国内流动性环境持续处于显著宽松状态：人民银行在1-2月份通过中长期工具大规模净投放流动性，累计向市场净注入近2万亿元的中长期资金，投放量创下自2016年以来的新高；叠加信贷需求疲弱导致资金在银行间市场淤积，以及财政前置发力和出口结汇增加，银行体系超额准备金显著上升，资金面持续宽松。利率持续下行，7天回购利率（DR007）多次下探至政策利率附近甚至短暂跌破，并触及近三年的低点，表明资金供给明显超过需求。</p><p style=\"text-align: left;\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/2c89ac1b-539a-49b7-bb67-e22fb96f36bb.png\" title=\"\" /></p><p style=\"text-align: left;\">进入3、4月后，人民银行操作出现边际变化，一方面通过MLF、3个月和6个月期逆回购等工具逐步回笼中长期流动性，3、4月累计净回笼规模约8000亿元；另一方面，在短端",
+      "link": "https://wallstreetcn.com/member/articles/3771346",
+      "published": "Tue, 05 May 2026 03:18:44 GMT"
     },
     {
-      "source": "财联社",
-      "title": "苹果据悉正考虑与英特尔和三星合作 为其设备生产处理器",
-      "summary": "【苹果据悉正考虑与英特尔和三星合作 为其设备生产处理器】财联社5月5日电，苹果已与英特尔公司和三星电子公司就为其设备生产主处理器一事进行了探索性讨论。据知情人士透露，苹果已与英特尔就使用该公司的芯片代工服务进行了初步洽谈。同时，苹果的高管也曾到访三星正在得克萨斯州建设的一家先进芯片工厂。上述知情人士表示，这两项努力迄今都还没有产生任何订单，与这两家供应商的合作也仍处于非常初期的阶段。知情人士还补充说，苹果对于使用台积电以外的技术有所顾虑，最终可能不会真的跟其他伙伴合作。苹果、英特尔、三星和台积电的发言人均未置评。",
-      "link": "https://api3.cls.cn/share/article/2362791?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:57:21 GMT"
+      "source": "华尔街见闻",
+      "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+      "summary": "<p style=\"text-align: left;\">同一个趋势，两家公司，在高盛评价体系里的命运却截然相反。</p>\n<p style=\"text-align: left;\">据追风交易台消息，5月4日，高盛在同一天发布了针对寒武纪和浪潮信息的两份研究报告。两份报告的核心判断指向同一个方向<strong>：国产AI芯片正在中国AI服务器市场快速扩大份额，相较于英伟达等芯片大厂的竞争力正在快速提升。</strong></p>\n<p style=\"text-align: left;\">但这个趋势对两家公司的影响截然不同。</p>\n<p style=\"text-align: left;\">对寒武纪来说，这是直接的业务增量——它就是国产AI芯片的制造商。对浪潮来说，情况更复杂：它是AI服务器的组装商，芯片从贵的换成（国产）便宜的，服务器的售价随之下降，利润空间被压缩。</p>\n<p style=\"text-align: left;\">高盛的操作由此而来：上调寒武纪目标价至2406元，维持买入；将浪潮信息从买入下调至中性，目标价从86.5元降至76.5元。</p>\n<h2 style=\"t",
+      "link": "https://wallstreetcn.com/articles/3771568",
+      "published": "Tue, 05 May 2026 02:59:43 GMT"
     },
     {
-      "source": "财联社",
-      "title": "伊朗战事致迪拜机场3月客运量锐减66%",
-      "summary": "【伊朗战事致迪拜机场3月客运量锐减66%】财联社5月5日电，迪拜媒体办公室4日在声明中说，迪拜国际机场3月客运量降至250万人次，同比降幅达66%；今年整个第一季度客运量1860万人次，较去年同期的2340万人次下降21%。",
-      "link": "https://api3.cls.cn/share/article/2362790?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:55:30 GMT"
+      "source": "华尔街见闻",
+      "title": "马斯克“秘密求和”被拒，投资Cerebras、CoreWeave等关联公司，OpenAI总裁300亿财富曝光",
+      "summary": "<p style=\"text-align: left;\">美国当地时间5月4日，马斯克诉OpenAI案第二周庭审在美国加州奥克兰联邦法院开庭。OpenAI联合创始人、总裁格雷格·布罗克曼走上证人席，披露了一系列此前从未公开的关键信息。</p>\n<p style=\"text-align: justify;\">与此同时，一段开庭前夕马斯克向布罗克曼发出的秘密短信也随之曝光，马斯克试图求和，但未得到明确答复后在短信中说：“这周结束前，你和山姆·奥特曼将成为美国最遭人恨的两个人。”</p>\n<p style=\"text-align: justify;\">布罗克曼是本案三位核心当事人中相对低调的一位，这位曾以自己的公寓作为OpenAI第一间办公室的联合创始人，在周一的证人席上成为了全场焦点。</p>\n<p style=\"text-align: justify;\">在马斯克首席律师史蒂文·莫洛（Steven Molo）长达数小时的追问下，布罗克曼披露了其财富数字、早年日记内容以及内部利益关联。</p>\n<p style=\"text-align: justify;\">这其中包括：布罗克曼在OpenA",
+      "link": "https://wallstreetcn.com/articles/3771569",
+      "published": "Tue, 05 May 2026 02:54:11 GMT"
     },
     {
-      "source": "财联社",
-      "title": "俄罗斯举行卫国战争胜利日阅兵式彩排",
-      "summary": "【俄罗斯举行卫国战争胜利日阅兵式彩排】财联社5月5日电，俄罗斯4日在首都莫斯科举行卫国战争胜利日阅兵式彩排，为即将到来的胜利日阅兵做准备。5月9日“卫国战争胜利日”是俄罗斯最隆重的节日之一。克里姆林宫4月底说，5月9日仍将举行红场阅兵，但规模缩减；出于安全考虑，不会展示军事装备。 (新华社)",
-      "link": "https://api3.cls.cn/share/article/2362789?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:53:40 GMT"
+      "source": "第一财经",
+      "title": "极地邮轮上3人死亡后乘客无法撤离，专家分析病毒来源",
+      "summary": "<figure><img alt=\"极地邮轮上3人死亡后乘客无法撤离，专家分析病毒来源\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/60c0593e-2956-42c6-947e-a48f5679a8b3.jpg\" /></figure><p>该邮轮正在考虑其他撤离乘客的方案，包括继续航行至拉斯帕尔马斯或特内里费岛，作为下船中转地点，以便进行进一步的医疗筛查和后续处理工作。</p><p>一艘在大西洋航行的极地探险奢华邮轮近日被曝发生聚集性疫情。根据世界卫生组织5月4日公布的最新数据，截至5月4日，这艘“洪迪厄斯”号（Hondius）邮轮上已确诊7例汉坦病毒感染病例，2例为实验室确诊病例，还有5例为疑似病例。目前，船上已有3例死亡病例、1例危重症患者和3例轻症患者。</p><p>首例疑似感染汉坦病毒的患者已于4月11日在船上死亡，在死亡后的第13天，这名死者的遗体才由其妻子陪同护送，在圣赫勒拿岛撤离邮轮返程回国，死者妻子返程后不久死亡，并确认感染汉坦病毒；5月2日，船上又有一名乘客死亡，目前该死者的遗体仍未被允许撤",
+      "link": "https://www.yicai.com/news/103164477.html",
+      "published": "Tue, 05 May 2026 04:29:07 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月5日电，WTI原油期货价格跌2.13%，报104.154美元/桶；布伦特原油期货价格跌1.20%，报113.065美元/桶。",
-      "summary": "财联社5月5日电，WTI原油期货价格跌2.13%，报104.154美元/桶；布伦特原油期货价格跌1.20%，报113.065美元/桶。",
-      "link": "https://api3.cls.cn/share/article/2362788?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:47:00 GMT"
+      "source": "第一财经",
+      "title": "a2奶粉因检出毒素在美国召回，公司回应",
+      "summary": "<figure><img alt=\"a2奶粉因检出毒素在美国召回，公司回应\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/230bcef0-4d5b-4214-bca4-c0af3acd3597.jpg\" /></figure><p>蜡样芽孢杆菌毒素召回风波仍在持续。</p><p>新西兰乳企a2牛奶公司卷入蜡样芽孢杆菌毒素召回风波。</p><p>近日，中国海关总署发布消费提示，称新西兰a2牛奶公司因产品中检出蜡样芽孢杆菌呕吐毒素，已在美国市场自愿召回3个批次、共计6.3万罐0-12个月的婴幼儿配方奶粉。相关产品未进入中国市场。</p><p>据美国食品药品管理局（FDA）官网信息，此次召回系a2公司自行检测发现上述毒素。该毒素无法通过热水冲泡去除，目前尚未接到相关疾病报告。</p><p>a2牛奶公司对记者回应称，此次为预防性主动召回，仅涉及美国标签产品，且仅在美国销售。该产品的配方及成分与在澳大利亚、新西兰及销往中国的婴幼儿配方奶粉不同，相关产品已于2025年停产。公司回应称，中国市场在售的a2旗下各品牌婴幼儿奶粉均",
+      "link": "https://www.yicai.com/news/103164469.html",
+      "published": "Tue, 05 May 2026 04:13:51 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月5日电，富通科技在港交所公告，公司股票已于今日10时32分起短暂停牌。",
-      "summary": "财联社5月5日电，富通科技在港交所公告，公司股票已于今日10时32分起短暂停牌。",
-      "link": "https://api3.cls.cn/share/article/2362787?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:46:01 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月5日电，惠誉评级公司表示，伊朗冲突加剧了亚太地区化工生产商之间的利润差距。",
-      "summary": "财联社5月5日电，惠誉评级公司表示，伊朗冲突加剧了亚太地区化工生产商之间的利润差距。",
-      "link": "https://api3.cls.cn/share/article/2362784?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:36:38 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国移动将推出AI-eSIM产品",
-      "summary": "【中国移动将推出AI-eSIM产品】财联社5月5日电，中国移动5月5日发布消息称，5月7日-9日，2026移动云大会将在苏州金鸡湖国际会议中心举办，届时将推出AI-eSIM产品。据介绍，该产品可以实时调度云端模型，让设备能自主思考、即时响应，可应用于AI玩具、智慧穿戴等终端。",
-      "link": "https://api3.cls.cn/share/article/2362783?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:33:03 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月5日电，据广汽丰田官微5日消息，广汽丰田4月销量54116台，上年同期销量60038台。",
-      "summary": "财联社5月5日电，据广汽丰田官微5日消息，广汽丰田4月销量54116台，上年同期销量60038台。",
-      "link": "https://api3.cls.cn/share/article/2362782?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:29:02 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "港股芯片概念股今日继续走强 芯成科技大涨超90%",
-      "summary": "【港股芯片概念股今日继续走强 芯成科技大涨超90%】财联社5月5日电，港股芯片概念股延续昨日强势表现，芯成科技大涨超90%，澜起科技涨超6%，晶门半导体涨，芯智控涨超3%。<br /><img src=\"https://image.cls.cn/images/20260505/8o00281W4L_1554x1385.png\" />",
-      "link": "https://api3.cls.cn/share/article/2362779?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:11:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月5日电，印尼卢比兑美元盘初扩大跌幅，跌至纪录低位17,405。",
-      "summary": "财联社5月5日电，印尼卢比兑美元盘初扩大跌幅，跌至纪录低位17,405。",
-      "link": "https://api3.cls.cn/share/article/2362778?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:10:33 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月5日电，布伦特原油期货跌超1%至每桶113.27美元。",
-      "summary": "财联社5月5日电，布伦特原油期货跌超1%至每桶113.27美元。",
-      "link": "https://api3.cls.cn/share/article/2362777?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:08:23 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月5日电，印尼卢比兑美元盘初进一步下跌至17,390，创纪录新低。",
-      "summary": "财联社5月5日电，印尼卢比兑美元盘初进一步下跌至17,390，创纪录新低。",
-      "link": "https://api3.cls.cn/share/article/2362774?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 02:06:40 GMT"
-    },
-    {
-      "source": "中国证券报",
-      "title": "港股异动 | 东鹏饮料H股盘中涨超5% 一季度营收增长21.46% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdjU0ejlnb0h6OHlQYmRNUVpRd19Ec3l1SzNzczRTZnZ3VTRUY0duNExfS1h1NzVXdFJiS0JINTF0REZxZHlMSjE4cG8zZkpiRDNKSVpOLS1Pc243TC14NURmbTdVYkM0UUlhdjE2Q0FOWWxwVnB2cQ?oc=5\" target=\"_blank\">港股异动 | 东鹏饮料H股盘中涨超5% 一季度营收增长21.46%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJdjU0ejlnb0h6OHlQYmRNUVpRd19Ec3l1SzNzczRTZnZ3VTRUY0duNExfS1h1NzVXdFJiS0JINTF0REZxZHlMSjE4cG8zZkpiRDNKSVpOLS1Pc243TC14NURmbTdVYkM0UUlhdjE2Q0FOWWxwVnB2cQ?oc=5",
-      "published": "Tue, 05 May 2026 02:22:00 GMT"
-    },
-    {
-      "source": "中国证券报",
-      "title": "恒生科技指数跌2%，汽车股走弱 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2S2NKaHVCRDBfdmtqVVdTakJKR1hHeDNtQnNvb3ZwYjRzR0xCY3VMeE5SZEZlNE5iZ3F5blctUE5xUkZiQkRKb21Sa3hEM3hqQThESV92ZnoxMEVIMTh3bXFMbVNrZw?oc=5\" target=\"_blank\">恒生科技指数跌2%，汽车股走弱</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2S2NKaHVCRDBfdmtqVVdTakJKR1hHeDNtQnNvb3ZwYjRzR0xCY3VMeE5SZEZlNE5iZ3F5blctUE5xUkZiQkRKb21Sa3hEM3hqQThESV92ZnoxMEVIMTh3bXFMbVNrZw?oc=5",
-      "published": "Tue, 05 May 2026 02:36:07 GMT"
+      "source": "第一财经",
+      "title": "5月国内航线燃油费未“如约”上调，但全球停飞潮在蔓延",
+      "summary": "<figure><img alt=\"5月国内航线燃油费未“如约”上调，但全球停飞潮在蔓延\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/7b303c865227befc589b19e07377e413.jpg\" /></figure><p>全球前20大航司中的19家都宣布了削减5月航班计划，还有航司提高行李费。</p><p>每个月的5号是国内航线燃油附加费调整的窗口期，不过截至今日记者发稿，国内航司并没有发布燃油费调整的通知。</p><p>这意味着，5月的国内航线燃油附加费仍会执行4月5日开始的标准，即800公里(含)以下航段收取60元，800公里以上航段收取120元。</p><p>4月份，国内航线燃油附加费曾大幅上调，与3月的征收标准相比，涨幅达5倍，不过尚未涨到历史最高水平。</p><p><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/05/9b2bc95923acb995e81d4347d3aba9f0.jpg\" /></p><p><strong>",
+      "link": "https://www.yicai.com/news/103164465.html",
+      "published": "Tue, 05 May 2026 03:59:34 GMT"
     },
     {
       "source": "行业研报",
-      "title": "中航证券：给予国泰海通买入评级_券商研报_数据解析 - 证券之星",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YbVB4bWk0ZjZYT0JFSHBYeVFua2VkU2tCZklfXzktUVR5NERjY0VwclY0VkFVOUZTUDZLV25KbU9iTzJpNi0wSTdMRzF2bDVETmgyZXNiSlp2X3E1M3htc2JR?oc=5\" target=\"_blank\">中航证券：给予国泰海通买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YbVB4bWk0ZjZYT0JFSHBYeVFua2VkU2tCZklfXzktUVR5NERjY0VwclY0VkFVOUZTUDZLV25KbU9iTzJpNi0wSTdMRzF2bDVETmgyZXNiSlp2X3E1M3htc2JR?oc=5",
-      "published": "Tue, 05 May 2026 02:10:33 GMT"
-    },
-    {
-      "source": "行业研报",
-      "title": "东吴证券：给予箭牌家居增持评级_券商研报_数据解析 - 证券之星",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vaUxZaFFuLTdZcUVwQlpVMnQ1dy1FZE9vcHFBdXJQcDNVRmlwcjZNejRZYWNjMHZnV19DZ25OVFlad2ZHaDl5WW1QVEJWaFFNSi1yd1liNXJ2Ri03R0t1WDNR?oc=5\" target=\"_blank\">东吴证券：给予箭牌家居增持评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vaUxZaFFuLTdZcUVwQlpVMnQ1dy1FZE9vcHFBdXJQcDNVRmlwcjZNejRZYWNjMHZnV19DZ25OVFlad2ZHaDl5WW1QVEJWaFFNSi1yd1liNXJ2Ri03R0t1WDNR?oc=5",
-      "published": "Tue, 05 May 2026 02:10:30 GMT"
-    },
-    {
-      "source": "行业研报",
-      "title": "东吴证券：给予广脉科技买入评级_券商研报_数据解析 - 证券之星",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBack5faTRqbDRxYjZGb3o0NDdVYTg2ZHlZUkc5bHlxLW0wbmVyZ21YbmJPb25kTUU1a2tSVEw0M1phbmdrdHBVSXJYNEZxQnFYNzFOMFlFbTVOZS1ySnM1aUJR?oc=5\" target=\"_blank\">东吴证券：给予广脉科技买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBack5faTRqbDRxYjZGb3o0NDdVYTg2ZHlZUkc5bHlxLW0wbmVyZ21YbmJPb25kTUU1a2tSVEw0M1phbmdrdHBVSXJYNEZxQnFYNzFOMFlFbTVOZS1ySnM1aUJR?oc=5",
-      "published": "Tue, 05 May 2026 02:15:15 GMT"
+      "title": "东海证券：给予招商银行买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0LVVFLXkya1I4WldIY1l5RkxQZFkzNFp3TTZZQkV6ZzlJOWJpTUh4d05zWnBwUlo4LXQ4VTRpMjBRQVNPLW82RmlIZGUtLXVYR0JCbV9zbVpZYTJOV01OX3l3?oc=5\" target=\"_blank\">东海证券：给予招商银行买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0LVVFLXkya1I4WldIY1l5RkxQZFkzNFp3TTZZQkV6ZzlJOWJpTUh4d05zWnBwUlo4LXQ4VTRpMjBRQVNPLW82RmlIZGUtLXVYR0JCbV9zbVpZYTJOV01OX3l3?oc=5",
+      "published": "Tue, 05 May 2026 03:55:16 GMT"
     }
   ]
 }
