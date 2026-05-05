@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-05",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14743,
+    "completion_tokens": 3517,
+    "total_tokens": 18260
+  },
+  "content_length": 1742,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"英国10年期国债收益率创近期新高\",\n      \"summary\": \"英国10年期国债收益率上涨14个基点至5.10%，创3月23日以来新高。此前英国30年期国债收益率已升至1998年以来最高水平。全球主要经济体利率持续上行，将压制A股高估值成长板块估值，尤其是科技和新能源方向。但短期实质影响有限，更多是情绪传导。看空信号。\",\n      \"reason\": \"全球利率上行影响A股估值中枢，属于宏观经济因素，优先级二。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"成长股\", \"科技板块\", \"新能源\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2363020\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"谷歌、xAI、微软同意接受AI安全审查\",\n      \"summary\": \"谷歌、xAI与微软同意接受美国对其新AI模型的安全审查。此举显示美国对AI监管趋严，可能延缓AI技术商用进程，对全球AI产业链情绪造成短期冲击。A股AI概念板块（如算力、大模型、应用）可能承压，但国内AI发展自主性较强，影响相对有限。看空信号。\",\n      \"reason\": \"美国AI监管政策动向影响A股AI板块情绪，属于行业动态，优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"科大讯飞\", \"中科曙光\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2363015\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"超四成2025级新股首年业绩承压\",\n      \"summary\": \"统计显示，52只2025年上市的新股在首年出现净利润下滑，占比超过四成。这可能引发市场对次新股基本面恶化的担忧，压低次新股板块估值，并对IPO定价体系产生负面影响。短期利空次新股、创业板和科创板。看空信号。\",\n      \"reason\": \"次新股业绩大面积下滑属于市场结构信号，影响市场情绪，优先级三。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"次新股\", \"创业板\", \"科创板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMifEFVX3lxTFBNOUtyVVc5OHp5aHVRekpuOFdJU1JpMkM4UndGM1BHa2RmYTFTN0UxVm9LNmZ1RzRXdm5XRDVfZUs2ck1Od09GS250WS1PSDhlcEc0eUlIZUlCV3BhdTk3aWZfeDhMRVhNVjBaOERmcmdsR3BnRzI0SjZER3U\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前消息以地缘冲突、外围市场震荡为主，但多数已在历史消息中重复，新增实质性影响A股的线索较少，仅筛选出3条边际信号。\"\n}"
+}
