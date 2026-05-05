@@ -3,67 +3,85 @@
   "hour": "07",
   "news": [
     {
-      "title": "AMD盘后涨超10%",
-      "summary": "AMD公布一季度财报后，美股盘后股价涨超10%，第二季度营收指引超预期，预计CPU收入增长超70%。全球科技股共振走强，纳指再创新高。A股科技主线有望延续，利好AI、算力、半导体等板块。做多信号。",
-      "reason": "AMD业绩超预期，带动全球科技股情绪，对A股科技板块有正面传导效应。",
-      "category": "行业动态",
+      "title": "中泰金工指调样预测",
+      "summary": "中泰证券金工团队发布2026年6月A股重点指数调样预测，涉及沪深300、中证500等主要指数成分股调整。调入调出样本将引发被动资金调仓，影响相关个股流动性和估值。对调入成分股构成短期利好，调出则承压。整体看，调样本身为中性事件，但需关注具体个股名单。影响板块包括沪深300、中证500成分股。",
+      "reason": "指数调样预测为机构研报，可提前布局成分股调整机会，属于中期影响因素。",
+      "category": "市场结构",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "半导体",
-        "科技ETF"
+        "沪深300",
+        "中证500",
+        "上证50"
       ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363186"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "锂资源供给紧张加剧",
-      "summary": "财联社研报指出，锂资源供给紧张加剧，下游高景气度延续，分析师看好二季度锂价上行。同时涤纶长丝行业盈利能力有望改善。利好锂矿、锂电相关板块。做多信号。",
-      "reason": "锂资源供需矛盾加剧，二季度锂价上涨预期增强，直接利好锂矿及锂电池产业链。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "锂矿",
-        "锂电池",
-        "新能源"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2360519"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84YmNaQ0w0a0gxdWxoeHV1a1NFSmJ0Tm1MV1hJQWJpckFzQ3NVVFRzMHhrMzVwaE9McXRGZzZpSjA1UzBxQjh3NHV0S0xHaVdxcUlSMkIwYkRkaUhQOFpzeVFXTWh6UzBUMy1tSmNXVm5PMTI4Y0E?oc=5"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "特朗普暂停“自由计划”行动",
-      "summary": "特朗普称暂停“自由计划”行动，此前美国与伊朗在霍尔木兹海峡发生冲突，但鲁比奥已确认军事行动结束。地缘风险有所缓和，油价回落，利好全球风险偏好。对A股整体偏中性，但短期利好能源板块降温。看多市场情绪。",
-      "reason": "地缘政治风险缓解，有助于提升市场风险偏好，同时降低油价波动对A股的冲击。",
-      "category": "宏观经济",
+      "title": "开源证券给予苏州银行买入",
+      "summary": "开源证券发布研报，给予苏州银行（002966）买入评级。苏州银行作为区域城商行，经营稳健，资产质量改善，盈利增长可期。评级上调反映机构对银行板块的看好，可能带动银行股估值修复。短期看多苏州银行及银行板块。",
+      "reason": "知名券商对银行股给出买入评级，属于机构评级变动，对个股及板块有正面引导作用。",
+      "category": "公司公告",
       "impact_stocks": [
-        "沪深300",
-        "石油化工",
-        "航运"
+        "苏州银行",
+        "银行"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hbnZSLWJuWGM5aTZnQ0tGaVVnODc0SDVGcGVaYkNPQWhEV05EcFRjdUZ1Q1cyRWhwZDRxdlAtSHFhc05PMVdyeUt3VU9lNGJ0N2E1MnpnUERYXzdRTVgtRm9R?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "东吴证券给予保隆科技买入",
+      "summary": "东吴证券发布研报，给予保隆科技（603197）买入评级。保隆科技主营汽车传感器及空气悬架，受益于智能驾驶和新能源车渗透率提升。机构看好其成长性，评级上调对汽车零部件板块构成利好。短期看多保隆科技及智能驾驶相关个股。",
+      "reason": "券商对汽车零部件龙头给出买入评级，契合当前科技成长主线，具有参考价值。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "保隆科技",
+        "汽车零部件",
+        "智能驾驶"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363203"
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHbkdmQU5VTi1yaldQLXJ4M2pSWWtmbXUwQWgwSnVEVkdxSXRtWjJaZGFnR01HRUZ6RVM1MXBHT3NkZDJseGVKOTl5N2pTVG9lSkRnei1tS19yeVpNX2JtR1ZR?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
+    },
+    {
+      "title": "东吴证券给予海南机场增持",
+      "summary": "东吴证券发布研报，给予海南机场（600515）增持评级。海南机场受益于自贸港政策及旅游复苏，客流恢复超预期，免税业务有增长潜力。评级上调对机场航运及免税板块形成利好。短期看多海南机场及相关板块。",
+      "reason": "券商对海南自贸港核心资产给出增持评级，反映机构对区域经济和旅游消费复苏的看好。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "海南机场",
+        "机场航运",
+        "免税概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kLU84UHNNT0F1VDJySGcxaDBsS2J0TTdHb1pyNVlWZS1JVVp0Y1hOOGRuQmN6dFlrYlR4Y2p3WVg4eXNJUHVNUWxCVk5RV1hobkRLUmxYdkdxcWx5T1prRGhB?oc=5"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 26,
-  "generated_at": "2026-05-06T07:01:37.485193+08:00"
+  "total_fetched": 18,
+  "generated_at": "2026-05-06T07:40:45.405842+08:00"
 }
