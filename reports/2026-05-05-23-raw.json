@@ -1,57 +1,64 @@
 {
   "date": "2026-05-05",
   "hour": "23",
-  "total": 30,
-  "fetched_at": "2026-05-05T23:00:48.319177+08:00",
+  "total": 55,
+  "fetched_at": "2026-05-05T23:37:26.911459+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "高景气推动全球科技股共振，节后A股如何演绎？丨每周研选 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9FQUZmcm5rNXNRRlZyc3QteG1GSXdfVHMxUG5hV0ZrSHNFc3VOdUh5RldFNVhWSW5kX2pHdU80Zmtab0MybEtOVWxKd213Smo3MTQtUUtZV3VXcmdiSjdPSWFvS2czemJYaldyeVZRWXdEREg4aVE?oc=5\" target=\"_blank\">高景气推动全球科技股共振，节后A股如何演绎？丨每周研选</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "【十大券商一周策略】节后市场怎么走？A股突破在望，走牛趋势再被确认！聚焦高景气线索 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ES1lLTVA3UGZEb1BRb1BsajNyd3J0XzNkRDFGTUxfRF9EdnN1dGJDaFpKUHJjSTN3YUVxbzBsTUJBZ2ZwWTBHTWo5c1NTWUJ0WFNPdk9Cd1BFLVBqbW5ERGdGbnh5X1l5VktaYUpKSDIwN29oRnc?oc=5\" target=\"_blank\">【十大券商一周策略】节后市场怎么走？A股突破在望，走牛趋势再被确认！聚焦高景气线索</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ES1lLTVA3UGZEb1BRb1BsajNyd3J0XzNkRDFGTUxfRF9EdnN1dGJDaFpKUHJjSTN3YUVxbzBsTUJBZ2ZwWTBHTWo5c1NTWUJ0WFNPdk9Cd1BFLVBqbW5ERGdGbnh5X1l5VktaYUpKSDIwN29oRnc?oc=5",
+      "published": "Tue, 05 May 2026 14:53:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "文艺馥欣A股资本市场周报 (4/27-5/4) - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9CLXdqZ19Db2pPYWt4bEVaT2NiLXllOURZNGJwQ3VzNnplMWE2aHFaSWFnUDV0c3NpcnpoLTNvVmxtX216VFhicjNrZ3c0RWZhajJKQkw4cEN4aHdsaElCZFptNjJKSFMzbXBkMFplLUZJQzdTZmc?oc=5\" target=\"_blank\">文艺馥欣A股资本市场周报 (4/27-5/4)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CLXdqZ19Db2pPYWt4bEVaT2NiLXllOURZNGJwQ3VzNnplMWE2aHFaSWFnUDV0c3NpcnpoLTNvVmxtX216VFhicjNrZ3c0RWZhajJKQkw4cEN4aHdsaElCZFptNjJKSFMzbXBkMFplLUZJQzdTZmc?oc=5",
+      "published": "Tue, 05 May 2026 14:01:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "高景气推动全球科技股共振，节后A股如何演绎？丨每周研选 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9FQUZmcm5rNXNRRlZyc3QteG1GSXdfVHMxUG5hV0ZrSHNFc3VOdUh5RldFNVhWSW5kX2pHdU80Zmtab0MybEtOVWxKd213Smo3MTQtUUtZV3VXcmdiSjdPSWFvS2czemJYaldyeVZRWXdEREg4aVE?oc=5\" target=\"_blank\">高景气推动全球科技股共振，节后A股如何演绎？丨每周研选</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FQUZmcm5rNXNRRlZyc3QteG1GSXdfVHMxUG5hV0ZrSHNFc3VOdUh5RldFNVhWSW5kX2pHdU80Zmtab0MybEtOVWxKd213Smo3MTQtUUtZV3VXcmdiSjdPSWFvS2czemJYaldyeVZRWXdEREg4aVE?oc=5",
       "published": "Tue, 05 May 2026 13:55:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "大金重工(002487)：港交所上市委员会已审阅其上市申请 | A股公司香港上市 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE15R0h6Y3BGY3IyNFNKR3NZN0lKazVVWVZPREpFbGNvSnBXaWJLdlZtQ2NBRlpKdlJ0STRIZlYzaXlZaGpPZFQtTmVjZVFnX1Mwa1NxZ2Z6U01SeEYzLUt6UksyUDJwVDBZWW8za182VnF2ZHk0X2c?oc=5\" target=\"_blank\">大金重工(002487)：港交所上市委员会已审阅其上市申请 | A股公司香港上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "大金重工(002487)：港交所上市委员会已审阅其上市申请 | A股公司香港上市 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE15R0h6Y3BGY3IyNFNKR3NZN0lKazVVWVZPREpFbGNvSnBXaWJLdlZtQ2NBRlpKdlJ0STRIZlYzaXlZaGpPZFQtTmVjZVFnX1Mwa1NxZ2Z6U01SeEYzLUt6UksyUDJwVDBZWW8za182VnF2ZHk0X2c?oc=5\" target=\"_blank\">大金重工(002487)：港交所上市委员会已审阅其上市申请 | A股公司香港上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15R0h6Y3BGY3IyNFNKR3NZN0lKazVVWVZPREpFbGNvSnBXaWJLdlZtQ2NBRlpKdlJ0STRIZlYzaXlZaGpPZFQtTmVjZVFnX1Mwa1NxZ2Z6U01SeEYzLUt6UksyUDJwVDBZWW8za182VnF2ZHk0X2c?oc=5",
       "published": "Tue, 05 May 2026 13:57:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "4月最牛金股大涨93%！5月名单曝光：这只消费股成“人气王” - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZ19heE55OVNzclAxblktaGt2NWdaU2VGWndPVzNsdTZZX1FiaFU1WUlLRUJaRXJGaXIwYnk5QnJwRW9qZkRKdE9xbTF6QnB6OVhBZzdySVNDRHBLbVlKblktcjZ2cG43NlNMR1c5R1hRTHZyV1NzNg?oc=5\" target=\"_blank\">4月最牛金股大涨93%！5月名单曝光：这只消费股成“人气王”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "4月最牛金股大涨93%！5月名单曝光：这只消费股成“人气王” - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZ19heE55OVNzclAxblktaGt2NWdaU2VGWndPVzNsdTZZX1FiaFU1WUlLRUJaRXJGaXIwYnk5QnJwRW9qZkRKdE9xbTF6QnB6OVhBZzdySVNDRHBLbVlKblktcjZ2cG43NlNMR1c5R1hRTHZyV1NzNg?oc=5\" target=\"_blank\">4月最牛金股大涨93%！5月名单曝光：这只消费股成“人气王”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qZ19heE55OVNzclAxblktaGt2NWdaU2VGWndPVzNsdTZZX1FiaFU1WUlLRUJaRXJGaXIwYnk5QnJwRW9qZkRKdE9xbTF6QnB6OVhBZzdySVNDRHBLbVlKblktcjZ2cG43NlNMR1c5R1hRTHZyV1NzNg?oc=5",
       "published": "Tue, 05 May 2026 14:07:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "IPO周报：深市首个“H回A”获受理，“募资王”华润新能源IPO过会 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3RUF3c3NVVF84MnBvbXlYOHpnZk9Mb3JsNWIzUDlTa1BxQ3Ita0Z1NlVxbWtLQldqOVdSZTJQTEJLZm1ldml0bGxSdmRRRWtDRkZvZy1ybEp1WVphS2doaFdFbXI1R2wwYWNzaXFyY0l5SHRpdlZGeg?oc=5\" target=\"_blank\">IPO周报：深市首个“H回A”获受理，“募资王”华润新能源IPO过会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3RUF3c3NVVF84MnBvbXlYOHpnZk9Mb3JsNWIzUDlTa1BxQ3Ita0Z1NlVxbWtLQldqOVdSZTJQTEJLZm1ldml0bGxSdmRRRWtDRkZvZy1ybEp1WVphS2doaFdFbXI1R2wwYWNzaXFyY0l5SHRpdlZGeg?oc=5",
-      "published": "Tue, 05 May 2026 13:06:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "刚刚，突传利好！全线拉升 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcm90V21GM3NCaTdqWk43YUVKMS1GMlJoNmg0WFI1c0p6dEFsVUFRYnUzd1c4MGFHejBNaXo4bU1idjlMRmVYU01qbjVVNDBWUzJOZEQ1NTdVNXh0UkQtajVmVnp6MV93WUZjZDUzempOeXBZQWswd1BEakt4UjNDa1pkM21uY0hqbHExT3d3?oc=5\" target=\"_blank\">刚刚，突传利好！全线拉升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "刚刚，突传利好！全线拉升 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPcm90V21GM3NCaTdqWk43YUVKMS1GMlJoNmg0WFI1c0p6dEFsVUFRYnUzd1c4MGFHejBNaXo4bU1idjlMRmVYU01qbjVVNDBWUzJOZEQ1NTdVNXh0UkQtajVmVnp6MV93WUZjZDUzempOeXBZQWswd1BEakt4UjNDa1pkM21uY0hqbHExT3d3?oc=5\" target=\"_blank\">刚刚，突传利好！全线拉升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcm90V21GM3NCaTdqWk43YUVKMS1GMlJoNmg0WFI1c0p6dEFsVUFRYnUzd1c4MGFHejBNaXo4bU1idjlMRmVYU01qbjVVNDBWUzJOZEQ1NTdVNXh0UkQtajVmVnp6MV93WUZjZDUzempOeXBZQWswd1BEakt4UjNDa1pkM21uY0hqbHExT3d3?oc=5",
       "published": "Tue, 05 May 2026 13:41:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "“五一”假期间港股稳中有升 锂电和AI产业链表现较好 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE03V1VJbUJ4elAyRGdxSGxIbFc2YzRtNmp6N2FpdVd5eUh2NExlWlpmcW8yX05qT2VVOVpheWN3ZzJSSW5sRm1OeVNFQXFlYzJ1RDc4ME9kbWUySnVtN2FUWk1jYWlBVHdmeWtBVkdfckxhTDFwUFZMYQ?oc=5\" target=\"_blank\">“五一”假期间港股稳中有升 锂电和AI产业链表现较好</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03V1VJbUJ4elAyRGdxSGxIbFc2YzRtNmp6N2FpdVd5eUh2NExlWlpmcW8yX05qT2VVOVpheWN3ZzJSSW5sRm1OeVNFQXFlYzJ1RDc4ME9kbWUySnVtN2FUWk1jYWlBVHdmeWtBVkdfckxhTDFwUFZMYQ?oc=5",
-      "published": "Tue, 05 May 2026 13:05:00 GMT"
+      "title": "美股高开，科技股集体上涨 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBsTXh6aWRfU0ZVYTlFZUp6aXBlSmJCbFVSRDdfcy11aFNaSk9OazExclVxZUFiWWUzV1BvZjBneWQ4UnBxNkdtMlJEZU1tLXFwdVRiaTBlNzVleE9WbFVWY0FKZm91c082S2NkUll1WTNXVVhhekE?oc=5\" target=\"_blank\">美股高开，科技股集体上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsTXh6aWRfU0ZVYTlFZUp6aXBlSmJCbFVSRDdfcy11aFNaSk9OazExclVxZUFiWWUzV1BvZjBneWQ4UnBxNkdtMlJEZU1tLXFwdVRiaTBlNzVleE9WbFVWY0FKZm91c082S2NkUll1WTNXVVhhekE?oc=5",
+      "published": "Tue, 05 May 2026 13:44:00 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "中信证券市值破万亿？这不仅是时间问题，更是国运问题！ - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFhzbkN0RkVNSl9faDdUVHlMQVB6Nk5nVUZlYmc2T2h4cDF0WnFyU0NkZHpqN0pUZHBnM3F0TlZJbUtUUGs0b3REUUJwWmVmYUQwc2FoNE5OY2FnMDFUaENubHhxTzVRU3ZCNjE5RUpheExkRGpRNTZGNUM4SW1rZXQtckFjWGY5a3V2MWV5SE4zc09UME53OVdSQm1aMmNLR3RZdmIzX183a1JjUHlQUUVRcw?oc=5\" target=\"_blank\">中信证券市值破万亿？这不仅是时间问题，更是国运问题！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWFhzbkN0RkVNSl9faDdUVHlMQVB6Nk5nVUZlYmc2T2h4cDF0WnFyU0NkZHpqN0pUZHBnM3F0TlZJbUtUUGs0b3REUUJwWmVmYUQwc2FoNE5OY2FnMDFUaENubHhxTzVRU3ZCNjE5RUpheExkRGpRNTZGNUM4SW1rZXQtckFjWGY5a3V2MWV5SE4zc09UME53OVdSQm1aMmNLR3RZdmIzX183a1JjUHlQUUVRcw?oc=5",
-      "published": "Tue, 05 May 2026 13:34:47 GMT"
+      "source": "新浪财经",
+      "title": "冠城钟表珠宝(00256)拟“3供1”基准供股 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEVMcXBHTnBhdi1yX0htOWZ6NlZZa3duaERCenZlSzdGdHFublZlVEQzcFZ0QzF5NUU3VXY0Q214bUdMRmxwbGZxTGhUbzk3b1JTY0tsOVZkeGp4QkxYSzlZMUVLRnBqdlVTMGxLTGE5MzdYWk9adkQ5Z3A1OGRodm1ZTHhUdV9PMWRlQUtB?oc=5\" target=\"_blank\">冠城钟表珠宝(00256)拟“3供1”基准供股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEVMcXBHTnBhdi1yX0htOWZ6NlZZa3duaERCenZlSzdGdHFublZlVEQzcFZ0QzF5NUU3VXY0Q214bUdMRmxwbGZxTGhUbzk3b1JTY0tsOVZkeGp4QkxYSzlZMUVLRnBqdlVTMGxLTGE5MzdYWk9adkQ5Z3A1OGRodm1ZTHhUdV9PMWRlQUtB?oc=5",
+      "published": "Tue, 05 May 2026 15:00:00 GMT"
     },
     {
       "source": "东方财富",
@@ -61,18 +68,179 @@
       "published": "Tue, 05 May 2026 14:10:32 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "Fiserv股票开盘时下跌9.1% 创下去年10月以来的最大跌幅 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOVhwa2tBanduOHFiMGVVbXFxVkJoTUhLUHRHV09iU2ZUMmI4NjNybFBSSDV1dXZZemM1TzZSdmdwOXF5WEFEd2dOT2dCWktRN0o1WHpiN1VlVHp2ZEhxTw?oc=5\" target=\"_blank\">Fiserv股票开盘时下跌9.1% 创下去年10月以来的最大跌幅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGOVhwa2tBanduOHFiMGVVbXFxVkJoTUhLUHRHV09iU2ZUMmI4NjNybFBSSDV1dXZZemM1TzZSdmdwOXF5WEFEd2dOT2dCWktRN0o1WHpiN1VlVHp2ZEhxTw?oc=5",
-      "published": "Tue, 05 May 2026 13:37:15 GMT"
+      "source": "同花顺",
+      "title": "湖南烟花爆竹企业全面停产整顿",
+      "summary": "记者5日从湖南省应急管理厅获悉，即日起，全省烟花爆竹企业全面停产整顿，全力防范和消除各类安全隐患。此次停产整顿将聚焦生产、经营、运输、燃放、出口等环节，重点查处企业“三超一改”、分包转包、生产经营超标违禁产品、多股东独立生产等问题。严格落实“五个一批”要求，即：严厉打击一批非法违法行为，关闭退出一批违法从业单位，清理销毁一批超标违禁产品，集中曝光一批典型案例，通报约谈一批问题突出地区，确保烟花爆竹行业领域非法违法行为得到有效整治。同时，举一反三，在全省进一步深入开展安全生产隐患大排查、大整治，对重点行业拉网式排查，堵塞漏洞，压实责任，全力提升本质安全水平，守牢守严红线、底线。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676456486.shtml",
+      "published": "Tue, 05 May 2026 15:00:29 GMT"
     },
     {
       "source": "同花顺",
-      "title": "东吴证券：给予阿特斯买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVEhENGZPeHJ0N3FiTWNIOVhhTTNqSnd2SWNJc0pCWlhWU2R6WjZQd3M1RkdjVE1RMVNBMGFiYm4xTHlneFJDTjBkcWNvZUdHNTlKN0tzZGZqTE85U1E?oc=5\" target=\"_blank\">东吴证券：给予阿特斯买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uVEhENGZPeHJ0N3FiTWNIOVhhTTNqSnd2SWNJc0pCWlhWU2R6WjZQd3M1RkdjVE1RMVNBMGFiYm4xTHlneFJDTjBkcWNvZUdHNTlKN0tzZGZqTE85U1E?oc=5",
-      "published": "Tue, 05 May 2026 13:21:55 GMT"
+      "title": "阿联酋发布导弹威胁警报，称防空系统正在应对来自伊朗的导弹和无人机袭击",
+      "summary": "阿联酋5日下午向民众手机发布紧急警报说，其防空系统正在应对导弹威胁，民众应立即采取避险措施。阿联酋国防部5日在社交媒体上发文称，其防空系统目前正在应对来自伊朗的导弹和无人机袭击。在全国多地听到的异常声响是阿联酋防空系统拦截弹道导弹、巡航导弹和无人机所造成的。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456480.shtml",
+      "published": "Tue, 05 May 2026 14:54:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗德黑兰以西一家购物中心发生火灾",
+      "summary": "伊朗方面5日消息，伊朗首都德黑兰以西的一家购物中心发生火灾。现场画面显示，该商场多层楼起火，大量黑烟升起。目前关于火灾原因、伤亡情况暂无更多消息。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456442.shtml",
+      "published": "Tue, 05 May 2026 14:39:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "微软公司声明称，与英国人工智能安全研究所签署人工智能测试协议",
+      "summary": "微软公司声明称，与英国人工智能安全研究所签署人工智能测试协议。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456439.shtml",
+      "published": "Tue, 05 May 2026 14:37:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英特尔股价上涨超15% 今年以来的涨幅接近200%",
+      "summary": "英特尔股价上涨超15%，总市值超5500亿美元，今年以来的涨幅接近200%。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456428.shtml",
+      "published": "Tue, 05 May 2026 14:32:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "世卫官员：涉汉坦病毒疫情邮轮上恐发生病毒人际传播",
+      "summary": "世界卫生组织一名官员5日在新闻发布会上说，涉汉坦病毒疫情的“洪迪厄斯”号邮轮上可能出现了一定程度的病毒人际传播。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456390.shtml",
+      "published": "Tue, 05 May 2026 14:25:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗最高领袖外事顾问：伊美之间仍处于战争状态",
+      "summary": "当地时间5月5日下午，伊朗最高领袖外事顾问韦拉亚提对外界表示，霍尔木兹海峡已被关闭，除非“伊朗伊斯兰共和国的国家意志决定”，否则海峡不会重新开放。韦拉亚提在一份声明中表示，美国总统特朗普关于限制伊朗导弹能力的说法是没有根据的，伊朗与美国之间仍处于战争状态，并将继续开展“抵抗”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456367.shtml",
+      "published": "Tue, 05 May 2026 14:19:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国3月贸易逆差连续第二个月增加",
+      "summary": "美国商务部5日发布的数据显示，受商品进口增加影响，美国3月份商品与服务贸易逆差为603亿美元，环比增加25亿美元，增幅约为4.4%，连续第二个月环比增加。数据显示，美国3月份商品与服务出口和进口金额分别为3209亿美元和3812亿美元，环比分别增加2%和2.3%。当月商品贸易逆差增加41亿美元，服务贸易顺差增幅为16亿美元。当月，美国商品出口增加65亿美元至2135亿美元；由于汽车及零部件、消费品、资本货物和工业原材料进口均环比增加，美国商品进口增加106亿美元至3022亿美元。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676456366.shtml",
+      "published": "Tue, 05 May 2026 14:19:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "C919大飞机首飞九周年 4月航班量同比增长117.9%",
+      "summary": "5月5日，国产大飞机C919迎来首飞9周年。航班管家数据显示，截至2026年4月末，C919累计执飞商业客运航班已超过4.2万班次，运营规模持续扩大。仅2026年4月，当月执飞航班量 3190班次，同比大幅增长117.9%，展现出强劲的市场运营能力。航线网络方面，自投入运行以来，C919已累计执飞往返航线57条（单程113条），覆盖29座机场，其中包括28座境内机场及港澳台机场1座（中国香港），航线布局稳步拓展。（新华财经）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456340.shtml",
+      "published": "Tue, 05 May 2026 14:10:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "德黑兰以西一家购物中心发生火灾",
+      "summary": "伊朗首都德黑兰以西的一家购物中心发生火灾。目前暂无更多细节。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456312.shtml",
+      "published": "Tue, 05 May 2026 14:05:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国4月ISM服务业PMI从54降至53.6；预期值为53.7",
+      "summary": "美国4月ISM服务业PMI从54降至53.6；预期值为53.7。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456308.shtml",
+      "published": "Tue, 05 May 2026 14:03:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国3月新屋销售总数年化 68.2万户，预期65万户",
+      "summary": "美国3月新屋销售总数年化 68.2万户，预期65万户。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456300.shtml",
+      "published": "Tue, 05 May 2026 14:01:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美防长称特朗普无需寻求国会批准即可继续对伊军事行动",
+      "summary": "当地时间5月5日，美国国防部长皮特·赫格塞思表示，鉴于本届政府认定美国与伊朗之间的停火状态仍在维持，美国总统特朗普无需寻求国会批准即可继续进行战争行动。赫格塞思坚称，如果特朗普下令恢复军事打击行动，届时自然会就相关事宜展开讨论。在谈及战斗行动继续进行的可能性时，赫格塞思表示，“这一选项始终是存在的。伊朗对此心知肚明”。赫格塞思称，总统依然保留着重启大规模战斗行动的契机与能力。如果伊朗不愿兑现其应尽的承诺，或者不愿达成协议，那么美国国防部已处于高度戒备、蓄势待发的状态，随时准备投入行动。同时，赫格塞思表示希望事态不必朝着那个方向发展。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676456299.shtml",
+      "published": "Tue, 05 May 2026 14:01:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国3月JOLTS职位空缺686.6万人，预期670万，前值688.2万",
+      "summary": "美国3月JOLTS职位空缺686.6万人，预期670万，前值688.2万。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456298.shtml",
+      "published": "Tue, 05 May 2026 14:01:01 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国4月份服务业经营活动指数报51，初步数据为51.3",
+      "summary": "美国4月份服务业经营活动指数报51，初步数据为51.3美国4月份服务业经营活动指数报51，初步数据为51.3。美国4月份综合产出指数报51.7初步数据为52。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456272.shtml",
+      "published": "Tue, 05 May 2026 13:55:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "受中东战事影响德国工商大会下调德企出口预期",
+      "summary": "德国工商大会5日发布的一项调查结果显示，受中东局势特别是伊朗战事影响，德国企业海外经营预期明显转弱，出口前景预期由此前的小幅增长转为停滞，外部环境不确定性持续上升。 该调查覆盖逾4500家企业。近三分之一受访企业认为，冲突暴露全球供应链脆弱性，这些企业预计相关市场经济形势将进一步趋紧。 前景预期方面，调查显示企业信心明显走弱，预计经济形势将恶化的企业比例由中东冲突前的24%升至32%，表明企业对外部环境的担忧加剧。德国工商大会预计，今年德国出口或难以实现增长，而此前预期将增长1%。 调查同时显示，能源价格上涨和供应链扰动成为当前企业面临的主要风险。46%的企业将高能源成本列为核心经营风险，较去年秋季显著增加；44%的企业担心需求走弱；40%的企业关注供应链中断风险；37%的企业担忧原材料价格上涨。 德国工商大会首席分析师福尔克·特赖尔指出，能源价格冲击、物流体系脆弱以及地缘政治不确定性交织，对出口导向型企业形成叠加压力并抑制其投资意愿。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260505/c676456271.shtml",
+      "published": "Tue, 05 May 2026 13:55:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "WTI原油跌超4%",
+      "summary": "WTI原油跌超4%，现报102.15美元/桶。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456266.shtml",
+      "published": "Tue, 05 May 2026 13:52:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英特尔大涨11% 今年以来累涨近190%",
+      "summary": "英特尔股价上涨11.16%，报106.47美元/股，总市值报5351亿美元，今年以来的涨幅接近190%。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456240.shtml",
+      "published": "Tue, 05 May 2026 13:47:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美光科技市值突破7000亿美元，现涨近8%",
+      "summary": "美光科技市值突破7000亿美元，现涨近8%。",
+      "link": "https://news.10jqka.com.cn/20260505/c676456217.shtml",
+      "published": "Tue, 05 May 2026 13:38:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，Anthropic首席执行官称，美国其他主要AI实验室的能力可能落后于公司1到3个月。",
+      "summary": "财联社5月5日电，Anthropic首席执行官称，美国其他主要AI实验室的能力可能落后于公司1到3个月。",
+      "link": "https://api3.cls.cn/share/article/2363119?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 15:32:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月5日电，贝莱德本周将宣布超大规模数据中心交易。",
+      "summary": "财联社5月5日电，贝莱德本周将宣布超大规模数据中心交易。",
+      "link": "https://api3.cls.cn/share/article/2363118?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 15:27:45 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗外交部：敦促美方在外交问题上“展现善意”",
+      "summary": "【伊朗外交部：敦促美方在外交问题上“展现善意”】财联社5月5日电，据伊朗新闻电视台5日报道，伊朗外交部发言人巴加埃就当前伊美谈判进程表示，伊朗决定不在难以达成协议的问题上浪费时间，当前优先事项是聚焦结束战争，敦促美方在外交问题上“展现善意”。",
+      "link": "https://api3.cls.cn/share/article/2363116?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 15:20:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗总统办公室官员否认总统辞职传闻",
+      "summary": "【伊朗总统办公室官员否认总统辞职传闻】财联社5月5日电，据伊朗方面5日消息，伊朗总统办公室一名官员否认有关伊朗总统佩泽希齐扬可能辞职的传闻。这名官员表示，相关说法不属实，当前局势下并不存在考虑此类问题的必要性。报道还说，相关说法为部分媒体在缺乏话题情况下制造的谣言。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2363114?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 15:07:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "路易丝·阿伯将出任加拿大总督",
+      "summary": "【路易丝·阿伯将出任加拿大总督】财联社5月5日电，加拿大总理马克·卡尼5日宣布，他推荐路易丝·阿伯担任第31任加拿大总督，英国国王查尔斯三世已接受这一建议。",
+      "link": "https://api3.cls.cn/share/article/2363113?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 15:07:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "Anthropic发布面向金融服务公司的新型AI智能体",
+      "summary": "【Anthropic发布面向金融服务公司的新型AI智能体】财联社5月5日电，Anthropic PBC 推出了一系列新的AI智能体，旨在处理更广泛的金融服务任务。据称这些智能体可以撰写客户会议的演示文稿、审核财务报表，并将案件上报进行合规审查。这十款新工具的目标用户是银行、保险、资产管理和金融科技领域的专业人士。Anthropic首席执行官Dario Amodei将于周二在纽约举行的Anthropic活动上与摩根大通首席执行官Jamie Dimon一起发表关于人工智能的演讲，届时银行业领袖也将出席。",
+      "link": "https://api3.cls.cn/share/article/2363112?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 15:01:20 GMT"
     },
     {
       "source": "财联社",
@@ -173,46 +341,53 @@
       "published": "Tue, 05 May 2026 14:11:54 GMT"
     },
     {
-      "source": "财联社",
-      "title": "电视剧、网络剧片头新增“保护正版 人人有责”的提示",
-      "summary": "【电视剧、网络剧片头新增“保护正版 人人有责”的提示】财联社5月5日电，在今日播出的电视剧《喀什恋歌》片头，紧随“电视剧发行许可证”画面之后，新增了一帧独立画面：保护正版 人人有责。记者从中国电视剧制作产业协会获悉，在片头加注版权保护重要提示语，将成为各大长视频平台和电视台新上剧集的“标准动作”。 (中新网)",
-      "link": "https://api3.cls.cn/share/article/2363090?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 14:09:15 GMT"
+      "source": "华尔街见闻",
+      "title": "“新”华安，“新”班子",
+      "summary": "<p>在变革与期待的四月，公募“老十家”之一的华安基金，正式完成了一次历史性的“交棒”。</p>\n<p>随着两则重磅高管变更公告的落地，华安基金的高层实现了重要的“换防”和“交班”。</p>\n<p>叠加过去一年间的几次高管变动，华安的高管层在过去一年间完成了决定性的调整。</p>\n<p>在母公司加快整合的呼声大旗下，如此迅捷的人事更迭，更像是在为未来落下关键的棋子：高管团队的集结，以及市场对华安基金与海富通基金未来深度融合的无限遐想，正让这家老牌公募焕发出全新的进攻姿态。</p>\n<h2><strong>总经理落定</strong></h2>\n<p>2026年4月30日，华安基金连发两则重磅高管变更公告，宣告了核心管理层的正式落定。</p>\n<p>4月29日，张霄岭因年龄原因离任总经理，方一天新任总经理。</p>\n<p>公开信息显示，方一天曾先后在上海财政证券公司、中国证监会系统任职，2013年3月至2014年9月任上证所信息网络有限公司副总经理，2014年10月加入万家基金，2014年12月起任万家基金董事，2015年7月出任万家基金董事长。</p>\n<p>在出任万家基金董事长十余年",
+      "link": "https://wallstreetcn.com/articles/3771592",
+      "published": "Tue, 05 May 2026 14:57:24 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月5日电，美国3月份职位空缺数686.6万个，预期为685万个。",
-      "summary": "财联社5月5日电，美国3月份职位空缺数686.6万个，预期为685万个。",
-      "link": "https://api3.cls.cn/share/article/2363088?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 14:04:36 GMT"
+      "source": "华尔街见闻",
+      "title": "英特尔大涨背后：季报明确三大趋势拐点，产业为何进入加速循环？",
+      "summary": "<p style=\"text-align: left;\">2026年4月23日，英特尔发布了堪称“王者归来”的一季度财报，营收135.8亿美元，同比+7%，大幅超出市场预期的123.6亿美元；调整后每股收益0.29美元，而市场预期仅0.01美元，超预期幅度高达约28倍。数据中心与AI业务（DCAI）收入50.5亿美元，同比增长22%，远超预期的44.1亿美元；调整后毛利率41.0%，大幅超出市场预期的34.5%。GAAP口径下净亏损37亿美元主要系约40亿美元的重组与资产减值等非现金一次性项目所致，调整后净利润同比增长156%。受此影响，英特尔盘后股价飙升超过18%，延续了2026年以来超80%的强劲涨势。&nbsp;</p><p style=\"text-align: left;\">这一财报绝非普通的“超预期”，而是AI算力需求从训练侧向推理侧结构性迁移的“分水岭时刻”。英特尔CEO陈立武在财报电话会上指出：“下一波人工智能浪潮，将让智能能力进一步贴近终端用户，行业发展主线从基础大模型，逐步迈向推理部署与智能体应用阶段。这一产业变革，大幅提振了市场对英特尔CPU、晶圆及先进封装产品的需",
+      "link": "https://wallstreetcn.com/member/articles/3770773",
+      "published": "Tue, 05 May 2026 14:12:13 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月5日电，美国ISM服务业支付价格指数持平于70.7，预期为73.5。",
-      "summary": "财联社5月5日电，美国ISM服务业支付价格指数持平于70.7，预期为73.5。",
-      "link": "https://api3.cls.cn/share/article/2363087?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 14:04:23 GMT"
+      "source": "华尔街见闻",
+      "title": "美国4月ISM非制造业指数 53.6 ，预期 53.7，前值 54。",
+      "summary": "<p>美国4月ISM非制造业指数 53.6 ，预期 53.7，前值 54。 </p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3771591",
+      "published": "Tue, 05 May 2026 14:00:35 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月5日电，据伊朗媒体5日报道，伊朗首都德黑兰以西的一家购物中心发生火灾。报道未提供更多细节。 (新华社)",
-      "summary": "财联社5月5日电，据伊朗媒体5日报道，伊朗首都德黑兰以西的一家购物中心发生火灾。报道未提供更多细节。 (新华社)",
-      "link": "https://api3.cls.cn/share/article/2363086?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 14:02:45 GMT"
+      "source": "华尔街见闻",
+      "title": "美国3月JOLTS职位空缺686.6万人，预期670万，前值688.2万",
+      "summary": "<p>美国3月JOLTS职位空缺686.6万人，预期670万，前值688.2万。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3771590",
+      "published": "Tue, 05 May 2026 14:00:21 GMT"
     },
     {
-      "source": "财联社",
-      "title": "美防长称特朗普无需寻求国会批准即可继续对伊军事行动",
-      "summary": "【美防长称特朗普无需寻求国会批准即可继续对伊军事行动】财联社5月5日电，美国国防部长皮特·赫格塞思表示，鉴于本届政府认定美国与伊朗之间的停火状态仍在维持，美国总统特朗普无需寻求国会批准即可继续进行战争行动。赫格塞思坚称，如果特朗普下令恢复军事打击行动，届时自然会就相关事宜展开讨论。在谈及战斗行动继续进行的可能性时，赫格塞思表示，“这一选项始终是存在的。伊朗对此心知肚明”。赫格塞思称，总统依然保留着重启大规模战斗行动的契机与能力。如果伊朗不愿兑现其应尽的承诺，或者不愿达成协议，那么美国国防部已处于高度戒备、蓄势待发的状态，随时准备投入行动。同时，赫格塞思表示希望事态不必朝着那个方向发展。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2363085?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 14:02:13 GMT"
+      "source": "第一财经",
+      "title": "湖南烟花爆竹企业全面停产整顿",
+      "summary": "<figure><img alt=\"湖南烟花爆竹企业全面停产整顿\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/af7e36765a49e1aa7e16c3c024833be2.jpg\" /></figure><p>此次停产整顿重点查处企业“三超一改”、分包转包等问题。</p><p>记者5日从湖南省应急管理厅获悉，即日起，全省烟花爆竹企业全面停产整顿，全力防范和消除各类安全隐患。<br />\n<br />\n此次停产整顿将聚焦生产、经营、运输、燃放、出口等环节，重点查处企业“三超一改”、分包转包、生产经营超标违禁产品、多股东独立生产等问题。严格落实“五个一批”要求，即：严厉打击一批非法违法行为，关闭退出一批违法从业单位，清理销毁一批超标违禁产品，集中曝光一批典型案例，通报约谈一批问题突出地区，确保烟花爆竹行业领域非法违法行为得到有效整治。<br />\n<br />\n同时，举一反三，在全省进一步深入开展安全生产隐患大排查、大整治，对重点行业拉网式排查，堵塞漏洞，压实责任，全力提升本质安全水平，守牢守严红线、底线。</p>",
+      "link": "https://www.yicai.com/news/103164686.html",
+      "published": "Tue, 05 May 2026 14:56:36 GMT"
     },
     {
-      "source": "财联社",
-      "title": "【公告全知道】算力租赁+芯片+锂电池+CPO+液冷+机器人！公司签署近200亿元算力服务合同",
-      "summary": "①算力租赁+芯片+锂电池+CPO+液冷+机器人+数据中心+储能！这家公司签署近200亿元算力服务合同且与中际旭创合作布局智算中心液冷；②算力+芯片+锂电池+光模块+商业航天+PCB+机器人！这家公司可生产1.6T光模块电路板；③芯片+商业航天！公司拟定增70亿元投建空天地一体化移动通信产业化等项目。",
-      "link": "https://api3.cls.cn/share/article/2363081?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 14:00:44 GMT"
+      "source": "第一财经",
+      "title": "快速完成600万元安责险预赔付！中国平安启动一级重大应急响应全力支援湖南浏阳烟花厂爆炸事故",
+      "summary": "<p>北京时间5月4日16时40分许，湖南长沙浏阳市华盛烟花制造燃放有限公司车间突发爆炸事故，造成重大人员伤亡与财产损失。事故发生后，中国平安启动一级重大应急响应机制，统筹协调集团旗下寿险、产险、养老险、健康险等各专业公司，统一部署应急处置、客户排查、急难救援与理赔服务等各项工作。截至目前，平安产险共接到本次事故相关报案2笔，涵盖安全生产责任保险、车险各1笔。5日晚20:30，平安产险快速完成安全生产责任保险600万元预赔付。此前5日下午16：30，平安产险成功联系到车险客户，启动理赔绿色通道、简化流程加急处理，仅1小时完成首笔车险全额赔付到账。目前寿险、健康险、养老险暂未排查到客户报案及理赔出险情况，将持续关注排查。</p>\n\n<p>据悉，5月4日在获悉事故消息后，中国平安迅速成立以集团联席首席执行官郭晓涛为组长，平安集团董事会秘书兼品牌总监盛瑞生、首席行政事务执行官王志良、平安人寿副董事长蔡霆、平安产险董事长龙泉、平安健康险董事长朱友刚、平安金服董事长卢跃及平安养老险董事长甘为民为副组长的\"重大突发事件应急小组\"，确保信息渠道畅通、指令传递迅速、资源调度高效。现场工作小组于5日上午",
+      "link": "https://www.yicai.com/news/103164672.html",
+      "published": "Tue, 05 May 2026 14:17:38 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "31.4万名境外采购商到会，广交会圆满闭幕",
+      "summary": "<figure><img alt=\"31.4万名境外采购商到会，广交会圆满闭幕\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/f16ed69ce7cd6b55bdcfa0932e6b6dcd.jpg\" /></figure><p>“新”依然是广交会的核心看点</p><p>5月5日，第139届中国进出口商品交易会（下称“广交会”）在广州圆满收官。截至5月4日，来自220个国家和地区的31.4万名境外采购商到会，较第138届增长1.1%。407家头部采购企业、154家境外工商机构组团参会。</p>\n\n<p>在展会规模方面，本届广交会展览总面积155万平方米、展位总数7.57万个、参展企业超3.2万家。其中有9个专区是首次增设，涵盖智能穿戴、消费级无人机等领域，参展企业约670家，展位超1300个。从贸易洽谈方面来看，新产品、新市场仍然在展现独特的吸引力。</p>\n\n<p>“新”依然是广交会的核心看点。全球支付平台PingPong带来了旗下全新升级的一站式全球支付解决方案。据PingPong产品运营总监彭钟介绍，该方案聚焦非洲、中东",
+      "link": "https://www.yicai.com/news/103164657.html",
+      "published": "Tue, 05 May 2026 13:45:15 GMT"
     }
   ]
 }
