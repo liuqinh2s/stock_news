@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-06",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8855,
+    "completion_tokens": 5853,
+    "total_tokens": 14708
+  },
+  "content_length": 2225,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"2025年报营收增速转正\",\n      \"summary\": \"新浪财经报道，2025年A股上市公司营收净利润增速双双转正，显示经济复苏下企业盈利改善。该消息可能提振市场信心，对沪深300及整体A股构成利好，尤其利好绩优蓝筹。看多信号。\",\n      \"reason\": \"年报数据整体向好，盈利改善是A股走牛基础，影响市场预期。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1WRVBpUVJYWlFFbE1UdmF4Z1hmcUdudmpOeWJNMEJ5bnZ1WExsVnl1RndQdzdiNXZCcGlzZEJ5UVJ0QW1YdTdIdlMtVHZralo2ZU5jaXE1WnBGRXNtcjZPVGxhVGpKeVdyS29XREkwT1d4YXYzMVRyWg?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"券商发布提质增效方案\",\n      \"summary\": \"多家券商发布2026年度“提质增效重回报”行动方案，旨在提升经营效率和股东回报。该消息对券商板块有正面情绪影响，但实质效果需观察。属于行业动态，中性偏多。\",\n      \"reason\": \"券商集体行动体现行业信心，可能带动板块活跃。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"券商\", \"证券\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZMVBWY3luWWlSYkFnQ21VQ0N5SHJOV3FTM3B4QzRkMThld3B0R0xtcm44TWpTdHlDRmNsMGc0S1lmWVBvNHV3SVFpYXNrVUVKSUNkMzZrQ1FmT2N4OHZFb1VjZTRqQQ?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"ST嘉应今日复牌\",\n      \"summary\": \"ST嘉应于2026年5月6日复牌。该股此前可能因风险警示停牌，复牌后可能面临波动。对持有该股的投资者有直接影响，但对大盘影响小。中性偏空，因风险股复牌可能补跌。\",\n      \"reason\": \"个股复牌事件，关注度有限，但需提示风险。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"ST嘉应\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMM3piYks4b2JIeDFwNC11SWc3dl9JYnk1WVhMNXBNblZwX2VZZHI5Mlp3ZVRyajVFNmhqc3pWSXdhb1Q0Z2lMWjNyY3JQUjNjNWtDR01MQ3k3eUR3ckhnd1BB?oc=5\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"欧央行管委称油价未促加息\",\n      \"summary\": \"欧洲央行管委Villeroy表示，目前油价上涨尚未产生足以促使欧洲央行加息的影响。该言论暗示欧洲央行可能维持宽松，有利于全球流动性，对A股间接利好，但影响较小。\",\n      \"reason\": \"海外央行鸽派表态稳定市场预期，缓解紧缩担忧。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"沪深300\", \"欧洲市场\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2363156?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"由于大部分消息已在前几小时历史消息中出现，仅筛选出4条新消息，且影响级别较低。\"\n}"
+}
