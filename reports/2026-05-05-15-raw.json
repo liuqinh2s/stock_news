@@ -1,9 +1,16 @@
 {
   "date": "2026-05-05",
   "hour": "15",
-  "total": 56,
-  "fetched_at": "2026-05-05T15:00:29.373656+08:00",
+  "total": 60,
+  "fetched_at": "2026-05-05T15:11:37.906111+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "【国盛量化】上证指数、上证50迎来日线级别上涨 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMVo3b1NJRUswcm13NlpDc1dvQS1HSjU2YmVRam9UQXhPb3B0Uzl6eXBleGxBWkc0TjVkTEcxamozRnctdl9ucE9wdkprcFlQaGFkS0U5WG1yOVVadUpPTGNTR3FBZ21SN1ZTOVA3R2JIbUJENlE?oc=5\" target=\"_blank\">【国盛量化】上证指数、上证50迎来日线级别上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SMVo3b1NJRUswcm13NlpDc1dvQS1HSjU2YmVRam9UQXhPb3B0Uzl6eXBleGxBWkc0TjVkTEcxamozRnctdl9ucE9wdkprcFlQaGFkS0U5WG1yOVVadUpPTGNTR3FBZ21SN1ZTOVA3R2JIbUJENlE?oc=5",
+      "published": "Tue, 05 May 2026 06:12:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "每经品牌100指数高位震荡，成分股伊利股份高分红引关注 - 新浪网",
@@ -34,6 +41,13 @@
     },
     {
       "source": "新浪财经",
+      "title": "港股异动 | 汽车股集体下跌 广汽集团(02238)跌超3% 车企内销普遍仍有压力 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3FlTmpMdjlLLVhFdE5tSmNTbDdGVjFwcy1UVDJJWDdoZjN0SzRHSzhpclFNMmtfVV9GOEVYM2E1SVZ2X2lmYlBIa3AtR2JZX0E2YlQtWmVQVlNrQVl2cjZ4NFNCOGtMTW5WUHZqSUJ4cjhzRGZ1THpzNFktVWxrN0FiT0dVMHVLTnVzWXJKUXlkSjRQM3c?oc=5\" target=\"_blank\">港股异动 | 汽车股集体下跌 广汽集团(02238)跌超3% 车企内销普遍仍有压力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY3FlTmpMdjlLLVhFdE5tSmNTbDdGVjFwcy1UVDJJWDdoZjN0SzRHSzhpclFNMmtfVV9GOEVYM2E1SVZ2X2lmYlBIa3AtR2JZX0E2YlQtWmVQVlNrQVl2cjZ4NFNCOGtMTW5WUHZqSUJ4cjhzRGZ1THpzNFktVWxrN0FiT0dVMHVLTnVzWXJKUXlkSjRQM3c?oc=5",
+      "published": "Tue, 05 May 2026 06:27:00 GMT"
+    },
+    {
+      "source": "新浪财经",
       "title": "可孚医疗赴港IPO：一场由“背背佳”撑起的流量生意？ - 新浪网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB0WVR5TGNWNjJLdGNLRmJxN05JQ241cllJUkVqUXVoUkhXYVdJVWJqVzFhMXRYclYxUWo5bzlDd2VPQjRwUmRtVTZWTUU2X0dGR19yeUN6cWVCcGYwS3FtN0hvQ21iNzJHRjVhbkp5ZkRna3FtTlE?oc=5\" target=\"_blank\">可孚医疗赴港IPO：一场由“背背佳”撑起的流量生意？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0WVR5TGNWNjJLdGNLRmJxN05JQ241cllJUkVqUXVoUkhXYVdJVWJqVzFhMXRYclYxUWo5bzlDd2VPQjRwUmRtVTZWTUU2X0dGR19yeUN6cWVCcGYwS3FtN0hvQ21iNzJHRjVhbkp5ZkRna3FtTlE?oc=5",
@@ -48,10 +62,17 @@
     },
     {
       "source": "新浪财经",
-      "title": "美银证券：农业银行给予“中性”评级 目标价上调至6.06港元 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR3kxNDFteWdpQjVCNnpNem5Nck1WUlBrbHpZSGRxVlY5Vjk0TkNVMUxQUkhlV3Q2MjhRR29HN2lSUjZlMWRTYlIxSk1DVDdJOGlLaFdxOVBXQ2JlWGxKZTNrMVk0TEs3TFk4MDI2VFM2a09rR1pBMEZXWFVqbUcxZlJBbkJ3NGVGcEhz?oc=5\" target=\"_blank\">美银证券：农业银行给予“中性”评级 目标价上调至6.06港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR3kxNDFteWdpQjVCNnpNem5Nck1WUlBrbHpZSGRxVlY5Vjk0TkNVMUxQUkhlV3Q2MjhRR29HN2lSUjZlMWRTYlIxSk1DVDdJOGlLaFdxOVBXQ2JlWGxKZTNrMVk0TEs3TFk4MDI2VFM2a09rR1pBMEZXWFVqbUcxZlJBbkJ3NGVGcEhz?oc=5",
+      "title": "大摩：中国中免目标价降至77港元 给予“与大市同步”评级 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOGtxS0tCYUhOYzV1b2tzNkh0NWozd0hwYzBfZTZCSWhfSjRzbHM1Z21hSEJxa2tJMWhMSUFrU1FhS1dXNE5mQk01T2hoa0xtakhiWUpQTmhpWk13RkF6NEthak5xSm1HNU1vX3FjeFZEZGdGallHeEZKd3lleXJWM21tV3ozRmdhQ0RILW53aHRieUxYWHF1NHg3ZXpoalFsTXRiRE9SdGw4ZjFaZWNKR0puNUwwc1YwSmNMcUd1b0lSb0JjQjUtcnRnaldKajFmbWlVU05RSDlvUkRHdjlEb0VR?oc=5\" target=\"_blank\">大摩：中国中免目标价降至77港元 给予“与大市同步”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOGtxS0tCYUhOYzV1b2tzNkh0NWozd0hwYzBfZTZCSWhfSjRzbHM1Z21hSEJxa2tJMWhMSUFrU1FhS1dXNE5mQk01T2hoa0xtakhiWUpQTmhpWk13RkF6NEthak5xSm1HNU1vX3FjeFZEZGdGallHeEZKd3lleXJWM21tV3ozRmdhQ0RILW53aHRieUxYWHF1NHg3ZXpoalFsTXRiRE9SdGw4ZjFaZWNKR0puNUwwc1YwSmNMcUd1b0lSb0JjQjUtcnRnaldKajFmbWlVU05RSDlvUkRHdjlEb0VR?oc=5",
       "published": "Tue, 05 May 2026 06:23:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "霍尔木兹再变天！全球市场情绪突变，港股大跳水 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnlWUWc3M1dyV3Q5TnQteWtMOHh1TF9aSjlSd0FUc3I4dFlZSnpJdG5IWFNVQWxiODF0ZVNYTE1IaXdOSmJja1FFb0dfTWlJQkI1UkduM2Y3NFZSczl5TG5hZkk5R0x5NWpHYW9FU0U5VGdZMVk0T1Y4UjVuZXdjdQ?oc=5\" target=\"_blank\">霍尔木兹再变天！全球市场情绪突变，港股大跳水</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnlWUWc3M1dyV3Q5TnQteWtMOHh1TF9aSjlSd0FUc3I4dFlZSnpJdG5IWFNVQWxiODF0ZVNYTE1IaXdOSmJja1FFb0dfTWlJQkI1UkduM2Y3NFZSczl5TG5hZkk5R0x5NWpHYW9FU0U5VGdZMVk0T1Y4UjVuZXdjdQ?oc=5",
+      "published": "Tue, 05 May 2026 06:11:00 GMT"
     },
     {
       "source": "东方财富",
@@ -62,17 +83,31 @@
     },
     {
       "source": "东方财富",
-      "title": "华泰证券：二季度进入风电施工旺季 产业链排产出货有望环比向上 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oQndhYWtob2V4ZGtpUnlTaVNXOGd1OHN1QkRpMkNMWHNfNzdwdE9zSThmQUQyOERrVlFvRUJGQ2RtUm9nbVRQNmZhbWlpcTZFVFVsSC03dld6SXFmWE9fQnJ2Yw?oc=5\" target=\"_blank\">华泰证券：二季度进入风电施工旺季 产业链排产出货有望环比向上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oQndhYWtob2V4ZGtpUnlTaVNXOGd1OHN1QkRpMkNMWHNfNzdwdE9zSThmQUQyOERrVlFvRUJGQ2RtUm9nbVRQNmZhbWlpcTZFVFVsSC03dld6SXFmWE9fQnJ2Yw?oc=5",
-      "published": "Tue, 05 May 2026 05:03:52 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "五一档票房破7亿 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Rk0zUzhEYlhsc1dOa1pwMFktMkFWNUs0WGhSXzVTWkFNQmJPclJkNHZmd2lqLTA4VmxCdUdXOFdGWWEyQV85UEZwOURSUW5zT2tmd1dMSmViMDNsNjhKaGVvcGFZZ2hwaC1B?oc=5\" target=\"_blank\">五一档票房破7亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5Rk0zUzhEYlhsc1dOa1pwMFktMkFWNUs0WGhSXzVTWkFNQmJPclJkNHZmd2lqLTA4VmxCdUdXOFdGWWEyQV85UEZwOURSUW5zT2tmd1dMSmViMDNsNjhKaGVvcGFZZ2hwaC1B?oc=5",
       "published": "Tue, 05 May 2026 05:18:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "哈萨克斯坦一工厂发生爆炸 致9人受伤",
+      "summary": "哈萨克斯坦紧急救援部门5日说，乌斯季卡缅诺戈尔斯克市一处工厂当天上午发生爆炸事故，造成9人受伤。据悉，事故发生在锌业股份公司的一处工厂，工厂内除尘设备发生爆炸，引发火灾并造成工厂部分建筑坍塌。目前，火已被完全扑灭，救援人员仍在继续搜寻受困人员。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676454139.shtml",
+      "published": "Tue, 05 May 2026 07:07:25 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧洲主要股指开盘涨跌互现",
+      "summary": "欧洲主要股指开盘涨跌互现，欧洲斯托克50指数涨0.15%，英国富时100指数跌0.62%，法国CAC40指数跌0.19%，德国DAX指数持平。",
+      "link": "https://news.10jqka.com.cn/20260505/c676454117.shtml",
+      "published": "Tue, 05 May 2026 07:04:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧盟官员：能源价格飙升推高欧盟通胀",
+      "summary": "欧盟委员会负责经济事务的委员东布罗夫斯基斯表示，由于中东战事，能源价格飙升，上周石油价格突破每桶125美元。他指出，能源价格上涨影响欧洲经济中的每一个参与者，包括企业和家庭，这一现状正将欧盟经济推向增长放缓和通胀加剧的道路。此外，德国央行行长纳格尔4日表示，美国和以色列针对伊朗的打击导致严重经济后果，全球能源市场动荡正在冲击供应链和价值链，能源密集型产品价格走高、供应趋紧。欧洲央行管理委员会将于6月召开下一次货币政策会议，届时将发布新的预测数据，如果这些数据显示通胀前景没有显著改善，则可能支持加息。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260505/c676454104.shtml",
+      "published": "Tue, 05 May 2026 07:00:57 GMT"
     },
     {
       "source": "同花顺",
@@ -194,25 +229,32 @@
       "published": "Tue, 05 May 2026 05:20:34 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "中证协启动案例征集 强化券商子公司合规风控",
-      "summary": "中国证券业协会近日启动了针对券商子公司在金融“五篇大文章”及合规风控管理方面的优秀实践案例征集。此次行动旨在挖掘和展示另类投资、私募基金和资产管理等子公司在创新实践中的突出成效，并通过标杆案例厘清券商母子公司联动服务国家战略的有效路径。通知要求，报送案例需为2024年1月1日以来有显著成效的项目，并强调案例的高质量和可推广性。这一征集工作将推动券商子公司更明确地服务国家战略，并在合规风控方面发挥积极作用。(中证金牛座)",
-      "link": "https://news.10jqka.com.cn/20260505/c676453773.shtml",
-      "published": "Tue, 05 May 2026 05:18:42 GMT"
+      "source": "财联社",
+      "title": "哈萨克斯坦一工厂发生爆炸 致9人受伤",
+      "summary": "【哈萨克斯坦一工厂发生爆炸 致9人受伤】财联社5月5日电，哈萨克斯坦紧急救援部门5日说，乌斯季卡缅诺戈尔斯克市一处工厂当天上午发生爆炸事故，造成9人受伤。据悉，事故发生在锌业股份公司的一处工厂，工厂内除尘设备发生爆炸，引发火灾并造成工厂部分建筑坍塌。目前，火已被完全扑灭，救援人员仍在继续搜寻受困人员。",
+      "link": "https://api3.cls.cn/share/article/2362859?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 07:08:02 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "全国铁路“五一”假期运输期间旅客发送量突破1亿人次",
-      "summary": "记者5日从中国国家铁路集团有限公司获悉，5月4日，全国铁路发送旅客2038.3万人次，至此，4月29日“五一”假期运输启动以来全国铁路累计发送旅客1.17亿人次，运输安全平稳有序。 5月5日，铁路返程客流继续攀升，全国铁路预计发送旅客2300万人次，计划加开旅客列车2225列。 从铁路12306车票预售情况看，5日热门出发城市主要有北京、广州、成都、上海、杭州、武汉、西安、重庆、深圳、郑州；热门到达城市主要有北京、广州、上海、成都、深圳、武汉、杭州、西安、郑州、南京；南宁至广州、北京至上海、成都至西安、上海至北京、沈阳至北京、武汉至上海、西安至成都、太原至北京、广州至南宁、呼和浩特至北京等热门区间客流集中。 各地铁路部门积极应对返程客流高峰，统筹利用运力资源，全力保障旅客平安有序返程。国铁南昌局集团公司在南昌至杭州、九江至广州等热门方向加开旅客列车381列，其中夜间高铁12列。国铁广州局集团公司在广深地区往返潮州、汕头、湛江等热门方向加开旅客列车707列。国铁乌鲁木齐局集团公司在成都、兰州、和田等热门方向加开旅客列车66列，安排36列动车组列车重联运行。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260505/c676453758.shtml",
-      "published": "Tue, 05 May 2026 05:14:41 GMT"
+      "source": "财联社",
+      "title": "交通运输部：5月4日全社会跨区域人员流动量29936.9万人次",
+      "summary": "【交通运输部：5月4日全社会跨区域人员流动量29936.9万人次】财联社5月5日电，交通运输部数据显示，2026年5月4日，全社会跨区域人员流动量29936.9万人次，环比下降0.4%，同比增长6.1%。铁路客运量2038.3万人次，环比增长9.6%，同比增长3%。公路人员流动量（包括高速公路及普通国省道非营业性小客车人员出行量、公路营业性客运量）27515万人次，环比下降1.1%，同比增长6.5%。其中，公路营业性客运量3863万人次，环比下降1.2%，同比增长9.9%；高速公路及普通国省道非营业性小客车人员出行量23652万人次，环比下降1%，同比增长6%。水路客运量168.4万人次，环比下降15.2%，同比增长1%。 民航客运量215.2万人次，环比增长16.3%，同比下降4.5%。全国邮政行业揽收包裹4.91亿件，环比增长2.3%；投递包裹4.81亿件，环比增长3%。",
+      "link": "https://api3.cls.cn/share/article/2362858?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 07:07:38 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "港股汇丰控股午后直线下挫，现跌超4%",
-      "summary": "港股汇丰控股午后直线下挫，现跌超4%；公司此前在港交所公布一季度财报显示，第一季度除税后利润为73.94亿美元，去年同期为75.7亿美元。",
-      "link": "https://news.10jqka.com.cn/20260505/c676453741.shtml",
-      "published": "Tue, 05 May 2026 05:10:22 GMT"
+      "source": "财联社",
+      "title": "财联社5月5日电，欧洲主要股指开盘涨跌不一，欧洲斯托克50指数开盘涨0.10%，德国DAX指数跌0.14%，英国富时100指数跌1.01%，法国CAC 40指数跌0.23%。",
+      "summary": "财联社5月5日电，欧洲主要股指开盘涨跌不一，欧洲斯托克50指数开盘涨0.10%，德国DAX指数跌0.14%，英国富时100指数跌1.01%，法国CAC 40指数跌0.23%。",
+      "link": "https://api3.cls.cn/share/article/2362857?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 07:06:48 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "印尼东努沙登加拉省附近海域发生6.1级地震",
+      "summary": "【印尼东努沙登加拉省附近海域发生6.1级地震】财联社5月5日电，据印尼气象、气候和地球物理局发布的报告，当地时间5月5日13时44分，印尼东努沙登加拉省西南37公里处海域发生6.1级地震，震源深度10公里。预计不会有海啸风险。",
+      "link": "https://api3.cls.cn/share/article/2362855?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 05 May 2026 06:57:43 GMT"
     },
     {
       "source": "财联社",
@@ -327,34 +369,6 @@
       "published": "Tue, 05 May 2026 05:37:00 GMT"
     },
     {
-      "source": "财联社",
-      "title": "阿联酋全国学校转为远程教学",
-      "summary": "【阿联酋全国学校转为远程教学】财联社5月5日电，阿联酋教育部当地时间4日宣布，全国各地学校再次转为远程教学，相关安排将持续至8日。有关部门表示，此举与当前地区局势紧张有关。4日，阿联酋称遭到伊朗导弹和无人机的袭击。这也是自美伊临时停火以来，阿联酋首次遭袭。此前，在当地学生进行了近七周的远程学习后，阿联酋各地学校4月20日曾恢复线下授课。",
-      "link": "https://api3.cls.cn/share/article/2362827?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 05:34:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中证协启动案例征集 聚焦券商子公司合规风控管理等",
-      "summary": "【中证协启动案例征集 聚焦券商子公司合规风控管理等】财联社5月5日电，证券业高质量发展再迎细化指引。记者5月5日从业内获悉，中国证券业协会近日在行业内印发通知，全面启动券商另类投资、私募基金、资产管理三类子公司落实金融“五篇大文章”及强化合规风控管理优秀实践案例征集工作。 (中证金牛座)",
-      "link": "https://api3.cls.cn/share/article/2362825?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 05:26:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "俄大使：正在和印尼讨论合作建设航天发射场",
-      "summary": "【俄大使：正在和印尼讨论合作建设航天发射场】财联社5月5日电，俄罗斯驻印尼大使谢尔盖·托尔切诺夫表示，俄罗斯正在和印尼讨论航天开发合作的可行性，包括在巴布亚省比亚克岛建设航天发射场、发射卫星和其他联合计划。",
-      "link": "https://api3.cls.cn/share/article/2362824?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 05:22:12 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月5日电，港股长和午后直线拉升，现涨超4%。长和午间公告，拟43亿英镑注销Vodafone Three49%持股。",
-      "summary": "财联社5月5日电，港股长和午后直线拉升，现涨超4%。长和午间公告，拟43亿英镑注销Vodafone Three49%持股。",
-      "link": "https://api3.cls.cn/share/article/2362822?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 05 May 2026 05:09:51 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "ClaudeCode之父：“老公司”转型难，现在是“AI原生公司”最好的机会",
       "summary": "<p>Claude Code创始人Boris Cherny表示，现在的初创公司可以用AI打造出与大公司等值的产物，并实现正面竞争；而老公司转型却要面对流程改造、全员再培训及巨大的内部阻力——这些难题AI原生公司完全没有。在他看来，这正是从零开始、用AI原生构建一切的最好时机。</p>",
@@ -374,6 +388,20 @@
       "summary": "<p>中美核心资产会不会反转？路易·加夫的答案在中国这边。看好中国的逻辑有五层：成本全球最低、人民币最便宜且正在升值、政策转向支持强势货币、全球投资者配置极低不足5%、以及比亚迪等世界级企业正在涌现。同时，他对美国核心资产发出警示：科技巨头正从轻资产平台转向AI时代极其耗资的重资产模式。他质疑：当商业模式发生如此根本性转变，投资者还应该继续支付30到35倍的高市盈率吗？</p>",
       "link": "https://wallstreetcn.com/charts/41959003",
       "published": "Tue, 05 May 2026 05:24:12 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "恒生科技指数进入5000点“拉锯战”｜市场观察",
+      "summary": "<figure><img alt=\"恒生科技指数进入5000点“拉锯战”｜市场观察\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/E30F1D07-0B5C-48BD-8CF9-1A92A8094BEC.jpg\" /></figure><p>互联网公司一季报或主导5月行情。</p><p>劳动节假期之后，在地缘政治局势影响下，恒生科技指数5000点关口“得而复失”，港股形成“拉锯战”局面。</p><p>业内预计，5月中旬开始多家互联网平台科技股将披露业绩，这些企业的人工智能业务进展以及外卖补贴情况将会继续影响指数走势。</p><p>其中，腾讯控股（00700.HK）和阿里巴巴（09988.HK）将于5月13日披露2026年第一季度业绩。</p><p>5月4日，恒生科技指数上涨突破5000点，随后美伊局势再度紧张，5月5日恒生科技指数一度大跌超过2%，一度跌破4900点。</p><p>博大资本国际行政总裁温天纳向第一财经记者表示，5月5日受中东地缘政治紧张重燃影响指数回落，呈现典型的消息面驱动波动格局，预计南下资金作为科技板块",
+      "link": "https://www.yicai.com/news/103164516.html",
+      "published": "Tue, 05 May 2026 07:00:23 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "面积小过足球场，“迷你宅地”在多城被热抢",
+      "summary": "<figure><img alt=\"面积小过足球场，“迷你宅地”在多城被热抢\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/FB104C6E-FFB0-426E-83CC-6F21D128C247.jpg\" /></figure><p>超级大盘退场，微型宅地上位。</p><p>在南京、深圳等一二线核心城市的土地市场上，一类面积不足一万平方米、甚至小于标准足球场的“迷你宅地”，正成为开发商争抢的焦点。</p><p>与过去动辄数万甚至数十万平方米的“超级大盘”用地不同，这类小体量地块以低总价、高周转和核心区位优势，频频拍出高溢价。</p><p>随着土地供应逻辑从“大规模开发”转向“精细化供地”，微型地块的增多，不仅将改变开发模式，也正在重塑未来城市的居住形态。</p><p><strong>一块地只能造几十套房</strong></p><p>4月29日，南京集中出让了14幅宅地，总揽金51亿元。</p><p>14幅地块中有13宗都是底价出让，而唯一一宗引来开发商举牌争抢的地块位于江宁百家湖，共吸引6家民营房企报名参拍，最终由常州",
+      "link": "https://www.yicai.com/news/103164513.html",
+      "published": "Tue, 05 May 2026 06:59:55 GMT"
     },
     {
       "source": "第一财经",

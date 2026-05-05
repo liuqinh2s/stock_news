@@ -3,165 +3,77 @@
   "hour": "15",
   "news": [
     {
-      "title": "印尼推电动车纺织激励",
-      "summary": "印尼宣布将推出产业激励措施以提振GDP，重点包括电动车和纺织业领域。此举可能加速印尼电动汽车产业链发展，利好上游锂、镍等资源需求，同时纺织业激励可能带动相关出口。对A股而言，新能源车产业链（锂电池、材料）及纺织板块或受提振。信号偏多，但影响程度取决于具体政策细节。",
-      "reason": "印尼作为东南亚重要经济体，其产业政策将影响全球供应链，尤其是电动车和纺织领域，与A股相关板块联动。",
-      "category": "行业动态",
+      "title": "霍尔木兹局势持续升级",
+      "summary": "伊朗议长表示霍尔木兹海峡新规则正在确立，韩国讨论是否参与美方行动。此前白宫附近交火、伊朗南部港口起火等事件加剧紧张。港股恒生科技指数已跌2%，汽车、石油等板块承压。A股开盘可能受情绪影响下跌，地缘风险升温利空整体市场，尤其航空、航运、石油化工板块。看空信号。",
+      "reason": "地缘政治事件升级，可能引发全球避险情绪，对A股造成短期冲击，属于优先级一的市场情绪影响。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "新能源车",
-        "锂电池",
-        "纺织服装"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2362852?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "韩考虑参与霍尔木兹行动",
-      "summary": "韩国外交部称正在讨论是否参与美方主导的霍尔木兹海峡行动，此举意味着中东局势可能进一步升级。霍尔木兹海峡是全球石油运输要道，紧张态势将推高油价和避险情绪。A股方面，利好石油、黄金、军工板块，利空航运、部分化工板块。需警惕冲突扩大风险。",
-      "reason": "韩国加入可能加剧地区冲突，对全球能源供应和风险偏好产生重大影响，属于中期影响A股的关键因素。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油",
-        "黄金",
-        "军工",
-        "航运"
+        "沪深300",
+        "航空",
+        "航运",
+        "石油化工"
       ],
       "signal": "bearish",
       "impact_level": 4,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260505/c676454010.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "伊高官称美无法扭转局势",
-      "summary": "伊朗高级指挥官表示美国无法扭转当前中东局面，言论进一步强化市场对冲突持续性的担忧。结合韩方讨论参与行动，霍尔木兹海峡风险溢价上升。利好黄金、原油，利空股市整体情绪。A股短期承压，但资源股受益。",
-      "reason": "伊朗强硬表态增加战争风险，影响全球资产定价，属于高频地缘政治消息。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "黄金",
-        "原油",
-        "军工"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
+          "url": "https://news.10jqka.com.cn/20260505/c676454033.shtml"
+        },
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260505/c676454014.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "浏阳烟花全面停产整顿",
-      "summary": "浏阳全市所有烟花爆竹生产企业自5月4日19时起全面停产整顿，此前烟花厂爆炸事故已致26死61伤。停产将导致相关公司（如熊猫烟花、ST熊猫等）短期业绩受损，同时安全检查可能波及整个化工行业。利空烟花概念股，但对安全生产相关概念（如安防）略有利好。",
-      "reason": "突发事件引发行业全面整顿，对特定个股影响直接，且可能衍生至化工安全监管。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "烟花概念",
-        "化工安全",
-        "浏阳相关"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260505/c676453939.shtml"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2362841?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "大摩下调中国软件国际",
-      "summary": "摩根士丹利将中国软件国际评级从‘持股观望’降至‘减持’，目标价大削至2.6港元。理由可能包括行业竞争加剧、业绩不及预期。该消息利空港股软件板块，可能传导至A股软件服务类个股，尤其是外包IT公司。",
-      "reason": "国际投行大幅下调评级对个股和板块情绪有压制作用，属于机构看空信号。",
-      "category": "公司公告",
+      "title": "浏阳烟花厂爆炸致26死停产",
+      "summary": "湖南浏阳烟花厂爆炸事故已致26人死亡61人受伤，长沙市所有烟花爆竹生产企业全面停产整顿。该事件对烟花爆竹行业形成监管利空，相关个股（如熊猫金控等）可能承压。但A股相关标的较少，影响有限。偏空信号。",
+      "reason": "重大安全事故导致行业全面整顿，属于行业政策变动，对相关板块有负面影响。",
+      "category": "行业动态",
       "impact_stocks": [
-        "软件服务",
-        "IT外包",
-        "中国软件国际"
+        "烟花爆竹概念"
       ],
       "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOek04VWlua3k2cHBVQTI2TkE4MlhUX3BMRUpzdjV4d0loMEhhQUtRNjZMVXZNSEpyTmJ2WGdIRnlQTkI4VnNzWGkwRFlXblRKdUp6eXhySm1oZ3RTM1BHR3UwUFpfbkRabFBtanBmUzdNcndnaGRKSXVUbU1XWGZoVU9LNEYxVS1kckRnRjhaNmk4cmVIN0tiNXVYQzVuaEk2WElTOVV2NzB1ZnlCRVVaZncwTXVzWHQwNW54SW9NalkzRkUySDZDOXNBanVNUG56MnQxVUt3U1pVRGVjaExKTGN3?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "高盛维持上海医药沽售",
-      "summary": "高盛将上海医药目标价从10.5港元升至10.63港元，但仍维持‘沽售’评级。表明短期价格小幅上调但基本面不佳，对医药板块情绪偏空。A股医药股可能受此影响，尤其是流通药企。",
-      "reason": "高盛作为国际投行，其评级对港股和A股医药板块有一定风向标意义。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "医药",
-        "上海医药"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRjZ0dmJjY1RrWGROTm5UbW9Wc2VITlBjTHYwamxiVkxoelZtUURVNnBSMF9RQjhELW9LdzQ5UWM2NEhkUHVNdGpSaGM2YlJJenlWMkpVbm9PTk96cy1SQ2JRTDRqcmw2eHE1S0R2Wm16ZzZ0akYyOXp2dkxEY1REeHd6aDFKVmFBbkEw?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "伊利股份高分红引关注",
-      "summary": "每经品牌100指数高位震荡，成分股伊利股份高分红引发市场关注。伊利作为消费龙头，高分红将提升股东回报，吸引价值投资者。通常高分红对股价有支撑，利好消费板块和红利策略。",
-      "reason": "伊利高分红属于公司积极信号，对消费蓝筹有提振作用，且可能带动市场对高股息股票的关注。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "伊利股份",
-        "消费板块",
-        "高股息"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aNk8tV19WSWQ5QmtLRm4wZkdES19YdDU0VUNXZzEzWVBOQ0tDMzJLWDdCZU9NVDZjMEhMaEFlSXRjbTZiOUhvYTNNa25IMjI4ZzZyaXJtRTNHNnpSNlQyQ2VSY1ZoS3lSdzdEZ2lTMk13a2hURWlSZg?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "哈萨克斯坦不退出OPEC+",
-      "summary": "哈萨克斯坦能源部表示暂无计划退出OPEC+。此消息有助于稳定市场对OPEC+减产协议延续的预期，为油价提供支撑。A股石油板块受益，但影响有限。",
-      "reason": "OPEC+成员表态直接影响原油供给预期，进而影响能源板块。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油",
-        "能源"
-      ],
-      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2362846?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2362829?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260505/c676453939.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
+    },
+    {
+      "title": "摩根士丹利上调宁德时代目标价",
+      "summary": "摩根士丹利将宁德时代H股目标价上调至815港元，看好其锂电池龙头地位。同时港股锂电池板块逆势走强，宁德时代A股有望受提振。该评级为重大机构观点，对新能源板块有正面引导作用。看多信号。",
+      "reason": "知名机构上调核心资产目标价，属于优先级二的机构评级变动，对新能源板块有积极影响。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "宁德时代",
+        "锂电池",
+        "新能源"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260505/c676453996.shtml"
+        },
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOGtxS0tCYUhOYzV1b2tzNkh0NWozd0hwYzBfZTZCSWhfSjRzbHM1Z21hSEJxa2tJMWhMSUFrU1FhS1dXNE5mQk01T2hoa0xtakhiWUpQTmhpWk13RkF6NEthak5xSm1HNU1vX3FjeFZEZGdGallHeEZKd3lleXJWM21tV3ozRmdhQ0RILW53aHRieUxYWHF1NHg3ZXpoalFsTXRiRE9SdGw4ZjFaZWNKR0puNUwwc1YwSmNMcUd1b0lSb0JjQjUtcnRnaldKajFmbWlVU05RSDlvUkRHdjlEb0VR"
+        }
+      ],
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 56,
-  "generated_at": "2026-05-05T15:01:38.523822+08:00"
+  "total_fetched": 60,
+  "generated_at": "2026-05-05T15:12:09.951913+08:00"
 }
