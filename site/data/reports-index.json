@@ -1,6 +1,17 @@
 [
   {
     "date": "2026-05-06",
+    "hour": "02",
+    "titles": [
+      "OpenAI推出GPT-5.5 Instant",
+      "本田搁置加拿大EV工厂项目",
+      "黑石KKR与谷歌AI模型谈判",
+      "英伟达与Servicenow合作AI代理"
+    ],
+    "count": 4
+  },
+  {
+    "date": "2026-05-06",
     "hour": "01",
     "titles": [
       "葡萄酒企业控制权变更停牌",
