@@ -1,0 +1,78 @@
+
+============================================================
+attempt: [deepseek] 1/6 策略=仅标题+链接 retry=0
+finish_reason: stop
+usage: CompletionUsage(completion_tokens=2078, prompt_tokens=8558, total_tokens=10636, completion_tokens_details=CompletionTokensDetails(accepted_prediction_tokens=None, audio_tokens=None, reasoning_tokens=819, rejected_prediction_tokens=None), prompt_tokens_details=PromptTokensDetails(audio_tokens=None, cached_tokens=0), prompt_cache_hit_tokens=0, prompt_cache_miss_tokens=8558)
+content length: 2824
+============================================================
+{
+  "news": [
+    {
+      "title": "美伊冲突升级油价暴涨",
+      "summary": "美舰强闯霍尔木兹海峡，伊朗开火回应，紧张局势加剧。布伦特原油暴涨5%，现货黄金站上4530美元/盎司。地缘政治风险上升，短期避险情绪升温，利空A股整体，利好石油、黄金、军工板块。",
+      "reason": "直接影响全球风险偏好和商品价格，对A股石油、黄金、军工板块产生显著利多，对整体市场情绪偏空。属于重大地缘政治事件，优先级一。",
+      "category": "宏观经济",
+      "impact_stocks": ["石油板块", "黄金板块", "军工板块"],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {"name": "同花顺", "url": "https://news.10jqka.com.cn/20260505/c676452581.shtml"},
+        {"name": "第一财经", "url": "https://www.yicai.com/news/103164389.html"}
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "摩根士丹利上调宁德时代H股目标价",
+      "summary": "摩根士丹利将宁德时代H股目标价上调至815港元，较当前股价有较大上行空间。机构评级上调，对新能源板块有正向催化，尤其是锂电池龙头。",
+      "reason": "知名机构上调龙头目标价，属于优先级二的机构评级变动，对新能源板块有积极信号。",
+      "category": "公司公告",
+      "impact_stocks": ["宁德时代", "新能源板块"],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {"name": "新浪财经", "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41cmdOZ1pnNnJQM0JSNDJ0aTFUck1WUGNYRDI5SGlmZHpyNkxsMkxwX04xWVIwYndZVnMxZExEOXRjT1N0Ny1Rc3hQYUZMemx4ZXdQSlQwdU1ndThVc2pRbzRvVFh1MW1PazREbFNqaDktbHQyXzBjSw?oc=5"}
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "4月大宗商品价格指数同比涨20.2%",
+      "summary": "中国物流与采购联合会公布4月份中国大宗商品价格指数为132.1点，同比上涨20.2%。数据超预期，显示通胀压力，利好资源类板块（煤炭、钢铁、有色），但可能引发货币政策收紧担忧。",
+      "reason": "宏观经济数据超预期，直接影响资源板块及市场对通胀和政策的预期，属于优先级二。",
+      "category": "宏观经济",
+      "impact_stocks": ["煤炭", "钢铁", "有色金属"],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {"name": "财联社", "url": "https://api3.cls.cn/share/article/2362754?os=web&sv=8.4.6&app=CailianpressWeb"}
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "富时A50期货盘初跌0.4%",
+      "summary": "富时中国A50指数期货开盘下跌0.36%-0.4%，反映海外市场避险情绪及隔夜美股大跌影响（道指跌超500点）。短期对A股开盘构成负面压力。",
+      "reason": "A50期货作为A股开盘的前瞻指标，下跌预示市场情绪偏弱，属于市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": ["沪深300"],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {"name": "同花顺", "url": "https://news.10jqka.com.cn/20260505/c676452688.shtml"}
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "液冷龙头罕见跌停，行业逻辑生变？",
+      "summary": "液冷概念龙头股罕见跌停，可能反映行业基本面变化或资金出逃。对液冷、服务器散热板块构成利空，需警惕资金切换。",
+      "reason": "板块龙头异常表现，属于市场结构信号，可能预示行业逻辑变化或资金撤退，影响液冷板块及算力相关概念。",
+      "category": "市场结构",
+      "impact_stocks": ["液冷概念", "算力设备"],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {"name": "东方财富", "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uUXhjZkJXNW5rU2k3Y0lDNzRjbFdYR2pFZnZWRWFtVkk4NU1Ka0lGOTJpSGU4Z2Q3eXkzS0t5dnJSQnVlSDJEa3dFbmg2aW1IUjB4clZjVjNjVHpMUVM0ZGo4YThuSThjUkxZ?oc=5"}
+      ],
+      "urgency": "hours"
+    }
+  ],
+  "note": "当日缺乏央行、证监会重大政策，以及北向资金异动等优先级一消息，主要围绕地缘政治、宏观数据、机构评级和市场情绪展开。"
+}

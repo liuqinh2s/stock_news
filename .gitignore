@@ -1,0 +1,34 @@
+# 环境变量
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+ENV/
+
+# 数据文件
+reports/
+
+# 站点数据
+site/data/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# 日志
+*.log

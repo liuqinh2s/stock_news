@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A股消息雷达</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="data/all-data.js"></script>
+</head>
+
+<body>
+    <div class="app">
+        <div class="sticky-top">
+            <header class="header">
+                <div class="header-inner">
+                    <span class="logo">📡 A股消息雷达</span>
+                    <button class="theme-toggle" id="themeToggle">
+                        <span class="icon-light">☀️</span>
+                        <span class="icon-dark">🌙</span>
+                    </button>
+                </div>
+            </header>
+
+            <section class="hero">
+                <div class="hero-inner">
+                    <p class="hero-tagline">每小时扫描全网A股消息，AI 筛选交易信号</p>
+                    <p class="hero-sub">覆盖证监会公告 · 沪深交易所 · 宏观数据 · 财经媒体 · 行业研报</p>
+                    <div class="hero-stats">
+                        <span>📡 20+ 信息源全覆盖</span>
+                        <span class="stat-divider">·</span>
+                        <span>🤖 AI 交易信号筛选</span>
+                        <span class="stat-divider">·</span>
+                        <span>⏰ 每小时自动更新</span>
+                    </div>
+                </div>
+            </section>
+
+            <nav class="tabs">
+                <div class="tabs-inner">
+                    <button class="tab active" data-tab="recent">最新消息</button>
+                    <button class="tab" data-tab="archive">📁 历史归档</button>
+                    <button class="tab" data-tab="search">🔍 搜索</button>
+                </div>
+            </nav>
+        </div>
+
+        <main class="content">
+            <div class="container">
+                <!-- 最新消息（最近6小时） -->
+                <div class="tab-panel active" id="panelRecent">
+                    <div class="sentiment-bar" id="sentimentBar"></div>
+                    <div id="recentNews">
+                        <p class="empty-state">加载中...</p>
+                    </div>
+                </div>
+
+                <!-- 归档 -->
+                <div class="tab-panel" id="panelArchive">
+                    <div id="archiveTree">
+                        <p class="empty-state">加载中...</p>
+                    </div>
+                </div>
+
+                <!-- 搜索 -->
+                <div class="tab-panel" id="panelSearch">
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="输入关键词搜索所有消息（如 茅台、新能源、降准）">
+                    </div>
+                    <p class="search-meta" id="searchMeta"></p>
+                    <div id="searchResults">
+                        <p class="empty-state">输入关键词搜索所有消息</p>
+                    </div>
+                </div>
+
+                <footer class="footer">
+                    <p class="footer-slogan">投资决策，先人一步</p>
+                    <p>A股消息雷达 · AI 筛选交易信号</p>
+                    <p class="update-schedule">每小时自动更新</p>
+                </footer>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal-overlay" id="modalOverlay">
+        <div class="modal">
+            <button class="modal-close" id="modalClose">✕</button>
+            <div class="modal-content" id="modalContent"></div>
+        </div>
+    </div>
+
+    <!-- Toast -->
+    <div class="toast hidden" id="toast"></div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
