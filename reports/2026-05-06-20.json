@@ -3,146 +3,125 @@
   "hour": "20",
   "news": [
     {
-      "title": "Kimi融资20亿美元 DeepSeek估值450亿",
-      "summary": "AI公司Kimi即将完成20亿美元融资，同时DeepSeek被曝投后估值或达450亿美元。这表明全球资本持续加码中国AI领域，将提振A股人工智能、大模型相关板块情绪，尤其是算力、芯片等基础设施方向。看多信号。",
-      "reason": "AI赛道重大融资事件，直接利好A股AI概念股，市场情绪催化。",
-      "category": "行业动态",
+      "title": "卓胜微完成A股再融资",
+      "summary": "中金公司独家保荐卓胜微（300782）完成A股再融资，具体金额未披露。卓胜微是射频芯片龙头，此次再融资有助于公司扩大产能和研发投入，巩固市场地位。利好卓胜微及射频芯片产业链，同时显示投行对龙头的支持。看多信号。",
+      "reason": "龙头再融资成功，有利于公司长期发展，增强市场信心。",
+      "category": "公司公告",
       "impact_stocks": [
-        "AI概念",
-        "算力",
+        "卓胜微",
+        "射频芯片",
         "半导体"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 1,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364106"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "诺和诺德：司美格鲁肽仿制药在华上市推迟",
-      "summary": "诺和诺德预计其重磅减肥药司美格鲁肽（Ozempic）的仿制药在中国上市将推迟至明年。这将延缓国产仿制药对原研药的冲击，利好国内GLP-1相关创新药企业及原料药供应商，延长市场独占期。看多信号。",
-      "reason": "影响国内减肥药产业链竞争格局，利好相关医药股。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "创新药",
-        "GLP-1概念",
-        "医药"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364116"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtQ1RBZTlhX1RHcXZDNHkzUmRnWlo5UURLQ2s0cDhvUnZyaFRGcjlOUEY4QUJSSlpXQVBEa19rRzFMYkpneGVGSVdWQjZlT1ZrVUswQ3p0aGJnMG1xckJqNWlHeHBTMGtFcjkzTDFnZXRUOW1zcTNpQg?oc=5"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "远东股份子公司中标26.33亿元合同",
-      "summary": "远东股份公告子公司中标/签约千万元以上合同订单合计26.33亿元，涉及智能电缆、新能源等领域。大额订单将增厚公司业绩，但需关注毛利率。整体利好个股及电网设备板块。看多信号。",
-      "reason": "公司重大经营合同，直接提升业绩预期。",
-      "category": "公司公告",
+      "title": "近半数A股完成ESG强制披露",
+      "summary": "2026年ESG强制披露元年首张成绩单出炉，49.4%的A股公司提交了ESG报告。这标志着A股监管向国际标准靠拢，长期利好ESG投资理念的普及，对高ESG评级公司（如银行、新能源）形成正面推动。短期影响不大，但趋势增强。",
+      "reason": "ESG披露率提升，符合国际趋势，机构投资者日益重视ESG因子。",
+      "category": "监管政策",
       "impact_stocks": [
-        "远东股份",
-        "电网设备",
-        "新能源"
+        "ESG概念",
+        "沪深300"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364105"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5WWhjQmo4aDgzZzUwRmpaY1ZiNHcydFRub04xQXBQTlFpMUhfRFdEY2xXTVcyM0RZZlBFOUZSc1luYlRyUURacDBIelRFb0xLclpsR2lnaGZJRjhycmN5UDdjVWpfWDg4Z2pULTlzTktIaTZhRGc?oc=5"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "days"
     },
     {
-      "title": "罗博特科子公司签1.83亿元光通信设备订单",
-      "summary": "罗博特科公告其子公司ficonTEC与纽交所上市公司B的子公司签署1.83亿元合同，涉及量产化测试设备、耦合设备。该订单验证光通信设备高景气，利好公司业绩及光通信板块。看多信号。",
-      "reason": "光通信设备订单验证AI算力需求传导，利好板块情绪。",
-      "category": "公司公告",
+      "title": "甘肃建设新能源装备制造基地",
+      "summary": "甘肃“十五五”规划加快建设全国重要的新能源及新能源装备制造基地。这表明地方政府大力支持新能源产业，利好甘肃本地新能源装备企业（如兰石重装、酒钢集团相关）以及全国风电、光伏设备制造商。政策信号积极，看多新能源装备板块。",
+      "reason": "省级规划明确新能源装备制造基地定位，凸显政策支持力度。",
+      "category": "行业动态",
       "impact_stocks": [
-        "罗博特科",
-        "光通信",
-        "半导体设备"
+        "新能源装备",
+        "风电",
+        "光伏"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364109"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260506/c676484810.shtml"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "days"
     },
     {
-      "title": "特朗普警告伊朗：不履约将更猛烈轰炸",
-      "summary": "特朗普称若伊朗不履行美方条款，将加大轰炸力度。WTI原油期货跌幅收窄至10%报91.7美元。地缘风险再度升温，短期利空A股石油板块，但利好军工、黄金。中东局势反复，需警惕波动。",
-      "reason": "地缘政治风险影响油价和避险情绪，传导至A股相关板块。",
-      "category": "宏观经济",
+      "title": "存储原厂不急于扩产 供给偏紧",
+      "summary": "华尔街见闻分析报告指出，存储原厂（三星、海力士、美光等）鉴于AI需求爆发但设备产能有限，不急于大规模扩产。这意味DRAM/NAND供给将持续偏紧，价格有望维持高位，利好A股存储芯片相关公司（如兆易创新、北京君正、澜起科技）。看多存储板块。",
+      "reason": "供给受限支撑价格，存储芯片景气周期延长。",
+      "category": "行业动态",
       "impact_stocks": [
-        "石油",
-        "军工",
-        "黄金"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364125"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美伊博弈僵局金油价格联袂剧震",
-      "summary": "受美伊谈判反复影响，黄金突破4700美元，白银涨5%，原油暴跌后反弹。避险情绪推动贵金属板块走强，A股黄金股、白银概念有望受益；但油价剧烈波动对石化产业链构成不确定性。",
-      "reason": "大宗商品价格剧烈波动，直接影响A股相关资源板块。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "黄金",
-        "白银",
-        "石油"
+        "存储芯片",
+        "兆易创新",
+        "北京君正"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103166426.html"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771676"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "五一民航旅客量罕见下滑 节后机票跳水",
-      "summary": "五一期间民航旅客量同比下滑，节后机票价格大幅跳水。出行消费低于预期，利空航空、旅游板块。但可能刺激错峰出游，对部分消费板块影响有限。",
-      "reason": "消费数据低于预期，短期利空出行相关板块。",
-      "category": "宏观经济",
+      "title": "中韩OLED竞争升级 国产面板受益",
+      "summary": "中韩两国在SID 2026展会上展开OLED技术“斗法”，未来两三年是双方博弈关键期。中国面板厂商（京东方、TCL科技）在OLED领域加速追赶，有望在中小尺寸OLED市场扩大份额。长期利好国内面板龙头，看多方向。",
+      "reason": "国产OLED技术突破和产能扩张，进口替代逻辑。",
+      "category": "行业动态",
       "impact_stocks": [
-        "航空",
-        "旅游",
-        "消费"
+        "OLED",
+        "京东方",
+        "TCL科技"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "第一财经",
-          "url": "https://www.yicai.com/news/103166469.html"
+          "url": "https://www.yicai.com/news/103166586.html"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "广东落地全国首笔低空经济气候贷",
+      "summary": "广东东莞落地全国首笔“低空经济气候贷”，是一种金融创新产品，专门支持低空经济领域企业应对气候风险。这标志着金融机构对低空经济的支持细化，有望推动低空经济产业发展。利好A股低空经济概念（如亿航智能、中信海直、万丰奥威等）。看多信号。",
+      "reason": "金融工具创新，为低空经济提供资金支持，政策催化。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "低空经济",
+        "亿航智能",
+        "中信海直"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2364140?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 80,
-  "generated_at": "2026-05-06T20:01:28.495247+08:00"
+  "total_fetched": 101,
+  "generated_at": "2026-05-06T20:26:11.647553+08:00"
 }
