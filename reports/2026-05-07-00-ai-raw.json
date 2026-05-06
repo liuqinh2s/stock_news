@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-07",
+  "hour": "00",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 21038,
+    "completion_tokens": 3941,
+    "total_tokens": 24979
+  },
+  "content_length": 1644,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美股科技龙头市值创新高\",\n      \"summary\": \"截至5月6日收盘，美股前五大科技公司（苹果、微软、谷歌、亚马逊、英伟达）总市值首次突破20万亿美元大关。其中英伟达大涨5.13%市值重返5万亿美元，谷歌涨2.4%逼近英伟达。这一里程碑显示全球AI资本重心持续向美股集中，对A股科技板块形成情绪提振，尤其光模块、算力、半导体等关联板块短期或受映射上涨，属于看多信号。\",\n      \"reason\": \"美股科技龙头市值创新高反映全球AI景气度持续，A股半导体、AI算力板块或受联动，属市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"AI算力\", \"光模块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2364269\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"欧佩克4月产量创新低\",\n      \"summary\": \"调查显示，欧佩克4月原油产量降至36年来的新低。尽管近期油价因地缘缓和大幅下跌，但供给端收缩为油价提供底部支撑。结合美国原油库存超预期下降，短期油价或企稳反弹，利好A股石油石化及能源板块，属于看多信号。\",\n      \"reason\": \"欧佩克产量创36年新低是重要供给端变化，直接关系油价走势，影响A股能源板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油石化\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2364271\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"现货铂金涨超5%\",\n      \"summary\": \"5月6日现货铂金大涨5.1%至2053美元/盎司，受避险需求回升及供给收紧预期推动。铂金主要用于催化剂和工业领域，短期上涨或提振A股贵金属及有色金属板块，但持续性存疑，属于中性偏多信号。\",\n      \"reason\": \"铂金大涨带动贵金属板块情绪，但铂金对A股影响有限，属于小金属局部机会。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"贵金属\", \"有色金属\", \"紫金矿业\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2364273\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中大部分与历史消息重复，仅筛选出3条具有一定交易价值的新消息。\"\n}"
+}
