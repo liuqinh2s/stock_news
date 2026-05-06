@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-07",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13037,
+    "completion_tokens": 3089,
+    "total_tokens": 16126
+  },
+  "content_length": 2120,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"东方证券合并重组上海证券\",\n      \"summary\": \"东方证券披露发行股份及支付现金购买资产预案，拟收购上海证券100%股权，上海国资券商整合迎来新进展。该重组将提升东方证券在长三角地区的竞争力和市场份额，对券商板块形成利好。看多信号，预计复牌后券商股将受提振。\",\n      \"reason\": \"重大并购重组，直接影响券商板块估值和行业整合预期，优先级一。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"券商\", \"东方证券\", \"上海证券\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiY0FVX3lxTE50VWN2ZUlJZ0V6TFZnWVVSR25xd29tMWhvM3NTQVhJbVY5TTRWSTdHcGlMVkE0UHo5OG9la0tiWk9jaEtrMVNwb3EwZ3FUc0JuQjB5ZEljS2lDVVIxUlR1eG04OA?oc=5\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"美伊接近达成停战协议\",\n      \"summary\": \"特朗普称美伊“很有可能”达成协议，伊朗已同意不拥有核武器，巴基斯坦消息人士称双方接近签署停战谅解备忘录。地缘风险大幅缓解，全球风险偏好提升，有利于A股整体情绪，但原油供应担忧消退，利空石油板块，军工板块短期承压。\",\n      \"reason\": \"重大地缘政治事件进展，直接影响原油价格和市场风险偏好，优先级二。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"石油\", \"军工\", \"航运\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364314?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"国际原油期货结算价跌超7%\",\n      \"summary\": \"国际原油期货结算价大幅收跌超7%，布油跌超7.8%，创近期最大单日跌幅。主要受美伊停战预期和OPEC产量消息影响。对A股石油石化板块形成利空，但降低中下游成本，利好航空、化工等板块。\",\n      \"reason\": \"原油价格暴跌直接传导A股能源板块及成本敏感行业，优先级二。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油石化\", \"航空\", \"化工\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260507/c676489709.shtml\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"OpenAI推出B2B Signals\",\n      \"summary\": \"OpenAI推出B2B Signals产品，是OpenAI Signals的商业扩展版，旨在为企业提供AI驱动的信号分析服务。此举加快AI商业变现进程，利好AI概念股、SaaS和数据分析板块。\",\n      \"reason\": \"行业动态影响AI板块估值，优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"SaaS\", \"大数据\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364322?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
