@@ -3,163 +3,107 @@
   "hour": "09",
   "news": [
     {
-      "title": "5月逾2000亿元解禁来袭",
-      "summary": "据读财报统计，A股5月限售股解禁规模超2000亿元，其中晶合集成、宏景科技解禁市值居前。大规模解禁将增加市场抛压，对大盘及个股构成利空，尤其是解禁规模较大的科技股。",
-      "reason": "限售股集中解禁属于直接影响行情的高优先级事件，解禁规模超2000亿元为重大利空信号。",
-      "category": "资金流向",
+      "title": "中国4月服务业PMI升至52.6",
+      "summary": "中国4月RatingDog服务业PMI录得52.6，高于前值52.1，显示服务业扩张加速。该数据超预期，反映经济复苏动能增强，对A股整体构成利好，尤其是消费、服务业相关板块。看多信号，预计短期提振市场情绪。",
+      "reason": "宏观经济数据超预期，直接影响市场预期，符合优先级二。",
+      "category": "宏观经济",
       "impact_stocks": [
         "沪深300",
-        "晶合集成",
-        "宏景科技"
+        "消费",
+        "服务业"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKcUtONUg3ZmY0MmZFbWdweXRLd09FQlBIU0JYcjdrd3IwbWUtY2I2WC13Y0VCR2ZNdDh2VmFCLVBldDEyZ1hTUTFYMjNRQWNlcmVsT2hqTzZqVzAtbDhCcnZ3RVNoV3JCbC1ZUlRWUVF3d1Z1aUV1bw?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771619"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "离岸人民币升破6.82",
-      "summary": "离岸人民币兑美元升破6.82关口，创近期新高。人民币升值有利于吸引外资流入A股，对大盘构成利好，尤其利好航空、造纸等进口成本敏感行业。",
-      "reason": "人民币汇率大幅波动属于中期影响，升值信号明确利好A股。",
+      "title": "华夏幸福披星戴帽变身*ST华幸",
+      "summary": "华夏幸福净资产为-177亿元，触发退市风险警示，股票简称变更为*ST华幸。该公司为地产龙头企业，其被ST可能加剧市场对地产板块信用风险的担忧，对地产及相关产业链形成利空。看空信号。",
+      "reason": "公司重大事件，直接影响个股及板块情绪，符合优先级二。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "华夏幸福",
+        "房地产",
+        "地产产业链"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103164889.html"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "AMD盘后涨超16%指引强劲",
+      "summary": "AMD一季度营收103亿美元超预期，二季度指引109-115亿美元高于市场预估，并预计2030年服务器CPU市场规模超1200亿美元。AMD股价盘后大涨超16%，将对全球半导体股形成提振，A股芯片、算力板块有望跟涨。看多信号。",
+      "reason": "海外科技龙头财报超预期，影响全球科技股情绪，符合优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "算力",
+        "AMD概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103164860.html"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "科创50指数大涨超7%逼近历史高位",
+      "summary": "5月6日早盘，科创50指数涨幅扩大至7%，逼近历史新高。成交量显著放大，显示资金集中涌入科创板。该信号表明市场风险偏好极高，科技成长主线明确，对科创板及科技股构成强烈看多信号。注意短期追高风险。",
+      "reason": "市场结构极端表现，反映市场情绪，符合优先级三。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "科创50",
+        "半导体",
+        "科技股"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260506/c676464929.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "WTI原油期货跌超2%",
+      "summary": "WTI原油期货跌幅扩大至2%，跌破100美元关口，主要受中东局势缓和影响。油价下跌利好航空、化工、交通运输等成本敏感型行业，同时降低通胀预期，对A股整体偏多。但石油板块短期承压。看多信号（除石油外）。",
+      "reason": "大宗商品价格变动影响多个行业，符合优先级二。",
       "category": "宏观经济",
       "impact_stocks": [
         "航空",
-        "造纸",
-        "沪深300"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676460067.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "融资客单日买入560只个股超亿元",
-      "summary": "4月30日两市融资买入超亿元的个股达560只，寒武纪以53.33亿元居首。融资余额大幅增加显示杠杆资金积极入市，做多情绪高涨，对科技股及大盘形成支撑。",
-      "reason": "融资余额大幅变动属于中期影响信号，杠杆资金集中买入科技股为看多信号。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "寒武纪",
-        "科技板块"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676460061.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "顺网科技携手华为发布算力方案",
-      "summary": "顺网科技将与华为联合发布全光毫秒算网算力服务解决方案，推进算力基础设施发展。利好算力、AI及5G相关产业链，提振科技板块信心。",
-      "reason": "行业动态中AI算力属当前热点，华为合作带来事件驱动，看多相应板块。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "顺网科技",
-        "算力概念",
-        "华为产业链"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676459805.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "中信证券:一线楼市筑底信号初显",
-      "summary": "中信证券研报指出，一线城市销售端出现筑底信号，有望于2027年企稳，上海或率先企稳。该观点提振房地产板块预期，政策宽松预期增强。",
-      "reason": "行业政策变动（房地产）属于中期影响，利好消息推动板块估值修复。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "房地产",
-        "上海本地地产股"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676459405.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "存储芯片股价新高 HBM涨价持续",
-      "summary": "美韩存储芯片股价齐刷新高，机构预计HBM涨价可能持续到2027年，AI驱动存储景气周期。利多A股存储芯片及半导体产业链，相关个股有望受益。",
-      "reason": "行业景气度提升，存储为AI核心环节，看多信号强烈。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "存储芯片",
-        "半导体",
-        "HBM概念"
+        "化工",
+        "交运",
+        "石油"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363251"
+          "url": "https://api3.cls.cn/share/article/2363326?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "东阳光签下190亿元算力大单",
-      "summary": "东阳光签下最高190亿元算力服务大单，为AI算力需求爆发的又一例证。重大订单将显著增厚公司业绩，同时提振算力、AI产业链市场情绪。",
-      "reason": "公司重大事件（大订单）对个股及板块有直接刺激，属于中期影响。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "东阳光",
-        "算力概念",
-        "AI板块"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103164804.html"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "年内A股117只股票翻倍",
-      "summary": "今年以来A股已有117只股票实现股价翻倍，市场赚钱效应显著，投资者情绪高涨。该信号通常指向市场处于强势阶段，但需警惕过热风险。",
-      "reason": "市场情绪极值信号，显示多头主导，但需结合其他指标判断。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "沪深300",
-        "中小盘股"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "证券时报",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1MlVpSnJTbzY4MWZ1X3VCWjlLMURBWHVkRnJ5MzNyWmQwWDRkSXNjV3N2d0IzVDJwQnFmc1ZtQWZYNG94VXRLd3lMMkdXdklfdXRPWFY5cFNLQVNY?oc=5"
-        }
-      ],
-      "urgency": "days"
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 92,
-  "generated_at": "2026-05-06T09:02:22.478258+08:00"
+  "total_fetched": 112,
+  "generated_at": "2026-05-06T09:49:30.680101+08:00"
 }
