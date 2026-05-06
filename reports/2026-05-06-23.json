@@ -3,34 +3,35 @@
   "hour": "23",
   "news": [
     {
-      "title": "东方证券收购上海证券",
-      "summary": "东方证券披露发行股份及支付现金购买上海证券100%股权预案，股票将于5月7日复牌。此次合并是上海国资券商整合的重要一步，预计将提升券商业务协同效应。利好券商板块，尤其是上海本地券商股。属于重大并购重组，看多信号。",
-      "reason": "重大并购重组，影响券商板块，属于优先级一事件。",
-      "category": "公司公告",
+      "title": "特朗普称伊朗战事或结束",
+      "summary": "特朗普表示伊朗战事“很有可能结束”，美伊正接近达成协议。若停战，霍尔木兹海峡将开放，国际油价可能大幅回落。对A股而言，地缘风险降低有利于风险偏好回升，但需警惕原油板块短期回调。利好航空、化工等下游成本受益行业，整体看多。",
+      "reason": "美伊冲突是全球市场核心变量，和谈进展直接影响油价和A股风险偏好，属于优先级二的事件。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "东方证券",
-        "上海证券",
-        "券商板块"
+        "航空",
+        "石油化工",
+        "沪深300"
       ],
       "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zQzk5SjMzbnktX2JHMi1qUmhpRXJQV25wM3M3UjJ4RkNWN1U4UFMwbnZia0pIbjZydXNqa014djlRZ3NzdVoyTDVna0tfQWtCcXg4Y0gtb0d2T01FUkpjWk11bWgxcl9uamRGNC1DSkVKMVJFdTFSag?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260506/c676489129.shtml"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "工信部批复卫星物联网商用",
-      "summary": "工信部批复国电高科开展卫星物联网业务商用试验，为商业航天等新兴产业提供通信基础设施支撑，低轨卫星通信规模化应用进入实质性推进阶段。利好卫星互联网、商业航天板块。属于行业政策利好，看多信号。",
-      "reason": "行业政策利好，直接影响卫星互联网板块，属于优先级二。",
+      "title": "PCB覆铜板需求激增",
+      "summary": "据财联社电报，PCB覆铜板需求激增，交货周期已延长至3倍。分析师认为AI驱动的超级周期具备持续性，CCL供需紧张格局将至少维持到2027年。国内领先厂商有望深度受益。利好PCB概念、沪电股份、深南电路、生益科技等。看多信号。",
+      "reason": "AI算力需求带动上游材料紧缺，属于行业动态，对相关板块有中期推动。",
       "category": "行业动态",
       "impact_stocks": [
-        "卫星互联网",
-        "商业航天",
-        "国电高科"
+        "PCB概念",
+        "沪电股份",
+        "深南电路",
+        "生益科技"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -43,46 +44,45 @@
       "urgency": "days"
     },
     {
-      "title": "农业农村部加强生猪调控",
-      "summary": "农业农村部表示要抓紧抓实粮食生产，着力加强生猪产能综合调控。政策旨在稳定生猪产能，利好生猪养殖板块，尤其是龙头企业。属于行业政策利好，看多信号。",
-      "reason": "行业政策利好，直接影响生猪养殖板块，属优先级二。",
-      "category": "行业动态",
+      "title": "LME锡主力合约大涨8%",
+      "summary": "LME锡主力合约大涨8%，沪锡跟涨超4%。锡供应端扰动叠加需求回暖（半导体、新能源焊料），短期价格强势。利好锡业股份等有色金属公司。但需注意前期涨幅已大，追高风险。看多信号。",
+      "reason": "大宗商品价格异动直接影响相关个股，且锡是半导体产业链重要原料。属于市场结构类消息。",
+      "category": "市场结构",
       "impact_stocks": [
-        "生猪养殖",
-        "牧原股份",
-        "温氏股份"
+        "锡业股份",
+        "有色金属"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364239?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260506/c676488901.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "一季度券商承销科技债增90%",
+      "summary": "一季度证券行业承销科技创新债券金额同比增长超90%。显示资本市场对科技企业融资支持力度加大，利好券商投行收入及科技企业发展。头部券商及科创板、创业板相关标的受益。看多信号。",
+      "reason": "反映市场活力及政策导向，对券商和科技板块有正面影响。属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "券商",
+        "科创板",
+        "科技股"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jcFFKdUNjaUIyZWZfd0FVdHRDQnE3NmxXaDZrSzhJT3pnalBVbno0SWJPSlFnMFU5UHRtb0lTeU14dkp5VXZjZHdLTktyMkw5Q2RId1J3b1NUaE8yYVUwTWFRaw?oc=5"
         }
       ],
       "urgency": "days"
-    },
-    {
-      "title": "美债收益率逼近5%警戒线",
-      "summary": "30年期美债收益率再度逼近5%，引发对美股估值的担忧。美债收益率上行通常会压制高估值成长股，尤其是科技股。短期可能对A股成长板块形成情绪传导，属于利空信号。",
-      "reason": "海外利率上行可能影响A股成长股估值，属优先级二海外联动。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "成长股",
-        "科技股",
-        "创业板"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771684"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 60,
-  "generated_at": "2026-05-06T23:01:50.320145+08:00"
+  "total_fetched": 76,
+  "generated_at": "2026-05-06T23:22:51.284223+08:00"
 }
