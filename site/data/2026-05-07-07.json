@@ -3,17 +3,75 @@
   "hour": "07",
   "news": [
     {
-      "title": "黄金行业业绩亮眼",
-      "summary": "受量价齐升驱动，黄金行业A股公司一季度业绩亮眼，多家公司净利润大幅增长。COMEX黄金期货近期上涨，金价处于高位，利好黄金板块个股。看多黄金股。",
-      "reason": "行业业绩驱动，直接影响黄金板块估值，优先级二。",
-      "category": "行业动态",
+      "title": "AMD暴涨19% 带飞AI芯片",
+      "summary": "美股AMD盘后大涨近19%，受AI芯片需求超预期推动，并带动英伟达等科技股再创新高。中概股金龙指数涨近5%。这将积极传导至A股AI算力、半导体板块，短线看多。",
+      "reason": "海外科技龙头大涨，直接利好A股AI芯片产业链，市场情绪带动。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "黄金板块",
-        "山东黄金",
-        "紫金矿业"
+        "AI芯片",
+        "半导体",
+        "算力"
       ],
       "signal": "bullish",
       "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103167014.html"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "上海五一楼市成交量同比双增",
+      "summary": "上海五一假期新房、二手房成交量同比均实现两位数上涨，售楼处深夜仍在开单。表明在政策持续宽松下，一线城市楼市回暖信号明显。利好地产板块及家居建材。",
+      "reason": "房地产行业反弹信号，市场预期改善，对A股地产股及相关产业链形成支撑。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "房地产",
+        "家居",
+        "建材"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3099621"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "两融余额周内降至27152亿元",
+      "summary": "截至最新周报，沪深两市融资融券余额降至27152.08亿元，较前一周有所下降。两融余额减少可能反映杠杆资金谨慎情绪，对市场偏空。",
+      "reason": "两融余额下降显示融资客减仓，短期资金面偏弱，可能压制反弹高度。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "上证50"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96ZVJGYWg1eURLWWtoZVBaa0lfWHRQalpOWElfWHRqR0JLUV96YlFRa1cydzNEcWxDY2tXWFh1djlUSlYwRndCVW51MkpqV3hKSzEtOUtFZ2xmamJybnM5cGYtLVJ6SXdwZEhJb3ItUnZENWdsZ19jSw?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "黄金行业A股公司业绩亮眼",
+      "summary": "受益于金价量价齐升，多家黄金行业A股公司一季度业绩大幅增长，利润普遍翻倍。金价维持高位背景下，黄金板块盈利确定性高，中期看多。",
+      "reason": "业绩驱动，黄金板块具备防御与增长双重属性，结合金价上涨趋势，配置价值凸显。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "黄金",
+        "有色金属"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "新浪财经",
@@ -23,65 +81,24 @@
       "urgency": "days"
     },
     {
-      "title": "4月公募打新获配超42亿",
-      "summary": "4月份公募机构网下打新获配总额超过42亿元，显示新股申购活跃。打新收益预期提升，可能吸引更多资金参与，对市场流动性有正面作用。但整体影响有限。偏多新股和次新股。",
-      "reason": "市场结构数据，反映资金参与新股的热情，优先级三。",
-      "category": "市场结构",
+      "title": "A股ESG信披率近49%收官",
+      "summary": "A股强制ESG信息披露首年收官，披露率约49%，近半数公司完成披露。此举提升上市公司治理透明度，长期利好市场环境，但短期影响中性。",
+      "reason": "监管制度完善，但无直接行情推动力，作为长期基础建设，信号中性。",
+      "category": "监管政策",
       "impact_stocks": [
-        "次新股",
-        "新股板块"
+        "沪深300"
       ],
-      "signal": "bullish",
-      "impact_level": 2,
+      "signal": "neutral",
+      "impact_level": 1,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364356?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9teEVaRWpVNzVkN0xsMTlJd0lDbTI1NV84RXV3ZDBpeHl6RXZtOFlLMVkyZWszZE52bFFnaVNfLUMzZk1Ib0dqQVNrN1RoNVRSbW94RWVHWmJtMHdPTnVIdUF1aG42ZTc5ajh3RU5ldEVENVFqTEJRMA?oc=5"
         }
       ],
       "urgency": "days"
-    },
-    {
-      "title": "上市银行非息收入增9%",
-      "summary": "一季度上市银行非利息收入同比增长9%，显示银行中间业务收入改善，盈利结构优化。对银行板块形成利好，尤其是零售银行和财富管理业务强的银行。看多银行板块。",
-      "reason": "行业业绩数据，影响银行估值，优先级二。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "银行板块",
-        "招商银行",
-        "平安银行"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260507/c676490721.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "央行呵护流动性信号",
-      "summary": "央行多措并举呵护流动性，包括逆回购操作等，体现政策维持宽松基调。对A股资金面有支撑，利好市场整体。看多。",
-      "reason": "货币政策操作，直接影响市场流动性预期，优先级一。",
-      "category": "货币政策",
-      "impact_stocks": [
-        "沪深300",
-        "银行",
-        "债券"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364350?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 50,
-  "generated_at": "2026-05-07T07:01:42.038916+08:00"
+  "total_fetched": 34,
+  "generated_at": "2026-05-07T07:41:20.028379+08:00"
 }
