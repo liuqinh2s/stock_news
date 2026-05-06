@@ -3,119 +3,105 @@
   "hour": "18",
   "news": [
     {
-      "title": "美伊接近达成停战备忘录",
-      "summary": "据报道，美国和伊朗即将达成一份一页纸的备忘录以结束战争。该消息引发国际原油价格暴跌，WTI原油日内跌超8%至93美元/桶，欧洲天然气价格也大幅下跌。地缘政治风险缓和将降低市场避险情绪，利好航空、化工等用油行业，但对石油板块构成利空。若协议落地，中东供应链风险下降，全球风险资产有望获得提振。",
-      "reason": "地缘政治重大转变，直接影响能源价格和全球风险偏好，对A股石油板块及整体市场情绪有显著影响。",
-      "category": "行业动态",
+      "title": "国际原油暴跌超10%",
+      "summary": "WTI原油期货暴跌11%，布伦特原油失守99美元/桶，创近期新低。主要受中东局势缓和、美伊谈判预期及需求担忧影响。利空A股石油石化板块（如中国石油、中国石化），但利好下游化工、交通运输行业。短期看空石油板块，对大盘整体偏空，但可能缓解通胀预期。",
+      "reason": "原油暴跌属重大外部冲击，直接影响A股能源板块及市场情绪，按筛选标准优先级二，海外市场联动。",
+      "category": "宏观经济",
       "impact_stocks": [
         "石油石化",
-        "航空",
-        "化工",
-        "沪深300"
+        "中国石油",
+        "中国石化",
+        "交通运输"
       ],
-      "signal": "bullish",
-      "impact_level": 5,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771656"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363916?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "WTI原油暴跌8%至93美元",
-      "summary": "受美伊接近达成停战协议影响，WTI原油期货价格跌破94美元/桶，日内跌8.5%报93.46美元/桶，布伦特原油失守102美元/桶。原油大幅下跌将降低国内炼化及化工企业成本，利好下游航空、物流等行业，但利空石油开采及油服板块。同时，油价回落有助于缓解全球通胀压力，为央行宽松提供空间。",
-      "reason": "原油价格异动直接影响A股能源板块及产业链，且幅度极大，需及时关注。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "石油石化",
-        "航空",
-        "化工",
-        "物流"
-      ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 4,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676480399.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363937?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://news.10jqka.com.cn/20260506/c676482730.shtml"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "南向资金净卖出85亿港元",
-      "summary": "今日南向资金净卖出85.65亿港元，盈富基金遭净卖出居前。南向资金大幅流出港股，可能反映部分资金获利了结或转向A股。但港股与A股联动性较强，资金外流或暗示短期市场情绪趋于谨慎。需关注后续资金流向，若持续流出可能对A股造成一定压力。",
-      "reason": "资金流向指标，南向资金大幅净卖出是市场情绪信号，可能预示阶段性调整。",
-      "category": "资金流向",
+      "title": "机构大幅上调AMD目标价",
+      "summary": "瑞穗将AMD目标价从280美元上调至415美元，富国银行从345美元上调至505美元，AMD盘前涨超17%。AI算力需求持续超预期，利好A股算力芯片、服务器板块（如海光信息、寒武纪）。看多相关板块，情绪催化。",
+      "reason": "海外芯片巨头获机构上调目标价，将传导至A股AI算力板块，属优先级二行业动态。",
+      "category": "行业动态",
       "impact_stocks": [
-        "港股通",
-        "沪深300"
+        "AI算力",
+        "海光信息",
+        "寒武纪",
+        "存储芯片"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2364011?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "国家大基金二期减持佰维存储",
+      "summary": "佰维存储公告，国家集成电路基金二期于2月4日至5月3日期间减持1.85%公司股份。大基金减持通常被视为股价高位的信号，可能对存储芯片板块造成短期压力。利空佰维存储及存储芯片概念，需警惕高位风险。",
+      "reason": "国家大基金减持属重要股东行为，直接影响个股及板块情绪，按优先级一公司公告。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "佰维存储",
+        "存储芯片"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676480245.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363918?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://news.10jqka.com.cn/20260506/c676482435.shtml"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "月之暗面完成20亿美元融资",
-      "summary": "AI创业公司月之暗面（Moonshot AI）将完成20亿美元新融资，估值突破200亿美元。该公司为国内大模型领域头部企业，融资表明资本持续看好AI赛道。利好国内AI概念股，尤其是与大模型、算力、应用相关的标的。不过，A股AI板块今日已大涨，短期需注意利好兑现风险。",
-      "reason": "AI行业重大融资事件，提振市场对AI产业的信心，对A股AI概念有正面刺激。",
-      "category": "行业动态",
+      "title": "伊朗保证霍尔木兹海峡安全",
+      "summary": "伊朗称将确保船只安全通过霍尔木兹海峡，同时有消息称美伊谈判显现希望。此举缓解了中东供应中断担忧，是原油暴跌的催化剂之一。利空石油板块，但对全球供应链及市场情绪偏正面。",
+      "reason": "地缘缓和直接影响油价及风险偏好，属优先级二，海外市场联动。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "大模型"
+        "石油石化",
+        "交通运输"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771655"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260506/c676482722.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "黄仁勋：AI野心应放大100倍",
-      "summary": "英伟达CEO黄仁勋发表言论，认为所有人对未来的野心都应放大100倍，暗示AI产业空间远超当前预期。该言论进一步强化市场对AI长期增长的信念，利好A股算力、芯片、AI应用等板块。但需注意市场已充分定价AI乐观预期，短期波动可能加大。",
-      "reason": "产业领袖重磅发言，对AI板块情绪有直接提振作用。",
-      "category": "市场情绪",
+      "title": "券商分类评价北交所专项评价",
+      "summary": "券商分类评价北交所专项评价数据定向披露，全面覆盖保荐上市、推荐挂牌等全业务链条。有助于提升北交所活跃度，利好北交所概念及券商板块。中性偏多，但影响有限。",
+      "reason": "监管政策涉及交易所规则，属优先级一监管政策，但影响程度中等。",
+      "category": "监管政策",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "半导体"
+        "北交所",
+        "券商"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/charts/41959020"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2364007?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 99,
-  "generated_at": "2026-05-06T18:01:16.880030+08:00"
+  "total_fetched": 92,
+  "generated_at": "2026-05-06T18:56:07.822583+08:00"
 }
