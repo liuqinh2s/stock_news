@@ -3,104 +3,85 @@
   "hour": "16",
   "news": [
     {
-      "title": "伟创力盘前涨超19%",
-      "summary": "电子制造服务巨头伟创力（Flex Ltd）美股盘前大涨超19%，可能因财报超预期或AI订单驱动。该公司为全球领先EMS厂商，与A股工业富联、环旭电子等具有可比性。股价大涨反映全球电子制造景气度，对A股EMS及消费电子代工板块构成正面情绪传导，但直接关联有限。",
-      "reason": "海外龙头大涨映射A股EMS板块，可能带动相关个股短期情绪，属联动机会。",
+      "title": "南向资金净卖出超70亿",
+      "summary": "截至今日收盘，南向资金净卖出金额达70亿港元，为近期罕见的大额流出。港股通资金持续净卖出，反映内地资金对港股短期态度趋于谨慎。可能影响A+H股联动，尤其对恒生科技指数成分股形成压力。属于偏空信号，但规模尚在可控范围。",
+      "reason": "资金流向异常，南向资金单日净卖出超70亿港元为近期新高，反映资金避险或获利了结倾向，对A股情绪有传导作用。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "港股通标的",
+        "恒生科技"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363720"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "中美就特朗普访华保持沟通",
+      "summary": "外交部表示，中美双方就特朗普总统访华事保持着沟通。若特朗普访华成行，将是中美关系缓和的重要信号，有助于降低贸易与地缘政治风险，提振市场信心。具体时间未定，但外交沟通本身释放积极信号。对A股整体偏多，尤其利好出口相关板块。",
+      "reason": "中美关系是影响A股长期风险偏好的关键变量，高层互动具有重大意义，属于优先级一的重大事件。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "外贸板块",
+        "科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2363706"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "诺和诺德Wegovy口服药大超预期",
+      "summary": "诺和诺德Q1净利润高于预期，Wegovy口服制剂第一季度总处方量约130万份，大超预期。公司上调全年指引。GLP-1赛道景气度确认，国内相关原料药、CXO及仿制药企业有望受益。对A股GLP-1概念股构成利好。",
+      "reason": "全球减肥药龙头业绩超预期，为A股相关产业链提供业绩兑现逻辑，属于行业动态中的利好。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "GLP-1概念",
+        "药明康德",
+        "翰宇药业"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771640"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "闪迪盘前涨6%引领存储反弹",
+      "summary": "美股存储芯片公司闪迪盘前涨超6%，受AI需求带动存储涨价的预期提振。此前美光高管表示产能仍不够吃，存储行业景气度持续。该消息将强化A股存储芯片板块的上涨逻辑，有望带动相关个股继续走强。偏多信号。",
+      "reason": "存储芯片是本轮A股行情主线之一，美股映射对次日情绪影响直接，属于市场情绪及行业联动。",
       "category": "市场情绪",
       "impact_stocks": [
-        "工业富联",
-        "环旭电子",
-        "消费电子"
+        "存储芯片",
+        "闪迪概念",
+        "佰维存储"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676474853.shtml"
+          "url": "https://news.10jqka.com.cn/20260506/c676475407.shtml"
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "航天智装存储芯片出货稳",
-      "summary": "航天智装（300455）在互动平台表示，公司宇航存储芯片出货量稳定，产品价格将合理调整。宇航级存储芯片技术壁垒高，应用于航天、军工等领域。该消息显示公司订单正常，对卫星互联网、军工电子板块有微弱利好，但不改变基本面预期。",
-      "reason": "个股披露经营细节，对航天军工存储方向有参考价值，但影响范围有限。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "航天智装",
-        "卫星互联网",
-        "军工电子"
-      ],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363721?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "易天股份获光模块订单",
-      "summary": "易天股份（300812）披露，子公司微组装设备可用于光模块器件组装，已获索尔思等客户订单。光模块设备是AI算力基建关键环节，公司切入供应链验证实力。对光模块设备国产替代方向有积极意义，但订单量未知，短期催化有限。",
-      "reason": "光模块设备获客户认可，属于AI算力产业链新进展，但体量小，仅作观察。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "易天股份",
-        "光模块",
-        "算力设备"
-      ],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2363681?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "万德斯中标3亿项目",
-      "summary": "万德斯（688178）公告，联合体中标约3.02亿元环保项目。金额占公司2025年营收一定比例，但环保行业利润薄，对业绩弹性有限。属正常经营公告，对股价影响微弱。",
-      "reason": "中标金额较小，且环保板块当前非热点，交易价值低。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "万德斯",
-        "环保"
-      ],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676474220.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "仁和药业回购完成",
-      "summary": "仁和药业（000650）公告，累计回购公司股份251.26万股，占总股本0.1795%。回购金额不大，但体现公司对股价信心。对医药板块情绪有极轻微提振，不构成趋势驱动。",
-      "reason": "回购规模小，象征意义大于实质，难以吸引资金关注。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "仁和药业",
-        "中药"
-      ],
-      "signal": "bullish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260506/c676474105.shtml"
-        }
-      ],
-      "urgency": "days"
     }
   ],
-  "total_fetched": 82,
-  "generated_at": "2026-05-06T16:02:16.803791+08:00"
+  "total_fetched": 85,
+  "generated_at": "2026-05-06T16:06:40.682350+08:00"
 }
