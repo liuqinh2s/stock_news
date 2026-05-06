@@ -3,96 +3,131 @@
   "hour": "01",
   "news": [
     {
-      "title": "高盛275亿布局A股",
-      "summary": "高盛一季度持仓数据显示，其持有超900只A股，持仓总额约275亿元。高盛作为顶级外资机构，大幅增持A股表明对中国市场的长期看好，释放积极信号。此举可能带动其他外资跟投，对沪深300、消费、科技等板块构成利好，属于看多信号。",
-      "reason": "外资重仓A股，反映国际资本信心，属于资金流向的重要信号。",
-      "category": "资金流向",
+      "title": "东方证券收购上海证券复牌",
+      "summary": "东方证券披露发行股份及支付现金购买上海证券100%股权预案，股票于5月7日复牌。这是上海国资券商整合的重要进展，有望提升行业集中度，利好券商板块。看多信号，券商合并通常提振板块估值。",
+      "reason": "券商并购重组属于优先级一重大事件，直接影响券商板块及市场情绪。",
+      "category": "公司公告",
       "impact_stocks": [
-        "沪深300",
-        "消费板块",
-        "科技板块"
+        "东方证券",
+        "上海证券",
+        "券商板块"
       ],
       "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zS1NzQkZLSzk1SXJUa0p3RFEtb0lvUjVyNzM1QnJCTzQzdm1RelF2TUdWOTdsR1Rfa1FZcWhtaXB2Y05OLXZjV21DbGJkNTZvQ1NVeVlMeVVfakFWMWlTeFdzRkNENWk2Y25lLUVoX0ZOUy1zSDM0NA?oc=5"
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8waDU2MThBeG5YTW1Ob09zb0pndFVsYTFtUm5leEo0d3ZZekJGQmZaVjVxOHpVaDhURFl2WWNTRUs1eEF6clNORnNWbkNJNmFGbUY5dmFzMGxTdmRUVUlmMlU5V0FsS3R4T1Nr"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "伊朗谈判僵局货轮绕行",
-      "summary": "伊朗外交部称尚未回应美国提出的14点提议，同时CMA Saigon集装箱货轮退出霍尔木兹海峡改道阿曼沿海。伊朗谈判进展缓慢，霍尔木兹海峡通航受阻，地缘紧张局势持续。短期利多原油、黄金等避险资产，但利空航运和依赖海峡的能源进口国。对A股油气、贵金属板块偏多，对航空、化工等成本敏感行业偏空。",
-      "reason": "伊朗局势直接关系油价和全球风险偏好，属于优先级一的地缘政治事件。",
-      "category": "宏观经济",
+      "title": "五粮液控股股东拟增持30-50亿",
+      "summary": "五粮液公告控股股东五粮液集团公司计划增持公司股份，金额30亿元至50亿元。大额增持显示对公司信心，利好白酒板块及消费龙头。看多信号，大股东增持通常提振股价。",
+      "reason": "大股东大额增持属于优先级一公司事件，直接利好五粮液及白酒板块。",
+      "category": "公司公告",
       "impact_stocks": [
-        "石油石化",
-        "黄金",
-        "航运",
-        "航空"
-      ],
-      "signal": "neutral",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364297?os=web&sv=8.4.6&app=CailianpressWeb"
-        },
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260507/c676489452.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "Anthropic租用SpaceX全部算力",
-      "summary": "AI公司Anthropic宣布与SpaceX达成合作，将使用其Colossus 1数据中心的全部计算能力。此举反映AI算力需求爆发，利好AI算力产业链，包括光模块、服务器、数据中心等。英伟达等巨头已大涨，A股相关板块可能受提振。属于强烈看多信号。",
-      "reason": "AI算力重大合作，直接利好A股AI算力板块，符合优先级二行业政策动态。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "AI算力",
-        "光模块",
-        "中际旭创",
-        "服务器"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771688"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364293?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "OPEC原油产量36年新低",
-      "summary": "调查显示欧佩克4月原油产量降至36年最低水平，叠加伊朗局势，原油供应端趋紧。但近期油价因停火预期大跌，该消息可能支撑油价反弹。对A股石油板块偏多，但需注意前期涨幅。",
-      "reason": "供应端收缩利好油价，影响能源板块，属于行业动态。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化"
+        "五粮液",
+        "白酒板块",
+        "消费龙头"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zS1NzQkZLSzk1SXJUa0p3RFEtb0lvUjVyNzM1QnJCTzQzdm1RelF2TUdWOTdsR1Rfa1FZcWhtaXB2Y05OLXZjV21DbGJkNTZvQ1NVeVlMeVVfakFWMWlTeFdzRkNENWk2Y25lLUVoX0ZOUy1zSDM0NA"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美联储古尔斯比暗示可能加息",
+      "summary": "美联储官员古尔斯比表示，如果生产率增长符合预期，可能会加息。这与当前市场降息预期相悖，若加息将收紧全球流动性，对A股构成负面情绪传导。看空信号，需警惕外资流出压力。",
+      "reason": "美联储政策转向是影响全球资产定价的关键变量，加息预期会压制风险资产估值。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "外资重仓股",
+        "成长股"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260507/c676489506.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "伊朗局势缓和原油暴跌10%",
+      "summary": "特朗普称伊朗战事\"很有可能结束\"，双方接近达成协议，布伦特原油跌超10%跌破100美元。地缘风险缓解利好全球市场，但原油大跌对能源板块构成压力。对A股整体偏多，航空、化工受益于成本下降。",
+      "reason": "地缘风险缓解和油价暴跌属于宏观重大事件，影响多个行业板块。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "航空",
+        "化工",
+        "交通运输",
+        "石油石化"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364271?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2364301"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771687"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "天迈科技拟收购上海芬能复牌",
+      "summary": "天迈科技计划收购工业自动化公司上海芬能96.45%股权，股票5月7日复牌。并购重组利好公司估值提升，关注工业自动化板块。看多信号。",
+      "reason": "并购重组属于优先级一事件，直接带动个股及板块关注度。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "天迈科技",
+        "工业自动化"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DUjE1ZVlQZVNtZkt6LV85bGJFeG5vX0dVV2J2OUhMZ0c1cldmSTNuNlREY3ROc1hhcXVYeGFnSWdoVXo4Wm15am56cXN6TW9rSkVWTXNGVE91X2czSlZRTW1INA"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "科技ETF霸屏涨幅榜",
+      "summary": "5月6日科技类ETF涨幅居前，中韩半导体ETF涨停，信创ETF涨超9%。资金集中涌入科技板块，显示市场主线确立。看多信号，科技行情有望延续。",
+      "reason": "ETF涨幅是市场结构性热点的直接体现，属于市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "半导体",
+        "信创",
+        "AI",
+        "科创板"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CV0d4WUtMZk1UVnJzcWdJLWxjcXhqRmJIX0RobUFvOXZRWks5ckF5UjBYOUdNdG05c0xqclh1R3c5c1E1SVdERy1zek9DMDNldTRJZ3ZrRlI3akowZkIwWmRtQTJ1YmpkMjIwNXZSRkVEVlZFV3kyVQ"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 61,
-  "generated_at": "2026-05-07T01:01:37.513836+08:00"
+  "total_fetched": 51,
+  "generated_at": "2026-05-07T01:21:47.987023+08:00"
 }
