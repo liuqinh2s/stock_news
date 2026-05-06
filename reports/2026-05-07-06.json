@@ -3,98 +3,113 @@
   "hour": "06",
   "news": [
     {
-      "title": "离岸人民币升值138点",
-      "summary": "离岸人民币兑美元较周二纽约尾盘涨138点，报6.XX。人民币升值有利于吸引外资流入A股，降低输入性通胀压力，对航空、造纸等外债高或进口成本占比高的行业构成利好。信号：看多。",
-      "reason": "人民币汇率波动直接影响外资配置A股的意愿，升值通常伴随北向资金流入。",
-      "category": "宏观经济",
+      "title": "消费类IPO开闸过会",
+      "summary": "A股消费类IPO过会，净利润8600万，标志着消费类IPO重新开闸。可能利好消费板块如食品饮料、家电等，有助于提振市场对消费复苏的预期。该信号偏多头，因IPO重启显示监管对消费行业的支持态度，但需注意融资压力。",
+      "reason": "证监会IPO政策变化，直接影响市场供给与情绪，符合优先级一。",
+      "category": "监管政策",
       "impact_stocks": [
-        "沪深300",
-        "航空",
-        "造纸",
-        "银行"
+        "消费板块",
+        "食品饮料",
+        "家电"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260507/c676489893.shtml"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XUDRTS0Y4ZXZyTXFFRnhfUlBaR0pLc2lDVmg2d1RrYmFnZmhSUXVBWlNEXzlJN3FSNlo5a3BGRExJWEVqd0oyNUs3dWNvLWxFS1I3VEpncXBnNUxfdjVHcEEtWV9zR2l6Y1BiZGN6R0g5dksyLWc?oc=5"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "Meta获五角大楼AI合同",
-      "summary": "Meta支持的Scale AI获得美国五角大楼5亿美元AI合同，用于提升国防AI能力。这显示AI在军事领域的应用加速，可能刺激A股AI概念、尤其是军工AI板块的炒作热情。信号：看多。",
-      "reason": "美股AI巨头的新订单会提振全球AI产业链情绪，A股AI板块常受美股映射。",
+      "title": "全球存储芯片龙头创新高",
+      "summary": "涨价预期持续升温，全球存储芯片龙头股齐创新高。利好A股存储芯片设计及封测企业（如兆易创新、长电科技），预示行业景气上行。信号偏多，但需关注后续涨价落地情况。",
+      "reason": "行业景气信号，直接影响A股半导体板块，符合优先级二。",
       "category": "行业动态",
       "impact_stocks": [
-        "AI概念",
-        "军工AI",
-        "中科曙光",
-        "科大讯飞"
+        "存储芯片",
+        "兆易创新",
+        "长电科技"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260507/c676489880.shtml"
+          "url": "https://news.10jqka.com.cn/20260507/c676490554.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "黄金白银期货大涨",
-      "summary": "COMEX黄金涨2.81%报4696.8美元/盎司，白银涨5.77%。贵金属大幅上涨主要受中东局势紧张及美联储降息预期推动。利好A股黄金板块，如山东黄金、赤峰黄金、中金黄金等。信号：看多。",
-      "reason": "黄金股与金价高度正相关，金价大涨直接提升盈利预期。",
-      "category": "资金流向",
+      "title": "多地农商行存款再降息",
+      "summary": "多地农商行下调存款利率，全国性银行暂未跟进。有助于降低银行负债成本，但幅度有限。对A股银行板块影响偏中性，区域性中小银行受益更大。",
+      "reason": "货币政策的局部宽松信号，但影响有限，符合优先级二。",
+      "category": "货币政策",
       "impact_stocks": [
-        "黄金板块",
-        "山东黄金",
-        "赤峰黄金",
-        "中金黄金"
+        "银行",
+        "农商行"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2364336?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "SpaceX芯片工厂估算550亿",
-      "summary": "SpaceX估计其芯片工厂建设至少需耗资550亿美元，表明其将大举进军芯片制造领域。可能刺激A股半导体设备及芯片制造概念股，如北方华创、中微公司等。信号：中性偏多。",
-      "reason": "虽然SpaceX非上市公司，但巨额投资计划显示芯片行业长期景气，对A股相关板块有一定情绪提振。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "半导体设备",
-        "芯片制造",
-        "北方华创",
-        "中微公司"
-      ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260507/c676489962.shtml"
+          "url": "https://news.10jqka.com.cn/20260507/c676490546.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
+    },
+    {
+      "title": "券商发债规模增长超六成",
+      "summary": "今年以来券商发债融资规模同比增长超60%，补充资本金。利好券商板块流动性，但增加财务杠杆。信号中性偏多，显示券商扩张意愿。",
+      "reason": "券商融资动态影响行业资金面，符合优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "券商",
+        "中信证券",
+        "华泰证券"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2364353?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "Arm财报后盘后转跌6%",
+      "summary": "Arm Q4营收超预期但盘后涨幅回吐转跌6%，或反映利好兑现。对A股半导体及相关标的（如中芯国际、寒武纪）情绪偏空，需警惕短期回调。",
+      "reason": "核心科技股财报走势影响全球科技情绪，符合优先级二。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "半导体",
+        "中芯国际",
+        "寒武纪"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260507/c676489919.shtml"
+        }
+      ],
+      "urgency": "hours"
     },
     {
       "title": "特斯拉召回近22万辆汽车",
-      "summary": "特斯拉将在美国召回约21.9万辆汽车，涉及安全隐患。该消息可能对A股特斯拉供应链个股形成短期情绪压制，如拓普集团、旭升股份等，但影响有限。信号：利空。",
-      "reason": "召回事件反映产品质量问题，可能影响特斯拉销量预期，间接拖累A股供应商。",
+      "summary": "特斯拉在美国召回约21.9万辆汽车，涉及潜在安全问题。对A股特斯拉供应链个股（如拓普集团、旭升集团）情绪偏空，但召回规模中等，影响可控。",
+      "reason": "海外车企召回影响产业链情绪，符合优先级二。",
       "category": "行业动态",
       "impact_stocks": [
         "特斯拉供应链",
         "拓普集团",
-        "旭升股份"
+        "旭升集团"
       ],
       "signal": "bearish",
       "impact_level": 2,
@@ -105,8 +120,28 @@
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "五角大楼5亿美元AI合同",
+      "summary": "Meta支持的Scale AI获五角大楼5亿美元AI合同，凸显AI军事应用前景。利好A股AI概念（如海康威视、科大讯飞），但需关注商业化落地。信号中性偏多。",
+      "reason": "海外AI大单提振行业情绪，符合优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "海康威视",
+        "科大讯飞"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260507/c676489880.shtml"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 45,
-  "generated_at": "2026-05-07T06:01:11.796060+08:00"
+  "total_fetched": 50,
+  "generated_at": "2026-05-07T06:40:09.039128+08:00"
 }
