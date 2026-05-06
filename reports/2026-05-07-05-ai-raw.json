@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-07",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 11994,
+    "completion_tokens": 2743,
+    "total_tokens": 14737
+  },
+  "content_length": 1674,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"英伟达加码光通信\",\n      \"summary\": \"英伟达斥资5亿美元购入康宁认股权，将康宁光学连接产能提升10倍。此举强化AI算力基础设施，利好A股光通信板块（中际旭创、新易盛等），AI算力需求持续验证。看多信号。\",\n      \"reason\": \"英伟达加码光通信，直接利好国内光模块及光器件供应商，影响等级高。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光通信\", \"中际旭创\", \"新易盛\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiY0FVX3lxTE16OTJwMGJmUWgxeHY3WDhkMW9BSm45SDd5aFFkdW15VjR3bTV2SFpqUmc4SEpEWVBIMFctb3E1eWMxRm5LTFF6TmFBZHdYWnFQSjlDRjA5UFhrV0U1S2ZZajRJcw?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"Arm Q4营收超预期\",\n      \"summary\": \"Arm公司2026财年Q4营收14.9亿美元，高于市场预期，盘后涨超8%。Arm架构在AI和边缘计算领域需求旺盛，利好A股半导体及AI芯片产业链（如芯原股份、海光信息）。看多信号。\",\n      \"reason\": \"Arm业绩超预期反映全球半导体景气度，对A股半导体板块有情绪提振。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体\", \"芯原股份\", \"海光信息\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260507/c676489820.shtml\"}, {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364329?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"OpenAI推出B2BSignals\",\n      \"summary\": \"OpenAI发布B2B Signals，该工具将以企业级信号分析能力拓展商业应用，加速AI在B2B领域渗透。利好A股AI应用赛道（如科大讯飞、拓尔思），看多信号。\",\n      \"reason\": \"OpenAI商业化进展增强AI产业信心，带动A股AI概念股活跃。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI应用\", \"科大讯飞\", \"拓尔思\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364322?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"此轮素材大量重复历史消息，仅筛选出3条有影响力的新消息。\"\n}"
+}
