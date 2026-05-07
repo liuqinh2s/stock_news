@@ -3,50 +3,122 @@
   "hour": "07",
   "news": [
     {
-      "title": "霍尔木兹紧张油价大涨",
-      "summary": "美军舰穿越霍尔木兹海峡并与伊朗发生冲突，伊朗南部海军基地遭美以袭击，WTI原油期货涨超3%至97.86美元/桶。地缘风险升级推高原油价格，短期利空A股整体（避险情绪），但利好石油石化板块。布伦特原油同步上涨，通胀预期升温可能压制货币政策空间。建议关注石油开采、油服等标的。",
-      "reason": "地缘冲突直接影响原油价格，短期冲击市场情绪，优先级二。",
-      "category": "市场情绪",
+      "title": "白宫与AI监管保持距离",
+      "summary": "白宫表示与更严格的AI监管措施保持距离，释放宽松监管信号。这将利好AI概念股，尤其是算力、应用等方向。美国监管态度缓和有助于维持AI产业投资热情，利好A股AI板块。",
+      "reason": "行业政策变动（AI产业政策），属优先级二，对AI板块有直接利好。",
+      "category": "行业动态",
       "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化",
-        "油服"
+        "AI概念",
+        "算力",
+        "半导体"
       ],
-      "signal": "bearish",
-      "impact_level": 4,
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2365495"
-        },
-        {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676523212.shtml"
+          "url": "https://news.10jqka.com.cn/20260508/c676524125.shtml"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "恒瑞医药回购A股进展",
-      "summary": "恒瑞医药公告4月回购108,800股A股作为库存股份，属于常规回购进展。回购规模较小，但表明公司对股价的维护意愿。作为医药龙头，回购信号对板块情绪有轻微提振，但实际影响有限。",
-      "reason": "公司回购属利好，但金额较小，影响有限，优先级二。",
+      "title": "昆仑芯启动上市辅导",
+      "summary": "昆仑芯（北京）科技股份有限公司（百度旗下AI芯片公司）启动上市辅导。这意味着国产AI芯片龙头即将登陆资本市场，有望提振AI芯片、半导体设备等产业链估值。属于重大事件，利多相关概念股。",
+      "reason": "公司重大事件（IPO推进），属优先级二，对AI芯片板块有题材刺激。",
       "category": "公司公告",
       "impact_stocks": [
-        "恒瑞医药",
-        "医药"
+        "AI芯片",
+        "半导体",
+        "百度概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260508/c676523980.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "一线城市楼市延续小阳春",
+      "summary": "报道称一线城市楼市延续“小阳春”行情，购房需求有望持续释放。地产成交回暖利好房地产板块及相关产业链（建材、家电）。中期看，楼市复苏有助于经济稳定，对A股整体偏正面。",
+      "reason": "行业政策变动（房地产调控放松预期），属优先级二，利多地产板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "房地产",
+        "建材",
+        "家电"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91SjlKcnluY3ZBcG1TSG0wdEhEWFNRajVYenNXaGctNmpoa0l2anRIOHdMelN6R25Jcl9rUkpHUHByTUtwdV85RVh6ZVE4RUc4dVhOUDI3c0l3YXR0ejJoOG9kajFxX2hINVJJSW9oUmFnZnRVaUNDSg?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260508/c676524034.shtml"
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "中小银行盼AIC试点扩容",
+      "summary": "消息称中小银行期待AIC（金融资产投资公司）试点扩容，加码科技金融。若试点扩大，将增强银行对科技企业的投贷联动能力，利好银行股，尤其是科技属性强的中小银行。",
+      "reason": "行业政策变动（金融监管），属优先级二，利多银行板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "银行",
+        "中小银行"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260508/c676523963.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "54亿元限售股今日解禁",
+      "summary": "今日A股限售股解禁市值52.79亿元，虽规模不大，但解禁个股可能面临抛压。解禁整体对市场影响有限，但需关注个股风险。属于资金面轻度利空。",
+      "reason": "限售股解禁属优先级一，但规模较小，影响级别偏低。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "解禁个股（未列明）"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2365540?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "未按期披露年报公司被立案",
+      "summary": "两家A股公司因未按期披露年报被证监会立案调查。这属于监管利空，对涉事公司股价有负面影响，同时警示其他公司合规风险。但具体公司未公布，短期影响有限。",
+      "reason": "监管政策（证监会查违规），属优先级一，但具体公司不明，影响范围较小。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "ST板块",
+        "问题公司"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRMG5sVTRnTzNOdFJPX3Vlam1kV21qN2dEdVlmZVkzMFA4ZjJKRUVXNEQ4QzBPeDFpdkpkV044UWNlYm5CcDdNdVFYaHF5X1hzYktCOXpuSWlTcG1yeUh3QV93WDA5anpkZWNCZjF6UWRDS2FQejFhTA?oc=5"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 53,
-  "generated_at": "2026-05-08T07:04:32.171872+08:00"
+  "total_fetched": 57,
+  "generated_at": "2026-05-08T07:44:08.402239+08:00"
 }
