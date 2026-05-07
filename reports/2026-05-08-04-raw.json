@@ -1,20 +1,41 @@
 {
   "date": "2026-05-08",
   "hour": "04",
-  "total": 47,
-  "fetched_at": "2026-05-08T04:00:36.048144+08:00",
+  "total": 50,
+  "fetched_at": "2026-05-08T04:56:51.976112+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "申万宏源4月末H股及A股股本无变动 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWTh3Ri1EVWNUYlZETU92Qk5DQ0J4djZQYU9tZWVKTFpJNDYtTVMxcG9GOHM0eVVPeGxFcU5vQ3RHd1BBakZCYk1uQlpPbzJMWlNpcHE3SmV5MUJJUE1MY05xbWpJNVBwR2hnS1I4dTFvRU1iZnRkYw?oc=5\" target=\"_blank\">申万宏源4月末H股及A股股本无变动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWTh3Ri1EVWNUYlZETU92Qk5DQ0J4djZQYU9tZWVKTFpJNDYtTVMxcG9GOHM0eVVPeGxFcU5vQ3RHd1BBakZCYk1uQlpPbzJMWlNpcHE3SmV5MUJJUE1MY05xbWpJNVBwR2hnS1I4dTFvRU1iZnRkYw?oc=5",
-      "published": "Thu, 07 May 2026 18:20:00 GMT"
+      "title": "南方航空4月A股可转债转股1782股 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTEFWTXRrYUFxZEVPdzlUZVRMTGJ6MDVsY1FpZVBSUFE2X2dlZS1JNi1Cbm5hYXhadGFVXzZvSlZXem1oZ3A0eERqa3kyNDFRVThkeEp6U3BRTkhPbkc5Y0lra0pfbUxreTczb25fWG9hRGdiX0pnMw?oc=5\" target=\"_blank\">南方航空4月A股可转债转股1782股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTEFWTXRrYUFxZEVPdzlUZVRMTGJ6MDVsY1FpZVBSUFE2X2dlZS1JNi1Cbm5hYXhadGFVXzZvSlZXem1oZ3A0eERqa3kyNDFRVThkeEp6U3BRTkhPbkc5Y0lra0pfbUxreTczb25fWG9hRGdiX0pnMw?oc=5",
+      "published": "Thu, 07 May 2026 20:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "中国冶金科工股份有限公司关于股份回购进展的公告 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTWltQXBKT1VxLTg1LXd6VDZtdnhrRENTVE9CUUJ0aXh3NEk5MVlLWVBUMkw1anEtb0dVTXBicXVSeVBtYm0yeVQxNmI3cHBfV2tSWHhKVUJyODVLU0NQRFdESVlHYms1UmNObTg3Zm53eS1KRjdnNg?oc=5\" target=\"_blank\">中国冶金科工股份有限公司关于股份回购进展的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "title": "中兴通讯股份有限公司关于回购A股股份的进展公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB2ODVnTnB0Y0lsRXNOU2pDMUt0MXBKLUZ3UHRlb252T1RKdEpGaFlIUk56c1Bibi1PTzlhWFBLLU83VWhfTGE0VzUydTVVR2xiTG5oX2JtSktlY3lLOTZ6YThHR0ktZXVGTUdXY2dQRGdNRUpJeldKMg?oc=5\" target=\"_blank\">中兴通讯股份有限公司关于回购A股股份的进展公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2ODVnTnB0Y0lsRXNOU2pDMUt0MXBKLUZ3UHRlb252T1RKdEpGaFlIUk56c1Bibi1PTzlhWFBLLU83VWhfTGE0VzUydTVVR2xiTG5oX2JtSktlY3lLOTZ6YThHR0ktZXVGTUdXY2dQRGdNRUpJeldKMg?oc=5",
+      "published": "Thu, 07 May 2026 20:39:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中信银行披露4月证券变动月报，H股及A股股本无变化 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ya252M0VRYkNzUUZfQ2dldHJsTENEakVfSHFLREU1OGczejN6dnVndVBsLVNKMlNqNlMzR04yU011aVZlUzZPUWVDa3VMNGtEb3RENEU2eVlhYzAzUFVPbmlVOXhHZzQ0WC1fNmYtWVRyUFNFUlk2QQ?oc=5\" target=\"_blank\">中信银行披露4月证券变动月报，H股及A股股本无变化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ya252M0VRYkNzUUZfQ2dldHJsTENEakVfSHFLREU1OGczejN6dnVndVBsLVNKMlNqNlMzR04yU011aVZlUzZPUWVDa3VMNGtEb3RENEU2eVlhYzAzUFVPbmlVOXhHZzQ0WC1fNmYtWVRyUFNFUlk2QQ?oc=5",
+      "published": "Thu, 07 May 2026 20:30:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "京东方科技集团股份有限公司关于回购公司股份的进展公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBfcHhDRlVuY3RuSjJZOEFIVEJnZDB2TW9xY2xhOW5hMjhfYUhfWktwb2VDTGRHckc1X1FydXFKVFc4SlJLaFRpQTZRSTV5Qm9ucXRMWkdWNnFQa05iYkFKZ0ZVU3kwNXBDaGYtMjRoNmFWUXZPSVd1QQ?oc=5\" target=\"_blank\">京东方科技集团股份有限公司关于回购公司股份的进展公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfcHhDRlVuY3RuSjJZOEFIVEJnZDB2TW9xY2xhOW5hMjhfYUhfWktwb2VDTGRHckc1X1FydXFKVFc4SlJLaFRpQTZRSTV5Qm9ucXRMWkdWNnFQa05iYkFKZ0ZVU3kwNXBDaGYtMjRoNmFWUXZPSVd1QQ?oc=5",
+      "published": "Thu, 07 May 2026 19:59:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中国冶金科工股份有限公司关于股份回购进展的公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTWltQXBKT1VxLTg1LXd6VDZtdnhrRENTVE9CUUJ0aXh3NEk5MVlLWVBUMkw1anEtb0dVTXBicXVSeVBtYm0yeVQxNmI3cHBfV2tSWHhKVUJyODVLU0NQRFdESVlHYms1UmNObTg3Zm53eS1KRjdnNg?oc=5\" target=\"_blank\">中国冶金科工股份有限公司关于股份回购进展的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTWltQXBKT1VxLTg1LXd6VDZtdnhrRENTVE9CUUJ0aXh3NEk5MVlLWVBUMkw1anEtb0dVTXBicXVSeVBtYm0yeVQxNmI3cHBfV2tSWHhKVUJyODVLU0NQRFdESVlHYms1UmNObTg3Zm53eS1KRjdnNg?oc=5",
       "published": "Thu, 07 May 2026 19:25:00 GMT"
     },
@@ -24,6 +45,90 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzOEZ5WVF2RFlGMk5KOXBjbGxZajBvOEFGT19Xdm9zR2otcWlsbzI3T0FZVzBKNElyX1R6bUdoSXd2a0tzOGxpTGZFdVpQUU9vdlF3OENOekp4U0VUYUw4Tw?oc=5\" target=\"_blank\">近七成投资者看涨二季度A股配置意愿保持稳定——上海证券报·个人投资者2026年第二季度调查报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzOEZ5WVF2RFlGMk5KOXBjbGxZajBvOEFGT19Xdm9zR2otcWlsbzI3T0FZVzBKNElyX1R6bUdoSXd2a0tzOGxpTGZFdVpQUU9vdlF3OENOekp4U0VUYUw4Tw?oc=5",
       "published": "Thu, 07 May 2026 19:30:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗首都德黑兰西部传来巨响",
+      "summary": "据伊朗伊斯兰共和国通讯社7日报道，伊朗首都德黑兰西部地区当天夜间传来两声巨响，随后几分钟内响起防空武器密集开火的声音。 (新华社)",
+      "link": "https://news.10jqka.com.cn/20260508/c676522952.shtml",
+      "published": "Thu, 07 May 2026 20:52:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达与IREN宣布达成战略合作",
+      "summary": "英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
+      "link": "https://news.10jqka.com.cn/20260508/c676522951.shtml",
+      "published": "Thu, 07 May 2026 20:51:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "马里中部地区发生恐怖袭击 至少35人死亡",
+      "summary": "总台记者获悉，当地时间5月6日，马里中部地区的两个村庄遭到恐怖组织袭击，造成至少35人死亡。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522948.shtml",
+      "published": "Thu, 07 May 2026 20:37:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗首都德黑兰西部启动防空系统",
+      "summary": "当地时间7日夜间，总台记者获悉，伊朗首都德黑兰西部启动防空系统，以应对数架小型飞行器。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522947.shtml",
+      "published": "Thu, 07 May 2026 20:37:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊防空力量在阿巴斯港和格什姆岛上空击落“敌对飞行器”",
+      "summary": "总台记者获悉，伊朗防空力量在南部阿巴斯港及格什姆岛上空击落两架“敌对飞行器”。伊朗官方目前对此暂无回应。另据伊朗法尔斯通讯社报道，伊朗阿巴斯港附近当天发生爆炸，在伊朗武装力量与敌方交火过程中，附近码头地区的部分商业设施被击中。一名以色列政府消息人士在接受采访时称，以色列与这一事件无关。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522943.shtml",
+      "published": "Thu, 07 May 2026 20:18:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "玻利维亚政府拟出台新电力法吸引私人投资",
+      "summary": "玻利维亚政府7日推出《电力和可再生能源法》草案，拟通过开放电力市场、引入可再生能源并完善行业监管，推动能源模式转型，吸引私人投资。玻总统府部长卢波7日在草案发布会上表示，玻利维亚当前面临较高财政赤字，增加财政收入需要吸引更多投资，而投资进入的前提是提供法律安全保障。他说，相关改革将从电力行业开始，政府未来还将推动投资、矿业和油气等多个领域的法律改革。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522942.shtml",
+      "published": "Thu, 07 May 2026 20:17:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "转运至荷兰的两名涉疫邮轮人员确诊感染汉坦病毒",
+      "summary": "荷兰医疗机构7日确认，转运至荷兰的两名“洪迪厄斯”号邮轮上的人员确诊感染汉坦病毒。荷兰国家公共卫生与环境研究所说，奈梅亨大学医学中心收治的一名转运人员汉坦病毒检测结果为阳性。为防止病毒传播，患者所在病房已按照国际公认的防控方案采取了适当的隔离措施。稍后，另外一名转运人员经莱顿大学医学中心确认也感染了汉坦病毒。当日，荷外交部和卫生部致信议会说，经评估，该病毒在荷兰传播的风险极低。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522932.shtml",
+      "published": "Thu, 07 May 2026 20:12:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "爱彼迎预计第二季度收入为35.4亿美元至36亿美元",
+      "summary": "爱彼迎预计第二季度收入为35.4亿美元至36亿美元，市场预计为34.6亿美元。",
+      "link": "https://news.10jqka.com.cn/20260508/c676522931.shtml",
+      "published": "Thu, 07 May 2026 20:11:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "CoreWeave一季度营收20.78亿美元",
+      "summary": "CoreWeave一季度营收20.78亿美元，IBES预期19.65亿美元。一季度调整后息税折旧摊销前利润 EBITDA)为11.57亿美元，市场预期11.50亿美元；一季度调整后营业利润2100万美元，市场预期2460万美元；一季度每股亏损1.40美元；一季度调整后息税折旧摊销前利润率56%；一季度调整后净亏损5.89亿美元，市场预期亏损4.46亿美元。",
+      "link": "https://news.10jqka.com.cn/20260508/c676522929.shtml",
+      "published": "Thu, 07 May 2026 20:09:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击",
+      "summary": "一名伊朗军方人士当地时间7日表示，在美军对一艘伊朗油轮发动袭击后，霍尔木兹海峡内的“敌方单位”遭到伊朗导弹打击，并在受损后撤离相关区域。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522928.shtml",
+      "published": "Thu, 07 May 2026 20:04:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "利弗莫尔中概股龙头指数收跌1.06%",
+      "summary": "利弗莫尔中概股龙头指数收跌1.06%。成分股中，富途控股跌超13%，向上融科跌超7%，小马智行、再鼎医药跌超6%，AMC院线跌逾5%。",
+      "link": "https://news.10jqka.com.cn/20260508/c676522927.shtml",
+      "published": "Thu, 07 May 2026 20:03:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股高开低走 三大指数集体收跌",
+      "summary": "美股高开低走，三大指数集体收跌，道指跌0.63%，标普500指数跌0.38%，纳指跌0.13%。英伟达股价上涨1.77%，谷歌-A股价下跌0.01%，苹果股价下跌0.02%，微软股价上涨1.65%，亚马逊股价下跌1.39%，Meta Platforms Inc Class A股价上涨0.64%，特斯拉股价上涨3.28%，奈飞股价下跌0.02%。ARM跌超10%。高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。",
+      "link": "https://news.10jqka.com.cn/20260508/c676522926.shtml",
+      "published": "Thu, 07 May 2026 20:02:34 GMT"
     },
     {
       "source": "同花顺",
@@ -82,93 +187,86 @@
       "published": "Thu, 07 May 2026 19:08:53 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "美国3月消费者信贷余额增248亿美元",
-      "summary": "美国3月消费者信贷余额增248亿美元，2月消费者信贷余额从增95亿美元修正至增89亿美元。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522871.shtml",
-      "published": "Thu, 07 May 2026 19:02:41 GMT"
+      "source": "财联社",
+      "title": "伊朗南部米纳卜地区传出爆炸声",
+      "summary": "【伊朗南部米纳卜地区传出爆炸声】财联社5月8日电，伊朗南部米纳卜地区当地时间8日凌晨传出爆炸声。",
+      "link": "https://api3.cls.cn/share/article/2365480?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:56:15 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势",
-      "summary": "当地时间7日，伊朗外交部发言人表示，伊朗最高领袖穆杰塔巴·哈梅内伊对当前各项事务和局势发展进行全面掌控。发言人称，伊朗最高领袖穆杰塔巴·哈梅内伊正以果断、有力和审慎的方式管理相关事态，所有行动均在其授权下开展，国家各机构在其领导下保持协调一致。发言人还表示，敌对方正通过制造舆论空间、发动心理战等方式，试图在伊朗国内制造分裂与对立，各方应保持警惕，避免被相关行动所利用。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522868.shtml",
-      "published": "Thu, 07 May 2026 19:00:37 GMT"
+      "source": "财联社",
+      "title": "伊朗首都德黑兰西部传来巨响",
+      "summary": "【伊朗首都德黑兰西部传来巨响】财联社5月8日电，据伊朗伊斯兰共和国通讯社7日报道，伊朗首都德黑兰西部地区当天夜间传来两声巨响，随后几分钟内响起防空武器密集开火的声音。 (新华社)",
+      "link": "https://api3.cls.cn/share/article/2365479?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:52:16 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "伊朗格什姆岛附近传出爆炸声",
-      "summary": "当地时间7日晚，伊朗格什姆岛附近传出爆炸声。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522865.shtml",
-      "published": "Thu, 07 May 2026 18:58:44 GMT"
+      "source": "财联社",
+      "title": "英伟达与IREN宣布达成战略合作",
+      "summary": "【英伟达与IREN宣布达成战略合作】财联社5月8日电，英伟达与IREN宣布达成战略合作，以加速部署高达5吉瓦的人工智能基础设施。英伟达获得了一项五年期认购权，可以每股70美元的价格购买IREN最多3000万股股票，这意味着英伟达有权向IREN投资至多21亿美元。",
+      "link": "https://api3.cls.cn/share/article/2365478?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:45:59 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜",
-      "summary": "乌克兰总统泽连斯基7日表示，乌谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫当天将与美国方面围绕乌克兰危机，就人道主义和外交进程等议题举行会谈。泽连斯基在社交媒体发文说，人道主义是会谈首项议题，乌方希望举行新一轮乌俄换俘行动。此外，乌方希望推进外交进程以结束俄乌冲突，乌方致力于促成有尊严的和平并实现安全保障。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522864.shtml",
-      "published": "Thu, 07 May 2026 18:58:34 GMT"
+      "source": "财联社",
+      "title": "伊朗首都德黑兰西部启动防空系统",
+      "summary": "【伊朗首都德黑兰西部启动防空系统】财联社5月8日电，伊朗首都德黑兰西部当地时间7日夜间启动防空系统，以应对数架小型飞行器。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2365477?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:35:45 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "伊朗阿巴斯港市附近听到爆炸声",
-      "summary": "当地时间7日晚，伊朗阿巴斯港市附近听到爆炸声。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522843.shtml",
-      "published": "Thu, 07 May 2026 18:51:11 GMT"
+      "source": "财联社",
+      "title": "财联社5月8日电，美联储威廉姆斯表示，正密切关注政府债务，美国政府债务出现大量需求。",
+      "summary": "财联社5月8日电，美联储威廉姆斯表示，正密切关注政府债务，美国政府债务出现大量需求。",
+      "link": "https://api3.cls.cn/share/article/2365475?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:29:08 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "国际原油期货结算价收跌",
-      "summary": "国际原油期货结算价收跌。WTI原油期货6月合约跌0.28%，报94.81美元/桶。",
-      "link": "https://news.10jqka.com.cn/20260508/c676522824.shtml",
-      "published": "Thu, 07 May 2026 18:44:58 GMT"
+      "source": "财联社",
+      "title": "伊防空力量在阿巴斯港和格什姆岛上空击落“敌对飞行器”",
+      "summary": "【伊防空力量在阿巴斯港和格什姆岛上空击落“敌对飞行器”】财联社5月8日电，伊朗防空力量当地时间7日在南部阿巴斯港及格什姆岛上空击落两架“敌对飞行器”。伊朗官方目前对此暂无回应。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2365474?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:17:34 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "苹果配备摄像头的AI版AirPods进入高级测试阶段",
-      "summary": "苹果配备摄像头的AI版AirPods进入高级测试阶段，AirPods的摄像头将为Siri提供视觉数据。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522803.shtml",
-      "published": "Thu, 07 May 2026 18:32:16 GMT"
+      "source": "财联社",
+      "title": "玻利维亚政府拟出台新电力法吸引私人投资",
+      "summary": "【玻利维亚政府拟出台新电力法吸引私人投资】财联社5月8日电，玻利维亚政府7日推出《电力和可再生能源法》草案，拟通过开放电力市场、引入可再生能源并完善行业监管，推动能源模式转型，吸引私人投资。",
+      "link": "https://api3.cls.cn/share/article/2365473?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:16:32 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍",
-      "summary": "据报道，OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522783.shtml",
-      "published": "Thu, 07 May 2026 18:19:04 GMT"
+      "source": "财联社",
+      "title": "财联社5月8日电，爱彼迎预计第二季度收入为35.4亿美元至36亿美元，市场预计为34.6亿美元。",
+      "summary": "财联社5月8日电，爱彼迎预计第二季度收入为35.4亿美元至36亿美元，市场预计为34.6亿美元。",
+      "link": "https://api3.cls.cn/share/article/2365472?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:08:22 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "特朗普政府正寻求重启“自由计划” 最早可能在本周实施",
-      "summary": "美国官员称，特朗普政府目前正寻求重启利用海空力量支援护送商船穿越霍尔木兹海峡的“自由计划”行动。目前尚不清楚重启的具体时间，不过国防部官员给出的时间表显示，最早可能就在本周。美国此次旨在强行打通海峡的军事行动，依赖于庞大的机群来保护商船免受伊朗导弹和无人机的攻击，因此沙特和科威特的军事基地及领空对于该行动的顺利实施至关重要。美国和沙特官员透露，沙特阿拉伯和科威特已解除此前对美军使用其基地及领空施加的限制。此举消除了曾阻碍特朗普政府护送船只穿越霍尔木兹海峡努力的一大障碍。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522781.shtml",
-      "published": "Thu, 07 May 2026 18:16:45 GMT"
+      "source": "财联社",
+      "title": "CoreWeave一季度营收20.78亿美元",
+      "summary": "【CoreWeave一季度营收20.78亿美元】财联社5月8日电，CoreWeave一季度营收20.78亿美元，IBES预期19.65亿美元。一季度调整后息税折旧摊销前利润 EBITDA)为11.57亿美元，市场预期11.50亿美元；一季度调整后营业利润2100万美元，市场预期2460万美元；一季度每股亏损1.40美元；一季度调整后息税折旧摊销前利润率56%；一季度调整后净亏损5.89亿美元，市场预期亏损4.46亿美元。",
+      "link": "https://api3.cls.cn/share/article/2365471?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:07:57 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "国际能源署署长比罗尔：国际能源署迄今仅释放了约20%的总石油储备",
-      "summary": "国际能源署署长比罗尔表示，国际能源署迄今仅释放了约20%的总石油储备，如有必要将“准备再次行动”。",
-      "link": "https://news.10jqka.com.cn/20260508/c676522755.shtml",
-      "published": "Thu, 07 May 2026 18:08:31 GMT"
+      "source": "财联社",
+      "title": "伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击",
+      "summary": "【伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击】财联社5月8日电，一名伊朗军方人士当地时间7日表示，在美军对一艘伊朗油轮发动袭击后，霍尔木兹海峡内的“敌方单位”遭到伊朗导弹打击，并在受损后撤离相关区域。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2365470?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:04:48 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "巴西4月铁矿石出口量达3457万吨",
-      "summary": "巴西政府数据显示，巴西4月铁矿石出口量达3457万吨，去年同期为3007万吨；4月大豆出口量达1675万吨，去年同期为1527万吨。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522754.shtml",
-      "published": "Thu, 07 May 2026 18:05:06 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "OpenAI开始向用户推出“可信联系人”功能",
-      "summary": "OpenAI开始向用户推出“可信联系人”功能，扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522747.shtml",
-      "published": "Thu, 07 May 2026 18:01:57 GMT"
+      "source": "财联社",
+      "title": "利弗莫尔中概股龙头指数收跌1.06%",
+      "summary": "【利弗莫尔中概股龙头指数收跌1.06%】财联社5月8日电，利弗莫尔中概股龙头指数收跌1.06%。成分股中，富途控股跌超13%，向上融科跌超7%，小马智行、再鼎医药跌超6%，AMC院线跌逾5%。",
+      "link": "https://api3.cls.cn/share/article/2365469?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 20:00:38 GMT"
     },
     {
       "source": "财联社",
       "title": "美股高开低走 三大指数集体收跌",
-      "summary": "【美股高开低走 三大指数集体收跌】财联社5月8日电，美股高开低走，三大指数集体收跌，道指跌0.63%，标普500指数跌0.38%，纳指跌0.13%。",
+      "summary": "【美股高开低走 三大指数集体收跌】财联社5月8日电，美股高开低走，三大指数集体收跌，道指跌0.63%，标普500指数跌0.38%，纳指跌0.13%。英伟达股价上涨1.77%，谷歌-A股价下跌0.01%，苹果股价下跌0.02%，微软股价上涨1.65%，亚马逊股价下跌1.39%，Meta Platforms Inc Class A股价上涨0.64%，特斯拉股价上涨3.28%，奈飞股价下跌0.02%。ARM跌超10%。高盛看空该公司股价，称将ARM Holdings的评级维持为卖出，目标价125美元，较当前股价隐含逾40%下行空间。<br /><img src=\"https://image.cls.cn/images/20260508/vFW8y33MJ4_816x435.png\" /><img src=\"https://image.cls.cn/images/20260508/XkyX0Y937A_814x446.png\" /><img src=\"https://image.cls.cn/images/20260508/7mTa1Gg4UU_816x434.png\" />",
       "link": "https://api3.cls.cn/share/article/2365468?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Thu, 07 May 2026 20:00:21 GMT"
     },
@@ -229,102 +327,25 @@
       "published": "Thu, 07 May 2026 19:00:40 GMT"
     },
     {
-      "source": "财联社",
-      "title": "伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势",
-      "summary": "【伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势】财联社5月8日电，伊朗外交部发言人当地时间7日表示，伊朗最高领袖穆杰塔巴·哈梅内伊对当前各项事务和局势发展进行全面掌控。发言人称，伊朗最高领袖穆杰塔巴·哈梅内伊正以果断、有力和审慎的方式管理相关事态，所有行动均在其授权下开展，国家各机构在其领导下保持协调一致。发言人还表示，敌对方正通过制造舆论空间、发动心理战等方式，试图在伊朗国内制造分裂与对立，各方应保持警惕，避免被相关行动所利用。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2365458?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 19:00:17 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "伊朗格什姆岛附近传出爆炸声",
-      "summary": "【伊朗格什姆岛附近传出爆炸声】财联社5月8日电，伊朗格什姆岛附近当地时间7日晚传出爆炸声。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2365457?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:58:17 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜",
-      "summary": "【泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜】财联社5月8日电，乌克兰总统泽连斯基7日表示，乌谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫当天将与美国方面围绕乌克兰危机，就人道主义和外交进程等议题举行会谈。泽连斯基在社交媒体发文说，人道主义是会谈首项议题，乌方希望举行新一轮乌俄换俘行动。此外，乌方希望推进外交进程以结束俄乌冲突，乌方致力于促成有尊严的和平并实现安全保障。据外媒7日报道，乌梅罗夫抵达美国佛罗里达州迈阿密，将与美方代表举行一系列会晤。",
-      "link": "https://api3.cls.cn/share/article/2365456?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:57:46 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "伊朗阿巴斯港市附近听到爆炸声",
-      "summary": "【伊朗阿巴斯港市附近听到爆炸声】财联社5月8日电，伊朗阿巴斯港市附近当地时间7日晚听到爆炸声。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2365455?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:51:02 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月8日电，文件显示，麦当劳预计明年将产生约2.5亿美元的重组费用。",
-      "summary": "财联社5月8日电，文件显示，麦当劳预计明年将产生约2.5亿美元的重组费用。",
-      "link": "https://api3.cls.cn/share/article/2365454?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:41:05 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "国际原油期货结算价收跌",
-      "summary": "【国际原油期货结算价收跌】财联社5月8日电，国际原油期货结算价收跌。WTI原油期货6月合约跌0.28%，报94.81美元/桶；布伦特原油期货7月合约跌1.19%，报100.06美元/桶。",
-      "link": "https://api3.cls.cn/share/article/2365453?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:32:22 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月8日电，苹果配备摄像头的AI版AirPods进入高级测试阶段，AirPods的摄像头将为Siri提供视觉数据。",
-      "summary": "财联社5月8日电，苹果配备摄像头的AI版AirPods进入高级测试阶段，AirPods的摄像头将为Siri提供视觉数据。",
-      "link": "https://api3.cls.cn/share/article/2365452?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:27:20 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月8日电，据报道，OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。",
-      "summary": "财联社5月8日电，据报道，OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。",
-      "link": "https://api3.cls.cn/share/article/2365451?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:16:24 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "特朗普政府正寻求重启“自由计划” 最早可能在本周实施",
-      "summary": "【特朗普政府正寻求重启“自由计划” 最早可能在本周实施】财联社5月8日电，美国官员当地时间5月7日称，特朗普政府目前正寻求重启利用海空力量支援护送商船穿越霍尔木兹海峡的“自由计划”行动。目前尚不清楚重启的具体时间，不过国防部官员给出的时间表显示，最早可能就在本周。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2365450?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:15:41 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "国际能源署署长比罗尔：国际能源署迄今仅释放了约20%的总石油储备 如有必要将“准备再次行动”",
-      "summary": "【国际能源署署长比罗尔：国际能源署迄今仅释放了约20%的总石油储备 如有必要将“准备再次行动”】财联社5月8日电，国际能源署署长比罗尔表示，国际能源署迄今仅释放了约20%的总石油储备，如有必要将“准备再次行动”。",
-      "link": "https://api3.cls.cn/share/article/2365449?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:06:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "巴西4月铁矿石出口量达3457万吨",
-      "summary": "【巴西4月铁矿石出口量达3457万吨】财联社5月8日电，巴西政府数据显示，巴西4月铁矿石出口量达3457万吨，去年同期为3007万吨；4月大豆出口量达1675万吨，去年同期为1527万吨。",
-      "link": "https://api3.cls.cn/share/article/2365448?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 18:04:06 GMT"
+      "source": "华尔街见闻",
+      "title": "旧金山联储主席淡化美联储声明分歧，称声明措辞不如行动重要",
+      "summary": "<p>旧金山联储主席Mary Daly淡化了联储内部围绕政策声明措辞的分歧，强调委员会的行动才是真正的政策信号。</p>\n<p>Daly周四在采访中表示，\"声明的措辞不如（联邦公开市场委员会的）行动重要\"，并指出此次会议的真正信号在于\"所有人都同意这一决定\"。并表示自己不会反对投票。</p>\n<p>上月的议息会议上，三位投票委员对会后声明中暗示未来将恢复降息的措辞提出异议。</p>\n<p>他们认为，伊朗战争推高油价、经济前景不确定性上升，政策声明应同等权衡加息和降息两种可能性。这一罕见的多人异议引发市场对联储政策路径的关注。</p>\n<div>\n<h2 id=\"14c2acca\">能源价格冲击尚未传导至通胀预期，当前货币政策处于\"轻度限制性\"区</h2>\n</div>\n<p>Daly表示，目前没有迹象显示能源价格飙升正在推动中长期通胀预期上行。</p>\n<p>她指出，现阶段下结论\"为时过早\"。若伊朗冲突结束、油价回落且未向更广泛经济领域传导，此前的宏观经济基本面格局有望恢复。</p>\n<p>Daly认为，当前货币政策处于\"轻度限制性\"区间，一旦美伊冲突化解，将对通胀形成下行压力。</p",
+      "link": "https://wallstreetcn.com/articles/3771784",
+      "published": "Thu, 07 May 2026 20:51:15 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "报道：沙特科威特解除美军基地限制，美国疏导霍尔木兹海峡行动或本周重启",
-      "summary": "<p>美东时间7日周四，据央视新闻援引美媒报道，美国和沙特的官员透露，沙特和科威特已解除此前对美军使用其基地及领空施加的限制。此举消除了曾阻碍特朗普政府护送船只穿越霍尔木兹海峡努力的一大障碍。</p>\n<p>据央视援引上述报道，美国官员称，特朗普政府目前正寻求重启利用海空力量支援护送商船穿越霍尔木兹海峡的“自由计划”行动。目前尚不清楚重启的具体时间，不过国防部官员给出的时间表显示，最早可能就在本周。</p>\n<p>据央视，美国此次旨在强行打通海峡的军事行动，依赖于庞大的机群来保护商船免受伊朗导弹和无人机的攻击，因此沙特和科威特的军事基地及领空对于该行动的顺利实施至关重要。</p>\n<p>央视指出，美方于中东当地时间4日、即本周一上午在霍尔木兹海峡启动所谓“自由计划”行动，“引导”被困船只驶离海峡，该行动从启动到暂停仅持续不到48小时。</p>\n<p>据美媒本周三报道，由于该行动未提前与海湾盟友协调，引发沙特方面不满，美国总统特朗普不得不“突然180度大转弯”，叫停“自由计划”，以便美方在关键空域的军事准入权能够得以恢复。</p>\n<p>有关沙特和科威特解除美军有关限制、“自由计划”行动",
-      "link": "https://wallstreetcn.com/articles/3771782",
-      "published": "Thu, 07 May 2026 18:56:00 GMT"
+      "title": "CoreWeave季度营收同比增长112%，订单积压达994亿美元，大规模扩张拖累利润｜财报见闻",
+      "summary": "<p>AI云计算基础设施公司CoreWeave公布2026财年第一季度业绩，营收同比翻番，订单积压规模骤升至近千亿美元，但持续高强度的资本投入令利润承压明显。</p>\n<p>本季度营收达21.8亿美元，同比增长112%，由Meta、Anthropic等头部AI客户的旺盛需求驱动。截至3月底，公司未完成收入积压达994亿美元，较上年同期激增284%，显示中长期需求能见度显著提升。</p>\n<p>然而，大规模产能扩张带来的前期成本已开始侵蚀利润空间。调整后净亏损扩大至5.89亿美元，调整后净亏损率为28%，均较上年同期大幅恶化。与此同时，本季度资本支出高达68.6亿美元，同比大幅攀升，反映出公司为满足客户需求而加速部署基础设施的力度。</p>\n<p>财报发布后，CoreWeave股价盘后下跌4%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/e45ca233-19b6-460e-b898-b583a70df609.png\" /></p>\n<div>\n<h2 id=\"18ae4f1d\">营收增势强劲，但规模效益尚待",
+      "link": "https://wallstreetcn.com/articles/3771786",
+      "published": "Thu, 07 May 2026 20:15:38 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "欧洲议会官员：欧盟就美欧贸易协定达成一致已近在咫尺",
-      "summary": "<p>据媒体报道，欧洲议会的首席贸易谈判代表朗格（Bernd Lange）认为，一项旨在落实欧盟与美国贸易协定的协议有望在本月晚些时候敲定。</p>\n<p>朗格称，尽管欧盟机构在持续到5月7日凌晨的谈判中未能达成妥协，但欧盟内部的协议已触手可及。</p>\n<p>在5月7日的采访中，朗格表示他有信心在5月12日或19日举行的下一轮谈判中达成协议。这将为欧洲议会6月份的全体会议投票扫清障碍，而那是法律生效前的最后步骤之一。</p>\n<p>这场由欧洲委员会、欧盟各成员国政府及欧洲议会谈判代表参加的会议，是在美国总统特朗普的压力下举行的。</p>\n<p>作为德国社会民主党成员，朗格一直推动在协议中加入强有力的保障条款，以防特朗普再次恐吓欧盟——正如这位美国总统今年早些时候威胁要吞并丹麦领土格陵兰岛时所做的那样。</p>\n<p>据<a href=\"https://content-static.cctvnews.cctv.com/snow-book/index.html?&amp;item_id=3901498505107832056&amp;t=1777653824686&amp;toc_sty",
-      "link": "https://wallstreetcn.com/articles/3771780",
-      "published": "Thu, 07 May 2026 18:55:41 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普政府正寻求重启“自由计划”，最早可能在本周实施",
-      "summary": "<p>美国官员称，特朗普政府目前正寻求重启利用海空力量支援护送商船穿越霍尔木兹海峡的“自由计划”行动。目前尚不清楚重启的具体时间，不过国防部官员给出的时间表显示，最早可能就在本周。</p>\n<p>美国此次旨在强行打通海峡的军事行动，依赖于庞大的机群来保护商船免受伊朗导弹和无人机的攻击，因此沙特和科威特的军事基地及领空对于该行动的顺利实施至关重要。美国和沙特官员透露，沙特阿拉伯和科威特已解除此前对美军使用其基地及领空施加的限制。此举消除了曾阻碍特朗普政府护送船只穿越霍尔木兹海峡努力的一大障碍。</p>\n\n<p>美方于中东当地时间4日上午在霍尔木兹海峡启动所谓“自由计划”行动，“引导”被困船只驶离海峡，该行动从启动到暂停仅持续不到48小时。据美国媒体6日报道，由于该行动未提前与海湾盟友协调，引发沙特阿拉伯方面不满，美国总统特朗普不得不“突然180度大转弯”，叫停“自由计划”，以便美方在关键空域的军事准入权能够得以恢复。（央视）</p>",
-      "link": "https://wallstreetcn.com/livenews/3100152",
-      "published": "Thu, 07 May 2026 18:15:44 GMT"
+      "title": "伊军方人士：霍尔木兹海峡内敌方单位遭伊朗导弹打击",
+      "summary": "<p>当地时间7日，总台记者获悉，一名伊朗军方人士表示，在美军对一艘伊朗油轮发动袭击后，霍尔木兹海峡内的“敌方单位”遭到伊朗导弹打击，并在受损后撤离相关区域。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3100181",
+      "published": "Thu, 07 May 2026 20:04:52 GMT"
     },
     {
       "source": "上海证券报",

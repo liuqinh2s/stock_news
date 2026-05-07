@@ -3,38 +3,39 @@
   "hour": "04",
   "news": [
     {
-      "title": "在岸人民币升值65点",
-      "summary": "5月8日凌晨，在岸人民币兑美元较周三夜盘收盘上涨65点，报6.XX（具体未给）。人民币升值有利于吸引外资流入，提振A股市场信心，尤其利好航空、造纸等进口成本敏感行业，以及金融地产等权重板块。升值信号偏积极，但幅度较小，属于中期利好。",
-      "reason": "人民币汇率波动直接影响跨境资金流动，属于优先级二宏观经济指标，且为实时数据。",
-      "category": "宏观经济",
+      "title": "霍尔木兹海峡遭导弹打击",
+      "summary": "伊军方人士称霍尔木兹海峡内敌方单位遭伊朗导弹打击，中东局势急剧升级。霍尔木兹海峡是全球石油运输要道，冲突将严重威胁原油供应，推升国际油价。A股石油、航运板块可能受益，但整体市场风险偏好下降，对航空、化工等成本敏感行业不利。看空短期大盘，看多石油板块。",
+      "reason": "地缘冲突直接威胁全球能源命脉，影响原油价格和A股相关板块，属于优先级一（重大事件）。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "航空",
-        "造纸"
+        "中国石油",
+        "中国石化",
+        "中远海控",
+        "航空板块"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "bearish",
+      "impact_level": 5,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676522885.shtml"
+          "url": "https://news.10jqka.com.cn/20260508/c676522928.shtml"
         },
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2365462?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3100181"
         }
       ],
-      "urgency": "hours"
+      "urgency": "immediate"
     },
     {
-      "title": "美股高开低走收跌",
-      "summary": "5月7日美股三大指数高开低走集体收跌，此前纳斯达克盘中创历史新高后回落。美股下跌可能通过情绪传导影响A股开盘，尤其对科技、新能源等外资重仓板块形成短期压力。但历史经验显示A股独立性增强，影响有限。",
-      "reason": "海外市场联动属于优先级二，且为重要情绪指标。",
+      "title": "美股三大指数集体收跌",
+      "summary": "美股高开低走，三大指数集体收跌，利弗莫尔中概股龙头指数收跌1.06%。中东局势升级导致避险情绪升温，风险资产承压。A股开盘可能受情绪传导低开，但影响有限，需关注后续走势。看空短期A股开盘情绪。",
+      "reason": "美股下跌通过情绪和外资流动影响A股开盘，属于优先级二（海外市场联动）。",
       "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
         "创业板指",
-        "科技股"
+        "上证50"
       ],
       "signal": "bearish",
       "impact_level": 3,
@@ -44,25 +45,42 @@
           "url": "https://api3.cls.cn/share/article/2365468?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "美批准向中东售武258亿",
-      "summary": "5月8日，美国务卿批准向中东国家出售价值258亿美元的武器，加剧中东地区紧张局势。此举可能推高石油价格，增加市场不确定性，对A股石油板块形成利好，但对整体风险偏好形成压制，尤其对航空、化工等成本敏感行业不利。",
-      "reason": "地缘政治升级影响全球市场风险偏好，对原油价格和军工板块有直接影响。",
-      "category": "行业动态",
+      "title": "在岸人民币兑美元涨65点",
+      "summary": "在岸人民币兑美元较周三夜盘收盘涨65点，体现外资对中国资产信心增强。人民币升值有利于吸引外资流入A股，降低进口成本，利好航空、造纸等行业。看多A股整体资金面。",
+      "reason": "人民币汇率变动直接影响外资流向和A股估值，属于优先级二（海外市场联动/汇率）。",
+      "category": "资金流向",
       "impact_stocks": [
-        "石油石化",
-        "军工",
-        "航空"
+        "航空板块",
+        "造纸板块",
+        "沪深300"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676522884.shtml"
-        },
+          "url": "https://news.10jqka.com.cn/20260508/c676522885.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美国批准向中东出售258亿美元武器",
+      "summary": "美国务卿批准向中东国家出售价值258亿美元的武器，将进一步加剧中东地区军备竞赛和紧张局势。地缘风险上升，资金可能流入军工板块避险，但对整体市场构成压力。看多军工板块。",
+      "reason": "军售加剧地缘冲突，直接利好A股军工板块，属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中航沈飞",
+        "航发动力",
+        "中国重工",
+        "军工ETF"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2365463?os=web&sv=8.4.6&app=CailianpressWeb"
@@ -71,48 +89,25 @@
       "urgency": "hours"
     },
     {
-      "title": "美联储威廉姆斯称经济不确定",
-      "summary": "5月8日，纽约联储主席威廉姆斯表示目前经济中存在很多不确定性。此番言论暗示美联储可能维持观望态度，短期内不会加息或降息，对市场而言是中性偏鸽信号，有助于稳定市场情绪，对A股影响有限。",
-      "reason": "美联储官员讲话影响货币政策预期，属于优先级二海外市场联动。",
-      "category": "货币政策",
-      "impact_stocks": [
-        "沪深300",
-        "科技成长"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676522903.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2365465?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "投资者看涨二季度A股比例近七成",
-      "summary": "上海证券报发布的个人投资者2026年第二季度调查报告显示，近七成投资者看涨二季度A股，配置意愿保持稳定。该调查反映市场乐观情绪，可能推动资金持续入市。但需注意调查时效性，可能与当前地缘紧张存在偏差。",
-      "reason": "市场情绪指标，属于优先级三，可辅助判断投资者信心。",
+      "title": "近七成投资者看涨二季度",
+      "summary": "上海证券报调查显示近七成个人投资者看涨二季度A股，配置意愿保持稳定。该调查反映市场情绪乐观，有利于维持当前市场热度，但需警惕一致预期过强后的反转风险。中性偏多。",
+      "reason": "投资者情绪调查影响市场心理，属于优先级三（市场情绪信号），但调查时间较早，时效性一般。",
       "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
-        "上证50"
+        "中证500"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "上海证券报",
+          "name": "东方财富",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzOEZ5WVF2RFlGMk5KOXBjbGxZajBvOEFGT19Xdm9zR2otcWlsbzI3T0FZVzBKNElyX1R6bUdoSXd2a0tzOGxpTGZFdVpQUU9vdlF3OENOekp4U0VUYUw4Tw?oc=5"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 47,
-  "generated_at": "2026-05-08T04:02:00.557552+08:00"
+  "total_fetched": 50,
+  "generated_at": "2026-05-08T04:57:16.473391+08:00"
 }
