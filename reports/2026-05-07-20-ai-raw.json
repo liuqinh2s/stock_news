@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-07",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 20818,
+    "completion_tokens": 6544,
+    "total_tokens": 27362
+  },
+  "content_length": 1405,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"长高电新中标国网3.46亿\",\n      \"summary\": \"长高电新公告子公司合计中标3.46亿元国家电网项目，涉及特高压等设备，利好公司业绩，看多信号。\",\n      \"reason\": \"公司中标重大合同，影响个股及电力设备板块\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"长高电新\", \"电力设备\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2365221\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"日本再砸5万亿日元护汇率\",\n      \"summary\": \"日本央行时隔一周再次干预汇市，投入约5万亿日元支撑日元汇率，但效果不佳。日元贬值压力可能加剧全球资本流动，对A股外资流入形成间接压制，短期偏空。\",\n      \"reason\": \"外围汇率干预影响全球资本流动，间接影响A股\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"外资重仓股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3771752\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"AIOT业务高增长机构调研\",\n      \"summary\": \"财联社机构调研显示某公司AIOT业务同比增速超50%，超节点产品全年收入预计超100亿元，反映AIoT景气度提升，利好AI应用和物联网板块。\",\n      \"reason\": \"机构调研揭示高增长赛道，影响AIOT概念\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AIOT\", \"物联网\", \"算力\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2365176\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"由于历史消息中大量重复，仅筛选出3条有效新消息。\"\n}"
+}
