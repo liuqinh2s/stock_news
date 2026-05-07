@@ -1,13 +1,13 @@
 {
   "date": "2026-05-08",
   "hour": "03",
-  "total": 45,
-  "fetched_at": "2026-05-08T03:00:33.973869+08:00",
+  "total": 42,
+  "fetched_at": "2026-05-08T03:24:49.427223+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "申万宏源4月末H股及A股股本无变动 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWTh3Ri1EVWNUYlZETU92Qk5DQ0J4djZQYU9tZWVKTFpJNDYtTVMxcG9GOHM0eVVPeGxFcU5vQ3RHd1BBakZCYk1uQlpPbzJMWlNpcHE3SmV5MUJJUE1MY05xbWpJNVBwR2hnS1I4dTFvRU1iZnRkYw?oc=5\" target=\"_blank\">申万宏源4月末H股及A股股本无变动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "申万宏源4月末H股及A股股本无变动 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWTh3Ri1EVWNUYlZETU92Qk5DQ0J4djZQYU9tZWVKTFpJNDYtTVMxcG9GOHM0eVVPeGxFcU5vQ3RHd1BBakZCYk1uQlpPbzJMWlNpcHE3SmV5MUJJUE1MY05xbWpJNVBwR2hnS1I4dTFvRU1iZnRkYw?oc=5\" target=\"_blank\">申万宏源4月末H股及A股股本无变动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWTh3Ri1EVWNUYlZETU92Qk5DQ0J4djZQYU9tZWVKTFpJNDYtTVMxcG9GOHM0eVVPeGxFcU5vQ3RHd1BBakZCYk1uQlpPbzJMWlNpcHE3SmV5MUJJUE1MY05xbWpJNVBwR2hnS1I4dTFvRU1iZnRkYw?oc=5",
       "published": "Thu, 07 May 2026 18:20:00 GMT"
     },
@@ -17,6 +17,27 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kY2NHbEpHZHZkM25HM2JyVFh4N0xCMGZXLXVyajZPX0NiSTJRdEJPS09FRzZVLUlkZmFadGg1RXZEeUpPalA1SWJkam03WkxwQjFPWHd3eDdiZi1ZUGNidlNaUzdZZw?oc=5\" target=\"_blank\">5家拟IPO券商业绩冰火两重天 自营业务收入是分化主因</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kY2NHbEpHZHZkM25HM2JyVFh4N0xCMGZXLXVyajZPX0NiSTJRdEJPS09FRzZVLUlkZmFadGg1RXZEeUpPalA1SWJkam03WkxwQjFPWHd3eDdiZi1ZUGNidlNaUzdZZw?oc=5",
       "published": "Thu, 07 May 2026 17:30:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄罗斯国防部宣布8日零时起至10日前停火",
+      "summary": "俄罗斯国防部7日通过社交媒体宣布，在纪念苏联伟大卫国战争胜利81周年之际，俄方将从8日零时起至10日前在特别军事行动区停火，并停止打击乌克兰境内纵深目标。但如果乌方破坏停火，俄方将予以相应还击。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522877.shtml",
+      "published": "Thu, 07 May 2026 19:16:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗南部传出爆炸声，具体原因尚不明确",
+      "summary": "当地时间7日，总台记者获悉，伊朗南部格什姆岛及阿巴斯港附近传出多次爆炸声。消息人士称，部分声响可能与伊朗伊斯兰革命卫队海军在霍尔木兹海峡对部分未经授权通行船只发出警告的行动有关。目前，伊朗官方暂未对此作出回应。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522874.shtml",
+      "published": "Thu, 07 May 2026 19:08:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国3月消费者信贷余额增248亿美元",
+      "summary": "美国3月消费者信贷余额增248亿美元，2月消费者信贷余额从增95亿美元修正至增89亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260508/c676522871.shtml",
+      "published": "Thu, 07 May 2026 19:02:41 GMT"
     },
     {
       "source": "同花顺",
@@ -117,32 +138,46 @@
       "published": "Thu, 07 May 2026 17:27:42 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万",
-      "summary": "OpenAI称，GPT-Realtime-2的定价为音频输入每百万token 32美元，音频输出每百万token 64美元；GPT-Realtime-Translate的定价为每分钟0.034美元；GPT-Realtime-Whisper的定价为每分钟0.017美元。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522657.shtml",
-      "published": "Thu, 07 May 2026 17:22:53 GMT"
+      "source": "财联社",
+      "title": "俄罗斯国防部宣布8日零时起至10日前停火",
+      "summary": "【俄罗斯国防部宣布8日零时起至10日前停火】财联社5月8日电，俄罗斯国防部7日通过社交媒体宣布，在纪念苏联伟大卫国战争胜利81周年之际，俄方将从8日零时起至10日前在特别军事行动区停火，并停止打击乌克兰境内纵深目标。但如果乌方破坏停火，俄方将予以相应还击。",
+      "link": "https://api3.cls.cn/share/article/2365461?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 19:16:03 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "阿根廷首都及周边地区遭遇极端天气",
-      "summary": "阿根廷首都布宜诺斯艾利斯市及周边地区7日迎来强风降雨天气，致街道被淹，部分区域停电。据悉，当天凌晨布宜诺斯艾利斯市一小时内降雨量超过20毫米，冰雹大小如高尔夫球，风速超过80公里每小时。极端天气导致布宜诺斯艾利斯市和周边拉努斯、基尔梅斯等城市部分区域停电，多条街道被淹。6日下午，距离阿首都约180公里的布宜诺斯艾利斯省拉斯弗洛雷斯县遭遇龙卷风，一栋房屋几乎被完全摧毁，4名被困人员被救援人员送往医院。阿根廷国家气象局称，预计强风将持续影响全国大部分地区。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522648.shtml",
-      "published": "Thu, 07 May 2026 17:17:14 GMT"
+      "source": "财联社",
+      "title": "财联社5月8日电，美国3月消费者信贷余额增248亿美元，2月消费者信贷余额从增95亿美元修正至增89亿美元。",
+      "summary": "财联社5月8日电，美国3月消费者信贷余额增248亿美元，2月消费者信贷余额从增95亿美元修正至增89亿美元。",
+      "link": "https://api3.cls.cn/share/article/2365460?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 19:01:29 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "软银正与英伟达商谈开发“日本制造”的人工智能服务器",
-      "summary": "据报道，软银正与英伟达商谈开发“日本制造”的人工智能服务器。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260508/c676522620.shtml",
-      "published": "Thu, 07 May 2026 17:07:15 GMT"
+      "source": "财联社",
+      "title": "财联社5月8日电，墨西哥央行将隔夜利率从6.75%下调至6.50%。",
+      "summary": "财联社5月8日电，墨西哥央行将隔夜利率从6.75%下调至6.50%。",
+      "link": "https://api3.cls.cn/share/article/2365459?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 19:00:40 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "欧洲央行执委施纳贝尔：如果能源价格冲击扩大 货币政策将需要收紧",
-      "summary": "欧洲央行执委施纳贝尔表示，如果能源价格冲击扩大，货币政策将需要收紧。供应链中断的迹象再次出现，近期这一风险有所增加；家庭通胀预期正在迅速调整，近几周第二轮效应的风险有所增加。",
-      "link": "https://news.10jqka.com.cn/20260508/c676522614.shtml",
-      "published": "Thu, 07 May 2026 17:02:01 GMT"
+      "source": "财联社",
+      "title": "伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势",
+      "summary": "【伊朗外交部发言人：最高领袖穆杰塔巴全面掌控局势】财联社5月8日电，伊朗外交部发言人当地时间7日表示，伊朗最高领袖穆杰塔巴·哈梅内伊对当前各项事务和局势发展进行全面掌控。发言人称，伊朗最高领袖穆杰塔巴·哈梅内伊正以果断、有力和审慎的方式管理相关事态，所有行动均在其授权下开展，国家各机构在其领导下保持协调一致。发言人还表示，敌对方正通过制造舆论空间、发动心理战等方式，试图在伊朗国内制造分裂与对立，各方应保持警惕，避免被相关行动所利用。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2365458?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 19:00:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗格什姆岛附近传出爆炸声",
+      "summary": "【伊朗格什姆岛附近传出爆炸声】财联社5月8日电，伊朗格什姆岛附近当地时间7日晚传出爆炸声。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2365457?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 18:58:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜",
+      "summary": "【泽连斯基：乌美将举行会谈讨论乌俄换俘等事宜】财联社5月8日电，乌克兰总统泽连斯基7日表示，乌谈判代表团团长、乌国家安全与国防委员会秘书乌梅罗夫当天将与美国方面围绕乌克兰危机，就人道主义和外交进程等议题举行会谈。泽连斯基在社交媒体发文说，人道主义是会谈首项议题，乌方希望举行新一轮乌俄换俘行动。此外，乌方希望推进外交进程以结束俄乌冲突，乌方致力于促成有尊严的和平并实现安全保障。据外媒7日报道，乌梅罗夫抵达美国佛罗里达州迈阿密，将与美方代表举行一系列会晤。",
+      "link": "https://api3.cls.cn/share/article/2365456?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 07 May 2026 18:57:46 GMT"
     },
     {
       "source": "财联社",
@@ -229,41 +264,6 @@
       "published": "Thu, 07 May 2026 17:26:36 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月8日电，明尼阿波利斯联储行长卡什卡利表示，通胀仍然过高。",
-      "summary": "财联社5月8日电，明尼阿波利斯联储行长卡什卡利表示，通胀仍然过高。",
-      "link": "https://api3.cls.cn/share/article/2365442?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 17:23:19 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
-      "summary": "【OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元】财联社5月8日电，OpenAI称，GPT-Realtime-2的定价为音频输入每百万token 32美元，音频输出每百万token 64美元；GPT-Realtime-Translate的定价为每分钟0.034美元；GPT-Realtime-Whisper的定价为每分钟0.017美元。",
-      "link": "https://api3.cls.cn/share/article/2365441?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 17:21:30 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月8日电，周四（5月7日），美联储隔夜逆回购协议（RRP）使用规模为7.73亿美元。",
-      "summary": "财联社5月8日电，周四（5月7日），美联储隔夜逆回购协议（RRP）使用规模为7.73亿美元。",
-      "link": "https://api3.cls.cn/share/article/2365439?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 17:16:36 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月8日电，据报道，软银正与英伟达商谈开发“日本制造”的人工智能服务器。",
-      "summary": "财联社5月8日电，据报道，软银正与英伟达商谈开发“日本制造”的人工智能服务器。",
-      "link": "https://api3.cls.cn/share/article/2365437?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 17:06:32 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "欧洲央行执委施纳贝尔：如果能源价格冲击扩大 货币政策将需要收紧",
-      "summary": "【欧洲央行执委施纳贝尔：如果能源价格冲击扩大 货币政策将需要收紧】财联社5月8日电，欧洲央行执委施纳贝尔表示，如果能源价格冲击扩大，货币政策将需要收紧。供应链中断的迹象再次出现，近期这一风险有所增加；家庭通胀预期正在迅速调整，近几周第二轮效应的风险有所增加。",
-      "link": "https://api3.cls.cn/share/article/2365436?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 07 May 2026 17:01:21 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "报道：沙特科威特解除美军基地限制，美国疏导霍尔木兹海峡行动或本周重启",
       "summary": "<p>美东时间7日周四，据央视新闻援引美媒报道，美国和沙特的官员透露，沙特和科威特已解除此前对美军使用其基地及领空施加的限制。此举消除了曾阻碍特朗普政府护送船只穿越霍尔木兹海峡努力的一大障碍。</p>\n<p>据央视援引上述报道，美国官员称，特朗普政府目前正寻求重启利用海空力量支援护送商船穿越霍尔木兹海峡的“自由计划”行动。目前尚不清楚重启的具体时间，不过国防部官员给出的时间表显示，最早可能就在本周。</p>\n<p>据央视，美国此次旨在强行打通海峡的军事行动，依赖于庞大的机群来保护商船免受伊朗导弹和无人机的攻击，因此沙特和科威特的军事基地及领空对于该行动的顺利实施至关重要。</p>\n<p>央视指出，美方于中东当地时间4日、即本周一上午在霍尔木兹海峡启动所谓“自由计划”行动，“引导”被困船只驶离海峡，该行动从启动到暂停仅持续不到48小时。</p>\n<p>据美媒本周三报道，由于该行动未提前与海湾盟友协调，引发沙特方面不满，美国总统特朗普不得不“突然180度大转弯”，叫停“自由计划”，以便美方在关键空域的军事准入权能够得以恢复。</p>\n<p>有关沙特和科威特解除美军有关限制、“自由计划”行动",
@@ -297,27 +297,6 @@
       "summary": "<p>WTI原油期货涨超1.6%，重返96.60美元上方。华尔街日报原因美国及沙特官员报道称，沙特阿拉伯与科威特已解除在美国启动霍尔木兹海峡通航护航行动后、对美军使用其基地和领空实施的限制。此举化解了一大阻碍，此前该限制一度拖累特朗普政府派遣舰船穿越这条关键水道的计划。美国官员表示，<strong>特朗普政府目前计划重启由海空力量护航民用船只的行动</strong>。该行动本周仅开展36小时便中途暂停。目前重启具体时间尚未敲定，但五角大楼官员给出时间表，最快或于本周重启。</p>\n<p>美国此次强行疏通霍尔木兹海峡的行动，依赖大规模军机编队保护民用船只免遭伊朗导弹与无人机袭击，沙特和科威特的基地及领空对行动开展至关重要。但此次任务也引发了近年来沙美军事关系中最严重的分歧，特朗普与沙特王储为此多次高层通话，也令美沙之间长期存在的安全协议面临破裂风险。</p>",
       "link": "https://wallstreetcn.com/livenews/3100141",
       "published": "Thu, 07 May 2026 17:32:40 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "纽约联储4月调查：美国消费者长期通胀预期保持稳定",
-      "summary": "<p>尽管中东战争和关税推高当前通胀压力，纽约联储4月消费者调查显示，美国民众对三年和五年期通胀预期维持稳定。这与密歇根大学消费者信心调查及市场预期的明显恶化形成反差，为美联储的政策宽松提供了一定支撑。</p>\n<p><strong>纽约联储周四发布的消费者预期调查显示，受访者预计一年后通胀率为3.6%，较3月的3.4%小幅上升；而三年和五年期通胀预期分别为3.1%和3%，显示民众对通胀长期失控的担忧尚未明显升温。</strong></p>\n<p>受访者对未来一年汽油价格涨幅的预期也从3月的9.4%大幅回落至5.1%，食品价格预期同样有所缓和。</p>\n<p>上述调查结果出炉之际，美国当前通胀压力攀升。3月个人消费支出（PCE）价格指数同比上涨3.5%，高于2月的2.8%，亦高于美联储2%的目标。叠加关税与油价影响，多位美联储官员已公开反对未来降息，部分官员甚至提出需要考虑加息以遏制通胀。</p>\n<div>\n<h2 id=\"7ec3446\">长期预期稳定，短期预期小幅上行</h2>\n</div>\n<p>纽约联储4月调查显示，受访者一年期通胀预期升至3.6%，反映出短期内通胀预期的温和",
-      "link": "https://wallstreetcn.com/articles/3771777",
-      "published": "Thu, 07 May 2026 17:20:32 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美补库存需求利好中国出口，截尾PCE反映通胀粘性，日本防务政策或抬升亚太风险---0507宏观脱水",
-      "summary": "<ol><li><p style=\"text-align: left;\">油价冲击海外生产，3月越南生产增速大幅下滑6.0个百分点，为2024年以来最大单月降幅，利好中国消费品出口替代。美国因关税政策导致过度去库存，消费品进口明显不足，未来存在较大补库存动机，这亦将利好中国消费品出口。</p></li><li><p style=\"text-align: left;\">美联储主席候选人沃什提议以截尾平均PCE替代现行核心PCE作为通胀衡量指标，这能够淡化一次性冲击，更好反映通胀的粘性，货币政策所关注的通胀应侧重经济的内生通胀，需排除外生短期冲击。</p></li><li><p style=\"text-align: left;\">2026年度日本防务预算同比增长3.5%，但仅占财政增量的4.7%，财政扩张主要来源于国债偿付、地方转移支付等。日本在防务政策上的调整更值得关注，允许出口杀伤性武器可能引发地区军备竞赛，抬升全球市场对日本及亚太地区的风险评价。</p></li></ol><h2 style=\"text-align: left;\">&nbsp;</h2>",
-      "link": "https://wallstreetcn.com/member/articles/3771754",
-      "published": "Thu, 07 May 2026 17:12:12 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "伊朗称尚未回应美方案，媒体称霍尔木兹通行问题将数小时内迎“突破”，美宣布新制裁",
-      "summary": "<p>霍尔木兹海峡危机谈判进入关键节点。伊朗表示仍在审议美方提案，尚未作出正式回应；与此同时，沙特媒体预测海峡通行问题将在\"数小时内\"迎来突破，巴基斯坦也表达乐观预期。然而，伊朗方面的强硬表态与其单方面建立海峡管控体系的举动，令前景充满变数。美国财政部当日宣布对伊朗相关网络发动新一轮制裁，显示最大压力策略并未松动。</p>\n<p>据新华社，伊朗外交部发言人5月7日周四对伊朗媒体表示，伊朗尚未就美方提出的方案得出结论，也未对美方作出回应。美媒此前援引知情地区消息人士称，伊朗政府原定于周四将伊方对美国的回复转交给调解方巴基斯坦。</p>\n<p>同在周四，据新华社报道，中东媒体亦援引消息人士称，伊朗与美国已就相关共识达成一致。据沙特官方媒体Al-Hadath电视台报道，目前正就重新开放霍尔木兹海峡一事进行“密集谈判”，伊美双方已就美放宽封锁换取海峡逐步重新开放达成一致。</p>\n<p>上述沙特媒体还预测：“关于滞留在海峡内的船只问题，预计将在数小时内取得突破性进展。” 该媒体的报道未提及具体消息来源或报告内容。</p>\n<p>据新华社援引美国财政部官网信息，特朗普政府周四当天宣布了一系列直接",
-      "link": "https://wallstreetcn.com/articles/3771778",
-      "published": "Thu, 07 May 2026 17:07:25 GMT"
     }
   ]
 }
