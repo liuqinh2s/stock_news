@@ -3,64 +3,90 @@
   "hour": "20",
   "news": [
     {
-      "title": "长高电新中标国网3.46亿",
-      "summary": "长高电新公告子公司合计中标3.46亿元国家电网项目，涉及特高压等设备，利好公司业绩，看多信号。",
-      "reason": "公司中标重大合同，影响个股及电力设备板块",
-      "category": "公司公告",
+      "title": "康宁十倍扩产利好光纤",
+      "summary": "全球光纤龙头康宁官宣十倍扩产，英伟达“包场”光纤产能，预计将极大提振光纤光缆行业需求。A股光纤概念股如长飞光纤、亨通光电、中天科技等将直接受益，短期看多为强信号。",
+      "reason": "康宁是全球光纤龙头，十倍扩产叠加英伟达包场，表明AI算力对光纤需求爆发，属于行业重大动态，对A股光纤光缆板块构成明确利好。",
+      "category": "行业动态",
       "impact_stocks": [
-        "长高电新",
-        "电力设备"
+        "光纤",
+        "光通信",
+        "长飞光纤",
+        "亨通光电",
+        "中天科技"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 4,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2365221"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90dFJ4dXNibWdpbE40ZHg1VE9lVmlOWkJVWTdBQV9rNTFyMWczSl9JMzRjVFVUMW53SG1BenVxel93dmNMNjBaSTEwMF9UcldjcE9BNkVjZk1iR3BUNjZxdVhSRmVmMmpkVEdCVmhSaHhaS25HVXVOeA?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "日本再砸5万亿日元护汇率",
-      "summary": "日本央行时隔一周再次干预汇市，投入约5万亿日元支撑日元汇率，但效果不佳。日元贬值压力可能加剧全球资本流动，对A股外资流入形成间接压制，短期偏空。",
-      "reason": "外围汇率干预影响全球资本流动，间接影响A股",
-      "category": "宏观经济",
+      "title": "Anthropic估值1.2万亿",
+      "summary": "Anthropic估值冲爆1.2万亿美元，首次反超OpenAI，成为全球AI新王。这标志着AI产业竞争进入新阶段，对A股AI概念股（如科大讯飞、海光信息、中科曙光等）形成情绪提振，中期看多。",
+      "reason": "Anthropic估值超越OpenAI是AI行业里程碑事件，显示资本对AI前景强烈看好，将激发A股AI板块炒作热情。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "外资重仓股"
+        "AI概念",
+        "算力",
+        "科大讯飞",
+        "海光信息"
       ],
-      "signal": "bearish",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
           "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771752"
+          "url": "https://wallstreetcn.com/articles/3771759"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "AIOT业务高增长机构调研",
-      "summary": "财联社机构调研显示某公司AIOT业务同比增速超50%，超节点产品全年收入预计超100亿元，反映AIoT景气度提升，利好AI应用和物联网板块。",
-      "reason": "机构调研揭示高增长赛道，影响AIOT概念",
-      "category": "行业动态",
+      "title": "一季度广义财政支出近10万亿",
+      "summary": "一季度广义财政支出近10万亿，支出规模创新高，显示财政政策积极发力稳增长。超预期支出将支撑基建、制造等板块，利好经济复苏预期，A股整体偏多。",
+      "reason": "财政支出规模创新高是宏观经济积极信号，提升市场信心，利好周期性板块和整体股市。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "AIOT",
-        "物联网",
-        "算力"
+        "基建",
+        "制造业",
+        "沪深300"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103169080.html"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "重庆智能汽车测试新规",
+      "summary": "重庆出台智能汽车高速公路测试新规，规范L3级以上自动驾驶测试，为自动驾驶商业化铺路。利好自动驾驶产业链（如德赛西威、中科创达、华阳集团等），看多。",
+      "reason": "地方政策推动自动驾驶测试规范化，加速产业落地，对相关上市公司构成政策利好。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "自动驾驶",
+        "德赛西威",
+        "中科创达",
+        "华阳集团"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2365176"
+          "url": "https://api3.cls.cn/share/article/2365313?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 75,
-  "generated_at": "2026-05-07T20:02:37.489112+08:00"
+  "total_fetched": 96,
+  "generated_at": "2026-05-07T20:59:36.044204+08:00"
 }
