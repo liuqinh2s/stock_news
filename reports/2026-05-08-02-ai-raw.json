@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-08",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14279,
+    "completion_tokens": 4522,
+    "total_tokens": 18801
+  },
+  "content_length": 1705,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"伊朗局势油价押注70亿美元\",\n      \"summary\": \"据披露，在3月至4月伊朗战争消息公布前，油价押注总额高达70亿美元，远超此前报道的26亿美元，显示有大量资金提前布局。这意味着伊朗局势存在信息不对称，可能对国际油价产生较大冲击。A股方面，石油开采、化工、航空等板块将受油价波动影响。若局势缓和油价回落，航空、化工受益；若冲突升级则利空航空、利好石油。当前信号中性偏空，需警惕油价剧烈波动风险。\",\n      \"reason\": \"涉及伊朗局势和油价大额押注，对A股石油及关联板块有间接影响，属于中期影响，且是首次报道的新数据。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油开采\", \"航空\", \"化工\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2365446\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"ST南都被纳入异动股票池\",\n      \"summary\": \"ST南都自5月8日起被纳入异动股票池，表明该股交易出现异常波动。此前公司称生产经营受阶段性资金压力影响。ST股票纳入异动股票池可能导致市场关注度提升，但ST板块整体风险较高，普通投资者需谨慎。此消息对A股整体影响微弱，仅影响ST南都及相关ST概念股。\",\n      \"reason\": \"属于市场结构信号，异动股票池提示风险，对ST板块有轻度影响。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"ST板块\", \"ST南都\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ObklyWTVGbUFoM2FLbHVjNDF0QlVDMUl4amRObUtBcmYyQjY4WnhjZG9ZOFQ5Qm84NVBlOUlmcjBpTHVGZHNRSlQtZG11Z3BzYnVPbEFLMDhGQm1aTEE\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"美联储逆回购规模降至7.73亿\",\n      \"summary\": \"周四（5月7日）美联储隔夜逆回购协议（RRP）使用规模降至7.73亿美元，接近零水平，显示市场流动性充裕，银行体系准备金充足。对A股而言，美联储流动性宽松有助于全球风险偏好，但逆回购规模极低也可能预示流动性拐点。短期影响中性，中长期需关注美联储政策动向。\",\n      \"reason\": \"美联储流动性指标，对全球资金面有参考意义，属于宏观经济/资金流向。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"银行\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2365439\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材与历史消息高度重复，仅筛选出3条新的有影响的消息。其余多为重复或影响力微弱的个股信息，已排除。\"\n}"
+}
