@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-07",
+  "hour": "14",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 18760,
+    "completion_tokens": 4627,
+    "total_tokens": 23387
+  },
+  "content_length": 2319,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"中天科技涨停创新高\",\n      \"summary\": \"今日光纤概念持续走强，中天科技涨停并创历史新高。受英伟达与康宁合作催化，CPO、算力硬件板块集体爆发，中天科技作为光纤龙头受益。板块内东阳光、东山精密等表现强势。看多信号，利好光纤、算力板块。\",\n      \"reason\": \"龙头股创新高，显示板块强势，吸引资金关注。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"中天科技\", \"光纤\", \"算力硬件\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364737?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"全球债务创纪录新高\",\n      \"summary\": \"国际金融协会报告显示，全球债务总额达353万亿美元，创历史新高，美国借贷扩张是主要驱动。可能引发市场对债务风险和利率环境的担忧，对A股市场情绪产生负面影响，尤其对高杠杆行业构成压力。看空信号。\",\n      \"reason\": \"宏观风险信号，可能压制市场风险偏好。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"金融\", \"房地产\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364731?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"油气股下挫潜能恒信跌超10%\",\n      \"summary\": \"受伊朗局势缓和、国际油价大跌影响，A股油气板块持续走弱，潜能恒信跌超10%。此前国际油价暴跌近7%，市场预期石油供应增加。看空信号，利空油气板块。\",\n      \"reason\": \"直接受油价下跌影响，板块弱势。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"潜能恒信\", \"油气\", \"石油\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364727?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"AI应用端反弹引力传媒涨停\",\n      \"summary\": \"午后AI应用端个股震荡反弹，引力传媒涨停。前期AI板块持续活跃，应用端轮动补涨，显示市场对AI产业信心。看多信号，利好AI应用、传媒板块。\",\n      \"reason\": \"AI应用端活跃，资金关注低位补涨。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"引力传媒\", \"AI应用\", \"传媒\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2364713?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美122关税首月美企纳税83亿\",\n      \"summary\": \"美国122关税政策生效首月，美企已支付83亿美元关税，贸易伙伴在WTO表达关切。关税政策加剧贸易摩擦，可能影响全球供应链，对出口导向型行业（如电子、机械）构成压力，但国内自主可控板块可能受益。中性偏空信号，需关注后续谈判。\",\n      \"reason\": \"贸易摩擦升级可能影响出口板块，利好国产替代。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"出口板块\", \"电子\", \"半导体\", \"自主可控\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103168010.html\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
