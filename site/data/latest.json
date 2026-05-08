@@ -3,14 +3,14 @@
   "hour": "04",
   "news": [
     {
-      "title": "美国AI安全行政令未含强制测试",
-      "summary": "美国政府拟定的人工智能安全行政令草案未纳入强制性的AI模型测试要求，仅要求企业自愿报告安全风险。这意味着对AI行业的监管力度低于预期，有利于降低企业合规成本，加速AI商业化进程。受此影响，美股AI板块已有所表现，预计将提振A股AI概念股，尤其是芯片、算力、大模型等方向。该消息属于行业政策利好，短期情绪支撑明显。",
-      "reason": "监管放松直接利好AI产业，与A股AI板块高度相关，且未在历史消息中重复出现。",
+      "title": "美国AI安全行政令不强制模型测试",
+      "summary": "美国拟定人工智能安全行政令，但未纳入强制性AI模型测试要求，监管力度弱于预期。这利好全球AI产业发展，尤其对A股AI概念板块形成短期情绪提振。市场预期监管宽松将加速AI应用落地，相关个股如科大讯飞、海康威视等有望受益。看多信号。",
+      "reason": "监管政策对AI板块影响直接，弱化监管有利行业扩张。",
       "category": "行业动态",
       "impact_stocks": [
         "AI概念",
-        "算力",
-        "半导体"
+        "AI安全",
+        "科技"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -23,65 +23,106 @@
       "urgency": "hours"
     },
     {
-      "title": "CFTC黄金净多头增加，原油净多头减少",
-      "summary": "据CFTC截至5月5日当周持仓数据，COMEX黄金投机者净多头头寸增加4090手，显示资金持续看多黄金；而WTI原油净多头头寸减少2220手，布伦特原油净多头减少9000份合约。黄金看多情绪上升有利于A股黄金板块，原油净多头减少则对石油板块构成压力，但需结合地缘局势综合判断。",
-      "reason": "资金持仓变动直接影响商品板块，黄金和石油均为A股重要板块，数据时效性较好，未重复。",
-      "category": "资金流向",
+      "title": "俄乌停火延长至5月11日",
+      "summary": "俄乌同意将停火延长至5月11日，地缘局势缓和。避险情绪降温，利好欧洲股市情绪，对A股外部风险偏好有正面作用。短期利空石油、天然气板块（供给端担忧减弱），利好航空、航运。",
+      "reason": "地缘缓和改善市场风险偏好，影响资源类板块。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "黄金板块",
-        "石油板块"
+        "航空",
+        "航运",
+        "石油",
+        "军工"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366611?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2366605?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "AI芯片公司Cerebras计划提高IPO发行价",
-      "summary": "人工智能芯片制造商Cerebras据悉计划在周一提高其IPO发行价。该公司被视为英伟达的竞争对手，其IPO定价上调反映市场对AI芯片需求的强烈信心。这将对A股AI芯片及算力概念股产生积极情绪传导，国产替代逻辑再度强化。",
-      "reason": "AI芯片热度映射，利好A股半导体和算力板块，消息未重复。",
+      "title": "Cerebras计划提高IPO发行价",
+      "summary": "人工智能芯片制造商Cerebras计划周一提高IPO发行价，反映AI芯片需求强劲。对A股AI算力、半导体板块形成情绪提振，尤其相关概念股如中科曙光、寒武纪等可能跟涨。看多信号。",
+      "reason": "AI芯片龙头IPO价提升预示行业景气度，映射A股。",
       "category": "行业动态",
       "impact_stocks": [
         "AI芯片",
         "半导体",
-        "算力概念"
+        "科技"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260509/c676554861.shtml"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366604?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "沃飞长空冲刺A股eVTOL第一股",
-      "summary": "吉利系低空出行公司沃飞长空正加速推进A股IPO，有望成为A股eVTOL（电动垂直起降飞行器）第一股。该公司在低空经济领域具有先发优势，IPO进展将提升市场对低空经济赛道的关注度，利好相关产业链个股，如亿航智能、中信海直等低空经济概念股。",
-      "reason": "eVTOL作为低空经济热点，公司冲刺IPO具有行业标杆意义，未重复。",
-      "category": "行业动态",
+      "title": "CFTC: 原油净多头减少2220手",
+      "summary": "CFTC数据显示截至5月5日当周，WTI原油投机者净多头头寸减少2220手，显示市场对原油看涨情绪降温。短期利空原油价格，但对A股石化板块影响有限。偏空信号。",
+      "reason": "投机资金减仓反映需求预期走弱，利空周期股。",
+      "category": "资金流向",
       "impact_stocks": [
-        "低空经济",
-        "eVTOL",
-        "亿航智能"
+        "石油",
+        "化工"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366612?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "COMEX黄金净多头增加4090手",
+      "summary": "CFTC数据显示截至5月5日当周，COMEX黄金投机者净多头头寸增加4090手，显示避险资金流入黄金。对A股黄金板块有正面影响，但需注意美元走势。中性偏多信号。",
+      "reason": "黄金净多头增加提升板块关注度，但影响有限。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "黄金",
+        "贵金属"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366611?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "A股高位休整，板块高低切换",
+      "summary": "A股主要股指高位休整，板块热点出现高低切换，资金从科技等高位板块流向低估值蓝筹。此信号提示短期市场风格可能切换，关注金融、消费等补涨机会。中性信号。",
+      "reason": "市场结构变化预示轮动，影响持仓布局。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "新能源",
+        "消费"
+      ],
+      "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pLTJLNFJndWk0VkhyQ1RBbjM2RThRa1ZUVVVQZGFFRm0tQ2tIamNHNzlrX0NvcEpkeUR4ZXQ4M2pQT3lySWhnTnZhWTRxOHlua0lYR0dMVXAxYmhRcUpFTjNGeXBDbTIyemcxTWV4TmdrS2ZlWW44aQ?oc=5"
+          "name": "上海证券报",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GYlhObWhCay1oLUs5a1h3Yy13Z0FQc09XU2MzUjVUcXB1R3ZMb3llXzhRS3dYYk1ncVZSMGZ3ckpraFJyWEQwbGJydGpqWER2dF9qM1o4WjhJeTlQcEJ1WkxlekpLMllHY3FrUGxR?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 35,
-  "generated_at": "2026-05-09T04:01:32.196620+08:00"
+  "total_fetched": 16,
+  "generated_at": "2026-05-09T04:04:41.329941+08:00"
 }
