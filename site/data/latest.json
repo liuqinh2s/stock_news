@@ -3,82 +3,85 @@
   "hour": "18",
   "news": [
     {
-      "title": "招商证券董事长离任",
-      "summary": "招商证券公告董事长霍达因工作调整离任，董事朱江涛代为履职。董事长变更可能影响公司战略稳定性，短期或引发市场对管理层变动的担忧，对券商板块情绪有一定扰动，但属正常人事调整。信号中性，需关注后续继任者及战略方向。",
-      "reason": "头部券商高管变动，影响公司治理预期，优先级一公司公告。",
+      "title": "三部门印发智能体实施意见",
+      "summary": "三部门联合印发《智能体规范应用与创新发展实施意见》，旨在引导整机、软件等企业基于智能体研发产品和服务，推动智能体与手机、电脑、汽车、家居、可穿戴、消费级机器人等终端协同发展，并与工业互联网、数控机床、工业机器人等融合。同时发展软件开发智能体、金融风控智能体等应用领域，要求前瞻布局多智能体协同、智能互联网等前沿领域。该政策为AI产业提供了明确的发展方向和应用场景，直接利好AI概念、智能体、软件、芯片、机器人等板块。从做多视角看，这是明确的行业政策利好，信号强烈看多。",
+      "reason": "三部门联合发布智能体重磅政策，属于优先级二的行业政策变动，且历史消息中未出现该具体政策（仅有人工智能算力相关其他政策），具有新意。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "智能体",
+        "软件",
+        "芯片",
+        "机器人"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366250?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "招商证券董事长霍达离任",
+      "summary": "招商证券公告董事长霍达离任，由董事朱江涛代为履职。董事长变更可能影响公司未来战略方向和经营稳定性，短期带来不确定性。但招商证券为大型券商，治理结构完善，预计影响有限。信号中性偏负面。",
+      "reason": "公司重大事件中的高管变动，属于优先级二，但影响程度一般。",
       "category": "公司公告",
       "impact_stocks": [
         "招商证券",
-        "券商板块"
+        "券商"
       ],
       "signal": "neutral",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
           "name": "东方财富",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yTmwyVnBFMVdQa192YTdDTG9rNGRJUXJXak5IaWtGdUhPS1hxUmpJR2RuTEVvc3d3OVpQYzhWcXVLUGZmWDBseEJuTWZyLUR3LXdqU25jUWhOTEtZZ0h5N2VhX3pTQQ?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "长城证券香港子公司获牌照",
-      "summary": "长城证券公告，其香港子公司已获香港证监会颁发业务牌照，可开展证券交易、资产管理等业务。此举有助于长城证券拓展海外业务，提升国际竞争力，对长城证券构成利好，同时反映券商行业国际化趋势。信号看多，但影响程度有限。",
-      "reason": "券商国际化进程，对个股有积极影响，优先级二公司事件。",
-      "category": "公司公告",
+      "title": "宏和科技累涨1286%且提示风险",
+      "summary": "宏和科技发布公告称，自2025年5月29日以来累计上涨1286%，但公司主营业务不存在重大变化，提示投资者注意风险。该股为光通信概念股，近期大幅上涨，基本面支撑不足，风险提示可能引发资金获利了结，短期回调压力较大。从做多视角看，该消息偏空。",
+      "reason": "个股异常表现及风险提示，属于优先级三的新股/次新股异常表现，但作为高位股风险信号，对相关板块情绪有影响。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "长城证券",
-        "券商板块"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZGJoQkRCcHo3UXJldFV0dXF2Q2xKeXdTalZRWkctYS1YSVNHdmVHQ1lCSkhYQzlGWVgxSXEybzlvUVlNbnd3XzhoRG9oQVJNUVFPdmhvX1hoZkMwVXc?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "立昂微连续三日涨幅超20%",
-      "summary": "立昂微公告，公司股票连续3个交易日收盘价涨幅偏离值累计超20%，属于异常波动。近期半导体硅片概念活跃，立昂微为龙头之一，短期涨幅过大可能触发监管关注或获利回吐，需警惕回调风险。信号偏空，持有者应注意波动。",
-      "reason": "个股异常波动，可能引发监管或调整，优先级二公司公告。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "立昂微",
-        "半导体硅片"
+        "宏和科技",
+        "光通信"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE92YjlZSzhWd1B3OF9FOU5kUUVMLVU4Z0VYdjdpdERoRVlZOU5TbEZNM3dsc1NmR0J5RWR3UTJBYVVKU1J4X0FLWGFqenlyVHdiblVsQU9fN0tpYkNPNVd2eUZpNG50QQ?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366255?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "沪指周线5连阳",
-      "summary": "沪指本周收涨，实现周线5连阳，且连续3个交易日出现百股涨停，市场赚钱效应显著。成交额维持3万亿元以上高位，显示资金活跃度极高。技术上看，周线5连阳是强势信号，但短期累积涨幅较大，需警惕高位震荡风险。信号看多，但在高位应保持谨慎。",
-      "reason": "市场技术指标强势，反映多头情绪，优先级三市场情绪。",
-      "category": "市场情绪",
+      "title": "国晟科技股价波动大提示风险",
+      "summary": "国晟科技公告称，股票自年初至2026年5月8日累计涨幅达53.35%，股票价格短期波动较大，请投资者注意风险。该公司主营光伏，近期受行业政策提振上涨，但涨幅已大，风险提示或抑制短期炒作情绪。信号偏空。",
+      "reason": "个股异常波动及风险提示，属于优先级三的市场情绪信号，对光伏板块情绪有警示作用。",
+      "category": "公司公告",
       "impact_stocks": [
-        "沪深300",
-        "上证指数"
+        "国晟科技",
+        "光伏"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "bearish",
+      "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fVklJZlVYamJSUE9WY0VQRTE5QnItaEJVVXNQZHRVdFp3ZlRKM3ZvMWZIbmR5a3V0ck9PbzJvSmNSLXF6ZXNjcg?oc=5"
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rNkxneVdyclhKdDh4c1ctaDAxRHJmdHhoSmp3LVhidThJeEhUc1lZbk9iYjVYZ3dKcFc2NUpTVkphZ2NhWWlEREZwT0hvOXpNcUpGb0NYMUZlQ1JuTkE?oc=5"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 58,
-  "generated_at": "2026-05-08T18:02:12.852622+08:00"
+  "total_fetched": 79,
+  "generated_at": "2026-05-08T18:17:48.143599+08:00"
 }

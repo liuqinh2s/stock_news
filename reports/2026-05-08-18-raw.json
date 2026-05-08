@@ -1,125 +1,139 @@
 {
   "date": "2026-05-08",
   "hour": "18",
-  "total": 58,
-  "fetched_at": "2026-05-08T18:00:30.268895+08:00",
+  "total": 79,
+  "fetched_at": "2026-05-08T18:16:45.033455+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股策略｜分化加剧，上调沪深300盈利增速 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNURwdDZiNG9WUjMzQmU2cC1uMVpYaGZzNDNvSTV1MXdhOHExbW1oMENYRVhIVjJZYnpaZUpzR2dlQUk2bGtiVG91d3B5cHBrS3VCMG1MQTVUdmNyZ0pnVTI1YlBQeWNIYXc2UmllUXRnT21JbXc?oc=5\" target=\"_blank\">A股策略｜分化加剧，上调沪深300盈利增速</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNURwdDZiNG9WUjMzQmU2cC1uMVpYaGZzNDNvSTV1MXdhOHExbW1oMENYRVhIVjJZYnpaZUpzR2dlQUk2bGtiVG91d3B5cHBrS3VCMG1MQTVUdmNyZ0pnVTI1YlBQeWNIYXc2UmllUXRnT21JbXc?oc=5",
-      "published": "Fri, 08 May 2026 09:45:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "扒了扒A股1060家AI企业的财报，我发现了4个残酷真相 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdTFQSTVWXzBjejFWV01vUDRZS3FTOTJpaUcyeHBGVjJKckpVNEcyUEgxdVUwdWJZenFMcU5GX2dYdlZsVGpNUnNVNzVmVloyb2tfZjVoTGs5M2xDaWtzMzVFdjAxVG00My1DdkFkV0JqZG9BWUE?oc=5\" target=\"_blank\">扒了扒A股1060家AI企业的财报，我发现了4个残酷真相</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBdTFQSTVWXzBjejFWV01vUDRZS3FTOTJpaUcyeHBGVjJKckpVNEcyUEgxdVUwdWJZenFMcU5GX2dYdlZsVGpNUnNVNzVmVloyb2tfZjVoTGs5M2xDaWtzMzVFdjAxVG00My1DdkFkV0JqZG9BWUE?oc=5",
-      "published": "Fri, 08 May 2026 09:47:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "赚钱效应扩散，上涨阻力较小！今天A股全市场成交额突破3万亿元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Lb1pSVXNlNW9XTmJMbTBGYnFNZDdKZHJOZXI3VFdZRU5udFVCUWxtekNhNlpnMHhHZG9iQTNLZEJRRU1EZm0wUnpGUGZEalZ2MUJWbGdoTFZWSHZhZ1VuNlIzY3htUmlqSXBTYnRueF93MERpdFFlOA?oc=5\" target=\"_blank\">赚钱效应扩散，上涨阻力较小！今天A股全市场成交额突破3万亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "赚钱效应扩散，上涨阻力较小！今天A股全市场成交额突破3万亿元 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Lb1pSVXNlNW9XTmJMbTBGYnFNZDdKZHJOZXI3VFdZRU5udFVCUWxtekNhNlpnMHhHZG9iQTNLZEJRRU1EZm0wUnpGUGZEalZ2MUJWbGdoTFZWSHZhZ1VuNlIzY3htUmlqSXBTYnRueF93MERpdFFlOA?oc=5\" target=\"_blank\">赚钱效应扩散，上涨阻力较小！今天A股全市场成交额突破3万亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Lb1pSVXNlNW9XTmJMbTBGYnFNZDdKZHJOZXI3VFdZRU5udFVCUWxtekNhNlpnMHhHZG9iQTNLZEJRRU1EZm0wUnpGUGZEalZ2MUJWbGdoTFZWSHZhZ1VuNlIzY3htUmlqSXBTYnRueF93MERpdFFlOA?oc=5",
       "published": "Fri, 08 May 2026 08:54:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股又一只10倍牛股诞生 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNTFadjE5R0MzWkJtdzdNc1ZVazR4TGxDZG40d1pSeDAzZ25KbmZYMXhQSE93WDFIam9oSFZCUmg3NEx6akxQYl9FSHZKR2dqci1BajlrX2YzSUZjQkJRVGFZWEtoQUxyV1Z1YldqLVdEaTllWWc?oc=5\" target=\"_blank\">A股又一只10倍牛股诞生</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股又一只10倍牛股诞生 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNTFadjE5R0MzWkJtdzdNc1ZVazR4TGxDZG40d1pSeDAzZ25KbmZYMXhQSE93WDFIam9oSFZCUmg3NEx6akxQYl9FSHZKR2dqci1BajlrX2YzSUZjQkJRVGFZWEtoQUxyV1Z1YldqLVdEaTllWWc?oc=5\" target=\"_blank\">A股又一只10倍牛股诞生</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tNTFadjE5R0MzWkJtdzdNc1ZVazR4TGxDZG40d1pSeDAzZ25KbmZYMXhQSE93WDFIam9oSFZCUmg3NEx6akxQYl9FSHZKR2dqci1BajlrX2YzSUZjQkJRVGFZWEtoQUxyV1Z1YldqLVdEaTllWWc?oc=5",
       "published": "Fri, 08 May 2026 08:59:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "连板股追踪丨A股今日共126只个股涨停 这只光纤股3连板 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VNUJKOGMyQ2JhMHRpVTE1OGNQVUpMam81R1FodzljOWU0aURHRk11Rlh5blh5XzJHME1jeXFfRFlpYlJTc1VYMDlESVpZNkhFRFdRMHZnZXR3Tkxqd0QwX1lETkhOZVR2TTRURjY3Vkw3dnFHR29INA?oc=5\" target=\"_blank\">连板股追踪丨A股今日共126只个股涨停 这只光纤股3连板</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "连板股追踪丨A股今日共126只个股涨停 这只光纤股3连板 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9VNUJKOGMyQ2JhMHRpVTE1OGNQVUpMam81R1FodzljOWU0aURHRk11Rlh5blh5XzJHME1jeXFfRFlpYlJTc1VYMDlESVpZNkhFRFdRMHZnZXR3Tkxqd0QwX1lETkhOZVR2TTRURjY3Vkw3dnFHR29INA?oc=5\" target=\"_blank\">连板股追踪丨A股今日共126只个股涨停 这只光纤股3连板</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VNUJKOGMyQ2JhMHRpVTE1OGNQVUpMam81R1FodzljOWU0aURHRk11Rlh5blh5XzJHME1jeXFfRFlpYlJTc1VYMDlESVpZNkhFRFdRMHZnZXR3Tkxqd0QwX1lETkhOZVR2TTRURjY3Vkw3dnFHR29INA?oc=5",
       "published": "Fri, 08 May 2026 08:43:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "3连板、2连板！今天，A股“光”照向这里 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAzZ2xmcFBlVDRMcEZGemVMQmtKc1JrTlJldnJ6elo3S2k2LTdIRDBsXy1vblBheVlFcndiZ2ViS0hpZjJuaUlOZDUzSWtYdUdiOWVJQ1daWkoweXhBWk1aZWRfd1FuUGFyX3JKZXdXOTdmWDdDZkRkcA?oc=5\" target=\"_blank\">3连板、2连板！今天，A股“光”照向这里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "3连板、2连板！今天，A股“光”照向这里 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAzZ2xmcFBlVDRMcEZGemVMQmtKc1JrTlJldnJ6elo3S2k2LTdIRDBsXy1vblBheVlFcndiZ2ViS0hpZjJuaUlOZDUzSWtYdUdiOWVJQ1daWkoweXhBWk1aZWRfd1FuUGFyX3JKZXdXOTdmWDdDZkRkcA?oc=5\" target=\"_blank\">3连板、2连板！今天，A股“光”照向这里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzZ2xmcFBlVDRMcEZGemVMQmtKc1JrTlJldnJ6elo3S2k2LTdIRDBsXy1vblBheVlFcndiZ2ViS0hpZjJuaUlOZDUzSWtYdUdiOWVJQ1daWkoweXhBWk1aZWRfd1FuUGFyX3JKZXdXOTdmWDdDZkRkcA?oc=5",
       "published": "Fri, 08 May 2026 08:39:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股上市公司季报透视：业绩显著回暖后，中期哪些行业值得重点关注？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXQwYkpVUVNhVlJ3MjVydVVNWmJUMk14akV4UmFfWFl5ZzVrMkhtZml3dVJ2RFpZSUFEbTRaVVNiYWFYSVVYemdzTVIzRDBDUG5CdkxvdGtnMkN3N1pkNW1RLTRQZTB5c3FJUnB1d1pwZmZQcWc?oc=5\" target=\"_blank\">A股上市公司季报透视：业绩显著回暖后，中期哪些行业值得重点关注？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股上市公司季报透视：业绩显著回暖后，中期哪些行业值得重点关注？ - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXQwYkpVUVNhVlJ3MjVydVVNWmJUMk14akV4UmFfWFl5ZzVrMkhtZml3dVJ2RFpZSUFEbTRaVVNiYWFYSVVYemdzTVIzRDBDUG5CdkxvdGtnMkN3N1pkNW1RLTRQZTB5c3FJUnB1d1pwZmZQcWc?oc=5\" target=\"_blank\">A股上市公司季报透视：业绩显著回暖后，中期哪些行业值得重点关注？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04MXQwYkpVUVNhVlJ3MjVydVVNWmJUMk14akV4UmFfWFl5ZzVrMkhtZml3dVJ2RFpZSUFEbTRaVVNiYWFYSVVYemdzTVIzRDBDUG5CdkxvdGtnMkN3N1pkNW1RLTRQZTB5c3FJUnB1d1pwZmZQcWc?oc=5",
       "published": "Fri, 08 May 2026 08:31:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股：部分上市公司不愿自己的股票上涨，还一直使劲打压股价，你明白是怎么回事吗？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1FZ2tQcnQwUjdzWU5oM3ktb2oyYVJsNk1xSmFNTXFOTW91SlJISDhDZ01zVGszR0VXZy1IeFJVYUVfd3M1TXI1djhjV1JKRkVMeG9LbVBpY3lfRGZObGVRdmxsajZrVmRJWnI4X21NX1RZZHM3ZGl3cg?oc=5\" target=\"_blank\">A股：部分上市公司不愿自己的股票上涨，还一直使劲打压股价，你明白是怎么回事吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "5月A股风格切换一触即发 国金证券AI投顾助力投资者及时调整策略 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9yazBHLXFVdDMxeVgxWlM5bUNOaW9vcHF1c2ROVExjNWxGRXBjQTNHLXdrMnVnVlFNVmo3SVZGWHRrcGcxUDJXZUFwbTc4RmwtRnh4TThmci1KVEsxbFJGNkljcWgwU0RwUnJhR0JUSnU2UkZyaHc?oc=5\" target=\"_blank\">5月A股风格切换一触即发 国金证券AI投顾助力投资者及时调整策略</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yazBHLXFVdDMxeVgxWlM5bUNOaW9vcHF1c2ROVExjNWxGRXBjQTNHLXdrMnVnVlFNVmo3SVZGWHRrcGcxUDJXZUFwbTc4RmwtRnh4TThmci1KVEsxbFJGNkljcWgwU0RwUnJhR0JUSnU2UkZyaHc?oc=5",
+      "published": "Fri, 08 May 2026 08:36:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股：部分上市公司不愿自己的股票上涨，还一直使劲打压股价，你明白是怎么回事吗？ - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1FZ2tQcnQwUjdzWU5oM3ktb2oyYVJsNk1xSmFNTXFOTW91SlJISDhDZ01zVGszR0VXZy1IeFJVYUVfd3M1TXI1djhjV1JKRkVMeG9LbVBpY3lfRGZObGVRdmxsajZrVmRJWnI4X21NX1RZZHM3ZGl3cg?oc=5\" target=\"_blank\">A股：部分上市公司不愿自己的股票上涨，还一直使劲打压股价，你明白是怎么回事吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FZ2tQcnQwUjdzWU5oM3ktb2oyYVJsNk1xSmFNTXFOTW91SlJISDhDZ01zVGszR0VXZy1IeFJVYUVfd3M1TXI1djhjV1JKRkVMeG9LbVBpY3lfRGZObGVRdmxsajZrVmRJWnI4X21NX1RZZHM3ZGl3cg?oc=5",
       "published": "Fri, 08 May 2026 08:23:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "35家A股公司披露回购进展 京东方A年内已回购近20亿元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdkl6NjZ3RTFNa2ZZa25MY2FoYi1yWWFERXU4UDRLTU1ndkFRQTZDN1BFUjNEazVRMk02SU81dHNGZWh4NnNnNG1KMWV5ZFQ0d2RwWUttQTNIS2ZPMnVCLV90dk1pWmdSR3VqRG1rcHIyNFZCZVFCNA?oc=5\" target=\"_blank\">35家A股公司披露回购进展 京东方A年内已回购近20亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "35家A股公司披露回购进展 京东方A年内已回购近20亿元 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdkl6NjZ3RTFNa2ZZa25MY2FoYi1yWWFERXU4UDRLTU1ndkFRQTZDN1BFUjNEazVRMk02SU81dHNGZWh4NnNnNG1KMWV5ZFQ0d2RwWUttQTNIS2ZPMnVCLV90dk1pWmdSR3VqRG1rcHIyNFZCZVFCNA?oc=5\" target=\"_blank\">35家A股公司披露回购进展 京东方A年内已回购近20亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jdkl6NjZ3RTFNa2ZZa25MY2FoYi1yWWFERXU4UDRLTU1ndkFRQTZDN1BFUjNEazVRMk02SU81dHNGZWh4NnNnNG1KMWV5ZFQ0d2RwWUttQTNIS2ZPMnVCLV90dk1pWmdSR3VqRG1rcHIyNFZCZVFCNA?oc=5",
       "published": "Fri, 08 May 2026 08:25:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "亚康股份A股股东户数减少2498户降幅15.34%，流通A股户均持股4345.23股增幅18.12%，户均持股市值30.46万元增幅18.69% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmNkZDBZandOaXNTTFpiT1lnRVNRTDY3TXByMW00NlA5UnV2ZHZEYmwxSmRENG0wMkNlcFV6WURPTVJHVW9UWWdmRTJHcEtMckRlc0dWUUZsYUFHYkhvRGpMR1VLVnRCTXJMUk5RNlh4cHc4WGdtNG9YbzdHVElOSHZmbURjRkJSQmpjag?oc=5\" target=\"_blank\">亚康股份A股股东户数减少2498户降幅15.34%，流通A股户均持股4345.23股增幅18.12%，户均持股市值30.46万元增幅18.69%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "市值近千万！精神病院跨界炒股，竟冲进A股十大股东 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jVnVKbmZKLWZzSjR4bG1fNlA0ZnlzeGx2UnY2b3hIRUlIbU0yVTJrNWRJNFU2NE1hb1FPWFQyWmJQSDBnSVp5d1E1dlJEVDZid1VjbDRMb1J4SERLaGtFS1daSnItSmFiU3dTeG5mUDViRHRsTkE?oc=5\" target=\"_blank\">市值近千万！精神病院跨界炒股，竟冲进A股十大股东</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jVnVKbmZKLWZzSjR4bG1fNlA0ZnlzeGx2UnY2b3hIRUlIbU0yVTJrNWRJNFU2NE1hb1FPWFQyWmJQSDBnSVp5d1E1dlJEVDZid1VjbDRMb1J4SERLaGtFS1daSnItSmFiU3dTeG5mUDViRHRsTkE?oc=5",
+      "published": "Fri, 08 May 2026 08:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "兴证策略：全球科技投资如何映射A股？ - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNanQzZ0FxR0N6Rl9mQXdSX3FoampoTDgtNDZRb0F6b3h6NzQtUkdfVDdKSWpCdng1VGloQ3V5SHp5ZUJMb3RtVzRZS1ZVcUZ6TnNkRExJUkx6SVN3TTNRcWJtMU93OHJOZERpajF2alJ2Znh6WTRFQXM1YmJ3bFp2Mg?oc=5\" target=\"_blank\">兴证策略：全球科技投资如何映射A股？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNanQzZ0FxR0N6Rl9mQXdSX3FoampoTDgtNDZRb0F6b3h6NzQtUkdfVDdKSWpCdng1VGloQ3V5SHp5ZUJMb3RtVzRZS1ZVcUZ6TnNkRExJUkx6SVN3TTNRcWJtMU93OHJOZERpajF2alJ2Znh6WTRFQXM1YmJ3bFp2Mg?oc=5",
+      "published": "Fri, 08 May 2026 09:56:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "41家上市银行派现6456亿，股息率最高超6%！工行豪派1105亿登顶A股“分红王” - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5VVmd3eWU4bTdCRVR4YTFOX29ULWRnWjJ0MDB0QlYtQnFtSlBWRkFZTWczRGxrY093UWJocHpkcTgzNWswUDFqY2hNSDlwdGNqSmZhbDhjNUhSZGFFY1BzLUZUaU94cXBOemZEMEY0ZDNpZmRnalNmeA?oc=5\" target=\"_blank\">41家上市银行派现6456亿，股息率最高超6%！工行豪派1105亿登顶A股“分红王”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VVmd3eWU4bTdCRVR4YTFOX29ULWRnWjJ0MDB0QlYtQnFtSlBWRkFZTWczRGxrY093UWJocHpkcTgzNWswUDFqY2hNSDlwdGNqSmZhbDhjNUhSZGFFY1BzLUZUaU94cXBOemZEMEY0ZDNpZmRnalNmeA?oc=5",
+      "published": "Fri, 08 May 2026 09:59:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股5月“开门红”，信达澳亚旗下13只产品跻身同类前10%！ - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNdlFvN1ZXSmZ2T2I4bjBsV1dRYlJBdnN2QlFZa0l6XzFzdzFZTW1TOHNrNmlBcTRpVGhCczJ3ZVVkQ2J1bDVoVXVnTlJVUHNmaUpaQTd3TDVwWkNIWmM1TWNWR2M2UkNubEdrbzU3c0ctRVlFckFGbmowYjZyZm5zc1pqcnQ1bWY0a0E?oc=5\" target=\"_blank\">A股5月“开门红”，信达澳亚旗下13只产品跻身同类前10%！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdlFvN1ZXSmZ2T2I4bjBsV1dRYlJBdnN2QlFZa0l6XzFzdzFZTW1TOHNrNmlBcTRpVGhCczJ3ZVVkQ2J1bDVoVXVnTlJVUHNmaUpaQTd3TDVwWkNIWmM1TWNWR2M2UkNubEdrbzU3c0ctRVlFckFGbmowYjZyZm5zc1pqcnQ1bWY0a0E?oc=5",
+      "published": "Fri, 08 May 2026 09:02:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "亚康股份A股股东户数减少2498户降幅15.34%，流通A股户均持股4345.23股增幅18.12%，户均持股市值30.46万元增幅18.69% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmNkZDBZandOaXNTTFpiT1lnRVNRTDY3TXByMW00NlA5UnV2ZHZEYmwxSmRENG0wMkNlcFV6WURPTVJHVW9UWWdmRTJHcEtMckRlc0dWUUZsYUFHYkhvRGpMR1VLVnRCTXJMUk5RNlh4cHc4WGdtNG9YbzdHVElOSHZmbURjRkJSQmpjag?oc=5\" target=\"_blank\">亚康股份A股股东户数减少2498户降幅15.34%，流通A股户均持股4345.23股增幅18.12%，户均持股市值30.46万元增幅18.69%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmNkZDBZandOaXNTTFpiT1lnRVNRTDY3TXByMW00NlA5UnV2ZHZEYmwxSmRENG0wMkNlcFV6WURPTVJHVW9UWWdmRTJHcEtMckRlc0dWUUZsYUFHYkhvRGpMR1VLVnRCTXJMUk5RNlh4cHc4WGdtNG9YbzdHVElOSHZmbURjRkJSQmpjag?oc=5",
       "published": "Fri, 08 May 2026 08:50:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "海峡股份A股股东户数减少2000户降幅2.44%，流通A股户均持股2.79万股增幅2.52%，户均持股市值23.76万元增幅2.64% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjRXOU40dlItblB3SE1ob0huRWNPMkRla2NFNXRzVUdvUXVBZzJ1VDFXQkJ2MHhreURtOFdRX3F0cnFLZHN0azE1NDZOTjI0LXlnOTVPVUstTWZsYkhHa3VvczR5UlB3Q3dWRzJaMzVhYWZpaml1UDhEOGUtRlowQ0ZrdWo1d1NjYVZESw?oc=5\" target=\"_blank\">海峡股份A股股东户数减少2000户降幅2.44%，流通A股户均持股2.79万股增幅2.52%，户均持股市值23.76万元增幅2.64%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "海峡股份A股股东户数减少2000户降幅2.44%，流通A股户均持股2.79万股增幅2.52%，户均持股市值23.76万元增幅2.64% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjRXOU40dlItblB3SE1ob0huRWNPMkRla2NFNXRzVUdvUXVBZzJ1VDFXQkJ2MHhreURtOFdRX3F0cnFLZHN0azE1NDZOTjI0LXlnOTVPVUstTWZsYkhHa3VvczR5UlB3Q3dWRzJaMzVhYWZpaml1UDhEOGUtRlowQ0ZrdWo1d1NjYVZESw?oc=5\" target=\"_blank\">海峡股份A股股东户数减少2000户降幅2.44%，流通A股户均持股2.79万股增幅2.52%，户均持股市值23.76万元增幅2.64%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjRXOU40dlItblB3SE1ob0huRWNPMkRla2NFNXRzVUdvUXVBZzJ1VDFXQkJ2MHhreURtOFdRX3F0cnFLZHN0azE1NDZOTjI0LXlnOTVPVUstTWZsYkhHa3VvczR5UlB3Q3dWRzJaMzVhYWZpaml1UDhEOGUtRlowQ0ZrdWo1d1NjYVZESw?oc=5",
       "published": "Fri, 08 May 2026 08:50:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "南方泵业A股股东户数减少7198户降幅12.34%，流通A股户均持股3.74万股增幅14.08%，户均持股市值18.09万元增幅12.00% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONm5faERPVm9CYmZtbmZ4OUZNbkhvdHpzQUpHdEpJUkwwdzVsRzdCR1NRS1hIUlV6Mnp2TUp5YnNzUnVsUzNwTndmYk1HR1Z3dTJhcXZYVzVRNXR3YUtiV2kwdjdoZkN0cldKZnlEMVFhTzF4VkhXQWNHbl84dWR5RXdIcW03eW5BTVZYZg?oc=5\" target=\"_blank\">南方泵业A股股东户数减少7198户降幅12.34%，流通A股户均持股3.74万股增幅14.08%，户均持股市值18.09万元增幅12.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "南方泵业A股股东户数减少7198户降幅12.34%，流通A股户均持股3.74万股增幅14.08%，户均持股市值18.09万元增幅12.00% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONm5faERPVm9CYmZtbmZ4OUZNbkhvdHpzQUpHdEpJUkwwdzVsRzdCR1NRS1hIUlV6Mnp2TUp5YnNzUnVsUzNwTndmYk1HR1Z3dTJhcXZYVzVRNXR3YUtiV2kwdjdoZkN0cldKZnlEMVFhTzF4VkhXQWNHbl84dWR5RXdIcW03eW5BTVZYZg?oc=5\" target=\"_blank\">南方泵业A股股东户数减少7198户降幅12.34%，流通A股户均持股3.74万股增幅14.08%，户均持股市值18.09万元增幅12.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONm5faERPVm9CYmZtbmZ4OUZNbkhvdHpzQUpHdEpJUkwwdzVsRzdCR1NRS1hIUlV6Mnp2TUp5YnNzUnVsUzNwTndmYk1HR1Z3dTJhcXZYVzVRNXR3YUtiV2kwdjdoZkN0cldKZnlEMVFhTzF4VkhXQWNHbl84dWR5RXdIcW03eW5BTVZYZg?oc=5",
       "published": "Fri, 08 May 2026 08:50:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "欧普康视A股股东户数增加104户增幅0.17%，流通A股户均持股1.09万股降幅0.17%，户均持股市值15.77万元增幅2.39% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjVKSkVBYzlHV1VLUEsyLWdpTGoyUmh6T0NvZUcwckhFNjZvQnRlOGtUUjBQMW1JY2NfLU9kYXNYelI0MHktdzNOOS1QTWhqM2toQnBzNm00RGxweURNZm1XVFI4RE9sR3VrWVhfRDZobzRQZXU5QW5XQnFTdlRzY0dDcktuc0xxMnB5Ug?oc=5\" target=\"_blank\">欧普康视A股股东户数增加104户增幅0.17%，流通A股户均持股1.09万股降幅0.17%，户均持股市值15.77万元增幅2.39%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "欧普康视A股股东户数增加104户增幅0.17%，流通A股户均持股1.09万股降幅0.17%，户均持股市值15.77万元增幅2.39% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjVKSkVBYzlHV1VLUEsyLWdpTGoyUmh6T0NvZUcwckhFNjZvQnRlOGtUUjBQMW1JY2NfLU9kYXNYelI0MHktdzNOOS1QTWhqM2toQnBzNm00RGxweURNZm1XVFI4RE9sR3VrWVhfRDZobzRQZXU5QW5XQnFTdlRzY0dDcktuc0xxMnB5Ug?oc=5\" target=\"_blank\">欧普康视A股股东户数增加104户增幅0.17%，流通A股户均持股1.09万股降幅0.17%，户均持股市值15.77万元增幅2.39%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUjVKSkVBYzlHV1VLUEsyLWdpTGoyUmh6T0NvZUcwckhFNjZvQnRlOGtUUjBQMW1JY2NfLU9kYXNYelI0MHktdzNOOS1QTWhqM2toQnBzNm00RGxweURNZm1XVFI4RE9sR3VrWVhfRDZobzRQZXU5QW5XQnFTdlRzY0dDcktuc0xxMnB5Ug?oc=5",
       "published": "Fri, 08 May 2026 08:50:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "劲嘉股份A股股东户数增加2847户增幅4.99%，流通A股户均持股2.41万股降幅4.75%，户均持股市值9.12万元降幅0.56% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlFxQUlQVWY1dEZKQllGNGc4eUQxQnBWWnhLeW5kck5uNEhfQmd6VmlBUUZzbFRnNXVYazhjTXhzajdWZEhiZ1pYbkZJdmQydEVPbEdxVEd3aDZ2cHc2OEhVZ3lCY2lSaG45d1QxNllJXzFSdUpyQ2hCV0dqMTFWLVZQSDFUUjUyc1dQOA?oc=5\" target=\"_blank\">劲嘉股份A股股东户数增加2847户增幅4.99%，流通A股户均持股2.41万股降幅4.75%，户均持股市值9.12万元降幅0.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "劲嘉股份A股股东户数增加2847户增幅4.99%，流通A股户均持股2.41万股降幅4.75%，户均持股市值9.12万元降幅0.56% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlFxQUlQVWY1dEZKQllGNGc4eUQxQnBWWnhLeW5kck5uNEhfQmd6VmlBUUZzbFRnNXVYazhjTXhzajdWZEhiZ1pYbkZJdmQydEVPbEdxVEd3aDZ2cHc2OEhVZ3lCY2lSaG45d1QxNllJXzFSdUpyQ2hCV0dqMTFWLVZQSDFUUjUyc1dQOA?oc=5\" target=\"_blank\">劲嘉股份A股股东户数增加2847户增幅4.99%，流通A股户均持股2.41万股降幅4.75%，户均持股市值9.12万元降幅0.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSlFxQUlQVWY1dEZKQllGNGc4eUQxQnBWWnhLeW5kck5uNEhfQmd6VmlBUUZzbFRnNXVYazhjTXhzajdWZEhiZ1pYbkZJdmQydEVPbEdxVEd3aDZ2cHc2OEhVZ3lCY2lSaG45d1QxNllJXzFSdUpyQ2hCV0dqMTFWLVZQSDFUUjUyc1dQOA?oc=5",
       "published": "Fri, 08 May 2026 08:50:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "寒锐钴业A股股东户数增加3159户增幅4.82%，流通A股户均持股3969.59股降幅4.60%，户均持股市值19.13万元增幅6.27% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk8wZ0lXNUROaEhRSDU1SkFVMTkzdU9qRi1HUEw5OS1NeDFzSnRFbWx4bnhHemJhUENnY05rbnktT3EtQnh1QlljTDhxbC1pR28taVQ5ak5YbVFHdVRqeFh3eTlIeFBSemFpaThLazktZklQNG0zTThDRTVMUXJJT0dhQkNILVpyQ1EyUw?oc=5\" target=\"_blank\">寒锐钴业A股股东户数增加3159户增幅4.82%，流通A股户均持股3969.59股降幅4.60%，户均持股市值19.13万元增幅6.27%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "寒锐钴业A股股东户数增加3159户增幅4.82%，流通A股户均持股3969.59股降幅4.60%，户均持股市值19.13万元增幅6.27% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk8wZ0lXNUROaEhRSDU1SkFVMTkzdU9qRi1HUEw5OS1NeDFzSnRFbWx4bnhHemJhUENnY05rbnktT3EtQnh1QlljTDhxbC1pR28taVQ5ak5YbVFHdVRqeFh3eTlIeFBSemFpaThLazktZklQNG0zTThDRTVMUXJJT0dhQkNILVpyQ1EyUw?oc=5\" target=\"_blank\">寒锐钴业A股股东户数增加3159户增幅4.82%，流通A股户均持股3969.59股降幅4.60%，户均持股市值19.13万元增幅6.27%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQk8wZ0lXNUROaEhRSDU1SkFVMTkzdU9qRi1HUEw5OS1NeDFzSnRFbWx4bnhHemJhUENnY05rbnktT3EtQnh1QlljTDhxbC1pR28taVQ5ak5YbVFHdVRqeFh3eTlIeFBSemFpaThLazktZklQNG0zTThDRTVMUXJJT0dhQkNILVpyQ1EyUw?oc=5",
       "published": "Fri, 08 May 2026 08:50:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "市值近千万！精神病院“跨界”炒股，新晋这只A股十大股东 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5hSW9LM2tDVlNTVGROM3dveEQtandxV3FLRnZoSWw1VjUwRkVOWmxSUXVmRzJGeVh4SW56S0JMcFVnTGY2bXM4UEFFWjVQdHFhLVJBaC1wQ0VPRy1BWS1HLVd5OVdCNE5PX1ZxbVFMMlR0N3FacVVIdQ?oc=5\" target=\"_blank\">市值近千万！精神病院“跨界”炒股，新晋这只A股十大股东</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hSW9LM2tDVlNTVGROM3dveEQtandxV3FLRnZoSWw1VjUwRkVOWmxSUXVmRzJGeVh4SW56S0JMcFVnTGY2bXM4UEFFWjVQdHFhLVJBaC1wQ0VPRy1BWS1HLVd5OVdCNE5PX1ZxbVFMMlR0N3FacVVIdQ?oc=5",
-      "published": "Fri, 08 May 2026 08:08:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "华辰装备A股股东户数减少402户降幅1.57%，流通A股户均持股5958.19股增幅1.59%，户均持股市值19.1万元降幅8.05% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWpBWk5Lb25yUnNEZTRaNEI0OUppbGRFT0lwZVFraFZyVXhtd1U3TXRLNXZZX1FuTzMtbTlZcmE2VFhMR0tYbTBHOEYyU2Y2U1dqVEVfVWIxTUVsV2p5bEthTnJVY0Q5TW5mR002eEdBUnBQNFFyVTRGUnpxNUJPUTdCU0VTeklnaGFKcg?oc=5\" target=\"_blank\">华辰装备A股股东户数减少402户降幅1.57%，流通A股户均持股5958.19股增幅1.59%，户均持股市值19.1万元降幅8.05%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "华辰装备A股股东户数减少402户降幅1.57%，流通A股户均持股5958.19股增幅1.59%，户均持股市值19.1万元降幅8.05% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWpBWk5Lb25yUnNEZTRaNEI0OUppbGRFT0lwZVFraFZyVXhtd1U3TXRLNXZZX1FuTzMtbTlZcmE2VFhMR0tYbTBHOEYyU2Y2U1dqVEVfVWIxTUVsV2p5bEthTnJVY0Q5TW5mR002eEdBUnBQNFFyVTRGUnpxNUJPUTdCU0VTeklnaGFKcg?oc=5\" target=\"_blank\">华辰装备A股股东户数减少402户降幅1.57%，流通A股户均持股5958.19股增幅1.59%，户均持股市值19.1万元降幅8.05%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaWpBWk5Lb25yUnNEZTRaNEI0OUppbGRFT0lwZVFraFZyVXhtd1U3TXRLNXZZX1FuTzMtbTlZcmE2VFhMR0tYbTBHOEYyU2Y2U1dqVEVfVWIxTUVsV2p5bEthTnJVY0Q5TW5mR002eEdBUnBQNFFyVTRGUnpxNUJPUTdCU0VTeklnaGFKcg?oc=5",
       "published": "Fri, 08 May 2026 08:50:00 GMT"
     },
@@ -208,6 +222,13 @@
       "published": "Fri, 08 May 2026 09:05:04 GMT"
     },
     {
+      "source": "东方财富",
+      "title": "誉衡药业：1427万股限制性股票将于5月14日上市流通 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rSEhrUHpYUW9GaklRbWVZWWNLMTdwTHBLV2h3ZG9xVzFNQk5IR0FfZVFaNngtZjZnN3pRNGJNb2ZzdWdXSVhzTHBCNXcyeUV1YVl4Q3VNc0dreUE2Vk9Hc21VLXo4dw?oc=5\" target=\"_blank\">誉衡药业：1427万股限制性股票将于5月14日上市流通</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rSEhrUHpYUW9GaklRbWVZWWNLMTdwTHBLV2h3ZG9xVzFNQk5IR0FfZVFaNngtZjZnN3pRNGJNb2ZzdWdXSVhzTHBCNXcyeUV1YVl4Q3VNc0dreUE2Vk9Hc21VLXo4dw?oc=5",
+      "published": "Fri, 08 May 2026 10:06:19 GMT"
+    },
+    {
       "source": "同花顺",
       "title": "机构评级|中邮证券给予中金黄金“买入”评级 未给出目标价 - 同花顺",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4teHV2ejhGalZfNVd1cGV3QkNRWlpVaW41dHlERExRWHhqY3hiSmZKNjhRa3JZN3RqV25zNTZTX0FJbEJmTDA3ejB0YVB4OUtLNHl1ZWtxMExpZ2lPUXc?oc=5\" target=\"_blank\">机构评级|中邮证券给予中金黄金“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
@@ -258,6 +279,13 @@
     },
     {
       "source": "同花顺",
+      "title": "中邮证券：给予山外山买入评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMVNsS1RZYzdnaDg1TTNTRzk1SjNNenZiSlRya0hPYlQ0aTRBRTMxWHQzQndxLXAySUkzaWd5N2RxeEFkQ2xJcUtBMFZ1UHl5cEtXejIxaE5zdHJKcnc?oc=5\" target=\"_blank\">中邮证券：给予山外山买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMVNsS1RZYzdnaDg1TTNTRzk1SjNNenZiSlRya0hPYlQ0aTRBRTMxWHQzQndxLXAySUkzaWd5N2RxeEFkQ2xJcUtBMFZ1UHl5cEtXejIxaE5zdHJKcnc?oc=5",
+      "published": "Fri, 08 May 2026 10:04:38 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "长城证券：香港子公司获香港证监会颁发业务牌照 - 同花顺",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZGJoQkRCcHo3UXJldFV0dXF2Q2xKeXdTalZRWkctYS1YSVNHdmVHQ1lCSkhYQzlGWVgxSXEybzlvUVlNbnd3XzhoRG9oQVJNUVFPdmhvX1hoZkMwVXc?oc=5\" target=\"_blank\">长城证券：香港子公司获香港证监会颁发业务牌照</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VZGJoQkRCcHo3UXJldFV0dXF2Q2xKeXdTalZRWkctYS1YSVNHdmVHQ1lCSkhYQzlGWVgxSXEybzlvUVlNbnd3XzhoRG9oQVJNUVFPdmhvX1hoZkMwVXc?oc=5",
@@ -265,17 +293,17 @@
     },
     {
       "source": "同花顺",
-      "title": "机构评级|东吴证券给予捷佳伟创“增持”评级 未给出目标价 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuMWd4OFREQ1VydmRLVFRZYkN2WHg1a2w4ek85bkRmMHdpR2pEWVhTU0VHQ1QtWDk5WXNXSFFCbGVFNmFwUUpGVnpvMXB2S2wxdUl5NTF1dGp1aGp4VGc?oc=5\" target=\"_blank\">机构评级|东吴证券给予捷佳伟创“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuMWd4OFREQ1VydmRLVFRZYkN2WHg1a2w4ek85bkRmMHdpR2pEWVhTU0VHQ1QtWDk5WXNXSFFCbGVFNmFwUUpGVnpvMXB2S2wxdUl5NTF1dGp1aGp4VGc?oc=5",
-      "published": "Fri, 08 May 2026 08:17:44 GMT"
-    },
-    {
-      "source": "同花顺",
       "title": "福元医药：华夏基金、华源证券等多家机构于5月7日调研我司 - 同花顺",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QYkZ4cjVVT0xqb21kRUw0cTFGUEFFTUxUdTNQcjZ1VHZ1ck1sMlJRYzJnRmJ3T3FpSXhtYWxlNmNuOU5LaFdhb0tIOFItU2VldDFpMFhMdEdkSnE3enc?oc=5\" target=\"_blank\">福元医药：华夏基金、华源证券等多家机构于5月7日调研我司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QYkZ4cjVVT0xqb21kRUw0cTFGUEFFTUxUdTNQcjZ1VHZ1ck1sMlJRYzJnRmJ3T3FpSXhtYWxlNmNuOU5LaFdhb0tIOFItU2VldDFpMFhMdEdkSnE3enc?oc=5",
       "published": "Fri, 08 May 2026 09:24:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "机构评级|东吴证券给予捷佳伟创“增持”评级 未给出目标价 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuMWd4OFREQ1VydmRLVFRZYkN2WHg1a2w4ek85bkRmMHdpR2pEWVhTU0VHQ1QtWDk5WXNXSFFCbGVFNmFwUUpGVnpvMXB2S2wxdUl5NTF1dGp1aGp4VGc?oc=5\" target=\"_blank\">机构评级|东吴证券给予捷佳伟创“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuMWd4OFREQ1VydmRLVFRZYkN2WHg1a2w4ek85bkRmMHdpR2pEWVhTU0VHQ1QtWDk5WXNXSFFCbGVFNmFwUUpGVnpvMXB2S2wxdUl5NTF1dGp1aGp4VGc?oc=5",
+      "published": "Fri, 08 May 2026 08:17:44 GMT"
     },
     {
       "source": "同花顺",
@@ -314,6 +342,13 @@
     },
     {
       "source": "同花顺",
+      "title": "机构评级|兴业证券给予大参林“增持”评级 未给出目标价 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zVGVJY3p2NGg5bUlSVHFoYTFQUU9ldU52U0NGWkVRam4tZFJWYlR4ZlVsMVdvNlVpenMzR3o0T2JWd0dteUFmRVRweXpPbHZHTlk3Q0NpTm5UOVN5V05XZkhn?oc=5\" target=\"_blank\">机构评级|兴业证券给予大参林“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zVGVJY3p2NGg5bUlSVHFoYTFQUU9ldU52U0NGWkVRam4tZFJWYlR4ZlVsMVdvNlVpenMzR3o0T2JWd0dteUFmRVRweXpPbHZHTlk3Q0NpTm5UOVN5V05XZkhn?oc=5",
+      "published": "Fri, 08 May 2026 10:09:44 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "机构评级|招商证券给予拓普集团“强烈推荐”评级 未给出目标价 - 同花顺",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oYUpua05DaVNxX3E0Q191WDdwTEMxcUQtdXRqT25qTVQ4VGJ0Ym9kQVhxem5TdWUwNXRWUkFkTVdaa1BHQkpod2FtUC1RWTZmRkhHNS1ONTFNY1JhRk5NSVpn?oc=5\" target=\"_blank\">机构评级|招商证券给予拓普集团“强烈推荐”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oYUpua05DaVNxX3E0Q191WDdwTEMxcUQtdXRqT25qTVQ4VGJ0Ym9kQVhxem5TdWUwNXRWUkFkTVdaa1BHQkpod2FtUC1RWTZmRkhHNS1ONTFNY1JhRk5NSVpn?oc=5",
@@ -334,32 +369,144 @@
       "published": "Fri, 08 May 2026 09:48:53 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "机构评级|兴业证券给予杰瑞股份“增持”评级 未给出目标价 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NVjVlbW00dTBjdlgtTFU4cGdKSWd1U1BsWE1VVjI3c2J2cVFQd0xCTVY4XzdDSnpIbnZJMFNjUDhRNnBpcGRmekRnLUs1d3BaaGVlYi1nVnY4MkZqNVEtaTl3?oc=5\" target=\"_blank\">机构评级|兴业证券给予杰瑞股份“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NVjVlbW00dTBjdlgtTFU4cGdKSWd1U1BsWE1VVjI3c2J2cVFQd0xCTVY4XzdDSnpIbnZJMFNjUDhRNnBpcGRmekRnLUs1d3BaaGVlYi1nVnY4MkZqNVEtaTl3?oc=5",
-      "published": "Fri, 08 May 2026 09:13:30 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "机构评级|浙商证券给予云铝股份“买入”评级 未给出目标价 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CUmtqT01ReVVmN19GSlg2eERBUXBWNzF5RW9iM0RzaTdKN1IxN2FQcEdLZmFuQVlIS3dSZlFveHNNb21DVE9KRnoyYWNwdlAxY3lEdXJGX0c2VzRyd2hYRm9n?oc=5\" target=\"_blank\">机构评级|浙商证券给予云铝股份“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CUmtqT01ReVVmN19GSlg2eERBUXBWNzF5RW9iM0RzaTdKN1IxN2FQcEdLZmFuQVlIS3dSZlFveHNNb21DVE9KRnoyYWNwdlAxY3lEdXJGX0c2VzRyd2hYRm9n?oc=5",
-      "published": "Fri, 08 May 2026 09:08:10 GMT"
+      "source": "财联社",
+      "title": "三部门：引导整机、软件等企业基于智能体研发产品和服务 培育用户市场",
+      "summary": "【三部门：引导整机、软件等企业基于智能体研发产品和服务 培育用户市场】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见提出，构建应用推广渠道。推动建立智能体软件商店、行业供需信息发布平台，引导智能体企业积极发布产品，形成集聚效应。开展智能体应用供需对接活动，采取公开招标、揭榜挂帅等方式吸引智能体企业定制化开发相应产品。引导整机、软件等企业基于智能体研发产品和服务，培育用户市场。",
+      "link": "https://api3.cls.cn/share/article/2366272?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:15:05 GMT"
     },
     {
       "source": "财联社",
-      "title": "17:10:45 财联社5月8日电，林州重机收到深交所监管函。 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrV2NMRzlzVmdZbWF4UlEyV0NSaEVCRE9LMW9aRGxITXVCZjBMWFdoREc1VjlaQk5jT2w0UkVuakRETVFEZS1hcQ?oc=5\" target=\"_blank\">17:10:45 财联社5月8日电，林州重机收到深交所监管函。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrV2NMRzlzVmdZbWF4UlEyV0NSaEVCRE9LMW9aRGxITXVCZjBMWFdoREc1VjlaQk5jT2w0UkVuakRETVFEZS1hcQ?oc=5",
-      "published": "Fri, 08 May 2026 09:13:11 GMT"
+      "title": "步长制药：控股子公司参与国家科技重大专项艾滋病疫苗研发项目",
+      "summary": "【步长制药：控股子公司参与国家科技重大专项艾滋病疫苗研发项目】财联社5月8日电，步长制药(603858.SH)公告称，公司控股子公司浙江天元近日收到国家卫生健康委下发的《关于新发突发与重大传染病防控国家科技重大专项2026年度项目立项的通知》，浙江天元参与“多功能抗体预防性艾滋病疫苗研发”项目，课题为艾滋病疫苗的生产和I期临床申报。",
+      "link": "https://api3.cls.cn/share/article/2366273?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:15:01 GMT"
     },
     {
       "source": "财联社",
-      "title": "【焦点复盘】沪指录得周线5连阳，市场连续3日现百股涨停，算力硬件股不改强势 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fVklJZlVYamJSUE9WY0VQRTE5QnItaEJVVXNQZHRVdFp3ZlRKM3ZvMWZIbmR5a3V0ck9PbzJvSmNSLXF6ZXNjcg?oc=5\" target=\"_blank\">【焦点复盘】沪指录得周线5连阳，市场连续3日现百股涨停，算力硬件股不改强势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9fVklJZlVYamJSUE9WY0VQRTE5QnItaEJVVXNQZHRVdFp3ZlRKM3ZvMWZIbmR5a3V0ck9PbzJvSmNSLXF6ZXNjcg?oc=5",
-      "published": "Fri, 08 May 2026 08:55:00 GMT"
+      "title": "三部门：开展智能体与开源芯片、开源操作系统、开源大模型兼容适配",
+      "summary": "【三部门：开展智能体与开源芯片、开源操作系统、开源大模型兼容适配】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见提出，引导国内人工智能开源社区加强智能体布局，开展智能体与开源芯片、开源操作系统、开源大模型兼容适配。引导企业、高校、科研机构积极参与智能体框架、交互接口、工具链等开源项目，推动技术体系融通发展，加快提升国际影响力。",
+      "link": "https://api3.cls.cn/share/article/2366271?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:14:01 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "三部门：推动智能体与手机、电脑、汽车、家居、可穿戴、消费级机器人等终端设备协同发展",
+      "summary": "【三部门：推动智能体与手机、电脑、汽车、家居、可穿戴、消费级机器人等终端设备协同发展】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见提出，终端应用方面，推动智能体赋能互联网应用及服务，优化在线购物、出行导航、生活缴费、日常办公等服务体验。推动智能体与手机、电脑、汽车、家居、可穿戴、消费级机器人等终端设备协同发展，提升跨应用、跨设备任务完成能力。",
+      "link": "https://api3.cls.cn/share/article/2366268?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:12:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "三部门：研发金融风控智能体 提升信贷审批、交易监控、账户安全等环节风险识别能力",
+      "summary": "【三部门：研发金融风控智能体 提升信贷审批、交易监控、账户安全等环节风险识别能力】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见提出，金融服务方面，研发金融风控智能体，提升信贷审批、交易监控、账户安全等环节风险识别能力。完善智能体异常检测、合规审计功能，提升信贷违约预测、信用卡盗刷拦截、反洗钱监测等能力。",
+      "link": "https://api3.cls.cn/share/article/2366265?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:12:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月8日电，中国海外发展4月合约销售额241.9亿元，同比增长20％。",
+      "summary": "财联社5月8日电，中国海外发展4月合约销售额241.9亿元，同比增长20％。",
+      "link": "https://api3.cls.cn/share/article/2366264?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:11:15 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "三部门：发展软件开发智能体 提升需求分析、架构设计、代码生成与测试等全流程开发能力",
+      "summary": "【三部门：发展软件开发智能体 提升需求分析、架构设计、代码生成与测试等全流程开发能力】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见提出，研发辅助方面，发展软件开发智能体，提升需求分析、架构设计、代码生成与测试等全流程开发能力。促进智能体与计算机辅助设计（CAD）、计算机辅助工程（CAE）等软件结合，提供设计方案生成、仿真验证、参数调优等功能。",
+      "link": "https://api3.cls.cn/share/article/2366262?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:11:15 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "*ST闻泰：公司对安世的控制权仍暂处于受限状态",
+      "summary": "【*ST闻泰：公司对安世的控制权仍暂处于受限状态】财联社5月8日电，*ST闻泰(600745)发布异动公告，前期公司子公司安世半导体以及安世半导体控股收到荷兰经济事务与气候政策部下达的部长令（Order）和阿姆斯特丹上诉法院企业法庭的裁决。截至目前，虽然上述部长令（Order）被宣布暂停，但企业法庭相关裁决依旧处于生效状态，公司对安世的控制权仍暂处于受限状态。公司仍将穷尽一切法律手段，恢复本公司对安世的完整控制权，维护投资者权益。",
+      "link": "https://api3.cls.cn/share/article/2366261?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:10:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "东方生物：子公司拥有汉坦病毒抗体检测试剂 尚未取得境外注册证书",
+      "summary": "【东方生物：子公司拥有汉坦病毒抗体检测试剂 尚未取得境外注册证书】财联社5月8日电，针对近期市场关注的汉坦病毒检测产品情况，东方生物方面向财联社记者表示，公司子公司北京新兴四寰拥有汉坦病毒抗体检测试剂产品，目前持有中国医疗器械三类注册证，仅适用于中国境内销售，尚未取得境外注册证书。东方生物方面称，目前相关产品尚未对公司经营产生实质影响，未来销售情况仍取决于后续病毒传播演变及市场实际需求变化。（财联社记者 卢阿峰）",
+      "link": "https://api3.cls.cn/share/article/2366241?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:09:13 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "三部门：推动智能体在工业互联网领域应用 促进智能体与数控机床、工业机器人、自动化产线等融合",
+      "summary": "【三部门：推动智能体在工业互联网领域应用 促进智能体与数控机床、工业机器人、自动化产线等融合】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。意见提出，研发生产管理智能体，动态优化生产排程、资源分配和工序衔接，推动智能体在工业互联网领域应用，提升企业精细化管理水平。提升智能体工艺参数优化、加工精度检测、产品缺陷识别等能力，促进智能体与数控机床、工业机器人、自动化产线等融合，促进提质增效降本。",
+      "link": "https://api3.cls.cn/share/article/2366259?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:08:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国家网信办：前瞻布局多智能体协同、智能互联网等前沿领域 为产业持续演进打好基础",
+      "summary": "【国家网信办：前瞻布局多智能体协同、智能互联网等前沿领域 为产业持续演进打好基础】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。国家网信办有关负责同志就《实施意见》回答了记者提问。《实施意见》围绕智能体技术突破、场景应用和生态建设等重点方向，体系化推动智能体创新发展。一是夯实发展基础。通过强化基础技术研发、完善智能体工具链，为产业提供高水平技术底座。建立智能体标准体系，降低智能体研发、适配、应用门槛。前瞻布局多智能体协同、智能互联网等前沿领域，为产业持续演进打好基础。二是强化应用牵引。围绕科学研究、产业发展、提振消费、民生福祉、社会治理等方向，提出19个典型应用场景，牵引智能体技术产品优化提升，探索可复制、可推广的落地应用模式。三是建设创新生态。加强培育开源创新力量、搭建产业协作平台，推动产业高效协同，提升创新活力。通过构建应用推广渠道、推进重点场景开放，畅通供需渠道，形成市场牵引、内驱发展的产业生态。积极培育全球生态，推动国内外技术融通发展，营造开放共享的国际合作环境。",
+      "link": "https://api3.cls.cn/share/article/2366258?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:08:35 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "宏和科技：2025年5月29日以来累计上涨1286% 公司主营业务不存在重大变化",
+      "summary": "【宏和科技：2025年5月29日以来累计上涨1286% 公司主营业务不存在重大变化】财联社5月8日电，宏和科技(603256)公告称，公司股票于2026年5月6日至8日连续3个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。近日，公司关注到部分媒体将公司列为“PCB概念”。公司主要产品电子级玻璃纤维布是PCB的基础材料之一，公司长期专注于主要产品的研发、生产与销售，主营业务不存在重大变化。经公司自查，公司未发现需要澄清或回应的媒体报道或市场传闻；也未发现其他可能对公司股票交易价格产生较大影响的重大事件。公司在此特别提醒广大投资者注意热点概念炒作风险，审慎判断、理性决策。公司股票价格自2025年5月29日至2026年5月8日累计上涨1286.13%，期间多次触及股票交易异常波动。另外，公司控股股东及其一致行动人持股比例较高，社会公众股股东持股比例相对较小，公司外部流通盘相对较小，可能存在非理性炒作风险。",
+      "link": "https://api3.cls.cn/share/article/2366255?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:07:16 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国家网信办：将智能体安全、可靠、可信作为产业发展的底线要求 规范有序推动智能体落地应用",
+      "summary": "【国家网信办：将智能体安全、可靠、可信作为产业发展的底线要求 规范有序推动智能体落地应用】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》。国家网信办有关负责同志就《实施意见》回答了记者提问。《实施意见》将智能体安全、可靠、可信作为产业发展的底线要求，规范有序推动智能体落地应用。一是明确产品准则。要进一步完善政策法规和伦理规范，做好智能体权限管理、行为管控等工作，为智能体相关产品研发提供指引。二是防范安全风险。发挥技术手段作用，提升在智能体内生安全、供应链安全、应用衍生风险等方面的风险防范能力，实现智能体开发、部署、应用、维护全周期安全管理，有效防范系统性风险。三是完善治理体系。适应智能体技术演进规律，根据应用场景和潜在影响，构建审慎稳妥的分类分级治理框架，推动建设智能体合规服务体系，做到既“放得活”又“管得好”。四是强化行业自律。鼓励智能体相关企业、行业组织、研究机构加强责任意识，共同制定行业自律规则。引导智能体开发者、开发平台、分发平台、服务提供者参与信用评价，共同营造良好发展环境。",
+      "link": "https://api3.cls.cn/share/article/2366253?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:07:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "三部门联合印发《智能体规范应用与创新发展实施意见》",
+      "summary": "【三部门联合印发《智能体规范应用与创新发展实施意见》】财联社5月8日电，国家网信办、国家发展改革委、工业和信息化部近日联合印发《智能体规范应用与创新发展实施意见》（以下简称《实施意见》）。《实施意见》旨在落实国务院《关于深入实施“人工智能+”行动的意见》，促进智能体规范应用与创新发展。\n\n《实施意见》提出，智能体是具备自主感知、记忆、决策、交互与执行能力的智能系统，是人工智能产品及服务的重要形态。随着大模型等新一代人工智能技术迅猛发展，智能体正加速与网络空间、物理世界深度融合，深刻改变人类生产生活方式和社会治理模式。\n\n《实施意见》明确智能体发展要坚持安全可控、规范有序、创新驱动、应用牵引的基本原则，并提出了4个方面举措：一是夯实发展基础，完善技术底座，构建标准协议。二是守牢安全底线，明确产品准则，防范安全风险，完善治理体系，强化行业自律。三是强化应用牵引，围绕科学研究、产业发展、提振消费、民生福祉、社会治理等方向，提出19个典型应用场景。四是建设创新生态，促进产业合作，强化应用推广。\n\n《实施意见》提出，国家网信办、国家发展改革委、工业和信息化部会同有关方面加强统筹谋划，完善配套政策",
+      "link": "https://api3.cls.cn/share/article/2366250?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:04:45 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月8日电，中富通收到深交所监管函。",
+      "summary": "财联社5月8日电，中富通收到深交所监管函。<br /><img src=\"https://image.cls.cn/images/20260508/yhK05x903U_1186x2279.png\" />",
+      "link": "https://api3.cls.cn/share/article/2366249?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:04:11 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "报道称美或重启疏导霍尔木兹行动",
+      "summary": "【报道称美或重启疏导霍尔木兹行动】财联社5月8日电，据美国《华尔街日报》当地时间5月7日报道，美国和沙特阿拉伯官员透露，沙特和科威特已解除此前针对美军使用其基地及领空所实施的限制，美国政府正寻求重启疏导霍尔木兹海峡被困船只通行的所谓“自由计划”。美媒此前曾援引美国官员消息报道称，美国的所谓“自由计划”令其海湾盟友感到意外，激怒了沙特领导层。沙特通知美国，不允许美军飞机从沙特苏丹王子空军基地起飞，也不允许美军飞越沙特领空来支持“自由计划”。随后，科威特也采取了类似措施。最终，美方只能被迫暂停这一行动。 (CCTV国际时讯)",
+      "link": "https://api3.cls.cn/share/article/2366245?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:02:37 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月8日电，泰国股指收盘下跌0.5%，至1,500.36点。",
+      "summary": "财联社5月8日电，泰国股指收盘下跌0.5%，至1,500.36点。",
+      "link": "https://api3.cls.cn/share/article/2366243?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 10:00:56 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "陈扬帆任中国移动通信集团有限公司总经理",
+      "summary": "【陈扬帆任中国移动通信集团有限公司总经理】财联社5月8日电，2026年5月8日，中国移动通信集团有限公司召开领导班子（扩大）会议。受中央组织部领导委托，中央组织部有关干部局负责同志宣布了党中央关于中国移动通信集团有限公司总经理调整的决定：陈扬帆同志任中国移动通信集团有限公司董事、总经理、党组副书记，免去其中国电子信息产业集团有限公司董事、党组副书记职务。相关职务任免，按有关法律和章程的规定办理。",
+      "link": "https://api3.cls.cn/share/article/2366239?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 09:59:13 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗海军扣押一艘违规油轮",
+      "summary": "【伊朗海军扣押一艘违规油轮】财联社5月8日电，总台记者当地时间5月8日获悉，伊朗伊斯兰共和国军队海军特种部队在一次特别行动中，扣押了试图干扰伊朗石油出口和国家利益的违规油轮“海洋鲤鱼”（OCEAN KOI）。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2366240?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 09:55:19 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "商务部：一季度知识密集型服务出口增长6.1% 旅行服务出口增长32.3%",
+      "summary": "【商务部：一季度知识密集型服务出口增长6.1% 旅行服务出口增长32.3%】财联社5月8日电，商务部服贸司负责人介绍2026年一季度服务贸易发展情况，2026年一季度，我国服务进出口总额18229亿元（人民币，下同），同比增长2.3%。其中，出口7045.2亿元，增长11.2%；进口11183.8亿元，下降2.6%。服务贸易逆差4138.6亿元，比上年同期缩小1001.5亿元。主要呈现以下特点：\n\n知识密集型服务出口保持较快增长。一季度，知识密集型服务进出口7937.1亿元，增长1.6%，占总体服务进出口的比重为43.5%。知识密集型服务出口3842.6亿元，增长6.1%，其中，个人文化和娱乐服务、金融服务增长最快，增速分别为25.6%和16.1%；知识密集型服务进口4094.5亿元，下降2.3%。\n\n旅行服务出口和运输服务进口快速增长。一季度，旅行服务出口1053.5亿元，增长32.3%，位居服务出口各领域增速首位；运输服务进口2302.1亿元，增长22.8%，在服务进口规模前五大领域中增速最快。",
+      "link": "https://api3.cls.cn/share/article/2366238?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 09:53:39 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -370,10 +517,10 @@
     },
     {
       "source": "第一财经",
-      "title": "0508交易进行时15-16点 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kRjZpVGpzTUc4LWZUYUxEOUk3elo2SmdoX3dtVWFPNmszR2F5SlJTQndnaWhvT1BHRlpJNk04eUVpWlFZai1xWTljYVhjbHVoRUdMWQ?oc=5\" target=\"_blank\">0508交易进行时15-16点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kRjZpVGpzTUc4LWZUYUxEOUk3elo2SmdoX3dtVWFPNmszR2F5SlJTQndnaWhvT1BHRlpJNk04eUVpWlFZai1xWTljYVhjbHVoRUdMWQ?oc=5",
-      "published": "Fri, 08 May 2026 09:25:17 GMT"
+      "title": "0508股市大家谈 - 第一财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DNy1PWm9DbXFJLVVrRVJ4c3p1UEs5NUpyTm1GMHQtTmZzRnlvaE5kbHRvY1QyTnVpTHlPQXRSNm5rZ2poOHltc2FXZW9kT2taalVENQ?oc=5\" target=\"_blank\">0508股市大家谈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DNy1PWm9DbXFJLVVrRVJ4c3p1UEs5NUpyTm1GMHQtTmZzRnlvaE5kbHRvY1QyTnVpTHlPQXRSNm5rZ2poOHltc2FXZW9kT2taalVENQ?oc=5",
+      "published": "Fri, 08 May 2026 10:05:36 GMT"
     },
     {
       "source": "中国证券报",
