@@ -3,64 +3,102 @@
   "hour": "07",
   "news": [
     {
-      "title": "A股科技资产成全球资本新锚点",
-      "summary": "新浪财经发文认为，A股科技资产正成为全球资本新锚点。文章指出，随着中国科技企业崛起和资本市场开放，外资持续增配A股科技板块。该消息偏正面，但无具体数据支撑，属于市场情绪信号。科技板块（半导体、AI、新能源）可能受益，但需警惕短期过热。信号中性偏多。",
-      "reason": "市场情绪信号，A股科技资产获全球关注，可能提振科技板块情绪。",
+      "title": "300120终止重大资产重组",
+      "summary": "300120（经纬辉开）公告终止筹划重大资产重组，该重组此前引发市场关注，终止后可能对股价形成压力。同时报道还提到18只个股本周获机构大手笔净买入，显示机构资金局部活跃。该事件对重组概念股及小盘股情绪有一定负面影响，但对整体市场影响有限。看空信号。",
+      "reason": "重大资产重组终止属于公司重大事件，直接影响个股估值预期，符合优先级一中的重大并购重组变数，且历史消息未提及。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "经纬辉开",
+        "重组概念股"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNNzkyMFRDMHE3a1c3NmRDcUoxZThxSGtWMExuX3hES0I4b2VFS0R3WEc2aVMxZEhmeUlNU200Zm5ESnZKYk9jLXpHeTAzQ2EwaHFGdGc2dW1ncHhVT2VoUUtTbjhkS0NRQUNtaGVGRU5zS2NsMDlHWQ?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "券商5月金股重磅出炉",
+      "summary": "多家券商发布4月金股战绩，多只涨幅超70%，并推出5月金股组合。券商金股通常反映机构短期偏好，5月金股可能聚焦科技、新能源等方向，对相关板块形成情绪提振。但需注意历史表现不代表未来，且市场已部分消化。中性偏多信号。",
+      "reason": "券商金股组合是市场情绪信号，影响板块轮动和资金跟风，符合优先级三中的机构观点，且历史消息未出现具体金股名单。",
       "category": "市场情绪",
       "impact_stocks": [
-        "半导体",
-        "AI概念",
+        "券商金股板块",
+        "科技",
         "新能源"
+      ],
+      "signal": "neutral",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5amJHbkVxaDlPa0o1VEJJQmtSYkRjeG5OZjdiRFNwbTZHMGRvOXhCbzQzR044eW9DbmNsakx3ZzZnT2RYaWxrU2VmZ1pXYW1YdlVyYzhxVnkyTnBtRUdJTHRENENWUQ?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "中邮证券首次覆盖南山智尚",
+      "summary": "中邮证券发布研报，首次覆盖南山智尚并给予买入评级。南山智尚主营精纺呢绒面料及服装，属于纺织服装行业。机构首次关注并给出买入评级，通常预示基本面改善或估值偏低，短期对股价有正面催化。看多信号。",
+      "reason": "券商首次覆盖并给予买入评级属于机构行为，对个股有短期提振作用，符合优先级二中的机构评级变动，历史消息未出现。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "南山智尚",
+        "纺织服装"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByQnBHeUNwbFBWRDF4WTFobGl2QUtiRWtzUjV2YnRROEllV1V0cFdKd0dHckVwSEc0TmptUExrRFNDdXpBbGJvYnpoV2VvaTgxNU91UmpjRHZwR0s5ZVR6V2FVRThvNW12WEROWVhodGprWkV3R3ptWA?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "高盛超配A股 力挺科技板块",
-      "summary": "新浪财经早班车报道，高盛维持A股超配评级，并看好6G等科技方向。高盛是全球知名投行，其超配评级对市场有较强引导作用，可能吸引外资流入。叠加6G概念升温，科技板块（通信、半导体）受益明显。信号看多，影响中等。",
-      "reason": "机构评级正面，高盛超配A股是重要信号，且6G产业政策预期升温。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "6G概念",
-        "通信",
-        "半导体"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fNXZEd0NPUUR5LTYzdnM4VXhEMFlDZ3lDMVJudTRnX3N6UFFlUEdqUHpSY2poXzZLaU1IODF6TUdDTUc4RUZlT3Y1T3g3Mk9jblNSQTdjdEx1OXFIU01fbUhRU01iZW5TVGVWWC16bnY0OGtrSlE?oc=5"
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sb01WSTE4TExOTWxLMW5fSDBaTDBmUzVJWUFPYldIbThJekN2aWRjOUZybmdzSHB3cEFFbUNOUjM2VTd5WlB5TGVwSHNqYmdQa0drcl9PNG5XaWhtQ2c?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "特朗普称赞美股上涨",
-      "summary": "美国总统特朗普本周五公开称赞美国股市上涨，暗示对经济政策信心。虽然直接针对美股，但可能提振全球风险偏好，对A股情绪有一定正面传导。不过实质影响有限，信号中性。",
-      "reason": "市场情绪信号，特朗普表态可能短暂提振风险资产，但无实质政策支撑。",
-      "category": "市场情绪",
+      "title": "东吴证券给予天顺风能买入",
+      "summary": "东吴证券发布研报给予天顺风能买入评级。天顺风能主营风电塔架、叶片等新能源装备，机构看好其受益于海上风电及海外市场拓展。买入评级有助于提振市场信心，利好风电板块。看多信号。",
+      "reason": "券商评级上调对个股及板块有正面催化，符合优先级二中的机构评级变动，历史消息未出现。",
+      "category": "公司公告",
       "impact_stocks": [
-        "沪深300"
+        "天顺风能",
+        "风电设备"
       ],
-      "signal": "neutral",
-      "impact_level": 1,
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366637?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZmxKMHpXMXNCZlNfc3pscVFkeE8zaTFnYWttZkZvRm5WUWtyN21uOUdUUGRVVDQzXy1CcjY1VEdkY18tMUlteXdjTmE4VkJ3SGM3NWRsdXF5VDdsczFSZXdn?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "东吴证券给予美年健康买入",
+      "summary": "东吴证券发布研报给予美年健康买入评级。美年健康是国内健康体检龙头，机构看好其疫后复苏及体检需求增长。买入评级有助于改善市场预期，对大健康板块有正面影响。看多信号。",
+      "reason": "券商评级上调对个股有短期催化，符合优先级二中的机构评级变动，历史消息未出现。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "美年健康",
+        "医疗服务"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1iMVVVS1RUb21NUnl6S1ktQ2FkdUZHNU5ueGpCSU5Cc3BtT0FMT2xLWjNaMUFfQ1Rpanl1dUlvd2RFZ3dPbGJnckFJcFZwc3J4U3dlTER6VTFUX1pOaHVlbVdn?oc=5"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 21,
-  "generated_at": "2026-05-09T07:01:28.328222+08:00"
+  "total_fetched": 14,
+  "generated_at": "2026-05-09T07:45:52.517447+08:00"
 }
