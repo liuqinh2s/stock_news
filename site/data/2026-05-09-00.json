@@ -3,13 +3,64 @@
   "hour": "00",
   "news": [
     {
-      "title": "沪指逼近4200创11年新高",
-      "summary": "A股均价创11年新高，沪指逼近4200点，资金出现结构性分歧。这显示市场整体强势，但部分资金开始分化，可能短期有震荡，中期仍看多。影响沪深300及券商板块，属于市场情绪信号。",
-      "reason": "A股均价创11年新高反映市场热度，符合筛选标准优先级三（成交额极值/市场情绪），对交易决策有参考价值。",
+      "title": "伊以冲突升级，油轮交火",
+      "summary": "伊朗议员称美国对伊朗海上封锁将遭军事回应，美军向两艘伊朗油轮开火，霍尔木兹海峡附近2小时内连续交火。高盛调查显示投资者预计航运不畅持续至下半年。地缘风险加剧，国际油价预计进一步上涨。利多石油、航运板块，利空整体市场风险偏好。信号：看多能源股（中石油、中石化），看空大盘短期表现。",
+      "reason": "优先级一：地缘冲突直接影响能源价格和全球风险情绪，传导至A股能源板块和整体市场。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中国石油",
+        "中国石化",
+        "中海油服",
+        "航运板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 5,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260509/c676554489.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366549?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "英特尔与AMD股价齐创历史新高",
+      "summary": "英特尔与AMD股价双双刷新历史纪录，合计市值超1.3万亿美元，高通涨超11%。美股科技股强势表现带动A股科技板块风险偏好，尤其利好半导体、AI芯片等国产替代方向。信号：看多芯片半导体、AI算力板块。",
+      "reason": "优先级二：美股科技标杆大涨对A股科技板块有强烈映射效应，影响中期行情。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "中芯国际",
+        "寒武纪",
+        "北方华创",
+        "半导体ETF"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260508/c676554463.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366557?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "A股均价创11年新高，沪指逼近4200",
+      "summary": "A股均价已升至11年高位，沪指逼近4200点，成交额连续三日突破3万亿元。市场赚钱效应扩散，但资金出现结构性分歧。信号：短期看多市场情绪，但需警惕高位震荡风险。",
+      "reason": "优先级三：成交额极值和均价新高反映市场热度，影响短期情绪。",
       "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
-        "券商"
+        "券商板块",
+        "上证指数相关ETF"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -22,14 +73,15 @@
       "urgency": "hours"
     },
     {
-      "title": "A股分红2.55万亿创新高",
-      "summary": "2025年A股分红总额达2.55万亿元再创新高，一年多次分红、千元分红股频现，显示上市公司回报股东意愿增强。利好市场信心，对高分红板块如银行、消费有正面作用，看多信号。",
-      "reason": "分红创新高是积极信号，符合优先级三（市场情绪），增强投资者信心。",
-      "category": "市场情绪",
+      "title": "A股分红2.55万亿再创新高",
+      "summary": "2025年度A股现金分红总额达2.55万亿元，再创历史新高，其中银行、能源等蓝筹股分红丰厚。高股息策略吸引力增强，有利于吸引长期资金入市。信号：看多高股息板块，如银行、煤炭、电力。",
+      "reason": "优先级二：分红数据反映公司治理和股东回报，影响市场风格。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "银行",
-        "消费",
-        "沪深300"
+        "工商银行",
+        "中国神华",
+        "长江电力",
+        "红利ETF"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -39,37 +91,18 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fbkZIMjJpMG1DaDhxZkFPSmpuWHB1YWtEYVp1bnAtb09yRTQ2bktkUjRYQ1NrbHIyWHdiLWpiM0liMkxNQ0RjRXpob0NkcGUwTXdxS2lUZFBvQUFSMGhGdDlJVnRHanV6VEZEeWV0TWV4SlFhRV9xcg?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "霍尔木兹海峡再传交火",
-      "summary": "据央视新闻，霍尔木兹海峡附近区域在2小时内接连传出交火声。地缘政治紧张加剧，可能推升油价和避险情绪，短期对A股偏空，石油、黄金板块受益。",
-      "reason": "地缘冲突升级直接影响全球风险偏好和能源价格，符合优先级一（直接影响行情）。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油",
-        "黄金",
-        "军工"
-      ],
-      "signal": "bearish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366549?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "阿斯麦股价创历史新高",
-      "summary": "阿斯麦（ASML）股价创历史新高，成为欧洲首家市值突破6000亿美元公司。利好全球半导体设备产业链，对A股半导体设备、光刻胶等板块有情绪提振，看多信号。",
-      "reason": "ASML是半导体行业风向标，其创新高利好A股半导体板块，符合优先级二（海外市场联动）。",
+      "title": "阿斯麦市值突破6000亿美元创历史新高",
+      "summary": "光刻机巨头阿斯麦（ASML）股价创历史新高，成为欧洲首家市值破6000亿美元公司。全球半导体设备需求强劲，对A股光刻机、半导体设备板块形成利好映射。信号：看多半导体设备、光刻胶等国产替代方向。",
+      "reason": "优先级二：半导体龙头新高强化科技主线，影响板块估值。",
       "category": "行业动态",
       "impact_stocks": [
-        "半导体",
-        "光刻胶",
-        "芯片设备"
+        "北方华创",
+        "中微公司",
+        "张江高科",
+        "半导体设备ETF"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -82,25 +115,69 @@
       "urgency": "hours"
     },
     {
-      "title": "购煤转向国内，煤炭市场火爆",
-      "summary": "部分企业购煤转向国内市场，煤炭市场火爆。可能因国际能源价格波动或进口受限，利好国内煤炭企业，煤炭板块短期看多。",
-      "reason": "煤炭需求增加直接影响板块，符合优先级二（行业政策变动）。",
-      "category": "行业动态",
+      "title": "乐动机器人港股IPO获6707倍认购",
+      "summary": "深圳乐动机器人香港IPO面向散户部分获得约6707倍超额认购，创年内纪录。市场对机器人赛道热情高涨，有望带动A股机器人及智能制造板块情绪。信号：看多机器人、工业自动化板块。",
+      "reason": "优先级三：IPO认购倍数极端值反映市场热点，影响板块轮动。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "煤炭",
-        "能源"
+        "机器人",
+        "拓斯达",
+        "埃斯顿",
+        "工业母机ETF"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366537?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2366547?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "江苏省设战新产业基金揭牌",
+      "summary": "江苏省增资扩产战新产业基金正式揭牌，将重点投向新能源、生物医药、人工智能等战略性新兴产业。地方产业政策加码，有利于相关板块获得资金支持。信号：中性偏多，利好江苏本地相关上市公司。",
+      "reason": "优先级二：地方产业基金对区域经济和特定行业有提振作用。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "恒瑞医药",
+        "药明康德",
+        "天合光能",
+        "江苏本地科技股"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366542?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "花旗:铜短期支撑在13000美元附近",
+      "summary": "花旗表示铜市场短期支撑位在13000美元/吨附近，暗示铜价下行空间有限。叠加全球能源转型和电网投资需求，铜板块有望受益。信号：看多铜、有色金属板块。",
+      "reason": "优先级二：国际投行商品观点影响市场预期，尤其对有色板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "紫金矿业",
+        "江西铜业",
+        "铜陵有色",
+        "有色金属ETF"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366540?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 46,
-  "generated_at": "2026-05-09T00:01:26.721361+08:00"
+  "total_fetched": 62,
+  "generated_at": "2026-05-09T00:09:48.648471+08:00"
 }
