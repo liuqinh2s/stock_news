@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-09",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7162,
+    "completion_tokens": 2204,
+    "total_tokens": 9366
+  },
+  "content_length": 1952,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"A股科技资产成全球资本新锚点\",\n      \"summary\": \"新浪财经发文认为，A股科技资产正成为全球资本新锚点。文章指出，随着中国科技企业崛起和资本市场开放，外资持续增配A股科技板块。该消息偏正面，但无具体数据支撑，属于市场情绪信号。科技板块（半导体、AI、新能源）可能受益，但需警惕短期过热。信号中性偏多。\",\n      \"reason\": \"市场情绪信号，A股科技资产获全球关注，可能提振科技板块情绪。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"AI概念\", \"新能源\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFByQnBHeUNwbFBWRDF4WTFobGl2QUtiRWtzUjV2YnRROEllV1V0cFdKd0dHckVwSEc0TmptUExrRFNDdXpBbGJvYnpoV2VvaTgxNU91UmpjRHZwR0s5ZVR6V2FVRThvNW12WEROWVhodGprWkV3R3ptWA?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"高盛超配A股 力挺科技板块\",\n      \"summary\": \"新浪财经早班车报道，高盛维持A股超配评级，并看好6G等科技方向。高盛是全球知名投行，其超配评级对市场有较强引导作用，可能吸引外资流入。叠加6G概念升温，科技板块（通信、半导体）受益明显。信号看多，影响中等。\",\n      \"reason\": \"机构评级正面，高盛超配A股是重要信号，且6G产业政策预期升温。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"6G概念\", \"通信\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE5fNXZEd0NPUUR5LTYzdnM4VXhEMFlDZ3lDMVJudTRnX3N6UFFlUEdqUHpSY2poXzZLaU1IODF6TUdDTUc4RUZlT3Y1T3g3Mk9jblNSQTdjdEx1OXFIU01fbUhRU01iZW5TVGVWWC16bnY0OGtrSlE?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"特朗普称赞美股上涨\",\n      \"summary\": \"美国总统特朗普本周五公开称赞美国股市上涨，暗示对经济政策信心。虽然直接针对美股，但可能提振全球风险偏好，对A股情绪有一定正面传导。不过实质影响有限，信号中性。\",\n      \"reason\": \"市场情绪信号，特朗普表态可能短暂提振风险资产，但无实质政策支撑。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2366637?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中多数为重复消息（如富时A50、离岸人民币、中东局势等），仅筛选出3条具有新增价值且符合A股交易决策的消息。\"\n}"
+}
