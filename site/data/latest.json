@@ -4,15 +4,13 @@
   "news": [
     {
       "title": "科创综指创历史新高",
-      "summary": "5月8日，科创综指创历史新高，芯片股全面上涨，带动科技板块走强。受美股芯片股大涨及国内AI算力需求提振，半导体板块集体爆发，科创50指数涨幅领先。这显示市场资金持续聚焦科技成长主线，看多信号明确。可能影响芯片、半导体、AI算力等板块，如中芯国际、北方华创等。",
-      "reason": "A股市场结构信号，科创综指新高反映科技板块强势，对相关板块有直接提振。",
+      "summary": "2026年5月8日，科创综合指数创历史新高，芯片股大幅上涨带动科技板块全面走强。A股市场情绪积极，资金追逐科技主线。可能影响科创50、半导体、AI算力等板块。看多信号，市场结构性机会凸显。",
+      "reason": "科创综指新高反映市场对科技主线的认可，情绪传导至A股相关板块，符合市场情绪信号优先级。",
       "category": "市场情绪",
       "impact_stocks": [
         "科创50",
         "半导体",
-        "AI算力",
-        "中芯国际",
-        "北方华创"
+        "AI算力"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -22,79 +20,36 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzT1IwT05sbzJ0eXNXM1ZKbUVtclhEbk9KS1piSFQ2dHB2WDJLU0RHb0o4Wl9nUmEwVVNfMnBhLTFvRXlYbVl6LS1zYm94Y3dDTEkzVzVVX2RLR0RkQ1B0Z3JEV29FQ2hQYkFLZjQ0cHI1eEdQTXlXZQ?oc=5"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "伊朗哈尔克岛疑似原油泄漏",
-      "summary": "卫星图像显示，伊朗关键石油出口枢纽哈尔克岛附近疑似出现大规模原油泄漏。加上美伊在波斯湾交火事件，霍尔木兹海峡航运风险加剧。油价短期可能上涨，利好A股石油石化板块（中国石油、中国石化），但地缘风险升级对市场整体偏空。综合看多能源股。",
-      "reason": "地缘政治事件直接影响油价，进而传导至A股能源板块，影响较大。",
+      "title": "英特尔日内大涨超18%",
+      "summary": "美股芯片巨头英特尔股价日内暴涨超18%，总市值突破6500亿美元，创历史新高。苹果与英特尔达成芯片制造协议，市场对英特尔代工业务前景乐观。可能提振A股芯片、半导体设备、代工概念股。看多信号，美股科技强势将映射至A股。",
+      "reason": "英特尔作为美股科技龙头，其大涨对全球半导体情绪有显著带动，A股芯片板块存在情绪传导机会，属于中期影响行情。",
       "category": "行业动态",
       "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化",
-        "航运"
+        "芯片半导体",
+        "代工概念",
+        "AI算力"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771868"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "美银看多黄金称涨幅可达30%",
-      "summary": "美银策略师Hartnett表示，美股强劲属历史罕见，黄金今年涨幅有望达30%。当前金价已处高位，但避险情绪与央行购金支撑。利好A股黄金板块，如山东黄金、中金黄金等，同时可能分流资金。看多黄金股。",
-      "reason": "知名机构观点，对黄金板块有情绪提振，但需结合市场。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "黄金",
-        "山东黄金",
-        "中金黄金",
-        "紫金矿业"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3771866"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366586?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "英特尔飙涨18%再创新高",
-      "summary": "英特尔日内大涨超18%，市值突破6500亿美元，续创历史新高。受苹果代工协议及AI需求提振，美股芯片股集体走强。情绪上利好A股芯片板块，但需警惕短期过热。看多芯片股。",
-      "reason": "美股芯片龙头暴涨映射A股，情绪传导明显。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "芯片",
-        "半导体",
-        "AMD概念"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366586"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "AI算力瓶颈：CPU涨价难求",
-      "summary": "报道指出，AI算力下一个瓶颈是CPU，芯片涨价且供应紧张。这利好国产CPU替代概念，如龙芯中科、海光信息等。同时可能刺激服务器和算力基建需求。看多国产替代。",
-      "reason": "行业趋势判断，直接利好国产CPU替代板块。",
+      "title": "Anthropic与Akamai达成18亿美元计算协议",
+      "summary": "AI公司Anthropic与云计算服务商Akamai签署价值18亿美元的计算协议，以满足其大模型训练与推理需求。全球AI算力需求持续爆发，利好A股算力基础设施、光模块、服务器等板块。看多信号，AI产业链高景气度确认。",
+      "reason": "AI算力需求增长直接利好A股相关供应商，是行业动态中的中期影响信号，符合筛选标准。",
       "category": "行业动态",
       "impact_stocks": [
-        "国产CPU",
-        "龙芯中科",
-        "海光信息",
+        "AI算力",
+        "光模块",
         "服务器"
       ],
       "signal": "bullish",
@@ -102,12 +57,12 @@
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260509/c676554721.shtml"
+          "url": "https://news.10jqka.com.cn/20260509/c676554783.shtml"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 48,
-  "generated_at": "2026-05-09T02:01:18.116730+08:00"
+  "total_fetched": 44,
+  "generated_at": "2026-05-09T02:05:49.625127+08:00"
 }

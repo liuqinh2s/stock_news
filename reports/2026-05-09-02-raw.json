@@ -1,16 +1,9 @@
 {
   "date": "2026-05-09",
   "hour": "02",
-  "total": 48,
-  "fetched_at": "2026-05-09T02:00:38.376063+08:00",
+  "total": 44,
+  "fetched_at": "2026-05-09T02:04:11.075747+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "江西一精神病院炒股，成A股公司前十大股东！医院负责人：实控人投资A股超10年 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5yOGdhQ1hwMHdtV3YxYmJUdGpFNU95Y3ItdncyNGpITnN3N0pib2p3SHhsZmxCMGlPamg2b3ljNnRycnZNWEQxTGhkWmpPTmtVN2w0U3U5WlZBUTBramlVenh5MU1fVjBsRkVWamV6MFVDNTlIMVE?oc=5\" target=\"_blank\">江西一精神病院炒股，成A股公司前十大股东！医院负责人：实控人投资A股超10年</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yOGdhQ1hwMHdtV3YxYmJUdGpFNU95Y3ItdncyNGpITnN3N0pib2p3SHhsZmxCMGlPamg2b3ljNnRycnZNWEQxTGhkWmpPTmtVN2w0U3U5WlZBUTBramlVenh5MU1fVjBsRkVWamV6MFVDNTlIMVE?oc=5",
-      "published": "Fri, 08 May 2026 16:04:00 GMT"
-    },
     {
       "source": "新浪财经",
       "title": "科创综指创历史新高 芯片股带动科技板块全面上涨 - 新浪财经",
@@ -24,6 +17,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZQTRDVmoxLUE5NHVqSU9PNWhJZGdoRXUtcmJTeG5yUmFjYjkzRXM4RUp4TXZBNkE5LXFDcVFlLU5xekMxaWE0bGQyeEdGb1VHdDdlVHNqa1pwaE13U0xGWg?oc=5\" target=\"_blank\">【调研快报】农心科技接待东方财富证券等3家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZQTRDVmoxLUE5NHVqSU9PNWhJZGdoRXUtcmJTeG5yUmFjYjkzRXM4RUp4TXZBNkE5LXFDcVFlLU5xekMxaWE0bGQyeEdGb1VHdDdlVHNqa1pwaE13U0xGWg?oc=5",
       "published": "Fri, 08 May 2026 16:46:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Anthropic与Akamai达成价值18亿美元的计算协议",
+      "summary": "Anthropic与Akamai达成价值18亿美元的计算协议。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260509/c676554783.shtml",
+      "published": "Fri, 08 May 2026 17:59:27 GMT"
     },
     {
       "source": "同花顺",
@@ -159,11 +159,11 @@
       "published": "Fri, 08 May 2026 16:17:53 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "消息人士称目前霍尔木兹海峡周边地区局势平静",
-      "summary": "当地时间8日，总台记者获悉，伊朗军方消息人士称，目前霍尔木兹海峡周边地区局势平静，但如果美国方面再次进入相关区域并为伊朗船只“制造麻烦”，就可能发生冲突。8日下午，伊朗伊斯兰革命卫队发布消息称，伊朗武装部队当天早些时候在霍尔木兹海峡水域与美国军舰发生“零星冲突”。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260509/c676554564.shtml",
-      "published": "Fri, 08 May 2026 16:11:32 GMT"
+      "source": "财联社",
+      "title": "财联社5月9日电，Anthropic与Akamai达成价值18亿美元的计算协议。",
+      "summary": "财联社5月9日电，Anthropic与Akamai达成价值18亿美元的计算协议。",
+      "link": "https://api3.cls.cn/share/article/2366597?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 08 May 2026 17:58:03 GMT"
     },
     {
       "source": "财联社",
@@ -299,13 +299,6 @@
       "published": "Fri, 08 May 2026 16:18:21 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月9日电，据知情人士透露，沙特配送APP Ninja为10亿美元IPO遴选银行。",
-      "summary": "财联社5月9日电，据知情人士透露，沙特配送APP Ninja为10亿美元IPO遴选银行。",
-      "link": "https://api3.cls.cn/share/article/2366574?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 08 May 2026 16:16:33 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "报道：苹果与英特尔达成初步的芯片制造协议",
       "summary": "<p>报道：苹果与英特尔达成初步的芯片制造协议。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
@@ -318,27 +311,6 @@
       "summary": "<p>Jane Street Group在今年第一季度创下161亿美元交易收入的纪录，较2025年第一季度的收入增长了一倍多。\n净利润同样较去年同期翻了一番，Jane Street 报告第一季度净利润为 103 亿美元。\nJane Street 的业绩主要受中频策略推动，并受益于对人工智能和科技公司的私人投资。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
       "link": "https://wallstreetcn.com/articles/3771869",
       "published": "Fri, 08 May 2026 16:16:56 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "伊朗关键石油出口枢纽哈尔克岛附近疑似出现大规模原油泄漏",
-      "summary": "<p>近日拍摄的卫星图像显示，伊朗关键石油出口枢纽哈尔克岛附近海域疑似出现大规模原油泄漏，污染范围覆盖数十平方公里海面。</p>\n<p>欧洲哥白尼计划“哨兵”系列卫星5月6日至8日拍摄的图像显示，一片灰白色油膜出现在哈尔克岛以西海域。路透社援引分析人士的话报道，这片油膜“从视觉上看与原油特征一致”，估计覆盖面积约45平方公里。</p>\n<p>英国温沃德海事分析公司8日在社交媒体上说，哈尔克岛附近油污正在持续扩散。此次泄漏最早于5月5日被发现。经过20小时内3次卫星过境观测后，事件已得到确认。</p>\n<p>哈尔克岛是伊朗重要的石油出口枢纽。美军4月初曾表示对该岛上的军事目标进行了袭击。</p>\n<p><span style=\"color: #808080;\">本文来源：<a href=\"https://www.news.cn/world/20260508/994ac073af4b429eb14b32e8c48ec7cd/c.html\" rel=\"noopener\" target=\"_blank\">新华社</a>，原文标题：《伊朗哈尔克岛附近疑似出现大规模原油泄漏》。</span></p",
-      "link": "https://wallstreetcn.com/articles/3771868",
-      "published": "Fri, 08 May 2026 16:03:24 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美银Hartnett：美股如此强劲历史罕见，黄金今年涨幅有望达到30%",
-      "summary": "<p style=\"text-align: left;\">美国股市与黄金正携手迈向罕见的第四年双位数涨幅，这一历史级别的强势行情引发华尔街顶级策略师高度关注。</p>\n<p style=\"text-align: left;\">据彭博报道，美国银行首席投资策略师Michael Hartnett领衔的团队指出，<strong>标普500指数年化涨幅有望达到20%，黄金则有望录得30%的年度涨幅，</strong>这种持续多年的\"大级别\"行情在历史上极为罕见。</p>\n<p style=\"text-align: left;\">就美股而言，类似的持续大级别上涨仅出现过三次：二战期间、战后初期的和平红利期，以及1995年至1999年的科技泡沫时期。而黄金的长期强势行情，则主要集中于1970年代的滞胀阶段。</p>\n<p style=\"text-align: left;\">行情层面，纳斯达克指数与标普500指数近日双双再创历史新高。标普500指数年初为6858点，最高已升至7394点，累计上涨约7.8%。纳斯达克指数年初为23236点，最高触及26144点，累计上涨约12.5%。</p>\n<p s",
-      "link": "https://wallstreetcn.com/articles/3771866",
-      "published": "Fri, 08 May 2026 16:01:23 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "新债王：正在为美国\"债务重组\"做准备；哈塞特：美债违约“百万年内不可能”",
-      "summary": "<p>“新债王”杰弗里·冈拉克正悄然调整投资组合，为一个极低概率但后果严重的情景做准备——美国政府单方面重组债务。白宫方面随即予以强烈否认。</p>\n<p>据彭博，冈拉克表示，<strong>若美国未来陷入严重衰退，政府或为削减利息支出而被迫重组债务</strong>。为此，他已在旗舰基金中将高票息国债置换为同期限的最低票息品种——一旦政府强行下调票息，低票息债券的损失幅度将远小于高票息债券。</p>\n<p>他举例称，政府可能在不改变到期期限的前提下，单方面将票息从4%压至1%，并称之为“把问题往后拖延的终极手段”。</p>\n<p>对此，白宫国家经济委员会主任凯文·哈塞特回应称：“<strong>这届政府绝无可能做出任何哪怕看起来像债务违约的事情</strong>，这种可能性连百万分之一都不到。”</p>\n<h2>冈拉克：美国政府违约的风险不可忽视</h2>\n<p>冈拉克的逻辑链条清晰而激进：若美国陷入严重衰退，利息支出或飙升至3万亿美元，30年期国债收益率触及6%，<strong>政府将面临“无力偿付”的困境</strong>。他担忧的结局是：政府选择单方面将票息从4%压至1%，即他",
-      "link": "https://wallstreetcn.com/articles/3771867",
-      "published": "Fri, 08 May 2026 16:00:55 GMT"
     }
   ]
 }
