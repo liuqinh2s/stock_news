@@ -3,154 +3,216 @@
   "hour": "09",
   "news": [
     {
-      "title": "融资余额大增294亿",
-      "summary": "5月7日两市融资余额较上日增加294.90亿元，连续多日增长反映杠杆资金加速入场。融资余额持续上升是典型多头信号，预示市场风险偏好提升，利好沪深300及科技成长板块。",
-      "reason": "融资余额大幅增加属于资金流向重要信号，直接反映市场做多情绪，符合优先级二。",
-      "category": "资金流向",
+      "title": "高盛看多A股目标5300",
+      "summary": "高盛将沪深300指数12个月目标位设在5300点，认为投资A股颇具吸引力。当前沪深300在4800点左右，隐含约10%上涨空间。高盛看好A股主要基于企业盈利改善和估值吸引力。该信号看多，可能提振市场信心，吸引外资流入。影响沪深300成分股及大盘蓝筹。",
+      "reason": "知名投行上调目标位，属于机构评级变动，对市场情绪有正面引导作用。",
+      "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
-        "科技成长",
-        "券商"
+        "上证50",
+        "贵州茅台",
+        "中国平安"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676527248.shtml"
-        },
-        {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2365599?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2365659?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "工信部批复6G试验频率",
-      "summary": "工信部批复6G技术试验频率，标志着中国6G研发进入实质性阶段。该政策利好通信设备、射频器件、天线等产业链环节，有望推动6G概念板块走强。属于行业重磅政策，看多信号。",
-      "reason": "工信部直接批复试验频率是行业重大政策，将催化6G板块行情，符合优先级二。",
+      "title": "黄仁勋：光连接需求暴增",
+      "summary": "英伟达CEO黄仁勋表示，下一代AI基础设施将需要大量的光学连接，铜线已无法满足需求。这直接利好光模块、光纤光缆、CPO（共封装光学）等板块。A股光通信概念股如中际旭创、新易盛、天孚通信等有望受益。黄仁勋的言论强化了AI算力对光互联需求的确定性，看多光通信板块。",
+      "reason": "行业领袖对技术趋势的判断，直接关联A股光通信产业链，属于行业动态利好。",
       "category": "行业动态",
       "impact_stocks": [
-        "6G概念",
-        "通信设备",
-        "中兴通讯"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676526950.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2365590?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "腾讯上汽入股机器人公司",
-      "summary": "腾讯、上汽集团等入股机器人灵巧手研发商临界点，资本加码人形机器人赛道。该事件显示产业资本持续看好机器人产业链，利好机器人执行器、传感器等核心零部件公司，看多信号。",
-      "reason": "知名企业联合投资机器人公司，反映行业景气度高，属于行业动态。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "机器人",
-        "人形机器人",
-        "绿的谐波"
+        "光通信",
+        "CPO",
+        "中际旭创",
+        "新易盛",
+        "天孚通信"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676527289.shtml"
+          "url": "https://news.10jqka.com.cn/20260508/c676531982.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "中信证券：电子景气向上",
-      "summary": "中信证券研报指出电子行业景气持续向上，坚定看好半导体、消费电子、AI硬件等四大方向。头部券商看多电子板块，可能提振市场对科技股的信心，偏多信号。",
-      "reason": "知名券商发布看多研报，对板块情绪有正面引导作用，属于机构评级变动。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "电子",
-        "半导体",
-        "消费电子"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676527205.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "五粮液：白酒加速出清",
-      "summary": "五粮液表示白酒行业加速出清，经历调整期后将逐渐步入修复期。龙头企业对行业格局的判断暗示竞争格局优化，龙头受益，对白酒板块形成利好。",
-      "reason": "行业龙头发表观点，直接影响板块预期，属于公司重大事件。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "五粮液",
-        "白酒",
-        "贵州茅台"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676527021.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "中国西电斩获15.83亿订单",
-      "summary": "中国西电公告获得15.83亿元重大合同，占2025年营收约4.5%。大额订单将直接增厚未来业绩，利好公司股价，同时提升电力设备板块关注度，偏多信号。",
-      "reason": "重大订单公告直接影响个股盈利预期，属于公司重要事件。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "中国西电",
-        "电力设备",
-        "特高压"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103169580.html"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "黄仁勋称AI投资扩至经济",
-      "summary": "英伟达CEO黄仁勋表示AI投资热潮已波及更广泛经济领域，暗示AI应用加速落地。该言论强化AI主线逻辑，利好AI算力、应用等板块，看多信号。",
-      "reason": "行业领袖表态影响市场情绪，属于市场情绪信号。",
+      "title": "伊朗陆军总司令强硬表态",
+      "summary": "伊朗陆军总司令称“美方会后悔的”，暗示可能进一步反击美军行动。中东地缘冲突再度升级，此前美军已打击伊朗军事设施，伊朗也击落美军无人机。紧张局势推升原油、黄金避险资产价格，对A股形成短期情绪利空，尤其利空航空、石化下游行业，但利好石油开采、黄金等避险板块。",
+      "reason": "地缘政治重大升级，直接影响全球风险偏好，属于市场情绪传导。",
       "category": "市场情绪",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "英伟达产业链"
+        "石油开采",
+        "黄金",
+        "军工",
+        "航空",
+        "石化"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260508/c676532126.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "韩国延长囤油禁令至7月",
+      "summary": "韩国宣布延长囤积石油禁令至7月，旨在应对中东局势导致的油价波动。此举暗示韩国认为油价仍有上行风险，可能加剧全球石油供应紧张局面。利好A股石油开采板块（中国石油、中国石化等），但可能推高成本，利空化工、航空等用油行业。",
+      "reason": "能源政策变动，对油价有支撑，影响相关行业。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "石油开采",
+        "中国石油",
+        "中国石化",
+        "化工",
+        "航空"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2365652?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "现货白银突破80美元",
+      "summary": "现货白银站上80美元/盎司，日内涨超2%，创多年新高。黄金亦站稳4720美元。贵金属大涨主要受中东避险情绪和美元走弱推动。A股贵金属板块（如山东黄金、中金黄金、银泰黄金）将直接受益，看多。同时避险情绪可能压制风险偏好，对大盘略偏空。",
+      "reason": "贵金属价格大幅波动，直接映射A股相关板块，属于市场情绪与行业联动。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "贵金属",
+        "山东黄金",
+        "中金黄金",
+        "银泰黄金"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2365642?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "美国ITC对半导体337终裁",
+      "summary": "美国国际贸易委员会（ITC）发布对半导体器件及其下游产品的337部分终裁，可能涉及专利侵权或贸易限制。此举或影响中国半导体出口企业，利空A股半导体板块，尤其是有美国业务的公司如韦尔股份、卓胜微等。不过若终裁结果较预期温和，则影响有限。短期偏空。",
+      "reason": "美国贸易摩擦措施，直接影响半导体行业，属于行业政策风险。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "韦尔股份",
+        "卓胜微",
+        "中芯国际"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260508/c676526492.shtml"
+          "url": "https://news.10jqka.com.cn/20260508/c676531903.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "4月A股新开户数环比降46%",
+      "summary": "4月A股新开户数达249.13万户，环比减少45.86%。开户数大幅下滑显示市场情绪降温，新增资金入场放缓。尽管市场成交额仍高，但增量资金减弱可能制约后续上涨空间。该数据偏利空，但需结合市场整体趋势判断。",
+      "reason": "市场情绪指标，反映投资者入市意愿，对行情有前瞻意义。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "券商"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxTHhNem5EQVBpMjFhb2ota1ZiSGZXa3pHaElkejYzOWp0YWZEQ1NfLXZ1T210M05tWGlueDdaeEFRbDh2R0tVdVdJWDNKcWY4Wk1OY2o0UlJ0dGVQb0xBWjFPOExoZTBSRW9MU0UyM3pMUVlkUDM2Ng?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "融资买入活跃，新易盛居首",
+      "summary": "5月7日，678只个股获融资买入超亿元，其中新易盛获买入47.09亿元居首。融资余额持续攀升显示杠杆资金看好后市，尤其科技股受到追捧。新易盛作为光模块龙头，融资买入集中，短期看多该股及光通信板块。",
+      "reason": "融资数据反映杠杆资金动向，属于资金流向信号，对相关个股有提振。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "新易盛",
+        "光通信"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MUzRpbUMtYjRqRUZvQ2Y0eVJlbExWNmlScmJuX25lLVFMWDdrMWlyelYzelFHQ1EySE5PM2Q5bURtVndpR1VKTXd2VUlqN1hkMTRBbHJDUFJydlgyTFFlbnpLZjNIWTRYa3Rxc003OGFTdzg3SlZGbw?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "中东资金增持A股66股",
+      "summary": "阿布达比投资局现身66只A股前十大流通股东，显示中东主权基金持续加仓A股。中东资金偏好消费、医药、新能源等板块，其增持行为对外资有示范效应，看多A股结构性行情。",
+      "reason": "外资动向是重要资金流向信号，中东主权基金增持代表长期看好。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "消费",
+        "医药",
+        "新能源",
+        "沪深300"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tOUFKU1dqT0J2Q0dFOVZiVkNzWlk1dGRrM044QXFzdmpmWTYyemlHZGVSNmpEYnJKeUNrVFdYTUxfTER2RzdzWHFuTVBfckFvNjNRS2J1amViaS1wcGRGa2pweXp2ZndYcDhSUEpFWnBDMTBfZlkwZQ?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "科技主题ETF领涨吸金",
+      "summary": "科技主题ETF近期领涨，中小盘宽基ETF持续吸金，显示资金聚焦科技成长股。AI、半导体、机器人等方向受追捧。该信号看多科技板块，尤其是中小盘科技股。",
+      "reason": "资金流向结构体现市场热点，科技主题ETF持续净申购支持板块上涨。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "科技",
+        "半导体",
+        "AI",
+        "机器人",
+        "中证1000"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "中国证券报",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41Y2czN1BqM0tab243dlJlNHZiTzdWSU9SLVZINWRMT01XZzZhTDROVUU3S3hQREZOSUtxSUM5MVZOUjRHQU9oc0Z0M01FamZOOFNPTzJ2VTVjYUZ2ZWRNX0lWaElOQ2tWVlJlNE9qaTBONHg1cktPQw?oc=5"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 76,
-  "generated_at": "2026-05-08T09:01:33.620476+08:00"
+  "total_fetched": 82,
+  "generated_at": "2026-05-08T09:59:07.267285+08:00"
 }
