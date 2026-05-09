@@ -1,7 +1,46 @@
 {
   "date": "2026-05-10",
   "hour": "04",
-  "news": [],
-  "total_fetched": 6,
-  "generated_at": "2026-05-10T04:01:51.512415+08:00"
+  "news": [
+    {
+      "title": "巴基斯坦自杀式爆炸致3警亡",
+      "summary": "巴基斯坦西北部开伯尔-普什图省一处警方检查站遭自杀式爆炸袭击，造成至少3名警察死亡，多人受伤。袭击者使用车载简易爆炸装置并配合无人机攻击，交火持续。此事件为局部地缘安全事件，对A股无直接冲击，可能短期推高避险情绪，但影响极弱。涉及板块如石油、黄金或有微弱波动，整体看中性。",
+      "reason": "新消息，不重复；地缘安全事件可能引发避险情绪，但影响范围有限，对A股影响微弱。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "黄金",
+        "石油"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367067?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "英国地方选举结果揭晓",
+      "summary": "英国英格兰、苏格兰、威尔士地方议会选举结果全部揭晓，传统两大党工党与保守党均受冲击，改革党、绿党等小党席位上升，政坛碎片化加剧。此消息反映英国政治不稳定，可能影响英镑和脱欧后政策，但对中国A股直接影响极小。属于海外政治动态，对A股资金流向或情绪影响微弱，看中性。",
+      "reason": "新消息，不重复；英国政坛碎片化可能影响中英经贸预期，但隔靴搔痒，A股反应有限。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "中欧贸易",
+        "英镑相关"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367066?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    }
+  ],
+  "total_fetched": 4,
+  "generated_at": "2026-05-10T04:34:53.011383+08:00"
 }
