@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2155,
+    "completion_tokens": 650,
+    "total_tokens": 2805
+  },
+  "content_length": 669,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"电池出口退税2027年归零\",\n      \"summary\": \"据第一财经报道，电池出口退税政策将于2027年完全取消，目前退税率为13%。多家储能企业高管表示，此举将增加出口成本，削弱中国电池产品在海外市场的价格竞争力，短期可能刺激抢出口，但中长期对锂电池、储能系统出口构成压力。受影响板块包括储能、锂电池、新能源车产业链，需关注龙头企业成本控制和海外产能布局。信号偏空，但短期抢出口或带来阶段性订单增长。\",\n      \"reason\": \"直接关联A股储能、电池板块，政策变化明确影响企业利润和出口竞争力，具备交易价值。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"储能\", \"锂电池\", \"新能源车\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103172569.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前抓取素材中，仅电池出口退税政策对A股有直接交易价值，其余多为国际地缘政治消息，对A股影响微弱，故仅筛选1条。\"\n}"
+}
