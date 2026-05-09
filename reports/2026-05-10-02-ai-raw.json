@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2162,
+    "completion_tokens": 199,
+    "total_tokens": 2361
+  },
+  "content_length": 74,
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"近6小时素材均为国际地缘政治和意外事件，对A股直接影响微弱，无符合筛选标准的高价值消息。\"\n}"
+}
