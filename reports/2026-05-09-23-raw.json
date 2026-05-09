@@ -1,8 +1,8 @@
 {
   "date": "2026-05-09",
   "hour": "23",
-  "total": 26,
-  "fetched_at": "2026-05-09T23:00:28.871422+08:00",
+  "total": 16,
+  "fetched_at": "2026-05-09T23:40:45.041652+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,13 +10,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE94RGFnanVQMGJhQU9XZDlUX2NLTG5kWU1RLW5XRTRFX2pwYUJQOUJ0b3AyQ2QwWWJMdjd6WTgwbmtielZOc3JpTHdqdDdnMy12bGFHT29zUDUtVWR2aXYzc1BQXzFDcDhXSEJoblljZC05MmZtSnc?oc=5\" target=\"_blank\">增长质量榜|23家A股毛利率超越茅台，第一是它！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94RGFnanVQMGJhQU9XZDlUX2NLTG5kWU1RLW5XRTRFX2pwYUJQOUJ0b3AyQ2QwWWJMdjd6WTgwbmtielZOc3JpTHdqdDdnMy12bGFHT29zUDUtVWR2aXYzc1BQXzFDcDhXSEJoblljZC05MmZtSnc?oc=5",
       "published": "Sat, 09 May 2026 14:29:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股再现国资“A吃A”！ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9fT1V6eXFvblVQQ0hMSEhRMFBCV0FGZW1iaTdaaUVKbjRKcnJEdmdRb0M5MDVCcllUMTBmOXh3Y1NjTDR1bEdYOXBSZWlpOEtIVWNUa29pTmpVLXlRbmF1OUJTT0RNaVl0YWZWVTRkZkZYcE9XYnBiMHdkd3M?oc=5\" target=\"_blank\">A股再现国资“A吃A”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fT1V6eXFvblVQQ0hMSEhRMFBCV0FGZW1iaTdaaUVKbjRKcnJEdmdRb0M5MDVCcllUMTBmOXh3Y1NjTDR1bEdYOXBSZWlpOEtIVWNUa29pTmpVLXlRbmF1OUJTT0RNaVl0YWZWVTRkZkZYcE9XYnBiMHdkd3M?oc=5",
-      "published": "Sat, 09 May 2026 14:01:00 GMT"
     },
     {
       "source": "东方财富",
@@ -47,39 +40,25 @@
       "published": "Sat, 09 May 2026 13:48:37 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
-      "summary": "英伟达在AI热潮中通过大手笔投资上下游企业，打造从芯片到AI模型的完整生态体系。数据显示，今年英伟达股权投资已突破400亿美元。业内人士指出，这种投资模式不仅帮助英伟达锁定下游客户，还在一定程度上确保了公司硬件需求的稳定供应。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260509/c676572036.shtml",
-      "published": "Sat, 09 May 2026 13:29:38 GMT"
+      "source": "财联社",
+      "title": "俄总统助理：延长俄乌停火尚无现实支撑",
+      "summary": "【俄总统助理：延长俄乌停火尚无现实支撑】财联社5月9日电，针对美国总统特朗普希望延长俄乌5月9日至11日停火的想法，俄罗斯总统助理乌沙科夫5月9日回应称，这一希望缺乏现实基础，乌克兰方面无力遵守停火协议。乌沙科夫表示，停火不仅取决于美国总统，还取决于另外两方。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2367044?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 09 May 2026 15:33:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "工业和信息化部：启动人工智能科技伦理审查与服务先导计划",
-      "summary": "工业和信息化部日前印发通知，正式启动人工智能科技伦理审查与服务先导计划。通过此次先导计划，将制定并验证一批标准，建成人工智能科技伦理风险案例库，研发一批技术工具和方法。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260509/c676571968.shtml",
-      "published": "Sat, 09 May 2026 13:18:31 GMT"
+      "source": "财联社",
+      "title": "欧洲多国将接回涉疫邮轮人员 世卫组织评估传播风险仍“较低”",
+      "summary": "【欧洲多国将接回涉疫邮轮人员 世卫组织评估传播风险仍“较低”】财联社5月9日电，西班牙内政大臣费尔南多·格兰德-马拉斯卡·戈麦斯9日说，德国、法国、比利时、爱尔兰和荷兰将派飞机从暴发汉坦病毒疫情的“洪迪厄斯”号邮轮上接回本国公民。\n\n西班牙卫生大臣莫妮卡·加西亚同一天表示，预计“洪迪厄斯”号邮轮将于当地时间10日凌晨抵达西班牙特内里费岛。按照西班牙官员说法，除上述5国之外，欧盟将另派两架飞机接走船上其余欧盟国家人员。美国和英国正在为那些无法获得航空服务的非欧盟国家人员安排应急方案。\n\n当地有关部门警告，撤离邮轮人员的工作须在10日至11日进行，因为近期附近海域可能出现强风暴天气。\n\n世界卫生组织总干事谭德塞9日发表公开信表示，目前船上暂无新增疑似病例。世卫组织评估认为，汉坦病毒带来的公共卫生风险仍然“较低”。 (新华社)",
+      "link": "https://api3.cls.cn/share/article/2367042?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 09 May 2026 15:11:36 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "加沙地带卫生部门：本轮巴以冲突已造成72736人死亡",
-      "summary": "当地时间5月9日，据加沙地带卫生部门声明，自2023年10月7日巴以新一轮大规模冲突爆发以来，以军在加沙地带的军事行动已造成72736名巴勒斯坦人死亡，另有17.25万人受伤。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260509/c676571967.shtml",
-      "published": "Sat, 09 May 2026 13:18:25 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-      "summary": "据伊朗方面5月9日消息，伊朗第一任最高领袖霍梅尼的孙子哈桑·霍梅尼表示，伊朗最高领袖正全面掌握国家事务，相关决策在按部就班推进。哈桑·霍梅尼当天在会见伊朗红新月会管理人员和救援人员时说：“最高领袖掌握全局，相关决策按照程序推进，并由其批准和签署。”他同时呼吁，社会各界应尊重伊朗国家体制作出的决定，并信任身处一线官员的“能力、理解力与判断力”。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260509/c676571921.shtml",
-      "published": "Sat, 09 May 2026 13:12:22 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-      "summary": "记者今天（9日）从中国汽车工业协会了解到，网传“新能源车企因锁电问题被约谈、立案”为不实信息。中国汽车工业协会相关负责人表示，针对近日网络上盛传的关于“8家新能源车企因锁电问题被约谈”“3家车企被立案”的说法，网传内容无官方来源，与事实严重不符，一切行业监管动态与执法举措以主管部门官方正式信息为准。同时，希望新能源车企在优化电池管理系统的同时，保持信息透明原则，保障消费者知情权与选择权，并建立畅通高效的售后沟通渠道，积极处理锁电相关的投诉争议，用诚信经营守护品牌口碑。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260509/c676571813.shtml",
-      "published": "Sat, 09 May 2026 13:01:37 GMT"
+      "source": "财联社",
+      "title": "美军称继续执行对伊朗的海上封锁 已改变58艘商船的航向",
+      "summary": "【美军称继续执行对伊朗的海上封锁 已改变58艘商船的航向】财联社5月9日电，美军中央司令部9日在社交媒体上发表声明说，美军继续执行对伊朗的海上封锁，自4月13日以来至今已改变58艘商船的航向，并使4艘船只丧失航行能力，以防止这些船只进出伊朗港口。 (新华社)",
+      "link": "https://api3.cls.cn/share/article/2367041?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 09 May 2026 15:06:56 GMT"
     },
     {
       "source": "财联社",
@@ -124,41 +103,6 @@
       "published": "Sat, 09 May 2026 13:49:18 GMT"
     },
     {
-      "source": "财联社",
-      "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
-      "summary": "【英伟达全面布局AI生态 股权投资今年已超400亿美元】财联社5月9日电，英伟达在AI热潮中通过大手笔投资上下游企业，打造从芯片到AI模型的完整生态体系。数据显示，今年英伟达股权投资已突破400亿美元。业内人士指出，这种投资模式不仅帮助英伟达锁定下游客户，还在一定程度上确保了公司硬件需求的稳定供应。<br /><img src=\"https://image.cls.cn/images/20260509/Z526iDpx4h_1328x1114.png\" />",
-      "link": "https://api3.cls.cn/share/article/2367034?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 13:28:28 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "【电报解读】我国日均词元调用量已突破140万亿，两年增长超千倍！机构建议关注国产算力基础设施产业链4大细分领域，这家公司积极参与了全国多个算力中心建设",
-      "summary": "我国日均词元调用量已突破140万亿，两年增长超千倍！机构建议关注国产算力基础设施产业链4大细分领域，这家公司积极参与了全国多个算力中心建设，另一家为智谱AI提供底层算力支持。",
-      "link": "https://api3.cls.cn/share/article/2366963?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 13:18:25 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊",
-      "summary": "【交通运输部：加快推动新能源重卡规模化应用 建设零碳运输走廊】财联社5月9日电，交通运输部党组书记、部长刘伟主持召开部务会。会议强调，要持续加强能源物资运输保障，继续实施交通运输大规模设备更新行动，加快推动新能源重卡规模化应用，建设零碳运输走廊，推动交通运输与能源融合发展。 (证券时报)",
-      "link": "https://api3.cls.cn/share/article/2367032?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 13:08:28 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
-      "summary": "【霍梅尼之孙：伊朗最高领袖对各项事务保持监督】财联社5月9日电，据伊朗迈赫尔通讯社9日报道，伊朗第一任最高领袖霍梅尼的孙子哈桑·霍梅尼表示，伊朗最高领袖正全面掌握国家事务，相关决策在按部就班推进。 (新华社)",
-      "link": "https://api3.cls.cn/share/article/2367030?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 13:02:15 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-      "summary": "【中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息】财联社5月9日电，记者今天（9日）从中国汽车工业协会了解到，网传“新能源车企因锁电问题被约谈、立案”为不实信息。\n\n中国汽车工业协会相关负责人表示，针对近日网络上盛传的关于“8家新能源车企因锁电问题被约谈”“3家车企被立案”的说法，网传内容无官方来源，与事实严重不符，一切行业监管动态与执法举措以主管部门官方正式信息为准。\n\n同时，希望新能源车企在优化电池管理系统的同时，保持信息透明原则，保障消费者知情权与选择权，并建立畅通高效的售后沟通渠道，积极处理锁电相关的投诉争议，用诚信经营守护品牌口碑。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2367029?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 13:01:00 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "涨太多的苦恼：美国投资者激辩“当下是1999年再现吗？”",
       "summary": "<p>美股现在这样疯涨，连美国人自己心里都开始发毛了。</p>\n\n<p>高盛对冲基金主管说，现在的市场”近乎令人沉醉”。</p>\n\n<p>“大空头”原型Michael Burry说，这感觉像1999年泡沫的最后几个月。</p>\n\n<p>对冲基金传奇Paul Tudor Jones说，牛市可能还有一两年，但一旦崩，将”令人窒息”。</p>\n\n<p>三个人，不同立场，却都在拿1999年说事。</p>\n\n<p>没错，就是那个互联网泡沫破裂的前夕！</p>\n\n<p>现在的AI牛市，到底是百年不遇的产业革命，还是即将崩盘的超级泡沫？</p>",
@@ -166,25 +110,11 @@
       "published": "Sat, 09 May 2026 14:11:07 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "中国汽车工业协会：网传“新能源车企因锁电问题被约谈、立案”为不实信息",
-      "summary": "<p>从中国汽车工业协会了解到，网传“新能源车企因锁电问题被约谈、立案”为不实信息。中国汽车工业协会相关负责人表示，针对近日网络上盛传的关于“8家新能源车企因锁电问题被约谈”“3家车企被立案”的说法，网传内容无官方来源，与事实严重不符，一切行业监管动态与执法举措以主管部门官方正式信息为准。（央视新闻）</p>",
-      "link": "https://wallstreetcn.com/livenews/3101076",
-      "published": "Sat, 09 May 2026 13:00:44 GMT"
-    },
-    {
       "source": "第一财经",
-      "title": "官方通报曾乘坐疫情邮轮的中国乘客核酸检测结果，英国要求返航者隔离45天",
-      "summary": "<figure><img alt=\"官方通报曾乘坐疫情邮轮的中国乘客核酸检测结果，英国要求返航者隔离45天\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/e9b5dc10-8c0a-4c87-8ea6-c5e26d2610f9.jpg\" /></figure><p>此前媒体报道称，52岁的中国探险者陈某与同伴搭乘“洪迪厄斯”号邮轮进行了南极圈12天的旅行。</p><p>据央视新闻，5月9日，四川省宜宾市疾病预防控制中心就网传该市人员涉“洪迪厄斯”邮轮相关情况发布通报。经核查，宜宾籍人员陈某于3月31日下船，与4月1日登船的邮轮首例病例没有时空交集。</p><p>截至目前，陈某下船已有39天，无相关症状。宜宾市疾病预防控制中心对陈某及家庭成员采样检测，汉坦病毒核酸检测结果均为阴性。经专家研判，陈某无感染风险、无社区传播风险。</p><p>此前媒体报道称，52岁的中国探险者陈某与同伴搭乘“洪迪厄斯”号邮轮进行了南极圈12天的旅行。他自曝于3月20日在乌斯怀亚港登船前往南极，3月31日返回乌斯怀亚港并下船离开。</p><",
-      "link": "https://www.yicai.com/news/103172512.html",
-      "published": "Sat, 09 May 2026 13:06:35 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "AI进化速递丨国家发展改革委主任郑栅洁赴上海人工智能实验室调研",
-      "summary": "<figure><img alt=\"AI进化速递丨国家发展改革委主任郑栅洁赴上海人工智能实验室调研\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/47652792878124a6e96b30dfa8a9998d.jpg\" /></figure><p>AI进化速递丨国家发展改革委主任郑栅洁赴上海人工智能实验室调研</p><p>①国家发展改革委主任郑栅洁赴上海人工智能实验室调研；<br /><br />②工信部启动人工智能科技伦理审查与服务先导计划 加快推动审查工作落地实施；<br /><br />③万兴科技旗下万兴剧厂深度集成HappyHorse模型。</p>",
-      "link": "https://www.yicai.com/news/103172511.html",
-      "published": "Sat, 09 May 2026 13:00:33 GMT"
+      "title": "电池出口退税2027年将归零，多家储能高管这样评估影响",
+      "summary": "<figure><img alt=\"电池出口退税2027年将归零，多家储能高管这样评估影响\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/f48494d7-ba2c-445b-8dc4-1b164f6aba00.jpg\" /></figure><p>据Mysteel分析，部分企业可能会提前生产、加速交付，将原本属于2027年的海外需求前置至2026年。</p><p>再过不到7个月，电池产品的出口退税率将进一步下调，最终在2027年全面取消。</p><p>据财政部、税务总局发布的《关于调整光伏等产品出口退税政策的公告》，目前至2026年12月31日，电池产品的增值税出口退税率为6%（4月1日起由9%下调至6%）；2027年1月1日起，正式全面取消电池产品增值税出口退税。</p><p>这一变化，也被业内视为储能行业从“价格竞争”转向“全球化竞争”的重要节点。</p><p>“整体看，退税取消短期内会挤压行业的利润空间，但相对来说，不同的公司有差异化应对方案。”远景能源高级副总裁田庆军对第一财经记者表示，比如远景拥有全球化",
+      "link": "https://www.yicai.com/news/103172569.html",
+      "published": "Sat, 09 May 2026 15:01:08 GMT"
     }
   ]
 }
