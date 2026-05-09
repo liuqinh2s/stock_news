@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 1994,
-    "completion_tokens": 153,
-    "total_tokens": 2147
+    "prompt_tokens": 2186,
+    "completion_tokens": 683,
+    "total_tokens": 2869
   },
-  "content_length": 93,
-  "raw_content": "{\n  \"news\": [],\n  \"note\": \"近6小时抓取素材均为国际事件（西班牙邮轮、美国外交、爆炸事故等），与A股交易决策无直接关联，不符合筛选标准，故未选取任何消息。\"\n}"
+  "content_length": 690,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"伊朗警告打击侵犯船只\",\n      \"summary\": \"伊朗革命卫队发出警告，称将猛烈打击侵犯伊朗船只的行为，并表示已锁定美国目标。这标志着中东地缘政治紧张局势升级，可能引发原油供应担忧，推高国际油价。对A股而言，短期市场避险情绪可能升温，利空整体指数，但利好石油板块（如中国石油、中国石化）和军工板块（如航发动力、中航沈飞）。属中性偏空信号，需关注后续事态发展。\",\n      \"reason\": \"地缘政治风险升级，直接影响油价预期和避险情绪，对A股石油和军工板块有明确交易信号，符合优先级二中的海外市场联动。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"石油板块\", \"军工板块\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2367073?os=web&sv=8.4.6&app=CailianpressWeb\"},\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3101094\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
 }

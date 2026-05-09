@@ -1,9 +1,23 @@
 {
   "date": "2026-05-10",
   "hour": "06",
-  "total": 5,
-  "fetched_at": "2026-05-10T06:00:31.659675+08:00",
+  "total": 7,
+  "fetched_at": "2026-05-10T06:32:30.090425+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股上市公司发展向新向优 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA1QVhrNEFiUVFFb3pGcWFwOEhYYWdfYlE4Z3JFTVlvMXFpVjhqbldTaUU5cW5tWEZjWjltTF9BRDZZNzRzbm9ydmd6TkxMMWtfdzgzVWlLaG1qUGxreDFMdGNZcUY1eGR2aFQ5QVRGVkhOdEVfVHV6Yw?oc=5\" target=\"_blank\">A股上市公司发展向新向优</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1QVhrNEFiUVFFb3pGcWFwOEhYYWdfYlE4Z3JFTVlvMXFpVjhqbldTaUU5cW5tWEZjWjltTF9BRDZZNzRzbm9ydmd6TkxMMWtfdzgzVWlLaG1qUGxreDFMdGNZcUY1eGR2aFQ5QVRGVkhOdEVfVHV6Yw?oc=5",
+      "published": "Sat, 09 May 2026 21:55:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+      "summary": "【伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击】财联社5月10日电，据央视新闻，当地时间9日深夜，伊朗伊斯兰革命卫队海军在社交媒体平台发文警告称，任何针对伊朗油轮和商船的侵犯行为，“都将招致对地区内美国目标以及敌方船只的猛烈打击”。\n\n随后，伊朗伊斯兰革命卫队航空航天部队发文说，其导弹和无人机“已经锁定地区内的美国目标及敌方侵略船只”，正在等待开火命令。",
+      "link": "https://api3.cls.cn/share/article/2367073?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 09 May 2026 22:00:05 GMT"
+    },
     {
       "source": "财联社",
       "title": "西班牙政府称接收涉疫邮轮工作“一切准备就绪”",
@@ -33,11 +47,11 @@
       "published": "Sat, 09 May 2026 21:09:07 GMT"
     },
     {
-      "source": "财联社",
-      "title": "巴基斯坦西北部自杀式爆炸袭击 致三名警察死亡",
-      "summary": "【巴基斯坦西北部自杀式爆炸袭击 致三名警察死亡】财联社5月10日电，据央视新闻，巴基斯坦警方消息人士9日表示，该国西北部开伯尔-普什图省一处检查站遭自杀式爆炸袭击，造成至少三名警察死亡，另有多人受伤。\n\n该消息人士说，袭击发生在当地时间晚8时55分左右，目标是开伯尔-普什图省本努地区的一处警方检查站。袭击者使用车载简易爆炸装置，并发动四旋翼无人机袭击以及地面攻击。\n\n截至目前，袭击者与警方之间的交火仍在继续。消息人士说，目前伤者已被送往附近医院救治，安全部队已封锁该区域并展开调查。尚无任何组织宣称对此次袭击负责。",
-      "link": "https://api3.cls.cn/share/article/2367067?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 20:27:48 GMT"
+      "source": "华尔街见闻",
+      "title": "“已锁定美国目标”，伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
+      "summary": "<p>伊朗伊斯兰革命卫队海军当地时间9日深夜在社交媒体平台发文警告称，任何针对伊朗油轮和商船的侵犯行为，“都将招致对地区内美国目标以及敌方船只的猛烈打击”。随后，伊朗伊斯兰革命卫队航空航天部队发文说，其导弹和无人机“<strong>已经锁定地区内的美国目标及敌方侵略船只</strong>”，正在等待开火命令。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3101094",
+      "published": "Sat, 09 May 2026 22:04:44 GMT"
     }
   ]
 }
