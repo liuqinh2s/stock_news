@@ -1,16 +1,9 @@
 {
   "date": "2026-05-10",
   "hour": "00",
-  "total": 13,
-  "fetched_at": "2026-05-10T00:00:32.417234+08:00",
+  "total": 10,
+  "fetched_at": "2026-05-10T00:40:03.923967+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "增长质量榜|23家A股毛利率超越茅台，第一是它！ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE94RGFnanVQMGJhQU9XZDlUX2NLTG5kWU1RLW5XRTRFX2pwYUJQOUJ0b3AyQ2QwWWJMdjd6WTgwbmtielZOc3JpTHdqdDdnMy12bGFHT29zUDUtVWR2aXYzc1BQXzFDcDhXSEJoblljZC05MmZtSnc?oc=5\" target=\"_blank\">增长质量榜|23家A股毛利率超越茅台，第一是它！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94RGFnanVQMGJhQU9XZDlUX2NLTG5kWU1RLW5XRTRFX2pwYUJQOUJ0b3AyQ2QwWWJMdjd6WTgwbmtielZOc3JpTHdqdDdnMy12bGFHT29zUDUtVWR2aXYzc1BQXzFDcDhXSEJoblljZC05MmZtSnc?oc=5",
-      "published": "Sat, 09 May 2026 14:29:00 GMT"
-    },
     {
       "source": "同花顺",
       "title": "白俄罗斯纪念苏联伟大卫国战争胜利81周年",
@@ -19,11 +12,25 @@
       "published": "Sat, 09 May 2026 14:46:05 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "土耳其将对股票的“短期卖空”禁令延长至5月26日",
-      "summary": "土耳其将对股票的“短期卖空”禁令延长至5月26日。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260509/c676572354.shtml",
-      "published": "Sat, 09 May 2026 14:17:21 GMT"
+      "source": "财联社",
+      "title": "欧洲多国将接回涉疫邮轮人员 世卫组织评估传播风险仍“较低”",
+      "summary": "【欧洲多国将接回涉疫邮轮人员 世卫组织评估传播风险仍“较低”】财联社5月10日电，据央视新闻，西班牙内政大臣费尔南多·格兰德-马拉斯卡·戈麦斯9日说，德国、法国、比利时、爱尔兰和荷兰将派飞机从暴发汉坦病毒疫情的“洪迪厄斯”号邮轮上接回本国公民。\n\n西班牙卫生大臣莫妮卡·加西亚同一天表示，预计“洪迪厄斯”号邮轮将于当地时间10日凌晨抵达西班牙特内里费岛。按照西班牙官员说法，除上述5国之外，欧盟将另派两架飞机接走船上其余欧盟国家人员。美国和英国正在为那些无法获得航空服务的非欧盟国家人员安排应急方案。\n\n当地有关部门警告，撤离邮轮人员的工作须在10日至11日进行，因为近期附近海域可能出现强风暴天气。\n\n世界卫生组织总干事谭德塞9日发表公开信表示，目前船上暂无新增疑似病例。世卫组织评估认为，汉坦病毒带来的公共卫生风险仍然“较低”。",
+      "link": "https://api3.cls.cn/share/article/2367050?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 09 May 2026 16:24:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗官员：提防美国“海盗式行动”",
+      "summary": "【伊朗官员：提防美国“海盗式行动”】财联社5月10日电，据央视新闻，一名伊朗外交部官员9日表示，伊朗当前的优先事项是停止战争、恢复霍尔木兹海峡正常通航，提防美国在相关海域采取“海盗式行动”。\n\n该官员称，伊朗已对美国在霍尔木兹海峡的一系列“挑衅行为”作出了回应。他强调，美方不应再次利用霍尔木兹海峡对伊朗及该地区其他国家采取军事行动。",
+      "link": "https://api3.cls.cn/share/article/2367049?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 09 May 2026 16:19:32 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "土耳其总统：不希望美伊冲突进一步蔓延至其他国家",
+      "summary": "【土耳其总统：不希望美伊冲突进一步蔓延至其他国家】财联社5月10日电，据央视新闻，当地时间9日，土耳其总统埃尔多安在伊斯坦布尔会见伊拉克库尔德自治区政府总理巴尔扎尼时表示，土耳其不希望美伊冲突进一步蔓延至地区其他国家。\n\n双方在会谈中讨论了地区最新局势。埃尔多安对当前美伊冲突背景下，包括伊拉克库尔德自治区首府埃尔比勒在内的伊拉克领土遭袭表示担忧，并强调土耳其反对冲突扩大化。",
+      "link": "https://api3.cls.cn/share/article/2367048?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 09 May 2026 16:12:39 GMT"
     },
     {
       "source": "财联社",
@@ -59,34 +66,6 @@
       "summary": "【港交所：前四个月IPO集资金额为1514亿港元 同比上升604%】财联社5月9日电，香港交易所数据显示，证券市场市价总值于2026年4月底为48.0万亿港元，同比上升24%。2026年4月的平均每日成交金额为2535亿港元。2026年首四个月的平均每日成交金额为2711亿港元，同比上升8%。2026年首四个月的交易所买卖基金平均每日成交金额为391亿港元，同比上升5%。2026年首四个月有49家新上市公司，较去年同期的19家上升158%。2026年首四个月的首次公开招股集资金额为1514亿港元，同比上升604%。",
       "link": "https://api3.cls.cn/share/article/2367039?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Sat, 09 May 2026 14:50:48 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "波兰称已准备好接收更多美国驻军",
-      "summary": "【波兰称已准备好接收更多美国驻军】财联社5月9日电，波兰副总理兼国防部长瓦迪斯瓦夫·科西尼亚克-卡梅什9日表示，波兰已准备好接收更多美国驻军，以加强北约东翼防御并进一步提升欧洲安全。据波兰方面消息，科西尼亚克-卡梅什当天在社交媒体平台上表示，波美同盟是波兰安全的基础，波兰愿接纳更多美军驻扎。近日，美国总统特朗普连续指责德国，威胁削减驻德美军。他8日曾表示，可能会将部分美军从德国撤走并派驻到波兰。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2367038?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 14:38:01 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月9日电，土耳其将对股票的“短期卖空”禁令延长至5月26日。",
-      "summary": "财联社5月9日电，土耳其将对股票的“短期卖空”禁令延长至5月26日。",
-      "link": "https://api3.cls.cn/share/article/2367037?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 14:15:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "以军空袭黎巴嫩南部多地 造成至少7人死亡",
-      "summary": "【以军空袭黎巴嫩南部多地 造成至少7人死亡】当地时间5月9日下午，以军空袭黎巴嫩南部西顿、宾特朱拜勒、迈法敦等多地，位于黎南部的萨克萨基耶镇一栋房屋被以军战机发射的导弹摧毁。黎南部民防部门官员称，初步统计显示，以军空袭萨克萨基耶镇已致7人死亡。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2367036?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 09 May 2026 14:02:50 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "涨太多的苦恼：美国投资者激辩“当下是1999年再现吗？”",
-      "summary": "<p>美股现在这样疯涨，连美国人自己心里都开始发毛了。</p>\n\n<p>高盛对冲基金主管说，现在的市场”近乎令人沉醉”。</p>\n\n<p>“大空头”原型Michael Burry说，这感觉像1999年泡沫的最后几个月。</p>\n\n<p>对冲基金传奇Paul Tudor Jones说，牛市可能还有一两年，但一旦崩，将”令人窒息”。</p>\n\n<p>三个人，不同立场，却都在拿1999年说事。</p>\n\n<p>没错，就是那个互联网泡沫破裂的前夕！</p>\n\n<p>现在的AI牛市，到底是百年不遇的产业革命，还是即将崩盘的超级泡沫？</p>",
-      "link": "https://wallstreetcn.com/charts/41959040",
-      "published": "Sat, 09 May 2026 14:11:07 GMT"
     },
     {
       "source": "第一财经",

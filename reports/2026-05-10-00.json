@@ -3,27 +3,45 @@
   "hour": "00",
   "news": [
     {
-      "title": "美军海上封锁伊朗",
-      "summary": "美军中央司令部称继续对伊朗实施海上封锁，自4月13日以来已改变58艘商船航向，致4艘船只丧失航行能力。此举加剧中东地缘紧张，可能推升国际油价，利好A股石油石化板块（如中国石油、中国石化），但航运成本上升对航运股构成利空。整体信号中性偏空，因局势不确定性压制市场风险偏好。",
-      "reason": "地缘政治冲突升级直接影响能源供给预期，对石油、航运板块有明确交易信号。",
-      "category": "行业动态",
+      "title": "伊朗官员提防美国行动",
+      "summary": "伊朗官员警告需提防美国在波斯湾的“海盗式行动”，中东紧张局势持续升温。尽管未直接影响A股，但可能推升油价、强化避险情绪，间接利好石油板块，利空市场整体风险偏好。短期中性偏空。",
+      "reason": "地缘政治风险上升，可能通过油价和情绪传导影响A股能源板块及大盘。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "石油石化",
-        "航运",
-        "中国石油",
-        "中国石化"
+        "石油",
+        "军工",
+        "沪深300"
       ],
-      "signal": "neutral",
-      "impact_level": 3,
+      "signal": "bearish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367041"
+          "url": "https://api3.cls.cn/share/article/2367049?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "土耳其反对美伊冲突蔓延",
+      "summary": "土耳其总统表示不希望美伊冲突蔓延至其他国家，旨在缓和地区紧张。但市场对中东局势仍存疑虑，短期对A股影响有限，略偏中性。若局势缓和则利好风险偏好，否则反之。",
+      "reason": "土耳其表态缓和地缘风险，但实质性影响有限，属于情绪层面信号。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油",
+        "军工"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367048?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 13,
-  "generated_at": "2026-05-10T00:03:03.263750+08:00"
+  "total_fetched": 10,
+  "generated_at": "2026-05-10T00:41:03.160918+08:00"
 }
