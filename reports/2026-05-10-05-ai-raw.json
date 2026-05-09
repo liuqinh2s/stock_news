@@ -2,13 +2,13 @@
   "date": "2026-05-10",
   "hour": "05",
   "model": "deepseek-v4-flash",
-  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 2913,
-    "completion_tokens": 1278,
-    "total_tokens": 4191
+    "prompt_tokens": 2056,
+    "completion_tokens": 181,
+    "total_tokens": 2237
   },
-  "content_length": 2116,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"电池出口退税2027年归零\",\n      \"summary\": \"电池出口退税将于2027年逐步降至零，多家储能高管评估认为短期将增加企业成本，但长期倒逼产业升级。可能影响锂电池、储能板块，出口占比较高企业承压。信号偏空。\",\n      \"reason\": \"行业政策变动，出口退税取消直接影响电池企业利润，属于中期利空。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"锂电池\", \"储能\", \"宁德时代\", \"比亚迪\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"首创集团加码长租房200亿\",\n      \"summary\": \"首创集团拟投资200亿元加码长租房业务，另有4家银行提供600亿元专项授信支持。该行动表明国资加码住房租赁市场，利好长租公寓、房地产服务板块。\",\n      \"reason\": \"产业扶持信号，国企加码长租房政策方向，利好相关个股，属于中期正面。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"长租公寓\", \"房地产服务\", \"首创环保\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://www.cls.cn/\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"医保目录调整公开征求意见\",\n      \"summary\": \"2026年国家医保目录及商保创新药目录调整工作方案公开征求意见，将纳入更多创新药。利好创新药研发企业，尤其是临床急需品种。预计创新药板块受关注。\",\n      \"reason\": \"行业政策利好，医保目录调整直接促进创新药放量，属于中期正面信号。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"创新药\", \"恒瑞医药\", \"百济神州\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://www.10jqka.com.cn/\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"港交所前四月IPO大增604%\",\n      \"summary\": \"港交所前四月IPO集资金额达1514亿港元，同比上升604%。港股IPO活跃有利于提升市场情绪，但对A股资金可能产生分流效应，偏中性。\",\n      \"reason\": \"市场结构变化，港股IPO火爆可能吸引部分资金，但A股联动有限，短期中性。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"港交所\", \"券商\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://www.cls.cn/\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"土耳其延长卖空禁令至5月26日\",\n      \"summary\": \"土耳其将股票短期卖空禁令延长至5月26日，旨在稳定市场。对A股影响有限，但可能对持有土耳其资产的跨境投资者有心理影响，偏中性。\",\n      \"reason\": \"海外市场规则变动，但对A股直接影响微弱，仅作参考。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com/\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+  "content_length": 128,
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"本轮抓取的6条素材均为国际社会新闻（涉疫邮轮、美国外交、船只爆炸、巴基斯坦袭击、英国选举、俄乌会晤），与A股市场无直接或间接关联，不符合筛选标准。建议等待下一轮抓取具有经济、政策或资金信号的消息。\"\n}"
 }

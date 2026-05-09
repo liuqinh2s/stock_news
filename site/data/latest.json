@@ -1,24 +1,7 @@
 {
   "date": "2026-05-10",
   "hour": "05",
-  "news": [
-    {
-      "title": "土耳其延长卖空禁令至5月26日",
-      "summary": "土耳其将股票短期卖空禁令延长至5月26日，旨在稳定市场。对A股影响有限，但可能对持有土耳其资产的跨境投资者有心理影响，偏中性。",
-      "reason": "海外市场规则变动，但对A股直接影响微弱，仅作参考。",
-      "category": "市场情绪",
-      "impact_stocks": [],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://www.eastmoney.com/"
-        }
-      ],
-      "urgency": "hours"
-    }
-  ],
-  "total_fetched": 0,
-  "generated_at": "2026-05-10T05:01:15.647594+08:00"
+  "news": [],
+  "total_fetched": 6,
+  "generated_at": "2026-05-10T05:34:36.883896+08:00"
 }
