@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2144,
+    "completion_tokens": 823,
+    "total_tokens": 2967
+  },
+  "content_length": 467,
+  "raw_content": "{\"news\": [{\"title\": \"伊朗警告侵犯船只将遭打击\", \"summary\": \"伊朗革命卫队警告称，任何侵犯伊朗船只的行为都将面临猛烈打击，此举加剧中东地缘紧张局势。可能推高国际油价，对A股石油石化板块形成短期利好，但整体市场情绪偏空，尤其可能波及航运板块。需关注后续冲突升级风险。\", \"reason\": \"地缘政治事件，影响市场风险偏好及能源价格\", \"category\": \"行业动态\", \"impact_stocks\": [\"石油石化\", \"航运\"], \"signal\": \"neutral\", \"impact_level\": 2, \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2367073?os=web&sv=8.4.6&app=CailianpressWeb\"}], \"urgency\": \"days\"}], \"note\": \"本次筛选仅发现一条对A股有潜在影响的消息，其余5条为国际新闻或非实质性内容。\"}"
+}
