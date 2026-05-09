@@ -3,25 +3,25 @@
   "hour": "03",
   "news": [
     {
-      "title": "以北部多地响起防空警报",
-      "summary": "以色列北部多个社区响起防空警报，以军拦截多架从黎巴嫩飞来的无人机。黎以冲突持续，中东紧张局势未缓解。对A股影响较小，但可能加剧市场避险情绪，对石油、黄金等避险资产有一定支撑。信号：中性，对A股整体影响微弱。",
-      "reason": "地缘冲突延续，但未显著升级，影响有限，属于优先级三市场情绪。",
+      "title": "普京收泽连斯基会晤口信",
+      "summary": "普京表示收到泽连斯基希望会晤的口信，不反对在第三国会谈。俄乌冲突可能迎来外交突破，短期提升全球风险偏好，对A股整体偏利好，但实质进展有限，影响温和。",
+      "reason": "地缘政治缓和信号通常提振市场情绪，属于优先级三市场情绪信号，但影响程度较低。",
       "category": "市场情绪",
       "impact_stocks": [
-        "石油",
-        "黄金"
+        "沪深300",
+        "上证50"
       ],
       "signal": "neutral",
-      "impact_level": 1,
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367063?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2367065?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 9,
-  "generated_at": "2026-05-10T03:02:38.268592+08:00"
+  "total_fetched": 7,
+  "generated_at": "2026-05-10T03:52:31.924982+08:00"
 }
