@@ -3,35 +3,77 @@
   "hour": "18",
   "news": [
     {
-      "title": "万科拟调整中票兑付安排",
-      "summary": "万科计划调整“23万科MTN002”中票的本息兑付安排。作为房地产行业龙头，万科债务展期可能引发市场对地产信用风险的担忧，特别是对民营房企债券的连锁反应。看空信号，短期利空地产板块及相关债券。",
-      "reason": "地产龙头债务问题可能引发行业信用收缩，影响市场信心。",
-      "category": "公司公告",
+      "title": "百亿量化私募暂停申购",
+      "summary": "百亿量化私募进化论暂停旗下部分产品新客申购。这可能意味着市场过热或模型容量受限，资金流入可能放缓。量化私募是A股重要增量资金，暂停申购短期或影响市场情绪，尤其是中小盘股。中性偏空信号，需关注后续是否扩散。",
+      "reason": "优先级三：市场情绪信号，量化私募暂停申购反映资金态度，可能影响流动性。",
+      "category": "资金流向",
       "impact_stocks": [
-        "房地产",
-        "万科A",
-        "地产债"
+        "沪深300",
+        "中证500",
+        "量化概念"
       ],
       "signal": "bearish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366952?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260509/c676569851.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "安徽部署量子科技等未来产业",
-      "summary": "安徽省政府发布政策，面向量子科技、生物制造、氢能、脑机接口、具身智能等未来产业，前瞻部署中试平台建设。此举将为相关科技板块提供政策支持，加速产业化进程。看多信号，利好量子计算、人工智能、生物医药等概念股。",
-      "reason": "地方产业政策落地，明确支持前沿科技领域。",
+      "title": "霍尔木兹海峡受阻航运成本飙升",
+      "summary": "德航运巨头称因霍尔木兹海峡受阻，每周额外花费超5000万美元。地缘冲突加剧，影响全球航运和石油供应。利好航运板块（如中远海控）和石油板块（中国石油），成本上升也可能推高通胀预期。A股航运、石油板块短期看多。",
+      "reason": "优先级二：地缘政治影响行业，航运成本上升直接利多相关板块。",
       "category": "行业动态",
       "impact_stocks": [
-        "量子计算",
-        "人工智能",
-        "生物制造",
-        "安徽本地股"
+        "航运",
+        "石油",
+        "中远海控",
+        "中国石油"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366972?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "苏姿丰确认出席AMD AI开发者日",
+      "summary": "苏姿丰确认将出席在上海举办的AMD AI开发者日。此举有望提振A股AI芯片产业链，AMD相关概念股（如通富微电、芯原股份）或受益。AI算力需求持续，短期看多相关板块。",
+      "reason": "优先级二：行业动态，AI芯片龙头活动刺激市场情绪。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AMD概念",
+        "AI芯片",
+        "通富微电",
+        "芯原股份"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2366971?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "安徽部署未来产业中试平台",
+      "summary": "安徽发布政策，面向量子科技、生物制造、氢能、脑机接口、具身智能等未来产业，部署中试平台建设。地方产业政策利好相关板块，量子科技、氢能、脑机接口等概念股有望受益。看多对应板块。",
+      "reason": "优先级二：行业政策变动，直接利好未来产业板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "量子科技",
+        "氢能",
+        "脑机接口",
+        "具身智能"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -44,122 +86,86 @@
       "urgency": "days"
     },
     {
-      "title": "欧洲股市开盘全线走高",
-      "summary": "欧洲主要股市开盘上涨，显示海外市场情绪回暖。外围市场走强有助于缓解A股短期压力，提振风险偏好。看多信号，短期利好A股整体情绪，尤其是与欧洲出口相关的板块。",
-      "reason": "海外股市上涨可传导至A股情绪，但影响有限。",
-      "category": "市场情绪",
+      "title": "4月进出口高增超预期",
+      "summary": "华尔街见闻文章指出4月进出口高增存在四大预期差。进出口数据超预期将提振外贸、制造业板块，利好沪深300及出口导向型企业。看多宏观经济。",
+      "reason": "优先级二：宏观经济数据超预期，影响市场整体预期。",
+      "category": "宏观经济",
       "impact_stocks": [
         "沪深300",
-        "出口板块"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZY3pnT0xXZWJyckpXTWVEZm5JYnVRN21WV3hLbDlRRnB6TFc1bjN4T2pqTUdjQWxtWXViNElXMEFXVWRxR2RyTk9BQW0ycXp0VDFV?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "印度船只在霍尔木兹海峡起火",
-      "summary": "一艘印度船只在霍尔木兹海峡附近起火沉没，造成1死4伤。霍尔木兹海峡是全球石油运输要道，事件可能引发油价短期波动，并影响航运安全。看空信号，短期利空航运板块，利多原油相关资产。",
-      "reason": "地缘突发事件影响能源运输，带来不确定性。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "航运",
-        "石油",
-        "原油"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366946?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "多家A股公司回款之痛凸显",
-      "summary": "媒体报道多地企业应收账款回款困难，尤其是建筑、制造等行业。企业现金流压力增大，可能引发坏账风险，对相关板块形成利空。看空信号，但影响较为缓慢，需关注后续政策应对。",
-      "reason": "企业回款困难反映经济循环不畅，影响上市公司业绩。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "建筑",
         "制造业",
-        "中小板"
+        "外贸"
       ],
-      "signal": "bearish",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nOUMySUtvV0NvN3dkVmFNUmdwNDVXQkxyOUpjRDdzcG5uaGl3dEZGM2ZINFZtYTBpUkJCTjgxbjd4eFhxZUZDWHhMWWp3TFJRd095QkloYTJ0NXAxUlVtSEpOT05ZZ2hBWWh5bURaQjlqeDZLRmR3UQ?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "科拓股份IPO核心数据失误",
-      "summary": "科拓股份在IPO过程中被指出核心数据存在低级失误，市场关注其信披质量。这可能影响监管对IPO审核的严格程度，打击次新股炒作情绪。看空信号，短期利空次新股及壳资源。",
-      "reason": "IPO信披问题可能引发监管收紧预期。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "次新股",
-        "IPO概念"
-      ],
-      "signal": "bearish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaHJYRGRtcDV1S21BLWlJUWY0WGx5Y0txa0FJOEhTRXhhRThYMFJfMkIxZndST1BBRHE5WXk2VWE5MUhHcjY0Y1NvQ2ozV0EzTzNyQ3JtWDA2dy1HcVlMTktweGoybENfZzhKVHJBWEpqU3lhMHIxMDVtcDFrR1dzVU1mT1hNOUlqRG1LLVRPZmlaVnM3Z3FFUGczT3U2OGpLb3lCbmo4UkZMLVJxRndpNXZvRGQ4SlBoY1EzNUhTRk1JZEpjSUtZWHdOMGVhdw?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "协鑫能科算力收入占比低",
-      "summary": "协鑫能科公告称目前算力相关收入占总营收比重较低。此前市场对其算力转型预期较高，此次公告可能降温相关概念。看空信号，短期利空算力板块，尤其是转型概念股。",
-      "reason": "公司澄清算力业务占比低，低于市场预期。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "协鑫能科",
-        "算力概念"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2366948?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771905"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "中远海控回购235万股",
-      "summary": "中远海控于5月8日斥资3455.35万港元回购235万股。回购行为显示公司对股价的信心，有助于提升投资者情绪。看多信号，短期利好航运板块及中远海控个股。",
-      "reason": "上市公司回购往往被视为积极信号。",
+      "title": "人民币升值势不可挡",
+      "summary": "人民币汇率向6.70迈进，升值趋势明显。利好A股外资流入，利好航空、造纸等外币负债较高的行业，但可能挤压出口企业利润。整体看多。",
+      "reason": "优先级二：人民币汇率大幅波动，直接影响外资流向。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "航空",
+        "造纸",
+        "外贸"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3771850"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "高盛推迟降息预期至12月",
+      "summary": "高盛将美联储预期降息时点推迟至12月，反映通胀韧性。海外流动性收紧预期对A股外资流入形成压力，短期利空成长股。看空。",
+      "reason": "优先级二：海外市场联动，降息预期推迟影响全球流动性。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "创业板",
+        "成长股"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771902"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "比亚迪加速B端布局",
+      "summary": "比亚迪加速落子B端业务，可能涉及商用车、物流等领域。利好比亚迪及新能源车板块，体现公司多元化扩张。看多。",
+      "reason": "优先级三：公司重大事件，B端扩张提升估值预期。",
       "category": "公司公告",
       "impact_stocks": [
-        "中远海控",
-        "航运"
+        "比亚迪",
+        "新能源车"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRVZpQndvSDRxWEo3ek9vQUhhUXlUT1BuR0FGcGdLQTdZRlQxOFBNVjIyOVRkLUEzMmdGeHgtUVRHM1Q5TDJ5U3BHa3Bfc1NDaEtfd1hZTy01THp3RjN6RWlsWnBqR2xMRHU3cGl4QVB6T3BqNWU1OGQzLWw1X0llQkNDQVUxSEZkZ3NONFhGTklvOEtMS25YSFh2UGZoQ28zakRSZWFV0ZxOFUzdmNOeTlpa2RtQUdWMlFaamZ0bmNPV040N01VLXM3WGM?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771903"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 37,
-  "generated_at": "2026-05-09T18:01:56.416627+08:00"
+  "total_fetched": 61,
+  "generated_at": "2026-05-09T18:47:18.022270+08:00"
 }
