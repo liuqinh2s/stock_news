@@ -3,27 +3,83 @@
   "hour": "07",
   "news": [
     {
-      "title": "A股上市公司发展向新向优",
-      "summary": "新浪财经发表评论文章指出，A股上市公司整体呈现向新向优的发展趋势，具体表现为创新投入增加、盈利能力提升、治理结构改善等。该评论未引用具体数据或政策，但反映了市场对上市公司质量的积极预期。可能受益板块包括创业板、科创板及高端制造、新能源、科技等成长性行业。信号偏多，但缺乏实质性利好驱动，影响有限。",
-      "reason": "作为唯一未在历史消息中出现的A股相关新闻，尽管内容偏正面且无具体数据，但可能对市场情绪产生微弱提振，尤其是对成长风格。",
+      "title": "A股年报营收利润双增",
+      "summary": "2025年年报显示A股上市公司整体营收和利润实现双增长，反映上市公司基本面改善。可能提振市场信心，利好沪深300及大盘蓝筹。属于宏观经济利好信号，看多。",
+      "reason": "年报整体数据改善，影响市场预期，属于中期影响。",
       "category": "宏观经济",
       "impact_stocks": [
-        "创业板",
-        "科创板",
-        "高端制造",
-        "新能源"
+        "沪深300",
+        "上证50",
+        "贵州茅台"
       ],
       "signal": "bullish",
-      "impact_level": 1,
+      "impact_level": 3,
       "sources": [
         {
           "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1QVhrNEFiUVFFb3pGcWFwOEhYYWdfYlE4Z3JFTVlvMXFpVjhqbldTaUU5cW5tWEZjWjltTF9BRDZZNzRzbm9ydmd6TkxMMWtfdzgzVWlLaG1qUGxreDFMdGNZcUY1eGR2aFQ5QVRGVkhOdEVfVHV6Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wQnFKeGlTdDNPVFM5LWJXWnp4c3VFRUxEQTEtYjZBcEtPMHlLd0dla2dRbXFReWY5b282Y1JWZXR3V2NtSEpIREVMaXc3YzRWY29manBxbjRBZUhIOENJb3BpRkFHRm1rcG42MENRSEFiRHF2RzNzWQ?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "5家拟IPO券商业绩分化",
+      "summary": "东莞证券等5家拟IPO券商2025年年报业绩分化，东莞证券表现突出，渤海证券下滑。可能影响券商板块个股估值和IPO进程预期。整体中性偏空，因业绩分化显示行业竞争加剧，且IPO审核或受影响。",
+      "reason": "行业动态，影响券商板块情绪。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "券商",
+        "拟IPO券商"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmRVpraUJBcnZUUGM4Y09PNWZDQ2dwZjRKdDJzTEc0QnVkMXFld0Nra0EyS0RGd1Z6bUgtZC1HUS1wMDM1M2EwRFFrUzd4eGRPa0xNNW1XWnNOdGJGdXdJdHhPUWt4Zw?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "以军空袭黎南部致15死",
+      "summary": "以色列空袭黎巴嫩南部造成至少15人死亡，真主党反击，中东局势再度紧张。可能引发市场避险情绪，利好军工板块，同时可能推高油价。看空短期风险资产，但影响有限。",
+      "reason": "地缘政治突发升级，影响市场情绪和石油相关板块。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "军工",
+        "石油",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367079?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "特朗普考虑调整驻意美军",
+      "summary": "特朗普表示仍在考虑调整驻意美军，意大利国防部长表示不解。此举可能影响北约关系和全球军事部署，但短期内对A股直接影响有限。中性信号。",
+      "reason": "地缘政治动态，间接影响市场风险偏好。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "军工"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367078?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 6,
-  "generated_at": "2026-05-10T07:01:46.425965+08:00"
+  "total_fetched": 13,
+  "generated_at": "2026-05-10T07:38:58.831672+08:00"
 }
