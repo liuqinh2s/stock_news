@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13047,
+    "completion_tokens": 3982,
+    "total_tokens": 17029
+  },
+  "content_length": 1944,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"盛弘股份获13家机构调研\",\n      \"summary\": \"盛弘股份（300693）接待天风证券等13家机构调研，涉及公司储能、充电桩等业务进展。机构调研频繁显示市场关注度提升，但调研本身不构成直接买卖信号。预计对公司股价有短期正面情绪影响。\",\n      \"reason\": \"机构集中调研反映市场关注，可能带来增量资金，属于轻度利好。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"盛弘股份\", \"储能\", \"充电桩\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZMlZiVUdwWkNzT1FhQ1ZrdHhSRF8xblE1MDJxTmtvSjlWS2JzSEs2cjdqeGNlOFpFZkRnNGlsWmlKcld2RWZvZ01vdmRkbTNHWjN2S1o3eUNlYTZWdGRZdQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"辰安科技定增获深交所受理\",\n      \"summary\": \"辰安科技（300523）向特定对象发行股票申请获得深交所受理。定增通常用于项目融资，若成功将增强公司资本实力。目前仅受理阶段，后续需审批。对股价有轻微利好。\",\n      \"reason\": \"定增受理是公司融资进展的第一步，短期信号中性偏多，但需关注最终审批结果。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"辰安科技\", \"公共安全\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE55TnNfQXhWVDBfV3RqRzBmM0tFMmloN0o3Qm5OTUlTRC1tYkM2S0xDd2JYbENwblI1cDFxdUtmdl9kY3NzYjlVRTVMd2NvMTkyX3JFOHBxMF9RQTJrcXF0YlRn?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"汇添富国证价值100ETF发售\",\n      \"summary\": \"汇添富国证价值100交易型开放式指数证券投资基金开始发售。ETF发行将为价值100指数带来增量资金，提振相关成分股。但发行期较长，短期影响有限。\",\n      \"reason\": \"新ETF发行对指数成分股有资金流入预期，属于中性偏多信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"国证价值100指数成分股\", \"金融\", \"地产\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"天天基金\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE4xUGJwTUszbWtDQjhnbGIwYnUtelVWWjVhTGNKdjcya3d4bXRacWsxVzV1cFJmc21fZnpaeVVmYUJnYUpFd2R0OHhvZ2VWc3ZVN0kzWm8zQU95WVFFZzVrVVpVVWxwWG03SWJ3OUw3SDZnWE1SckE?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮素材中大部分重要消息已在历史新闻中出现，仅有上述3条新信息。\"\n}"
+}
