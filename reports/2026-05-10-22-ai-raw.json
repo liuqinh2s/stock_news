@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "22",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14686,
+    "completion_tokens": 3713,
+    "total_tokens": 18399
+  },
+  "content_length": 2242,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"沙特阿美称全球石油供应减少10亿桶\",\n      \"summary\": \"沙特阿美总裁阿明·纳赛尔表示，过去两个月全球石油供应减少约10亿桶，主要受地缘冲突和OPEC+减产影响。供应收缩利好油价，提振A股石油石化板块（如中国石油、中国石化），但也可能加剧输入性通胀压力。短期看多石油板块，但对整体市场偏中性。\",\n      \"reason\": \"供应数据重大变动直接利好油价和石油股，且未在历史消息中出现。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油石化\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2367309\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"SpaceX计划6月上市利好空天产业链\",\n      \"summary\": \"SpaceX计划6月完成定价并在纳斯达克上市，分析师看好空天产业链呈现与英伟达链相似特征，A股相关公司有望通过出口切入供应链。利好航天概念（如航天电子、中国卫星）和商业航天板块，看多信号。\",\n      \"reason\": \"SpaceX上市预期对A股航天板块有主题催化作用，新消息。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"航天概念\", \"商业航天\", \"航天电子\", \"中国卫星\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2367225\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"下周重要事件：鲍威尔交棒中美通胀数据\",\n      \"summary\": \"下周资本市场关注美联储主席鲍威尔交棒、中美4月通胀数据揭晓、阿里腾讯中芯等财报。鲍威尔交棒可能影响美联储政策预期，通胀数据将影响货币政策方向，科技巨头财报决定板块走势。整体影响市场情绪和风格。中性，需等待实际数据。\",\n      \"reason\": \"事件密集前瞻，对短期走势有显著影响，新消息。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"科技股\", \"消费\", \"港股\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2367307\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"地方化债进入下半场\",\n      \"summary\": \"一财报道地方化债进入下半场，意味着后续政策将继续支持地方债务化解，降低系统性风险。利好基建、城投等相关板块，信号积极。\",\n      \"reason\": \"化债政策延续对A股建筑、城投板块构成利好，新消息。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"基建\", \"城投\", \"建筑\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103173273.html\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"广州推出人工智能场景交易平台\",\n      \"summary\": \"广州推出人工智能场景交易平台，旨在促进AI技术供需对接，有利于AI应用落地和产业生态完善。利好广州本地AI企业和A股人工智能板块，看多信号。\",\n      \"reason\": \"地方AI产业政策落地，对AI主题有催化作用，新消息。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"人工智能\", \"广东AI概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103173269.html\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
