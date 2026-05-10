@@ -3,44 +3,86 @@
   "hour": "01",
   "news": [
     {
-      "title": "伊朗回应美方案聚焦停战",
-      "summary": "伊朗对美国方案的回应聚焦于“结束战争与海上安全”，表明伊朗寻求外交解决，但美军封锁行动仍在进行，局势仍高度不确定。若伊朗让步，缓和可能性上升，短期利空情绪可能减弱，但当前仍偏空。",
-      "reason": "伊朗官方表态是地缘事件的关键后续，影响市场对冲突升级或缓和的预期，进而影响A股情绪和油价相关板块。",
+      "title": "A股抓主线方法论下篇",
+      "summary": "新浪财经发布林荣雄策略研报《趋势、抱团与疯狂——A股“抓主线”投资方法论（下篇）》，继续深入探讨A股趋势、抱团现象及主线投资策略，提出当前市场资金集中流向算力、AI等成长主线，认为抱团现象短期难以瓦解。该研报可能强化投资者对成长主线的信心，利好算力、AI等科技板块，属于中性偏多信号。",
+      "reason": "知名策略师的深度研报，对当前市场主线（算力、AI）有强化作用，影响投资者情绪和资金流向。",
       "category": "市场情绪",
       "impact_stocks": [
-        "石油板块",
-        "黄金板块"
+        "算力",
+        "AI概念",
+        "创业板"
       ],
-      "signal": "bearish",
-      "impact_level": 3,
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367322?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1T2pSZms2aGxnUi1FZzFsR3V1YnVKLTNUeDdla0JCbXpHbG5UUGJhS2RkSnpuX1c0czNqSTVrNDJDRENPRkg0YW5MaVg4c3N5S3N6NEJxcjk3WkdSQ1JsVmxwQXUtcHBEWjhWYkpXVU9BUFY3REE?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "俄乌互指违反停火安排",
-      "summary": "俄乌双方互相指责对方违反停火安排，均称采取对等回应。虽然该冲突持续已久，但最新动态可能加剧地缘风险，对欧洲市场及全球避险情绪产生影响，间接波及A股。",
-      "reason": "俄乌冲突反复，每次新违约消息都会重新引发市场对地缘风险的担忧，属于持续性市场情绪影响。",
+      "title": "波段操作应对宏观密集期",
+      "summary": "新浪财经发布A股周观点，认为当前处于宏观事件密集期（中美通胀数据、美联储交棒、中东局势等），建议投资者采取波段操作策略，降低波动风险，同时关注算力、AI等主线。该观点提示短期市场可能震荡，但主线仍有结构性机会，属于中性信号。",
+      "reason": "周度策略观点，对短期操作有指导意义，提示风险并给出方向。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "沪深300",
+        "算力",
+        "AI概念"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBneFA5RUxNc3dsQ0FpdG5ma0tRMm9HbC1VbjNFV25rNDU3YndlUExLMDgtYjdoeklzZHlud056ZUo4ZDYwVDRtdE5tSDlTLTFqbkJWQ2ZDanpDa19HQl9maU1fX2duVlZSSFhTWGFFQ1VJc1FscVZ2Xw?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "林荣雄：自此可高看一眼",
+      "summary": "新浪财经发布策略分析师林荣雄观点，标题为《自此可高看一眼》，认为A股当前具备向上修复空间，建议投资者积极布局。该研报可能提振市场信心，属于看多信号。",
+      "reason": "知名分析师的看多观点，对市场情绪有直接正面影响。",
       "category": "市场情绪",
       "impact_stocks": [
-        "军工板块",
-        "黄金板块"
+        "沪深300",
+        "创业板",
+        "算力"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kemZSQnNpcHZCNmpNbncwQjZZTm9sQjN5TFNjZGZJQVVoSHNzYzlYb0RjSlBWcUZBZTl0VmYxRjNlRExhM2R0U2RqZkpXQUlkdEdZdTRFLW5VTzV4azBQdWVzYjdnWkJ4R1E5VmxxZVpnR3FPa2c?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "法国不部署霍尔木兹海峡",
+      "summary": "财联社报道，法国总统马克龙表示，法国从未考虑过在霍尔木兹海峡进行军事部署。此前美以对伊朗军事行动持续，法国这一表态可能缓和市场对中东局势升级的担忧，降低地缘风险溢价，对A股情绪和油价形成短期稳定作用，属于利多信号。",
+      "reason": "中东局势出现缓和迹象，降低避险情绪，利好风险资产。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油",
+        "沪深300",
+        "航运"
+      ],
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367331?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2367334?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 15,
-  "generated_at": "2026-05-11T01:03:49.509026+08:00"
+  "total_fetched": 13,
+  "generated_at": "2026-05-11T01:42:25.214666+08:00"
 }
