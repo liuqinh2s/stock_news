@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-11",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 3426,
+    "completion_tokens": 1703,
+    "total_tokens": 5129
+  },
+  "content_length": 1624,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美军20余舰封锁伊朗\",\n      \"summary\": \"美军宣布超过20艘美国军舰参与对伊朗实施封锁，中东局势急剧升级。此举可能推高国际油价，加剧全球避险情绪，短期利空A股市场，尤其影响石油、航运、军工板块。若冲突持续，或引发北向资金流出和风险偏好下降。\",\n      \"reason\": \"地缘政治重大升级，对全球市场情绪和能源供应产生直接冲击，属于优先级三的市场情绪信号，且影响广泛。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"石油板块\", \"军工板块\", \"黄金板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367324?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"伊朗回应美方案聚焦停战\",\n      \"summary\": \"伊朗对美国方案的回应聚焦于“结束战争与海上安全”，表明伊朗寻求外交解决，但美军封锁行动仍在进行，局势仍高度不确定。若伊朗让步，缓和可能性上升，短期利空情绪可能减弱，但当前仍偏空。\",\n      \"reason\": \"伊朗官方表态是地缘事件的关键后续，影响市场对冲突升级或缓和的预期，进而影响A股情绪和油价相关板块。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"石油板块\", \"黄金板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367322?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"俄乌互指违反停火安排\",\n      \"summary\": \"俄乌双方互相指责对方违反停火安排，均称采取对等回应。虽然该冲突持续已久，但最新动态可能加剧地缘风险，对欧洲市场及全球避险情绪产生影响，间接波及A股。\",\n      \"reason\": \"俄乌冲突反复，每次新违约消息都会重新引发市场对地缘风险的担忧，属于持续性市场情绪影响。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"军工板块\", \"黄金板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367331?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
