@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-11",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 3192,
+    "completion_tokens": 863,
+    "total_tokens": 4055
+  },
+  "content_length": 101,
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"本轮素材中未发现对A股有实质影响的关键消息。大部分为策略观点、基金公告、地缘政治或个股增发，均不符合筛选标准。建议关注后续官方政策或数据发布。\"\n}"
+}
