@@ -3,24 +3,90 @@
   "hour": "03",
   "news": [
     {
-      "title": "券商核心高管密集更迭",
-      "summary": "年内已有数十家券商核心高管变动，包括董事长、总经理等。高管频繁变动可能影响公司战略稳定性，对相关券商个股造成短期不确定性，但行业整体影响有限。信号中性。",
-      "reason": "高管密集变动属于公司治理事件，可能引发市场关注，但并非系统性风险。",
-      "category": "公司公告",
+      "title": "基金经理看好五月A股",
+      "summary": "据新浪财经报道，受访基金经理普遍表示五月最看好A股市场，并将积极调整策略与投资节奏。这一信号反映了专业机构对短期市场的乐观情绪，可能提振投资者信心，对沪深300、创业板等主要指数形成支持。该消息属于市场情绪信号，看多，但需结合后续资金面验证。",
+      "reason": "受访基金经理集体看好A股，属于市场情绪指标，可能吸引增量资金入场，影响短期行情。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "券商"
+        "沪深300",
+        "创业板",
+        "上证50"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zcVh5ekd1Q09COTlpTzJyUnNXMWNwX1Z6QjQ4dTRpaHVlNkFscXh2aC13ZXo5THZXNERsQWxzVEJGUTN2SjItb2J0eHVoNW0yb0ItZ3RFdlplT3laU2Z5ag?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oYi1EX1puN2RUOGxrbzMyWGZEeWtaUmhxeW5DZkdiVUo2RHpFNEl0c1cxMWpBQ1N1SU9qUGhNR3pjczhCTG9aNFFfaG14djc3dmZ6M3N4cTUyX2lpNXlwOUUwQjZnQ1lrajQ4Zm15elMtZm5tX0xmbA?oc=5"
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "东方+上海券商并购细节出炉",
+      "summary": "新浪财经报道，“东方+上海”并购细节出炉，上海国资券商资源整合再进一步。这是上海国资券商重大重组事件，可能催生航母级券商，对券商板块形成利好，尤其是东方证券、上海证券等标的。该消息属于行业动态，看多信号，但需关注整合进度和监管审批。",
+      "reason": "券商并购重组是A股重要催化剂，影响板块估值和行业集中度，属于优先级一的事件。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "券商",
+        "东方证券",
+        "上海证券",
+        "中信证券",
+        "华泰证券"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSjJ1VWtrQWYxZVctOGUxVXVZaXZuMnJsbm1nSE1UekV6aE1vZm9CRkFpVzRIYVNNVnJnRkNPSS1CUmFXdUlZbmxXR3Y3RVd3RXBiM21feUIzbXFHZmkwVC0xVU9lamFkbTJrRW5VejZYV2FhWVhwYg?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "特朗普指责伊朗拖延戏弄美国",
+      "summary": "财联社消息，特朗普指责伊朗“拖延、戏弄”美国，中东地缘紧张局势持续升温。此前美军已部署超20艘军舰封锁伊朗，伊朗快艇护航商船。此言论可能加剧市场避险情绪，推动油价上涨，利好石油、黄金板块，利空整体风险资产。属于看空信号，影响市场情绪。",
+      "reason": "地缘政治升级影响全球风险偏好和油价，对A股有情绪传导和板块轮动影响，属优先级二的消息。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "石油",
+        "黄金",
+        "军工",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367340?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美国商船遭伊朗无人机袭击",
+      "summary": "财联社报道，美国媒体证实一艘美国商船遭伊朗无人机袭击。这是中东冲突的实质升级，可能引发更广泛的军事回应，进一步推高油价和避险情绪。对A股而言，石油、军工板块短期受益，但整体市场可能承压。该消息属于看空信号，影响较大。",
+      "reason": "商船遇袭是冲突升级的明确信号，对全球市场影响直接，属优先级二的地缘事件。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "石油",
+        "军工",
+        "黄金",
+        "航运"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367339?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 15,
-  "generated_at": "2026-05-11T03:01:54.202770+08:00"
+  "total_fetched": 9,
+  "generated_at": "2026-05-11T03:52:29.722614+08:00"
 }
