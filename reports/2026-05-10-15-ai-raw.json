@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9247,
+    "completion_tokens": 1930,
+    "total_tokens": 11177
+  },
+  "content_length": 2061,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"广州推AI场景交易平台\",\n      \"summary\": \"广州推出人工智能场景交易平台，首批发布49个真实场景订单，涵盖智能制造、智慧城市等领域。该平台促进AI技术供需对接，加速产业应用落地，对AI概念股、算力基础设施形成直接利好。属于政策驱动型行业动态，看多信号。\",\n      \"reason\": \"新政策直接利好AI产业，推动商业化落地，影响板块明确。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"智能制造\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367157?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"算力绿能协同提速\",\n      \"summary\": \"财联社报道算力与绿色能源协同发展悄然提速，数据中心绿电使用比例提升，新型储能项目加速落地。这利好算力基础设施和新能源运营商，推动双碳目标与数字经济融合。属于中期行业利好，看多信号。\",\n      \"reason\": \"算力和绿电结合是长期趋势，政策支持预期增强，影响相关板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"算力\", \"新能源\", \"储能\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367155?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"高端聚苯乙烯新产能投产\",\n      \"summary\": \"中国新增高端聚苯乙烯规模化产能，打破进口依赖，为光学材料供应链提供新选择。该材料用于导光板、扩散板等光学器件，利好国内光学材料及面板产业链。属于细分行业利好，看多信号。\",\n      \"reason\": \"新材料国产替代，提升相关企业竞争力，但影响范围有限。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光学材料\", \"聚苯乙烯\", \"面板\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367150?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"亚洲资本超级周期引关注\",\n      \"summary\": \"华尔街见闻发文称亚洲正迎来吸引全球资本的超级周期，外资持续流入趋势未改，A股和港股估值洼地受青睐。该观点强化市场信心，对大盘蓝筹和外资重仓股形成情绪支撑。看多信号。\",\n      \"reason\": \"外资配置亚洲的声音有助于稳定市场预期，属于情绪面利好。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"港交所\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3771922\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
