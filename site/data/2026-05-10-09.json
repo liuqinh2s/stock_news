@@ -3,92 +3,118 @@
   "hour": "09",
   "news": [
     {
-      "title": "中东资本加仓A股",
-      "summary": "中东资本巨头近期大举加仓A股，持仓集中于消费、新能源、科技等五条主线。此举可能吸引外资跟风流入，利好沪深300及蓝筹股，是看多信号。",
-      "reason": "北向资金异动类似，外资大幅流入，影响中期行情。",
+      "title": "中东资本巨头加仓A股",
+      "summary": "据中国证券报报道，中东资本巨头近期大举加仓A股，主要增持消费、新能源和科技板块。这一信号表明外资对中国市场的信心增强，可能吸引更多海外资金流入。北向资金有望持续净买入，利好沪深300及权重股。信号：看多。",
+      "reason": "外资巨头大举加仓属于优先级一的资金流向信号，直接影响A股流动性，历史上类似事件常引发市场上涨。",
       "category": "资金流向",
       "impact_stocks": [
         "沪深300",
-        "上证50",
         "消费",
-        "新能源"
+        "新能源",
+        "科技"
       ],
       "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BWE9tUGE3OGRIMlM1NnlCU2NVZS00SGFxYzVHQVlOMFdiR2dSckI0bGNpNWpUOEhlWGpmelpXVTBYZjJYelRQTFhudFg5X2ZuY2Vnclg2dnF5UmNlcGVDbUdpUlRvc0JGZFpYY0poUzg3V2VyQ1RBXw?oc=5"
+          "name": "中国证券报",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT1BFejFSdGtOd0ZZbVJ2aGtwRHpqWTZlQUFUWXRROURjcVpzejNUaTl0c3NlYTRWM3pwcTdpcWtPTDBOTmJqcGpfclhiUm02eFVuOXJENzBTTUNSYzlIVkpRSEdVOGhVTGdidmVsYzRZbEdKOGJiVlpzTjIwcWR4TU1FT3ZFOGNCRGk3bFd6ZWJyaVExRUdaR0NpSnprU0c4RlBmeWhuRmo2YkpPRHN5QUYtODY5Z3J3cjJtc1BBcHh1LUhpQTdNR2FiUERBQ1JMUk5qSlR1am9RNUNkN0F2d3h2SGxkWWJQNmY4MWRjSFp3c3NjazlnTmZ0WHI?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "病毒检测概念升温",
-      "summary": "世卫组织建议对涉疫邮轮人员进行42天监测，A股病毒检测概念股随之升温。检测试剂、疫苗等板块短期可能受事件驱动上涨，是看多信号。",
-      "reason": "事件驱动，政策建议利好相关板块。",
+      "title": "美联储高官AI言论偏鹰",
+      "summary": "美联储高官表示，如果AI成功推动生产率上升，可能需要加息；如果AI失败，则可能导致滞胀。该言论暗示美联储可能因AI而调整货币政策路径，引发市场对收紧流动性的担忧。短期可能压制全球风险偏好，A股科技板块承压。信号：看空。",
+      "reason": "美联储官员讲话属于优先级二的海外市场联动，直接影响市场对加息预期的重新定价，从而影响A股外资流向和科技股估值。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "科技",
+        "创业板",
+        "纳斯达克相关"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771913"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "下周聚焦中美会谈",
+      "summary": "下周将迎来中美高层会晤，市场关注贸易谈判、科技合作等议题。若释放积极信号，将提振市场情绪；反之则增加不确定性。短期市场可能观望，但对A股整体影响中性偏多。传统上中美关系缓和利好出口、科技板块。信号：中性。",
+      "reason": "重要宏观事件预告，属于优先级二的宏观经济数据/事件，可能影响市场风险偏好和板块轮动。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "出口",
+        "科技",
+        "沪深300"
+      ],
+      "signal": "neutral",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771811"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "VLCC升格战略资产利好油运",
+      "summary": "分析指出VLCC（超大型原油轮）正升格为战略资产，全球原油补库需求虽迟但到。地缘紧张和低库存推升运价，利好油运公司如中远海能、招商轮船。同时油价波动可能影响石化板块。信号：看多油运。",
+      "reason": "行业动态，属于优先级二的行业政策变动，直接利好油运板块，有明确受益个股。地缘因素加剧，短期催化强。",
       "category": "行业动态",
       "impact_stocks": [
-        "病毒检测",
-        "疫苗",
-        "医药"
+        "中远海能",
+        "招商轮船",
+        "油运",
+        "石化"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51ZnhEUHBZM1gxd1BfQ1ZMWEtsRjFDbkFXT0p2MDBYenluU1l4Q0g5b3A3YlV0UHpXN1hsSEZfN0xXOEw4elVUNmJyeEx1OERxS21FUmxvU3NkYkZqR3hGYnhlSEFLQjhWNlZKQU1kSUdaUnRjeUFFYw?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3771820"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "A股现10倍股，券商浮盈6亿",
-      "summary": "近期A股出现一只10倍股，保荐券商浮盈超6亿元。显示市场赚钱效应，可能提振券商板块和次新股情绪，为中性偏多信号。",
-      "reason": "市场情绪信号，反映局部热点。",
-      "category": "市场情绪",
+      "title": "AI周报：马斯克解散xAI",
+      "summary": "马斯克宣布解散xAI，引发AI行业竞争格局变化。同时三星电子市值突破1万亿美元，显示AI硬件需求强劲。国内AI概念股短期可能受情绪波动，但长期竞争格局优化利好龙头。信号：中性偏多。",
+      "reason": "行业重要动态，属于优先级二的行业政策变动/公司事件，直接影响AI板块情绪和估值。",
+      "category": "行业动态",
       "impact_stocks": [
-        "券商",
-        "次新股"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMERQRktuVFdrX2E0ZjN2RmVpOU5RaUtHSlVjVndvNGVDaDkxeWdQTmNadHFuOVo3RC1DS0JUQjN0aU11VTNxMnB3UGg0ZkZKbF9GcmpRUG00ZHdkdVJGRlBaZE14aHEzR09pTUs1ZFFjemp1VjJ5ekpuWUMyMWJxRHphRjlUR01ZblF1Yl85c0ZkQmRTYnN5RVdPbnZ1UkQyLS1jdHA5RzJiQ1ZvWkhndzlyMjJRamVDWUdXdlA4RkNTWGdqYzB5UURzaGxrdw?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "一周20大牛股出炉",
-      "summary": "A股一周20大牛股名单公布，戈碧迦涨超60%，4股年内涨幅超200%。市场热点活跃，但需警惕追高风险，信号中性。",
-      "reason": "市场情绪，热点追踪。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "中小盘股"
+        "AI概念",
+        "科大讯飞",
+        "百度",
+        "英伟达产业链"
       ],
       "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMmxUUGxha1FqVGZxa0FaV1JGRFdkQXZBX3Ntcm9Id0Y3d3UyR2hDc0dfbGRXcU1iYTY4NlE1Nk1qSlB1SjljSU1rSVlsUG9TZ1dzLUdTdjBGUy1JMU1XV3JtYkg0NFFaRndLSDFrUUZnODNMUVdQSFhoclhrN042OEtYOUkwS3l4bEJGTlNHRnJOcE84ZVhWcWtjdEJkOXdXNU84ZWNTRkFweEw1SlQzSjFIWXVKbUVucFNDQjJjbFMtYXpMNHI2cEV0cUZWSDZyTFZRLWh3RW5uUzdxWmFJdg?oc=5"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103172767.html"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "深圳加快产业数字化",
-      "summary": "深圳市委书记靳磊表示积极扩大有效投资，加快产业数字化。利好深圳本地数字经济、AI相关企业，为看多信号。",
-      "reason": "地方政策支持，利好相关板块。",
+      "title": "深圳推进数字化投资",
+      "summary": "深圳市委书记靳磊表示要积极扩大有效投资，加快产业数字化。深圳作为科技重镇，此举将直接利好本地数字经济和信创企业，如华为产业链、腾讯、中兴通讯等。信号：看多数字经济。",
+      "reason": "地方政策利好，属于优先级二的行业政策，有明确的受益板块和个股。",
       "category": "行业动态",
       "impact_stocks": [
-        "深圳本地股",
         "数字经济",
-        "AI概念"
+        "信创",
+        "华为产业链",
+        "深圳本地股"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -101,6 +127,6 @@
       "urgency": "days"
     }
   ],
-  "total_fetched": 38,
-  "generated_at": "2026-05-10T09:02:06.449781+08:00"
+  "total_fetched": 44,
+  "generated_at": "2026-05-10T09:52:50.110716+08:00"
 }
