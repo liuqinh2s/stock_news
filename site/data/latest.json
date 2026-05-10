@@ -3,54 +3,142 @@
   "hour": "06",
   "news": [
     {
-      "title": "A股红五月延续预期升温",
-      "summary": "媒体报道多家券商策略认为A股有望延续“红五月”行情，建议聚焦科技、资源两大景气方向。当前市场情绪乐观，成交量维持高位，科技板块持续走强。该消息属于市场情绪看多信号，可能推动科技ETF、资源类个股继续上涨。",
-      "reason": "市场主流观点看多，影响短期市场情绪，符合优先度三的市场情绪信号。",
-      "category": "市场情绪",
+      "title": "伊朗拒绝美国方案 油价大涨",
+      "summary": "据华尔街见闻，伊朗官媒称伊朗已拒绝美国方案，同时伊朗提议美方在30天内撤销对伊石油销售制裁。WTI原油期货涨幅扩大至3%，报98.409美元/桶。地缘政治紧张升级，油价飙升将推高化工、能源板块成本，短期利好油气股，但加剧市场避险情绪，整体偏空A股。",
+      "reason": "伊朗拒绝美国方案是地缘政治重大更新，直接影响油价和避险情绪，对A股能源板块及整体风险偏好有显著影响。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "科技ETF",
-        "有色金属",
-        "沪深300"
+        "油气板块",
+        "化工",
+        "上海原油期货"
       ],
-      "signal": "bullish",
-      "impact_level": 2,
+      "signal": "bearish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fS1JiRHVSYmYtRE1CTHktYTRTeVdKMUg3Y1BlS2dSVS1qSDNCQmdNdDRpOUhKVm1Vdzc2cFhzc3IwUHdVWVY3X3hCT2FXNlVad1dsSzF3d1gxVFR1NGxNT3lmZy0tdnJQcnlUNTRaVzdINVJUaU5CeA?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3101180"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367350?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "科技类指数频创新高",
-      "summary": "多只科技类指数（如科创50、芯片ETF）频创阶段性新高，重仓科技板块的基金净值水涨船高。市场资金持续涌入科技板块，反映投资者对AI、半导体等主线的高度认同。该信号偏多头，但需警惕短期过热风险。",
-      "reason": "市场结构信号，科技板块强势确认，符合优先度三的板块轮动信号。",
-      "category": "市场结构",
+      "title": "新发基金提前结募 公募加速入市",
+      "summary": "财联社报道，近期新发基金频现提前结募，公募基金加快入市步伐。同时，今年前4个月新备案证券类私募基金超5000只，显示资金端活跃。增量资金入场为A股提供流动性支撑，属积极信号，利好券商及成长板块。",
+      "reason": "基金提前结募和私募备案超5000只直接反映资金面回暖，是市场情绪改善的重要指标，按标准应评为bullish。",
+      "category": "资金流向",
       "impact_stocks": [
-        "科创50",
-        "芯片ETF",
-        "人工智能"
+        "沪深300",
+        "券商",
+        "成长风格基金重仓股"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FcGxKV0tENDZpUGZ1Mkc4Tk9aeFN5OGZtejRxZHJKOFpUUFBFb040Rm13SEM0bVpKX1BZNi1sZUdaRDZXOHd0TnRBS25BZnFHR2puT3dERnpBZEE1dnk5bUZaTnZEbVNKOTdSLW1DalY5MHRnSENRbg?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367355?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367354?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "AI芯片公司Cerebras上调IPO定价",
-      "summary": "人工智能芯片公司Cerebras Systems计划将IPO发行价区间上调至每股150-160美元，估值进一步抬高。该消息可能提振A股AI芯片板块情绪，尤其是对标概念股。虽然为美股事件，但强化全球AI算力需求逻辑，利好A股相关产业链。",
-      "reason": "行业动态，强化AI主线，对A股半导体、算力板块有情绪传导。符合优先度二行业政策变动外的外部关联。",
+      "title": "美银首席策略师看多材料板块",
+      "summary": "美银证券首席投资策略师Michael Hartnett在最新报告中点名材料板块，称其将是下一个“牛市新宠”。该观点可能引发外资及机构对材料板块（如化工、有色金属、建材等）的关注，短期提振板块估值。",
+      "reason": "知名外资机构的明确看多观点，可能引导资金流向，按标准属于中期影响，评bullish。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "材料板块",
+        "化工",
+        "有色金属",
+        "建材"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富股吧",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oQlZJS2c1UUU2VFdXMnpOZU4ydHhfXzhjVWtaVUR5MUlueG5MMkZkSFBHUDVncTR2TjNwTXhDVk9NbFJ2X0J2NTlGd1NCNUZweWhyRWRub2hIOW9tQ094QlE2V08?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "脑机接口投资逻辑从概念转向落地",
+      "summary": "财联社报道，脑机接口投融资逻辑生变，从“看概念”到“看落地”，行业进入产业化阶段。相关上市公司或将受益于政策支持和市场需求。对脑机接口概念板块构成利好，但短期难以爆发。",
+      "reason": "行业动态信号，属于中期影响，可按bullish对待，涉及科技成长方向。",
       "category": "行业动态",
       "impact_stocks": [
-        "AI芯片",
-        "算力",
-        "半导体"
+        "脑机接口概念",
+        "三博脑科",
+        "创新医疗"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367356?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "标普500期指跌0.3% 外盘情绪承压",
+      "summary": "财联社5月11日电，标普500指数期货跌幅扩大至0.3%。叠加伊朗局势紧张，海外市场情绪偏弱，可能通过北向资金和情绪传导影响A股开盘，短期偏空。",
+      "reason": "海外市场波动属于优先级二，短期情绪传导，评bearish。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "北向资金重仓股"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367353?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "4月北交所公司获机构调研49家",
+      "summary": "财联社4月以来49家北交所公司获机构调研，显示机构对北交所关注度提升。北交所个股流动性改善预期增强，利好北证50指数及优质标的。",
+      "reason": "机构调研增加是资金关注信号，北交所作为独立板块，可评bullish。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "北证50",
+        "北交所优质标的"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367357?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "Cerebras上调IPO价格 AI芯片受关注",
+      "summary": "人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，显示AI芯片需求强劲。对A股AI概念股（尤其是芯片、算力）形成正面情绪提振。",
+      "reason": "美股AI芯片公司IPO提价，映射A股同类概念，属于行业动态利好，评bullish。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "国产芯片",
+        "算力"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -61,28 +149,8 @@
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "伊朗拒绝美国方案",
-      "summary": "伊朗官媒称伊朗已拒绝美国提出的方案，此前伊朗曾提议美方30天内撤销石油制裁。特朗普批评伊朗回应不可接受。地缘紧张局势升级预期增强，可能推高国际油价和避险资产（黄金），对A股石油板块构成利好，但整体市场风险偏好或受压制。",
-      "reason": "地缘政治事件升级，影响石油、黄金等资产定价，属于优先度二的海外市场联动。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油石化",
-        "黄金",
-        "军工"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3101180"
-        }
-      ],
-      "urgency": "immediate"
     }
   ],
-  "total_fetched": 15,
-  "generated_at": "2026-05-11T06:01:50.985437+08:00"
+  "total_fetched": 23,
+  "generated_at": "2026-05-11T06:36:20.997310+08:00"
 }
