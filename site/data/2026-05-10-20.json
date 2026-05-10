@@ -3,65 +3,129 @@
   "hour": "20",
   "news": [
     {
-      "title": "盛弘股份获13家机构调研",
-      "summary": "盛弘股份（300693）接待天风证券等13家机构调研，涉及公司储能、充电桩等业务进展。机构调研频繁显示市场关注度提升，但调研本身不构成直接买卖信号。预计对公司股价有短期正面情绪影响。",
-      "reason": "机构集中调研反映市场关注，可能带来增量资金，属于轻度利好。",
-      "category": "市场情绪",
+      "title": "两融余额2日激增超700亿",
+      "summary": "截至5月8日，沪深两市融资融券余额创历史新高，两日净增加超700亿元。这显示杠杆资金加速入场，市场风险偏好显著提升。历史规律表明，融资余额持续快速攀升往往对应指数上行趋势，短期对券商、沪深300等权重板块形成直接利好。做多信号。",
+      "reason": "两融余额激增是优先级三的市场情绪信号，且历史新高具有里程碑意义，反映增量资金积极涌入。",
+      "category": "资金流向",
       "impact_stocks": [
-        "盛弘股份",
-        "储能",
-        "充电桩"
+        "沪深300",
+        "券商",
+        "上证50"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 4,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZMlZiVUdwWkNzT1FhQ1ZrdHhSRF8xblE1MDJxTmtvSjlWS2JzSEs2cjdqeGNlOFpFZkRnNGlsWmlKcld2RWZvZ01vdmRkbTNHWjN2S1o3eUNlYTZWdGRZdQ?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4ZWZmMm1XODJEbUQyV0xJMkNOMTJyRkNVbW5uRGE2ZExhYXk1ck1QcG5KQ2w0YjZYS3VJWEJ6T0l0MWRRRGx4UGlacDV5ZkF0ZUF0V1dVY2ZkYkpCT29LR200QjJLbjF6TjVlRURHOEU0b1A1dUE?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "辰安科技定增获深交所受理",
-      "summary": "辰安科技（300523）向特定对象发行股票申请获得深交所受理。定增通常用于项目融资，若成功将增强公司资本实力。目前仅受理阶段，后续需审批。对股价有轻微利好。",
-      "reason": "定增受理是公司融资进展的第一步，短期信号中性偏多，但需关注最终审批结果。",
-      "category": "公司公告",
+      "title": "三部门划定智能体发展底线",
+      "summary": "工信部、网信办、公安部联合发布文件，明确AI智能体的合规发展框架，鼓励技术创新同时划定监管红线。此举有望加速国产AI生态建设，利好具备大模型和智能体开发能力的科技公司，如科大讯飞、百度等。做多信号。",
+      "reason": "优先级二的行业政策变动，对AI板块形成直接催化。",
+      "category": "行业动态",
       "impact_stocks": [
-        "辰安科技",
-        "公共安全"
+        "AI概念",
+        "科大讯飞",
+        "百度",
+        "算力"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55TnNfQXhWVDBfV3RqRzBmM0tFMmloN0o3Qm5OTUlTRC1tYkM2S0xDd2JYbENwblI1cDFxdUtmdl9kY3NzYjlVRTVMd2NvMTkyX3JFOHBxMF9RQTJrcXF0YlRn?oc=5"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103173263.html"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "汇添富国证价值100ETF发售",
-      "summary": "汇添富国证价值100交易型开放式指数证券投资基金开始发售。ETF发行将为价值100指数带来增量资金，提振相关成分股。但发行期较长，短期影响有限。",
-      "reason": "新ETF发行对指数成分股有资金流入预期，属于中性偏多信号。",
+      "title": "余额宝万份收益跌破0.3元",
+      "summary": "天弘余额宝货币基金7日年化收益率降至0.9%以下，万份收益不足0.3元。低利率环境可能驱动居民存款向权益市场转移，对A股增量资金形成间接支撑。做多信号。",
+      "reason": "优先级三的市场情绪信号，资金搬家预期利好股市整体流动性。",
       "category": "资金流向",
       "impact_stocks": [
-        "国证价值100指数成分股",
-        "金融",
-        "地产"
+        "沪深300",
+        "创业板指",
+        "基金重仓"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "天天基金",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xUGJwTUszbWtDQjhnbGIwYnUtelVWWjVhTGNKdjcya3d4bXRacWsxVzV1cFJmc21fZnpaeVVmYUJnYUpFd2R0OHhvZ2VWc3ZVN0kzWm8zQU95WVFFZzVrVVpVVWxwWG03SWJ3OUw3SDZnWE1SckE?oc=5"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103173155.html"
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "芯片ETF因溢价集体停牌",
+      "summary": "中韩半导体ETF(513310)、全球芯片LOF(501225)因二级市场溢价过高，自5月11日起停牌至10:30。这反映芯片板块短期交易过热，存在回调风险，需警惕跟风炒作标的。做空信号。",
+      "reason": "优先级三的市场情绪信号，ETF溢价停牌表明非理性追涨，短期可能引发板块调整。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "芯片",
+        "半导体",
+        "科创50"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367288?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美银：材料板块将成牛市新宠",
+      "summary": "美银Hartnett发布研报，认为材料板块将是下一个市场主线，受益于全球基建和通胀预期。建议关注铜、铝等工业金属及化工龙头。做多信号。",
+      "reason": "优先级二的机构评级变动，知名机构明确看多材料板块，可能引发资金关注。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "有色金属",
+        "钢铁",
+        "化工",
+        "紫金矿业"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PeWRuUm9QLW9hMkdpWUpRcHNJOTJiZklHR2NMVUlkU0phTmwzVGhEUWtGWjBZd3ZGMEpPNmY1LWFXa0FxVmlVSw?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "沙特阿美：海峡重开市场难恢复",
+      "summary": "沙特阿美警告即使霍尔木兹海峡立即重开，原油市场也需要数月才能恢复平衡，暗示中东供应中断影响持续。此举可能推升油价预期，利好A股石油开采和油服板块。做多信号。",
+      "reason": "优先级二的海外市场联动，中东局势影响油价，进而传导至A股能源板块。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油石化",
+        "中国石油",
+        "中海油服",
+        "能源ETF"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3771930"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 41,
-  "generated_at": "2026-05-10T20:01:54.566344+08:00"
+  "total_fetched": 67,
+  "generated_at": "2026-05-10T20:53:51.595268+08:00"
 }
