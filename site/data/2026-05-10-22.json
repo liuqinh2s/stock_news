@@ -3,95 +3,71 @@
   "hour": "22",
   "news": [
     {
-      "title": "沙特阿美称全球石油供应减少10亿桶",
-      "summary": "沙特阿美总裁阿明·纳赛尔表示，过去两个月全球石油供应减少约10亿桶，主要受地缘冲突和OPEC+减产影响。供应收缩利好油价，提振A股石油石化板块（如中国石油、中国石化），但也可能加剧输入性通胀压力。短期看多石油板块，但对整体市场偏中性。",
-      "reason": "供应数据重大变动直接利好油价和石油股，且未在历史消息中出现。",
-      "category": "行业动态",
+      "title": "下周大事：鲍威尔交棒+中美通胀",
+      "summary": "下周（5月11-17日）资本市场面临多项重磅事件：美联储主席鲍威尔将权力移交给新任主席凯文·沃什，并发表讲话，市场关注货币政策方向；中美4月CPI数据将公布，美国汽油价格飙升可能推高通胀；阿里、腾讯、中芯国际等巨头财报轮番登场。这些事件将影响全球及A股市场预期，尤其影响外资流向和科技板块估值，需警惕波动。",
+      "reason": "宏观事件密集，影响市场预期和资金流动，属于中期影响。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化"
+        "沪深300",
+        "科技股",
+        "中概互联"
       ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 4,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367309"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "SpaceX计划6月上市利好空天产业链",
-      "summary": "SpaceX计划6月完成定价并在纳斯达克上市，分析师看好空天产业链呈现与英伟达链相似特征，A股相关公司有望通过出口切入供应链。利好航天概念（如航天电子、中国卫星）和商业航天板块，看多信号。",
-      "reason": "SpaceX上市预期对A股航天板块有主题催化作用，新消息。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "航天概念",
-        "商业航天",
-        "航天电子",
-        "中国卫星"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367225"
+          "url": "https://api3.cls.cn/share/article/2367307?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "下周重要事件：鲍威尔交棒中美通胀数据",
-      "summary": "下周资本市场关注美联储主席鲍威尔交棒、中美4月通胀数据揭晓、阿里腾讯中芯等财报。鲍威尔交棒可能影响美联储政策预期，通胀数据将影响货币政策方向，科技巨头财报决定板块走势。整体影响市场情绪和风格。中性，需等待实际数据。",
-      "reason": "事件密集前瞻，对短期走势有显著影响，新消息。",
-      "category": "宏观经济",
+      "title": "SpaceX计划6月上市，空天受益",
+      "summary": "据财联社，SpaceX计划在6月完成定价并登陆纳斯达克，分析师认为空天产业链与英伟达链高度相似，A股相关公司有望通过出口切入SpaceX与特斯拉供应链。这将提振航天、卫星互联网、零部件等板块，关注航天电子、中国卫星等。看多信号。",
+      "reason": "美股映射，带动A股概念炒作，属于市场情绪+行业动态。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "科技股",
-        "消费",
-        "港股"
+        "航天航空",
+        "卫星互联网",
+        "航天电子"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367307"
+          "url": "https://api3.cls.cn/share/article/2367225?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "打击股市谣言，罚款45万",
+      "summary": "据第一财经，监管部门近期对一例股市谣言行为开出45万元罚单（获利仅300元），释放从严打击信号，有利于净化市场环境、减少非理性波动。此举虽力度不大，但体现监管态度，对概念炒作有威慑作用。中性信号。",
+      "reason": "监管动态，轻微利好市场健康，但影响有限。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "全市场"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103173275.html"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "地方化债进入下半场",
-      "summary": "一财报道地方化债进入下半场，意味着后续政策将继续支持地方债务化解，降低系统性风险。利好基建、城投等相关板块，信号积极。",
-      "reason": "化债政策延续对A股建筑、城投板块构成利好，新消息。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "基建",
-        "城投",
-        "建筑"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103173273.html"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "广州推出人工智能场景交易平台",
-      "summary": "广州推出人工智能场景交易平台，旨在促进AI技术供需对接，有利于AI应用落地和产业生态完善。利好广州本地AI企业和A股人工智能板块，看多信号。",
-      "reason": "地方AI产业政策落地，对AI主题有催化作用，新消息。",
+      "title": "广州推出AI场景交易平台",
+      "summary": "广州市发布人工智能场景交易平台，促进AI技术供需对接，推动AI在制造、医疗等场景落地。这是地方产业政策，有助于加速AI商业化，利好广州本地AI企业和全国AI概念股。看多信号。",
+      "reason": "地方政策利好AI板块，增强市场信心。",
       "category": "行业动态",
       "impact_stocks": [
-        "人工智能",
-        "广东AI概念"
+        "AI概念",
+        "广深科技"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -104,6 +80,6 @@
       "urgency": "days"
     }
   ],
-  "total_fetched": 54,
-  "generated_at": "2026-05-10T22:01:56.039584+08:00"
+  "total_fetched": 62,
+  "generated_at": "2026-05-10T22:17:17.869850+08:00"
 }
