@@ -3,32 +3,14 @@
   "hour": "04",
   "news": [
     {
-      "title": "云中马拟定向增发",
-      "summary": "浙江云中马股份有限公司披露向特定对象发行A股股票预案二次修订稿，属于再融资行为。增发将稀释现有股东权益，短期偏空，但具体影响取决于募资用途。个股影响，对纺织板块有限。信号看空。",
-      "reason": "公司重大事件（增发预案），属于个股利空，但影响有限。",
-      "category": "公司公告",
+      "title": "特朗普称伊朗回应完全不可接受",
+      "summary": "美国总统特朗普当地时间5月10日发文称，伊朗对美方的回应“完全不可接受”。此前美国商船遭无人机袭击，中东局势持续紧张。地缘风险升温将压制A股风险偏好，尤其对石油、航运板块形成短期冲击。此外，避险情绪可能推动资金流向黄金和军工。整体看空A股短期表现。",
+      "reason": "特朗普最新强硬表态表明美伊冲突短期内难以缓和，市场避险情绪升温，直接利空A股风险偏好。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "云中马",
-        "纺织制造"
-      ],
-      "signal": "bearish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CZTRVOTJTWVlvSHR4M2N1ZGgxOVNWR3YxQ1c0S29zM0lNRi1BczBoaGp6QUNFcVZueXZuMzVQcTZLVExMSDhhZGtxdndnTWdtUmJLS1pmOW1KNnUwX2J0UU5FSGJWb1FodFp4OHBnZmNJUnVlMWRlWA?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "伊朗回应聚焦结束战争",
-      "summary": "消息人士称伊朗对美最新回应聚焦于结束地区战争，但特朗普指责伊朗拖延，中东局势仍紧张。地缘政治风险持续，可能推高油价，影响航空、化工等成本，并引发避险情绪，利空A股。但若局势缓和则反转。短期偏空。",
-      "reason": "海外地缘政治事件，影响石油价格和风险偏好，属于中期影响。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油石化",
-        "航空",
+        "石油",
+        "航运",
+        "军工",
         "黄金"
       ],
       "signal": "bearish",
@@ -36,32 +18,52 @@
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367342?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2367343?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "hours"
+      "urgency": "immediate"
     },
     {
-      "title": "内塔尼亚胡与特朗普通话",
-      "summary": "以色列总理内塔尼亚胡与美国总统特朗普通电话，讨论中东局势。此前内塔尼亚胡称美以对伊朗军事行动尚未结束，通话可能涉及进一步行动。中东紧张局势升级风险，利空A股，尤其航空、原油相关板块。",
-      "reason": "地缘政治重大事件，可能推动避险情绪，影响全球市场。",
+      "title": "内塔尼亚胡与特朗普通电话",
+      "summary": "以色列官员透露，以总理内塔尼亚胡与特朗普10日晚通电话，通话内容未披露。此举可能涉及美以协调对伊朗政策，进一步加剧中东不确定性。地缘风险对A股影响偏负面，但具体影响需观察后续行动。投资者需警惕军工、能源板块波动。",
+      "reason": "美以领导人通话暗示军事行动风险上升，短期不确定性增加，对A股情绪构成压制。",
       "category": "宏观经济",
       "impact_stocks": [
-        "石油石化",
-        "黄金",
-        "军工"
+        "沪深300",
+        "军工",
+        "石油"
       ],
       "signal": "bearish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2367341?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "多只港股ETF规模逆势增长",
+      "summary": "近期资金持续流入港股ETF，多只产品规模逆势增长。南下资金活跃可能分流A股资金，但同时也反映市场对港股估值洼地的认可。间接利好港股相关A股标的，如港股ETF持仓中的A+H股公司。对A股整体影响中性偏多。",
+      "reason": "资金流入港股ETF显示市场信心回升，但可能对A股形成短暂资金分流，综合判断中性。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "港股ETF",
+        "A+H股",
+        "恒生指数"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "上海证券报",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1taWFUcF9RbmpTcnlNdWNRdnN1dnFWazNQUzl3eF9PdWRxU1o5S3NlcDhjb3A4Sm9fWGNOYlBtUkFZeGZRa3pVcFkzQVNTZkdHYWZTRnNKeTBkZlJibHM4dklMVmxBNHVBQVROVUF3?oc=5"
+        }
+      ],
       "urgency": "hours"
     }
   ],
   "total_fetched": 12,
-  "generated_at": "2026-05-11T04:02:11.779232+08:00"
+  "generated_at": "2026-05-11T04:39:04.971341+08:00"
 }
