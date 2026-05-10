@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "11",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5971,
+    "completion_tokens": 3137,
+    "total_tokens": 9108
+  },
+  "content_length": 1735,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"国务院部署化债\",\n      \"summary\": \"国务院对化解地方政府债务风险作出新部署，旨在降低系统性金融风险，稳定市场预期。该政策利好银行、基建等板块，有助于缓解市场对地方隐性债务的担忧，改善信用环境。从做多A股视角看，这是偏多信号，可能提振市场信心。\",\n      \"reason\": \"国务院重大政策，直接影响市场对债务风险和信用环境的预期，属于优先级一。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"银行\", \"基建\", \"城投\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103172801.html\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"江西无人机空域启用\",\n      \"summary\": \"江西省公布新版无人驾驶航空器适飞空域，将于5月14日起启用。此举进一步规范低空经济空域管理，促进无人机产业发展。利好低空经济、无人机及航空物流相关概念股，如中无人机、纵横股份等。政策催化下，相关板块有望获得短期关注。\",\n      \"reason\": \"行业政策变动，属于低空经济领域的政策利好，对相关板块有催化作用。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"低空经济\", \"无人机\", \"航空物流\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367106?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"*ST云创财务造假\",\n      \"summary\": \"*ST云创被曝存在长期财务造假，保荐机构中信建投或面临监管问责。该事件对中信建投的投行业务声誉构成负面影响，可能引发监管处罚或业务暂停。短期对券商板块情绪有压制，特别是涉及投行业务的头部券商。但个股影响有限。\",\n      \"reason\": \"公司重大负面事件，涉及财务造假和保荐人责任，可能影响相关券商估值。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"中信建投\", \"券商\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JY3luRWo2N1NwQTRVYWR1UlRUNVU4ZXdzS2ZOeHg3T1o1U3AwczZnY3g2VWhndGdUa1lIUVpYNllOX1BPREl0RzNGNmNXaWNFekFGcnVvN3VjM0h1UG1FS0tB?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮筛选仅3条符合标准的新消息，其余为重复或无交易价值内容。\"\n}"
+}
