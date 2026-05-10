@@ -3,17 +3,58 @@
   "hour": "00",
   "news": [
     {
-      "title": "美军超20舰封锁伊朗",
-      "summary": "美军出动超20艘军舰对伊朗实施封锁，地缘冲突升级。霍尔木兹海峡航运受威胁，油价或进一步上涨。A股石油板块受益，但市场避险情绪升温，整体大盘承压。",
-      "reason": "地缘政治重大事件，直接影响能源供应和全球风险偏好，属于优先级一。",
-      "category": "市场情绪",
+      "title": "内塔尼亚胡称军事行动未结束",
+      "summary": "以色列总理内塔尼亚胡表示，美以对伊朗的军事行动尚未结束，暗示可能进一步打击。中东局势持续紧张，霍尔木兹海峡航运受阻风险加剧，国际油价可能维持高位。对A股石油开采、航运板块形成利好，但对整体市场情绪有压制，属于偏空信号。",
+      "reason": "中东局势升级可能影响全球避险情绪和油价，进而传导至A股油气板块及市场风险偏好，属于中期影响行情的消息。",
+      "category": "行业动态",
       "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化"
+        "石油开采",
+        "航运",
+        "黄金"
       ],
       "signal": "bearish",
-      "impact_level": 4,
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367329?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "伊朗警告法英军舰靠近海峡",
+      "summary": "伊朗对法英军舰靠近霍尔木兹海峡发出警告，称将采取必要措施维护安全。此举加剧了霍尔木兹海峡的军事对峙局势，全球石油供应可能面临进一步中断风险。A股中石油、中石化等能源股有望受益，但市场整体避险情绪上升，短期偏空。",
+      "reason": "霍尔木兹海峡是石油运输要道，冲突升级直接威胁能源供应，影响油价和相关板块，属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "石油开采",
+        "航运",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367326?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美军20余艘军舰封锁伊朗",
+      "summary": "美军宣布超过20艘美国军舰参与对伊朗的封锁行动，中东军事部署规模扩大。此举可能进一步推高国际油价，并引发全球资本市场避险。A股能源股和军工股或有正面反应，但大盘承压，偏空信号。",
+      "reason": "大规模军事封锁是重大地缘政治事件，直接冲击能源供应链，影响通胀预期和全球风险资产定价，属于市场情绪和行业动态。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "石油开采",
+        "军工",
+        "黄金",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
@@ -21,28 +62,8 @@
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "华泰金工：成长风格过热",
-      "summary": "华泰证券金工团队发布研报，认为当前A股成长风格交易拥挤度达到历史高位，短期可能面临回调风险。建议关注风格切换至价值或防御板块。该信号提示市场结构风险。",
-      "reason": "知名券商对市场风格的警示，可能引发资金调仓，属于优先级三的市场情绪信号。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "创业板",
-        "成长风格ETF",
-        "科创50"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kbWt4YmlaVk55aDhFNG9uV0JJb0pGZWxCV0k4VE9MUjFhUjJqX2U2SkdrSVp0VS1DR3Z6MXdfY2djQndlbHk2MVBqbW04Z2hTdEFYeDBWTDBOSDZMdkZVQ2RrUUwwV0Y2elo5ZVFGR2VoazdkWnc?oc=5"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 14,
-  "generated_at": "2026-05-11T00:01:19.479873+08:00"
+  "total_fetched": 13,
+  "generated_at": "2026-05-11T00:41:25.788604+08:00"
 }
