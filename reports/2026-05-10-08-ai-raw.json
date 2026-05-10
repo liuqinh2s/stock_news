@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "08",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 3995,
+    "completion_tokens": 3056,
+    "total_tokens": 7051
+  },
+  "content_length": 2293,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"光伏板块飙涨\",\n      \"summary\": \"今日光伏板块热门股集体大幅上涨，出现连续涨停个股，市场资金抱团追涨。可能带动光伏产业链个股如隆基绿能、通威股份等短期上涨。这是强烈的市场情绪信号，看多光伏板块，但需警惕短期过热风险。\",\n      \"reason\": \"市场情绪高涨，资金集中流入，可能预示短期行情延续。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"光伏\", \"隆基绿能\", \"通威股份\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcWNHVVFkWHlSYzdhbm5haFNhUC1xNjlKN1lyUVVXQ3gzVmxGSHZpQnFDem1NUFFsQkhoYkNsemZQaEpXOGJnREhhZXdyYlF4QUc5M0V6UDZUWnhEY2tIQko0YzdqZXpiUmhCaVFKcTdVUENYeUhJNTdtbmdwRXJSalhZYVlFa1hRcV82Xy1oNTlMcmpSZ2JJZkk0d200bDdGdWROaXpsUnZlT19sN3dWaGV2S0NISXNmTHh0b2RhZmRwbTFCbWNGRDdheEQxUmxkM2VnUHR4TQ?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"拟IPO券商分化\",\n      \"summary\": \"5家拟IPO券商2025年年报业绩分化明显，东莞证券营收净利双冠，渤海证券大幅下滑。这可能影响拟IPO券商的上市进程和估值，持有东莞证券股份的上市公司（如锦龙股份）受益，而渤海证券相关方承压。整体对券商板块影响中性。\",\n      \"reason\": \"业绩分化可能影响IPO节奏和券商估值，提供个股交易机会。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"券商\", \"锦龙股份\", \"东莞证券影子股\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmRVpraUJBcnZUUGM4Y09PNWZDQ2dwZjRKdDJzTEc0QnVkMXFld0Nra0EyS0RGd1Z6bUgtZC1HUS1wMDM1M2EwRFFrUzd4eGRPa0xNNW1XWnNOdGJGdXdJdHhPUWt4Zw?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"土耳其延长卖空禁令\",\n      \"summary\": \"土耳其将股票卖空禁令延长至5月26日，旨在稳定金融市场。对A股直接影响很小，但可能引发新兴市场情绪波动，间接影响外资流入和风险偏好。对A股整体偏空，但影响微弱。\",\n      \"reason\": \"国际监管政策变化，需关注新兴市场连锁反应。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"新兴市场ETF\", \"土耳其相关\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260510/c676573291.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"欧央行关注AI风险\",\n      \"summary\": \"欧洲央行管委Escrivá表示AI风险促使检视金融基础设施，可能出台更严格监管。这或影响全球AI产业链，对A股AI概念板块情绪偏空，但实际影响有限，仅为言论未落地。\",\n      \"reason\": \"国际监管动向可能压制AI板块估值，需跟踪后续政策。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"金融科技\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2367082?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮有效新消息较少，仅筛选出4条。部分历史消息如国际地缘冲突等虽持续但无新进展，故未纳入。\"\n}"
+}
