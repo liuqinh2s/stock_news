@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-10",
+  "hour": "21",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13988,
+    "completion_tokens": 5619,
+    "total_tokens": 19607
+  },
+  "content_length": 1920,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"ETF资金背离信号\",\n      \"summary\": \"近期A股ETF资金流向与指数走势出现背离，指数上行但ETF资金整体净流出，尤其是宽基ETF。这可能表明机构资金在高位减仓或套利，市场上涨动力减弱，短期回调风险增加。影响所有板块，尤其中证500、沪深300相关ETF。信号偏空，需警惕获利了结。\",\n      \"reason\": \"资金流向与指数背离是重要市场情绪信号，属于优先级三中的成交额/资金异常。历史上背离常预示短期调整。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"中证500\", \"券商ETF\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMihwFBVV95cUxNeTVySi1sLS02bkdMMnhFcjhzMFd2RjlTRV9uRHlOUHM2STlrX3c4X2NtRGh0Ynd2S0J5RWhKSm9VTWwxZmRQMGpDUEhLa0I4TW9LRnBaMWpSekZCMXhYWWhid1pKV0lKZ1Z4RWFKenJzZE50cjhPck94SjF3WU12cWJSa3ZmLUU?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"首都在线定增受理\",\n      \"summary\": \"首都在线（300846）向特定对象发行股票申请获深交所受理，拟募资用于数据中心建设等项目。定增若成功将增强公司资本实力，但短期对股价影响中性，需关注审核进度及市场情绪。影响个股及数据中心板块。\",\n      \"reason\": \"公司再融资推进属于公司公告，优先级二。虽影响有限，但可关注板块联动。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"首都在线\", \"数据中心\", \"算力\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE43aFVrZEc2QUhSMGtUUlpOamJ0SHB4dlBwZjhUTGVZZlR5UGY0VV9fektuUnNORkNaVWpKOS1ub290NktBdkZTbExWX3MyTFZ2VTR0R01BNy1KTTRVdHc?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"辰安科技定增受理\",\n      \"summary\": \"辰安科技（300523）向特定对象发行股票申请获深交所受理，拟募资用于智慧安全城市等项目。定增将改善公司财务结构，但短期股价影响中性。关注后续过会情况，影响个股及智慧城市板块。\",\n      \"reason\": \"公司再融资推进，优先级二，影响有限但可关注。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"辰安科技\", \"智慧城市\", \"安全应急\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE55TnNfQXhWVDBfV3RqRzBmM0tFMmloN0o3Qm5OTUlTRC1tYkM2S0xDd2JYbENwblI1cDFxdUtmdl9kY3NzYjlVRTVMd2NvMTkyX3JFOHBxMF9RQTJrcXF0YlRn?oc=5\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"由于素材中大部分消息与历史重复，仅筛选出3条新消息。其中ETF资金背离信号相对重要，其余为个股定增受理，影响有限。\"\n}"
+}
