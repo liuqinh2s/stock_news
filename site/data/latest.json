@@ -4,118 +4,45 @@
   "news": [
     {
       "title": "中美经贸磋商新进展",
-      "summary": "商务部新闻发言人就中美经贸磋商有关问题答记者问，释放积极信号。近期中美双方沟通频繁，此次表态可能涉及关税或贸易协议进展。若传来利好，将提振出口导向型板块，如电子、机械、纺织等。总体偏多信号。",
-      "reason": "中美关系是影响A股风险偏好的核心变量，此次官方回应可能意味着谈判取得进展，对市场情绪有正面作用。",
+      "summary": "商务部新闻发言人就中美经贸磋商有关问题答记者问，可能涉及关税调整或谈判进展。若释放缓和信号，将提振出口导向型行业和整体市场情绪；若强硬，则增加不确定性。影响板块包括外贸、科技、新能源等。目前信号偏中性，但需关注具体内容。",
+      "reason": "中美经贸关系是影响A股整体风险偏好的关键变量，商务部正式回应意味着可能有重要进展，符合优先级一（国务院/发改委重大政策）和优先级二（宏观经济数据）。",
       "category": "宏观经济",
       "impact_stocks": [
-        "出口板块",
-        "电子",
-        "机械"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260510/c676576862.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367319"
-        },
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103173335.html"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "SpaceX上市预期催化空天链",
-      "summary": "财联社【风口研报】指出，SpaceX计划6月完成定价并在纳斯达克上市。分析师认为空天产业链与英伟达链高度相似，A股相关公司有望通过出口切入SpaceX与特斯拉供应链。利好卫星互联网、航天军工、高端制造等板块。",
-      "reason": "SpaceX上市是重大产业事件，可能引发A股空天产业链主题投资，属于优先级二行业动态。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "卫星互联网",
-        "航天军工",
-        "高端制造"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367225"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "沙特阿美称石油供应大减",
-      "summary": "沙特阿美总裁表示，过去两个月全球石油供应减少约10亿桶。地缘冲突导致供应紧张，油价有望维持高位，利好石油石化板块，但可能加剧通胀担忧，对货币政策形成制约。中性偏多石油股。",
-      "reason": "影响原油价格及能源板块，属于行业动态。但历史消息中已有类似内容，此为更新确认。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260510/c676576756.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367309"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "下周中美通胀数据及财报",
-      "summary": "财联社梳理下周大事：鲍威尔交棒美联储；中美4月通胀数据揭晓；阿里、腾讯、中芯等财报轮番登场。通胀数据将影响美联储降息预期，财报或催化科技股行情。总体关注度高，市场波动可能加大。",
-      "reason": "宏观事件和数据密集发布，对市场预期影响大，属于优先级二宏观经济。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "沪深300",
-        "科技板块",
-        "中概互联"
+        "外贸",
+        "科技",
+        "新能源"
       ],
       "signal": "neutral",
       "impact_level": 4,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367307"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260510/c676576862.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "中信建投看好算力与复苏",
-      "summary": "中信建投发布A股2026年中期策略，提出双牛并驱：聚焦“算力牛”和“复苏牛”两大主线，指数有望再上新阶。算力对应AI产业，复苏对应消费和制造。机构观点积极，看多后市。",
-      "reason": "头部券商策略报告影响市场情绪，属于优先级二机构观点。但需注意历史已有类似内容，作为新素材更新。",
-      "category": "市场情绪",
+      "title": "特朗普称监控伊朗浓缩铀",
+      "summary": "特朗普表示美方一直在监控伊朗埋在废墟下的浓缩铀，暗示伊朗可能拥有隐藏核材料，中东局势再度紧张。若冲突升级将推高国际油价，利好石油、军工板块，同时避险情绪可能压制风险资产。影响板块：石油、黄金、军工。短期看空A股整体风险偏好，但利好资源股。",
+      "reason": "中东地缘政治风险直接影响油价和全球市场情绪，符合优先级一（直接影响行情）和优先级二（海外市场联动）。",
+      "category": "资金流向",
       "impact_stocks": [
-        "算力",
-        "AI",
-        "消费",
-        "制造"
+        "石油",
+        "黄金",
+        "军工"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "bearish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xbk9Sdk1DNXY1bzFJblJEVU50Y2ZUSEZIYl95RXcyYTgyTVZXM0JQeHdra2xrbzhmcl84NnAtM2ZuZkFIQ183N3kzTjZmZ1BSclVsc29TaEZKX0ZJT1hXRlR1M2JvWldfellLX3BXYzBhekF4QUE"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260510/c676576849.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 47,
-  "generated_at": "2026-05-10T23:02:07.406902+08:00"
+  "total_fetched": 31,
+  "generated_at": "2026-05-10T23:43:04.236714+08:00"
 }
