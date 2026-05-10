@@ -3,74 +3,74 @@
   "hour": "15",
   "news": [
     {
-      "title": "广州推AI场景交易平台",
-      "summary": "广州推出人工智能场景交易平台，首批发布49个真实场景订单，涵盖智能制造、智慧城市等领域。该平台促进AI技术供需对接，加速产业应用落地，对AI概念股、算力基础设施形成直接利好。属于政策驱动型行业动态，看多信号。",
-      "reason": "新政策直接利好AI产业，推动商业化落地，影响板块明确。",
+      "title": "国常会部署化解地方债",
+      "summary": "国务院总理李强主持召开国务院常务会议，研究推进地方政府债务风险化解有关工作。会议释放了积极化解隐债、稳定信心的信号。此举有助于降低系统性金融风险，利好银行、基建板块，市场情绪偏暖。看多信号。",
+      "reason": "国务院常务会议属于最高层级政策会议，研究地方债化解直接影响市场对财政风险和信用环境的预期，属于优先级一的监管政策。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "银行",
+        "基建",
+        "沪深300"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260510/c676574917.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "沙特阿美称油市恢复需数月",
+      "summary": "沙特阿美表示，即使霍尔木兹海峡重新开放，原油市场也需要数月时间才能恢复平衡。暗示当前供应紧张局面短期难以缓解，油价有望维持高位。利好A股石油、化工板块。看多信号。",
+      "reason": "沙特阿美是全球最大石油公司，其表态直接影响原油供应预期，属于行业动态中影响能源价格的关键消息，影响油气板块。",
       "category": "行业动态",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "智能制造"
+        "石油",
+        "化工",
+        "中海油服"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367157?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2367165?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "算力绿能协同提速",
-      "summary": "财联社报道算力与绿色能源协同发展悄然提速，数据中心绿电使用比例提升，新型储能项目加速落地。这利好算力基础设施和新能源运营商，推动双碳目标与数字经济融合。属于中期行业利好，看多信号。",
-      "reason": "算力和绿电结合是长期趋势，政策支持预期增强，影响相关板块。",
+      "title": "高盛看空碳酸锂价格见顶",
+      "summary": "高盛发布报告称碳酸锂价格已见顶，认为当前价格不可持续。作为全球顶级投行，其看空观点可能引发市场对锂资源板块的抛售压力。利空锂矿、新能源上游材料个股。看空信号。",
+      "reason": "高盛研报对碳酸锂的看空判断属于机构评级变动，直接影响新能源上游板块情绪，属于优先级二。",
       "category": "行业动态",
       "impact_stocks": [
-        "算力",
-        "新能源",
-        "储能"
+        "锂矿",
+        "赣锋锂业",
+        "天齐锂业"
       ],
-      "signal": "bullish",
-      "impact_level": 2,
+      "signal": "bearish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367155?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3771894"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "高端聚苯乙烯新产能投产",
-      "summary": "中国新增高端聚苯乙烯规模化产能，打破进口依赖，为光学材料供应链提供新选择。该材料用于导光板、扩散板等光学器件，利好国内光学材料及面板产业链。属于细分行业利好，看多信号。",
-      "reason": "新材料国产替代，提升相关企业竞争力，但影响范围有限。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "光学材料",
-        "聚苯乙烯",
-        "面板"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2367150?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "亚洲资本超级周期引关注",
-      "summary": "华尔街见闻发文称亚洲正迎来吸引全球资本的超级周期，外资持续流入趋势未改，A股和港股估值洼地受青睐。该观点强化市场信心，对大盘蓝筹和外资重仓股形成情绪支撑。看多信号。",
-      "reason": "外资配置亚洲的声音有助于稳定市场预期，属于情绪面利好。",
-      "category": "资金流向",
+      "title": "亚洲超级周期吸引全球资本",
+      "summary": "华尔街见闻文章指出亚洲正迎来新一轮超级周期，全球资本加速流入。叠加中国政策支持，A股有望受益于外资流入。利好沪深300及核心资产。看多信号。",
+      "reason": "宏观叙事影响市场情绪和资金流向，属于优先级三的市场情绪信号，但结合当前外资流入趋势，有参考价值。",
+      "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
         "上证50",
-        "港交所"
+        "外资重仓股"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -81,8 +81,48 @@
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "挪威天然气装置突发停工",
+      "summary": "挪威天然气输送公司GASSCO称，哈默菲斯特液化天然气装置非计划停工，5月8日至13日日均供应减少1840万立方米。短期天然气供应收紧，可能推升欧洲气价，间接利好A股天然气及能源相关个股。看多信号。",
+      "reason": "国际能源供应扰动影响天然气价格，进而传导至A股能源板块，属于行业动态中的供需变化。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "天然气",
+        "广汇能源",
+        "新奥股份"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367159?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "风口研报：半导体设备迎机遇",
+      "summary": "财联社风口研报指出，某设备公司半导体新增订单超80%来自存储芯片头部客户，且先进封装产品正在验证中，显著受益于半导体新景气周期。利好半导体设备、存储芯片板块。看多信号。",
+      "reason": "机构研报重点覆盖且指明投资逻辑，属于优先级二的公司重大事件/机构调研，对相关个股有催化。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "半导体设备",
+        "存储芯片",
+        "北方华创"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367180?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 46,
-  "generated_at": "2026-05-10T15:01:06.221229+08:00"
+  "total_fetched": 53,
+  "generated_at": "2026-05-10T15:55:59.673520+08:00"
 }
