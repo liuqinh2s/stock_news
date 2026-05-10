@@ -3,46 +3,104 @@
   "hour": "17",
   "news": [
     {
-      "title": "申万宏源：A股第二阶段上涨行情或开启",
-      "summary": "申万宏源发布策略报告，认为A股赚钱效应累积正在发生质变，第二阶段上涨行情可能正始于足下。该机构指出，市场结构性行情不断加强，增量资金持续入场，建议关注科技、消费等主线。这可能带动市场情绪回暖，利好沪深300及创业板指数，看多信号。",
-      "reason": "知名券商策略观点转向积极，影响市场预期和情绪，属于中期影响（优先级二）。",
-      "category": "市场情绪",
+      "title": "汉邦高科签27.83亿GPU大单",
+      "summary": "汉邦高科（300449）子公司签订27.83亿元高性能GPU设备采购及集成维保服务合同，相当于公司2025年营业收入的1515.13%。该订单规模巨大，将直接增厚公司业绩，并凸显国产GPU算力需求旺盛。可能带动算力、GPU相关概念股（如中科曙光、景嘉微等）走强。市场看多信号明显。",
+      "reason": "重大合同金额占营收比例极高，对个股及算力板块有直接利好影响，符合优先级二的公司重大事件标准。",
+      "category": "公司公告",
       "impact_stocks": [
-        "沪深300",
-        "创业板指",
-        "科技板块"
+        "汉邦高科",
+        "算力概念",
+        "GPU芯片"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260510/c676575430.shtml"
+          "url": "https://news.10jqka.com.cn/20260510/c676575378.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "方正策略：国产算力接力海外算力",
-      "summary": "方正策略指出，海外算力板块打出高度后，国产算力接力顺理成章。认为国内AI算力需求旺盛，相关产业链公司受益。利好国产算力、光模块、服务器等板块，看多信号。",
-      "reason": "机构明确看好国产算力方向，属于行业动态（优先级二），对相关板块有催化作用。",
+      "title": "国投白银LOF周一起停牌",
+      "summary": "国投白银LOF（161226）将于2026年5月11日开市起停牌，10:30复牌，停牌期间赎回照常。白银ETF停牌通常因溢价较高或市场波动，可能对白银价格及A股白银概念股（如兴业矿业、盛达资源）产生短期扰动。信号中性偏空，但影响范围较小。",
+      "reason": "白银ETF停牌反映商品市场异常，对贵金属板块有情绪影响，符合优先级三的市场结构信号。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "贵金属",
+        "白银概念"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367233?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "山西调整公积金贷款提取政策",
+      "summary": "山西省优化住房公积金贷款和提取政策，具体细则待披露。此举属于地方政府因城施策，旨在支持合理住房需求，对当地房地产市场有一定刺激作用，但全国性影响有限。信号中性偏多，可关注山西区域地产股如山西路桥、太钢不锈等。",
+      "reason": "地方公积金政策调整属于行业政策微调，对地产板块有温和利好，符合优先级二的行业政策变动。",
       "category": "行业动态",
       "impact_stocks": [
-        "国产算力",
-        "光模块",
-        "AI服务器"
+        "山西地产",
+        "房地产"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2367211?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "券商策略看好国产算力接力",
+      "summary": "方正证券策略报告指出，海外算力打出高度后，国产算力接力顺理成章，看好AI产业链国产替代机会。该观点可能强化市场对国产算力板块（如寒武纪、海光信息、中科曙光等）的乐观预期，推动相关个股走强。但属于券商观点，需结合后续事件验证。信号偏多。",
+      "reason": "券商策略报告聚焦国产算力，符合当前AI产业趋势，对板块有情绪提振作用，属于优先级三的市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "国产算力",
+        "AI芯片",
+        "服务器"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2367215?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
+    },
+    {
+      "title": "医美化妆品4月报：国货亮眼",
+      "summary": "医美化妆品4月月报显示，2025年及2026Q1化妆品整体业绩表现优于医美，部分国货美妆品牌增长亮眼。数据表明化妆品行业景气度较高，国货替代趋势持续，利好珀莱雅、丸美股份等头部国货化妆品公司，对医美板块则偏中性。信号中性偏多。",
+      "reason": "行业月报提供基本面数据，反映消费趋势，对相关板块有中短期指引，符合优先级二的行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "化妆品",
+        "珀莱雅",
+        "丸美股份"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "手机新浪网",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDV3bDFDMjV5TDhFemk1Q1FSTm1xV3FPX2FXNUpBai1VRDNQa3lFc3VubFdNQ2dGRlAtZ2JoVDIyMFYyYTd1ckM0aHJCcjRDTGxKbUk5Qnd2S1JRQUdlZ1FtNUJXSGltM3lMZUMxWXdDTHRUTVZGTGREWVlPRmp6Z3pFc1hkcGhTNlVBUVN6YWVOcklZc2Iw?oc=5"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 62,
-  "generated_at": "2026-05-10T17:01:20.495354+08:00"
+  "total_fetched": 67,
+  "generated_at": "2026-05-10T17:22:13.625396+08:00"
 }
