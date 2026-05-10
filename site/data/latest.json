@@ -3,26 +3,66 @@
   "hour": "02",
   "news": [
     {
-      "title": "纳指100ETF溢价风险提示",
-      "summary": "广发纳斯达克100ETF发布溢价风险提示公告，该基金二级市场交易价格出现较大幅度溢价。近期美股科技股持续强势，带动QDII ETF溢价频现，此前已有中韩半导体ETF等停牌。该信号反映投资者对海外科技板块热情高涨，可能通过比价效应提振A股科技股情绪，但溢价过高也蕴含回调风险。短期看多A股算力、AI等科技板块，但需注意情绪过热后的波动。",
-      "reason": "QDII ETF溢价属于市场情绪极端信号，反映海外科技热度，可能传导至A股科技板块，影响短期交易行为。",
+      "title": "存储狂潮催生首只翻倍基",
+      "summary": "存储板块强势上涨，催生年内首只翻倍基金。部分基金经理认为行情可持续，仍然重仓；另一些则选择逢高减仓、见好就收。该事件反映出存储/算力产业链热度极高，但机构内部分歧加大，可能引发短期波动。对存储芯片、AI算力板块整体偏多头，但需警惕高位分化风险。",
+      "reason": "属于市场情绪信号，基金翻倍是极端表现，反映板块热度，同时机构分歧提供多空博弈线索。",
       "category": "市场情绪",
       "impact_stocks": [
-        "AI概念",
-        "算力",
+        "存储芯片",
+        "AI算力",
         "半导体"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "天天基金",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBubGpRdDZubDRrQXdVYl8waTk0MlpjdG9yQUt6Ty0zS2Fod2pTM3VKWlhsLUk3LUZNRWc4RzdqQnUzLWhCdmZHejJTdmdzekhqSzRBWXJWRThHbHdUb0FPYWtfQ3JlVmVhcWc"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JaWJGV3BVTW50N0xXN0RydFZWdVhLOW9pSGhNZllhdFBqV1RWU0UzT2tCZXVaMWI0dmZiU3ZGUnpHVFFmU0JROTdkS3h4bVpRQ0h1ZlZ4eVJZOTI2cll2Vzl6MWlCaV8tZUdheVc5OTFYYnZlbFdqTw?oc=5"
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "私募产品备案量同比增逾五成",
+      "summary": "今年前4个月，私募证券产品累计备案量同比增长超过50%，显示高净值资金加速流入股市。私募作为市场重要增量资金，其产品备案量大增是积极信号，有利于提升市场活跃度。该消息对A股整体偏多，尤其利好券商、财富管理板块。",
+      "reason": "资金流向信号，私募备案量增长反映机构入场意愿，对市场情绪有正面提振。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "券商",
+        "财富管理概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uS2JfbWV5RGxOd3h0UE8ydGlSeG4tTFliQVJnVFFrVjJDdHlGcUlIaW5WRGFRMGlCNkpFQXYzRzg2b0hUYzV5aGhxbzJ3WkYxOVJHLV9KZzZGR0I2LURfSQ?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "中资券商境外布局提速",
+      "summary": "中资券商加快海外业务拓展，呈现分层并进格局。龙头券商通过设立子公司、收购等方式布局东南亚、中东等市场。此举有助于券商开辟新增长曲线，提升国际化竞争力。对券商板块构成中长期利好，关注跨境业务收入占比高的头部券商。",
+      "reason": "行业动态，券商境外扩张是积极信号，有利于板块估值提升。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "券商",
+        "中信证券",
+        "华泰证券"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kOHhrck02TWRic1lwQU9GSjBhVFlJQ2lBMndwa3RsQzlxdHBLeXJObWdLZ2xhQ0JrNU0tVmpfZFBBQlpXQWZxeVJXZWpLM1VWaUhVMFZHMm9fYV96YUdoLQ?oc=5"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 14,
-  "generated_at": "2026-05-11T02:02:46.080878+08:00"
+  "total_fetched": 17,
+  "generated_at": "2026-05-11T02:45:13.987667+08:00"
 }
