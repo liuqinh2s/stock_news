@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-11",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 4/6 策略=完整内容 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5673,
+    "completion_tokens": 1519,
+    "total_tokens": 7192
+  },
+  "content_length": 1700,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"上海国资券商并购细节出炉\",\n      \"summary\": \"东方证券与上海证券并购细节披露，上海国资券商资源整合再进一步。此举将提升上海国资券商的市场竞争力，可能引发券商板块并购预期。看多信号，利好券商板块，尤其是上海本地券商。\",\n      \"reason\": \"属于重大并购重组，优先级一，影响券商板块格局。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"券商\", \"东方证券\", \"上海证券\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSjJ1VWtrQWYxZVctOGUxVXVZaXZuMnJsbm1nSE1UekV6aE1vZm9CRkFpVzRIYVNNVnJnRkNPSS1CUmFXdUlZbmxXR3Y3RVd3RXBiM21feUIzbXFHZmkwVC0xVU9lamFkbTJrRW5VejZYV2FhWVhwYg?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"特朗普称伊朗回应“完全不可接受”\",\n      \"summary\": \"美国总统特朗普表示伊朗对美国结束战争方案的回应“完全不可接受”，指责伊朗拖延。中东紧张局势升级，可能影响原油供应和全球风险偏好。看空信号，短期利空A股市场情绪，利好石油、黄金等避险板块。\",\n      \"reason\": \"地缘政治风险加剧，优先级二，影响石油价格和市场情绪。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油\", \"黄金\", \"军工\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367343?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"美国商船遭伊朗无人机袭击\",\n      \"summary\": \"一艘美国商船在波斯湾被伊朗无人机击中，无人员伤亡。事件进一步加剧霍尔木兹海峡紧张局势，增加军事冲突风险。看空信号，短期利空全球股市，推高油价，利好军工和航运板块。\",\n      \"reason\": \"冲突升级，优先级二，直接影响石油运输和地缘风险。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"石油\", \"军工\", \"航运\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2367339?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
