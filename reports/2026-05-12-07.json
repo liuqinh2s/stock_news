@@ -3,103 +3,205 @@
   "hour": "07",
   "news": [
     {
-      "title": "两融余额突破2.8万亿",
-      "summary": "截至5月11日，沪深两市融资融券余额突破2.8万亿元，创近三年新高。部分券商已将警戒线调整为115%，并增设即时平仓线。两融余额持续攀升显示杠杆资金积极入市，但券商收紧风控反映市场过热风险。短期看多（资金流入），中期需警惕强制平仓带来的踩踏风险。影响券商、两融标的股。",
-      "reason": "直接影响市场资金面与风险偏好，属于重要市场结构信号。",
-      "category": "市场结构",
+      "title": "特朗普期待中国之行",
+      "summary": "美国总统特朗普表示非常期待中国之行，释放中美关系缓和信号。此前美方请求暂停执行10%全球关税裁决，叠加此次表态，市场对贸易摩擦缓解预期升温。利好出口导向型行业及A股整体风险偏好，短期看多沪深300及外贸板块。",
+      "reason": "中美关系重大缓和信号，直接影响市场情绪和外资流向。",
+      "category": "监管政策",
       "impact_stocks": [
-        "券商",
-        "沪深300"
+        "沪深300",
+        "外贸板块",
+        "人民币资产"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260512/c676608788.shtml"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3101894"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "存储芯片短缺持续",
-      "summary": "多家机构数据显示，全球存储芯片供需缺口扩大，AI服务器需求强劲，叠加产能扩张受限，DRAM和NAND Flash价格持续上涨。国内存储产业链如模组、封测、材料环节深度受益，相关企业营收与毛利率环比显著改善。看多存储芯片、AI算力板块。",
-      "reason": "行业景气度提升，直接利好A股存储概念股，属于中期影响。",
-      "category": "行业动态",
+      "title": "特朗普政府请求暂停10%关税",
+      "summary": "特朗普政府请求法院暂停执行针对10%全球关税的裁决，显示贸易政策可能软化。若暂停执行，将直接利好外贸出口企业，降低关税成本，提振制造业信心。对A股出口导向型板块如家电、机械、纺织构成利好，看多相关板块。",
+      "reason": "关税政策潜在转向，直接影响出口企业盈利预期。",
+      "category": "监管政策",
       "impact_stocks": [
-        "存储芯片",
-        "AI算力",
-        "半导体"
+        "外贸板块",
+        "家电",
+        "机械"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676609134.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "现货白银暴涨9%站上87美元",
+      "summary": "现货白银日内暴涨9%，站上87美元/盎司，创约2个月新高。白银ETF持仓单日增加36.59吨。贵金属强势上行，提振A股白银及黄金概念股，如银泰黄金、兴业矿业等。但短期涨幅过大需警惕回调风险，整体看多贵金属板块。",
+      "reason": "贵金属价格剧烈波动，直接利好相关个股，白银涨幅远超黄金。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "白银概念",
+        "黄金概念",
+        "贵金属"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676609453.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "黄金触及4750美元新高",
+      "summary": "现货黄金向上触及4750美元/盎司，延续涨势。黄金价格持续走强，利好A股黄金矿业公司如山东黄金、中金黄金等。同时避险情绪推升金价，对大盘整体影响中性偏多。",
+      "reason": "黄金价格创新高，直接提升黄金股盈利预期。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "黄金概念",
+        "山东黄金",
+        "中金黄金"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676608883.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "医保即时结算改革落地",
+      "summary": "医保即时结算改革落地见效，多数医药企业现金流同比改善。政策直接优化药企回款周期，降低财务成本，利好医药板块现金流改善，尤其创新药和中药企业。看多医药板块。",
+      "reason": "行业政策利好，直接改善药企经营质量。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "医药板块",
+        "创新药",
+        "中药"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676609432.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "铝材出口强劲，库存去化提速",
+      "summary": "铝材出口数据强劲，行业库存去化加速，供需格局改善。利好铝业上市公司，如中国铝业、云铝股份等。铝价有望获得支撑，板块景气度提升，看多铝板块。",
+      "reason": "行业基本面改善信号，出口和库存均指向需求旺盛。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "铝业",
+        "中国铝业",
+        "云铝股份"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676609486.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "百亿私募增至136家创新高",
+      "summary": "百亿私募机构数量增至136家，创历史新高。机构投资者规模扩大，反映市场资金充裕且长期看好A股，有利于市场稳定和估值提升。看多A股整体。",
+      "reason": "市场结构重要指标，机构入场信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "绩优股"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368483?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2368518?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "A股数据资产入表38.6亿元",
+      "summary": "A股数据资源入表成绩单出炉：134家企业入表38.6亿元，数据资产化驶入快车道。利好数据要素板块，如大数据、云计算、数据交易相关个股。长期看多数据要素产业链。",
+      "reason": "政策推动数据资产化，相关板块迎来价值重估。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "数据要素",
+        "大数据",
+        "云计算"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YWWNxWFdvUWRBVTRqdEV5OHl5YTVhb2M3SzJ5QjhyeFJVTWN5bUhxeHBadW1TOFlMOGMtYk90QnVmbmhCbXFmbkJoOGp6dzdTV0I2R2h3cDg4VXFT?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "中信建投:燃气轮机供需缺口",
+      "summary": "中信建投预计2026-2028年全球燃气轮机供需缺口分别为16、16和19GW。国内燃气轮机产业链相关企业有望受益，如航发动力、应流股份等。行业景气向上，但短期影响有限，中性偏多。",
+      "reason": "机构研报揭示行业潜在增长空间，关注配套设备板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "燃气轮机",
+        "航发动力",
+        "电力设备"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676609259.shtml"
         }
       ],
       "urgency": "days"
     },
     {
       "title": "券商板块配置性价比凸显",
-      "summary": "市场交投活跃，沪深两市成交额连续多日维持高位，叠加券商一季报超预期，多家机构认为当前券商板块估值仍处低位，配置价值突出。若市场行情延续，券商经纪、自营业务收入有望进一步增长。看多券商板块。",
-      "reason": "交投活跃是市场情绪重要指标，券商受益逻辑清晰，属于中期信号。",
+      "summary": "交投活跃叠加一季报超预期，券商板块配置性价比凸显。市场成交量放大、指数上行利好券商经纪及自营业务，一季报增长巩固业绩基础。看多券商板块。",
+      "reason": "直接受益于市场活跃度提升，基本面与情绪双重催化。",
       "category": "市场情绪",
       "impact_stocks": [
-        "券商",
-        "沪深300"
+        "券商板块",
+        "中信证券",
+        "东方财富"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
           "name": "东方财富",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41Zk9Zd3Q1cGNTdEg5SXZGc0daZVYxZnBXRG9kY2U1bS0tR1lCa3lYU25obWw4ZGs1N1RhOTBiMU9zMXk4ay02UXhxelpWcmkyUEtxSHlKV1NfLTBFS2lYQQ?oc=5"
         }
       ],
-      "urgency": "days"
-    },
-    {
-      "title": "一线城市二手房成交创新高",
-      "summary": "2026年4月，北京、上海、广州、深圳二手房成交套数环比增长超20%，同比增幅超50%，创近两年新高。但居民中长期贷款增长仍偏慢，反映按揭需求修复滞后。二手房回暖利好房地产中介、家装、建材，但需关注后续信贷数据。短期内房地产市场景气度回升，对地产板块中性偏多。",
-      "reason": "房地产行业复苏信号，影响地产链相关板块。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "房地产",
-        "家装建材",
-        "银行"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260512/c676608768.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "韩国股市ETF遭大规模赎回",
-      "summary": "韩国股市今年以来涨幅领跑全球，但近期资金开始撤离，上周韩国ETF净流出达25亿美元，创历史新高。资金回流或部分流向A股和新兴市场，对A股形成潜在利好，但需警惕亚太市场情绪传导。短期中性，中期若A股吸引力增强，可能吸引外资流入。",
-      "reason": "全球资金流动可能影响北向资金和A股市场情绪。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "创业板"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772017"
-        }
-      ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 54,
-  "generated_at": "2026-05-12T07:01:22.921636+08:00"
+  "total_fetched": 59,
+  "generated_at": "2026-05-12T07:46:32.248955+08:00"
 }
