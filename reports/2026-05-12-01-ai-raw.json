@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-12",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 17890,
+    "completion_tokens": 4031,
+    "total_tokens": 21921
+  },
+  "content_length": 1565,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美国天然气期货涨超5%\",\n      \"summary\": \"美国天然气期货涨幅扩大至5%以上，触及五周高点，原因是近期产量下降。这可能传导至国内能源市场，影响A股天然气相关个股如新奥股份、广汇能源等。短期看多天然气板块。\",\n      \"reason\": \"国际能源价格大幅上涨，可能带动A股能源板块跟涨，属于行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"天然气概念\", \"新奥股份\", \"广汇能源\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2368428?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"高盛合伙人示警市场泡沫\",\n      \"summary\": \"高盛合伙人在媒体上表示，当前市场走势'略带2000年泡沫气息'，提醒投资者注意风险。该言论可能影响市场情绪，尤其是对A股当前强势上涨行情产生心理压制。短期偏空信号，但需观察后续反应。\",\n      \"reason\": \"著名投行高管对市场风险的公开警告，属于市场情绪信号，可能引发投资者谨慎。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3772013\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"印度卢比贬值或限制黄金进口\",\n      \"summary\": \"印度卢比持续贬值，印度政府悄然筹划外汇保卫战，限购黄金或成第一步。这可能减少全球黄金需求，但短期看，避险情绪可能推升金价。对A股黄金板块影响中性，需关注后续措施。\",\n      \"reason\": \"印度作为黄金消费大国，其政策变动可能影响全球金价，从而波及A股黄金股。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"黄金概念\", \"山东黄金\", \"中金黄金\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3772012\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前时段A股相关重大新消息较少，仅筛选出3条具有潜在影响的国际消息。\"\n}"
+}
