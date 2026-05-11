@@ -3,73 +3,47 @@
   "hour": "02",
   "news": [
     {
-      "title": "特朗普将签AI安全令",
-      "summary": "据报道，美国总统特朗普最快将于周一签署关于AI安全的行政命令。此举可能涉及AI监管框架、数据安全及产业标准，直接影响国内AI概念板块。若命令强调安全可控，可能对AI算力、数据安全等细分领域形成政策利好，看多AI板块；但若涉及出口管制，可能对部分芯片企业形成压力。整体上，政策信号偏积极，预计提振市场对AI产业信心。",
-      "reason": "AI产业政策属于行业动态，优先级二，对A股AI板块有潜在影响。",
-      "category": "行业动态",
+      "title": "白银单日暴涨7%",
+      "summary": "白银价格突然暴涨7%，可能是受供需关系或投机资金推动。白银作为工业金属和避险资产，其上涨通常利好A股贵金属板块（如白银有色、紫金矿业等）。短期看多信号，但需注意追高风险。",
+      "reason": "白银暴涨对A股有色/贵金属板块有直接刺激作用，属于资金流向与市场情绪信号。",
+      "category": "资金流向",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "数据安全"
+        "白银有色",
+        "紫金矿业",
+        "贵金属板块"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260512/c676607825.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368435"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772014"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "以色列空袭黎南部",
-      "summary": "以色列对黎巴嫩南部多个村庄实施空袭，摧毁真主党火箭弹发射装置。中东局势再度紧张，可能影响原油供应预期及避险情绪。对A股影响：石油板块可能短期上涨，黄金等避险资产受提振；但地缘风险整体利空风险偏好，需警惕情绪传导。该消息为美伊冲突的延续，但空袭行动表明局势升级。",
-      "reason": "地缘政治冲突影响原油和避险资产，属于市场情绪信号，优先级三。",
-      "category": "市场情绪",
+      "title": "韩半导体出口创新高",
+      "summary": "韩国半导体出口连续创新高，反映出全球半导体需求旺盛。该消息可能提振A股半导体板块情绪，尤其是存储芯片、设备材料等环节。短期看多，但需关注国内产业链自主化进展。",
+      "reason": "韩国出口数据是半导体行业景气度的重要先行指标，利好A股半导体相关个股。",
+      "category": "行业动态",
       "impact_stocks": [
-        "石油",
-        "黄金",
-        "军工"
+        "半导体",
+        "存储芯片",
+        "中芯国际",
+        "北方华创"
       ],
-      "signal": "neutral",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260512/c676607850.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368436"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "Hudson River收入创纪录",
-      "summary": "Hudson River Trading一季度交易收入64亿美元，创历史最佳，较2025年总营收增超50%。作为顶级量化交易机构，其收入大增反映市场波动与成交活跃。对A股而言，量化交易活跃可能加剧短期波动，但也显示市场流动性充裕。间接利好券商及金融科技板块，但直接关联有限。",
-      "reason": "反映全球量化交易趋势，对A股市场情绪有间接影响，优先级三。",
-      "category": "市场结构",
-      "impact_stocks": [
-        "券商",
-        "金融科技"
-      ],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368426"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3771989"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 35,
-  "generated_at": "2026-05-12T02:02:27.655489+08:00"
+  "total_fetched": 28,
+  "generated_at": "2026-05-12T02:33:30.136634+08:00"
 }
