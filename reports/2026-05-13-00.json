@@ -3,15 +3,14 @@
   "hour": "00",
   "news": [
     {
-      "title": "费城半导体指数暴跌6%",
-      "summary": "费城半导体指数跌幅扩大至6%，高通跌12%，英特尔跌超10%，存储板块大幅回调。美光科技、闪迪、西部数据等跟跌。此前美股芯片股连续多日上涨，获利盘涌出。该指数暴跌将直接压制A股半导体、算力、光模块等板块情绪，短期看空信号明显。",
-      "reason": "美股芯片股作为A股科技股风向标，暴跌将引发A股半导体板块调整，属优先级一/资金流向类消息。",
-      "category": "资金流向",
+      "title": "美股半导体暴跌，高通英特尔跌超10%",
+      "summary": "费城半导体指数跌幅扩大至6%，高通跌12%，英特尔跌超10%，存储板块大幅回调。此前芯片股连续大涨后获利回吐。短期将对A股半导体/算力板块形成情绪压制，但可能提供低吸机会。",
+      "reason": "美股科技股暴跌直接影响A股科技板块情绪，按优先级二。",
+      "category": "市场结构",
       "impact_stocks": [
         "半导体",
         "算力",
-        "光模块",
-        "中际旭创"
+        "AI概念"
       ],
       "signal": "bearish",
       "impact_level": 4,
@@ -24,88 +23,86 @@
       "urgency": "immediate"
     },
     {
-      "title": "布伦特原油涨超4%",
-      "summary": "布伦特原油期货涨幅扩大至4%，报108.383美元/桶，WTI原油涨超4%至102美元。乌克兰袭击俄罗斯奥伦堡天然气设施，地缘风险升级。国际油价大涨将利好A股石油石化板块（中国石油、中国石化），但可能推升通胀预期，对整体市场偏空。短期看多石油板块。",
-      "reason": "油价大涨直接利好A股石油板块，同时地缘风险影响全球风险偏好，属优先级二/行业动态。",
-      "category": "行业动态",
+      "title": "EIA预计霍尔木兹海峡关闭至5月底",
+      "summary": "EIA报告预计霍尔木兹海峡将关闭至5月底，6月逐步恢复通航。同时上调2026年布伦特原油价格预期至95美元/桶，WTI原油涨超4%。油价大涨利好石油石化板块，但可能加剧全球通胀担忧，对货币政策产生收紧预期。",
+      "reason": "地缘事件影响能源价格，直接利好石油板块，同时影响宏观预期，按优先级二。",
+      "category": "宏观经济",
       "impact_stocks": [
         "石油石化",
         "中国石油",
-        "中国石化",
-        "中海油服"
+        "中国海油"
       ],
       "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369503?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "LME伦铜高位回落",
-      "summary": "LME伦铜回落至14000美元/吨下方，日内涨幅收窄至0.39%。此前铜价连续上涨后出现回调。铜价下跌将利空A股有色金属板块（江西铜业、紫金矿业），但整体跌幅不大，短期影响有限。需关注全球需求变化。",
-      "reason": "铜价作为经济风向标，高位回落影响有色板块情绪，属优先级二/宏观经济。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "有色金属",
-        "江西铜业",
-        "紫金矿业",
-        "铜陵有色"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369500?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2369540?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "欧洲股市集体下跌",
-      "summary": "欧洲主要股指收盘集体下跌，德国DAX30指数跌1.69%。受美伊局势、通胀数据及芯片股暴跌影响，全球风险资产承压。欧股下跌将传导至A股开盘情绪，短期偏空，但中期仍需关注中国自身基本面。",
-      "reason": "海外市场联动影响A股情绪，属优先级二/海外市场联动。",
-      "category": "市场情绪",
+      "title": "亿纬锂能签8GWh储能大单",
+      "summary": "亿纬锂能与印度GNEPL签署8GWh储能大电池订单，金额未披露。国内储能产业出海加速，利好亿纬锂能及储能产业链，尤其是海外业务占比高的电池企业。",
+      "reason": "公司重大订单，影响新能源板块。",
+      "category": "公司公告",
       "impact_stocks": [
-        "沪深300",
-        "上证50"
+        "亿纬锂能",
+        "储能",
+        "新能源"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369509?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676638650.shtml"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "days"
     },
     {
-      "title": "美股光通信板块回调",
-      "summary": "美股光通信板块开盘集体回调，康宁跌超4%。此前光通信板块连续上涨，获利回吐。A股光模块（中际旭创、新易盛、天孚通信）与美股联动紧密，短期可能承压。但行业长期景气度不改，警惕短期调整风险。",
-      "reason": "光通信板块联动性强，直接影响A股光模块龙头，属优先级二/行业动态。",
-      "category": "行业动态",
+      "title": "北向资金持续加仓A股",
+      "summary": "近期外资集体加仓A股，视中国资产为避风港。北向资金连续多日净流入，重仓股曝光。外资流入为市场提供增量资金，利好沪深300及核心资产。",
+      "reason": "北向资金流向是优先级一的关键信号。",
+      "category": "资金流向",
       "impact_stocks": [
-        "光模块",
-        "中际旭创",
-        "新易盛",
-        "天孚通信"
+        "沪深300",
+        "上证50",
+        "贵州茅台"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXZqN0hUd0drcHZ6d1J4QXF4bFpqOVZlbnNnZlpubGJ6djFySVJ6S1VqV2ZOTFJxc2owTGJaZWxBRUdKVnJiZEU2VEVSbU9jOFU0TkNWRDE3Yk84YlhOZWtELUw5MEw0RUhlaXJCVTdTRUdxRTltNl9kVlBMSXdIWHZYRlpQTng2VXdTWEJ2bG9VWG5Z?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "A股融资余额首破2.8万亿",
+      "summary": "A股融资余额突破2.8万亿元，部分券商增设两融即时平仓线。杠杆资金集中涌入科技、半导体等赛道。短期助涨，但需警惕强制平仓风险，市场波动加大。",
+      "reason": "融资余额创历史新高，反映杠杆资金情绪，按优先级三。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "科技",
+        "半导体",
+        "券商"
+      ],
+      "signal": "neutral",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369491?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUWhOYjlTY0dYR0pvVlV0MXZhbGFMdmZsZnE4bnFjZVNnb1ZnRmtlYlpfcFdiOGxhRm13NllaVkxJSnQxNl9PVkFueXJwWmY5WDVycFdsSEI4T3E1Q3h0ZldCMjlSRS1pUjFmLUIxLUZ3Q0tRLU9fVjBFQlRrMWNZLVUxNE1IZ3EzYUpBYW1saHM4eE56bnBTWmI3X1loNGp5RnZNQ1lORmROSXB3NnZxbjYwT1RTNFVLODlQUXhIbDEzVVNNb0FlUlhBS2M5NTAtcGdLNTZLWWI?oc=5"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 63,
-  "generated_at": "2026-05-13T00:01:44.550283+08:00"
+  "total_fetched": 52,
+  "generated_at": "2026-05-13T00:13:29.253663+08:00"
 }
