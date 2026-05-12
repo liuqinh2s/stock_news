@@ -1,22 +1,64 @@
 {
   "date": "2026-05-13",
   "hour": "02",
-  "total": 45,
-  "fetched_at": "2026-05-13T02:00:43.951367+08:00",
+  "total": 40,
+  "fetched_at": "2026-05-13T02:30:10.436292+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "A股第十只千元股出炉，中际旭创市值超万亿元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1JLVFIUFZHSGdzVW80UDZfSHRLb0JyYkZTRWdfYzFsZXB4czhCdzVGejNITFJpZjlZelNIaTdlaC1GYVg5N1NkRXh6YXl5ZEE0andrVVk2Q1gyNnFQXzNOU2tzWHI1bmdTMzlTXzE0cWVtRzVvRnhQZw?oc=5\" target=\"_blank\">A股第十只千元股出炉，中际旭创市值超万亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JLVFIUFZHSGdzVW80UDZfSHRLb0JyYkZTRWdfYzFsZXB4czhCdzVGejNITFJpZjlZelNIaTdlaC1GYVg5N1NkRXh6YXl5ZEE0andrVVk2Q1gyNnFQXzNOU2tzWHI1bmdTMzlTXzE0cWVtRzVvRnhQZw?oc=5",
-      "published": "Tue, 12 May 2026 16:20:00 GMT"
-    },
     {
       "source": "东方财富",
       "title": "05/12 全天涨停股票 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjZ2SkJ0V19Zb2tyNWtLekNBajMyVW9rQUZXUlBqdGo0ZnRBRzI5ZGZFdTV4WmR6VzVia3ptYzRJSUJRNkFDUGo2OTNsaVBUWmg5VWszRVVxaVFZY2Fva002b1FoaTJadHE5WlZ0WDhqQ2dQWUNQclJqWkcwU2U3SEp6enhnVWRCMWotYjlqVFdBY2R5WmxYcEM0TXBsLTd4cWdZbjBySzJ6aTdRbEtuTXdOVQ?oc=5\" target=\"_blank\">05/12 全天涨停股票</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjZ2SkJ0V19Zb2tyNWtLekNBajMyVW9rQUZXUlBqdGo0ZnRBRzI5ZGZFdTV4WmR6VzVia3ptYzRJSUJRNkFDUGo2OTNsaVBUWmg5VWszRVVxaVFZY2Fva002b1FoaTJadHE5WlZ0WDhqQ2dQWUNQclJqWkcwU2U3SEp6enhnVWRCMWotYjlqVFdBY2R5WmxYcEM0TXBsLTd4cWdZbjBySzJ6aTdRbEtuTXdOVQ?oc=5",
       "published": "Tue, 12 May 2026 16:37:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡",
+      "summary": "当地时间5月12日，伊朗外交部发言人巴加埃表示，结束战事和解除对霍尔木兹海峡的封锁是同美国进行任何谈判的先决条件。巴加埃还表示，美国要求的是伊朗“彻底投降”，而不是真正的对话。他还指出，封锁霍尔木兹海峡的责任在于美国，根据国际法，海上封锁构成战争行为。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260513/c676639362.shtml",
+      "published": "Tue, 12 May 2026 18:27:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊媒披露伊美新一轮谈判5个先决条件",
+      "summary": "伊朗对与美国新一轮谈判提出的5个先决条件包括：结束所有战线的战争，尤其是在黎巴嫩；解除对伊朗的制裁；解冻伊朗资金；赔偿战争造成的损失；承认伊朗对霍尔木兹海峡的主权。该知情人士表示，如果这些条件未能实现，伊美将无法进入新的谈判阶段。（CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20260513/c676639341.shtml",
+      "published": "Tue, 12 May 2026 18:21:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报",
+      "summary": "据报道，微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260513/c676639338.shtml",
+      "published": "Tue, 12 May 2026 18:19:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国际原油期货走高，WTI原油期货价格涨4.54%",
+      "summary": "国际原油期货走高，WTI原油期货价格涨4.54%，报102.52美元/桶；布伦特原油期货价格涨3.72%，报108.08美元/桶。",
+      "link": "https://news.10jqka.com.cn/20260513/c676639327.shtml",
+      "published": "Tue, 12 May 2026 18:14:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元",
+      "summary": "据报道，OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260513/c676639323.shtml",
+      "published": "Tue, 12 May 2026 18:12:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英国将向霍尔木兹海峡多国护航行动派遣战机及军舰",
+      "summary": "当地时间12日，英国国防部表示，英国将向在霍尔木兹海峡执行任务的多国护航行动提供无人机、战机及军舰支持。此次行动将获得1.15亿英镑新增资金支持，相关资金将用于水雷搜索无人机及反无人机系统建设。英国国防大臣约翰·希利表示：“英国将与盟友一道，推动这一多国行动。”分析认为，在中东局势持续紧张、霍尔木兹海峡安全风险上升背景下，英国正进一步强化其在海湾地区的军事存在，并加强与盟友在海上安全领域的协调行动。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260513/c676639312.shtml",
+      "published": "Tue, 12 May 2026 18:05:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国财政部：美国2026财年迄今赤字为9540亿美元",
+      "summary": "美国财政部数据显示，美国2026财年迄今赤字为9540亿美元，而2025财年同期赤字为1.05万亿美元。美国4月预算支出6220亿美元，2025年4月为5920亿美元；4月收入8370亿美元，2025年4月为8500亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260513/c676639309.shtml",
+      "published": "Tue, 12 May 2026 18:02:55 GMT"
     },
     {
       "source": "同花顺",
@@ -75,60 +117,67 @@
       "published": "Tue, 12 May 2026 16:34:31 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "美参议院投票批准凯文·沃什出任美联储主席",
-      "summary": "美国参议院当地时间5月12日投票批准凯文.沃什出任美联储主席，目前相关投票程序仍在继续。1月30日，特朗普提名美联储前理事凯文.沃什出任美联储主席，接替现任主席鲍威尔。",
-      "link": "https://news.10jqka.com.cn/20260513/c676639132.shtml",
-      "published": "Tue, 12 May 2026 16:29:54 GMT"
+      "source": "财联社",
+      "title": "伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡",
+      "summary": "【伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡】财联社5月13日电，伊朗外交部发言人巴加埃当地时间5月12日表示，结束战事和解除对霍尔木兹海峡的封锁是同美国进行任何谈判的先决条件。巴加埃还表示，美国要求的是伊朗“彻底投降”，而不是真正的对话。他还指出，封锁霍尔木兹海峡的责任在于美国，根据国际法，海上封锁构成战争行为。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2369570?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:26:46 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "美光科技股价跌幅进一步扩大至10%",
-      "summary": "美光科技股价跌幅进一步扩大至10%，此前的29个交易日累计大涨147%。",
-      "link": "https://news.10jqka.com.cn/20260513/c676639123.shtml",
-      "published": "Tue, 12 May 2026 16:27:40 GMT"
+      "source": "财联社",
+      "title": "俄经济发展部部长：过去三年俄经济增长10%",
+      "summary": "【俄经济发展部部长：过去三年俄经济增长10%】财联社5月13日电，俄罗斯总统普京当地时间5月12日会见俄经济发展部部长列舍特尼科夫。列舍特尼科夫向普京汇报了俄罗斯经济发展情况。列舍特尼科夫表示，过去三年俄罗斯经济增长了10%。列舍特尼科夫指出，当前经济形势为央行放松货币政策提供了条件，并强调，俄罗斯经济形势正在趋于稳定。",
+      "link": "https://api3.cls.cn/share/article/2369569?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:21:52 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "超百名工党下院议员签署声明支持斯塔默留任",
-      "summary": "已有超过100名工党下院议员签署声明支持英国首相斯塔默留任。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260513/c676639111.shtml",
-      "published": "Tue, 12 May 2026 16:23:27 GMT"
+      "source": "财联社",
+      "title": "伊媒披露伊美新一轮谈判5个先决条件",
+      "summary": "【伊媒披露伊美新一轮谈判5个先决条件】财联社5月13日电，据伊朗法尔斯通讯社援引知情人士消息报道，当地时间5月12日，伊朗对与美国新一轮谈判提出的5个先决条件包括：结束所有战线的战争，尤其是在黎巴嫩；解除对伊朗的制裁；解冻伊朗资金；赔偿战争造成的损失；承认伊朗对霍尔木兹海峡的主权。该知情人士表示，如果这些条件未能实现，伊美将无法进入新的谈判阶段。 (CCTV国际时讯)",
+      "link": "https://api3.cls.cn/share/article/2369568?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:20:59 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "EIA：预计2027年商业用电需求首次超过民用需求",
-      "summary": "EIA发布短期能源展望报告，其中提到，在预测中，美国2026年电力需求增长1.3%，平均接近42500亿千瓦时，2027年再增长3.1%。电力需求增长主要来自商业部门，预计2027年商业用电需求将有记录以来首次超过居民用电需求。工业用电需求也在增长，尽管增速较慢，也进一步推动了整体增长。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260513/c676639080.shtml",
-      "published": "Tue, 12 May 2026 16:14:57 GMT"
+      "source": "财联社",
+      "title": "财联社5月13日电，据报道，微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
+      "summary": "财联社5月13日电，据报道，微软在OpenAI上130亿美元的投资，已收回超过两倍的营收回报。",
+      "link": "https://api3.cls.cn/share/article/2369567?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:18:23 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "SpaceX与谷歌正就探索在轨数据中心进行洽谈",
-      "summary": "据报道，SpaceX与谷歌正就探索在轨数据中心进行洽谈。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260513/c676639065.shtml",
-      "published": "Tue, 12 May 2026 16:09:33 GMT"
+      "source": "财联社",
+      "title": "财联社5月13日电，国际原油期货走高，WTI原油期货价格涨4.54%，报102.518美元/桶；布伦特原油期货价格涨3.72%，报108.085美元/桶。",
+      "summary": "财联社5月13日电，国际原油期货走高，WTI原油期货价格涨4.54%，报102.518美元/桶；布伦特原油期货价格涨3.72%，报108.085美元/桶。",
+      "link": "https://api3.cls.cn/share/article/2369566?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:13:13 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "EIA：预计霍尔木兹海峡将关闭至5月底 6月逐步恢复通航",
-      "summary": "EIA月度短期能源展望报告预计霍尔木兹海峡将关闭至5月底，6月逐步恢复通航，并于2026年晚些时候达到冲突前水平。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260513/c676639062.shtml",
-      "published": "Tue, 12 May 2026 16:08:55 GMT"
+      "source": "财联社",
+      "title": "财联社5月13日电，据报道，OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。",
+      "summary": "财联社5月13日电，据报道，OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。",
+      "link": "https://api3.cls.cn/share/article/2369565?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:11:33 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "EIA：预计2026年全球石油需求为1.04亿桶/日",
-      "summary": "EIA月度短期能源展望报告显示，预计2026年全球石油需求为1.04亿桶/日，此前预测为1.05亿桶/日；预计2027年需求为1.06亿桶/日，此前预测为1.06亿桶/日。预计2026年全球石油产量为1.02亿桶/日，此前预测为1.04亿桶/日；预计2027年产量为1.09亿桶/日，此前预测为1.09亿桶/日。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260513/c676639052.shtml",
-      "published": "Tue, 12 May 2026 16:07:59 GMT"
+      "source": "财联社",
+      "title": "财联社5月13日电，亚马逊称，已在超过1000个城市和城镇提供当日生鲜杂货配送，并计划在年底前将覆盖范围扩大一倍。",
+      "summary": "财联社5月13日电，亚马逊称，已在超过1000个城市和城镇提供当日生鲜杂货配送，并计划在年底前将覆盖范围扩大一倍。",
+      "link": "https://api3.cls.cn/share/article/2369564?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:10:14 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "EIA：预计2026年布伦特原油价格95美元/桶",
-      "summary": "EIA月度短期能源展望报告显示，预计2026年布伦特原油价格95美元/桶，此前预计96美元/桶；预计2027年79美元/桶，此前预计76美元/桶。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260513/c676639001.shtml",
-      "published": "Tue, 12 May 2026 16:03:06 GMT"
+      "source": "财联社",
+      "title": "英国将向霍尔木兹海峡多国护航行动派遣战机及军舰",
+      "summary": "【英国将向霍尔木兹海峡多国护航行动派遣战机及军舰】财联社5月13日电，据英国国防部消息，英国将向在霍尔木兹海峡执行任务的多国护航行动提供无人机、战机及军舰支持，进一步强化海湾地区安全部署。英国国防部声明称，英方此次投入将包括“台风”战斗机以及英国“龙”号驱逐舰等。",
+      "link": "https://api3.cls.cn/share/article/2369563?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:04:26 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美国财政部：美国2026财年迄今赤字为9540亿美元",
+      "summary": "【美国财政部：美国2026财年迄今赤字为9540亿美元】财联社5月13日电，美国财政部数据显示，美国2026财年迄今赤字为9540亿美元，而2025财年同期赤字为1.049万亿美元。美国4月预算支出6220亿美元，2025年4月为5920亿美元；4月收入8370亿美元，2025年4月为8500亿美元。",
+      "link": "https://api3.cls.cn/share/article/2369562?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 18:02:11 GMT"
     },
     {
       "source": "财联社",
@@ -208,62 +257,6 @@
       "published": "Tue, 12 May 2026 16:33:31 GMT"
     },
     {
-      "source": "财联社",
-      "title": "美参议院投票批准凯文·沃什出任美联储主席",
-      "summary": "【美参议院投票批准凯文·沃什出任美联储主席】财联社5月13日电，美国参议院当地时间5月12日投票批准凯文·沃什出任美联储主席，目前相关投票程序仍在继续。1月30日，特朗普提名美联储前理事凯文·沃什出任美联储主席，接替现任主席鲍威尔。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2369546?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:27:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美光科技股价跌幅进一步扩大至10%",
-      "summary": "【美光科技股价跌幅进一步扩大至10%】财联社5月13日电，美光科技股价跌幅进一步扩大至10%，报715.79美元/股；此前的29个交易日累计大涨147%。<br /><img src=\"https://image.cls.cn/images/20260513/120M6bXbW2_957x556.png\" />",
-      "link": "https://api3.cls.cn/share/article/2369527?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:26:50 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "EIA：预计2027年商业用电需求首次超过民用需求",
-      "summary": "【EIA：预计2027年商业用电需求首次超过民用需求】财联社5月13日电，EIA发布短期能源展望报告，其中提到，在预测中，美国2026年电力需求增长1.3%，平均接近42,500亿千瓦时，2027年再增长3.1%。电力需求增长主要来自商业部门，预计2027年商业用电需求将有记录以来首次超过居民用电需求。工业用电需求也在增长，尽管增速较慢，也进一步推动了整体增长。",
-      "link": "https://api3.cls.cn/share/article/2369543?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:14:21 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "SpaceX与谷歌就火箭发射协议进行谈判 双方可能在太空计算领域形成既合作又竞争的复杂关系",
-      "summary": "【SpaceX与谷歌就火箭发射协议进行谈判 双方可能在太空计算领域形成既合作又竞争的复杂关系】财联社5月13日电，据报道，SpaceX正与谷歌就火箭发射协议进行谈判。随着谷歌推进其“轨道数据中心”计划，双方可能在太空计算领域形成既合作又竞争的复杂关系。消息人士称，谷歌希望借助SpaceX的发射能力，将其正在研发的轨道数据中心送入太空。与此同时，这一尚未验证的技术被SpaceX首席执行官马斯克视为其火箭公司的下一个前沿阵地。其中一位知情人士称，谷歌同时也在与其他火箭发射公司洽谈潜在合作。",
-      "link": "https://api3.cls.cn/share/article/2369541?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:08:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "EIA：预计霍尔木兹海峡将关闭至5月底 6月逐步恢复通航",
-      "summary": "【EIA：预计霍尔木兹海峡将关闭至5月底 6月逐步恢复通航】财联社5月13日电，EIA月度短期能源展望报告预计霍尔木兹海峡将关闭至5月底，6月逐步恢复通航，并于2026年晚些时候达到冲突前水平。",
-      "link": "https://api3.cls.cn/share/article/2369540?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:08:19 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "EIA：预计2026年全球石油需求为1.042亿桶/日",
-      "summary": "【EIA：预计2026年全球石油需求为1.042亿桶/日】财联社5月13日电，EIA月度短期能源展望报告显示，预计2026年全球石油需求为1.042亿桶/日，此前预测为1.046亿桶/日；预计2027年需求为1.056亿桶/日，此前预测为1.062亿桶/日。预计2026年全球石油产量为1.016亿桶/日，此前预测为1.043亿桶/日；预计2027年产量为1.095亿桶/日，此前预测为1.095亿桶/日。",
-      "link": "https://api3.cls.cn/share/article/2369539?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:07:24 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美国农业部：5月美国2026/2027年度大豆产量预期为44.35亿蒲式耳 不及预期",
-      "summary": "【美国农业部：5月美国2026/2027年度大豆产量预期为44.35亿蒲式耳 不及预期】财联社5月13日电，美国农业部数据显示，5月美国2026/2027年度大豆产量预期为44.35亿蒲式耳，市场预期为44.44亿蒲式耳。5月美国2026/2027年度大豆期末库存预期为3.1亿蒲式耳，市场预期为3.61亿蒲式耳。5月美国2026/2027年度大豆单产预期为53蒲式耳/英亩，市场预期为53蒲式耳/英亩。",
-      "link": "https://api3.cls.cn/share/article/2369530?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:03:19 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "EIA：预计2026年布伦特原油价格95美元/桶",
-      "summary": "【EIA：预计2026年布伦特原油价格95美元/桶】财联社5月13日电，EIA月度短期能源展望报告显示，预计2026年布伦特原油价格95美元/桶，此前预计96美元/桶；预计2027年79美元/桶，此前预计76美元/桶。预计2026年WTI原油价格为85.68美元/桶，此前预期为87.41美元/桶。预计2027年WTI原油价格为74.39美元/桶，此前预期为72.43美元/桶。",
-      "link": "https://api3.cls.cn/share/article/2369529?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 16:02:32 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "中东“暗战”升级？科威特称伊朗军方人员企图“渗透”波斯湾战略岛屿、双方交火，已逮捕四人",
       "summary": "<p>海湾局势再现紧张升级迹象。</p>\n<p>据多家媒体当地时间12日周二报道，科威特声称，伊朗伊斯兰革命卫队的人员试图潜入科威特岛屿布比延（Bubiyan）实施“敌对行动”，并在行动过程中与科威特的安全部队发生交火。</p>\n<p>科威特内政部当地时间12日周二宣布，本月早些时候逮捕四名自认隶属于伊朗伊斯兰革命卫队的人员。据科威特官方通讯社报道，这批人员试图乘坐渔船从海上渗入科威特岛屿布比延（Bubiyan），驻守该岛的科威特武装部队随即与其交火，造成一名士兵重伤。</p>\n<p>据美媒，科威特方面指控，一支准军事性质的伊朗伊斯兰革命卫队小分队企图潜入布比延岛实施“敌对行动”，但未作进一步详述。科威特称，该国已拘捕四名男子，另有两人在科威特军队挫败此次袭击行动时逃脱，科威特的一名安全官员在行动中受伤。</p>\n<p>科威特外交部随后召见伊朗驻科大使，并强调伊朗应对此次事件承担“全部责任”。伊朗方面迄今未就上述所有科威特指控作出回应。这一事件被视为伊朗与海湾阿拉伯国家之间“暗战”进一步公开化的最新信号。</p>\n<p>此次事发地点布比延岛具有重要战略意义。该岛位于波斯湾西北角，靠近伊",
@@ -276,34 +269,6 @@
       "summary": "<ul><li><p style=\"text-align: left;\">当前市场呈现TACO与NACHO交易并存的格局，中东局势、能源价格与通胀路径的不确定性持续扰动，而人工智能主线与企业盈利预期则形成支撑。大类资产表现仍由能源价格主导，利率维持高位震荡，贵金属表现相对占优。</p></li><li><p style=\"text-align: left;\">一季度国内金融条件边际收紧，但仍相对宽松。央行认为全球经济增长动能疲弱，供给冲击与输入型通胀压力显现，不过对国内经济有信心，通胀温和回升。周期性政策上，央行未明确提及降准降息，短期概率不大。</p></li><li><p style=\"text-align: left;\">市场有三大主题景气度较高。海外算力方面，大模型厂商加速投资数据中心与电力资源。国产算力方面，投资逻辑进入产品、订单与生态的验证阶段。锂方面，国内大储、海外储能及AI数据中心配套需求共同拉动订单。</p></li></ul>",
       "link": "https://wallstreetcn.com/member/articles/3772092",
       "published": "Tue, 12 May 2026 16:49:14 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "连续六个月上涨！印度4月CPI升至3.48%，输入型能源通胀风险正在积聚",
-      "summary": "<p>尽管印度4月通胀数据略优于市场预期，但油价高企与极端天气正逐步侵蚀这一“政策缓冲垫”，印度央行（RBI）6月议息会议面临更复杂的权衡。</p>\n<p>印度统计与计划执行部周二公布数据显示，<strong>4月消费者价格指数（CPI）同比上涨3.48%，高于前值3.40%，连续第六个月上行，但低于市场预期的3.78%。</strong>数据发布后，印度10年期国债收益率小幅上行2个基点至7.05%，显示市场对通胀前景仍持谨慎态度。</p>\n<p>这份略优于预期的通胀数据固然为央行提供了暂时的政策缓冲，<strong>但结构性的上行压力并未消退。</strong>食品价格约占印度CPI篮子的37%，4月同比上涨4.2%，已开始显露升温迹象。彭博高级印度经济学家Abhishek Gupta表示，预计油价将逐步上调，叠加厄尔尼诺现象可能冲击农业产出，通胀风险明显偏向上行。</p>\n<h2>能源变量叠加气候风险，通胀上行压力积聚</h2>\n<p>能源无疑是当前最大的变量。印度原油进口依赖度接近90%，而伊朗局势持续扰动全球燃料供应，国际油价维持在每桶100美元上方，<strong>对印度构",
-      "link": "https://wallstreetcn.com/articles/3772107",
-      "published": "Tue, 12 May 2026 16:26:42 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美国参议院投票，多数人支持确认凯文·沃什的美联储主席提名资格，投票仍在继续",
-      "summary": "<p>美国参议院投票，多数人支持确认凯文·沃什的美联储主席提名资格，投票仍在继续。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3772109",
-      "published": "Tue, 12 May 2026 16:24:27 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
-      "summary": "<p>美国能源信息署（EIA）预计，即使在霍尔木兹海峡恢复通航后，产量和贸易格局也要到2026年底或2027年初才能恢复至冲突前的水平。</p>\n\n<p>与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日。</p>\n\n<p>受美国封锁等因素影响，伊朗将不得不削减原油产量。</p>\n\n<p>如果霍尔木兹海峡被封锁的时间持续至6月后期，石油价格可能会比当前假设水平高出20美元/桶；目前预期是，海峡将于5月后期恢复通航。</p>",
-      "link": "https://wallstreetcn.com/livenews/3102420",
-      "published": "Tue, 12 May 2026 16:13:32 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "报道：SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触",
-      "summary": "<p>报道：SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3772108",
-      "published": "Tue, 12 May 2026 16:03:25 GMT"
     },
     {
       "source": "央行政策",

@@ -3,94 +3,94 @@
   "hour": "02",
   "news": [
     {
-      "title": "美联储Goolsbee称CPI无好消息",
-      "summary": "美联储Goolsbee评论4月CPI报告，称没有太多好消息。此前公布的美国4月CPI同比3.8%高于预期，通胀顽固。这强化了美联储维持高利率甚至加息的预期，对A股外资流入构成压力，利空成长股。信号：看空。",
-      "reason": "美联储官员鹰派言论直接影响全球流动性预期，对A股资金面偏空。",
-      "category": "宏观经济",
+      "title": "伊朗与美谈判强硬条件",
+      "summary": "伊朗外交部表示，与美国的谈判先决条件是结束战事并解除对霍尔木兹海峡的封锁。这标志着中东紧张局势可能升级，霍尔木兹海峡封锁风险持续。若海峡长期封锁，将导致全球原油供应短缺，推高油价。利好A股石油板块（中国石油、中国石化），利空航运和依赖进口原油的化工板块。同时避险情绪升温可能推动黄金和军工板块短线走强。信号：看多石油、黄金、军工；看空化工、航空。",
+      "reason": "地缘政治风险加剧，直接影响原油供应链，霍尔木兹海峡封锁已造成全球10亿桶短缺，油价飙升概率大，利多相关板块。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "沪深300",
-        "创业板",
-        "外资重仓股"
+        "石油板块",
+        "中国石油",
+        "中国石化",
+        "黄金板块",
+        "军工板块"
       ],
-      "signal": "bearish",
-      "impact_level": 3,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369557?os=web&sv=8.4.6&app=CailianpressWeb"
-        },
-        {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676639244.shtml"
+          "url": "https://news.10jqka.com.cn/20260513/c676639362.shtml"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "欧洲央行加息可能性增大",
-      "summary": "欧洲央行管委内格尔表示，欧洲央行加息的可能性越来越大。这暗示欧央行可能追随美联储收紧货币，全球流动性进一步收紧，对新兴市场包括A股形成资金外流压力。信号：看空。",
-      "reason": "欧洲加息预期抬高全球利率，对A股估值和外资流入构成负面影响。",
-      "category": "宏观经济",
+      "title": "英向霍尔木兹海峡派战机军舰",
+      "summary": "英国宣布将向霍尔木兹海峡多国护航行动派遣战机和军舰，以应对伊朗威胁。此举意味着西方军事介入加深，霍尔木兹海峡封锁风险持续增大。目前布伦特原油已涨至108美元/桶，WTI涨至102美元/桶。利好A股石油、军工、航运（油运）；利空航空、化工。地缘紧张短期难解，建议关注石油、黄金板块的交易机会。",
+      "reason": "军事介入加剧霍尔木兹海峡封锁风险，原油供应中断概率上升，直接利好石油板块和避险资产。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "沪深300",
-        "上证50",
-        "金融"
+        "石油板块",
+        "中远海能",
+        "招商南油",
+        "黄金板块",
+        "军工板块"
       ],
-      "signal": "bearish",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369559?os=web&sv=8.4.6&app=CailianpressWeb"
-        },
+          "url": "https://api3.cls.cn/share/article/2369563?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "微软OpenAI投资回收超两倍",
+      "summary": "据报道，微软在OpenAI上130亿美元的投资已收回超过两倍的营收回报。验证了AI大模型的商业变现能力，提振市场对AI产业链信心。A股AI板块特别是算力、光模块、服务器等相关个股有望获得情绪提振。同时OpenAI通过承诺采购供应商也带来增量订单，利好中际旭创、天孚通信等。信号：看多AI板块。",
+      "reason": "AI龙头企业盈利模式得到验证，提振板块估值，北向资金近期持续流入AI方向，情绪利好。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "算力",
+        "光模块",
+        "中际旭创",
+        "天孚通信"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676639261.shtml"
+          "url": "https://news.10jqka.com.cn/20260513/c676639338.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "智利铜矿产量同比降10.8%",
-      "summary": "据智利铜业委员会，科亚瓦西铜矿3月产量同比下降10.8%至3.14万吨。作为全球最大铜生产国，产量下滑可能加剧铜供应紧张，支撑铜价。利好A股铜矿股，如紫金矿业、江西铜业。信号：看多。",
-      "reason": "铜矿供应收缩直接利好铜价和相关个股。",
+      "title": "智利铜矿产量同比下降10.8%",
+      "summary": "据智利铜业委员会，智利科亚瓦西铜矿3月产量同比下降10.8%至3.14万吨。全球最大铜矿产量收缩，叠加铜矿罢工风险，铜供给趋紧。LME伦铜已升至14000美元/吨上方，铜价有望继续走强。利好A股铜矿板块（紫金矿业、江西铜业、铜陵有色），同时铜价上涨可能带动有色板块整体上行。信号：看多铜和有色板块。",
+      "reason": "供给收缩直接推升铜价，铜业股有望受益，近期伦铜已创新高，基本面支撑。",
       "category": "行业动态",
       "impact_stocks": [
-        "铜矿",
+        "铜业板块",
         "紫金矿业",
-        "江西铜业"
+        "江西铜业",
+        "铜陵有色",
+        "有色金属"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2369549?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美大豆产量预期不及预期",
-      "summary": "美国农业部5月报告预计2026/2027年度大豆产量44.35亿蒲式耳，低于市场预期。这可能推升大豆价格，利好国内豆粕和油脂相关企业，但影响有限。信号：中性偏多。",
-      "reason": "农产品供给收缩预期，对相关板块有短期提振，但A股关联度较低。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "大豆",
-        "农业",
-        "大北农"
-      ],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369530?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 45,
-  "generated_at": "2026-05-13T02:01:25.042821+08:00"
+  "total_fetched": 40,
+  "generated_at": "2026-05-13T02:30:57.218617+08:00"
 }
