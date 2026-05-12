@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-13",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 16750,
+    "completion_tokens": 2081,
+    "total_tokens": 18831
+  },
+  "content_length": 2100,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美股半导体指数暴跌6%\",\n      \"summary\": \"费城半导体指数跌幅扩大至6%，英特尔跌超10%，高通跌12%，纳指跌2%。A股芯片、半导体板块面临情绪传导压力，5月13日开盘可能承压。看空信号，建议减仓或回避。\",\n      \"reason\": \"海外市场联动，美股科技股暴跌直接冲击A股半导体板块，影响较大。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"芯片ETF\", \"中芯国际\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2369518\"},\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260512/c676638963.shtml\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"美光科技跌10%，存储板块回调\",\n      \"summary\": \"美光科技股价跌幅扩大至10%，闪迪跌7%，西部数据跌4.5%。A股存储芯片概念股（如佰维存储、兆易创新）可能受拖累。短期内存储板块面临获利回吐压力，看空信号。\",\n      \"reason\": \"美股存储板块大幅回调，将传导至A股，影响相关个股。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"存储芯片\", \"佰维存储\", \"兆易创新\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2369527\"},\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260513/c676639123.shtml\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"美参议院批准鹰派沃什任美联储主席\",\n      \"summary\": \"美参议院投票批准凯文·沃什出任美联储主席，沃什以鹰派立场著称，可能加速加息或缩减宽松。此举强化全球流动性收紧预期，利空A股成长股和高估值板块。看空信号，中期影响。\",\n      \"reason\": \"美联储主席变更影响全球货币政策，对中国股市有传导效应。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"创业板\", \"成长股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2369546\"},\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260513/c676639132.shtml\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"科威特称伊朗企图渗透岛屿\",\n      \"summary\": \"科威特称伊朗军方人员企图渗透波斯湾战略岛屿，双方交火并逮捕四人。中东局势进一步紧张，叠加霍尔木兹海峡关闭预期，油价可能继续攀升。利好A股石油、军工、黄金板块，看多信号。\",\n      \"reason\": \"地缘政治风险升级，直接利好油气、贵金属及军工板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油\", \"中国石油\", \"军工\", \"黄金\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3772110\"}\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
