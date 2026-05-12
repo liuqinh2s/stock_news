@@ -3,33 +3,9 @@
   "hour": "13",
   "news": [
     {
-      "title": "快手拟重组可灵AI资产",
-      "summary": "快手公告正在评估拟议重组可灵AI相关资产及业务的方案，但尚未签署最终协议。可能推动AI应用板块炒作，快手股价或受提振。短期看多AI概念，但方案不确定，存在波动。",
-      "reason": "公司重大资产重组信号，涉及AI热门领域，影响市场情绪。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "快手",
-        "AI概念",
-        "传媒"
-      ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260512/c676620233.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368771?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "恒瑞医药与BMS达成全球战略合作",
-      "summary": "恒瑞医药与百时美施贵宝签署战略合作及许可协议，涉及创新药出海。利好恒瑞医药及创新药板块，可能带动医药股情绪。看多创新药。",
-      "reason": "重大国际合作协议，提升市场对创新药信心。",
+      "title": "恒瑞医药与BMS重磅合作",
+      "summary": "恒瑞医药与百时美施贵宝（BMS）达成全球合作协议，共同开发13款早期创新药，覆盖肿瘤、免疫等领域。恒瑞医药A股大涨超6%，港股涨超14%。该合作验证了恒瑞研发实力，有望加速国际化进程，带动创新药板块估值修复。看多信号，利好恒瑞医药及创新药产业链。",
+      "reason": "重大跨国药企合作，影响深远，属于公司重大事件，对医药板块有强催化。",
       "category": "公司公告",
       "impact_stocks": [
         "恒瑞医药",
@@ -40,45 +16,25 @@
       "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260512/c676620002.shtml"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3102035"
         },
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368774?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2368806"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "非货ETF月内已净流出超1300亿元",
-      "summary": "截至5月12日，非货ETF5月以来净流出1335亿元，但行业ETF仍吸金。显示资金从宽基转向行业，市场结构变化，可能预示板块轮动。短期中性偏空，需观察持续性。",
-      "reason": "资金流向重要信号，ETF资金规模大，影响市场情绪。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "创业板",
-        "行业ETF"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368780?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "宇树发布载人变形机甲GD01",
-      "summary": "宇树科技发布GD01载人变形机甲，定价390万元起，标志具身智能商业化再进一步。利好机器人、人形机器人概念，带动产业链炒作。看多机器人板块。",
-      "reason": "机器人产业重大突破，引发市场关注。",
+      "title": "宇树发布载人变形机甲",
+      "summary": "宇树科技发布GD01载人变形机甲，定价390万元起，具备陆地行驶和空中飞行能力，标志着具身智能商业化加速。该产品引发市场对机器人、AI应用板块的关注。看多信号，利好机器人、AI概念及产业链相关公司。",
+      "reason": "具身智能赛道重磅新品，提升市场对机器人产业预期，属于行业动态。",
       "category": "行业动态",
       "impact_stocks": [
         "机器人概念",
         "宇树科技",
-        "人形机器人"
+        "AI应用"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -88,52 +44,61 @@
           "url": "https://news.10jqka.com.cn/20260512/c676620473.shtml"
         },
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2368778?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "上海证券报",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11d3dlVjVsMUsyUzh5bEhoNUVLU1JVcTdNQjZzSzl3a0dQUWtOVHFhR1BJd1lzbFhuSmpmY1dTV1FQT2gyMjVid0hKWk5pUVFXTUhXM2tSOE4wVlBMcW5RWg"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "公募提示半导体溢价风险",
-      "summary": "多家公募基金提示半导体板块疯涨，基金最高溢价超40%，风险加大。与中韩ETF溢价类似，进一步强化短期调整压力。看空半导体。",
-      "reason": "机构集体警示风险，叠加溢价数据，市场情绪过热。",
-      "category": "市场情绪",
+      "title": "美国或对伊朗军事行动",
+      "summary": "知情人士披露美国可能恢复对伊朗军事行动，伊朗武装部队已做好准备。地缘风险升温，黄金、白银大涨，原油价格走高。短期避险情绪上升，可能压制A股风险偏好，但利好黄金、石油等避险资产。偏空信号，但对特定板块利多。",
+      "reason": "地缘政治突发事件，影响全球市场情绪，对A股有间接冲击，但黄金、石油板块受益。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "半导体",
-        "芯片ETF"
+        "黄金",
+        "石油",
+        "军工"
       ],
       "signal": "bearish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJUlJvM3ZnLXJOX2N6b2hQUmhsc2gxbFZHNnM4S2loWlo4ZlVib2pqRWd0aEJKVHE2WDh1Snl0MU1BWlRvUW4ydnViTFQ2enNVMGJFa1ZfRDlkRzc1eGc?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676621050.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2368808"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "全国人大常委会金融立法加快",
-      "summary": "全国人大常委会2026年立法计划出炉，金融领域立法加快，可能涉及金融稳定、监管改革。长期利好金融股，但短期影响中性。",
-      "reason": "宏观政策信号，影响金融板块预期。",
-      "category": "监管政策",
+      "title": "深成指跌逾1%近4300股下跌",
+      "summary": "5月12日A股午后持续走弱，深成指跌逾1%，下跌个股近4300只，市场呈现普跌格局。成交量较昨日缩量，但两市成交额仍连续22日超2万亿。短期市场情绪转弱，可能面临调整压力。偏空信号，需关注后续资金动向。",
+      "reason": "市场广度指标急剧恶化，反映赚钱效应缺失，是短期调整信号。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "银行",
-        "保险",
-        "券商"
+        "沪深300",
+        "创业板",
+        "中证1000"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103177056.html"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2368803"
+        },
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676620929.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 73,
-  "generated_at": "2026-05-12T13:01:15.919141+08:00"
+  "total_fetched": 72,
+  "generated_at": "2026-05-12T13:37:28.693729+08:00"
 }
