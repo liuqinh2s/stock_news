@@ -3,15 +3,14 @@
   "hour": "19",
   "news": [
     {
-      "title": "国资委部署标志性工程",
-      "summary": "国务院国资委强调强化项目牵引，在产业链强基补短、能源资源保障、前瞻产业布局等方向梯次部署一批标志性工程。此举将直接利好央企及涉及能源、资源、AI、半导体等前瞻产业的公司，提升市场对政策支持的预期，属于重大政策利好，看多信号。",
-      "reason": "国资委直接部署产业方向，影响面广，属优先级一政策信号，且未在历史消息中出现。",
+      "title": "国务院国资委部署产业链工程",
+      "summary": "国务院国资委强调强化项目牵引，在产业链强基补短、能源资源保障、前瞻产业布局等方向梯次部署一批标志性工程。这释放了国家支持产业升级和能源安全的信号，利好央企、基建及能源板块，属于政策性利好。",
+      "reason": "国资委重大政策，直接影响央企和基建板块，优先级一。",
       "category": "监管政策",
       "impact_stocks": [
-        "中字头央企",
-        "能源",
-        "半导体",
-        "AI"
+        "央企",
+        "基建",
+        "能源"
       ],
       "signal": "bullish",
       "impact_level": 4,
@@ -21,86 +20,105 @@
           "url": "https://api3.cls.cn/share/article/2369277"
         }
       ],
+      "urgency": "days"
+    },
+    {
+      "title": "市场监管总局附条件批准腾讯收购喜马拉雅",
+      "summary": "市场监管总局附条件批准腾讯收购喜马拉雅股权案。这标志着互联网反垄断监管趋于常态化，对腾讯及在线音频行业构成利好，同时提振互联网板块情绪。",
+      "reason": "重大反垄断审批结果，影响互联网行业格局，优先级一。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "腾讯控股",
+        "互联网",
+        "传媒"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3102206"
+        }
+      ],
       "urgency": "hours"
     },
     {
-      "title": "广东PPI首次上涨",
-      "summary": "广东PPI连续下降38个月后首次上涨，反映工业品价格回暖，通缩压力缓解，预示企业盈利改善。该数据对全国PPI有先行指标意义，增强市场对经济复苏的信心，利好制造业和周期性行业，看多信号。",
-      "reason": "宏观经济数据超预期，影响市场预期，属优先级二，且未重复。",
+      "title": "WTI原油涨超4%站上102美元",
+      "summary": "WTI原油期货涨幅扩大至4%，报102.013美元/桶。地缘冲突（伊朗、乌克兰）及供给担忧推动油价持续攀升，利好石油开采、化工板块，但加剧通胀担忧，对下游行业偏空。",
+      "reason": "原油价格大幅上涨，直接影响能源板块及通胀预期，优先级二。",
       "category": "宏观经济",
       "impact_stocks": [
-        "制造业",
-        "周期股",
-        "沪深300"
+        "石油",
+        "化工",
+        "航空"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2369293"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "中国PPI同比2.8%超预期",
+      "summary": "中国4月PPI同比上涨2.8%，高于预期，显示工业品价格回升，企业盈利有望改善。利好上游资源品和工业制造板块，但对下游消费品可能形成成本压力。",
+      "reason": "重要宏观数据超预期，影响市场对经济复苏的预期，优先级二。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "资源股",
+        "工业制造"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369271"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3772078"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "合盛硅业大股东拟减持3%",
-      "summary": "合盛硅业控股股东合盛集团拟减持不超过3%股份，按当前股价计算市值较大，将对股价形成抛压，尤其对有机硅板块情绪有负面影响。属于大股东减持利空，看空信号。",
-      "reason": "大股东减持公告直接影响个股及板块，属优先级一或二，且未重复。",
+      "title": "夜光明限售股解禁1020.93万股",
+      "summary": "夜光明1020.93万股限售股即将解禁，占总股本17%，解禁规模较大，可能带来抛售压力，对股价形成利空。投资者需警惕相关风险。",
+      "reason": "限售股大规模解禁，直接增加抛压，优先级一。",
       "category": "公司公告",
       "impact_stocks": [
-        "合盛硅业",
-        "有机硅"
+        "夜光明"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369288"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "瑞芯微股东拟减持1.53%",
-      "summary": "瑞芯微股东黄旭拟减持不超过1.53%股份，瑞芯微为AIoT芯片龙头，减持可能引发短期股价波动，对半导体板块情绪略有压制，但整体影响有限。看空信号。",
-      "reason": "重要股东减持，涉及热门芯片股，但减持比例不大，属中等影响。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "瑞芯微",
-        "半导体"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369267"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "洛轴股份创业板IPO上会",
-      "summary": "洛阳轴承（洛轴股份）创业板IPO定于5月19日上会，若过会将对轴承板块产生一定估值映射，但属于常规IPO审核，对市场整体影响有限。中性。",
-      "reason": "IPO上会属监管动态，但单个公司上会影响较小。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "轴承",
-        "次新股"
-      ],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369280"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wLWxQYUtiZ1dLcHBjdnhFMmE2QWdGNkxiUnhpQS03ZXlGTFNhNHk1TzU3Z1JyaW5yWDlqbTdRY29uZnBGRnpSeG8tbXNPQlNsNF90aXBTVGRrVkFqelYwQ182REFlZ2dna2hSVHY2RWt3LThCQ2xEeA"
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "京东旗下三大子公司拟回购",
+      "summary": "京东集团旗下三大上市子公司拟回购公司股份，显示管理层对公司价值认可，有助于提振投资者信心，利好京东系股票及中概股情绪。",
+      "reason": "重要公司回购信号，优先级二。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "京东",
+        "中概股"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3102195"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 74,
-  "generated_at": "2026-05-12T19:01:21.832464+08:00"
+  "total_fetched": 80,
+  "generated_at": "2026-05-12T19:12:19.064323+08:00"
 }
