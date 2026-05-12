@@ -3,200 +3,129 @@
   "hour": "21",
   "news": [
     {
-      "title": "美CPI超预期利空A股",
-      "summary": "美国4月CPI同比增长3.8%，高于预期的3.7%，前值3.3%；核心CPI同比增长2.8%。数据超预期显示通胀顽固，可能延缓美联储降息节奏，对全球风险资产形成压力。短期利空A股市场情绪，尤其是对外资敏感的板块，如消费、科技。但需注意A股近期强势，独立行情下影响或有限。",
-      "reason": "美国通胀数据超预期，直接影响全球资本定价和美联储政策预期，对A股构成短期利空。",
-      "category": "宏观经济",
+      "title": "芝商所将推AI算力期货",
+      "summary": "芝商所（CME）宣布将创建支持人工智能的算力期货市场，为算力资源提供价格发现和风险管理工具。此举将提升算力资产的金融属性，利好AI产业链，尤其是算力基础设施供应商（如GPU、光模块、IDC）。A股算力板块有望受益，中长期看多。",
+      "reason": "创新金融工具直接利好AI算力板块，提升市场关注度和资金流入预期。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "消费",
-        "科技"
-      ],
-      "signal": "bearish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369370?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "A股融资余额首破2.8万亿",
-      "summary": "A股融资余额首次突破2.8万亿元，杠杆资金持续涌入。显示市场风险偏好高涨，增量资金积极入市，利好券商及科技等弹性板块。但高杠杆也需警惕回调风险。",
-      "reason": "融资余额创新高是重要的资金流向信号，反映市场情绪和杠杆资金动向，对A股走势有正面推动作用。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "券商",
-        "科技"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZy1lNWsycTBJY2toRWNYbEdEVnR6Rnl6Y1dLSUtoZWZCbUdTYy01amRpUlMwYk1tWWtXOTlQRktXQzhOc04wUFVZYTU3VXBFbzFrWTJXZHFWMGFGRk5lYzNCZlY3aEsxd1R2Uk1fTmk2WEVxU2FBTQ?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "万科A获深铁股东借款",
-      "summary": "万科A公告，深铁集团向公司提供25亿元股东借款额度，并签署220亿股东借款补充协议。此举显示大股东支持，缓解公司流动性压力，利好地产板块及万科自身。但地产行业整体风险仍需关注。",
-      "reason": "万科是地产龙头，大股东借款信号积极，有助于稳定市场对地产板块的信心，属于公司重大事件。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "万科A",
-        "地产"
+        "AI算力",
+        "光模块",
+        "GPU概念",
+        "IDC"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260512/c676636651.shtml"
+          "url": "https://news.10jqka.com.cn/20260512/c676637100.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "泰格医药实控人被立案",
-      "summary": "泰格医药公告，实控人叶小平、曹晓春因涉嫌持股变动相关信息披露违法违规被证监会立案。利空公司股价，可能影响投资者信任，对医药研发外包板块产生负面情绪。",
-      "reason": "实控人被立案属于重大负面事件，直接影响公司治理预期，对股价有较大冲击。",
-      "category": "监管政策",
+      "title": "马斯克库克随特朗普访华",
+      "summary": "马斯克（特斯拉）和库克（苹果）确认随特朗普访华，预计将推动中美科技合作与贸易谈判。此举有望缓解市场对科技脱钩的担忧，提升A股科技板块（尤其是苹果产业链和特斯拉供应链）的风险偏好。短期看多科技股。",
+      "reason": "重大外交事件涉及核心科技企业，市场预期利好科技板块合作深化。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "泰格医药",
-        "医药研发外包"
-      ],
-      "signal": "bearish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369368?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "外资撤离印度或利好A股",
-      "summary": "外资撤离印度创新高，印度卢比告急，莫迪呼吁限购黄金。资金可能从印度流出，部分转向估值更低的中国市场，对A股形成潜在增量资金。关注北向资金后续动向。",
-      "reason": "国际资金流动可能改变全球资产配置，印度资金流出可能部分流向A股，属于中期利好因素。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "上证50"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "澎湃新闻财经",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nbU5wcEwwOC1IQ0tKYmhqV0dDLTI2Y3hSRDVnOHlrY1RwOWdPVjBwQUR0UzZ5NmNQaGRkRUIwLUphU3V5anFoOTZfYmswNVV1V3dxMVZlZThoQ2cwVXc?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "英特尔六周暴涨214%",
-      "summary": "英特尔股价六周内暴涨214%，空头损失超百亿。消息可能提振A股半导体板块情绪，尤其是国产替代逻辑。但基本面需谨慎，存在回调风险。",
-      "reason": "英特尔是半导体行业风向标，股价暴涨反映AI芯片需求，可能带动A股相关概念股情绪。",
-      "category": "行业动态",
-      "impact_stocks": [
+        "苹果产业链",
+        "特斯拉概念",
         "半导体",
-        "AI芯片"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772091"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "花旗上调三星目标价",
-      "summary": "花旗将三星电子目标价从30万韩元上调至46万韩元，较最新收盘价高出60%。利好全球半导体板块，A股存储芯片、半导体设备等有望跟随情绪。",
-      "reason": "知名机构大幅上调半导体龙头目标价，提振行业信心。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "半导体",
-        "存储芯片"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369373?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "A股分红超870亿元",
-      "summary": "工商银行、农业银行等将于5月13日派息，A股市场将发放超870亿元现金分红。利好银行板块，增强市场信心，吸引长期资金。",
-      "reason": "大蓝筹集中分红属于积极信号，提升市场吸引力。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "工商银行",
-        "农业银行",
-        "银行"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGQ3Z05JdFVXWUk3bk5oX2xiNU1hQmJpT0JUd19KcW9MdFRUWUdleGw0MUxfaW5OMmVzSWtvQmItb2NleVlWOUJ5MjZDaUI2ZlNtZThiTlVlOExMQVNxLWJyVGNTWEhjOUVoSUJlUEp0aXJxbGxqUy10ZEFmaFkteDVsWGU?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "全球原油短缺10亿桶",
-      "summary": "阿布扎比国家石油公司CEO称，霍尔木兹海峡封锁致全球原油短缺10亿桶。油价持续上涨，利好石油板块，利空航空、化工等成本敏感行业。中东地缘风险升级，避险情绪升温。",
-      "reason": "石油供应缺口巨大，直接推升油价，影响通胀预期和相关行业。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "石油",
-        "中国石油",
-        "中国石化"
+        "消费电子"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369386?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260512/c676637532.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "霍尔木兹海峡封锁致10亿桶短缺",
+      "summary": "阿布扎比国家石油公司CEO表示，霍尔木兹海峡封锁已导致全球出现10亿桶石油短缺，油价持续攀升。此举将推高能源价格，利好A股石油、天然气及能源设备板块，同时加剧全球通胀压力。短期看多能源股。",
+      "reason": "地缘冲突直接冲击石油供应，油价上涨利好相关板块，同时增加全球通胀风险。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "石油石化",
+        "天然气",
+        "能源设备",
+        "中国石油",
+        "中国石化"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3102341"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "国仪量子科创板提交注册",
-      "summary": "国仪量子技术（合肥）股份有限公司科创板IPO审核状态变更为提交注册。该公司是量子计算领域明星企业，上市进度推进利好量子计算概念股，但短期对大盘影响有限。",
-      "reason": "量子计算属于前沿科技题材，IPO进展可能带动相关概念短期活跃。",
+      "title": "摩根大通CEO警示市场狂热",
+      "summary": "摩根大通CEO杰米·戴蒙表示目前市场过于“狂热”，警告投资者保持谨慎。该言论可能引发短期获利了结，对A股情绪产生一定压力，尤其是近期涨幅较大的科技和AI板块。短期偏空信号。",
+      "reason": "全球顶级金融机构掌门的言论影响市场情绪，可能加剧市场波动。",
       "category": "市场情绪",
       "impact_stocks": [
-        "量子计算",
-        "国盾量子"
+        "沪深300",
+        "科技股"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2369434"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "外资撤离印度196亿卢比",
+      "summary": "全球基金5月12日净卖出196亿卢比印度股票，外资持续流出印度市场。在A股持续走强背景下，外资可能转向配置A股，利好A股资金面和市场情绪。中期看多A股外资流向。",
+      "reason": "资金流向信号，外资从新兴市场流出可能增配中国，提升A股吸引力。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "外资重仓股"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3102333"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2369422"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
+    },
+    {
+      "title": "万科获深铁25亿股东借款",
+      "summary": "万科A董事会审议通过深铁集团提供25亿元股东借款，并签订框架协议。此举显示国有股东对万科的支持，缓解市场对地产龙头的流动性担忧，提振地产板块信心。短期看多地产板块。",
+      "reason": "地产龙头获得大股东资金支持，信号积极，有望带动地产板块修复。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "房地产",
+        "万科A",
+        "保利发展"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3102318"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 69,
-  "generated_at": "2026-05-12T21:01:52.279908+08:00"
+  "total_fetched": 86,
+  "generated_at": "2026-05-12T21:52:01.467031+08:00"
 }

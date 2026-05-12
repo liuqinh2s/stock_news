@@ -1,113 +1,71 @@
 {
   "date": "2026-05-12",
   "hour": "21",
-  "total": 69,
-  "fetched_at": "2026-05-12T21:00:41.095179+08:00",
+  "total": 86,
+  "fetched_at": "2026-05-12T21:50:46.009731+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股持续走强，外资视中国资产为“避风港” - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBmbVVPcUdMdnUwOWNrODRyNldvbkZ0V2RReGVFSkJSbDNjdXFKT1dibTR1aXNLS1BNYjdyVVRnMjJISEFjazFEaXdfbXl0b3BWUkdaT2lzWUg1UTRreXF6Z2NUZWkwMll3T194VEdzNlNoOUFaVHpXag?oc=5\" target=\"_blank\">A股持续走强，外资视中国资产为“避风港”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股唯一一家！竟被SK海力士持仓！这只存储芯片龙头22个交易日大涨80% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2dldWdjFSRTRUM2l2OVlCTHJyM29sNFNneXFhWm1iMkdMcE9PbjMwSXRkbktYVGJfSEl1QWZlTmhGTUZnUGlGZ1BnaURTT1RuMUViS3R4RDBfUjk4RDRrYjd4aUJlaTktWjNMVldrdFlLeV9tRjFCRQ?oc=5\" target=\"_blank\">A股唯一一家！竟被SK海力士持仓！这只存储芯片龙头22个交易日大涨80%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2dldWdjFSRTRUM2l2OVlCTHJyM29sNFNneXFhWm1iMkdMcE9PbjMwSXRkbktYVGJfSEl1QWZlTmhGTUZnUGlGZ1BnaURTT1RuMUViS3R4RDBfUjk4RDRrYjd4aUJlaTktWjNMVldrdFlLeV9tRjFCRQ?oc=5",
+      "published": "Tue, 12 May 2026 12:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股持续走强，外资视中国资产为避风港 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZQ3NtLU1TSXM0ZGkxbnVXbGh2WUd6VUd1ekdGUDdNOHYzN3hqclZzaVB6MGs2V0RkMWtjc2tlMU5Rb3hsZEN5bEJzUE43V2Y5VFZuQVB2TkdMVk5GcXNkVjZETnh2VVh5b2xuY29lTThkZThuRy1UVQ?oc=5\" target=\"_blank\">A股持续走强，外资视中国资产为避风港</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZQ3NtLU1TSXM0ZGkxbnVXbGh2WUd6VUd1ekdGUDdNOHYzN3hqclZzaVB6MGs2V0RkMWtjc2tlMU5Rb3hsZEN5bEJzUE43V2Y5VFZuQVB2TkdMVk5GcXNkVjZETnh2VVh5b2xuY29lTThkZThuRy1UVQ?oc=5",
+      "published": "Tue, 12 May 2026 12:55:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股持续走强，外资视中国资产为“避风港” - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBmbVVPcUdMdnUwOWNrODRyNldvbkZ0V2RReGVFSkJSbDNjdXFKT1dibTR1aXNLS1BNYjdyVVRnMjJISEFjazFEaXdfbXl0b3BWUkdaT2lzWUg1UTRreXF6Z2NUZWkwMll3T194VEdzNlNoOUFaVHpXag?oc=5\" target=\"_blank\">A股持续走强，外资视中国资产为“避风港”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmbVVPcUdMdnUwOWNrODRyNldvbkZ0V2RReGVFSkJSbDNjdXFKT1dibTR1aXNLS1BNYjdyVVRnMjJISEFjazFEaXdfbXl0b3BWUkdaT2lzWUg1UTRreXF6Z2NUZWkwMll3T194VEdzNlNoOUFaVHpXag?oc=5",
       "published": "Tue, 12 May 2026 12:49:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股融资余额首破2.8万亿！杠杆资金“抱团”这些赛道 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZy1lNWsycTBJY2toRWNYbEdEVnR6Rnl6Y1dLSUtoZWZCbUdTYy01amRpUlMwYk1tWWtXOTlQRktXQzhOc04wUFVZYTU3VXBFbzFrWTJXZHFWMGFGRk5lYzNCZlY3aEsxd1R2Uk1fTmk2WEVxU2FBTQ?oc=5\" target=\"_blank\">A股融资余额首破2.8万亿！杠杆资金“抱团”这些赛道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股融资余额首破2.8万亿！杠杆资金“抱团”这些赛道 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZy1lNWsycTBJY2toRWNYbEdEVnR6Rnl6Y1dLSUtoZWZCbUdTYy01amRpUlMwYk1tWWtXOTlQRktXQzhOc04wUFVZYTU3VXBFbzFrWTJXZHFWMGFGRk5lYzNCZlY3aEsxd1R2Uk1fTmk2WEVxU2FBTQ?oc=5\" target=\"_blank\">A股融资余额首破2.8万亿！杠杆资金“抱团”这些赛道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SZy1lNWsycTBJY2toRWNYbEdEVnR6Rnl6Y1dLSUtoZWZCbUdTYy01amRpUlMwYk1tWWtXOTlQRktXQzhOc04wUFVZYTU3VXBFbzFrWTJXZHFWMGFGRk5lYzNCZlY3aEsxd1R2Uk1fTmk2WEVxU2FBTQ?oc=5",
       "published": "Tue, 12 May 2026 12:33:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "这家A股宣布：请股东看演出 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5YMFhtSFZEel9oLWNGZEdVb2lDM19SZzRCdWQwWWZUaXczWTlCdnZGaUFZa3V4M3c5YjZRRlNsUmZMWjlmWkVDakVqNVJSbnJGYUloVmJLbEw0X2h4YUFMWTlMYm9NYnp3MVRaMFRQMjN2ODgtREE?oc=5\" target=\"_blank\">这家A股宣布：请股东看演出</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "这家A股宣布：请股东看演出 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5YMFhtSFZEel9oLWNGZEdVb2lDM19SZzRCdWQwWWZUaXczWTlCdnZGaUFZa3V4M3c5YjZRRlNsUmZMWjlmWkVDakVqNVJSbnJGYUloVmJLbEw0X2h4YUFMWTlMYm9NYnp3MVRaMFRQMjN2ODgtREE?oc=5\" target=\"_blank\">这家A股宣布：请股东看演出</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YMFhtSFZEel9oLWNGZEdVb2lDM19SZzRCdWQwWWZUaXczWTlCdnZGaUFZa3V4M3c5YjZRRlNsUmZMWjlmWkVDakVqNVJSbnJGYUloVmJLbEw0X2h4YUFMWTlMYm9NYnp3MVRaMFRQMjN2ODgtREE?oc=5",
       "published": "Tue, 12 May 2026 12:21:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "调整如期而至！A股新方向在哪？丨川观解盘 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1KMUcwYVRXaGE0OEZjNmVPdzFzUW5ISlVCMW1rYzJOdWR0NHJyTDVobVZhZmN3emlYS2cwRXlheTV5VmlwVmdDOFRNdVFZUnpwcW5Ma19mbEFNSEJBeDQ1OGxhOG9MNGROUF9mUkpGUi00T09NTmI5WA?oc=5\" target=\"_blank\">调整如期而至！A股新方向在哪？丨川观解盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KMUcwYVRXaGE0OEZjNmVPdzFzUW5ISlVCMW1rYzJOdWR0NHJyTDVobVZhZmN3emlYS2cwRXlheTV5VmlwVmdDOFRNdVFZUnpwcW5Ma19mbEFNSEJBeDQ1OGxhOG9MNGROUF9mUkpGUi00T09NTmI5WA?oc=5",
-      "published": "Tue, 12 May 2026 11:11:00 GMT"
+      "title": "A股千元股变迁：从消费到AI，资金追逐高景气行业赛道 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBWWnFWb1p2WFhFblJOTkpsWUl5YnQ1eTEzMFVxSTFkc1k5cXFNcTNkNWp0SnBnNmUySUNCVVBsR01talpXTWlRaDk3S2dINVhONVpvMWIwU0F3VlNvSVdjRTUySjJVUXNYYXliMkxhYjdyOHFKdmRoRA?oc=5\" target=\"_blank\">A股千元股变迁：从消费到AI，资金追逐高景气行业赛道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWWnFWb1p2WFhFblJOTkpsWUl5YnQ1eTEzMFVxSTFkc1k5cXFNcTNkNWp0SnBnNmUySUNCVVBsR01talpXTWlRaDk3S2dINVhONVpvMWIwU0F3VlNvSVdjRTUySjJVUXNYYXliMkxhYjdyOHFKdmRoRA?oc=5",
+      "published": "Tue, 12 May 2026 12:23:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "恒瑞A股盘中涨停：13个项目打包BD，总金额152亿美元 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1RU3VlVUhHRVV0TTM4TnJ1bmpPTEthNDR4RzJlYnlncjluYkgtcW1yVWJteVluckVpQ2llMTdjMGxqVmdSd1M4dXlQVXRhSUs3Rzd0YWp4TzVVVXRJSFlpeG5PUmpQV2ROZndvdWhKcnE5VGhfYm1Kdg?oc=5\" target=\"_blank\">恒瑞A股盘中涨停：13个项目打包BD，总金额152亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RU3VlVUhHRVV0TTM4TnJ1bmpPTEthNDR4RzJlYnlncjluYkgtcW1yVWJteVluckVpQ2llMTdjMGxqVmdSd1M4dXlQVXRhSUs3Rzd0YWp4TzVVVXRJSFlpeG5PUmpQV2ROZndvdWhKcnE5VGhfYm1Kdg?oc=5",
-      "published": "Tue, 12 May 2026 11:35:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "近500亿元资金涌入A股半导体板块 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA2LXBRZ3dJZlRfUWdMQXN2Z2RWRW40azhDVEh4YlY1aFc2b01XcFN2cUFDckVhdlBqckxDNnpiQzU3Q2Q5c0pXOV8wRVBHZ0trNVV3UUtiQnVSZ3V5bktYT0VQYU91VkczOXNyblNMZGFjdzd5U0E?oc=5\" target=\"_blank\">近500亿元资金涌入A股半导体板块</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2LXBRZ3dJZlRfUWdMQXN2Z2RWRW40azhDVEh4YlY1aFc2b01XcFN2cUFDckVhdlBqckxDNnpiQzU3Q2Q5c0pXOV8wRVBHZ0trNVV3UUtiQnVSZ3V5bktYT0VQYU91VkczOXNyblNMZGFjdzd5U0E?oc=5",
-      "published": "Tue, 12 May 2026 11:10:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "顺丰控股：控股股东部分A股股份解除质押 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IYzlxUjZ0THVNMlAyTFA4TUh4cjRQVHVxbUdvbmNHQlhxUXpFUFBEMWtNM0xVRUZxYjVpVHpIM3N4RDN5dFV5RkdVdFZVM0doSXRfWWFZX2F2R05xZXpQUWZZV2haOS1YVUdPR0t5OWYtZ3ZBS2hJRw?oc=5\" target=\"_blank\">顺丰控股：控股股东部分A股股份解除质押</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IYzlxUjZ0THVNMlAyTFA4TUh4cjRQVHVxbUdvbmNHQlhxUXpFUFBEMWtNM0xVRUZxYjVpVHpIM3N4RDN5dFV5RkdVdFZVM0doSXRfWWFZX2F2R05xZXpQUWZZV2haOS1YVUdPR0t5OWYtZ3ZBS2hJRw?oc=5",
-      "published": "Tue, 12 May 2026 11:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "连“吃”两跌停！刚刚，百亿A股公司最新公告 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9GT3ZfX1UzUHRZNm5qeTJtRnlobmxSVXVUZDFzbnFVV1k5MVlxOHZoVC1KUjdUSmt4N0dVVmJyb3VRaDExMGp3QVF5dnh4WDd4RUdEc1drZnB6NHh4SG9iREx2QXRqM3doM1lVYTRmVzFPZ2lJXzZQYkc5Y1c?oc=5\" target=\"_blank\">连“吃”两跌停！刚刚，百亿A股公司最新公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "连“吃”两跌停！刚刚，百亿A股公司最新公告 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9GT3ZfX1UzUHRZNm5qeTJtRnlobmxSVXVUZDFzbnFVV1k5MVlxOHZoVC1KUjdUSmt4N0dVVmJyb3VRaDExMGp3QVF5dnh4WDd4RUdEc1drZnB6NHh4SG9iREx2QXRqM3doM1lVYTRmVzFPZ2lJXzZQYkc5Y1c?oc=5\" target=\"_blank\">连“吃”两跌停！刚刚，百亿A股公司最新公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GT3ZfX1UzUHRZNm5qeTJtRnlobmxSVXVUZDFzbnFVV1k5MVlxOHZoVC1KUjdUSmt4N0dVVmJyb3VRaDExMGp3QVF5dnh4WDd4RUdEc1drZnB6NHh4SG9iREx2QXRqM3doM1lVYTRmVzFPZ2lJXzZQYkc5Y1c?oc=5",
       "published": "Tue, 12 May 2026 12:27:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "千元股阵营洗牌，A股市场有何变化？ - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVBVTGlyWDQxMVo4RE5EbnN2VWJrMERxSUFjaHhKUzZjUjZnQmR0U1JPLU9pbXNzVWVpYnNLVURXX3E0ODZZVUVWTVhOLVRWdllZc3Rmc3cwRGZocnduSWtNVE5UdDFmMXBDOWhuQjU1Mk9qcUZkc0I4UjdSU2JVRUVFN0k1Uk9xTGJLZVB3?oc=5\" target=\"_blank\">千元股阵营洗牌，A股市场有何变化？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVBVTGlyWDQxMVo4RE5EbnN2VWJrMERxSUFjaHhKUzZjUjZnQmR0U1JPLU9pbXNzVWVpYnNLVURXX3E0ODZZVUVWTVhOLVRWdllZc3Rmc3cwRGZocnduSWtNVE5UdDFmMXBDOWhuQjU1Mk9qcUZkc0I4UjdSU2JVRUVFN0k1Uk9xTGJLZVB3?oc=5",
-      "published": "Tue, 12 May 2026 11:39:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股要发超870亿元大红包 工行、农行于5月13日派息 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGQ3Z05JdFVXWUk3bk5oX2xiNU1hQmJpT0JUd19KcW9MdFRUWUdleGw0MUxfaW5OMmVzSWtvQmItb2NleVlWOUJ5MjZDaUI2ZlNtZThiTlVlOExMQVNxLWJyVGNTWEhjOUVoSUJlUEp0aXJxbGxqUy10ZEFmaFkteDVsWGU?oc=5\" target=\"_blank\">A股要发超870亿元大红包 工行、农行于5月13日派息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股要发超870亿元大红包 工行、农行于5月13日派息 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGQ3Z05JdFVXWUk3bk5oX2xiNU1hQmJpT0JUd19KcW9MdFRUWUdleGw0MUxfaW5OMmVzSWtvQmItb2NleVlWOUJ5MjZDaUI2ZlNtZThiTlVlOExMQVNxLWJyVGNTWEhjOUVoSUJlUEp0aXJxbGxqUy10ZEFmaFkteDVsWGU?oc=5\" target=\"_blank\">A股要发超870亿元大红包 工行、农行于5月13日派息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGQ3Z05JdFVXWUk3bk5oX2xiNU1hQmJpT0JUd19KcW9MdFRUWUdleGw0MUxfaW5OMmVzSWtvQmItb2NleVlWOUJ5MjZDaUI2ZlNtZThiTlVlOExMQVNxLWJyVGNTWEhjOUVoSUJlUEp0aXJxbGxqUy10ZEFmaFkteDVsWGU?oc=5",
       "published": "Tue, 12 May 2026 12:17:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "英威腾股东会通过向特定对象发行A股股票方案 同意比例77.2976%反对22.2593% - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZndEcURuR2ZzbTV5Q0NadzNlZWl1OVJhbU1zcWN6UVJ6bzFGd2JjOVdvcXYwWDhSN0RTMEN2UE5xV0VlT2Fwc19EU0g3aHZIQXREZXd2NEwyVFRGUkJZNHpGeTdBMW1MNlNDZEhlOVE4Q2hIeTlsM0pFSGM1aGY3MnY2VzJLa0hN?oc=5\" target=\"_blank\">英威腾股东会通过向特定对象发行A股股票方案 同意比例77.2976%反对22.2593%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZndEcURuR2ZzbTV5Q0NadzNlZWl1OVJhbU1zcWN6UVJ6bzFGd2JjOVdvcXYwWDhSN0RTMEN2UE5xV0VlT2Fwc19EU0g3aHZIQXREZXd2NEwyVFRGUkJZNHpGeTdBMW1MNlNDZEhlOVE4Q2hIeTlsM0pFSGM1aGY3MnY2VzJLa0hN?oc=5",
-      "published": "Tue, 12 May 2026 11:32:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股公告精选 | 5天3板海鸥股份(603269.SH)：2025年来自核电领域冷却塔业务未形成收入 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEk1M3dTRGNkczZYdFFmNS14RDd2RnFQeDlMTGU4cWlEME5MR0dkaG9XZnF2a3EtWHdHalFqVXRTMkhaM0YtMUlIQjJZZjE2TnV2UEJzUVc3OHVnRWNobnpjbHp4LWp6VTRxbEEyM3hoejl4dGRiY1poNmppSHVQNGJCbWd4Q3E5SjNyU2xzTWVnTno0?oc=5\" target=\"_blank\">A股公告精选 | 5天3板海鸥股份(603269.SH)：2025年来自核电领域冷却塔业务未形成收入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股公告精选 | 5天3板海鸥股份(603269.SH)：2025年来自核电领域冷却塔业务未形成收入 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEk1M3dTRGNkczZYdFFmNS14RDd2RnFQeDlMTGU4cWlEME5MR0dkaG9XZnF2a3EtWHdHalFqVXRTMkhaM0YtMUlIQjJZZjE2TnV2UEJzUVc3OHVnRWNobnpjbHp4LWp6VTRxbEEyM3hoejl4dGRiY1poNmppSHVQNGJCbWd4Q3E5SjNyU2xzTWVnTno0?oc=5\" target=\"_blank\">A股公告精选 | 5天3板海鸥股份(603269.SH)：2025年来自核电领域冷却塔业务未形成收入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMEk1M3dTRGNkczZYdFFmNS14RDd2RnFQeDlMTGU4cWlEME5MR0dkaG9XZnF2a3EtWHdHalFqVXRTMkhaM0YtMUlIQjJZZjE2TnV2UEJzUVc3OHVnRWNobnpjbHp4LWp6VTRxbEEyM3hoejl4dGRiY1poNmppSHVQNGJCbWd4Q3E5SjNyU2xzTWVnTno0?oc=5",
       "published": "Tue, 12 May 2026 12:42:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "世华科技:华泰联合证券有限责任公司关于苏州世华新材料科技股份有限公司2025年度持续督导工作现场检查报告 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5HTHp4a1dNLVJnODFLaXY1NkxIOE5lMVdFVXI2algyR0pYdlJDYzNhbWtrU1hBbVZDMUJheDRMWUlEQTVoTDJBRnpITHlObUtWbHc4U01UTDZIVmdHeFRHUk1tOE5Mb3VTRHNkeFVqNVoxb0xxQkJHWHNmYXRkdw?oc=5\" target=\"_blank\">世华科技:华泰联合证券有限责任公司关于苏州世华新材料科技股份有限公司2025年度持续督导工作现场检查报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HTHp4a1dNLVJnODFLaXY1NkxIOE5lMVdFVXI2algyR0pYdlJDYzNhbWtrU1hBbVZDMUJheDRMWUlEQTVoTDJBRnpITHlObUtWbHc4U01UTDZIVmdHeFRHUk1tOE5Mb3VTRHNkeFVqNVoxb0xxQkJHWHNmYXRkdw?oc=5",
-      "published": "Tue, 12 May 2026 11:43:16 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "迅捷兴：股票交易异常波动 公司业绩亏损且毛利率持续下滑 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TbWNPRHJUZFc1LTBMYUxSdWoyWVNWN1RjZlRzNjhPdHRnUWU1NjlUTjdnckpGOGhHNi1VUW9uZG1aR0VDYTF4cFpZcFVLcDZSSkEyUUgya3Q4RlUtSktoNjNLdG5CZw?oc=5\" target=\"_blank\">迅捷兴：股票交易异常波动 公司业绩亏损且毛利率持续下滑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TbWNPRHJUZFc1LTBMYUxSdWoyWVNWN1RjZlRzNjhPdHRnUWU1NjlUTjdnckpGOGhHNi1VUW9uZG1aR0VDYTF4cFpZcFVLcDZSSkEyUUgya3Q4RlUtSktoNjNLdG5CZw?oc=5",
-      "published": "Tue, 12 May 2026 11:11:44 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "【调研快报】粤高速A接待华泰证券等2家机构调研 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE91ZXpmUDU4ZVpRdnM3aF9mbmpvTW9uVXRBdmF3bS13bm1lUDhWNEpzaVUxQVpBUHlleUpzYi1GN0JEUE95SV9PbTJya2M1bHJzNVpFcEpmWFlVa0pCUGlTTTBQTQ?oc=5\" target=\"_blank\">【调研快报】粤高速A接待华泰证券等2家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91ZXpmUDU4ZVpRdnM3aF9mbmpvTW9uVXRBdmF3bS13bm1lUDhWNEpzaVUxQVpBUHlleUpzYi1GN0JEUE95SV9PbTJya2M1bHJzNVpFcEpmWFlVa0pCUGlTTTBQTQ?oc=5",
-      "published": "Tue, 12 May 2026 11:32:31 GMT"
     },
     {
       "source": "东方财富",
@@ -118,10 +76,10 @@
     },
     {
       "source": "东方财富",
-      "title": "【调研快报】宝莱特接待天风证券等5家机构调研 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KU2dPMnpRbkNJTjhTNDl1VTU1UXVWUE1ibms2YXU3cnBLXzlxUzFQWVd5bC1uRG9RYTNkaDZCc29IOHNyZG9FSmxOLVFpcF85cVlPc01USFJsbkZMS3ZrNHRqYw?oc=5\" target=\"_blank\">【调研快报】宝莱特接待天风证券等5家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KU2dPMnpRbkNJTjhTNDl1VTU1UXVWUE1ibms2YXU3cnBLXzlxUzFQWVd5bC1uRG9RYTNkaDZCc29IOHNyZG9FSmxOLVFpcF85cVlPc01USFJsbkZMS3ZrNHRqYw?oc=5",
-      "published": "Tue, 12 May 2026 11:12:22 GMT"
+      "title": "帝尔激光:长江证券承销保荐有限公司关于武汉帝尔激光科技股份有限公司向不特定对象发行可转换公司债券2026年第1次临时受托管理事务报告 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBGMTJRczROQVJuVlhONmptM2xfYXdhallnT0x6RlFURVYwR2lqQmp0dnVlMU8wN2tEang3OFhRczN5TjYycENpa2g2VXFJeFBtNjhJMWg2ZWZyS1RCZUw1enF1ZHFPNUFRNWpvVHdTTkhzRVVHamVVLWhpMWRidzg?oc=5\" target=\"_blank\">帝尔激光:长江证券承销保荐有限公司关于武汉帝尔激光科技股份有限公司向不特定对象发行可转换公司债券2026年第1次临时受托管理事务报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGMTJRczROQVJuVlhONmptM2xfYXdhallnT0x6RlFURVYwR2lqQmp0dnVlMU8wN2tEang3OFhRczN5TjYycENpa2g2VXFJeFBtNjhJMWg2ZWZyS1RCZUw1enF1ZHFPNUFRNWpvVHdTTkhzRVVHamVVLWhpMWRidzg?oc=5",
+      "published": "Tue, 12 May 2026 12:29:25 GMT"
     },
     {
       "source": "东方财富",
@@ -129,6 +87,132 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wLWdZTEVhenNfbzcwTHZ5c1BkejkzMDFWOUxEc1NpMlJYYVc1UFNxaXJpX3pXUldKUjRSbjl1cS16YmFuNnBhaVliaU9JbUh1UWZZaW5FTmg1MmdvejZ6UUFaVm9HZw?oc=5\" target=\"_blank\">恒宇信通：5月13日开市起股票复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wLWdZTEVhenNfbzcwTHZ5c1BkejkzMDFWOUxEc1NpMlJYYVc1UFNxaXJpX3pXUldKUjRSbjl1cS16YmFuNnBhaVliaU9JbUh1UWZZaW5FTmg1MmdvejZ6UUFaVm9HZw?oc=5",
       "published": "Tue, 12 May 2026 12:40:22 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "*ST凯鑫：公司股票5月14日起撤销退市风险警示 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE02Q3ZOME91SUMyeWdORFNYWDRJejd6NzNMZ3BLekV0TXZ3VS1BNjlLeXgyNmZvdTZpZ2d6UDBLMHN0LU1Tbml3R0VzdUhaUmx2cVpOaDFZOWlWdE5KN1VUMENXeEQyaWJhY2c2Tw?oc=5\" target=\"_blank\">*ST凯鑫：公司股票5月14日起撤销退市风险警示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Q3ZOME91SUMyeWdORFNYWDRJejd6NzNMZ3BLekV0TXZ3VS1BNjlLeXgyNmZvdTZpZ2d6UDBLMHN0LU1Tbml3R0VzdUhaUmx2cVpOaDFZOWlWdE5KN1VUMENXeEQyaWJhY2c2Tw?oc=5",
+      "published": "Tue, 12 May 2026 13:17:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "我国成功发射千帆极轨09组卫星",
+      "summary": "今天，我国在太原卫星发射中心使用长征六号改运载火箭，成功将千帆极轨09组卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260512/c676637889.shtml",
+      "published": "Tue, 12 May 2026 13:48:01 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+      "summary": "总台记者当地时间5月12日获悉，伊朗政府已向国际仲裁机构伊朗-美国求偿仲裁法庭（IUSCT）提起诉讼，起诉美国“对伊朗核设施进行军事侵略”“实施经济制裁”以及“威胁使用武力”。该诉状针对美国在对伊“12日战争”期间违反国际义务的行为，已于2026年2月至3月期间在伊朗-美国求偿仲裁庭正式登记。伊朗-美国求偿仲裁庭是根据1981年《阿尔及尔宣言》设立的国际仲裁机构，总部位于荷兰海牙。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260512/c676637886.shtml",
+      "published": "Tue, 12 May 2026 13:47:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美防长称美伊停火协议依然有效",
+      "summary": "当地时间5月12日，美国国防部长赫格塞思表示，他们针对伊朗问题的所有情况都制定了相应计划。如有必要，他们有升级行动的计划，也有撤离部署的计划，还有调动资源的计划。目前，他们不便透露下一步的具体行动方案。他还表示，尽管近期局势紧张并发生交火，但伊朗停火协议依然有效。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260512/c676637885.shtml",
+      "published": "Tue, 12 May 2026 13:46:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达股价上涨1.65%，再创历史新高",
+      "summary": "英伟达股价上涨1.65%，报223.068美元/股，再创历史新高，总市值达到5.42万亿美元。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637861.shtml",
+      "published": "Tue, 12 May 2026 13:45:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "文投控股与点众科技达成战略合作",
+      "summary": "5月12日，在第六届中国（北京）广电媒体融合发展大会上，文投控股股份有限公司与北京点众科技股份有限公司正式签署战略合作协议。双方聚焦IP开发、AIGC技术、精品动漫游戏等领域深度协同，以科技赋能文化创新，携手布局AIGC与数字内容融合新赛道。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260512/c676637828.shtml",
+      "published": "Tue, 12 May 2026 13:43:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "纳斯达克中国金龙指数跌幅扩大，现跌1.0%",
+      "summary": "纳斯达克中国金龙指数跌幅扩大，现跌1.0%，最新报6993.21点。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637799.shtml",
+      "published": "Tue, 12 May 2026 13:41:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "融资余额突破2.8万亿！部分券商增设两融“即时平仓线”",
+      "summary": "近期，东方证券两融业务增设“即时平仓线”指标，引发市场关注。实际上，此前中国银河证券、国信证券、国泰海通等多家券商已设置了类似指标。业内人士认为，券商通过增设“即时平仓线”，将风险处置节点大幅前移，缩短极端行情下的处置窗口期，可以有效防范账户穿仓风险。数据显示，截至5月11日，A股市场两融余额合计28338.58亿元，其中融资余额达28130.37亿元，这是A股市场融资余额首次突破2.8万亿元。(中国证券报)",
+      "link": "https://news.10jqka.com.cn/20260512/c676637751.shtml",
+      "published": "Tue, 12 May 2026 13:39:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股开盘：美股三大指数集体低开",
+      "summary": "美股三大指数集体低开，标普500指数跌0.34%，道指跌0.09%，纳指跌0.72%。大型科技股方面，英伟达跌1.06%，超威半导体跌2.71%。中概股方面，网易涨2.40%，京东涨1.02%，蔚来跌1.35%。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637616.shtml",
+      "published": "Tue, 12 May 2026 13:31:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "佰维存储：公司放弃优先认购广东芯成汉奇增资扩股",
+      "summary": "佰维存储公告，控股子公司广东芯成汉奇拟增资扩股并引入外部投资者国创科技，国创科技将以4550万元认购新增注册资本252.78万元。公司及员工持股平台均放弃本次增资的优先认购权。增资完成后，佰维存储持有广东芯成汉奇的股权比例将由70%变更为68.2742%，广东芯成汉奇仍为公司合并报表范围内的控股子公司。本次交易已获董事会审议通过，不构成关联交易和重大资产重组。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637575.shtml",
+      "published": "Tue, 12 May 2026 13:27:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "马斯克、库克随特朗普访华",
+      "summary": "白宫11日公布了将随特朗普一同访华的商界领袖名单。据多家美媒报道，总共将有16位美国商界代表来到北京，他们代表的美国企业涵盖科技、金融、航空和农业等多个领域：在科技领域，访华美企代表包括特斯拉公司首席执行官马斯克、苹果公司首席执行官库克，以及高通、美光等半导体企业的负责人；在金融领域，访华美企负责人来自花旗、高盛、黑石等华尔街巨头；此外，波音公司和嘉吉公司分别代表了航空和农业领域。 (央视网)",
+      "link": "https://news.10jqka.com.cn/20260512/c676637532.shtml",
+      "published": "Tue, 12 May 2026 13:24:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "东星医疗：拟支付7.7亿元购买医佳宝90%股权",
+      "summary": "东星医疗公告，公司拟支付7.7亿元购买医佳宝90%股权。本次交易完成后，上市公司将持有医佳宝90%股权，医佳宝将成为上市公司的控股子公司。本次交易不涉及发行股份，不会对上市公司的股权结构产生影响。根据立信会计师出具的上市公司《审计报告》和《备考审阅报告》，本次交易完成前后上市公司的主要财务指标显示，资产总额将上升至33.82亿元，营业收入将提高至6.66亿元，营业利润及净利润将有所提高，上市公司的持续盈利能力和发展潜力将得到增强。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637515.shtml",
+      "published": "Tue, 12 May 2026 13:21:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英国政府又有两名官员辞职",
+      "summary": "据英国媒体12日报道，英国内政部政务次官杰丝·菲利普斯与司法部政务次官亚历克丝·戴维斯-琼斯相继宣布辞职。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260512/c676637476.shtml",
+      "published": "Tue, 12 May 2026 13:19:01 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货黄金失守4680美元/盎司",
+      "summary": "现货黄金失守4680美元/盎司，日内跌1.19%。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637452.shtml",
+      "published": "Tue, 12 May 2026 13:17:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "华芢生物：Pro-101-1治疗深二度烧烫伤的IIIa期临床试验完成首例患者入组",
+      "summary": "华芢生物公告，本公司研发并用于治疗深二度烧烫伤的Pro-101-1的IIIa期临床试验，于近日完成了首例患者入组。Pro-101-1为本公司核心产品之一。本临床试验为一项随机、双盲、安慰剂对照研究，旨在进一步评价重组人血小板源生长因子(rhPDGF-BB)凝胶治疗深Ⅱ度烧伤创面的有效性和安全性，并在大量入组受试者中为后续IIIb期临床试验的设计提供关键参数。此次Pro-101-1的IIIa期临床试验完成首例患者入组是本公司在烧烫伤治疗领域上的又一次重大的研发进展。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637370.shtml",
+      "published": "Tue, 12 May 2026 13:13:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "湖南部署安全生产隐患大排查大整治工作",
+      "summary": "记者12日从湖南省应急管理厅获悉，湖南省安全生产委员会印发通知，决定在全省开展安全生产风险隐患大排查大整治。 通知明确，工作分3个阶段，5月15日前为动员部署阶段，各级各有关部门要结合本地区、本行业领域实际，研究制定具体、可操作的实施方案，迅速动员部署，广泛发动企业常态化开展自查；5月16日至12月31日为排查整治阶段，督促企业按规定将自查发现的重大事故隐患进行报告，及时采取技术、管理措施消除隐患，对辖区内生产经营单位开展地毯式、滚动式排查，对发现的问题隐患实行清单化管理、销号式整改；2027年1月1日起为常态推进阶段，对前期大排查大整治工作进行总结，固化好的经验做法，健全长效机制，常态化开展风险隐患排查整治。 通知要求，突出重点行业领域、重点地区、重点企业、重点环节，重点排查生产经营单位合法合规和主体责任落实情况，高危行业企业法定代表人与实际控制人是否一致，以及现场安全管理、教育培训、安全投入、应急预案等情况，尤其是风险分级管控和隐患排查治理双重预防机制落实情况。通过排查治理一批重大事故隐患、严厉查处一批违法违规行为、关闭退出一批不具备安全条件企业、问责曝光一批责任不落实的单位和个人",
+      "link": "https://news.10jqka.com.cn/20260512/c676637294.shtml",
+      "published": "Tue, 12 May 2026 13:10:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "联检科技：拟使用超募资金5313.69万元收购冠标检测38.9281%股权",
+      "summary": "联检科技公告，公司拟使用超募资金5313.69万元收购控股子公司冠标检测38.9281%股权，交易完成后，公司直接持有冠标检测股权比例提升至92.6181%。本次交易已经公司第五届董事会第三十次会议审议通过，不构成关联交易和重大资产重组。冠标检测2026年1-3月营业收入为2413.04万元，净利润为530.03万元。",
+      "link": "https://news.10jqka.com.cn/20260512/c676637141.shtml",
+      "published": "Tue, 12 May 2026 13:05:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "芝商所（CME） 将推出支持人工智能的算力期货市场",
+      "summary": "芝商所（CME） 将推出支持人工智能的算力期货市场；芝商所（CME）集团与数据和分析公司Silicon Data合作推出首个算力期货。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260512/c676637100.shtml",
+      "published": "Tue, 12 May 2026 13:02:20 GMT"
     },
     {
       "source": "同花顺",
@@ -152,263 +236,207 @@
       "published": "Tue, 12 May 2026 12:51:41 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "铂力特：已减持0.02%，拟再减持0.84%",
-      "summary": "铂力特公告，公司回购专用证券账户持有已回购股份229.19万股，占总股本0.84%，拟自2026年4月11日披露起15个交易日后的6个月内通过集中竞价减持不超229.19万股。截至2026年5月12日首次减持57707股，占总股本0.02%，成交均价96.19元/股，价格区间96.01～96.49元/股，成交金额555.07万元；减持后持股223.42万股，占总股本0.81%。",
-      "link": "https://news.10jqka.com.cn/20260512/c676636686.shtml",
-      "published": "Tue, 12 May 2026 12:35:45 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "万科A：深铁集团向公司提供25亿元股东借款额度 公司签署220亿股东借款补充协议",
-      "summary": "万科A公告称，公司董事会审议通过《关于就深铁集团向公司提供25亿元股东借款额度并由公司提供担保订立框架协议的议案》及《关于就220亿股东借款签署补充协议安排的议案》。上述两项议案均涉及关联交易，关联董事回避表决，尚需提交公司股东会审议。公司于2026年5月12日与深铁集团就《框架协议》签署《关于股东借款及资产担保的框架协议之补充协议》（以下简称“《补充协议》”），就原220亿股东借款事项下的担保方式、担保物、抵\\质押率等相关安排进行了补充约定。担保物范围扩大至经营性房地产、固定资产、存货、在建工程、股票、非上市公司股权、合伙份额、票据、存单、债权、应收账款、项目未来可得收益权等，抵质押率调整为60%-100%及50%-100%。该事项尚需提交股东会审议。",
-      "link": "https://news.10jqka.com.cn/20260512/c676636651.shtml",
-      "published": "Tue, 12 May 2026 12:32:51 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "三峡水库为长江中下游补水超100亿立方米",
-      "summary": "记者从中国三峡集团获悉，自2025年11月21日启动枯水期补水调度以来，截至5月12日，三峡水库已累计为长江中下游补水超100亿立方米，为长江中下游沿线民生供水、农业生产、航运畅通及生态保护提供了坚实保障。每年冬季至来年春季是长江流域少雨时期，为有效应对枯水期挑战，三峡集团依据水利部长江水利委员会调度要求科学制定补水方案，持续加大三峡水库下泄流量，日均出库流量超7000立方米每秒，平均出库流量超自然平均流量近六成。目前，长江流域正式进入汛期。据长江流域气象中心最新预测，2026年长江流域汛期旱涝并存，长江中游旱重于涝，主汛期降水总体偏少。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260512/c676636644.shtml",
-      "published": "Tue, 12 May 2026 12:32:16 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "世卫组织：应对汉坦病毒疫情工作“还未结束”",
-      "summary": "世界卫生组织总干事谭德塞12日表示，涉汉坦病毒疫情邮轮“洪迪厄斯”号人员撤离行动完成后，目前尚未出现更大规模疫情暴发的迹象，但相关应对工作还未结束，预计未来数周仍有可能出现新增病例。谭德塞与西班牙首相桑切斯当天在西班牙首相府蒙克洛亚宫共同召开新闻发布会。谭德塞感谢西班牙政府同意接收涉疫邮轮并组织人员撤离行动，同时强调目前“工作还未结束”，世卫组织将继续与相关国家紧密合作，追踪撤离人员的健康状况。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260512/c676636633.shtml",
-      "published": "Tue, 12 May 2026 12:31:34 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国4月核心CPI同比增长2.8%",
-      "summary": "美国4月核心CPI同比增长2.8%，预估为2.7%，前值为2.6%。美国4月核心CPI环比上升0.4%，预期上升0.3%。",
-      "link": "https://news.10jqka.com.cn/20260512/c676636629.shtml",
-      "published": "Tue, 12 May 2026 12:31:26 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国4月CPI同比增长3.8% 高于市场预期",
-      "summary": "美国4月消费者价格指数（CPI）同比增长3.8%，预估为3.7%，前值为3.3%。环比上涨0.6%，符合预期。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635617.shtml",
-      "published": "Tue, 12 May 2026 12:30:40 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "SK海力士回应进入兴福电子前十大流通股东：系上市前投资",
-      "summary": "SK海力士就一季度进入兴福电子前十大流通股东向记者表示，对兴福电子的投资是公司在其上市前已完成投资的项目，该件事宜为公司对上市前的初创企业的投资。注：兴福电子在5月11日股价异动公告中就该事项回应，SK海力士（无锡）投资有限公司系公司首次公开发行前股东，持有公司股份数量500万股，已于2026年1月22日解除限售。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260512/c676635584.shtml",
-      "published": "Tue, 12 May 2026 12:29:26 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "泰格医药：实控人叶小平、曹晓春因涉嫌信息披露违法违规被立案",
-      "summary": "泰格医药公告，公司实际控制人叶小平、曹晓春于2026年5月12日分别收到中国证监会的《立案告知书》，因涉嫌泰格医药持股变动相关信息披露违法违规，中国证监会决定对公司实际控制人叶小平及曹晓春立案。两位实际控制人将积极配合中国证监会的相关工作，并严格按照监管要求履行信息披露义务。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635556.shtml",
-      "published": "Tue, 12 May 2026 12:26:31 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "泰格医药：股东曹晓春质押股份占公司总股本2.15%",
-      "summary": "泰格医药公告，持股5%以上股东曹晓春将其1850万股（占其所持股份36.05%、占公司总股本2.15%）质押给财通证券资产管理有限公司，质押期限2026-05-12至2027-05-12，质押用途为个人融资。截至公告日，其累计质押股份3850万股，占其所持股份75.03%、占公司总股本4.47%。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635534.shtml",
-      "published": "Tue, 12 May 2026 12:23:28 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "宝鼎科技：目前未有高速覆铜板M7和M9产品销售 HVLP铜箔销量占比极小",
-      "summary": "宝鼎科技公告称，公司股票连续4个交易日涨停，股价短期涨幅较大，存在回调风险。公司主要产品为覆铜板、电子铜箔及黄金采选。其中覆铜板（CCL）主要为玻纤布基覆铜板（FR-4）、复合基覆铜板等常规产品，目前未有高速覆铜板M7和M9产品销售，无相关订单和营业收入；电子铜箔产品分为高温高延伸性铜箔（HTE)、低轮廓铜箔（LP）、反转处理铜箔（RTF)及超低轮廓铜箔（HVLP)，其中HVLP铜箔目前尚处于客户认证及市场拓展阶段，未形成批量生产，2025年度HVLP铜箔销量占公司铜箔销量比例仅为0.03%，短期内对公司整体经营业绩贡献有限，未来订单获取及业务发展存在不确定性。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635529.shtml",
-      "published": "Tue, 12 May 2026 12:23:08 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "长春高新：子公司伏欣奇拜单抗注射液获得药物临床试验批准通知书",
-      "summary": "长春高新公告，公司子公司长春金赛药业有限责任公司收到国家药品监督管理局核准签发的伏欣奇拜单抗注射液《药物临床试验批准通知书》。伏欣奇拜单抗是金赛药业研发的一款全人源抗白介素-1β（IL-1β）单抗，拟用于治疗在启动降尿酸治疗初期的痛风患者中降低急性发作风险适应症。在启动降尿酸治疗初期的痛风患者中降低急性发作风险。由于医药产品具有高科技、高风险、高附加值的特点，药品的前期研发以及产品从研制、临床试验报批到投产的周期长、环节多，容易受到一些不确定性因素的影响，本次临床试验进程尚存在不确定性。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635515.shtml",
-      "published": "Tue, 12 May 2026 12:21:32 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "米雷康姆国际移动通信美股盘前跌超10%",
-      "summary": "米雷康姆国际移动通信美股盘前跌超10%，现报70.1美元。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635507.shtml",
-      "published": "Tue, 12 May 2026 12:21:09 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中电港：坤润一期基金、北京中电发展基金合计持有5949.84万股",
-      "summary": "中电港公告，持股7.8298%的一致行动人坤润一期基金、北京中电发展基金合计持有5949.84万股，拟通过集中竞价减持不超759.9万股，占公司总股本1%，减持期为本公告披露之日起15个交易日后的3个月内。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635495.shtml",
-      "published": "Tue, 12 May 2026 12:20:27 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "GLM-5.1获Artificial Analysis全新Coding Agent基准开源第一",
-      "summary": "今日，全球权威评测机构Artificial Analysis发布全新Coding Agent基准Artificial Analysis Coding Agent Index，用于衡量Agent harnesses与模型的组合在SWE-Bench-Pro-Hard-AA、Terminal-Bench v2和SWE-Atlas-QnA主流基准上的表现。其中，闭源模型Opus 4.7（在Cursor CLI中运行）全球第一，GLM-5.1（在Claude Code中运行）取得开源第一。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260512/c676635429.shtml",
-      "published": "Tue, 12 May 2026 12:16:30 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国至4月25日当周ADP就业人数周度变动3.3万人，前值3.925万人",
-      "summary": "美国至4月25日当周ADP就业人数周度变动3.3万人，前值3.925万人。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635415.shtml",
-      "published": "Tue, 12 May 2026 12:15:44 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美股纳斯达克100指数期货跌超1%",
-      "summary": "美股纳斯达克100指数期货跌超1%，标普500指数期货跌0.45%，道琼斯指数期货跌0.06%。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635124.shtml",
-      "published": "Tue, 12 May 2026 12:06:54 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "安靠智电：公司与苏州星辰瀑布电力科技有限公司签订《关于固态变压器（SST）合作协议》",
-      "summary": "安靠智电公告，公司于2026年5月12日召开第五届董事会第二十一次会议，审议通过了《关于签订&lt;固态变压器（SST）合作协议&gt;的议案》。同日，公司与苏州星辰瀑布电力科技有限公司就委托研发固态变压器（Solid State Transformer，英文简称：SST）签订了《关于固态变压器（SST）合作协议》。根据协议，在18个月内完成SST工程样机的开发，建立完善的SST专利布局，推动SST产品商业化应用，打造SST领域领先企业。合同有效期36个月，自生效之日起计算。",
-      "link": "https://news.10jqka.com.cn/20260512/c676635109.shtml",
-      "published": "Tue, 12 May 2026 12:06:29 GMT"
+      "source": "财联社",
+      "title": "财联社5月12日电，马士基表示仍将避免途经霍尔木兹海峡。",
+      "summary": "财联社5月12日电，马士基表示仍将避免途经霍尔木兹海峡。",
+      "link": "https://api3.cls.cn/share/article/2369440?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:50:21 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月12日电，印度反垄断监管机构表示，批准阿达尼电力收购GVK能源100%股权。",
-      "summary": "财联社5月12日电，印度反垄断监管机构表示，批准阿达尼电力收购GVK能源100%股权。",
-      "link": "https://api3.cls.cn/share/article/2369394?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:59:17 GMT"
+      "title": "财联社5月12日电，特朗普表示，船只正驶往德克萨斯和路易斯安那装载石油。",
+      "summary": "财联社5月12日电，特朗普表示，船只正驶往德克萨斯和路易斯安那装载石油。",
+      "link": "https://api3.cls.cn/share/article/2369438?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:49:07 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月12日电，美国中央司令部称，美军部队已使65艘商船改变航向，并使4艘失去行动能力。",
-      "summary": "财联社5月12日电，美国中央司令部称，美军部队已使65艘商船改变航向，并使4艘失去行动能力。",
-      "link": "https://api3.cls.cn/share/article/2369392?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:58:45 GMT"
+      "title": "美防长称美伊停火协议依然有效",
+      "summary": "【美防长称美伊停火协议依然有效】财联社5月12日电，美国国防部长赫格塞思表示，他们针对伊朗问题的所有情况都制定了相应计划。如有必要，他们有升级行动的计划，也有撤离部署的计划，还有调动资源的计划。目前，他们不便透露下一步的具体行动方案。他还表示，尽管近期局势紧张并发生交火，但伊朗停火协议依然有效。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2369437?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:48:38 GMT"
     },
     {
       "source": "财联社",
-      "title": "芝商所小麦延续涨势 恶劣天气导致美国作物状况恶化",
-      "summary": "【芝商所小麦延续涨势 恶劣天气导致美国作物状况恶化】财联社5月12日电，由于美国部分关键产区持续干旱威胁供应前景，芝加哥小麦价格连续第三天上涨。美国大平原部分地区的干旱正对农作物造成压力。美国农业部周一公布的最新数据显示，冬小麦优良率为28%，低于上周的31%，也远低于去年同期的54%。交易员还在等待定于周二公布的美国农业部《世界农产品供需预估》报告，以评估天气影响的程度。本周在堪萨斯进行的作物考察预计将报告硬红冬小麦遭受冻害和干旱胁迫。软红小麦期货一度上涨2.2%，而硬红冬小麦价格一度上涨2.6%。",
-      "link": "https://api3.cls.cn/share/article/2369390?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:57:09 GMT"
+      "title": "财联社5月12日电，摩根大通CEO杰米·戴蒙表示，目前市场过于“狂热”。",
+      "summary": "财联社5月12日电，摩根大通CEO杰米·戴蒙表示，目前市场过于“狂热”。",
+      "link": "https://api3.cls.cn/share/article/2369434?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:46:46 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月12日电，沙特交易所表示，沙特资本市场管理局向沙特渣打资本颁发牌照，准许其在证券业务范围内开展投资管理及基金运营业务。",
-      "summary": "财联社5月12日电，沙特交易所表示，沙特资本市场管理局向沙特渣打资本颁发牌照，准许其在证券业务范围内开展投资管理及基金运营业务。",
-      "link": "https://api3.cls.cn/share/article/2369389?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:55:58 GMT"
+      "title": "英伟达股价连续5个交易日上涨 总市值达到5.42万亿美元",
+      "summary": "【英伟达股价连续5个交易日上涨 总市值达到5.42万亿美元】财联社5月12日电，英伟达股价上涨1.65%，报223.068美元/股，再创历史新高，总市值达到5.42万亿美元。",
+      "link": "https://api3.cls.cn/share/article/2369433?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:44:03 GMT"
     },
     {
       "source": "财联社",
-      "title": "阿布扎比国家石油公司CEO：霍尔木兹海峡封锁致全球原油短缺10亿桶",
-      "summary": "【阿布扎比国家石油公司CEO：霍尔木兹海峡封锁致全球原油短缺10亿桶】财联社5月12日电，阿布扎比国家石油公司首席执行官Sultan Al Jaber在社交平台发文称：“由于霍尔木兹海峡被封锁，全球原油供应已短缺10亿桶。”",
-      "link": "https://api3.cls.cn/share/article/2369386?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:52:09 GMT"
+      "title": "财联社5月12日电，韩国ETF EWY在纽约下跌5.3%，此前KOSPI指数大跌。",
+      "summary": "财联社5月12日电，韩国ETF EWY在纽约下跌5.3%，此前KOSPI指数大跌。",
+      "link": "https://api3.cls.cn/share/article/2369431?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:42:36 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月12日电，上交所国仪量子技术（合肥）股份有限公司IPO审核状态变更为提交注册。",
-      "summary": "财联社5月12日电，上交所国仪量子技术（合肥）股份有限公司IPO审核状态变更为提交注册。",
-      "link": "https://api3.cls.cn/share/article/2369385?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:51:18 GMT"
+      "title": "中信建投黄文涛：投资“十五五”中国方略 关注四大重点政策",
+      "summary": "【中信建投黄文涛：投资“十五五”中国方略 关注四大重点政策】财联社5月12日电，在中信建投2026年度中期资本市场投资峰会上，中信建投证券研究发展部行政负责人、首席经济学家黄文涛分享了对中国经济与资本市场的展望。他表示，中国崛起，本质是世界格局迈向多极，宏观力量东升西降，综合国力的提升，这势必伴随人民币的崛起和人民币资产的崛起。“十五五”规划就是应对多极化时代的的中国方略，关注四大重点政策领域的投资机会：一是产业建设，二是科技创新，三是内需消费，四是国际贸易。在他看来，A股的长期上升通道有“新四牛”，分别是资金流入牛、科技创新牛、制度改革牛、消费升级牛。（财联社记者 王晨）",
+      "link": "https://api3.cls.cn/share/article/2369429?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:42:00 GMT"
     },
     {
       "source": "财联社",
-      "title": "美股盘前要闻一览：美国或考虑恢复对伊朗军事行动；特斯拉AI6芯片制造或从三星转至英特尔；分析师称英伟达芯片需求未见放缓",
-      "summary": "【美股盘前要闻一览：美国或考虑恢复对伊朗军事行动；特斯拉AI6芯片制造或从三星转至英特尔；分析师称英伟达芯片需求未见放缓】财联社5月12日电，投资者需重点关注的美股市场财经要闻如下：\n1、美国三大股指期货集体下行。道琼斯指数期货跌0.01%，标普500指数期货跌0.31%，纳斯达克100指数期货跌0.75%。\n2、国际油价日内走高。WTI原油期货价格涨3.22%，报101.231美元/桶；布伦特原油期货价格涨3.28%，报107.633美元/桶。\n3、国际金银期货双双下跌。COMEX黄金期货跌0.57%，报4701.9美元/盎司，COMEX白银期货跌1.94%，报84.28美元/盎司。\n4、欧洲主要股指走低。英国富时100指数跌0.44%，法国CAC40指数跌0.66%，德国DAX30指数跌1.20%。\n5、知情人士披露，美国或考虑恢复对伊朗军事行动。\n6、有报道称特朗普政府正对特斯拉施压，要求其将AI6芯片制造由三星电子转至英特尔。业内怀疑英特尔的技术能否达到相应标准。\n7、道琼斯市场数据显示，过去4个交易日，英伟达股价上涨了14%，市值增加了5910亿美元。伯恩斯坦分析师表示，这表",
-      "link": "https://api3.cls.cn/share/article/2369382?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:50:45 GMT"
+      "title": "财联社5月12日电，纳斯达克中国金龙指数跌幅扩大，现跌1.0%，最新报6993.21点。",
+      "summary": "财联社5月12日电，纳斯达克中国金龙指数跌幅扩大，现跌1.0%，最新报6993.21点。",
+      "link": "https://api3.cls.cn/share/article/2369430?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:41:11 GMT"
     },
     {
       "source": "财联社",
-      "title": "牵头打造的全国统一电力交易APP上线？中电联全面否认",
-      "summary": "【牵头打造的全国统一电力交易APP上线？中电联全面否认】财联社5月12日电，中国电力企业联合会在官网公开发声称，该会未参与“中电交易APP”研发、打造和发布等事宜。声明指出，近日，中国电力企业联合会发现有互联网媒体平台发布“中电交易APP正式上线全国统一电力市场建设迈出决定性一步”“全国统一电力交易所中电交易APP正式落地我国电力市场化改革迈入新纪元”“中电交易APP上线，售电公司的跨省生意终于好做了”或类似标题文章，宣称“中电交易APP”由我会(中国电力企业联合会/中电联)牵头打造或参与研发等表述。以上涉及中国电力企业联合会与“中电交易APP”相关联的任何内容均不属实。",
-      "link": "https://api3.cls.cn/share/article/2369383?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:50:03 GMT"
+      "title": "利弗莫尔中概股龙头指数跌幅扩大至1%",
+      "summary": "【利弗莫尔中概股龙头指数跌幅扩大至1%】财联社5月12日电，利弗莫尔中概股龙头指数跌幅扩大至1%，报10142.8点。成分股中，Enhanced Group Inc.跌9.57%，南茂跌5.92%，金山云跌5.26%，奇景光电跌4.84%，慧荣科技跌4.53%。",
+      "link": "https://api3.cls.cn/share/article/2369428?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:37:55 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月12日电，奥本海默将甲骨文公司目标股价从210美元上调至235美元。",
-      "summary": "财联社5月12日电，奥本海默将甲骨文公司目标股价从210美元上调至235美元。",
-      "link": "https://api3.cls.cn/share/article/2369381?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:47:17 GMT"
+      "title": "财联社5月12日电，“SpaceX概念基金”Destiny Tech100开盘大跌超22%。",
+      "summary": "财联社5月12日电，“SpaceX概念基金”Destiny Tech100开盘大跌超22%。",
+      "link": "https://api3.cls.cn/share/article/2369427?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:36:18 GMT"
     },
     {
       "source": "财联社",
-      "title": "2连板双枪科技：“竹基禾塑”材料目前在中试阶段 且未应用于光模块、机器人等领域",
-      "summary": "【2连板双枪科技：“竹基禾塑”材料目前在中试阶段 且未应用于光模块、机器人等领域】财联社5月12日电，双枪科技(001211)公告称，公司股票于5月11日、12日连续2个交易日收盘价格涨幅偏离值累计超过20%，属于股票交易异常波动。公司主营业务为日用餐厨具的研发、设计、生产与销售，并在餐饮市场拓展竹笋、竹炭等产品。其中公司“金钢瓷”材料仅用于生产餐具产品，目前尚在客户拓展阶段，订单不足1000万元，占公司营业收入的比重极小；“竹基禾塑”材料基于当下研发规划，仅用于工业托盘的研发与试产，目前在中试阶段，尚未有客户订单及批量生产，且未应用于汽车、建材、光模块、光通信工程、AI硬件和机器人等多个领域；未来“金钢瓷”及竹塑托盘的订单获取和业务发展存在较大不确定性，请投资者注意投资风险。",
-      "link": "https://api3.cls.cn/share/article/2369377?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:38:54 GMT"
+      "title": "财联社5月12日电，安德玛股价跌超19%，因调整后年度利润预测低于市场预期。",
+      "summary": "财联社5月12日电，安德玛股价跌超19%，因调整后年度利润预测低于市场预期。",
+      "link": "https://api3.cls.cn/share/article/2369426?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:35:16 GMT"
     },
     {
       "source": "财联社",
-      "title": "美国4月实际平均周薪同比下降0.2%",
-      "summary": "【美国4月实际平均周薪同比下降0.2%】财联社5月12日电，根据美国劳工统计局的数据，美国4月实际平均周薪同比下降0.2%，4月实际平均周收入环比下降0.2%，4月实际平均时薪同比下降0.3%，4月实际平均时薪环比下降0.5%。",
-      "link": "https://api3.cls.cn/share/article/2369376?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:37:30 GMT"
+      "title": "财联社5月12日电，量子计算公司Quantum Computing股价飙升32%，为自2025年6月以来的最大涨幅。",
+      "summary": "财联社5月12日电，量子计算公司Quantum Computing股价飙升32%，为自2025年6月以来的最大涨幅。",
+      "link": "https://api3.cls.cn/share/article/2369425?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:34:18 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月12日电，美国4月核心CPI涨幅超出预期，美国国债企稳。",
-      "summary": "财联社5月12日电，美国4月核心CPI涨幅超出预期，美国国债企稳。",
-      "link": "https://api3.cls.cn/share/article/2369374?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:33:55 GMT"
+      "title": "美股黄金矿业公司股票下跌",
+      "summary": "【美股黄金矿业公司股票下跌】财联社5月12日电，美国上市的黄金矿业公司股票下跌，安哥拉黄金跌5.3%，西巴尼黄金下跌4%，和谐黄金、纽蒙特、金罗斯黄金跌超2%。",
+      "link": "https://api3.cls.cn/share/article/2369424?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:34:10 GMT"
     },
     {
       "source": "财联社",
-      "title": "花旗将三星电子目标价从30万韩元上调至46万韩元 较最新收盘价高出60%",
-      "summary": "【花旗将三星电子目标价从30万韩元上调至46万韩元 较最新收盘价高出60%】财联社5月12日电，受行业景气度提振，花旗银行大幅上调三星电子目标价，从30万韩元上调至46万韩元，三星电子最新收盘价约为28万韩元。本月初，因考虑三星电子工会罢工可能计提损失，花旗曾将其目标价从32万韩元下调至30万韩元；时隔不到10天，受存储芯片价格大涨带动，再度大幅上调目标价。 花旗分析师Peter Lee表示：“我们原本预估罢工相关拨备或将拖累约10%业绩，即便计入这一因素，仍判断存储行业还有进一步上行空间。”他同时预判：“即便罢工落地，短期仅为个别企业风险；反而可能加剧全球存储芯片供给紧缺，从价格层面利好三星电子、SK海力士、美光三大存储巨头。”",
-      "link": "https://api3.cls.cn/share/article/2369373?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:33:22 GMT"
+      "title": "财联社5月12日电，据印度国家证券交易所（NSE），全球基金5月12日净卖出196亿卢比印度股票。",
+      "summary": "财联社5月12日电，据印度国家证券交易所（NSE），全球基金5月12日净卖出196亿卢比印度股票。",
+      "link": "https://api3.cls.cn/share/article/2369422?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:33:22 GMT"
     },
     {
       "source": "财联社",
-      "title": "万科A：深铁集团向公司提供25亿元股东借款额度 公司签署220亿股东借款补充协议",
-      "summary": "【万科A：深铁集团向公司提供25亿元股东借款额度 公司签署220亿股东借款补充协议】财联社5月12日电，万科A(000002.SZ)公告称，公司董事会审议通过《关于就深铁集团向公司提供25亿元股东借款额度并由公司提供担保订立框架协议的议案》及《关于就220亿股东借款签署补充协议安排的议案》。上述两项议案均涉及关联交易，关联董事回避表决，尚需提交公司股东会审议。公司于2026年5月12日与深铁集团就《框架协议》签署《关于股东借款及资产担保的框架协议之补充协议》（以下简称“《补充协议》”），就原220亿股东借款事项下的担保方式、担保物、抵\\质押率等相关安排进行了补充约定。担保物范围扩大至经营性房地产、固定资产、存货、在建工程、股票、非上市公司股权、合伙份额、票据、存单、债权、应收账款、项目未来可得收益权等，抵质押率调整为60%-100%及50%-100%。",
-      "link": "https://api3.cls.cn/share/article/2369372?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:32:18 GMT"
+      "title": "美股光通信板块开盘集体回调 康宁跌超4%",
+      "summary": "【美股光通信板块开盘集体回调 康宁跌超4%】财联社5月12日电，美股光通信板块开盘集体回调。Lumentum、Credo、康宁跌超4%，Coherent跌超3%。",
+      "link": "https://api3.cls.cn/share/article/2369421?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:32:59 GMT"
     },
     {
       "source": "财联社",
-      "title": "美国4月核心CPI同比增长2.8%",
-      "summary": "【美国4月核心CPI同比增长2.8%】财联社5月12日电，美国4月核心CPI同比增长2.8%，预估为2.7%，前值为2.6%。美国4月核心CPI环比上升0.4%，预期上升0.3%。<br /><img src=\"https://image.cls.cn/images/20260512/5MpA8whRf5_1155x773.png\" />",
-      "link": "https://api3.cls.cn/share/article/2369371?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:30:21 GMT"
+      "title": "美三大股指低开 芯片股连涨数日后迎来普跌",
+      "summary": "【美三大股指低开 芯片股连涨数日后迎来普跌】财联社5月12日电，美国三大股指低开,道琼斯指数跌0.04%，标普500指数跌0.35%，纳斯达克综合指数跌0.73%。芯片股普跌，美光科技跌3%、AMD跌2%、英特尔跌4%、高通跌4%。台积电股价下跌1.73%，博通股价下跌1.72%，阿斯麦股价下跌3.04%。安德玛股价下跌15%，公司2026财年营收同比下降4%至50亿美元。",
+      "link": "https://api3.cls.cn/share/article/2369420?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:30:53 GMT"
     },
     {
       "source": "财联社",
-      "title": "美国4月CPI同比增长3.8% 高于市场预期",
-      "summary": "【美国4月CPI同比增长3.8% 高于市场预期】财联社5月12日电，美国4月消费者价格指数（CPI）同比增长3.8%，创2023年5月以来新高，市场预估为3.7%，前值为3.3%。环比上涨0.6%，符合预期。<br /><img src=\"https://image.cls.cn/images/20260512/E0829sAyy2_1597x1124.png\" />",
-      "link": "https://api3.cls.cn/share/article/2369370?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:30:13 GMT"
+      "title": "财联社5月12日电，利弗莫尔中概股龙头指数盘初涨0.15%。",
+      "summary": "财联社5月12日电，利弗莫尔中概股龙头指数盘初涨0.15%。",
+      "link": "https://api3.cls.cn/share/article/2369419?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:30:23 GMT"
     },
     {
       "source": "财联社",
-      "title": "SK海力士回应进入兴福电子前十大流通股东：系上市前投资",
-      "summary": "【SK海力士回应进入兴福电子前十大流通股东：系上市前投资】财联社5月12日电，SK海力士就一季度进入兴福电子前十大流通股东向记者表示，对兴福电子的投资是公司在其上市前已完成投资的项目，该件事宜为公司对上市前的初创企业的投资。 (证券时报)",
-      "link": "https://api3.cls.cn/share/article/2369369?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:30:09 GMT"
+      "title": "【财联社早知道】光纤+CPO+芯片等，多个全球首创硬核成果将亮相下周召开的顶级光学盛会，机构预计光纤供需失衡格局将延续至2027年下半年，这家公司合作参与开通...",
+      "summary": "①光纤+CPO+芯片等，多个全球首创硬核成果将亮相下周召开的顶级光学盛会，机构预计光纤供需失衡格局将延续至2027年下半年，这家公司合作参与开通了世界首个800G空芯光纤传输技术试验网，且应用于算力的高端MPO光连接器市场份额位居行业前列；\n②千亿龙头宣布拿下印度8GWh储能大电池订单，机构称2026年国内外需求共振带动储能需求景气上行，这家公司位居全球户储电池出货量TOP2，且公司大储主要产品排产已至上半年；\n③这家公司在推进基膜及高端离型膜产能建设。",
+      "link": "https://api3.cls.cn/share/article/2369027?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:25:04 GMT"
     },
     {
       "source": "财联社",
-      "title": "泰格医药：因涉嫌持股变动相关信息披露违法违规 实控人叶小平、曹晓春被证监会立案",
-      "summary": "【泰格医药：因涉嫌持股变动相关信息披露违法违规 实控人叶小平、曹晓春被证监会立案】财联社5月12日电，泰格医药(300347.SZ)公告称，公司实际控制人叶小平、曹晓春于2026年5月12日收到证监会《立案告知书》，因涉嫌持股变动相关信息披露违法违规，证监会决定对二人立案。述立案调查内容系关于叶小平、曹晓春过往历史持股变动过程中的信息披露相关事项，两位实际控制人历次减持均进行了相应公告，且持股情况亦在公司定期报告中予以披露，信息披露义务人亦已经补充披露了《简式权益变动报告》。前述事项与公司经营无关，不会对公司正常经营造成影响。",
-      "link": "https://api3.cls.cn/share/article/2369368?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:27:23 GMT"
+      "title": "东星医疗：拟7.7亿元收购医佳宝90%股权 深化大外科产业布局",
+      "summary": "【东星医疗：拟7.7亿元收购医佳宝90%股权 深化大外科产业布局】财联社5月12日电，东星医疗(301290.SZ)公告称，公司拟以支付现金方式收购包仕军、湖北天辉科技开发有限公司持有的武汉医佳宝生物材料有限公司90%股权，交易价格7.7亿元。本次交易完成后，医佳宝将成为公司控股子公司。标的公司主营骨科及生物医学材料的研发、生产与销售，本次收购将丰富公司产品矩阵，实现从术中器械向术中植入、术后修复的全流程延伸，构建大外科领域器械加生物材料一体化解决方案能力。",
+      "link": "https://api3.cls.cn/share/article/2369417?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:23:40 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月12日电，土耳其主要银行指数下跌2.1%。",
-      "summary": "财联社5月12日电，土耳其主要银行指数下跌2.1%。",
-      "link": "https://api3.cls.cn/share/article/2369362?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:19:01 GMT"
+      "title": "马斯克库克随特朗普访华",
+      "summary": "【马斯克库克随特朗普访华】财联社5月12日电，白宫11日公布了将随特朗普一同访华的商界领袖名单。据多家美媒报道，总共将有16位美国商界代表来到北京，他们代表的美国企业涵盖科技、金融、航空和农业等多个领域：在科技领域，访华美企代表包括特斯拉公司首席执行官马斯克、苹果公司首席执行官库克，以及高通、美光等半导体企业的负责人；在金融领域，访华美企负责人来自花旗、高盛、黑石等华尔街巨头；此外，波音公司和嘉吉公司分别代表了航空和农业领域。 (央视网)",
+      "link": "https://api3.cls.cn/share/article/2369410?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Tue, 12 May 2026 13:19:03 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月12日电，ADP数据显示，在截至4月25日的四周内，美国私营部门周均新增就业人数为3.3万人。",
-      "summary": "财联社5月12日电，ADP数据显示，在截至4月25日的四周内，美国私营部门周均新增就业人数为3.3万人。",
-      "link": "https://api3.cls.cn/share/article/2369360?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Tue, 12 May 2026 12:16:01 GMT"
+      "source": "华尔街见闻",
+      "title": "美防长称美伊停火协议依然有效",
+      "summary": "<p>当地时间5月12日，美国国防部长赫格塞思表示，他们针对伊朗问题的所有情况都制定了相应计划。如有必要，他们有升级行动的计划，也有撤离部署的计划，还有调动资源的计划。目前，他们不便透露下一步的具体行动方案。</p>\n\n<p>他还表示，尽管近期局势紧张并发生交火，但伊朗停火协议依然有效。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3102358",
+      "published": "Tue, 12 May 2026 13:48:33 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "存货达121.9亿元！深圳夫妻存储芯片精准囤货，5个月身家暴涨320亿元",
+      "summary": "<p style=\"text-align: center;\">近日</p>\n<p style=\"text-align: center;\">深圳一对夫妻在网络上引起热议</p>\n<p style=\"text-align: center;\">话题冲上热搜</p>\n<p style=\"text-align: center;\"><img alt=\"5ffff093c1e23f87cfa2399ffd988d8b.jpg\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/1eede2e5-bbad-47b8-a613-545b4a280dab.jpeg\" title=\"\" /><br />AI浪潮下</p>\n<p style=\"text-align: center;\">有人靠模型出圈</p>\n<p style=\"text-align: center;\">有人靠算力翻身</p>\n<p style=\"text-align: center;\">但你可能想不到</p>\n<p style=\"text-align: center;\">深圳一对夫妻提前囤对芯片",
+      "link": "https://wallstreetcn.com/articles/3772102",
+      "published": "Tue, 12 May 2026 13:41:33 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "腾讯张军：微信已读和访客功能“已焊死”，微信状态浏览人数测试已停止",
+      "summary": "<p style=\"text-align: left;\">5月12日，在微信状态灰测访客功能引发全网热议后，微信员工“客村小蒋”和腾讯公关总监张军先后公开表态。</p>\n<p style=\"text-align: justify;\">“客村小蒋”表示，热搜上的话题#微信状态 访客记录#，其实有很大的误导性，他称微信状态并不提供查看访客记录的功能。</p>\n<p style=\"text-align: justify;\">“这个热搜是因为微信状态最近在很小范围测试两个功能：一个是状态浏览人数展示的功能，发布状态后，在该状态有效期内，可以在右下角看到这条状态的浏览人数，对，只是展示人数。”</p>\n<figure><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/50adef85-d52e-4840-90ee-5497f8d7737f.png\" title=\"\" />\n<figcaption class=\"wscn-img-desc\">图片来源：客村小蒋微博</figcaption>\n</figure>\n<p style",
+      "link": "https://wallstreetcn.com/articles/3772088",
+      "published": "Tue, 12 May 2026 13:36:51 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "白宫公布名单，16位美国商界领袖将随特朗普访华",
+      "summary": "<p>白宫5月11日公布了将随特朗普一同访华的商界领袖名单。据多家美媒报道，总共将有16位美国商界代表来到北京，他们代表的美国企业涵盖科技、金融、航空和农业等多个领域：在科技领域，访华美企代表包括特斯拉公司首席执行官马斯克、苹果公司首席执行官库克，以及高通、美光等半导体企业的负责人；在金融领域，访华美企负责人来自花旗、高盛、黑石等华尔街巨头；此外，波音公司和嘉吉公司分别代表了航空和农业领域。（央视网）</p>",
+      "link": "https://wallstreetcn.com/livenews/3102348",
+      "published": "Tue, 12 May 2026 13:32:11 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "收购喜马拉雅尘埃落定，腾讯音乐增长压力犹存",
+      "summary": "<p style=\"text-align: right;\">作者 | 黄昱</p><p style=\"text-align: justify;\">历时近一年，5月12日，腾讯音乐并购收购喜马拉雅这一股权案终于获市场监管总局批准。受此消息影响，腾讯音乐美股盘前一度跳涨超10%。</p><p style=\"text-align: justify;\">作为中国在线音乐的巨头，腾讯音乐在积极完善其全场景音频护城河，这背后也是其用户增长见顶、存量竞争越发激烈的破局之道。&nbsp;</p><p style=\"text-align: justify;\">5月12日，腾讯音乐发布的2026年第一季度报告显示，公司一季度总收入79亿元，同比增长7.3%，收入增速较2025年第四季度有所下滑。&nbsp;</p><p style=\"text-align: justify;\">按照国际财务报告准则（IFRS），腾讯音乐归属于公司股东净利润同比下降51.3%至20.9亿元，但主要由于2025年同期存在对联营公司视同处置带来的23.7亿元一次性收益。&nbsp;</p><p style=\"text-align",
+      "link": "https://wallstreetcn.com/articles/3772101",
+      "published": "Tue, 12 May 2026 13:21:35 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "怎么涨怎么跌！美股AI期权狂潮“双刃剑”下，英伟达财报或成市场转折点",
+      "summary": "<p style=\"text-align: left;\">美股在AI驱动的期权热潮中持续上涨，但高度集中的仓位正在积聚风险。</p>\n<p style=\"text-align: left;\">市场结构显示<strong>，5月期权到期日前后，支撑行情的技术力量可能迅速转向，英伟达财报窗口或成为波动率重新定价的关键节点。</strong></p>\n<p style=\"text-align: left;\"><strong>半导体和大型科技股的强势领涨为本轮反弹提供了基本面支撑，而期权市场的助燃效应则进一步放大了涨势。</strong>看涨期权需求激增、做市商对冲买盘增加、已实现波动率下降，三者形成相互强化的正反馈循环，持续吸引买盘入场。</p>\n<p style=\"text-align: left;\">然而，这一结构的脆弱性同样不容忽视。期权到期后，稳定市场的做市商对冲流量将随之消退，而VIX期权到期与英伟达财报在数日内相继到来，为波动率重新定价创造了天然窗口。一旦AI动能熄火或油价显著回升，当前支撑线性上涨的仓位结构，可能迅速转化为下行的放大器。</p>\n<h2 style=\"text-",
+      "link": "https://wallstreetcn.com/articles/3772100",
+      "published": "Tue, 12 May 2026 13:19:25 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "阿布扎比国家石油公司CEO：霍尔木兹海峡封锁已使全球出现10亿桶短缺",
+      "summary": "<p>阿布扎比国家石油公司CEO在社交媒体平台表示，由于霍尔木兹海峡被封锁，全球已经出现10亿桶短缺。他指出，海峡每被挟持一天，代价就会增加。恢复航行自由，不设条件，不要拖延。</p>",
+      "link": "https://wallstreetcn.com/livenews/3102341",
+      "published": "Tue, 12 May 2026 13:09:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "银行理财一季度业绩单曝光：豪赚1619亿背后，谁跑出了加速度？",
+      "summary": "<p>虽然面临近年来的收益率下沉，但稳健和安全依然是银行理财产品的最大依仗。</p> <p>来自银行业理财登记托管中心的报告，2026年一季度末，银行理财产品的规模总量依然高达31.91万亿元，这个同比增长9.51%，而环比2025年末减少4.1%。</p> <p>同时，相关统计还显示，2026年一季度，理财产品累计为投资者创造收益1619亿元。其中，银行理财公司累计为投资者创造收益1422亿元，其余为银行机构创收。</p> <p>那在大量的理财产品中，今年最赚钱的到底是哪一些呢？</p> <p>是紧跟人工智能与数字经济风口的权益类产品？还是传统的固定收益类产品？抑或是中间的固收+产品？</p> <p>很多信息值得关注。</p> <h2><strong>年内最高回报近30%</strong></h2> <p>根据WIND对各家银行理财产品的统计信息显示，年内（截至2026年4月末），银行理财产品中收益率水平较高的产品已经获得了接近30%的收益率。</p> <p>这个水平相当令人咋舌。</p> <p>其中，<strong>华夏理财的天工日开5号</strong>（AI算力指数）今年以来回",
+      "link": "https://wallstreetcn.com/articles/3772099",
+      "published": "Tue, 12 May 2026 13:07:26 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "芝商所将创建用于支持人工智能的算力期货市场",
+      "summary": "<p>芝商所将创建用于支持人工智能的算力期货市场。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3772098",
+      "published": "Tue, 12 May 2026 13:01:00 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -416,6 +444,13 @@
       "summary": "<p>据深交所<a href=\"https://www.sse.com.cn/listing/renewal/ipo/index_listing_detail.shtml?auditId=2112\" rel=\"nofollow\">官网</a>显示，国仪量子技术（合肥）股份有限公司科创板IPO审核状态变更为“提交注册”。</p>",
       "link": "https://wallstreetcn.com/livenews/3102333",
       "published": "Tue, 12 May 2026 12:51:44 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "新政落地四十天：AI漫剧迎来第一次泡沫破裂",
+      "summary": "<p style=\"text-align: left;\">AI漫剧的行业迭代周期终于从月，变成了周。</p><p style=\"text-align: left;\">刚刚过去的4月，行业几乎都笼罩在这种急速转向之中。</p><p style=\"text-align: left;\">4月1日，国家广电总局新规落地，首次将AIGC类、漫画类等动画形式微短剧纳入分类分层审核体系。AI漫剧进入“广电+平台”双重把关的监管格局。</p><p style=\"text-align: left;\">红果随即启动低质漫剧专项治理行动。15日披露，过去一周累计拦截和处罚下架违规低质漫剧3522部。整治重点直指产品内容导向、价值观与制作品质。</p><p style=\"text-align: left;\">下架仍在继续，行业内部一度传出“万部下架”的说法，曾被视为仿真人AI标志性爆款的《菩提临世真人AI版》也在下架之列。</p><p style=\"text-align: left;\">五月前夕，抖音集团短剧版权中心又调整漫剧分成系数。对比2月标准，此前被力推的仿真人剧分成系数从60降至40；3D动画漫剧也从",
+      "link": "https://wallstreetcn.com/articles/3772097",
+      "published": "Tue, 12 May 2026 12:49:58 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -427,7 +462,7 @@
     {
       "source": "华尔街见闻",
       "title": "美国4月CPI同比 3.8%，预期 3.7%，前值 3.3%",
-      "summary": "<p>美国4月CPI同比 3.8%，预期 3.7%，前值 3.3%。美国4月CPI环比 0.6%，预期 0.6%，前值 0.9%。美国4月核心CPI同比 2.8%，预期 2.7%，前值 2.6%。美国4月核心CPI环比 0.4%，预期 0.3%，前值 0.2%。</p>\n<p>更新中.....</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "summary": "<p>美国4月CPI环比 0.6%，预期 0.6%，前值 0.9%。美国4月核心CPI同比 2.8%，预期 2.7%，前值 2.6%。美国4月核心CPI环比 0.4%，预期 0.3%，前值 0.2%。 </p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
       "link": "https://wallstreetcn.com/articles/3772095",
       "published": "Tue, 12 May 2026 12:30:39 GMT"
     },
@@ -453,32 +488,109 @@
       "published": "Tue, 12 May 2026 12:03:39 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "OpenAI 狂砸40亿美刀下场抢FDE，软件工程师的尽头原来是驻场啊",
-      "summary": "<p style=\"text-align: left;\">当地时间 5 月 11 日，OpenAI 宣布成立一家名为 OpenAI Deployment Company （OpenAI 部署公司）的新公司，初始投资超过 40 亿美元，专注于帮助企业构建和部署 AI 系统。</p>\n<h2 style=\"text-align: left;\">OpenAI 斥资 40 亿美元成立部署公司</h2>\n<p style=\"text-align: left;\">OpenAI 部署公司是由 OpenAI 与 19 家全球领先的投资公司、咨询公司和系统集成商共同建立的合作伙伴关系。该合作伙伴关系由 TPG 牵头，Advent、贝恩资本和 Brookfield 为联合牵头创始合伙人，B Capital、BBVA、Emergence Capital、Goanna、高盛、软银集团、华平投资和 WCAS 为创始合伙人。</p>\n<p style=\"text-align: justify;\">为快速扩充团队规模，OpenAI 部署公司同步收购了人工智能咨询公司 Tomoro，借此引入约 150 名经验丰富的现",
-      "link": "https://wallstreetcn.com/articles/3772090",
-      "published": "Tue, 12 May 2026 11:39:27 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "互联网泡沫“幸存者”：现在的AI更像1997年，而非1999年",
-      "summary": "<p style=\"text-align: left;\">当前AI基建热潮究竟处于互联网时期的哪个历史坐标——是1995年的加速起跑阶段，还是1997年的中段冲刺，抑或已逼近1999年的泡沫尾声。</p>\n<p style=\"text-align: left;\">华尔街正以各自亲身经历，对当前市场所处阶段作出截然不同的判断。</p>\n<p style=\"text-align: left;\">基金经理、Niles Investment Management创始人Dan Niles认为，<strong>当前AI发展阶段更接近1997年——互联网基础设施建设的第三、第四年，而非1999年，互联网泡沫破裂的前一年。</strong></p>\n<p style=\"text-align: left;\">对冲基金传奇人物都铎琼斯的判断也较为乐观。他此前在媒体节目中表示，<strong>当前AI发展阶段与1995年互联网商业化加速时期高度相似，并估计本轮AI牛市已走完约50%至60%的行程，\"还能再持续一两年\"。</strong>都铎琼斯将当下的市场感觉类比于1999年——彼时距互联网泡沫股价在200",
-      "link": "https://wallstreetcn.com/articles/3772089",
-      "published": "Tue, 12 May 2026 11:24:30 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "内存正在「毁掉一切」",
-      "summary": "<p style=\"text-align: justify;\">每个时代都有其独属的符号——21世纪的第一个十年可能是「奥运」、第二个十年可能是「网络」，如此等等。</p>\n<p style=\"text-align: justify;\">结果这第三个十年刚过一半，我们就看到了一个时代符号的强有力竞争者：内存。</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/b2aa2d4b-93b5-47eb-a026-48f5addcc1fb.jpeg\" title=\"\" /><span style=\"color: #808080;\">图｜Wccftech</span></p>\n<p style=\"text-align: justify;\">毕竟全球十几亿台电子设备，绝大多数都有内存的身影，家电、汽车、基础设施、航空航天，没一个少得了。</p>\n<p style=\"text-align: justify;\">轰轰烈烈的人工智能自不必说——它既是内存危机的始作",
-      "link": "https://wallstreetcn.com/articles/3772087",
-      "published": "Tue, 12 May 2026 11:18:27 GMT"
+      "source": "第一财经",
+      "title": "短期降准降息必要性减弱，央行调控锚定隔夜利率",
+      "summary": "<figure><img alt=\"短期降准降息必要性减弱，央行调控锚定隔夜利率\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/b08d36fad73f8aec83d625c55d00477e.jpg\" /></figure><p>外部环境的不确定性，成为本次《报告》重点着墨的领域，表明输入型通胀扰动进入央行视野。</p><p>5月11日晚间，中国人民银行发布了《2026年第一季度中国货币政策执行报告》（下称《报告》），为下一阶段的金融调控勾勒出清晰路线图。</p>\n\n<p>在外部环境复杂演变、国内经济持续回暖的背景下，这份报告不仅明确了“继续实施好适度宽松的货币政策”的总基调，更在操作层面呈现出一系列精微而关键的调整。</p>\n\n<p>《报告》首次明确“引导隔夜利率在政策利率水平附近运行”，将短期利率的锚定目标表述得更为精准。同时，随着中东地缘政治事件推升国际大宗商品价格，“输入型通胀”风险正式进入央行的核心关切视野。</p>\n\n<p>值得注意的是，央行通过专栏深入剖析宏观审慎系统性风险防范、贷款利率定价基准等核心议题。</",
+      "link": "https://www.yicai.com/news/103178304.html",
+      "published": "Tue, 12 May 2026 13:23:11 GMT"
     },
     {
       "source": "第一财经",
-      "title": "今日股市0512丨算力硬件股继续领涨 但分歧在加剧 短期有风险吗？ - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yOWJpTFByZnBubzl4eGQxTkhJOFNyUUExZ0tYajNFWmpteE10Qkluc0RHU0FXa3hzdDRLNWg2aDd0akJkUm9TbFFUNXhVdnJoUEQ4?oc=5\" target=\"_blank\">今日股市0512丨算力硬件股继续领涨 但分歧在加剧 短期有风险吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yOWJpTFByZnBubzl4eGQxTkhJOFNyUUExZ0tYajNFWmpteE10Qkluc0RHU0FXa3hzdDRLNWg2aDd0akJkUm9TbFFUNXhVdnJoUEQ4?oc=5",
-      "published": "Tue, 12 May 2026 11:21:35 GMT"
+      "title": "“兼职”也给期权？看齐海外，MiniMax抢聘经济学、金融等顶尖专家",
+      "summary": "<figure><img alt=\"“兼职”也给期权？看齐海外，MiniMax抢聘经济学、金融等顶尖专家\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/E3688DFE-916E-4844-AB13-4334413C3D2F.jpg\" /></figure><p>月薪高至六位数，AI公司争夺稀缺的智力资源。</p><p>看齐海外模型大厂的Fellowship（伙伴）机制，大模型公司MiniMax近日高调公开了一项名为“10x Team”的合作计划，该计划主要是面向经济学、金融、生命科学、材料化学、数学等领域去招聘顶尖专家，希望将编程领域出现的10倍效率跃迁复制到更多产业。</p><p>与传统招聘相比，10x Team计划更像是“产业研究合伙人”机制，它支持全职或短期兼职，这一模式在海外AI厂商中已是通行做法。例如AI厂商Anthropic以及OpenAI都会通过一些具有吸引力的条件，如超过10万元的月薪等激励，换取垂直领域专家脑中那些无法被公开数据替代的“隐性知识”。</p><p>第一财经记者注意到，目前MiniMax官网",
+      "link": "https://www.yicai.com/news/103178255.html",
+      "published": "Tue, 12 May 2026 12:59:55 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "AI短剧狂飙，抖音集团为何投15亿扶持真人短剧？",
+      "summary": "<figure><img alt=\"AI短剧狂飙，抖音集团为何投15亿扶持真人短剧？\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/FBC738A9-FC7F-481A-87C8-677B5C61F8BA.jpg\" /></figure><p>短剧行业千篇一律也能爆火的时代过去了。</p><p>近几个月，传统短剧行业受AI制作低成本、短周期特点冲击，迈入“震荡期”。5月12日，抖音集团短剧产业大会现场，巨量引擎互动影视行业负责人陈晨表示，最近很多行业人士前来交流，短剧流量红利是不是见顶了？政策标准是不是趋严了？观众的审美品位是不是变高了？</p><p>陈晨认为潮水退去时恰恰是行业最好的时刻，她称，短剧行业千篇一律也能爆火的时代过去了，精品化、创新化成为明确趋势。短剧独立用户规模（去重后的真实覆盖人群）已近7亿，市场增速至2025年底已突破30%，市场规模突破千亿级别，超过同期电影票房市场，这几项数据证明短剧已成为与短视频、长视频并驾齐驱的数字内容消费主流形态。</p><p>在这样的背景下，短剧赛道内的真人短剧与AI漫剧呈题",
+      "link": "https://www.yicai.com/news/103178168.html",
+      "published": "Tue, 12 May 2026 12:58:05 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "“南沙金融30条”落地一周年：港澳青年创业无忧，跨境金融驶入高速路",
+      "summary": "<figure><img alt=\"“南沙金融30条”落地一周年：港澳青年创业无忧，跨境金融驶入高速路\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/d3e450a6c4486e19cfd4c219505ed813.jpg\" /></figure><p>互联互通能级跃升。</p><p>在广州南沙综合保税区，一架架民航客机通过租赁模式落户南沙、飞向全球；在庆盛、创享湾等港澳青年集聚的片区，往来创业、生活的港澳居民刷卡、转账、开户、理财已与内地居民一般无碍。这一幕幕互联互通的场景，正是“南沙金融30条”落地一年来最生动、最真实的写照。</p>\n\n<p>2025年5月12日，中国人民银行、国家金融监督管理总局、中国证监会、国家外汇管理局、广东省人民政府联合发布《关于金融支持广州南沙深化面向世界的粤港澳全面合作的意见》（下称“南沙金融30条”）。同年8月，广州市人民政府会同中国人民银行广东省分行等四个部门进一步推出88项细化落实举措，形成“顶层设计+施工图”的完整政策体系。</p>\n\n<p>过去一年来，南沙在创新创业、特色金融、跨境开",
+      "link": "https://www.yicai.com/news/103178209.html",
+      "published": "Tue, 12 May 2026 12:57:01 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "五道“紧箍咒”下腾讯获批收购喜马拉雅，在线音频赛道迎来整合",
+      "summary": "<figure><img alt=\"五道“紧箍咒”下腾讯获批收购喜马拉雅，在线音频赛道迎来整合\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/C48F9A78-CB58-43C4-993E-122B31BEF90F.jpg\" /></figure><p>在行业竞争激烈的当下，包括版权在内的资源共享，成为这笔收购带来的可能性。</p><p>腾讯音乐娱乐集团（下称腾讯音乐）收购喜马拉雅股权一事有了新进展。</p><p>5月12日，市场监管总局发布公告称，附加限制性条件批准腾讯控股有限公司（下称腾讯）收购喜马拉雅公司（下称喜马拉雅）股权案。</p><p>上述公告称，该案对中国境内在线音频播放平台市场、网络音乐播放平台市场竞争可能具有排除、限制竞争效果。为有效减少经营者集中可能产生的不利影响，市场监管总局作出附条件批准决定。</p><p>上述公告列举的限制性承诺包括：不得提高在线音频播放平台服务价格、不得降低在线音频播放平台免费内容比例、不得与在线音频播放平台版权方达成独家授权、不得向汽车厂商搭售在线音频播放平台或网络音乐播放平台",
+      "link": "https://www.yicai.com/news/103178230.html",
+      "published": "Tue, 12 May 2026 12:56:47 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "“六张网”建设提速，多家央企已前瞻布局这些领域",
+      "summary": "<figure><img alt=\"“六张网”建设提速，多家央企已前瞻布局这些领域\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/05/8704c26cdfcdbed000b0d86427ee88a5.jpeg\" /></figure><p>今年预估在“六张网”和重点领域建设投资超7万亿元。</p><p>投资是经济增长的重要引擎。“六张网”及重点领域建设自今年全国两会提出后，成为扩大有效投资的重要发力点。</p>\n\n<p>近日召开的国务院常务会议强调，加强水网、新型电网、算力网、新一代通信网、城市地下管网、物流网等规划建设。此前4月28日召开的中共中央政治局会议也指出，加强“六张网”等规划建设；推动条件成熟的重大工程项目开工。据国家发改委测算，今年预估在“六张网”和重点领域建设投资超7万亿元。</p>\n\n<p>近期，国资委新闻中心组织“走进新国企·聚势启新程”主题采访活动，走进中国移动、中国联通、中国电建、国家能源集团等，实地探访他们在建设新型电网、算力网、通信网等领域的前瞻布局和创新突破。</p>\n\n<p>业内专家认为，“六张网”",
+      "link": "https://www.yicai.com/news/103178222.html",
+      "published": "Tue, 12 May 2026 12:49:56 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "核电逐步脱离“政府价”主导，盈利承压如何应对市场化考验",
+      "summary": "<figure><img alt=\"核电逐步脱离“政府价”主导，盈利承压如何应对市场化考验\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/5777a05de02f93ab35ee26fe444e2534.jpg\" /></figure><p>优化核电营销策略、探索核能多用途利用、呼吁完善核电低碳交易机制，是行业破局重要方向。</p><p>随着国内电力市场化改革持续深化，核电正从“政府定价、保障消纳”的传统模式，加速融入市场化交易体系。在新能源全面入市、上网电价下行、税收政策调整等多重因素叠加下，核电市场化转型进入深水区。</p>\n\n<p>据中国核电（601985.SH）、中国广核（003816.SZ）两大龙头2025年年报，公司市场化交易电量占比持续攀升，上网电价同步下行，企业盈利压力加剧。</p>\n\n<p>作为“十五五”能源强国建设的重要组成部分，核能行业正一边通过锁定中长期电力交易、优化交易策略稳住经营基本盘，另一边积极布局核能供暖、工业供汽等多用途利用培育新增长点。同时，行业呼吁加快完善核电价格保障与低碳交易机制，让其基",
+      "link": "https://www.yicai.com/news/103178220.html",
+      "published": "Tue, 12 May 2026 12:49:47 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "A股持续走强，外资视中国资产为“避风港”",
+      "summary": "<figure><img alt=\"A股持续走强，外资视中国资产为“避风港”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/58aa0cb8e13a0b057762bd6809d41601.jpg\" /></figure><p>低相关性优势凸显。</p><p>尽管中东局势升级、全球贸易与关税博弈反复扰动市场情绪，但中国资本市场在2026年前两个季度展现出超预期韧性。5月以来，A股持续走强，沪指突破4200点并创下近十一年来新高。与此同时，一季度中国GDP同比增长5.0%，同样高于市场此前预期。</p>\n\n<p>在外部不确定性仍然高企的背景下，中国经济与股票市场为何能够保持相对稳定？进入下半年后，中国经济能否继续维持5%左右增速？A股企业盈利修复是否具备持续性？全球投资者对中国资产的关注，又正在发生哪些变化？</p>\n\n<p>近期，包括瑞银、摩根士丹利、高盛在内的多家外资机构，均在最新策略展望中表达了对中国资产的积极判断。在他们看来，中国市场正逐步进入“盈利修复+流动性改善”的双轮驱动阶段，而人工智能、新能源、高端制造等新经济主",
+      "link": "https://www.yicai.com/news/103178227.html",
+      "published": "Tue, 12 May 2026 12:48:51 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "AI进化速递丨宇树发布GD01载人变形机甲",
+      "summary": "<p>AI进化速递丨宇树发布GD01载人变形机甲</p><p>①宇树发布GD01载人变形机甲，390万元起；<br /><br />②GLM-5.1获Artificial Analysis全新Coding Agent基准开源第一；<br /><br />③OpenAI预计在与微软的最新协议下，到2030年公司将节省970亿美元。</p>",
+      "link": "https://www.yicai.com/news/103178215.html",
+      "published": "Tue, 12 May 2026 12:43:53 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "一财社论：AI与能源双向赋能，安全高效并行是关键",
+      "summary": "<figure><img alt=\"一财社论：AI与能源双向赋能，安全高效并行是关键\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/a57c9554d6aa6726725415bd8cd74240.jpg\" /></figure><p>通过市场机制建设，推动建立算力与能源互动机制，事关能源的高效利用和效益原则。</p><p>日前，国家能源局会同国家发展和改革委、工业和信息化部、国家数据局印发了《关于促进人工智能与能源双向赋能的行动方案》（下称《行动方案》）。此举旨在构建“人工智能+”能源发展的新格局，为我国抢占人工智能等未来产业制高点、推动高质量发展注入强劲新动能。</p>\n\n<p>人工智能的快速发展，离不开强大、稳定、绿色的算力基础设施，而算力的核心支撑就是能源。此前，特斯拉首席执行官马斯克曾表示，未来的货币本质上将是“瓦特”，也就是说能源将会成为人类社会未来发展的“硬通货”。</p>\n\n<p>有数据表明，2025年全国算力中心用电量达‌1660亿千瓦时‌，预计到“十五五”末将增至‌4000亿～7000亿千瓦时。虽然算力中心",
+      "link": "https://www.yicai.com/news/103178190.html",
+      "published": "Tue, 12 May 2026 12:40:56 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "造车12年未果，贾跃亭宣布转战",
+      "summary": "<figure><img alt=\"造车12年未果，贾跃亭宣布转战\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/5ad0c5237383d6d640c0508cda75254a.jpg\" /></figure><p>贾跃亭又看上了新赛道。</p><p style=\"text-align: justify;\">“我要宣布一个公司重大的战略升级：FF（法拉第未来）将升级为物理AI生态系统公司，专注于具身智能机器人业务两大引擎，一是人形与仿生机器人，二是汽车机器人。在战略执行节奏上，第一阶段将以人形和仿生机器人为主，汽车机器人为辅。”日前，法拉第未来创始人贾跃亭在社交平台发布的视频中如是说道。</p>\n\n<p style=\"text-align: justify;\">但实际上，距离贾跃亭2014年官宣造车已经过去12年，法拉第未来离大规模量产汽车仍有很大差距。过去十年时间，法拉第未来总共只交付了不足20辆汽车，而贾跃亭已8年时间未回国，身负巨额债务。</p>",
+      "link": "https://www.yicai.com/news/103178131.html",
+      "published": "Tue, 12 May 2026 12:28:37 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "A股千元股变迁：从消费到AI，资金追逐高景气行业赛道",
+      "summary": "<figure><img alt=\"A股千元股变迁：从消费到AI，资金追逐高景气行业赛道\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/8c12fb675c5433237c0f96d8f1161b37.jpg\" /></figure><p>中际旭创破千扩容千元股，5只千元股，4只股来自AI 赛道，不变的是资金抱团景气度。</p><p>A股迎来史上第十只千元股。5月12日，中际旭创（300308.SZ）股价突破1000元整数关口，收盘报1017.99元，成为继爱美客（300896.SZ）之后创业板历史上第二只千元股。截至当日，A股千元股阵营已扩容至5只，分别为源杰科技（688498.SH）、贵州茅台（600519.SH）、寒武纪（688256.SH）、联讯仪器（688808.SH）和中际旭创。</p>\n\n<p>值得关注的是，除贵州茅台外，其余4只千元股均来自电子、通信行业，且全部聚焦AI产业链核心环节，与上一轮牛市中爱美客、石头科技（688169.SH）等大消费领域千元股形成鲜明对比。作为牛市行情的重要缩影，千元股的行业属性变迁",
+      "link": "https://www.yicai.com/news/103178143.html",
+      "published": "Tue, 12 May 2026 12:23:25 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "千元一条查询反诈平台，谁在买通“内鬼”倒卖银行账户冻结信息",
+      "summary": "<figure><img alt=\"千元一条查询反诈平台，谁在买通“内鬼”倒卖银行账户冻结信息\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/117993984ce881ef86d6e3e9ec5a8bfc.jpg\" /></figure><p>严惩“内鬼”。</p><p>一条涉及银行账户冻结状态的信息，在黑市上可以卖出千元高价，远超普通公民个人信息几元至几十元的市场行情。</p>\n\n<p>近日，中国裁判文书网披露的一则判例揭开了冰山一角：福建籍男子拉拢江西省上高县多名警员，利用国家反诈平台非法获取并倒卖公民银行账户信息，以每条1000元的价格非法查询170余条，并对27个账户直接操作止付。</p>\n\n<p>第一财经根据多则公开判例调查发现，山西、江西、福建等多地出现警方“内鬼”与社会中间人合谋，倒卖国家反诈大数据平台中的敏感信息。这些信息被层层倒卖给诈骗团伙和洗钱团伙（俗称“水房”），成为他们精确转移资金、试探警方调查进展的工具。</p>\n\n<p>目前，中央网信办、公安部等多部门启动专项打击行动，严惩行业“内鬼”，严厉打击信",
+      "link": "https://www.yicai.com/news/103177981.html",
+      "published": "Tue, 12 May 2026 11:54:27 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "任桀、周云、张璐……最新调仓动向来了 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNQjZtNnNrclRFR1VTeVpGYUxPUEpYaENXTnMxdzBmUW9nZTJBd2xOOGJlNzVTRDQxQS0wa29mOWtxNDhGdHR4Smk2ZnlqZXRlU2lGZUVMOVZnakY5VVFsal9LVE1SZGJFLUtwU2NIbzFyNGdyYjBGN2RlWlBmN1M3cFh5RC1ZSms?oc=5\" target=\"_blank\">任桀、周云、张璐……最新调仓动向来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQjZtNnNrclRFR1VTeVpGYUxPUEpYaENXTnMxdzBmUW9nZTJBd2xOOGJlNzVTRDQxQS0wa29mOWtxNDhGdHR4Smk2ZnlqZXRlU2lGZUVMOVZnakY5VVFsal9LVE1SZGJFLUtwU2NIbzFyNGdyYjBGN2RlWlBmN1M3cFh5RC1ZSms?oc=5",
+      "published": "Tue, 12 May 2026 13:28:33 GMT"
+    },
+    {
+      "source": "澎湃新闻财经",
+      "title": "私募调研与产品备案双线回暖，超六成对后市持乐观态度 - thepaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MRGN0aHI3UUJ1OHBjeXdpRE03NFlrdFhINktGaDNaeHdZcXJyMFNMZGVDLXJyS2QyRHlJUFJYdGl4cWxvcUJLaEZMZWZQZFRJNFZ4c3dqVTRxdk9VTFRfZw?oc=5\" target=\"_blank\">私募调研与产品备案双线回暖，超六成对后市持乐观态度</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MRGN0aHI3UUJ1OHBjeXdpRE03NFlrdFhINktGaDNaeHdZcXJyMFNMZGVDLXJyS2QyRHlJUFJYdGl4cWxvcUJLaEZMZWZQZFRJNFZ4c3dqVTRxdk9VTFRfZw?oc=5",
+      "published": "Tue, 12 May 2026 13:29:00 GMT"
     },
     {
       "source": "澎湃新闻财经",
@@ -486,6 +598,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nbU5wcEwwOC1IQ0tKYmhqV0dDLTI2Y3hSRDVnOHlrY1RwOWdPVjBwQUR0UzZ5NmNQaGRkRUIwLUphU3V5anFoOTZfYmswNVV1V3dxMVZlZThoQ2cwVXc?oc=5\" target=\"_blank\">外资撤离印度创新高，印度卢比告急，莫迪呼吁限购黄金</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nbU5wcEwwOC1IQ0tKYmhqV0dDLTI2Y3hSRDVnOHlrY1RwOWdPVjBwQUR0UzZ5NmNQaGRkRUIwLUphU3V5anFoOTZfYmswNVV1V3dxMVZlZThoQ2cwVXc?oc=5",
       "published": "Tue, 12 May 2026 12:27:00 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "太平洋：给予常熟银行买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWUNOOEJ4cWxvcnFxaERqSnE1eGZmQmhFZ3Z0X1lneE5pVzR1bE5lV3FWc3JrblJDemJETEdLYVphbmZhLU80Q1h5aGJyeDR6Z0hYOFBQQWNTUzh0WVRyMEt3?oc=5\" target=\"_blank\">太平洋：给予常熟银行买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWUNOOEJ4cWxvcnFxaERqSnE1eGZmQmhFZ3Z0X1lneE5pVzR1bE5lV3FWc3JrblJDemJETEdLYVphbmZhLU80Q1h5aGJyeDR6Z0hYOFBQQWNTUzh0WVRyMEt3?oc=5",
+      "published": "Tue, 12 May 2026 13:45:12 GMT"
     }
   ]
 }
