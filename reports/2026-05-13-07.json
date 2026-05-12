@@ -3,46 +3,105 @@
   "hour": "07",
   "news": [
     {
-      "title": "人民日报论中美关系",
-      "summary": "人民日报发表国纪平文章，指出中美关系回不到过去，但能够拥有更好的未来。文章传递了缓和信号，有助于缓解市场对中美紧张局势的担忧，提升风险偏好。可能影响整体市场情绪，对A股形成支撑。行业上，科技、外贸等板块受益。信号中性偏多，需进一步观察。",
-      "reason": "人民日报权威性高，中美关系是影响A股长期走势的关键变量，文章释放缓和信号，可能改善市场预期。",
-      "category": "宏观经济",
+      "title": "三星劳资谈判破裂罢工风险升",
+      "summary": "三星电子与韩国工会未能就薪酬达成一致，罢工风险上升。三星是全球存储芯片龙头，罢工可能导致供应收缩，利好国产存储和半导体产业链。A股存储芯片、半导体设备等板块可能受益。",
+      "reason": "行业重大事件，影响全球存储芯片供应，属于优先级二行业政策变动，利好国产替代。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "科技",
-        "外贸"
+        "存储芯片",
+        "半导体",
+        "国产替代",
+        "兆易创新",
+        "长电科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2369642?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "国金证券看好煤炭二季度业绩",
+      "summary": "国金证券发布研报称煤炭二季度业绩有望超预期，当前板块估值处于底部，配置机会显现。煤炭股受益于能源价格高企和供需偏紧，中短期看多。",
+      "reason": "券商评级变动，属于优先级二机构调研/评级变动，对煤炭板块有正面催化。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "煤炭",
+        "中国神华",
+        "陕西煤业",
+        "兖矿能源"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676640330.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369611?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54LTNqclI2a0VnUXJyZXNUYnAzcFlJNWFuVHY4Um9GREwtLU1tbXFyOTVqOUViaWVKOGFkVGttWFdhU2NmdFBHdGJ5YWhLUV9BTE4yNmVsSzFOY0hwZ1E"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "硬科技领衔A+H升温",
-      "summary": "硬科技企业领衔A+H上市模式升温，港股IPO吸引力增强。消息显示更多优质科技企业选择两地上市，有助于提升A股硬科技板块的估值和流动性，同时券商投行业务受益。利好科创、半导体、高端制造等板块。信号看多。",
-      "reason": "硬科技企业A+H上市增加市场供给，但提升板块关注度，券商直接受益。",
-      "category": "市场结构",
+      "title": "上海电气与国家能源集团签约",
+      "summary": "上海电气与国家能源集团签署战略合作框架协议，双方将在能源装备、新能源等领域深化合作。利好上海电气及能源装备板块，体现了国企改革和能源安全主线。",
+      "reason": "公司重大事件，属于优先级一中的重大并购重组或战略合作，对个股及行业有提振。",
+      "category": "公司公告",
       "impact_stocks": [
-        "硬科技",
-        "券商",
-        "半导体"
+        "上海电气",
+        "能源装备",
+        "新能源",
+        "国企改革"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676640311.shtml"
-        },
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2369632?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "南向资金今年净买入近2800亿",
+      "summary": "今年以来南向资金累计净买入约2800亿港元，显示内资持续加仓港股。港股走强可能通过比价效应带动A股相关板块，尤其是科技、互联网龙头。偏多港股及两地联动品种。",
+      "reason": "资金流向信号，属于优先级二中的北向资金或南向资金大幅异动，南向资金持续流入表明对港股信心。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "恒生科技",
+        "港股互联网",
+        "腾讯",
+        "美团",
+        "A股科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2369606?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "硬科技企业“A+H”模式升温",
+      "summary": "越来越多的硬科技企业选择“A+H”两地上市，港股IPO吸引力增强。这有助于提升科技公司的融资能力和国际影响力，对A股科技板块形成正面示范效应，偏多科技龙头。",
+      "reason": "市场结构变化，属于优先级二行业政策变动，利好科技板块估值提升。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "硬科技",
+        "半导体",
+        "生物医药",
+        "A+H概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2369610?os=web&sv=8.4.6&app=CailianpressWeb"
@@ -51,23 +110,42 @@
       "urgency": "days"
     },
     {
-      "title": "算电协同新蓝海启航",
-      "summary": "算电协同风口起势，产业链龙头竞逐“风光储算”新蓝海。消息指出，随着算力需求增长，电力配套成为关键，风光储算一体化项目加速落地。利好储能、光伏、风电、算力基础设施等板块。信号看多。",
-      "reason": "政策与产业共振，算电协同是新兴增长点，相关标的受益。",
+      "title": "供需共振推动铜价反弹",
+      "summary": "受供给端干扰和需求回暖影响，铜价阶段性反弹。铜作为经济风向标，价格走强利好有色板块，尤其是铜矿开采和加工企业。但需关注下游接受度。",
+      "reason": "行业动态，属于优先级二行业政策变动，铜价反弹直接利好有色板块。",
       "category": "行业动态",
       "impact_stocks": [
-        "储能",
-        "光伏",
-        "风电",
-        "算力"
+        "铜",
+        "有色金属",
+        "紫金矿业",
+        "江西铜业",
+        "铜陵有色"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676640303.shtml"
-        },
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2369608?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "算电协同风口起势",
+      "summary": "算力与电力协同发展成新趋势，产业链龙头布局“风光储算”一体化。这利好算力基础设施、新能源发电及储能板块，是长期增长方向。",
+      "reason": "行业新趋势，属于优先级二行业政策变动，政策扶持预期增强，利多相关板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "算力",
+        "新能源",
+        "储能",
+        "电力",
+        "数据中心"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2369607?os=web&sv=8.4.6&app=CailianpressWeb"
@@ -76,77 +154,28 @@
       "urgency": "days"
     },
     {
-      "title": "海外中国科技ETF增长",
-      "summary": "国际资本持续加仓，多只海外中国科技ETF规模增长。显示外资对中概股和A股科技板块的信心增强，资金流入有望提振相关标的估值。利好A股科技龙头、恒生科技指数。信号看多。",
-      "reason": "外资流入是A股关键驱动力，科技ETF规模增长直接反映国际资金态度。",
-      "category": "资金流向",
+      "title": "马斯克等16位商界代表将随特朗普访华",
+      "summary": "据报道，马斯克等16位美国商界代表将随特朗普访华，可能就贸易、科技合作等进行沟通。此举释放中美关系缓和信号，利好对美出口、科技及新能源板块。",
+      "reason": "宏观经济事件，属于优先级二海外市场联动，中美关系缓和预期带动市场情绪。",
+      "category": "宏观经济",
       "impact_stocks": [
+        "中美贸易",
+        "出口",
         "科技",
-        "恒生科技",
-        "中概股"
+        "新能源",
+        "特斯拉概念"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676640240.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369601?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美联储6月不降息概率97%",
-      "summary": "据最新利率期货，美联储6月维持利率不变的概率高达97.1%。之前市场已消化加息风险，该数据确认短期内无加息压力，全球流动性预期稳定。对A股影响中性偏多，消除外部不确定性。短期内无扰动。",
-      "reason": "美联储利率路径是A股外部关键变量，确认不加息有助于稳定外资预期。",
-      "category": "货币政策",
-      "impact_stocks": [
-        "沪深300",
-        "外资重仓股"
-      ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676640225.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369600?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "Anthropic收购AI工具公司",
-      "summary": "Anthropic洽谈以至少3亿美元收购开发工具初创公司Stainless，其产品被OpenAI和谷歌使用。AI行业并购活跃，显示资本对AI基础设施投入加大，情绪上利好A股AI产业链，尤其是算力、AI应用板块。信号看多。",
-      "reason": "AI行业并购事件提振情绪，龙头公司扩张带动产业链预期。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "AI概念",
-        "算力",
-        "应用"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260513/c676639857.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2369598?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "澎湃新闻财经",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aM3VYR3B1VDNyQUwwRGNxdGstbE5wOW41OXZxY01QYjVicFpwYk1lVTdFTS1BMG9HVUdWWWJVWE9kNjNrUzFSdzB0VHk1V0wxUjNvNmlpVF80ek9kMXpFYg"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 53,
-  "generated_at": "2026-05-13T07:01:23.028948+08:00"
+  "total_fetched": 43,
+  "generated_at": "2026-05-13T07:50:56.998283+08:00"
 }
