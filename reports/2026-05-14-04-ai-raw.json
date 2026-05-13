@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-14",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13017,
+    "completion_tokens": 1832,
+    "total_tokens": 14849
+  },
+  "content_length": 2294,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"南方航空拟增发A股\",\n      \"summary\": \"南方航空2025年年度股东会增加向特定对象发行A股等10项临时提案，预计募资用于补充流动资金或偿还债务。该增发将摊薄现有股东权益，对航空板块构成短期偏空压力，但若用于改善财务结构，长期影响需观察。影响个股：南方航空、中国国航、东方航空。\",\n      \"reason\": \"公司重大事件，优先级一；增发预案对股价有负面影响。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"南方航空\", \"航空运输板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFBxeHBBanFCVXhNYUdaTTdGYW1iWHlqVWlWYlkzbUZjb0p0bGhFSkg2anlHY29RQ1N6MGw3cUNGaUdOZ004NEtNNUcxaldzWkU5aGtkYTlRRXdVNHdEZS1oWEpFUlFYU1lLSFdpaTVpNTRlc1RYOTlPeg?oc=5\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"xAI施压华尔街用Grok\",\n      \"summary\": \"马斯克的xAI正加紧推动华尔街公司使用Grok聊天机器人，旨在拓展金融行业AI应用。若成功落地，将提升AI商业化预期，利好AI概念股及金融科技板块。但具体合作尚未确认，短期情绪催化。影响板块：AI、金融科技。\",\n      \"reason\": \"行业动态，AI产业政策催化，但非直接A股政策；情绪偏多。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"金融科技\", \"科大讯飞\", \"同花顺\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260514/c676672417.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"在岸人民币涨52点\",\n      \"summary\": \"在岸人民币兑美元较周二夜盘收盘涨52点，报6.78。小幅升值有利于吸引外资流入，对A股整体偏多，尤其利好航空、造纸等外币负债高的行业。但幅度有限，影响温和。\",\n      \"reason\": \"宏观经济指标，人民币升值利好A股，但幅度小。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"航空运输\", \"造纸\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2370670?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"长进光子科创板招股\",\n      \"summary\": \"武汉长进光子技术股份有限公司发布科创板上市网上路演公告，即将启动新股申购。新股发行增加市场供给，短期对资金面形成分流压力，尤其对光纤光缆、光通信板块有一定压制。\",\n      \"reason\": \"市场结构：新股发行利空市场情绪，属于资金面偏空信号。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"光通信\", \"新股板块\", \"长飞光纤\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"中国证券报\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE83VW53c2s1ZFdpemJ4VEw4Q3U5U3BVd0t4dkk1bVlicHFPdDRVcnhsYjl5dG13WWp0UHNIVmJWSXNLc3FDS2NyWG01Ulh1aXVnT1NWSWZIdXNqMlg3NTBWT3d6djh0dnlCNDJJalRNX2d2MEx6WkIxRA?oc=5\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前时段有效消息较少，仅筛选出4条较有价值信息。多数消息已在历史中重复或因关联度低排除。\"\n}"
+}
