@@ -3,44 +3,126 @@
   "hour": "07",
   "news": [
     {
-      "title": "机构调研聚焦机械设备和医药",
-      "summary": "财联社报道，机构5月调研中机械设备和医药板块关注度升温，多家机构挖掘结构性机遇。这显示机构资金可能流向这两个板块，短期有望获得超额收益，属于看多信号。",
-      "reason": "机构调研动向是资金流向的前瞻指标，符合优先级二机构调研/评级变动标准。",
-      "category": "资金流向",
+      "title": "美国PPI超预期，加息概率飙升",
+      "summary": "美国4月PPI同比飙升6%，远超预期，市场预计一年内加息概率突破50%。数据公布后美债收益率上行，美元走强。对A股而言，美联储加息预期升温可能导致外资流出压力，短期偏空。叠加此前CPI同样高企，全球紧缩预期再度强化。",
+      "reason": "美国通胀数据超预期直接改变美联储政策预期，影响全球资产定价和跨境资金流动。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "机械设备",
-        "医药"
+        "沪深300",
+        "外资重仓股",
+        "人民币汇率"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3772220"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "湘财股份与大智慧重启合并",
+      "summary": "中止审核两个月后，湘财股份与大智慧吸收合并事项重启审核。此次合并有助于券商财富管理转型，提升协同效应。利好湘财股份和大智慧，并可能带动券商板块整合预期。短期看多券商及金融科技板块。",
+      "reason": "券商并购重组是A股重要题材，重启审核提升市场对券商改革预期。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "湘财股份",
+        "大智慧",
+        "券商板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82QXBpZWMta0xZeEpLVUxaSHZjeVhfSXlxZ0xBVzF6TXplMTI4T1NkRHlOX2NyNDNVamM1NkU5UHljdG1qcFB4Z0oyckRMTGRvaHhKbWxoVGtjWWk2TkRHMkg2cWxiX2pjM2FSSnJhZUxUYTI2bFlvdA"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "百济神州抗癌药获FDA加速批准",
+      "summary": "百济神州公告其产品百悦达（泽布替尼）获美国FDA加速批准，用于治疗复发/难治套细胞淋巴瘤。这是国产创新药出海重要进展，预计将增厚公司营收。利好百济神州及创新药板块，强化市场对国产创新药国际化的信心。短期看多创新药和CXO板块。",
+      "reason": "重大新药海外获批，对百济神州业绩和行业情绪有显著提振。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "百济神州",
+        "创新药板块",
+        "CXO"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2370705?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2370736?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "Cerebras IPO估值逼近490亿美元",
-      "summary": "AI芯片公司Cerebras IPO定价一再上调，估值逼近490亿美元。这反映全球AI芯片需求旺盛，对A股AI、芯片板块形成情绪提振，属于看多信号。",
-      "reason": "海外AI芯片公司高估值对A股同类公司有映射效应，符合优先级二行业政策变动（AI产业）标准。",
-      "category": "行业动态",
+      "title": "地方债年内发行突破4万亿",
+      "summary": "截至5月中旬，全国地方政府债券发行规模已突破4万亿元，发行进度显著快于往年。积极财政政策发力，有利于基建投资提速，对工程机械、水泥、基建板块形成支撑。同时缓解市场对经济下行的担忧，偏多信号。",
+      "reason": "地方债加速发行是财政逆周期调节的重要信号，直接利好基建产业链。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "AI芯片",
-        "半导体"
+        "基建板块",
+        "工程机械",
+        "水泥建材"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772223"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2370723?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "A股银行分红近6500亿回暖",
+      "summary": "据统计，A股上市银行2025年度分红总额接近6500亿元，且多家银行净利息收入开始回暖。银行高分红和息差企稳提升板块吸引力，利好银行股估值修复。当前银行股估值低位，高股息策略受追捧，偏多信号。",
+      "reason": "银行分红规模大且净息差回暖，反映基本面改善，吸引长期资金。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "银行板块",
+        "工商银行",
+        "招商银行"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jSEg2dU9ScE4wcWRUOVo2ZjdwUC1JSVczNHN0SnBIbGVNNXNJemJtbnlmZW5wYTVfaHRzdzV4cEhZWmtTdjQzUEFZS3BjWlA4c1g5TDZaNkZXa2M3"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "国际投行集体唱多中国股市",
+      "summary": "近日多家国际投行发布报告看好中国股市，认为估值低位、经济复苏和企业盈利改善提供上行空间。外资一季度已增持A股，北向资金有望持续流入。偏多信号，提振市场信心。",
+      "reason": "外资态度转变是A股增量资金的重要指引，机构观点影响市场情绪。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "北向资金重仓股",
+        "消费板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fczdrTW9yNVJ5WUNyTmhOczVmcjc2b1dTZ3FXUjRSRldyNGtkb2doSEVGcGsyQmVNdGdMSGhaYVpMcm5PUDAxbWtjTDhxZ1dQV3FXalRoTEg3VjEtQUl4Qg"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 43,
-  "generated_at": "2026-05-14T07:01:25.904003+08:00"
+  "total_fetched": 70,
+  "generated_at": "2026-05-14T07:51:52.949054+08:00"
 }
