@@ -1,9 +1,51 @@
 {
   "date": "2026-05-14",
   "hour": "05",
-  "total": 32,
-  "fetched_at": "2026-05-14T05:00:31.680120+08:00",
+  "total": 35,
+  "fetched_at": "2026-05-14T05:15:30.600519+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "中国石油化工股份有限公司2025年度股东会、2026年第一次A股股东会和2026年第一次H股股东会决议公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8ySkpSN2xGNjU4bEZCNk1ndEc1YWtNYVNfZ1U2UUlLbXhDYVl5ckNoc3dQOHZEempueEZfbmh6UnczbG1FaE43Nkc0R21ibWZSbmJqRzBWSGZFRFJrYmxvWXdTWUNuUUhSWTlkWC1sQXFkUllEVFdJcg?oc=5\" target=\"_blank\">中国石油化工股份有限公司2025年度股东会、2026年第一次A股股东会和2026年第一次H股股东会决议公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ySkpSN2xGNjU4bEZCNk1ndEc1YWtNYVNfZ1U2UUlLbXhDYVl5ckNoc3dQOHZEempueEZfbmh6UnczbG1FaE43Nkc0R21ibWZSbmJqRzBWSGZFRFJrYmxvWXdTWUNuUUhSWTlkWC1sQXFkUllEVFdJcg?oc=5",
+      "published": "Wed, 13 May 2026 19:24:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "深圳市三利谱光电科技股份有限公司2025年年度权益分派实施公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00SDJYQXpoek8ya0IwNGRieTdrVV9BdGYwQWZrNDhNYmNJZGxaUjNld1ctTnN2MU9ocGY4SWl2Y1B2WmVHcmZYdVpKNWlyTnFHNmpLdDJmdlhSRGRSOU5KTFVRaGxVQ1FKSnl2b0llZXNsOUtzeDBZNQ?oc=5\" target=\"_blank\">深圳市三利谱光电科技股份有限公司2025年年度权益分派实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00SDJYQXpoek8ya0IwNGRieTdrVV9BdGYwQWZrNDhNYmNJZGxaUjNld1ctTnN2MU9ocGY4SWl2Y1B2WmVHcmZYdVpKNWlyTnFHNmpLdDJmdlhSRGRSOU5KTFVRaGxVQ1FKSnl2b0llZXNsOUtzeDBZNQ?oc=5",
+      "published": "Wed, 13 May 2026 20:59:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "离岸人民币兑美元较周二纽约尾盘涨34点",
+      "summary": "周三（5月13日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7874元，较周二纽约尾盘涨34点，日内整体交投于6.7930-6.7860元区间。",
+      "link": "https://news.10jqka.com.cn/20260514/c676672464.shtml",
+      "published": "Wed, 13 May 2026 21:09:08 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "思科预计2026财年来自超大规模云服务商的AI基础设施订单达90亿美元",
+      "summary": "思科预计2026财年来自超大规模云服务商的AI基础设施订单达90亿美元。",
+      "link": "https://news.10jqka.com.cn/20260514/c676672457.shtml",
+      "published": "Wed, 13 May 2026 21:03:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "亚马逊本周进一步裁员，涉及其销售伙伴服务部门",
+      "summary": "据报道，亚马逊本周进一步裁员，涉及其销售伙伴服务部门。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260514/c676672456.shtml",
+      "published": "Wed, 13 May 2026 21:02:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "COMEX黄金期货涨0.26%，报4698.2美元/盎司",
+      "summary": "COMEX黄金期货涨0.26%，报4698.2美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260514/c676672455.shtml",
+      "published": "Wed, 13 May 2026 21:01:53 GMT"
+    },
     {
       "source": "同花顺",
       "title": "思科美股盘后涨超14%",
@@ -54,16 +96,16 @@
       "published": "Wed, 13 May 2026 19:55:36 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "Consensys搁置IPO计划至秋季",
-      "summary": "据报道，Consensys已经将其潜在的IPO计划搁置至秋季。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260514/c676672367.shtml",
-      "published": "Wed, 13 May 2026 19:10:02 GMT"
+      "source": "财联社",
+      "title": "离岸人民币兑美元较周二纽约尾盘涨34点",
+      "summary": "【离岸人民币兑美元较周二纽约尾盘涨34点】财联社5月14日电，周三（5月13日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.7874元，较周二纽约尾盘涨34点，日内整体交投于6.7930-6.7860元区间。",
+      "link": "https://api3.cls.cn/share/article/2370688?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 13 May 2026 21:08:24 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社5月14日电，COMEX黄金期货涨0.26%，报4698.2美元/盎司。",
-      "summary": "财联社5月14日电，COMEX黄金期货涨0.26%，报4698.2美元/盎司。",
+      "title": "财联社5月14日电，COMEX黄金期货涨0.26%，报4698.2美元/盎司；COMEX白银期货涨3.02%，报88.15美元/盎司。",
+      "summary": "财联社5月14日电，COMEX黄金期货涨0.26%，报4698.2美元/盎司；COMEX白银期货涨3.02%，报88.15美元/盎司。",
       "link": "https://api3.cls.cn/share/article/2370686?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Wed, 13 May 2026 20:54:59 GMT"
     },
@@ -140,7 +182,7 @@
     {
       "source": "财联社",
       "title": "美股收盘：纳指、标普500指数再创新高 全球上市公司市值前三的英伟达、谷歌、苹果均创新高",
-      "summary": "【美股收盘：纳指、标普500指数再创新高 全球上市公司市值前三的英伟达、谷歌、苹果均创新高】财联社5月14日电，美股三大指数收盘涨跌不一，纳指涨1.2%，标普500指数涨0.58%，道指跌0.14%。其中，纳指、标普500指数再创新高。大型科技股多数上涨，谷歌涨近4%，Meta、特斯拉、英伟达涨超2%，苹果、亚马逊涨超1%，微软、奈飞小幅下跌。其中，全球上市公司市值前三的英伟达、谷歌、苹果均创历史新高。福特汽车股价收盘上涨13%，创2020年以来最大涨幅。光通信板块多数上涨，Coherent涨约8%，康宁涨超4%，Lumentum涨超3%。<br /><img src=\"https://image.cls.cn/images/20260514/06y5nv98WH_963x511.png\" /><img src=\"https://image.cls.cn/images/20260514/N6Na1Ru1j8_957x504.png\" /><img src=\"https://image.cls.cn/images/20260514/gS03kN9tfH_960x507.png\" /><i",
+      "summary": "【美股收盘：纳指、标普500指数再创新高 全球上市公司市值前三的英伟达、谷歌、苹果均创新高】财联社5月14日电，美股三大指数收盘涨跌不一，纳指涨1.2%，标普500指数涨0.58%，道指跌0.14%。其中，纳指、标普500指数再创新高。大型科技股多数上涨，谷歌涨近4%，Meta、特斯拉、英伟达涨超2%，苹果、亚马逊涨超1%，微软、奈飞小幅下跌。其中，全球上市公司市值前三的英伟达、谷歌、苹果均创历史新高。光通信板块多数上涨，Coherent涨约8%，康宁涨超4%，Lumentum涨超3%。福特汽车股价收盘上涨13%，创2020年以来最大涨幅。人工智能云服务公司Nebius Group涨超15%，财报显示，公司季度营收同比增长近八倍。<br /><img src=\"https://image.cls.cn/images/20260514/06y5nv98WH_963x511.png\" /><img src=\"https://image.cls.cn/images/20260514/N6Na1Ru1j8_957x504.png\" /><img src=\"https://image.cls.c",
       "link": "https://api3.cls.cn/share/article/2370675?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Wed, 13 May 2026 20:00:32 GMT"
     },
@@ -152,53 +194,25 @@
       "published": "Wed, 13 May 2026 19:55:08 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月14日电，据报道，Consensys已经将其潜在的IPO计划搁置至秋季。",
-      "summary": "财联社5月14日电，据报道，Consensys已经将其潜在的IPO计划搁置至秋季。",
-      "link": "https://api3.cls.cn/share/article/2370672?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 19:09:26 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月14日电，委内瑞拉政府宣布债务重组进程。",
-      "summary": "财联社5月14日电，委内瑞拉政府宣布债务重组进程。",
-      "link": "https://api3.cls.cn/share/article/2370671?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 19:08:53 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "在岸人民币兑美元较周二夜盘收盘涨52点",
-      "summary": "【在岸人民币兑美元较周二夜盘收盘涨52点】财联社5月14日电，在岸人民币兑美元（CNY）北京时间03:00收报6.7903元，较周二夜盘收盘涨52点。成交量367.37亿美元。",
-      "link": "https://api3.cls.cn/share/article/2370670?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 19:08:37 GMT"
+      "source": "华尔街见闻",
+      "title": "5月14日会员早报：美国4月PPI也爆了 沃什以史上最分裂的一次投票出任美联储主席",
+      "summary": "<p style=\"text-align: left;\">1、【美国4月PPI也爆了】继昨天爆表的CPI之后，今天公布的美国PPI数据也爆了：美国4月最终需求生产者价格指数（PPI）环比上涨1.4%，远高于市场预期的0.5%和上修后的3月0.7%的涨幅，创下2022年3月以来最大单月涨幅；同比口径录得6%，为2022年12月以来最高水平。剔除食品和能源的核心PPI环比上涨1%，同样远超0.4%的市场预期。本月也是PPI连续第八个月录得环比正增长，\"通胀回归只是短期能源扰动\"的说法正在被数据本身证伪。</p><p style=\"text-align: left;\">点评：能源因素大家都明白：伊朗冲突推升原油，汽油环比大涨15.6%，最终需求能源价格跳升7.8%，贡献了商品涨价的四分之三。这一块如果停火出现、油价回落，确实有可能在几个月内回吐。但它无法解释为什么剔除食品和能源后的核心PPI环比仍然录得1%，更无法解释服务业通胀同步触及四年高位。</p><p style=\"text-align: left;\">2、【沃什以史上最分裂的一次投票出任美联储主席】美国当地时间5月13日（周三），美",
+      "link": "https://wallstreetcn.com/member/articles/3772217",
+      "published": "Wed, 13 May 2026 21:04:57 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "思科本季和全年指引全面超预期、AI订单大幅上修，盘后涨超10% | 财报见闻",
+      "title": "长债抛售警报响：30年期美债标售得标利率自07年金融危机以来首次升破5.0%",
+      "summary": "<p>美国长期国债市场再次拉响警报。</p>\n<p>美东时间13日周三，美国财政部完成总规模250亿美元的30年期国债标售，最终得标利率为5.046%，自2007年8月以来首次出现达到5%的同期美债票息水平，也凸显在通胀担忧卷土重来、财政赤字持续扩大的背景下，投资者正要求更高回报才愿意持有美国超长期债券。</p>\n<p>此次标售结果显然偏弱。本周三的30年期美债得标利率明显高于4月前次同期标售的得标利率4.876%，略高于本次投标截止前的二级市场交易水平、预发行利率5.041%，形成所谓的“尾部”、即通常被市场视为需求疲软的信号。至此，美国财政部已连续两次标售30年期国债出现尾部。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/d785f570-fcc4-4e83-a530-b54613800fb5.jpeg\" /></p>\n<p>有金融博客形容此次美债标售的结果“难看”，称这是自2007年8月量化大崩盘以来首次出现5%的30年期国债收益率”，并指出，正如资深交易员所回忆的那样，2007年8月发生的那场具有历史",
+      "link": "https://wallstreetcn.com/articles/3772216",
+      "published": "Wed, 13 May 2026 21:04:41 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "思科盘后涨幅扩大至15%，该公司所给业绩指引超过市场预期，宣布裁员不到4000人",
       "summary": "<p>思科盘后涨幅扩大至15%，该公司所给业绩指引超过市场预期，宣布裁员不到4000人。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
       "link": "https://wallstreetcn.com/articles/3772218",
       "published": "Wed, 13 May 2026 20:37:38 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "报道：Arm与软银曾在Cerebras上市前寻求收购被拒",
-      "summary": "<p>据媒体报道，Arm Holdings与其母公司软银集团曾在Cerebras Systems首次公开募股前数周发起收购接触，但最终遭到后者拒绝。</p>\n<p>Cerebras预计将于周三为其股票定价，并已向潜在投资者释放信号，计划将发行价定于每股150至160美元指引区间的上方。公司估值或达340亿美元，有望成为今年迄今规模最大的IPO。</p>\n<div>\n<h2 id=\"ipo\">年内最大半导体IPO，剑指英伟达</h2>\n</div>\n<p>Cerebras此次IPO计划出售3000万股股份，拟募资约48亿美元，规模可与Arm于2023年创下的半导体行业IPO纪录媲美。</p>\n<p>该公司定位为人工智能芯片领域挑战者，矛头直指英伟达。</p>\n<p>Cerebras此次选择在投资者对AI基础设施热情高涨之际登陆资本市场，意在将强劲的市场需求转化为估值优势。公司最终市值仍将取决于实际发行股份数量。</p>\n<div>\n<h2 id=\"c6a87187\">软银加码芯片版图布局</h2>\n</div>\n<p>软银近期持续扩大在芯片制造领域的敞口。其以65亿美元收购服务器处理器厂",
-      "link": "https://wallstreetcn.com/articles/3772213",
-      "published": "Wed, 13 May 2026 19:01:33 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "又一艘邮轮暴发聚集性病例",
-      "summary": "<p>5月13日，法国西南部新阿基坦大区政府禁止一艘停靠波尔多的邮轮上人员下船。据了解，这艘邮轮上出现了“数十例疑似肠胃炎病例”。</p>\n<p>新阿基坦大区卫生部门在声明中表示，禁止乘客和船员下船的措施是临时性的，目前在等待医学检测结果——不过“没有理由将其与近日‘洪迪厄斯’邮轮上出现的汉坦病毒聚集性病例联系起来”。</p>\n<p>这艘名为“雄心”号的邮轮5月8日从英国出发，开始为期14天的英国、法国和西班牙旅程。船上载有1233名乘客（其中大部分为英国或爱尔兰公民）和514名船员。</p>\n<p>该邮轮5月11日在法国布列塔尼大区布雷斯特停靠期间，一名92岁的英国乘客“因心脏骤停在船上去世”——但目前来看，该死亡病例“似乎与此次疑似胃肠道疾病聚集性病例无关”。</p>\n<p>据悉，胃肠道疾病在邮轮上“比较常见”。美国疾病控制与预防中心今年已报告了邮轮上发生的两起大肠杆菌和两起诺如病毒聚集性病例。肠胃炎的主要症状包括呕吐和腹泻，有时可能导致包括脱水在内的更严重症状。该病传染性很强，但通常不会产生严重后果。</p>\n<p><span style=\"color: #808080;\">本文",
-      "link": "https://wallstreetcn.com/articles/3772215",
-      "published": "Wed, 13 May 2026 19:01:16 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "中东“暗战”公开化：伊朗称科威特“非法”攻击伊船只并扣押公民，科方和沙特被曝攻击伊拉克民兵组织",
-      "summary": "<p>波斯湾地缘博弈正从幕后走向台前。从科威特拘押伊朗革命卫队人员、沙特轰炸伊拉克境内民兵目标，到以色列总理密访阿联酋，一系列此前隐而不发的军事与外交动作本周集中曝光，揭示出自伊朗战争爆发以来，海湾地区围绕伊朗影响力展开的多线较量已显著升温。</p>\n<p>美东时间13日周三，据央视新闻，伊朗外长阿拉格齐表示，科威特“非法”攻击了一艘伊朗船只并扣押4名伊朗公民，要求科方立即释放被扣人员，并称伊朗“保留采取回应措施的权利”。科威特政府暂未就阿拉格齐这一表态作出回应。据新华社援引科威特内政部周二的说法，被捕的四人供认受伊朗伊斯兰革命卫队指派，试图针对科威特实施“敌对行动”。</p>\n<p>同在周三，据媒体报道，在近期伊朗战事期间，沙特的战机对伊拉克境内亲伊朗民兵目标实施了轰炸，科威特也对伊拉克发动了报复性打击。据央视援引以色列总理办公室的声明，以色列总理内塔尼亚胡在对伊军事行动期间曾秘密访问阿联酋。</p>\n<p>以上信息一天内集中披露，使外界得以更清晰地拼出海湾地区在这场冲突中鲜为人知的军事反应全貌。这些事态发展叠加于霍尔木兹海峡局势持续紧张的背景之下。该海峡承担全球约五分之一的海运原油",
-      "link": "https://wallstreetcn.com/articles/3772212",
-      "published": "Wed, 13 May 2026 19:00:58 GMT"
     },
     {
       "source": "第一财经",
@@ -209,22 +223,29 @@
     },
     {
       "source": "中国证券报",
-      "title": "武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE83VW53c2s1ZFdpemJ4VEw4Q3U5U3BVd0t4dkk1bVlicHFPdDRVcnhsYjl5dG13WWp0UHNIVmJWSXNLc3FDS2NyWG01Ulh1aXVnT1NWSWZIdXNqMlg3NTBWT3d6djh0dnlCNDJJalRNX2d2MEx6WkIxRA?oc=5\" target=\"_blank\">武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE83VW53c2s1ZFdpemJ4VEw4Q3U5U3BVd0t4dkk1bVlicHFPdDRVcnhsYjl5dG13WWp0UHNIVmJWSXNLc3FDS2NyWG01Ulh1aXVnT1NWSWZIdXNqMlg3NTBWT3d6djh0dnlCNDJJalRNX2d2MEx6WkIxRA?oc=5\" target=\"_blank\">武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83VW53c2s1ZFdpemJ4VEw4Q3U5U3BVd0t4dkk1bVlicHFPdDRVcnhsYjl5dG13WWp0UHNIVmJWSXNLc3FDS2NyWG01Ulh1aXVnT1NWSWZIdXNqMlg3NTBWT3d6djh0dnlCNDJJalRNX2d2MEx6WkIxRA?oc=5",
       "published": "Wed, 13 May 2026 19:19:00 GMT"
     },
     {
       "source": "上海证券报",
-      "title": "合肥城建发展股份有限公司关于股价异动的公告 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQ2Z2R01jSndqemI1Y1o3NW9BN2Vwc1dnZUVsWUdvWUwtalVKMFhWM2ktWmlqdEtTVXAwTkhQam5reXpmMXlLRy0yalBqYVVNY3dQZENSS205QldNNF9qY2w5SGlzT05FaU85cnBERjFLczh1LU5meA?oc=5\" target=\"_blank\">合肥城建发展股份有限公司关于股价异动的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQ2Z2R01jSndqemI1Y1o3NW9BN2Vwc1dnZUVsWUdvWUwtalVKMFhWM2ktWmlqdEtTVXAwTkhQam5reXpmMXlLRy0yalBqYVVNY3dQZENSS205QldNNF9qY2w5SGlzT05FaU85cnBERjFLczh1LU5meA?oc=5",
-      "published": "Wed, 13 May 2026 19:29:00 GMT"
+      "title": "中通国脉通信股份有限公司关于股票交易异常波动的公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzSmR1Mzh1ZGluME1HT0diNzVvRTFwdzBXemdWVVNiWWtILWRzTWUxbUwycHRIVFJPaTRKTFBubk1iZWdCQ1BpTzc3TUszaDVFN2l3aWdydjJQWlhiU0xtSFRpUXJIUVJKTWRYaG9zdDl3MUhmSGNsXw?oc=5\" target=\"_blank\">中通国脉通信股份有限公司关于股票交易异常波动的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzSmR1Mzh1ZGluME1HT0diNzVvRTFwdzBXemdWVVNiWWtILWRzTWUxbUwycHRIVFJPaTRKTFBubk1iZWdCQ1BpTzc3TUszaDVFN2l3aWdydjJQWlhiU0xtSFRpUXJIUVJKTWRYaG9zdDl3MUhmSGNsXw?oc=5",
+      "published": "Wed, 13 May 2026 20:51:00 GMT"
     },
     {
       "source": "上海证券报",
-      "title": "武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE83VW53c2s1ZFdpemJ4VEw4Q3U5U3BVd0t4dkk1bVlicHFPdDRVcnhsYjl5dG13WWp0UHNIVmJWSXNLc3FDS2NyWG01Ulh1aXVnT1NWSWZIdXNqMlg3NTBWT3d6djh0dnlCNDJJalRNX2d2MEx6WkIxRA?oc=5\" target=\"_blank\">武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "华电辽宁能源发展股份有限公司关于股票交易风险提示的公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Nd3ZFc1Bram5qWmtoZU5RNkdDSmpsY1h4ZGVDcS0wTWdrMnFaRnVlc0M4bjBWVGF5MGJqMy1ieDlnR3pseUNDaWNVXzJBYTRZdGdIYkJUQUMwVmd2aVp1dXNlVDhqZFZKMjZUdEV5NmpDaGdJRHp6Zg?oc=5\" target=\"_blank\">华电辽宁能源发展股份有限公司关于股票交易风险提示的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Nd3ZFc1Bram5qWmtoZU5RNkdDSmpsY1h4ZGVDcS0wTWdrMnFaRnVlc0M4bjBWVGF5MGJqMy1ieDlnR3pseUNDaWNVXzJBYTRZdGdIYkJUQUMwVmd2aVp1dXNlVDhqZFZKMjZUdEV5NmpDaGdJRHp6Zg?oc=5",
+      "published": "Wed, 13 May 2026 19:30:00 GMT"
+    },
+    {
+      "source": "上海证券报",
+      "title": "武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE83VW53c2s1ZFdpemJ4VEw4Q3U5U3BVd0t4dkk1bVlicHFPdDRVcnhsYjl5dG13WWp0UHNIVmJWSXNLc3FDS2NyWG01Ulh1aXVnT1NWSWZIdXNqMlg3NTBWT3d6djh0dnlCNDJJalRNX2d2MEx6WkIxRA?oc=5\" target=\"_blank\">武汉长进光子技术股份有限公司首次公开发行股票并在科创板上市网上路演公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83VW53c2s1ZFdpemJ4VEw4Q3U5U3BVd0t4dkk1bVlicHFPdDRVcnhsYjl5dG13WWp0UHNIVmJWSXNLc3FDS2NyWG01Ulh1aXVnT1NWSWZIdXNqMlg3NTBWT3d6djh0dnlCNDJJalRNX2d2MEx6WkIxRA?oc=5",
       "published": "Wed, 13 May 2026 19:19:00 GMT"
     }
