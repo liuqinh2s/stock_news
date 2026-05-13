@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-14",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 11182,
+    "completion_tokens": 2378,
+    "total_tokens": 13560
+  },
+  "content_length": 2309,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"中概股指数大涨3.87%\",\n      \"summary\": \"纳斯达克中国金龙指数收涨3.87%，显示中概股集体走强。该指数涵盖多只中国互联网、科技公司，其强势表现通常会通过比价效应和市场情绪传导至A股相关板块，尤其是科技、互联网龙头。隔夜美股纳指创新高，叠加中概股大涨，对A股开盘情绪形成正面提振，属于看多信号。\",\n      \"reason\": \"直接影响A股科技板块情绪，且与美股强势联动，属于市场情绪传导信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"科技股\", \"互联网\", \"中概股相关A股\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"第一财经\", \"url\": \"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JVXJLemhubVVnZF94NHlLN3RMSHJibzA3aVBSTmxyaGFOVVFtQzM5VGVyNDE0NUdfZXhZbmZNOHdqX3p6SnZfMjN2MGFYS0hDOW1V?oc=5\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"富时A50夜盘涨0.35%\",\n      \"summary\": \"富时A50期指连续夜盘收涨0.35%，报16122点。A50期指反映市场对A股大盘蓝筹的短期预期，夜盘上涨通常预示次日A股开盘偏强。结合隔夜美股创新高和中概股大涨，A股开盘有望获得正向支撑，但幅度有限。属于看多信号。\",\n      \"reason\": \"直接反映外资对A股开盘的预期，且与美股、中概股大涨形成共振。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"蓝筹股\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2370689?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"以军空袭黎巴嫩致10死\",\n      \"summary\": \"以军空袭黎巴嫩南部多地，造成10死27伤。中东地缘冲突进一步升级，可能加剧市场避险情绪，推升黄金、原油价格。对A股而言，短期可能压制风险偏好，尤其对石油、航运板块有间接影响，但整体影响有限。属于中性偏空信号。\",\n      \"reason\": \"地缘冲突升级，可能影响全球油价和避险资产，但对A股直接影响较小。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油\", \"黄金\", \"航运\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260514/c676672583.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2370698?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美国航空煤油出口创新高\",\n      \"summary\": \"美国航空煤油出口量创历史新高，以填补海外供应缺口。反映全球原油需求强劲，可能推高国际油价，对A股石油板块形成利好。同时，航空煤油出口增加也可能缓解部分地区供应紧张，但整体对A股影响偏正面。属于看多信号。\",\n      \"reason\": \"油价上涨预期利好石油板块，且数据指向供需偏紧。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油\", \"中国石油\", \"中国石化\", \"航空\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2370691?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮素材中大部分消息已在历史标题中重复出现，仅筛选出4条新消息且对A股有参考价值。\"\n}"
+}
