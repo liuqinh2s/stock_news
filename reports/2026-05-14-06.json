@@ -3,91 +3,117 @@
   "hour": "06",
   "news": [
     {
-      "title": "中概股指数大涨3.87%",
-      "summary": "纳斯达克中国金龙指数收涨3.87%，显示中概股集体走强。该指数涵盖多只中国互联网、科技公司，其强势表现通常会通过比价效应和市场情绪传导至A股相关板块，尤其是科技、互联网龙头。隔夜美股纳指创新高，叠加中概股大涨，对A股开盘情绪形成正面提振，属于看多信号。",
-      "reason": "直接影响A股科技板块情绪，且与美股强势联动，属于市场情绪传导信号。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "科技股",
-        "互联网",
-        "中概股相关A股"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JVXJLemhubVVnZF94NHlLN3RMSHJibzA3aVBSTmxyaGFOVVFtQzM5VGVyNDE0NUdfZXhZbmZNOHdqX3p6SnZfMjN2MGFYS0hDOW1V?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "富时A50夜盘涨0.35%",
-      "summary": "富时A50期指连续夜盘收涨0.35%，报16122点。A50期指反映市场对A股大盘蓝筹的短期预期，夜盘上涨通常预示次日A股开盘偏强。结合隔夜美股创新高和中概股大涨，A股开盘有望获得正向支撑，但幅度有限。属于看多信号。",
-      "reason": "直接反映外资对A股开盘的预期，且与美股、中概股大涨形成共振。",
-      "category": "市场情绪",
+      "title": "公募基金批量调整业绩基准",
+      "summary": "公募存量产品将批量调整业绩比较基准，此举可降低基金被动调仓压力，减少市场冲击，有利于稳定投资者预期。调整基准后基金经理操作更灵活，对市场情绪有正面作用，但影响有限。",
+      "reason": "基金行为变化影响市场稳定性，属市场结构信号。",
+      "category": "市场结构",
       "impact_stocks": [
         "沪深300",
-        "上证50",
-        "蓝筹股"
+        "公募重仓股"
       ],
       "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2370689?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "以军空袭黎巴嫩致10死",
-      "summary": "以军空袭黎巴嫩南部多地，造成10死27伤。中东地缘冲突进一步升级，可能加剧市场避险情绪，推升黄金、原油价格。对A股而言，短期可能压制风险偏好，尤其对石油、航运板块有间接影响，但整体影响有限。属于中性偏空信号。",
-      "reason": "地缘冲突升级，可能影响全球油价和避险资产，但对A股直接影响较小。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油",
-        "黄金",
-        "航运"
-      ],
-      "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260514/c676672583.shtml"
+          "url": "https://news.10jqka.com.cn/20260514/c676673145.shtml"
         },
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2370698?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2370704"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "美国航空煤油出口创新高",
-      "summary": "美国航空煤油出口量创历史新高，以填补海外供应缺口。反映全球原油需求强劲，可能推高国际油价，对A股石油板块形成利好。同时，航空煤油出口增加也可能缓解部分地区供应紧张，但整体对A股影响偏正面。属于看多信号。",
-      "reason": "油价上涨预期利好石油板块，且数据指向供需偏紧。",
+      "title": "权益回暖“10元基”增至百只",
+      "summary": "随着A股反弹，净值超过10元的基金数量增至百只，显示市场赚钱效应回暖，基民信心恢复，有利于吸引增量资金入场。这对A股整体偏利好，尤其有利于基金重仓的消费、科技等板块。",
+      "reason": "基金净值回升代表赚钱效应，推动资金流入，属市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "贵州茅台",
+        "宁德时代"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2370702"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "机构调研机械医药板块升温",
+      "summary": "5月以来机构调研密集，机械设备和医药板块关注度显著提升，表明机构正在挖掘结构性机会。这可能带动相关板块个股活跃，尤其是有业绩支撑的细分龙头。机械设备叠加制造业升级，医药受益于创新药政策，属看多信号。",
+      "reason": "机构调研是中期布局信号，属优先级二事件。",
       "category": "行业动态",
       "impact_stocks": [
-        "石油",
-        "中国石油",
-        "中国石化",
-        "航空"
+        "机械设备",
+        "医药",
+        "汇川技术",
+        "恒瑞医药"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2370691?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2370705"
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "小金属板块业绩向好",
+      "summary": "新闻报道指出受益于需求稳步复苏，A股小金属板块公司业绩向好。小金属如钨、钼、锑等受益于新能源、军工等下游需求增长，基本面改善有望推动板块估值修复，属看多信号。",
+      "reason": "行业基本面改善，影响板块预期，属优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "小金属",
+        "钨",
+        "稀土",
+        "厦门钨业",
+        "洛阳钼业"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbG5yWF9kYU84NmVwRVQ3cnZyS0Juc1lUWFhuOWhMcXRUeXh6Rnh0Uy04aTJWMi0wc2xnX3dxMmhKTmRBM0poczNCdUlYMFRwQ2w5T3VON3ZKaDhEWjJRX3dMMkdYVTNhSXo4d1Ywamk2TTFHR1N4Sg"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "伊朗推动霍尔木兹海峡管理",
+      "summary": "伊朗高官称霍尔木兹海峡管理方案已提交议会审议。此举加剧中东地缘紧张，可能推高国际油价，利好A股石油石化板块，但整体市场风险偏好或受抑制。需关注后续局势演变。",
+      "reason": "地缘事件影响油价，间接影响A股能源板块及市场情绪。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "石油石化",
+        "中国石油",
+        "中国石化",
+        "能源"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2370703"
+        },
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260514/c676673142.shtml"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 39,
-  "generated_at": "2026-05-14T06:01:31.607843+08:00"
+  "total_fetched": 42,
+  "generated_at": "2026-05-14T06:56:51.164008+08:00"
 }
