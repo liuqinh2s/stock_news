@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-13",
+  "hour": "21",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 20066,
+    "completion_tokens": 1903,
+    "total_tokens": 21969
+  },
+  "content_length": 2388,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美国4月PPI同比增6%超预期\",\n      \"summary\": \"美国4月PPI同比增长6%，创2022年12月以来新高，核心PPI同比5.2%远超预期的4.3%。数据公布后美元指数走强，美债收益率上行，美股期货短线走低。超预期的通胀数据强化了美联储维持高利率的预期，对A股形成外部压力，尤其是成长股和外资重仓板块。\",\n      \"reason\": \"美国通胀数据超预期直接影响全球风险资产定价，对A股情绪偏空，属于优先级二的宏观经济数据。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"创业板指\", \"外资重仓股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2370472\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"阿里AI收入预测与资本支出超预期\",\n      \"summary\": \"阿里巴巴CEO吴泳铭表示，AI模型与应用ARR二季度将破100亿元，年底超300亿元；资本支出或超过此前宣布的3800亿元；平头哥自研GPU规模化量产，超60%算力对外服务。这显示AI产业需求爆发，算力基础设施建设加速，利好AI算力、GPU服务器、数据中心产业链。\",\n      \"reason\": \"阿里作为行业龙头，其AI业务指引超预期，直接利好A股AI算力板块，属于优先级二的行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"数据中心\", \"澜起科技\", \"工业富联\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260513/c676668859.shtml\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"中韩半导体ETF溢价30%停牌\",\n      \"summary\": \"中韩半导体ETF华泰柏瑞因二级市场溢价率达30%而公告停牌。高溢价反映市场对半导体板块的狂热情绪，但溢价过高隐含回调风险，提示投资者警惕短期泡沫。这属于市场情绪信号，可能引发板块短期回调。\",\n      \"reason\": \"ETF高溢价停牌是市场情绪过热信号，对半导体板块偏空，属于优先级三的市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"芯片ETF\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3103028\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"民航局低空安全司正式亮相\",\n      \"summary\": \"中国民航局低空安全司正式成立，相关机构职责一并公布。这标志着低空经济顶层设计加速落地，政策支持有望推动低空基础设施建设、无人机、eVTOL等产业发展。利好低空经济、通航、无人机板块。\",\n      \"reason\": \"低空安全司成立是低空经济政策的重要里程碑，属于优先级二的行业政策变动，对相关板块利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"低空经济\", \"无人机\", \"eVTOL\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2370469\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"湖南出台政策支持存量商品房收购\",\n      \"summary\": \"湖南省出台政策支持存量商品房收购、住房“以旧换新”，并支持保障性租赁住房发行REITs。此举有助于消化房地产库存，稳定市场预期，对地产板块形成利好。\",\n      \"reason\": \"地方地产政策放松是行业动态，对地产板块有正面刺激，属于优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"房地产\", \"地产链\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2370469\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
