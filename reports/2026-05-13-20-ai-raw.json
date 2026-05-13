@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-13",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 20394,
+    "completion_tokens": 8029,
+    "total_tokens": 28423
+  },
+  "content_length": 1802,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"神工股份拟定增10亿\",\n      \"summary\": \"神工股份公告拟定增募资不超过10亿元，用于产能扩张。作为半导体材料供应商，此举有助于提升市场份额，但短期可能稀释股权。影响预计有限，中性信号。\",\n      \"reason\": \"新消息，未在历史中出现，属于公司融资动态，对半导体材料板块有轻度影响。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"神工股份\", \"半导体材料\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260513/c676666760.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"鼎捷数智拟出售回购股份\",\n      \"summary\": \"鼎捷数智公告拟出售已回购股份不超过0.58%，用于资金回笼。此举对市场影响极小，属于日常操作，中性信号。\",\n      \"reason\": \"新消息，未在历史中出现，属于公司日常资本运作，影响微弱。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"鼎捷数智\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260513/c676666709.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"沃尔核材股权转让\",\n      \"summary\": \"沃尔核材股东邱丽敏及其一致行动人拟将20万股转让给其他一致行动人，涉及金额较小，不影响公司控制权，中性信号。\",\n      \"reason\": \"新消息，未在历史中出现，属于股东内部调整，影响极小。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"沃尔核材\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260513/c676666706.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"脑机接口技术新突破\",\n      \"summary\": \"我国科研人员探索脑机接口神经探针技术，用于治疗慢性疼痛。该技术突破利好脑机接口概念板块，但商业化尚需时日，短期影响有限，看多信号。\",\n      \"reason\": \"新消息，未在历史中出现，属于科研进展，对脑机接口概念有轻度正向刺激。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"脑机接口\", \"创新医疗\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260513/c676666694.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中大部分高优先级事件已在历史消息中出现，符合严格去重规则，故仅筛选出4条低优先级新消息，影响程度均较低。\"\n}"
+}
