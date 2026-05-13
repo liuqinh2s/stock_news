@@ -1,85 +1,148 @@
 {
   "date": "2026-05-13",
   "hour": "14",
-  "total": 67,
-  "fetched_at": "2026-05-13T14:00:32.578339+08:00",
+  "total": 76,
+  "fetched_at": "2026-05-13T14:16:48.246658+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股集体翻红，超3100只个股上涨！绿电概念爆发 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFByR2ExNDNUcHlhWDVSZnlLYk4xSWNwcXRkWU1WVWtEZkFzMXhKMm5HaU9Ob0dJQVVHTHE2NTNxMUtDcDVHUl85NkN1OFd0LWtlY09YRU8weW11NGw0cHVSSW80YkJuSGhQbjhzZWR5MFJxMUVneEE?oc=5\" target=\"_blank\">A股集体翻红，超3100只个股上涨！绿电概念爆发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "境外收入逾12万亿元 A股上市公司出海迈入提质增效新阶段 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1jVm0zY3BXLWtXclg2cF80MHgwbmNydzU0UzJEZXc5NXhXaEF3Um53NTBGc2hJOUVucHBEdWtYd3h0cEF4SlhmMHU4TXFpRGlxU2oyNDVDMlRRdWMwcWdzYmtwYmR0TUZ0UXdFTnJjSC12bUM1azBjZQ?oc=5\" target=\"_blank\">境外收入逾12万亿元 A股上市公司出海迈入提质增效新阶段</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jVm0zY3BXLWtXclg2cF80MHgwbmNydzU0UzJEZXc5NXhXaEF3Um53NTBGc2hJOUVucHBEdWtYd3h0cEF4SlhmMHU4TXFpRGlxU2oyNDVDMlRRdWMwcWdzYmtwYmR0TUZ0UXdFTnJjSC12bUM1azBjZQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "实控人被立案 泰格医药A股港股双双大跌 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE84R09Ma3o5SFVVVGZfLUNsOE1TN09TSmRiemhHOEFVRnNZSkJKbG9uQWZyRkc3VWFHRC11MVFVUWtsWWJuWmRRZ3VMVlhYTlJqQTljZTN5by14V3oybzhvWFNPS2J1YVJscHN5cEN1Y2Jlbm04NW9PVVJ0U2lYSEE?oc=5\" target=\"_blank\">实控人被立案 泰格医药A股港股双双大跌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84R09Ma3o5SFVVVGZfLUNsOE1TN09TSmRiemhHOEFVRnNZSkJKbG9uQWZyRkc3VWFHRC11MVFVUWtsWWJuWmRRZ3VMVlhYTlJqQTljZTN5by14V3oybzhvWFNPS2J1YVJscHN5cEN1Y2Jlbm04NW9PVVJ0U2lYSEE?oc=5",
+      "published": "Wed, 13 May 2026 05:53:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股集体翻红，超3100只个股上涨！绿电概念爆发 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFByR2ExNDNUcHlhWDVSZnlLYk4xSWNwcXRkWU1WVWtEZkFzMXhKMm5HaU9Ob0dJQVVHTHE2NTNxMUtDcDVHUl85NkN1OFd0LWtlY09YRU8weW11NGw0cHVSSW80YkJuSGhQbjhzZWR5MFJxMUVneEE?oc=5\" target=\"_blank\">A股集体翻红，超3100只个股上涨！绿电概念爆发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByR2ExNDNUcHlhWDVSZnlLYk4xSWNwcXRkWU1WVWtEZkFzMXhKMm5HaU9Ob0dJQVVHTHE2NTNxMUtDcDVHUl85NkN1OFd0LWtlY09YRU8weW11NGw0cHVSSW80YkJuSGhQbjhzZWR5MFJxMUVneEE?oc=5",
       "published": "Wed, 13 May 2026 05:01:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股低开高走，沪指半日微涨0.09% - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1IakNlSy04Nlp2c2ZMOUN1RFJfTGNTTGkzampRRU9UMS1lcVQyWVBaR0tfYVRHQ2dqRzAtM3JMcEhPY3JFdE1hZ2g5Smd4T2pEVU9PdUpFR05xUFJyX3BPYllVT3RuVlZwekxyMlE1S2J1WmJFTUtCXw?oc=5\" target=\"_blank\">A股低开高走，沪指半日微涨0.09%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "新兴产业崛起 A股千亿市值公司突破200家 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAyV3lQWTgyQmgzWkwxLWQwc0RSckc0RUROVGZCdXJGV0lXRjlpc1dYdWxpc3AwSWFER2xoMWJXN0ZubVE4VHhIV1dVcGpHb0tUdjZyRzB1Y21VUnZlSi1HQ2g2SjdZV25RX1REaEJQcUxkOWVIUm41ag?oc=5\" target=\"_blank\">新兴产业崛起 A股千亿市值公司突破200家</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyV3lQWTgyQmgzWkwxLWQwc0RSckc0RUROVGZCdXJGV0lXRjlpc1dYdWxpc3AwSWFER2xoMWJXN0ZubVE4VHhIV1dVcGpHb0tUdjZyRzB1Y21VUnZlSi1HQ2g2SjdZV25RX1REaEJQcUxkOWVIUm41ag?oc=5",
+      "published": "Wed, 13 May 2026 05:29:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股低开高走，沪指半日微涨0.09% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1IakNlSy04Nlp2c2ZMOUN1RFJfTGNTTGkzampRRU9UMS1lcVQyWVBaR0tfYVRHQ2dqRzAtM3JMcEhPY3JFdE1hZ2g5Smd4T2pEVU9PdUpFR05xUFJyX3BPYllVT3RuVlZwekxyMlE1S2J1WmJFTUtCXw?oc=5\" target=\"_blank\">A股低开高走，沪指半日微涨0.09%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IakNlSy04Nlp2c2ZMOUN1RFJfTGNTTGkzampRRU9UMS1lcVQyWVBaR0tfYVRHQ2dqRzAtM3JMcEhPY3JFdE1hZ2g5Smd4T2pEVU9PdUpFR05xUFJyX3BPYllVT3RuVlZwekxyMlE1S2J1WmJFTUtCXw?oc=5",
       "published": "Wed, 13 May 2026 05:03:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股三大指数集体翻红，电力板块延续强势 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5DTUZYZlo4NmdDVk5iQ1NEbHNJWW5QaUxfTjNfZFlhYnFZckF3N1VqcEc3cmpFODduQXhGazBsREI4Y2NlNUptWHpJQkFDaktHc1c1MjlIQnZNOF9WZmZZLWxVMWo4cjJIUjFqNEJWUGRhUDlSOXc?oc=5\" target=\"_blank\">A股三大指数集体翻红，电力板块延续强势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股三大指数集体翻红，电力板块延续强势 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5DTUZYZlo4NmdDVk5iQ1NEbHNJWW5QaUxfTjNfZFlhYnFZckF3N1VqcEc3cmpFODduQXhGazBsREI4Y2NlNUptWHpJQkFDaktHc1c1MjlIQnZNOF9WZmZZLWxVMWo4cjJIUjFqNEJWUGRhUDlSOXc?oc=5\" target=\"_blank\">A股三大指数集体翻红，电力板块延续强势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DTUZYZlo4NmdDVk5iQ1NEbHNJWW5QaUxfTjNfZFlhYnFZckF3N1VqcEc3cmpFODduQXhGazBsREI4Y2NlNUptWHpJQkFDaktHc1c1MjlIQnZNOF9WZmZZLWxVMWo4cjJIUjFqNEJWUGRhUDlSOXc?oc=5",
       "published": "Wed, 13 May 2026 04:43:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "外资机构调研四百余家A股公司 看好中国科技行业投资机遇 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBVTU5wUHF1eHNOMnFSRVlBTjdIMVBIbTBzcjh3YjU0MmtmaFFGMUNUbzBNNnNIQkZoU2U0eGtfSW1mNzdUbGZhbW9kWmhSR2JmVHB2dGdJQnNvQXpwVE5VZjl6QmcwSnhBSWhBQ3I5SVBXUU1yYTEtMg?oc=5\" target=\"_blank\">外资机构调研四百余家A股公司 看好中国科技行业投资机遇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "外资机构调研四百余家A股公司 看好中国科技行业投资机遇 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBVTU5wUHF1eHNOMnFSRVlBTjdIMVBIbTBzcjh3YjU0MmtmaFFGMUNUbzBNNnNIQkZoU2U0eGtfSW1mNzdUbGZhbW9kWmhSR2JmVHB2dGdJQnNvQXpwVE5VZjl6QmcwSnhBSWhBQ3I5SVBXUU1yYTEtMg?oc=5\" target=\"_blank\">外资机构调研四百余家A股公司 看好中国科技行业投资机遇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVTU5wUHF1eHNOMnFSRVlBTjdIMVBIbTBzcjh3YjU0MmtmaFFGMUNUbzBNNnNIQkZoU2U0eGtfSW1mNzdUbGZhbW9kWmhSR2JmVHB2dGdJQnNvQXpwVE5VZjl6QmcwSnhBSWhBQ3I5SVBXUU1yYTEtMg?oc=5",
       "published": "Wed, 13 May 2026 04:30:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股白酒股集体下跌，唯皇台酒业微涨，且为年内唯一上涨白酒股 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxORmk3ZFRpd2lRMm5RU0t1d04yYVdnX3RBZmNZLVFNTkJVbi0tekFiWGJNMFJiLXRVbS1leWtNVDJEY3NXM29ZcFU0akEzUWs4a1Q4WkJYckZzNkZ2cUwyeUFaNmU5LTN6aS12UXBEWWdqT3FaSm1DczZ4NFlydmZtTQ?oc=5\" target=\"_blank\">A股白酒股集体下跌，唯皇台酒业微涨，且为年内唯一上涨白酒股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORmk3ZFRpd2lRMm5RU0t1d04yYVdnX3RBZmNZLVFNTkJVbi0tekFiWGJNMFJiLXRVbS1leWtNVDJEY3NXM29ZcFU0akEzUWs4a1Q4WkJYckZzNkZ2cUwyeUFaNmU5LTN6aS12UXBEWWdqT3FaSm1DczZ4NFlydmZtTQ?oc=5",
-      "published": "Wed, 13 May 2026 05:15:00 GMT"
+      "title": "远望谷A股股东户数减少384户降幅0.68%，流通A股户均持股1.32万股增幅0.69%，户均持股市值9.51万元增幅7.41% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPTndkUmdjUzVJMnBhcDVOTzNFOHVmYUkxdC15M3J6anZ3SUplZkxnUXN0bUFZcXdkamFXV1BnLVZLcDNJMU9VeEpNa1I0Uk42S0ZmTFp1cDNfZDQ1WGcyMExZRG1jc0MyR2VmbVlsaXU4ZU5LQmQySnpTWWRNNzY3Mk14aWxXVVR2MVJRZQ?oc=5\" target=\"_blank\">远望谷A股股东户数减少384户降幅0.68%，流通A股户均持股1.32万股增幅0.69%，户均持股市值9.51万元增幅7.41%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTndkUmdjUzVJMnBhcDVOTzNFOHVmYUkxdC15M3J6anZ3SUplZkxnUXN0bUFZcXdkamFXV1BnLVZLcDNJMU9VeEpNa1I0Uk42S0ZmTFp1cDNfZDQ1WGcyMExZRG1jc0MyR2VmbVlsaXU4ZU5LQmQySnpTWWRNNzY3Mk14aWxXVVR2MVJRZQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "佰维存储(688525) ，递交香港IPO招股书，华泰国际独家保荐 | A股公司香港上市 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBfcGZBV25Bb3RqSDlhOGF0ejVGVWxDSDF5MjY4NmVsdmN3U01oMjJyMGZaTk1BUmxoR3RnVlJEYUhfN015WFpKNTQ0Vzc0U2xUWUE2QmRmNTduakp3WE4ycW82SEN4U0h2akFzSm1EUGZqU3JhU1E?oc=5\" target=\"_blank\">佰维存储(688525) ，递交香港IPO招股书，华泰国际独家保荐 | A股公司香港上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfcGZBV25Bb3RqSDlhOGF0ejVGVWxDSDF5MjY4NmVsdmN3U01oMjJyMGZaTk1BUmxoR3RnVlJEYUhfN015WFpKNTQ0Vzc0U2xUWUE2QmRmNTduakp3WE4ycW82SEN4U0h2akFzSm1EUGZqU3JhU1E?oc=5",
-      "published": "Wed, 13 May 2026 05:18:00 GMT"
+      "title": "新开普A股股东户数增加445户增幅1.14%，流通A股户均持股1.04万股降幅1.13%，户均持股市值10.6万元增幅4.63% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlFnZlJza2xwOXAxeGtCUExXT2FPVndncTdMTFYxS1pJdVBJaHdOeFRXZ09QSV9CVmcxemY2RldNbmlOeUZBSnZmTVVKU2tWLVRMSmhrVlhBNFZodWhfcFhVdVJnUEhUVG15WnpMZGZzVFBzVXBrQmRDMUJ0ZEdUVDhMdkkwMHowV3NvQw?oc=5\" target=\"_blank\">新开普A股股东户数增加445户增幅1.14%，流通A股户均持股1.04万股降幅1.13%，户均持股市值10.6万元增幅4.63%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSlFnZlJza2xwOXAxeGtCUExXT2FPVndncTdMTFYxS1pJdVBJaHdOeFRXZ09QSV9CVmcxemY2RldNbmlOeUZBSnZmTVVKU2tWLVRMSmhrVlhBNFZodWhfcFhVdVJnUEhUVG15WnpMZGZzVFBzVXBrQmRDMUJ0ZEdUVDhMdkkwMHowV3NvQw?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "开盘87秒直线涨停，千亿龙头6连板！ - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9lLWZ4VVJ5Z2hGYXp6aVR3dFFjWTlTTXZfNDE2RzFnTnF3MlV2MVBxdlZnUEZqbW1uQnlnNHdhTUV0YnduLXhuYkJ0WGxndVVRMEczVGU2QTJSeWxSV2x5U1BIOTByQVYtVGg5a09IT2t1QllYZkUwUQ?oc=5\" target=\"_blank\">开盘87秒直线涨停，千亿龙头6连板！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lLWZ4VVJ5Z2hGYXp6aVR3dFFjWTlTTXZfNDE2RzFnTnF3MlV2MVBxdlZnUEZqbW1uQnlnNHdhTUV0YnduLXhuYkJ0WGxndVVRMEczVGU2QTJSeWxSV2x5U1BIOTByQVYtVGg5a09IT2t1QllYZkUwUQ?oc=5",
-      "published": "Wed, 13 May 2026 05:09:00 GMT"
+      "title": "科德教育A股股东户数减少99户降幅0.31%，流通A股户均持股1.03万股增幅0.31%，户均持股市值20.13万元增幅5.52% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFlWdE9RdG9YanVacmtSTWlEaGtQVEE1NC1OU3dtM2N3aGR5SHZBby1NaVNVQ1pTZnZFSllLMG5rUWRsdUVlWU1RbVRmdXFfVnB3al9WUWhxQzRMYXZ1OXNjT2ctc1YzV1FjYWp0ZnlZVk5MMnc0eUZJX3g4Tld1Yml5eEF1TElkQ094LQ?oc=5\" target=\"_blank\">科德教育A股股东户数减少99户降幅0.31%，流通A股户均持股1.03万股增幅0.31%，户均持股市值20.13万元增幅5.52%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaFlWdE9RdG9YanVacmtSTWlEaGtQVEE1NC1OU3dtM2N3aGR5SHZBby1NaVNVQ1pTZnZFSllLMG5rUWRsdUVlWU1RbVRmdXFfVnB3al9WUWhxQzRMYXZ1OXNjT2ctc1YzV1FjYWp0ZnlZVk5MMnc0eUZJX3g4Tld1Yml5eEF1TElkQ094LQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "开盘87秒直线涨停，千亿龙头6连板！ - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydndwdFhYeDI5ZjlZam5teEg2QXNVdi05UXh4TThhZl9WRzM4TGVLdFpNNnBrWUV6d2NjOHdNcVRiRTI2RjBDVzMweVZXOER2V3dLNzBfU2FaU295RGJyVncwUVRNN3I1dG9fSnpqbEhCalZIenc?oc=5\" target=\"_blank\">开盘87秒直线涨停，千亿龙头6连板！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ydndwdFhYeDI5ZjlZam5teEg2QXNVdi05UXh4TThhZl9WRzM4TGVLdFpNNnBrWUV6d2NjOHdNcVRiRTI2RjBDVzMweVZXOER2V3dLNzBfU2FaU295RGJyVncwUVRNN3I1dG9fSnpqbEhCalZIenc?oc=5",
-      "published": "Wed, 13 May 2026 04:30:00 GMT"
+      "title": "罗普斯金A股股东户数减少409户降幅1.98%，流通A股户均持股3.29万股增幅2.02%，户均持股市值18.19万元增幅2.58% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkNVT1I1T0J6cFA3MHBIMWlvU3RjYVloWFkxdlQ3Rm42WUFHdlNyTHVYMHA5c1NOYmxnUHFmTzAwSm5XZC1xV1VRNkU4NzE4ZGI4RTJYWnRiblNKY01LbmVuTk9qQklvRlUwQjN5V205anAxYmw3Si0zdEZHUkNTREo3X3ZjQjFaLTBsZQ?oc=5\" target=\"_blank\">罗普斯金A股股东户数减少409户降幅1.98%，流通A股户均持股3.29万股增幅2.02%，户均持股市值18.19万元增幅2.58%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkNVT1I1T0J6cFA3MHBIMWlvU3RjYVloWFkxdlQ3Rm42WUFHdlNyTHVYMHA5c1NOYmxnUHFmTzAwSm5XZC1xV1VRNkU4NzE4ZGI4RTJYWnRiblNKY01LbmVuTk9qQklvRlUwQjN5V205anAxYmw3Si0zdEZHUkNTREo3X3ZjQjFaLTBsZQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "688059，一季度净利增5倍！A股多家传统产业上市公司，“老树发新芽”！ - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2FudmZ2alZzcDdlVkFZWjh4MUN6ZlpvWVZVNjNKNFBxVlYwck82eU1IUlZRSGRoUmI4U3AtNV9CQ09Gd1ZpXzhtUUVHSlh6NnNlOTcwYi1oSWFxQ2JOT1c3NDk3bnpWa0V3QnJtaFkxbTJnVm9FWjIwTXQ0MUlsYQ?oc=5\" target=\"_blank\">688059，一季度净利增5倍！A股多家传统产业上市公司，“老树发新芽”！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2FudmZ2alZzcDdlVkFZWjh4MUN6ZlpvWVZVNjNKNFBxVlYwck82eU1IUlZRSGRoUmI4U3AtNV9CQ09Gd1ZpXzhtUUVHSlh6NnNlOTcwYi1oSWFxQ2JOT1c3NDk3bnpWa0V3QnJtaFkxbTJnVm9FWjIwTXQ0MUlsYQ?oc=5",
-      "published": "Wed, 13 May 2026 04:28:00 GMT"
+      "title": "上海钢联A股股东户数增加653户增幅2.10%，流通A股户均持股9661.55股降幅2.06%，户均持股市值23.97万元降幅1.02% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUprWGJvSjkzdmR2SXFKelNONlpXc3VVaGVFRjZLOWtfLWdIQkc1eVU1YWVGNVhCNGdrSWl1WEF4WVVvenc5QTFrZU1Lc00zVmtnWVdUeHNVc0hSMExrSEJGamVwamJzTzdYM1BIR3hFUktRdl9PUS1SZHZPUEVBYWJXXy1zSExfZGxUWQ?oc=5\" target=\"_blank\">上海钢联A股股东户数增加653户增幅2.10%，流通A股户均持股9661.55股降幅2.06%，户均持股市值23.97万元降幅1.02%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUprWGJvSjkzdmR2SXFKelNONlpXc3VVaGVFRjZLOWtfLWdIQkc1eVU1YWVGNVhCNGdrSWl1WEF4WVVvenc5QTFrZU1Lc00zVmtnWVdUeHNVc0hSMExrSEJGamVwamJzTzdYM1BIR3hFUktRdl9PUS1SZHZPUEVBYWJXXy1zSExfZGxUWQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股午评：超100股涨停！两大板块爆发涨停潮 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGp3YU96MnhQVGVIVkV1Tmw1VEpMaGN3TEQ2UFZCVlVVcUR4SkxUUWdkQk1vYzc5NEwxNFBTOUNrTXhRWXd0UVV2UHJ4RXRSSWdHLTRjUkZVcS1wR0t6aU9YMVdzeU5DbTJMVHNkSElqVjlzVFVzdVZuSHFkM2sxbTlkTFE?oc=5\" target=\"_blank\">A股午评：超100股涨停！两大板块爆发涨停潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSGp3YU96MnhQVGVIVkV1Tmw1VEpMaGN3TEQ2UFZCVlVVcUR4SkxUUWdkQk1vYzc5NEwxNFBTOUNrTXhRWXd0UVV2UHJ4RXRSSWdHLTRjUkZVcS1wR0t6aU9YMVdzeU5DbTJMVHNkSElqVjlzVFVzdVZuSHFkM2sxbTlkTFE?oc=5",
-      "published": "Wed, 13 May 2026 04:18:00 GMT"
+      "title": "快可电子A股股东户数增加406户增幅2.83%，流通A股户均持股3487.48股降幅2.75%，户均持股市值14.57万元增幅4.39% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2c2aERXNXlsTEZYUk04NjY5MGVYc0FydXY5eEhVYWxqVnBsVUdjWlFmRExhOWVUdUFXbV9pVk85WnJtdmF5WEptUTBzQThmQ2tvSFdROWRPcE5MYkowWE9rRy14WUpZbjU5SWpEdEVGeDZaVklaU0hoZGtabS0teGV2REFvbmZzUG1IaA?oc=5\" target=\"_blank\">快可电子A股股东户数增加406户增幅2.83%，流通A股户均持股3487.48股降幅2.75%，户均持股市值14.57万元增幅4.39%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX2c2aERXNXlsTEZYUk04NjY5MGVYc0FydXY5eEhVYWxqVnBsVUdjWlFmRExhOWVUdUFXbV9pVk85WnJtdmF5WEptUTBzQThmQ2tvSFdROWRPcE5MYkowWE9rRy14WUpZbjU5SWpEdEVGeDZaVklaU0hoZGtabS0teGV2REFvbmZzUG1IaA?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "创业板指盘中突破4000点、深成指站上16000点，英伟达概念异动拉升 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9lOTcxMk45X1NSTm1Zck9QZkZCZ01nYkZaYVo1S21kXzZRaVdZdTNWSVdhZWRQQ1ltZWZhRmswN0w1U19YVS0xUHlNV3BqcVZZSVVzLUctSDN6MG02ZllrQmJKOXZrbi1WZlBWeDh2WWp4YnB0VmFDRw?oc=5\" target=\"_blank\">创业板指盘中突破4000点、深成指站上16000点，英伟达概念异动拉升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lOTcxMk45X1NSTm1Zck9QZkZCZ01nYkZaYVo1S21kXzZRaVdZdTNWSVdhZWRQQ1ltZWZhRmswN0w1U19YVS0xUHlNV3BqcVZZSVVzLUctSDN6MG02ZllrQmJKOXZrbi1WZlBWeDh2WWp4YnB0VmFDRw?oc=5",
+      "title": "宝莫股份A股股东户数减少695户降幅1.94%，流通A股户均持股1.74万股增幅1.98%，户均持股市值10.45万元增幅1.30% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUtpRVgxaUlGRm4wSWQ2UVZfd19aelFTWWpXZHVyT0VQVGFQZTNiWG1HYmxkMDlPbHp2SUhhUVhkLVFtbkhIb0lwMWRjUzhfZHp1ci1nUEZIa0x2cXBYLXpjel9sU29aVC00QW50VE1Bci1PWmpaUnBJaVI4MkU1ZGhpZTRxTkxWdTdJWQ?oc=5\" target=\"_blank\">宝莫股份A股股东户数减少695户降幅1.94%，流通A股户均持股1.74万股增幅1.98%，户均持股市值10.45万元增幅1.30%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUtpRVgxaUlGRm4wSWQ2UVZfd19aelFTWWpXZHVyT0VQVGFQZTNiWG1HYmxkMDlPbHp2SUhhUVhkLVFtbkhIb0lwMWRjUzhfZHp1ci1nUEZIa0x2cXBYLXpjel9sU29aVC00QW50VE1Bci1PWmpaUnBJaVI4MkU1ZGhpZTRxTkxWdTdJWQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "泰慕士A股股东户数增加477户增幅3.79%，流通A股户均持股7003.94股降幅3.65%，户均持股市值21.82万元降幅3.81% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXlhTVowMmtmWkZMR3hSS2R3WnpWS1NxUElPbGtnSk14ODhna3FsZ0RJUGRqQnh3bTdzWHlVTFRLM0dTeTFpcXZST1JEYVBnTmhOV2ZHTkp0b2REaHVWVGZ4RWlxUHBadGVTMTkybzduUlloajcyWTFVWTlDME5WVVRXZ1Q0MWJJX3Qwbw?oc=5\" target=\"_blank\">泰慕士A股股东户数增加477户增幅3.79%，流通A股户均持股7003.94股降幅3.65%，户均持股市值21.82万元降幅3.81%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXlhTVowMmtmWkZMR3hSS2R3WnpWS1NxUElPbGtnSk14ODhna3FsZ0RJUGRqQnh3bTdzWHlVTFRLM0dTeTFpcXZST1JEYVBnTmhOV2ZHTkp0b2REaHVWVGZ4RWlxUHBadGVTMTkybzduUlloajcyWTFVWTlDME5WVVRXZ1Q0MWJJX3Qwbw?oc=5",
       "published": "Wed, 13 May 2026 05:41:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "龙泉股份A股股东户数增加99户增幅0.42%，流通A股户均持股2.35万股降幅0.42%，户均持股市值11.58万元降幅1.03% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQbVFUWmFoTXA5RG9CZjZYeXp1YlFvUW03dG5kZ2FLVFd4cU9tcjFYTU5HUnhhTXBBVV9jOHp2cDRuODFIRFlCSkM5Y2FDcXF5MzAtTXdHZjA2RlhtYnZ6a3RzY0xSaF9oU2pGeE1Ja2VNU0NfQktrdmJ5ODNxUzdtZkNIRmNLQTRlUkVuLQ?oc=5\" target=\"_blank\">龙泉股份A股股东户数增加99户增幅0.42%，流通A股户均持股2.35万股降幅0.42%，户均持股市值11.58万元降幅1.03%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbVFUWmFoTXA5RG9CZjZYeXp1YlFvUW03dG5kZ2FLVFd4cU9tcjFYTU5HUnhhTXBBVV9jOHp2cDRuODFIRFlCSkM5Y2FDcXF5MzAtTXdHZjA2RlhtYnZ6a3RzY0xSaF9oU2pGeE1Ja2VNU0NfQktrdmJ5ODNxUzdtZkNIRmNLQTRlUkVuLQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "京北方A股股东户数增加907户增幅1.19%，流通A股户均持股1.09万股降幅1.17%，户均持股市值17.22万元增幅4.17% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWFEcTVEb3pKZks2bWY4Y18wZmQ1d0E2YzlyNDJqbnhzdmhjVmQ2ZnhPbFJldmZXRnQ4bFZrdmxNNWpyN0dUVEFDTWlfaXdJdWlWN2k0Nnc4WS1fVkJMNXp4LXJLQ2JwT1kzdk9pRkZPR1lKMjJYU3VpVzJRbFZQaTBjeURyN3REenIzag?oc=5\" target=\"_blank\">京北方A股股东户数增加907户增幅1.19%，流通A股户均持股1.09万股降幅1.17%，户均持股市值17.22万元增幅4.17%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWFEcTVEb3pKZks2bWY4Y18wZmQ1d0E2YzlyNDJqbnhzdmhjVmQ2ZnhPbFJldmZXRnQ4bFZrdmxNNWpyN0dUVEFDTWlfaXdJdWlWN2k0Nnc4WS1fVkJMNXp4LXJLQ2JwT1kzdk9pRkZPR1lKMjJYU3VpVzJRbFZQaTBjeURyN3REenIzag?oc=5",
+      "published": "Wed, 13 May 2026 05:41:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "悦心健康A股股东户数减少99户降幅0.18%，流通A股户均持股1.68万股增幅0.18%，户均持股市值7.51万元增幅0.18% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1VqNG9kZ1NzNkFnc2xPWDlMRnM2RkZsbGJyVGZreWRtQlVhVW1WV3RRT2Nfa3cwQnUtNS1WcUc0dG5VYi1ZTDhDaXRQVUJKMzhscUo5TXR0QUNad3lMWGRLU2JYVXF6ZHdTZktqeWwtbGZydThXeXhRaDBSOUNHTWI1U0NYcWdvaGk1WQ?oc=5\" target=\"_blank\">悦心健康A股股东户数减少99户降幅0.18%，流通A股户均持股1.68万股增幅0.18%，户均持股市值7.51万元增幅0.18%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1VqNG9kZ1NzNkFnc2xPWDlMRnM2RkZsbGJyVGZreWRtQlVhVW1WV3RRT2Nfa3cwQnUtNS1WcUc0dG5VYi1ZTDhDaXRQVUJKMzhscUo5TXR0QUNad3lMWGRLU2JYVXF6ZHdTZktqeWwtbGZydThXeXhRaDBSOUNHTWI1U0NYcWdvaGk1WQ?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华智数媒A股股东户数增加254户增幅1.54%，流通A股户均持股2.4万股降幅1.52%，户均持股市值17.41万元降幅4.54% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOVFVQZ2RMZ0Qxal9BdldZdFFELVVBOWhpN3d2Z04zdk92OXNyNE9lcGVpQXRfMFE5dVBZWG84dUJoak9TM19vTmNFb2xTZWU1bEJpdzJGUE1sVzMzVzQwUTVZcl9BT1FVZ0JpQlVldzJSb0dzWWJqME9lZ2h4bENMQ0VXTVp5cHpzUjZPaA?oc=5\" target=\"_blank\">华智数媒A股股东户数增加254户增幅1.54%，流通A股户均持股2.4万股降幅1.52%，户均持股市值17.41万元降幅4.54%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVFVQZ2RMZ0Qxal9BdldZdFFELVVBOWhpN3d2Z04zdk92OXNyNE9lcGVpQXRfMFE5dVBZWG84dUJoak9TM19vTmNFb2xTZWU1bEJpdzJGUE1sVzMzVzQwUTVZcl9BT1FVZ0JpQlVldzJSb0dzWWJqME9lZ2h4bENMQ0VXTVp5cHpzUjZPaA?oc=5",
+      "published": "Wed, 13 May 2026 05:41:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "申科股份A股股东户数增加728户增幅7.38%，流通A股户均持股1.41万股降幅6.87%，户均持股市值28.48万元降幅4.65% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGNrMDA5aGtINFp5djhDcjVGWXRtaU0yZUdtMU04LS1qTS0xdmhvb1JZUUt3VVhPVjlKZ28wempTQmpGa0hpaGlET1VyUGQzb2pzVGVtNHFWaE5FM0JXYklqMzhpbWxrbzYxV29mWEVTYzNPaXUzZ0s5WU5HQWtmdUdBQUZrVW8xWnF5Rg?oc=5\" target=\"_blank\">申科股份A股股东户数增加728户增幅7.38%，流通A股户均持股1.41万股降幅6.87%，户均持股市值28.48万元降幅4.65%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMGNrMDA5aGtINFp5djhDcjVGWXRtaU0yZUdtMU04LS1qTS0xdmhvb1JZUUt3VVhPVjlKZ28wempTQmpGa0hpaGlET1VyUGQzb2pzVGVtNHFWaE5FM0JXYklqMzhpbWxrbzYxV29mWEVTYzNPaXUzZ0s5WU5HQWtmdUdBQUZrVW8xWnF5Rg?oc=5",
+      "published": "Wed, 13 May 2026 05:40:00 GMT"
     },
     {
       "source": "东方财富",
@@ -100,14 +163,42 @@
       "title": "中信证券：美国二次通胀风险较小 但高油价将掣肘年内通胀率的回落空间 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvZl8yVFU4REhMYi1ROG1OeWYzVzI1TEZZSmtPYWpiN2x0alFuMzhaVTRMcm5STzU2X3NmR3o0RERfMUJ0bV8xM3NuX216RDAyV2I1VFdYWjNpa0NYU0Q2YVh2SE9SUQ?oc=5\" target=\"_blank\">中信证券：美国二次通胀风险较小 但高油价将掣肘年内通胀率的回落空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvZl8yVFU4REhMYi1ROG1OeWYzVzI1TEZZSmtPYWpiN2x0alFuMzhaVTRMcm5STzU2X3NmR3o0RERfMUJ0bV8xM3NuX216RDAyV2I1VFdYWjNpa0NYU0Q2YVh2SE9SUQ?oc=5",
-      "published": "Wed, 13 May 2026 04:26:40 GMT"
+      "published": "Wed, 13 May 2026 05:06:46 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "中信证券：业绩增长明显提速 金属行情仍然可期 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rcDhtTFoxQTJxT2FtWUptZ3B6VE1ZQUR3VW4tbWM0NmVsb3lyRlJyNEM2ZVRkdGd2cU9qV3Q2NkxsU1REaXA5NGlialE0SnBvdDBLNHNlSDJ4NmRLRkhjdllZelNCdw?oc=5\" target=\"_blank\">中信证券：业绩增长明显提速 金属行情仍然可期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rcDhtTFoxQTJxT2FtWUptZ3B6VE1ZQUR3VW4tbWM0NmVsb3lyRlJyNEM2ZVRkdGd2cU9qV3Q2NkxsU1REaXA5NGlialE0SnBvdDBLNHNlSDJ4NmRLRkhjdllZelNCdw?oc=5",
-      "published": "Wed, 13 May 2026 04:30:00 GMT"
+      "source": "同花顺",
+      "title": "宇通集团与宁德时代签署全面战略合作备忘录",
+      "summary": "5月12日，宇通集团与宁德时代在福建宁德签署全面战略合作备忘录。此次合作将聚焦联合出海、商用车全场景电动化、重卡换电业务、品牌共建四大核心方向。（宁德时代）",
+      "link": "https://news.10jqka.com.cn/20260513/c676653262.shtml",
+      "published": "Wed, 13 May 2026 06:13:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "润六尺科技：赴华为进行业务交流 探索算力服务国产化现实路径",
+      "summary": "润六尺科技今日官微消息，5月12日，润六尺团队一行应邀赴华为深圳坂田基地进行参观学习与业务交流。双方围绕基于昇腾处理器的国产智算集群建设、算力运营服务标准化、模型迁移适配及生态协同等核心议题展开了深入探讨，为后续推进全面合作奠定了坚实基础。双方一致认为，在大模型规模化推理、行业AI Agent落地、区域智算中心建设等多个维度，存在广阔的合作想象空间。后续双方将就技术适配、商务模式及合作节奏等具体事项展开进一步沟通。",
+      "link": "https://news.10jqka.com.cn/20260513/c676653209.shtml",
+      "published": "Wed, 13 May 2026 06:10:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国家药监局：2025年我国药品申报和审结数量双创新高",
+      "summary": "国家药监局今天发布《2025年度药品审评报告》，报告显示，2025年我国药品注册申报和审结数量，双双创历史新高。2025年国家药监局药品审评中心全年受理各类药品注册申请20149件，同比增加3%，创历史新高；据介绍，药品注册申请，包括新药临床试验申请、新药上市申请、仿制药上市申请和补充申请等。国家药监局药品审评中心业务管理处副处长袁利佳介绍，2025年新药上市申请数量同比增加超过20%，新药临床试验申请数量同比增加超过13%。从中可以看出我国医药产业创新活力后劲十足，未来将有更多在研创新药从科研成果走向临床应用。与此同时，2025年我国审结各类药品注册申请19375件，同比增长6.11%，也创历史新高。",
+      "link": "https://news.10jqka.com.cn/20260513/c676653107.shtml",
+      "published": "Wed, 13 May 2026 06:03:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以称黎真主党发射火箭弹袭击黎南部以军",
+      "summary": "当地时间13日，以色列国防军称，黎巴嫩真主党当天早上向驻扎在黎巴嫩南部的以色列部队发射了多枚火箭弹。此外，一架疑似来自黎真主党的无人机被拦截。袭击未造成人员伤亡。目前，黎巴嫩方面对此暂无回应。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260513/c676653051.shtml",
+      "published": "Wed, 13 May 2026 06:01:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "两项港口散杂货电子单证国家标准发布 8月1日起正式实施",
+      "summary": "记者今天了解到，市场监管总局批准发布《港口散杂货电子提货单》和《港口散杂货进口电子舱单》两项推荐性国家标准，将于8月1日正式实施。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260513/c676653038.shtml",
+      "published": "Wed, 13 May 2026 06:00:45 GMT"
     },
     {
       "source": "同花顺",
@@ -215,39 +306,46 @@
       "published": "Wed, 13 May 2026 05:18:04 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "联发科发布天玑AI智能体化引擎 2.0",
-      "summary": "在天玑开发者大会上，联发科（MediaTek）发布天玑AI智能体化引擎2.0 ，基于天玑SensingClaw技术，可提供低功耗的全时感知能力，帮助设备制造商打造具备主动感知和跨应用驱动能力的Agent OS。会上，MediaTek还公布了与OPPO 、小米和传音合作的系统原生Claw。此外，MediaTek还推出天玑AI开发套件3.0，并展示了将阶跃星辰ACE-Step音乐模型通过端侧可视化部署到天玑9500平台上。（科创板日报）",
-      "link": "https://news.10jqka.com.cn/20260513/c676652354.shtml",
-      "published": "Wed, 13 May 2026 05:16:57 GMT"
+      "source": "财联社",
+      "title": "港股AI应用股走强 智谱涨超15%",
+      "summary": "【港股AI应用股走强 智谱涨超15%】财联社5月13日电，截至发稿，智谱(02513.HK)涨15%，MINIMAX-W(00100.HK)涨11%，迅策(03317.HK)涨8%。<br /><img src=\"https://image.cls.cn/images/20260513/YZom4W6jeT_797x657.png\" />",
+      "link": "https://api3.cls.cn/share/article/2369998?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 13 May 2026 06:10:26 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "算力租赁板块震荡走强",
-      "summary": "算力租赁板块震荡走强，众合科技2连板，东方材料、利通电子、三人行、华升股份、鸿博股份、中嘉博创、工业富联、数据港、城地香江、奥瑞德涨停，平治信息、日科化学、润泽科技、东方国信、宏景科技、网宿科技涨超10%，扬电科技、电光科技、凯添燃气、华策影视、奥飞数据跟涨。相关ETF方面，云计算ETF广发（159527）涨3.1%，成交额960.73万元，云计算ETF汇添富（159273）涨2.57%，成交额5315.32万元。",
-      "link": "https://news.10jqka.com.cn/20260513/c676652329.shtml",
-      "published": "Wed, 13 May 2026 05:15:09 GMT"
+      "source": "财联社",
+      "title": "财联社5月13日电，科威特将6月出口至亚洲的原油溢价定为每桶12.75美元。",
+      "summary": "财联社5月13日电，科威特将6月出口至亚洲的原油溢价定为每桶12.75美元。",
+      "link": "https://api3.cls.cn/share/article/2369997?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 13 May 2026 06:10:17 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "工业富联午后涨停",
-      "summary": "工业富联午后涨停，成交额261.21亿元。",
-      "link": "https://news.10jqka.com.cn/20260513/c676652255.shtml",
-      "published": "Wed, 13 May 2026 05:10:45 GMT"
+      "source": "财联社",
+      "title": "半导体材料股持续走高 中船特气3天2板续创历史新高",
+      "summary": "【半导体材料股持续走高 中船特气3天2板续创历史新高】财联社5月13日电，午后半导体材料股持续走高，电子特气方向领涨，中船特气走出20cm 3天2板，续创历史新高，此前雅克科技涨停，兴福电子、天岳先进、鼎龙股份涨超10%，华海诚科、飞凯材料、华特气体、安集科技、阿石创等涨幅靠前。消息面上，AI服务器、先进封装及HBM技术迭代带动硅片与电子特气用量激增，叠加中东能源危机推高化工原料成本，半导体材料全品类进入量价齐升阶段。",
+      "link": "https://api3.cls.cn/share/article/2369996?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 13 May 2026 06:08:44 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "瑙鲁议会批准国名变更宪法修正案",
-      "summary": "瑙鲁政府12日说，该国议会当天通过一项宪法修正案，拟将国名由“Nauru（瑙鲁）”更改为“Naoero（音译为瑙埃罗）”。该修正案还需经全民公投通过。 瑙鲁政府12日在社交媒体平台发布了相关消息，并表示，下一步将举行全民公投。若更名获公投通过，新国名将用于国家官方记录和标志，以及区域和国际官方身份标识中，包括在联合国的官方称谓。 该更名提案最初由总统阿迪昂于1月提出。瑙鲁政府此前表示，“瑙埃罗”这一名称更能体现瑙鲁的民族遗产、语言和身份认同。政府解释说，现行国名“瑙鲁”源于外国语言难以准确发音“瑙埃罗”。 瑙鲁位于中太平洋，由一个独立的珊瑚礁岛及周边海域构成。瑙鲁统计局网站数据显示，该国人口在2021年约为1.17万。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260513/c676652244.shtml",
-      "published": "Wed, 13 May 2026 05:10:16 GMT"
+      "source": "财联社",
+      "title": "英诺赛科一度涨超20%",
+      "summary": "【英诺赛科一度涨超20%】财联社5月13日电，英诺赛科(02577.HK)午后继续冲高，截至发稿涨18%。消息面上，功率半导体密集涨价。AI数据中心成最大推手，业内预计供需紧张短期难解。此前，英伟达将800V高压直流架构确立为下一代AI工厂的核心供电方案。这套架构已获得广泛支持，包括英诺赛科在内的主流半导体厂商均已宣布支持800V供电方案。<br /><img src=\"https://image.cls.cn/images/20260513/mZ1Gag9338_744x621.png\" />",
+      "link": "https://api3.cls.cn/share/article/2369990?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 13 May 2026 06:08:12 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "第79届法国戛纳国际电影节12日晚在法国南部海滨城市戛纳拉开帷幕",
-      "summary": "第79届法国戛纳国际电影节12日晚在法国南部海滨城市戛纳拉开帷幕。今年，有不少来自欧洲和东亚国家的导演携作品闯入主竞赛单元，共同角逐最高奖项“金棕榈奖”。本届电影节主竞赛单元评委会主席由朴赞郁担任，他成为首个担任这一角色的韩国导演。在22部入围作品中，西班牙导演佩德罗·阿尔莫多瓦尔、罗马尼亚电影人克里斯蒂安·蒙久等来自欧洲的戛纳“熟面孔”携作品回归。此外，韩国导演罗泓轸的作品《希望》、日本导演深田晃司的作品《奈义日记》等日韩电影也出现在入围作品中。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260513/c676652235.shtml",
-      "published": "Wed, 13 May 2026 05:09:20 GMT"
+      "source": "财联社",
+      "title": "国家药监局：2025年新药上市申请数量同比增加超过20% 未来将有更多在研创新药从科研成果走向临床应用",
+      "summary": "【国家药监局：2025年新药上市申请数量同比增加超过20% 未来将有更多在研创新药从科研成果走向临床应用】财联社5月13日电，国家药监局今天发布《2025年度药品审评报告》，报告显示，2025年我国药品注册申报和审结数量，双双创历史新高。2025年国家药监局药品审评中心全年受理各类药品注册申请20149件，同比增加3%，创历史新高；据介绍，药品注册申请，包括新药临床试验申请、新药上市申请、仿制药上市申请和补充申请等。\n\n国家药监局药品审评中心业务管理处副处长袁利佳介绍，2025年新药上市申请数量同比增加超过20%，新药临床试验申请数量同比增加超过13%。从中可以看出我国医药产业创新活力后劲十足，未来将有更多在研创新药从科研成果走向临床应用。与此同时，2025年我国审结各类药品注册申请19375件，同比增长6.11%，也创历史新高。",
+      "link": "https://api3.cls.cn/share/article/2369994?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 13 May 2026 06:05:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "多元金融板块异动拉升 南华期货涨停",
+      "summary": "【多元金融板块异动拉升 南华期货涨停】财联社5月13日电，午后多元金融板块异动拉升，南华期货涨停，永安期货、建元信托、瑞达期货、弘业期货等纷纷跟涨。",
+      "link": "https://api3.cls.cn/share/article/2369992?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 13 May 2026 06:01:12 GMT"
     },
     {
       "source": "财联社",
@@ -348,46 +446,18 @@
       "published": "Wed, 13 May 2026 05:18:23 GMT"
     },
     {
-      "source": "财联社",
-      "title": "黄仁勋2026财年总薪酬约3630万美元 较2025财年下降27%",
-      "summary": "【黄仁勋2026财年总薪酬约3630万美元 较2025财年下降27%】财联社5月13日电，根据周二公布的一份监管文件，英伟达首席执行官黄仁勋2026财年总薪酬约为3630万美元，较2025财年下降了1360万美元，降幅为27%，这主要是因为股票奖励出现了大缩水。股权奖励是黄仁勋薪酬包中占比最大的部分。在截至1月25日的2026财年中，这部分收入减少了36%，降至2480万美元。而在2025财年，他获得了价值3880万美元的股票奖励，当年的总薪酬高达4990万美元。\n\n黄仁勋股票奖励大缩水，反映出英伟达股价涨势降温的现实。目前英伟达仍是全球市值最高的公司，但股价涨势已明显放缓。2025年，英伟达股价上涨了39%，远不及2023年的上涨两倍以及2024年的上涨逾一倍。",
-      "link": "https://api3.cls.cn/share/article/2369951?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 05:17:23 GMT"
+      "source": "华尔街见闻",
+      "title": "今年美股像极了98年，明年30%-50%大崩盘？",
+      "summary": "<p>传奇科技投资人Dan Niles表示，当前AI热潮像极了1998年泡沫前夕。七巨头利润靠非上市资产重估撑场面，而非真金白银。</p>\n\n<p>他指出，明年初代理式AI增长将减速，相关股票可能暴跌30%到50%。要保持灵活，警惕大崩盘。</p>",
+      "link": "https://wallstreetcn.com/charts/41959060",
+      "published": "Wed, 13 May 2026 06:05:49 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月13日电，恒生科技指数延续上涨，涨幅扩大至1.0%，现报5121.73点。",
-      "summary": "财联社5月13日电，恒生科技指数延续上涨，涨幅扩大至1.0%，现报5121.73点。",
-      "link": "https://api3.cls.cn/share/article/2369940?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 05:09:12 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "碳化硅概念持续活跃 天岳先进涨超10%创历史新高",
-      "summary": "【碳化硅概念持续活跃 天岳先进涨超10%创历史新高】财联社5月13日电，午后碳化硅概念持续活跃，天岳先进涨超10%，此前时代电气触及20cm涨停，均创历史新高，晶升股份涨超10%，斯达半导、晶盛机电、新洁能、露笑科技跟涨。消息面上，三星电子已与部分合作伙伴就SiC生产所需新增设备的规模展开讨论。业内人士预测，三星电子将于今年开始建立供应链，预计2027年将建成原型生产试点生产线，并将于2028年开始量产SiC。",
-      "link": "https://api3.cls.cn/share/article/2369934?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 05:07:19 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "创业板指涨逾1%",
-      "summary": "【创业板指涨逾1%】财联社5月13日电，指数走强，创业板指拉升涨逾1%，沪指涨0.22%，深成指涨0.71%。算力租赁、电力、电网设备、算电协同等方向涨幅居前，沪深京三市上涨个股近3000只。",
-      "link": "https://api3.cls.cn/share/article/2369932?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 05:06:57 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月13日电，安联保险第一季度营收530亿欧元，营业利润45.2亿欧元，预估44亿欧元，仍然预测全年营业利润164亿欧元至184亿欧元，预估178.6亿欧元。",
-      "summary": "财联社5月13日电，安联保险第一季度营收530亿欧元，营业利润45.2亿欧元，预估44亿欧元，仍然预测全年营业利润164亿欧元至184亿欧元，预估178.6亿欧元。",
-      "link": "https://api3.cls.cn/share/article/2369936?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 05:06:06 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "西门子第二季度净利润22.4亿欧元 同比下降8.3%",
-      "summary": "【西门子第二季度净利润22.4亿欧元 同比下降8.3%】财联社5月13日电，西门子公布第二季度业绩报告。西门子第二季度营收为197.6亿欧元，市场预期为200.7亿欧元；第二季度净利润为22.4亿欧元，同比下降8.3%。",
-      "link": "https://api3.cls.cn/share/article/2369933?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 13 May 2026 05:04:02 GMT"
+      "source": "华尔街见闻",
+      "title": "贝森特访日的真正意图：不止日元，重点在日本国债",
+      "summary": "<p>美国财政部长贝森特已完成日本访问行程，<a href=\"https://wallstreetcn.com/articles/3772057\" rel=\"noopener\" target=\"_blank\">日本财务大臣片山皋月周二表示</a>，贝森特对日本当局的日元干预政策\"充分理解\"，而野村此前提醒，日本国债市场的稳定性，才是贝森特此行真正的风险管控要务。</p>\n<p style=\"text-align: left;\">据追风交易台，野村证券策略师Naka Matsuzawa在5月12日周二发布的前瞻研究报告中分析，贝森特此行主要着眼于日本债券与日元市场的过度波动向全球金融市场蔓延的风险。</p>\n<p style=\"text-align: left;\">Matsuzawa认为贝森特把维护日本国债稳定置于抑制日元贬值之上。当前10年期日本国债收益率已迅速突破2.50%——即日本央行估计的中性利率区间上限——政策失误的风险正在上升。</p>\n<p style=\"text-align: left;\">上述判断对市场具有直接影响：若日本国债市场持续动荡，此前受高收益率（收益率曲线陡峭",
+      "link": "https://wallstreetcn.com/articles/3772150",
+      "published": "Wed, 13 May 2026 05:54:05 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -458,13 +528,6 @@
       "summary": "<figure><img alt=\"陆挺：沃什时代美联储改革及对中美竞争影响\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/532aa76a0a1f686b3cbd4c3930edf960.jpg\" /></figure><p>其核心观点是通过提升美国自身生产力、巩固美元主导地位，在全球竞争中压制中国崛起对美国的挑战。\n</p><p>本周全球金融市场高度关注美联储主席职位的更迭。凯文·沃什大概率在5月15日前正式接任，执掌全球最具影响力的央行。</p>\n\n<p>与以往单纯的人事更迭不同，沃什上任承载着更深刻的制度变革意涵。在人工智能快速渗透、全球经济结构重塑且中美竞争日趋激烈的背景下，美联储的基本货币政策理念、职能边界以及经济稳定的核心定义，或将迎来较为系统性的重构，这与美联储过去十余年“危机应对型”的政策取向将会形成鲜明的对比。</p>\n\n<p>而这一朝向新范式的改革，也是沃什对华战略竞争观的重要支撑，其核心是通过提升美国自身生产力、巩固美元主导地位，在全球竞争中压制中国崛起对美国的挑战。</p>\n\n<p><strong>沃",
       "link": "https://www.yicai.com/news/103179470.html",
       "published": "Wed, 13 May 2026 04:22:39 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "午评：创业板指涨0.3%，电力板块强势，算力概念等活跃 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lckprQ2g2UGNSb0NDLWNEOTY5aGJFQVMxZXJXTHVYYTlnV2RSMV81QUVselVGWWd0alhwRl95TWhjcHVRR0FrdW5SRmpzMURpaFlHcVBMRi1ZOElv?oc=5\" target=\"_blank\">午评：创业板指涨0.3%，电力板块强势，算力概念等活跃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lckprQ2g2UGNSb0NDLWNEOTY5aGJFQVMxZXJXTHVYYTlnV2RSMV81QUVselVGWWd0alhwRl95TWhjcHVRR0FrdW5SRmpzMURpaFlHcVBMRi1ZOElv?oc=5",
-      "published": "Wed, 13 May 2026 04:02:00 GMT"
     },
     {
       "source": "行业研报",
