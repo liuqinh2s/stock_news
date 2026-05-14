@@ -3,90 +3,93 @@
   "hour": "04",
   "news": [
     {
-      "title": "基辅遭空袭，地缘风险升温",
-      "summary": "乌克兰首都基辅遭遇空袭，死亡人数增至12人。俄乌冲突持续升级，地缘政治风险加剧，可能引发全球避险情绪，短期对A股形成情绪压制，尤其对军工、黄金等避险资产有利。但A股独立性较强，影响偏短期，力度有限。",
-      "reason": "地缘政治事件影响市场情绪，通常引发短期波动。",
-      "category": "市场情绪",
+      "title": "应用材料财报超预期",
+      "summary": "美国应用材料公司发布第二财季财报，净销售额79.1亿美元，高于市场预期。作为全球半导体设备龙头，其业绩超预期反映出半导体行业需求旺盛，对A股半导体产业链（设备、材料）构成正面催化。短期内利好半导体板块，建议关注北方华创、中微公司等。信号：看多。",
+      "reason": "半导体设备龙头财报超预期，行业景气上行，直接利好A股映射板块。",
+      "category": "行业动态",
       "impact_stocks": [
-        "军工",
-        "黄金"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260515/c676704830.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371804?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "欧央行警示加息可能",
-      "summary": "欧洲央行管委Stournaras表示，若油价持续高企，欧央行可能不得不加息。欧央行若收紧货币政策，将推升全球利率水平，对新兴市场包括A股形成资金外流压力，利空银行、地产等利率敏感板块，同时压制风险偏好。需关注后续油价走势。",
-      "reason": "海外主要央行政策转向信号，影响全球流动性预期。",
-      "category": "货币政策",
-      "impact_stocks": [
-        "银行",
-        "地产",
-        "沪深300"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260515/c676704828.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371803?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美货币市场资产新高",
-      "summary": "据美国投资公司协会，美国货币市场资产达到7.749万亿美元，创历史新高。显示全球流动性仍然充裕，资金寻求避险资产，但对A股影响有限。若资金从货币市场流出可能利好风险资产，但短期内外资配置A股意愿或保持稳定。中性偏多。",
-      "reason": "全球流动性指标反映资金状况，间接影响外资行为。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371806?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "外资机构看多中国资产",
-      "summary": "上海证券报报道，盈利复苏提振吸引力，外资机构看多中国资产。多家外资行上调中国股票评级，认为A股估值合理、经济复苏确定性强。此消息为正面信号，有利于吸引北向资金流入，提振市场信心，尤其对沪深300、上证50等蓝筹板块形成支撑。",
-      "reason": "外资态度直接影响北向资金流向，是市场风向标之一。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "上证50"
+        "半导体设备",
+        "北方华创",
+        "中微公司"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "上海证券报",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ScEFSOHd5bnljWGNiM0NFeEpQX28wM3JQamxneXhNVkxJTnhPVTRabHdfSEtibnlkd2w1WU1xNm9JSVMzMUczWUUxRS0wYVZJS2dkYnZ5YXl4bWIwSVE0dkpsUW9aREhFeWUtRGF3?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260515/c676704896.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371810?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "中概股指数收跌1.17%",
+      "summary": "利弗莫尔中概股龙头指数收盘下跌1.17%，主要受科技股及市场情绪拖累。中概股走弱可能通过情绪传导压制A股开盘表现，尤其是同板块的互联网、科技龙头。短期内偏空，但需观察后续是否企稳。信号：看空。",
+      "reason": "中概股与A股联动性强，下跌预示外资可能减持，对A股开盘构成压力。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "互联网",
+        "中概互联ETF",
+        "腾讯控股"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371809?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "OpenAI推出Codex预览版",
+      "summary": "OpenAI宣布ChatGPT移动应用中的Codex功能预览版向所有套餐用户推出，支持代码生成。此动作加速AI编程工具普及，利好A股AI应用及软件板块，如金山办公、科大讯飞等。信号：看多。",
+      "reason": "AI重磅产品上线，提升市场对AI应用落地预期，相关概念股有望受益。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI应用",
+        "金山办公",
+        "科大讯飞"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260515/c676704901.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371812?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美企业家看好中国经济",
+      "summary": "据华尔街见闻报道，多位美国企业家对中国经济充满期待，希望加强对华合作。该消息反映外资对华信心，有助于稳定市场情绪，但缺乏具体政策或资金落地，影响有限。信号：中性偏多。",
+      "reason": "外资信心改善对A股有潜在积极影响，但信息较空泛，短期驱动不足。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "外资重仓股"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772305"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 25,
-  "generated_at": "2026-05-15T04:01:05.431242+08:00"
+  "total_fetched": 28,
+  "generated_at": "2026-05-15T04:23:00.822052+08:00"
 }
