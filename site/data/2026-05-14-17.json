@@ -3,37 +3,78 @@
   "hour": "17",
   "news": [
     {
-      "title": "华虹公司净利暴增513%",
-      "summary": "华虹公司（688347）发布一季报，净利润同比增长513%，主要因平均销售价格及付运晶圆数量上升，毛利增加。作为国内半导体代工龙头，业绩超预期将提振半导体板块信心，利好华虹公司及晶圆代工、芯片设计等产业链相关个股。信号为看多，预计短期股价有正向反应。",
-      "reason": "公司重大业绩超预期，直接影响估值，属于优先级二，对半导体板块有中等级别利好。",
-      "category": "公司公告",
+      "title": "央行开展3000亿逆回购",
+      "summary": "中国人民银行宣布将于5月15日开展3000亿元买断式逆回购操作，期限6个月。此举旨在维护银行体系流动性合理充裕，属于央行常规流动性投放工具，但规模较大，释放了货币政策维持宽松的信号。直接影响银行间资金利率，利好银行板块及整体市场流动性预期，对A股构成短期看多信号。",
+      "reason": "央行逆回购操作直接影响流动性，属于货币政策重大操作，优先级一。",
+      "category": "货币政策",
       "impact_stocks": [
-        "华虹公司",
-        "半导体",
-        "晶圆代工"
+        "银行",
+        "沪深300"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 5,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371352?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2371383?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "六机构抛售佛塑科技2.78亿",
-      "summary": "龙虎榜显示，佛塑科技（000973）跌停，6家机构席位合计净卖出2.78亿元。机构大规模出逃信号明显，可能因公司基本面变化或行业政策压力，对特高压、电网设备板块形成利空情绪。通常机构集中抛售预示短期调整，需警惕相关个股跟跌。",
-      "reason": "机构资金流向异动，属于优先级一，直接影响个股及板块，是重要卖出信号。",
+      "title": "4月社融增量同比少增",
+      "summary": "央行公布4月金融数据：前四个月社会融资规模增量累计15.45万亿元，比上年同期少8930亿元；4月末M2同比增长8.6%；前四个月人民币贷款增加8.59万亿元。社融同比少增显示实体经济融资需求偏弱，可能反映经济复苏节奏放缓，对宏观经济预期形成压制，对A股整体偏空。但M2增速仍处高位，流动性并非收紧。",
+      "reason": "宏观核心数据，影响市场对经济基本面的判断，优先级二。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "上证50"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371378?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772278"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "华虹半导体Q1净利暴增",
+      "summary": "华虹半导体2026年第一季度营收同比增长22.2%，归母净利润同比暴增513%。业绩大幅超预期，主要受益于半导体行业景气度回升及产能利用率提升。该消息对A股半导体板块尤其是晶圆代工、设备材料等子行业形成正向催化，有望带动相关个股走强。",
+      "reason": "公司重大业绩预告，且属于半导体行业关键企业，影响板块情绪，优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "华虹半导体",
+        "中芯国际"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772276"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "龙虎榜佛塑科技机构出逃",
+      "summary": "佛塑科技今日跌停，龙虎榜数据显示六家机构席位合计净卖出2.78亿元。机构集中抛售表明对股价后市悲观，可能因基本面恶化或前期涨幅过大。该股短期面临较大回调压力，同时需警惕同板块其他高位股跟跌风险。",
+      "reason": "龙虎榜异动，机构大额卖出，属于资金流向重要信号，优先级三。",
       "category": "资金流向",
       "impact_stocks": [
         "佛塑科技",
-        "特高压",
-        "电网设备"
+        "化工"
       ],
       "signal": "bearish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
@@ -43,17 +84,83 @@
       "urgency": "hours"
     },
     {
-      "title": "中研股份12亿投建PEEK项目",
-      "summary": "中研股份（688716）公告拟投资约12亿元建设PEEK材料及原料一体化项目，扩大产能。PEEK是特种工程塑料，广泛应用于航空航天、新能源汽车及人形机器人等高端领域。该投资显示公司对行业前景乐观，有望巩固其龙头地位，利好PEEK产业链相关公司，如中研股份、金发科技等。",
-      "reason": "公司重大投资扩产，属于优先级二，对PEEK板块有直接催化作用。",
-      "category": "公司公告",
+      "title": "腾讯开源Agent Memory",
+      "summary": "腾讯宣布开源Agent Memory技术，据称最高可降低61%的Token消耗。此举有助于降低AI应用开发成本，推动智能体生态发展，利好AI应用及算力产业链。A股相关概念如AI应用、算力租赁、大模型等板块有望受益。",
+      "reason": "行业重要技术进展，影响AI产业链，优先级二。",
+      "category": "行业动态",
       "impact_stocks": [
-        "中研股份",
-        "PEEK概念",
-        "新材料"
+        "AI概念",
+        "算力",
+        "腾讯控股"
       ],
       "signal": "bullish",
       "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260514/c676695264.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371412?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "高盛看多商品大时代",
+      "summary": "高盛发布报告认为，当股债不能提供有效对冲时，大宗商品将迎来结构性牛市。该观点可能引导机构资金增配商品相关资产，利好A股有色、煤炭、石油等周期板块。但需注意大宗商品价格已处高位，短期波动可能加大。",
+      "reason": "顶级机构观点，影响资金配置方向，优先级二。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "有色金属",
+        "煤炭",
+        "石油"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/charts/41959069"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "沪上药店收紧减肥药销售",
+      "summary": "据报道，自5月15日起，上海零售药店销售减肥药（如司美格鲁肽等）将要求提供医院纸质处方，政策明显收紧。此举可能抑制减肥药短期销量，对相关医药概念股构成利空。但长期看规范市场有利于合规企业。",
+      "reason": "行业政策变动，直接影响减肥药概念，优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "减肥药",
+        "医药"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371361?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3103584"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "中研股份12亿投建PEEK项目",
+      "summary": "中研股份公告拟投资约12亿元建设PEEK材料及原料一体化项目。PEEK是高端特种工程塑料，广泛应用于航空航天、电子半导体等领域。该项目彰显公司扩产信心，利好PEEK材料概念股，但项目周期较长，短期业绩贡献有限。",
+      "reason": "公司重大投资公告，涉及新材料热点概念，优先级二。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "中研股份",
+        "PEEK材料"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
@@ -63,86 +170,25 @@
       "urgency": "days"
     },
     {
-      "title": "减肥药销售政策收紧",
-      "summary": "自明天（5月15日）起，上海零售药店销售减肥药将要求提供医院纸质处方，政策收紧将限制非正规渠道销售，对减肥药概念股（如常山药业、翰宇药业、诺泰生物等）构成利空。短期可能压制板块情绪，但长期利好合规龙头企业。需关注后续各地是否跟进。",
-      "reason": "行业监管政策变化，属于优先级二，直接影响减肥药板块，是利空信号。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "减肥药",
-        "常山药业",
-        "翰宇药业"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3103584"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "人民币升值43点报6.7862",
-      "summary": "在岸人民币兑美元收盘报6.7862，较上一交易日上涨43个基点。人民币升值有利于吸引外资流入A股，降低输入性通胀压力，对航空、造纸等外债较多行业构成利好，但对出口型企业形成压力。整体看，汇率走强是积极信号，有助于市场稳定。",
-      "reason": "汇率波动影响资本流动和市场预期，属于优先级二，对大盘有间接利好。",
-      "category": "宏观经济",
+      "title": "商务部：愿拉长中美合作清单",
+      "summary": "商务部新闻发言人就中美经贸关系表态，中方愿同美方不断拉长合作清单。在两国元首会谈背景下，这一表态释放积极信号，有助于稳定市场对中美关系的预期，利好A股整体风险偏好。",
+      "reason": "监管政策级信号，影响市场情绪，优先级一。",
+      "category": "监管政策",
       "impact_stocks": [
         "沪深300",
-        "航空",
-        "造纸"
+        "外贸"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371327?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "英伟达盘前涨超2%",
-      "summary": "英伟达美股盘前上涨逾2%，市场对AI算力需求持续乐观，或受此前三星罢工减产等供给端消息刺激。英伟达作为AI芯片龙头，其股价强势将传导至A股AI板块，利好CPO、算力租赁、光模块等概念股。但需注意追高风险。",
-      "reason": "海外科技龙头走势影响A股情绪，属于优先级二，是短多信号。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "AI概念",
-        "CPO",
-        "算力租赁"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371303?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "甘李药业胰岛素获欧盟上市许可",
-      "summary": "甘李药业（603087）公告，赖脯胰岛素注射液获得欧盟委员会上市许可，标志着公司国际化进程取得重要突破。该产品为胰岛素类似物，市场空间广阔，有望增厚公司业绩。利好甘李药业及国内糖尿病用药板块，同时提振创新药出海信心。",
-      "reason": "公司重大产品进展，属于优先级二，直接利好个股及医药板块。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "甘李药业",
-        "胰岛素",
-        "创新药"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371307?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103182252.html"
         }
       ],
       "urgency": "hours"
     }
   ],
   "total_fetched": 79,
-  "generated_at": "2026-05-14T17:02:00.761588+08:00"
+  "generated_at": "2026-05-14T17:27:08.759038+08:00"
 }
