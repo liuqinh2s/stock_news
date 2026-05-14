@@ -3,87 +3,111 @@
   "hour": "21",
   "news": [
     {
-      "title": "*ST瑞和重整投资9.51亿",
-      "summary": "*ST瑞和公告重整投资人深圳市槟城电子股份有限公司投资约9.51亿元，参与重整。本次重整有望改善公司财务状况，若成功实施将消除退市风险，对ST板块及重整概念股形成正面提振。信号看多，但需关注后续重整进展及审批风险。",
-      "reason": "公司重大重整进展，涉及大额投资，影响ST板块情绪，符合优先级二公司事件。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "*ST瑞和",
-        "ST板块"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260514/c676701802.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "鸿海资本支出增30%加码CPO",
-      "summary": "鸿海法说会透露2026年资本支出计划增加30%，CPO交换机全年出货预计10000台。鸿海作为全球电子代工龙头，其加码投资表明AI算力及CPO技术路线确定性增强。对A股光模块（CPO）、AI算力产业链形成正面催化，相关标的有望受益。信号看多。",
-      "reason": "产业趋势信号明确，影响光通信、AI算力板块，符合优先级二行业动态。",
+      "title": "鸿海资本支出增30%",
+      "summary": "鸿海精密在法说会上宣布计划2026年资本支出增加30%，并预计CPO交换机全年出货10000台。此举显示AI服务器及光通信需求强劲，产业链景气度提升。利好A股光模块、CPO、服务器等板块，如中际旭创、天孚通信等。看多信号。",
+      "reason": "AI产业链资本开支大幅增长，直接利好相关供应商，属于行业动态且影响较大。",
       "category": "行业动态",
       "impact_stocks": [
         "光模块",
-        "CPO概念",
-        "AI算力"
+        "CPO",
+        "AI服务器",
+        "中际旭创",
+        "天孚通信"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
           "name": "华尔街见闻",
           "url": "https://wallstreetcn.com/articles/3772293"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "美国零售及初请数据公布",
-      "summary": "美国4月零售销售环比增长0.5%，符合预期；但初请失业金人数21.1万高于预期20.5万，显示劳动力市场边际放缓。数据公布后美债上涨，短期缓解紧缩预期，对全球风险资产偏正面，但影响有限。对A股中性偏多，关注后续通胀数据。",
-      "reason": "海外经济数据影响市场预期，符合优先级二海外联动，但影响温和。",
-      "category": "宏观经济",
+      "title": "POET获5000万美元订单",
+      "summary": "美股AI光互联龙头POET宣布斩获5000万美元采购合同，盘前股价飙升逾20%。该订单进一步确认光引擎需求爆发，有望带动A股光模块、硅光子产业链受益。相关个股如新易盛、源杰科技等。看多信号。",
+      "reason": "光互联订单超预期，是AI算力需求的结构性拐点，直接影响A股光通信板块。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "美股映射"
+        "光模块",
+        "硅光子",
+        "新易盛",
+        "源杰科技"
       ],
-      "signal": "neutral",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371649"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371648"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772291"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "创世纪子公司赔偿3.82亿元",
-      "summary": "创世纪公告全资子公司涉及技术秘密纠纷案二审判决，赔偿北京精雕3.82亿元。巨额赔偿将拖累公司当期业绩，对股价构成利空。可能影响工业母机、精密制造板块情绪，但属个股事件。信号看空。",
-      "reason": "公司重大诉讼不利判决，财务影响大，符合优先级二公司事件。",
-      "category": "公司公告",
+      "title": "Cerebras 400亿美元IPO",
+      "summary": "AI芯片新星Cerebras即将以400亿美元估值IPO，被视为英伟达潜在颠覆者。该事件可能提振全球AI投资情绪，对A股AI芯片、算力板块形成映射，利好寒武纪、海光信息等。看多信号。",
+      "reason": "AI芯片重磅IPO，凸显行业景气，市场情绪可能传导至A股。",
+      "category": "行业动态",
       "impact_stocks": [
-        "创世纪",
-        "工业母机"
+        "AI芯片",
+        "算力",
+        "寒武纪",
+        "海光信息"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3771594"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "食品价格指数连续三月上涨",
+      "summary": "联合国粮农组织数据显示食品价格指数连续三个月上涨，全球粮食通胀压力增大。可能推高国内CPI预期，影响货币政策空间，但短期对农业股形成利好。中性偏空信号，需关注政策应对。",
+      "reason": "通胀数据上行，可能引发市场对货币政策收紧的担忧，但利好农业板块。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "农业",
+        "食品饮料",
+        "CPI相关"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371635"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103182732.html"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
+    },
+    {
+      "title": "电池产业外资加码中国",
+      "summary": "多家外企宣布加码中国电池产业，包括扩产和投资，显示中国新能源产业链全球吸引力不减。利好锂电池、钠电池等板块，宁德时代、亿纬锂能等受益。看多信号。",
+      "reason": "外资持续布局显示行业高景气，对新能源板块形成正面催化。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "锂电池",
+        "新能源车",
+        "宁德时代",
+        "亿纬锂能"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103182834.html"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 101,
-  "generated_at": "2026-05-14T21:01:30.549227+08:00"
+  "total_fetched": 96,
+  "generated_at": "2026-05-14T21:29:05.430035+08:00"
 }
