@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-14",
+  "hour": "23",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 20333,
+    "completion_tokens": 2334,
+    "total_tokens": 22667
+  },
+  "content_length": 1530,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美企对华合作期待增强\",\n      \"summary\": \"华尔街见闻报道，美企业家对中国经济充满期待，希望加强对华合作。近期中美高层互动频繁，习近平为特朗普举行欢迎宴会，释放积极信号。可能提振外资信心，利好沪深300及外贸相关行业。信号偏多，但缺乏具体政策落地。\",\n      \"reason\": \"中美关系缓和信号，影响市场情绪，但无实质政策，评级偏多。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"外贸\", \"中概股\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/livenews/3103801\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"小米比亚迪相继调价\",\n      \"summary\": \"话题冲上百度热搜，小米、比亚迪近期调整产品价格，反映新能源汽车市场竞争加剧。价格战可能压缩车企利润，对新能源车板块形成利空。同时可能加速行业出清，龙头份额提升。短期看空整车企业盈利预期。\",\n      \"reason\": \"汽车行业价格变动直接影响盈利能力，市场关注度高，评级看空。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"比亚迪\", \"小米集团\", \"新能源车\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/livenews/3103766\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"未来产业加速推进\",\n      \"summary\": \"第一财经报道，未来产业加速推进，热门赛道迎来落地兑现期。涉及人工智能、量子信息、生物技术等前沿领域。政策支持力度加大，可能提振相关题材股。但无具体细则，信号中性偏多。\",\n      \"reason\": \"产业政策方向明确，但缺乏量化利好，属中期题材催化。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"量子通信\", \"生物医药\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103182946.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"今日多数重要消息已在历史中重复，筛选出3条相对新且有交易价值的信息。\"\n}"
+}
