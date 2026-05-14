@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-15",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9693,
+    "completion_tokens": 3022,
+    "total_tokens": 12715
+  },
+  "content_length": 2314,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"海底数据中心落地\",\n      \"summary\": \"中国算力基建开辟海上赛道，全球首个海底数据中心实现淡水零消耗，该技术可降低能耗，提升算力效率。可能利好A股海底数据中心、算力基建相关概念股，如海兰信、中科曙光等。属于行业动态，看多信号。\",\n      \"reason\": \"新基建方向，政策扶持预期，对算力板块有直接催化。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"海底数据中心\", \"算力基建\", \"海兰信\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260515/c676704929.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2371818?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"现货白银大跌5%\",\n      \"summary\": \"现货白银日内大跌5%，跌破84美元/盎司，创近期新低。受美元走强及工业需求疲软影响，可能拖累A股白银有色、盛达资源等白银矿业股。属于市场情绪利空，看空信号。\",\n      \"reason\": \"白银价格大幅波动直接影响相关上市公司业绩预期。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"白银板块\", \"盛达资源\", \"兴业矿业\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260515/c676704917.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2371816?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"特朗普买入英伟达苹果\",\n      \"summary\": \"美国联邦财务信披显示，特朗普大额买入英伟达和苹果股票，同时抛售微软、亚马逊、Meta。此举可能提振美股科技股情绪，进而传导至A股苹果产业链（立讯精密、歌尔股份）和英伟达概念（中际旭创、胜宏科技）。中性偏多信号。\",\n      \"reason\": \"特朗普作为重要政治人物，其持仓变动具有市场风向标意义，可能带动相关板块短期热度。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"苹果产业链\", \"英伟达概念\", \"立讯精密\", \"中际旭创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3103897\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"SpaceX IPO最快下周\",\n      \"summary\": \"SpaceX IPO招股说明书最快可能于下周发布，市场关注度提升。虽对A股直接冲击有限，但可能催化商业航天概念，如中国卫星、航天电子等。中性偏多信号。\",\n      \"reason\": \"SpaceX作为全球商业航天龙头，其IPO进展将提振航天板块估值情绪。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"商业航天\", \"中国卫星\", \"航天电子\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260515/c676704918.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2371817?os=web&sv=8.4.6&app=CailianpressWeb\"},\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3103896\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
