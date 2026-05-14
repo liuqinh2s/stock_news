@@ -3,21 +3,86 @@
   "hour": "14",
   "news": [
     {
-      "title": "中美元首会谈达成战略稳定关系",
-      "summary": "2026年5月14日，国家主席习近平与美国总统特朗普在北京人民大会堂举行会谈，双方同意构建‘中美建设性战略稳定关系’。会谈超2小时15分钟，习近平会见随行的美国企业家，特朗普表示‘世界上最顶级的企业都想来中国’。此举缓解了市场对中美贸易摩擦升级的担忧，提振全球风险偏好。利好A股整体情绪，尤其利好出口导向型板块及科技股。看多信号。",
-      "reason": "中美关系是影响A股长期走势的关键外部变量，会谈成果超预期，直接提升市场信心。事件级别极高，影响全局。",
-      "category": "宏观经济",
+      "title": "A股交易规则7月大修订",
+      "summary": "据新浪财经报道，A股交易规则将于7月6日正式落地修订，涉及涨跌幅限制、交易机制等。该修订直接利好券商和量化交易类资产，提升市场流动性。短期可能刺激券商板块活跃，但长期影响需观察。看多信号。",
+      "reason": "监管规则重大调整，直接影响交易机制和券商业务，属于优先级一。",
+      "category": "监管政策",
       "impact_stocks": [
+        "券商",
         "沪深300",
-        "科技股",
-        "出口板块"
+        "量化概念"
       ],
       "signal": "bullish",
-      "impact_level": 5,
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGdjNjhqUUVHNllibkpoUUJSYjdQbC1QNC1fTnpSWDhvT2hjUm1QcnZOSEV0aFNsaTJVTHN3dGRWSDI3UGJBcEg5STZZandEWUtJYTFuR3RkSkplMExPMmpZV1NxUnp2ZXBfQzJYeVlvbHRvTGVKU0VPT1RSQU51bkh3a08"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "沪深成交额突破2.5万亿",
+      "summary": "截至5月14日午后，沪深两市成交额突破2.5万亿元，较前一日放量超2000亿元。成交量放大表明市场情绪活跃，增量资金入场，但需警惕放量滞涨。对券商和科技板块形成支撑。看多信号。",
+      "reason": "成交额极值属市场情绪信号，优先级三，但放量明显，反映资金活跃。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "券商",
+        "科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371095?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2371077"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "三星降低芯片产量防罢工",
+      "summary": "三星电子从周四开始降低芯片产量，以应对可能发生的工会罢工。三星是全球存储芯片巨头，减产可能推升NAND/DRAM价格，利好国内存储芯片厂商如兆易创新、长鑫存储等。看多信号。",
+      "reason": "行业供给收缩，影响半导体产业链，属于行业动态，优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "存储芯片",
+        "半导体",
+        "兆易创新"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260514/c676686845.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371101"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "中美元首会谈超2小时",
+      "summary": "国家主席习近平与美国总统特朗普在北京举行会谈，双方同意构建“中美建设性战略稳定关系”。会谈时长超2小时15分钟，市场解读为关系缓和信号。利好外贸、跨境电商、新能源等板块。看多信号。",
+      "reason": "顶级外交事件影响市场预期，属于宏观经济和地缘政治，优先级二。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "外贸",
+        "跨境电商",
+        "新能源",
+        "沪深300"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371091"
         },
         {
           "name": "华尔街见闻",
@@ -27,51 +92,78 @@
       "urgency": "immediate"
     },
     {
-      "title": "A股高开低走沪指失守4200点",
-      "summary": "5月14日A股早盘高开后持续回落，三大指数集体收跌，沪指跌1.02%失守4200点，创业板指跌1.93%，全市场超4300只个股下跌。化工板块逆势活跃，多股涨停，芯片股走弱。放量下跌显示市场抛压较重，短期情绪偏空。利好化工、猪肉等防御性板块，利空科技成长股。看空信号。",
-      "reason": "指数破位下跌结合个股普跌，是明显的弱势信号，需警惕进一步调整风险。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "沪深300",
-        "创业板指",
-        "化工板块",
-        "芯片板块"
-      ],
-      "signal": "bearish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtVm1QdG1aTW9mb0dwaTkyclB3YWRnb3RVc2NxRFJWZkkyZVFMUk0zbkJ1eUx0ZkY5UEZuTjhPZlZVSVBEbHl3Q2xzTzdkdXMxZmxhbmc1Z3VQWWZCQWdtMG1pNVRvZzZ3UnNSUkZTSkdaRFNLRnc?oc=5"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "日本30年期国债收益率创27年新高",
-      "summary": "5月14日，日本30年期国债收益率升至3.885%，创1999年以来最高水平。作为全球低成本资金的代表，日债收益率上行可能引发全球债券收益率走高，进而对风险资产估值构成压力。对A股影响偏负面，尤其对高估值成长股。看空信号。",
-      "reason": "全球利率上行是系统性风险因素，日债利率创新高加剧外资流出新兴市场预期。",
+      "title": "日本30年国债收益率创新高",
+      "summary": "日本30年期国债收益率升至3.915%，创1999年以来最高水平。日本是全球主要债权国，收益率飙升可能引发全球资金回流日本，对新兴市场包括A股形成资金流出压力。偏空信号。",
+      "reason": "海外利率变动影响全球资金流向，属于宏观经济联动，优先级二。",
       "category": "宏观经济",
       "impact_stocks": [
-        "成长股",
-        "创业板指",
-        "科技板块"
+        "沪深300",
+        "外资重仓股"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371108"
+        },
+        {
           "name": "华尔街见闻",
           "url": "https://wallstreetcn.com/livenews/3103445"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "英伟达夜盘拉升涨超2%",
+      "summary": "英伟达美股夜盘短线拉升，涨幅扩大至2%。英伟达是AI算力龙头，其股价上涨将提振A股AI概念股（CPO、算力租赁等）。看多信号。",
+      "reason": "海外科技股联动影响A股情绪和板块，属于市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "AI概念",
+        "CPO",
+        "算力租赁",
+        "中际旭创"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2371103"
+        },
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260514/c676686813.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "白酒板块直线拉升皇台涨停",
+      "summary": "午后白酒板块直线拉升，皇台酒业涨停。消费板块轮动迹象，但需观察持续性。可能为资金避险流入消费蓝筹。中性偏多信号。",
+      "reason": "板块轮动信号，属市场情绪，但影响有限。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "白酒",
+        "消费",
+        "皇台酒业"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260514/c676686465.shtml"
         },
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371108?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2371082"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 69,
-  "generated_at": "2026-05-14T14:01:23.908249+08:00"
+  "total_fetched": 80,
+  "generated_at": "2026-05-14T14:14:50.302227+08:00"
 }
