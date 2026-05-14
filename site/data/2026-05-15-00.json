@@ -3,35 +3,17 @@
   "hour": "00",
   "news": [
     {
-      "title": "欧洲股指集体上涨",
-      "summary": "欧洲主要股指收盘集体上涨，提升全球风险偏好。可能通过外资情绪传导至A股，短期偏多，但影响有限。板块上利好沪深300等权重股。",
-      "reason": "欧洲股市上涨反映全球市场情绪好转，对A股有正面情绪传导，属于市场情绪信号。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "沪深300",
-        "上证50"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260514/c676704374.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
       "title": "一批上市公司将告别A股",
-      "summary": "报道称一批上市公司面临退市风险，可能加大市场对问题股的担忧，短期情绪偏空。但未列出具体名单，影响有限。需关注后续退市进展。",
-      "reason": "退市消息增加市场对ST股及绩差股的回避情绪，属于市场结构信号，可能引发中小盘股抛压。",
-      "category": "市场结构",
+      "summary": "据媒体报道，多家上市公司因面值退市、财务问题等原因面临退市，涉及ST板块和微利股。该消息可能加剧市场对中小盘股的避险情绪，短空ST板块及类似风险个股。属于监管退市常态化信号，偏负面。",
+      "reason": "退市消息影响市场情绪，尤其ST股可能有集中退市风险，属于监管政策。",
+      "category": "监管政策",
       "impact_stocks": [
         "ST板块",
-        "小盘股"
+        "微利股",
+        "小市值股票"
       ],
       "signal": "bearish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
           "name": "新浪财经",
@@ -41,65 +23,60 @@
       "urgency": "hours"
     },
     {
-      "title": "Anthropic与盖茨基金会合作",
-      "summary": "Anthropic公司与盖茨基金会达成2亿美元合作伙伴关系，推动AI安全与发展。利好全球AI产业，A股AI概念股可能受情绪提振，但无直接订单影响。",
-      "reason": "AI领域头部公司合作反映行业高景气，对A股AI概念有情绪催化作用，属于行业动态。",
+      "title": "可立克接受多家机构调研",
+      "summary": "可立克于5月12日接受国信证券、华西证券等机构调研，关注公司业务进展。机构调研通常被视为积极信号，表明公司有潜在看点，对个股偏多。",
+      "reason": "机构调研增加市场关注度，偏利好。",
       "category": "行业动态",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "人工智能"
+        "可立克"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371739?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ld3U2VWU3T3RidVlpRnBhR08xUW1BYVE2VjMtLWRyaWdIeVI1ZjI3eWhHMlR4ZjdYZEI3UmNudEVtd3RPN1BycFhicURCTUpDQnBQZ0tlNTV6ZnJZWEE?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "晶赛科技推进光模块客户",
-      "summary": "晶赛科技表示正积极推进光模块领域相关客户开拓。公司主营石英晶体元器件，光模块需求增长有望带动业绩，个股利好，同时验证光通信产业链高景气。",
-      "reason": "个股公告反映光模块产业链景气度，对光通信板块有正面带动，属于公司公告。",
-      "category": "公司公告",
+      "title": "华勤技术获中邮证券买入评级",
+      "summary": "中邮证券给予华勤技术买入评级，看好公司发展。机构首次覆盖或评级上调对个股有提振作用，偏多。",
+      "reason": "券商首次覆盖或评级上调对个股构成利好。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "晶赛科技",
-        "光模块",
-        "光通信"
+        "华勤技术"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aZmJOTTZVU2hFeHhOb1VpOHNsc3lsSnFBajFzQk93VGphMnRyTWtHUU5LM0l2c3NKN0szblA4a3VsUkkyQW9NUXQyNTkzczZQSVVEV0N3cmJJUWdWc2c?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "和顺科技进行路演活动",
+      "summary": "和顺科技5月12日进行路演，参与机构包括中信建投、国海证券等。路演活动有助于公司展示价值，吸引机构关注，偏多信号，但影响较小。",
+      "reason": "路演活动通常用于与机构投资者沟通，有助于市场认知。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "和顺科技"
       ],
       "signal": "bullish",
       "impact_level": 1,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2371749?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EazU5Mlc5M1lDRjMtOEFMdXlRNTVaVDY0V2h4OEFKMkNZOXl2QlR1YmtSUlU1dFlvbGpndDF0TW5zdDRlWll2T0hhNFdPMDEtSW5hMmtsWFBzZGcxc3c?oc=5"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "机构解读A股调整建议灵活",
-      "summary": "多家机构解读近日A股调整，认为市场将回归理性，建议持仓保持灵活。当前市场急跌后做多逻辑未变，机构观点偏中性，但提示短期波动。",
-      "reason": "机构观点反映市场共识，对投资者情绪有引导作用，属于市场情绪信号，但无实质利好利空。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "沪深300",
-        "创业板"
-      ],
-      "signal": "neutral",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41UXhiTmFRZUw1UThTck9MVEZjY2JVelluanFRRy1aQVROY2JQazVxRzR4RzZIZUVOTmJUZmE5ajQtV1drckNmUFp4SHYxbUFrRlRrT1FCcTA3dDBDTUlBbXptdkl5V2JiSHY2UVYzclBzbEx2emc?oc=5"
-        }
-      ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 56,
-  "generated_at": "2026-05-15T00:02:13.004411+08:00"
+  "total_fetched": 26,
+  "generated_at": "2026-05-15T00:05:24.455424+08:00"
 }
