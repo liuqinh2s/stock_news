@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-15",
+  "hour": "22",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 17344,
+    "completion_tokens": 4731,
+    "total_tokens": 22075
+  },
+  "content_length": 2234,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"特种光纤价格暴涨10倍\",\n      \"summary\": \"财联社报道，特种光纤价格暴涨10倍仍供不应求，国产光纤光模块卖爆全球。光通信产业链供需紧张加剧，利好国内光纤光缆及光模块厂商，如中际旭创、长飞光纤等。这是行业景气度提升的明确信号，看多光通信板块。\",\n      \"reason\": \"行业重磅利好，影响光通信板块，符合优先级二行业政策变动。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光通信\", \"中际旭创\", \"长飞光纤\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2372908\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"中概股指数跌幅扩大至3%\",\n      \"summary\": \"利弗莫尔中概股龙头指数跌幅扩大至3%，显示海外中概股承压。这可能通过情绪和资金面传导至A股，尤其是港股和科技板块。外围风险资产下挫，短期看空A股市场情绪。\",\n      \"reason\": \"市场情绪信号，影响市场情绪和外资流向。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"恒生科技\", \"中概互联\", \"创业板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2372913\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"商务部长会见维萨CEO\",\n      \"summary\": \"商务部部长王文涛会见美国维萨公司首席执行官麦凯恩，展现中美经贸沟通延续。虽无直接政策，但有利于缓和市场对脱钩的担忧，对金融科技、跨境支付板块有正面情绪提振。\",\n      \"reason\": \"宏观经济/外交事件，影响市场预期。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"跨境支付\", \"金融科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2372917\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"何氏眼科获11家机构调研\",\n      \"summary\": \"何氏眼科接待国金证券等11家机构调研，显示机构对眼科医疗领域的关注。可能暗示行业景气度或公司基本面变化，但短期影响有限，中性偏多。\",\n      \"reason\": \"机构调研信号，符合优先级二机构调研。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"何氏眼科\", \"眼科医疗\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zUWdCMUdLbHd6Rkx0LW00MmNreU1FLWFlcmpTQTFoaWJrVTZhUVcwdEc1cVFPdk9ubGFjVTVGZld2Z2VNQzNKMWJYZDNkSFNKcDVuM2JpaVZiSVJsajV3eHN0bw?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"比特币跌至7.9万美元下方\",\n      \"summary\": \"比特币跌破7.9万美元，全球风险资产承压。加密货币市场疲弱往往与流动性收紧预期相关，可能加剧A股投资者避险情绪，短期偏空。\",\n      \"reason\": \"市场情绪指标，影响风险偏好。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"A股整体\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2372930\"}],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
