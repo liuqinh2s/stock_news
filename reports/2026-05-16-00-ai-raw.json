@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-16",
+  "hour": "00",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 18798,
+    "completion_tokens": 3899,
+    "total_tokens": 22697
+  },
+  "content_length": 1673,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"G7讨论政府债券抛售\",\n      \"summary\": \"七国集团（G7）财政主管将讨论近期政府债券抛售现象，该现象导致部分基准证券收益率创数十年新高。这可能引发全球利率上行预期，对A股形成间接压力，尤其是高估值成长板块面临估值修正风险。信号偏空，需关注后续利率走势。\",\n      \"reason\": \"全球债市异动可能传导至A股，属于宏观风险事件。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"创业板\", \"成长股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260515/c676737484.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2372987?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"亚投行亚开行联合担保熊猫债\",\n      \"summary\": \"亚投行与亚开行首次联合担保，巴基斯坦17.5亿元熊猫债获超5倍认购。这显示国际机构对人民币债券信心增强，利好人民币资产及一带一路相关板块，可能带动银行、基建等板块情绪。偏多信号，但影响有限。\",\n      \"reason\": \"人民币国际化进展，外资流入预期利好。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"银行\", \"一带一路\", \"基建\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103185272.html\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"华源控股接待18家机构调研\",\n      \"summary\": \"华源控股（002787）接待平安证券等18家机构调研，关注公司业务进展。机构集中调研通常预示后续可能有关注或持仓变化，但公司市值较小，影响有限。中性偏多信号。\",\n      \"reason\": \"机构调研反映市场关注，但个股影响有限。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"华源控股\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiYEFVX3lxTE90X09ZNWYtQjVDQk9DRENsVUlDT2d0Wm9DdjAweXYtenYxX01oVWdmRVd5NFpIM3AyLXgwWnN0VGlaRldIWU5lWVF0YlUzR2NfdmJnaFBrbVZRdUR1bktoUg?oc=5\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"近6小时消息中，多数已出现在历史标题中，仅筛选出上述3条未重复且有交易价值的信息。\"\n}"
+}
