@@ -3,102 +3,179 @@
   "hour": "19",
   "news": [
     {
-      "title": "广东宏大拟增持雪峰科技",
-      "summary": "广东宏大公告拟以1.5亿元至3亿元资金继续增持雪峰科技股份，彰显对公司发展信心。雪峰科技为民爆行业龙头，增持行为有望提振股价，但整体影响限于个股层面。信号偏多，但需关注后续实际增持进度。",
-      "reason": "股东增持属于积极信号，且金额较大，可能带动民爆板块短期情绪。",
-      "category": "公司公告",
+      "title": "一季度银行净利润6323亿",
+      "summary": "金融监管总局公布数据显示，一季度商业银行累计实现净利润6323亿元，同比增长约?（未明确）。该数据反映银行业整体盈利保持稳定，对银行板块构成中性偏利好支撑，但需结合净息差等指标综合判断。看多信号。",
+      "reason": "宏观经济数据，直接影响银行板块预期，属于优先级二。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "雪峰科技",
-        "民爆板块"
+        "银行"
       ],
       "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkbTA0MTMwZXkxUEJUU1NBY1ZhdlBlN0JIc0tYT1N5TjlkZ1doQk5GQTJiejBwNFJZS3NjYTV0SXdtbGgtM05CU3pydEtvNUpCcnJHYVhuYXlkUmx3LUpJb2YtZ3pFNmh6VnhxSUloTWgyd0pqaGs1UA?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "东方锆业拟定增募资11.7亿",
-      "summary": "东方锆业拟向特定对象发行A股股票募资不超过11.7亿元，用于项目建设或补充流动资金。定增通常对股价形成摊薄压力，短期偏空，但需关注募投项目前景。锆业板块可能承压。",
-      "reason": "再融资公告直接影响个股估值，且金额较大，可能引发市场对融资过度的担忧。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "东方锆业",
-        "有色金属"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84aGVmaE1lNXR1aThucm52YVljX0FzS0ZzWXQzV0ZQaTdpS0l2dm8wbTRvUlpyRVFiRWVIWEtzVmktYVMxTlZOUXZ1LWMwYTROUnlZbk5SOTA5dWtQLUFsY0xLTUxEV1F6dHRmSw?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "*ST天龙可能终止上市",
-      "summary": "*ST天龙发布公告提示公司股票可能被终止上市，主要因触及财务退市指标。退市风险将导致资金出逃，对ST板块及壳资源概念形成情绪压制，但对主板影响有限。",
-      "reason": "退市警示属于重大利空，直接冲击个股及ST板块情绪，符合优先级一的市场警示信号。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "*ST天龙",
-        "ST板块"
-      ],
-      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9kc3FrTXk3aC1JZTBLcEl4TFBnN1lmQ3hFMnJUdi1DeWQyMEliLVF3VTVIblpUQktjN05IRXBTeXJ1MmQ2VWttYWROdVpTZERFMUNiSE5hZ1B2NWYxRmc?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372794?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "野村增持评级伊利股份",
-      "summary": "野村东方国际证券给予伊利股份“增持”评级，认为公司基本面向好。作为消费龙头，伊利获得外资券商认可，有助于提振食品饮料板块信心，但评级影响通常温和。",
-      "reason": "知名机构上调评级对板块有正面引导作用，伊利为沪深300权重股，可能带动消费白马股反弹。",
-      "category": "市场情绪",
+      "title": "国常会听取城市更新汇报",
+      "summary": "李强主持召开国务院常务会议，听取贯彻落实中央城市工作会议部署和实施城市更新进展情况汇报。预计后续将有更多城市更新政策出台，利好基建、地产、建材等板块。看多信号。",
+      "reason": "国务院级政策信号，影响投资方向，属于优先级一。",
+      "category": "监管政策",
       "impact_stocks": [
-        "伊利股份",
-        "食品饮料",
-        "消费板块"
+        "基建",
+        "房地产",
+        "建材"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5uWFJEWFhOMEhwSFNFaDZaZk1IdzJWZldWWFo2ZTVQSDFpckNwekFrODB4X0pEQ2NrZU1MTHpqV2dKM1dsQTRqMzBzNmdmVWQ5bzE5V1h2cXFvMnFQYlE?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772365"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "中信证券买入万华化学",
-      "summary": "中信证券发布研报给予万华化学“买入”评级，看好其化工品周期上行及新产能释放。万华化学为化工行业龙头，评级上调对化工板块有积极示范作用，但需结合行业基本面。",
-      "reason": "头部券商对龙头公司的评级变动是重要参考，可能引发机构资金关注，对化工板块形成短期提振。",
+      "title": "深交所优化创业板指数",
+      "summary": "深交所优化创业板宽基指数体系，提升指数表征作用和投资功能。此举可能吸引更多资金配置创业板相关指数基金，对创业板龙头个股构成利好。看多信号。",
+      "reason": "监管政策调整，影响指数基金配置，属于优先级一。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "创业板",
+        "创业板50"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372773?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "上交所重点监控ETF溢价",
+      "summary": "上交所本周对中韩半导体ETF、全球芯片LOF等溢价较高的基金进行重点监控。此举可能抑制相关ETF的投机炒作，短期利空半导体芯片板块情绪。看空信号。",
+      "reason": "监管关注炒作，影响市场情绪，属于优先级一。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "半导体",
+        "芯片ETF"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3104359"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "全球股债双杀恐慌",
+      "summary": "受通胀担忧和加息预期影响，全球市场遭遇黑色星期五：韩股暴跌6%，美债收益率飙升，英债收益率创多年新高。外围动荡将传导至A股，短期情绪偏空。看空信号。",
+      "reason": "海外市场重大异动，情绪传导，属于优先级二。",
       "category": "市场情绪",
       "impact_stocks": [
-        "万华化学",
-        "化工板块"
+        "沪深300",
+        "上证50"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772362"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "中际旭创光模块订单增加",
+      "summary": "中际旭创在互动平台表示，高端光模块产品的订单和出货在持续增加。AI算力需求旺盛，光模块龙头景气度持续，利好光模块及AI产业链。看多信号。",
+      "reason": "行业龙头重要经营动态，影响相关板块，属于优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "光模块",
+        "AI算力",
+        "中际旭创"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372798?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "王传福称电池产能紧张",
+      "summary": "比亚迪董事长王传福表示，比亚迪电池产能紧张。这意味着新能源汽车产业链上游供需依然偏紧，利好电池及锂电材料板块。看多信号。",
+      "reason": "行业龙头关键言论，反映供需格局，属于优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "比亚迪",
+        "锂电池",
+        "新能源车"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3104379"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "北方华创辟谣定价传闻",
+      "summary": "针对“CCP设备定价通常较中微低”的市场传闻，北方华创回应称说法不属实。此举有助于稳定半导体设备板块的市场预期，对北方华创股价构成支撑。看多信号。",
+      "reason": "公司澄清市场疑虑，影响个股及板块情绪，属于优先级二。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "北方华创",
+        "半导体设备"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haHczUXhPQm1DUGZDU0o2WjVEb2tVZzZsOE44U2o2LWUwcmFheVJrS2E5QUs1LXJYS2VjVUdSSV80c1dQamlmcXpmZXljemhNaDg3dGZST0FSZFcyR01iTFR3?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372781?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
+    },
+    {
+      "title": "杰瑞股份签9亿美元合同",
+      "summary": "杰瑞股份公告，2026年以来与美国四客户签署燃气轮机发电机组合同累计超9亿美元。大额订单彰显海外市场拓展成效，利好杰瑞股份及油气设备板块。看多信号。",
+      "reason": "重大合同公告，直接增厚业绩，属于优先级二。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "杰瑞股份",
+        "油气设备"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372808?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 47,
-  "generated_at": "2026-05-15T19:01:35.456532+08:00"
+  "total_fetched": 83,
+  "generated_at": "2026-05-15T19:47:08.723788+08:00"
 }
