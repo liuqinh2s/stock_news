@@ -3,73 +3,73 @@
   "hour": "03",
   "news": [
     {
-      "title": "成交连续8日站上3万亿",
-      "summary": "沪深两市成交额连续8个交易日突破3万亿元，市场交投极度活跃。高成交量表明资金入场热情不减，短期市场有支撑，但高位天量也可能是阶段性顶部信号。利好券商板块和沪深300。",
-      "reason": "成交额连续超3万亿元属极端值信号，反映市场情绪亢奋，对A股整体有重要影响。",
-      "category": "市场情绪",
+      "title": "以色列准备重启对伊朗军事行动",
+      "summary": "以官员称以色列正在为重启对伊朗军事行动做准备，中东局势骤然紧张。地缘冲突升级将大幅推高原油和黄金等避险资产，并压制全球风险偏好。A股方面，利好军工、石油、黄金板块；市场整体或承压。",
+      "reason": "地缘政治风险直接影响全球市场情绪和原油供应，属优先级2（海外市场联动），对A股有传导效应。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "沪深300",
-        "券商",
-        "A股整体"
+        "军工",
+        "石油开采",
+        "黄金"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "bearish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Nci1RU2EwM2FnQjNqTDBJclp4VnBzVnJjVWdXVm94MzAwcDRyS0F5RTNldzNlTUlPcTRRYldvakZod0dDVkRRc1dicU1fa1ZnVGlUb3F1Y0VkUGpZMXFxaGZxU0VVRHpVRV9oNzJiNDZ4a2NjaUVDVw?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373012?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "SpaceX最早6月11日IPO定价",
-      "summary": "据报道，SpaceX最早将于6月11日确定IPO价格，股票于6月12日上市。作为全球最受瞩目的未上市公司，SpaceX上市可能带动A股商业航天、卫星互联网板块炒作热情，同时抽离部分市场资金。短期偏多科技股情绪。",
-      "reason": "SpaceX IPO是全球资本事件，对A股商业航天/卫星概念股有情绪提振。",
-      "category": "市场情绪",
+      "title": "美国30年期国债收益率升破5.13%",
+      "summary": "美国30年期国债收益率上涨10个基点至5.13%，创盘中新高。美债收益率持续攀升，意味着全球无风险利率上升，将压制A股高估值成长股，尤其是TMT、新能源等板块。同时可能引发外资流出。利空信号。",
+      "reason": "美债收益率是全球资产定价锚，其大幅上行对A股形成估值压力，属优先级二（海外市场联动）。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "商业航天",
-        "卫星互联网",
-        "科技股"
+        "TMT",
+        "新能源",
+        "沪深300"
       ],
-      "signal": "bullish",
-      "impact_level": 2,
+      "signal": "bearish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772398"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373008?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "加拿大设定2040年前碳价130加元",
-      "summary": "加拿大石油重镇Alberta省同意，2040年之前有效碳价为每吨130加元。此举推高碳排放成本，利好新能源及碳减排技术，对A股碳交易、新能源板块有一定正面影响。但影响有限。",
-      "reason": "碳价上升趋势明确，利好国内新能源和碳交易概念。",
+      "title": "SpaceX确定IPO时间",
+      "summary": "SpaceX最早将于6月11日确定IPO价格，股票6月12日上市。作为全球航天巨头，其上市将提振A股航天航空、卫星互联网等概念板块的市场情绪。短期利好相关板块。",
+      "reason": "海外明星公司IPO事件可能带动A股同概念板块炒作，属行业动态（优先级二）。",
       "category": "行业动态",
       "impact_stocks": [
-        "新能源",
-        "碳交易"
+        "航天航空",
+        "卫星互联网",
+        "军工"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373004?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2373016?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "腾讯AI推出“吐司”产品",
-      "summary": "腾讯AI再出招，推出探索型vibe coding产品“吐司”，类似低代码开发工具。反映出巨头加大AI产品落地，利好国产AI应用和算力产业链。对A股AI板块偏正面。",
-      "reason": "头部互联网公司持续布局AI，对AI产业链有催化作用。",
+      "title": "腾讯推出AI编程产品“吐司”",
+      "summary": "腾讯推出探索型vibe coding产品“吐司”，进一步布局AI应用领域。此举有望带动A股AI概念、软件板块的情绪，但实际业绩贡献尚远。短期偏多，但影响有限。",
+      "reason": "腾讯作为科技巨头的新AI产品，对A股AI概念有情绪提振，属行业动态（优先级二）。",
       "category": "行业动态",
       "impact_stocks": [
         "AI概念",
-        "云计算",
-        "腾讯相关"
+        "软件服务"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -80,27 +80,8 @@
         }
       ],
       "urgency": "days"
-    },
-    {
-      "title": "以黎停火协议延长45天",
-      "summary": "美国国务院宣布，以色列与黎巴嫩之间的停火协议将延长45天，双方将于6月再次谈判。中东局势缓和降低了地缘风险溢价，短期利空原油价格，但此前油价已大涨；对A股石化板块有负面情绪影响，但作用有限。",
-      "reason": "地缘缓和降低避险情绪，原油价格承压，影响A股石油板块。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油石化",
-        "能源"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373010?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 28,
-  "generated_at": "2026-05-16T03:01:17.767516+08:00"
+  "total_fetched": 26,
+  "generated_at": "2026-05-16T03:15:47.479903+08:00"
 }

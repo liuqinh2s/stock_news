@@ -1,8 +1,8 @@
 {
   "date": "2026-05-16",
   "hour": "03",
-  "total": 28,
-  "fetched_at": "2026-05-16T03:00:29.637561+08:00",
+  "total": 26,
+  "fetched_at": "2026-05-16T03:15:01.719391+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,6 +10,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9Nci1RU2EwM2FnQjNqTDBJclp4VnBzVnJjVWdXVm94MzAwcDRyS0F5RTNldzNlTUlPcTRRYldvakZod0dDVkRRc1dicU1fa1ZnVGlUb3F1Y0VkUGpZMXFxaGZxU0VVRHpVRV9oNzJiNDZ4a2NjaUVDVw?oc=5\" target=\"_blank\">A股回撤整固 成交连续8日站上3万亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Nci1RU2EwM2FnQjNqTDBJclp4VnBzVnJjVWdXVm94MzAwcDRyS0F5RTNldzNlTUlPcTRRYldvakZod0dDVkRRc1dicU1fa1ZnVGlUb3F1Y0VkUGpZMXFxaGZxU0VVRHpVRV9oNzJiNDZ4a2NjaUVDVw?oc=5",
       "published": "Fri, 15 May 2026 18:08:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "在岸人民币兑美元较周四夜盘收盘跌262点",
+      "summary": "在岸人民币兑美元（CNY）北京时间03:00收报6.81元，较周四夜盘收盘跌262点。成交量614.15亿美元。",
+      "link": "https://news.10jqka.com.cn/20260516/c676737880.shtml",
+      "published": "Fri, 15 May 2026 19:04:12 GMT"
     },
     {
       "source": "同花顺",
@@ -54,18 +61,11 @@
       "published": "Fri, 15 May 2026 17:20:29 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "第一轮投票无人胜出 秘鲁总统选举将举行第二轮投票",
-      "summary": "秘鲁全国选举程序办公室15日公布的总统选举计票结果显示，没有候选人在4月12日第一轮投票中得票过半，总统选举将举行第二轮投票。所有选票已经统计完毕，结果显示，右翼政党人民力量党候选人藤森庆子以17.18%的得票率领先，左翼政党“一起为了秘鲁”候选人罗伯托·桑切斯以12.03%的得票率紧随其后，极右翼政党“人民复兴党”候选人拉斐尔·洛佩斯·阿利亚加排名第三，得票率为11.9%。按照秘鲁选举法，在第一轮投票中得票率过半的候选人将赢得总统选举。如果没有候选人在第一轮投票中获得超过50%的选票，得票数居前的两名候选人将进行第二轮角逐。第二轮投票定于6月7日举行，得票多者当选。尚不清楚桑切斯能否同藤森庆子进入第二轮。秘鲁检察官日前指控桑切斯涉嫌在申报政党竞选资金和财务信息时作虚假陈述，并据此请求判处其5年4个月监禁，取消总统候选人资格。法院定于5月27日审查检方起诉请求。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260516/c676737731.shtml",
-      "published": "Fri, 15 May 2026 17:12:17 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国至5月15日当周石油钻井总数415口，前值410口",
-      "summary": "美国至5月15日当周石油钻井总数415口，前值410口。",
-      "link": "https://news.10jqka.com.cn/20260516/c676737683.shtml",
-      "published": "Fri, 15 May 2026 17:02:41 GMT"
+      "source": "财联社",
+      "title": "在岸人民币兑美元较周四夜盘收盘跌262点",
+      "summary": "【在岸人民币兑美元较周四夜盘收盘跌262点】财联社5月16日电，在岸人民币兑美元（CNY）北京时间03:00收报6.8140元，较周四夜盘收盘跌262点。成交量614.15亿美元。",
+      "link": "https://api3.cls.cn/share/article/2373017?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 19:03:26 GMT"
     },
     {
       "source": "财联社",
@@ -157,20 +157,6 @@
       "summary": "【法国“戴高乐”号航母抵达阿拉伯海 为护航行动做准备】财联社5月16日电，法国国防部部长级代表爱丽丝·吕福15日接受法国商业调频电视台采访时说，法国海军“戴高乐”号航空母舰已抵达并部署在阿拉伯海，为霍尔木兹海峡多国护航行动做准备。吕福称，法方立场是为恢复霍尔木兹海峡通航“提供可能性”，其方式完全是“防御性”且“符合国际法”。据法国媒体报道，“戴高乐”号航母本月6日穿过苏伊士运河，随后在吉布提的后勤支援点停留数日。",
       "link": "https://api3.cls.cn/share/article/2373001?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Fri, 15 May 2026 17:15:22 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "第一轮投票无人胜出 秘鲁总统选举将举行第二轮投票",
-      "summary": "【第一轮投票无人胜出 秘鲁总统选举将举行第二轮投票】财联社5月16日电，秘鲁全国选举程序办公室15日公布的总统选举计票结果显示，没有候选人在4月12日第一轮投票中得票过半，总统选举将举行第二轮投票。",
-      "link": "https://api3.cls.cn/share/article/2373000?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 17:12:33 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月16日电，美国至5月15日当周石油钻井总数415口，前值410口。",
-      "summary": "财联社5月16日电，美国至5月15日当周石油钻井总数415口，前值410口。",
-      "link": "https://api3.cls.cn/share/article/2372998?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 17:01:36 GMT"
     },
     {
       "source": "华尔街见闻",
