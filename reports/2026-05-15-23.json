@@ -3,118 +3,86 @@
   "hour": "23",
   "news": [
     {
-      "title": "中美元首会晤达成共识",
-      "summary": "王毅介绍中美元首会晤情况，习近平主席将于今年秋季对美国进行国事访问，双方经贸团队达成总体平衡积极的成果。此次会晤释放中美关系阶段性缓和信号，降低地缘政治风险，提升市场风险偏好，对A股整体偏利多。",
-      "reason": "中美关系缓和影响市场系统性风险，权重高，符合优先级一。",
-      "category": "宏观经济",
+      "title": "Anthropic融资超300亿美元",
+      "summary": "AI初创公司Anthropic正筹集超过300亿美元资金，为IPO做准备。这显示AI领域持续获得资本青睐，行业景气度提升。A股AI概念股（如大模型、算力等）可能受此正面情绪提振，短期看多。",
+      "reason": "AI行业重大融资事件，利好AI板块，属于行业动态。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "上证50",
-        "出口外贸"
+        "AI概念",
+        "大模型",
+        "算力"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2372948"
-        },
-        {
-          "name": "新华社",
-          "url": "https://wallstreetcn.com/livenews/3104510"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260515/c676737457.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "美股AI硬件集体重挫",
-      "summary": "美光、AMD、英特尔等跌超5%，纳斯达克100指数期货跌超2%。AI硬件股领跌，市场担忧高估值及需求放缓。可能拖累A股AI、半导体板块情绪，特别是算力、存储方向。",
-      "reason": "海外科技股波动影响A股映射板块，符合优先级二。",
-      "category": "市场情绪",
+      "title": "美10年期国债收益率升破4.58%",
+      "summary": "美国10年期国债收益率日内上升10个基点至4.58%，创近期新高。美债收益率上升通常导致全球资金从股市流向债市，尤其利空高估值的科技成长股。A股科技板块可能承压，短期看空。",
+      "reason": "美债收益率是重要全球风险指标，上升直接影响A股风险偏好，属于宏观经济影响。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "AI概念",
-        "半导体",
-        "算力"
+        "科技股",
+        "成长股",
+        "创业板"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzbG8ycWR5NWJ6M3hBR2V0akkxNVl2MWRPcWtfNVIzRXl1dmxTS3NRb1NfWEtzMVQ2emJTeUN6VXd4VklTSkZLY3k2STJaVHF0b2h1cUVRbEpHSjRXTEdqcw"
-        },
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372981?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "赣锋锂业：锂库存历史低位",
+      "summary": "赣锋锂业表示当前行业锂矿石及锂盐库存天数处于历史低位。这意味着锂供应偏紧，可能支撑锂价，利好锂矿和锂盐板块。A股相关公司如赣锋锂业、天齐锂业等有望受益，中期看多。",
+      "reason": "锂库存低位是供给紧张的明确信号，利好锂板块，属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "赣锋锂业",
+        "天齐锂业",
+        "锂矿概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260515/c676735802.shtml"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3104528"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美原油期货涨超4%至105美元",
+      "summary": "美国原油期货6月合约价格触及盘中高点，日内上涨4.3%至接近105.50美元/桶。原油价格上涨将利好A股石油石化板块（如中国石油、中国石化），同时可能推高通胀预期，利空其他板块。短期看多石油股。",
+      "reason": "原油大幅上涨是重要商品价格变动，直接影响A股能源板块。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "中国石油",
+        "中国石化",
+        "石油石化"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372986?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "immediate"
-    },
-    {
-      "title": "金海高科控制权变更收监管函",
-      "summary": "金海高科公告控股股东拟变更为金丹良，股票5月18日复牌。上交所下发监管函，涉及上市公司、董高等。重组事项存在不确定性，复牌后可能面临较大波动，投资者需谨慎。",
-      "reason": "重大资产重组及监管关注，符合优先级一。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "金海高科"
-      ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260515/c676735762.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2372932"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "南向资金单日净买入249亿港元",
-      "summary": "南向资金今日净买入249.55亿港元，创近两个月新高，重点买入盈富基金等。南下资金大举流入港股，可能分流A股资金，但对A股流动性实际影响有限，更多反映港股估值吸引力。",
-      "reason": "资金流动信号，符合优先级二。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "港股"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260515/c676735870.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2372940"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "A股罕见连续8日成交额破3万亿",
-      "summary": "沪深两市成交额连续8个交易日突破3万亿元，显示市场交投极其活跃。但今日A股收跌，放量滞涨需警惕短期回调风险。对券商板块构成业绩利好，但情绪上需注意过热。",
-      "reason": "市场量能极端值，符合优先级三。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "券商",
-        "沪深300"
-      ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlZJbjRVdFVmdXgyaExhS1V3cF9HR1VXR2NPdjljMXdSSjJWYXNsclladFhmclRsYmFCeVNxNjAtQXNsQ21Ma1JjR2RIWUhZVTdoNzBqUDNlSlozX29zeUsxNzMxcEkwR3NEOTBXekhEZUY2b25udndqVnVmendoZF8tb2pRaDBkS0E"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 92,
-  "generated_at": "2026-05-15T23:01:23.908639+08:00"
+  "total_fetched": 70,
+  "generated_at": "2026-05-15T23:56:12.474049+08:00"
 }
