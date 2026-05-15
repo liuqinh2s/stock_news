@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-15",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 15988,
+    "completion_tokens": 7076,
+    "total_tokens": 23064
+  },
+  "content_length": 2254,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"全球股债双杀危机\",\n      \"summary\": \"今日海外市场剧烈波动：韩股暴跌6%，英国30年期国债收益率创1998年新高至5.82%，美债收益率飙升。全球避险情绪升温，可能通过外资流出和情绪传导对A股形成短期压力。需警惕北向资金流出及权重股调整风险，整体看空信号。\",\n      \"reason\": \"海外市场剧烈波动对A股有情绪传导影响，属于优先级二（海外市场联动）。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"银行\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3772362\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"第十二批国采启动\",\n      \"summary\": \"第十二批国采正式预填报，涉及233个品规，产品数量创新高。这将进一步压低仿制药价格，对医药行业整体利润构成利空，尤其是仿制药企业。短期医药板块承压，看空信号。\",\n      \"reason\": \"行业重大政策变动，影响医药板块盈利预期，属于优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"医药\", \"仿制药\", \"恒瑞医药\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2372809\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"证监会支持现代服务业\",\n      \"summary\": \"中国证监会召开座谈会，表示将更好支持现代服务业和新型消费企业发展，科学谋划深化包容性改革。此举利好消费、服务业板块，提振市场信心，属于政策支持信号，看多。\",\n      \"reason\": \"证监会表态支持特定领域，属于监管政策利好。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"消费\", \"服务业\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260515/c676732728.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"长春高新新药获FDA批准\",\n      \"summary\": \"长春高新子公司GenSci161注射液获美国FDA批准开展临床试验，属于创新药进展。对公司股价有提振作用，同时提振医药板块创新药方向情绪，但临床早期，影响有限，看多。\",\n      \"reason\": \"公司重大事件（新药获批），属于优先级二，但影响个股为主。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"长春高新\", \"医药\", \"创新药\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2372821\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"交通银行透露二季度储备\",\n      \"summary\": \"交通银行业绩会披露二季度项目储备情况，并回应估值提升话题。银行板块作为权重板块，其基本面预期影响市场稳定性。但具体信息尚不明确，中性偏多。\",\n      \"reason\": \"机构调研/业绩会，属于优先级二，影响银行板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"银行\", \"交通银行\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3772371\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
