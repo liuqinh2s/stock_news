@@ -3,48 +3,63 @@
   "hour": "05",
   "news": [
     {
-      "title": "COMEX黄金白银暴跌逾3%和10%",
-      "summary": "COMEX黄金期货大跌3.01%报4544.6美元/盎司，白银跌10.47%报76.395美元/盎司，本周金价累跌近4%，白银累跌5.55%。贵金属暴跌可能源于美元走强或加息预期升温，将拖累A股黄金、白银等贵金属板块，如中金黄金、山东黄金、银泰黄金等。同时避险情绪可能向其他资源股扩散。信号偏空。",
-      "reason": "贵金属价格大幅波动直接影响A股相关板块，属于优先级二中的海外市场联动与行业动态。",
-      "category": "宏观经济",
+      "title": "美国取消向波兰部署四千美军",
+      "summary": "美国突然取消向波兰部署四千余美军的计划。这一地缘政治变动可能缓解美俄紧张局势，降低欧洲安全风险，短期对全球风险偏好有正面影响，但直接影响有限。对A股军工板块可能偏空，但对整体市场中性偏多。",
+      "reason": "地缘政治突发消息，可能影响市场风险偏好，但非直接A股政策，影响级别较低。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "中金黄金",
-        "山东黄金",
-        "银泰黄金",
-        "贵金属板块"
+        "军工"
       ],
-      "signal": "bearish",
-      "impact_level": 3,
+      "signal": "neutral",
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373035"
+          "url": "https://api3.cls.cn/share/article/2373043?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "索罗斯基金增持英伟达台积电",
-      "summary": "13F报告显示，索罗斯基金管理一季度新进伯克希尔B类股，增持台积电、英伟达、霍尼韦尔等科技股。索罗斯增持半导体龙头，反映其看好AI及芯片产业。A股半导体板块（如中芯国际、北方华创、韦尔股份）或受情绪提振。整体看多半导体。",
-      "reason": "知名机构调仓对市场有示范效应，可能影响A股半导体板块情绪，属于优先级二中的机构评级变动。",
+      "title": "索罗斯Q1新进伯克希尔B类股",
+      "summary": "13F报告显示，索罗斯一季度新进伯克希尔哈撒韦B类股等多只股票，增持英伟达、台积电等。索罗斯的持仓变动作为知名投资者的风向标，可能提振市场对相关科技股的信心，但对A股直接利多有限，可关注台积电概念。",
+      "reason": "知名投资者持仓变动，具有市场信号意义，但主要影响美股，对A股间接参考。",
       "category": "资金流向",
       "impact_stocks": [
-        "半导体",
-        "中芯国际",
-        "北方华创",
-        "韦尔股份"
+        "台积电概念",
+        "半导体"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260516/c676737945.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "Q1机构持仓：AI基础设施受追捧",
+      "summary": "机构投资者一季度持仓揭秘显示，AI基础设施最受追捧，但对美股七巨头看法出现分歧。这表明AI产业链仍是市场主线，但分化可能加剧。对A股AI、算力、半导体等板块形成中期利好，但需警惕获利了结风险。",
+      "reason": "机构持仓趋势总结，反映市场主流方向，对A股科技板块有参考价值。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "AI",
+        "算力",
+        "半导体"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373034"
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYSFpEMEo5aTJJWWlIS01XZlNJSkZfSEZoWVNjUHpydVdZN0IzeFZ1TzlYS0pkdWVueEVGQVd5ZlY5VllOelZ2cW1DemVrRnlUMXVSOEdxWEF1UzRoMVU0eg?oc=5"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 18,
-  "generated_at": "2026-05-16T05:01:22.753026+08:00"
+  "total_fetched": 45,
+  "generated_at": "2026-05-16T05:48:55.607625+08:00"
 }
