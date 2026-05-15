@@ -3,54 +3,63 @@
   "hour": "01",
   "news": [
     {
-      "title": "贵州茅台部分产品涨价",
-      "summary": "5月16日零时起，部分贵州茅台酒产品自营体系零售价格上调。作为A股核心资产和白酒龙头，涨价直接提升公司盈利预期，利好白酒板块，同时提振市场对消费龙头的信心。信号看多，短期可能带动茅台股价及整个白酒板块上涨。",
-      "reason": "直接影响龙头公司盈利，且为消费板块重要催化剂，属于优先级二的公司重大事件。",
+      "title": "茅台自营零售价上调",
+      "summary": "5月16日零时起，部分贵州茅台酒产品自营体系零售价格上调。茅台作为A股核心资产和白酒龙头，提价将直接提升公司盈利能力，并带动整个白酒板块估值提升。历史数据显示茅台提价往往引发板块跟涨，看多信号明确。",
+      "reason": "茅台提价是重大公司事件，直接利好白酒板块，影响指数权重股。",
       "category": "行业动态",
       "impact_stocks": [
         "贵州茅台",
-        "白酒板块",
-        "消费龙头"
+        "白酒",
+        "沪深300"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372996?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260516/c676737646.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "印度调整黄金白银关税",
+      "summary": "印度修订黄金、白银、棕榈油、大豆油的关税。印度是全球最大黄金消费国之一，关税调整可能影响全球贵金属和油脂价格。若关税下调将刺激进口，利好国际金价，对A股黄金板块形成支撑；反之则利空。具体调整方向待确认，但市场预期偏正面。短期看多黄金板块。",
+      "reason": "印度关税变动影响全球大宗商品价格，传导至A股相关板块，属于行业政策。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "黄金",
+        "白银",
+        "有色金属",
+        "农产品"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2372996"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美国工业产出超预期增长",
-      "summary": "美国4月工业产出环比增长0.7%，创逾一年最大增幅，远超预期0.3%，汽车与数据中心需求强劲。该数据缓解了市场对美国经济衰退的担忧，但同时也强化了美联储加息预期，可能加剧全球资产波动。对A股出口导向型行业（如机械、电子）形成需求支撑，但利率上行压力抑制估值。中性偏空信号。",
-      "reason": "重要宏观数据超预期，影响全球风险偏好和资金流向，属于优先级二的海外市场联动。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "机械",
-        "电子",
-        "出口板块"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
           "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772393"
+          "url": "https://wallstreetcn.com/livenews/3104553"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2372995?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "英国政坛动荡资金撤离",
-      "summary": "投资者忧虑英国左转激进财政政策回归，加速撤离英镑资产，英镑下跌、英债收益率飙升。欧洲政治不确定性升温可能引发全球避险情绪，资金流出风险资产。对A股影响偏负面，尤其是外资重仓的蓝筹股。看空信号。",
-      "reason": "海外政治风险影响全球资本流动和风险偏好，属于优先级二的海外市场联动。",
-      "category": "宏观经济",
+      "title": "英国政坛动荡加剧",
+      "summary": "投资者忧虑英国左转激进财政政策回归，加速撤离英镑资产，英国国债收益率飙升。全球风险情绪受挫，欧洲股市大跌。对A股而言，短期可能因全球避险情绪升温而承压，尤其外资重仓的蓝筹股面临流出压力，但影响有限。",
+      "reason": "英国政治风险引发全球资产波动，通过情绪和资金传导影响A股，属于市场情绪信号。",
+      "category": "市场情绪",
       "impact_stocks": [
+        "沪深300",
         "上证50",
-        "外资重仓股",
-        "银行"
+        "外资重仓股"
       ],
       "signal": "bearish",
       "impact_level": 3,
@@ -63,26 +72,46 @@
       "urgency": "hours"
     },
     {
-      "title": "龙虎榜量化扫货龙头股",
-      "summary": "龙虎榜数据显示，顶级量化席位大举买入某3000亿市值龙头股，市场关注该股后续表现。量化资金集中入场可能引发短线跟风情绪，对相关板块（如机器人、AI）形成提振。但需注意量化交易波动风险。短期看多信号。",
-      "reason": "龙虎榜异动属于优先级三的市场情绪信号，反映资金动向。",
-      "category": "市场情绪",
+      "title": "零跑汽车一季度亏损扩大",
+      "summary": "零跑汽车发布一季度财报：营收增长8%，海外销量同比大涨442%，但亏损扩大。虽然海外高速增长，但亏损扩大显示盈利压力，对新能源车板块情绪有压制。不过海外扩张可能带来长期潜力，短期看空个股。",
+      "reason": "造车新势力财报影响新能源车板块情绪，属于公司重大事件。",
+      "category": "公司公告",
       "impact_stocks": [
-        "机器人概念",
-        "AI概念",
-        "龙头股"
+        "零跑汽车",
+        "新能源车",
+        "造车新势力"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772392"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "海鲸药业5亿控股仁度生物",
+      "summary": "海鲸药业张现涛以5亿元拿下仁度生物控制权，再次闯关A股。此次收购为溢价要约，显示产业资本对诊断试剂领域的看好。对仁度生物是利好，可能带动体外诊断板块的关注度。",
+      "reason": "重大并购重组影响个股及板块，属于优先级一。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "仁度生物",
+        "体外诊断",
+        "医药"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSnNDLVoybXBvR0lWZm1LaXBCX1JRaFlFdTgyblhLM18zaG5TUUM5XzVtMlBsSDZPNHFyWWswMXgzSjFFWnduTFRNLUc5WlhqZ2JJTm1wUXp6eXpaVkh1Z1Bn?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFS3Y3SzBnNW5TTVdEMVZ6WnRiSjdrVk9iOHRvZmwwTnpmNnAtUUtudUJ2aGlNbGZkamJiTDlKdkIwR3NEbndaalF5NnZXWjN5aExSc1doVzRQREdFai1qM0x3SlJkekRQMTBfMllzdFBCc3doZ2c?oc=5"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 58,
-  "generated_at": "2026-05-16T01:01:14.458349+08:00"
+  "total_fetched": 53,
+  "generated_at": "2026-05-16T01:22:23.155675+08:00"
 }
