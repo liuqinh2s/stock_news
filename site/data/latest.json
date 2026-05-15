@@ -3,50 +3,87 @@
   "hour": "04",
   "news": [
     {
-      "title": "黄金净多头增加4963手",
-      "summary": "CFTC数据显示，截至5月12日当周，黄金投机者净多头头寸增加4963手至10.06万手，白银净多头增加5254手，铜净多头增加10380手。这反映市场对贵金属看多情绪升温，可能因地缘政治风险及通胀预期。黄金板块（如中金黄金、山东黄金）短期或有支撑，但需注意美元走强压制。整体为看多信号。",
-      "reason": "贵金属净多头增加是重要资金流向信号，直接影响黄金股及避险资产走势，符合优先级二",
-      "category": "资金流向",
+      "title": "美股收跌但周线七连涨",
+      "summary": "美股三大指数周五均收跌超1%，但标普500周线实现七连涨。美债收益率飙升、中东局势紧张压制风险偏好。A股开盘或受外盘下跌情绪影响，但周线强势可能提供支撑。影响板块：沪深300、上证50、中概股。短期看空情绪传导，但中期偏多。",
+      "reason": "美股下跌直接冲击A股开盘情绪，但周线七连涨显示牛市韧性。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "黄金板块",
-        "中金黄金",
-        "山东黄金"
+        "沪深300",
+        "上证50",
+        "中概股"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260516/c676737885.shtml"
-        },
-        {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373018?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2373022?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "理想发布新一代L9 Livis",
-      "summary": "2026年5月15日，理想汽车推出新一代L9 Livis，定价50.98万元，定位高端家庭SUV。在行业竞争加剧背景下，理想试图通过L9维持产品力。这可能提振新能源汽车板块情绪，尤其对理想汽车供应链企业（如相关零部件厂商）有正面作用。但市场已有预期，影响中性偏多。",
-      "reason": "新能源汽车行业竞争动态影响板块预期，新车发布可作为短期催化，符合优先级二",
-      "category": "行业动态",
+      "title": "Third Point调仓：建仓Meta谷歌",
+      "summary": "13F报告显示，Third Point建仓Meta、谷歌A，清仓微软，减持英伟达。该对冲基金操作反映对AI巨头看法分化，看好社交与搜索，看空云计算和AI芯片。可能影响A股AI概念、光通信、算力板块情绪。中性偏空英伟达产业链，利好Meta概念股。",
+      "reason": "知名机构调仓动向可作为中长期配置参考，尤其是AI赛道分化信号。",
+      "category": "资金流向",
       "impact_stocks": [
-        "新能源汽车",
-        "理想汽车",
-        "汽车零部件"
+        "AI概念",
+        "算力",
+        "光通信",
+        "Meta概念"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260516/c676737934.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "CFTC黄金净多头增加",
+      "summary": "截至5月12日当周，黄金投机者净多头头寸增加4963手。尽管近期金银价格大跌，但净多头增加显示部分资金逢低布局。可能对A股黄金板块形成短期提振。但需关注美元和美债收益率走势。",
+      "reason": "黄金净多头增加反映市场对贵金属后市看好，利好A股黄金股。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "黄金板块",
+        "紫金矿业",
+        "山东黄金"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772394"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260516/c676737885.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美司法部调查贝莱德私人信用",
+      "summary": "美国司法部调查贝莱德旗下私人信用的估值。可能引发对金融监管趋严的担忧，但贝莱德是资管巨头，调查结果需观察。对A股金融板块情绪有压制，尤其是影子银行和信托相关。短期偏空金融股。",
+      "reason": "海外金融监管动态可能传导至A股金融板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "银行",
+        "非银金融",
+        "信托"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373029?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 23,
-  "generated_at": "2026-05-16T04:02:53.650190+08:00"
+  "total_fetched": 39,
+  "generated_at": "2026-05-16T04:51:10.442590+08:00"
 }

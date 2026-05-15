@@ -1,15 +1,71 @@
 {
   "date": "2026-05-16",
   "hour": "04",
-  "total": 23,
-  "fetched_at": "2026-05-16T04:00:31.657074+08:00",
+  "total": 39,
+  "fetched_at": "2026-05-16T04:50:36.109214+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "A股回撤整固 成交连续8日站上3万亿元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9Nci1RU2EwM2FnQjNqTDBJclp4VnBzVnJjVWdXVm94MzAwcDRyS0F5RTNldzNlTUlPcTRRYldvakZod0dDVkRRc1dicU1fa1ZnVGlUb3F1Y0VkUGpZMXFxaGZxU0VVRHpVRV9oNzJiNDZ4a2NjaUVDVw?oc=5\" target=\"_blank\">A股回撤整固 成交连续8日站上3万亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Nci1RU2EwM2FnQjNqTDBJclp4VnBzVnJjVWdXVm94MzAwcDRyS0F5RTNldzNlTUlPcTRRYldvakZod0dDVkRRc1dicU1fa1ZnVGlUb3F1Y0VkUGpZMXFxaGZxU0VVRHpVRV9oNzJiNDZ4a2NjaUVDVw?oc=5",
-      "published": "Fri, 15 May 2026 18:08:00 GMT"
+      "source": "同花顺",
+      "title": "AI冲击初现端倪，美国数类职业连续出现严重岗位流失",
+      "summary": "2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737943.shtml",
+      "published": "Fri, 15 May 2026 20:37:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "13F报告显示，桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等",
+      "summary": "13F报告显示，桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737942.shtml",
+      "published": "Fri, 15 May 2026 20:34:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "比尔·阿克曼旗下对冲基金潘兴广场对微软持仓市值21亿美元",
+      "summary": "比尔·阿克曼旗下对冲基金潘兴广场对微软持仓市值21亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737938.shtml",
+      "published": "Fri, 15 May 2026 20:29:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "乌干达报告埃博拉疫情，一输入性病例死亡",
+      "summary": "乌干达卫生部15日发布声明，报告该国出现本迪布焦型埃博拉病毒疫情，一名来自邻国刚果（金）的男子在乌首都坎帕拉因病去世。声明说，这名男子59岁，11日因呼吸困难、间歇性发热和上腹疼痛等症状在坎帕拉一家医院住院，14日因出血症状死亡，遗体当晚被运回刚果（金）。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737936.shtml",
+      "published": "Fri, 15 May 2026 20:22:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "13F报告显示，Third Point建仓Meta、谷歌A等；清仓微软等，减持英伟达等",
+      "summary": "13F报告显示，Third Point建仓Meta、谷歌A等；清仓微软等，减持英伟达等。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737934.shtml",
+      "published": "Fri, 15 May 2026 20:20:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国证交会文件显示，伯克希尔哈撒韦清仓亚马逊股份",
+      "summary": "美国证交会文件显示，伯克希尔哈撒韦清仓亚马逊股份。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737931.shtml",
+      "published": "Fri, 15 May 2026 20:16:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Cerebras通过美国IPO总体融资大约63.8亿美元",
+      "summary": "Cerebras通过美国IPO总体融资大约63.8亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737929.shtml",
+      "published": "Fri, 15 May 2026 20:16:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "古特雷斯任命联合国负责安全和安保事务的副秘书长",
+      "summary": "联合国秘书长古特雷斯15日宣布，任命来自荷兰的雅尼娜·亨尼斯-普拉斯哈特为联合国负责安全和安保事务的副秘书长，接替来自加拿大的吉勒·米肖。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260516/c676737928.shtml",
+      "published": "Fri, 15 May 2026 20:16:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股三大指数均收跌超1%",
+      "summary": "美股三大指数均收跌超1%。纳指跌1.54%，本周累跌0.08%，终结周线六连涨；标普500指数跌1.24%，本周累涨0.13%，实现周线七连涨；道指跌1.07%，本周累跌0.17%。苹果涨0.68%，收于300美元/股上方，创历史新高，总市值报4.41万亿美元。微软涨超3%，创一个月来最佳单日表现。英伟达跌超4%，创4月30日以来最大跌幅。特斯拉跌超4%，创4月以来最大单日跌幅。福特汽车跌逾7%，创2025年2月以来最大单日跌幅。贵金属股集体走弱，赫克拉矿业、科尔黛伦矿业跌超9%，金罗斯黄金跌超8%，泛美白银跌超7%，纽曼矿业跌超6%。",
+      "link": "https://news.10jqka.com.cn/20260516/c676737914.shtml",
+      "published": "Fri, 15 May 2026 20:02:03 GMT"
     },
     {
       "source": "同花顺",
@@ -48,6 +104,90 @@
     },
     {
       "source": "财联社",
+      "title": "AI冲击初现端倪 美国数类职业连续出现严重岗位流失",
+      "summary": "【AI冲击初现端倪 美国数类职业连续出现严重岗位流失】财联社5月16日电，2025年美国多个被认为易受人工智能(AI)影响的职业领域连续第二年出现严重的职位流失，其中以客户服务代表以及特定类型的秘书和销售人员受到冲击最为严重。根据周五发布的年度数据，在2024年5月至2025年5月期间，美国劳工统计局标记为暴露在AI风险之下的18个职业组别（涉及约1000万个工作岗位）的就业人数下降了0.2%。相比之下，同期美国整体就业人数增长了0.8%。",
+      "link": "https://api3.cls.cn/share/article/2373033?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:37:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月16日电，13F报告显示，桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英...",
+      "summary": "财联社5月16日电，13F报告显示，桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
+      "link": "https://api3.cls.cn/share/article/2373032?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:33:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月16日电，比尔·阿克曼旗下对冲基金潘兴广场对微软持仓市值21亿美元。",
+      "summary": "财联社5月16日电，比尔·阿克曼旗下对冲基金潘兴广场对微软持仓市值21亿美元。",
+      "link": "https://api3.cls.cn/share/article/2373031?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:29:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "乌干达报告埃博拉疫情 一输入性病例死亡",
+      "summary": "【乌干达报告埃博拉疫情 一输入性病例死亡】财联社5月16日电，乌干达卫生部15日发布声明，报告该国出现本迪布焦型埃博拉病毒疫情，一名来自邻国刚果（金）的男子在乌首都坎帕拉因病去世。声明说，这名男子59岁，11日因呼吸困难、间歇性发热和上腹疼痛等症状在坎帕拉一家医院住院，14日因出血症状死亡，遗体当晚被运回刚果（金）。",
+      "link": "https://api3.cls.cn/share/article/2373030?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:21:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月16日电，美国司法部调查贝莱德集团旗下私人信用的估值。",
+      "summary": "财联社5月16日电，美国司法部调查贝莱德集团旗下私人信用的估值。",
+      "link": "https://api3.cls.cn/share/article/2373029?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:20:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月16日电，13F报告显示，Third Point建仓Meta、谷歌A等；清仓微软等，减持英伟达等。",
+      "summary": "财联社5月16日电，13F报告显示，Third Point建仓Meta、谷歌A等；清仓微软等，减持英伟达等。",
+      "link": "https://api3.cls.cn/share/article/2373028?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:19:58 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美国证交会文件：一季度伯克希尔哈撒韦清仓亚马逊股份",
+      "summary": "【美国证交会文件：一季度伯克希尔哈撒韦清仓亚马逊股份】财联社5月16日电，美国证交会文件显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。 清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
+      "link": "https://api3.cls.cn/share/article/2373027?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:16:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月16日电，阿根廷石油公司YPF为250亿美元石油项目寻求Rigi审批。",
+      "summary": "财联社5月16日电，阿根廷石油公司YPF为250亿美元石油项目寻求Rigi审批。",
+      "link": "https://api3.cls.cn/share/article/2373026?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:10:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月16日电，Cerebras通过美国IPO总体融资大约63.8亿美元。",
+      "summary": "财联社5月16日电，Cerebras通过美国IPO总体融资大约63.8亿美元。",
+      "link": "https://api3.cls.cn/share/article/2373025?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:08:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "古特雷斯任命联合国负责安全和安保事务的副秘书长",
+      "summary": "【古特雷斯任命联合国负责安全和安保事务的副秘书长】财联社5月16日电，联合国秘书长古特雷斯15日宣布，任命来自荷兰的雅尼娜·亨尼斯-普拉斯哈特为联合国负责安全和安保事务的副秘书长，接替来自加拿大的吉勒·米肖。",
+      "link": "https://api3.cls.cn/share/article/2373024?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:06:19 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "利弗莫尔中概股龙头指数收跌3.1%",
+      "summary": "【利弗莫尔中概股龙头指数收跌3.1%】财联社5月16日电，利弗莫尔中概股龙头指数收跌3.1%。希尔威金属矿业、金山云跌超9%，Akso健康跌超8%，奇景光电跌超7%，哔哩哔哩、阿里巴巴跌超6%。",
+      "link": "https://api3.cls.cn/share/article/2373023?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:00:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美股三大指数均收跌超1% 标普500指数实现周线七连涨",
+      "summary": "【美股三大指数均收跌超1% 标普500指数实现周线七连涨】财联社5月16日电，美股三大指数均收跌超1%。纳指跌1.54%，本周累跌0.08%，终结周线六连涨；标普500指数跌1.24%，本周累涨0.13%，实现周线七连涨；道指跌1.07%，本周累跌0.17%。苹果涨0.68%，收于300美元/股上方，创历史新高，总市值报4.41万亿美元。微软涨超3%，创一个月来最佳单日表现。英伟达跌超4%，创4月30日以来最大跌幅。特斯拉跌超4%，创4月以来最大单日跌幅。福特汽车跌逾7%，创2025年2月以来最大单日跌幅。贵金属股集体走弱，赫克拉矿业、科尔黛伦矿业跌超9%，金罗斯黄金跌超8%，泛美白银跌超7%，纽曼矿业跌超6%。<br /><img src=\"https://image.cls.cn/images/20260516/cEY5GPNrSX_960x508.png\" /><img src=\"https://image.cls.cn/images/20260516/H41CPC9fu1_959x513.png\" /><img src=\"https://image.cls.cn/images/",
+      "link": "https://api3.cls.cn/share/article/2373022?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Fri, 15 May 2026 20:00:26 GMT"
+    },
+    {
+      "source": "财联社",
       "title": "财联社5月16日电，惠誉确认力拓集团评级为A，展望稳定。",
       "summary": "财联社5月16日电，惠誉确认力拓集团评级为A，展望稳定。",
       "link": "https://api3.cls.cn/share/article/2373020?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -75,53 +215,39 @@
       "published": "Fri, 15 May 2026 19:03:26 GMT"
     },
     {
-      "source": "财联社",
-      "title": "SpaceX据悉最早将于6月11日确定首次公开发行价格 股票将于6月12日上市",
-      "summary": "【SpaceX据悉最早将于6月11日确定首次公开发行价格 股票将于6月12日上市】财联社5月16日电，知情人士表示，SpaceX最早将于6月11日确定首次公开发行价格，股票将于6月12日上市。SpaceX将选择纳斯达克作为其首次公开发行的上市地点，SpaceX股票将以“SPCX”为代码进行交易。",
-      "link": "https://api3.cls.cn/share/article/2373016?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 18:39:48 GMT"
+      "source": "华尔街见闻",
+      "title": "OpenAI携手Plaid，向大众提供个性化财务建议",
+      "summary": "<p>OpenAI与金融数据平台Plaid达成合作，计划借助后者覆盖美国大多数消费者银行账户的数据网络，使ChatGPT能够提供基于真实财务状况的个性化理财建议。此举标志着AI平台在个人金融服务领域的渗透进入新阶段。</p>\n<p>OpenAI周五发表声明称，已有逾2亿用户通过ChatGPT寻求预算规划、投资咨询等财务相关帮助。</p>\n<p>此前，ChatGPT仅能提供\"自动化储蓄\"或\"减少外卖消费\"等泛泛建议，缺乏对用户实际财务状况的洞察。引入Plaid的数据接口后，该平台将能够给出更具针对性的操作建议，例如优先偿还哪张信用卡及具体还款金额。</p>\n<p>Plaid首席执行官Zach Perret表示，此次合作的目标是\"让人们拥有更大的财务自由\"，并称这意味着\"更好地理解市场上的金融产品，以及对整个金融体系建立更强的信任\"。他同时暗示，双方合作的最终形态将远不止于此次发布的初始版本。</p>\n<div>\n<h2 id=\"fdf569ed\">数据对接拓宽建议边界</h2>\n</div>\n<p>Plaid作为连接消费者银行账户与金融科技应用的基础设施提供商，其数据网络已覆盖美国绝大多",
+      "link": "https://wallstreetcn.com/articles/3772401",
+      "published": "Fri, 15 May 2026 20:38:01 GMT"
     },
     {
-      "source": "财联社",
-      "title": "国际原油期货结算价大幅收涨 美油本周累涨超10%",
-      "summary": "【国际原油期货结算价大幅收涨 美油本周累涨超10%】财联社5月16日电，国际原油期货结算价大幅收涨。WTI原油期货6月合约涨4.2%，报105.42美元/桶，本周累涨10.48%。布伦特原油期货7月合约涨3.35%，报109.26美元/桶，本周累涨7.87%。",
-      "link": "https://api3.cls.cn/share/article/2373014?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 18:35:15 GMT"
+      "source": "华尔街见闻",
+      "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等",
+      "summary": "<p>13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3772403",
+      "published": "Fri, 15 May 2026 20:31:56 GMT"
     },
     {
-      "source": "财联社",
-      "title": "以色列空袭加沙城住宅楼和汽车 造成4人死亡",
-      "summary": "【以色列空袭加沙城住宅楼和汽车 造成4人死亡】财联社5月16日电，以色列战机当地时间5月15日晚轰炸加沙地带北部加沙城内的一处住宅楼和一辆汽车，造成4人死亡，另有数十人受伤。",
-      "link": "https://api3.cls.cn/share/article/2373013?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 18:32:06 GMT"
+      "source": "华尔街见闻",
+      "title": "这个夏天千万不要去欧洲 去了可能就回不来了",
+      "summary": "<p style=\"text-align: left;\">一架从伦敦飞往意大利的客机降落在博洛尼亚——意大利北部的一座旅游城市，兰博基尼的故乡。</p><p style=\"text-align: left;\">机长准备加油，准备接上回程的旅客飞回英国。机场给出的答复是：今天整个机场能给你加的航空煤油，最多2000升。</p><p style=\"text-align: left;\">一架载着180名乘客的窄体客机，从博洛尼亚飞回伦敦，需要大约6000升。</p><p style=\"text-align: left;\">机长开始联系周边机场。威尼斯，2000升。特雷维索，2500升。布林迪西的回复最干脆——本场无油，飞机必须自己带够油来，再带够油走。</p><p style=\"text-align: left;\">这不是战区，不是被制裁的国家。这是2026年5月的欧盟，全球航空网络最密集的大陆，正在进入一年里最繁忙的暑期旺季。</p><p style=\"text-align: left;\">而三个月前，没有人相信这种事会发生在这里。</p>",
+      "link": "https://wallstreetcn.com/member/articles/3772400",
+      "published": "Fri, 15 May 2026 20:18:15 GMT"
     },
     {
-      "source": "财联社",
-      "title": "以官员称以色列正在为重启对伊朗军事行动做准备",
-      "summary": "【以官员称以色列正在为重启对伊朗军事行动做准备】财联社5月16日电，一位以色列高级官员当地时间15日晚称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2373012?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 18:18:15 GMT"
+      "source": "华尔街见闻",
+      "title": "赣锋锂业：当前行业锂矿石及锂盐库存天数处于历史低位",
+      "summary": "<p>5月15日，赣锋锂业在2026年江西辖区上市公司投资者集体接待日活动上表示，目前没有看到较为可靠的行业库存调查情况发布，公司认为当前行业的锂矿石及锂盐库存水平均不高，且由于锂电行业需求在今年以来快速增长，当前行业的库存天数处于历史低位。</p>\n<p><span style=\"color: #808080;\">本文来源：<a href=\"https://www.stcn.com/article/detail/3912022.html\" rel=\"noopener\" target=\"_blank\">证券时报</a></span></p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3772399",
+      "published": "Fri, 15 May 2026 20:18:01 GMT"
     },
     {
-      "source": "财联社",
-      "title": "美国务院：以黎停火协议将延长45天 双方将于6月再次谈判",
-      "summary": "【美国务院：以黎停火协议将延长45天 双方将于6月再次谈判】财联社5月16日电，美国国务院当地时间5月15日表示，以色列与黎巴嫩已同意将美国总统特朗普于4月16日宣布的停火协议延长45天。美国国务院发言人皮戈特表示：“4月16日达成的停止敌对行动协议将延长45天，以推动进一步进展。”美国国务院称，14日和15日在华盛顿举行的以黎会谈“富有成效”，双方将于6月2日至3日再次举行谈判。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2373010?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 18:15:12 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "默茨与特朗普通电话 似有意修补关系",
-      "summary": "【默茨与特朗普通电话 似有意修补关系】财联社5月16日电，德国总理默茨15日在社交媒体发文说，他当天与美国总统特朗普通电话，进行了“愉快的交谈”。德新社报道指出，默茨先前因批评美国对伊朗的军事行动而激怒特朗普，眼下似乎有意修补与特朗普的关系。默茨说，双方一致认为“伊朗现在必须回到谈判桌前。伊朗必须开放霍尔木兹海峡，且绝不允许德黑兰拥有核武器”。默茨表示，他与特朗普还讨论了乌克兰问题的“和平解决方案”，并就即将在土耳其首都安卡拉举行的北约峰会协调各自立场，称德国和美国是“强大北约中的牢固盟友”。",
-      "link": "https://api3.cls.cn/share/article/2373009?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 18:03:08 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月16日电，美国30年期国债收益率上涨10个基点，触及盘中高点5.13%。",
-      "summary": "财联社5月16日电，美国30年期国债收益率上涨10个基点，触及盘中高点5.13%。",
-      "link": "https://api3.cls.cn/share/article/2373008?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Fri, 15 May 2026 18:01:33 GMT"
+      "source": "华尔街见闻",
+      "title": "13F报告显示，伯克希尔哈撒韦清仓亚马逊",
+      "summary": "<p>13F报告显示，伯克希尔哈撒韦清仓亚马逊。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3772402",
+      "published": "Fri, 15 May 2026 20:17:36 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -150,20 +276,6 @@
       "summary": "<p>腾讯内部孵化的探索型vibe coding产品“吐司”即将上线。这款定位为“应用生成及灵感共创平台”的产品，核心亮点的是无需代码基础，用户仅凭自然语言描述想法，就能让AI完成从功能拆解到App打包的全流程，实现“奇思妙想新鲜出炉”。目前，安卓版在应用宝及官网首发，iOS版本将后续跟进推出。</p>\n<p><img alt=\"图片\" src=\"https://wpimg-wscn.awtmt.com/65e25054-b2cd-4eca-9ab3-f8e2fb3ab5d8.jpeg\" title=\"\" /></p>\n<p>Tech星球实测发现，“吐司”的操作逻辑极简，完全贴合普通用户的使用习惯。用户只需输入几句自然语言描述需求，AI便会自动拆解功能点，生成应用原型供预览，用户可通过多轮对话调整细节，确认无误后一键打包生成APK安装包，下载后即可直接安装使用，全程无需接触任何代码，彻底打破了应用开发的技术壁垒。</p>\n<p><img alt=\"图片\" src=\"https://wpimg-wscn.awtmt.com/4f8ebe9e-cf83-40ad-9c64-41018103",
       "link": "https://wallstreetcn.com/articles/3772391",
       "published": "Fri, 15 May 2026 18:58:16 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "报道：SpaceX最早将于6月11日确定IPO价格，股票将于6月12日上市",
-      "summary": "<p>报道：SpaceX最早将于6月11日确定IPO价格，股票将于6月12日上市。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3772398",
-      "published": "Fri, 15 May 2026 18:47:16 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
-      "summary": "<p>据美国国务院消息，当地时间5月15日，以色列与黎巴嫩之间的停火协议将延长45天，以便为后续谈判与进展争取时间。（央视）</p>",
-      "link": "https://wallstreetcn.com/livenews/3104585",
-      "published": "Fri, 15 May 2026 18:10:43 GMT"
     }
   ]
 }
