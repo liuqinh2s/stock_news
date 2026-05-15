@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-16",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14364,
+    "completion_tokens": 3173,
+    "total_tokens": 17537
+  },
+  "content_length": 1862,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"华润新能源245亿IPO注册\",\n      \"summary\": \"深交所迎来有史以来最大规模IPO，华润新能源控股有限公司正式获得证监会注册，计划融资245亿元。这是A股近年来最大的新能源IPO项目，预计将显著抽离市场流动性，对电力、新能源板块形成短期资金压力。信号偏空，需警惕大盘调整风险。\",\n      \"reason\": \"优先级一：超级大盘IPO注册，直接冲击市场流动性，属于重大利空信号。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"沪深300\", \"新能源\", \"电力\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 5,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE9OWng4V3psMFJ3eExfcVBTcTRFcU8wU0Z4aDN5NEUxY1JsRTluenlLYzFmay0xd3RFb2lac1lsVGRHUlpJdUZncDhkS3dnanJLRDd6TVNybWJ2RjQzVktqRFd6Qk1laGVIbXpDaVVkWVlBSnY5R0E?oc=5\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"布伦特原油净多头创十周低\",\n      \"summary\": \"洲际交易所数据显示，截至5月12日当周，投机者所持布伦特原油净多头头寸减少28,400手，至345,805手，为近十周最低。这反映市场对原油后市悲观，叠加近期国际油价上涨（美国原油近105美元），多头获利了结。可能拖累A股石油化工板块，短期偏空。\",\n      \"reason\": \"优先级二：资金流向变化，直接关联能源板块情绪。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"石油石化\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373006?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"普华永道推出Claude AI方案\",\n      \"summary\": \"Anthropic宣布与普华永道合作，推出Claude Code & CoWork，普华永道将基于Claude开发新的金融业务组，为客户提供AI驱动的财务咨询。该消息显示AI应用加速落地，利好A股AI概念股、金融科技板块，建议关注相关个股。\",\n      \"reason\": \"优先级二：行业动态，AI应用落地加速，利好相关概念。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"金融科技\", \"软件\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260516/c676737774.shtml\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"由于历史消息中大量重复事件（贵州茅台调价、美联储逆回购、英国政坛等），本次仅筛选出3条有效新消息，其余均不符合筛选标准。\"\n}"
+}
