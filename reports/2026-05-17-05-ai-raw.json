@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 1825,
+    "completion_tokens": 171,
+    "total_tokens": 1996
+  },
+  "content_length": 85,
+  "raw_content": "{\"news\":[],\"note\":\"近6小时抓取的两条消息均为伊朗本地事件（布什尔核电站建设和恢复股票交易），与A股无直接关联，不符合筛选标准，因此未选入任何消息。\"}"
+}
