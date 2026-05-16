@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 1825,
-    "completion_tokens": 171,
-    "total_tokens": 1996
+    "prompt_tokens": 2058,
+    "completion_tokens": 522,
+    "total_tokens": 2580
   },
-  "content_length": 85,
-  "raw_content": "{\"news\":[],\"note\":\"近6小时抓取的两条消息均为伊朗本地事件（布什尔核电站建设和恢复股票交易），与A股无直接关联，不符合筛选标准，因此未选入任何消息。\"}"
+  "content_length": 623,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"伊朗布什尔核电站重启建设\",\n      \"summary\": \"伊朗布什尔核电站二号机组恢复建设。该事件可能对A股核电板块产生情绪性影响，但实际关联度较低。中国核电企业(如中国核建、中广核技)可能受关注，但消息本身未涉及具体合作或订单。整体影响有限，偏中性。\",\n      \"reason\": \"国际核电站建设动态，可能影响A股核电板块情绪，但缺乏直接利好或利空，属于微弱信号。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"核电\", \"中国核建\", \"中广核技\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373248?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮抓取素材仅3条，其中2条为普通个股行情页面无交易价值，仅1条国际新闻但影响微弱，故仅输出1条。\"\n}"
 }
