@@ -3,49 +3,91 @@
   "hour": "09",
   "news": [
     {
-      "title": "神舟二十三号转运发射区",
-      "summary": "神舟二十三号载人飞船与长征二号F遥二十三运载火箭组合体开始向发射区转运，即将择机发射。这是中国航天又一重要进展，将提振航天军工板块情绪，相关个股如航天电子、中国卫星等可能受到关注。属于行业动态，偏利好信号。",
-      "reason": "航天发射任务进展，刺激航天军工板块情绪，且历史消息中未出现，属于新消息。",
+      "title": "多款燃油车大降价",
+      "summary": "多款燃油车宣布大幅降价，降幅最高接近30%。此举加剧燃油车市场竞争，冲击传统车企利润，对汽车行业整体偏空，但对新能源汽车或有间接利好。影响板块：汽车整车、汽车零部件。看空信号。",
+      "reason": "燃油车降价潮直接影响车企盈利，市场情绪负面，符合优先级二行业政策变动。",
       "category": "行业动态",
       "impact_stocks": [
-        "航天军工",
-        "航天电子",
-        "中国卫星"
+        "汽车整车",
+        "汽车零部件",
+        "新能源汽车"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103185500.html"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "上海电信首发Token资费套餐",
+      "summary": "上海电信率先发布Token资费套餐，1元对应25万额度点，支持手机账单付。此举标志通信运营商正式切入AI算力服务领域，利好电信运营、算力基础设施及AI应用板块。看多信号。",
+      "reason": "运营商推出Token套餐，实质是AI算力商业化，对相关板块有直接带动，符合优先级二行业政策变动。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中国电信",
+        "中国联通",
+        "算力",
+        "AI概念"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260516/c676740932.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373083?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://news.10jqka.com.cn/20260516/c676741369.shtml"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "海康威视与树根数字合作",
-      "summary": "海康威视与树根数字达成战略合作，共同推进制造业数字化转型。双方将整合资源，在工业互联网、智能制造等领域展开合作。对海康威视而言，有助于拓展工业互联网业务，增强竞争力，偏利好信号。",
-      "reason": "公司战略合作，属个股利好，历史消息中未出现，但影响范围有限。",
-      "category": "行业动态",
+      "title": "全球通胀加剧债市风暴",
+      "summary": "华尔街见闻文章指出，全球通胀加剧导致债市风暴，动摇股票牛市根基，一切取决于石油。美债收益率飙升，30年期美债收益率触及5.13%。高通胀预期利空风险资产，A股短期承压，尤其高估值成长股。看空信号。",
+      "reason": "全球通胀和债市风暴是宏观经济重大变化，影响资金流向和风险偏好，符合优先级二海外市场联动。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "海康威视",
-        "工业互联网"
+        "沪深300",
+        "成长股",
+        "科技股"
       ],
-      "signal": "bullish",
-      "impact_level": 1,
+      "signal": "bearish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260516/c676740834.shtml"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772409"
+        },
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103185446.html"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "深圳保障房供应计划发布",
+      "summary": "深圳2026年住房发展计划公布，将筹建3万套、供应4万套保障房。保障房增加对商品房市场有分流作用，但政策推进利好地产行业长期稳定，短期影响中性。影响板块：房地产、建材。",
+      "reason": "房地产政策变动属于行业动态，保障房计划影响市场预期，符合优先级二行业政策变动。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "房地产",
+        "建材",
+        "深圳本地股"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373075?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     }
   ],
   "total_fetched": 50,
-  "generated_at": "2026-05-16T09:01:03.129529+08:00"
+  "generated_at": "2026-05-16T09:55:45.758517+08:00"
 }
