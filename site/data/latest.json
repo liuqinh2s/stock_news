@@ -3,18 +3,17 @@
   "hour": "23",
   "news": [
     {
-      "title": "CXO药企遭索赔4.3亿跌停",
-      "summary": "一家A股CXO药企被国际巨头索赔4.3亿元，股价20厘米跌停，反映出CXO行业海外业务风险。事件主要影响CXO板块，如药明康德、康龙化成等，此外也可能波及整个医药外包出海概念。信号利空，短期可能引发板块调整。",
-      "reason": "公司公告级重大利空，直接引发个股跌停，拖累CXO板块情绪。",
+      "title": "CXO药企遭4.3亿元索赔",
+      "summary": "某A股CXO药企被国际巨头索赔4.3亿元，导致股价20厘米跌停，凸显CXO出海风险。该事件可能引发市场对整个CXO板块的担忧，尤其涉及海外诉讼风险的药企，如药明康德、康龙化成等。信号偏空，短期可能拖累板块表现。",
+      "reason": "公司重大诉讼，直接影响股价及板块情绪，属于优先级二的公司事件。",
       "category": "公司公告",
       "impact_stocks": [
-        "CXO",
+        "CXO概念",
         "药明康德",
-        "康龙化成",
-        "凯莱英"
+        "康龙化成"
       ],
       "signal": "bearish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
           "name": "新浪财经",
@@ -25,16 +24,15 @@
     },
     {
       "title": "氟概念股集体大涨",
-      "summary": "氟概念板块今日集体上涨，其中688549股价翻倍，可能受行业供需变化或政策预期驱动。影响板块包括氟化工、制冷剂及相关上游材料。短期看多情绪较强，但需留意持续性。",
-      "reason": "板块异动明显，个股翻倍吸引资金关注，可能带动短期行情。",
-      "category": "行业动态",
+      "summary": "氟化工概念股集体上涨，其中688549股价翻倍。可能受行业供需变化或政策利好驱动，但具体原因尚不明确。该信号属于市场情绪异动，若后续有实质性利好（如制冷剂涨价），则可能带动化工板块走强。当前需警惕炒作风险，建议关注龙头公司如巨化股份、三美股份。",
+      "reason": "板块异动，市场情绪信号，属于优先级三的情绪信号。",
+      "category": "市场情绪",
       "impact_stocks": [
         "氟化工",
-        "多氟多",
         "巨化股份",
-        "688549"
+        "三美股份"
       ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
@@ -43,28 +41,8 @@
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "ETF周报流出超千亿",
-      "summary": "ETF周报显示近期资金流出超过1000亿元，为近期较大规模赎回。反映市场情绪谨慎或获利了结，可能对沪深300及权重股形成抛压。信号看空，需警惕大盘调整风险。",
-      "reason": "资金流向重要指标，大规模赎回通常预示短期调整压力。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "上证50",
-        "创业板ETF"
-      ],
-      "signal": "bearish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiNVEzd1pRbmRfWURpbWw5bjBXc295WW1CSTZOWUF3eXhrV2V2dHF2eHhkUVVXMGNXS2hMNUYxZVc2Mm9BcXIzTkw2MVlreDlqZkNIMFpTbUZkeExNeFZ0OTFTb3VKelpXSWVEelpjVm4xT0JYSkE?oc=5"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 20,
-  "generated_at": "2026-05-16T23:01:16.797589+08:00"
+  "total_fetched": 15,
+  "generated_at": "2026-05-16T23:47:59.840028+08:00"
 }

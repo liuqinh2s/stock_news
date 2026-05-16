@@ -1,8 +1,8 @@
 {
   "date": "2026-05-16",
   "hour": "23",
-  "total": 20,
-  "fetched_at": "2026-05-16T23:00:27.654840+08:00",
+  "total": 15,
+  "fetched_at": "2026-05-16T23:47:15.898229+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -26,13 +26,6 @@
       "published": "Sat, 16 May 2026 14:25:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "流出超1000亿-ETF周报12期 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBiNVEzd1pRbmRfWURpbWw5bjBXc295WW1CSTZOWUF3eXhrV2V2dHF2eHhkUVVXMGNXS2hMNUYxZVc2Mm9BcXIzTkw2MVlreDlqZkNIMFpTbUZkeExNeFZ0OTFTb3VKelpXSWVEelpjVm4xT0JYSkE?oc=5\" target=\"_blank\">流出超1000亿-ETF周报12期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiNVEzd1pRbmRfWURpbWw5bjBXc295WW1CSTZOWUF3eXhrV2V2dHF2eHhkUVVXMGNXS2hMNUYxZVc2Mm9BcXIzTkw2MVlreDlqZkNIMFpTbUZkeExNeFZ0OTFTb3VKelpXSWVEelpjVm4xT0JYSkE?oc=5",
-      "published": "Sat, 16 May 2026 14:26:00 GMT"
-    },
-    {
       "source": "同花顺",
       "title": "拉脱维亚总统提名候任总理",
       "summary": "拉脱维亚总统林克维奇斯16日宣布，提名中右翼政党联盟“联合名单”的总理候选人安德里斯·库尔贝格斯为候任总理。 拉脱维亚总理埃维卡·希莉娜本月14日召开新闻发布会宣布决定辞职，其内阁作为看守政府继续履职。（新华社）",
@@ -54,18 +47,11 @@
       "published": "Sat, 16 May 2026 14:00:54 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "俄方称击落20架接近莫斯科的无人机",
-      "summary": "俄罗斯莫斯科市长索比亚宁5月16日在社交媒体上通报，当天0时至16时，已有20架无人机在接近该市时被击落。 (央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260516/c676744233.shtml",
-      "published": "Sat, 16 May 2026 13:22:44 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "福建漳州有杨梅收购点违规使用防腐剂 当地已开展专项整治",
-      "summary": "据媒体近日报道，福建省漳州市龙海区有杨梅收购点存在违规浸泡防腐剂、滥用疑似“三无”甜味剂行为，食品安全隐患突出。就相关情况致电龙海区农业农村局，该局负责人表示，在执法检查过程中发现，有部分收购点在收购早季杨梅时，为了卖相更好、甜度更高，违规使用防腐剂和甜味剂。今年以来，当地已加大抽查力度，但仍有不法商贩钻空子、“打游击”。针对此事件，龙海区已成立专项整治工作专班。 (新华社)",
-      "link": "https://news.10jqka.com.cn/20260516/c676744200.shtml",
-      "published": "Sat, 16 May 2026 13:12:57 GMT"
+      "source": "财联社",
+      "title": "安提瓜和巴布达附近海域发生6.4级地震",
+      "summary": "【安提瓜和巴布达附近海域发生6.4级地震】财联社5月16日电，据欧洲-地中海地震中心消息，当地时间16日上午10时50分，安提瓜和巴布达附近海域发生6.4级地震，震中位于北纬17.2336度、西经61.3383度，震源深度约70公里。目前暂无人员伤亡及财产损失报告。",
+      "link": "https://api3.cls.cn/share/article/2373241?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 16 May 2026 15:38:11 GMT"
     },
     {
       "source": "财联社",
@@ -110,32 +96,11 @@
       "published": "Sat, 16 May 2026 13:48:16 GMT"
     },
     {
-      "source": "财联社",
-      "title": "俄方称击落20架接近莫斯科的无人机",
-      "summary": "【俄方称击落20架接近莫斯科的无人机】财联社5月16日电，俄罗斯莫斯科市长索比亚宁5月16日在社交媒体上通报，当天0时至16时，已有20架无人机在接近该市时被击落。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2373230?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 16 May 2026 13:22:15 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "福建漳州有杨梅收购点违规使用防腐剂 当地已开展专项整治",
-      "summary": "【福建漳州有杨梅收购点违规使用防腐剂 当地已开展专项整治】财联社5月16日电，据媒体近日报道，福建省漳州市龙海区有杨梅收购点存在违规浸泡防腐剂、滥用疑似“三无”甜味剂行为，食品安全隐患突出。就相关情况致电龙海区农业农村局，该局负责人表示，在执法检查过程中发现，有部分收购点在收购早季杨梅时，为了卖相更好、甜度更高，违规使用防腐剂和甜味剂。今年以来，当地已加大抽查力度，但仍有不法商贩钻空子、“打游击”。针对此事件，龙海区已成立专项整治工作专班。 (新华社)",
-      "link": "https://api3.cls.cn/share/article/2373228?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 16 May 2026 13:10:42 GMT"
-    },
-    {
       "source": "第一财经",
       "title": "揭秘“恋陪”背后的商业：有人为它月消费万元｜商业秘密",
       "summary": "<figure><img alt=\"揭秘“恋陪”背后的商业：有人为它月消费万元｜商业秘密\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/42E000AF-F1BF-405F-94C4-DD45E8F37A6B.jpg\" /></figure><p>“恋陪”作为一种沉浸式剧本游戏，正通过提供情绪价值满足年轻人渴望陪伴却回避现实风险的需求。</p><p>昏暗的房间里，烛光摇曳，浪漫的背景音乐缓缓流淌，一位阳光帅气的小伙子正捧着蛋糕来给你“过生日”，并且记得你“从小到大所有的喜好”，还按照你的喜好准备了“礼物”，这样的场景很难令年轻女孩不心动……</p><p>这是第一财经记者在一家沉浸式剧本杀现场所看到的一幕，这并不是真正的恋爱，而是如今在年轻人消费中非常火热的“恋陪”，即一种沉浸式体验的游戏，“恋陪”是指由游戏DM（主持人）扮演玩家在剧本中的陪伴角色，全程陪玩家完成剧情。</p><p>第一财经记者近期调查发现，这个看似小众的玩法，正在催生一门围绕“情感代偿”的消费生意。而这背后既有商家的情绪价值经济，也有演职人员的求职需求，但",
       "link": "https://www.yicai.com/news/103185957.html",
       "published": "Sat, 16 May 2026 13:51:36 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "AI进化速递丨Anthropic正筹集超过300亿美元资金",
-      "summary": "<figure><img alt=\"AI进化速递丨Anthropic正筹集超过300亿美元资金\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/f2153d7ee3720fd252454e5254bc225a.jpg\" /></figure><p>上海电信率先发布Token资费套餐……</p><p>①上海电信率先发布Token资费套餐，1元对应25万额度点，支持手机账单付；<br /><br />②北京发布国内首个开源开放的AI智能体共性基础设施“灵玑OS”；<br /><br />③Anthropic正筹集超过300亿美元资金。</p>",
-      "link": "https://www.yicai.com/news/103185961.html",
-      "published": "Sat, 16 May 2026 13:21:34 GMT"
     },
     {
       "source": "上海证券报",
