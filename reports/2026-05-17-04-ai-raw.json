@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 1829,
-    "completion_tokens": 111,
-    "total_tokens": 1940
+    "prompt_tokens": 1879,
+    "completion_tokens": 149,
+    "total_tokens": 2028
   },
-  "content_length": 88,
-  "raw_content": "{\"news\":[],\"note\":\"当前抓取的两条新闻（伊朗恢复股市交易、英国工党党首竞选）均与中国A股无直接关联，对A股交易决策无实质性影响，故未筛选出符合标准的消息。\"}"
+  "content_length": 81,
+  "raw_content": "{\"news\": [], \"note\": \"当前抓取的三条消息均涉及国际政治或外部市场，与A股直接关联度极低，无重大影响，不符合筛选标准，因此未选入任何消息。\"}"
 }

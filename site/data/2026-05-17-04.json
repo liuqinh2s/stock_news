@@ -1,7 +1,27 @@
 {
   "date": "2026-05-17",
   "hour": "04",
-  "news": [],
-  "total_fetched": 2,
-  "generated_at": "2026-05-17T04:01:05.961341+08:00"
+  "news": [
+    {
+      "title": "伊朗核电站恢复建设",
+      "summary": "伊朗布什尔核电站二号机组恢复建设。该消息可能对A股核电板块及一带一路概念产生轻微情绪提振，但实际关联度有限，属于中性偏多信号。",
+      "reason": "国际核电建设动态，可能影响核电板块短期情绪，但影响较小。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "核电",
+        "一带一路"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373248?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    }
+  ],
+  "total_fetched": 3,
+  "generated_at": "2026-05-17T04:39:30.115463+08:00"
 }
