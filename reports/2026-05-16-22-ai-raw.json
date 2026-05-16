@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-16",
+  "hour": "22",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 4/6 策略=完整内容 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8751,
+    "completion_tokens": 2028,
+    "total_tokens": 10779
+  },
+  "content_length": 1544,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"Anthropic融资超300亿美元\",\n      \"summary\": \"Anthropic正筹集超过300亿美元资金，为AI大模型研发提供弹药。该消息提振全球AI产业链信心，A股AI算力、光模块、服务器等板块可能受益，短期看多。\",\n      \"reason\": \"全球AI巨头大额融资，反映AI产业高景气度，利好A股AI概念股。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"中际旭创\", \"工业富联\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103185961.html\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"上海电信发布Token资费套餐\",\n      \"summary\": \"上海电信率先发布Token资费套餐，1元对应25万额度点，支持手机账单付。此举标志着运营商加速转向算力运营，利好AI应用和算力产业链，A股算力租赁、运营商等概念受益，看多。\",\n      \"reason\": \"运营商推出Token套餐，降低AI使用门槛，有望刺激AI应用爆发，利好算力板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"算力租赁\", \"中国电信\", \"润泽科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103185961.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"北京发布AI智能体基础设施\",\n      \"summary\": \"北京发布国内首个开源开放的AI智能体共性基础设施“灵玑OS”，为AI智能体开发提供标准化平台。利好AI智能体、国产软件板块，看多。\",\n      \"reason\": \"地方政府推动AI智能体生态建设，加速产业化落地，利好相关概念股。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI智能体\", \"科大讯飞\", \"用友网络\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103185961.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"近6小时A股相关有效新消息较少，仅筛选出3条具有明确交易价值的AI产业消息。其余多为重复或与A股弱相关新闻。\"\n}"
+}
