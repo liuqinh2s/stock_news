@@ -1,23 +1,9 @@
 {
   "date": "2026-05-17",
   "hour": "06",
-  "total": 5,
-  "fetched_at": "2026-05-17T06:00:29.824746+08:00",
+  "total": 2,
+  "fetched_at": "2026-05-17T06:35:30.088534+08:00",
   "news": [
-    {
-      "source": "东方财富",
-      "title": "华林证券(002945)_最新价格_行情_走势图 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9SMy00Y3dBc3AzWXFKTEJGdkw1S0paSzRtYnI5aUYwVHRvWF9rS1FoRTd5NXF3SzVQeXZqSXdFLVdZVEFIQkNwWWttLVRRb1pRWnBNemVyc0FubXhGZ1NQdTJicmN0OGtUMEE?oc=5\" target=\"_blank\">华林证券(002945)_最新价格_行情_走势图</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SMy00Y3dBc3AzWXFKTEJGdkw1S0paSzRtYnI5aUYwVHRvWF9rS1FoRTd5NXF3SzVQeXZqSXdFLVdZVEFIQkNwWWttLVRRb1pRWnBNemVyc0FubXhGZ1NQdTJicmN0OGtUMEE?oc=5",
-      "published": "Sat, 16 May 2026 20:21:19 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "光大证券(601788)_最新价格_行情_走势图 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5jcDlnUU45bU9kUVhMWk9IY0M2MHlGdm9URDk5cVN0T2ZhSUdmaGN4ZmV6bjgteUVnakk1NERncURwMnRXQkhiQ1pFejNPRXFBb2oxMG5ZUnd5NTIxYmI5eDY0WmY0dFJUTVE?oc=5\" target=\"_blank\">光大证券(601788)_最新价格_行情_走势图</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jcDlnUU45bU9kUVhMWk9IY0M2MHlGdm9URDk5cVN0T2ZhSUdmaGN4ZmV6bjgteUVnakk1NERncURwMnRXQkhiQ1pFejNPRXFBb2oxMG5ZUnd5NTIxYmI5eDY0WmY0dFJUTVE?oc=5",
-      "published": "Sat, 16 May 2026 20:24:38 GMT"
-    },
     {
       "source": "财联社",
       "title": "意大利北部发生汽车冲撞行人事件 8人受伤",
@@ -31,13 +17,6 @@
       "summary": "【加拿大一涉疫邮轮归国人员汉坦病毒初检结果为阳性】财联社5月17日电，加拿大不列颠哥伦比亚省卫生官员16日通报，一名在该省接受隔离的“洪迪厄斯”号邮轮乘员汉坦病毒初步检测结果为阳性。目前，有10名加拿大籍人员因“洪迪厄斯”号疫情被隔离观察，其中4人在不列颠哥伦比亚省进行为期21天的隔离，另外6人在艾伯塔、安大略和魁北克三省。",
       "link": "https://api3.cls.cn/share/article/2373250?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Sat, 16 May 2026 21:35:26 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "伊朗布什尔核电站二号机组恢复建设",
-      "summary": "【伊朗布什尔核电站二号机组恢复建设】财联社5月17日电，当地时间16日，俄罗斯国家原子能公司相关负责人表示，伊朗布什尔核电站二号机组相关建设工作已经恢复，混凝土浇筑和钢筋施工等作业重新启动。该负责人同时表示，目前尚未决定是否让全部俄罗斯工作人员返回布什尔核电站。布什尔核电站在此前美国和以色列针对伊朗的军事行动期间曾多次遭到袭击，但据伊朗方面表示，该处核反应堆未受到损坏。",
-      "link": "https://api3.cls.cn/share/article/2373248?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 16 May 2026 20:28:01 GMT"
     }
   ]
 }

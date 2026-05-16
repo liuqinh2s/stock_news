@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 2165,
-    "completion_tokens": 193,
-    "total_tokens": 2358
+    "prompt_tokens": 1834,
+    "completion_tokens": 152,
+    "total_tokens": 1986
   },
   "content_length": 76,
-  "raw_content": "{\n  \"news\": [],\n  \"note\": \"当前抓取素材中无实质性影响A股的关键消息，均为个股行情页面或国际非相关事件，不符合筛选标准。\"\n}"
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"当前时段素材仅为国际社会新闻，与A股无直接关联，按筛选标准排除。暂无对A股有交易价值的消息。\"\n}"
 }
