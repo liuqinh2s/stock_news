@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-16",
+  "hour": "18",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7542,
+    "completion_tokens": 5095,
+    "total_tokens": 12637
+  },
+  "content_length": 2141,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"国产光纤光模块价格暴涨\",\n      \"summary\": \"财联社电报解读称，国产光纤光模块卖爆全球，部分特种光纤价格一年涨10倍。机构认为随着AI算力网络、6G预研等需求释放，全球光纤光缆市场将进入2-3年高景气周期。可能影响光通信、光纤光缆、AI算力相关个股，如中际旭创、长飞光纤等。看多信号，利好光通信产业链。\",\n      \"reason\": \"AI算力需求爆发带动光纤光模块量价齐升，属于行业高景气信号，对相关上市公司业绩有正面预期。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光通信\", \"光纤光缆\", \"AI算力\", \"中际旭创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373092?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"高盛警告美股回落风险\",\n      \"summary\": \"美国股市在1个月内创14次新高，动量股狂飙。高盛翻出40年历史数据，指出类似行情通常1个月后回落，提示风险。可能影响A股情绪，若美股回调可能拖累A股，但当前美股仍处高位。中性偏空信号，需警惕短期波动。\",\n      \"reason\": \"海外市场联动，高盛风险提示可能引发全球避险情绪，对A股大盘有间接压力。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"美股\", \"北向资金\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3772429\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"日股一代人一遇牛市\",\n      \"summary\": \"华尔街见闻文章指出，当前日股与1999年高度相似，投资者可能面临一代人一遇的牛市。日股走强可能吸引全球资金流入日本，对A股资金面形成分流，属于资金流出压力。看空信号对A股资金面不利。\",\n      \"reason\": \"资金流向竞争，日股牛市可能吸引外资从新兴市场回流日本，对A股北向资金构成压力。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"北向资金\", \"日股ETF\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3772428\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"中国制造回流趋势加强\",\n      \"summary\": \"第一财经报道，跨国企业高管看到中国制造回流，即部分制造业从海外回流中国。这反映了中国制造的优势，但时间周期较长。对制造业板块偏多，尤其是高端制造、自动化等领域。\",\n      \"reason\": \"产业趋势利好制造业，可能带来新增就业和投资，对相关上市公司有正面预期。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"制造业\", \"高端制造\", \"自动化设备\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103185789.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"经去重和筛选，仅找到4条有交易价值的消息，其余均与历史重复或无关。\"\n}"
+}
