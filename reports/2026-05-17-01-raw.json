@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-17",
+  "hour": "01",
+  "total": 4,
+  "fetched_at": "2026-05-17T01:00:33.867264+08:00",
+  "news": [
+    {
+      "source": "同花顺",
+      "title": "国海证券股份有限公司湛江体育南路证券营业部 - 同花顺数据中心",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9tLWNJSnJUNlZkaExEUHlZN1NvbHJGOEJiQkNZMVNzYmlpMjN1RjNhZUpJeXFtTndKa3pLbXBIbml0RGtKNTd4amxRbGQtLVN1cmxlQzA5YnlmZXBzY21pTERCRmZpRWdGU2VMRXM3UHFqWmlC?oc=5\" target=\"_blank\">国海证券股份有限公司湛江体育南路证券营业部</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺数据中心</font>",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tLWNJSnJUNlZkaExEUHlZN1NvbHJGOEJiQkNZMVNzYmlpMjN1RjNhZUpJeXFtTndKa3pLbXBIbml0RGtKNTd4amxRbGQtLVN1cmxlQzA5YnlmZXBzY21pTERCRmZpRWdGU2VMRXM3UHFqWmlC?oc=5",
+      "published": "Sat, 16 May 2026 15:24:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "东吴证券：给予龙净环保买入评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZEx0QWZ6ZzgyaG5tYTFPcWZWNkRHVzVJbTdjb0NKdkVyQVR3RlVZU2t4b0pXdmhwRHFOWEF2TEdiV3hQWEY5WGI0RHZFT0picHdBbU5Na0lDSEhhZEE?oc=5\" target=\"_blank\">东吴证券：给予龙净环保买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZEx0QWZ6ZzgyaG5tYTFPcWZWNkRHVzVJbTdjb0NKdkVyQVR3RlVZU2t4b0pXdmhwRHFOWEF2TEdiV3hQWEY5WGI0RHZFT0picHdBbU5Na0lDSEhhZEE?oc=5",
+      "published": "Sat, 16 May 2026 15:03:55 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "克罗地亚一客机起飞时偏离跑道 无人员受伤",
+      "summary": "【克罗地亚一客机起飞时偏离跑道 无人员受伤】财联社5月17日电，克罗地亚航空公司一架载有130多人的客机16日在斯普利特机场起飞时偏离跑道，飞机受损，但乘客和机组人员均安然无恙。据普利特机场和克罗地亚航空公司的消息，这架空中客车A220-300飞机执飞OU412国际定期航班，从克罗地亚第二大城市斯普利特飞往德国法兰克福。当地时间13时30分许，飞机起飞时偏离跑道，滑行至跑道旁的草地上。据悉，机上共有130多人。所有人员均已安全从机上撤离，无人员受伤。机场技术团队正努力将受损飞机从跑道上移走。",
+      "link": "https://api3.cls.cn/share/article/2373242?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 16 May 2026 16:39:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "安提瓜和巴布达附近海域发生6.4级地震",
+      "summary": "【安提瓜和巴布达附近海域发生6.4级地震】财联社5月16日电，据欧洲-地中海地震中心消息，当地时间16日上午10时50分，安提瓜和巴布达附近海域发生6.4级地震，震中位于北纬17.2336度、西经61.3383度，震源深度约70公里。目前暂无人员伤亡及财产损失报告。",
+      "link": "https://api3.cls.cn/share/article/2373241?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 16 May 2026 15:38:11 GMT"
+    }
+  ]
+}

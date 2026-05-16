@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2116,
+    "completion_tokens": 720,
+    "total_tokens": 2836
+  },
+  "content_length": 677,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"东吴证券上调龙净环保评级\",\n      \"summary\": \"东吴证券发布研报，给予龙净环保买入评级，认为公司环保业务有望受益于政策支持。该评级为单一券商观点，对板块影响有限。信号中性，需关注后续其他机构跟进情况。\",\n      \"reason\": \"机构评级变动，属于优先级二的中期影响消息，但单家券商评级影响较弱。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"龙净环保\", \"环保板块\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZEx0QWZ6ZzgyaG5tYTFPcWZWNkRHVzVJbTdjb0NKdkVyQVR3RlVZU2t4b0pXdmhwRHFOWEF2TEdiV3hQWEY5WGI0RHZFT0picHdBbU5Na0lDSEhhZEE?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前时段A股相关重大消息较少，仅筛选到一条机构评级消息，其他为国际事件或无价值信息。\"\n}"
+}
