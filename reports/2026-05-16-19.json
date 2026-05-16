@@ -3,14 +3,13 @@
   "hour": "19",
   "news": [
     {
-      "title": "下周限售解禁591亿元",
-      "summary": "下周A股将有53家公司限售股解禁，总市值591.05亿元。解禁规模较大，可能对市场形成抛压，尤其是解禁股数量集中的个股和板块。历史数据显示，大规模解禁前后相关个股往往承压。投资者需关注解禁名单中市值较大的公司，如银行、电子等板块。信号偏空，短期需警惕资金流出压力。",
-      "reason": "限售股解禁是影响资金面的直接因素，解禁规模较大，符合优先级一中的'限售股集中解禁'标准，对大盘短期走势构成利空。",
+      "title": "下周53家公司解禁591亿",
+      "summary": "据新浪财经报道，下周A股将有53家公司限售股份解禁，总解禁市值达591.05亿元。解禁规模较大，可能对相关个股及市场整体形成抛压，尤其对解禁比例较高的个股影响显著。属于利空信号，投资者需警惕解禁带来的股价下行风险。",
+      "reason": "限售股集中解禁属于优先级一的影响行情消息，大规模解禁预警直接影响资金面和市场情绪。",
       "category": "资金流向",
       "impact_stocks": [
         "沪深300",
-        "上证50",
-        "解禁个股"
+        "解禁公司所在板块"
       ],
       "signal": "bearish",
       "impact_level": 4,
@@ -23,69 +22,64 @@
       "urgency": "days"
     },
     {
-      "title": "普京将访华，关注合作",
-      "summary": "俄罗斯总统普京将于近日对华进行国事访问，预计双方将签署能源、基建、航天等领域合作协议。此访有望推动'一带一路'和东北振兴战略，利好中俄贸易、石油天然气、交通运输等板块。市场对合作预期升温，相关概念股可能提前反应。信号偏多，关注能源和基建龙头。",
-      "reason": "重大外交事件影响市场情绪和行业预期，符合优先级二中的'行业政策变动'及'公司重大事件'，对相关板块构成利好。",
+      "title": "高瓴追光光伏板块",
+      "summary": "华尔街见闻报道，知名投资机构高瓴资本近期加码光伏领域投资，被市场解读为看好光伏行业长期前景。高瓴的布局往往具有风向标意义，可能带动资金关注光伏板块，相关龙头及产业链公司有望受益。属于偏多信号。",
+      "reason": "知名机构集中调研/投资属于优先级二的中期影响消息，高瓴作为头部机构动作具有示范效应。",
       "category": "行业动态",
       "impact_stocks": [
-        "一带一路",
-        "石油天然气",
-        "基建",
-        "中俄贸易"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260516/c676743380.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "国产光纤光模块全球爆单",
-      "summary": "国产光纤光模块全球热销，部分特种光纤价格一年涨10倍。机构认为AI算力网络、6G预研等需求将推动光纤光缆进入2-3年高景气周期。相关上市公司订单饱满，业绩预期上调。利好光纤光缆、光模块及上游材料板块，关注行业龙头。信号明确看多，可积极配置。",
-      "reason": "行业景气度显著提升，符合优先级二中的'行业政策变动'和业绩增长预期，对通信板块构成实质性利好。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "光纤光缆",
-        "光模块",
-        "通信设备",
-        "中际旭创"
+        "光伏概念",
+        "高瓴持仓股"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373092?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772432"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "公募前四月分红超600亿",
+      "summary": "澎湃新闻报道，2026年前4个月公募基金分红总额超600亿元，规模较大。分红反映基金盈利及现金流充裕，可能增强投资者信心，但分红后基金规模缩减，短期影响中性。",
+      "reason": "基金分红数据属于市场结构信号，反映公募基金盈利状况，对市场情绪有一定影响。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "沪深300",
+        "基金重仓板块"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdklZVWVQM2lpVWttLW5pTU1RR3dELXptUDZieUtITjFkSlEyU0ZZNTBUQTVVN0FVVWlKZFVla2dPNUtMMlBoWlpxWmhFenpIakw4SjRTa2R0M0stNnc?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "牛肉进口配额余量不足20%",
-      "summary": "商务部贸易救济局通报，自澳大利亚进口的牛肉保障措施配额已使用80%，剩余不到20%。进口牛肉数量接近触发配额上限，可能导致国内牛肉供应趋紧，有利于国内肉牛养殖企业。利好福成股份、鹏都农牧等牛肉概念股。需求端稳定，供给收缩预期推升价格。",
-      "reason": "贸易配额变化直接影响相关商品价格和公司盈利，符合优先级二中的'行业政策变动'，对农业板块中的牛肉子行业构成利好。",
-      "category": "行业动态",
+      "title": "全球流动性拐点与A股风格",
+      "summary": "新浪财经分析文章指出，全球流动性面临拐点，A股风格将从极致抱团转向均衡回归。若流动性收紧，高估值板块承压，低估值价值股可能受益。投资者需关注全球央行政策变化，目前信号偏中性谨慎。",
+      "reason": "宏观经济预期变化影响市场风格，属于中期影响因素，对交易策略有参考价值。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "牛肉",
-        "养殖",
-        "福成股份",
-        "鹏都农牧"
+        "沪深300",
+        "价值风格股",
+        "成长风格股"
       ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3104788"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zTzFqc3pVUWxnc2VTaEZTZFRScFhIdDZxODY2UWNtVUNZeC1KaVlVVE9pODFKVnB2N21kdmEtZGtxTi0tUkk1bkRlbnNtY3FacmxHNTlWX1VFNTNBTXZnYmwyamJfSDZDdzQ5T2oyVkZLYVJYR1ZYb1pOZUxZbWM?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 29,
-  "generated_at": "2026-05-16T19:02:00.849294+08:00"
+  "total_fetched": 24,
+  "generated_at": "2026-05-16T19:43:04.432615+08:00"
 }
