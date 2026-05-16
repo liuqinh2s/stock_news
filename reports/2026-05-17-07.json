@@ -3,25 +3,100 @@
   "hour": "07",
   "news": [
     {
-      "title": "联合国促黎以延长停火",
-      "summary": "联合国秘书长发表声明，对黎以双方同意延长停火表示欢迎，呼吁各方保持克制，通过对话解决争端。此举有助于中东地区局势缓和，减少地缘政治风险，对A股市场影响有限，但可能小幅提振投资者风险偏好。石油、黄金等避险资产或有所回落，相关板块如石油石化、黄金珠宝可能受轻微影响。整体看多市场情绪，但信号极弱。",
-      "reason": "中东地缘政治缓和信号，虽不直接关联A股，但能降低市场不确定性，属于轻度利好。",
+      "title": "中国新能源专利全球领先",
+      "summary": "据同花顺和财联社报道，中国汽车专利公开量全球领先，新能源领域年均增长率达17.1%。这表明中国在新能源汽车技术研发上持续投入，具备较强创新实力。可能利好新能源汽车、锂电池、充电桩等板块。信号看多，行业龙头如比亚迪、宁德时代等有望受益。",
+      "reason": "新能源行业利好，符合筛选标准优先级二行业政策变动，对应板块bullish。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "新能源汽车",
+        "锂电池",
+        "充电桩"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260517/c676744986.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373257?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美以伊冲突致伊拉克原油锐减",
+      "summary": "同花顺和财联社报道，美以伊冲突导致伊拉克原油出口锐减。中东地缘政治紧张加剧，原油供给面临风险。布伦特原油可能上涨，直接利好A股石油板块如中国石油、中国石化等。但油价上行可能推升通胀，对大盘构成压力，短期石油股看多。",
+      "reason": "地缘政治影响原油供给，石油板块利好，符合优先级二海外市场联动。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油板块",
+        "中国石油",
+        "中国石化"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260517/c676744966.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373258?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "盖茨基金会清仓微软股票",
+      "summary": "据东方财富和财联社，比尔及梅琳达·盖茨基金会已不再持有微软股票。该基金会此前长期持有微软大量股份，此次清仓可能出于多元化或税务考虑，但可能被市场解读为科技板块估值偏高信号。对A股科技股情绪面有轻微负面影响。",
+      "reason": "全球知名基金减持科技龙头，影响市场情绪，符合优先级三市场情绪信号。",
       "category": "市场情绪",
       "impact_stocks": [
-        "石油石化",
-        "黄金珠宝"
+        "科技股",
+        "半导体",
+        "人工智能"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GRmJsMVlodllJaHkyazQtcnFITlVxdXFkZWpsYlVKR0tCb2NVemM5amVqYU9XazdpN1pNQ3JvWVFRTU00Qk45dFlJbks4UFFUUUpqNlVuU29sbEx3RGpjZjc2TnYxNmluc09QeQ?oc=5"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373255?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "联合国欢迎黎以延长停火",
+      "summary": "联合国秘书长对黎以延长停火表示欢迎，中东紧张局势暂时缓解。此前冲突导致风险偏好下降，停火消息有助于稳定市场情绪，减少避险需求，对A股整体影响偏正面，但力度有限。",
+      "reason": "地缘风险缓解，利好市场情绪，但影响较小。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300"
       ],
       "signal": "bullish",
       "impact_level": 1,
       "sources": [
         {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260517/c676744964.shtml"
+        },
+        {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2373252?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 4,
-  "generated_at": "2026-05-17T07:01:03.536041+08:00"
+  "total_fetched": 19,
+  "generated_at": "2026-05-17T07:41:35.896443+08:00"
 }

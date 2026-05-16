@@ -2,13 +2,13 @@
   "date": "2026-05-17",
   "hour": "07",
   "model": "deepseek-v4-flash",
-  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 2038,
-    "completion_tokens": 228,
-    "total_tokens": 2266
+    "prompt_tokens": 3133,
+    "completion_tokens": 2342,
+    "total_tokens": 5475
   },
-  "content_length": 60,
-  "raw_content": "{\n  \"news\": [],\n  \"note\": \"当前时段无对A股有实质影响的重大消息，建议关注后续市场动态。\"\n}"
+  "content_length": 2581,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"中国新能源专利全球领先\",\n      \"summary\": \"据同花顺和财联社报道，中国汽车专利公开量全球领先，新能源领域年均增长率达17.1%。这表明中国在新能源汽车技术研发上持续投入，具备较强创新实力。可能利好新能源汽车、锂电池、充电桩等板块。信号看多，行业龙头如比亚迪、宁德时代等有望受益。\",\n      \"reason\": \"新能源行业利好，符合筛选标准优先级二行业政策变动，对应板块bullish。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"新能源汽车\", \"锂电池\", \"充电桩\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260517/c676744986.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373257?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"美以伊冲突致伊拉克原油锐减\",\n      \"summary\": \"同花顺和财联社报道，美以伊冲突导致伊拉克原油出口锐减。中东地缘政治紧张加剧，原油供给面临风险。布伦特原油可能上涨，直接利好A股石油板块如中国石油、中国石化等。但油价上行可能推升通胀，对大盘构成压力，短期石油股看多。\",\n      \"reason\": \"地缘政治影响原油供给，石油板块利好，符合优先级二海外市场联动。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油板块\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260517/c676744966.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373258?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"盖茨基金会清仓微软股票\",\n      \"summary\": \"据东方财富和财联社，比尔及梅琳达·盖茨基金会已不再持有微软股票。该基金会此前长期持有微软大量股份，此次清仓可能出于多元化或税务考虑，但可能被市场解读为科技板块估值偏高信号。对A股科技股情绪面有轻微负面影响。\",\n      \"reason\": \"全球知名基金减持科技龙头，影响市场情绪，符合优先级三市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"科技股\", \"半导体\", \"人工智能\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMibEFVX3lxTE5GRmJsMVlodllJaHkyazQtcnFITlVxdXFkZWpsYlVKR0tCb2NVemM5amVqYU9XazdpN1pNQ3JvWVFRTU00Qk45dFlJbks4UFFUUUpqNlVuU29sbEx3RGpjZjc2TnYxNmluc09QeQ?oc=5\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373255?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"联合国欢迎黎以延长停火\",\n      \"summary\": \"联合国秘书长对黎以延长停火表示欢迎，中东紧张局势暂时缓解。此前冲突导致风险偏好下降，停火消息有助于稳定市场情绪，减少避险需求，对A股整体影响偏正面，但力度有限。\",\n      \"reason\": \"地缘风险缓解，利好市场情绪，但影响较小。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260517/c676744964.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373252?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"今日A股直接相关消息较少，除上述4条外，其余素材多为重复或影响微弱，故仅筛选4条。\"\n}"
 }
