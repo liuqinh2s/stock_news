@@ -3,26 +3,26 @@
   "hour": "22",
   "news": [
     {
-      "title": "北京发布AI智能体基础设施",
-      "summary": "北京发布国内首个开源开放的AI智能体共性基础设施“灵玑OS”，为AI智能体开发提供标准化平台。利好AI智能体、国产软件板块，看多。",
-      "reason": "地方政府推动AI智能体生态建设，加速产业化落地，利好相关概念股。",
-      "category": "行业动态",
+      "title": "圣邦股份赴港上市申请审阅",
+      "summary": "圣邦股份（300661）公告，港交所上市委员会已审阅其上市申请，拟在香港主板上市。A股公司赴港上市增加融资渠道，提升国际影响力，利好半导体板块。信号中性偏多，需关注最终定价和发行节奏。",
+      "reason": "A股公司香港上市属于重大公司事件，可能带动半导体板块估值重估。",
+      "category": "公司公告",
       "impact_stocks": [
-        "AI智能体",
-        "科大讯飞",
-        "用友网络"
+        "圣邦股份",
+        "半导体",
+        "港股通"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103185961.html"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NNWdoWDNSUkhVdmwyb3pteW9yQ1dxME81eUVGZTVPcV9UV0otcWNTRHltM3F1SnlGN0k3d1lQRkxuaW1seDVUcXZ3R3pBT19hakVJRmdtZWdaVEtGWW0zdjlFTHZHUzJyQnY0dDgta002UWhUMnc?oc=5"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 22,
-  "generated_at": "2026-05-16T22:02:01.640325+08:00"
+  "total_fetched": 19,
+  "generated_at": "2026-05-16T22:19:42.643844+08:00"
 }
