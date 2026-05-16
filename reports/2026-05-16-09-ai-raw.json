@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-16",
+  "hour": "09",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 10037,
+    "completion_tokens": 2142,
+    "total_tokens": 12179
+  },
+  "content_length": 1705,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"神舟二十三号转运发射区\",\n      \"summary\": \"神舟二十三号载人飞船与长征二号F遥二十三运载火箭组合体开始向发射区转运，即将择机发射。这是中国航天又一重要进展，将提振航天军工板块情绪，相关个股如航天电子、中国卫星等可能受到关注。属于行业动态，偏利好信号。\",\n      \"reason\": \"航天发射任务进展，刺激航天军工板块情绪，且历史消息中未出现，属于新消息。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"航天军工\", \"航天电子\", \"中国卫星\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260516/c676740932.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373083?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"平安不再设立监事会\",\n      \"summary\": \"平安银行发布公告称，不再设立监事会，相关职能由董事会审计委员会等承接。至此A股五大上市险企已全部撤销监事会。此举是公司治理结构优化，符合监管趋势，对保险板块影响中性偏正面，但短期影响有限。\",\n      \"reason\": \"涉及上市险企治理结构变化，属于公司公告，历史消息中未出现，关注度中等。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"中国平安\", \"保险板块\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE03NzlNR1ozVTZuOEdyd2MzOGtpRFlweEZjanpVWXcwTkZXRXI0VjJMcS1wMmFfR0tlRVR1TTExS0RXZm5tSnZsVEl0S1BvcXVUbm5rektkMVZhU20tN3JzaXllREZuR09BblR6aFVrRmxDZzNRaVE?oc=5\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"海康威视与树根数字合作\",\n      \"summary\": \"海康威视与树根数字达成战略合作，共同推进制造业数字化转型。双方将整合资源，在工业互联网、智能制造等领域展开合作。对海康威视而言，有助于拓展工业互联网业务，增强竞争力，偏利好信号。\",\n      \"reason\": \"公司战略合作，属个股利好，历史消息中未出现，但影响范围有限。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"海康威视\", \"工业互联网\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260516/c676740834.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
