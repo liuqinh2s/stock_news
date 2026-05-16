@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 2116,
-    "completion_tokens": 720,
-    "total_tokens": 2836
+    "prompt_tokens": 1977,
+    "completion_tokens": 535,
+    "total_tokens": 2512
   },
-  "content_length": 677,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"东吴证券上调龙净环保评级\",\n      \"summary\": \"东吴证券发布研报，给予龙净环保买入评级，认为公司环保业务有望受益于政策支持。该评级为单一券商观点，对板块影响有限。信号中性，需关注后续其他机构跟进情况。\",\n      \"reason\": \"机构评级变动，属于优先级二的中期影响消息，但单家券商评级影响较弱。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"龙净环保\", \"环保板块\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZEx0QWZ6ZzgyaG5tYTFPcWZWNkRHVzVJbTdjb0NKdkVyQVR3RlVZU2t4b0pXdmhwRHFOWEF2TEdiV3hQWEY5WGI0RHZFT0picHdBbU5Na0lDSEhhZEE?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前时段A股相关重大消息较少，仅筛选到一条机构评级消息，其他为国际事件或无价值信息。\"\n}"
+  "content_length": 690,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"欧洲接触革命卫队谈海峡通行\",\n      \"summary\": \"欧洲方面据称已开始就霍尔木兹海峡通行问题与伊朗革命卫队接触。霍尔木兹海峡是全球最重要的原油运输通道，约占全球石油贸易量的三分之一。若局势缓和，有助于降低原油供应中断风险，利空原油价格，利好石化下游及航空运输板块；若紧张加剧，则利好石油开采及能源设备板块。当前消息偏向缓和，但对A股影响有限，需观察后续进展。\",\n      \"reason\": \"地缘政治事件可能影响原油价格及A股相关板块，虽非直接针对A股，但涉及全球能源供应链，属于中期影响因素。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油开采\", \"航空运输\", \"化工\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373243?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮仅筛选出1条对A股有潜在影响的消息，其余素材（券商分公司新闻、国外航空事故）不符合筛选标准。\"\n}"
 }
