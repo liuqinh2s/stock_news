@@ -1,23 +1,9 @@
 {
   "date": "2026-05-17",
   "hour": "00",
-  "total": 12,
-  "fetched_at": "2026-05-17T00:00:32.446635+08:00",
+  "total": 6,
+  "fetched_at": "2026-05-17T00:44:04.962896+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "A股药企突遭国际巨头4.3亿元索赔，20 厘米跌停，撕开 CXO 出海隐痛 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjM4UURsR21QU25laWZxUWQ0NWdJQnQ4MXNldng3MnN0b0cwczV5X3NXY3JHcEZEcWp4elJoYmV0UzBfd19qRXZNU0hhem56RG1yRUw4M2ZoenNPN2tTM3g1eVgzbktpSHp4VzF3RVZDVTBxZDZxZGxZR0ZscjVRSFJXZl8?oc=5\" target=\"_blank\">A股药企突遭国际巨头4.3亿元索赔，20 厘米跌停，撕开 CXO 出海隐痛</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjM4UURsR21QU25laWZxUWQ0NWdJQnQ4MXNldng3MnN0b0cwczV5X3NXY3JHcEZEcWp4elJoYmV0UzBfd19qRXZNU0hhem56RG1yRUw4M2ZoenNPN2tTM3g1eVgzbktpSHp4VzF3RVZDVTBxZDZxZGxZR0ZscjVRSFJXZl8?oc=5",
-      "published": "Sat, 16 May 2026 14:20:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "688549，股价翻倍！氟概念股集体上涨，什么情况？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW5HLUlVUnEwaTFHZ1A3WS0xN1lfa3VjSHpFSmZqR3YtV1RYOExMYmtTRHhpZVV5d0tJXzF5Y3VXV2YxaklOdUItNDFKenlnZjZfX21xNERQdFR1Z0ZWQms3YldOMkY2elRtS0tSa21vRVUyaE9JLVZCd09meTVqcw?oc=5\" target=\"_blank\">688549，股价翻倍！氟概念股集体上涨，什么情况？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW5HLUlVUnEwaTFHZ1A3WS0xN1lfa3VjSHpFSmZqR3YtV1RYOExMYmtTRHhpZVV5d0tJXzF5Y3VXV2YxaklOdUItNDFKenlnZjZfX21xNERQdFR1Z0ZWQms3YldOMkY2elRtS0tSa21vRVUyaE9JLVZCd09meTVqcw?oc=5",
-      "published": "Sat, 16 May 2026 14:25:00 GMT"
-    },
     {
       "source": "同花顺",
       "title": "拉脱维亚总统提名候任总理",
@@ -26,18 +12,11 @@
       "published": "Sat, 16 May 2026 14:52:41 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "中亚首条全自动无人驾驶轻轨在哈萨克斯坦正式通车",
-      "summary": "当地时间5月16日，哈萨克斯坦阿斯塔纳轻轨一期项目正式通车，这也是中亚地区首条全自动无人驾驶轻轨线路，该线路主要由中企承建，并采用中国装备、中国技术和中国标准。 (央视)",
-      "link": "https://news.10jqka.com.cn/20260516/c676744425.shtml",
-      "published": "Sat, 16 May 2026 14:30:21 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊拉克新总理承诺推动全面经济改革与反腐",
-      "summary": "据伊拉克总理新闻办公室16日发表的声明，新任总理扎伊迪当天发表就职讲话，承诺启动全面经济改革计划，并打击行政和金融腐败。扎伊迪强调，政府将启动全面经济和金融改革计划，“旨在建立强劲、多元化和可持续的国民经济，不再依赖单一资源”。他表示，改革计划以振兴工业、农业、旅游业和投资为基础，并强调政府决心保护公共资金，打击一切形式的行政和金融腐败。 (新华社)",
-      "link": "https://news.10jqka.com.cn/20260516/c676744339.shtml",
-      "published": "Sat, 16 May 2026 14:00:54 GMT"
+      "source": "财联社",
+      "title": "克罗地亚一客机起飞时偏离跑道 无人员受伤",
+      "summary": "【克罗地亚一客机起飞时偏离跑道 无人员受伤】财联社5月17日电，克罗地亚航空公司一架载有130多人的客机16日在斯普利特机场起飞时偏离跑道，飞机受损，但乘客和机组人员均安然无恙。据普利特机场和克罗地亚航空公司的消息，这架空中客车A220-300飞机执飞OU412国际定期航班，从克罗地亚第二大城市斯普利特飞往德国法兰克福。当地时间13时30分许，飞机起飞时偏离跑道，滑行至跑道旁的草地上。据悉，机上共有130多人。所有人员均已安全从机上撤离，无人员受伤。机场技术团队正努力将受损飞机从跑道上移走。",
+      "link": "https://api3.cls.cn/share/article/2373242?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sat, 16 May 2026 16:39:43 GMT"
     },
     {
       "source": "财联社",
@@ -66,27 +45,6 @@
       "summary": "【本轮以黎冲突已造成黎巴嫩2969人丧生】财联社5月16日电，当地时间5月16日，黎巴嫩卫生部发表声明称，自3月2日以来，以色列对黎巴嫩的袭击已造成黎2969人死亡，另有9112人受伤。",
       "link": "https://api3.cls.cn/share/article/2373236?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Sat, 16 May 2026 14:44:21 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "新疆克孜勒苏州阿图什市发生4.1级地震 震源深度17公里",
-      "summary": "【新疆克孜勒苏州阿图什市发生4.1级地震 震源深度17公里】财联社5月16日电，中国地震台网正式测定：5月16日22时12分，在新疆克孜勒苏州阿图什市（北纬40.05度，东经77.82度）发生4.1级地震，震源深度17公里。",
-      "link": "https://api3.cls.cn/share/article/2373235?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 16 May 2026 14:28:12 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中亚首条全自动无人驾驶轻轨在哈萨克斯坦正式通车",
-      "summary": "【中亚首条全自动无人驾驶轻轨在哈萨克斯坦正式通车】财联社5月16日电，当地时间5月16日，哈萨克斯坦阿斯塔纳轻轨一期项目正式通车，这也是中亚地区首条全自动无人驾驶轻轨线路，该线路主要由中企承建，并采用中国装备、中国技术和中国标准。 (央视)",
-      "link": "https://api3.cls.cn/share/article/2373234?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sat, 16 May 2026 14:13:29 GMT"
-    },
-    {
-      "source": "上海证券报",
-      "title": "4月以来，有389家公司股东拟减持 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE41SHBVSXZTVjdLZFc0ZWIwZHo4ODJyMFAwZG1DRk8yWUZKQnh1Q1cxUlZoZTl4QTZ5N3RBVnA4ZjB4c3VyTXQ1VmpTYzVyU2VVN1U3eFJJWWhvc28zWXJUd05KZThnOTBocUhfV3g4bVI3cGFybHc?oc=5\" target=\"_blank\">4月以来，有389家公司股东拟减持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41SHBVSXZTVjdLZFc0ZWIwZHo4ODJyMFAwZG1DRk8yWUZKQnh1Q1cxUlZoZTl4QTZ5N3RBVnA4ZjB4c3VyTXQ1VmpTYzVyU2VVN1U3eFJJWWhvc28zWXJUd05KZThnOTBocUhfV3g4bVI3cGFybHc?oc=5",
-      "published": "Sat, 16 May 2026 14:36:00 GMT"
     }
   ]
 }

@@ -2,13 +2,13 @@
   "date": "2026-05-17",
   "hour": "00",
   "model": "deepseek-v4-flash",
-  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 5742,
-    "completion_tokens": 2085,
-    "total_tokens": 7827
+    "prompt_tokens": 2029,
+    "completion_tokens": 480,
+    "total_tokens": 2509
   },
-  "content_length": 1994,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"药企遭索赔4.3亿跌停\",\n      \"summary\": \"某A股药企因专利纠纷被国际巨头索赔4.3亿元，股价20厘米跌停，引发CXO板块恐慌。该事件暴露CXO出海面临的法律风险和不确定性，可能拖累整个板块估值。短期看空CXO板块，相关个股如药明康德、康龙化成等承压。\",\n      \"reason\": \"涉及核心CXO公司重大诉讼，直接影响股价及板块情绪，符合优先级一。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"CXO\", \"药明康德\", \"康龙化成\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNjM4UURsR21QU25laWZxUWQ0NWdJQnQ4MXNldng3MnN0b0cwczV5X3NXY3JHcEZEcWp4elJoYmV0UzBfd19qRXZNU0hhem56RG1yRUw4M2ZoenNPN2tTM3g1eVgzbktpSHp4VzF3RVZDVTBxZDZxZGxZR0ZscjVRSFJXZl8?oc=5\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"氟概念股集体飙升\",\n      \"summary\": \"688549股价翻倍，带动氟概念股集体上涨。可能受制冷剂配额收紧或新能源需求拉动，氟化工景气度提升。短期内氟化工板块有望继续走强，关注相关个股如巨化股份、三美股份等。看多信号。\",\n      \"reason\": \"板块异动，资金关注度高，符合优先级三市场情绪信号，需跟踪持续性。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"氟化工\", \"巨化股份\", \"三美股份\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQW5HLUlVUnEwaTFHZ1A3WS0xN1lfa3VjSHpFSmZqR3YtV1RYOExMYmtTRHhpZVV5d0tJXzF5Y3VXV2YxaklOdUItNDFKenlnZjZfX21xNERQdFR1Z0ZWQms3YldOMkY2elRtS0tSa21vRVUyaE9JLVZCd09meTVqcw?oc=5\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"389家公司股东拟减持\",\n      \"summary\": \"据上海证券报统计，4月以来已有389家公司股东发布减持计划。大规模减持预示产业资本套现压力，对市场资金面构成利空，可能压制中小盘股表现。短期需警惕集中减持风险，尤其是涨幅较大个股。\",\n      \"reason\": \"大股东减持是重要资金流向信号，直接增加抛压，符合优先级一。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"中小盘\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE41SHBVSXZTVjdLZFc0ZWIwZHo4ODJyMFAwZG1DRk8yWUZKQnh1Q1cxUlZoZTl4QTZ5N3RBVnA4ZjB4c3VyTXQ1VmpTYzVyU2VVN1U3eFJJWWhvc28zWXJUd05KZThnOTBocUhfV3g4bVI3cGFybHc?oc=5\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本次有效消息较少，仅筛选出3条，其余素材多为国际政治、自然灾害等无关A股消息，已按规则排除。\"\n}"
+  "content_length": 682,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"非洲埃博拉疫情紧急应对\",\n      \"summary\": \"非洲疾控中心宣布启动紧急措施应对埃博拉疫情。埃博拉病毒具有高传染性和致死率，疫情可能引发全球对相关检测、疫苗和治疗药物的关注。A股生物医药板块中，涉及疫苗研发、检测试剂及抗病毒药物的公司可能受益。但疫情爆发地远离中国，对国内经济直接影响有限，更多是情绪和概念炒作。看多生物医药板块，但持续性需观察疫情进展。\",\n      \"reason\": \"埃博拉疫情属于公共卫生事件，可能带动A股医药板块炒作，符合行业动态标准。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"生物医药\", \"疫苗\", \"检测试剂\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373239?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮素材中其他消息（拉脱维亚总统提名、克罗地亚客机偏离跑道、安提瓜地震、以黎冲突）对A股无直接影响，故仅筛选1条。\"\n}"
 }
