@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-16",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7477,
+    "completion_tokens": 3550,
+    "total_tokens": 11027
+  },
+  "content_length": 2106,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"药企遭4.3亿索赔，CXO承压\",\n      \"summary\": \"某A股CXO药企被国际巨头索赔4.3亿元，股价20cm跌停，暴露出海业务风险。该事件直接利空相关企业，并可能引发市场对CXO板块海外诉讼风险的担忧，短期内该板块承压。\",\n      \"reason\": \"公司重大利空事件，直接导致股价跌停，影响CXO板块情绪。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"CXO\", \"药明康德\", \"康龙化成\", \"凯莱英\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFA5OUE2Y0xZWFFZUEZKY1BsRGsyaWlHZTlLcWJucnlJcENYal9xbzFrWk9pUVZsYWUtRXNGMnVJSnFfc1RGRGNFSmt1QWMzU0d0MmZUQnNZTHlQbl9OS1RVWjZ1UjdHMTdXQ09uVlgxeVJFc1NRVWFjMQ?oc=5\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"机器人国家级训练场启用\",\n      \"summary\": \"国家机器人职业技能训练基地正式启用，旨在培养机器人产业人才，推动工业自动化升级。该消息对机器人产业链构成长期利好，相关设备、集成商有望受益。\",\n      \"reason\": \"行业政策利好，有利于机器人板块长期发展。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"机器人\", \"工业自动化\", \"埃斯顿\", \"汇川技术\", \"新时达\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260516/c676743891.shtml\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"高瓴投资光伏领域\",\n      \"summary\": \"知名投资机构高瓴资本近期大举投资光伏企业，释放积极信号。该举动表明机构看好光伏行业长期前景，可能吸引跟风资金入场，推动光伏板块行情。\",\n      \"reason\": \"知名机构资本动向，对市场有风向标作用。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"光伏\", \"隆基绿能\", \"阳光电源\", \"通威股份\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3772432\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"公募前四月分红超600亿\",\n      \"summary\": \"公募基金在保护投资者行动下，前四月分红总额超过600亿元，创近年同期新高。分红积极体现基金盈利状况良好，有助于提升市场信心，但分红本身对指数影响中性偏多。\",\n      \"reason\": \"市场情绪信号，显示基金公司回馈投资者，增强市场信心。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"基金重仓股\", \"贵州茅台\", \"宁德时代\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"澎湃新闻财经\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPdklZVWVQM2lpVWttLW5pTU1RR3dELXptUDZieUtITjFkSlEyU0ZZNTBUQTVVN0FVVWlKZFVla2dPNUtMMlBoWlpxWmhFenpIakw4SjRTa2R0M0stNnc?oc=5\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前市场中未有重大新消息，仅筛选出4条轻度至中度影响消息，供参考。\"\n}"
+}
