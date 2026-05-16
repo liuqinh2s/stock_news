@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 1837,
-    "completion_tokens": 324,
-    "total_tokens": 2161
+    "prompt_tokens": 1829,
+    "completion_tokens": 212,
+    "total_tokens": 2041
   },
-  "content_length": 129,
-  "raw_content": "{\n  \"news\": [],\n  \"note\": \"近6小时内无直接影响A股行情的重大消息。两条素材分别涉及英国工党党首竞选（与A股无关）和欧洲与革命卫队接触讨论霍尔木兹海峡问题（地缘政治风险缓解信号，但消息模糊，对A股影响微弱且不确定，暂不纳入）。\"\n}"
+  "content_length": 75,
+  "raw_content": "{\"news\": [], \"note\": \"当前6小时内无符合A股筛选标准的重要消息。伊朗股市恢复与英国政党竞选对A股均无直接影响，已按规则排除。\"}"
 }

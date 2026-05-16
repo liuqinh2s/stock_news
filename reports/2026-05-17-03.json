@@ -1,7 +1,26 @@
 {
   "date": "2026-05-17",
   "hour": "03",
-  "news": [],
+  "news": [
+    {
+      "title": "伊朗5月19日恢复股市交易",
+      "summary": "伊朗宣布自5月19日起恢复股票市场交易。此前伊朗股市因局势动荡暂停，此次恢复可能缓解部分市场不确定性，但对A股直接影响有限。需关注伊朗石油出口及地缘风险变化，可能间接影响石油板块情绪。信号中性偏负面，因恢复交易后或存在补跌压力，但A股关联度低。",
+      "reason": "唯一未重复的新消息，涉及地缘经济事件，可能通过石油、避险情绪等微弱影响A股，符合优先级三市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "石油"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373247?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    }
+  ],
   "total_fetched": 2,
-  "generated_at": "2026-05-17T03:01:08.580134+08:00"
+  "generated_at": "2026-05-17T03:56:38.871712+08:00"
 }
