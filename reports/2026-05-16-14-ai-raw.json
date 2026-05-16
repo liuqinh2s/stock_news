@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-16",
+  "hour": "14",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8348,
+    "completion_tokens": 4854,
+    "total_tokens": 13202
+  },
+  "content_length": 2295,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"单晶石墨突破\",\n      \"summary\": \"我国科研团队成功制备出200微米高质量单晶石墨，该成果为石墨烯等碳材料应用提供新可能，有望推动半导体材料、碳基电子等领域技术进步。目前处于实验室阶段，短期难量产，但中长期利好石墨烯概念、半导体材料板块，如方大炭素、德尔未来等。信号偏多，但影响微弱。\",\n      \"reason\": \"新材料技术突破，可能带动概念股炒作，属于行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石墨烯\", \"半导体材料\", \"碳基电子\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260516/c676742617.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373152?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"商务部批欧盟补贴调查\",\n      \"summary\": \"商务部新闻发言人认定欧盟外国补贴调查相关做法构成不当域外管辖措施，反对欧盟对中国企业的歧视性调查。此举可能加剧中欧贸易摩擦，对出口欧盟的光伏、新能源、机电等行业带来不确定性，相关企业如隆基绿能、宁德时代短期承压。信号偏空，影响中等。\",\n      \"reason\": \"贸易摩擦升级信号，可能影响出口企业预期。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光伏\", \"新能源\", \"出口欧盟企业\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260516/c676742602.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373146?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"俄军控制红利曼85%\",\n      \"summary\": \"俄军总参谋长称顿涅茨克战略重镇红利曼85%已被俄方控制，乌方尚未确认。地缘局势变化可能短期刺激A股军工板块，如中航沈飞、航天电子等，但该消息对市场整体影响有限，已部分反映。信号中性。\",\n      \"reason\": \"地缘政治事件，可能引发军工股短线行情。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"军工\", \"航天航空\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260516/c676742579.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373148?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"国家防总启动防汛响应\",\n      \"summary\": \"国家防总针对湖北、重庆启动防汛四级应急响应，预计多地有强降雨。可能对水利工程、农业等板块产生轻微影响，如葛洲坝、大北农，但响应级别低，对上市公司经营影响有限。信号中性。\",\n      \"reason\": \"自然灾害预警，但影响微弱。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"水利\", \"农业\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373151?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"今日符合条件的新消息较少，仅筛选出4条略有价值的消息，多数重复或无关。\"\n}"
+}
