@@ -3,49 +3,60 @@
   "hour": "20",
   "news": [
     {
-      "title": "药企遭4.3亿索赔，CXO承压",
-      "summary": "某A股CXO药企被国际巨头索赔4.3亿元，股价20cm跌停，暴露出海业务风险。该事件直接利空相关企业，并可能引发市场对CXO板块海外诉讼风险的担忧，短期内该板块承压。",
-      "reason": "公司重大利空事件，直接导致股价跌停，影响CXO板块情绪。",
-      "category": "公司公告",
+      "title": "中美经贸磋商取得初步成果",
+      "summary": "商务部新闻发言人就中美经贸磋商初步成果答记者问，表示双方就贸易平衡、市场准入、知识产权保护等议题达成共识。此举缓解了中美贸易紧张局势，对A股出口导向型企业形成利好，尤其是机电、纺织、轻工等板块。预计市场风险偏好将提升，短期看多。",
+      "reason": "中美经贸关系改善对A股整体影响重大，属于宏观利好，优先级一。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "CXO",
-        "药明康德",
-        "康龙化成",
-        "凯莱英"
+        "出口板块",
+        "机电",
+        "纺织",
+        "轻工"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5OUE2Y0xZWFFZUEZKY1BsRGsyaWlHZTlLcWJucnlJcENYal9xbzFrWk9pUVZsYWUtRXNGMnVJSnFfc1RGRGNFSmt1QWMzU0d0MmZUQnNZTHlQbl9OS1RVWjZ1UjdHMTdXQ09uVlgxeVJFc1NRVWFjMQ?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260516/c676744073.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373218"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772434"
+        },
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103185933.html"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "机器人国家级训练场启用",
-      "summary": "国家机器人职业技能训练基地正式启用，旨在培养机器人产业人才，推动工业自动化升级。该消息对机器人产业链构成长期利好，相关设备、集成商有望受益。",
-      "reason": "行业政策利好，有利于机器人板块长期发展。",
+      "title": "港版FDA筹备利好内地药企",
+      "summary": "香港正在筹备类似FDA的药品监管机构，内地药企将迎来双轨并行红利，有望加速创新药出海。事件对CRO、创新药板块形成利好，如药明康德、百济神州等。但短期影响有限，需关注后续进展，中性偏多。",
+      "reason": "医药政策变动影响行业预期，属行业动态，但非重磅。",
       "category": "行业动态",
       "impact_stocks": [
-        "机器人",
-        "工业自动化",
-        "埃斯顿",
-        "汇川技术",
-        "新时达"
+        "创新药",
+        "CRO",
+        "药明康德",
+        "百济神州"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260516/c676743891.shtml"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103185936.html"
         }
       ],
       "urgency": "days"
     }
   ],
   "total_fetched": 27,
-  "generated_at": "2026-05-16T20:01:21.132756+08:00"
+  "generated_at": "2026-05-16T20:56:42.628548+08:00"
 }
