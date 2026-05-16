@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 1978,
-    "completion_tokens": 734,
-    "total_tokens": 2712
+    "prompt_tokens": 1837,
+    "completion_tokens": 147,
+    "total_tokens": 1984
   },
-  "content_length": 583,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"欧洲接触革命卫队谈海峡通行\",\n      \"summary\": \"欧洲方面据称已开始就霍尔木兹海峡通行问题与伊朗革命卫队接触，若会谈成功，海峡通行风险下降，原油供应担忧缓解，短期利空油价。对A股石油板块（如中国石油）偏空，对航运板块（如中远海控）影响中性。需关注后续进展。信号偏空。\",\n      \"reason\": \"地缘政治事件可能影响全球原油供应，进而传导至A股石油和航运板块，属于行业动态中的突发消息。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油\", \"航运\", \"中国石油\", \"中远海控\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373243?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+  "content_length": 84,
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"当前抓取的2条消息（英国工党党首竞选、欧洲与革命卫队接触）与A股直接关联性极低，不满足筛选标准，因此未选入。\"\n}"
 }
