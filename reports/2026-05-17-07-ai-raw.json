@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2038,
+    "completion_tokens": 228,
+    "total_tokens": 2266
+  },
+  "content_length": 60,
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"当前时段无对A股有实质影响的重大消息，建议关注后续市场动态。\"\n}"
+}
