@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "08",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2477,
+    "completion_tokens": 941,
+    "total_tokens": 3418
+  },
+  "content_length": 884,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"伊朗恢复股票交易及核电站建设\",\n      \"summary\": \"伊朗宣布将于5月19日起恢复股票市场交易，并同时恢复核电站建设项目。该消息可能影响全球原油供应预期，进而对A股油气、核能板块产生情绪传导。伊朗市场重启短期或吸引部分资金关注，但若中东局势稳定，对A股影响有限。信号偏中性，需关注后续油价及地缘变化。\",\n      \"reason\": \"伊朗重大事件涉及金融及能源市场重启，可能通过油价和情绪影响A股相关板块，属于海外市场联动，具备筛选价值。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"石油天然气\", \"核能\", \"中东板块\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iSmx6MTg4R0lRZDlobFpSWVpyU29selBSQXJfTktGSlFzLVI5QVZwOEFzdHZMN00weVdWV1pyMUdRelNKSHh5Vkt5U042dDdFRUR4dVE0LW9WR1k4SUdJd3RRWQ?oc=5\"},\n        {\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rN1Z2eEk1N3MyakFrT0Zzc1ZOVkp6blVveXlFV3p4TXFCNVMyVUU4enVwSWMwNjJyVkhZOHhjVm9aOVVXV21nZDhxaDdJVF94bXVTOFlfMmlDTmJnRkE?oc=5\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
