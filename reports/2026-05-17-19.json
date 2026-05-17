@@ -3,102 +3,115 @@
   "hour": "19",
   "news": [
     {
-      "title": "阿联酋核电站遭无人机袭击",
-      "summary": "阿联酋巴拉卡核电站外围一处发电机遭无人机袭击起火，这是中东局势进一步升级的信号。可能推高国际油价，利好A股石油石化板块（如中国石油、中国石化），同时避险情绪升温可能短期压制风险资产。看多石油板块，看空大盘短期情绪。",
-      "reason": "中东地缘政治突发事件，直接影响油价和避险情绪，属于优先级一的市场情绪信号。",
-      "category": "市场情绪",
+      "title": "摩根士丹利上调中国经济预测",
+      "summary": "摩根士丹利上调中国2026年经济增长预测，认为A股表现将优于离岸市场。此举反映外资对中国经济复苏信心增强，可能吸引北向资金流入，利好A股整体尤其是沪深300和消费板块。信号：看多。",
+      "reason": "外资投行上调经济预测对市场信心有正面提振，属于宏观利好信号。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化"
+        "沪深300",
+        "消费"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103186599.html"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "4月居民贷款大幅缩水近8000亿",
+      "summary": "央行数据显示4月居民贷款大幅缩水近8000亿元，信贷疲软与楼市修复背离，反映居民消费和购房意愿不足。经济复苏力度偏弱，利空消费、地产板块，短期压制市场情绪。信号：看空。",
+      "reason": "居民贷款是消费和地产的先行指标，大幅缩水表明内需疲软，对A股形成压力。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "消费",
+        "房地产"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103186594.html"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "资金加仓科技股方向曝光",
+      "summary": "近期资金罕见全部集中加仓科技股，显示机构对科技成长主线高度一致。AI、算力、半导体等板块获得增量资金，短期有望延续强势。信号：看多科技板块。",
+      "reason": "资金集中流向科技股是强烈的板块轮动信号，利好科技成长风格。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "科技",
+        "AI概念",
+        "半导体"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2Y5bC1JTGJpTnZlYjE1S25IOGppRWVoU29GQTdQT2otd0ZjaTFrNzlkX3lKQlFTdUNlZDNnTVp6Q3p3UGE1VVlWOTBha2hSSW4yZjhnaGtKY1JBLTVOTC1EWFdDamVqeTdnek5SNWZUaXJHM2pJU2xoZDU3MUxmVQ?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "宁德时代深化厦门合作布局低空经济",
+      "summary": "宁德时代与厦门市签署战略合作协议，加快零碳科技城建设，并拓展低空经济领域。此举将进一步巩固宁德时代在新能源和储能领域的龙头地位，利好锂电池、低空经济概念股。信号：看多。",
+      "reason": "龙头公司战略合作推进新业务，对新能源产业链和低空经济有催化作用。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "宁德时代",
+        "新能源",
+        "低空经济"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260517/c676747540.shtml"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373418?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://news.10jqka.com.cn/20260517/c676747740.shtml"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "张国清出席中俄博览会",
-      "summary": "张国清同俄罗斯副总理特鲁特涅夫共同出席第十届中俄博览会开幕式，并主持召开中国东北地区和俄罗斯远东地区政府间合作委员会第六次会议。中俄经贸合作深化，利好东北振兴、远东开发概念股（如龙建股份、哈空调），以及贸易物流板块。看多相关主题。",
-      "reason": "国家级领导人出席，政策信号明确，属于行业动态/宏观政策。",
-      "category": "行业动态",
+      "title": "QFII一季度买盘：中东资金买面板金矿，大摩All in光模块",
+      "summary": "QFII一季度持仓曝光，中东资金大量买入面板（如京东方）和金矿股，摩根士丹利则重仓光模块龙头。外资动向明确看好面板周期复苏、黄金避险以及AI光模块需求，相关板块有望得到资金跟随。信号：看多面板、黄金、光模块。",
+      "reason": "QFII持仓是外资配置的风向标，中东资金和大摩的增持方向具有指示意义。",
+      "category": "资金流向",
       "impact_stocks": [
-        "东北振兴",
-        "龙建股份",
-        "哈空调",
-        "中俄贸易"
+        "面板",
+        "黄金",
+        "光模块"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373419?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "达安基因控制权拟变更广药",
-      "summary": "达安基因间接控股股东将变为广药集团，公司目前处于亏损状态。此交易可能带来资源整合，提升公司竞争力，利好达安基因及医药板块。但需关注交易细节和审批风险。看多达安基因。",
-      "reason": "公司重大控制权变更，属于公司公告，影响个股。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "达安基因",
-        "广药集团",
-        "医药"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
           "name": "第一财经",
-          "url": "https://www.yicai.com/news/103186512.html"
+          "url": "https://www.yicai.com/news/103186623.html"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "机构论后市：AI+能化杠铃结构",
-      "summary": "多家机构发布后市策略，认为AI+能源化工（能化）可能是今年更合适的杠铃结构，即一端配置AI科技成长，一端配置能源化工红利。该观点暗示市场风格可能切换，利好AI板块和能源化工板块，但无具体催化。中性偏多。",
-      "reason": "市场策略观点，影响市场情绪和资金流向，属于市场情绪/资金流向。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "AI概念",
-        "能源化工",
-        "沪深300"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103186518.html"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "国产特种光纤第一股将至",
-      "summary": "财联社早知道报道，国产特种光纤第一股即将上市，机构预计2027年全球光纤需求将攀升至8.8亿芯公里。该新股可能受市场关注，带动光纤光缆板块（如中天科技、亨通光电）。看多光纤板块。",
-      "reason": "新股及产业预期，影响行业板块。",
+      "title": "国产特种光纤第一股将上市",
+      "summary": "财联社报道国产特种光纤第一股即将上市，机构预计2027年全球光纤需求增至8.8亿芯公里，光纤耦合器等器件受益。光纤光缆板块有望迎来新催化，利好通信设备、算力基础设施。信号：看多光纤板块。",
+      "reason": "特种光纤是AI算力和通信的关键材料，新股上市叠加需求增长预期，板块关注度提升。",
       "category": "行业动态",
       "impact_stocks": [
         "光纤光缆",
-        "中天科技",
-        "亨通光电"
+        "通信设备",
+        "算力"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
@@ -106,8 +119,27 @@
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "华尔街准备应对“日资回流”：抛美债买日债",
+      "summary": "华尔街预计日本将开始削减海外资产以支持日元，导致美债遭抛售、资金回流日本。这可能推高美债收益率，压制全球风险资产，A股短期承压，尤其北向资金可能流出。信号：看空。",
+      "reason": "日资回流可能引发全球流动性收紧，对A股有负面传导效应。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "北向重仓股"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772455"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 41,
-  "generated_at": "2026-05-17T19:01:06.774061+08:00"
+  "total_fetched": 27,
+  "generated_at": "2026-05-17T19:54:23.115929+08:00"
 }
