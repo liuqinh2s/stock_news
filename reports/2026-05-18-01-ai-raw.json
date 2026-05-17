@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-18",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9178,
+    "completion_tokens": 4167,
+    "total_tokens": 13345
+  },
+  "content_length": 1619,
+  "raw_content": "{\n  \"note\": \"本周期内新消息较少，多数与历史重复，仅选出3条。\",\n  \"news\": [\n    {\n      \"title\": \"冈拉克称美联储不可能降息\",\n      \"summary\": \"知名债券投资人冈拉克公开表示，美联储根本不可能降息，因通胀仍顽固。该言论打压市场对美联储宽松的预期，可能导致美元走强、美债收益率上行，短期对A股形成情绪压制，尤其利空成长股和外资重仓板块。\",\n      \"reason\": \"海外权威人士观点影响全球流动性预期，间接影响A股外资流入。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"创业板\", \"外资重仓\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373501?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"七年换七任CEO 公司治理引忧\",\n      \"summary\": \"某上市公司罕见出现七年内更换七任CEO的情况，引发市场对公司治理稳定性的担忧。频繁更换管理层通常不利于战略执行，可能影响公司长期发展，相关个股短期面临抛压。\",\n      \"reason\": \"公司治理异常信号，属于公司重大事件。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"相关个股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxVjZIYjA3TkJOVkRISUVDUjNmRkM5Tnl2SFducGZVRVYxQlV4Q3VOMFl4VXA3ZTNfRWNPOFY5TVlwOG1nSDdzamF1Mng0WjZnWUREYUllNGZiUGJkM1dXZmtn?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"金元证券上调富临运业至增持\",\n      \"summary\": \"金元证券发布研报，给予富临运业增持评级，看好公司主业修复及新业务拓展。券商首次覆盖或上调评级通常对个股有短期提振作用，但影响范围有限。\",\n      \"reason\": \"机构评级变动属于优先级二，可影响个股短期走势。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"富临运业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tOTVpUUpuTlJDSVNPVTlfSjZjVU1sMXhRbDVlRHA4TlVEc1ZVcmlhUE41a1hOTHI5WDZTN3FTT0F5aEYwY0g1aUozSlRJLUlVQWZYeHVFVnFWZGZHWmc?oc=5\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
