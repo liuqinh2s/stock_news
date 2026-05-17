@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9335,
+    "completion_tokens": 2801,
+    "total_tokens": 12136
+  },
+  "content_length": 2393,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"ETF规模失守5万亿\",\n      \"summary\": \"截至最新数据，A股ETF总规模跌破5万亿元大关，5家头部公募一周内规模缩水超百亿元。这反映市场资金流出、情绪降温，短期内可能加大指数调整压力，对沪深300等权重板块构成利空信号。\",\n      \"reason\": \"ETF规模骤降是市场情绪和资金流向的重要指标，接近优先级三市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"创业板指\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE9oRGRpZWpoYWpYVm1YZ0toQXJ6QXZQS1liM3lNaFVSNjcyam14SjlBQ1pHbnVzVW9KbVpzSlJRdml3dE9UcUhoczZGLVlrUkg2NGhIZU41cTc4ZlpPc1otMDdiVm1PTkFiV2NQa0I2VVliUnc5aWJqaA?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"上交所引外资调研\",\n      \"summary\": \"上交所举办国际投资者赴境内调研上市公司活动，旨在吸引外资流入。此举有助于提升A股国际认可度，短期提振市场信心，利好沪深300及上证50成分股，特别是外资偏好的消费、金融龙头。\",\n      \"reason\": \"直接关系外资动向，属于优先级一资金流向信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"贵州茅台\", \"招商银行\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260517/c676746537.shtml\"\n        },\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373338?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"国常会研究人口发展\",\n      \"summary\": \"李强主持召开国务院常务会议，研究人口发展有关工作。市场预期可能出台鼓励生育、完善养老等政策，利好母婴消费、辅助生殖及银发经济板块。政策信号积极，但具体措施待落地。\",\n      \"reason\": \"国务院常务会议涉及重大民生政策，属优先级一，可能带动相关板块行情。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"母婴消费\", \"辅助生殖\", \"养老产业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260517/c676746534.shtml\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"尹志尧：有能力造最先进设备\",\n      \"summary\": \"中微公司董事长尹志尧表示，公司已有能力制造最先进的半导体设备，推动国产替代进程。该言论强化市场对国产半导体设备突破的预期，利好中微公司、北方华创等设备龙头，以及整个半导体板块。\",\n      \"reason\": \"行业头部企业重大技术突破表态，属优先级二行业动态，影响中期。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"中微公司\", \"北方华创\", \"半导体设备\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373349?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"当前A股消息面整体平淡，主要为一市场资金流向信号和个别行业动态，筛选出4条较有价值信息。\"\n}"
+}
