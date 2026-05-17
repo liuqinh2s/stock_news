@@ -3,33 +3,13 @@
   "hour": "23",
   "news": [
     {
-      "title": "上海移动5G-A商用",
-      "summary": "上海移动宣布5G-A超级上行网络能力规模商用，并推出Token通用服务：1元40万Tokens。此举将加速5G-A在AI、云计算等领域的应用，利好通信运营商和AI算力产业链。5G-A作为5G演进技术，提升上行速率和低时延，Token服务降低AI使用成本，有望推动AI应用普及。对A股通信板块（如中兴通讯、烽火通信）和AI算力（如光模块、服务器）构成看多信号。",
-      "reason": "5G-A规模商用和Token服务是AI基础设施的重要进展，影响AI算力产业链和通信板块，具有中等影响。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "通信",
-        "AI算力",
-        "光模块"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260517/c676748380.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "力芯微转让10%股份",
-      "summary": "力芯微拟以5.53亿元向博成未来转让10%股份。此次股权转让可能引入战略投资者或优化股权结构，但金额相对较小，对公司基本面影响有限。力芯微主营电源管理芯片，本次交易可能带来业务协同或资金支持，但不确定性较大。对芯片板块整体影响中性，需关注后续进展。",
-      "reason": "公司重要股权变动，涉及金额5.53亿元，可能影响公司治理和战略，但影响有限。",
+      "title": "力芯微拟转让10%股份",
+      "summary": "力芯微公告拟以5.53亿元向博成未来转让10%股份，可能引入战略投资者，优化股权结构，对公司长期发展有利。关注半导体板块动向，信号中性偏多。",
+      "reason": "大额股份转让可能预示股权变化，短期影响有限但需关注后续动作。",
       "category": "公司公告",
       "impact_stocks": [
         "力芯微",
-        "芯片"
+        "半导体"
       ],
       "signal": "neutral",
       "impact_level": 2,
@@ -39,31 +19,119 @@
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14MGV3MzljZXlNZlVNdnlTeTNIMEgtTDloeXVaSmlDSThRNHBlSExDNG9qTVp3aTRjQTVOaWZzTVdXVWpqdi0tWDBGT3Y3S2hFYm1Ca3E0QXRkUlhGblJpeg?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "私募隐形巨鲸",
-      "summary": "A股市场新动向，私募圈冒出‘隐形巨鲸’，可能指大型私募或外资私募大规模建仓。该消息暗示有增量资金入场，但具体信息模糊，无法确认方向。对市场情绪有正面提振，但实质影响待观察。对沪深300等权重股构成短期利好，但需警惕资金流向变化。",
-      "reason": "私募资金动向是市场资金面信号，可能预示增量资金，但消息不明确。",
-      "category": "资金流向",
+      "title": "上海移动推出Token服务",
+      "summary": "上海移动宣布5G-A超级上行网络规模商用，推出Token通用服务（1元40万Tokens），加速算力商业化。利好5G-A、算力基础设施、光模块等板块，信号看多。",
+      "reason": "运营商加快Token商业化，催化算力产业链，增强板块热度。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "私募重仓股"
+        "5G",
+        "算力",
+        "光模块",
+        "上海移动"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1FNM2hhX0pJNGwzbDNOTDZoZzI5MUNLV0RlRWVoWG5FTU0xR0ZPcVcxa1hWb1p6a3VWc3QzOEx6ZXZObzFjNkJzNFEyLU9KbzRwOVVlanZ4OHhmMUdTa0d3MjdmdzlJVnkwT3ZseDBjU194TmhtcFZGbk90cHpHLU45ZjliQnlIa0VWbWFn?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260517/c676748380.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373483?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "机构研判市场主线",
-      "summary": "多家机构发布观点，认为高位波动后市场主线可能切换。部分机构建议关注AI、光模块、电网设备、人形机器人等方向。该消息反映机构对当前行情的判断，但无实质政策或数据支撑，多为观点汇总。对科技板块有一定情绪提振，但需结合实际走势判断。短期中性，中期关注主线确认。",
-      "reason": "机构观点影响市场情绪，但无新增信息，影响有限。",
+      "title": "千帆星座第9批卫星发射",
+      "summary": "我国成功发射千帆星座第9批组网卫星，卫星互联网组网加速。利好航天、卫星互联网、通信设备等板块，信号看多。",
+      "reason": "卫星互联网产业持续进展，关注相关标的。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "卫星互联网",
+        "航天",
+        "中国卫星"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373489?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "一级市场融资90亿聚焦硬科技",
+      "summary": "财联社创投通数据显示，本周一级市场融资总额约90.14亿元，航空航天、具身智能活跃度居前。反映资本对硬科技投入加大，利好相关二级市场板块，信号看多。",
+      "reason": "一级市场风向对二级市场有指引作用，硬科技受追捧。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "航空航天",
+        "具身智能",
+        "机器人",
+        "科创50"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373433?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "中国联通发布国产化安全基座",
+      "summary": "中国联通上海分公司发布全栈国产化'国芯国模国云'安全基座，推出多元化算力服务。利好信创、国产算力、网络安全等板块，信号看多。",
+      "reason": "国产化进程加速，信创概念受益。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "信创",
+        "国产算力",
+        "网络安全",
+        "中国联通"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373487?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "云天励飞发起Token降价计划",
+      "summary": "云天励飞与财联社等发起'1001计划'，目标推动'百亿Token 1分钱'，旨在降低AI算力成本。利好AI应用、算力产业链，信号看多。",
+      "reason": "降低Token成本将加速AI应用落地，算力需求持续增长。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "算力",
+        "云天励飞"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373485?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "机构研判：科技主线不变",
+      "summary": "多家机构发布策略，高位波动后市场主线仍聚焦科技，AI、光模块、电网设备、人形机器人等受关注。信号中性偏多，科技股短期震荡不改长期趋势。",
+      "reason": "机构共识强化科技主线，有助于稳定市场预期。",
       "category": "市场情绪",
       "impact_stocks": [
         "AI",
@@ -71,17 +139,17 @@
         "电网设备",
         "人形机器人"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260517/c676748261.shtml"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYVJoUVpmTnNMZlN3MjBXeHR1WmhjaENfWFJ4R1BlTW4wazBQWWNTUE5DTm80TWlpVHhyWEFfRFpvSjFsOENiSm1HdkwzN21NWXVWOVREWExqcGkxdVdleGszYmV2eTBST1gzUzZocW1xVjBqeWlidHNTLUZRQUc0ajMybGFTRXdFaE1zUW13?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 23,
-  "generated_at": "2026-05-17T23:01:38.020598+08:00"
+  "total_fetched": 30,
+  "generated_at": "2026-05-17T23:50:45.713658+08:00"
 }
