@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-18",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5434,
+    "completion_tokens": 3659,
+    "total_tokens": 9093
+  },
+  "content_length": 2221,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"人民日报论外贸韧性\",\n      \"summary\": \"人民日报发表文章，从外贸之'质'角度分析中国经济韧性。文章指出我国外贸结构优化、高质量产品出口增加，展现经济韧性。可能提振市场对出口导向型板块的信心，如家电、机电等。该消息为官方媒体正面定调，宏观情绪偏多，但缺乏具体数据支撑，信号中性偏多。\",\n      \"reason\": \"官方媒体正面发声，影响市场情绪，但无实质政策或数据。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"出口板块\", \"家电\", \"机电\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373538?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"金正恩要求加强南部边境守卫\",\n      \"summary\": \"朝鲜领导人金正恩要求加强守卫朝鲜南部边境的一线部队，朝鲜半岛紧张局势升温。可能刺激A股国防军工板块表现，如中兵红箭、洪都航空等。地缘政治风险上升，对整体市场情绪偏空，但军工板块可能获得资金关注。\",\n      \"reason\": \"地缘政治事件，直接影响军工板块情绪。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"国防军工\", \"中兵红箭\", \"洪都航空\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373536?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"科学家首创DNA引导CRISPR基因编辑\",\n      \"summary\": \"科学家首次利用DNA引导CRISPR基因编辑技术实现精准基因编辑，这一突破性进展有望推动基因治疗领域发展。A股基因编辑概念股如华大基因、贝达药业、舒泰神等可能受益。此为长期技术利好，短期市场反应有限。\",\n      \"reason\": \"重大科学突破，影响基因编辑概念板块，但兑现周期长。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"基因编辑\", \"华大基因\", \"贝达药业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373534?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"现货白银涨1%，报76.7美元\",\n      \"summary\": \"现货白银日内涨幅扩大至1%，报76.7美元/盎司。此前开盘快速跌1%，现反弹。白银价格上涨利好A股白银矿业公司，如盛达资源、兴业矿业、银泰黄金等。商品价格反弹可能带动有色金属板块情绪，但需关注持续性。\",\n      \"reason\": \"贵金属价格异动，直接影响白银板块个股。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"白银\", \"盛达资源\", \"兴业矿业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373532?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ],\n  \"note\": \"本轮新闻多数与历史重复，仅筛选出4条有新意的消息，短期内市场可能缺乏重磅催化，建议关注稍后开盘情况。\"\n}"
+}
