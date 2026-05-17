@@ -1,15 +1,50 @@
 {
   "date": "2026-05-18",
   "hour": "05",
-  "total": 1,
-  "fetched_at": "2026-05-18T05:00:28.729467+08:00",
+  "total": 6,
+  "fetched_at": "2026-05-18T05:44:19.974772+08:00",
   "news": [
     {
-      "source": "雪球热帖",
-      "title": "招商南油A股股东户数减少3.23万户降幅21.30%，流通A股户均持股3.93万股增幅27.07%，户均持股市值17.59... - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ZEg5UFEwNkFkWGlzNENwYnU1QXRMbkRpODNhQ3FlMW42bWdLMDltamhPdHlGWTZvNGVEZ0gtdlpRNExBTTFaYWE1eG5XOHh1NHZKN1Fn?oc=5\" target=\"_blank\">招商南油A股股东户数减少3.23万户降幅21.30%，流通A股户均持股3.93万股增幅27.07%，户均持股市值17.59...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ZEg5UFEwNkFkWGlzNENwYnU1QXRMbkRpODNhQ3FlMW42bWdLMDltamhPdHlGWTZvNGVEZ0gtdlpRNExBTTFaYWE1eG5XOHh1NHZKN1Fn?oc=5",
-      "published": "Sun, 17 May 2026 19:09:53 GMT"
+      "source": "财联社",
+      "title": "乌兹别克斯坦边境口岸查获近600公斤毒品",
+      "summary": "【乌兹别克斯坦边境口岸查获近600公斤毒品】财联社5月18日电，乌兹别克斯坦国家安全局17日通报，乌边防部队和海关人员在边境公路口岸挫败一起重大毒品走私案，缴获从阿富汗运入的近600公斤毒品。通报显示，涉案运输工具为一辆由阿富汗公民驾驶的卡车，装载了一辆挖掘机作为掩护。海关人员在对该车辆检查时，发现挖掘机内部有异物。经检查，执法人员在挖掘机动臂内起获藏匿的593公斤大麻和3公斤鸦片。乌方已对此进行刑事立案，并追查其余涉案人员。通报未提及查获毒品的日期。",
+      "link": "https://api3.cls.cn/share/article/2373517?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 17 May 2026 21:33:27 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "沙特拦截3架来自伊拉克方向的无人机",
+      "summary": "【沙特拦截3架来自伊拉克方向的无人机】财联社5月18日电，沙特阿拉伯国防部发言人图尔基·马利基17日发表声明说，当天上午3架无人机从伊拉克方向进入沙特领空后被拦截摧毁。马利基强调，沙特国防部保留在适当时间和地点作出回应的权利，并将采取一切必要行动措施，以应对任何侵犯沙特主权、安全的企图。",
+      "link": "https://api3.cls.cn/share/article/2373516?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 17 May 2026 21:15:14 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "两部门派工作组赶赴广西柳州震区指导抗震救灾工作",
+      "summary": "【两部门派工作组赶赴广西柳州震区指导抗震救灾工作】财联社5月18日电，中国地震台网测定，5月18日00时21分，在广西柳州市柳南区（北纬24.38度，东经109.26度）发生5.2级地震，震源深度8公里。地震发生后，国务院抗震救灾指挥部、应急管理部调度当地情况，要求核实震情灾情，全力组织人员搜救，做好灾情排查、群众转移安置、抢险救援和余震监测等工作。国务院抗震救灾指挥部办公室、应急管理部启动国家地震灾害四级应急响应，派出工作组紧急赶赴当地指导抗震救灾工作。当地已调派消防救援力量51车315人赶赴震中区域救援。",
+      "link": "https://api3.cls.cn/share/article/2373515?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 17 May 2026 20:56:18 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "加拿大确诊一例汉坦病毒感染病例",
+      "summary": "【加拿大确诊一例汉坦病毒感染病例】财联社5月18日电，加拿大公共卫生署17日证实，该国国家微生物实验室经过复核检测，正式确诊一名正在不列颠哥伦比亚省接受隔离的“洪迪厄斯”号邮轮乘员感染汉坦病毒。",
+      "link": "https://api3.cls.cn/share/article/2373514?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 17 May 2026 20:16:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "广西柳州地震已致3人失联",
+      "summary": "【广西柳州地震已致3人失联】财联社5月18日电，根据中国地震台网测定，5月18日00时21分，在广西柳州市柳南区（北纬24.38度，东经109.26度）发生5.2级地震，震源深度8千米。记者从柳州市相关部门了解到，截至3时40分，初步统计当地已有4人送医，3人失联。当地应急、消防、公安等部门正在全力开展救援工作。 (新华社)",
+      "link": "https://api3.cls.cn/share/article/2373513?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 17 May 2026 20:07:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "广西柳州启动地震Ⅲ级应急响应",
+      "summary": "【广西柳州启动地震Ⅲ级应急响应】财联社5月18日电，广西柳州市抗震救灾指挥部5月18日发布通知，启动地震Ⅲ级应急响应。通知指出，北京时间2026年5月18日00时21分在广西柳州市柳南区（北纬24.38度，东经109.26度）发生5.2级地震，震源深度8公里。震中位于柳南区太阳村镇，距离太阳村镇2公里，柳南区城区13公里，柳州市城区16公里，各城区均有明显震感。按照《柳州市地震应急预案》有关规定，决定从5月18日1时启动地震Ⅲ级应急响应。要求各相关部门进入应急状态，做好抢险救灾、应急值守、信息汇总、灾害调查、社会稳定等抗震救灾工作。",
+      "link": "https://api3.cls.cn/share/article/2373512?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 17 May 2026 19:45:58 GMT"
     }
   ]
 }

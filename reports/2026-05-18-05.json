@@ -3,46 +3,26 @@
   "hour": "05",
   "news": [
     {
-      "title": "上海移动5G-A商用",
-      "summary": "上海移动宣布5G-A超级上行网络能力规模商用，并推出Token通用服务：1元40万Tokens。5G-A技术正式落地，利好通信设备、光模块、AI算力等板块。运营商资本开支有望增加，相关公司受益。",
-      "reason": "5G-A商用是通信行业重要进展，对相关板块有刺激作用。",
-      "category": "行业动态",
+      "title": "广西地震致3人失联,两部门派工作组",
+      "summary": "广西柳州市柳南区5月18日凌晨发生5.2级地震，目前地震已造成3人失联，广西启动Ⅲ级应急响应。国家防总、应急管理部已派工作组赶赴震区指导救灾。此次地震可能对当地基础设施造成一定损坏，短期内或刺激抗震救灾相关板块如水泥、建材、工程机械的需求，但影响范围有限，对A股整体影响微弱。信号中性。",
+      "reason": "地震事件虽属突发，但已有后续进展（失联人数、应急响应、工作组），对当地基建相关个股有短期情绪刺激，符合优先级三的市场情绪信号中的板块轮动信号。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "5G",
-        "通信设备",
-        "光模块",
-        "AI算力"
+        "广西本地基建",
+        "水泥",
+        "建材"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "neutral",
+      "impact_level": 1,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://www.10jqka.com.cn"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "招商南油筹码集中",
-      "summary": "招商南油A股股东户数减少3.23万户，降幅21.30%，户均持股增加27.07%。筹码大幅集中，通常预示股价有上涨潜力，偏多信号。但需结合基本面验证。",
-      "reason": "股东户数大降是重要技术面信号，筹码集中。",
-      "category": "市场结构",
-      "impact_stocks": [
-        "招商南油",
-        "航运"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "雪球",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ZEg5UFEwNkFkWGlzNENwYnU1QXRMbkRpODNhQ3FlMW42bWdLMDltamhPdHlGWTZvNGVEZ0gtdlpRNExBTTFaYWE1eG5XOHh1NHZKN1Fn?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373515?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 1,
-  "generated_at": "2026-05-18T05:01:19.818228+08:00"
+  "total_fetched": 6,
+  "generated_at": "2026-05-18T05:44:57.835316+08:00"
 }
