@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-18",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 1980,
+    "completion_tokens": 151,
+    "total_tokens": 2131
+  },
+  "content_length": 77,
+  "raw_content": "{\"news\":[],\"note\":\"当前抓取的5条消息均为国际安全事件或国内自然灾害，与A股行情无直接或间接关联，不符合筛选标准。无值得关注的消息。\"}"
+}
