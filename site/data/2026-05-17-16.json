@@ -3,56 +3,56 @@
   "hour": "16",
   "news": [
     {
-      "title": "上交所办国际投资者调研活动",
-      "summary": "上交所举办“国际投资者赴境内调研上市公司”活动，旨在加强国际投资者对A股上市公司的了解，促进外资流入。该活动直接利好沪深300及核心蓝筹股，吸引境外长期资金，释放积极信号。看多信号。",
-      "reason": "直接吸引外资，提升市场信心，符合优先级一资金流向。",
-      "category": "资金流向",
+      "title": "业绩预告失准遭监管函",
+      "summary": "新浪财经报道，近期多家A股公司因业绩预告与实际披露数据偏差较大，收到交易所监管函。监管层对信息披露的严查趋紧，可能打击部分公司股价，尤其对中小市值股形成负面情绪。该消息属于监管加强信号，整体偏空，需警惕业绩预告频繁修正的公司。",
+      "reason": "监管政策收紧，影响市场对业绩预告的信任度，短期利空。",
+      "category": "监管政策",
       "impact_stocks": [
-        "沪深300",
-        "上证50"
+        "中小板",
+        "创业板"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "bearish",
+      "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373338"
+          "name": "新浪财经",
+          "url": "https://finance.sina.com.cn"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "韩国投超1亿美元扶持半导体",
-      "summary": "韩国宣布将投入超1亿美元扶持中小企业，覆盖半导体产业。此举虽为韩国本土政策，但可能加剧全球半导体竞争，对我国半导体国产替代形成催化。利好国内半导体设备、材料及制造环节。看多信号。",
-      "reason": "行业政策动态，对A股半导体板块有正面情绪带动。",
-      "category": "行业动态",
+      "title": "阿联酋退出OPEC引油市震荡",
+      "summary": "华尔街见闻援引报道称，阿联酋因劝说他国参与打击伊朗遭拒，退出OPEC。此举可能引发OPEC内部分裂，油价短期不确定性增加，市场担忧能源供应扰动。若油价飙升将推高通胀预期，对A股整体偏空，尤其压制制造业和航空板块。但利好石油开采板块。",
+      "reason": "地缘政治重大事件，直接影响油价和全球风险偏好，传导至A股。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "半导体",
-        "国产替代",
-        "中微公司"
+        "石油开采",
+        "航空",
+        "化工"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373353"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772445"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "印度限金令 高盛看多金价",
-      "summary": "印度实施黄金进口限制引发抢购潮，高盛维持年底金价5400美元/盎司目标。国际金价上涨预期利好A股黄金板块，如山东黄金、紫金矿业等。看多信号。",
-      "reason": "国际金价驱动因素，对黄金板块有直接利好。",
+      "title": "印度限金令催生抢购潮",
+      "summary": "华尔街见闻消息，印度出台黄金进口限制令，引发当地恐慌性抢购，高盛维持年底金价5400美元/盎司的看多观点。避险情绪升温叠加实物需求，黄金板块有望受益，A股黄金股如山东黄金、中金黄金等可能受提振。该信号偏多黄金板块。",
+      "reason": "国际金价看涨逻辑强化，利好A股黄金股。",
       "category": "行业动态",
       "impact_stocks": [
         "山东黄金",
-        "紫金矿业",
-        "黄金板块"
+        "中金黄金",
+        "赤峰黄金"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
           "name": "华尔街见闻",
@@ -62,64 +62,26 @@
       "urgency": "hours"
     },
     {
-      "title": "美股紧张 高盛建议买对冲",
-      "summary": "高盛报告指出美股市场紧张，AI板块虽看多但需买入对冲，低质板块脱离基本面。该情绪可能短期传导至A股，加剧波动，但A股独立性或有限。中性信号。",
-      "reason": "海外市场情绪可能影响A股开盘，但无实质利空。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "沪深300",
-        "AI概念"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772443"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "多家公司业绩预告失准收监管函",
-      "summary": "因业绩预告频繁失准，数家A股公司收到监管函，监管部门对信息披露违规保持高压。此举虽长期规范市场，但短期可能打压相关个股及炒作情绪。看空信号。",
-      "reason": "监管趋严信号，对高估值或绩差股有压力。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "小盘股",
-        "ST板块"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIVk1Qc3RwbG92Sl9ncWtuLUR2ZU5rRWNjTl9iM1BPdnlzWnQtTlNMNGdvckRjZXMtVkd6U0FoTFluay1DTEhucHBsUXY4TEo0OVJ5YkRGNjNOcG9SZ3JoTnliMF9DdURJTFNDRG4tUVB0UHkzNHpSeA"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "风口研报：滚动丝杠迎Optimus催化",
-      "summary": "财联社风口研报指出，Optimus直线关节和第三代灵巧手将催化滚动丝杠需求放量，相关公司凭借技术同源切入高端赛道，新工厂布局人形机器人。利好精密丝杠及人形机器人产业链。看多信号。",
-      "reason": "机构研报聚焦热门人形机器人细分，资金关注度高。",
+      "title": "韩国投1亿美元扶持半导体",
+      "summary": "财联社报道，韩国政府将投入超1亿美元扶持中小企业，涵盖半导体产业。此举虽为海外政策，但强化全球半导体产业链景气度，利好国内半导体设备和材料企业，如北方华创、中微公司等。信号中性偏多。",
+      "reason": "半导体行业利好政策，提振板块信心。",
       "category": "行业动态",
       "impact_stocks": [
-        "人形机器人",
-        "丝杠",
-        "恒立液压"
+        "半导体设备",
+        "北方华创",
+        "中微公司"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373351"
+          "url": "https://www.cls.cn"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 35,
-  "generated_at": "2026-05-17T16:01:18.481010+08:00"
+  "total_fetched": 36,
+  "generated_at": "2026-05-17T16:09:41.082046+08:00"
 }
