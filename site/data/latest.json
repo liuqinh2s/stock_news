@@ -3,56 +3,35 @@
   "hour": "09",
   "news": [
     {
-      "title": "招商策略：光通信芯片繁荣",
-      "summary": "招商证券发布报告称，光通信与芯片产业链当前处于典型繁荣期，景气度持续上行。该判断基于行业供需格局、资本开支及企业盈利数据。利好光模块、光芯片及半导体设备材料等细分领域，如中际旭创、长光华芯等。信号为看多，建议关注相关板块投资机会。",
-      "reason": "机构策略报告提出行业景气繁荣，对光通信和芯片板块形成正面催化，属于中等重要性的行业动态。",
+      "title": "国安部：境外间谍窃密多领域",
+      "summary": "国家安全部披露，境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密。此举将强化国内自主可控和国产替代逻辑，预计政策将加大对相关产业支持。利好稀土、光伏、半导体、AI等国产替代概念板块。",
+      "reason": "涉及多个战略产业，政策预期升温，属优先级二行业政策变动。",
       "category": "行业动态",
       "impact_stocks": [
-        "光通信",
-        "芯片半导体",
-        "中际旭创",
-        "长光华芯"
+        "稀土",
+        "光伏",
+        "半导体",
+        "人工智能"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.10jqka.com.cn/20260517/c676745051.shtml"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772437"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "阿斯麦与塔塔电子合作",
-      "summary": "阿斯麦（ASML）与塔塔电子签署谅解备忘录，双方将在半导体光刻机领域展开合作，可能涉及技术授权或供应链协同。此举有望提升塔塔电子在先进制程的研发能力，同时强化ASML在亚洲的生态布局。对国内半导体设备及光刻机概念股构成情绪提振，如张江高科、福晶科技等。信号偏多，但实际影响需观察合作细节。",
-      "reason": "ASML作为全球光刻机龙头，其合作动态对半导体产业有指标意义，可能引发市场对国产替代的预期。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "半导体设备",
-        "光刻机概念",
-        "张江高科",
-        "福晶科技"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺财经",
-          "url": "https://news.10jqka.com.cn/20260517/c676745030.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
       "title": "商业航天翻倍股被立案",
-      "summary": "某商业航天概念公司因涉嫌误导投资者被证监会立案调查，该股前期涨幅较大，属于翻倍股。立案调查将对其股价构成重大利空，可能引发商业航天板块整体回调，尤其对估值较高的题材股形成压力。信号明确偏空，需警惕相关个股风险，如航天宏图、中国卫星等。",
-      "reason": "涉嫌误导投资者的立案调查属于重大监管事件，对个股及板块冲击显著，符合优先级一的监管政策类别。",
+      "summary": "某商业航天概念股因涉嫌误导投资者被证监会立案调查。该股前期涨幅翻倍，此次立案将打击市场对商业航天板块的炒作热情，短期利空商业航天及军工卫星相关个股，需警惕龙头股回调风险。",
+      "reason": "证监会监管行动，直接影响个股及板块情绪，属优先级一监管政策。",
       "category": "监管政策",
       "impact_stocks": [
         "商业航天",
-        "航天宏图",
-        "中国卫星"
+        "航天概念",
+        "军工"
       ],
       "signal": "bearish",
       "impact_level": 3,
@@ -65,92 +44,106 @@
       "urgency": "immediate"
     },
     {
-      "title": "下周关注4月经济数据公布",
-      "summary": "下周国家统计局将公布4月工业增加值、固定资产投资、社会消费品零售总额等宏观经济数据。数据将对市场预期产生重要影响，若超预期则利多顺周期板块（如消费、基建），若不及预期则可能引发调整。当前信号中性，建议等待数据落地，短线资金可关注数据发布前的博弈机会。",
-      "reason": "月度经济数据是宏观经济的核心指标，对市场整体走势具有中期指引作用，符合优先级二。",
-      "category": "宏观经济",
+      "title": "算力网要来了",
+      "summary": "据媒体报道，国家算力网络建设即将推进，将统筹数据中心、算力调度等基础设施。利好算力服务器、光模块、IDC等产业链环节，预计相关公司订单有望增长。属于政策驱动型利好。",
+      "reason": "产业政策新动向，影响AI、算力板块，属优先级二行业政策。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "消费板块",
-        "基建板块"
+        "算力",
+        "光模块",
+        "AI服务器",
+        "IDC"
       ],
-      "signal": "neutral",
-      "impact_level": 4,
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103186150.html"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772436"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "金价高位令首饰金消费承压",
-      "summary": "国际金价持续高位震荡，国内黄金首饰消费受到抑制，部分品牌零售额下滑。该消息利空黄金首饰零售商如周大生、老凤祥等，但对黄金矿业股（如山东黄金）影响中性偏多（金价高位支撑利润）。整体来看，消费端疲软可能拖累黄金产业链下游，信号偏空。",
-      "reason": "消费数据反映行业景气度，对黄金首饰板块有直接影响，属于行业动态。",
+      "title": "问界M9预订超5万台",
+      "summary": "鸿蒙智行宣布新款问界M9累计预订量超过5万台，展现强劲需求。利好华为智能汽车产业链，包括零部件、软件、整车合作方。预计将提振相关个股短期情绪。",
+      "reason": "公司产品营销数据超预期，影响华为汽车概念，属优先级二公司重大事件。",
       "category": "行业动态",
       "impact_stocks": [
-        "黄金首饰",
-        "周大生",
-        "老凤祥",
-        "山东黄金"
+        "华为汽车",
+        "问界产业链",
+        "赛力斯"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zY3RxVmdXZjY3SEp5UUtta2haY1NJZVhFREJHQ0d3c0hhV2hjRnh1eGdfeE15Q3NmcXlaUlBZVGxmdk1mRC0wVTdkOGJQV0tIMWl0eXQ4SmJrdEVEa3c?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373276?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "招商策略：景气高增领域指引",
-      "summary": "招商证券梳理出当前景气高增领域：化学纤维、半导体、贵金属、风电设备、地面兵装等。这些板块盈利增速突出，或存在持续超预期可能。策略上建议关注相关行业龙头，如恒力石化（化学纤维）、北方华创（半导体）、金风科技（风电）等。信号偏多。",
-      "reason": "机构策略观点提供行业轮动线索，对投资方向有参考价值，属于中等影响的行业动态。",
-      "category": "行业动态",
+      "title": "招商策略：A股产能扩张周期",
+      "summary": "招商证券策略报告指出，A股非金融上市企业已开启新一轮产能扩张周期，资本开支增速回升。中长期利好制造业、设备类公司，尤其是高端制造和自动化领域。信号偏多，但需结合具体行业。",
+      "reason": "券商策略观点，影响市场对周期和制造的预期，属优先级二机构观点。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "化学纤维",
-        "半导体",
-        "贵金属",
-        "风电设备",
-        "恒力石化",
-        "北方华创",
-        "金风科技"
+        "制造业",
+        "高端装备",
+        "自动化"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.10jqka.com.cn/20260517/c676745040.shtml"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCaFhMQnBwbGZSc0IxU2RCX3VUYnBnWlBOdmhWdW5VQWd0M21jQV9XcEhGWTJaaWQ1RVJoTElDU0VTaUdqQzNMMTUyZmozZ2lBcmdRZG5aMFYyRElhSTdraERrVkRLYk5aQ3BIdW5sRGxjVUNMNjE2cQ?oc=5"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "全国首个算力枢纽网络安全保险试点揭牌",
-      "summary": "全国首个算力枢纽网络安全保险试点项目在贵州揭牌，旨在为算力基础设施提供风险保障。此举利好网络安全板块，尤其是与算力、数据安全相关的公司，如奇安信、深信服、启明星辰等。同时有助于推动算力产业链健康发展。信号偏多。",
-      "reason": "创新试点政策对网络安全行业形成直接催化，属于行业动态，影响中等。",
+      "title": "新股维通利今日上市",
+      "summary": "新股维通利今日登陆主板，中签率仅0.02%，显示申购热度高。上市首日表现可能影响次新股板块情绪，但个股影响有限。需关注盘中资金博弈。",
+      "reason": "新股上市事件，影响次新股短期情绪，属优先级三市场结构。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "次新股",
+        "维通利"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CeU00WnU1bmdMVEwtTHBSakdUMFhKWFFhbzNJbWZVNTZmZFJNSHEtTU1xM3IxUVNzb0JiaGc0RW03dDdzdnhKTkQ3bm5ZZ0otdEdwWXZHVFgwTTUzTHc?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "招商策略：光通信芯片繁荣",
+      "summary": "招商证券研报指出，光通信与芯片产业链当前处于典型的繁荣期，景气度较高。利好光模块、芯片设计、制造等板块，短期有望获得市场关注。",
+      "reason": "券商行业观点，影响光通信和芯片板块情绪，属优先级二机构评级。",
       "category": "行业动态",
       "impact_stocks": [
-        "网络安全",
-        "算力",
-        "奇安信",
-        "深信服"
+        "光通信",
+        "光模块",
+        "芯片"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.10jqka.com.cn/20260517/c676745027.shtml"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373263?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 41,
-  "generated_at": "2026-05-17T09:01:25.901793+08:00"
+  "total_fetched": 24,
+  "generated_at": "2026-05-17T09:58:26.744491+08:00"
 }
