@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "18",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 11991,
+    "completion_tokens": 4187,
+    "total_tokens": 16178
+  },
+  "content_length": 2217,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"金价跳水，后市如何\",\n      \"summary\": \"国际金价近期大幅下跌，引发市场对黄金板块的担忧。可能影响A股黄金概念股如山东黄金、中金黄金等。短期看空黄金板块，但需关注美联储政策变化。\",\n      \"reason\": \"金价跳水直接影响A股黄金板块，属于国际大宗商品波动传导，市场情绪偏空。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"黄金概念\", \"山东黄金\", \"中金黄金\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"澎湃新闻\", \"url\": \"https://www.thepaper.cn/newsDetail_forward_29567890\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"天风AI研报：不改看多\",\n      \"summary\": \"天风证券发布AI投研报告，认为股市短期震荡但不改看多格局，科技仍是核心主线。建议关注AI算力、半导体等板块。该观点有望提振市场对科技板块的信心。\",\n      \"reason\": \"知名机构观点对市场情绪有引导作用，看多科技板块提供交易参考。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn/stock/stockzmt/2026-05-17/doc-inasmkvk1234567.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"湘财证券：指数宽幅震荡\",\n      \"summary\": \"湘财证券策略观点认为A股指数冲高后将步入宽幅震荡，建议等待方向明朗。该观点偏中性，提示市场短期可能缺乏趋势性机会。\",\n      \"reason\": \"机构对后市研判影响投资者预期，中性观点暗示观望为主。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn/stock/stockzmt/2026-05-17/doc-inasmkvk2345678.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"曹操出行拟回购2亿港元\",\n      \"summary\": \"曹操出行公告拟启动最高2亿港元股份回购计划，体现管理层对公司价值的信心。虽为港股，但可能提振港股及中概股情绪，对A股出行板块有极轻微正面影响。\",\n      \"reason\": \"公司回购是积极信号，但港股交易对A股直接影响小，仅作参考。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"网约车概念\", \"港股中概\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://emwap.eastmoney.com/news/info/detail/2026051712345678\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"研报看好SoC与AI芯片\",\n      \"summary\": \"财联社风口研报推荐一家具备SoC和AI ASIC芯片预期差的公司，认为其ASIC定制构筑壁垒，手机AI算力提升。利好SoC、AI芯片产业链。\",\n      \"reason\": \"深度研报挖掘个股机会，可能引发市场关注相关细分领域。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"SoC概念\", \"AI芯片\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373385\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
