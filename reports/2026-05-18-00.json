@@ -1,7 +1,47 @@
 {
   "date": "2026-05-18",
   "hour": "00",
-  "news": [],
-  "total_fetched": 24,
-  "generated_at": "2026-05-18T00:01:12.121824+08:00"
+  "news": [
+    {
+      "title": "存储龙头冲刺IPO",
+      "summary": "据报道，国内存储芯片龙头（推测为长江存储或长鑫存储）日赚近3亿元，正加速冲刺IPO。该消息可能引发市场对存储芯片及相关半导体产业链的炒作热情，A股相关公司如设备、材料、封测等环节有望受益。整体看多存储芯片及半导体板块。",
+      "reason": "存储龙头IPO加速，A股相关公司受益，属于行业重大事件，影响级别高。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "存储芯片",
+        "半导体",
+        "长江存储概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsRGViZDNRREdCVGYzbmdUZXpWMkR0SE1iTm1BcjdqdlZvQUVwSEFodDBZR3BGQVRZZ1ZFckIyelBpZW9zZ2ZIQk5MdGZCeTBfZHdkbFlWYUdlXzJjYVA0YXpvOXFGRTJET1I1N0ZSRVVXNDRhTkE?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "600208终止并购先导电科",
+      "summary": "上市公司600208（新潮能源？经查600208实为新湖中宝）公告终止并购先导电科，该事项此前可能被市场预期，终止构成利空。预计对个股股价形成压力，并可能影响相关板块并购预期。看空该股及并购概念。",
+      "reason": "并购终止属个股重大利空，直接影响股价，需关注。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "新湖中宝",
+        "并购概念"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44ejlBbGMtNUZUNFRJR3RleTlPOFN3cWd5Y1ZNcnJURW9RRVJJcHlOMW1OeDVQcEVYLUxHMjZOdG9CZE5kWDdySVRkbHdDYnNiUEVfa0NzSXgwNmNrRmZnZg?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    }
+  ],
+  "total_fetched": 22,
+  "generated_at": "2026-05-18T00:47:24.184905+08:00"
 }
