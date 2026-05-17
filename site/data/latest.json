@@ -1,7 +1,111 @@
 {
   "date": "2026-05-18",
   "hour": "06",
-  "news": [],
-  "total_fetched": 5,
-  "generated_at": "2026-05-18T06:01:08.034464+08:00"
+  "news": [
+    {
+      "title": "高端扩产潮：AI与新能源领跑",
+      "summary": "据财联社报道，2026年A股掀起高端扩产潮，AI与新能源领域成为投资重点。多家上市公司宣布扩产计划，涉及芯片、服务器、锂电池、光伏等高端制造业。这可能带动相关产业链上下游企业业绩增长，提升市场对科技和新能源板块的估值预期。这是一看多信号，尤其利好AI算力、半导体及新能源设备类股票。",
+      "reason": "行业重大投资趋势，AI和新能源扩产直接利好相关板块，符合优先级二行业政策变动。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "新能源",
+        "半导体",
+        "光伏"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373525?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "AI高景气与盈利兑现 机构看好科技",
+      "summary": "财联社援引机构观点称，AI产业高景气度持续，盈利逐步兑现，资金或进一步向科技方向集中。多家机构建议增配AI算力、大模型及应用端个股。这强化了市场对科技主线的信心，有望吸引增量资金流入，形成正向反馈。看多信号，利好AI产业链整体。",
+      "reason": "机构资金动向和行业景气确认，属于优先级二机构调研/评级变动。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI算力",
+        "大模型",
+        "半导体",
+        "计算机"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373526?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "多项数据折射经济运行韧性增强",
+      "summary": "财联社报道，近期多项经济数据（如PMI、社融、工业利润等）显示中国经济运行韧性增强，复苏态势稳固。这有助于提升市场对A股基本面的信心，降低系统性风险预期，为股市提供宏观支撑。看多信号，尤其利好沪深300等大盘蓝筹。",
+      "reason": "宏观经济数据超预期改善，属于优先级二宏观经济数据。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "周期板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373530?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "离境退税优化举措即将推出",
+      "summary": "据报道，我国离境退税政策将进一步优化，相关细则即将出台。此举旨在促进境外旅游消费，利好免税店、零售、航空及旅游板块。预计将提升相关个股业绩预期和估值水平。看多信号，短期催化消费板块。",
+      "reason": "消费行业政策利好，属于优先级二行业政策变动。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "免税概念",
+        "旅游",
+        "航空",
+        "零售"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373529?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "跨境ETF持续高溢价 基金公司频发风险提示",
+      "summary": "多只跨境ETF（如纳指ETF、标普ETF等）近期持续出现高溢价交易，基金公司密集发布风险提示公告。高溢价意味着价格严重偏离净值，一旦溢价回落将造成持有者损失。这暗示市场存在非理性炒作，可能引发资金获利了结和板块调整。看空信号，提示跨境ETF及对标指数的短线风险。",
+      "reason": "市场结构异常，属于优先级三市场结构信号。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "跨境ETF",
+        "纳指相关",
+        "海外ETF主题"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2373528?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    }
+  ],
+  "total_fetched": 21,
+  "generated_at": "2026-05-18T06:42:40.434755+08:00"
 }
