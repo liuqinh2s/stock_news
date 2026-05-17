@@ -2,13 +2,13 @@
   "date": "2026-05-18",
   "hour": "02",
   "model": "deepseek-v4-flash",
-  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 8744,
-    "completion_tokens": 2856,
-    "total_tokens": 11600
+    "prompt_tokens": 2767,
+    "completion_tokens": 822,
+    "total_tokens": 3589
   },
-  "content_length": 2385,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"电子布需求旺盛扩产\",\n      \"summary\": \"电子布（电子级玻璃纤维布）需求旺盛，上市公司加速扩产，主要受PCB行业高景气度和AI算力需求拉动。利好电子、PCB板块，如生益科技、宏和科技等。看多信号。\",\n      \"reason\": \"行业动态，电子布是PCB关键材料，需求增长反映电子产业链景气上行，直接利好相关上市公司。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"电子\", \"PCB\", \"生益科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hZ0RrWVU4emlmM04yTGdaNzViSXNHSEZnRUFXNkluVU9raE1GaHdvSUE0WjFOUW8zQ0VVRTJYUGNhTnp1M3Y4NElacGdiOWVfQlhGYVhVNUJ1enVwMmROWA?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"私募积极掘金AI产业链\",\n      \"summary\": \"股票策略私募积极掘金AI产业链，显示机构资金对AI领域的持续关注和布局。利好AI概念股，如算力、光模块、大模型等。看多信号。\",\n      \"reason\": \"资金流向信号，私募动向反映市场情绪和资金偏好，AI是当前主线，有利于板块热度维持。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"光模块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VYkZhQjJ5bFV5aWNSSldHQ1FKT19seE9QWk9IVDdOY1FfTm12cW5EYXFtNXc2MXpMNm9VMlhyNi1kV2U1d2JRM3VjMFZ4cDdTbzMxTXhoMTZOVjVqS2hWMGJWOA?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"金元证券增持富临运业\",\n      \"summary\": \"金元证券给予富临运业增持评级，认为公司具备成长潜力。富临运业主营道路运输，但业务偏传统，评级影响有限。看多个股。\",\n      \"reason\": \"券商评级变动，属轻度信号，对个股有一定正面催化。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"富临运业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tOTVpUUpuTlJDSVNPVTlfSjZjVU1sMXhRbDVlRHA4TlVEc1ZVcmlhUE41a1hOTHI5WDZTN3FTT0F5aEYwY0g1aUozSlRJLUlVQWZYeHVFVnFWZGZHWmc?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"冈拉克称美联储不可能降息\",\n      \"summary\": \"知名投资人冈拉克表示美联储根本不可能降息，暗示利率将维持高位更久。这可能导致外资流出A股，人民币承压，对A股整体偏空，尤其影响外资重仓股。看空信号。\",\n      \"reason\": \"美联储政策预期变化，影响全球资金流向和汇率，对A股有中期负面压力。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"外资重仓\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373501?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ],\n  \"note\": \"当前时段消息较少，仅筛选出4条具有交易价值的新消息，其余多为重复或无关内容。\"\n}"
+  "content_length": 736,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"私募积极掘金AI产业链\",\n      \"summary\": \"据东方财富报道，股票策略私募近期积极挖掘AI产业链投资机会，涉及算力、大模型、应用等环节。此举表明机构资金对AI板块的看好，可能带动相关个股活跃，如中际旭创、科大讯飞等。信号偏多，但短期影响有限，属于中期行业动态。\",\n      \"reason\": \"私募资金动向反映机构偏好，对AI板块有示范效应，符合筛选标准：行业政策变动（AI产业热度）。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VYkZhQjJ5bFV5aWNSSldHQ1FKT19seE9QWk9IVDdOY1FfTm12cW5EYXFtNXc2MXpMNm9VMlhyNi1kV2U1d2JRM3VjMFZ4cDdTbzMxTXhoMTZOVjVqS2hWMGJWOA?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前时间凌晨2点，抓取素材多为国际地缘政治等非A股核心消息，仅筛选出1条有交易价值的消息。\"\n}"
 }

@@ -3,24 +3,44 @@
   "hour": "02",
   "news": [
     {
-      "title": "金元证券增持富临运业",
-      "summary": "金元证券给予富临运业增持评级，认为公司具备成长潜力。富临运业主营道路运输，但业务偏传统，评级影响有限。看多个股。",
-      "reason": "券商评级变动，属轻度信号，对个股有一定正面催化。",
-      "category": "公司公告",
+      "title": "沪港深基金增配A股",
+      "summary": "据报道，沪港深基金近期灵活从港股腾挪至A股仓位，并交出亮眼答卷。这一动向表明机构资金正加大A股配置力度，可能提振市场信心，尤其利好沪深300及核心资产。信号为看多，但影响有限，属于机构行为观察。",
+      "reason": "机构仓位变化反映资金流向，沪港深基金主动增配A股是积极信号，对市场情绪有正面作用。",
+      "category": "资金流向",
       "impact_stocks": [
-        "富临运业"
+        "沪深300",
+        "上证50"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tOTVpUUpuTlJDSVNPVTlfSjZjVU1sMXhRbDVlRHA4TlVEc1ZVcmlhUE41a1hOTHI5WDZTN3FTT0F5aEYwY0g1aUozSlRJLUlVQWZYeHVFVnFWZGZHWmc?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56enE2aEdXcVlkUU5hZmFIeUJtUkNhS3JKMndPNHdYYlNRZkNURWFFa1JIVHZvc1FZTDZURy01cTZ0TFlpcXNPUUlQMGVWVDZhUS1COXpRSDZfZDJvQzg0Z2tuWHpjekRsc29KOXJXSmFFbWZESUVVSg?oc=5"
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "张家界5月18日复牌",
+      "summary": "张家界（000430）于2026年5月18日复牌，此前停牌原因未明确，复牌后股价可能补涨或补跌，影响主要限于个股层面，对旅游板块情绪略有提振。信号中性，需关注复牌后公告。",
+      "reason": "个股复牌属于常规公司公告，影响范围小，但停牌期间市场变化可能带来短期波动。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "张家界",
+        "旅游板块"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "同花顺财经",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxa1BseEdUTjZyMWtnUFBtQko4VjhvUHM4aDZ2eFZiYlNtekcwLUZVdFRpUDRrQlExNFJFMGdVVUxMN195MjU2VGIwT0Z6SFVpaFRtdjFVWHFvTVhQV2tXeVRB?oc=5"
+        }
+      ],
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 20,
-  "generated_at": "2026-05-18T02:01:21.046717+08:00"
+  "total_fetched": 12,
+  "generated_at": "2026-05-18T02:53:53.151283+08:00"
 }
