@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 10504,
+    "completion_tokens": 4560,
+    "total_tokens": 15064
+  },
+  "content_length": 2330,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"中韩半导体ETF溢价停牌\",\n      \"summary\": \"5月17日晚，中韩半导体ETF（513310）因二级市场出现较大幅度溢价，交易所决定自5月18日开市起至当日10:30停牌。该ETF跟踪中韩半导体指数，溢价反映了市场对半导体板块的短期追捧热情，可能引发资金对半导体板块的关注，但停牌本身有降温作用。可能影响半导体芯片板块，短期看多情绪但需注意回调风险。信号中性。\",\n      \"reason\": \"ETF溢价停牌属于市场结构异常，反映资金对半导体板块的集中追逐，是重要的市场情绪信号。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"半导体\", \"中韩半导体ETF\", \"芯片\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373437\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"两轮车企借绿色浪潮驶入欧洲\",\n      \"summary\": \"财联社报道，中国两轮车企（电动自行车、摩托车）借助欧洲绿色转型浪潮，加速出口欧洲市场。这一趋势有望提升相关公司海外营收，利好A股电动两轮车企业如新日股份、爱玛科技等。属于行业动态，看多信号。\",\n      \"reason\": \"行业出海利好，反映中国制造竞争力，属于行业动态，对相关板块有正面推动。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"新日股份\", \"爱玛科技\", \"电动两轮车\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2373432\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"普蕊斯实控人续签一致行动协议\",\n      \"summary\": \"普蕊斯公告，公司实际控制人续签一致行动协议，以维持控制权稳定。该事项属于公司正常治理行为，无明显利好或利空，对股价影响有限。可能影响普蕊斯个股，信号中性。\",\n      \"reason\": \"个股公司公告，涉及控制权稳定，但无实质性利好利空，属于轻度影响。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"普蕊斯\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RVUdpeFZBemhBQXh6ZENtZXlWVjAzeTlWTzNpYWdLQThEOWQyNDAyLVJfaVctYWxraDMyU3RqVkhYUmVWdURLYlVWa2ZmRC1Vd2poS0c3cEFVWHlZUGc\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"神农种业股东户数大增13%\",\n      \"summary\": \"雪球数据显示，神农种业A股股东户数增加1.36万户，增幅13.22%，流通A股户均持股下降。股东户数大幅增加通常表明筹码分散，可能预示短期股价承压，偏空信号。可能影响神农种业及种业板块。\",\n      \"reason\": \"股东户数变化是市场情绪指标，大幅增加偏空，反映散户涌入，可能引发抛压。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"神农种业\", \"种业\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"雪球\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2RFZ1QnplMXM4Z0U1UFBOWXpQMW8xLVZUYWpLbzJnNUg2Sy1PQ0U2bmZfcVFPa1B0WU4tVEUxVS05MXI3d0VKdXRGOUhNVzdZNXYtcXBR\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"由于近期市场消息重复性高，本轮有效新消息较少，仅筛选出4条。\"\n}"
+}
