@@ -2,13 +2,13 @@
   "date": "2026-05-18",
   "hour": "04",
   "model": "deepseek-v4-flash",
-  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "attempt": "[deepseek] 5/6 策略=完整内容 retry=1",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 2584,
-    "completion_tokens": 1199,
-    "total_tokens": 3783
+    "prompt_tokens": 6215,
+    "completion_tokens": 2391,
+    "total_tokens": 8606
   },
-  "content_length": 574,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"特朗普对伊朗强硬喊话\",\n      \"summary\": \"特朗普声称伊朗若不迅速行动将一无所有，加剧中东地缘紧张局势。可能推升原油价格，引发避险情绪，对A股能源板块（石油石化）短期利多，但整体市场情绪偏空。属于海外地缘风险信号，短期利空A股风险偏好。\",\n      \"reason\": \"海外地缘政治风险升级，影响原油价格和市场情绪，属于中期影响行情的消息。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油石化\", \"能源\", \"黄金\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/livenews/3104904\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中仅有1条与A股相关且有交易价值的信息，其余均为无关国际事件或个股常规公告。\"\n}"
+  "content_length": 2301,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"存储龙头长鑫冲刺IPO\",\n      \"summary\": \"长鑫科技更新招股书显示，一季度净利润超200亿元，日赚近3亿，加速冲刺A股IPO。作为国内存储芯片龙头，其上市将带动半导体设备、材料等产业链公司受益，如北方华创、中微公司等。该消息对半导体板块构成利好，属于重大产业事件。\",\n      \"reason\": \"存储龙头IPO进展对A股半导体板块有直接拉动效应，属于优先级二的公司重大事件，且市场关注度高。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"半导体设备\", \"半导体材料\", \"长鑫科技产业链\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"衢州发展终止并购先导电科\",\n      \"summary\": \"衢州发展（原新湖中宝，600208）公告终止收购先导电科，跨界转型失败。该重组此前被市场寄予厚望，终止将导致股价承压，并可能拖累重组概念板块。对衢州发展构成利空，短线投资者需警惕。\",\n      \"reason\": \"终止重大资产重组属于公司公告中的重大利空，直接影响个股及重组板块情绪，符合优先级二。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"衢州发展\", \"重组概念\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"174亿算力龙头建Token工厂\",\n      \"summary\": \"某算力龙头（市值174亿）计划建设Token工厂，预计将带动AI算力需求，相关A股公司如光模块、服务器等可能受益。该消息强化了AI产业链景气度，属于行业动态利好。\",\n      \"reason\": \"AI算力建设是当前市场热点，该消息直接利好算力板块，符合优先级二行业政策/动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"光模块\", \"服务器\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"上海移动/联通推算力服务\",\n      \"summary\": \"上海移动宣布5G-A超级上行网络规模商用，推出1元40万Token服务；中国联通发布全栈国产化算力基座。此举将加速5G-A应用和AI算力普及，利好通信运营商及算力产业链。\",\n      \"reason\": \"运营商大规模推广算力服务，对5G-A、AI算力板块有直接催化作用，属于行业动态利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"5G\", \"AI算力\", \"中国移动\", \"中国联通\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://www.cls.cn\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"广西柳州5.2级地震致3人失联\",\n      \"summary\": \"5月18日凌晨广西柳州发生5.2级地震，已致3人失联，启动Ⅲ级应急响应。对当地上市公司（如柳州钢铁、柳工等）可能产生短期负面情绪，但破坏有限，预计影响较小。\",\n      \"reason\": \"自然灾害属于突发事件，可能短暂影响当地上市公司股价，但影响级别较低，符合优先级三且为中性信号。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"广西板块\", \"水泥建材\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://www.cls.cn\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
 }
