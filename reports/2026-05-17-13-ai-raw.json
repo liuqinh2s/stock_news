@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-17",
+  "hour": "13",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7254,
+    "completion_tokens": 2614,
+    "total_tokens": 9868
+  },
+  "content_length": 2061,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"国轩高科固态电池新突破\",\n      \"summary\": \"国轩高科公布固态电池最新进展：能量密度达400Wh/kg，2GWh量产线建设中。这是固态电池领域的重大技术突破，有望加速固态电池商业化进程。利好国轩高科本身及整个固态电池、新能源车板块，看多信号。\",\n      \"reason\": \"固态电池技术突破属于行业重大动态，对新能源赛道有积极影响，符合优先级二行业政策变动。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"国轩高科\", \"固态电池\", \"宁德时代\", \"新能源车\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373324?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"无锡将建大规模Token工厂\",\n      \"summary\": \"无锡将建立一座大规模“Token工厂”，可能涉及区块链、数字资产或算力基础设施。此举显示地方政府对新兴数字经济的支持，有望提振区块链和算力概念板块。中性偏多信号。\",\n      \"reason\": \"属于地方产业政策动态，可能引发市场对数字经济和区块链概念的关注，符合优先级二行业政策变动。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"区块链\", \"算力\", \"中科曙光\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373327?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"特斯拉两年来首次上调Model Y价格\",\n      \"summary\": \"特斯拉两年来首次上调Model Y价格，表明成本压力或需求强劲。对国内新能源车企如比亚迪、蔚来等构成竞争缓解，可能提升国内车企定价空间。看多国内新能源车板块。\",\n      \"reason\": \"特斯拉价格调整影响新能源车行业竞争格局，符合优先级二行业动态，对A股新能源车板块有积极影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"比亚迪\", \"蔚来\", \"特斯拉供应链\", \"新能源车\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373322?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"荣耀AI首席：AgenticOS时代将至\",\n      \"summary\": \"荣耀AI首席科学家黄非表示，AI必将从chatbot进入到AgenticOS时代。这凸显AI终端智能化趋势，利好AI概念股及消费电子产业链。中性信号，无实质政策但提升市场情绪。\",\n      \"reason\": \"行业专家观点反映AI发展新方向，符合优先级二行业动态，但缺乏具体措施，影响有限。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"消费电子\", \"荣耀产业链\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2373326?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮抓取素材经去重后仅有4条新消息符合筛选标准，其余均为重复或影响较小的排除项。\"\n}"
+}
