@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-18",
+  "hour": "03",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7583,
+    "completion_tokens": 1629,
+    "total_tokens": 9212
+  },
+  "content_length": 1882,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"张家界复牌\",\n      \"summary\": \"张家界（000430）于2026年5月18日复牌。此前公司因筹划重大事项停牌，复牌后股价可能波动。该事件仅影响张家界个股，无板块效应。中性信号，建议观望。\",\n      \"reason\": \"个股复牌公告，属于公司公告，虽无明确方向但需关注复牌后走势。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"张家界\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxa1BseEdUTjZyMWtnUFBtQko4VjhvUHM4aDZ2eFZiYlNtekcwLUZVdFRpUDRrQlExNFJFMGdVVUxMN195MjU2VGIwT0Z6SFVpaFRtdjFVWHFvTVhQV2tXeVRB?oc=5\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"弘元绿能股东户数大增\",\n      \"summary\": \"弘元绿能（603185）A股股东户数增加9298户，增幅16.83%，户均持股降14.40%。股东户数大幅增加通常意味着筹码分散，散户化加剧，暗示前期上涨后主力派发，短期偏空。影响光伏设备板块情绪。\",\n      \"reason\": \"股东户数变化反映筹码集中度，大幅增加是看空信号，属于市场结构变化。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"弘元绿能\", \"光伏设备\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"雪球\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XVG9CeXV1VlhHNGtOZlFsS1VkVWNpY3NQa2hUc1ZWZi1xUDdFLTRQTjN6QWkwQ1ZUMktCVFNoRVdfdFExZElXQ2tqU0UwNzlCN09BRGdn?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"苏州龙杰股东户数减少\",\n      \"summary\": \"苏州龙杰（603332）A股股东户数减少4303户，降幅16.95%，户均持股增20.41%。股东户数减少表示筹码集中，有利于股价稳定或上行，偏多信号。影响化纤板块个股。\",\n      \"reason\": \"股东户数减少是看多信号，属于个股筹码结构改善。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"苏州龙杰\", \"化纤\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"雪球\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaW56dXI1TF9hSGMwMWlMSDdxOTJ6eVNSNmdJN2FmbWFDMGVKN1lKMl9FSVV3eENfbFpESzFwV1JDa3V3aU1kUzNDRVZkNmh5YVlOUWpR?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮筛选素材中多数为国际时政或重复新闻，仅有张家界复牌及两则股东户数变化具有A股交易参考价值，故输出3条。\"\n}"
+}
