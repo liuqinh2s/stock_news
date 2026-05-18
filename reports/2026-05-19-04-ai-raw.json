@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-19",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13172,
+    "completion_tokens": 2753,
+    "total_tokens": 15925
+  },
+  "content_length": 1705,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美联储鹰派言论施压\",\n      \"summary\": \"美联储古尔斯比表示，通胀必须成为新任主席沃什的首要考虑。这暗示美联储可能维持紧缩立场，加息预期升温，对A股形成流动性压制，利空成长股。\",\n      \"reason\": \"美联储官员鹰派表态，影响全球资金流向和风险偏好，对A股有间接但重要的影响。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"沪深300\", \"创业板\", \"成长股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2374768?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"黎巴嫩冲突伤亡升级\",\n      \"summary\": \"黎以战火重燃以来，黎巴嫩已有超3000人死亡。地缘冲突加剧，可能推升避险情绪，利空风险资产，但直接冲击A股有限，主要影响石油、黄金等板块。\",\n      \"reason\": \"中东局势恶化，短期压制市场情绪，但事件已被部分定价，影响可控。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油石化\", \"黄金\", \"军工\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2374770?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"东鹏饮料回购及扩股\",\n      \"summary\": \"东鹏饮料公告H股持股不变，拟进行A股回购及资本化发行。回购通常视为公司看好自身价值，短期对股价有支撑，但整体影响局限于个股。\",\n      \"reason\": \"公司回购利好，但属于例行公告，对大盘影响微弱。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"东鹏饮料\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFAyeFdPVHhHS184bVZOa05HM3VSU0hSVi1LYXZNZXoxeE5CWkVvLTZ6TUdTQ0NFcUEyQjZPLWlZVGx4dzNNNFhkenV3NjZ1Y1FuV1ZMMHBXekt2OEx6dHVqMzh0TWowUGJrNVh0TzV6WUxLakdacHB5OA?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本次抓取消息与历史消息高度重复，缺乏高优先级新信息。仅筛选出3条有轻微影响的消息，建议后续关注美联储政策动向及中东局势变化。\"\n}"
+}
