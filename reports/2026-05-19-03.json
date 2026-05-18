@@ -3,34 +3,61 @@
   "hour": "03",
   "news": [
     {
-      "title": "江苏国资3.2亿竞得东海证券股权",
-      "summary": "江苏国资以3.2亿元竞得东海证券4.47%股权，显示地方国资对券商板块的布局。可能带动券商板块情绪，但规模较小。中性偏多信号。",
-      "reason": "地方国资增持券商股权，对券商板块有积极信号，但影响有限。",
-      "category": "资金流向",
+      "title": "特朗普推迟攻击伊朗",
+      "summary": "美国总统特朗普表示将推迟原定对伊朗发动的袭击，地缘政治紧张局势出现缓和迹象。此前美伊关系恶化导致原油飙升、避险情绪升温，此消息可能降低市场对中东冲突升级的担忧，短期利好全球风险资产。A股方面，将减轻对石油供应中断和地缘风险的忧虑，利好整体市场情绪，尤其是航空、交通运输等受油价影响较大的板块。看多信号，但需警惕伊朗后续回应。",
+      "reason": "地缘风险缓和直接改善市场情绪，符合优先级一中对宏观风险事件的影响评估。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "券商",
-        "东海证券"
+        "沪深300",
+        "航空",
+        "交通运输"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260519/c676780636.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374766?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "伊朗格什姆岛防空系统启动",
+      "summary": "伊朗在格什姆岛启动了防空系统，显示中东局势依然紧张。尽管特朗普推迟攻击，但伊朗保持军事戒备，地缘风险并未完全消除。该消息可能部分抵消前一条的乐观情绪，对A股影响偏中性，但需关注后续发展。原油相关板块可能维持高位震荡。",
+      "reason": "地缘冲突的细节信号，影响市场对持续紧张程度的判断。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油石化",
+        "军工"
       ],
       "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BYmFFTkpFb2tJN2QtcXNwak1wZjNaaTZxRTNRSUtVNHBhVU5LRTk3Ni02TF9KbV9kcjAxZzU4TFVoQXhsVUZ1RDVSR0lUTGtaUTZrOHpxSkJRbV9KVmc?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260519/c676780633.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374764?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "戴尔CEO称存储芯片供应短缺",
-      "summary": "戴尔科技CEO表示存储芯片和先进制程芯片仍存在供应短缺，暗示半导体高景气持续。利好存储芯片、先进制程相关A股公司，如兆易创新、中芯国际等。看多信号。",
-      "reason": "行业龙头CEO表态印证半导体短缺，利好板块。",
+      "title": "戴尔/英伟达称芯片供应短缺",
+      "summary": "戴尔CEO表示存储芯片和先进制程芯片仍存在供应短缺，英伟达黄仁勋预计内存需求将超过产能。芯片短缺持续将推高半导体产品价格，利好国内存储芯片、先进封装等产业链公司（如长鑫存储、兆易创新等）。同时，AI算力需求旺盛，相关设备厂商受益。看多半导体板块。",
+      "reason": "行业龙头对芯片供应的判断直接利好A股半导体板块，属于优先级二的行业动态。",
       "category": "行业动态",
       "impact_stocks": [
         "半导体",
         "存储芯片",
-        "兆易创新",
-        "中芯国际"
+        "AI算力"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -38,40 +65,44 @@
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2374759?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374756?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "特朗普称不考虑对伊朗让步",
-      "summary": "特朗普表示不考虑向德黑兰作出任何让步，美伊紧张局势延续。此前白宫认为伊朗提案无实质改进，军事威胁升温。地缘风险推高油价，避险情绪上升，短期利空A股整体风险偏好，利好黄金、石油板块。",
-      "reason": "地缘政治升级是市场头号风险，直接影响油价和避险资产。",
-      "category": "宏观经济",
+      "title": "Meta裁员7000人转岗AI",
+      "summary": "Meta Platforms计划5月20日全球分三批裁员，并将7000名员工转移至AI工作流程。此举反映科技巨头加速AI转型，可能提振市场对AI产业链的信心。A股AI概念、算力、应用端公司（如科大讯飞、中科曙光等）或受催化。看多AI板块。",
+      "reason": "全球科技巨头AI战略调整对A股AI板块有映射效应，符合优先级二中的行业政策变动。",
+      "category": "行业动态",
       "impact_stocks": [
-        "石油石化",
-        "黄金",
-        "军工"
+        "AI概念",
+        "算力",
+        "科大讯飞"
       ],
-      "signal": "bearish",
-      "impact_level": 4,
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2374753?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2374762?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "白宫审查是否禁止最佳价格机制交易",
-      "summary": "美国白宫正在审查是否禁止通过“最佳价格机制”进行股票交易，该机制影响高频交易和流动性。若实施可能引发美股市场波动，间接传导至A股情绪。目前仅为审查阶段，影响有限。中性偏空信号。",
-      "reason": "美股交易规则变动可能影响全球市场波动率，但尚未落地。",
+      "title": "美国白宫审查股票交易规则",
+      "summary": "据悉美国白宫正在审查是否禁止通过“最佳价格机制”进行股票交易。若实施可能影响美股交易结构和流动性，短期或引发美股波动，间接通过情绪传导影响A股。但具体影响尚不明朗，暂视为中性偏空信号，需关注后续进展。",
+      "reason": "美股监管政策变化可能对全球市场产生溢出效应，属于优先级二中的海外市场联动。",
       "category": "监管政策",
       "impact_stocks": [
         "沪深300",
-        "美股相关ETF"
+        "券商"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
@@ -79,9 +110,9 @@
           "url": "https://api3.cls.cn/share/article/2374761?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 29,
-  "generated_at": "2026-05-19T03:01:30.180477+08:00"
+  "total_fetched": 36,
+  "generated_at": "2026-05-19T03:23:33.890373+08:00"
 }
