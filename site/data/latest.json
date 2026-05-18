@@ -3,149 +3,90 @@
   "hour": "10",
   "news": [
     {
-      "title": "证监会副主席李超谈并购重组与北交所改革",
-      "summary": "证监会副主席李超表示，截至4月底，“并购六条”发布以来上市公司披露资产重组3422单；将更大力度推进北交所深化改革。这释放了监管层鼓励并购重组和扶持北交所的信号，利好并购重组概念股及北交所上市公司。整体属于偏多信号。",
-      "reason": "证监会高层表态，涉及监管政策，影响市场预期，符合优先级一。",
+      "title": "深交所迎来史上最大IPO 245亿",
+      "summary": "深交所将迎来史上最大IPO，募资245亿元，打破A股30年纪录。该IPO属于红筹企业注册制上市，可能对市场资金面造成较大抽血压力，短期利空A股整体，尤其是中小盘股。同时可能利好券商股（承销收入）和红筹回归概念，但整体偏空。",
+      "reason": "优先级一：IPO巨量扩容，直接影响市场资金面与情绪，需关注短期抛压。",
       "category": "监管政策",
       "impact_stocks": [
-        "并购重组概念",
-        "北交所板块",
-        "券商"
+        "沪深300",
+        "券商",
+        "红筹概念"
       ],
-      "signal": "bullish",
-      "impact_level": 4,
+      "signal": "bearish",
+      "impact_level": 5,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373666"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1SHhmXzljdk1hOFkzUUVNamR3b084MkJZajRVeFJjREJqWTU1aXhaaGFMUHQweGxZQlN4U1RzT3JBREk2SEhUMEIxX2ZldkdnN2tvTF9NR1dxaTRPbkgtdmppVTBacFFJSXgxa2l4blF0aGRqaWc?oc=5"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "黄仁勋反对AI芯片出口管制，利好国产替代",
-      "summary": "英伟达CEO黄仁勋公开表示坚决反对AI芯片出口管制，认为将GPU比作原子弹不合适。该言论可能加剧中美科技博弈预期，但短期内强化A股AI芯片国产替代逻辑，利好寒武纪、海光信息等国产芯片概念股。情绪上偏多国产算力板块。",
-      "reason": "国际科技巨头表态影响行业预期，符合优先级二行业动态。",
-      "category": "行业动态",
+      "title": "4月经济数据全面不及预期",
+      "summary": "国家统计局公布4月经济数据：社会消费品零售总额同比0.2%（前值1.7%），规模以上工业增加值同比4.1%（前值5.7%），1-4月房地产开发投资同比-13.7%（前值-11.2%），均低于预期。消费、工业、地产均走弱，显示经济复苏动能放缓，短期利空A股周期及消费板块，可能引发市场调整。",
+      "reason": "优先级二：宏观经济数据超预期走弱，直接影响市场预期和风格。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "AI芯片",
-        "国产替代",
-        "半导体"
+        "沪深300",
+        "消费",
+        "房地产",
+        "制造业"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260518/c676756022.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "兆易创新封涨停创历史新高",
-      "summary": "存储芯片龙头兆易创新今日封涨停，续创历史新高，A+H总市值突破2900亿。该股涨停带动存储芯片板块走高，反映AI及半导体高景气持续。属于强势信号，短期看多存储芯片及半导体方向。",
-      "reason": "龙头股涨停创新高，属于市场情绪信号，但个股影响有限，符合优先级三。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "兆易创新",
-        "存储芯片",
-        "半导体"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
+      "signal": "bearish",
+      "impact_level": 4,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373690"
+          "url": "https://api3.cls.cn/share/article/2373698"
         },
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260518/c676755968.shtml"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "五粮液提出三大承诺提振股东信心",
-      "summary": "五粮液今日提出“三大承诺”，包括稳定商家经营预期、提升股东回报等，并披露“五一”期间多款产品动销增长近60%。公司基本面积极，叠加白酒板块估值合理，短期偏多五粮液及白酒板块。",
-      "reason": "公司重大事件，属于中期影响，符合优先级二。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "五粮液",
-        "白酒板块"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260518/c676756005.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "证券板块拉升，华安证券涨停",
-      "summary": "今日盘中证券板块震荡拉升，华安证券涨停。券商异动通常反映市场情绪回暖或政策预期，可能预示资金入场信心增强。短期偏多券商板块及大盘走势。",
-      "reason": "板块异动信号，符合优先级三市场情绪。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "券商",
-        "华安证券",
-        "沪深300"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373668"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "1-4月房地产开发投资同比降幅扩大至13.7%",
-      "summary": "国家统计局数据显示，1-4月全国房地产开发投资同比-13.7%，前值-11.2%，降幅扩大。地产数据持续低迷，但一线城市房价环比上涨显示结构性回暖。整体利空地产板块及上下游，需关注政策加码预期。",
-      "reason": "宏观经济数据不及预期，符合优先级二。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "房地产",
-        "建材",
-        "银行"
-      ],
-      "signal": "bearish",
-      "impact_level": 4,
-      "sources": [
-        {
           "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772479"
+          "url": "https://wallstreetcn.com/articles/3772481"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "美10年期国债收益率升至4.631%创逾一年新高",
-      "summary": "美国10年期国债收益率升至4.631%，为2025年2月以来最高。美债收益率上行对全球成长股估值形成压制，短期利空A股科技、新能源等赛道股，但可能已被部分定价。",
-      "reason": "海外市场联动，符合优先级二。",
-      "category": "宏观经济",
+      "title": "证监会副主席：更大力度推进北交所改革",
+      "summary": "中国证监会副主席李超表示，将以更大力度推进北京证券交易所深化改革。此举有望提升北交所流动性和吸引力，利好北交所上市公司及券商板块，尤其是具有做市资格或保荐业务的券商。属于政策性利好。",
+      "reason": "优先级一：监管层明确表态改革，直接利好北交所及券商板块。",
+      "category": "监管政策",
       "impact_stocks": [
-        "科技股",
-        "新能源",
-        "沪深300"
+        "北交所概念",
+        "券商",
+        "专精特新"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2373665"
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUVTBvSlk4SHRkM2ZXcEFJS3djWWNJMjhWT2pPaC1meEtDLVlJeGg2U2cwNTViSEVMcmR1N0Voa2lQYlNIMk15SGJ2RkJtRlBLUVM3TDl1dHpUVTAwYUlHVGF3?oc=5"
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "安通控股获大股东增持4-8亿元",
+      "summary": "安通控股公告，中外运集运拟以4.075亿至8.15亿元增持公司股份。大股东大额增持显示对公司信心，短期提振股价，利好航运板块及个股。属于积极信号。",
+      "reason": "优先级二：大股东增持属重要公司事件，直接利好个股，且金额较大。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "安通控股",
+        "航运"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pM1cxTURCUkpLV0pzUmlrRF9oOEFhRGdUenBOd0FCMEluS2tLNTd3bklxNHlRRFJDVEw1WllDLU1VTkdYTnRSUnhBU1Q4ZURDajNiNHdGc1h2RTFwd2VJTkFB?oc=5"
+        }
+      ],
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 90,
-  "generated_at": "2026-05-18T10:01:06.867452+08:00"
+  "total_fetched": 88,
+  "generated_at": "2026-05-18T10:10:32.987589+08:00"
 }
