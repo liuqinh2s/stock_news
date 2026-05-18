@@ -3,34 +3,130 @@
   "hour": "06",
   "news": [
     {
-      "title": "英伟达Vera CPU抵达AI实验室",
-      "summary": "英伟达最新Vera CPU已送达Anthropic、OpenAI、SpaceX、甲骨文等AI实验室。Vera CPU针对AI推理优化，性能大幅提升，进一步巩固英伟达在AI计算领域的领导地位，有望带动A股英伟达产业链及AI算力板块，如中际旭创、天孚通信等。看多AI算力方向。",
-      "reason": "英伟达AI硬件进展利好产业链，对A股相关光模块、服务器等公司有直接催化。",
-      "category": "行业动态",
+      "title": "银行理财规模超预期增长",
+      "summary": "4月银行理财规模增长超预期，收益回暖。反映居民资金回流理财市场，可能分流股市资金但整体利好金融板块，尤其银行理财子公司。信号偏中性，短期对A股资金面影响有限。",
+      "reason": "资金流向指标，理财规模增长超预期显示固收类产品吸引力增强，可能对股市资金有虹吸效应，但银行板块受益。",
+      "category": "资金流向",
       "impact_stocks": [
-        "AI算力",
-        "光模块",
-        "中际旭创"
+        "银行",
+        "银行理财概念"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "neutral",
+      "impact_level": 2,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772575"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374793"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "海外投资者3月持美债浮亏1421亿",
-      "summary": "美国财政部数据显示，海外投资者3月所持长期美债估值浮亏高达1421亿美元。美债收益率上行导致账面亏损，可能促使外资减持美债并回流其他资产，对A股外资流入构成潜在利好，但短期情绪偏空。整体中性偏多，需观察后续资金流向。",
-      "reason": "美债浮亏影响全球资本配置，可能增加外资对A股等新兴市场的配置需求，属于资金流向的间接信号。",
+      "title": "基金年内分红近630亿",
+      "summary": "权益类基金贡献过半，年内分红总额近630亿元。显示基金盈利较好，但分红增加可能导致基金减仓应对赎回，对市场形成一定压力。短期偏利空，但反映市场赚钱效应。",
+      "reason": "市场情绪信号，分红多说明前期收益好，但分红后基金可能被动减仓，需关注。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "基金重仓股"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374794"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "英特尔14A芯片2028年量产",
+      "summary": "英特尔CEO称14A芯片将于2028年实现生产，2029年量产。利好消息，表明先进制程竞争持续，利好国内半导体设备/材料板块，但时间较远短期影响有限。",
+      "reason": "行业动态，先进制程进展影响半导体产业链预期，对国产替代概念有提振。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "芯片",
+        "北方华创"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374800"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "花旗：铝库存将创历史新低",
+      "summary": "花旗预测全球铝库存将在未来6-12个月内降至历史低点。供应紧张预期利好铝价，对A股有色金属板块（尤其是铝企）构成看多信号，如中国铝业、南山铝业等。",
+      "reason": "行业动态，大宗商品库存变化直接影响相关个股盈利预期。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "有色金属",
+        "铝",
+        "中国铝业"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374786"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "AI芯片初创Tenstorrent估值或超50亿美元",
+      "summary": "Tenstorrent吸引众多竞争对手兴趣，可能达成协议估值超50亿美元。显示AI芯片赛道持续火热，利好A股AI算力、芯片设计板块，如寒武纪、海光信息。",
+      "reason": "行业动态，AI芯片估值提升带动板块情绪。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "算力",
+        "寒武纪"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374784"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "特朗普扩大折扣药品计划",
+      "summary": "特朗普宣布扩大折扣药品定价计划，打折药品规模扩大七倍。利空美国药企盈利，但对A股创新药、CXO板块影响偏中性，可能带来竞争压力。",
+      "reason": "行业动态，美国医药政策变化间接影响国内医药出口和创新药定价预期。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "医药",
+        "创新药"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374783"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "海外投资者3月美债浮亏1421亿美元",
+      "summary": "美国财政部数据显示海外投资者3月所持长期美债估值浮亏1421亿美元。美债价格下跌导致外资亏损，可能促使外资减持美债转向其他资产，对A股资金面偏利好（外资流入），但人民币汇率可能承压。",
+      "reason": "资金流向指标，美债浮亏可能推动全球资金再配置，部分流入新兴市场包括A股。",
       "category": "资金流向",
       "impact_stocks": [
         "沪深300",
-        "上证50",
-        "外资重仓股"
+        "北向资金重仓股"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -40,29 +136,29 @@
           "url": "https://wallstreetcn.com/articles/3772572"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "周二重点关注财经数据",
-      "summary": "今日重点关注财经事件和经济数据，包括可能发布的PMI、CPI等宏观经济指标。若数据超预期，将强化经济复苏逻辑，利好A股；若不及预期，则可能引发市场调整。建议密切关注盘中公布的数据，做好应对。",
-      "reason": "经济数据是中期影响行情的关键变量，直接影响市场预期和行业配置。",
-      "category": "宏观经济",
+      "title": "英伟达Vera CPU交付AI实验室",
+      "summary": "英伟达宣布Vera CPU已抵达Anthropic、OpenAI、SpaceX、甲骨文等AI实验室。表明英伟达持续主导AI算力市场，利好A股AI算力产业链，如中际旭创、工业富联等。",
+      "reason": "行业动态，英伟达新产品进展提振AI板块情绪。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "周期股",
-        "消费"
+        "AI算力",
+        "英伟达概念",
+        "中际旭创"
       ],
-      "signal": "neutral",
-      "impact_level": 4,
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2374723"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772575"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 27,
-  "generated_at": "2026-05-19T06:01:13.679780+08:00"
+  "total_fetched": 32,
+  "generated_at": "2026-05-19T06:48:11.106598+08:00"
 }
