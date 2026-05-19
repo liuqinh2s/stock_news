@@ -3,70 +3,146 @@
   "hour": "10",
   "news": [
     {
-      "title": "韩国KOSPI跌幅扩至4%",
-      "summary": "韩国综合指数盘中跌幅扩大至4%，亚太市场恐慌情绪蔓延。韩国作为全球半导体和电子产业重要参与者，其股市暴跌可能通过产业链传导影响A股相关板块，如半导体、消费电子。此外，地缘政治风险（朝鲜半岛局势）或加剧市场避险情绪。",
-      "reason": "韩国股市与A股存在联动，大幅下跌可能引发亚太资金流出，形成负面情绪传导。",
-      "category": "市场情绪",
+      "title": "吉林推具身智能20项举措",
+      "summary": "吉林省出台20项举措助力具身智能等未来产业发展，涉及机器人、AI、智能制造等领域。政策明确支持技术研发、产业集聚和资金扶持，有望提振机器人及AI板块。信号偏多，对应板块包括机器人、AI概念。",
+      "reason": "地方产业政策明确利好，属于行业动态，优先级二，影响相关板块。",
+      "category": "行业动态",
       "impact_stocks": [
+        "机器人",
+        "AI概念",
+        "智能制造"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374926"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "韩国KOSPI跌4%亚太承压",
+      "summary": "韩国KOSPI指数跌幅扩大至4%，SK海力士跌3%。受全球通胀压力及地缘风险影响，亚太股市普遍走弱。A股受情绪传导可能低开或震荡，短期偏空，尤其对半导体等板块有情绪压制。",
+      "reason": "海外市场联动，优先级二，亚太暴跌直接影响A股开盘情绪。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
         "半导体",
-        "消费电子",
-        "沪深300"
+        "创业板"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260519/c676789879.shtml"
-        },
-        {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2374953?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2374953"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "吉林推20项举措助具身智能",
-      "summary": "吉林省出台20项举措助力具身智能等未来产业发展，包括财政补贴、研发支持、人才引进等。具身智能是机器人的核心方向，地方政策加码将利好机器人产业链相关公司，尤其是东北地区的智能制造企业。看多机器人板块。",
-      "reason": "地方产业政策直接利好特定板块，具身智能是当前市场热点，政策催化可能带动板块进一步上涨。",
-      "category": "行业动态",
+      "title": "创业板指跌超2%算力领跌",
+      "summary": "创业板指跌幅扩大至2%，算力硬件、半导体材料板块领跌，中船特气跌超10%。科技股调整压力加大，可能与美股芯片股下跌及地缘风险有关，短期偏空。",
+      "reason": "市场情绪信号，创业板作为领先指标大跌，利空成长股。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "机器人",
-        "人工智能",
-        "智能制造"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2374926?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "碳酸锂主力合约跌超3%",
-      "summary": "碳酸锂期货主力合约短线跳水跌超3%，报185560元/吨。碳酸锂是新能源车电池关键原材料，其价格下跌将降低电池成本，利好下游整车企业，但对上游锂矿企业利润构成压力。同时，价格下跌反映需求可能不及预期，对锂电板块整体偏空。",
-      "reason": "碳酸锂期货价格波动直接影响锂电产业链利润预期，短线大跌对相关上市公司股价有直接冲击。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "锂矿",
-        "锂电池",
-        "新能源车"
+        "创业板",
+        "算力",
+        "半导体"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2374910?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2374964"
         }
       ],
       "urgency": "immediate"
+    },
+    {
+      "title": "A50期货跌1%外资谨慎",
+      "summary": "富时中国A50指数期货盘中跌逾1%，反映外资对A股短期态度谨慎。结合北向资金近期动向，可能引发资金流出，偏空信号。",
+      "reason": "资金流向信号，优先级二，A50期货通常领先现货，外资态度关键。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "权重蓝筹"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374959"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "摩根大通下调黄金目标至6000",
+      "summary": "摩根大通报告称黄金牛市未结束，但将年底目标下调至6000美元，认为白银神话破灭。短期黄金承压，但长期看多。对A股黄金板块影响偏空，白银板块利空。",
+      "reason": "机构观点影响贵金属板块，优先级二，目标下调短期利空。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "黄金",
+        "贵金属",
+        "白银"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772585"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美联储或重新加息三种情形",
+      "summary": "分析文章指出，在通胀顽固、就业过热、金融稳定风险等三种情形下，美联储可能重新加息。尽管沃什刚就任，但鹰派预期升温，利空全球风险资产，A股承压。",
+      "reason": "海外央行政策预期，优先级二，加息预期对A股估值有压制。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "国债",
+        "成长股"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772584"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "三星前总裁预测存储明年跌价",
+      "summary": "三星半导体前总裁预测存储价格明年下半年开始下跌，因中国企业大幅扩产。该言论可能引发存储芯片板块调整，短期偏空，利空A股存储概念股。",
+      "reason": "行业动态，优先级二，存储价格预期对A股半导体细分板块影响大。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "存储芯片",
+        "半导体",
+        "兆易创新"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772583"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 66,
-  "generated_at": "2026-05-19T10:01:15.425314+08:00"
+  "total_fetched": 77,
+  "generated_at": "2026-05-19T10:10:14.316137+08:00"
 }
