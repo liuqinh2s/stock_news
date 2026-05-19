@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-20",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 10059,
+    "completion_tokens": 1604,
+    "total_tokens": 11663
+  },
+  "content_length": 1926,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美股芯片与软件股关联度首现负值\",\n      \"summary\": \"5月20日，美股芯片股与软件股关联度历史上首次跌入负值区间，表明两大板块走势出现显著背离。这可能反映市场叙事从AI转向利率，芯片股受美债收益率飙升压制，而软件股因AI应用预期相对抗跌。该信号可能传导至A股，影响半导体（芯片）和AI（软件）板块的估值逻辑。A股芯片板块可能承压，AI应用端相对受益，整体偏空半导体、偏多AI软件。\",\n      \"reason\": \"市场结构重大变化，历史上首次出现，可能预示风格切换，对科技板块有直接指引。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"半导体\", \"AI软件\", \"科创50\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260520/c676814909.shtml\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2376050?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"花旗看多布伦特原油至120美元\",\n      \"summary\": \"花旗集团发布报告，预计布伦特原油近期将上涨至每桶120美元。此前国际原油期货结算价小幅收跌，但中东局势持续紧张（美伊谈判不确定性、特朗普听取军事行动方案、北约考虑霍尔木兹护航），供给风险仍高。花旗看多强化油价上行预期，利好A股石油石化板块，如中国石油、中国石化，同时可能推高通胀预期，间接利空债市和成长股。\",\n      \"reason\": \"知名投行明确看多油价，叠加地缘风险，对能源板块有直接催化。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油石化\", \"中国石油\", \"中国石化\", \"能源ETF\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2376055?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"华尔街紧急叫停部分银行网络安全检查\",\n      \"summary\": \"受Mythos大模型冲击，华尔街监管机构紧急暂缓部分银行网络安全检查，以评估相关风险。Mythos是新兴AI模型，可能对传统网络安全架构构成挑战。此事件凸显AI安全的重要性，可能刺激A股网络安全、AI安全概念股走强，如奇安信、深信服等。同时，大模型安全需求增长对算力板块亦有间接利好。\",\n      \"reason\": \"AI安全突发事件，引发监管关注，直接利好网络安全板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"网络安全\", \"奇安信\", \"深信服\", \"AI安全\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2376058?os=web&sv=8.4.6&app=CailianpressWeb\"},\n        {\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2376052?os=web&sv=8.4.6&app=CailianpressWeb\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
