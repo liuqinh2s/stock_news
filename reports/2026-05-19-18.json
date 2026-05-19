@@ -3,17 +3,38 @@
   "hour": "18",
   "news": [
     {
-      "title": "4月基建投资增速转负",
-      "summary": "据第一财经报道，2026年4月中国基建投资增速由正转负，这是自2023年以来首次出现负增长。可能原因包括地方政府债务约束和项目储备不足。该数据直接反映经济增长动能，利空基建、建材、工程机械等板块。对A股整体偏空，短期冲击市场信心。",
-      "reason": "宏观经济核心数据，直接影响市场预期，属于优先级二。",
-      "category": "宏观经济",
+      "title": "A股重磅新规，千家公司面临调整",
+      "summary": "新浪财经报道，A股即将出台重磅新规，预计影响上千家上市公司。具体内容可能涉及退市标准、减持限制或分红要求等，若为收紧监管，将抑制投机、加速优胜劣汰，短期对中小盘股形成压力。对沪深300等蓝筹影响较小，对绩差股、壳资源股利空。",
+      "reason": "潜在重大监管政策变化，优先级一，影响广泛。",
+      "category": "监管政策",
       "impact_stocks": [
-        "基建",
-        "建材",
-        "工程机械"
+        "沪深300",
+        "中证500",
+        "小盘股"
       ],
       "signal": "bearish",
       "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKc1ZsNy1kMEtlaVpHR0Z2SWlpYUJ2R2ZxSEVEcXpycE43aHJKa1VyTnlLdG5yMWNZc3kyeVVscUJsZUNVd1R0NHE1OUtGRlczbUJzdEpFVGlHT2NjRVRxUV9WN21fNmhNbWM3ZkRoSEZLVHdLV3l1MQ?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "4月基建投资增速由正转负",
+      "summary": "第一财经报道，4月基建投资增速由正转负，录得-0.2%，低于市场预期。基建投资放缓反映地方政府债务约束和项目审批趋严，对水泥、钢铁、工程机械等周期板块形成利空，短期压制相关个股表现。",
+      "reason": "宏观经济数据不及预期，影响中期市场预期，优先级二。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "基建",
+        "水泥",
+        "钢铁",
+        "工程机械"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
       "sources": [
         {
           "name": "第一财经",
@@ -23,122 +44,88 @@
       "urgency": "hours"
     },
     {
-      "title": "纳斯达克期货跌0.8%",
-      "summary": "财联社5月19日电，纳斯达克100指数期货跌幅扩大至0.8%，触及盘中低点。受科技股抛售、利率预期及中东局势影响。美股期货下跌将通过情绪传导压制A股科技板块，尤其是半导体、AI等。短期偏空，但需关注晚间美股实际表现。",
-      "reason": "海外市场联动，短期情绪影响A股，属于优先级二。",
-      "category": "市场情绪",
+      "title": "摩根大通：存储芯片最赚钱时代到来",
+      "summary": "摩根大通发布研报称，AI需求正在锁定存储芯片产能，存储行业进入最赚钱的时代，长协（LTA）推动存储公司重估，市场尚未完全定价。利好存储芯片产业链，包括长江存储、兆易创新、北京君正、澜起科技等。",
+      "reason": "知名投行积极评级，对存储芯片板块有明确利好指引，中期影响。",
+      "category": "行业动态",
       "impact_stocks": [
-        "科创50",
-        "半导体",
-        "AI概念"
+        "存储芯片",
+        "兆易创新",
+        "北京君正",
+        "澜起科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/charts/41959096"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "全球债市抛售加剧，亚洲资本外流",
+      "summary": "华尔街见闻报道，全球债市抛售加剧，30年期美债收益率逼近5.5%，亚洲资本外流加速，印尼、菲律宾、印度货币跌至历史低位。外部流动性收紧可能影响北向资金流入，对A股形成短期负面情绪，尤其对港股和外资重仓股（如白酒、家电）构成压力。",
+      "reason": "资金流向信号，可能引发短期避险情绪，优先级二。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "白酒",
+        "家电"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2375614"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772626"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "AMD称CPU与GPU比将1:1",
-      "summary": "AMD CEO苏姿丰在上海演讲中指出，AI发展催生CPU新定位，未来CPU与GPU比例将从当前1:5～1:10逐步变为1:1。这意味着CPU在AI计算中的地位大幅提升，利好国产CPU厂商如海光信息、龙芯中科，以及服务器产业链。该观点强化AI算力多元需求，偏多。",
-      "reason": "行业重磅人物观点，影响AI硬件布局，属于优先级二。",
-      "category": "行业动态",
+      "title": "英伟达财报前夕，期权交易者押注回调",
+      "summary": "华尔街见闻报道，英伟达财报公布前，期权交易员为更深回调做准备，市场担忧AI支出放缓。若英伟达财报不及预期，可能引发美股科技股调整，并传导至A股AI算力、光模块等板块，短期利空相关个股。",
+      "reason": "海外市场联动，影响A股AI产业链情绪，优先级二。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "国产CPU",
-        "海光信息",
-        "龙芯中科"
+        "AI算力",
+        "光模块",
+        "英伟达链"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2375575"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772621"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "和展能源控制权或变更",
-      "summary": "和展能源（000809）公告筹划实际控制人变更事项，股票可能停牌。控制权变更通常伴随资产重组预期，可能引发炒作。属于公司重大事件，但公司市值较小，影响有限。偏多信号，但需关注后续进展。",
-      "reason": "公司控制权变更属于优先级一重大事件，对个股影响大。",
-      "category": "公司公告",
+      "title": "宁德时代与山西共建新能源全产业链集群",
+      "summary": "宁德时代与山西省签署协议，共同建设新能源全产业链集群，涵盖锂电材料、电池制造、储能及电动重卡等。此举将强化宁德时代供应链优势，并带动山西本地相关企业，利好新能源车产业链，特别是锂电设备和材料环节。",
+      "reason": "行业巨头战略合作，对新能源板块有正面催化，中期影响。",
+      "category": "行业动态",
       "impact_stocks": [
-        "和展能源"
+        "宁德时代",
+        "新能源车",
+        "锂电设备"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2375583"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "宝地矿业12.5亿收购股权",
-      "summary": "宝地矿业（601121）拟以12.5亿元竞拍取得凯宏投资66%股权，凯宏投资持有金矿资产。该收购将增厚公司资源储备，利好股价，但需关注资金压力。对矿业板块有一定提振。",
-      "reason": "重大并购属于优先级一，但影响限于个股。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "宝地矿业",
-        "黄金概念"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2375584"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260519/c676806048.shtml"
         }
       ],
       "urgency": "days"
-    },
-    {
-      "title": "恒翼能创业板IPO募资8.39亿",
-      "summary": "恒翼能（未上市）拟在深交所创业板上市，募资8.39亿元，用于锂电池检测设备项目。新股发行增加市场供给，短期对资金面形成抽血，但规模较小。中性偏空，对锂电设备板块可能产生比价效应。",
-      "reason": "新股IPO影响资金面，属于优先级三。",
-      "category": "市场结构",
-      "impact_stocks": [
-        "锂电设备",
-        "创业板"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "证券之星",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jVW1EZjNNYWJIQW9uZklCZkVxQ1QwVzhvT3N2QmpBcTNqd2xSc0NjVUdrSERvWTBqODBwNGlIeFl2UWtZUDV0cC04anVoNko5ZEFMRDZnYWQ0a0liUWxET2Rn"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "光迅科技机构博弈激烈",
-      "summary": "龙虎榜显示，光迅科技（002281）今日有5家机构席位买入，同时也有机构卖出，游资和量化资金参与沪硅产业。光迅科技为光模块龙头，机构分歧显示股价高位博弈加剧，短期波动风险上升，但中长期仍受AI算力需求支撑。",
-      "reason": "龙虎榜资金动向反映市场情绪，属于优先级三。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "光迅科技",
-        "光模块",
-        "沪硅产业"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5TzVWZzhEZllVaFF4TTZuaVRoQ25VUHlWRV9SZzZkZUxfdzBxcHRKelhFak5ueG1Gd2JOZzlENnFvV3ZuY3Y1RA"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 64,
-  "generated_at": "2026-05-19T18:01:50.343733+08:00"
+  "total_fetched": 76,
+  "generated_at": "2026-05-19T18:32:23.700410+08:00"
 }
