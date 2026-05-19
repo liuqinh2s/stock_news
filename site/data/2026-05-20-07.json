@@ -3,96 +3,137 @@
   "hour": "07",
   "news": [
     {
-      "title": "美参议院限制特朗普对伊动武",
-      "summary": "美国参议院推进法案，限制总统特朗普对伊朗采取军事行动，要求国会批准才能发动战争。此举缓和了中东地缘政治风险，降低原油供应中断和冲突升级的担忧。对A股而言，避险情绪减弱，利好风险偏好，但原油可能承压。影响板块：石油、黄金、军工。信号：看多A股整体（地缘风险缓和），看空原油和黄金。",
-      "reason": "地缘政治风险缓和，降低不确定性，属于宏观事件，优先级一，直接影响市场情绪。",
-      "category": "宏观经济",
+      "title": "15.65亿限售股今日解禁",
+      "summary": "据新浪财经，5月20日A股市场共有15.65亿元市值限售股解禁。解禁规模较小，但可能对相关个股形成短期抛压。整体影响有限，偏向利空信号。",
+      "reason": "限售股解禁属于优先级一消息，虽规模不大，但需关注对个股的短期压力。",
+      "category": "市场结构",
       "impact_stocks": [
-        "石油",
-        "黄金",
-        "军工"
+        "沪深300",
+        "中小盘股"
       ],
-      "signal": "neutral",
-      "impact_level": 4,
+      "signal": "bearish",
+      "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260520/c676815914.shtml"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RMHFSQzMxLVVvdVR0d2d1QU1Gd1pJNDFKWlhKd0JCZUdFcDc3UUNrXzNFVjc3LUEtUzBTY2dRZVE5d2ZEN2pyUEhnYUV6WTlQdVM5aVNacDY0X0pQYzg1VjZ6WldJQUdHUzVMdm0wN3IwWVFTekxraQ?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "长鑫科技半年营收超1100亿元",
+      "summary": "DRAM龙头长鑫科技预计2026年上半年营收超1100亿元，业绩强劲增长。利好其A股产业链相关公司，如设备、材料、封测等。看多信号，尤其利好半导体存储板块。",
+      "reason": "公司重大业绩利好，带动产业链关注，属于优先级二。DRAM龙头增长反映行业景气度。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "半导体",
+        "存储",
+        "长鑫科技概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZdWc3ZTlaTHN3WVZuRlhIdVI3M3JiUVBMclR1ZzFZc1hrMlh5SDJSbHpYc09BUkFGbU5PdXpoaWsxTVhzNFU5b20yUm53b0ZweFNzR0t2bTlSNEFEMENneEdZMkxOVWdMakN5alliMlJ2MV9TLUEzMA?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "FTU首次认购上海自贸离岸债",
-      "summary": "FTU（外国主权机构）首次参与认购上海自贸区离岸债券，标志着两万亿元中资离岸债市场迎来关键突破。此举有助于人民币国际化，提升中国债券市场开放度，吸引外资流入。对A股银行、券商和债市构成利好。信号：看多金融板块。",
-      "reason": "金融开放重大进展，影响资金流向，属于优先级二，中期利好。",
-      "category": "资金流向",
+      "title": "超10家车企部分车型涨价",
+      "summary": "超10家主流新能源车企宣布部分车型涨价，反映需求强劲或成本压力。新能源车市转向价值竞争，利好头部车企及产业链（锂电、零部件）。看多新能源车板块。",
+      "reason": "行业动态影响，涨价信号反映供需良好，属于优先级二。",
+      "category": "行业动态",
       "impact_stocks": [
-        "银行",
-        "券商",
-        "人民币"
+        "新能源车",
+        "比亚迪",
+        "宁德时代",
+        "锂电"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2376106?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "华泰证券：房价边际改善",
+      "summary": "华泰证券研报指出，房价边际改善态势延续，地产股迎来布局机遇。政策托底+销售回暖，看多地产板块，尤其龙头房企。",
+      "reason": "券商研报明确看多，属于机构观点，影响行业预期，优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "房地产",
+        "万科A",
+        "保利发展"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2376123?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "PCB行业量价齐升聚焦AI",
+      "summary": "PCB行业量价齐升，高端产品供不应求，国内头部厂商扩产聚焦AI服务器等领域。利好PCB板块，如沪电股份、深南电路等。看多。",
+      "reason": "行业景气度提升，受益AI需求，属于优先级二行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "PCB",
+        "沪电股份",
+        "深南电路",
+        "AI服务器"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260520/c676815911.shtml"
+          "url": "https://news.10jqka.com.cn/20260520/c676816400.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "港股IPO募资超1500亿港元",
-      "summary": "今年以来港股IPO募资额已超过1500亿港元，显示一级市场活跃度提升，企业融资需求旺盛。港股回暖可能带动A股市场情绪，并利好港交所、券商等中介机构。信号：看多券商和港股相关ETF。",
-      "reason": "市场活跃度指标，属于优先级三的市场情绪信号，间接影响A股。",
-      "category": "市场情绪",
+      "title": "美债收益率暴涨美股三连跌",
+      "summary": "美债收益率暴涨，标普500指数三连跌，龙头科技股普跌。海外市场动荡可能通过情绪传导影响A股开盘，短期利空，尤其科技板块。",
+      "reason": "海外市场联动影响，属于优先级二，对A股情绪有压力。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "券商",
-        "港交所",
-        "恒生指数"
+        "沪深300",
+        "创业板",
+        "科技股"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2376097"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103191464.html"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "钙钛矿太阳能电池技术突破",
-      "summary": "半透明超薄钙钛矿太阳能电池研发成功，具有高效率、轻量化特点，有望推动光伏建筑一体化等应用。技术突破利好光伏产业链，尤其是钙钛矿相关公司。信号：看多光伏板块。",
-      "reason": "行业重大技术进展，属于优先级二的行业动态，影响新能源板块。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "光伏",
-        "钙钛矿概念",
-        "新能源"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2376098"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "美股半导体指数连续大跌引抄底",
-      "summary": "费城半导体指数七日跌幅一度逼近10%，但抄底资金开始入场。半导体板块短期超跌可能带来反弹机会，对A股半导体相关个股形成情绪提振。信号：看多A股半导体板块。",
-      "reason": "美股科技板块情绪传导，属于优先级二的海外市场联动，影响A股科技股。",
-      "category": "市场情绪",
+      "title": "费城半导体指数七跌近10%",
+      "summary": "费城半导体指数七日跌幅一度逼近10%，但抄底资金开始入场。短期利空A股半导体板块，可能加剧调整，但中期或提供低吸机会。",
+      "reason": "海外半导体指数暴跌，直接利空A股半导体，优先级二。",
+      "category": "宏观经济",
       "impact_stocks": [
         "半导体",
-        "芯片",
-        "科技"
+        "中芯国际",
+        "北方华创"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
@@ -100,29 +141,49 @@
           "url": "https://wallstreetcn.com/articles/3772667"
         }
       ],
-      "urgency": "hours"
+      "urgency": "immediate"
     },
     {
-      "title": "中通快递一季度营收增22%",
-      "summary": "中通快递发布一季度财报，营收132.8亿元，同比增长22%。业绩超预期，显示快递行业景气度回升。利好快递物流板块，同时可能带动电商相关情绪。信号：看多快递物流。",
-      "reason": "个股业绩超预期，属于优先级二的公司重大事件，但影响范围有限。",
-      "category": "公司公告",
+      "title": "法国拟增360亿欧元军费",
+      "summary": "法国计划在2030年前累计增加360亿欧元军费，全球军备扩张趋势延续。利好A股军工板块，尤其军工电子、材料等。看多。",
+      "reason": "国际军费增加带动军工需求，属于行业动态，优先级二。",
+      "category": "行业动态",
       "impact_stocks": [
-        "中通快递",
-        "快递物流",
-        "电商"
+        "军工",
+        "中航沈飞",
+        "航发动力"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260520/c676815876.shtml"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2376094?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "中芯国际二季度指引向好",
+      "summary": "财联社研报指出，中芯国际二季度指引向好，分析师看好国产设备先进工艺突破。利好半导体产业链，尤其是设备、材料公司。看多。",
+      "reason": "龙头企业指引向好，提振行业信心，属于优先级二公司公告。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "中芯国际",
+        "半导体设备",
+        "北方华创"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2374986?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 52,
-  "generated_at": "2026-05-20T07:01:18.477476+08:00"
+  "total_fetched": 67,
+  "generated_at": "2026-05-20T07:53:55.047346+08:00"
 }
