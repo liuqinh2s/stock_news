@@ -3,47 +3,114 @@
   "hour": "21",
   "news": [
     {
-      "title": "长江存储启动A股IPO",
-      "summary": "长江存储控股股份有限公司正式发布首次公开发行股票并上市辅导备案报告，启动A股IPO进程。该公司一季度收入超200亿元，同比翻倍，是国内存储芯片龙头。此次IPO将显著提升A股半导体板块关注度，利好存储芯片产业链，包括设备、材料、封测等。看多信号，预计将吸引大量资金流入。",
-      "reason": "长江存储是国内存储芯片领军企业，IPO进展对半导体板块有重大催化作用，属于优先级一公司重大事件。",
-      "category": "公司公告",
+      "title": "美债收益率飙至近20年最高",
+      "summary": "美国30年期国债收益率升至5.177%，创2007年以来最高水平，美元指数短线拉升。美债收益率飙升反映通胀预期和加息担忧，将导致全球风险资产承压，外资流出新兴市场，A股面临流动性收紧压力。利空A股整体，尤其是外资重仓的蓝筹板块如沪深300、上证50。看空信号。",
+      "reason": "美债收益率是全球资产定价锚，飙升直接冲击风险偏好，对A股形成外部流动性压力，属于优先级二宏观经济重大事件。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "长江存储概念",
-        "存储芯片",
-        "半导体设备",
-        "沪硅产业"
+        "沪深300",
+        "上证50",
+        "银行"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.10jqka.com.cn/20260519/c676812345.shtml"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260519/c676813159.shtml"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3106088"
         }
       ],
-      "urgency": "hours"
+      "urgency": "immediate"
     },
     {
-      "title": "中矿资源拟定增52亿",
-      "summary": "中矿资源公告拟定增募资不超过52亿元，用于津巴布韦年产10万吨硫酸锂及铯铷产品项目。定增将稀释现有股东权益，且锂产能扩张可能加剧行业过剩，对锂矿板块构成利空。同时，公司股价短期承压。",
-      "reason": "大规模定增属于重要再融资事件，影响板块情绪，属于优先级二公司重大事件。",
-      "category": "公司公告",
+      "title": "贵金属暴跌黄金白银重挫",
+      "summary": "现货黄金跌破4500美元/盎司，日内跌超2%；现货白银失守74美元/盎司，日内跌近6%。COMEX白银期货跌超5%，沪金沪银期货同步大跌。金银暴跌或与美债收益率飙升、美元走强有关，利空A股黄金珠宝及有色板块，如中金黄金、山东黄金等。看空信号。",
+      "reason": "贵金属暴跌与美债收益率飙升联动，影响A股有色板块情绪，属于市场情绪和行业动态。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "中矿资源",
-        "锂矿",
-        "有色金属"
+        "黄金概念",
+        "有色金属",
+        "山东黄金"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260519/c676813104.shtml"
+        },
+        {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2375862"
+          "url": "https://api3.cls.cn/share/article/2375906"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "印尼拟收紧大宗商品出口管控",
+      "summary": "印尼计划收紧大宗商品出口管控，可能影响煤炭、棕榈油等商品供应。印尼是全球最大动力煤出口国和棕榈油主产国，此举将推升相关商品价格，利好A股煤炭、石油化工及棕榈油替代概念板块。看多信号。",
+      "reason": "印尼出口管控直接影响大宗商品价格，利好对应板块，属于优先级二行业政策变动。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "煤炭",
+        "石油化工",
+        "棕榈油替代"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772644"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "港股打新热:1.4万倍申购创新高",
+      "summary": "港股打新热情高涨，超1.4万倍申购创历史新高，显示市场资金充裕和风险偏好提升。虽然对A股直接传导有限，但情绪上可能提振A股次新股和打新策略，尤其是科创板、创业板新股。中性偏多信号。",
+      "reason": "港股打新狂热反映市场情绪亢奋，对A股次新股情绪有带动，属于优先级三市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "次新股",
+        "科创板",
+        "创业板"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "中国证券报",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0eGtQZ2VMWlY4Xy16Q0x0T3hPZTZTQnFpbS1rTHBvTW1hSTBwYVFWa2h0OThPUUVyTXZYQ0pqV0taSTR5REJReUtMTU90VGt2LUtMeWE5aWwtVDBJQTc0SXV5RTJsaEROZ2pmNHZsbGNWNzZWM3dZMmphQQ?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "机器人ETF年内流出超170亿",
+      "summary": "年内超170亿元资金撤离机器人主题ETF，呈现“越涨越卖”现象。机器人板块前期涨幅较大，资金获利了结迹象明显，短期可能面临回调压力。利空机器人概念、人形机器人相关个股。看空信号。",
+      "reason": "机器人主题ETF大额流出是重要资金流向信号，显示机构减持，属于优先级三市场情绪与资金流向信号。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "机器人概念",
+        "人形机器人",
+        "减速器"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103191194.html"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 84,
-  "generated_at": "2026-05-19T21:01:21.213530+08:00"
+  "total_fetched": 86,
+  "generated_at": "2026-05-19T21:49:15.857850+08:00"
 }
