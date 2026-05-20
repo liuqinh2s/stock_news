@@ -3,63 +3,85 @@
   "hour": "05",
   "news": [
     {
-      "title": "英伟达财报超预期加码回购",
-      "summary": "英伟达发布2027财年Q1财报，营收816亿美元同比增长85%，超市场预期，并宣布新增800亿美元股票回购授权。盘后股价转涨。英伟达AI芯片需求强劲，对A股AI算力、服务器、光模块等产业链形成直接利好，提振市场对AI景气度的信心。信号看多。",
-      "reason": "英伟达作为AI龙头，业绩和回购超预期将带动A股AI板块情绪，属于优先级二行业动态。",
+      "title": "英伟达新增800亿回购",
+      "summary": "英伟达宣布新增800亿美元股票回购授权，表明管理层对公司未来信心强烈。此举提振全球AI算力板块情绪，A股光模块、服务器等AI产业链个股有望受益。回购计划为看多信号，暗示英伟达订单强劲，间接利好国内AI配套企业。",
+      "reason": "英伟达是全球AI龙头，大规模回购彰显信心，情绪传导至A股AI板块。",
       "category": "行业动态",
       "impact_stocks": [
-        "AI概念",
-        "算力",
         "光模块",
-        "服务器"
+        "AI算力",
+        "中际旭创"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260521/c676848667.shtml"
-        },
-        {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377281?os=web&sv=8.4.6&app=CailianpressWeb"
-        },
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772760"
+          "url": "https://api3.cls.cn/share/article/2377303?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "SpaceX正式申请美股IPO",
-      "summary": "SpaceX向SEC提交S-1注册声明，申请在美股上市，代码SPCX，马斯克将继续担任CEO等职务。SpaceX宣布计划开展小行星采矿、月球火星制造等业务，并与Anthropic签署云服务协议。对A股商业航天、卫星互联网概念股形成短期情绪提振，但实际影响有限，信号中性偏多。",
-      "reason": "SpaceX IPO是重大事件，但A股商业航天板块估值可能受概念炒作影响，属于优先级三市场情绪。",
+      "title": "我国算力建设转向新阶段",
+      "summary": "工信部提出从‘建算力’转向‘织算网’，推动算力网络一体化发展。政策利好数据中心、光通信、算力调度等板块，为相关公司带来增量需求。该信号看多，标志着国内AI基础设施建设进入更高效阶段。",
+      "reason": "行业政策明确指引，直接利好算力产业链各环节。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "算力",
+        "光模块",
+        "服务器"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377295?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "SpaceX提交IPO文件",
+      "summary": "SpaceX公开向SEC提交纳斯达克IPO申请，股票代码SPCX。作为全球商业航天和AI算力龙头，其上市将提振A股商业航天、卫星互联网、算力等概念股情绪。看多信号，但国内相关标的联动性偏弱。",
+      "reason": "SpaceX IPO是年度重磅事件，短期刺激A股映射概念。",
       "category": "市场情绪",
       "impact_stocks": [
         "商业航天",
-        "卫星互联网",
-        "航天军工"
+        "卫星互联网"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RMmJzS3p3cm1kckdveVYxdTllSzlza3Bma2Qtcm9QZ3FJejBzdnFsRTdibzE0VHozbUFlU0l2S2RBVDZsRGlkcXBBUldHWFVOR2ktMnVXcUdBeXpCWC1VUw?oc=5"
-        },
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260521/c676848676.shtml"
-        },
-        {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2377286?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "Anthropic收入料增逾一倍",
+      "summary": "AI初创公司Anthropic预计第二季度收入翻倍至109亿美元，并有望实现盈利。该消息强化AI商业化加速预期，利好A股AI应用、大模型及算力板块。看多信号，显示下游需求强劲。",
+      "reason": "AI龙头收入高增验证行业景气度，带动A股AI产业链估值。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI应用",
+        "算力",
+        "科大讯飞"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377285?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 40,
-  "generated_at": "2026-05-21T05:01:33.005991+08:00"
+  "total_fetched": 30,
+  "generated_at": "2026-05-21T05:30:53.328270+08:00"
 }
