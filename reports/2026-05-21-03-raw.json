@@ -1,9 +1,72 @@
 {
   "date": "2026-05-21",
   "hour": "03",
-  "total": 16,
-  "fetched_at": "2026-05-21T03:00:35.326576+08:00",
+  "total": 29,
+  "fetched_at": "2026-05-21T03:13:12.771403+08:00",
   "news": [
+    {
+      "source": "同花顺",
+      "title": "美联储会议纪要：通胀偏高 中东局势加剧美经济前景不确定性",
+      "summary": "当地时间5月20日，美联储公布4月28日至29日联邦公开市场委员会会议纪要。纪要显示，美联储在此次会议上决定将联邦基金利率目标区间维持在3.5%至3.75%不变。与会者认为，美国通胀仍处于偏高水平，近期全球能源价格上涨和中东局势发展正在加剧美国经济前景的不确定性。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260521/c676848548.shtml",
+      "published": "Wed, 20 May 2026 18:56:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "FOMC会议纪要：许多决策者更倾向于在政策声明中去除宽松偏向",
+      "summary": "美联储货币政策会议纪要显示，许多决策者更倾向于在政策声明中去除宽松偏向。大多数与会者表示，如果通胀持续高于2%，则可能需要采取一些政策收紧措施；只有“几位”美联储官员认为未来降息是合适的。与会者普遍认为，持续的高通胀以及对中东局势的不确定性，可能需要将当前的政策立场维持的时间比预期更长。",
+      "link": "https://news.10jqka.com.cn/20260521/c676848515.shtml",
+      "published": "Wed, 20 May 2026 18:02:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
+      "summary": "伊朗外交部发言人巴加埃当地时间20日晚间表示，伊朗正与阿曼合作，并协调相关国际专业机构，推动制定一套安全机制，以确保霍尔木兹海峡长期稳定安全，防止任何威胁国家利益的行为发生。他表示，伊朗始终是霍尔木兹海峡安全航行的维护者，并愿与其他沿岸国家合作，制定保障国际航运安全通行的相关协议和机制。他还强调，新的安全机制除涉及航运安全问题外，还应考虑海上安全成本，以及美国及其盟友在海湾地区军事行动对生态环境造成的严重破坏。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260521/c676848513.shtml",
+      "published": "Wed, 20 May 2026 18:00:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗东南部发生针对安全人员袭击事件 致死一人",
+      "summary": "据伊朗媒体报道，伊朗东南部锡斯坦-俾路支斯坦省萨拉万地区近日发生一起针对安全人员的武装袭击事件，造成一名安全人员死亡。报道称，一伙武装人员乘坐车辆，在当地一条交通干道上向安全人员开火。当地警方表示正在追捕袭击者，并已启动应对方案。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260521/c676848468.shtml",
+      "published": "Wed, 20 May 2026 17:45:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国移动在全国上线词元套餐 价格最低为5元月包",
+      "summary": "中国移动宣布在全国上线词元（Token）套餐。此次中国移动创新推出统一算力量纲，其将不同模型、不同规格的词元消耗统一封装为标准积分，旨在解决多模型量纲不统一的问题。据中国移动相关负责人介绍，该套餐价格最低为5元月包，包含一定数量的词元，适合轻度体验用户。中国移动的词元套餐已实现全国用户全覆盖。除了基础算力套餐，中国移动还将词元和云电脑、云手机等产品深度融合，用户购买词元套餐，可直接在类似腾讯WorkBuddy等AI应用上使用。",
+      "link": "https://news.10jqka.com.cn/20260521/c676848467.shtml",
+      "published": "Wed, 20 May 2026 17:43:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "机构：若伊朗冲突持续 油价恐将升至200美元",
+      "summary": "伍德麦肯兹(Wood Mackenzie)表示，在霍尔木兹海峡长期停摆的最坏情景下，布伦特原油面临飙升至每桶200美元的风险。该机构指出，目前波斯湾地区已有超过1100万桶/日的原油和凝析油供应处于中断状态。",
+      "link": "https://news.10jqka.com.cn/20260521/c676848463.shtml",
+      "published": "Wed, 20 May 2026 17:38:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美法院大陪审团同意起诉劳尔·卡斯特罗",
+      "summary": "美国佛罗里达州南区联邦地区法院一个大陪审团20日同意起诉古巴革命领袖劳尔·卡斯特罗。这一诉讼被认为是美国对古巴施压措施的一部分。",
+      "link": "https://news.10jqka.com.cn/20260521/c676848406.shtml",
+      "published": "Wed, 20 May 2026 17:17:51 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月21日电，据报道，白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
+      "summary": "财联社5月21日电，据报道，白宫周二向Anthropic、OpenAI及其他公司简要介绍了一项自愿性的“模型发布前评估”计划。",
+      "link": "https://api3.cls.cn/share/article/2377270?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 19:10:16 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "哥伦比亚反政府武装宣布大选期间单方面停火",
+      "summary": "【哥伦比亚反政府武装宣布大选期间单方面停火】财联社5月21日电，哥伦比亚反政府武装“哥伦比亚民族解放组织”（ELN）当地时间5月20日宣布，将在哥伦比亚总统选举期间实施单方面停火，并表示不会干预选举进程。该组织在声明中表示，其全国领导层已指示所有武装人员“不要对政府武装部队开展进攻性军事行动”。停火将于5月30日零时开始，并于6月2日零时结束。哥伦比亚总统选举首轮投票将于5月31日举行。",
+      "link": "https://api3.cls.cn/share/article/2377269?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 19:01:39 GMT"
+    },
     {
       "source": "财联社",
       "title": "国际原油期货结算价大幅收跌超5.5%",
@@ -103,18 +166,46 @@
       "published": "Wed, 20 May 2026 17:15:41 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月21日电，据报道，OpenAI按超过1万亿美元估值的预期筹备IPO。",
-      "summary": "财联社5月21日电，据报道，OpenAI按超过1万亿美元估值的预期筹备IPO。",
-      "link": "https://api3.cls.cn/share/article/2377253?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 20 May 2026 17:02:28 GMT"
+      "source": "华尔街见闻",
+      "title": "从聊天框到流水线：AI开始渗透义乌的小店与工厂",
+      "summary": "<div><!--StartFragment-->\n<p><span><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/eb71312c-38d5-4928-9fe3-eb48fdd370f9.png\" /></span></p>\n<p><span>拿到实体行业老板们的信任，或许是</span>AI<span>改造世界的第一步。</span></p>\n<p>2026<span>年，</span><span style=\"font-family: Calibri;\">AI</span><span>上游卖硬件、卖</span><span style=\"font-family: Calibri;\">token</span><span>的</span><span style=\"font-family: Calibri;\">“</span><span>卖铲人</span><span style=\"font-family: Calibri;\">”</span><span>已经先一步赚得盆满钵满。但此时看回到工厂车间，从互联网公司转向制造业腹",
+      "link": "https://wallstreetcn.com/articles/3772753",
+      "published": "Wed, 20 May 2026 18:40:42 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美联储会议纪要：许多官员倾向于从决议声明删除宽松内容",
+      "summary": "<p>美联储会议纪要：许多官员倾向于从决议声明删除宽松内容。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3772756",
+      "published": "Wed, 20 May 2026 18:00:25 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
+      "summary": "<p>伊朗外交部发言人巴加埃当地时间20日晚间表示，伊朗正与阿曼合作，并协调相关国际专业机构，推动制定一套安全机制，以确保霍尔木兹海峡长期稳定安全，防止任何威胁国家利益的行为发生。</p>\n\n<p>他表示，伊朗始终是霍尔木兹海峡安全航行的维护者，并愿与其他沿岸国家合作，制定保障国际航运安全通行的相关协议和机制。他还强调，新的安全机制除涉及航运安全问题外，还应考虑海上安全成本，以及美国及其盟友在海湾地区军事行动对生态环境造成的严重破坏。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3106881",
+      "published": "Wed, 20 May 2026 17:59:46 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中国移动在全国上线词元套餐，价格最低为5元月包",
+      "summary": "<p>中国移动宣布在全国上线词元(Token)套餐。此次中国移动创新推出统一算力量纲，其将不同模型、不同规格的词元消耗统一封装为标准积分，旨在解决多模型量纲不统一的问题。据中国移动相关负责人介绍，该套餐价格最低为5元月包，包含一定数量的词元，适合轻度体验用户。中国移动的词元套餐已实现全国用户全覆盖。除了基础算力套餐，中国移动还将词元和云电脑、云手机等产品深度融合，用户购买词元套餐，可直接在类似腾讯WorkBuddy等ai应用上使用。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3106877",
+      "published": "Wed, 20 May 2026 17:46:09 GMT"
+    },
+    {
+      "source": "上海证券报",
+      "title": "多家外资机构启动“中国主题”论坛研判中国资产： 增配趋势明确 今年已净流入131亿美元 - 上海证券报电子版",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVVUyVER1bzJiT3Q5X29LUTJCVUVrTVI3cndnUXhDdEVtYmdOb2lkUGRYV1NhUk10RG5Gd0FrSTNwSG5uVzZ2MjhvamtJZUM1Q2JzR3FrRi15aDJtTkU0RDVlYmsydk96NDMzVVJR?oc=5\" target=\"_blank\">多家外资机构启动“中国主题”论坛研判中国资产： 增配趋势明确 今年已净流入131亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVVUyVER1bzJiT3Q5X29LUTJCVUVrTVI3cndnUXhDdEVtYmdOb2lkUGRYV1NhUk10RG5Gd0FrSTNwSG5uVzZ2MjhvamtJZUM1Q2JzR3FrRi15aDJtTkU0RDVlYmsydk96NDMzVVJR?oc=5",
+      "published": "Wed, 20 May 2026 19:08:04 GMT"
     },
     {
       "source": "央行政策",
-      "title": "21评论丨货币政策注重精准有效年内降准降息仍有可能- 21经济网 - 21财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNWi1PTlFGR1N2X1FPUVhHV3BGMVdVZGZCMXAxekNrckxyQlhXem95RHd0VDdSdldPeGFYVzcxQmxYYnJnNWtMdDhSYU5oNFFRcU1zWlpCVFgxdUZWU2VZbDBWWXg0cDEzT1JxWlJFOUlKSEJERG9ybXljeDdGTVR6SGxxTFB2QQ?oc=5\" target=\"_blank\">21评论丨货币政策注重精准有效年内降准降息仍有可能- 21经济网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWi1PTlFGR1N2X1FPUVhHV3BGMVdVZGZCMXAxekNrckxyQlhXem95RHd0VDdSdldPeGFYVzcxQmxYYnJnNWtMdDhSYU5oNFFRcU1zWlpCVFgxdUZWU2VZbDBWWXg0cDEzT1JxWlJFOUlKSEJERG9ybXljeDdGTVR6SGxxTFB2QQ?oc=5",
-      "published": "Wed, 20 May 2026 17:23:49 GMT"
+      "title": "21评论丨货币政策注重精准有效 年内降准降息仍有可能 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBFT29RRnRBd2JtVTNFeW5tMkE1djlNMjhKT21oWnJpR25JRERFa1BpT1Bac3B6aU9Pa0VFc1hNcVcwN0FzaGhoQ2xreUhRdWxrMEFLb3ZpOE04SlhTbUVjakYtS2NUMGFmekVrbXpJOWdjbUUxekMydw?oc=5\" target=\"_blank\">21评论丨货币政策注重精准有效 年内降准降息仍有可能</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFT29RRnRBd2JtVTNFeW5tMkE1djlNMjhKT21oWnJpR25JRERFa1BpT1Bac3B6aU9Pa0VFc1hNcVcwN0FzaGhoQ2xreUhRdWxrMEFLb3ZpOE04SlhTbUVjakYtS2NUMGFmekVrbXpJOWdjbUUxekMydw?oc=5",
+      "published": "Wed, 20 May 2026 17:24:00 GMT"
     }
   ]
 }

@@ -3,87 +3,91 @@
   "hour": "03",
   "news": [
     {
-      "title": "原油暴跌超5.5%",
-      "summary": "国际原油期货结算价大幅收跌超5.5%，布伦特原油跌至103美元/桶附近，WTI跌至97美元/桶。主要受特朗普言论及中东紧张局势缓和预期影响。利空A股石油化工板块（如中国石油、中国石化），但利好航空、交通运输等成本敏感行业。短期油价波动可能加剧市场对通胀和全球经济增长的担忧。",
-      "reason": "油价暴跌直接影响A股能源板块及上下游产业链，属于市场情绪和行业动态，有交易价值。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "中国石油",
-        "中国石化",
-        "航空板块",
-        "交通运输"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377268?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美联储纪要：经济展望略强",
-      "summary": "FOMC会议纪要显示，美联储工作人员的经济展望预测较三月会议时略显强劲。这暗示美国经济韧性超预期，可能推迟降息时点。对A股影响中性偏空，因降息预期减弱可能压制外资流入和成长股估值。但强劲经济也利好出口导向型企业。",
-      "reason": "美联储政策动向直接关联全球资金流向和A股外部环境，属于重要货币政策信号。",
+      "title": "美联储会议纪要偏鹰",
+      "summary": "美联储公布5月会议纪要，显示通胀依然偏高，许多决策者倾向于在政策声明中去除宽松偏向。中东局势加剧经济前景不确定性。美联储工作人员的经济展望略强于3月。这意味着美联储可能推迟降息，甚至不排除加息，对全球风险资产构成压力。A股市场情绪或受短期冲击，尤其是外资重仓的沪深300和科技板块。此为看空信号。",
+      "reason": "美联储货币政策预期变化直接影响全球资金流向，A股面临外资流出压力。符合优先级二：海外市场联动。",
       "category": "宏观经济",
       "impact_stocks": [
         "沪深300",
-        "创业板",
-        "出口导向型板块"
-      ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377263?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "FOMC提及中东冲突风险",
-      "summary": "FOMC会议纪要显示，与会者普遍认为中东冲突可能对风险平衡和适当政策路径产生重大影响。这加剧了市场对地缘政治风险外溢的担忧，短期利空A股风险偏好，尤其影响石油、黄金等避险资产走势。但若冲突升级，可能推高油价，对能源股有利。",
-      "reason": "地缘政治风险是影响全球金融市场的重要因素，尤其对A股资源和避险板块有直接冲击。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油板块",
-        "黄金",
-        "国防军工"
+        "上证50",
+        "科技股"
       ],
       "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377262?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美联储倾向去除宽松偏向",
-      "summary": "FOMC会议纪要显示，许多决策者更倾向于在政策声明中去除宽松偏向。这释放鹰派信号，意味着美联储可能维持高利率更长时间。对A股偏利空，尤其压制高估值成长股和科技板块，同时利好银行股（息差扩大）。",
-      "reason": "美联储政策转向鹰派直接影响全球流动性预期，对A股市场风格和外资流入形成压力。",
-      "category": "货币政策",
-      "impact_stocks": [
-        "银行",
-        "科技板块",
-        "创业板"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
           "name": "财联社",
           "url": "https://api3.cls.cn/share/article/2377261?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260521/c676848515.shtml"
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "外资机构增配中国资产",
+      "summary": "据上海证券报，多家外资机构启动'中国主题'论坛，研判认为增配中国资产趋势明确，今年已净流入131亿美元。这显示国际资本对中国市场的信心增强，可能吸引更多外资流入A股，利好大盘蓝筹和核心资产。此为看多信号。",
+      "reason": "外资流向直接影响A股资金面，百亿级净流入属于重大利好。符合优先级一：北向资金大幅净买入相关，但此处为累计数据，影响略低。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "消费",
+        "金融"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "上海证券报",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhVVUyVER1bzJiT3Q5X29LUTJCVUVrTVI3cndnUXhDdEVtYmdOb2lkUGRYV1NhUk10RG5Gd0FrSTNwSG5uVzZ2MjhvamtJZUM1Q2JzR3FrRi15aDJtTkU0RDVlYmsydk96NDMzVVJR?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "央行降准降息仍有可能",
+      "summary": "据新浪财经评论，货币政策注重精准有效，年内降准降息仍有可能。当前经济复苏基础尚不稳固，市场对宽松政策预期升温，若兑现将提振A股估值，利好银行、地产及高负债行业。此为看多信号。",
+      "reason": "降准降息是央行重大货币政策，直接影响市场流动性和风险偏好。符合优先级一：央行货币政策。",
+      "category": "货币政策",
+      "impact_stocks": [
+        "银行",
+        "地产",
+        "沪深300"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "Sina finance",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFT29RRnRBd2JtVTNFeW5tMkE1djlNMjhKT21oWnJpR25JRERFa1BpT1Bac3B6aU9Pa0VFc1hNcVcwN0FzaGhoQ2xreUhRdWxrMEFLb3ZpOE04SlhTbUVjakYtS2NUMGFmekVrbXpJOWdjbUUxekMydw?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "白宫推AI模型评估计划",
+      "summary": "据报道，白宫周二向Anthropic、OpenAI等公司简要介绍了一项自愿性的'模型发布前评估'计划，旨在加强AI安全监管。此举可能增加AI企业的合规成本，短期对AI概念情绪有所抑制，但长期利于行业规范发展。影响偏中性。",
+      "reason": "AI行业政策变动影响相关板块，符合优先级二：行业政策变动。但自愿性计划影响有限。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "算力",
+        "光模块"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377270?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 16,
-  "generated_at": "2026-05-21T03:01:49.242264+08:00"
+  "total_fetched": 29,
+  "generated_at": "2026-05-21T03:13:36.581098+08:00"
 }
