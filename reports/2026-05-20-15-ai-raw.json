@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-20",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 18797,
+    "completion_tokens": 2624,
+    "total_tokens": 21421
+  },
+  "content_length": 2366,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"保险资管新规出台\",\n      \"summary\": \"金融监管总局发布保险资管新规，构建'四个支柱'监管框架，旨在规范保险资金运用，提升长期资金入市比例。保险资金是A股重要机构投资者，新规有利于引导保险资金增加权益配置，对沪深300、高股息蓝筹构成利好。看多信号。\",\n      \"reason\": \"监管政策重大调整，直接影响保险资金入市节奏，属于优先级一。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"沪深300\", \"保险板块\", \"高股息蓝筹\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260520/c676830192.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"两部委推多用户绿电直连\",\n      \"summary\": \"国家能源局、发改委发布政策，支持多用户绿电直连项目，优先支持算力设施、绿色氢氨醇等新兴产业。该政策直接利好绿电运营商和新能源产业，有助于降低企业用电成本，推动绿电消费。光伏、风电、储能板块受益。看多信号。\",\n      \"reason\": \"行业重磅政策，影响新能源产业链，属于优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光伏\", \"风电\", \"储能\", \"绿电\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103192501.html\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"沪深两市成交额突破2.7万亿\",\n      \"summary\": \"截至14:00，沪深京三市成交额达2.7万亿元，较上一日同期放量913亿元，创近期新高。成交额放大说明市场交投活跃，增量资金入场，通常预示行情持续性增强。对券商、沪深300构成利好。看多信号。\",\n      \"reason\": \"市场情绪信号，成交额极值，属于优先级三。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"券商\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260520/c676830052.shtml\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"三星罢工致存储涨价预期\",\n      \"summary\": \"三星电子劳资谈判破裂，工会宣布明日罢工，下午4点将恢复谈判但前景不明。威刚董事长警告DRAM、NAND恐再掀涨价潮。存储芯片价格有望上涨，利好国产存储厂商如兆易创新、长江存储等。A股存储芯片板块已大幅上涨，消息进一步强化预期。看多信号。\",\n      \"reason\": \"行业重大事件，直接影响存储芯片价格和国产替代逻辑，属于优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"存储芯片\", \"兆易创新\", \"长江存储\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2376572?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"英伟达20亿美元投资迈威尔\",\n      \"summary\": \"英伟达向迈威尔科技投资20亿美元，计划将其AI芯片接入数据中心。英伟达持续加码AI基础设施，提振全球AI算力需求预期。A股光模块、AI芯片、服务器等板块有望受益。看多信号。\",\n      \"reason\": \"海外科技巨头重大投资，可能带动A股AI产业链情绪，属于优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光模块\", \"AI芯片\", \"算力\", \"中际旭创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260520/c676830343.shtml\"}],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
