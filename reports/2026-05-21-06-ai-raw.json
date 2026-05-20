@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-21",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 4/6 策略=完整内容 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13451,
+    "completion_tokens": 5460,
+    "total_tokens": 18911
+  },
+  "content_length": 1706,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"特朗普称愿多等伊朗\",\n      \"summary\": \"特朗普表示愿意多花几天等待伊朗方面的消息，以促成协议，避免战争。此前国际原油大幅下跌超5%，布油跌至103美元附近。若局势缓和，原油价格可能继续承压，利好航空、化工等用油行业，利空油气开采板块。信号中性偏空原油，利好下游。\",\n      \"reason\": \"直接影响原油价格，进而传导至A股相关板块，属于优先级二的地缘政治事件。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"航空\", \"化工\", \"石油开采\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260521/c676848678.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"三星罢工危机解除\",\n      \"summary\": \"三星电子与工会达成初步协议，避免罢工，薪资涨幅6.2%，芯片部门设基于业绩的奖金。这一进展消除了全球内存芯片供应端的不确定性，利好A股存储芯片概念股（如兆易创新、长江存储相关），但可能削弱短期涨价预期。信号偏多，供给稳定。\",\n      \"reason\": \"影响全球半导体供应链，对A股存储芯片板块构成直接利好，属于优先级二的行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"存储芯片\", \"兆易创新\", \"长江存储概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3772758\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"对冲基金抛售美股创纪录\",\n      \"summary\": \"美银报告显示，上周对冲基金抛售美股规模创纪录，主要集中在科技、通信服务板块，金融股获流入。这可能反映全球风险偏好短期下降，对A股情绪造成负面影响，尤其是外资重仓的科技股。但A股自身逻辑独立，需观察北向资金动向。信号偏空。\",\n      \"reason\": \"反映海外机构资金动向，可能通过情绪和资金传导影响A股，属于优先级二的资金流向。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"科技股\", \"外资重仓股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2377309?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"由于近6小时大多数重大消息在历史中已出现，且重复率较高，符合筛选标准的新消息较少，因此输出少于5条。筛选出的3条均为新信息或重要更新，对A股有潜在影响。\"\n}"
+}
