@@ -3,54 +3,75 @@
   "hour": "07",
   "news": [
     {
-      "title": "新基金爆款频现首募2660亿",
-      "summary": "截至5月20日，年内权益类新基金首发募集规模已突破2660亿元，同比增长逾50%，多只产品提前结束募集。显示场外资金加速入市，市场情绪回暖，增量资金将推动A股上行，利好券商及权重板块，信号看多。",
-      "reason": "优先级三市场情绪信号，基金发行异常火爆，反映增量资金入场意愿强，直接利好A股流动性。",
+      "title": "美军登船搜查伊朗油轮",
+      "summary": "美军在阿曼湾登船搜查一艘伊朗油轮，地缘政治紧张局势升级。可能引发油价波动，加剧市场避险情绪，对A股石油板块和避险资产（如黄金）产生影响。短期偏空，尤其利空石油相关个股。",
+      "reason": "地缘政治事件，直接推高风险溢价，影响能源价格和全球市场情绪。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油板块",
+        "黄金ETF",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260521/c676849422.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "绩差股加速离场",
+      "summary": "A股退市常态化加速，绩差股逐步被市场淘汰，彰显制度刚性。利好市场生态净化，提升整体质量，但短期可能引发ST板块和低价股抛售压力。偏多信号，优质龙头受益。",
+      "reason": "监管政策强化退市制度，影响ST板块和绩差股，对市场长期健康有利。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "ST板块",
+        "沪深300",
+        "上证50"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jVEJoeFdOVkJVc1FqbGozS3hrVmxDSks1N3Rwd2pRcGZrQ3g5YzR4YTROclFWN0NvWWhxTDRWcG0tV2RyUnB0LW5FNVIzUGlUbmp4ZDMwdlFFZ1dqb05Qc01rdW8tVDFiWVlLTHVWRHFiYndkZHJuMg?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "权益新基金首募破2660亿",
+      "summary": "年内权益类新基金发行火爆，首募规模突破2660亿元，同比大增超50%。显示增量资金入场意愿强烈，对A股形成资金面支撑，尤其是近期热点板块如科技、消费。看多信号。",
+      "reason": "基金发行数据是市场情绪和资金面的重要指标，大幅增长意味着场外资金涌入。",
       "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
-        "券商",
-        "公募重仓股"
+        "科技ETF",
+        "消费ETF"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377322"
+          "url": "https://api3.cls.cn/share/article/2377322?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "沪深ETF总规模重返5.1万亿",
-      "summary": "截至4月末，沪深两市ETF总规模重返5.1万亿元上方，较3月末增长显著。ETF规模增长代表被动资金持续流入，尤其宽基ETF受青睐，为市场提供底部支撑，利好沪深300及主要指数成分股，信号看多。",
-      "reason": "优先级三市场结构信号，ETF规模创新高显示资金稳定流入，增强市场韧性。",
-      "category": "市场结构",
-      "impact_stocks": [
-        "沪深300",
-        "上证50",
-        "科创50"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377332"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "资金再配置通信券商红利ETF",
-      "summary": "上证指数在4100点上方震荡，资金通过ETF加速配置，通信、券商和红利相关ETF成为吸金主力，份额大幅增长。显示市场主线向科技、金融和高股息切换，利好通信板块、券商及红利指数成分股，信号看多。",
-      "reason": "优先级三板块轮动信号，ETF资金流向揭示主力加仓方向，具有交易参考价值。",
+      "title": "ETF成吸金主力",
+      "summary": "4100点上方资金再配置，通信、券商和红利相关ETF成为吸金主力。反映市场结构性偏好，通信（AI算力）、券商（行情弹性）、红利（防御）受青睐。偏多信号，对应板块有望延续强势。",
+      "reason": "资金流向ETF表明机构配置方向，对相关板块有指引作用。",
       "category": "资金流向",
       "impact_stocks": [
-        "通信",
-        "券商",
-        "红利指数"
+        "通信ETF",
+        "券商ETF",
+        "红利ETF",
+        "科技"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -63,85 +84,85 @@
       "urgency": "hours"
     },
     {
-      "title": "美军在阿曼湾登船搜查伊朗油轮",
-      "summary": "美军在阿曼湾登船搜查一艘伊朗油轮，中东局势再度紧张，霍尔木兹海峡航运风险上升。可能推高国际油价，加剧通胀预期，对A股石油板块短期利好，但整体市场避险情绪升温，对大盘偏空，信号偏空。",
-      "reason": "优先级一北向资金大幅异动类似影响？属于地缘政治事件，直接影响能源价格和市场情绪。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "石油石化",
-        "航运",
-        "军工"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377319"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "标普纳指期货下跌A股承压",
-      "summary": "5月21日亚盘盘前，标普500指数期货跌0.5%，纳指期货跌0.8%，受英伟达盘后波动及中东局势影响。海外风险资产回调可能拖累A股开盘情绪，短期对科技股和成长板块构成压力，信号偏空。",
-      "reason": "优先级二海外市场联动，美股期货下跌通过情绪传导影响A股开盘。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "科技股",
-        "创业板",
-        "纳斯达克相关ETF"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377318"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "研报看好AI驱动半导体设备扩产",
-      "summary": "财联社研选指出，AI驱动先进逻辑与存储扩产，资本开支进入新一轮上行周期，全球半导体设备市场规模持续创新高。作为AI基础设施核心供应商，前瞻性布局AI相关光纤及液冷等公司受益。利好半导体设备、算力产业链，信号看多。",
-      "reason": "优先级二行业政策变动（算力基建），权威研报明确看好，推动板块预期。",
+      "title": "AI眼镜巨头入局",
+      "summary": "苹果、三星等巨头布局AI眼镜，行业成为竞争焦点。利好AI眼镜产业链，包括光学、显示、芯片等。政策和技术驱动，相关概念股有望受益。看多信号。",
+      "reason": "行业动态中重要技术变革，巨头入局加速产业落地，对A股消费电子和AI概念形成催化。",
       "category": "行业动态",
       "impact_stocks": [
-        "半导体设备",
-        "AI算力",
-        "光模块"
+        "AI眼镜概念",
+        "消费电子",
+        "光学",
+        "芯片"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2376283"
+          "name": "澎湃新闻",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLa0JVTUoyZnFtb3ZzYzdJdGRqcHZzQm42Smk2V05oVF94b0ZPbTAzRnN3R09vUDFxTGN6UzVBRU5uSF92LVZCQWpvVWNrZWM1YnVGOVNmVTROLTZZY0E?oc=5"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "燃料电池技术突破利好产业链",
-      "summary": "科学家开发新型超薄膜，让燃料电池在高温下稳定运行，有望降低燃料电池成本，加速商业化进程。该技术突破利好燃料电池及氢能产业链相关A股公司，但短期影响有限，信号中性偏多。",
-      "reason": "优先级二行业政策变动，新能源领域技术进步可带动板块关注。",
-      "category": "行业动态",
+      "title": "摘星脱帽个股增多",
+      "summary": "多家上市公司实现摘星脱帽，恢复常态交易。这些公司基本面改善，摘帽后流动性恢复，短期可能吸引炒作。个股利好，但整体影响有限。偏多信号。",
+      "reason": "公司公告类，摘帽对个股有正向刺激，可作为事件驱动机会。",
+      "category": "公司公告",
       "impact_stocks": [
-        "燃料电池",
-        "氢能源"
+        "摘帽概念",
+        "ST板块"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377337"
+          "url": "https://api3.cls.cn/share/article/2377333?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
+    },
+    {
+      "title": "美股期货盘前下跌",
+      "summary": "标普500指数期货跌0.5%，纳指期货跌0.8%，受英伟达财报后波动及地缘风险影响。可能传导至A股开盘情绪，短期偏空。但A股独立性增强，影响有限。中性偏空信号。",
+      "reason": "海外市场情绪信号，可能影响A股开盘，但持续性需观察。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "创业板指",
+        "科技股"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377318?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "沪深ETF总规模重返5.1万亿",
+      "summary": "截至4月末，沪深ETF总规模重返5.1万亿元上方，显示市场资金持续流入。ETF规模增长是市场成熟和资金入场的标志，偏多信号。",
+      "reason": "市场结构数据，长期资金入市渠道拓宽，对市场稳定性有利。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "沪深300",
+        "ETF相关板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377332?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 40,
-  "generated_at": "2026-05-21T07:01:10.118196+08:00"
+  "total_fetched": 41,
+  "generated_at": "2026-05-21T07:04:14.088265+08:00"
 }
