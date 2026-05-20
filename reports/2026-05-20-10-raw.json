@@ -1,78 +1,64 @@
 {
   "date": "2026-05-20",
   "hour": "10",
-  "total": 82,
-  "fetched_at": "2026-05-20T10:00:33.097457+08:00",
+  "total": 75,
+  "fetched_at": "2026-05-20T10:08:05.583874+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股午后发力拉升，半导体板块强势，多股20%涨停 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5DQ2JaQ0NjVGVzSU01bWNPWkZJVGR2M082eHlWbl9oTjd0YjY1aV9QeG5sbmhyZHhtMTdfTlNzZGxUWW9JQlJXdDJ1UlNaRXhTWnAyaGcyU1JvX2VEWWxLMnVBUmNMUWl3VGFqSi1Vak05cHRoaUxmZlBxSk5neDA?oc=5\" target=\"_blank\">A股午后发力拉升，半导体板块强势，多股20%涨停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DQ2JaQ0NjVGVzSU01bWNPWkZJVGR2M082eHlWbl9oTjd0YjY1aV9QeG5sbmhyZHhtMTdfTlNzZGxUWW9JQlJXdDJ1UlNaRXhTWnAyaGcyU1JvX2VEWWxLMnVBUmNMUWl3VGFqSi1Vak05cHRoaUxmZlBxSk5neDA?oc=5",
-      "published": "Wed, 20 May 2026 01:31:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股年度分红创新高意味着什么 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTUNFMC1hV21qOERKUGFFRXphVnFjenh6NjVTZ1puMWhZS1Y5SWhGdkpRelBNaGdFZnhnd1c2dGphcEJkTzBuN3g2czFFOUFET3dWVUZDLXZNTThyVkFra1ZXU3pVam90Y1h2cHVTdmV3OGtGVThMbg?oc=5\" target=\"_blank\">A股年度分红创新高意味着什么</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股年度分红创新高意味着什么 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTUNFMC1hV21qOERKUGFFRXphVnFjenh6NjVTZ1puMWhZS1Y5SWhGdkpRelBNaGdFZnhnd1c2dGphcEJkTzBuN3g2czFFOUFET3dWVUZDLXZNTThyVkFra1ZXU3pVam90Y1h2cHVTdmV3OGtGVThMbg?oc=5\" target=\"_blank\">A股年度分红创新高意味着什么</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTUNFMC1hV21qOERKUGFFRXphVnFjenh6NjVTZ1puMWhZS1Y5SWhGdkpRelBNaGdFZnhnd1c2dGphcEJkTzBuN3g2czFFOUFET3dWVUZDLXZNTThyVkFra1ZXU3pVam90Y1h2cHVTdmV3OGtGVThMbg?oc=5",
       "published": "Wed, 20 May 2026 01:06:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "年内跌幅超7%，A股银行板块为何大幅跑输大盘？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9xc1M4cEZzRnJDUXI1X0p5NXpvV2d6TkxZanhrZHZoQjR5Sm9OTThVdXQwQXg1MDBNZG1vMGNvRF9GSmJLclBkcllaSU1wczBrSTI4WG5yZlo4UGVaR0llNmpUYU9OZzFoUS1EVkY1dUJDbS1rUGc?oc=5\" target=\"_blank\">年内跌幅超7%，A股银行板块为何大幅跑输大盘？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "年内跌幅超7%，A股银行板块为何大幅跑输大盘？ - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9xc1M4cEZzRnJDUXI1X0p5NXpvV2d6TkxZanhrZHZoQjR5Sm9OTThVdXQwQXg1MDBNZG1vMGNvRF9GSmJLclBkcllaSU1wczBrSTI4WG5yZlo4UGVaR0llNmpUYU9OZzFoUS1EVkY1dUJDbS1rUGc?oc=5\" target=\"_blank\">年内跌幅超7%，A股银行板块为何大幅跑输大盘？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xc1M4cEZzRnJDUXI1X0p5NXpvV2d6TkxZanhrZHZoQjR5Sm9OTThVdXQwQXg1MDBNZG1vMGNvRF9GSmJLclBkcllaSU1wczBrSTI4WG5yZlo4UGVaR0llNmpUYU9OZzFoUS1EVkY1dUJDbS1rUGc?oc=5",
       "published": "Wed, 20 May 2026 00:32:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "安道麦：截至2026年4月30日A股股东人数为26,976 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2tacGZyb0xCbUExWnAxT0h1OFZaV3ZPcWpqU2lYMUh1bFNTVllWTWc2YjdZbml1SjczbE83dEloTTVRNzNuem5hX3QyazNRcDJlTk5XQjhNazg5NnBzZmQ5TjJkNi1qcThPUEFSQXBkOWpDV1JtUVgtTnh2TmcxVFhMMGxpSU1TdVJmdEdRLVo?oc=5\" target=\"_blank\">安道麦：截至2026年4月30日A股股东人数为26,976</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "安道麦：截至2026年4月30日A股股东人数为26,976 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2tacGZyb0xCbUExWnAxT0h1OFZaV3ZPcWpqU2lYMUh1bFNTVllWTWc2YjdZbml1SjczbE83dEloTTVRNzNuem5hX3QyazNRcDJlTk5XQjhNazg5NnBzZmQ5TjJkNi1qcThPUEFSQXBkOWpDV1JtUVgtTnh2TmcxVFhMMGxpSU1TdVJmdEdRLVo?oc=5\" target=\"_blank\">安道麦：截至2026年4月30日A股股东人数为26,976</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ2tacGZyb0xCbUExWnAxT0h1OFZaV3ZPcWpqU2lYMUh1bFNTVllWTWc2YjdZbml1SjczbE83dEloTTVRNzNuem5hX3QyazNRcDJlTk5XQjhNazg5NnBzZmQ5TjJkNi1qcThPUEFSQXBkOWpDV1JtUVgtTnh2TmcxVFhMMGxpSU1TdVJmdEdRLVo?oc=5",
       "published": "Wed, 20 May 2026 01:14:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "打新热情高涨 今年以来港股IPO募资额超1500亿港元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSVmtzWUo1bUM5R3NjdFdCNExYNl9ubG43a1pFd2J5YWVsV1RWRzdhbHd0dEx2cnZBU3MxWTZIZW05cG8tOS1EY3VuMDhWYTZabG1SMUw3TGdyUktaUzJhT1RSU1VIV3ZGekVKdXFxMkxHLVlIN1Z1Zg?oc=5\" target=\"_blank\">打新热情高涨 今年以来港股IPO募资额超1500亿港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "打新热情高涨 今年以来港股IPO募资额超1500亿港元 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBSVmtzWUo1bUM5R3NjdFdCNExYNl9ubG43a1pFd2J5YWVsV1RWRzdhbHd0dEx2cnZBU3MxWTZIZW05cG8tOS1EY3VuMDhWYTZabG1SMUw3TGdyUktaUzJhT1RSU1VIV3ZGekVKdXFxMkxHLVlIN1Z1Zg?oc=5\" target=\"_blank\">打新热情高涨 今年以来港股IPO募资额超1500亿港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSVmtzWUo1bUM5R3NjdFdCNExYNl9ubG43a1pFd2J5YWVsV1RWRzdhbHd0dEx2cnZBU3MxWTZIZW05cG8tOS1EY3VuMDhWYTZabG1SMUw3TGdyUktaUzJhT1RSU1VIV3ZGekVKdXFxMkxHLVlIN1Z1Zg?oc=5",
       "published": "Wed, 20 May 2026 00:55:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "5月19日标普A股红利ETF华宝（562060）份额减少3.74亿份，最新份额67.01亿份，最新规模43.03亿元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONk0yanVzcmJ1bE1CV1JvRmRRVnB5MEpjRW9LeEs1X285LUd6ZWxxSHhhWFplYW1OOS1QRzNnZ3Y1T2FDa3dhMGktVFJrTlBsM0p4ai1YWk5QUmZBWFVVOVBaRVZEWXZUUEp1c25QaWQ1TjlXUmlYX3pYb0tFWXJYQ05ra0wtVFFYXzZobXp0Q0Q5azkzRVE2QmpxSQ?oc=5\" target=\"_blank\">5月19日标普A股红利ETF华宝（562060）份额减少3.74亿份，最新份额67.01亿份，最新规模43.03亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "5月19日标普A股红利ETF华宝（562060）份额减少3.74亿份，最新份额67.01亿份，最新规模43.03亿元 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONk0yanVzcmJ1bE1CV1JvRmRRVnB5MEpjRW9LeEs1X285LUd6ZWxxSHhhWFplYW1OOS1QRzNnZ3Y1T2FDa3dhMGktVFJrTlBsM0p4ai1YWk5QUmZBWFVVOVBaRVZEWXZUUEp1c25QaWQ1TjlXUmlYX3pYb0tFWXJYQ05ra0wtVFFYXzZobXp0Q0Q5azkzRVE2QmpxSQ?oc=5\" target=\"_blank\">5月19日标普A股红利ETF华宝（562060）份额减少3.74亿份，最新份额67.01亿份，最新规模43.03亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONk0yanVzcmJ1bE1CV1JvRmRRVnB5MEpjRW9LeEs1X285LUd6ZWxxSHhhWFplYW1OOS1QRzNnZ3Y1T2FDa3dhMGktVFJrTlBsM0p4ai1YWk5QUmZBWFVVOVBaRVZEWXZUUEp1c25QaWQ1TjlXUmlYX3pYb0tFWXJYQ05ra0wtVFFYXzZobXp0Q0Q5azkzRVE2QmpxSQ?oc=5",
       "published": "Wed, 20 May 2026 01:02:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "5月19日国泰恒生A股电网设备ETF(561380)获净申购2490.63万元，位居当日股票ETF净流入排名66/1197 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzlOU3BHUlJCM0JVN0g1M1RHUFNCSktlLThjbnZlU09WN3RsdGtMa2lmMFJROFF6TnJsY1lZSHpYY3Rhb3cxd2ppSWNiZlhIbW94THcwY2VnbF9Uc0RmNWloUFV3RUhsd2dVX2ZIQk9qN2VxVjlpY01URGJyRlpSSEgyZ2hGMC1kNld2MEVWeHdqWkRwUUo4ekN4TQ?oc=5\" target=\"_blank\">5月19日国泰恒生A股电网设备ETF(561380)获净申购2490.63万元，位居当日股票ETF净流入排名66/1197</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "5月19日国泰恒生A股电网设备ETF(561380)获净申购2490.63万元，位居当日股票ETF净流入排名66/1197 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzlOU3BHUlJCM0JVN0g1M1RHUFNCSktlLThjbnZlU09WN3RsdGtMa2lmMFJROFF6TnJsY1lZSHpYY3Rhb3cxd2ppSWNiZlhIbW94THcwY2VnbF9Uc0RmNWloUFV3RUhsd2dVX2ZIQk9qN2VxVjlpY01URGJyRlpSSEgyZ2hGMC1kNld2MEVWeHdqWkRwUUo4ekN4TQ?oc=5\" target=\"_blank\">5月19日国泰恒生A股电网设备ETF(561380)获净申购2490.63万元，位居当日股票ETF净流入排名66/1197</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUzlOU3BHUlJCM0JVN0g1M1RHUFNCSktlLThjbnZlU09WN3RsdGtMa2lmMFJROFF6TnJsY1lZSHpYY3Rhb3cxd2ppSWNiZlhIbW94THcwY2VnbF9Uc0RmNWloUFV3RUhsd2dVX2ZIQk9qN2VxVjlpY01URGJyRlpSSEgyZ2hGMC1kNld2MEVWeHdqWkRwUUo4ekN4TQ?oc=5",
       "published": "Wed, 20 May 2026 01:47:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "5月19日广发恒生A股电网设备ETF(159320)获净申购3655.2万元，位居当日股票ETF净流入排名48/1197 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQS1leWlfWHcyX2RxVy1GYU9ETDdPUEhoMFhyczN1VnRKRnF0T3R3c3NzcGZPMUhPLXRTdmpJUl9zUC13QTBsY29YYzNhWnZUaDF0NGJaRUc3YnVwRHF4dnhOVjIxRkE5NlRyUTlPZ1R4RkNCdUVSV294T2xJYnFrd2NUbG9JYjRsRXpxY3JCa25QWDJZc0pwLS1IQQ?oc=5\" target=\"_blank\">5月19日广发恒生A股电网设备ETF(159320)获净申购3655.2万元，位居当日股票ETF净流入排名48/1197</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "5月19日广发恒生A股电网设备ETF(159320)获净申购3655.2万元，位居当日股票ETF净流入排名48/1197 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOQS1leWlfWHcyX2RxVy1GYU9ETDdPUEhoMFhyczN1VnRKRnF0T3R3c3NzcGZPMUhPLXRTdmpJUl9zUC13QTBsY29YYzNhWnZUaDF0NGJaRUc3YnVwRHF4dnhOVjIxRkE5NlRyUTlPZ1R4RkNCdUVSV294T2xJYnFrd2NUbG9JYjRsRXpxY3JCa25QWDJZc0pwLS1IQQ?oc=5\" target=\"_blank\">5月19日广发恒生A股电网设备ETF(159320)获净申购3655.2万元，位居当日股票ETF净流入排名48/1197</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQS1leWlfWHcyX2RxVy1GYU9ETDdPUEhoMFhyczN1VnRKRnF0T3R3c3NzcGZPMUhPLXRTdmpJUl9zUC13QTBsY29YYzNhWnZUaDF0NGJaRUc3YnVwRHF4dnhOVjIxRkE5NlRyUTlPZ1R4RkNCdUVSV294T2xJYnFrd2NUbG9JYjRsRXpxY3JCa25QWDJZc0pwLS1IQQ?oc=5",
       "published": "Wed, 20 May 2026 01:47:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "5月19日易方达恒生A股电网设备ETF(560390)获净申购1066.16万元，位居当日股票ETF净流入排名120/1197 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnQzUzRKSXBBWEZMTEZBZmFoa2dSTmRaZ211ZnBDZnZkd2hDZm96VDhOdktNSFlkdEhqSFY3c2dBTmlobWdzMTlIbllJOGVoLVhCcXNiV1R0VGxxYTZ6QWgybS1RQUk3d2VjcVRCNEZ5VXV0c1JtTGtKNnJqSGR1T2tGbGZUaE0ydzNGZlNZa2kteHdxdld2Z0U3MA?oc=5\" target=\"_blank\">5月19日易方达恒生A股电网设备ETF(560390)获净申购1066.16万元，位居当日股票ETF净流入排名120/1197</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "5月19日易方达恒生A股电网设备ETF(560390)获净申购1066.16万元，位居当日股票ETF净流入排名120/1197 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnQzUzRKSXBBWEZMTEZBZmFoa2dSTmRaZ211ZnBDZnZkd2hDZm96VDhOdktNSFlkdEhqSFY3c2dBTmlobWdzMTlIbllJOGVoLVhCcXNiV1R0VGxxYTZ6QWgybS1RQUk3d2VjcVRCNEZ5VXV0c1JtTGtKNnJqSGR1T2tGbGZUaE0ydzNGZlNZa2kteHdxdld2Z0U3MA?oc=5\" target=\"_blank\">5月19日易方达恒生A股电网设备ETF(560390)获净申购1066.16万元，位居当日股票ETF净流入排名120/1197</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSnQzUzRKSXBBWEZMTEZBZmFoa2dSTmRaZ211ZnBDZnZkd2hDZm96VDhOdktNSFlkdEhqSFY3c2dBTmlobWdzMTlIbllJOGVoLVhCcXNiV1R0VGxxYTZ6QWgybS1RQUk3d2VjcVRCNEZ5VXV0c1JtTGtKNnJqSGR1T2tGbGZUaE0ydzNGZlNZa2kteHdxdld2Z0U3MA?oc=5",
       "published": "Wed, 20 May 2026 01:16:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "市场分析：电力半导体领涨 A股先抑后扬 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcVg3NkVPQjhrY2cyV2lzZk5PcmpQbFJBaEFEUW9GYnk4VFFRY0J0aU8xWkI3OTM1ZF96amU5N1JLTTFPZ2NJemZOWG55ajBEbk4zR1VzR3FjY2tidV8teE1hS1lIWmVDb3lycTREa0tSdl9peVlLcG5WWi1LTnJLalRGbUJ6TnFQZEd3OGRYWG1pcjV1RlJj?oc=5\" target=\"_blank\">市场分析：电力半导体领涨 A股先抑后扬</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcVg3NkVPQjhrY2cyV2lzZk5PcmpQbFJBaEFEUW9GYnk4VFFRY0J0aU8xWkI3OTM1ZF96amU5N1JLTTFPZ2NJemZOWG55ajBEbk4zR1VzR3FjY2tidV8teE1hS1lIWmVDb3lycTREa0tSdl9peVlLcG5WWi1LTnJLalRGbUJ6TnFQZEd3OGRYWG1pcjV1RlJj?oc=5",
-      "published": "Wed, 20 May 2026 00:03:57 GMT"
     },
     {
       "source": "新浪财经",
@@ -83,22 +69,8 @@
     },
     {
       "source": "新浪财经",
-      "title": "今年以来港股IPO募资超1500亿港元 19家A股成功登陆 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHlWYUNfLTFuUk5aZE5JOW1qcHVXbEl2SktLODJLMnpxcUFFU1lCVmRIbnk4LWcwOE1TeENBaVotYWhOSWdwTWRIRlp4UUpaN0JVTzJBMHloM1QzMUdaX2xBSjhuZGI1U3VVTnJEel9EQUNXb2x4U0RWYWZNajlYZWJoVUNVbDkwcVZhWkxVYUVYbWM?oc=5\" target=\"_blank\">今年以来港股IPO募资超1500亿港元 19家A股成功登陆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHlWYUNfLTFuUk5aZE5JOW1qcHVXbEl2SktLODJLMnpxcUFFU1lCVmRIbnk4LWcwOE1TeENBaVotYWhOSWdwTWRIRlp4UUpaN0JVTzJBMHloM1QzMUdaX2xBSjhuZGI1U3VVTnJEel9EQUNXb2x4U0RWYWZNajlYZWJoVUNVbDkwcVZhWkxVYUVYbWM?oc=5",
-      "published": "Wed, 20 May 2026 00:07:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "5月19日A股市场点评：主要指数上涨 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE4tM01lOVFxY3l4WHJEa0x2RWg5dzB1NFBWVmhLSW9VVGJtX0t5SnB2T2dJOE9laDljQkVKMVp0aVZHREx4VHJKcDNPMlFXNUFQX3Z1R1huMUVXbVZMbWJRS1hjV3ZsRUdnTU9xck9SYVdnOU5jb1BGYTlxZEVtT3poVkVBWm1qeXR4ZGR6dU91bzNLZEVyaDN1bk1PdlZJX3dIWA?oc=5\" target=\"_blank\">5月19日A股市场点评：主要指数上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVE4tM01lOVFxY3l4WHJEa0x2RWg5dzB1NFBWVmhLSW9VVGJtX0t5SnB2T2dJOE9laDljQkVKMVp0aVZHREx4VHJKcDNPMlFXNUFQX3Z1R1huMUVXbVZMbWJRS1hjV3ZsRUdnTU9xck9SYVdnOU5jb1BGYTlxZEVtT3poVkVBWm1qeXR4ZGR6dU91bzNLZEVyaDN1bk1PdlZJX3dIWA?oc=5",
-      "published": "Wed, 20 May 2026 00:03:57 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股盘前播报 | 国产存储巨头长江存储启动上市辅导 谷歌开发者大会火力全开 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjZpanVMMHFZbU1sa1dyX3oxd0IzRDZ4MlR0aHVaajNRZEFaMDFxVGRDTGVUOGtaY0dZamR3QUgyUFZGQzFkSlBFMGgwVVg3MXNPSDBTYlJDVWQ0b0dKYUNFcFBSbjYya09RUlNzUERPYXJ4OHhsa3Q1OHpkY1BUUWdvRFkwdGlpLVNKQkJleXJONU1z?oc=5\" target=\"_blank\">A股盘前播报 | 国产存储巨头长江存储启动上市辅导 谷歌开发者大会火力全开</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股盘前播报 | 国产存储巨头长江存储启动上市辅导 谷歌开发者大会火力全开 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjZpanVMMHFZbU1sa1dyX3oxd0IzRDZ4MlR0aHVaajNRZEFaMDFxVGRDTGVUOGtaY0dZamR3QUgyUFZGQzFkSlBFMGgwVVg3MXNPSDBTYlJDVWQ0b0dKYUNFcFBSbjYya09RUlNzUERPYXJ4OHhsa3Q1OHpkY1BUUWdvRFkwdGlpLVNKQkJleXJONU1z?oc=5\" target=\"_blank\">A股盘前播报 | 国产存储巨头长江存储启动上市辅导 谷歌开发者大会火力全开</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMjZpanVMMHFZbU1sa1dyX3oxd0IzRDZ4MlR0aHVaajNRZEFaMDFxVGRDTGVUOGtaY0dZamR3QUgyUFZGQzFkSlBFMGgwVVg3MXNPSDBTYlJDVWQ0b0dKYUNFcFBSbjYya09RUlNzUERPYXJ4OHhsa3Q1OHpkY1BUUWdvRFkwdGlpLVNKQkJleXJONU1z?oc=5",
       "published": "Wed, 20 May 2026 00:23:00 GMT"
     },
@@ -122,6 +94,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DT0p3d3hWRzZYbXBJUDJ5cExMOXFfUVJqUW9WYVg1Wm45Ry1xcjlGQ3UyWE51LVlrVTBQRjUwYkZHWFZ6dFBuYnVOUlk5STZFLWI0Zjg1bmNCb2tCSzhyYlVYd3Vadw?oc=5\" target=\"_blank\">华泰证券：看好煤炭板块受益电煤和非电用煤的持续超预期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1DT0p3d3hWRzZYbXBJUDJ5cExMOXFfUVJqUW9WYVg1Wm45Ry1xcjlGQ3UyWE51LVlrVTBQRjUwYkZHWFZ6dFBuYnVOUlk5STZFLWI0Zjg1bmNCb2tCSzhyYlVYd3Vadw?oc=5",
       "published": "Wed, 20 May 2026 00:33:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "河南：1-4月全省规模以上工业增加值同比增长8.2%",
+      "summary": "河南省统计局公布2026年1-4月份全省经济运行情况。1-4月，全省规模以上工业增加值同比增长8.2%，增速比一季度加快0.3个百分点。1-4月，全省社会消费品零售总额9773.87亿元，同比增长3.2%。1-4月，全省固定资产投资同比增长1.2%，增速与一季度持平。 (大河财立方)",
+      "link": "https://news.10jqka.com.cn/20260520/c676824428.shtml",
+      "published": "Wed, 20 May 2026 02:08:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "南向资金净买入超30亿港元",
+      "summary": "据同花顺iFinD数据，截至目前，南向资金净买入超30亿港元，其中港股通（沪）买入超21.34亿港元，港股通（深）买入超9.13亿港元。",
+      "link": "https://news.10jqka.com.cn/20260520/c676824311.shtml",
+      "published": "Wed, 20 May 2026 02:01:37 GMT"
     },
     {
       "source": "同花顺",
@@ -250,18 +236,46 @@
       "published": "Wed, 20 May 2026 01:37:14 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "三大通讯运营商盘初下挫，中国电信跌超5%",
-      "summary": "三大通讯运营商盘初下挫，中国电信跌超5%，中国联通跌近3%，中国移动跌超2%。",
-      "link": "https://news.10jqka.com.cn/20260520/c676823584.shtml",
-      "published": "Wed, 20 May 2026 01:37:00 GMT"
+      "source": "财联社",
+      "title": "11.5万吨油轮提前交付 国产油轮已在全球市场占据主导",
+      "summary": "【11.5万吨油轮提前交付 国产油轮已在全球市场占据主导】财联社5月20日电，今天（20日），由中船大连造船山船重工建造的11.5万吨油轮正式交付，比合同交船期提前了160多天。交船速度这么快的背后，是今年以来，我国造船业新接订单不断，拿下全球超九成的超大型油轮新船订单，在全球市场占据主导地位。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2376279?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 02:05:53 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "光伏设备板块盘初拉升，欧晶科技涨停",
-      "summary": "光伏设备板块盘初拉升，欧晶科技涨停，联泓新科、双良节能、德业股份、晶盛机电、钧达股份跟涨。消息面上，国家能源局公布2026年一季度光伏发电建设情况，2026年一季度新增并网容量4118.9万千瓦；其中集中式光伏电站1961.9万千瓦，分布式光伏2157.0万千瓦。",
-      "link": "https://news.10jqka.com.cn/20260520/c676823552.shtml",
-      "published": "Wed, 20 May 2026 01:35:39 GMT"
+      "source": "财联社",
+      "title": "公安部：2025年以来破获各类经济犯罪案件12.8万起",
+      "summary": "【公安部：2025年以来破获各类经济犯罪案件12.8万起】财联社5月20日电，公安部今天召开新闻发布会，介绍去年以来公安机关打击防范经济犯罪主要情况。截至今年4月底，各地公安机关破获各类经济犯罪案件12.8万起，挽回经济损失375亿元。",
+      "link": "https://api3.cls.cn/share/article/2376276?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 02:03:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "芯片产业链持续走强 寒武纪涨超5%续创历史新高",
+      "summary": "【芯片产业链持续走强 寒武纪涨超5%续创历史新高】财联社5月20日电，芯片产业链持续走强，算力芯片方向领涨，寒武纪涨超5%，续创历史新高，总市值突破8600亿，此前大胜达涨停，沐曦股份、翱捷科技、摩尔线程、海光信息跟涨。",
+      "link": "https://api3.cls.cn/share/article/2376272?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 02:03:29 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "沪深两市成交额突破1万亿 较上一日此时放量超600亿",
+      "summary": "【沪深两市成交额突破1万亿 较上一日此时放量超600亿】财联社5月20日电，据财联社盯盘数据显示，沪深两市成交额突破1万亿，较上一日此时放量超600亿，预计全天成交金额超2.9万亿。",
+      "link": "https://api3.cls.cn/share/article/2376275?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 02:03:26 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月20日电，截至目前，南向资金净买入额达30亿港元。",
+      "summary": "财联社5月20日电，截至目前，南向资金净买入额达30亿港元。",
+      "link": "https://api3.cls.cn/share/article/2376271?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 02:01:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "全场景L4级自动驾驶第一股！驭势科技港股上市，引领L4级自动驾驶规模化落地",
+      "summary": "【全场景L4级自动驾驶第一股！驭势科技港股上市，引领L4级自动驾驶规模化落地】财联社5月20日电，全场景L4级自动驾驶解决方案供应商驭势科技（北京）股份有限公司（01511.HK）今日正式于港交所主板挂牌上市，市值85亿港元。据弗若斯特沙利文数据，2025年驭势科技在大中华区机场场景L4级商用车自动驾驶市占率达90.5%；在厂区场景同样以31.7%的市占率位居行业首位，成为L4级商用车自动驾驶赛道无可争议的龙头。除机场、厂区两大核心场景外，驭势科技进一步将通用自动驾驶技术拓展至城市、港口、矿山、农场、牧场等多元应用领域，并延伸到乘用车高阶智驾，覆盖封闭场景和开放道路，构筑起“场景覆盖越广、数据积累越多、技术壁垒越高”的循环飞轮，持续提升技术上限。此次上市，公司将进一步加码核心技术研发、全球化业务布局与全场景商业化落地。",
+      "link": "https://api3.cls.cn/share/article/2376269?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 20 May 2026 02:00:38 GMT"
     },
     {
       "source": "财联社",
@@ -362,48 +376,6 @@
       "published": "Wed, 20 May 2026 01:33:10 GMT"
     },
     {
-      "source": "财联社",
-      "title": "黄金期货瞬时波动系有某客户申报较大手数卖出指令全部成交所致",
-      "summary": "【黄金期货瞬时波动系有某客户申报较大手数卖出指令全部成交所致】财联社5月20日电，2026年5月19日21时04分，AU2606合约出现瞬时价格下跌，行情随后快速恢复。记者5月20日从上期所获悉，经核查，系有某客户申报较大手数卖出指令全部成交所致。上期所表示，该所将持续做好市场监控工作，同时提醒投资者做好交易风险控制。 (证券时报)",
-      "link": "https://api3.cls.cn/share/article/2376238?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 20 May 2026 01:31:09 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月20日电，集运指数欧线期货主力合约日内涨超5%，现报2756点。",
-      "summary": "财联社5月20日电，集运指数欧线期货主力合约日内涨超5%，现报2756点。",
-      "link": "https://api3.cls.cn/share/article/2376237?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 20 May 2026 01:30:11 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "【盘中宝】推理环节相比训练拥有数倍空间，推动该行业供需持续紧张，腾讯、阿里等头部厂商相继上调价格，机构称这些环节有望核心受益，这家企业客户包括腾讯、阿...",
-      "summary": "推理环节相比训练拥有数倍空间，推动该行业供需持续紧张，腾讯、阿里等头部厂商相继上调价格，机构称这些环节有望核心受益，这家企业与行业龙头成立合资公司，另一企业客户包括腾讯、阿里。",
-      "link": "https://api3.cls.cn/share/article/2376233?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 20 May 2026 01:28:47 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "竞价看龙头",
-      "summary": "【竞价看龙头】财联社5月20日电，市场焦点股利仁科技（7板）高开10.00%，PCB概念股宝鼎科技（9天6板）低开0.87%，实控人变更的威龙股份（5板）竞价涨停，合肥城建（6天5板）低开4.34%、合百集团（2板）高开9.12%，机器人概念股北自科技（4板）竞价跌停、达实智能（3板）竞价涨停，并购重组的贵州燃气（5天4板）高开6.19%，芯片产业链的三孚股份（5天3板）高开4.28%，算力租赁板块弘信电子（创业板2板）高开7.70%、电科数字（2板）高开2.18%。<br /><img src=\"https://image.cls.cn/images/20260520/5q3w0KzUZW_719x465.png\" />",
-      "link": "https://api3.cls.cn/share/article/2376236?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 20 May 2026 01:28:07 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "三大指数集体低开",
-      "summary": "【三大指数集体低开】财联社5月20日电，沪指低开0.40%，深成指低开0.53%，创业板指低开0.48%，贵金属、锂电、文化传媒等板块指数跌幅居前。",
-      "link": "https://api3.cls.cn/share/article/2376235?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 20 May 2026 01:26:13 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月20日电，日本五年期国债收益率升至2.040%，创纪录高位。",
-      "summary": "财联社5月20日电，日本五年期国债收益率升至2.040%，创纪录高位。",
-      "link": "https://api3.cls.cn/share/article/2376231?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 20 May 2026 01:23:57 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
       "summary": "<p>半导体股的上涨动能仍在延续，但技术指标已进入历史极端区间。美银警告，类似的超买信号过去虽不是行情立刻见顶的标志，却常常是顶部过程启动的信号。</p>\n<p>据追风交易台，美银证券技术策略师Paul Ciana在5月18日研报中指出，“半导体仍然火热，但风险正在升温。”VanEck Semiconductor ETF（SMH）今年以来涨约50%，自4月7日美伊停火消息以来涨约35%。截至5月15日当周，SMH接近560美元，14周RSI连续第二周站上80，并创下历史高位。</p>\n<p>更极端的是，SMH当前价格较200周简单移动平均线高出约150%，超过2021年和2024年约100%至108%的历史高位。</p>\n<p>这意味着行情尚未给出明确反转信号，但容错率正在下降。1995年以来，半导体板块出现过7次类似极端超买阶段，历史样本显示，<strong>从RSI升至约80到最终见顶，平均约21周；到跌破关键支撑，平均约36周；到阶段低点，平均约73周；平均回撤约44%。</strong></p>\n<div>\n<h2 id=\"5e573d55\">技术面进入历史极值区间</h2>",
@@ -434,7 +406,7 @@
     {
       "source": "华尔街见闻",
       "title": "中国5月LPR连续第12个月维持不变",
-      "summary": "<p>中国央行将一年期和五年期贷款市场报价利率（LPR）分别维持在3%和3.5%不变。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "summary": "<p>中国5月贷款市场报价利率（LPR）5月20日出炉，1年期和5年期以上LPR均未调整。</p>\n<p>中国人民银行授权全国银行间同业拆借中心公布显示，2026年5月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
       "link": "https://wallstreetcn.com/articles/3772679",
       "published": "Wed, 20 May 2026 01:00:30 GMT"
     },
@@ -488,20 +460,6 @@
       "published": "Wed, 20 May 2026 00:08:35 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "“债市风暴”席卷而来，全球市场都盯着今天的日债拍卖",
-      "summary": "<p style=\"text-align: left;\">全球债市正经历新一轮剧烈震荡，而日本将于周三（5月20日）举行的20年期国债拍卖，已成为当前市场最受瞩目的风险事件。</p>\n<p style=\"text-align: left;\"><strong>此次拍卖距日本20年期国债收益率触及1996年以来最高点不足24小时。</strong>与此同时，据<a href=\"https://wallstreetcn.com/articles/3772491\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">华尔街见闻此前文章</a>提及，日本首相高市早苗正准备宣布编制追加预算，以应对中东冲突推高大宗商品价格带来的冲击，路透社援引一名政府官员消息称，政府可能通过发行新债为部分追加支出融资。</p>\n<p style=\"text-align: left;\">分析指出，这一表态与财务大臣片山皋月（Satsuki Katayama）数周来否认追加预算必要性的公开立场形成鲜明落差，进一步加剧了市场对日本财政可持续性的担忧。</p>\n<p sty",
-      "link": "https://wallstreetcn.com/articles/3772672",
-      "published": "Wed, 20 May 2026 00:03:25 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "上市30天后，SpaceX将完成对“明星AI编程公司”Cursor的收购",
-      "summary": "<p style=\"text-align: left;\">SpaceX正加速推进对AI编程明星创业公司Cursor的收购，这笔交易将在其IPO完成约30天后落地，标志着马斯克旗下这家太空与AI巨头在人工智能编程领域的重大布局。</p>\n<p style=\"text-align: left;\">据彭博周三报道，<strong>SpaceX最快将于本周三提交IPO申请，计划于6月12日正式上市。若进程如期推进，SpaceX对Cursor的收购将于7月完成。知情人士透露，若交易最终未能达成，SpaceX将向Cursor支付100亿美元现金分手费。</strong></p>\n<p style=\"text-align: left;\">此次收购将显著强化SpaceX在AI编程领域的能力，并为其创纪录的IPO增添战略砝码。SpaceX此次上市寻求融资规模高达750亿美元，对应估值逾2万亿美元。</p>\n<h2 style=\"text-align: left;\">收购时间表：IPO后30天</h2>\n<p style=\"text-align: left;\">据彭博援引知情人士消息，SpaceX预计将在",
-      "link": "https://wallstreetcn.com/articles/3772670",
-      "published": "Wed, 20 May 2026 00:02:45 GMT"
-    },
-    {
       "source": "第一财经",
       "title": "“违规泡药”拖累杨梅价格跳水，殃及整个产业靠什么破局",
       "summary": "<figure><img alt=\"“违规泡药”拖累杨梅价格跳水，殃及整个产业靠什么破局\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/335b11f458f45318fe546bc4ae9276b5.jpg\" /></figure><p>根据一亩田的数据，本次负面事件出现后，叠加供应量增多，杨梅价格出现大幅下滑，杨梅整体采购热度下跌28%。</p><p>近期新鲜杨梅陆续上市，却让许多消费者心存顾虑。据媒体报道，福建省漳州市龙海区有杨梅集中收购点存在违规浸泡防腐剂、滥用疑似“三无”甜味剂的行为，借此延长保鲜期、增加甜度，食品安全隐患突出。</p><p>“违规泡药”事件的负面影响正蔓延至整个杨梅产业。记者从上海西郊国际农产品交易中心（下称“西郊国际”）的批发商家了解到，目前杨梅行情转冷，价格出现下滑。</p><p>一亩田平台数据显示，较负面事件发生前，杨梅产地采购热度与价格均下跌20%以上。</p><p>这一风波背后，违规添加的行业乱象也引发了市场对水果保鲜方式以及食品安全问题的深层思考。</p><p><img alt=\"上海西",
@@ -521,13 +479,6 @@
       "summary": "<figure><img alt=\"拓璞数控港股上市首日高开超40%\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/04b012b426389747a23e11c746203d49.jpg\" /></figure><p>昨日暗盘交易涨超47%。</p><p>5月20日，拓璞数控港股上市首日高开超40%，总市值151亿港元。昨日暗盘交易涨超47%。</p>\n\n<p align=\"center\"><img align=\"\" alt=\"\" border=\"0\" height=\"665\" src=\"https://imgcdn.yicai.com/uppics/images/2026/05/58b35ea7e30603b844d0574c26af424c.jpg\" width=\"725\" /></p>\n\n<p>根据发行方案，拓璞数控以每股26.39港元定价，全球发售6533万股H股，募资总额约17.24亿港元，公开发售部分超额认购倍数超过3700倍。</p>\n\n<p>本次IPO引入基石投资者团队，包括高盛资产管理、UBS AM Sin",
       "link": "https://www.yicai.com/news/103191631.html",
       "published": "Wed, 20 May 2026 01:25:31 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "盘前必读丨长存集团启动IPO辅导；中矿资源抛52亿元定增聚焦三大赛道",
-      "summary": "<figure><img alt=\"盘前必读丨长存集团启动IPO辅导；中矿资源抛52亿元定增聚焦三大赛道\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/73f2ac58dcd9ee9780a33a0a8818a742.jpg\" /></figure><p>机构表示，资产再平衡，聚焦产业趋势和抗通胀方向。</p><p><strong>【财经日历】</strong></p>\n\n<p>中国5月LPR</p>\n\n<p>中国AIGC产业峰会(北京)</p>\n\n<p>阿里云调整国内短信服务产品价格</p>\n\n<p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" height=\"87\" src=\"https://imgcdn.yicai.com/uppics/images/2019/10/be231c70bd009c5fbf111e298546d5be.jpg\" width=\"500\" /></p>\n\n<p>►►据央视新闻，5月19日晚，俄罗斯总统普京乘专机抵达北京。应国",
-      "link": "https://www.yicai.com/news/103191525.html",
-      "published": "Wed, 20 May 2026 00:02:34 GMT"
     },
     {
       "source": "证券时报",

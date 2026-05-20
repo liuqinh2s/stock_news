@@ -3,17 +3,39 @@
   "hour": "10",
   "news": [
     {
-      "title": "MLCC迎来历史性涨价拐点",
-      "summary": "MLCC（多层陶瓷电容器）行业从产能过剩转向全面涨价，AI服务器、5G通信等需求驱动供需紧张。产业链企业如风华高科、三环集团有望受益。机构看好被动元件板块，属于行业重大利好，看多信号。",
-      "reason": "行业供需格局重大变化，影响电子元器件板块，属于优先级二行业政策变动。",
+      "title": "FSD入华信号增强",
+      "summary": "特斯拉在九城急招智驾测试技师，官方客服称正积极推进审批，市场预期FSD（全自动驾驶）入华进程加速。若FSD获批，将利好智能驾驶产业链，包括激光雷达、高精地图、车载芯片等板块，如德赛西威、中科创达等。看多信号。",
+      "reason": "FSD入华是行业重磅催化，对AI和自动驾驶板块有明确提振作用，符合优先级二行业政策变动。",
       "category": "行业动态",
       "impact_stocks": [
-        "风华高科",
-        "三环集团",
-        "MLCC概念"
+        "特斯拉概念",
+        "智能驾驶",
+        "德赛西威",
+        "中科创达"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260520/c676824205.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "MLCC迎来全面涨价",
+      "summary": "华尔街见闻发文指出MLCC（多层陶瓷电容器）行业迎来历史性拐点，从产能过剩转向全面涨价，AI重构被动元件价值。这将显著提升MLCC厂商盈利能力，利好相关个股如风华高科、三环集团、国瓷材料等。看多信号。",
+      "reason": "MLCC涨价是重要的行业景气度信号，直接改善相关公司业绩预期，属于中期影响行情的行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "MLCC概念",
+        "风华高科",
+        "三环集团",
+        "国瓷材料"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "华尔街见闻",
@@ -23,67 +45,27 @@
       "urgency": "days"
     },
     {
-      "title": "英伟达财报倒计时",
-      "summary": "英伟达即将公布财报，市场预期超预期，但华尔街关注AI需求持续性、数据中心业务等五大焦点。若业绩超预期，将提振全球AI算力产业链，A股光模块、服务器、半导体设备等板块受益。短期看多情绪，但需警惕利好兑现。",
-      "reason": "英伟达财报是全球AI产业链的风向标，直接影响A股AI相关板块，属于优先级二海外市场联动。",
-      "category": "行业动态",
+      "title": "A股年度分红创新高",
+      "summary": "A股上市公司年度分红总额创历史新高，反映出公司治理改善和回报股东意愿增强。高分红现象将吸引长期价值投资者和险资等增量资金，对银行、电力、煤炭等高股息板块形成利好。看多信号。",
+      "reason": "分红创新高是市场结构优化的重要信号，有助于提升A股吸引力，符合优先级三市场结构信号。",
+      "category": "市场结构",
       "impact_stocks": [
-        "AI算力",
-        "光模块",
-        "中际旭创",
-        "工业富联"
+        "银行",
+        "电力",
+        "煤炭",
+        "高股息概念"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 2,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772680"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wTUNFMC1hV21qOERKUGFFRXphVnFjenh6NjVTZ1puMWhZS1Y5SWhGdkpRelBNaGdFZnhnd1c2dGphcEJkTzBuN3g2czFFOUFET3dWVUZDLXZNTThyVkFra1ZXU3pVam90Y1h2cHVTdmV3OGtGVThMbg?oc=5"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美银警告芯片股超买风险",
-      "summary": "美银报告指出，美股芯片股已严重超买，历史上7次类似信号后平均暴跌44%。该警告可能引发获利回吐，短期拖累A股半导体板块情绪，尤其是高位品种。但中长期国产替代逻辑不变，属于短期利空。",
-      "reason": "海外市场风险预警，直接传导A股半导体板块，属于优先级二海外市场联动。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "半导体设备",
-        "中芯国际",
-        "北方华创"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772678"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "集运指数欧线期货大涨",
-      "summary": "集运指数欧线期货主力合约日内涨超5%，至2756点。受中东局势紧张、绕行好望角等影响，航运价格持续走高。利好中远海控、招商轮船等航运股，但需关注持续性。",
-      "reason": "航运价格异常波动，影响A股航运板块，属于优先级二行业政策变动。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "中远海控",
-        "招商轮船",
-        "航运板块"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2376237?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "immediate"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 82,
-  "generated_at": "2026-05-20T10:01:22.740183+08:00"
+  "total_fetched": 75,
+  "generated_at": "2026-05-20T10:08:39.906742+08:00"
 }
