@@ -3,15 +3,37 @@
   "hour": "14",
   "news": [
     {
+      "title": "三大指数翻绿近3800股下跌",
+      "summary": "5月21日午后，A股三大指数集体翻绿，沪指跌逾1%，深成指、创业板指均跌超1%，下跌个股近4300只。此前早盘市场一度冲高，创业板指涨超2%，但午后出现明显回落。该走势显示市场分歧加大，短期获利盘回吐压力显著。建议关注后续成交量变化及北向资金动向，短期需谨慎。",
+      "reason": "市场情绪突变，符合优先级三市场情绪信号，成交额极值/涨跌家数极端，影响短期走势判断。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "创业板指"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377778"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377784"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
       "title": "外资4月净流入A股约2000亿",
-      "summary": "外资4月净流入A股约2000亿元，创今年1月以来新高。外资持续流入显示对中国市场的信心，利好A股整体流动性，尤其利好沪深300等核心资产。北向资金是A股重要增量资金，大幅净流入为看多信号。",
-      "reason": "优先级二：资金流向，北向资金大幅净流入是重要看多信号。",
+      "summary": "华尔街见闻报道，2026年4月外资净流入A股约2000亿元人民币，创今年1月以来新高。数据显示外资对A股配置意愿增强，可能受中国经济复苏预期及估值吸引力影响。该资金流入利好A股整体流动性，尤其利好沪深300、上证50等权重股。",
+      "reason": "直接影响行情的重要资金流向信号，属于优先级一北向资金异动，对市场情绪和资金面有积极影响。",
       "category": "资金流向",
       "impact_stocks": [
         "沪深300",
         "上证50",
-        "贵州茅台",
-        "宁德时代"
+        "贵州茅台"
       ],
       "signal": "bullish",
       "impact_level": 4,
@@ -24,48 +46,91 @@
       "urgency": "hours"
     },
     {
-      "title": "AMD采用台积电2nm量产CPU",
-      "summary": "AMD宣布采用台积电2纳米工艺技术量产下一代EPYC处理器“Venice”。此举推动先进制程需求，利好台积电产业链及A股半导体设备、材料公司，如北方华创、中微公司等。2nm技术突破将提升AI算力，进一步催化半导体板块走强。",
-      "reason": "优先级二：行业动态，半导体先进工艺突破利好产业链。",
+      "title": "玻璃基板概念爆发京东方A涨停",
+      "summary": "5月21日，玻璃基板概念股集体爆发，京东方A（000725）以千万手封单涨停，带动相关面板及上游材料股走强。消息面上，华尔街见闻报道“后摩尔时代，玻璃基板或开启新一轮材料革命”，且中国面板龙头与康宁合作。该概念有望成为新热点，利好面板、半导体封装及设备板块。",
+      "reason": "行业新概念爆发，属于优先级二行业政策变动（材料革命），可能带动板块轮动，影响相关个股。",
       "category": "行业动态",
       "impact_stocks": [
-        "半导体设备",
-        "北方华创",
-        "中微公司",
-        "台积电概念"
+        "京东方A",
+        "面板",
+        "半导体封装"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260521/c676862486.shtml"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKZFVKamZzNmxUdjdqaktWYUE5czJyaWttT0Q4dVBLTUE4Q216YmFfZ0daVkxlelNlYjZ3aTNPdHdhTm5aYjJzZWlRSlFjS2hnaTNmUGpGVURKRndLNXRKQThB"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772498"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "阳光电源中标阿联酋7.5GWh储能订单",
-      "summary": "阳光电源中标阿联酋7.5GWh储能订单，项目预计2027年并网。这是公司在中东市场的重大突破，彰显全球储能需求强劲，直接利好阳光电源及逆变器、储能系统供应商。同时提振新能源板块信心，看多储能赛道。",
-      "reason": "优先级二：公司公告，重大订单影响个股及板块。",
-      "category": "公司公告",
+      "title": "葛卫东2个月在A股赚100亿",
+      "summary": "据新浪财经报道，知名投资者葛卫东近两个月在A股盈利约100亿元。其收益主要来自对科技股的精准布局。此案例可能激发散户跟风情绪，吸引更多资金入场，但需警惕过度投机风险。短期对市场情绪有提振作用，但无实质基本面支撑。",
+      "reason": "属于市场情绪信号，优先级三，反映个人投资者巨大收益，可能刺激散户情绪，但需排除纯股评，实际有事实依据。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "阳光电源",
-        "储能",
-        "逆变器",
-        "新能源"
+        "科技股",
+        "沪深300"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oSmdSTk40bkhoTlVIanNUeGlaS0JicUtBY2Z4UUw0c2xJbHpHMWJscERsYXpvYXdWMDJlR2Y3VEF5cE13WEJGNzFMSUh0bVZJaWp4elhhOFVGVC0tZVZldXFBTUZBa294UHRNZjVEMHZHaWhNWlE"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772782"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "东北证券下属公司被提起公诉",
+      "summary": "东北证券旗下公司因涉嫌操纵期货市场罪被提起公诉，去年已被罚没超2000万。该事件可能引发对券商合规风险的担忧，短期利空券商板块。但影响范围有限，主要涉及个别公司。",
+      "reason": "优先级二行业动态，涉及券商违规，可能影响板块情绪。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "东北证券",
+        "券商板块"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53bVNYS0xSYUstZ0REWEw3cWhVLW95OVR4MnlzakJlX2pHd082bmVhOEhKQTV5TTVpSWdxcG9udmlCSkJub3ZWZVVMQW5NendjZDJRUUluMks2eVFiSEswSDJB"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "国际资本持续流出印度股市",
+      "summary": "财联社报道，今年以来全球投资者从印度股市总计撤出约230亿美元，可能因印度估值过高及政策不确定性。资金流出利好新兴市场资金再配置，A股作为估值洼地有望吸引部分外资流入。",
+      "reason": "海外市场资金流动，可能间接影响A股外资流入，属于优先级二海外市场联动。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "外资重仓股"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260521/c676862094.shtml"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377796"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 86,
-  "generated_at": "2026-05-21T14:20:36.520960+08:00"
+  "total_fetched": 78,
+  "generated_at": "2026-05-21T14:42:57.210727+08:00"
 }
