@@ -3,29 +3,48 @@
   "hour": "06",
   "news": [
     {
-      "title": "IBM暴涨 美量子计算计划20亿",
-      "summary": "特朗普政府宣布20亿美元量子计算扶持计划，IBM股价大涨逾11%。该计划可能刺激A股量子计算概念股，如国盾量子、科大国创等，提振市场对相关板块的关注。信号为看多。",
-      "reason": "美国量子计算政策利好，可能带动A股相关板块情绪。",
+      "title": "Waymo暂停高速Robotaxi",
+      "summary": "Alphabet旗下Waymo暂停在旧金山等地高速公路的Robotaxi服务，可能因技术或监管问题。此消息对A股无人驾驶板块构成短期利空，影响百度Apollo、小鹏等合作商。但长期行业趋势不变。",
+      "reason": "全球自动驾驶龙头服务暂停，引发市场对技术成熟度的担忧。",
       "category": "行业动态",
       "impact_stocks": [
-        "量子计算",
-        "国盾量子",
-        "科大国创"
+        "无人驾驶",
+        "百度",
+        "小鹏汽车"
       ],
-      "signal": "bullish",
-      "impact_level": 3,
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378487"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "土耳其股汇暴跌6%",
+      "summary": "土耳其法院判决颠覆最大反对党，股指暴跌6%，国有行抛售60亿美元捍卫里拉。新兴市场风险上升，可能导致全球资金避险，短期对A股情绪形成压制。但直接传导有限。",
+      "reason": "新兴市场动荡影响风险偏好，可能引发北向资金流出。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "上证50"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772866"
+          "url": "https://wallstreetcn.com/articles/3772871"
         }
       ],
       "urgency": "hours"
     },
     {
       "title": "富时A50夜盘涨0.67%",
-      "summary": "富时中国A50指数期货夜盘收涨0.67%，报15406点。该指数跟踪A股大盘蓝筹，夜盘上涨预示次日开盘情绪偏暖，对沪深300、上证50形成正向引导。信号为看多。",
-      "reason": "A50是A股先行指标，上涨对开盘有正面引导。",
+      "summary": "富时A50期指连续夜盘收涨0.67%，报15406点。该指数跟踪A股大盘股，夜盘上涨暗示海外资金对次日A股偏乐观，短期看多信号，尤其利好沪深300成分股。",
+      "reason": "A50直接反映外资对A股情绪，夜盘上涨提振次日市场。",
       "category": "市场情绪",
       "impact_stocks": [
         "沪深300",
@@ -42,54 +61,14 @@
       "urgency": "immediate"
     },
     {
-      "title": "特朗普增兵波兰 地缘紧张",
-      "summary": "特朗普宣布将向波兰增派5000名美军，加剧欧洲地缘紧张局势。可能引发市场避险情绪，对A股军工板块（如中航沈飞、中兵红箭）有一定提振，但对整体市场情绪偏空。综合信号为中性。",
-      "reason": "地缘政治事件影响风险偏好，军工股可能受益。",
+      "title": "韩国消费者信心大升至106",
+      "summary": "韩国5月消费者信心指数106.1，前值99.2，大幅回升超预期。作为亚洲经济风向标，韩国消费回暖对A股消费电子、半导体等出口导向板块有积极溢出效应，看多信号。",
+      "reason": "韩国经济数据好转提振区域市场情绪，利好相关产业链。",
       "category": "宏观经济",
       "impact_stocks": [
-        "军工板块",
-        "中航沈飞",
-        "中兵红箭"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378479"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "Waymo暂停Robotaxi服务",
-      "summary": "Alphabet旗下Waymo暂停在美国四个城市的高速Robotaxi服务，可能引发对自动驾驶安全性的担忧，利空A股无人驾驶概念股，如百度、小鹏汽车、德赛西威等。信号为看空。",
-      "reason": "自动驾驶领头羊暂停服务，短期情绪利空相关板块。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "无人驾驶",
-        "百度",
-        "小鹏汽车",
-        "德赛西威"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378487"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "韩国消费信心指数回升",
-      "summary": "韩国5月消费者信心指数106.1，前值99.2，大幅回升，显示亚太经济回暖趋势，对A股出口及消费板块有正面影响。信号为看多。",
-      "reason": "亚洲经济先行指标好转，提振市场信心。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "出口板块",
-        "消费板块"
+        "消费电子",
+        "半导体",
+        "新能源汽车"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -99,9 +78,69 @@
           "url": "https://api3.cls.cn/share/article/2378481"
         }
       ],
+      "urgency": "hours"
+    },
+    {
+      "title": "雷军：五年2000亿研发",
+      "summary": "小米集团雷军宣布未来五年计划投入至少2000亿元研发费用。巨量研发投入显示小米对智能汽车、AI等前沿领域的决心，利好小米供应链及小米概念股。看多信号。",
+      "reason": "龙头公司大规模研发投入对产业链有提振作用。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "小米概念",
+        "智能汽车",
+        "消费电子"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772868"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "英伟达将办金融业活动",
+      "summary": "英伟达宣布即将面向金融界举办活动，可能推广AI在金融领域的应用。此消息利好A股金融科技、AI概念股，如恒生电子、同花顺等。看多信号。",
+      "reason": "英伟达作为AI龙头，面向金融业活动预示行业加速落地。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "金融科技",
+        "AI概念",
+        "恒生电子"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378482"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美矿业项目获29亿贷款",
+      "summary": "美国政府向保尔森力挺的爱达荷州矿业项目提供29亿美元贷款，旨在提升关键矿物自主。此消息可能提振A股矿业板块，尤其稀土、锂矿等稀缺资源。看多信号。",
+      "reason": "美国加大矿业投入或引发全球资源竞争，利好资源股。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "矿业",
+        "稀土",
+        "锂矿"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378491"
+        }
+      ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 31,
-  "generated_at": "2026-05-22T06:01:11.583674+08:00"
+  "total_fetched": 35,
+  "generated_at": "2026-05-22T06:10:52.620840+08:00"
 }
