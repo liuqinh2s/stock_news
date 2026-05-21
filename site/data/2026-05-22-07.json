@@ -3,56 +3,123 @@
   "hour": "07",
   "news": [
     {
-      "title": "美国PMI跳涨创48月新高",
-      "summary": "美国5月制造业PMI初值跳涨至51.4，创48个月最高，但分项显示价格压力加剧，经济呈现滞胀特征。这可能引发美联储维持紧缩预期，对A股构成外需利好但压制风险偏好。影响出口导向型板块和利率敏感板块。信号偏空，因滞胀利空风险偏好。",
-      "reason": "美国关键经济数据超预期，但滞胀信号可能加剧全球流动性收紧预期，影响A股情绪和外资流入。",
-      "category": "宏观经济",
+      "title": "119.6亿限售股解禁",
+      "summary": "今日A股市场有119.6亿元市值限售股解禁，涉及多家上市公司。限售股解禁通常意味着抛压增加，对相关个股及整体市场构成资金面压力。需关注解禁比例较大的个股，如部分中小市值公司。该消息为短期利空信号。",
+      "reason": "直接影响市场资金面，解禁规模较大，可能引发抛售。",
+      "category": "资金流向",
       "impact_stocks": [
-        "出口贸易",
-        "纺织服装",
-        "机电产品"
+        "沪深300",
+        "中小盘"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/member/articles/3772870"
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CamhsZDBycmNaaGh4OXdsc1g5OVNZb19DaDRmRDBWWFdBV2dmcFVHay11U0p4d3N1OWh4WUpGQV81bWlxWTNjWXBGQkVRWmktVFNOZENDUU5MamRBYVRzdTdlTW1vNFRLeWI2VXZhS1E1blNJSGFfZg?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "外资巨头增持中概股",
-      "summary": "据财联社报道，多家外资巨头在2026年一季度大举增持中概股，包括阿里巴巴、拼多多等。这表明外资对中国资产的信心回升，有望带动A股科技和互联网相关板块情绪。信号看多。",
-      "reason": "外资增持是积极信号，可能带动北向资金流入，利好A股相关板块。",
-      "category": "资金流向",
+      "title": "芯片龙头深夜利好",
+      "summary": "深夜传出A股芯片龙头重大利好消息，可能涉及并购、大订单或政策支持。芯片板块近期受AI算力需求驱动持续活跃，此消息有望进一步提振板块情绪，带动半导体产业链个股走强。短期看多信号。",
+      "reason": "芯片龙头重大利好，可能引发板块共振，符合当前AI算力主线。",
+      "category": "行业动态",
       "impact_stocks": [
-        "中概互联",
-        "恒生科技",
-        "阿里巴巴",
-        "腾讯控股"
+        "半导体",
+        "AI算力",
+        "中芯国际"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378497?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mTWM3ZVVNdWJLSWozVVcyTkJHS1lFUmtxNnlSXzZhdWJxTzItTnVMbFhwdUFGZEFoWDRRbEJ0RFNBRG01TGtyMFBSN200QzZ3YkJQUlFseF8wdFVWa2hNR1Z1b3ZmemgtRDUwTHBsbjdWT3Q4OHRFYQ?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "中国铝业投120万吨氧化铝",
+      "summary": "中国铝业公告拟投资建设120万吨氧化铝项目，扩大产能。此举将增强公司资源自给能力，巩固行业龙头地位，但需关注氧化铝价格走势及项目回报。对铝产业链构成长期利好，短期情绪偏多。",
+      "reason": "公司重大投资，影响铝行业供需格局，利好中国铝业及上游资源。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "中国铝业",
+        "有色金属",
+        "氧化铝"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260522/c676884586.shtml"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "光纤量价齐升利好龙头",
-      "summary": "随着数据中心建设需求旺盛，光纤光缆行业量价齐升。龙头公司如长飞光纤、亨通光电等受益于算力网络建设。该消息利好通信设备板块，信号看多。",
-      "reason": "行业景气度提升，直接利好光纤光缆上市公司，属于行业动态。",
+      "title": "华为发布AI DC全栈方案",
+      "summary": "华为发布AI数据中心（AIDC）数据基础设施全栈方案，涵盖算力、存力、运力等。此举进一步强化华为在AI基础设施领域的布局，利好华为产业链及国产算力相关公司，如服务器、光模块、液冷等。看多信号。",
+      "reason": "华为重磅发布，直接利好AI算力产业链，符合市场主线。",
       "category": "行业动态",
       "impact_stocks": [
+        "华为产业链",
+        "AI算力",
+        "光模块",
+        "服务器"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260522/c676884502.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378525?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "联想业绩超预期大增",
+      "summary": "联想集团公布2025/26财年业绩，收入830.75亿美元同比增长20%，净利润19.1亿美元超预期。AI PC及服务器业务驱动增长。利好联想产业链及消费电子、AI服务器板块，A股相关供应商有望受益。看多信号。",
+      "reason": "业绩超预期，显示AI PC和服务器需求强劲，对A股相关标的有提振。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "联想供应链",
+        "消费电子",
+        "AI服务器"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260522/c676884490.shtml"
+        },
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378527?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "光纤量价齐升利好龙头",
+      "summary": "光纤光缆行业量价齐升，受益于数据中心“算力底座”需求。龙头公司订单饱满，盈利有望改善。通信板块及光纤光缆个股（长飞光纤、亨通光电等）迎来基本面催化。看多信号。",
+      "reason": "行业供需改善量价齐升，直接影响相关公司业绩，板块效应明显。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "光纤光缆",
         "长飞光纤",
         "亨通光电",
-        "中天科技",
-        "光纤光缆"
+        "通信"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -65,89 +132,87 @@
       "urgency": "days"
     },
     {
-      "title": "银价急跌利空白银股",
-      "summary": "受多重利空因素影响，国际银价急跌。机构认为短期上行阻力较大。利空白银相关概念股，如兴业矿业、盛达资源等。信号看空。",
-      "reason": "大宗商品价格下跌直接利空相关资源股，属于短期负面因素。",
-      "category": "市场情绪",
+      "title": "首期注资特别国债发行",
+      "summary": "今年首期注资特别国债发行，主要用于补充大型银行资本金。此举增强银行体系稳健性，提升信贷投放能力，利好银行板块及整体金融环境。财政政策积极信号，看多。",
+      "reason": "相当于财政注资银行，直接利好银行股，稳定市场预期。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "白银",
-        "贵金属",
-        "兴业矿业",
-        "盛达资源"
+        "银行",
+        "大型商业银行"
       ],
-      "signal": "bearish",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260522/c676883922.shtml"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378500?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "全球流动性收紧预期升温",
-      "summary": "市场对全球流动性收紧的预期升温，各国央行可能加快紧缩步伐。这将对A股高估值成长股构成压力，建议配置抗波动资产。信号偏空，影响整体市场情绪。",
-      "reason": "流动性预期变化是影响股市的重要因素，当前收紧预期利空A股。",
+      "title": "美联储新主席沃什就职",
+      "summary": "新任美联储主席沃什于5月22日上午宣誓就职。市场关注其货币政策立场，可能延续或调整现有政策。短期影响中性，但需观察后续讲话。对全球资产包括A股影响待评估。",
+      "reason": "美联储换帅是重大事件，但市场已有预期，短期中性。",
+      "category": "货币政策",
+      "impact_stocks": [
+        "沪深300",
+        "外资重仓股"
+      ],
+      "signal": "neutral",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378499?os=web&sv=8.4.6&app=CailianpressWeb"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3107644"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美国PMI跳涨存滞胀风险",
+      "summary": "美国5月制造业PMI初值跳升至48个月高点，但价格指数亦攀升，暗示经济过热与通胀顽固。市场对滞胀担忧升温，可能推迟降息预期，利空全球风险资产，A股情绪承压。看空信号。",
+      "reason": "美国经济数据强劲但滞胀风险，提升外部不确定性，对A股偏空。",
       "category": "宏观经济",
       "impact_stocks": [
         "沪深300",
-        "创业板",
-        "成长股"
+        "出口板块"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260522/c676883895.shtml"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3772870"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "减重神药或抑制癌症",
-      "summary": "科学研究发现减重神药可能抑制癌症发展，这对诺和诺德、礼来等公司是重磅利好。A股相关概念股如药明康德、凯莱英等可能受益于GLP-1产业链情绪。信号看多。",
-      "reason": "海外医药重大突破可能带动A股创新药和CXO板块情绪，属于行业利好。",
-      "category": "行业动态",
+      "title": "量子计算概念股爆发",
+      "summary": "受IBM股价大涨及特朗普政府20亿美元量子计算扶持计划刺激，美股量子计算概念股爆发，预计将带动A股量子计算板块（国盾量子、科大国创等）跟涨。短期情绪利多。",
+      "reason": "美股映射+政策利好，A股量子计算概念具备炒作空间。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "药明康德",
-        "凯莱英",
-        "GLP-1概念",
-        "创新药"
+        "量子计算",
+        "国盾量子",
+        "科大国创"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772873"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103195470.html"
         }
       ],
-      "urgency": "days"
-    },
-    {
-      "title": "蔚来称汽车成本压力大",
-      "summary": "蔚来CEO李斌表示汽车行业成本压力大，但蔚来成交均价超过宝马、奥迪，显示出品牌溢价。这一言论暗示新能源汽车行业竞争激烈、盈利承压，对板块情绪偏空，但蔚来自身品牌力强。影响新能源车板块。",
-      "reason": "行业领袖言论反映行业困境，可能压制新能源车板块估值。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "蔚来",
-        "理想汽车",
-        "小鹏汽车",
-        "新能源汽车"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772869"
-        }
-      ],
-      "urgency": "days"
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 46,
-  "generated_at": "2026-05-22T07:01:17.892889+08:00"
+  "total_fetched": 61,
+  "generated_at": "2026-05-22T07:50:44.833022+08:00"
 }

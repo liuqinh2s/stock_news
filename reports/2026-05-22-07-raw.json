@@ -1,92 +1,218 @@
 {
   "date": "2026-05-22",
   "hour": "07",
-  "total": 46,
-  "fetched_at": "2026-05-22T07:00:31.298596+08:00",
+  "total": 61,
+  "fetched_at": "2026-05-22T07:50:06.676102+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "富国MSCI中国A股国际通指数增强A净值下跌1.75% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUFpVDJRUmFWT0Y5cWhkMmxuUHlUWVVyNko5NWxmb3hXWUVnWWZFQnBxNmJObGo3VWJ5ak1xY2RIZ3owMEtMTTV0QlMtWnFSenFPSnR1TVZBNVFUZHpXTXhnYk1iTWpHVmIyUXo4R0JROVFPMTY0TXBuWmNhUmEtV3FNaHdhTktNNDJGaGN0ZTVTNUpMX0Rr?oc=5\" target=\"_blank\">富国MSCI中国A股国际通指数增强A净值下跌1.75%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUFpVDJRUmFWT0Y5cWhkMmxuUHlUWVVyNko5NWxmb3hXWUVnWWZFQnBxNmJObGo3VWJ5ak1xY2RIZ3owMEtMTTV0QlMtWnFSenFPSnR1TVZBNVFUZHpXTXhnYk1iTWpHVmIyUXo4R0JROVFPMTY0TXBuWmNhUmEtV3FNaHdhTktNNDJGaGN0ZTVTNUpMX0Rr?oc=5",
-      "published": "Thu, 21 May 2026 21:42:00 GMT"
+      "title": "A股限售股解禁一览：119.6亿元市值限售股今日解禁 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9CamhsZDBycmNaaGh4OXdsc1g5OVNZb19DaDRmRDBWWFdBV2dmcFVHay11U0p4d3N1OWh4WUpGQV81bWlxWTNjWXBGQkVRWmktVFNOZENDUU5MamRBYVRzdTdlTW1vNFRLeWI2VXZhS1E1blNJSGFfZg?oc=5\" target=\"_blank\">A股限售股解禁一览：119.6亿元市值限售股今日解禁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CamhsZDBycmNaaGh4OXdsc1g5OVNZb19DaDRmRDBWWFdBV2dmcFVHay11U0p4d3N1OWh4WUpGQV81bWlxWTNjWXBGQkVRWmktVFNOZENDUU5MamRBYVRzdTdlTW1vNFRLeWI2VXZhS1E1blNJSGFfZg?oc=5",
+      "published": "Thu, 21 May 2026 23:31:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "建信MSCI中国A股指数增强C净值下跌1.56% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSzlSMVRvLXJyRFNrelFJai1od01uYVN5cHdmTE4yYjhLbVBrVFA2SlhiQlZ6d0tPWkpzUFZzXzFjVUxfeVlhX1QtaS1GVUNoMjREMmlIS1ZzN2RJdWNOYmJNNnI2eDRzS2VUN2prTWtKblVNaUYtRWlVUW0tMVFZZnVybnh1X28ydHc5X2kzMkNYeWRzeFdF?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强C净值下跌1.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "深夜利好！A股芯片龙头，大消息 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9mTWM3ZVVNdWJLSWozVVcyTkJHS1lFUmtxNnlSXzZhdWJxTzItTnVMbFhwdUFGZEFoWDRRbEJ0RFNBRG01TGtyMFBSN200QzZ3YkJQUlFseF8wdFVWa2hNR1Z1b3ZmemgtRDUwTHBsbjdWT3Q4OHRFYQ?oc=5\" target=\"_blank\">深夜利好！A股芯片龙头，大消息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mTWM3ZVVNdWJLSWozVVcyTkJHS1lFUmtxNnlSXzZhdWJxTzItTnVMbFhwdUFGZEFoWDRRbEJ0RFNBRG01TGtyMFBSN200QzZ3YkJQUlFseF8wdFVWa2hNR1Z1b3ZmemgtRDUwTHBsbjdWT3Q4OHRFYQ?oc=5",
+      "published": "Thu, 21 May 2026 22:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股股票回购一览：21家公司披露回购进展 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBvRW9GLXMwemYxNXRXQXA2WUVtaEtQQzA3NmdXUFNSNWQ2VnZZM2F1NlZyd0E3ejR1VUl4b19CN3RhRzFpNlVSZDF1aGdaakYzd0w0VDB5WDdVLUlLdnZBTmM2cEJoNzlpeHpScG5kZF9HMjlOTGlkZw?oc=5\" target=\"_blank\">A股股票回购一览：21家公司披露回购进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvRW9GLXMwemYxNXRXQXA2WUVtaEtQQzA3NmdXUFNSNWQ2VnZZM2F1NlZyd0E3ejR1VUl4b19CN3RhRzFpNlVSZDF1aGdaakYzd0w0VDB5WDdVLUlLdnZBTmM2cEJoNzlpeHpScG5kZF9HMjlOTGlkZw?oc=5",
+      "published": "Thu, 21 May 2026 23:30:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "多家机构看多煤价：A股“色舞”之后何时“煤飞”？ - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZX043S00tZTRBNkxCU1VMQUk3WTQtXzhkMUx2VlBuNzNMNmU5MWtfR1pHLVg4VHFiYzlJelB3OFN2N21tV3F0bUxoWTgzaElGZl80bnBXVmo5Vk1wY2VjVEdqLU1UTDZLWnRZWnVsUTFrMUZ6ek4tZA?oc=5\" target=\"_blank\">多家机构看多煤价：A股“色舞”之后何时“煤飞”？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZX043S00tZTRBNkxCU1VMQUk3WTQtXzhkMUx2VlBuNzNMNmU5MWtfR1pHLVg4VHFiYzlJelB3OFN2N21tV3F0bUxoWTgzaElGZl80bnBXVmo5Vk1wY2VjVEdqLU1UTDZLWnRZWnVsUTFrMUZ6ek4tZA?oc=5",
+      "published": "Thu, 21 May 2026 22:13:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1N4V2lXb2pkVHdOcFc3b2xzbkE2Z0dtUnhGYjRmQ2s3WkZaaXlsb01WWWdYR0RpbFNhaUdXOUpQenM1dVpOUzdNMDZLelJ1SExLQjJ3SXNYb0JoVWhtaWVJSUZFLUhGemFoM1BnS2xCdkNNRXA2SldKWXNNTFd6SGNXOVRrU0JEMUdXOU5oQnBCZjFYYkRF?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1N4V2lXb2pkVHdOcFc3b2xzbkE2Z0dtUnhGYjRmQ2s3WkZaaXlsb01WWWdYR0RpbFNhaUdXOUpQenM1dVpOUzdNMDZLelJ1SExLQjJ3SXNYb0JoVWhtaWVJSUZFLUhGemFoM1BnS2xCdkNNRXA2SldKWXNNTFd6SGNXOVRrU0JEMUdXOU5oQnBCZjFYYkRF?oc=5",
+      "published": "Thu, 21 May 2026 23:41:09 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华安中国A股增强指数净值下跌1.72% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0RUS0kwZGZnY2ZJYmZyUWVBdzFJVm1EM3pMNWhibHVYWTg3N0FqYmVZVlMxbHNQcXlSTDJKNGRXRzhsUlRGVzZNajk3Q3VnUGZGSG9NdkJ2RWQyeGtpdDdlanR5V1c1MHl2WlhVN2hjVzVrYUk4YWtvcS1TWTJ5RE00V2MwMXhSVEVlVEdaT2pFcHdEZ04w?oc=5\" target=\"_blank\">华安中国A股增强指数净值下跌1.72%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV0RUS0kwZGZnY2ZJYmZyUWVBdzFJVm1EM3pMNWhibHVYWTg3N0FqYmVZVlMxbHNQcXlSTDJKNGRXRzhsUlRGVzZNajk3Q3VnUGZGSG9NdkJ2RWQyeGtpdDdlanR5V1c1MHl2WlhVN2hjVzVrYUk4YWtvcS1TWTJ5RE00V2MwMXhSVEVlVEdaT2pFcHdEZ04w?oc=5",
+      "published": "Thu, 21 May 2026 23:31:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "广发恒生A股电网设备ETF净值下跌4.78% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFZNTm1TUFBic0h4SDJZYnBqY0tGT0ZsT2xiOXFxNUZmQ2RhQU9mTkFmcXlfZTYzdDhWYWFaak51dDNBalltSHhaRDdtVW9DVndYVlhwUjFhWGxyZXgtZkNMZmlPdGRPd2tFUTZLX1ZfR29iTjB0Wkd0YTQ1a3pHX0tZMDVzTlcwSnltdzlMbEJzWWRvbTVN?oc=5\" target=\"_blank\">广发恒生A股电网设备ETF净值下跌4.78%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaFZNTm1TUFBic0h4SDJZYnBqY0tGT0ZsT2xiOXFxNUZmQ2RhQU9mTkFmcXlfZTYzdDhWYWFaak51dDNBalltSHhaRDdtVW9DVndYVlhwUjFhWGxyZXgtZkNMZmlPdGRPd2tFUTZLX1ZfR29iTjB0Wkd0YTQ1a3pHX0tZMDVzTlcwSnltdzlMbEJzWWRvbTVN?oc=5",
+      "published": "Thu, 21 May 2026 23:33:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "天弘富时中国A股自由现金流聚焦指数A净值下跌2.08% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUFoVkUzMnZ6Q0tlUnNuZ25GQW9JXzV2WEpIN2FPOFdISW9uV1BnZFU1N2Y2b3d6RktYSUZ6UGZaWkZvaXlQdFAwNGJ6UGw1ZDZYa2hiSjlFdkROUHlMMmN6bXBhX0x6X2VWaEhlYUJtb284NTVLMUlrcF9ycmZPX2VVOFpnVnVJWW5XcEJVclRha21UOTk0?oc=5\" target=\"_blank\">天弘富时中国A股自由现金流聚焦指数A净值下跌2.08%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVUFoVkUzMnZ6Q0tlUnNuZ25GQW9JXzV2WEpIN2FPOFdISW9uV1BnZFU1N2Y2b3d6RktYSUZ6UGZaWkZvaXlQdFAwNGJ6UGw1ZDZYa2hiSjlFdkROUHlMMmN6bXBhX0x6X2VWaEhlYUJtb284NTVLMUlrcF9ycmZPX2VVOFpnVnVJWW5XcEJVclRha21UOTk0?oc=5",
+      "published": "Thu, 21 May 2026 23:22:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "建信中证A股指数增强发起A净值下跌2.59% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjhXVlpYUkxhdHNRbk9ObDdBSFNBYnNYTGdhUEhzM3owV0ZxZlhJQjdXdnEtRE9FNWtzS184THMyUDVQcWlzYVpjRHdGMEVEX25DSWt2MmhZYThJb2VKTzFMVXg0OC1nUE9LVDViVVJSQ3hWSkYwNlA2VW9WbjV0OGkyTjhvaFBmSXBOVjdpN0FCemsyVHdF?oc=5\" target=\"_blank\">建信中证A股指数增强发起A净值下跌2.59%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjhXVlpYUkxhdHNRbk9ObDdBSFNBYnNYTGdhUEhzM3owV0ZxZlhJQjdXdnEtRE9FNWtzS184THMyUDVQcWlzYVpjRHdGMEVEX25DSWt2MmhZYThJb2VKTzFMVXg0OC1nUE9LVDViVVJSQ3hWSkYwNlA2VW9WbjV0OGkyTjhvaFBmSXBOVjdpN0FCemsyVHdF?oc=5",
+      "published": "Thu, 21 May 2026 23:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "富国MSCI中国A股国际通指数增强C净值下跌1.74% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWkxemtoM1IyaTJCa3BTR1BQa2pKT3hJTFBIWFExVXZrTTVjeENWTjJ2QkRraWVTTzZKSWpUTGtHWkdtNVd5MlkycEZROENPRUFuMWFhY283UTVNSldmZlp4U3Q4U3ZaWWVRLURqTXlXMGlqYm5paHNiaDN1cW9yS0RZYTBOeFp1OFM1c0NLejd4LVN6aE9z?oc=5\" target=\"_blank\">富国MSCI中国A股国际通指数增强C净值下跌1.74%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWkxemtoM1IyaTJCa3BTR1BQa2pKT3hJTFBIWFExVXZrTTVjeENWTjJ2QkRraWVTTzZKSWpUTGtHWkdtNVd5MlkycEZROENPRUFuMWFhY283UTVNSldmZlp4U3Q4U3ZaWWVRLURqTXlXMGlqYm5paHNiaDN1cW9yS0RZYTBOeFp1OFM1c0NLejd4LVN6aE9z?oc=5",
+      "published": "Thu, 21 May 2026 22:31:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "建信MSCI中国A股指数增强C净值下跌1.56% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSzlSMVRvLXJyRFNrelFJai1od01uYVN5cHdmTE4yYjhLbVBrVFA2SlhiQlZ6d0tPWkpzUFZzXzFjVUxfeVlhX1QtaS1GVUNoMjREMmlIS1ZzN2RJdWNOYmJNNnI2eDRzS2VUN2prTWtKblVNaUYtRWlVUW0tMVFZZnVybnh1X28ydHc5X2kzMkNYeWRzeFdF?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强C净值下跌1.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSzlSMVRvLXJyRFNrelFJai1od01uYVN5cHdmTE4yYjhLbVBrVFA2SlhiQlZ6d0tPWkpzUFZzXzFjVUxfeVlhX1QtaS1GVUNoMjREMmlIS1ZzN2RJdWNOYmJNNnI2eDRzS2VUN2prTWtKblVNaUYtRWlVUW0tMVFZZnVybnh1X28ydHc5X2kzMkNYeWRzeFdF?oc=5",
       "published": "Thu, 21 May 2026 21:52:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "建信MSCI中国A股指数增强A净值下跌1.56% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm1NQWZwcVFpV1hUQUF4QXJUQTgzN3paeTRPUGVkaHEwdnlnTGJXYk5sM2xmUnl1azR0QmFoZWNoSzh6R2tZbC1QUHdPS0dCMDB6YUlSSzh6SlJfNU1NTFlYTjJRcGJLX19DekVPR3ZqbVgwb2Qza2NGeDlVc3kyV2pYaTRMbjZ4OFI5bjdFa1cyUF9RUnBj?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强A净值下跌1.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "建信MSCI中国A股指数增强A净值下跌1.56% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm1NQWZwcVFpV1hUQUF4QXJUQTgzN3paeTRPUGVkaHEwdnlnTGJXYk5sM2xmUnl1azR0QmFoZWNoSzh6R2tZbC1QUHdPS0dCMDB6YUlSSzh6SlJfNU1NTFlYTjJRcGJLX19DekVPR3ZqbVgwb2Qza2NGeDlVc3kyV2pYaTRMbjZ4OFI5bjdFa1cyUF9RUnBj?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强A净值下跌1.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTm1NQWZwcVFpV1hUQUF4QXJUQTgzN3paeTRPUGVkaHEwdnlnTGJXYk5sM2xmUnl1azR0QmFoZWNoSzh6R2tZbC1QUHdPS0dCMDB6YUlSSzh6SlJfNU1NTFlYTjJRcGJLX19DekVPR3ZqbVgwb2Qza2NGeDlVc3kyV2pYaTRMbjZ4OFI5bjdFa1cyUF9RUnBj?oc=5",
       "published": "Thu, 21 May 2026 21:52:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "前海开源MSCI中国A股消费C净值下跌0.22% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3pqb3lsVFNDNndtem5SaWlOLV9PcFg3V2hzYVN2aWFlUTJzNTBDM2VvbzB2eEpTZXZhNmw0YWRILTU3eWxfZ016WC1oTDBWS0Y2WWZ5N1UzdnM3a0tVUFdXdjJUcUJZWUFiajhJNFROLVZRUnZzdEdubTBQWFZtbjE3ZjNSQmNPTFAwYlRCaEozc2VWRm1n?oc=5\" target=\"_blank\">前海开源MSCI中国A股消费C净值下跌0.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3pqb3lsVFNDNndtem5SaWlOLV9PcFg3V2hzYVN2aWFlUTJzNTBDM2VvbzB2eEpTZXZhNmw0YWRILTU3eWxfZ016WC1oTDBWS0Y2WWZ5N1UzdnM3a0tVUFdXdjJUcUJZWUFiajhJNFROLVZRUnZzdEdubTBQWFZtbjE3ZjNSQmNPTFAwYlRCaEozc2VWRm1n?oc=5",
-      "published": "Thu, 21 May 2026 21:46:00 GMT"
+      "title": "国泰MSCI中国A股ESG通用ETF净值下跌1.28% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcE1iZy1RUXpZOGJkRHZKUXlEZXItMnQ4SGZXNU4wVV8yNGVJSnRlVjltWkZ5bFE5RE9uSC1sanVUYlRSVzRyR2twcmx5ZnQ4YVJ5R1NrZmNuRGpfSFlBNkkycEViM0tEc3RZbGRYUEszX2wxU2JEUTJtdmhLME1jMDRrMllXNzhQNDI0eHcyd2ZnUUFzRndj?oc=5\" target=\"_blank\">国泰MSCI中国A股ESG通用ETF净值下跌1.28%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcE1iZy1RUXpZOGJkRHZKUXlEZXItMnQ4SGZXNU4wVV8yNGVJSnRlVjltWkZ5bFE5RE9uSC1sanVUYlRSVzRyR2twcmx5ZnQ4YVJ5R1NrZmNuRGpfSFlBNkkycEViM0tEc3RZbGRYUEszX2wxU2JEUTJtdmhLME1jMDRrMllXNzhQNDI0eHcyd2ZnUUFzRndj?oc=5",
+      "published": "Thu, 21 May 2026 23:34:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "前海开源MSCI中国A股消费A净值下跌0.21% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpsUXdlNEl6TE5JOW1BSlkxLW03enpSZkp5Q3NqZHFYT3hsWHFXNVc4cExqZFZ5WURwZ1A2NEhaaTRKTVQ1MllPeUlOVkg1aV8xNUl0bFdrUlA2N1ZRN2FGMUZIb3preWtHU0haVjV4TjNVLTNDQ3F3ZGxqUzM2TzFsM09NRzNLUUFmblpEV0YtYXF4WnRV?oc=5\" target=\"_blank\">前海开源MSCI中国A股消费A净值下跌0.21%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmpsUXdlNEl6TE5JOW1BSlkxLW03enpSZkp5Q3NqZHFYT3hsWHFXNVc4cExqZFZ5WURwZ1A2NEhaaTRKTVQ1MllPeUlOVkg1aV8xNUl0bFdrUlA2N1ZRN2FGMUZIb3preWtHU0haVjV4TjNVLTNDQ3F3ZGxqUzM2TzFsM09NRzNLUUFmblpEV0YtYXF4WnRV?oc=5",
-      "published": "Thu, 21 May 2026 21:46:00 GMT"
+      "title": "国泰富时中国A股自由现金流聚焦ETF发起联接C净值下跌2.06% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmNUcF9UU2xGUjFVTVV4eHVqODRiSWJUWXJwY2ZCVlllRUVHVWNZWVE3R01YZE9mM2hxaUhlX0E3UzZNOFptWHRnTHJUUE8wSy1VZ2pFaFRXWnNPVkFzN1lKaDEwTFRGRks2VkhMWWFKUWF6amU2a2ljSnhVb19oNFhxMGpYODNCcnI4Uk1FVVF0QnctUFQ0?oc=5\" target=\"_blank\">国泰富时中国A股自由现金流聚焦ETF发起联接C净值下跌2.06%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmNUcF9UU2xGUjFVTVV4eHVqODRiSWJUWXJwY2ZCVlllRUVHVWNZWVE3R01YZE9mM2hxaUhlX0E3UzZNOFptWHRnTHJUUE8wSy1VZ2pFaFRXWnNPVkFzN1lKaDEwTFRGRks2VkhMWWFKUWF6amU2a2ljSnhVb19oNFhxMGpYODNCcnI4Uk1FVVF0QnctUFQ0?oc=5",
+      "published": "Thu, 21 May 2026 23:19:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "南方MSCI中国A股国际通ETF发起联接E净值下跌1.61% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHl2aEhjNmRWb2I1bDNvUk1oUmpPbkI4eWJYMG5LR0JhS2plNmFtcGd4T2hPMEtZQlFGYjFZenpqd056aktISmJiaUcwY3NYR3BKN1lzbU9hZXJWajVBWmtpWWl0SEthbFU1aTdlVVo1UnZXNkxLb0lLX1pwVjVkZkhvNzVfZFNmbkFWZ3VhQmF0bkVNeVlj?oc=5\" target=\"_blank\">南方MSCI中国A股国际通ETF发起联接E净值下跌1.61%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "国泰恒生A股电网设备ETF发起联接A净值下跌4.51% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORDl4RUlMM1hXTjFIVnZSTDhHNDdkOEp1bkRld2lER2NrM1llTWRTSHI0SE5ucExYcTdwbEM0NDdiNi0yMVFaNGVtOTVUTkx2RjBzUEFWUTJabUhaVmV2M0NBYjhldHY3M3RBX3ZFaDVHNnNObW9qRGI1cVc0UWV1S2c4ZlpIZWgzOXpTT1dEcTZOVTc0VFFR?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF发起联接A净值下跌4.51%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORDl4RUlMM1hXTjFIVnZSTDhHNDdkOEp1bkRld2lER2NrM1llTWRTSHI0SE5ucExYcTdwbEM0NDdiNi0yMVFaNGVtOTVUTkx2RjBzUEFWUTJabUhaVmV2M0NBYjhldHY3M3RBX3ZFaDVHNnNObW9qRGI1cVc0UWV1S2c4ZlpIZWgzOXpTT1dEcTZOVTc0VFFR?oc=5",
+      "published": "Thu, 21 May 2026 23:18:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华泰柏瑞中证A股ETF发起式联接C净值下跌1.84% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHkzVDRoMVVNcGw0TWJkSkVPZDBxUGZTNWN1SXZvZnYtNTNMZ1BpbzV0bEpZMEF5UVNoZGtfRVVQcjRfVHdIeXB0UFdQWUxDSjBUaWtIX3NCN3dUU3F6R3hwTmZVb1AyZVBvQ2x3SnljUkVWZ0ZSak4wZFVNa1FyVVF5dTlsMWhET1ljdjJtM3lfN1RUMlpR?oc=5\" target=\"_blank\">华泰柏瑞中证A股ETF发起式联接C净值下跌1.84%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHkzVDRoMVVNcGw0TWJkSkVPZDBxUGZTNWN1SXZvZnYtNTNMZ1BpbzV0bEpZMEF5UVNoZGtfRVVQcjRfVHdIeXB0UFdQWUxDSjBUaWtIX3NCN3dUU3F6R3hwTmZVb1AyZVBvQ2x3SnljUkVWZ0ZSak4wZFVNa1FyVVF5dTlsMWhET1ljdjJtM3lfN1RUMlpR?oc=5",
+      "published": "Thu, 21 May 2026 23:17:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "富国恒生A股专精特新企业ETF发起式联接C净值下跌3.98% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHJwUmh3T0dnWll3ME02ZUZfTE5jaFlTTFJIVGpEZHNQNWswYVA3R3djM0RicGh2SUFPOE1IRldYblFPT2lud04xUTRLNk9iY2NCSlplNjY0eGdaelFVZ2szMzEwMzVmbkNCV3BsUDR2UWtzVjl5dncyeFBfRnVKUzltbFJuVjNKTnFfTHk3eEVmUHRoZFNF?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF发起式联接C净值下跌3.98%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHJwUmh3T0dnWll3ME02ZUZfTE5jaFlTTFJIVGpEZHNQNWswYVA3R3djM0RicGh2SUFPOE1IRldYblFPT2lud04xUTRLNk9iY2NCSlplNjY0eGdaelFVZ2szMzEwMzVmbkNCV3BsUDR2UWtzVjl5dncyeFBfRnVKUzltbFJuVjNKTnFfTHk3eEVmUHRoZFNF?oc=5",
+      "published": "Thu, 21 May 2026 23:20:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰恒生A股电网设备ETF发起联接C净值下跌4.51% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0w1anZFVTBrTmtoVG9UaDVlMzJnbDh1UU9KNVhpTTNyZ2JENUotNXJOcnBFelhvY2lEQUl0X2NGQmJtY1IxVTJCeWFybUxtekxCLXFJV2xINHB6RjRiQnp1QzdvbFFqMElkZElSZ28wczk3WXVibnY3MjI1NVBkNFNMWk4zc3NFOWRKSXNpdmdmU1R0WDFz?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF发起联接C净值下跌4.51%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0w1anZFVTBrTmtoVG9UaDVlMzJnbDh1UU9KNVhpTTNyZ2JENUotNXJOcnBFelhvY2lEQUl0X2NGQmJtY1IxVTJCeWFybUxtekxCLXFJV2xINHB6RjRiQnp1QzdvbFFqMElkZElSZ28wczk3WXVibnY3MjI1NVBkNFNMWk4zc3NFOWRKSXNpdmdmU1R0WDFz?oc=5",
+      "published": "Thu, 21 May 2026 23:18:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "富国恒生A股专精特新企业ETF发起式联接A净值下跌3.98% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTZXS2htYmNtYUUtNFVBVVhPNTVmdVNoczlad0VqTkVwY2VWZ05xVEYxNEJGZ09BSm9fTTA5LTJiak5abDRjMC1PbnE4Y1RDNFRMV1UwMG1aX1RZbmJtVjlDQ1VMcFF6WF9TTjBPMzg2SVhJdlNZZENpN2xFamNDdW5rdkZmc1pOUTBZeXJJZThJRGIzNGtZ?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF发起式联接A净值下跌3.98%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTZXS2htYmNtYUUtNFVBVVhPNTVmdVNoczlad0VqTkVwY2VWZ05xVEYxNEJGZ09BSm9fTTA5LTJiak5abDRjMC1PbnE4Y1RDNFRMV1UwMG1aX1RZbmJtVjlDQ1VMcFF6WF9TTjBPMzg2SVhJdlNZZENpN2xFamNDdW5rdkZmc1pOUTBZeXJJZThJRGIzNGtZ?oc=5",
+      "published": "Thu, 21 May 2026 23:20:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "南方MSCI中国A股国际通ETF发起联接E净值下跌1.61% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHl2aEhjNmRWb2I1bDNvUk1oUmpPbkI4eWJYMG5LR0JhS2plNmFtcGd4T2hPMEtZQlFGYjFZenpqd056aktISmJiaUcwY3NYR3BKN1lzbU9hZXJWajVBWmtpWWl0SEthbFU1aTdlVVo1UnZXNkxLb0lLX1pwVjVkZkhvNzVfZFNmbkFWZ3VhQmF0bkVNeVlj?oc=5\" target=\"_blank\">南方MSCI中国A股国际通ETF发起联接E净值下跌1.61%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHl2aEhjNmRWb2I1bDNvUk1oUmpPbkI4eWJYMG5LR0JhS2plNmFtcGd4T2hPMEtZQlFGYjFZenpqd056aktISmJiaUcwY3NYR3BKN1lzbU9hZXJWajVBWmtpWWl0SEthbFU1aTdlVVo1UnZXNkxLb0lLX1pwVjVkZkhvNzVfZFNmbkFWZ3VhQmF0bkVNeVlj?oc=5",
       "published": "Thu, 21 May 2026 22:26:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "平安MSCI中国A股国际ETF联接A净值下跌1.58% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZm1YZDBmaXVfWkdkam9vZmdiTFQ2ZTRCNmp6M3pkcE5JWjFQQWhUdzIySF95ZXJaVkdzX3Z5VGN0V3d0d3pEU3FzZzBkT2oySGhYQU5ONXdNUm1kN0dwX2psYTB3aWdraDJEUThqWDRiVHhRMTN0ZEh5RDFMT3RmN1NyaHlSZEFjNDE0cmE2ZFM3Vm9HUmpj?oc=5\" target=\"_blank\">平安MSCI中国A股国际ETF联接A净值下跌1.58%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZm1YZDBmaXVfWkdkam9vZmdiTFQ2ZTRCNmp6M3pkcE5JWjFQQWhUdzIySF95ZXJaVkdzX3Z5VGN0V3d0d3pEU3FzZzBkT2oySGhYQU5ONXdNUm1kN0dwX2psYTB3aWdraDJEUThqWDRiVHhRMTN0ZEh5RDFMT3RmN1NyaHlSZEFjNDE0cmE2ZFM3Vm9HUmpj?oc=5",
-      "published": "Thu, 21 May 2026 21:40:00 GMT"
+      "source": "同花顺",
+      "title": "中国铝业：拟投资建设120万吨氧化铝项目",
+      "summary": "中国铝业公告，公司全资子公司中国铝业香港有限公司拟在几内亚投资建设120万吨氧化铝项目。项目公司负责建设年产能120万吨氧化铝的生产设施、港口设施及其他相关配套设施，总投资额预计约10亿美元。同时，矿业公司逐步实施为氧化铝项目供矿并对出口矿规模进行适当提升的活动。项目后续进展如有需披露的重大事项，公司将及时履行信息披露义务。",
+      "link": "https://news.10jqka.com.cn/20260522/c676884586.shtml",
+      "published": "Thu, 21 May 2026 23:45:57 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "华夏MSCI中国A股国际通ETF联接C净值下跌1.60% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0hIYlRkSDAxNFVVbzlPLVpRS0dkQ0d3SWotTE1KcEllZk1Oek9mZkJrbllnaGNlWmNHR0pYanRPN0ZRQ0g2eUFjTnppTDd5TG4xWjFVSkI0WmItZWF6emdLejRGbmFwUlNTbzhEOFhoQmJId0lvemhXUlctQzlhYWtlb01vaTlUVXlBc3hvWXhIUlByU3Nz?oc=5\" target=\"_blank\">华夏MSCI中国A股国际通ETF联接C净值下跌1.60%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0hIYlRkSDAxNFVVbzlPLVpRS0dkQ0d3SWotTE1KcEllZk1Oek9mZkJrbllnaGNlWmNHR0pYanRPN0ZRQ0g2eUFjTnppTDd5TG4xWjFVSkI0WmItZWF6emdLejRGbmFwUlNTbzhEOFhoQmJId0lvemhXUlctQzlhYWtlb01vaTlUVXlBc3hvWXhIUlByU3Nz?oc=5",
-      "published": "Thu, 21 May 2026 21:39:00 GMT"
+      "source": "同花顺",
+      "title": "美众议院委员会通过夏令时永久化法案",
+      "summary": "当地时间5月21日，美国总统特朗普在社交平台发文称，美国众议院能源与商业委员会当天以48票赞成、1票反对的投票结果，通过包含《阳光保护法案》（Sunshine Protection Act）在内的相关法案，该法案旨在永久实施夏令时。\n\n特朗普表示，每年频繁调整时钟让个人、城市与州政府花费“数亿美元”，尤其是高塔时钟需要动用重型设备进行调整，成本十分高昂。他说，众议院计划将《阳光保护法案》附加至“公路法案”（Highway Bill）中推进立法，并称自己将“非常努力”推动该法案最终签署成为法律。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260522/c676884533.shtml",
+      "published": "Thu, 21 May 2026 23:40:22 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "易方达MSCI中国A股国际通ETF联接A净值下跌1.56% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPazVnRFo3dEl0SDFPblJIeWNQVXlSZ2FNN2J3OGhGU18tUHY1UXVZZmVqRGpfMkg2bDh0S2gzV0ZhekVRLVhZeGtOcldxNjJGSzJaTGZkV1k5ZFdyVjlyaUJnWXVtaEJaSXUySVhuak5TZTgtY2lfSGQ1VWJ5NFdUMi0xTlFOaUlZNUVvOVZoVWpILXRJdGdJ?oc=5\" target=\"_blank\">易方达MSCI中国A股国际通ETF联接A净值下跌1.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPazVnRFo3dEl0SDFPblJIeWNQVXlSZ2FNN2J3OGhGU18tUHY1UXVZZmVqRGpfMkg2bDh0S2gzV0ZhekVRLVhZeGtOcldxNjJGSzJaTGZkV1k5ZFdyVjlyaUJnWXVtaEJaSXUySVhuak5TZTgtY2lfSGQ1VWJ5NFdUMi0xTlFOaUlZNUVvOVZoVWpILXRJdGdJ?oc=5",
-      "published": "Thu, 21 May 2026 21:46:00 GMT"
+      "source": "同花顺",
+      "title": "刚果（金）埃博拉疫情持续扩散 战乱与人口流动加大防控难度",
+      "summary": "当地时间5月21日，联合国人道主义事务协调厅表示，刚果（金）埃博拉疫情持续扩散，人道主义形势进一步恶化。截至5月19日，刚果（金）累计报告埃博拉确诊病例51例、死亡病例4例，另有575例疑似病例、148例疑似相关死亡病例。疫情集中于东北部伊图里省，18日单日新增确诊20例，目前疫情已蔓延至北基伍省、南基伍省等周边区域，跨区域传播风险显著上升。受病例确诊滞后影响，感染者流动范围广，进一步加剧了全国扩散隐患。目前，刚果（金）卫生部联合世卫组织及相关合作伙伴，开展排查追踪、疫情监测、口岸查验等防疫工作，并对密切接触者进行管控。受战乱、人口流动频繁、物资通行受限等因素影响，当地防疫工作阻力较大。联合国相关机构正统筹协调人道主义援助，整合各方资源，助力刚果（金）构建协同防控体系，遏制疫情扩散蔓延。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260522/c676884510.shtml",
+      "published": "Thu, 21 May 2026 23:38:08 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "易方达MSCI中国A股国际通ETF联接C净值下跌1.56% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjF6Rm5yQjR4ZmMyS19nYld2ZU9IY1ZkcXVhQWFreFRKR0dNcWpuNXlVUlZoSEtSZDREMlZlVklsV0tYV0tsbm5GTUVta1lJRmRuTkFqWHJoZWRlQXAxVE9TdlVEbTluTVR3ZXR5SDdMV0I1UjZYcmZZNFJqU0g5RUlkeUdNRnNIMW9NVGo1a1VfQ0Z0V280?oc=5\" target=\"_blank\">易方达MSCI中国A股国际通ETF联接C净值下跌1.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjF6Rm5yQjR4ZmMyS19nYld2ZU9IY1ZkcXVhQWFreFRKR0dNcWpuNXlVUlZoSEtSZDREMlZlVklsV0tYV0tsbm5GTUVta1lJRmRuTkFqWHJoZWRlQXAxVE9TdlVEbTluTVR3ZXR5SDdMV0I1UjZYcmZZNFJqU0g5RUlkeUdNRnNIMW9NVGo1a1VfQ0Z0V280?oc=5",
-      "published": "Thu, 21 May 2026 21:46:00 GMT"
+      "source": "同花顺",
+      "title": "华为发布AIDC数据基础设施全栈方案",
+      "summary": "华为正式发布AIDC数据基础设施全栈方案，涵盖OceanStor Pacific全闪分布式存储、上下文记忆存储CMS（Context Memory Storage）、AI数据平台、华为ModelEngine Nexent智能体平台、端到端数据保护方案等。其中，面向超大规模推理集群场景，华为推出业界首个支持异构算力的上下文记忆存储CMS，支持KV语义直通或采用专用DPU进行语义卸载，可扩展为PB级共享KV Cache池，降低推理首Token时延90%。（科创板日报）",
+      "link": "https://news.10jqka.com.cn/20260522/c676884502.shtml",
+      "published": "Thu, 21 May 2026 23:37:31 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "建信MSCI中国A股国际通ETF联接C净值下跌1.51% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQaENvMkVPS0hTaVZhUzItckRLbjhuLTliLXVpaGYtMGhWcXpoaVR0c3Foc3Fna0tSaG9Rbk9naXBYNUEwUWRjWEhPLXZHYWhoMlF6VmdvOFltUlR3bkZFQlFvZGFOQmdlX2RVZi1LOGhEX3NKUkdYZHNKaXVzUllwNzI1YUtkRDhzNkIxd0xuYXBxdnlLd1dZ?oc=5\" target=\"_blank\">建信MSCI中国A股国际通ETF联接C净值下跌1.51%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaENvMkVPS0hTaVZhUzItckRLbjhuLTliLXVpaGYtMGhWcXpoaVR0c3Foc3Fna0tSaG9Rbk9naXBYNUEwUWRjWEhPLXZHYWhoMlF6VmdvOFltUlR3bkZFQlFvZGFOQmdlX2RVZi1LOGhEX3NKUkdYZHNKaXVzUllwNzI1YUtkRDhzNkIxd0xuYXBxdnlLd1dZ?oc=5",
-      "published": "Thu, 21 May 2026 21:40:00 GMT"
+      "source": "同花顺",
+      "title": "中国生物制药：M701「CD3/EpCAM双特异性抗体」于2026 ASCO公布两项临床数据",
+      "summary": "中国生物制药公告，集团附属公司正大天晴药业集团股份有限公司联合开发的国家1类创新药M701「CD3/EpCAM双特异性抗体」于2026年美国临床肿瘤学会(ASCO)大会上公布两项临床数据：针对恶性腹水(MA)的III期注册临床研究、针对非小细胞肺癌(NSCLC)相关恶性胸水(MPE)的II期临床研究。",
+      "link": "https://news.10jqka.com.cn/20260522/c676884492.shtml",
+      "published": "Thu, 21 May 2026 23:36:48 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "华夏MSCI中国A股国际通ETF联接A净值下跌1.60% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzlPYWNiZHMtbnlpSEktdC1vQlZQM1VLX0NzOWN0bHFiNU5taXR4UWFqd21EU2tTOFdMNHVPY1hPemV0am55djg2OTJlSV9ROTBoSThTcHZta1VlLWRwVE5KVVJNcktzVzZvamMtbGtPcHNQNzVCNFFid3YxVmJuYnZEZHYtb2VOZWtoeFlBVzk0Vk5ZREM0?oc=5\" target=\"_blank\">华夏MSCI中国A股国际通ETF联接A净值下跌1.60%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzlPYWNiZHMtbnlpSEktdC1vQlZQM1VLX0NzOWN0bHFiNU5taXR4UWFqd21EU2tTOFdMNHVPY1hPemV0am55djg2OTJlSV9ROTBoSThTcHZta1VlLWRwVE5KVVJNcktzVzZvamMtbGtPcHNQNzVCNFFid3YxVmJuYnZEZHYtb2VOZWtoeFlBVzk0Vk5ZREM0?oc=5",
-      "published": "Thu, 21 May 2026 21:06:00 GMT"
+      "source": "同花顺",
+      "title": "联想集团：2025/26财年收入830.75亿美元，同比增长20%",
+      "summary": "联想集团公告，2025/26财年收入830.75亿美元，同比增长20%；经调整权益持有人应占溢利为20.49亿美元，同比增长42%。",
+      "link": "https://news.10jqka.com.cn/20260522/c676884490.shtml",
+      "published": "Thu, 21 May 2026 23:36:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中信建投：资金抱团成市场常态，AI算力稀缺性延续",
+      "summary": "据中信建投研报，在高增长稀缺的宏观环境下，资金抱团现象正从阶段性交易演变为长期市场常态，驱动力从风格轮动转向“业绩增长确定性”。研究指出，AI算力因技术壁垒高、供需紧张，稀缺格局将持续，难以重走新能源行业产能过剩老路。然而，资金正反馈循环中，市场亟待接力资金入场，个人投资者的资金流入仍充满期待。投资者需关注业绩兑现度及产能投放节奏，同时警惕资本开支见顶信号。此外，分析认为，A股头部企业利润集中度仍有较大提升空间。",
+      "link": "https://news.10jqka.com.cn/20260522/c676884413.shtml",
+      "published": "Thu, 21 May 2026 23:30:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国代表呼吁实现加沙真正持久停火",
+      "summary": "中国常驻联合国代表傅聪21日在安理会巴以问题公开会上发言，呼吁有关各方全面遵守加沙停火协议，实现加沙真正持久停火。傅聪说，去年10月加沙停火协议达成，加沙局势得到一定改善，但距离彻底消弭枪声、完全终结苦难，仍然任重而道远。国际社会需要凝聚更广泛共识，作出更积极努力。自停火协议达成以来，以色列几乎每天都在轰炸和袭击，已经造成870多人死亡。中方呼吁有关各方特别是以色列全面遵守停火协议，实现加沙真正持久停火。停火协议的保障国、有重要影响的相关方应当为维护停火采取更积极行动。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260522/c676884309.shtml",
+      "published": "Thu, 21 May 2026 23:25:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "利空共振银价急跌，机构认为短期上行阻力较大",
+      "summary": "5月以来，国内外白银市场行情波动加剧，整体呈现先涨后跌走势，伦敦现货白银与沪银期货主力合约均经历冲高后快速回落的过程，其中后者在连续上涨并突破22000元/千克后，一度跌破18000元/千克，市场情绪也从盲目乐观转向恐慌。业内人士表示，此次银价回调是宏观政策、地缘局势、供需关系等多重利空因素共同作用的结果。后市行情仍面临较大不确定性，短期银价上行阻力较大，震荡下跌的概率相对更大。（中证报）",
+      "link": "https://news.10jqka.com.cn/20260522/c676884267.shtml",
+      "published": "Thu, 21 May 2026 23:20:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "券商私募资管规模一年增超6700亿元",
+      "summary": "日前，中国证券投资基金业协会最新数据显示，截至3月末，券商私募资管产品存量规模达5.99万亿元（包含资管子公司，不包含私募子公司），距6万亿元关口仅一步之遥。与去年同期相比，规模增加6740.93亿元。其中，主动管理类集合资管计划在总规模中的占比升至56.55%。（证券日报）",
+      "link": "https://news.10jqka.com.cn/20260522/c676884260.shtml",
+      "published": "Thu, 21 May 2026 23:20:41 GMT"
     },
     {
       "source": "同花顺",
@@ -122,6 +248,83 @@
       "summary": "古巴国家主席迪亚斯-卡内尔21日在社交媒体发文，谴责美国政府起诉古巴革命领袖劳尔·卡斯特罗，强调古巴人民不会容忍对其历史和民族英雄的侮辱。(新华社)",
       "link": "https://news.10jqka.com.cn/20260522/c676883244.shtml",
       "published": "Thu, 21 May 2026 22:04:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月22日电，SpaceX取消了今日的“星舰”V3测试飞行。",
+      "summary": "财联社5月22日电，SpaceX取消了今日的“星舰”V3测试飞行。",
+      "link": "https://api3.cls.cn/share/article/2378531?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:43:01 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美众议院委员会通过夏令时永久化法案",
+      "summary": "【美众议院委员会通过夏令时永久化法案】财联社5月22日电，美国总统特朗普当地时间5月21日在社交平台发文称，美国众议院能源与商业委员会当天以48票赞成、1票反对的投票结果，通过包含《阳光保护法案》（Sunshine Protection Act）在内的相关法案，该法案旨在永久实施夏令时。特朗普表示，每年频繁调整时钟让个人、城市与州政府花费“数亿美元”，尤其是高塔时钟需要动用重型设备进行调整，成本十分高昂。他说，众议院计划将《阳光保护法案》附加至“公路法案”（Highway Bill）中推进立法，并称自己将“非常努力”推动该法案最终签署成为法律。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2378530?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:41:16 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月22日电，中国生物制药在港交所公告，集团附属公司正大天晴药业集团股份有限公司联合开发的国家1类创新药M701「CD3/EpCAM双特异性抗体」于2026年美国临...",
+      "summary": "财联社5月22日电，中国生物制药在港交所公告，集团附属公司正大天晴药业集团股份有限公司联合开发的国家1类创新药M701「CD3/EpCAM双特异性抗体」于2026年美国临床肿瘤学会(ASCO)大会上公布两项临床数据：针对恶性腹水(MA)的III期注册临床研究、针对非小细胞肺癌(NSCLC)相关恶性胸水(MPE)的II期临床研究。",
+      "link": "https://api3.cls.cn/share/article/2378529?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:39:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "华为发布AI DC数据基础设施全栈方案",
+      "summary": "【华为发布AI DC数据基础设施全栈方案】《科创板日报》22日讯，华为正式发布AI DC数据基础设施全栈方案，涵盖OceanStor Pacific全闪分布式存储、上下文记忆存储CMS（Context&nbsp;Memory Storage）、AI数据平台、华为ModelEngine Nexent智能体平台、端到端数据保护方案等。其中，面向超大规模推理集群场景，华为推出业界首个支持异构算力的上下文记忆存储CMS，支持KV语义直通或采用专用DPU进行语义卸载，可扩展为PB级共享KV Cache池，降低推理首Token时延90%。（记者 黄心怡）",
+      "link": "https://api3.cls.cn/share/article/2378525?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:36:59 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月22日电，联想集团2025年全年净利润19.1亿美元，预估16.9亿美元；第四季度净利润5.21亿美元，预估3.195亿美元。",
+      "summary": "财联社5月22日电，联想集团2025年全年净利润19.1亿美元，预估16.9亿美元；第四季度净利润5.21亿美元，预估3.195亿美元。",
+      "link": "https://api3.cls.cn/share/article/2378527?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:36:38 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月22日电，日本4月份整体消费物价同比上涨1.4%；4月份核心消费物价同比上涨1.4%。",
+      "summary": "财联社5月22日电，日本4月份整体消费物价同比上涨1.4%；4月份核心消费物价同比上涨1.4%。",
+      "link": "https://api3.cls.cn/share/article/2378526?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:30:56 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中国代表呼吁实现加沙真正持久停火",
+      "summary": "【中国代表呼吁实现加沙真正持久停火】财联社5月22日电，中国常驻联合国代表傅聪21日在安理会巴以问题公开会上发言，呼吁有关各方全面遵守加沙停火协议，实现加沙真正持久停火。傅聪说，去年10月加沙停火协议达成，加沙局势得到一定改善，但距离彻底消弭枪声、完全终结苦难，仍然任重而道远。国际社会需要凝聚更广泛共识，作出更积极努力。自停火协议达成以来，以色列几乎每天都在轰炸和袭击，已经造成870多人死亡。中方呼吁有关各方特别是以色列全面遵守停火协议，实现加沙真正持久停火。停火协议的保障国、有重要影响的相关方应当为维护停火采取更积极行动。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2378524?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:25:15 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "锂电产业链迎来新一轮扩产潮",
+      "summary": "【锂电产业链迎来新一轮扩产潮】财联社5月22日电，经历长达两年的深度调整与产能出清后，中国锂电产业链正迎来新一轮扩产浪潮。记者注意到，今年4月份以来，多家A股锂电上市公司密集披露扩产公告，涵盖上游锂盐、中游材料及下游电池制造等多个环节，引发市场广泛关注。与两三年前行业盲目追高、产能无序扩张不同，市场人士普遍认为本轮锂电扩产更理性，其背后是供需关系改善、需求结构升级与产业链盈利格局重塑的多重逻辑。 (证券日报)",
+      "link": "https://api3.cls.cn/share/article/2378523?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:24:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【研选】超级电容已从实验室方案走向机柜级标配，2026年下半年Rubin平台放量将是相关产业链业绩兑现的关键窗口；这家公司2026年Q1新签订单呈现翻倍以上增长，为...",
+      "summary": "①超级电容已从实验室方案走向机柜级标配，2026年下半年Rubin平台放量将是相关产业链业绩兑现的关键窗口；\n②这家公司2026年Q1新签订单呈现翻倍以上增长，为未来业绩增长奠定基础。",
+      "link": "https://api3.cls.cn/share/article/2377457?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:09:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "今年首期注资特别国债发行",
+      "summary": "【今年首期注资特别国债发行】财联社5月22日电，根据财政部发行安排，今年首期中央金融机构注资特别国债于5月22日发行。这意味着，继2025年首批5000亿元特别国债注资中国银行、建设银行、交通银行、邮储银行后，国有大行第二轮特别国债注资即将落地。 (中证报)",
+      "link": "https://api3.cls.cn/share/article/2378500?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:02:13 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月22日电，英国5月Gfk消费者信心指数为-23，预期-28，前值-25。",
+      "summary": "财联社5月22日电，英国5月Gfk消费者信心指数为-23，预期-28，前值-25。",
+      "link": "https://api3.cls.cn/share/article/2378512?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Thu, 21 May 2026 23:01:28 GMT"
     },
     {
       "source": "财联社",
@@ -187,81 +390,11 @@
       "published": "Thu, 21 May 2026 22:25:22 GMT"
     },
     {
-      "source": "财联社",
-      "title": "光纤量价齐升 龙头公司掘金数据中心“算力底座”",
-      "summary": "【光纤量价齐升 龙头公司掘金数据中心“算力底座”】财联社5月22日电，AI数据中心建设热引发光纤行业“价格与需求齐升”。最近一年，传统光纤价格涨了6倍。记者注意到，在这轮浪潮中，多家光纤企业将目光转向数据中心，不再仅卖光纤，而是通过光模块等高端互联产品，实现从供应原材料到构建“算力底座”的战略升级。 (上证报)",
-      "link": "https://api3.cls.cn/share/article/2378498?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:25:07 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "多家外资巨头一季度大举增持中概股",
-      "summary": "【多家外资巨头一季度大举增持中概股】财联社5月22日电，最新披露的美国13F文件显示，多家外资巨头今年一季度对部分中国股票进行大手笔加仓。其中：城堡咨询、德意志银行等机构对阿里巴巴的持股增幅超过500%；摩根大通、瑞银等机构显著增持百度；Point72和美国银行大举买入京东。业内人士认为，盈利复苏、云业务等新增长点被重新定价，而估值仍未充分反映这些积极变化，是外资加仓的核心原因。与此同时，摩根大通、花旗等机构也上调了相关公司股票目标价，看好其后续表现。 (上证报)",
-      "link": "https://api3.cls.cn/share/article/2378497?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:23:47 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月22日电，据报道，OpenAI创始人奥尔特曼暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
-      "summary": "财联社5月22日电，据报道，OpenAI创始人奥尔特曼暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
-      "link": "https://api3.cls.cn/share/article/2378496?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:22:42 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美联储6月维持利率不变的概率为96.8%",
-      "summary": "【美联储6月维持利率不变的概率为96.8%】财联社5月22日电，据CME“美联储观察”：美联储到6月维持利率不变的概率为96.8%，累计加息25个基点的概率为3.2%。美联储到7月维持利率不变的概率为85.4%，累计加息25个基点的概率14.2%，累计加息50个基点的概率为0.4%。",
-      "link": "https://api3.cls.cn/share/article/2378495?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:13:47 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月22日电，明晟公司（MSCI）将于6月18日发布2026年全球市场可及性审查结果，而2026年年度市场分类审查则定于6月23日进行。",
-      "summary": "财联社5月22日电，明晟公司（MSCI）将于6月18日发布2026年全球市场可及性审查结果，而2026年年度市场分类审查则定于6月23日进行。",
-      "link": "https://api3.cls.cn/share/article/2378494?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:13:20 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月22日电，SpaceX称，目前瞄准美国中部时间18:30（北京时间07:30）进行星舰发射。",
-      "summary": "财联社5月22日电，SpaceX称，目前瞄准美国中部时间18:30（北京时间07:30）进行星舰发射。",
-      "link": "https://api3.cls.cn/share/article/2378492?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:02:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "周五（5月22日）重点关注财经事件和经济数据",
-      "summary": "【周五（5月22日）重点关注财经事件和经济数据】\n①07:01 英国5月Gfk消费者信心指数；\n②07:30 日本4月核心CPI年率； \n③14:00 德国6月Gfk消费者信心指数、第一季度未季调GDP年率终值，英国4月公共部门净借款、4月季调后零售销售月率； \n④16:00 德国5月IFO商业景气指数； \n⑤20:30 加拿大3月零售销售月率；\n⑥22:00 美国5月密歇根大学消费者信心指数终值、5月一年期通胀率预期终值、4月谘商会领先指标月率、美联储理事沃勒发表讲话； \n⑦次日01:00 美国至5月22日当周石油钻井总数。",
-      "link": "https://api3.cls.cn/share/article/2378425?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:00:03 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "周五你需要知道的隔夜全球要闻：鲁比奥称美古达成协议可能性不高，特朗普再威胁伊朗交出浓缩铀，道指创历史收盘新高",
-      "summary": "【周五你需要知道的隔夜全球要闻：鲁比奥称美古达成协议可能性不高，特朗普再威胁伊朗交出浓缩铀，道指创历史收盘新高】\n1、美国国务卿鲁比奥21日表示，美方正与古巴接触，希望通过谈判达成协议，但目前没有实质性进展，达成协议可能性不高。\n2、特朗普21日说，伊朗必须交出其拥有的高丰度浓缩铀，美国拿到后很可能会将其销毁。\n3、美国驻丹麦大使称，特朗普已排除对格陵兰岛使用武力。\n4、美联储巴尔金表示，当前政策处于良好状态，能够应对持续的冲击。截至目前，长期通胀预期似乎仍然保持在可控范围内。\n5、美联储官员古尔斯比表示，美国显著的通胀问题正在不断加剧。\n6、特朗普表示，因为他对某些方面不满意，推迟了AI行政命令签字仪式的会议。\n7、据报道，OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元。\n8、据报道，Anthropic预计第二季度收入将翻倍至110亿美元，预计利润为6亿美元；年化收入近期达到接近450亿美元水平。\n9、据悉SpaceX计划在得州奥斯丁附近建设一座10吉瓦太阳能工厂。\n10、美国将向IBM在内9家量子计算公司划拨20亿美元，政府将获得股权。\n1",
-      "link": "https://api3.cls.cn/share/article/2378490?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 22:00:00 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "保尔森力挺的爱达荷州矿业项目斩获美国政府29亿美元巨额贷款",
-      "summary": "【保尔森力挺的爱达荷州矿业项目斩获美国政府29亿美元巨额贷款】财联社5月22日电，永续资源公司（Perpetua Resources Corp.）宣布，已成功从美国进出口银行（EXIM）获得一笔高达29亿美元的贷款，用于开发爱达荷州的黄金与锑（antimony）矿项目。这家由亿万富翁、对冲基金大佬约翰·保尔森（John Paulson）担任第一大股东的矿业公司表示，在经历了漫长的技术与财务审查流程后，美国进出口银行已正式批准了这笔贷款。这笔资金将直接注入并全力支持永续资源公司旗下斯蒂布尼特（Stibnite）矿业项目的工程建设。",
-      "link": "https://api3.cls.cn/share/article/2378491?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 21:54:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月22日电，SpaceX称，现计划于中部时间下午6:00（北京时间07:00）发射星舰。",
-      "summary": "财联社5月22日电，SpaceX称，现计划于中部时间下午6:00（北京时间07:00）发射星舰。",
-      "link": "https://api3.cls.cn/share/article/2378489?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 21:31:29 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月22日电，据报道，Alphabet旗下Waymo已暂停在旧金山、洛杉矶、凤凰城和迈阿密的高速公路上提供Robotaxi服务。",
-      "summary": "财联社5月22日电，据报道，Alphabet旗下Waymo已暂停在旧金山、洛杉矶、凤凰城和迈阿密的高速公路上提供Robotaxi服务。",
-      "link": "https://api3.cls.cn/share/article/2378487?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Thu, 21 May 2026 21:19:20 GMT"
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年5月22日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p>伊朗局势主导资产走势。美股早盘中东局势紧张，一度打压美股走低；午盘报道称协议最终草案达成，原油跳水、三大指数探底回升、小幅收涨，道指创新高。</p>\n<p>英伟达绩后走低1.8%，领跌科技七巨头。Arm大涨16%，总市值首次突破3000亿美元。沃尔玛股价大跌7.3%，拖累消费必需品板块整体下跌1.6%。特朗普政府宣布20亿美元量子计算扶持计划，IBM大涨12%，量子计算股D-Wave&nbsp;Quantum大涨33.4%，Rigetti&nbsp;Computing跳涨30.6%。</p>\n<p>美债走势分化。一方面，强劲的美国宏观经济数据推高加息预期，另一方面，随着油价下跌",
+      "link": "https://wallstreetcn.com/articles/3772874",
+      "published": "Thu, 21 May 2026 23:19:32 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -290,34 +423,6 @@
       "summary": "<p>据媒体报道，受Codex、商业销售与广告驱动，OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic约10亿美元。其中2月份产生250亿美元年化收入。</p>\n<p>据<a href=\"https://wallstreetcn.com/articles/3772764?keyword=Anthropic\" rel=\"noopener\" target=\"_blank\">华尔街见闻此前发布文章</a>，Anthropic二季度营收预计达109亿美元，增幅约130%，并将首次实现运营利润5.59亿美元。</p>\n<p><span dir=\"auto\">Anthropic公司一季度营收48亿美元。其季度营收增长速度已超过Zoom在疫情期间的增长速度，也超过了谷歌和Facebook在首次公开募股前的增长速度。</span></p>\n<p><span dir=\"auto\">去年夏天，Anthropic公司向投资者公布的财务数据显示，该公司预计至少要到2028年才能实现全年盈利。由于其庞大的计算需求，该公司计划增加支出，因此可能无法全年保持盈利。其营业利润包括训练新模型的",
       "link": "https://wallstreetcn.com/articles/3772872",
       "published": "Thu, 21 May 2026 22:10:06 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "蔚来李斌：汽车行业成本压力大，蔚来成交均价超过宝马、奥迪",
-      "summary": "<h2>蔚来李斌：汽车行业材料成本压力非常大，会保持价格稳定与合理增长</h2>\n<p>5月21日，蔚来创始人、董事长、CEO李斌在2026年一季度财报电话会上表示，今年整个原材料涨价，芯片，内存，特别是内存芯片的涨价，对整个行业还是非常大压力。</p>\n<p>蔚来每辆车平均下来有一万以上的成本压力。蔚来会保持价格稳定，保持产品、服务的综合竞争力。不会把量作为最主要的经营策略，会保持合理的量的增长。</p>\n<p><span style=\"color: #808080;\">本文来源：<a href=\"https://www.stcn.com/article/detail/3921327.html\" rel=\"noopener\" target=\"_blank\">证券时报</a></span></p>\n<h2>李斌：一季度蔚来品牌成交均价39万元，要平衡销量与毛利率</h2>\n<p>原材料涨价依旧是车企在今年面临的一大挑战。</p>\n<p>5月21日，蔚来创始人、董事长、CEO李斌在2026年一季度财报电话会上直言，今年的汽车原材料涨价，尤其是内存芯片涨价，为整个行业都带来了很大的压力。为",
-      "link": "https://wallstreetcn.com/articles/3772869",
-      "published": "Thu, 21 May 2026 21:30:24 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "土耳其法院判决“颠覆”最大反对党，股指暴跌6%，国有行紧急抛售60亿美元捍卫里拉",
-      "summary": "<p>土耳其法院宣布罢免该国最大反对党的领袖。这一具有里程碑意义的判决不但在国内政坛掀起轩然大波，也重创了金融市场，</p>\n<p>当地时间周四，土耳其安卡拉一家上诉法院宣布，国内最大反对党共和人民党（CHP）的2023年全国代表大会选举结果无效，意味着现任党主席Ozgur Ozel被解除职务，前党魁Kemal Kilicdaroglu的领导班子被恢复。</p>\n<p>这一裁决被视为总统埃尔多安进一步削弱反对派力量的最新动作。裁决公布后，土耳其金融资产遭全面抛售：国内基准股指伊斯坦布尔证交所全国100指数盘中跌超6%，并因波动过大触发盘中熔断；土耳其里拉汇率创历史新低，美元兑里拉曾涨破45.60。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/30573af2-01a1-41c0-aad8-db908eca6cce.jpeg\" /></p>\n<p>里拉兑美元盘中曾小幅转涨。美股午盘，媒体援引知情交易员的消息称，土耳其国有银行周四当天紧急抛售约60亿美元外汇，以求稳定里拉汇率。其中约一半规模的抛售发生在上述土耳其",
-      "link": "https://wallstreetcn.com/articles/3772871",
-      "published": "Thu, 21 May 2026 21:29:53 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "雷军：未来五年计划投入至少2000亿研发费用",
-      "summary": "<p>5月21日，在小米YU7 GT发布会后采访上，雷军对界面新闻等媒体表示，过去五年小米投了1055亿研发费用，在芯片、大模型、智能制造、机器人等领域取得了突破。他指出，小米的战略很清晰，以芯片、OS、AI为核心技术，支撑起人车家全生态的智能终端。未来五年，公司计划投入至少2000亿研发费用。“请大家再给小米五年时间，五年后的小米一定会再上一个大台阶。”</p>\n<p><span style=\"color: #808080;\">本文来源：<a href=\"https://www.jiemian.com/article/14465130.html\" rel=\"noopener\" target=\"_blank\">界面新闻</a></span></p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投",
-      "link": "https://wallstreetcn.com/articles/3772868",
-      "published": "Thu, 21 May 2026 21:14:51 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "5月22日会员早报：特朗普“放弃”AI监管令 高浓铀去留卡死美伊谈判最后一公里",
-      "summary": "<p style=\"text-align: left;\">1、【特朗普“放弃”AI监管令】特朗普周四（5月21日）在最后一刻搁置了一份原定当天签署的人工智能行政令，称自己\"不喜欢其中的某些内容\"，并担心该命令会\"妨碍\"美国的科技竞赛中保持领先。特朗普对白宫记者团表示：\"我们正领先于所有人，我不想做任何会妨碍这种领先的事情。\"这份酝酿数周的行政令原本将建立一个机制，让企业自愿在前沿AI系统正式发布前最多90天提交给政府，由相关机构测试其危险能力、识别漏洞、做好防御部署，以防黑客或外国对手抢先利用。该命令分为两大部分，一部分聚焦网络安全，另一部分名为\"受监管的前沿模型\"，界定哪些AI模型适用于该自愿审查框架。</p><p style=\"text-align: left;\">2、【高浓铀去留卡死美伊谈判最后一公里】美国国务卿鲁比奥5月21日称美伊谈判\"有一些进展\"，但坦言并不\"过分乐观\"；同日，特朗普公开放话——美国终将拿到伊朗的高浓铀，并\"很可能销毁掉\"。几乎在同一时间，路透援引两位伊朗高级消息人士报道，伊朗最高领袖小哈梅内伊（Mojtaba Khamenei）下达指令：近武器级浓缩铀绝不",
-      "link": "https://wallstreetcn.com/member/articles/3772867",
-      "published": "Thu, 21 May 2026 21:13:31 GMT"
     },
     {
       "source": "第一财经",
