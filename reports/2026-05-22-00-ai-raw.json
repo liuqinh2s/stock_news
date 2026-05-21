@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-22",
+  "hour": "00",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 18801,
+    "completion_tokens": 3870,
+    "total_tokens": 22671
+  },
+  "content_length": 2301,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"国家数据局部署数据基建任务\",\n      \"summary\": \"国家数据局部署6项重点任务，促进数据基础设施建设，利好数据中心、云计算、大数据等板块。政策明确支持数据流通、算力调度等环节，相关上市公司如光环新网、数据港、奥飞数据等有望受益。信号偏多，属于行业政策利好。\",\n      \"reason\": \"国家数据局出台具体任务，属于优先级二行业政策，对数据基础设施板块构成直接利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"数据中心\", \"云计算\", \"大数据\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2378393?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"美联储古尔斯比称通胀加剧\",\n      \"summary\": \"美联储官员古尔斯比表示美国显著的通胀问题正在不断加剧，暗示可能维持紧缩政策。该言论利空美股市场，可能通过情绪传导至A股，尤其是外资重仓板块。但当前A股已提前下跌消化部分利空，短期需警惕外资流出压力。信号偏空。\",\n      \"reason\": \"美联储鹰派言论影响全球流动性预期，属于优先级二海外市场联动，对A股尤其是北向资金敏感的板块构成利空。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"外资重仓\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2378402?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"白宫推迟AI行政令签署\",\n      \"summary\": \"白宫推迟人工智能行政令签署仪式，原定计划临时取消。此举引发市场对美国AI监管不确定性的担忧，可能对A股AI概念板块形成短期情绪压制，但影响有限。长期看AI发展大势不变，短期波动或带来布局机会。信号中性偏空。\",\n      \"reason\": \"美国AI政策推迟影响全球AI产业预期，属于优先级二行业动态，对A股AI相关个股构成轻微利空。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"大模型\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2378394?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"微软安永联合投资超10亿美元AI\",\n      \"summary\": \"微软和安永宣布将联合投资超10亿美元，帮助客户启动重大AI项目。此举显示全球科技巨头持续加码AI投入，利好AI产业链上下游。A股中AI服务器、光模块、算力芯片等相关公司有望间接受益，情绪上偏积极。信号偏多。\",\n      \"reason\": \"海外AI重大投资事件，属于优先级二行业动态，提振AI板块市场信心，对A股AI概念有正面催化。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"光模块\", \"服务器\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://api3.cls.cn/share/article/2378390?os=web&sv=8.4.6&app=CailianpressWeb\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"当前抓取素材中，大部分与历史消息重复或为低影响力个股信息，经去重后仅筛选出4条具有交易参考价值的消息。\"\n}"
+}
