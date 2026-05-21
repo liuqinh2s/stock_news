@@ -3,86 +3,125 @@
   "hour": "00",
   "news": [
     {
-      "title": "国家数据局部署数据基建任务",
-      "summary": "国家数据局部署6项重点任务，促进数据基础设施建设，利好数据中心、云计算、大数据等板块。政策明确支持数据流通、算力调度等环节，相关上市公司如光环新网、数据港、奥飞数据等有望受益。信号偏多，属于行业政策利好。",
-      "reason": "国家数据局出台具体任务，属于优先级二行业政策，对数据基础设施板块构成直接利好。",
-      "category": "行业动态",
+      "title": "特朗普称将退还1490亿美元关税",
+      "summary": "美国总统特朗普表示美国将不得不退还1490亿美元关税，这被视为重大贸易政策缓和信号。若落实，将显著降低中美贸易摩擦风险，利好出口导向型行业及整体市场情绪。可能影响外贸、制造业、消费电子等板块，推动进口成本下降和出口竞争力回升。看多信号。",
+      "reason": "极高优先级：特朗普关税退款为重大国际政策转变，直接改善贸易预期，利好A股外贸相关板块及整体风险偏好。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "数据中心",
-        "云计算",
-        "大数据"
+        "外贸",
+        "制造业",
+        "消费电子",
+        "沪深300"
       ],
       "signal": "bullish",
+      "impact_level": 5,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378428?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "美军封锁伊朗港口致94艘商船改道",
+      "summary": "美军称对伊朗港口的封锁已使94艘商船改变航向，中东紧张局势加剧。此举可能推动原油和航运运价上涨，利好石油开采、油运板块；但地缘风险升温整体偏空市场，可能引发避险情绪。对A股石油、航运板块偏多，其余板块偏空。中性偏空信号。",
+      "reason": "高优先级：中东地缘冲突直接影响油价和航运，与A股石油、航运板块高度相关，并可能溢出至整体市场情绪。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "石油开采",
+        "航运",
+        "中国石油",
+        "中远海控"
+      ],
+      "signal": "neutral",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378419?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "特朗普推迟AI行政令签署仪式",
+      "summary": "美国总统特朗普表示因对某些方面不满意，推迟了人工智能行政命令签字仪式。该消息短期利空AI板块情绪，可能引发市场对AI政策不确定性的担忧。影响AI概念、算力、半导体等板块。看空信号。",
+      "reason": "中优先级：直接涉及AI产业政策预期，对A股AI概念板块有情绪性打压。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "AI概念",
+        "算力",
+        "半导体"
+      ],
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378393?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2378429?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "永辉超市仲裁案裁决生效法院执行",
+      "summary": "永辉超市公告称与王健林、孙喜双等仲裁案件裁决已生效，法院决定立案执行。该事项涉及约10亿元资金，对永辉超市构成利空，可能拖累股价及零售板块情绪。看空信号。",
+      "reason": "中低优先级：个股重大法律纠纷，直接利空永辉超市，可能引发零售板块短期情绪波动。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "永辉超市",
+        "零售"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378396?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "神州数码经销长鑫存储产品",
+      "summary": "神州数码公告称经销长鑫存储各类型号产品。长鑫存储是国内DRAM龙头，此合作有助于神州数码拓展存储芯片分销业务，同时利好国产存储产业链。对神州数码及存储概念偏多，信号中性偏多。",
+      "reason": "中低优先级：公司业务合作利好，但规模有限，对存储概念有一定带动。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "神州数码",
+        "存储芯片",
+        "长鑫存储概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378403?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "美联储古尔斯比称通胀加剧",
-      "summary": "美联储官员古尔斯比表示美国显著的通胀问题正在不断加剧，暗示可能维持紧缩政策。该言论利空美股市场，可能通过情绪传导至A股，尤其是外资重仓板块。但当前A股已提前下跌消化部分利空，短期需警惕外资流出压力。信号偏空。",
-      "reason": "美联储鹰派言论影响全球流动性预期，属于优先级二海外市场联动，对A股尤其是北向资金敏感的板块构成利空。",
-      "category": "宏观经济",
+      "title": "姚记科技拟回购不超过200万股",
+      "summary": "姚记科技公告拟回购不超过200万股公司股份，回购金额约数千万元。回购规模较小，但释放积极信号，短期对股价有支撑，影响有限。看多信号。",
+      "reason": "低优先级：公司回购属常规利好，但规模小，仅对个股有微弱影响。",
+      "category": "公司公告",
       "impact_stocks": [
-        "沪深300",
-        "上证50",
-        "外资重仓"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378402?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "白宫推迟AI行政令签署",
-      "summary": "白宫推迟人工智能行政令签署仪式，原定计划临时取消。此举引发市场对美国AI监管不确定性的担忧，可能对A股AI概念板块形成短期情绪压制，但影响有限。长期看AI发展大势不变，短期波动或带来布局机会。信号中性偏空。",
-      "reason": "美国AI政策推迟影响全球AI产业预期，属于优先级二行业动态，对A股AI相关个股构成轻微利空。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "AI概念",
-        "算力",
-        "大模型"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378394?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "微软安永联合投资超10亿美元AI",
-      "summary": "微软和安永宣布将联合投资超10亿美元，帮助客户启动重大AI项目。此举显示全球科技巨头持续加码AI投入，利好AI产业链上下游。A股中AI服务器、光模块、算力芯片等相关公司有望间接受益，情绪上偏积极。信号偏多。",
-      "reason": "海外AI重大投资事件，属于优先级二行业动态，提振AI板块市场信心，对A股AI概念有正面催化。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "AI算力",
-        "光模块",
-        "服务器"
+        "姚记科技"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 1,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378390?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "同花顺财经",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2bzFxekhyWmlWX3lSTFpia1JqM2ZJNldTb0tlZE40VmV0aXJQTlVVNmpHOWU3Z0VxQ2VTSGxVM0dmeUhkTEtMb1NVajhJbGVIQXBGa1kySkExNXZ0ZGc?oc=5"
         }
       ],
       "urgency": "hours"
     }
   ],
   "total_fetched": 48,
-  "generated_at": "2026-05-22T00:01:29.931119+08:00"
+  "generated_at": "2026-05-22T00:34:42.569891+08:00"
 }
