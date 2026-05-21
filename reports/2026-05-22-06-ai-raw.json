@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-22",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 10044,
+    "completion_tokens": 3389,
+    "total_tokens": 13433
+  },
+  "content_length": 2150,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"IBM暴涨 美量子计算计划20亿\",\n      \"summary\": \"特朗普政府宣布20亿美元量子计算扶持计划，IBM股价大涨逾11%。该计划可能刺激A股量子计算概念股，如国盾量子、科大国创等，提振市场对相关板块的关注。信号为看多。\",\n      \"reason\": \"美国量子计算政策利好，可能带动A股相关板块情绪。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"量子计算\", \"国盾量子\", \"科大国创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3772866\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"富时A50夜盘涨0.67%\",\n      \"summary\": \"富时中国A50指数期货夜盘收涨0.67%，报15406点。该指数跟踪A股大盘蓝筹，夜盘上涨预示次日开盘情绪偏暖，对沪深300、上证50形成正向引导。信号为看多。\",\n      \"reason\": \"A50是A股先行指标，上涨对开盘有正面引导。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2378485\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"特朗普增兵波兰 地缘紧张\",\n      \"summary\": \"特朗普宣布将向波兰增派5000名美军，加剧欧洲地缘紧张局势。可能引发市场避险情绪，对A股军工板块（如中航沈飞、中兵红箭）有一定提振，但对整体市场情绪偏空。综合信号为中性。\",\n      \"reason\": \"地缘政治事件影响风险偏好，军工股可能受益。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"军工板块\", \"中航沈飞\", \"中兵红箭\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2378479\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"Waymo暂停Robotaxi服务\",\n      \"summary\": \"Alphabet旗下Waymo暂停在美国四个城市的高速Robotaxi服务，可能引发对自动驾驶安全性的担忧，利空A股无人驾驶概念股，如百度、小鹏汽车、德赛西威等。信号为看空。\",\n      \"reason\": \"自动驾驶领头羊暂停服务，短期情绪利空相关板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"无人驾驶\", \"百度\", \"小鹏汽车\", \"德赛西威\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2378487\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"韩国消费信心指数回升\",\n      \"summary\": \"韩国5月消费者信心指数106.1，前值99.2，大幅回升，显示亚太经济回暖趋势，对A股出口及消费板块有正面影响。信号为看多。\",\n      \"reason\": \"亚洲经济先行指标好转，提振市场信心。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"出口板块\", \"消费板块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2378481\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
