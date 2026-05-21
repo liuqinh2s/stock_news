@@ -3,120 +3,44 @@
   "hour": "04",
   "news": [
     {
-      "title": "湖南裕能筹划赴港上市",
-      "summary": "磷酸铁锂龙头湖南裕能公告筹划赴港上市，加速海外布局。此举可能提升公司国际知名度，但港股上市后或分流A股资金，短期偏中性。影响板块：新能源、磷酸铁锂。信号中性，关注后续进展。",
-      "reason": "公司重大事件，但港股上市对A股影响有限，属于中性偏利空信号。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "湖南裕能",
-        "磷酸铁锂",
-        "新能源"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rR1oxWURacFhxZVgxTFh4N1VBQWNsNFlMYmFiMzVwMkpTNmpiVmxJLTNnY2YtMWxVdWJGanVTN3VQTng2bUdtekIwYy1SbmhmZDM2QzJfTk8wVHNNTXFQcjl3?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "上市公司连环造假调查",
-      "summary": "媒体报道部分基金参与上市公司连环造假，质疑机构风控。该事件可能打击市场信心，引发监管关注，短期利空小盘股及问题公司，但整体影响有限。信号偏空。",
-      "reason": "市场情绪信号，可能引发投资者对基金重仓股的担忧，但属个案，影响范围不大。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "小盘股",
-        "基金重仓股"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fMkJpbmwwaGFEY2R0NWN5RXB5UzZMLWtoQ1NNNzdIc2ZySUR4VHVobHRpVDNxcjlKVk9oUno0dTRkVDFYeWIzQ2ZGS3dac3B5T29seC1GczRBb0hCSWc?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "美国货基资产达7.77万亿美元",
-      "summary": "美国投资公司协会数据显示，美国货币市场资产规模创纪录新高，达7.77万亿美元。表明市场避险情绪浓厚，资金涌入货币基金，但同时也暗示全球流动性充裕，对A股影响中性偏正面。",
-      "reason": "宏观经济数据，反映全球资金流向，但间接影响A股，属于中期信号。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "上证50"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378467?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "土耳其金融稳定性委员会开会",
-      "summary": "土耳其金融稳定性委员会将于周五开会，此前土耳其股市暴跌触发熔断。土耳其市场动荡可能引发新兴市场避险情绪，对A股形成短期情绪传导，偏利空。",
-      "reason": "海外市场联动，土耳其是新兴市场代表，其危机可能影响全球风险偏好，对A股情绪有压制。",
+      "title": "土耳其金融稳定委员会将开会",
+      "summary": "土耳其金融稳定性委员会宣布将于周五开会，讨论近期市场动荡。此前土耳其主要股指日内跌6%触发熔断，里拉承压。此举旨在稳定金融市场，但土耳其风险事件可能通过情绪传导影响新兴市场，对A股形成间接扰动，但影响可控。信号偏空但微弱。",
+      "reason": "土耳其市场波动可能引发新兴市场避险情绪，间接影响A股外资流动和市场情绪。",
       "category": "宏观经济",
       "impact_stocks": [
-        "新兴市场ETF",
-        "沪深300"
+        "沪深300",
+        "新兴市场ETF"
       ],
       "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378466?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "SpaceX计划建太阳能工厂",
-      "summary": "据悉SpaceX计划在得州建设一座10吉瓦太阳能工厂，可能带动光伏产业链关注。虽非直接A股利好，但可能刺激太阳能板块情绪，偏正面。",
-      "reason": "行业动态，涉及太阳能，可能带动A股光伏概念股，但实质性关联有限。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "光伏",
-        "太阳能"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378465?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "106家券商文化建设年报亮相",
-      "summary": "106家证券公司文化建设年报亮相，属于行业常规披露，对股价无直接影响。信号中性。",
-      "reason": "监管政策类，但内容为常规信息披露，无实质性影响。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "券商"
-      ],
-      "signal": "neutral",
       "impact_level": 1,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4tMThUMkRLaUZiMG9WMmZYSUhkYlJ4dWhXSHBONGN4S3BBSmREX3B1UTB1WmVoeG5LQmdtN3ZIVGVDN3BXQkxScmVkWXhJcWZwRklTNE91NUlrcVZsdFdrU1prNA?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378466"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
+    },
+    {
+      "title": "美国货币市场资产规模新高",
+      "summary": "据美国投资公司协会(ICI)，美国货币市场资产达到7.77万亿美元，创历史新高。显示市场流动性充裕，资金避险情绪仍强。对A股而言，全球流动性宽松有助于外资流入，但需关注风险偏好变化。中性偏多信号。",
+      "reason": "全球流动性指标，高流动性对风险资产形成支撑，间接利好A股。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "科技股"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378467"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 24,
-  "generated_at": "2026-05-22T04:01:35.595315+08:00"
+  "total_fetched": 28,
+  "generated_at": "2026-05-22T04:30:15.136041+08:00"
 }
