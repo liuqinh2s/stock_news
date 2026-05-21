@@ -3,85 +3,84 @@
   "hour": "21",
   "news": [
     {
-      "title": "基建订单爆发潮",
-      "summary": "近期A股多家基建公司公告中标亿元级别大单，订单集中爆发，显示基建投资加速。该信号可能带动建筑、建材等板块走强，看多基建板块。",
-      "reason": "基建订单集中爆发，预示行业景气度提升，利好相关个股。",
+      "title": "超大型油轮订单涌向中国",
+      "summary": "全球超九成超大型油轮订单被中国船厂承接，订单已排至2030年。反映中国造船业全球领先地位，将显著增厚造船企业未来业绩。利好造船板块（中国船舶、中船防务）及航运产业链。信号偏多。",
+      "reason": "行业重大订单利好，直接影响造船板块及航运相关公司业绩预期。",
       "category": "行业动态",
       "impact_stocks": [
-        "基建",
-        "建筑装饰",
-        "中国交建"
+        "中国船舶",
+        "中船防务",
+        "造船板块"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DQXF1dVZFa1BiQ2JVdzdvODFCcG4xMUNKTDl4Mmk2bE1oTWZ1a0JyOVJva1duQWk3Q1JXejFzTlJ1bm5mOTlmLThhU3ltT3QzZnJ0VnktOHFuSm1yMUNrV0NJdC1uY0lhUi1nWHg1bURUNExObTlSUQ?oc=5"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378339?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "ARM市值首破3000亿美元",
+      "summary": "ARM股价飙升10%至盘中纪录新高，市值首次升破3000亿美元。ARM作为芯片架构龙头，股价新高提振全球科技股信心，间接利好A股半导体产业链（如中芯国际、北方华创）及AI芯片概念。信号偏多。",
+      "reason": "科技巨头股价突破对A股科技板块有情绪传导作用，尤其利好半导体和AI产业链。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "中芯国际",
+        "北方华创",
+        "半导体板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2378343?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "欧菲光重组过会",
-      "summary": "欧菲光发行股份购买欧菲微电子28.2461%股权获深交所审核通过，公司资产整合迈出关键一步。此举有望提升公司盈利能力，对欧菲光及光学元件板块形成利好。",
-      "reason": "资产重组过会，注入优质资产，利好公司。",
+      "title": "金龙汽车获控股股东增持",
+      "summary": "金龙汽车公告，控股股东拟增持公司股份，金额0.8亿至1.5亿元。大股东增持释放信心信号，短期利好股价。作为客车制造企业，新能源客车业务或有支撑。信号偏多。",
+      "reason": "大股东增持属于公司重大利好，直接影响个股及板块情绪。",
       "category": "公司公告",
       "impact_stocks": [
-        "欧菲光",
-        "光学元件"
+        "金龙汽车",
+        "客车板块"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260521/c676879666.shtml"
+          "url": "https://news.10jqka.com.cn/20260521/c676880742.shtml"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "美国失业金人数略降",
-      "summary": "美国上周首次申领失业救济人数20.9万人，略低于市场预期的21万人，显示劳动力市场依然强劲。该数据可能强化美联储维持紧缩的预期，对全球流动性偏空，间接利空A股。",
-      "reason": "美国就业数据强劲，可能加剧加息担忧，对A股情绪有间接影响。",
-      "category": "宏观经济",
+      "title": "中概股金龙指数跌2%",
+      "summary": "纳斯达克中国金龙指数跌幅扩大至2%，报6619.74点。中概股下跌反映海外资金对中国资产的短期谨慎，可能通过情绪传导影响A股次日开盘，尤其是港股科技股和A股科技板块。信号偏空。",
+      "reason": "中概股下跌影响A股和港股市场情绪，属于资金流向和市场情绪信号。",
+      "category": "资金流向",
       "impact_stocks": [
-        "沪深300"
+        "港股科技",
+        "A股科技板块"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
           "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378259?os=web&sv=8.4.6&app=CailianpressWeb"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美国新屋开工略好于预期",
-      "summary": "美国4月新屋开工年化146.5万户，高于预期的141万户，营建许可144.2万户也超预期。数据表明美国经济韧性较强，但可能降低降息预期，对A股影响中性偏空。",
-      "reason": "美国地产数据超预期，经济强但紧缩预期升温，整体影响有限。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "沪深300"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378260?os=web&sv=8.4.6&app=CailianpressWeb"
-        },
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378263?os=web&sv=8.4.6&app=CailianpressWeb"
+          "url": "https://api3.cls.cn/share/article/2378332?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 71,
-  "generated_at": "2026-05-21T21:06:28.774055+08:00"
+  "total_fetched": 63,
+  "generated_at": "2026-05-21T21:55:21.466354+08:00"
 }
