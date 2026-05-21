@@ -3,74 +3,100 @@
   "hour": "10",
   "news": [
     {
-      "title": "长鑫科技IPO 华安证券涨停",
-      "summary": "长鑫科技启动IPO进程，华安证券作为安徽国资券商触及涨停，预计将带动半导体产业链及券商板块活跃。长鑫科技是国内DRAM龙头，其IPO将提振市场对半导体板块信心，看多信号。",
-      "reason": "长鑫科技IPO是半导体行业重大事件，对相关板块有直接利好，符合优先级二行业政策变动。",
+      "title": "特斯拉FSD登陆中国",
+      "summary": "特斯拉官方宣布监督版FSD（完全自动驾驶）正式登陆中国市场。这是特斯拉自动驾驶系统首次在中国获得落地许可，将直接利好智能驾驶产业链，包括自动驾驶方案商、传感器、高精地图等板块。预计将带动A股智能驾驶、汽车电子、激光雷达等概念股活跃，看多智能驾驶板块。",
+      "reason": "重大行业政策落地，特斯拉FSD入华将加速国内自动驾驶商业化进程，相关产业链公司受益明确。",
       "category": "行业动态",
       "impact_stocks": [
-        "半导体",
-        "长鑫科技概念",
-        "华安证券"
+        "智能驾驶",
+        "汽车电子",
+        "激光雷达",
+        "浙江世宝"
       ],
       "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHZC1Wa2dMUjhNN0M0dnlNQS1zU0pJbjdGV2EyVDI1eFFSdUVwekFub1liV213YlNhS2NGaFNIYlU4bVp3UFFvUW1oWWlJTTNhZzU3ZEVjU3F5ei04MEE?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260521/c676857021.shtml"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "美伊谈判提振 韩股大涨6%",
-      "summary": "美伊和谈取得进展，韩国KOSPI指数大涨6%一度触发熔断，亚太股市普涨，显示地缘风险降温。A股受情绪提振，北向资金可能回流，短期看多。",
-      "reason": "海外市场联动，美伊局势缓和利好全球风险资产，符合优先级二海外市场联动。",
-      "category": "市场情绪",
+      "title": "PCB概念再度走强创新高",
+      "summary": "PCB（印制电路板）概念股持续活跃，鹏鼎控股反包涨停并续创历史新高，生益科技等也创出新高。PCB是电子产业链基础环节，受益于AI算力需求爆发和消费电子复苏，板块景气度上行。",
+      "reason": "PCB板块持续创新高反映行业高景气，相关个股业绩预期向好，可作为中期配置方向。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "上证50",
-        "韩国概念"
+        "PCB",
+        "鹏鼎控股",
+        "生益科技",
+        "沪电股份"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772777"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "人民币指数逼近前高",
-      "summary": "人民币指数持续走强逼近前高，反映资本流入预期。人民币升值有利于降低进口成本，吸引外资流入A股，利好消费和金融板块。",
-      "reason": "人民币汇率变动影响外资流向，符合优先级二海外市场联动（汇率）。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "沪深300",
-        "外资重仓股",
-        "航空"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772772"
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377499?os=web&sv=8.4.6&app=CailianpressWeb"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "印尼强化资源出口管控",
-      "summary": "印尼宣布成立国企，计划成为所有资源唯一出口商，将加强棕榈油、煤炭、铁合金等出口管控。此举可能推高全球资源价格，利好A股相关资源板块，如有色、煤炭。",
-      "reason": "行业政策变动，影响资源供给格局，符合优先级二行业政策变动。",
+      "title": "证券板块爆发华安证券涨停",
+      "summary": "证券板块集体走强，华安证券涨停，招商证券涨近6%，板块整体涨幅居前。券商作为行情风向标，大涨通常预示市场风险偏好提升和增量资金入场，同时受益于成交额放大和注册制改革。",
+      "reason": "券商板块异动往往是牛市信号，配合成交额放大，市场做多情绪高涨，看多券商及大盘。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "券商",
+        "华安证券",
+        "招商证券",
+        "东方财富"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://api3.cls.cn/share/article/2377490?os=web&sv=8.4.6&app=CailianpressWeb"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "智能驾驶概念异动拉升",
+      "summary": "智能驾驶板块快速拉升，浙江世宝涨停，港股浙江世宝涨超17%。受特斯拉FSD入华消息刺激，智能驾驶概念全面走强，产业链相关公司有望迎来订单和业绩增长。",
+      "reason": "特斯拉FSD入华是直接催化剂，智能驾驶商业化加速，看多相关板块。",
       "category": "行业动态",
       "impact_stocks": [
-        "煤炭",
+        "智能驾驶",
+        "浙江世宝",
+        "德赛西威",
+        "中科创达"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260521/c676857099.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "印尼强化资源出口管控",
+      "summary": "印尼宣布大幅强化资源出口管控，成立国企统一管理，总统称“成为从棕榈油、煤炭到铁合金等所有资源唯一出口商”。此举将减少印尼资源出口，推高全球相关商品价格，利好国内有资源储备的上市公司。",
+      "reason": "印尼是全球重要资源出口国，出口管控将导致供给收缩，资源品价格上涨，利好A股有色、煤炭、铁合金等板块。",
+      "category": "行业动态",
+      "impact_stocks": [
         "有色金属",
-        "铁合金"
+        "煤炭",
+        "铁合金",
+        "镍",
+        "铝"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -83,46 +109,27 @@
       "urgency": "days"
     },
     {
-      "title": "集运欧线期货涨5%",
-      "summary": "集运指数欧线主力合约涨5%报2885点，运价持续上涨。受全球贸易复苏及中东地缘影响，航运公司盈利能力增强，利好A股航运板块如中远海控、招商南油等。",
-      "reason": "航运价格波动影响相关行业，符合优先级二行业动态。",
-      "category": "行业动态",
+      "title": "人民币指数逼近前高",
+      "summary": "人民币指数持续走强，逼近前期高点。人民币升值有利于吸引外资流入A股，降低输入性通胀压力，对航空、造纸等进口型企业构成利好，同时提升人民币资产吸引力。",
+      "reason": "人民币走强是外资流入的重要信号，看多A股整体和外资重仓板块。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "航运",
-        "中远海控",
-        "招商南油"
+        "沪深300",
+        "上证50",
+        "航空",
+        "造纸"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2377521?os=web&sv=8.4.6&app=CailianpressWeb"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3772772"
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "中信证券看好白酒改善",
-      "summary": "中信证券研报指出，预计二季度开始白酒公司业绩有望出现改善，主要得益于消费复苏和库存去化。利好白酒板块，短期有望获得资金关注。",
-      "reason": "机构评级变动，知名券商发布看好观点，符合优先级二机构调研/评级变动。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "白酒",
-        "贵州茅台",
-        "五粮液"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZR0luTWNrbGdlRlpZeVZPYjlWbGtyLWJkdWZObTJlSnZBYUJlRHdzMV93NTA2NGgzM2xJUHlocC0yYzBsMXlGZTFyQ2dkR1lKQnl2elp3c0d0SGQtemF2NW1R?oc=5"
-        }
-      ],
-      "urgency": "days"
     }
   ],
-  "total_fetched": 79,
-  "generated_at": "2026-05-21T10:01:51.465503+08:00"
+  "total_fetched": 86,
+  "generated_at": "2026-05-21T10:07:51.381230+08:00"
 }
