@@ -3,166 +3,65 @@
   "hour": "10",
   "news": [
     {
-      "title": "央行将发行央票回笼流动性",
-      "summary": "央行公告将于5月27日发行2026年第四期和第五期中央银行票据。央票发行是回收银行体系流动性的常规工具，短期可能对资金面造成小幅收紧，但规模未公布，影响有限。对银行、债市偏空，但整体流动性仍充裕。信号中性偏空。",
-      "reason": "央行货币政策操作直接影响资金面，属中级影响。历史消息中未出现",
-      "category": "货币政策",
+      "title": "融资净买入行业分布",
+      "summary": "05月21日有30个行业出现融资净买入，显示杠杆资金在多个行业布局，尤其集中在科技和制造业。这反映了市场风险偏好回升，资金看好后续行情，对A股整体偏多信号，但需注意融资余额总体减少83.53亿元，结构性机会为主。",
+      "reason": "融资余额变动是重要市场信号，30个行业净买入显示资金结构性入场，符合优先级三资金流向指标。",
+      "category": "资金流向",
       "impact_stocks": [
-        "银行",
-        "债券市场"
+        "沪深300",
+        "科技板块",
+        "制造业"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260522/c676890112.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "境外机构启动国债期货投资",
-      "summary": "摩根大通期货潘凤表示，已有境外机构启动国债期货投资计划与套保报备。这意味着外资参与中国债券市场的渠道进一步拓宽，带来增量资金和风险管理需求，利好国债期货市场及A股市场流动性。信号偏多。",
-      "reason": "外资入市信号，属于资金流向类，历史消息未出现",
-      "category": "资金流向",
-      "impact_stocks": [
-        "国债期货",
-        "债券市场",
-        "沪深300"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378644"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1UDRiOFQ5UzNYVmlVRk1NMUszVVd3OG0yVFNKaFI4NVFETEp2dGNSdGJHVjNIZEVKS1ZLUXQxUmdYNGlNVE00NF9CU202aGREUjdQUEx1cy05LXVYRjJ0NzR3"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "新股N惠康涨超200%二次临停",
-      "summary": "N惠康（新股）盘初大涨超200%，触发二次临时停牌。新股爆炒显示市场情绪亢奋，但也隐含投机风险。短期可能带动次新股板块活跃，但需警惕后续回落。信号中性偏多。",
-      "reason": "新股异常表现属市场情绪信号，历史消息未出现",
-      "category": "市场情绪",
+      "title": "融通基金调研金达威等",
+      "summary": "融通基金近期调研了金达威、中炬高新等3只个股，显示机构关注食品保健品及调味品行业。机构调研通常为后续投资布局做准备，可能预示这些公司存在价值发现机会，对相关个股偏多信号。",
+      "reason": "机构调研是中期影响信号，融通基金为知名公募，其调研方向可能引发市场关注，符合优先级二机构调研/评级变动。",
+      "category": "资金流向",
       "impact_stocks": [
-        "次新股",
-        "N惠康"
+        "金达威",
+        "中炬高新"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96a0x2c0dQbXcwYlRYanBZTTNHRWtGQU9BSWpYU0plWjFsY0ZFRjdvRkR4SS12UHZsMDFEZElfallsSHRMSW95VjVnaXBrNWRNM1ZUTGM1M2o2MmlfS2hYZmlR"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "嘉德利电子今日主板上市",
+      "summary": "泉州嘉德利电子材料股份公司今日在A股主板上市，该公司主营电子材料（如覆铜板等），属于PCB上游。新股上市短期可能带动相关概念股情绪，但需关注首日表现。整体中性偏多，对电子材料板块有一定提振。",
+      "reason": "新股上市属于市场结构事件，可能影响相关板块情绪，符合优先级三新股/次新股异常表现，但影响有限。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "PCB",
+        "电子材料",
+        "嘉德利"
       ],
       "signal": "neutral",
-      "impact_level": 2,
+      "impact_level": 1,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://api3.cls.cn/share/article/2378661"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "英伟达Rubin机架售价780万美元",
-      "summary": "据华尔街见闻，英伟达Vera Rubin机架售价780万美元，是Blackwell的2倍，几乎所有组件都在涨价。这表明AI算力需求持续旺盛，上游硬件价格持续上行，利好AI算力产业链（如PCB、CPO、散热等）。信号明显偏多。",
-      "reason": "行业重大事件，直接影响算力板块，历史未出现具体售价",
-      "category": "行业动态",
-      "impact_stocks": [
-        "AI算力",
-        "英伟达供应链",
-        "PCB概念",
-        "CPO概念"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772875"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "算力再涨价：Nebius全面涨价",
-      "summary": "华尔街见闻报道，Nebius全面涨价凸显GPU供需结构性错配。算力租赁价格持续上涨，反映AI需求爆发，利好拥有算力资源的公司（如服务器、IDC、芯片）及提供算力租赁服务的公司。偏多信号。",
-      "reason": "行业涨价动态，直接影响算力板块，历史未出现",
-      "category": "行业动态",
-      "impact_stocks": [
-        "算力租赁",
-        "GPU",
-        "数据中心",
-        "服务器"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/member/articles/3772802"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "礼来减肥新药减重28.3%超预期",
-      "summary": "礼来公布减肥新药三期实验成功，最高剂量患者平均减重28.3%，逼近手术效果。这将进一步推动减肥药市场爆发，对A股相关产业链（原料药、CXO、多肽类）形成正面催化。信号偏多。",
-      "reason": "重磅医药临床进展，影响A股减肥药概念，历史未出现",
-      "category": "行业动态",
-      "impact_stocks": [
-        "减肥药",
-        "CXO",
-        "原料药",
-        "华兰股份"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772878"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "全球投资者撤离韩国股市",
-      "summary": "数据显示全球投资者5月已从韩国股市流出220亿美元。这可能反映对新兴市场风险偏好的下降，但资金可能转向其他市场（如A股），且韩国市场流出对A股直接影响有限，更多是情绪传导。短期中性偏空。",
-      "reason": "海外资金流动，间接影响A股情绪，历史未出现",
-      "category": "资金流向",
-      "impact_stocks": [
-        "沪深300",
-        "新兴市场"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772883"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美国债务逼近危机时刻",
-      "summary": "华尔街见闻报道，收益率飙升，美国债务正逼近经济学家口中的“Oh Shit”时刻。这意味着美债利率可能进一步上行，全球资产定价面临重估，对A股形成宏观压力，尤其是高估值成长股。偏空信号。",
-      "reason": "宏观风险事件，影响整体风险偏好，历史未出现",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "沪深300",
-        "科技股",
-        "成长板块"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3772881"
+          "name": "中国证券报",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3UjlpSHN4RTQ3VmQ5MUQwWlV2R3NaN0ViVzZQcFo4aVpKTXZHYkdJRnM1eWQybmJBOXFOYXRJdlJGWHNTRC1NYjZTWm5VVm80c3NwcTFxQ0hwclFCWm9LcGtRZDB2WWJSV19LNEhHVVV3eVBjU0U0"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 83,
-  "generated_at": "2026-05-22T10:01:19.649619+08:00"
+  "total_fetched": 76,
+  "generated_at": "2026-05-22T10:10:51.434751+08:00"
 }
