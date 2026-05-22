@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-22",
+  "hour": "08",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 12330,
+    "completion_tokens": 4390,
+    "total_tokens": 16720
+  },
+  "content_length": 2219,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"金元证券首覆视源股份\",\n      \"summary\": \"金元证券发布研报首次覆盖视源股份（002841），给予增持评级。视源股份专注智能交互显示与智能硬件，有望受益于教育信息化和会议平板需求复苏。该评级为机构看好信号，偏多头，但个股影响有限。\",\n      \"reason\": \"机构首次覆盖，属于优先级二，对个股可能有短期提振。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"视源股份\", \"智能硬件\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xYy1aUWxaY3Nzb0VDYzFyWmNfSDNxMlRMenlJU3dxTnEtRTFBaFB4WWVRdkNTeW1qZnJvSUVjT3ZQSG0zLWFpajRXaHRJQVltbmlHQTl2aGdoQTAyc1E?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"中信建投：氦溴面临短缺\",\n      \"summary\": \"中信建投研报指出，地缘政治影响供给叠加需求高增，氦、溴等稀有气体及化工原料面临短缺，价格有望上行。利好华特气体、凯美特气、滨化股份等相关上市公司。该研报为行业看多信号，短期可能刺激相关板块。\",\n      \"reason\": \"行业供需分析，属于优先级二，对化工细分板块有明确利多预期。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"华特气体\", \"凯美特气\", \"滨化股份\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2378533?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"*ST威领连续12跌停\",\n      \"summary\": \"*ST威领（曾用名：威领股份）因年报非标审计意见，股价连续12个交易日跌停，成为最牛锂矿股坠落案例。该股退市风险极高，并可能波及锂矿板块情绪，尤其是ST板块和锂资源概念股。利空信号明确。\",\n      \"reason\": \"年报非标导致连续跌停，属于优先级一的公司公告，对ST板块及锂矿有警示作用。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"*ST威领\", \"锂矿概念\", \"ST板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE42c2Rmd0l1X3dJQ1ZyOTFXTmsyMi1OS3otNjN2d0ttalQwZTZ4UTZaLUl3SkdEUkx2UzdBMi1vZzJTcVkya0RydnVOcXhXQ25GbV94OWlmU3NSamdZQlF2UVR3?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"智能驾驶公司获200亿订单\",\n      \"summary\": \"互动易披露，某智能驾驶公司已获超200亿元订单，覆盖L2至L4级方案，并已与国内外机器人厂商签署合作协议。该消息利好智能驾驶、具身智能概念，可能带动相关个股如德赛西威、中科创达等。短线看多。\",\n      \"reason\": \"公司经营动态，订单超预期，属于优先级二，对智能驾驶板块有催化。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"德赛西威\", \"中科创达\", \"智能驾驶概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://api3.cls.cn/share/article/2378359?os=web&sv=8.4.6&app=CailianpressWeb\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"当前时段有效新消息较少，多数重要新闻已在06:00-07:00时段被覆盖，本次仅筛选出4条中等及以下影响级别的消息。\"\n}"
+}
