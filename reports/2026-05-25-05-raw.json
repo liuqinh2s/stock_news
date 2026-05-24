@@ -1,9 +1,30 @@
 {
   "date": "2026-05-25",
   "hour": "05",
-  "total": 7,
-  "fetched_at": "2026-05-25T05:00:39.922604+08:00",
+  "total": 8,
+  "fetched_at": "2026-05-25T05:44:42.478913+08:00",
   "news": [
+    {
+      "source": "同花顺",
+      "title": "交易所挥动ESG“指挥棒” 资金择优而聚 低评级加速出清 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oLWJPZVUwbm9lSVpmWjl1Ym0wTGlBSEZoekJqbDNSQ05MRk1iS2xxdnJSdXJocVE5b09mOHF4SUZOdGhSX0dZdkxWRF94YXgxS1BPbnhaWDNIY2Z0WXc?oc=5\" target=\"_blank\">交易所挥动ESG“指挥棒” 资金择优而聚 低评级加速出清</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oLWJPZVUwbm9lSVpmWjl1Ym0wTGlBSEZoekJqbDNSQ05MRk1iS2xxdnJSdXJocVE5b09mOHF4SUZOdGhSX0dZdkxWRF94YXgxS1BPbnhaWDNIY2Z0WXc?oc=5",
+      "published": "Sun, 24 May 2026 21:10:13 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "相聚资本龙波：穿越市场周期 风控是底线哲学 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YTDFXT0FKdVJJYUJmUlY5azh3SWtOVzBNU2lpZEpHSDU2Q0NuLTdLYnh6MUhpUUEzNzVkZWlseHJIT29KVzA3UF9RUGJ6cjRSNjctYUIzT1pZUlEtUVE?oc=5\" target=\"_blank\">相聚资本龙波：穿越市场周期 风控是底线哲学</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YTDFXT0FKdVJJYUJmUlY5azh3SWtOVzBNU2lpZEpHSDU2Q0NuLTdLYnh6MUhpUUEzNzVkZWlseHJIT29KVzA3UF9RUGJ6cjRSNjctYUIzT1pZUlEtUVE?oc=5",
+      "published": "Sun, 24 May 2026 20:59:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”。 (新华社)",
+      "summary": "财联社5月25日电，神舟二十三号航天员乘组顺利进驻“天宫”，中国航天员完成第8次“太空会师”。 (新华社)",
+      "link": "https://api3.cls.cn/share/article/2380193?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 21:37:09 GMT"
+    },
     {
       "source": "财联社",
       "title": "伊朗方面称现阶段伊尚未就核问题的细节做出任何承诺",
@@ -31,20 +52,6 @@
       "summary": "【特朗普：美伊协议“尚未完全谈妥”】财联社5月25日电，美国总统特朗普24日说，美国和伊朗的协议“尚未完全谈妥”，他指责一些不了解情况的人对其“妄加批评”。特朗普在社交媒体发文，称“如果我与伊朗达成协议，那将会是一份好的、合适的协议”。“目前没人看过它或知道它的内容。它还没有完全谈妥。所以不要去听那些失败者的话，他们对一件自己根本不了解的事情妄加批评。” (新华社)",
       "link": "https://api3.cls.cn/share/article/2380189?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Sun, 24 May 2026 19:58:21 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月25日电，美国网约车巨头优步（Uber）在收购要约遭拒后，正考虑对Delivery Hero提出更高报价，估值超过115亿欧元。",
-      "summary": "财联社5月25日电，美国网约车巨头优步（Uber）在收购要约遭拒后，正考虑对Delivery Hero提出更高报价，估值超过115亿欧元。",
-      "link": "https://api3.cls.cn/share/article/2380188?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sun, 24 May 2026 19:32:57 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "塞浦路斯议会选举计票结束 “民主大会党”赢得选举",
-      "summary": "【塞浦路斯议会选举计票结束 “民主大会党”赢得选举】财联社5月25日电，当地时间5月24日晚，塞浦路斯中央选举委员会官网实时统计数据显示，当天举行的塞浦路斯议会选举计票工作已完成。本届议会第一大党“民主大会党”锁定胜局，赢得选举，得票率为27.1%。紧随其后的是议会第二大党“劳动人民进步党”，得票率为23.9%。在当天的选举中，符合条件的选民近57万人，实际参与投票的人数约为38万，投票率近67%。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2380187?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sun, 24 May 2026 19:31:27 GMT"
     },
     {
       "source": "华尔街见闻",
