@@ -1,9 +1,23 @@
 {
   "date": "2026-05-25",
   "hour": "06",
-  "total": 6,
-  "fetched_at": "2026-05-25T06:00:31.607949+08:00",
+  "total": 23,
+  "fetched_at": "2026-05-25T06:45:39.628029+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股7家半导体上市公司集体宣布：股东减持！套现金额可达127亿元，有公司股价刚创新高 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9nX2dqaHBVTEVNNUloTEh0RkF6a251SG5GXzZVVEI3cnRDLUJBUWpnN1c2NEZJNDBaOTZmc2V4Z1o5dDVGNVE4N3JRYWpzMG9qVXJWWGU2QTBTN2lZZ2lvdzlOdEcyOFVLcndIU1lCcERhYi0wM1pQaQ?oc=5\" target=\"_blank\">A股7家半导体上市公司集体宣布：股东减持！套现金额可达127亿元，有公司股价刚创新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nX2dqaHBVTEVNNUloTEh0RkF6a251SG5GXzZVVEI3cnRDLUJBUWpnN1c2NEZJNDBaOTZmc2V4Z1o5dDVGNVE4N3JRYWpzMG9qVXJWWGU2QTBTN2lZZ2lvdzlOdEcyOFVLcndIU1lCcERhYi0wM1pQaQ?oc=5",
+      "published": "Sun, 24 May 2026 22:22:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股市场波动有所放大 科技主线韧性仍存 机构：建议聚焦盈利兑现和高景气方向 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5sa0ZNbXNJcnlsdFVpQ2NTSWJnajBsb05lZW16eGFpTGhPdnRiOVFJY2lrbzUyTDFhMUZyZkhEWWhXOGQ4OWlHa0lhelFLcy04d2VHTElSNEJlZzFsWm9pQ05MdG53ZkFWX0lpYm5uQlJjSExUX1NqRA?oc=5\" target=\"_blank\">A股市场波动有所放大 科技主线韧性仍存 机构：建议聚焦盈利兑现和高景气方向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sa0ZNbXNJcnlsdFVpQ2NTSWJnajBsb05lZW16eGFpTGhPdnRiOVFJY2lrbzUyTDFhMUZyZkhEWWhXOGQ4OWlHa0lhelFLcy04d2VHTElSNEJlZzFsWm9pQ05MdG53ZkFWX0lpYm5uQlJjSExUX1NqRA?oc=5",
+      "published": "Sun, 24 May 2026 22:18:00 GMT"
+    },
     {
       "source": "同花顺",
       "title": "交易所挥动ESG“指挥棒” 资金择优而聚 低评级加速出清 - 同花顺财经",
@@ -17,6 +31,111 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YTDFXT0FKdVJJYUJmUlY5azh3SWtOVzBNU2lpZEpHSDU2Q0NuLTdLYnh6MUhpUUEzNzVkZWlseHJIT29KVzA3UF9RUGJ6cjRSNjctYUIzT1pZUlEtUVE?oc=5\" target=\"_blank\">相聚资本龙波：穿越市场周期 风控是底线哲学</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YTDFXT0FKdVJJYUJmUlY5azh3SWtOVzBNU2lpZEpHSDU2Q0NuLTdLYnh6MUhpUUEzNzVkZWlseHJIT29KVzA3UF9RUGJ6cjRSNjctYUIzT1pZUlEtUVE?oc=5",
       "published": "Sun, 24 May 2026 20:59:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，现货黄金突破4560美元/盎司，日内涨超1%。",
+      "summary": "财联社5月25日电，现货黄金突破4560美元/盎司，日内涨超1%。",
+      "link": "https://api3.cls.cn/share/article/2380208?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:33:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "今年以来科创债发行超8000亿元",
+      "summary": "【今年以来科创债发行超8000亿元】南京市创新投资集团有限责任公司、上海国盛（集团）有限公司、首钢集团有限公司等6家公司5月25日共发行7只科技创新债，规模达86亿元。今年以来，科技创新债发行火热。Wind数据显示，截至5月24日，共有760只科技创新债发行，发行规模达8012.78亿元，远超去年同期。专家表示，今年科技创新债迎来发行热潮，是政策助力、成本优势、主体多元等多重因素叠加的结果。随着配套机制持续完善、参与主体不断丰富，科技创新债将持续精准赋能硬科技领域，助力科创企业破解融资难题，后续市场扩容潜力依旧充足。 (中证报)",
+      "link": "https://api3.cls.cn/share/article/2380207?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:32:08 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，美元兑日元下跌0.2%至158.87；欧元兑美元上涨0.3%至1.1636美元。",
+      "summary": "财联社5月25日电，美元兑日元下跌0.2%至158.87；欧元兑美元上涨0.3%至1.1636美元。",
+      "link": "https://api3.cls.cn/share/article/2380206?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:29:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "以军总参谋长称加大对黎真主党打击 准备随时恢复作战",
+      "summary": "【以军总参谋长称加大对黎真主党打击 准备随时恢复作战】财联社5月25日电，以色列国防军当地时间24日表示，以军总参谋长扎米尔当天访问了以军北方司令部以及在黎巴嫩执行任务的以军部队总部，并批准了继续打击黎巴嫩真主党的作战计划。扎米尔在召开局势评估会议后表示，以军继续在各个层面对黎真主党实施打击，并进一步加大打击力度。他还强调，在继续监控当前地区局势之际，以军将做好准备，以便随时投入高强度作战，并进一步削弱伊朗及其军事能力。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2380205?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:26:23 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "理财产品提前终止趋于常态化 主动“瘦身”成理财公司风控新策略",
+      "summary": "【理财产品提前终止趋于常态化 主动“瘦身”成理财公司风控新策略】财联社5月25日电，近日，招银理财、信银理财、平安理财、民生理财、交银理财等理财公司相继发布部分理财产品提前终止公告，涉及日开型、最低持有期型及封闭式产品等多类品种。除止盈触发的提前终止外，记者梳理了解到，亦有产品因赎回较多、规模明显缩水而被迫终止。不过总体来看，主动终止的情况居多，主动“瘦身”正逐渐成为理财公司风险控制的新策略。目前，存量理财产品数量庞大。来自银行业理财登记托管中心的数据显示，截至2026年一季度末，全市场共存续理财产品4.80万只，同比增加18.23%。其中，理财公司存续产品达3.57万只。 (上证报)",
+      "link": "https://api3.cls.cn/share/article/2380204?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:24:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "年内跌幅超过20% 保险板块凸显低估值配置价值",
+      "summary": "【年内跌幅超过20% 保险板块凸显低估值配置价值】财联社5月25日电，今年以来，在资本市场整体上涨行情中，保险股作为大盘重要成分股却累计下跌超过20%。这一现象背后，是市场资金偏好极端分化、险企资产端盈利逻辑面临考验两方面共振的结果。多位市场人士认为，年初以来，虽然上市险企业绩表现为“负债端增长强劲，资产端波动较大”，但基本面长期依旧稳定向好。 (上证报)",
+      "link": "https://api3.cls.cn/share/article/2380203?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:22:51 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美联储6月维持利率不变的概率为97.3%",
+      "summary": "【美联储6月维持利率不变的概率为97.3%】财联社5月25日电，据CME“美联储观察”：美联储到6月维持利率不变的概率为97.3%，累计加息25个基点的概率为2.7%。美联储到7月维持利率不变的概率为84.8%，累计加息25个基点的概率14.8%，累计加息50个基点的概率为0.3%。",
+      "link": "https://api3.cls.cn/share/article/2380202?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:19:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "A股市场波动有所放大 科技主线韧性仍存 机构：建议聚焦盈利兑现和高景气方向",
+      "summary": "【A股市场波动有所放大 科技主线韧性仍存 机构：建议聚焦盈利兑现和高景气方向】财联社5月25日电，上周，A股主要指数呈现震荡整固格局，但行业层面分化进一步加剧，结构性行情特征突出。券商策略展望报告分析认为，从市场运行特征来看，当前A股处于阶段性高位，震荡整固是上涨行情中的正常波动，并非趋势性调整信号。目前A股的企业盈利、流动性、风险偏好等重要指标均未出现根本性变化，行情演绎基础仍然存在。展望后市，科技成长仍是市场最具辨识度的主线。不过，机构也提示称，后续科技主线的扩散应该进一步聚焦基本面，而非单纯的主题轮动。 (上证报)",
+      "link": "https://api3.cls.cn/share/article/2380201?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:17:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，WTI原油期货跌幅扩大至5%，报91.72美元/桶。",
+      "summary": "财联社5月25日电，WTI原油期货跌幅扩大至5%，报91.72美元/桶。",
+      "link": "https://api3.cls.cn/share/article/2380200?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:10:55 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，美国联邦基金期货大幅上涨，12月合约上涨6个基点；布伦特原油因霍尔木兹海峡局势乐观预期下跌4.7%。",
+      "summary": "财联社5月25日电，美国联邦基金期货大幅上涨，12月合约上涨6个基点；布伦特原油因霍尔木兹海峡局势乐观预期下跌4.7%。",
+      "link": "https://api3.cls.cn/share/article/2380199?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:10:05 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，现货黄金日内涨幅扩大至1%，报4551.85美元/盎司。现货白银向上触及77美元/盎司，日内上涨2.15%。",
+      "summary": "财联社5月25日电，现货黄金日内涨幅扩大至1%，报4551.85美元/盎司。现货白银向上触及77美元/盎司，日内上涨2.15%。",
+      "link": "https://api3.cls.cn/share/article/2380198?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:07:05 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，美国10年期国债期货上涨12个基点，30年期国债期货上涨17个基点。",
+      "summary": "财联社5月25日电，美国10年期国债期货上涨12个基点，30年期国债期货上涨17个基点。",
+      "link": "https://api3.cls.cn/share/article/2380197?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:06:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，标普500指数期货在亚洲早盘交易中上涨约0.5%；纳斯达克100指数期货上涨0.6%。",
+      "summary": "财联社5月25日电，标普500指数期货在亚洲早盘交易中上涨约0.5%；纳斯达克100指数期货上涨0.6%。",
+      "link": "https://api3.cls.cn/share/article/2380196?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:05:36 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，欧洲天然气价格下跌3.3%，因市场对美国和伊朗将达成协议持乐观态度。",
+      "summary": "财联社5月25日电，欧洲天然气价格下跌3.3%，因市场对美国和伊朗将达成协议持乐观态度。",
+      "link": "https://api3.cls.cn/share/article/2380195?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:04:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月25日电，布伦特原油亚洲开盘下跌3.5%，白宫官员称美伊协议“指日可待”。",
+      "summary": "财联社5月25日电，布伦特原油亚洲开盘下跌3.5%，白宫官员称美伊协议“指日可待”。",
+      "link": "https://api3.cls.cn/share/article/2380194?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Sun, 24 May 2026 22:02:52 GMT"
     },
     {
       "source": "财联社",
@@ -40,11 +159,11 @@
       "published": "Sun, 24 May 2026 20:55:34 GMT"
     },
     {
-      "source": "财联社",
-      "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
-      "summary": "【伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态】财联社5月25日电，当地时间5月24日，伊朗议会国家安全与外交政策委员会发言人雷扎伊表示，霍尔木兹海峡的管理不会恢复到战前状态。他还表示，该海峡目前由伊朗控制，在战争状态结束后，伊朗可以为船舶通行提供便利。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2380190?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Sun, 24 May 2026 20:14:57 GMT"
+      "source": "华尔街见闻",
+      "title": "布伦特原油期货低开3.5%，受美伊谈判进展影响。 标普500指数期货涨约0.5%，纳斯达克100指数期货涨约0.6%。",
+      "summary": "<p>布伦特原油期货低开3.5%，受美伊谈判进展影响。</p>\n\n<p>标普500指数期货涨约0.5%，纳斯达克100指数期货涨约0.6%。</p>",
+      "link": "https://wallstreetcn.com/livenews/3108551",
+      "published": "Sun, 24 May 2026 22:01:00 GMT"
     }
   ]
 }
