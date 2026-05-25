@@ -1,8 +1,8 @@
 {
   "date": "2026-05-26",
   "hour": "04",
-  "total": 11,
-  "fetched_at": "2026-05-26T04:00:31.150517+08:00",
+  "total": 10,
+  "fetched_at": "2026-05-26T04:18:33.059106+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -34,6 +34,20 @@
     },
     {
       "source": "财联社",
+      "title": "财联社5月26日电，多伦多股票指数收涨1.04%，报34,830.89点，创收盘新高。",
+      "summary": "财联社5月26日电，多伦多股票指数收涨1.04%，报34,830.89点，创收盘新高。",
+      "link": "https://api3.cls.cn/share/article/2381145?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Mon, 25 May 2026 20:03:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "俄外长告知美方对乌打击计划",
+      "summary": "【俄外长告知美方对乌打击计划】财联社5月26日电，俄罗斯外交部网站25日发布通告说，俄外交部长拉夫罗夫当天同美国国务卿鲁比奥通电话，按照俄总统普京指示，向美方告知，俄方开始对乌克兰首都基辅的军事设施发起系统性打击。拉夫罗夫表示，为回应乌方持续袭击俄方平民和民用设施，俄军正在对位于基辅、服务于乌克兰武装部队的设施进行系统性和持续性打击。他提醒美方注意俄外交部当天发表的声明，建议美方外交人员及其公民从基辅撤离。 (新华社)",
+      "link": "https://api3.cls.cn/share/article/2381144?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Mon, 25 May 2026 19:58:46 GMT"
+    },
+    {
+      "source": "财联社",
       "title": "伊朗总统下令：恢复互联网至今年1月大规模断网前状态",
       "summary": "【伊朗总统下令：恢复互联网至今年1月大规模断网前状态】财联社5月26日电，当地时间25日晚，伊朗总统佩泽希齐扬下令恢复伊朗互联网至今年1月大规模断网前的状态。 (央视新闻)",
       "link": "https://api3.cls.cn/share/article/2381142?os=web&sv=8.4.6&app=CailianpressWeb",
@@ -52,27 +66,6 @@
       "summary": "财联社5月26日电，上期所原油期货7月合约夜盘收跌3.04%，报602.80元人民币/桶。沪金夜盘收涨0.71%，沪银收涨1.62%。",
       "link": "https://api3.cls.cn/share/article/2381140?os=web&sv=8.4.6&app=CailianpressWeb",
       "published": "Mon, 25 May 2026 18:31:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月26日电，TTF基准荷兰天然气期货收跌6.08%，报45.601欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）收跌0.16%，报75.78欧元/吨。",
-      "summary": "财联社5月26日电，TTF基准荷兰天然气期货收跌6.08%，报45.601欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）收跌0.16%，报75.78欧元/吨。",
-      "link": "https://api3.cls.cn/share/article/2381138?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Mon, 25 May 2026 18:18:23 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "西班牙新增一例汉坦病毒感染病例",
-      "summary": "【西班牙新增一例汉坦病毒感染病例】财联社5月26日电，当地时间25日，西班牙卫生部门确认，一名此前在马德里医院接受预防性隔离观察的人员，经检测后确诊感染汉坦病毒。目前，该患者已被转送至医院高等级隔离病区接受进一步治疗和监护。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2381137?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Mon, 25 May 2026 18:13:24 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社5月26日电，xAI表示，旗下聊天机器人Grok现已面向所有SuperGrok和X Premium+用户开放测试版。",
-      "summary": "财联社5月26日电，xAI表示，旗下聊天机器人Grok现已面向所有SuperGrok和X Premium+用户开放测试版。",
-      "link": "https://api3.cls.cn/share/article/2381136?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Mon, 25 May 2026 18:12:55 GMT"
     },
     {
       "source": "华尔街见闻",
