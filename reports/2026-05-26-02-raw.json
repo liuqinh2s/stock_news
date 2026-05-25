@@ -1,9 +1,23 @@
 {
   "date": "2026-05-26",
   "hour": "02",
-  "total": 19,
-  "fetched_at": "2026-05-26T02:00:31.889277+08:00",
+  "total": 18,
+  "fetched_at": "2026-05-26T02:23:38.687697+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "首次跌停！天海电子上市6天最大跌幅36.26%，新股短线不好碰啦？ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1GczJBN3FOc0U5ZTZIblpuNFBfQkNrcDZCNjVOckFUU3BnN1ZwZnJnanNMWlc4Rzc5Ym5uN3ZCOGIyMWp2SVVNb0s3bVVxTlBEZW1KdmR6VGlzOS1jTzdVdlFPeTFYUGpycTdPS2Q3TlhrOEl5Qjd3UQ?oc=5\" target=\"_blank\">首次跌停！天海电子上市6天最大跌幅36.26%，新股短线不好碰啦？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GczJBN3FOc0U5ZTZIblpuNFBfQkNrcDZCNjVOckFUU3BnN1ZwZnJnanNMWlc4Rzc5Ym5uN3ZCOGIyMWp2SVVNb0s3bVVxTlBEZW1KdmR6VGlzOS1jTzdVdlFPeTFYUGpycTdPS2Q3TlhrOEl5Qjd3UQ?oc=5",
+      "published": "Mon, 25 May 2026 16:37:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "3D打印技术迎来新突破 机构高频调研3只概念股 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tTEt3ZnZqZFdYMFFVb3haVkZSRTRkNVk0UjBPbmtlZUxZQkV4YUcwZEhRLVZOdmpjcEprMk9sczdmbk9SWjVydXk5ek9FNVgwSGNDX3owLTQ2bmgwZVo0YkNUNA?oc=5\" target=\"_blank\">3D打印技术迎来新突破 机构高频调研3只概念股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tTEt3ZnZqZFdYMFFVb3haVkZSRTRkNVk0UjBPbmtlZUxZQkV4YUcwZEhRLVZOdmpjcEprMk9sczdmbk9SWjVydXk5ek9FNVgwSGNDX3owLTQ2bmgwZVo0YkNUNA?oc=5",
+      "published": "Mon, 25 May 2026 17:58:51 GMT"
+    },
     {
       "source": "同花顺",
       "title": "美股三大股指期货集体收涨",
@@ -40,11 +54,25 @@
       "published": "Mon, 25 May 2026 16:24:38 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "伊朗最高国家安全委员会秘书：伊方“不会投降或后退”",
-      "summary": "当地时间25日，伊朗最高国家安全委员会秘书佐勒加德尔发表声明，称伊朗“不会投降或后退”。佐勒加德尔还称，国家比以往任何时候都更需要团结与凝聚，这样美国和以色列会大为失望。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260526/c676960473.shtml",
-      "published": "Mon, 25 May 2026 16:09:11 GMT"
+      "source": "财联社",
+      "title": "财联社5月26日电，TTF基准荷兰天然气期货收跌6.08%，报45.601欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）收跌0.16%，报75.78欧元/吨。",
+      "summary": "财联社5月26日电，TTF基准荷兰天然气期货收跌6.08%，报45.601欧元/兆瓦时。ICE欧盟碳排放交易许可（期货价格）收跌0.16%，报75.78欧元/吨。",
+      "link": "https://api3.cls.cn/share/article/2381138?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Mon, 25 May 2026 18:18:23 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "西班牙新增一例汉坦病毒感染病例",
+      "summary": "【西班牙新增一例汉坦病毒感染病例】财联社5月26日电，当地时间25日，西班牙卫生部门确认，一名此前在马德里医院接受预防性隔离观察的人员，经检测后确诊感染汉坦病毒。目前，该患者已被转送至医院高等级隔离病区接受进一步治疗和监护。 (央视新闻)",
+      "link": "https://api3.cls.cn/share/article/2381137?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Mon, 25 May 2026 18:13:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月26日电，xAI表示，旗下聊天机器人Grok现已面向所有SuperGrok和X Premium+用户开放测试版。",
+      "summary": "财联社5月26日电，xAI表示，旗下聊天机器人Grok现已面向所有SuperGrok和X Premium+用户开放测试版。",
+      "link": "https://api3.cls.cn/share/article/2381136?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Mon, 25 May 2026 18:12:55 GMT"
     },
     {
       "source": "财联社",
@@ -96,46 +124,11 @@
       "published": "Mon, 25 May 2026 16:26:52 GMT"
     },
     {
-      "source": "财联社",
-      "title": "卡塔尔埃米尔与阿曼苏丹通电话 讨论地区局势",
-      "summary": "【卡塔尔埃米尔与阿曼苏丹通电话 讨论地区局势】财联社5月26日电，当地时间5月25日，卡塔尔埃米尔塔米姆与阿曼苏丹海赛姆通电话，双方就当前地区局势的发展进行了讨论。双方一致认同尽快达成解决方案的重要性，以推动维护地区安全。 (央视新闻)",
-      "link": "https://api3.cls.cn/share/article/2381125?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Mon, 25 May 2026 16:20:05 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "全球最大铝土矿生产国计划下月推出出口管制措施",
-      "summary": "【全球最大铝土矿生产国计划下月推出出口管制措施】财联社5月26日电，全球最大铝土矿生产国几内亚计划于下月宣布改革措施，对这种矿石实施出口管控，以提振价格。几内亚占全球铝土矿产量逾三分之一。几内亚矿业与地质部长布纳·西拉最新表示，这导致市场供过于求，铝土矿的价格较去年年初高点几乎腰斩。“供应不能超过需求。我们希望调控出口数量，让价格回升至合理水平。”",
-      "link": "https://api3.cls.cn/share/article/2381124?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Mon, 25 May 2026 16:17:19 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "报道称伊朗将在美伊达成停战协议后重开霍尔木兹海峡，美油跌穿90美元关口",
       "summary": "<p>日经新闻援引消息人士的话报道称，在与美国达成结束冲突的协议30天后，伊朗将重新开放霍尔木兹海峡。</p>\n\n<p>在达成协议后的30天窗口期内，伊朗将着手清除该海峡内的水雷。</p>\n\n<p>协议达成后，所有国家的船只都将能够安全、自由地通行，恢复到海峡实际关闭前的常态。</p>\n\n<p>美国与伊朗4月初达成的停火协议将延长60天。</p>\n\n<p>WTI原油日内跌幅达7.0%，报89.82美元/桶。布伦特原油期货跌超6.5%，一度跌至93.23美元。</p>",
       "link": "https://wallstreetcn.com/livenews/3108987",
       "published": "Mon, 25 May 2026 17:05:01 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普要求中东多国与以色列建交",
-      "summary": "<p style=\"text-align: left;\">据CCTV国际时讯，美国总统特朗普5月25日在社交媒体平台再次发文称，美国与伊朗的谈判“进展顺利”，“要么达成对各方都有利的伟大协议，要么就彻底谈崩——我们将重回战场，发动比之前更大规模、更强力的打击”。</p>\n<p style=\"text-align: left;\"><strong>特朗普称，在上周末与沙特、阿联酋、卡塔尔、土耳其、埃及、约旦、巴林领导人及巴基斯坦陆军参谋长的通话中，他明确表示，“在美国付出巨大努力试图拼凑起这块极其复杂的‘拼图’之后，所有这些国家至少必须同步签署《亚伯拉罕协议》”——也就是与以色列实现双边关系正常化。</strong>在这份通话名单中，沙特、卡塔尔和巴基斯坦尚未与以色列建立外交关系。特朗普称，“也许有一两个国家有理由不这样做，这可以接受，但大多数国家都应该准备好。”</p>\n<p style=\"text-align: left;\">特朗普称，他“强制要求所有国家立即签署《亚伯拉罕协议》”，“一切应从沙特和卡塔尔立即签署开始，其他国家应紧随其后。欢迎伊朗也加入《亚伯拉罕协议》。”</p>\n<p",
-      "link": "https://wallstreetcn.com/articles/3773095",
-      "published": "Mon, 25 May 2026 16:10:44 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "挤压风险真实存在！高盛：宏观空头头寸处于10年高位",
-      "summary": "<div>\n<div>\n<section dir=\"auto\">\n<div dir=\"auto\" tabindex=\"0\">\n<p>在标普500指数连续第八周上涨之际，高盛发现市场正出现越来越明显的逼空迹象。报告指出，空头仓位持续累积与看涨期权需求升温，正在为美股进一步上涨提供技术性支撑，但也意味着市场对这类资金推动的依赖正在加深。</p>\n<p>高盛主经纪业务数据显示，<strong>美国宏观产品（指数和ETF）空头头寸已升至过去十年来的最高水平。</strong>面对地缘政治、利率和油价等不确定因素，不少投资者选择通过指数和ETF建立对冲仓位，同时避免直接做空个股。然而，一旦市场继续上涨，这些空头可能被迫回补，从而形成额外买盘，进一步推高股价。</p>\n<p>期权市场同样释放出类似信号。高盛衍生品交易员Brian Garrett指出，标普100成分股中约25%已出现看涨期权偏斜倒挂，这一比例接近2021年“散户抱团股”逼空行情时期的水平。在他看来，<strong>市场正呈现出明显的“上行期权化”特征，投资者对上涨的押注不断增加，而做市商为对冲相关风险则需要持续买入股票，进一步放大上",
-      "link": "https://wallstreetcn.com/articles/3773093",
-      "published": "Mon, 25 May 2026 16:05:39 GMT"
-    },
-    {
-      "source": "龙虎榜数据",
-      "title": "“秒涨停”“秒炸板”！存储概念大牛股，量化多空激战 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQT1VrTm5lc0VqVTJ2NG9MYmQyMTduYjB0YV80TlByNEJoNUM0eVpRd0xFdW9HSFdLQ0Nsc1R2SW5CRjNZdVM4SkxDcnR2OGpVS1RxeGg2TlgxbTloaUs1Z1VuM01zcS0tZGpTMGlmN0dia1ctVnpLbnBTMkpKb1lpazd5XzVpS00?oc=5\" target=\"_blank\">“秒涨停”“秒炸板”！存储概念大牛股，量化多空激战</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT1VrTm5lc0VqVTJ2NG9MYmQyMTduYjB0YV80TlByNEJoNUM0eVpRd0xFdW9HSFdLQ0Nsc1R2SW5CRjNZdVM4SkxDcnR2OGpVS1RxeGg2TlgxbTloaUs1Z1VuM01zcS0tZGpTMGlmN0dia1ctVnpLbnBTMkpKb1lpazd5XzVpS00?oc=5",
-      "published": "Mon, 25 May 2026 16:23:16 GMT"
     }
   ]
 }
