@@ -1,9 +1,16 @@
 {
   "date": "2026-05-28",
   "hour": "07",
-  "total": 29,
-  "fetched_at": "2026-05-28T07:00:34.713393+08:00",
+  "total": 34,
+  "fetched_at": "2026-05-28T07:08:39.415365+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "鹏华中证A股资源产业指数(LOF)A净值下跌2.31% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUlqUXg5Y2t3TjkxczBPNUtMTzB1TnJSeGpHRE5uT3JVYUJicGI1RnhTSVJiYTVaQmcydGlLMnBHUE9pY3RhVk5wRDZ5MDhnSEMySkgtUzk5MzZVcGxYVHRzcFEtQThQM1NOZko2T1VQeV90b2hFSmdBWm1GN0hCNFo4S3lPNmlhbTNweWRCdG9raDV0MGxv?oc=5\" target=\"_blank\">鹏华中证A股资源产业指数(LOF)A净值下跌2.31%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUlqUXg5Y2t3TjkxczBPNUtMTzB1TnJSeGpHRE5uT3JVYUJicGI1RnhTSVJiYTVaQmcydGlLMnBHUE9pY3RhVk5wRDZ5MDhnSEMySkgtUzk5MzZVcGxYVHRzcFEtQThQM1NOZko2T1VQeV90b2hFSmdBWm1GN0hCNFo4S3lPNmlhbTNweWRCdG9raDV0MGxv?oc=5",
+      "published": "Wed, 27 May 2026 22:56:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "华宝标普中国A股红利机会ETF联接C净值下跌0.86% - 新浪财经",
@@ -48,6 +55,13 @@
     },
     {
       "source": "东方财富",
+      "title": "贵州茅台完成近30亿元股份回购 将全部注销 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUi11alRtYVFYNURjRENRMFRpX2duX01BZjE2M0hGcFRleHl4d1F5UVUtaEt4QjN5WnBrMFNlTFljODMxb1NnZFFVMGpvbHlWUUp1Y3BpRG1UU3dkY21WUw?oc=5\" target=\"_blank\">贵州茅台完成近30亿元股份回购 将全部注销</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rUi11alRtYVFYNURjRENRMFRpX2duX01BZjE2M0hGcFRleHl4d1F5UVUtaEt4QjN5WnBrMFNlTFljODMxb1NnZFFVMGpvbHlWUUp1Y3BpRG1UU3dkY21WUw?oc=5",
+      "published": "Wed, 27 May 2026 23:07:32 GMT"
+    },
+    {
+      "source": "东方财富",
       "title": "密集卡位硬科技赛道！长鑫科技、长江存储、宇树科技身后频现券商身影 资本四大布局路径明晰 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nVVROZmxxaXJEeHhubHlXZjgwaEduQ3FremFtTGpXQ20xa3FTTnZZOTd5YjJUU1FNOVMzYTRVdDZ5VmxMUGxBdEpaMVQ4NDFCdTVEc080MEEzenFheHdER3VjQQ?oc=5\" target=\"_blank\">密集卡位硬科技赛道！长鑫科技、长江存储、宇树科技身后频现券商身影 资本四大布局路径明晰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nVVROZmxxaXJEeHhubHlXZjgwaEduQ3FremFtTGpXQ20xa3FTTnZZOTd5YjJUU1FNOVMzYTRVdDZ5VmxMUGxBdEpaMVQ4NDFCdTVEc080MEEzenFheHdER3VjQQ?oc=5",
@@ -73,6 +87,20 @@
       "summary": "美五角大楼授予微软97亿美元企业软件合同，此举旨在削减成本。",
       "link": "https://news.10jqka.com.cn/20260528/c677025616.shtml",
       "published": "Wed, 27 May 2026 21:42:25 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "Meta将推出AI聊天机器人订阅服务 月费最低7.99美元",
+      "summary": "【Meta将推出AI聊天机器人订阅服务 月费最低7.99美元】财联社5月28日电，Meta 首次开始向消费者销售Meta AI聊天机器人订阅服务，或将有助于部分抵消其在AI领域的巨额支出。新推出的订阅服务分为两档。公司发言人表示，基础档名为Meta One Plus，月费7.99美元，面向频繁使用Meta AI生成图片和视频，或依赖其进行复杂推理的用该发言人补充称，更高级别的Meta One Premium月费为19.99美元，包含与Meta One Plus相同的功能，但使用额度更高。",
+      "link": "https://api3.cls.cn/share/article/2383479?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 27 May 2026 22:59:25 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【研选•研报数据】氧化铝价格处于历史低位，国内和海外同时出现供给扰动，或加速库存去化；这家公司进一步聚焦制造业战略新兴产业，人形机器人业务布局持续落地",
+      "summary": "①氧化铝价格处于历史低位，国内和海外同时出现供给扰动，或加速库存去化；\n②这家公司进一步聚焦制造业战略新兴产业，人形机器人业务布局持续落地。",
+      "link": "https://api3.cls.cn/share/article/2382424?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 27 May 2026 22:58:36 GMT"
     },
     {
       "source": "财联社",
@@ -188,17 +216,17 @@
     },
     {
       "source": "华尔街见闻",
+      "title": "美联储理事库克：如果通胀不缓解，我已准备好加息",
+      "summary": "<p>美联储理事库克（Lisa Cook）发出鹰派信号，表示若通胀降温进程未能如期推进，她已做好加息准备。</p>\n<p>库克周三在斯坦福大学一场活动上表示，目前倾向于维持利率不变，预计通胀将在未来数月重新回落，但她同时强调，通胀依然存在上行风险。美国消费者价格4月份涨幅创2023年以来最大，汽油、租金和食品价格均全面走高。</p>\n<p>库克的表态进一步强化了市场对美联储政策路径的判断。在劳动力市场保持基本稳定的背景下，通胀再度加速已取代就业风险，成为官员更优先关注的政策议题。</p>\n<div>\n<h2 id=\"cc395659\">油价与AI热潮推升通胀，加息重回议程</h2>\n<p>库克表示，通胀连续五年高于美联储2%的目标，可能会导致价格压力固化到定价和工资设定行为中。她表示：“因此，如果预期的通胀放缓未能及时出现，我准备提高利率。”</p>\n</div>\n<p>美联储上月会议记录显示，多数官员警告称，若通胀持续高于目标，央行可能需要考虑加息。此次会议上，官员将基准利率维持在3.5%至3.75%区间不变。</p>\n<p>库克指出，美国与伊朗的冲突持续扰动能源市场，对通胀构成上行",
+      "link": "https://wallstreetcn.com/articles/3773286",
+      "published": "Wed, 27 May 2026 23:00:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
       "title": "Salesforce季度营收不及预期，AI颠覆隐忧不减｜财报见闻",
       "summary": "<p><span dir=\"auto\">Salesforce公司</span><span dir=\"auto\">公布的季度营收略低于分析师的预期，放大投资者不安，市场本就担忧人工智能可能会颠覆软件行业。</span></p>\n<p>2027财年第一季度，Salesforce实现总营收111.33亿美元，同比增长13%，低于分析师此前平均预期的114亿美元。其中来自Informatica的贡献约为4.44亿美元。订阅与支持业务营收为105.93亿美元，同比增长14%，Informatica贡献约4.28亿美元。</p>\n<p>从盈利端看，当季GAAP运营利润为23.47亿美元，GAAP运营利润率为21.1%；非GAAP运营利润为38.74亿美元，非GAAP运营利润率34.8%，较上年同期的32.3%显著扩张。GAAP净利润为21.07亿美元，较上年同期的15.41亿美元增长37%。</p>\n<p>当前剩余履约义务（cRPO）达336亿美元，同比增长14%，按固定汇率计算增长13%；总剩余履约义务为679亿美元，同比增长11%，但低于分析师平均预期的689亿美元。</p>\n<p><img",
       "link": "https://wallstreetcn.com/articles/3773283",
       "published": "Wed, 27 May 2026 21:30:48 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "Robinhood推出AI代理功能，允许客户授权AI自主交易和刷卡消费",
-      "summary": "<p>Robinhood Markets正将人工智能代理的角色从\"顾问\"升级为\"执行者\"。用户可将股票交易与信用卡消费决策直接委托给AI工具，这是金融机构在人工智能应用竞赛中的最新动作。</p>\n<p>Robinhood宣布推出新功能，允许用户将Claude或Cursor等第三方AI工具接入专属投资账户，由AI根据用户指令自主下单交易。该功能同时延伸至消费场景：用户可将AI代理绑定至Robinhood Gold信用卡，授权其搜寻低价、监控库存并代为完成购买。</p>\n<p>该公司产品管理副总裁Abhishek Fatehpuria表示，\"这些面向消费者的AI代理已经开始在市场上进行交易。我们从与客户的沟通中了解到，他们希望在非常安全的方式下，赋予代理使用Robinhood的能力。\"</p>\n<p>目前，该功能仅支持股票交易，期权、加密货币及事件合约功能将在后续推出。每次AI代理完成操作，用户均会收到推送通知，并可在应用程序中实时查看记录，也可随时断开代理连接。</p>\n<p>此举使Robinhood成为首批将AI代理式自主操作能力向零售客户开放的主流金融平台之一。但将大规模财务决策完全",
-      "link": "https://wallstreetcn.com/articles/3773281",
-      "published": "Wed, 27 May 2026 21:02:17 GMT"
     },
     {
       "source": "证券时报",
@@ -206,6 +234,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZC1MNkdJcWVocTc4Wm12MG04WVQwLVJ6c0JIMnpFV0FuZzUySnQ4eEp4ek0yMmVDUW9xZzhFZUljNFR3N0hGRnF3cUgwXzlLa2p3SDFNX3pBcHJt?oc=5\" target=\"_blank\">超千家A股上市公司母公司营业收入占合并报表比重不足10% 母公司“空心化”比例十年翻倍子公司信披短板待补</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KZC1MNkdJcWVocTc4Wm12MG04WVQwLVJ6c0JIMnpFV0FuZzUySnQ4eEp4ek0yMmVDUW9xZzhFZUljNFR3N0hGRnF3cUgwXzlLa2p3SDFNX3pBcHJt?oc=5",
       "published": "Wed, 27 May 2026 22:49:00 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "5月28日国内四大证券报纸、重要财经媒体头条内容精华摘要_每日必读_市场_中金在线 - 中金在线",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1GbDBEMlgxUF9UZVJRRjhEaTJvWURzR2Z1ck9YNE81cktaR2ZicENhTWZRa1Z4X3pmS2xEcTc2N3QzZk9jU0RJeVg2WTdJbnFMMnM4NFpoYzJ6aHd2VzB4al9obGpNdFpXLW80?oc=5\" target=\"_blank\">5月28日国内四大证券报纸、重要财经媒体头条内容精华摘要_每日必读_市场_中金在线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中金在线</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GbDBEMlgxUF9UZVJRRjhEaTJvWURzR2Z1ck9YNE81cktaR2ZicENhTWZRa1Z4X3pmS2xEcTc2N3QzZk9jU0RJeVg2WTdJbnFMMnM4NFpoYzJ6aHd2VzB4al9obGpNdFpXLW80?oc=5",
+      "published": "Wed, 27 May 2026 22:58:09 GMT"
     }
   ]
 }
