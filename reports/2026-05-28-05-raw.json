@@ -1,15 +1,22 @@
 {
   "date": "2026-05-28",
   "hour": "05",
-  "total": 24,
-  "fetched_at": "2026-05-28T05:00:35.858526+08:00",
+  "total": 25,
+  "fetched_at": "2026-05-28T05:45:03.271843+08:00",
   "news": [
     {
       "source": "东方财富",
-      "title": "AI智能体落地按下“加速键” 机构预测17只概念股高增长 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FVXBON2FMQ0FHakNBZUNuQy15TjZSODRVWkRGUzBZeVNuYlBoRmUyTUJMdC1LR29jTENUdjBIMW1na0JrZmhtQk9GRTBYaWJ3ejBMWGk1TVY4aWNOVmFjcUl4cw?oc=5\" target=\"_blank\">AI智能体落地按下“加速键” 机构预测17只概念股高增长</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FVXBON2FMQ0FHakNBZUNuQy15TjZSODRVWkRGUzBZeVNuYlBoRmUyTUJMdC1LR29jTENUdjBIMW1na0JrZmhtQk9GRTBYaWJ3ejBMWGk1TVY4aWNOVmFjcUl4cw?oc=5",
-      "published": "Wed, 27 May 2026 19:07:41 GMT"
+      "title": "密集卡位硬科技赛道！长鑫科技、长江存储、宇树科技身后频现券商身影 资本四大布局路径明晰 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nVVROZmxxaXJEeHhubHlXZjgwaEduQ3FremFtTGpXQ20xa3FTTnZZOTd5YjJUU1FNOVMzYTRVdDZ5VmxMUGxBdEpaMVQ4NDFCdTVEc080MEEzenFheHdER3VjQQ?oc=5\" target=\"_blank\">密集卡位硬科技赛道！长鑫科技、长江存储、宇树科技身后频现券商身影 资本四大布局路径明晰</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1nVVROZmxxaXJEeHhubHlXZjgwaEduQ3FremFtTGpXQ20xa3FTTnZZOTd5YjJUU1FNOVMzYTRVdDZ5VmxMUGxBdEpaMVQ4NDFCdTVEc080MEEzenFheHdER3VjQQ?oc=5",
+      "published": "Wed, 27 May 2026 21:42:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "五角大楼授予微软97亿美元企业软件合同",
+      "summary": "美五角大楼授予微软97亿美元企业软件合同，此举旨在削减成本。",
+      "link": "https://news.10jqka.com.cn/20260528/c677025616.shtml",
+      "published": "Wed, 27 May 2026 21:42:25 GMT"
     },
     {
       "source": "同花顺",
@@ -33,11 +40,18 @@
       "published": "Wed, 27 May 2026 19:57:31 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "遭美国航空拒绝后，美联航CEO排除推动行业合并的可能性",
-      "summary": "美国联合航空（UAL）首席执行官Scott Kirby表示，在可预见的未来，该航空公司预计不会追求航空业的整合合并。就在几周前，美国航空公司（AAL）刚刚拒绝了他提出的潜在合并构想。",
-      "link": "https://news.10jqka.com.cn/20260528/c677025413.shtml",
-      "published": "Wed, 27 May 2026 19:25:34 GMT"
+      "source": "财联社",
+      "title": "财联社5月28日电，美五角大楼授予微软97亿美元企业软件合同，此举旨在削减成本。",
+      "summary": "财联社5月28日电，美五角大楼授予微软97亿美元企业软件合同，此举旨在削减成本。",
+      "link": "https://api3.cls.cn/share/article/2383506?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 27 May 2026 21:25:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社5月28日电，联邦快递公司即将加入标普500指数。",
+      "summary": "财联社5月28日电，联邦快递公司即将加入标普500指数。",
+      "link": "https://api3.cls.cn/share/article/2383505?os=web&sv=8.4.6&app=CailianpressWeb",
+      "published": "Wed, 27 May 2026 21:19:12 GMT"
     },
     {
       "source": "财联社",
@@ -138,11 +152,18 @@
       "published": "Wed, 27 May 2026 19:56:33 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社5月28日电，META股价涨幅扩大至4.3%。",
-      "summary": "财联社5月28日电，META股价涨幅扩大至4.3%。",
-      "link": "https://api3.cls.cn/share/article/2383487?os=web&sv=8.4.6&app=CailianpressWeb",
-      "published": "Wed, 27 May 2026 19:12:24 GMT"
+      "source": "华尔街见闻",
+      "title": "Salesforce季度营收不及预期，AI颠覆隐忧不减｜财报见闻",
+      "summary": "<p><span dir=\"auto\">Salesforce公司</span><span dir=\"auto\">公布的季度营收略低于分析师的预期，放大投资者不安，市场本就担忧人工智能可能会颠覆软件行业。</span></p>\n<p>2027财年第一季度，Salesforce实现总营收111.33亿美元，同比增长13%，低于分析师此前平均预期的114亿美元。其中来自Informatica的贡献约为4.44亿美元。订阅与支持业务营收为105.93亿美元，同比增长14%，Informatica贡献约4.28亿美元。</p>\n<p>从盈利端看，当季GAAP运营利润为23.47亿美元，GAAP运营利润率为21.1%；非GAAP运营利润为38.74亿美元，非GAAP运营利润率34.8%，较上年同期的32.3%显著扩张。GAAP净利润为21.07亿美元，较上年同期的15.41亿美元增长37%。</p>\n<p>当前剩余履约义务（cRPO）达336亿美元，同比增长14%，按固定汇率计算增长13%；总剩余履约义务为679亿美元，同比增长11%，但低于分析师平均预期的689亿美元。</p>\n<p><img",
+      "link": "https://wallstreetcn.com/articles/3773283",
+      "published": "Wed, 27 May 2026 21:30:48 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Robinhood推出AI代理功能，允许客户授权AI自主交易和刷卡消费",
+      "summary": "<p>Robinhood Markets正将人工智能代理的角色从\"顾问\"升级为\"执行者\"。用户可将股票交易与信用卡消费决策直接委托给AI工具，这是金融机构在人工智能应用竞赛中的最新动作。</p>\n<p>Robinhood宣布推出新功能，允许用户将Claude或Cursor等第三方AI工具接入专属投资账户，由AI根据用户指令自主下单交易。该功能同时延伸至消费场景：用户可将AI代理绑定至Robinhood Gold信用卡，授权其搜寻低价、监控库存并代为完成购买。</p>\n<p>该公司产品管理副总裁Abhishek Fatehpuria表示，\"这些面向消费者的AI代理已经开始在市场上进行交易。我们从与客户的沟通中了解到，他们希望在非常安全的方式下，赋予代理使用Robinhood的能力。\"</p>\n<p>目前，该功能仅支持股票交易，期权、加密货币及事件合约功能将在后续推出。每次AI代理完成操作，用户均会收到推送通知，并可在应用程序中实时查看记录，也可随时断开代理连接。</p>\n<p>此举使Robinhood成为首批将AI代理式自主操作能力向零售客户开放的主流金融平台之一。但将大规模财务决策完全",
+      "link": "https://wallstreetcn.com/articles/3773281",
+      "published": "Wed, 27 May 2026 21:02:17 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -157,20 +178,6 @@
       "summary": "<p>亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。\n</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
       "link": "https://wallstreetcn.com/articles/3773285",
       "published": "Wed, 27 May 2026 20:32:49 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "机构：美国战略储备原油有史以来首次运往加利福尼亚州",
-      "summary": "<p>美国战略石油储备（SPR）的原油首次被运往加利福尼亚州，此举凸显伊朗战争<span dir=\"auto\">切断中东原油供应后，贸易流向和航运路线的重塑</span><span dir=\"auto\">。</span></p>\n<p>据路透社报道，船舶追踪机构Kpler披露了这一前所未有的货运动向。此次运输由雪佛龙主导操作，原油在路易斯安那州装载，经由巴拿马中转后抵达加州多家炼厂。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/8d15a5cd-e2be-483c-9d07-67775d153ea5.png\" /></p>\n<div>\n<p>加州曾是美国名列前茅的产油州，但近年来对进口原油的依赖度日益增高，去年从中东进口的原油达到每天约23万桶。由于来自亚洲的竞争性需求，其他替代原油的供应也同样有限。</p>\n<h2 id=\"b58728a5\">复杂中转路线：从路易斯安那经过巴拿马到加州</h2>\n<p>Kpler援引提单数据显示，此次运输的原油为路易斯安那州Bayou Choctaw Sweet品级，其中",
-      "link": "https://wallstreetcn.com/articles/3773279",
-      "published": "Wed, 27 May 2026 19:10:52 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "Meta要靠订阅“回血”？推出AI聊天机器人付费服务，股价盘中拉升超3%",
-      "summary": "<p>在AI军备竞赛烧钱不断升级之际，Meta终于开始把“AI流量”直接变现。</p>\n<p>美东时间27日周三，Meta宣布正式推出覆盖Meta AI、Instagram、Facebook和WhatsApp的订阅体系，希望在广告业务之外开辟新的收入来源。消息公布后，午盘曾小幅转跌超0.5%的Meta股价迅速转涨，并持续扩大涨幅，午盘刷新日高时，日内涨约3.4%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/07d0e56f-89b8-4f33-8dd2-4b03dce28ac2.jpeg\" /></p>\n<p>据报道，这是Meta首次面向消费者为Meta AI聊天机器人推出付费订阅服务。它标志着，Meta向投资者证明巨额AI投入最终能转化为真实收入迈出了重要一步。</p>\n<h2>Meta AI月费7.99美元起，对标OpenAI和谷歌</h2>\n<p>此次Meta AI订阅分为两个等级。</p>\n<p>其中，基础版“Meta One Plus”定价为7.99美元/月，主要面向高频使用AI生成图片、视频以及",
-      "link": "https://wallstreetcn.com/articles/3773280",
-      "published": "Wed, 27 May 2026 19:10:40 GMT"
     }
   ]
 }
