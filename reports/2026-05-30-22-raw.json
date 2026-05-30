@@ -1,9 +1,16 @@
 {
   "date": "2026-05-30",
   "hour": "22",
-  "total": 25,
-  "fetched_at": "2026-05-30T22:00:36.058152+08:00",
+  "total": 23,
+  "fetched_at": "2026-05-30T22:23:27.581605+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "三家A股公司，将终止上市！涉及3.7万股东 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1iamNtZ19RVnRLTUN5Szh0S3ZCWmxXdlR3M3lCZzlHRXJfRExtdC1mWVJkOVVsUlFCMjN0aktWUmhYcGZlZFZ6ZnB4dlV0RkRycHJVMWlTbEY4ZWNJVXBQUU10ZWpKdnJzMTFpU0lFLXptdlE3akE?oc=5\" target=\"_blank\">三家A股公司，将终止上市！涉及3.7万股东</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iamNtZ19RVnRLTUN5Szh0S3ZCWmxXdlR3M3lCZzlHRXJfRExtdC1mWVJkOVVsUlFCMjN0aktWUmhYcGZlZFZ6ZnB4dlV0RkRycHJVMWlTbEY4ZWNJVXBQUU10ZWpKdnJzMTFpU0lFLXptdlE3akE?oc=5",
+      "published": "Sat, 30 May 2026 14:10:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "2026年A股中期策略报告（附下载） - 新浪财经",
@@ -20,24 +27,45 @@
     },
     {
       "source": "新浪财经",
-      "title": "港股刚上市不久 上海这家AI龙头为何又要上A股？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5XNVc5U0VHYnR3Rk5YVWpCWHJJMGRVRFJ5S2hUd1JacGZ5RmZaNEpXNUxaaG44MjM5OXUxVkx0TEZDdjdwLXUyZUFLbTFZZkpVTFY4bF92dmxOOW5RTVNocGM0dW0tXzZVTWZYSWsyeW9xVW80VjNoVQ?oc=5\" target=\"_blank\">港股刚上市不久 上海这家AI龙头为何又要上A股？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XNVc5U0VHYnR3Rk5YVWpCWHJJMGRVRFJ5S2hUd1JacGZ5RmZaNEpXNUxaaG44MjM5OXUxVkx0TEZDdjdwLXUyZUFLbTFZZkpVTFY4bF92dmxOOW5RTVNocGM0dW0tXzZVTWZYSWsyeW9xVW80VjNoVQ?oc=5",
-      "published": "Sat, 30 May 2026 12:19:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "重庆银行股价、市值创五年新高，强劲表现的底层逻辑是什么？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVFpM3c0cUFtdmJXTmMtUDYtcUlaTWJpVlVTdWpRTE10Q29TcUh2eHF4eGFiZk9pT0lZcDMtVzV4SlMxTVpjUlBoemc0dXB4WGxzQ3JGRjBTbHJWVlQxbGFlMV96OXIxSnNNODdRTXZCUVAxNXJYNWNpaWpxTTNhdjNvUUlGLS15ejlPQk1YSnk3ZkRRQVBnX1RGMEFrUWhYX3NWeG12aWRvNXY1akdKMmdaeGMxRHQ5VjdCcHlpcmgyMUxzOGFqNFkyOWJYVEk?oc=5\" target=\"_blank\">重庆银行股价、市值创五年新高，强劲表现的底层逻辑是什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdVFpM3c0cUFtdmJXTmMtUDYtcUlaTWJpVlVTdWpRTE10Q29TcUh2eHF4eGFiZk9pT0lZcDMtVzV4SlMxTVpjUlBoemc0dXB4WGxzQ3JGRjBTbHJWVlQxbGFlMV96OXIxSnNNODdRTXZCUVAxNXJYNWNpaWpxTTNhdjNvUUlGLS15ejlPQk1YSnk3ZkRRQVBnX1RGMEFrUWhYX3NWeG12aWRvNXY1akdKMmdaeGMxRHQ5VjdCcHlpcmgyMUxzOGFqNFkyOWJYVEk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTW5nQmxfUWN3a0FQV0xZN2dZZzB1c0xwdEVVeVF5SWRUVkI1QnhObUhOeUtoQXUwQTQ2VVRhMHktRzhMcVVaZDhFSGFNeUhvdjNEMnlseGFpcjJDQm1QQzdkWEZtUW1XdHFnWVowZk04b1FZa1o4ZXBZREtyMklMUnU4cVgtSlpVNnA3QjNxeUJPMVdKd0ZmMkgzTkxhLXhxaEkzaGJ3dnlUbTNLTkppZEdWdjRwdm4xbUJZSGllZ3ZlRFhDRkhJRUtuSTVqVzNj?oc=5\" target=\"_blank\">重庆银行股价、市值创五年新高，强劲表现的底层逻辑是什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTW5nQmxfUWN3a0FQV0xZN2dZZzB1c0xwdEVVeVF5SWRUVkI1QnhObUhOeUtoQXUwQTQ2VVRhMHktRzhMcVVaZDhFSGFNeUhvdjNEMnlseGFpcjJDQm1QQzdkWEZtUW1XdHFnWVowZk04b1FZa1o4ZXBZREtyMklMUnU4cVgtSlpVNnA3QjNxeUJPMVdKd0ZmMkgzTkxhLXhxaEkzaGJ3dnlUbTNLTkppZEdWdjRwdm4xbUJZSGllZ3ZlRFhDRkhJRUtuSTVqVzNj?oc=5",
       "published": "Sat, 30 May 2026 13:17:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股市场运行周报第94期：科创震荡大盘调整 盯紧趋势线 适当再均衡 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGM5OHFJS24tNXoxV0JoWmRFSjdzRjZWdTJXRGp2WjlsY19YQldEdjNsX2lZazg5MjFKdWZFNjFfdnF4NnlrV2ZPRm1TZEVNRkVfZERBWGZBVmo2emdhZVA1ZjlTSGxLeFhHelFpTXRYQUFVNDJNQTRkN2hLZEFzN1hlRlFpQ0lITkhXOVNDUWFTekZpcmVZ?oc=5\" target=\"_blank\">A股市场运行周报第94期：科创震荡大盘调整 盯紧趋势线 适当再均衡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGM5OHFJS24tNXoxV0JoWmRFSjdzRjZWdTJXRGp2WjlsY19YQldEdjNsX2lZazg5MjFKdWZFNjFfdnF4NnlrV2ZPRm1TZEVNRkVfZERBWGZBVmo2emdhZVA1ZjlTSGxLeFhHelFpTXRYQUFVNDJNQTRkN2hLZEFzN1hlRlFpQ0lITkhXOVNDUWFTekZpcmVZ?oc=5",
-      "published": "Sat, 30 May 2026 12:04:05 GMT"
+      "source": "同花顺",
+      "title": "华为与光明科学城公司、深圳先进院签署产学研协同创新合作备忘录",
+      "summary": "5月29日下午，深圳市光明科学城发展建设有限公司、中国科学院深圳先进技术研究院与华为技术有限公司签署产学研协同创新合作备忘录。根据备忘录，三方将建立长期稳定合作关系，共同搭建“光明科学城生态+合成生物科研+ICT”协同创新体系，推动合成生物学与人工智能、智算算力深度融合，加速基础科研创新能力提升及成果转化。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260530/c677099654.shtml",
+      "published": "Sat, 30 May 2026 14:15:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "北京新开设三个社保国际化示范服务窗口",
+      "summary": "为满足在京外籍人员日益上升的社保服务需求，北京市人力资源和社会保障局近日在东城区、西城区和朝阳区的社保经办大厅分别设立“社会保险国际化示范服务窗口”，为在京外籍人士提供参保、查询、退休、清算等社保服务。下一步，北京市人社部门将发挥首都先行示范优势，深耕涉外社保服务和国际交流合作工作，实现首都涉外社保服务标准统一、全域覆盖、同质高效，为北京国际交往中心建设提供坚实保障。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260530/c677099653.shtml",
+      "published": "Sat, 30 May 2026 14:15:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国裁判马宁、傅明、周飞启程出征2026美加墨世界杯",
+      "summary": "2026年5月30日下午，裁判员马宁、傅明、周飞正式启程，奔赴2026美加墨世界杯，开展赛事执裁备战工作。本届世界杯，马宁、傅明、周飞分别以主裁判、视频助理裁判、助理裁判身份入选裁判员名单。（中国足协）",
+      "link": "https://news.10jqka.com.cn/20260530/c677099638.shtml",
+      "published": "Sat, 30 May 2026 14:09:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "首只印尼出生大熊猫正式公开亮相",
+      "summary": "记者今天（5月30日）从印度尼西亚野生动物园获悉，2025年底在印尼出生的首只大熊猫幼崽“里奥”当天首次正式与公众见面，吸引众多游客前来参观。它的父母是旅居印尼的大熊猫“彩陶”和“湖春”。“里奥”于2025年11月27日在印尼野生动物园出生，“里奥”的出生填补了印尼大熊猫人工繁育的空白，也标志着中国与印尼大熊猫保护合作取得重要成果。印尼总统普拉博沃为其取名“萨特里奥·维拉塔马”，昵称“里奥”，意为“勇敢而高贵的骑士”。（CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20260530/c677099637.shtml",
+      "published": "Sat, 30 May 2026 14:09:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "神舟二十一号乘组刷新中国航天员单个乘组在轨驻留最长纪录",
+      "summary": "5月29日20时11分，神舟二十二号飞船返回舱准确着陆在东风着陆场预定区域，神舟二十一号乘组三名航天员张陆、武飞、张洪章结束近7个月的太空驻留，刷新中国航天员单个乘组在轨驻留时长纪录。乘组在轨期间，完成了多项空间科学实验，实现多个首次突破，包括首次实现小鼠空间密闭在轨饲养、在轨生成低缺陷硒化铟晶体等。此外，乘组还进行了三次出舱活动，张陆个人出舱次数刷新中国航天员纪录。返回前，乘组换乘神舟二十二号飞船进行匹配性测试，并成功携带41.14公斤实验样品返回地球。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260530/c677099635.shtml",
+      "published": "Sat, 30 May 2026 14:09:29 GMT"
     },
     {
       "source": "同花顺",
@@ -131,53 +159,11 @@
       "published": "Sat, 30 May 2026 12:24:49 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "中山大学通报论文图片及数据存疑：多人被处理",
-      "summary": "中山大学发布关于在论文中使用图片及数据存疑的处理通报。该校对相关责任人进行了处理，具体包括对责任人给予警告、记过处分，取消其科研项目申报资格等。同时，该校还对涉及的论文进行了撤稿处理，并对相关领域进行了全面自查。此次事件引起了广泛关注，也引发了对学术诚信的深入思考。（澎湃新闻）",
-      "link": "https://news.10jqka.com.cn/20260530/c677099211.shtml",
-      "published": "Sat, 30 May 2026 12:03:39 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "5月30日周六《新闻联播》要闻13条",
-      "summary": "5月30日周六《新闻联播》要闻13条1、习近平同埃及总统就中埃建交70周年互致贺电李强同埃及总理互致贺电；2、【新思想引领新征程】矢志创新勇攀高峰加快建设科技强国；3、李强对安全生产工作作出重要批示强调坚决贯彻落实习近平总书记关于安全生产的重要指示精神切实维护人民群众生命财产安全和社会大局稳定；4、神舟二十一号飞行乘组返回任务圆满成功；5、湖北省委主要负责同志职务调整；6、前四个月我国软件业运行情况良好；7、七部门联合印发通知深化文旅和工业融合发展；8、财政部在香港发行60亿元人民币绿色主权债券；9、中央企业科技成果产业化联合体成立；10、中央网信办开展专项行动整治恶意炒作涉企信息；11、俄总统称俄乌冲突临近收尾乌称前线战事激烈罗马尼亚称俄无人机在罗境内坠毁俄称西方炒作无人机事件意在转移注意力；12、伊朗与阿曼讨论霍尔木兹海峡问题；13、日本外汇干预规模创新高日元仍处低位。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260530/c677099209.shtml",
-      "published": "Sat, 30 May 2026 12:03:20 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中国机械工业联合会副会长罗俊杰：机械工业“十五五”规划正在修改完善",
-      "summary": "中国机械工业联合会副会长罗俊杰5月30日在“2026装备强国论坛”上表示，机械工业是战略性新兴产业与未来产业的重要组成部分，肩负着推进新型工业化、构建现代化产业体系的重要使命。面对新形势、新要求，中国机械工业联合会正组织行业力量编制机械工业“十五五”规划，目前该规划正在修改完善中，后续将正式发布。罗俊杰介绍，机械工业“十五五”规划包含1个综合规划，即《机械工业“十五五”发展纲要》；29个专业规划，覆盖农机、内燃机、汽车、电工电器、重型机械、工程机械、石油石化装备、通用机械、环保装备、动力电池等；另有13个专题规划，聚焦科技、品牌、质量、标准、智能制造等。（中证金牛座）",
-      "link": "https://news.10jqka.com.cn/20260530/c677099203.shtml",
-      "published": "Sat, 30 May 2026 12:02:13 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "农业农村部部署推进抢晴抢收夏粮",
-      "summary": "从农业农村部获悉，当前，黄淮海主产区夏粮陆续开始大面积收获。农业农村部指导各地抢抓晴好天气窗口期，合理调度收割机，精心组织跨区机收，强化服务保障，力争成熟一块收获一块。据中央气象台预报，未来五天黄淮海大部天气晴好、气温适宜，对小麦灌浆成熟和收获晾晒十分有利。农业农村部有关负责人表示，农业农村部近日派出工作组赴主产区重点市县巡回指导，协调解决实际困难问题；联合交通运输部优化跨区作业农机运输检验程序，保障运输通行顺畅；与中国气象局联合会商，为农机手作业提供精准气象服务；与石油石化系统对接做好燃油保供，落实优惠政策，继续推行“安全送油下乡”“安全送油到田”服务。（农业农村部）",
-      "link": "https://news.10jqka.com.cn/20260530/c677099202.shtml",
-      "published": "Sat, 30 May 2026 12:01:57 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中国华能集团原总会计师王益华被查",
-      "summary": "中国华能集团有限公司原党组成员、总会计师王益华涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260530/c677099201.shtml",
-      "published": "Sat, 30 May 2026 12:01:28 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "李强：纵深推进安全生产治本攻坚三年行动，切实维护人民群众生命财产安全和社会大局稳定",
-      "summary": "<p>全国安全生产视频会议5月30日在京召开。中共中央政治局常委、国务院总理李强日前对做好安全生产工作作出重要批示。</p>\n<p>批示指出：今年以来，部分地方和行业领域安全事故多发频发，给人民群众生命财产造成重大损失，教训极为深刻。各地区各部门要坚决贯彻落实习近平总书记关于安全生产的重要指示精神，按照党中央决策部署，坚持人民至上、生命至上，<strong>纵深推进安全生产治本攻坚三年行动，提升风险隐患排查质效，严肃查处安全生产非法违法和弄虚作假等行为，有力发挥震慑遏制效果。</strong></p>\n<p>要始终把弦绷紧，坚持防微杜渐，<strong>加强矿山、烟花爆竹、交通运输、工程施工等重点行业领域全链条、穿透式安全监管和治理，</strong>下大力气解决安全生产领域深层次矛盾问题，压实责任、狠抓落实，坚决遏制重特大事故多发势头。当前正值汛期，防汛救灾形势严峻复杂，<strong>要坚决克服麻痹思想，加强监测预警、会商研判和应急准备，筑牢事故灾害防线，提高抢险救援能力，切实维护人民群众生命财产安全和社会大局稳定。</strong></p>\n<p>中共中央政治局委员、国务院副总理",
-      "link": "https://wallstreetcn.com/articles/3773502",
-      "published": "Sat, 30 May 2026 12:04:32 GMT"
-    },
-    {
       "source": "第一财经",
-      "title": "AI进化速递 | MiniMax启动A股IPO辅导备案",
-      "summary": "<figure><img alt=\"AI进化速递 | MiniMax启动A股IPO辅导备案\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/69070cc212bb4e2ec3e2ef53b0970a1a.jpg\" /></figure><p>全国首个绿色算力全栈AI平台在呼和浩特正式上线；小米MiMo首次公开模型推理系统全链路优化技术细节。</p><p>①MiniMax启动A股IPO辅导备案；</p>\n\n<p>②全国首个绿色算力全栈AI平台在呼和浩特正式上线；</p>\n\n<p>③中科曙光董事长历军：科学智能时代已至，超智融合重构AI计算；</p>\n\n<p>④消息称OpenAI秘密研发智能手机，意在与IPhone直接竞争；</p>\n\n<p>⑤腾讯云数据库面向Agent全面升级，三大AI原生能力加速落地。</p>",
-      "link": "https://www.yicai.com/news/103208629.html",
-      "published": "Sat, 30 May 2026 12:16:57 GMT"
+      "title": "新兴市场债存在结构性韧性 瑞银看好中国高收益机会 - 第一财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IQTlzWVlVcUpINWl4WU1ScGE5eF9MQlljdGd6ZXBHUVkwOTFDOVFsa0JXeTNiSnFaUE5rd2Y1dC03QjJrT1d5azU3aTBXWE5BX08yUA?oc=5\" target=\"_blank\">新兴市场债存在结构性韧性 瑞银看好中国高收益机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IQTlzWVlVcUpINWl4WU1ScGE5eF9MQlljdGd6ZXBHUVkwOTFDOVFsa0JXeTNiSnFaUE5rd2Y1dC03QjJrT1d5azU3aTBXWE5BX08yUA?oc=5",
+      "published": "Sat, 30 May 2026 12:33:15 GMT"
     }
   ]
 }
