@@ -1,8 +1,8 @@
 {
   "date": "2026-05-31",
   "hour": "19",
-  "total": 7,
-  "fetched_at": "2026-05-31T19:00:33.305280+08:00",
+  "total": 28,
+  "fetched_at": "2026-05-31T19:25:45.105785+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,13 +10,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBhaFV2ZVlhY1hQS0JUWkttRlV0Q21kSm9WNWx4UTZmZFhfWmFCZEZrWnVySFk4WWZ6eElicjh5MmloaGxmR1ZibVBIZmhDRWg0cTRWQzU3bjZ5dVVhR0J1Yk1BV2tsYmhCMm5LWTZubTlBSVpYZUV1aQ?oc=5\" target=\"_blank\">A股6月怎么走？六大机构研判来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhaFV2ZVlhY1hQS0JUWkttRlV0Q21kSm9WNWx4UTZmZFhfWmFCZEZrWnVySFk4WWZ6eElicjh5MmloaGxmR1ZibVBIZmhDRWg0cTRWQzU3bjZ5dVVhR0J1Yk1BV2tsYmhCMm5LWTZubTlBSVpYZUV1aQ?oc=5",
       "published": "Sun, 31 May 2026 10:05:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "一夜7家A股公司被点名：财务造假、实控人被公诉、股价暴跌90% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSG12aG9Cdno1bzJxTXpEa1NoVG44eWNKU2Rzb1FiNVc4LTVxNHVWbTZFX1c3RWV6amlvNEVRTDhKd09zb0JCWkZvOVlwWjZPVGxDZFFnZmMyejBsRW1mckZqUGtaLVJ1cGZlM21NOWZISjhaaFE?oc=5\" target=\"_blank\">一夜7家A股公司被点名：财务造假、实控人被公诉、股价暴跌90%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSG12aG9Cdno1bzJxTXpEa1NoVG44eWNKU2Rzb1FiNVc4LTVxNHVWbTZFX1c3RWV6amlvNEVRTDhKd09zb0JCWkZvOVlwWjZPVGxDZFFnZmMyejBsRW1mckZqUGtaLVJ1cGZlM21NOWZISjhaaFE?oc=5",
-      "published": "Sun, 31 May 2026 09:23:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -33,25 +26,179 @@
       "published": "Sun, 31 May 2026 10:49:55 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "国金证券：市场震荡期，分子端仍是关注点 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uOUtRMmJWWkg4aXNFdTdPUVpvdkRGeVdlcjFOTENacjhKQ2M1SnNPSTRTcXBXNklFQUVtNC00Q2tBWU13SVpBejhoMHJHVFlobENKR3ZBNjlya1EyV2ZuOFloZw?oc=5\" target=\"_blank\">国金证券：市场震荡期，分子端仍是关注点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uOUtRMmJWWkg4aXNFdTdPUVpvdkRGeVdlcjFOTENacjhKQ2M1SnNPSTRTcXBXNklFQUVtNC00Q2tBWU13SVpBejhoMHJHVFlobENKR3ZBNjlya1EyV2ZuOFloZw?oc=5",
-      "published": "Sun, 31 May 2026 10:04:50 GMT"
+      "source": "同花顺",
+      "title": "MiniMax Group Inc.：拟于科创板上市",
+      "summary": "MiniMax Group Inc.公告，董事会宣布已决议探究拟发行人民币股份的初步建议，可能涉及与专业顾问订立协议及与相关证券或其他监管机构进行咨询及磋商。公司已聘请专业顾问就符合在科创板上市条件提供咨询，并签订辅导协议。拟发行人民币股份事宜将取决于市场状况及必要的监管批准。\n\n注：人民币股份指由目标认购人于中国将以人民币认购的普通股，将于科创板上市及以人民币交易。",
+      "link": "https://news.10jqka.com.cn/20260531/c677103035.shtml",
+      "published": "Sun, 31 May 2026 11:12:39 GMT"
     },
     {
       "source": "同花顺",
-      "title": "华鑫证券：给予拓荆科技买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1aEdBSmhseGVwYWc5ZXZGZ1c3alE4N2l1Z0EzZnJ4aGNRRkZhakc2T1N0NXF0SlV4dlJ5dk5PM2ZoX3YtTmZmbjBQcmctcnFlN2JpdDNTUl9MZi0zcUE?oc=5\" target=\"_blank\">华鑫证券：给予拓荆科技买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1aEdBSmhseGVwYWc5ZXZGZ1c3alE4N2l1Z0EzZnJ4aGNRRkZhakc2T1N0NXF0SlV4dlJ5dk5PM2ZoX3YtTmZmbjBQcmctcnFlN2JpdDNTUl9MZi0zcUE?oc=5",
-      "published": "Sun, 31 May 2026 09:22:53 GMT"
+      "title": "扎波罗热核电站运输车间再遭袭 6辆通勤车被摧毁",
+      "summary": "扎波罗热核电站主管部门5月31日通过社交媒体发布消息称，当天，核电站运输车间遭到乌克兰武装部队袭击，6辆通勤班车和2辆汽车被摧毁。无人员伤亡。消息指出，该设施已成为过去数月乌军最常攻击的目标之一，车间内的公务车辆以及运送员工穿越市区的通勤班车常遭波及。消息同时确认，尽管袭击持续，扎波罗热核电站仍在正常运行，运行安全得到全面保障，所有技术参数均处于持续监控之下。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677103027.shtml",
+      "published": "Sun, 31 May 2026 11:09:54 GMT"
     },
     {
       "source": "同花顺",
-      "title": "不一样的对话！华金证券华一：未来五年是优秀管理人的“黄金期” - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSEExYkZxNlNHV0M4OFVZbDBLOHktS195Nk5PR05PS0o4dTJBd2tEOFF4MTdCRXVJSERRRHBycFhVSUtnV0QzRDd5MlU0M2FsWFpncVJJdndWd3RyVlFZNDJR?oc=5\" target=\"_blank\">不一样的对话！华金证券华一：未来五年是优秀管理人的“黄金期”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSEExYkZxNlNHV0M4OFVZbDBLOHktS195Nk5PR05PS0o4dTJBd2tEOFF4MTdCRXVJSERRRHBycFhVSUtnV0QzRDd5MlU0M2FsWFpncVJJdndWd3RyVlFZNDJR?oc=5",
-      "published": "Sun, 31 May 2026 10:43:16 GMT"
+      "title": "法国外长要求安理会就以色列在黎军事行动召开紧急会议",
+      "summary": "当地时间5月31日，法国外长巴罗宣布，他已要求召开一次联合国安全理事会紧急会议，讨论以色列在黎巴嫩境内开展的军事行动。巴罗在接受采访时表示：“没有任何理由能够为以色列在黎巴嫩持续进行军事行动，以及其在黎巴嫩领土上不断加深的占领行为提供正当性。”他进一步指出：“对于以色列而言，这是一个严重错误。”他同时表示，为恢复和保障霍尔木兹海峡航行自由而组建国际行动的方案“当然仍然在考虑之中”。他说：“相关规划工作已经取得较大进展。”巴罗补充称，法国目前也正在就这一问题与伊朗和美国保持沟通与磋商。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677103026.shtml",
+      "published": "Sun, 31 May 2026 11:09:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以总理称已指示以军在黎巴嫩扩大军事行动",
+      "summary": "以色列总理内塔尼亚胡当地时间31日表示，已指示以色列军队在黎巴嫩扩大军事行动。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677103025.shtml",
+      "published": "Sun, 31 May 2026 11:09:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“超碳一号”第二台机组成功并网发电",
+      "summary": "记者今天（31日）从中核集团获悉，近日，位于贵州六盘水的超临界二氧化碳余热发电项目——“超碳一号”的第二台机组，成功实现并网发电，标志着全球首个超临界二氧化碳余热发电技术示范工程全面建成。两台机组全部投运后，“超碳一号”将形成30兆瓦稳定装机容量。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677103024.shtml",
+      "published": "Sun, 31 May 2026 11:09:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "南通港首次承接大规模商品汽车滚装出口业务",
+      "summary": "31日下午，装载7273辆比亚迪新能源汽车的“济南号”滚装船，缓缓驶离江苏南通港码头，发往意大利、西班牙等欧洲国家。这是南通港首次承接大规模商品汽车滚装出口业务。这标志着南通具备大规模汽车出口能力，为我国新能源汽车出海打通了新通道。此次出口的车辆来自比亚迪合肥、西安、常州、镇江等多个生产基地，经铁路、公路集中运抵南通洋吕铁路汽车物流基地，再通过滚装船发往欧洲，“铁路集货、港口装船、海运出海”的多式联运模式，显著提升了物流效率。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260531/c677103023.shtml",
+      "published": "Sun, 31 May 2026 11:09:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "从“走出去”到“走得稳” 民企不断提升竞争力",
+      "summary": "近日，由国家发展改革委民营经济发展局组织的“民营企业提升国际竞争力培训班”在上海举办。多位专家和来自中国民营企业500强、专精特新“小巨人”企业、制造业单项冠军企业的100位民营企业高管共同探讨民营企业稳妥有序拓展海外市场的方略。中国工业经济学会名誉会长、中国社会科学院大学教授江小涓在授课中指出，“十五五”时期机遇与挑战并存，坚持开放合作、互利共赢是中国式现代化的必然要求。作为企业管理者，要努力寻求新形势新目标下的发展机遇，在与各国企业的竞争合作中，带领企业实现更高水平的可持续发展。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102920.shtml",
+      "published": "Sun, 31 May 2026 10:38:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英国首相斯塔默宣布最大铁路运营商收归国有",
+      "summary": "英国首相斯塔默宣布，英国客运量最大的铁路运营商戈维亚泰晤士连线铁路公司（GTR）即日起将收归国有。他表示，此举是修复英国铁路系统的承诺的一部分。GTR运营4条铁路线路，负责英国约六分之一的铁路客运量，是英国最大的铁路运营商。此前，英国政府已于2025年5月25日正式将西南铁路公司收归国有。按照政府计划，目前与交通部签约运营的铁路服务将于2027年年底前全部回归国有，由未来将设立的大不列颠铁路公司统一管理列车运营与铁路基础设施。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102915.shtml",
+      "published": "Sun, 31 May 2026 10:38:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗南帕尔斯气田三座海上平台恢复生产",
+      "summary": "伊朗南帕尔斯气田三座海上平台恢复生产。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102874.shtml",
+      "published": "Sun, 31 May 2026 10:30:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗展示一款新型攻击艇",
+      "summary": "据伊朗法尔斯通讯社今天（5月31日）报道，伊朗 5月30日展示了一款最新型的攻击艇，成为伊朗海军力量的新象征。 (CCTV国际时讯)",
+      "link": "https://news.10jqka.com.cn/20260531/c677102845.shtml",
+      "published": "Sun, 31 May 2026 10:26:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "《关于进一步深化国资国企改革的方案（2026—2029年）》已经下发",
+      "summary": "记者从多方确认，《关于进一步深化国资国企改革的方案（2026—2029年）》已经下发。公开信息显示，5月以来，山东省、河南省、湖北省等召开省委常委会会议，研究本省深化国资国企改革工作。云南省玉溪高新区、江苏省徐州市沛县、内蒙古鄂托克旗等相继传达学习《方案》。央企集团层面，中国电气装备集团于5月12日召开2026年深化改革暨建设一流工作会议。会议要求全集团把《方案》内容学深悟透，制定符合集团公司发展实际的改革方案和改革台账。各级子企业要根据集团公司统一部署，系统谋划好下一轮改革行动，全力以赴推动深化改革高质量高标准开局起步。 (证券时报)",
+      "link": "https://news.10jqka.com.cn/20260531/c677102835.shtml",
+      "published": "Sun, 31 May 2026 10:22:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以军称识别到多个自黎巴嫩方向发射的飞行物",
+      "summary": "当地时间31日，以色列国防军发布声明表示，以色列北部多地拉响防空警报。以军称，识别到多枚从黎巴嫩方向向以色列境内发射的监测物。以军称，以色列空军拦截了其中大部分监测物，其余监测物按照相关程序坠落在空旷区域。此外，以军表示，当天12时37分，基里亚特什莫纳地区因疑似飞行器进入拉响警报。以军随后识别到一个可疑空中目标。以军称，上述事件均未造成人员伤亡。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102780.shtml",
+      "published": "Sun, 31 May 2026 10:10:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“洪迪厄斯”号邮轮已完成全面消毒 获准恢复航行",
+      "summary": "当地时间31日，荷兰当地消息称，曾爆发致命汉坦病毒疫情的“洪迪厄斯”号邮轮，在经过彻底清洁和检查后，已被宣布无病毒，并获准恢复运营。荷兰“泛海探险”公司预计将于6月13日恢复 “洪迪厄斯”号邮轮的定期航行。下一次计划中的探险将从斯匹次卑尔根岛朗伊尔城出发，航行穿过北艾海的群岛。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102772.shtml",
+      "published": "Sun, 31 May 2026 10:08:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "6月1日起，102项国家标准正式实施",
+      "summary": "记者今天从国家标准委了解到，6月1日起102项国家标准开始实施，将为保障公共安全、保护消费者权益和百姓健康安全、助力国民经济高质量发展等提供标准支撑。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102747.shtml",
+      "published": "Sun, 31 May 2026 10:03:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗批准20种农产品及加工产品出口",
+      "summary": "伊朗贸易发展组织公布了第十批出口禁令例外清单，涉及20种农产品及加工产品出口。其中包括干菜、低脂牛奶、罐头食品和矿泉水等农产品及加工产品。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102731.shtml",
+      "published": "Sun, 31 May 2026 09:59:13 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "狮头股份：发行股份及支付现金购买资产并募集配套资金暨关联交易事项中止审核",
+      "summary": "狮头股份公告，公司拟通过发行股份及支付现金方式购买杭州利珀科技股份有限公司97.4399%股份并募集配套资金，因评估报告有效期于2026年5月30日到期，公司进行加期评估并对材料更新，相关工作尚在准备中，上海证券交易所已中止审核本次交易事项。",
+      "link": "https://news.10jqka.com.cn/20260531/c677102728.shtml",
+      "published": "Sun, 31 May 2026 09:57:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "华夏基金：巴西ETF暂停申购赎回业务",
+      "summary": "华夏基金公告，旗下基金华夏布拉德斯科巴西伊博维斯帕ETF（QDII）自2026年6月4日起暂停申购和赎回业务。暂停申购起始日为2026年6月4日，暂停赎回起始日同样为2026年6月4日。这一决定是基于基金境外主要投资场所的节假日休市安排，旨在保护基金份额持有人的利益，保障基金平稳运作。2026年6月5日起，本基金将恢复办理申购、赎回业务，届时将不再另行公告。",
+      "link": "https://news.10jqka.com.cn/20260531/c677102726.shtml",
+      "published": "Sun, 31 May 2026 09:56:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "电影《给阿嬷的情书》总票房破14亿元",
+      "summary": "5月31日，据猫眼专业版数据，电影《给阿嬷的情书》 上映32天，总票房破14亿元。",
+      "link": "https://news.10jqka.com.cn/20260531/c677102670.shtml",
+      "published": "Sun, 31 May 2026 09:43:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
+      "summary": "当地时间5月31日，伊朗议会议长卡利巴夫在第十二届议会第三年第一次会议的开场讲话中表示，外交领域的战士们对敌人的言论和承诺绝无半分信任。伊朗唯一的衡量标准是必须获得的客观实体成果，在此基础上，伊朗才会履行相应的承诺。在确保伊朗人民的合法权益得到完全保障之前，伊朗绝不会批准任何协议。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260531/c677102628.shtml",
+      "published": "Sun, 31 May 2026 09:25:46 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "6月，验牌",
+      "summary": "<p><strong>1、<span>市场震荡期，分子端仍是关注点</span></strong></p>\n<p><span>本周</span>A<span>股高位震荡，前期涨幅相对落后的煤炭、电力及消费板块出现明显反弹。在本轮以</span><span style=\"font-family: Calibri;\">AI</span><span>资本开支为驱动的行情中，分子端的变化正是决定市场转换的核心因素，以更能体现本轮硬件行情的电子板块为例：尽管过去一个季度电子行业成交额集中度处于历史最高水平，而其利润占全</span><span style=\"font-family: Calibri;\">A</span><span>的比例同样回到历史高位，对</span><span style=\"font-family: Calibri;\">2026Q1</span><span>全</span><span style=\"font-family: Calibri;\">A</span><span>利润增长的边际贡献达到</span><span style=\"font-family: Calibri;\"",
+      "link": "https://wallstreetcn.com/articles/3773524",
+      "published": "Sun, 31 May 2026 11:06:59 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "6月变盘点？这是不看好SpaceX IPO的12个理由",
+      "summary": "<p>SpaceX或许是人类有史以来最酷的公司之一，但这并不意味着它会成为一笔好投资。</p>\n<p>随着SpaceX IPO预期持续升温，市场对这家火箭公司的估值热情已接近狂热。</p>\n<p><strong>当前定价约为市销率107倍，远超史上最贵IPO的历史均值，而预测市场甚至将数万亿美元市值视为基准情形。</strong></p>\n<p>这种全面一致的看多情绪，在华尔街历史上往往是顶部形成的前兆。</p>\n<p>对投资者而言，真正的风险不在于SpaceX能否成功，这一点实际上几乎无人质疑。<strong>核心风险在于IPO定价已将所有乐观预期充分计入，留给买入者的安全边际极为有限。</strong></p>\n<p>从思科到亚马逊再到特斯拉，改变世界的公司都经历过估值泡沫破裂后的惨烈回撤。<strong>历史一再表明，伟大的公司与伟大的股票之间，并不能画上等号。</strong></p>\n<p><span dir=\"auto\">以下是不看好SpaceX IPO的12个理由。</span></p>\n<div>\n<h2 id=\"c071d0b4\">理由一：全市场最拥挤的共识交易</h",
+      "link": "https://wallstreetcn.com/articles/3773522",
+      "published": "Sun, 31 May 2026 10:55:59 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "《关于进一步深化国资国企改革的方案（2026-2029年）》已经下发",
+      "summary": "<p>从多方确认，《关于进一步深化国资国企改革的方案（2026-2029年）》已经下发。公开信息显示，5月以来，山东省、河南省、湖北省等召开省委常委会会议，研究本省深化国资国企改革工作。云南省玉溪高新区、江苏省徐州市沛县、内蒙古鄂托克旗等相继传达学习《方案》。央企集团层面，中国电气装备集团于5月12日召开2026年深化改革暨建设一流工作会议。会议要求全集团把《方案》内容学深悟透，制定符合集团公司发展实际的改革方案和改革台账。各级子企业要根据集团公司统一部署，系统谋划好下一轮改革行动，全力以赴推动深化改革高质量高标准开局起步。（证券时报）</p>",
+      "link": "https://wallstreetcn.com/livenews/3111921",
+      "published": "Sun, 31 May 2026 10:24:31 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "“十五五”期间城市更新能拉动多少投资，钱从哪儿来？",
+      "summary": "<figure><img alt=\"“十五五”期间城市更新能拉动多少投资，钱从哪儿来？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/c056fff40e828f80b89163f6f0d69d78.jpg\" /></figure><p>市场预计，“十五五”期间，城市更新平均每年拉动3万亿投资。</p><p>在“十五五”期间，城市更新能够拉动多少投资？钱从哪儿来？</p>\n\n<p>国务院近日发布的《城市更新“十五五”规划》（下称“规划”）是首个国家层面的城市更新发展规划，也是“十五五”规划纲要公布后首个在细分行业领域落地的专项规划。该规划一经发布，上述话题引起市场广泛讨论。</p>\n\n<p>华创证券研报认为，从城市更新投资额来看，“十五五”期间城市更新至少完成15万亿元，平均每年3万亿元，略高于2023、2024年城市更新投资完成额。据住建部数据，2023、2024年城市更新投资完成额分别为2.6万亿、2.9万亿元，每年完成的项目约6万个。</p>\n\n<p>聚集于城市基础设施的更新改造，中规院高级工程师吕红亮提出，据测算“十五",
+      "link": "https://www.yicai.com/news/103208852.html",
+      "published": "Sun, 31 May 2026 10:47:30 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "机构论后市丨AI主线继续演绎；继续围绕着AI产业链和战略资源做配置",
+      "summary": "<figure><img alt=\"机构论后市丨AI主线继续演绎；继续围绕着AI产业链和战略资源做配置\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/9724e8dc7fcb6749a41677372d543c2e.jpg\" /></figure><p>A股后市怎么走？看看机构怎么说。</p><p>沪指本周累计跌1.08%，深证成指跌0.14%，创业板指涨2.52%。A股后市怎么走？看看机构怎么说：</p>\n\n<p><strong>①国金证券：市场轮动的核心在分子端不在分母端</strong></p>\n\n<p>国金证券研报表示，本周A股高位震荡，前期涨幅相对落后的煤炭、电力及消费板块出现明显反弹。在本轮以AI资本开支为驱动的行情中，分子端的变化正是决定市场转换的核心因素，以更能体现本轮硬件行情的电子板块为例：尽管过去一个季度电子行业成交额集中度处于历史最高水平，而其利润占全 A 的比例同样回到历史高位，对2026Q1全A利润增长的边际贡献达到15%，市场过去的交易集中正是对于边际信息的集中反馈，因此具有合理性。展望未来，在全球",
+      "link": "https://www.yicai.com/news/103208857.html",
+      "published": "Sun, 31 May 2026 10:21:39 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "北交所并购重组持续推进，多家公司月内出手收购",
+      "summary": "<figure><img alt=\"北交所并购重组持续推进，多家公司月内出手收购\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/05/bbaf582124ee2a4c8ff95556acc4f2f5.jpg\" /></figure><p>多起北交所并购案推进中。</p><p>受“并购六条”等政策利好驱动，并购市场持续活跃，北交所公司亦陆续出手收购。</p>\n\n<p>华洋赛车（920058.BJ）近期披露，该公司拟收购重庆峻驰摩托车有限公司（下称“重庆峻驰”）49%股权，交易总价预计不超过6000万元，交易完成后，后者将成为华洋赛车全资子公司。</p>\n\n<p>就在近期，另一家北交所公司五新智能（920174.BJ）也披露了收购消息，该公司曾在前期完成对怀化市兴中科技股份有限公司（下称“兴中科技”）等2家公司的收购，此次计划收购兴中科技的剩余股权，以实现100%控股。</p>\n\n<p>此外，去年底至今，北交所多起并购案推进。科达自控（920932.BJ）以2.09亿元“吃下”海图科技，成为北交所公司收购新三板企业的首例；创远信科（92",
+      "link": "https://www.yicai.com/news/103208833.html",
+      "published": "Sun, 31 May 2026 09:52:29 GMT"
     }
   ]
 }
