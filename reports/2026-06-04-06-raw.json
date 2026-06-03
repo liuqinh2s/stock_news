@@ -1,9 +1,44 @@
 {
   "date": "2026-06-04",
   "hour": "06",
-  "total": 34,
-  "fetched_at": "2026-06-04T06:00:38.353556+08:00",
+  "total": 38,
+  "fetched_at": "2026-06-04T06:57:47.981606+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "广发恒生A股电网设备ETF净值上涨1.22% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2h2cTNCR2gtam1wVmQ0d25MbGVieEVYUldLTDhtTVIwbjF4YWZLR2J5VWdOTXBWRkN0LS1pV2EzVlg4d08zMnN4aFFYempWVW9IbnFNUG56dFBGb2Vvc0ZZVXlxX0tnRG1Dc0dyRXl5eTZlaGl0QmtBcXN4QnFSV1hNM0pYY0RiUnJ6dkF0Q1RDVDJhRnpB?oc=5\" target=\"_blank\">广发恒生A股电网设备ETF净值上涨1.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2h2cTNCR2gtam1wVmQ0d25MbGVieEVYUldLTDhtTVIwbjF4YWZLR2J5VWdOTXBWRkN0LS1pV2EzVlg4d08zMnN4aFFYempWVW9IbnFNUG56dFBGb2Vvc0ZZVXlxX0tnRG1Dc0dyRXl5eTZlaGl0QmtBcXN4QnFSV1hNM0pYY0RiUnJ6dkF0Q1RDVDJhRnpB?oc=5",
+      "published": "Wed, 03 Jun 2026 22:39:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "鹏华中证A股资源产业指数(LOF)A净值上涨0.66% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnpYMXB4WnpTNkR3blZHNXZrSHM1M2I2NElNLTNmZWpreldfU3VqcklmLXg2RUNXaDNXR3FQR20xeTUtZ3hKc3M1c180MlZHMldUNnlMcVkzNFhtbUtuVDA5TXJhMnZFWGdxQnVRRGxiakdMNEh3emQxS1RBOTVqNnlHSC1BbTcxN3VsYlFxX3JHZUxnc3Rj?oc=5\" target=\"_blank\">鹏华中证A股资源产业指数(LOF)A净值上涨0.66%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUnpYMXB4WnpTNkR3blZHNXZrSHM1M2I2NElNLTNmZWpreldfU3VqcklmLXg2RUNXaDNXR3FQR20xeTUtZ3hKc3M1c180MlZHMldUNnlMcVkzNFhtbUtuVDA5TXJhMnZFWGdxQnVRRGxiakdMNEh3emQxS1RBOTVqNnlHSC1BbTcxN3VsYlFxX3JHZUxnc3Rj?oc=5",
+      "published": "Wed, 03 Jun 2026 22:42:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "鹏华中证A股资源产业指数(LOF)I净值上涨0.65% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkhRZER4ZGNYUlJMNUtqUy05MkVUWnZXcWUwUFlRTXhRSWRtSEY2OXAyNG1wc0h6Nno3WjRralhOTnB0VWd2YmswcUtva0Y0YU1kSzNRS2U2czdrT0tsNmFhTUQxak5CYnBTSm14eU1VVnFvRmdLOXlmSmx6eUVqTkhsTmtxUFpQQUFoRXczYkc2Q2c4dDFZ?oc=5\" target=\"_blank\">鹏华中证A股资源产业指数(LOF)I净值上涨0.65%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkhRZER4ZGNYUlJMNUtqUy05MkVUWnZXcWUwUFlRTXhRSWRtSEY2OXAyNG1wc0h6Nno3WjRralhOTnB0VWd2YmswcUtva0Y0YU1kSzNRS2U2czdrT0tsNmFhTUQxak5CYnBTSm14eU1VVnFvRmdLOXlmSmx6eUVqTkhsTmtxUFpQQUFoRXczYkc2Q2c4dDFZ?oc=5",
+      "published": "Wed, 03 Jun 2026 22:32:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰恒生A股电网设备ETF发起联接A净值上涨1.17% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXllQUtRZGJtZW1DbzlkZ193YnVzQUJKekJrTHRzLU52TkpRN3NWcWNjTEJHUGN2bTlyR3U0UDFoWXRPZTZDbkFsN2lmWTJGTFY3TEFRaWYzd21VQUJoUzJtUkZsb3RERUhqWElab3dUOGJETjhoZzR6SUcwZTVOUEs4S0tJeEtYSU5oTm5vVkFXRWczbUQ4?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF发起联接A净值上涨1.17%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMXllQUtRZGJtZW1DbzlkZ193YnVzQUJKekJrTHRzLU52TkpRN3NWcWNjTEJHUGN2bTlyR3U0UDFoWXRPZTZDbkFsN2lmWTJGTFY3TEFRaWYzd21VQUJoUzJtUkZsb3RERUhqWElab3dUOGJETjhoZzR6SUcwZTVOUEs4S0tJeEtYSU5oTm5vVkFXRWczbUQ4?oc=5",
+      "published": "Wed, 03 Jun 2026 22:29:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "鹏华中证A股资源产业指数(LOF)C净值上涨0.66% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNekpORFQzX3pOZk1IXzJDTHo2YXNSY3gzMVRja2pzdjRicmNmSkpXWnVkQnpvdi04Y1I2LXdUYUVxUk53NWtUdWxEZ09ZVGM2dm83am81ODF6SUUzSHVGR2NYNWpxQkVyNG9PcHc3Q1RzMTF5T1NHR21KNGNCaGRBbTBwOEtwLTdRSENDb0E3NmZFdWp2bFo0?oc=5\" target=\"_blank\">鹏华中证A股资源产业指数(LOF)C净值上涨0.66%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekpORFQzX3pOZk1IXzJDTHo2YXNSY3gzMVRja2pzdjRicmNmSkpXWnVkQnpvdi04Y1I2LXdUYUVxUk53NWtUdWxEZ09ZVGM2dm83am81ODF6SUUzSHVGR2NYNWpxQkVyNG9PcHc3Q1RzMTF5T1NHR21KNGNCaGRBbTBwOEtwLTdRSENDb0E3NmZFdWp2bFo0?oc=5",
+      "published": "Wed, 03 Jun 2026 21:57:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "华宝标普中国A股红利机会ETF联接C净值下跌0.97% - 新浪财经",
@@ -27,17 +62,115 @@
     },
     {
       "source": "东方财富",
-      "title": "致证券的非登记持有人之通知及申请表格 - 股吧",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVzFWTFpPUk1TTUJ6bEQzeE5MMDF1cnFMbUNaanlMWHFIRmpuYlZkUDNMY1hacXdrYW5JVjFpRmVnclBXQzdEdjdLbzhMbkh1R3BxV0FFRERkc0RvSGVISXM0V2N0UQ?oc=5\" target=\"_blank\">致证券的非登记持有人之通知及申请表格</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwVzFWTFpPUk1TTUJ6bEQzeE5MMDF1cnFMbUNaanlMWHFIRmpuYlZkUDNMY1hacXdrYW5JVjFpRmVnclBXQzdEdjdLbzhMbkh1R3BxV0FFRERkc0RvSGVISXM0V2N0UQ?oc=5",
-      "published": "Wed, 03 Jun 2026 20:45:55 GMT"
+      "title": "证券股上涨的也是炒作与其有关的上市科技公司。券商制药都被冷落，它占全了，不过投资价值仍在。 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2ZlJtNTJQeWRoYTE4QUpvVldhNXNUWVZ6cG9ydWN2REViMWxhQmdTWWp2VzhFMXVaQ05ncE9HdXpqMkJWYnZfcjIwUlRhOEhyeVBlWFFfNzBzUW1LUk84TE5hTl8?oc=5\" target=\"_blank\">证券股上涨的也是炒作与其有关的上市科技公司。券商制药都被冷落，它占全了，不过投资价值仍在。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2ZlJtNTJQeWRoYTE4QUpvVldhNXNUWVZ6cG9ydWN2REViMWxhQmdTWWp2VzhFMXVaQ05ncE9HdXpqMkJWYnZfcjIwUlRhOEhyeVBlWFFfNzBzUW1LUk84TE5hTl8?oc=5",
+      "published": "Wed, 03 Jun 2026 22:53:58 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "东方电热 将会是今年的翻倍股票 - 股吧",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QVUxucl9KZW9wNVJrT1EyYW1hTGoyMHZEY0w0X2g4cHl4WU9nOFVqWmRjQk9fNHhCQ2t0U3M0VFo2Q3Rna1U1eGlLXy1FMzlETHdWdE1xRjZ6c25rblF4dWluUng?oc=5\" target=\"_blank\">东方电热 将会是今年的翻倍股票</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QVUxucl9KZW9wNVJrT1EyYW1hTGoyMHZEY0w0X2g4cHl4WU9nOFVqWmRjQk9fNHhCQ2t0U3M0VFo2Q3Rna1U1eGlLXy1FMzlETHdWdE1xRjZ6c25rblF4dWluUng?oc=5",
-      "published": "Wed, 03 Jun 2026 21:59:20 GMT"
+      "source": "同花顺",
+      "title": "需求爆发遭遇供给刚性 “算力金属”开启价值重估新周期",
+      "summary": "随着全球人工智能（AI）竞赛持续升温，围绕算力基建展开的新一轮投资浪潮正席卷全球。从海外科技巨头持续加码数据中心，到国内“东数西算”工程加速推进，再到AI服务器、光模块及先进封装需求爆发，一批原本相对小众的金属品种正在迎来价值重估。今年以来，被市场冠以“算力金属”概念的铜、锡、铟、锗、镓等品种集体走强。其中，沪锡主力合约累计涨幅接近40%，铜价中枢稳步抬升，铟、锗等部分稀散金属价格更是实现翻倍上涨。6月3日，沪锡主力合约盘中触及45万元/吨，创下近3个月新高。（证券时报）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200647.shtml",
+      "published": "Wed, 03 Jun 2026 22:49:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "CPU重回AI算力聚光灯下 本土厂商获“替代窗口”",
+      "summary": "曾被GPU抢尽风头的CPU，正在重回AI算力的舞台中央。6月1日，英伟达创始人兼CEO黄仁勋在GTC大会上宣布，旗下首款独立数据中心CPU Vera正式进入量产，将于今年第三季度投产。5月下旬，超威半导体（AMD）已宣布下一代EPYC数据中心CPU“Venice”进入量产。国内CPU厂商亦动作不断，5月28日龙芯中科推出23亿元定增方案，其中4.85亿元投向CPU关键核心技术研发项目。中关村物联网产业联盟副秘书长袁帅表示，Agentic AI时代的到来，正在重新定义算力需求结构。伴随CPU产业需求爆发，以及自主可控趋势深化，国产CPU厂商亦有望迎来规模化替代与产业地位重估的机遇。（证券时报）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200643.shtml",
+      "published": "Wed, 03 Jun 2026 22:49:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "云霄直流通道输电权市场化交易启动",
+      "summary": "记者从国家发展改革委、国家能源局了解到，自6月1日起，位于福建省漳州市云霄县，连接福建与广东的云霄直流通道开展输电权市场化交易。为各类经营主体平等参与交易、高效使用通道提供实现路径。作为我国首个跨国家电网与南方电网两大电网经营区的输电权市场化项目，此举标志着全国统一电力市场建设在跨区输电资源市场化配置领域迈出关键性步伐。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200626.shtml",
+      "published": "Wed, 03 Jun 2026 22:48:13 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "硬科技企业IPO提速 险资提前押注",
+      "summary": "近期，硬科技企业IPO（首次公开发行股票）进程提速，这些企业的股东阵容中不乏险资身影。 5月27日，长鑫科技集团股份有限公司（简称“长鑫科技”）IPO过会后进入提交注册环节；6月1日，宇树科技股份有限公司（简称“宇树科技”）IPO顺利过会，6月2日推进至提交注册环节；杭州云深处科技股份有限公司IPO也已处于“已问询”阶段。 业内人士表示，险资践行“投早、投小、投硬科技”导向，在科技企业成长早期入场布局。伴随企业IPO落地，其投资收益兑现具备多元选择，未来险资投资科技企业的路会越拓越宽。(证券日报)",
+      "link": "https://news.10jqka.com.cn/20260604/c677200545.shtml",
+      "published": "Wed, 03 Jun 2026 22:35:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "外媒：AI推动韩股市值超印度，三星电子和SK海力士是主要推手",
+      "summary": "“人工智能（AI）交易正重塑全球股市格局。”《华尔街日报》2日以此为题报道称，最近几周AI相关股票的强劲表现提振了美国市场，但要真正了解这场AI行情的规模，需要看看韩国：一段时间以来，三星电子和SK海力士股价大涨，带动韩国股市市值飙升。彭博社汇编数据显示，截至6月1日，今年在韩上市公司总市值飙升了86%，达到5万亿美元。韩国股市目前已跃升至全球第六大市值市场，超越印度。\n据报道，三星电子和SK海力士，是韩国股市上涨的主要推手，它们凭借在AI存储芯片领域的主导地位，推动韩国KOSPI指数在2026年上涨了逾100%，总市值今年已陆续超过了加拿大、德国、英国和法国。具体来看，三星电子今年迄今上涨约191%，SK海力士涨幅更是高达263%。这两家巨头市值近期均已突破1万亿美元大关。(环球网)",
+      "link": "https://news.10jqka.com.cn/20260604/c677200508.shtml",
+      "published": "Wed, 03 Jun 2026 22:31:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "AI与新能源需求共振 高端铜箔产能供不应求",
+      "summary": "AI算力需求日益增长，加上新能源汽车、储能产业持续高景气，铜箔产业正迎来新一轮景气上行周期。记者近日采访获悉，多家铜箔企业的高端PCB铜箔和锂电铜箔均满产满销，且两类产品价格均有不同程度的上涨。\n据了解，铜箔行业刚走出上一轮下行周期，行业整体扩产意愿较为谨慎。与此同时，受技术门槛、扩产壁垒及资本开支等影响，高端铜箔扩产存在较高瓶颈。业内人士对记者分析称，由于扩产速度不及需求增速，高端铜箔供求错配、价格上涨的情况或进一步催化。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200492.shtml",
+      "published": "Wed, 03 Jun 2026 22:29:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "央行公开市场再现“零操作” 技术性回笼不改资金面宽松预期",
+      "summary": "央行公开市场再现“零操作”。6月3日，央行7天期逆回购操作量降至零，由于当日有1776亿元逆回购到期，公开市场实现净回笼1776亿元。多位机构人士认为，央行公开市场逆回购操作量为零，并不意味着货币政策转向，而是跨月扰动消退后，央行根据一级交易商需求进行的技术性回笼。当前资金面仍处于偏宽松状态，存单利率低位运行，6月资金面大幅收紧的概率不大。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200486.shtml",
+      "published": "Wed, 03 Jun 2026 22:29:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "绩优科技主题基金频频限购 机构：后市关注标的估值与业绩匹配度",
+      "summary": "近期，科技板块走势强劲，推动科技主题基金净值上涨，并吸引大量资金流入。在这种情况下，不少相关绩优基金发布“限购令”，防止短线资金追高买入。从基金经理最新观点看，AI产业仍处于资本开支投入阶段，科技巨头的算力基础设施投资是当前主线，依然看好科技板块后市机会，但在近期涨幅较大的背景下，应关注短期调整的风险。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200484.shtml",
+      "published": "Wed, 03 Jun 2026 22:28:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "储蓄国债正式纳入个人养老金产品池 补齐养老投资零风险资产",
+      "summary": "6月伊始，工商银行、民生银行等多家银行便在手机App个人养老金专区增设了储蓄国债购买入口。\n根据财政部、中国人民银行去年联合发布的《关于储蓄国债（电子式）纳入个人养老金产品范围有关事宜的通知》，开办机构应当自2026年6月起，为在该机构开立个人养老金资金账户的养老金投资者，提供购买储蓄国债（电子式）的相关服务。\n记者了解到，长期以来，我国个人养老金产品池涵盖存款、理财、基金、保险四大品类，均存在不同程度的风险敞口或额度约束，缺少无风险、收益确定且由国家信用背书的标准化资产，难以适配低风险偏好群体的养老投资需求。\n“储蓄国债纳入个人养老金产品池，实质性地完成了养老第三支柱风险谱系的最后一块‘拼图’，构建起从零风险到高风险的完整投资光谱，是个人养老金制度走向成熟的标志性举措。”南开大学金融学教授田利辉对记者表示。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200480.shtml",
+      "published": "Wed, 03 Jun 2026 22:28:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "商业银行二永债发行持续升温",
+      "summary": "6月2日，邮储银行发行规模为200亿元的永续债；6月3日，兴业银行发行规模为300亿元的二级资本债；本周内，还有两只、规模总计500亿元的商业银行二永债计划发行……步入6月，二永债发行热度延续。\n专家表示，二永债6月延续发行热潮，是低利率融资窗口、政策“补血”赋能等多重因素共振的结果。在流动性宽松延续、市场仍保持对二永债较高需求下，二季度二永债配置价值显现。（中证报）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200477.shtml",
+      "published": "Wed, 03 Jun 2026 22:25:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "算力大单频现 租赁市场进入规模化增长周期",
+      "summary": "2026年第二季度，A股市场频现算力大单，十亿级、百亿级大额协议与长期合同成为市场主流，且不乏新能源、文娱等传统行业上市公司跨界进入算力赛道。算力项目批量落地、跨界企业集中入局的背后，是产业生态、市场需求、顶层政策的多重共振。当前国内算力行业已摆脱概念炒作，迈入规模化落地、规范化发展的质变阶段，行业格局加速分层迭代，高质量发展特征愈发凸显。 (上证报)",
+      "link": "https://news.10jqka.com.cn/20260604/c677200473.shtml",
+      "published": "Wed, 03 Jun 2026 22:24:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI据悉正计划将Codex与ChatGPT合并",
+      "summary": "OpenAI据悉正计划将Codex与ChatGPT合并。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200446.shtml",
+      "published": "Wed, 03 Jun 2026 22:14:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外长：若以色列侵略黎巴嫩贝鲁特，伊方将重新开战",
+      "summary": "据伊朗方面3日消息，伊朗外交部长阿拉格齐近日重申对黎巴嫩的支持，称如果以色列继续侵略黎巴嫩首都贝鲁特，伊朗武装部队将重新开战并打击以色列境内目标。\n阿拉格齐说，伊朗已明确告知美国，如果以色列对贝鲁特发动军事行动，将被视为停火全面破裂，伊方“绝不容忍”，伊朗武装部队将作出回应。\n他表示，除向美方传递相关信息外，伊朗也已告知地区伙伴，由于以色列的行动，战争或将再次爆发。他说，在地区国家共同施压下，相关军事行动最终被阻止，避免局势进一步升级。\n谈及伊美谈判进程，阿拉格齐表示，与美方的沟通并未中断，但没有任何实质性进展。重返谈判桌的条件是保障伊朗民族权益、结束黎巴嫩战事并停止地区紧张局势。他说，“美国已在近期冲突中充分认识到伊朗的能力与影响力”。\n伊朗伊斯兰议会议长、伊美谈判伊方代表团团长卡利巴夫1日在与黎巴嫩议会议长纳比·贝里通话时表示，如果以色列对黎巴嫩相关军事行动继续进行，伊朗不仅会停止当前谈判进程，还将“站出来对抗以色列”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260604/c677200445.shtml",
+      "published": "Wed, 03 Jun 2026 22:14:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Meta计划推出的“Hatch”人工智能智能体，拟每月最高收费200美元",
+      "summary": "Meta计划推出的“Hatch”人工智能智能体，拟每月最高收费200美元。",
+      "link": "https://news.10jqka.com.cn/20260604/c677200431.shtml",
+      "published": "Wed, 03 Jun 2026 22:09:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普称美伊协议可能在本周末达成",
+      "summary": "美国总统特朗普3日在白宫对媒体说，美国同伊朗的谈判进展顺利，协议可能在本周末达成。\n特朗普说：“我听说谈判本身进行得非常顺利，实际上是相当顺利……如果真能达成协议，那可能会在这个周末揭晓。”\n在被问及伊朗对科威特的最新袭击发生后，美国与伊朗停火协议是否仍然生效时，特朗普说，“凡事皆有因”，美军在前两天夜里对伊朗进行了相当猛烈的打击，“所以有些事情发生是有原因的，而且这种原因通常多少说得通”。他还说，伊朗此次举动“算不上什么大事”，并称“我们已经掌控了局势，并迅速将其扼杀在了萌芽状态”。\n特朗普还称，美伊一旦达成协议，霍尔木兹海峡将“立即”恢复通航，“不过，通航的前提是需对个别区域进行最后的扫雷清理”。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260604/c677200429.shtml",
+      "published": "Wed, 03 Jun 2026 22:08:42 GMT"
     },
     {
       "source": "同花顺",
@@ -75,116 +208,18 @@
       "published": "Wed, 03 Jun 2026 21:01:47 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "特朗普称与伊朗谈判进展“非常顺利”",
-      "summary": "当地时间3日，美国总统特朗普表示，与伊朗的谈判进展非常顺利，新一轮谈判可能在本周末举行。一旦协议签署后，霍尔木兹海峡将立即重新开放。特朗普称，如果伊朗签署了协议，那就意味着他们已承诺绝不拥有核武器，绝不自行研发，也绝不从外部购买。特朗普称，最初的协议草案中只规定了“不自行研发”这一项，并没有“绝不从外部购买”。这个问题引发了长达两周的谈判，但最终美国把这一条也加了进去。只要伊朗签署那份文件，协议便正式生效。特朗普表示，理论上讲，“他们距离签署协议已经非常接近了”。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260604/c677199670.shtml",
-      "published": "Wed, 03 Jun 2026 20:59:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "文件显示，SpaceX的IPO计划6月11日定价",
-      "summary": "文件显示，SpaceX的IPO计划6月11日定价，6月12日开始交易。",
-      "link": "https://news.10jqka.com.cn/20260604/c677199669.shtml",
-      "published": "Wed, 03 Jun 2026 20:55:19 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "比特币自3月30日以来首次跌破65000美元",
-      "summary": "比特币自3月30日以来首次跌破65000美元。",
-      "link": "https://news.10jqka.com.cn/20260604/c677199668.shtml",
-      "published": "Wed, 03 Jun 2026 20:52:48 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "世卫：刚果（金）埃博拉疫情防控正“迎头赶上”",
-      "summary": "世界卫生组织3日在日内瓦就刚果（金）本迪布焦型埃博拉疫情举行新闻发布会，表示在该国政府领导和各方协调努力下，本轮疫情防控工作正在“迎头赶上”。世卫组织总干事谭德塞说，他刚结束对刚果（金）的访问，当地各方的努力和投入令他深受鼓舞。“尽管挑战依然存在，但我看到的景象给了我希望。”谭德塞通报说，刚果（金）已报告确诊病例344例，其中死亡60例。疑似病例数已从上周的1000多例降至116例，世卫组织及刚果（金）卫生部门已加紧对积压样本进行检测。邻国乌干达目前累计报告15例确诊病例、1例死亡病例。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260604/c677199654.shtml",
-      "published": "Wed, 03 Jun 2026 20:42:08 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "SpaceX将IPO发行规模定为5.556亿股 发行价预计为135美元/股",
-      "summary": "SpaceX将IPO发行规模定为5.556亿股，预计发行价为135美元/股。SpaceX拟通过史上最大规模的IPO筹集750亿美元，目标估值1.77万亿美元。马斯克将拥有约82.4%的投票权。",
-      "link": "https://news.10jqka.com.cn/20260604/c677199652.shtml",
-      "published": "Wed, 03 Jun 2026 20:40:17 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国制裁致维萨卡和万事达卡在古巴暂停使用",
-      "summary": "古巴中央银行3日发表声明说，受美国5月1日行政令影响，古巴将无法继续通过维萨、万事达等国际银行卡渠道收取商品和服务销售收入。声明还说，古巴境内外汇交易的其他支付方式仍可正常使用。美国白宫5月1日发布公告称，美总统特朗普当天签署行政令，加大对古巴制裁。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260604/c677199651.shtml",
-      "published": "Wed, 03 Jun 2026 20:39:54 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美加墨世界杯决赛举办地食住行涨价明显",
-      "summary": "美加墨世界杯将于本月11日开幕，美国、加拿大、墨西哥的16座城市届时将共同承办世界杯的各场赛事。如今，这些城市的准备工作做得怎么样了？民众的感受如何？央视记者选取了几座有代表性的城市进行探访。首站聚焦美国新泽西州的东拉瑟福德，这里是世界杯决赛的举办地，近期因为场馆和配套服务等问题备受关注和讨论。从交通、停车、住宿到餐饮，纽约-新泽西赛区已经提前感受到“世界杯的压力测试”。对于世界各地即将来到这里的球迷来说，真正的问题或许不是“能不能买到球票”，而是“是否能负担得起这场世界杯。”（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260604/c677199615.shtml",
-      "published": "Wed, 03 Jun 2026 20:27:44 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "匈牙利总理称不支持加快推进乌克兰入欧谈判进程",
-      "summary": "当地时间3日，匈牙利总理毛焦尔在社交媒体上表示，其政府不支持加快推进乌克兰加入欧盟的谈判进程。毛焦尔称，匈牙利与乌克兰已就乌境内的匈牙利少数民族在语言、教育、文化等议题上达成了一项关键协议，这有望为批准开启乌克兰加入欧盟谈判的首个章节铺平道路。毛焦尔表示，匈牙利仍然不支持加快推进乌克兰加入欧盟的谈判进程，他说，如果乌克兰能够在未来10到15年内完成全部33个入盟谈判章节，那么匈牙利将就乌克兰入欧问题举行具有法律约束力的全民公投。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260604/c677199613.shtml",
-      "published": "Wed, 03 Jun 2026 20:24:36 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "卡塔尔埃米尔与美国总统通电话 讨论最新地区局势",
-      "summary": "当地时间3日，卡塔尔埃米尔（国家元首）塔米姆与美国总统特朗普通电话，就中东地区最新局势交换意见。双方在通话中回顾了中东地区政治和安全形势的最新发展，以及地区和国际社会为缓和紧张局势、促进地区稳定所作出的努力。塔米姆强调，应优先通过政治和外交途径解决争端，推动各方开展对话，以巩固地区安全与稳定，避免局势进一步紧张和升级。双方还讨论了继续推进对话进程以解决当前问题的重要性，并强调维护海上航行安全和战略通道畅通，确保全球供应链和能源运输稳定运行。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260604/c677199611.shtml",
-      "published": "Wed, 03 Jun 2026 20:22:20 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "卢拉：美国不买 我们就卖给想买的国家",
-      "summary": "巴西总统卢拉3日表示，巴西将继续寻找其他商业合作伙伴，以最大程度减少美国贸易政策带来的负面影响。 据巴西通讯社报道，卢拉在巴西总统府高原宫举行的一场部长级会议上作出上述表态。他说：“如果美国不想买，我们就卖给想买的国家。我们不会就此抱怨。如果他们不想在这里投资，我们就另寻他人。” 卢拉强调，巴西是一个独立自主的国家，不对大国卑躬屈膝。 卢拉在会上还表示，他决定参加6月在法国举行的七国集团领导人会议，这原本不在他的计划之内。 巴西通讯社报道，美国贸易代表办公室1日提议，除其他措施外，对部分巴西输美产品征收25%的关税。这份报告是特朗普政府一年前启动一项调查的结果，旨在查明巴西在对美贸易中是否存在美方所谓的“不公平做法”。巴西发展、工业、贸易和服务部说，美国关税决定会直接威胁巴西对美国市场出口总额的21%。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260604/c677199610.shtml",
-      "published": "Wed, 03 Jun 2026 20:21:52 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "国际油价3日上涨",
-      "summary": "国际油价3日上涨。 截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨2.26美元，收于每桶96.02美元，涨幅为2.41%；8月交货的伦敦布伦特原油期货价格上涨1.81美元，收于每桶97.81美元，涨幅为1.89%。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260604/c677199609.shtml",
-      "published": "Wed, 03 Jun 2026 20:20:54 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗称在阿曼湾打击一艘美驱逐舰 美军否认",
-      "summary": "当地时间3日，美军中央司令部在社交媒体发文，否认伊朗有关“在阿曼湾对一艘美军驱逐舰发动打击”的说法，称“美国海上军事力量目前仍在安全、畅通无阻地进行飞行、航行及各项行动。”当天早些时候，伊朗军方发表声明称，伊朗海军刚刚在阿曼湾对一艘美军驱逐舰发动打击，针对设于该舰、对伊朗实施敌对行动的指挥控制中心。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260604/c677199607.shtml",
-      "published": "Wed, 03 Jun 2026 20:20:40 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美股三大股指集体收跌",
-      "summary": "美股三大股指集体收跌。道琼斯指数跌1.20%，标普500指数跌0.73%，纳斯达克综合指数跌0.89%。云计算服务提供商全线下跌，微软跌超3%，亚马逊跌超2%，甲骨文跌超5%。芯片存储板块逆势上涨。闪迪涨超6%首次收于1800美元上方，西部数据涨超5%，美光科技涨超1%。此外，英特尔涨超4%，迈威尔科技涨超3%，英伟达跌超3%。",
-      "link": "https://news.10jqka.com.cn/20260604/c677199606.shtml",
-      "published": "Wed, 03 Jun 2026 20:20:10 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "博通第二财季半导体解决方案营收为150.1亿美元，市场预期为146.5亿美元",
-      "summary": "博通第二财季半导体解决方案营收为150.1亿美元，市场预期为146.5亿美元。预计第三财季营收约为294亿美元，市场预估286亿美元。",
-      "link": "https://news.10jqka.com.cn/20260604/c677199605.shtml",
-      "published": "Wed, 03 Jun 2026 20:19:52 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美元指数3日上涨",
-      "summary": "美元指数3日上涨。 衡量美元对六种主要货币的美元指数当天上涨0.31%，在汇市尾市收于99.53。 截至纽约汇市尾市，1欧元兑换1.16美元，低于前一交易日的1.16美元；1英镑兑换1.34美元，低于前一交易日的1.35美元。 1美元兑换160.03日元，高于前一交易日的159.91日元；1美元兑换0.7924瑞士法郎，高于前一交易日的0.7873瑞士法郎；1美元兑换1.39加元，高于前一交易日的1.38加元；1美元兑换9.41瑞典克朗，高于前一交易日的9.32瑞典克朗。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260604/c677199604.shtml",
-      "published": "Wed, 03 Jun 2026 20:19:19 GMT"
-    },
-    {
       "source": "财联社",
       "title": "豆包：对于广大用户日常使用的豆包功能 将保持目前的免费服务 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GQ0VkbTVTRnVxWDZWUzNwWmVEU203RjQwd2Z2OXhvX1gyb3kwbTAydENRZEs0eE1LZ19mNGxqcjlQeXRtb3l0a3UxdGN2RHVOeVpsaFZxVG5nR0Z3QkxJVg?oc=5\" target=\"_blank\">豆包：对于广大用户日常使用的豆包功能 将保持目前的免费服务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GQ0VkbTVTRnVxWDZWUzNwWmVEU203RjQwd2Z2OXhvX1gyb3kwbTAydENRZEs0eE1LZ19mNGxqcjlQeXRtb3l0a3UxdGN2RHVOeVpsaFZxVG5nR0Z3QkxJVg?oc=5",
       "published": "Wed, 03 Jun 2026 21:17:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "要求内存增产！美国行业团体致函特朗普政府，敦促应对AI引发的存储芯片供应危机",
+      "summary": "<p>人工智能数据中心的扩张正在加剧全球内存芯片供需失衡，其冲击已从科技行业蔓延至汽车、医疗设备和零售等传统制造业。</p>\n<p>周三，代表多个行业的九个美国贸易协会联名致函财政部长贝森特和商务部长Howard Lutnick，警告内存芯片短缺正威胁关键供应链稳定，并可能在短期内推高消费价格。这些团体包括汽车创新联盟、医疗设备制造商协会和全国零售联合会。</p>\n<p>上述团体在信中指出，AI数据中心的扩张占用了过多内存芯片产能，导致芯片价格\"史无前例地飙升\"，并压缩了制造业和消费品行业的可用供应。</p>\n<p>他们呼吁特朗普政府与芯片制造商及买家协作，在美国本土及盟友国家扩大产能，并建议借助贸易协定机制或《芯片法案》项目保障供应链安全。</p>\n<div>\n<h2 id=\"ai\">AI需求重塑内存市场格局</h2>\n</div>\n<p>内存芯片的短缺根源于AI对算力需求的急剧扩张。</p>\n<p>英伟达和超威半导体等芯片设计商正以高价争购构建AI硬件所需的高带宽内存，促使内存供应商将产能优先向这类客户倾斜。汽车和消费电子等传统行业对其他类型内存产品的需求则因此受到持续挤压。</p",
+      "link": "https://wallstreetcn.com/articles/3773818",
+      "published": "Wed, 03 Jun 2026 22:19:01 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -208,27 +243,6 @@
       "published": "Wed, 03 Jun 2026 21:13:11 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "SpaceX将美国IPO股票发行规模定在5.556亿股，发行价135美元，将融资750亿美元",
-      "summary": "<p>SpaceX将美国IPO股票发行规模定在5.556亿股，发行价135美元，将融资750亿美元。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3773813",
-      "published": "Wed, 03 Jun 2026 20:36:11 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。 预计第三财季营收大约294亿美元，分析师预期286.1亿美元",
-      "summary": "<p>博通第二财季调整后净营收221.9亿美元，分析师预期221.3亿美元。\n预计第三财季营收大约294亿美元，分析师预期286.1亿美元。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3773812",
-      "published": "Wed, 03 Jun 2026 20:16:12 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "工业富联市值达1.61万亿元 超越贵州茅台位居A股第八位 - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrd0tFeG15RVJURnozcUluOW5Dem9vV0xXV01EeTlKYnIzTVMyZElUR3RrdXBSZEhpVDQ0X0lhcTBTeE9MbFRWTGdxLUN4a2tx?oc=5\" target=\"_blank\">工业富联市值达1.61万亿元 超越贵州茅台位居A股第八位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrd0tFeG15RVJURnozcUluOW5Dem9vV0xXV01EeTlKYnIzTVMyZElUR3RrdXBSZEhpVDQ0X0lhcTBTeE9MbFRWTGdxLUN4a2tx?oc=5",
-      "published": "Wed, 03 Jun 2026 20:26:44 GMT"
-    },
-    {
       "source": "雪球热帖",
       "title": "胜宏科技(02476)_胜宏科技怎么样 - 热门讨论 - 雪球",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwNDU5cUNJbWc3bUpTbzBVcWhncUpkaWxDNHpqdHRxTU5za3NqN1pIS3U5dktfdmtkeXJmT1dhZjNsTVdxSktjcC1ySWdDYnc?oc=5\" target=\"_blank\">胜宏科技(02476)_胜宏科技怎么样 - 热门讨论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
@@ -237,10 +251,24 @@
     },
     {
       "source": "雪球热帖",
+      "title": "德明利(SZ001309) - 最新资讯 - 雪球",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvUkRBQ3lscXBmcmlxdE9lbWt3aDRNR3JqR1pqU3VONUp5TlJSMGxFWEgzZE9QR09zQnBGUEozUExTWTJTVUc1ZE1NRnNFLU5kTkIw?oc=5\" target=\"_blank\">德明利(SZ001309) - 最新资讯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvUkRBQ3lscXBmcmlxdE9lbWt3aDRNR3JqR1pqU3VONUp5TlJSMGxFWEgzZE9QR09zQnBGUEozUExTWTJTVUc1ZE1NRnNFLU5kTkIw?oc=5",
+      "published": "Wed, 03 Jun 2026 22:48:50 GMT"
+    },
+    {
+      "source": "雪球热帖",
       "title": "胜宏科技(02476)_胜宏科技怎么样 - 热门讨论 - 雪球",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE44eWJVVGdIcXFfUmFVTTg2WVJRaExIWUFPZTRveFdfMUl2bm9XLWhVbDJmSGg2d1FOTUhHOFo0dGJrb1l1cjQzRGhKb3ZiS1Az?oc=5\" target=\"_blank\">胜宏科技(02476)_胜宏科技怎么样 - 热门讨论</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44eWJVVGdIcXFfUmFVTTg2WVJRaExIWUFPZTRveFdfMUl2bm9XLWhVbDJmSGg2d1FOTUhHOFo0dGJrb1l1cjQzRGhKb3ZiS1Az?oc=5",
       "published": "Wed, 03 Jun 2026 21:30:10 GMT"
+    },
+    {
+      "source": "央行政策",
+      "title": "财联社C50风向指数调查：5月资金面或小幅收敛但不收紧，物价回升削弱市场降息预期 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVLVJON21sYjBWb0MtZEhlRDR1a20za0VjTDk0ZVBuUXVPUVo0RTdvX09FRHZwd1NSX3pQb1c5c2pBSjk1cTZiSA?oc=5\" target=\"_blank\">财联社C50风向指数调查：5月资金面或小幅收敛但不收紧，物价回升削弱市场降息预期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVLVJON21sYjBWb0MtZEhlRDR1a20za0VjTDk0ZVBuUXVPUVo0RTdvX09FRHZwd1NSX3pQb1c5c2pBSjk1cTZiSA?oc=5",
+      "published": "Wed, 03 Jun 2026 21:02:30 GMT"
     }
   ]
 }
