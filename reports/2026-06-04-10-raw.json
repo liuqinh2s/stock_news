@@ -1,0 +1,568 @@
+{
+  "date": "2026-06-04",
+  "hour": "10",
+  "total": 80,
+  "fetched_at": "2026-06-04T10:00:37.734122+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "国际秩序与产业创新共振，下半年A股关注三大主线 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBvZXpZR3hVTkVKLTFfbkVGLVVVSzVzbjRheGpvN0R2dHNuTi1rVzJldDNvRXBRaU5CQ0lDZlhEbTNmaDNHdC1jSUdTSXl2S3NhLXBDM3pmS1hybzl5YmxOMUZfaXFVcmlpR29xdlZLR0E4dExU?oc=5\" target=\"_blank\">国际秩序与产业创新共振，下半年A股关注三大主线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvZXpZR3hVTkVKLTFfbkVGLVVVSzVzbjRheGpvN0R2dHNuTi1rVzJldDNvRXBRaU5CQ0lDZlhEbTNmaDNHdC1jSUdTSXl2S3NhLXBDM3pmS1hybzl5YmxOMUZfaXFVcmlpR29xdlZLR0E4dExU?oc=5",
+      "published": "Thu, 04 Jun 2026 01:22:27 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "时隔8年，A股再迎航司IPO - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LVTFrWktydnNkWEFiS3Q3empQVEtRX2xpd3lNMThuT29PMUtJQTNzRjJITWVET1YyMWNiMGNFWDZscF9fM3VSMERndDdlRW1lTW1Uc1c5SU03OXJOQmE5Mm43X3Z6R2dMamduSmxaY2pXWFBZWmhHMA?oc=5\" target=\"_blank\">时隔8年，A股再迎航司IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LVTFrWktydnNkWEFiS3Q3empQVEtRX2xpd3lNMThuT29PMUtJQTNzRjJITWVET1YyMWNiMGNFWDZscF9fM3VSMERndDdlRW1lTW1Uc1c5SU03OXJOQmE5Mm43X3Z6R2dMamduSmxaY2pXWFBZWmhHMA?oc=5",
+      "published": "Thu, 04 Jun 2026 01:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "新闻联播披露A股重要数据 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5waGJpLUJYVFZ3MHZmSWxTVWhwREE3U2ZiZnAyMk4yMDZtOFZhUDJQRHlpdGZLZFlMajBNSFQ3YzBhbmdxYUlEQjJsMWFBaGpZbmVra2tIZmZERm9Ob0drZ1JoWkhzS0t0a2pwTEQwWGFTWlRXQUVQSg?oc=5\" target=\"_blank\">新闻联播披露A股重要数据</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5waGJpLUJYVFZ3MHZmSWxTVWhwREE3U2ZiZnAyMk4yMDZtOFZhUDJQRHlpdGZLZFlMajBNSFQ3YzBhbmdxYUlEQjJsMWFBaGpZbmVra2tIZmZERm9Ob0drZ1JoWkhzS0t0a2pwTEQwWGFTWlRXQUVQSg?oc=5",
+      "published": "Thu, 04 Jun 2026 00:44:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "多家A股公司提示风险闻言 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5hNkdIR2ZrNkJvcVFDc3JKOVhWeEVEZGwtTVBOY0NsZXZCY0pCQzRpdGJxZV85TXVucjdoV2RBYm14MENjeVBldDliMnFucUltMXJTNlB6VUo2YXZpXzBVc2VackJqaU1RbmpRR0xVMW5jdS1XUlE?oc=5\" target=\"_blank\">多家A股公司提示风险闻言</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hNkdIR2ZrNkJvcVFDc3JKOVhWeEVEZGwtTVBOY0NsZXZCY0pCQzRpdGJxZV85TXVucjdoV2RBYm14MENjeVBldDliMnFucUltMXJTNlB6VUo2YXZpXzBVc2VackJqaU1RbmpRR0xVMW5jdS1XUlE?oc=5",
+      "published": "Thu, 04 Jun 2026 00:30:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股风格月报-市场风格的阶段性均衡化 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB6YXdzQ0ZKV2xsMVNnejJxcGlKUFVQdGU5NXQxT0ZmbWdobEd1VklMaDBsZ3BHTjc2UnhpUTF2S2RybTdaSWZqUWRMZUZBeFMwVlNGdUwxbDlkQzhjQWhJR0w5Z3dRVXJteXNHV1FRWmxXSGExbmc?oc=5\" target=\"_blank\">A股风格月报-市场风格的阶段性均衡化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6YXdzQ0ZKV2xsMVNnejJxcGlKUFVQdGU5NXQxT0ZmbWdobEd1VklMaDBsZ3BHTjc2UnhpUTF2S2RybTdaSWZqUWRMZUZBeFMwVlNGdUwxbDlkQzhjQWhJR0w5Z3dRVXJteXNHV1FRWmxXSGExbmc?oc=5",
+      "published": "Thu, 04 Jun 2026 00:03:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "从个案到常态！A股掀股票捐赠热潮 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUmFmYWlMZXFGLXZ6QmJZYnBkc2FCT2JrQXM3cmRKM3F2cTNZY01rWnJmcjJCMmwtaVltNDA0UXpzQ2pZbXJieWFva3ctaUdxN2kxZzJFM3F1UlEydS1DR2NTYWctWE1hSHJHOHUzTUJvMUFOMkE?oc=5\" target=\"_blank\">从个案到常态！A股掀股票捐赠热潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WUmFmYWlMZXFGLXZ6QmJZYnBkc2FCT2JrQXM3cmRKM3F2cTNZY01rWnJmcjJCMmwtaVltNDA0UXpzQ2pZbXJieWFva3ctaUdxN2kxZzJFM3F1UlEydS1DR2NTYWctWE1hSHJHOHUzTUJvMUFOMkE?oc=5",
+      "published": "Thu, 04 Jun 2026 00:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股出海｜出海企业、汇率与利润稳定性 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBNRjcxdWlodVJtSEVzY243Q2NfZWRodkhXdzNoa0NhZTJVZnA2MUJITjhONzFvOWt6d0lGd1ZXS0YxLTdEdTVOeDJ4MzFOcTFvLUpsV2N3LXhKTkVLNGxZWTl0UUE0MWdKWWg1a1paclU5aDI5WEE?oc=5\" target=\"_blank\">A股出海｜出海企业、汇率与利润稳定性</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNRjcxdWlodVJtSEVzY243Q2NfZWRodkhXdzNoa0NhZTJVZnA2MUJITjhONzFvOWt6d0lGd1ZXS0YxLTdEdTVOeDJ4MzFOcTFvLUpsV2N3LXhKTkVLNGxZWTl0UUE0MWdKWWg1a1paclU5aDI5WEE?oc=5",
+      "published": "Thu, 04 Jun 2026 00:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华宝标普中国A股红利机会ETF(562060)已连续3日获得资金净申购，区间净流入额2.12亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXp1aHE1V29pNXdjcVkwQmp3WGVEbnFialNYbHBhSnRDNWhMSHI5RTJVNFBIOEVtNlNxVDJVbHJ6b18xdW0tNTBkN0VBMnZ4ZjM0N2pBdU91R29ZUml6RXQtYlBtbTRMTWhoMmwybDFxalZtVDkzSi1ic0hHZ202Z0FFU0NFOHp2ZEVCUjlFS1lhcnpqNnhCSzNtTQ?oc=5\" target=\"_blank\">华宝标普中国A股红利机会ETF(562060)已连续3日获得资金净申购，区间净流入额2.12亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOXp1aHE1V29pNXdjcVkwQmp3WGVEbnFialNYbHBhSnRDNWhMSHI5RTJVNFBIOEVtNlNxVDJVbHJ6b18xdW0tNTBkN0VBMnZ4ZjM0N2pBdU91R29ZUml6RXQtYlBtbTRMTWhoMmwybDFxalZtVDkzSi1ic0hHZ202Z0FFU0NFOHp2ZEVCUjlFS1lhcnpqNnhCSzNtTQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:43:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "富国恒生A股专精特新企业ETF(563210)已连续4日遭遇资金净赎回，区间净流出额2950.02万元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2dvckpDMXZfSVRiZnNldlpTYXZELXBibWdPREphZWZhREYzc0pFa19BSXRfU2NQVlJMNHIwbE9VeXBwMWVoS0dJYy1zcW5PWG1wSzBRYTgtRUd0LUpZNW1HSnEyYzQ0NFF4cThJdHNjTnMwRE9FZGdIak05TERJVV8wSkJCUU00VWpCanZXY04wN2REYzhVdGZuaw?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF(563210)已连续4日遭遇资金净赎回，区间净流出额2950.02万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2dvckpDMXZfSVRiZnNldlpTYXZELXBibWdPREphZWZhREYzc0pFa19BSXRfU2NQVlJMNHIwbE9VeXBwMWVoS0dJYy1zcW5PWG1wSzBRYTgtRUd0LUpZNW1HSnEyYzQ0NFF4cThJdHNjTnMwRE9FZGdIak05TERJVV8wSkJCUU00VWpCanZXY04wN2REYzhVdGZuaw?oc=5",
+      "published": "Thu, 04 Jun 2026 01:31:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰富时中国A股自由现金流聚焦ETF(159399)已连续3日获得资金净申购，区间净流入额5065.23万元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNeV9rYVd3YnNyM1phZG91dlgxdXBCU3BoUDdPanFtZnZIcnJJcnUyS2pIclBJS21EakluODVEbl9xUFJPNWxGM29CellkTGRabFhOTlNpVGstU0U0NGFNU1cwTFN0RTBHd2ludzJnWXRNMXhRY3hJRHJnY29qTTBkUjF3Y0JYYjVtT0JpeWtMSGplbGpmNHctS2VTdw?oc=5\" target=\"_blank\">国泰富时中国A股自由现金流聚焦ETF(159399)已连续3日获得资金净申购，区间净流入额5065.23万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeV9rYVd3YnNyM1phZG91dlgxdXBCU3BoUDdPanFtZnZIcnJJcnUyS2pIclBJS21EakluODVEbl9xUFJPNWxGM29CellkTGRabFhOTlNpVGstU0U0NGFNU1cwTFN0RTBHd2ludzJnWXRNMXhRY3hJRHJnY29qTTBkUjF3Y0JYYjVtT0JpeWtMSGplbGpmNHctS2VTdw?oc=5",
+      "published": "Thu, 04 Jun 2026 01:28:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "6月3日标普A股红利ETF华宝（562060）份额增加1600.00万份，最新份额62.52亿份，最新规模39.19亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDZoVXB2VnJYTWhQdTEwQ19tY2ZrdjVZWURpcUxFNzlEc0RhSjV2VFlqMjFfMjJ4TVEwb3lycWctUXdIVkg1cWw4MWNQeXRfZ2NwMEhfdTQ4MXViamx3cEo5TkR2b0lXWXhpcmRTYnN3Zms1TEc0VTYzOFhMLXBXX0tFNWRnZXg0OWt6cE1kMV9ua2M5SXZCcWRJRQ?oc=5\" target=\"_blank\">6月3日标普A股红利ETF华宝（562060）份额增加1600.00万份，最新份额62.52亿份，最新规模39.19亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcDZoVXB2VnJYTWhQdTEwQ19tY2ZrdjVZWURpcUxFNzlEc0RhSjV2VFlqMjFfMjJ4TVEwb3lycWctUXdIVkg1cWw4MWNQeXRfZ2NwMEhfdTQ4MXViamx3cEo5TkR2b0lXWXhpcmRTYnN3Zms1TEc0VTYzOFhMLXBXX0tFNWRnZXg0OWt6cE1kMV9ua2M5SXZCcWRJRQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "MSCI中国A股ETF摩根（515770）开盘涨0.07%，重仓股贵州茅台跌0.23%，宁德时代涨0.00% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3p3TjlFTmZoSEo5M05OckFCNWpEem9oU0JERFdYQ082TUtLRk5CUnBDUnJ4VUQwOG9CRmhRNlJmUkdoTlozaWVHX3ZCMU5PejRjTTQ2ZUFaXzVlRWFyTVU3cW5FQ1J1ck9aaXBKUFdYbFdYdmV4ODYtUlc3cERnNko0c3FMYndHU1RSOHpUbTN2OFZhblZicQ?oc=5\" target=\"_blank\">MSCI中国A股ETF摩根（515770）开盘涨0.07%，重仓股贵州茅台跌0.23%，宁德时代涨0.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX3p3TjlFTmZoSEo5M05OckFCNWpEem9oU0JERFdYQ082TUtLRk5CUnBDUnJ4VUQwOG9CRmhRNlJmUkdoTlozaWVHX3ZCMU5PejRjTTQ2ZUFaXzVlRWFyTVU3cW5FQ1J1ck9aaXBKUFdYbFdYdmV4ODYtUlc3cERnNko0c3FMYndHU1RSOHpUbTN2OFZhblZicQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:38:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "6月3日易方达恒生A股电网设备ETF(560390)遭净赎回8011.46万元，位居当日股票ETF净流出排名58/1218 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNckM5RFlEYWtBeG5aWTZJeXBLdHlLLXBLR185S1lEVlJ5VURaN2tubFF0QldhS3h5N19LeEJ5N3pkTVZhVmtxTjVkd05zQUxuYVpYeThNejJpdTlCemxOSUE0b0NSSmZuZkNEVUhHUE85Wndja3JpZEFrT3pXeF9rVW54ZTlQeUhqQnJDNllmWjdnNmc4WXZ4Vjh2VQ?oc=5\" target=\"_blank\">6月3日易方达恒生A股电网设备ETF(560390)遭净赎回8011.46万元，位居当日股票ETF净流出排名58/1218</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckM5RFlEYWtBeG5aWTZJeXBLdHlLLXBLR185S1lEVlJ5VURaN2tubFF0QldhS3h5N19LeEJ5N3pkTVZhVmtxTjVkd05zQUxuYVpYeThNejJpdTlCemxOSUE0b0NSSmZuZkNEVUhHUE85Wndja3JpZEFrT3pXeF9rVW54ZTlQeUhqQnJDNllmWjdnNmc4WXZ4Vjh2VQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:12:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "6月3日国泰恒生A股电网设备ETF(561380)获净申购2494.32万元，位居当日股票ETF净流入排名47/1218 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0FnOUlZUFRQUzlTaERELXhBYUtDWkdUU3RmR2JIX3ptSWtjVUV6ZE5KTUJUNEZHU2dYSmJSNnJZN3laZ0hael9XM0JnekRpVEMxV015cEdISnNUV1Rfd0Z1Ukc3cmYtbWVmYWI4aDhLQTN2YmVOVDFFN1VSVHZTd3Z1eFAySDE0bXZFNUdmOGJaMVNiM3dHZzhUNA?oc=5\" target=\"_blank\">6月3日国泰恒生A股电网设备ETF(561380)获净申购2494.32万元，位居当日股票ETF净流入排名47/1218</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS0FnOUlZUFRQUzlTaERELXhBYUtDWkdUU3RmR2JIX3ptSWtjVUV6ZE5KTUJUNEZHU2dYSmJSNnJZN3laZ0hael9XM0JnekRpVEMxV015cEdISnNUV1Rfd0Z1Ukc3cmYtbWVmYWI4aDhLQTN2YmVOVDFFN1VSVHZTd3Z1eFAySDE0bXZFNUdmOGJaMVNiM3dHZzhUNA?oc=5",
+      "published": "Thu, 04 Jun 2026 01:34:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQl9pdFoxNlE2T3ozb29kNlB5M0lndU9KcXBsRFV2Si1namctNnJ4SnRFbHZDNTdHRjVWdGVYMkZWR3FXelhwVHRMcWE0WmEwN1lqMTdfZXlOX21DTVZTM2F6TC1sZHp3UTBYMkF0R0VpaWVwczdJUHFhX0tKRW41QW56bWw2OHp2TEM3ckpBV1RYd01sZzZz?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQl9pdFoxNlE2T3ozb29kNlB5M0lndU9KcXBsRFV2Si1namctNnJ4SnRFbHZDNTdHRjVWdGVYMkZWR3FXelhwVHRMcWE0WmEwN1lqMTdfZXlOX21DTVZTM2F6TC1sZHp3UTBYMkF0R0VpaWVwczdJUHFhX0tKRW41QW56bWw2OHp2TEM3ckpBV1RYd01sZzZz?oc=5",
+      "published": "Thu, 04 Jun 2026 00:23:04 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "点赞！大专学历的A股公司董秘，上任总裁 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1JeWdrYVFDeERld0hXTVJkSk9oNzB3ejRaeFVhWUpIUEw4V2hQWVM2bFhoNXBFY0tWTWRwSkpmQzZsRVNQTjhBQmQxR25uSU5jdmFWM2EzcGxHQkhOTFhZOHJHV0g3SFBNOTFyZzVkM3Y3am56b1lRTQ?oc=5\" target=\"_blank\">点赞！大专学历的A股公司董秘，上任总裁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JeWdrYVFDeERld0hXTVJkSk9oNzB3ejRaeFVhWUpIUEw4V2hQWVM2bFhoNXBFY0tWTWRwSkpmQzZsRVNQTjhBQmQxR25uSU5jdmFWM2EzcGxHQkhOTFhZOHJHV0g3SFBNOTFyZzVkM3Y3am56b1lRTQ?oc=5",
+      "published": "Thu, 04 Jun 2026 00:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "6月3日MSCI中国A股ETF南方（512160）份额减少200.00万份，最新份额1.24亿份，最新规模1.97亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHNOa1UxN3VtR3g0bDBlNl9XdmQ5UEd1WHBmNy15NmVCS0tQMGtXZEUtWUUxV1BMNFpNSFFQdVVzRHJpRWZ5RlprMXc4dlB1NGdPRjVOelNfc2VEWjNObU0yRDJ2QTFvb0lCcWx3dnVKYk9pV1dfeVIxQlVINV80Y0xOMzJVUThKa1kwMTYyVzduUzVhd2lSeVJtVQ?oc=5\" target=\"_blank\">6月3日MSCI中国A股ETF南方（512160）份额减少200.00万份，最新份额1.24亿份，最新规模1.97亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWHNOa1UxN3VtR3g0bDBlNl9XdmQ5UEd1WHBmNy15NmVCS0tQMGtXZEUtWUUxV1BMNFpNSFFQdVVzRHJpRWZ5RlprMXc4dlB1NGdPRjVOelNfc2VEWjNObU0yRDJ2QTFvb0lCcWx3dnVKYk9pV1dfeVIxQlVINV80Y0xOMzJVUThKa1kwMTYyVzduUzVhd2lSeVJtVQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "白酒、消费、房地产出现久违反弹！千亿市值“老登股”仅剩19只 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1pSnp3QmpBcGc2WTlLQlJVSzFEZWw3Y2t3NkszQ0hTbEYyUGs1c2MtcmhKcWZyVEt1YV95djd3NTl5R3NwSEhyRU1OUmc4bHdxTXZiMndTSkVpZVBiMkxnTlpDVGhzSnlaM2N2N1RrLVZ1ODNWcmhNZw?oc=5\" target=\"_blank\">白酒、消费、房地产出现久违反弹！千亿市值“老登股”仅剩19只</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pSnp3QmpBcGc2WTlLQlJVSzFEZWw3Y2t3NkszQ0hTbEYyUGs1c2MtcmhKcWZyVEt1YV95djd3NTl5R3NwSEhyRU1OUmc4bHdxTXZiMndTSkVpZVBiMkxnTlpDVGhzSnlaM2N2N1RrLVZ1ODNWcmhNZw?oc=5",
+      "published": "Thu, 04 Jun 2026 01:23:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "存量博弈下市场延续分化，留意科技股高位震荡加剧风险 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE96b2NqWHBBSEFOcFdybDUtSWZPWHNTZGIwZGN5Q01lYU1JLWE3ZmxrQkJGMi1qamdTUDJfMlNLVU5oSHo1TTFGeWt4bWZTMVVyRVBza1FKcGZqUjlibmRaRkdMcHp0eGxHaURkSElBT0c5ay1ISV9OLQ?oc=5\" target=\"_blank\">存量博弈下市场延续分化，留意科技股高位震荡加剧风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96b2NqWHBBSEFOcFdybDUtSWZPWHNTZGIwZGN5Q01lYU1JLWE3ZmxrQkJGMi1qamdTUDJfMlNLVU5oSHo1TTFGeWt4bWZTMVVyRVBza1FKcGZqUjlibmRaRkdMcHp0eGxHaURkSElBT0c5ay1ISV9OLQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:16:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkZoZG9JS0hSMTU4dWRaUzlWYUZoN0djZER4WG1VOFYxcTBtR3UzanRZNFdodG93ZDJpNkQ1YzdWZ25aalo1WFlNUV9ZeVNFTjRWR2NsTm5idERnb1NKRVdwTzVFdUVUbkR6YlZjRkRBeVZReG16OXdBQ2M3amEwLUNxZFFpcl9uZWJMRl9DVFZCVjJlVkI5al8xNDhlY2VZRVdv?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkZoZG9JS0hSMTU4dWRaUzlWYUZoN0djZER4WG1VOFYxcTBtR3UzanRZNFdodG93ZDJpNkQ1YzdWZ25aalo1WFlNUV9ZeVNFTjRWR2NsTm5idERnb1NKRVdwTzVFdUVUbkR6YlZjRkRBeVZReG16OXdBQ2M3amEwLUNxZFFpcl9uZWJMRl9DVFZCVjJlVkI5al8xNDhlY2VZRVdv?oc=5",
+      "published": "Thu, 04 Jun 2026 01:22:29 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "明显拉证券掩护出货，午后 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CUXpUem1vT1NqRFJPRjN4cHpDY1U5TUNQQzVBb2lRMjB0UjY2aHFydXJwcllfOHh3czFNZm9nWDVoeld0cmdiTGdmTEluT3hCSlZyRjZmSVZ5SUE5c3k3MEpRQ3M?oc=5\" target=\"_blank\">明显拉证券掩护出货，午后</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CUXpUem1vT1NqRFJPRjN4cHpDY1U5TUNQQzVBb2lRMjB0UjY2aHFydXJwcllfOHh3czFNZm9nWDVoeld0cmdiTGdmTEluT3hCSlZyRjZmSVZ5SUE5c3k3MEpRQ3M?oc=5",
+      "published": "Thu, 04 Jun 2026 01:54:17 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股票账户今年来收益41%，战胜92.5%的机构 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OSVV2VHFMUUtUWWZLVU41NlhzVWhaQzRlQ19hNktRbVdyMDNPdzlCZjEtTFMzMXBhSkFsWlptU1F2X1JRTDVKcmJyem04RnJSc01fVTVyOXgzeVdQc09wN1RB?oc=5\" target=\"_blank\">股票账户今年来收益41%，战胜92.5%的机构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OSVV2VHFMUUtUWWZLVU41NlhzVWhaQzRlQ19hNktRbVdyMDNPdzlCZjEtTFMzMXBhSkFsWlptU1F2X1JRTDVKcmJyem04RnJSc01fVTVyOXgzeVdQc09wN1RB?oc=5",
+      "published": "Thu, 04 Jun 2026 01:56:02 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "这股票真的搞人心态，兄弟们吃得消吗 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMFhqRlZRdE5YYkN5NVgwbTFLMm8xYXBaMzh1Z0VsM2xoU3BaSWxpWk5HWmFVVGpUT1NrczV6TVE5SV9rbDFhNmFneEtCeHByRlZXUDFwZXZxWjJGOGw5ejNlWnI?oc=5\" target=\"_blank\">这股票真的搞人心态，兄弟们吃得消吗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yMFhqRlZRdE5YYkN5NVgwbTFLMm8xYXBaMzh1Z0VsM2xoU3BaSWxpWk5HWmFVVGpUT1NrczV6TVE5SV9rbDFhNmFneEtCeHByRlZXUDFwZXZxWjJGOGw5ejNlWnI?oc=5",
+      "published": "Thu, 04 Jun 2026 01:47:25 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "多使便宜股票，高开高走尾市拉涨停板收市立帖为证，大牛市大利好 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GZnFyMktVMVZKdzF0cWx2UmpvdFppdE9EbkVDekFGMjM3X0E2ekY0dGRsSVA3RWZNbnpGUUlPY3FrRlNTV1kwUVlyZkJPNUVXVEVUdy1SM1BPV0V3cnN5UGdlblo?oc=5\" target=\"_blank\">多使便宜股票，高开高走尾市拉涨停板收市立帖为证，大牛市大利好</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GZnFyMktVMVZKdzF0cWx2UmpvdFppdE9EbkVDekFGMjM3X0E2ekY0dGRsSVA3RWZNbnpGUUlPY3FrRlNTV1kwUVlyZkJPNUVXVEVUdy1SM1BPV0V3cnN5UGdlblo?oc=5",
+      "published": "Thu, 04 Jun 2026 00:43:11 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "韩国财长对杠杆化股票投资的增加感到担忧 将采取行动应对金融市场的“羊群效应” - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdGpMeGh4bnMyMHhRTzVqejFhdHBvc3VFdDFvU291dUNXNVpRdlhLeTVWdkIyYUNsS0xxZnNUbWJIejhQSDRKcEZaMEZyaGRQYVBEWjRWZVFJS0J4WktqMg?oc=5\" target=\"_blank\">韩国财长对杠杆化股票投资的增加感到担忧 将采取行动应对金融市场的“羊群效应”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdGpMeGh4bnMyMHhRTzVqejFhdHBvc3VFdDFvU291dUNXNVpRdlhLeTVWdkIyYUNsS0xxZnNUbWJIejhQSDRKcEZaMEZyaGRQYVBEWjRWZVFJS0J4WktqMg?oc=5",
+      "published": "Thu, 04 Jun 2026 00:25:01 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "什么是好股票，下跌有资金回购，每年有分红那就是好股票，买入一家公司不为了收割别人-东方财富网股吧 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBibEJmSGJHUkJfMkNJZ2c4QUZWRF96TWRZaTdSYng1SXJkSGVQaDUwS0c1WEJSZlY1elVnS2I0am1xMTNTWldHMjZVbUhFNG05TVpwRVFWclpoR1ZIOTM5S0RVLXM?oc=5\" target=\"_blank\">什么是好股票，下跌有资金回购，每年有分红那就是好股票，买入一家公司不为了收割别人-东方财富网股吧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBibEJmSGJHUkJfMkNJZ2c4QUZWRF96TWRZaTdSYng1SXJkSGVQaDUwS0c1WEJSZlY1elVnS2I0am1xMTNTWldHMjZVbUhFNG05TVpwRVFWclpoR1ZIOTM5S0RVLXM?oc=5",
+      "published": "Thu, 04 Jun 2026 01:37:01 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "华安证券：融资净买入414.61万元，融资余额12.78亿元 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsNUx4RG5EaUhoaHU5eWhJNVJTWXd2NVJNbzV5a19icDkza2lBSXNLYkdiLUhuRWF2UUtKWDZ6TjV3b2xfYXY4ajA2aEtkV1J4YUEwVy1uaW9ZWjFCZlhhNS1pRDE?oc=5\" target=\"_blank\">华安证券：融资净买入414.61万元，融资余额12.78亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsNUx4RG5EaUhoaHU5eWhJNVJTWXd2NVJNbzV5a19icDkza2lBSXNLYkdiLUhuRWF2UUtKWDZ6TjV3b2xfYXY4ajA2aEtkV1J4YUEwVy1uaW9ZWjFCZlhhNS1pRDE?oc=5",
+      "published": "Thu, 04 Jun 2026 01:35:07 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "这个票没有 业绩，全靠股票和政府补贴，业绩都没有，外面的别进来了 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvSzFhSjZjLWQ4Yl9xdFZRdEptSkt3eDJNMWZGenRkNDUtNnBQNVNiUWswWW1nTnVNQ3h2MmkwR2V4S3AwNnhkZnhJOHlFTURMdzhBekZMemlfaHFXNHNRT0E4WHE?oc=5\" target=\"_blank\">这个票没有 业绩，全靠股票和政府补贴，业绩都没有，外面的别进来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvSzFhSjZjLWQ4Yl9xdFZRdEptSkt3eDJNMWZGenRkNDUtNnBQNVNiUWswWW1nTnVNQ3h2MmkwR2V4S3AwNnhkZnhJOHlFTURMdzhBekZMemlfaHFXNHNRT0E4WHE?oc=5",
+      "published": "Thu, 04 Jun 2026 01:51:22 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "韩国财长：对杠杆化股票投资的增加感到担忧 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdnN4VW9VZ2lQQTE5ZmdTRHgtLXB5OEN0MWNieGx6dVIwVUtrdklEN1hfN0M3azlUR0QzNGM2RzNxbkpFQjhfUFVuS25fRXVlT09FUkNxckhId0t2MUcyU0ZXOEdOUQ?oc=5\" target=\"_blank\">韩国财长：对杠杆化股票投资的增加感到担忧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tdnN4VW9VZ2lQQTE5ZmdTRHgtLXB5OEN0MWNieGx6dVIwVUtrdklEN1hfN0M3azlUR0QzNGM2RzNxbkpFQjhfUFVuS25fRXVlT09FUkNxckhId0t2MUcyU0ZXOEdOUQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:33:17 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "港股通标的证券名单调整 调入文远知行、小马智行 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DTFRlSDVRMm92MTFoWG5qU2c1WmN1NWhSeldlMnBHcG5VaGNwRi1NOVpMa1VBS0tjemhtTkRYNHdaMTNCaUJIdXd6WUwtYnpINExRckxIU3VwN25BSjk4aG04NU41Zw?oc=5\" target=\"_blank\">港股通标的证券名单调整 调入文远知行、小马智行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DTFRlSDVRMm92MTFoWG5qU2c1WmN1NWhSeldlMnBHcG5VaGNwRi1NOVpMa1VBS0tjemhtTkRYNHdaMTNCaUJIdXd6WUwtYnpINExRckxIU3VwN25BSjk4aG04NU41Zw?oc=5",
+      "published": "Thu, 04 Jun 2026 01:06:45 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "呼吁大股东增持万科股票，没见过这么蠢的大股东，眼睁睁看着主力操盘，这样都高管，早点走人。 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE04T2lkc19YMHlFdUVtRGFBaVo1bGh2TmJLcV82RXFueTI4aFNlcHZWcEtZVkxDVVoxSGVKaEJMQ1A1cHNYUXJMVE5vdC1MM2lmZ3o5cVVDdnBwV2N1Mm1lMEtIQU4?oc=5\" target=\"_blank\">呼吁大股东增持万科股票，没见过这么蠢的大股东，眼睁睁看着主力操盘，这样都高管，早点走人。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04T2lkc19YMHlFdUVtRGFBaVo1bGh2TmJLcV82RXFueTI4aFNlcHZWcEtZVkxDVVoxSGVKaEJMQ1A1cHNYUXJMVE5vdC1MM2lmZ3o5cVVDdnBwV2N1Mm1lMEtIQU4?oc=5",
+      "published": "Thu, 04 Jun 2026 00:05:56 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "眼下上海电气的股票价格与股吧舆情直接告诉冷静的股民，坚守与适当购入+少量做T是最-东方财富网股吧 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MdU1QYjFOMTdiX2pDdW15WTY4OFhTQi1vTi1iQkxXbzg0S3hITy1JZVBra0ViTk5PUGxxbXQ3MXJRWjROSFpvdDFBWWNVb2s0cjZRRTJRQnY5QWVfdDJhZHkwNzE?oc=5\" target=\"_blank\">眼下上海电气的股票价格与股吧舆情直接告诉冷静的股民，坚守与适当购入+少量做T是最-东方财富网股吧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MdU1QYjFOMTdiX2pDdW15WTY4OFhTQi1vTi1iQkxXbzg0S3hITy1JZVBra0ViTk5PUGxxbXQ3MXJRWjROSFpvdDFBWWNVb2s0cjZRRTJRQnY5QWVfdDJhZHkwNzE?oc=5",
+      "published": "Thu, 04 Jun 2026 01:32:03 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "等于和爆雷后的股票没有分别，可想而知这企业是多么的差。 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XWWRobUtSSjhuRnBDQUR5aTJLbmNYMXowZjNjQjhudjBHZFNJclMwZlp5MDZSYjdzR2FpaE1SdWs1UEgzQmJWTnI5YlpOUTM0WG1zTU10czJQaWcxVDJrV2owY1c?oc=5\" target=\"_blank\">等于和爆雷后的股票没有分别，可想而知这企业是多么的差。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XWWRobUtSSjhuRnBDQUR5aTJLbmNYMXowZjNjQjhudjBHZFNJclMwZlp5MDZSYjdzR2FpaE1SdWs1UEgzQmJWTnI5YlpOUTM0WG1zTU10czJQaWcxVDJrV2owY1c?oc=5",
+      "published": "Thu, 04 Jun 2026 01:57:17 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "以我的经验：当股票一直跌，跌的你不说话了，甚至连电脑和手机都不想看和不看的时候股-东方财富网股吧 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lU084SGZsNXhfSFp2OEF1c09rQml5bzIyUDRLMHR3TkVzNTdPUVFzMVpuenRkSjFKLXpJWTg3NjF3a2hnNWptSnNubXFOWDdhRm9VTEZSY19GM2dabzRyemNlSVo?oc=5\" target=\"_blank\">以我的经验：当股票一直跌，跌的你不说话了，甚至连电脑和手机都不想看和不看的时候股-东方财富网股吧</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lU084SGZsNXhfSFp2OEF1c09rQml5bzIyUDRLMHR3TkVzNTdPUVFzMVpuenRkSjFKLXpJWTg3NjF3a2hnNWptSnNubXFOWDdhRm9VTEZSY19GM2dabzRyemNlSVo?oc=5",
+      "published": "Thu, 04 Jun 2026 01:46:51 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "光通信板块股票有哪些 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE84ZUVDMVREUWNXZ2UwdjlldFBtMUtEcGt6akFDY2Q2QTBhN204NU40NDdaWFB0b1RYby0wbEZnanhCNWxYT1c3X2pPLXl1Yi01Q0ZVd2dzT1FubkQxWDR3T2E3RkQ?oc=5\" target=\"_blank\">光通信板块股票有哪些</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84ZUVDMVREUWNXZ2UwdjlldFBtMUtEcGt6akFDY2Q2QTBhN204NU40NDdaWFB0b1RYby0wbEZnanhCNWxYT1c3X2pPLXl1Yi01Q0ZVd2dzT1FubkQxWDR3T2E3RkQ?oc=5",
+      "published": "Thu, 04 Jun 2026 00:38:12 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "有哪位朋友在当天下午两点钟能估算出来今天的涨幅比例？麻烦发帖公布下 - 天天基金",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9mT21LVi1JLWxyQ0lHMTgwcjFrZXRqdnA2ZDhvcG5WU0d3OFc1N2Z0eHJQOURMWFQ5ZFN6T0poNVhiVUoxWEhLOGF5V1pwa3F3Vzg2TTNxMnJHVVB2ZkVIZ2ZtNUwxblFUdEE?oc=5\" target=\"_blank\">有哪位朋友在当天下午两点钟能估算出来今天的涨幅比例？麻烦发帖公布下</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mT21LVi1JLWxyQ0lHMTgwcjFrZXRqdnA2ZDhvcG5WU0d3OFc1N2Z0eHJQOURMWFQ5ZFN6T0poNVhiVUoxWEhLOGF5V1pwa3F3Vzg2TTNxMnJHVVB2ZkVIZ2ZtNUwxblFUdEE?oc=5",
+      "published": "Thu, 04 Jun 2026 00:18:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "科创50指数涨幅扩大至1%",
+      "summary": "科创50指数涨幅扩大至1%，大全能源涨超18%，盛美上海涨超7%，佰维存储涨超6%。",
+      "link": "https://news.10jqka.com.cn/20260604/c677208577.shtml",
+      "published": "Thu, 04 Jun 2026 01:58:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "北证50指数跌幅扩大至2%",
+      "summary": "北证50指数跌幅扩大至2%，现报1221.12点。",
+      "link": "https://news.10jqka.com.cn/20260604/c677208466.shtml",
+      "published": "Thu, 04 Jun 2026 01:53:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港股恒生指数跌幅达1%",
+      "summary": "港股恒生指数跌幅扩大至1%，恒生科技指数现跌1.39%。",
+      "link": "https://news.10jqka.com.cn/20260604/c677208344.shtml",
+      "published": "Thu, 04 Jun 2026 01:48:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国家金融监督管理总局上海监管局等四部门：建立本市养老服务信托品牌，形成上海养老服务金融样本",
+      "summary": "国家金融监督管理总局上海监管局、上海市民政局、中国人民银行上海市分行、中共上海市委金融委员会办公室发布创新开展养老服务信托试点的通知，其中提到，发挥信托制度财产隔离、灵活规划、长期管理的优势，整合养老服务资源与金融资源，结合“意定监护”实践探索，进一步完善安全、稳健、可持续的综合性养老服务解决方案，在本市面向有需要的老年及备老群体开展养老服务信托试点。通过试点，创新推出一批养老服务信托、壮大一批优质为老服务品牌机构、落地一批养老服务信托案例，建立本市养老服务信托品牌，形成上海养老服务金融样本。（国家金融监督管理总局）",
+      "link": "https://news.10jqka.com.cn/20260604/c677208217.shtml",
+      "published": "Thu, 04 Jun 2026 01:45:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中船系板块持续上攻，中船特气涨超16%",
+      "summary": "中船系板块持续上攻，中船特气涨超16%，中国动力、久之洋、中船汉光、中国船舶跟涨。",
+      "link": "https://news.10jqka.com.cn/20260604/c677208186.shtml",
+      "published": "Thu, 04 Jun 2026 01:45:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "存储芯片板块上扬，大为股份涨停",
+      "summary": "存储芯片板块上扬，大为股份涨停，华特气体涨超11%，上海贝岭、云汉芯城、太极实业、德明利、江波龙跟涨。",
+      "link": "https://news.10jqka.com.cn/20260604/c677208152.shtml",
+      "published": "Thu, 04 Jun 2026 01:43:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沪深京三市成交额超5000亿元，较上日此时缩量806亿元",
+      "summary": "据同花顺iFinD数据，沪深京三市成交额超5000亿元，较上日此时缩量806亿元，预计全天成交金额约2.9万亿元。截至目前，沪市成交额2302亿元，深市成交额2664亿元，北证50成交额37亿元。",
+      "link": "https://news.10jqka.com.cn/20260604/c677208096.shtml",
+      "published": "Thu, 04 Jun 2026 01:41:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "油价或迎年内第二降 加满一箱油将少花21元",
+      "summary": "国内成品油新一轮调价窗口将于6月4日24时开启。综合机构观点，本轮或迎来年内第二次下调。据卓创资讯测算，截至6月2日收盘，国内第9个工作日参考原油变化率-12.08%，预计汽柴油下调535元/吨。曹莹莹提到，本次成品油零售限价下调已是大概率事件。按照目前的幅度计算，预计6月4日24时92汽油跌幅在0.42元/升，0柴油的跌幅在0.45元/升左右，加满一箱50升的92汽油预计将节省21元左右。“预计下一轮成品油调价上调的概率较大。”隆众资讯成品油分析师刘婷表示。（中新经纬）",
+      "link": "https://news.10jqka.com.cn/20260604/c677207924.shtml",
+      "published": "Thu, 04 Jun 2026 01:37:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "电力板块短线拉升，豫能控股涨停",
+      "summary": "电力板块短线拉升，豫能控股、百通能源涨停，艾能聚涨超17%，广西能源、新中港、京能电力跟涨。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207913.shtml",
+      "published": "Thu, 04 Jun 2026 01:35:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "房地产板块短线拉升，阳光股份涨停",
+      "summary": "房地产板块短线拉升，阳光股份涨停，南山控股、合肥城建、栖霞建设、福星股份、津投城开等纷纷走高。相关ETF方面，房地产ETF华夏（515060）成交额242.42万元。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207876.shtml",
+      "published": "Thu, 04 Jun 2026 01:33:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "铜缆高速连接板块拉升，鑫科材料3连板",
+      "summary": "铜缆高速连接板块拉升，鑫科材料3连板，金信诺、太辰光、航天电器、博威合金、鼎通科技跟涨。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207852.shtml",
+      "published": "Thu, 04 Jun 2026 01:33:08 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "5月下旬与5月中旬相比13种产品价格上涨",
+      "summary": "据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年5月下旬与5月中旬相比，13种产品价格上涨，36种下降，1种持平。其中，生猪（外三元）价格为9.6元/千克，环比上涨1.1%，焦煤（主焦煤）价格为1581.4元/吨，环比上涨1.5%。(国家统计局)",
+      "link": "https://news.10jqka.com.cn/20260604/c677207791.shtml",
+      "published": "Thu, 04 Jun 2026 01:31:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "股指期货早盘开盘 主力合约集体低开",
+      "summary": "股指期货早盘开盘，主力合约集体低开。沪深300股指期货(IF)主力合约跌0.48%，上证50股指期货(IH)主力合约跌0.39%，中证500股指期货(IC)主力合约跌0.36%，中证1000股指期货(IM)主力合约跌0.47%。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207720.shtml",
+      "published": "Thu, 04 Jun 2026 01:29:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "联合国警告黎以冲突激化致黎人道危机加剧",
+      "summary": "当地时间3日，联合国秘书长发言人迪雅里克在例行记者会上发出严厉警告，由于黎以边境冲突激化，黎巴嫩国内流离失所的人数正在激增。仅在贝鲁特南郊，就有大约20万人因以军发出的疏散令被迫逃离家园。难民营地人满为患，处境极其艰难。战火对当地医疗系统造成严重破坏，医护人员生命安全无法保障。与此同时，联合国驻黎巴嫩临时部队监测显示，以军近期在黎巴嫩的军事行动加强、空袭力度加大，局势正面临全面失控的风险。对此，联合国再次发出严正警告，要求立即停止敌对行动，全面履行联合国安理会决议所规定的义务。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260604/c677207674.shtml",
+      "published": "Thu, 04 Jun 2026 01:27:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ETF开盘：石油ETF领涨2.06%，巴西ETF领跌2.87%",
+      "summary": "ETF开盘涨跌不一，石油ETF（159018）领涨2.06%，深证100ETF（159576）涨1.88%，物联网ETF（159709）涨1.76%，巴西ETF（520870）领跌2.87%，创业板人工智能ETF（159243）跌2.78%，日经225ETF（513880）跌2.77%。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207664.shtml",
+      "published": "Thu, 04 Jun 2026 01:26:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时中国A50指数期货跌幅扩大至1%",
+      "summary": "富时中国A50指数期货跌幅扩大至1%。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207636.shtml",
+      "published": "Thu, 04 Jun 2026 01:25:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "A股开盘：三大指数集体低开",
+      "summary": "A股开盘，上证指数低开0.74%，深证成指低开1.05%，创业板指低开1.22%。元件、油气开采及服务、CPO板块低开。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207635.shtml",
+      "published": "Thu, 04 Jun 2026 01:25:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货黄金站上4470美元/盎司",
+      "summary": "现货黄金站上4470美元/盎司，日内涨0.83%。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207603.shtml",
+      "published": "Thu, 04 Jun 2026 01:23:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "央行：今日7天期逆回购操作量为零",
+      "summary": "央行公告，今日7天期逆回购操作量为零。同花顺iFinD数据显示，今日有1013亿元7天期逆回购到期。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207579.shtml",
+      "published": "Thu, 04 Jun 2026 01:22:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港股开盘：恒生指数低开0.66%，恒生科技指数低开1.23%",
+      "summary": "港股开盘，恒生指数低开0.66%，恒生科技指数低开1.23%。联想集团低开5.05%，蔚来-SW低开3.83%。",
+      "link": "https://news.10jqka.com.cn/20260604/c677207575.shtml",
+      "published": "Thu, 04 Jun 2026 01:21:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "韩国财长对杠杆化股票投资的增加感到担忧 将采取行动应对金融市场的“羊群效应” - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdGpMeGh4bnMyMHhRTzVqejFhdHBvc3VFdDFvU291dUNXNVpRdlhLeTVWdkIyYUNsS0xxZnNUbWJIejhQSDRKcEZaMEZyaGRQYVBEWjRWZVFJS0J4WktqMg?oc=5\" target=\"_blank\">韩国财长对杠杆化股票投资的增加感到担忧 将采取行动应对金融市场的“羊群效应”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdGpMeGh4bnMyMHhRTzVqejFhdHBvc3VFdDFvU291dUNXNVpRdlhLeTVWdkIyYUNsS0xxZnNUbWJIejhQSDRKcEZaMEZyaGRQYVBEWjRWZVFJS0J4WktqMg?oc=5",
+      "published": "Thu, 04 Jun 2026 00:25:01 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社汽车早报6月4日 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9XcnN0REtnRlZ3cFpNTjZ6MmF5MDRPb2FQeE5XRVlKVHY1NlA2OUdLelFHN2RCYTc3RGVJcW9jVEotcTZrd2ZlY05zWTZGSmkxMlNyeXN4Q2lzTUd6VlJGS2MtbXgzYmxqcDBtWXJR?oc=5\" target=\"_blank\">财联社汽车早报6月4日</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XcnN0REtnRlZ3cFpNTjZ6MmF5MDRPb2FQeE5XRVlKVHY1NlA2OUdLelFHN2RCYTc3RGVJcW9jVEotcTZrd2ZlY05zWTZGSmkxMlNyeXN4Q2lzTUd6VlJGS2MtbXgzYmxqcDBtWXJR?oc=5",
+      "published": "Thu, 04 Jun 2026 00:52:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "股债齐跌！狂热戛然而止，华尔街向中东炮火“低头”…… - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RWk5LdXduTmhGUlZWd3gwVEl1WmF6NGRpMWdJZ2htRXJkZDZZSXg3UUltX3lIdnk4dEZzalBFczd6QVlGcDZiWg?oc=5\" target=\"_blank\">股债齐跌！狂热戛然而止，华尔街向中东炮火“低头”……</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RWk5LdXduTmhGUlZWd3gwVEl1WmF6NGRpMWdJZ2htRXJkZDZZSXg3UUltX3lIdnk4dEZzalBFczd6QVlGcDZiWg?oc=5",
+      "published": "Thu, 04 Jun 2026 00:25:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "定了！6月12日SpaceX上市交易 发行规模5.556亿股 发行价135美元 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PTXU0YUQ1akxkOTlkWWl0RUdtY0YxRm81Y3NNOHJDMlBJa3lJTXAzLWxjZURCVWs3eWowVXpaZHBHZFBoOEkySDRLVkxpeV90UXNWNk81ZzE0UVdtUkhScg?oc=5\" target=\"_blank\">定了！6月12日SpaceX上市交易 发行规模5.556亿股 发行价135美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PTXU0YUQ1akxkOTlkWWl0RUdtY0YxRm81Y3NNOHJDMlBJa3lJTXAzLWxjZURCVWs3eWowVXpaZHBHZFBoOEkySDRLVkxpeV90UXNWNk81ZzE0UVdtUkhScg?oc=5",
+      "published": "Thu, 04 Jun 2026 00:41:19 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "具身智能企业千寻智能获15亿融资 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMG14clFidlpFQnNPcGdoNHJfSTVDX3RGX0xBcTQwdDkzeWx0U2ZCUXVGZ3RwUXk3MklfdzRNenY1MFJWRWd3QWg2UVJ5WlJ5YnV4RGFIeGpKMGUtbUNodl9vY1ZsQQ?oc=5\" target=\"_blank\">具身智能企业千寻智能获15亿融资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tMG14clFidlpFQnNPcGdoNHJfSTVDX3RGX0xBcTQwdDkzeWx0U2ZCUXVGZ3RwUXk3MklfdzRNenY1MFJWRWd3QWg2UVJ5WlJ5YnV4RGFIeGpKMGUtbUNodl9vY1ZsQQ?oc=5",
+      "published": "Thu, 04 Jun 2026 00:53:29 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中信证券：国内外AI算力与具身智能产业将迎重要产业进展 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zaS1iSGk1eVNNT2luNmU3cmtuWnVSOW9Va2hUT3YxN25WSXlwRVZnRnFrSUpuTlJTeXNFRFZmU3Rycm15clVKRHY3bDNFVUl4V0UzVnUxTzhZbktTcEpV?oc=5\" target=\"_blank\">中信证券：国内外AI算力与具身智能产业将迎重要产业进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zaS1iSGk1eVNNT2luNmU3cmtuWnVSOW9Va2hUT3YxN25WSXlwRVZnRnFrSUpuTlJTeXNFRFZmU3Rycm15clVKRHY3bDNFVUl4V0UzVnUxTzhZbktTcEpV?oc=5",
+      "published": "Thu, 04 Jun 2026 00:30:57 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "WWDC前瞻：Siri将彻底重做，独立App+Gemini打底，苹果AI的兑现时刻将临",
+      "summary": "<p style=\"text-align: left;\">苹果或将把Siri从里到外重做一遍。</p>\n<p style=\"text-align: left;\">苹果一年一度的全球开发者大会（WWDC）将于6月8日开幕。<strong>这一次，外界等待的不是某个新功能，而是苹果能否兑现它在2024年许下的AI承诺。</strong></p>\n<p>摩根大通分析师Samik Chatterjee在6月3日发布的苹果前瞻研究中指出，<strong>本次WWDC的核心看点是Siri的全面重构（\"material overhaul\"），苹果今年WWDC议程中也罕见披露了\"AI advancements\"（AI进展）议程</strong>——分析师将此解读为苹果对这批升级能够如期落地的信心，有别于此前时间线模糊的发布节奏。</p>\n<p>按照预期，<strong>改版后的Siri将以独立App的形式出现，功能上对标ChatGPT、Gemini这类聊天机器人，支持多轮对话。动态岛/灵动岛（Dynamic Island）有望常驻一个\"搜索或提问\"入口，随时唤起Siri。</strong>更关键的是，",
+      "link": "https://wallstreetcn.com/articles/3773827",
+      "published": "Thu, 04 Jun 2026 01:24:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "行业轮动加速，意味着什么？",
+      "summary": "<h2 style=\"text-align: left;\">核心观点</h2>\n<p style=\"text-align: left;\">尽管科技作为本轮牛市主线已经成为资金聚焦的共识，市场的短期强势方向持续性仍然有限，可以概括为“换血效应”，反映了行业轮动的速度。“换血效应”较强区间，往往是大盘盘整的前夕。如果少数行业的上涨是通过多数行业的下跌完成的，我们可以定义其为“虹吸效应”。资金面决定了行业轮动加速的结局是切换、聚焦还是扩散。成交额下行、融资余额上行，导致了存量杠杆内卷下的“换血效应”。成交额上行、融资余额上行，意味着增量资金推动下的先扩散再聚焦。成交额下行、融资余额下行，或意味着聚焦防御方向。</p>\n<h2 style=\"text-align: left;\">摘要</h2>\n<p style=\"text-align: left;\"><strong>“换血效应”：周频维度，涨幅靠前行业下一周仍在前列的条件概率约为20%。</strong>月频维度结论类似，一级行业保持前5的概率约在30%上下浮动。这意味着，尽管科技作为本轮牛市主线已经成为资金聚焦的共识，市场的短期强势方向持续",
+      "link": "https://wallstreetcn.com/articles/3773826",
+      "published": "Thu, 04 Jun 2026 00:57:24 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "黄仁勋钦点Marvell：AI投资主线正在从算力转向互连",
+      "summary": "<h2 style=\"text-align: left;\">一、发生了什么？——黄仁勋“点名”Marvell</h2><p style=\"text-align: left;\"><strong>1. 黄仁勋Computex罕见“点名”Marvell：</strong></p><p style=\"text-align: left;\">2026年6月2日，台北Computex期间，英伟达CEO黄仁勋现身Marvell CEO Matt Murphy主题演讲现场，在没有任何预告的情况下公开表示：</p><p style=\"text-align: left;\">“This is the next trillion-dollar company.”</p><p style=\"text-align: left;\">这句话迅速引爆全球资本市场。当晚，Marvell股价单日暴涨32.52%，市值升至约2544亿美元。</p><p style=\"text-align: left;\">这一事件并非孤立。早在2026年3月，英伟达就已宣布向Marvell战略投资20亿美元，双方宣布在NVLink Fusion",
+      "link": "https://wallstreetcn.com/member/articles/3773780",
+      "published": "Thu, 04 Jun 2026 00:54:24 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "SpaceX浑身拧巴",
+      "summary": "<p>2026年5月20日（美国时间），SpaceX正式向美国SEC提交S-1招股文件，拟募集750亿美元。预计上市后市值将超过1.5万亿美元。</p>\n<p>SpaceX有三项主营业务：太空发射（以下简称发射）、星链通信（以下简称联网）、人工智能（以下简称AI）。</p>\n<p>看完几百页招股文件，发现SpaceX的三项业务都存在深层问题，更准确地说就是“拧巴“。</p>\n<h2>“挑大梁”的非主线业务</h2>\n<p>SpaceX为移民火星而生，主线业务是火箭、飞船的研发和建造，如猎鹰9号、星舰、龙飞船等。</p>\n<p>星链通信本是副业，到2026年3月末，运营9600颗低轨卫星，服务1030万用户，收入占SpaceX总收入的69%。</p>\n<p>人工智能是新兴业务。围绕Grok模型、算力基础设施建设并整合社交平台X（原推特）。</p>\n<p><img class=\"wscnph\" src=\"https://bang.xuangubao.cn/LTU3OTI0MzQ3OQ==\" /></p>\n<ul>\n<li>\n<p><strong>发射</strong></p>\n</li>",
+      "link": "https://wallstreetcn.com/articles/3773825",
+      "published": "Thu, 04 Jun 2026 00:49:19 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "CrowdStrike、Palo Alto Networks财报后大跌，网络安全股给“软件股大反弹”泼冷水",
+      "summary": "<p style=\"text-align: left;\">尽管交出了超出华尔街预期的财报答卷，网络安全巨头CrowdStrike与Palo Alto Networks的股价仍在最新交易日遭遇重挫，<strong>这给近期势头强劲的软件与网络安全板块反弹行情浇下了一盆冷水。</strong></p>\n<p style=\"text-align: left;\">在周三的盘后交易中，CrowdStrike股价大跌10%。此前，尽管Palo Alto Networks公布了超预期的核心财务数据，其股价仍在周三的常规交易时段下跌了5.6%。</p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/5fd89421-3e7b-40dd-9e09-338b099e208f.png\" /></p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/1ae1db33-64",
+      "link": "https://wallstreetcn.com/articles/3773824",
+      "published": "Thu, 04 Jun 2026 00:42:51 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "3月大抛售后，全球央行4月重新恢复购金，波兰、中国央行是最大买家",
+      "summary": "<p>全球央行在经历3月大规模抛售后，于4月重返黄金买方阵营，但整体购金节奏仍远低于去年水平，金价前景依然承压。</p>\n<p>据世界黄金协会（WGC）最新数据，全球央行4月净购金约17吨，扭转了3月近30吨净抛售的局面，后者是近年来最大单月抛售规模，主要由土耳其主导。</p>\n<p>4月，波兰央行以14吨的净购入量蝉联月度最大买家，中国央行则以8吨的净购入量加速增持，为2024年12月以来最高单月购金量。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/15406aad-6628-4cb4-a18d-ccbbc1d662eb.png\" /></p>\n<p><strong>然而，高盛指出，尽管央行购金回暖，当前购金水平仍低于去年。</strong>与此同时，此前推动金价突破5000美元的ETF资金持续流出，动能追逐型资金已转向芯片和存储器股票等领域。此外，美债收益率与美元双双走高、美国经济展现出超预期韧性，令黄金近期面临多重阻力。</p>\n<h2>央行购金回暖，波兰与中国领跑</h2>\n<p>WGC数据显示，波兰",
+      "link": "https://wallstreetcn.com/articles/3773823",
+      "published": "Thu, 04 Jun 2026 00:38:48 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美国原油库存已跌至2004年以来最低，特朗普还压得住油价吗？",
+      "summary": "<p>美伊冲突正将全球油市推向临界点，美国原油及石油产品库存已跌至逾二十年来最低水平，与此同时，美国原油出口在5月创下历史纪录，美国国内储备被快速消耗。分析人士警告，若霍尔木兹海峡持续封闭，油价可能在数周内大幅跳涨。</p>\n<p>据美国能源信息署（EIA）周三公布的数据，截至5月29日当周，美国原油及石油产品总库存较前一周减少1060万桶，降至15.7亿桶，<strong>为2004年以来最低水平</strong>。商业原油库存（不含战略石油储备）单周下降800万桶至4.337亿桶，连<strong>续第六周录得下滑，降幅远超分析师此前预期的330万桶。</strong></p>\n<p>特朗普政府已授权从战略石油储备（SPR）释放1.72亿桶原油以平抑油价，目前已累计释放约5000万桶，SPR库存降至3.571亿桶。<strong>然而，随着库存持续消耗，市场对这一缓冲机制能否持续发挥作用的疑虑正在加深。</strong></p>\n<p>Rapidan Energy Group总裁、前白宫顾问Bob McNally警告称，若霍尔木兹海峡不能重新开放，油价今夏可能冲至每桶200美元。<",
+      "link": "https://wallstreetcn.com/articles/3773820",
+      "published": "Thu, 04 Jun 2026 00:22:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "停火以来最大规模交火！科威特称伊朗袭击致63人受伤，特朗普“灭火”：谈判顺利，协议可能周末达成",
+      "summary": "<p style=\"text-align: left;\">美伊4月达成“停火协议”以来，这可能是双方打得最狠的一次。</p>\n<p style=\"text-align: left;\">据媒体报道，6月2日至3日，美伊双方爆发4月停火以来最激烈的一轮交火，导火索是美军打击一艘试图违反封锁的伊朗油轮。伊朗随即对驻有美军基地的科威特和巴林发射弹道导弹，科威特国际机场遭到重创，1人遇难、63人受伤。</p>\n<p style=\"text-align: left;\">据<a href=\"https://www.thepaper.cn/newsDetail_forward_33304523\" rel=\"noopener\" target=\"_blank\">新华社</a>6月4日报道，伊朗军方3日深夜发表声明，称伊朗海军在阿曼湾对一艘美军驱逐舰发动打击，目标是该舰上对伊朗实施敌对行动的指挥控制中心。美军中央司令部随即在社交媒体发文否认，称\"美国海上军事力量目前仍在安全、畅通无阻地进行飞行、航行及各项行动。\"</p>\n<h2 style=\"text-align: left;\"><strong>导火索：一",
+      "link": "https://wallstreetcn.com/articles/3773822",
+      "published": "Thu, 04 Jun 2026 00:21:55 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "一个周末就“花掉”168亿！“新王”上任三把火，伯克希尔庞大的现金流要用起来了？",
+      "summary": "<p style=\"text-align: left;\">Greg Abel用一个周末，向市场证明了自己。</p>\n<p style=\"text-align: left;\">接替巴菲特出任伯克希尔首席执行官仅数月，Abel在5月下旬的一个周末内敲定了两笔重磅交易——以<a href=\"https://wallstreetcn.com/articles/3773528\" rel=\"noopener\" target=\"_blank\">68亿美元收购房屋建筑商Taylor Morrison Home</a>，并于周一宣布<a href=\"https://wallstreetcn.com/articles/3773607\" rel=\"noopener\" target=\"_blank\">斥资100亿美元购入谷歌母公司Alphabet的股份</a>，合计出手约168亿美元。</p>\n<p style=\"text-align: left;\">6月3日，据华尔街日报，这是伯克希尔近年来规模最大的一批交易，也是Abel向外界发出的最清晰信号：<strong>他不仅是一位运营高手，同样具备大手笔配置资本的",
+      "link": "https://wallstreetcn.com/articles/3773821",
+      "published": "Thu, 04 Jun 2026 00:06:44 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "A股四大指数集体低开，CPO、光刻机等概念股纷纷回调",
+      "summary": "<figure><img alt=\"A股四大指数集体低开，CPO、光刻机等概念股纷纷回调\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/4173cf515e2b12fc8dd0aaba5413d933.jpg\" /></figure><p>市场逾4300股下跌。</p><p>6月4日，A股四大指数集体低开，沪指跌0.74%，深成指跌1.05%，创业板指跌1.22%，科创综指跌1.42%。</p>\n\n<p align=\"center\"><img align=\"\" alt=\"\" border=\"0\" height=\"260\" src=\"https://imgcdn.yicai.com/uppics/images/2026/06/c91db5ba13839cc13b93136127f9ecc6.jpg\" width=\"1131\" /></p>\n\n<p>盘面上，CPO、光刻机、PCB、半导体、AI算力、GPU、锂电池概念股纷纷回调，油气、有色金属、文化传媒、化工、电力板块跌幅靠前。市场逾4300股下跌。</p>\n\n<p>个股方面，银之",
+      "link": "https://www.yicai.com/news/103214945.html",
+      "published": "Thu, 04 Jun 2026 01:34:43 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "盘前必读丨富时中国A50指数迎来重大调整；银之杰澄清“被立案调查”传闻不属实",
+      "summary": "<figure><img alt=\"盘前必读丨富时中国A50指数迎来重大调整；银之杰澄清“被立案调查”传闻不属实\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/3b3ef611c6a3652ddb92c4cacb9e5289.jpg\" /></figure><p>机构认为，缩量抱团格局下，结构变化或需外力破局。</p><p><strong>【财经日历】</strong></p>\n\n<p>国内成品油将开启新一轮调价窗口</p>\n\n<p>美联储公布经济状况褐皮书</p>\n\n<p>财报发布：博通</p>\n\n<p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" height=\"87\" src=\"https://imgcdn.yicai.com/uppics/images/2019/10/be231c70bd009c5fbf111e298546d5be.jpg\" width=\"500\" /></p>\n\n<p>►►富时中国A50指数纳入兆易创新、澜起科技、东山精密、胜宏",
+      "link": "https://www.yicai.com/news/103214824.html",
+      "published": "Thu, 04 Jun 2026 00:10:52 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "燧原更换保荐、MiniMax“二选一”：中信与中金的AI暗战 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZcWpkT3JjSW9Db1dZTHdKZ2xXQkpxZjZCT2lTRFZ6eURpRzF6OTVXUFFVNVM1dDhJMGx0UHpEWFJ3cWlYQ1k2WXc5blE0UVNRdjVxUGh0S01mdDFN?oc=5\" target=\"_blank\">燧原更换保荐、MiniMax“二选一”：中信与中金的AI暗战</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZcWpkT3JjSW9Db1dZTHdKZ2xXQkpxZjZCT2lTRFZ6eURpRzF6OTVXUFFVNVM1dDhJMGx0UHpEWFJ3cWlYQ1k2WXc5blE0UVNRdjVxUGh0S01mdDFN?oc=5",
+      "published": "Thu, 04 Jun 2026 00:53:00 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "*ST岭南连收3个涨停板 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE15Q2lQdTJjSmdxLU4yQ3haTXN6OGtBWlJaaUtJSDJpUEpUSWVfZTZhRWdJdkNFUll5ZDBpWTdnYXZQN1p6MlBfOWthaFJmZ3QtVUMweW1xLXpkQ3lF?oc=5\" target=\"_blank\">*ST岭南连收3个涨停板</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15Q2lQdTJjSmdxLU4yQ3haTXN6OGtBWlJaaUtJSDJpUEpUSWVfZTZhRWdJdkNFUll5ZDBpWTdnYXZQN1p6MlBfOWthaFJmZ3QtVUMweW1xLXpkQ3lF?oc=5",
+      "published": "Thu, 04 Jun 2026 01:44:30 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "超1000亿元！这些公司正豪气回购！14股业绩猛增（附名单） - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Qlh5M2hjNXFsMElNX1ozakF5ckI4Sm5Ua1pnNFFqT3ZNRTU1YUNzaHBadEM5bXN1a3JFREs1UEdQb3J2UkxyYXg2cm1HaF94eFFUaTA5cFVwRHJF?oc=5\" target=\"_blank\">超1000亿元！这些公司正豪气回购！14股业绩猛增（附名单）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Qlh5M2hjNXFsMElNX1ozakF5ckI4Sm5Ua1pnNFFqT3ZNRTU1YUNzaHBadEM5bXN1a3JFREs1UEdQb3J2UkxyYXg2cm1HaF94eFFUaTA5cFVwRHJF?oc=5",
+      "published": "Thu, 04 Jun 2026 00:16:00 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "重庆臻宝科技股份有限公司首次公开发行3,882.26万股A股并在科创板上市 - 中证网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWVFwWEVuRnlVZGxjWm5CaUpBLV9kc1VxeW5nMEdJbGRwQjhpVFRMeDRpMVBfdG1sbVhZYWs5NHRWUng2VEhGVTBhYVlIdlgydlBUVjJpRGQ3YURIczNkczZsX1BEY096REllazAyUUt0UHJQaVhF?oc=5\" target=\"_blank\">重庆臻宝科技股份有限公司首次公开发行3,882.26万股A股并在科创板上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中证网</font>",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wWVFwWEVuRnlVZGxjWm5CaUpBLV9kc1VxeW5nMEdJbGRwQjhpVFRMeDRpMVBfdG1sbVhZYWs5NHRWUng2VEhGVTBhYVlIdlgydlBUVjJpRGQ3YURIczNkczZsX1BEY096REllazAyUUt0UHJQaVhF?oc=5",
+      "published": "Thu, 04 Jun 2026 00:31:00 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "大金重工：本次H股发行的最终价格为每股66.40港元 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE80b0UwRzFfaWVRQWVRUzA2ZUxzMWktanpPQ1Y1SjFqamlBWlE5bXNCRjVzdURtbk5zWFFGVFZJZ3dRSjVSNXhzRnl3M3FZbzV6Wlh6aXBXSVRDNjRua1JDYTQwVWlqQQ?oc=5\" target=\"_blank\">大金重工：本次H股发行的最终价格为每股66.40港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80b0UwRzFfaWVRQWVRUzA2ZUxzMWktanpPQ1Y1SjFqamlBWlE5bXNCRjVzdURtbk5zWFFGVFZJZ3dRSjVSNXhzRnl3M3FZbzV6Wlh6aXBXSVRDNjRua1JDYTQwVWlqQQ?oc=5",
+      "published": "Thu, 04 Jun 2026 01:12:02 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "上市公司再掀回购热潮 年内披露金额已超千亿元 - 中证网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ncVhRTHlJb0VObkhyRjdBZ29MeXNIN3lZWHdHLWFPVG9yVHA1Uk9vM2ZNTzlyWGk0M01lb0tnelRwYUQ0OVUwWWlTeWJCWjlsbGJnT1NRVVZGQ2R4Y3JVaGRpelk4X01QeUlpc09LVmY5dkVaekVpUA?oc=5\" target=\"_blank\">上市公司再掀回购热潮 年内披露金额已超千亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中证网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ncVhRTHlJb0VObkhyRjdBZ29MeXNIN3lZWHdHLWFPVG9yVHA1Uk9vM2ZNTzlyWGk0M01lb0tnelRwYUQ0OVUwWWlTeWJCWjlsbGJnT1NRVVZGQ2R4Y3JVaGRpelk4X01QeUlpc09LVmY5dkVaekVpUA?oc=5",
+      "published": "Thu, 04 Jun 2026 01:00:00 GMT"
+    },
+    {
+      "source": "上海证券报",
+      "title": "日经225指数开盘跌0.79% 韩国综合指数跌2.02% - 搜狐网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSXZ6SVhudldja1lHbkx5d2V0UXV4eW11QzlKMGlzODM3YnhhNXRDRXc1bnlLYkxnMlN6ZTFqSTdvYkJ5MXkwVGxudE1mTDJFQ2ZPOHRB?oc=5\" target=\"_blank\">日经225指数开盘跌0.79% 韩国综合指数跌2.02%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUSXZ6SVhudldja1lHbkx5d2V0UXV4eW11QzlKMGlzODM3YnhhNXRDRXc1bnlLYkxnMlN6ZTFqSTdvYkJ5MXkwVGxudE1mTDJFQ2ZPOHRB?oc=5",
+      "published": "Thu, 04 Jun 2026 00:29:55 GMT"
+    }
+  ]
+}
