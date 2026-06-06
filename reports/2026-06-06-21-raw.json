@@ -1,16 +1,9 @@
 {
   "date": "2026-06-06",
   "hour": "21",
-  "total": 5,
-  "fetched_at": "2026-06-06T21:00:35.356005+08:00",
+  "total": 4,
+  "fetched_at": "2026-06-06T21:05:17.880767+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "康隆达股东拟减不超3%股份，15家A股公司减持计划一览 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeEZBZnl5ajE1dEg2cURhT18zUEhfNVlqTFVjWl83dTVvcmowSlRKREdrbUFwSUR4LUF6LTVBaVY4YnBRaGh0amozalZkbWVsaUJkTGFIUXZOYmlUSC1XWVFMc0t3NVlNTnpTR095SGhVX05YcFhIWg?oc=5\" target=\"_blank\">康隆达股东拟减不超3%股份，15家A股公司减持计划一览</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKeEZBZnl5ajE1dEg2cURhT18zUEhfNVlqTFVjWl83dTVvcmowSlRKREdrbUFwSUR4LUF6LTVBaVY4YnBRaGh0amozalZkbWVsaUJkTGFIUXZOYmlUSC1XWVFMc0t3NVlNTnpTR095SGhVX05YcFhIWg?oc=5",
-      "published": "Sat, 06 Jun 2026 11:01:00 GMT"
-    },
     {
       "source": "新浪财经",
       "title": "芯片资金出逃-ETF周报15期 - 新浪财经",
@@ -19,18 +12,18 @@
       "published": "Sat, 06 Jun 2026 11:51:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "诚通证券绵阳火炬北路证券营业部收警示函，涉违规买卖证券等 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE93a2JncG13OGFEUGE1eVB3cmx0OTVDa1pCVVZkZDVBZW8wQVA3bUZpS2FRQ2hBb1NGTkFKQUVkSVNGdWZOQTN5b1NxUzU3cWFmRnpzVU5STm10YzhyOXJGc1p3?oc=5\" target=\"_blank\">诚通证券绵阳火炬北路证券营业部收警示函，涉违规买卖证券等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93a2JncG13OGFEUGE1eVB3cmx0OTVDa1pCVVZkZDVBZW8wQVA3bUZpS2FRQ2hBb1NGTkFKQUVkSVNGdWZOQTN5b1NxUzU3cWFmRnpzVU5STm10YzhyOXJGc1p3?oc=5",
-      "published": "Sat, 06 Jun 2026 12:05:12 GMT"
+      "source": "华尔街见闻",
+      "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
+      "summary": "<p style=\"text-align: left;\">尽管创纪录的二季度财报未能填满华尔街对AI的“极高胃口”并引发股价重挫，但博通CEO陈福阳（Hock Tan）在最新访谈中以极度自信的姿态给出了回应：<strong>“从不关心股价”</strong>，并首度披露了与OpenAI芯片合作的投产时间表，以及<strong>押注“博通-谷歌-Anthropic”生态链的惊人回报。</strong></p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/4ac101f7-d879-4b25-bc0e-b00e252530e2.png\" /></p>\n<p style=\"text-align: center;\"><span style=\"color: #b3b3b3;\">（博通CEO接受彭博社专访截图）</span></p>\n<p style=\"text-align: left;\">6月5在旧金山举办的2026年彭博科技大会上，博通公司总裁兼首席执行官陈福阳（Hock",
+      "link": "https://wallstreetcn.com/articles/3774025",
+      "published": "Sat, 06 Jun 2026 11:57:32 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "实探2026 SNEC展会：储能不再只是配角，光伏洗牌或正接近尾声",
-      "summary": "<figure><img alt=\"实探2026 SNEC展会：储能不再只是配角，光伏洗牌或正接近尾声\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/66e6f89e-b1c5-4578-a661-ae7192669610.jpg\" /></figure><p>隆基绿能创始人李振国表示，“过去二十年，是‘让光伏变便宜’的上半场，而未来十年则是‘让光储变成主力电源’的下半场。”</p><p>六月上海，热气蒸腾。国家会展中心的展馆里，比气温更高的是另一种情绪——焦虑与希望交织的微妙氛围。</p><p>走在SNEC 2026的展馆里，第一财经记者最直观的感受是：展馆布局重心变了。储能主题馆达到6个，而光伏相关展馆仅为4个，储能展馆数量首次超过光伏馆。此外，往年铺天盖地的光伏组件展板消失了，取而代之的是“全场景解决方案”的大屏和“零碳园区”相关实景模拟。</p><p>这些变化并非偶然，而是光伏产业底层逻辑重构的直观缩影。</p><p>“切肤之痛，铭心之悟。旧发展范式和行业叙事模式已经全面失效。”协鑫集团董事长朱共山在SNE",
-      "link": "https://www.yicai.com/news/103218494.html",
-      "published": "Sat, 06 Jun 2026 12:30:35 GMT"
+      "source": "华尔街见闻",
+      "title": "俄总统顾问：美国正试图退出乌克兰问题谈判",
+      "summary": "<p>俄罗斯总统顾问安东·科比亚科夫6月6日表示，美国正试图退出乌克兰问题谈判，因为美方意识到特别军事行动的结局将对俄罗斯有利。科比亚科夫在圣彼得堡国际经济论坛闭幕新闻发布会上，对美国国务卿鲁比奥日前称俄乌和平前景“不乐观”的言论作出上述回应。（央视新闻）</p>",
+      "link": "https://wallstreetcn.com/livenews/3115456",
+      "published": "Sat, 06 Jun 2026 11:14:26 GMT"
     },
     {
       "source": "大宗交易",
