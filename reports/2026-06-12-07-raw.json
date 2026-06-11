@@ -1,9 +1,23 @@
 {
   "date": "2026-06-12",
   "hour": "07",
-  "total": 36,
-  "fetched_at": "2026-06-12T07:00:38.807547+08:00",
+  "total": 38,
+  "fetched_at": "2026-06-12T07:13:05.906323+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "科技股引领A股震荡，机构称市场调整的时间和空间均有限 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTWhpdkhhUlBaZTYzZUw2WFljQTg5V3o0Tlg3WXZESW0xUllRaG5XaElQZFRESmtRcS1DaVZwR01rRS04SXZkTmh4dS0tMlIwM0NScDc3dVduWlFJWFBsV1BzVXVUWXVITWxsMjZ6cmlJTXNGa0lQNw?oc=5\" target=\"_blank\">科技股引领A股震荡，机构称市场调整的时间和空间均有限</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MTWhpdkhhUlBaZTYzZUw2WFljQTg5V3o0Tlg3WXZESW0xUllRaG5XaElQZFRESmtRcS1DaVZwR01rRS04SXZkTmh4dS0tMlIwM0NScDc3dVduWlFJWFBsV1BzVXVUWXVITWxsMjZ6cmlJTXNGa0lQNw?oc=5",
+      "published": "Thu, 11 Jun 2026 22:50:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "硬科技重塑A股版图，千亿市值公司九年增近两倍 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5QOFl5WERoZVlqNmxlU1A5emNGOVlnby1BTDFYcGVrcE5ZY3VNVVNfaGNlbmFUQXoyd0x5MDc2YmFvLWh1MS1ONHd2Mm9Na2ViNEU4bFVCMDMtTVM4RldvRk51RDVjTlpFWUlqei16bGxsaTNQT2prQw?oc=5\" target=\"_blank\">硬科技重塑A股版图，千亿市值公司九年增近两倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QOFl5WERoZVlqNmxlU1A5emNGOVlnby1BTDFYcGVrcE5ZY3VNVVNfaGNlbmFUQXoyd0x5MDc2YmFvLWh1MS1ONHd2Mm9Na2ViNEU4bFVCMDMtTVM4RldvRk51RDVjTlpFWUlqei16bGxsaTNQT2prQw?oc=5",
+      "published": "Thu, 11 Jun 2026 22:54:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "富国恒生A股专精特新企业ETF净值上涨1.09% - 新浪财经",
@@ -54,25 +68,11 @@
       "published": "Thu, 11 Jun 2026 22:17:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "山金国际MSCI ESG评级维持B，位居A股同行业55家公司第17名，与中钨高新等同级、高于北方稀土、低于金博股份 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzVBRDljQTBaQ2pyajJ5RG1lWVRGR0o3OXJlZVV4XzJZdnNZLWp1WHN3VDZYTDVLWVFQZzQybUR5Y1AwVFNONzgzLVA2b0tlZzZCb3k4bjhDZENLb29mRkJSOVFlUFp2aXNabVpCTG5rWWJRMXpudGp6cGwtZVNvR1pBaEQ4a0NFTXlQN1BB?oc=5\" target=\"_blank\">山金国际MSCI ESG评级维持B，位居A股同行业55家公司第17名，与中钨高新等同级、高于北方稀土、低于金博股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzVBRDljQTBaQ2pyajJ5RG1lWVRGR0o3OXJlZVV4XzJZdnNZLWp1WHN3VDZYTDVLWVFQZzQybUR5Y1AwVFNONzgzLVA2b0tlZzZCb3k4bjhDZENLb29mRkJSOVFlUFp2aXNabVpCTG5rWWJRMXpudGp6cGwtZVNvR1pBaEQ4a0NFTXlQN1BB?oc=5",
-      "published": "Thu, 11 Jun 2026 21:03:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "恒生电子MSCI ESG评级较上年维持AA，位居A股同行业16家公司排名第1名，与金山办公、用友网络同级、高于深信服 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2xhN09GOXNxTE52SUdXNFl4OXNYMzZubXdMbTIzR1pQNGxjYWo4cjhDTWJwNHo3a1Z0MnNKeHpHbFpvYm5YQlBGUUMzN2hHSHBsaFo0ak0yRFZBY3MzUGhJZDhMS3BPM29VUko1cUt4QVVTYlg0STcwT0o4YVlJR0VEaEtybHhPUDNOLUZB?oc=5\" target=\"_blank\">恒生电子MSCI ESG评级较上年维持AA，位居A股同行业16家公司排名第1名，与金山办公、用友网络同级、高于深信服</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc2xhN09GOXNxTE52SUdXNFl4OXNYMzZubXdMbTIzR1pQNGxjYWo4cjhDTWJwNHo3a1Z0MnNKeHpHbFpvYm5YQlBGUUMzN2hHSHBsaFo0ak0yRFZBY3MzUGhJZDhMS3BPM29VUko1cUt4QVVTYlg0STcwT0o4YVlJR0VEaEtybHhPUDNOLUZB?oc=5",
-      "published": "Thu, 11 Jun 2026 21:04:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "中海油服MSCI ESG评级较上年维持B，位居A股同行业4家公司排名第3，与海油发展同级、高于杰瑞股份 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWlLQnJoaXlMYVBpb1I4N09SYmFtWXh1ams2LXRLSm1JbVB3eG1Ea2lYYmlZdjl1SVpyaFFXWU9tNFkwcVp2VXNLMnp5ZUxrcXAtLTVFVTFJekozNFpSVDdiTURiZzNPT3VKNUU0eTdyM0lrZ0NmQWx1Umw5X2lvNE0xUUp4NFd6OEZQYzZB?oc=5\" target=\"_blank\">中海油服MSCI ESG评级较上年维持B，位居A股同行业4家公司排名第3，与海油发展同级、高于杰瑞股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWlLQnJoaXlMYVBpb1I4N09SYmFtWXh1ams2LXRLSm1JbVB3eG1Ea2lYYmlZdjl1SVpyaFFXWU9tNFkwcVp2VXNLMnp5ZUxrcXAtLTVFVTFJekozNFpSVDdiTURiZzNPT3VKNUU0eTdyM0lrZ0NmQWx1Umw5X2lvNE0xUUp4NFd6OEZQYzZB?oc=5",
-      "published": "Thu, 11 Jun 2026 21:04:00 GMT"
+      "source": "同花顺",
+      "title": "沙特媒体：中国成沙特汽车市场主要供应商",
+      "summary": "据沙特阿拉伯《沙特公报》近日披露，沙特过去两年进口约190万辆汽车，而中国已成为沙特汽车市场的主要供应商之一。沙特天课、税务和海关总局（ZATCA）公布的数据显示，2024年沙特汽车进口量约94万辆。2025年，沙特汽车进口量达到约96万辆，进一步扩大了该国本就位居全球前列的庞大汽车市场规模。报道称，过去两年中国一直是沙特进口汽车的主要来源国。日本位居第二，紧随其后的是印度、泰国和韩国。美国排名第六，美系汽车在沙特汽车市场中的份额显著下滑。(环球网)",
+      "link": "https://news.10jqka.com.cn/20260612/c677403705.shtml",
+      "published": "Thu, 11 Jun 2026 23:08:17 GMT"
     },
     {
       "source": "同花顺",
@@ -164,6 +164,20 @@
       "summary": "据伊朗国家电视台11日报道，伊朗外交部发言人表示，迄今为止，伊朗尚未就伊美协议达成最终结论，外界针对该协议传出的说法均为猜测，相关事宜尚未敲定。 (新华社)",
       "link": "https://news.10jqka.com.cn/20260612/c677402688.shtml",
       "published": "Thu, 11 Jun 2026 21:24:15 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Adobe Q2营收超预期，业绩指引上调，但CFO离职引担忧，盘后大跌｜财报见闻",
+      "summary": "<p>Adobe季报超出预期并大幅上调全年展望，但首席财务官突然宣布离职，加之此前已公布的CEO接班安排，双重领导层变动令投资者情绪承压，盘后股价进一步下挫。</p>\n<p>公司周四公布，二季度营收同比增长13%至66.2亿美元，调整后每股收益5.96美元，均超出分析师预期。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/2db3216e-66ef-4ef3-a633-5e33f6090adc.png\" /></p>\n<p>全年营收指引从此前的259亿至261亿美元区间上调至265亿至266亿美元，调整后每股收益指引亦从23.30至23.50美元上调至24.35至24.45美元，大幅高于FactSet调查分析师此前预测的23.54美元和260.6亿美元。</p>\n<p>尽管基本面表现强劲，Adobe股价盘后跌幅仍超6%，今年以来累计下跌约37%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/26fc2fd7-0bd8-401c-8c2",
+      "link": "https://wallstreetcn.com/articles/3774470",
+      "published": "Thu, 11 Jun 2026 23:04:12 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "超快激光：封装材料革命的“手术刀”，后摩尔时代的战略核心？",
+      "summary": "<p style=\"text-align: left;\">当主流的台积电CoWoS封装技术在大尺寸、高功耗及多HBM（高带宽内存）堆叠的趋势下不断挑战工艺边界时，传统硅中介层成本高昂、有机基板大尺寸翘曲严重、高频信号损耗加大等物理瓶颈也相继显现 。 &nbsp;</p><p style=\"text-align: left;\">在这一技术分叉点上，先进封装材料正加速迎来一场颠覆性的升级——玻璃载板（TGV）、高端陶瓷基板（DPC）以及高阶基板（M8/M9/M10级PCB）正在由实验室加速走向产线 。 &nbsp;然而，这些新材料在具备优异电学与热学性能的同时，均属于“硬脆”或“超高硬度”体系，使得传统机械钻孔、湿法刻蚀等加工方案彻底失效 。脉冲宽度处于皮秒至飞秒量级的超快激光，凭借瞬时极高能量密度带来的非线性“冷烧蚀”机制，重构了材料剥离的微观物理机理，成为这场封装材料革命中无可替代的“精密手术刀” 。 &nbsp;</p>",
+      "link": "https://wallstreetcn.com/member/articles/3774297",
+      "published": "Thu, 11 Jun 2026 22:46:32 GMT"
     },
     {
       "source": "华尔街见闻",
