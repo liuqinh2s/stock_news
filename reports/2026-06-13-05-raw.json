@@ -1,15 +1,78 @@
 {
   "date": "2026-06-13",
   "hour": "05",
-  "total": 3,
-  "fetched_at": "2026-06-13T05:00:42.339760+08:00",
+  "total": 17,
+  "fetched_at": "2026-06-13T05:23:07.193434+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "上海复星医药（集团）股份有限公司关于召开2025年度股东会、2026年第二次A股类别股东会及2026年第二次H股类别股东会的提示性公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9fVndtTDI3S01nSE95WFI4NUNqZW9VVXJDUHFWVGRmNUNLY09YVTZhSk16ZW1scmJPM3pKa001NFBRUHNmQXktRDJYWkp4ZmpoZ0NqVXpPMnp1VUN3eGZpcHI5SV8zYi1mbV9DV3lLV3Nvb01qbzhnOQ?oc=5\" target=\"_blank\">上海复星医药（集团）股份有限公司关于召开2025年度股东会、2026年第二次A股类别股东会及2026年第二次H股类别股东会的提示性公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fVndtTDI3S01nSE95WFI4NUNqZW9VVXJDUHFWVGRmNUNLY09YVTZhSk16ZW1scmJPM3pKa001NFBRUHNmQXktRDJYWkp4ZmpoZ0NqVXpPMnp1VUN3eGZpcHI5SV8zYi1mbV9DV3lLV3Nvb01qbzhnOQ?oc=5",
+      "published": "Fri, 12 Jun 2026 21:11:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华夏MSCI中国A股国际通ETF联接A净值上涨1.11% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNy1HRUY4b2xjTXcyLXhuXy1ub3dOd3BJWkJ2ZURjcV85cEVjaU14NE5JaGtCcXM3TW1QQnhmLUdxRGw4SUl3eWRlcEVkbFlmUFZPODBud3BmcmZsSW1SdDNGcGJpSXZaaVRJdFNOd3RMWDF1dUltbnFBY2pBMDNaTmRuQ2M1ZHlyeDl2X2RtU2thM1k5OWdN?oc=5\" target=\"_blank\">华夏MSCI中国A股国际通ETF联接A净值上涨1.11%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNy1HRUY4b2xjTXcyLXhuXy1ub3dOd3BJWkJ2ZURjcV85cEVjaU14NE5JaGtCcXM3TW1QQnhmLUdxRGw4SUl3eWRlcEVkbFlmUFZPODBud3BmcmZsSW1SdDNGcGJpSXZaaVRJdFNOd3RMWDF1dUltbnFBY2pBMDNaTmRuQ2M1ZHlyeDl2X2RtU2thM1k5OWdN?oc=5",
+      "published": "Fri, 12 Jun 2026 21:03:00 GMT"
+    },
     {
       "source": "东方财富",
       "title": "富时罗素公司表示：SpaceX将快速被纳入富时全球股票指数系列 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnQWRqR1lZVVl6Rmp3azZ4aW5hdG53eC1xQnNmaXR0c205SUd1NnY4NkZocWFkUUc3V0FVSFA5cE00TXdaV1RqdTFXc1ZZanJ4ZkE1NlpCdVltTWdGcFFMbDI4cw?oc=5\" target=\"_blank\">富时罗素公司表示：SpaceX将快速被纳入富时全球股票指数系列</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnQWRqR1lZVVl6Rmp3azZ4aW5hdG53eC1xQnNmaXR0c205SUd1NnY4NkZocWFkUUc3V0FVSFA5cE00TXdaV1RqdTFXc1ZZanJ4ZkE1NlpCdVltTWdGcFFMbDI4cw?oc=5",
       "published": "Fri, 12 Jun 2026 20:47:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时罗素公司表示，SpaceX将快速被纳入富时全球股票指数系列",
+      "summary": "富时罗素公司表示，SpaceX将快速被纳入富时全球股票指数系列。",
+      "link": "https://news.10jqka.com.cn/20260613/c677436979.shtml",
+      "published": "Fri, 12 Jun 2026 20:41:06 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+      "summary": "伊朗外长阿拉格齐表示，一旦伊美完成最后阶段的谈判，谅解备忘录将立即签署并公布。第一阶段将以远程电子方式签署，“这可能在未来几天内发生”。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677436950.shtml",
+      "published": "Fri, 12 Jun 2026 20:10:25 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "利弗莫尔中概股龙头指数收盘上涨0.78%",
+      "summary": "利弗莫尔中概股龙头指数收盘上涨0.78%。成分股中，麦思智能涨17.68%，希尔威金属矿业涨7.8%，阿特斯太阳能涨6.22%，童程童美涨6.19%，联电涨4.76%。",
+      "link": "https://news.10jqka.com.cn/20260613/c677436946.shtml",
+      "published": "Fri, 12 Jun 2026 20:02:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "SpaceX美国IPO首日收涨19.30%，报161.06美元",
+      "summary": "SpaceX美国IPO首日收涨19.30%，报161.06美元。",
+      "link": "https://news.10jqka.com.cn/20260613/c677436945.shtml",
+      "published": "Fri, 12 Jun 2026 20:01:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收评：美股三大指数集体收涨",
+      "summary": "美股三大指数集体收涨，标普500指数涨0.5%，道指涨0.69%，纳指涨0.31%。大型科技股方面，英特尔涨6.51%，超威半导体涨4.73%，高通涨4.32%，特斯拉涨1.82%，亚马逊跌1.23%，美光科技跌1.43%，苹果跌1.52%，阿斯麦跌1.89%。中概股方面，理想汽车涨3.77%，京东涨1.78%，携程跌1.94%，哔哩哔哩跌2.72%。",
+      "link": "https://news.10jqka.com.cn/20260613/c677436944.shtml",
+      "published": "Fri, 12 Jun 2026 20:00:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
+      "summary": "伊朗外长阿拉格齐当天表示，磋商中的伊美谅解备忘录规定在所有战线止战，包括黎巴嫩境内战线。他表示，“我们绝不会让黎巴嫩孤立无援”。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677436906.shtml",
+      "published": "Fri, 12 Jun 2026 19:37:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+      "summary": "伊朗外长阿拉格齐参加当晚的一档电视节目时表示，正在进行的伊美谅解备忘录谈判中，美国承诺不发动战争，也不使用威胁手段，双方彼此尊重主权，互不干涉内政。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677436903.shtml",
+      "published": "Fri, 12 Jun 2026 19:35:44 GMT"
     },
     {
       "source": "财联社",
@@ -19,11 +82,46 @@
       "published": "Fri, 12 Jun 2026 20:13:39 GMT"
     },
     {
-      "source": "上海证券报",
-      "title": "沪指放量站上4000点有色、券商板块爆发 - 上海证券报电子版",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9kS3BhMHFMVUVEVmNfWC1tX2NBcDFSTUx4RXVPcWdaTmV0OFRWSGM2b0pQQXVRUlg1OXZMR3VwNkw1cjhuX2I4ZTJSWEtWMWF1MDUwbldaRjN3SkRYQ0VwNlFwNHZFSTlXVEtJMlZB?oc=5\" target=\"_blank\">沪指放量站上4000点有色、券商板块爆发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kS3BhMHFMVUVEVmNfWC1tX2NBcDFSTUx4RXVPcWdaTmV0OFRWSGM2b0pQQXVRUlg1OXZMR3VwNkw1cjhuX2I4ZTJSWEtWMWF1MDUwbldaRjN3SkRYQ0VwNlFwNHZFSTlXVEtJMlZB?oc=5",
-      "published": "Fri, 12 Jun 2026 19:10:26 GMT"
+      "source": "华尔街见闻",
+      "title": "交易员对美元的看涨情绪升至逾一年来最高水平",
+      "summary": "<p>随着中东战争强化了美元作为避险资产的地位，交易员对美元的乐观程度升至一年多来的最高水平。</p>\n<p>根据美国商品期货交易委员会（CFTC）于周五公布并由彭博社汇编的数据，截至6月9日，对冲基金、资产管理公司及其他投机者累计建立了价值<strong>278亿美元</strong>的美元看涨头寸，押注美元将进一步走强。<strong>这是自2025年2月以来的最高水平。</strong></p>\n<p>这一持仓情况表明，市场对全球主要储备货币——美元——的看涨情绪正在升温。</p>\n<p>自今年2月下旬战争爆发以来，美元持续上涨，并显示出对油价飙升的高度敏感性；油价上涨进一步支撑了美元的走强。</p>\n<h2>美元指数本周跌超0.3%</h2>\n<article>\n<p>周五（6月12日）纽约尾盘，ICE美元指数跌0.12%，报99.739点，本周累计下跌0.33%，6月12日北京时间01:00达到100.314点，随后迅速跳水至99.586点。</p>\n<p>彭博美元指数涨0.02%，报1206.98点，本周累跌0.40%，整体交投区间为1213.41-1205.55点。</p",
+      "link": "https://wallstreetcn.com/articles/3774558",
+      "published": "Fri, 12 Jun 2026 20:48:10 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "市场拥挤交易快速退潮！对冲基金净杠杆骤降至一年第8百分位",
+      "summary": "<p>对冲基金用不到一周时间完成了一次剧烈的仓位重置。摩根大通最新数据显示，对冲基金净杠杆率已骤降至过去一年的第8百分位，此前市场上最受关注的看跌理由之一（仓位过度拥挤）正在快速消散。</p>\n<p>据摩根大通Prime经纪业务数据，对冲基金净杠杆已回落至过去一年区间的第8百分位。摩根大通表示：</p>\n<blockquote>\n<p>“对冲基金净杠杆已回到12个月区间的低端，并接近过去5年的平均水平。北美市场卖压最为明显，主要是多头仓位被削减，这一变化逆转了5月底以来的买入趋势。处于第8百分位。”</p>\n</blockquote>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/5b069814-1300-40c4-9902-37b15cfcef62.png\" /></p>\n<p>综合仓位指标（TPM）的单周变动幅度从近期市场高点时的超过+2个标准差，急剧翻转至本周的低于-2个标准差，仓位水平由此回归中性区间。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.",
+      "link": "https://wallstreetcn.com/articles/3774559",
+      "published": "Fri, 12 Jun 2026 20:47:58 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美国战略石油储备出口创历史新高，九成流向欧洲",
+      "summary": "<p>伊朗战争引发空前供应中断，美国应急原油成为全球市场关键缓冲。</p>\n<p>全球能源市场正史无前例地依赖美国战略石油储备（SPR）来填补伊朗战争造成的供应缺口。今年迄今，美国SPR原油出口规模已超越四年前俄乌战争期间创下的历史纪录，标志着本次供应冲击的严峻程度。</p>\n<p>据Kpler汇编的海关数据，今年迄今已有近2,200万桶SPR原油流向海外市场。出口规模之大折射出霍尔木兹海峡近乎关闭所带来的深度冲击——从应急储备库流出的原油中，每三桶便有约一桶被出口。</p>\n<p>目前出库进程尚未结束。特朗普政府仍在按计划释放全部1.72亿桶承诺量，作为国际能源署（IEA）更大规模协调行动的组成部分，旨在共同对冲伊朗战争对全球能源市场的影响。</p>\n<p>但随着出口持续放量，市场对美国国内能源安全的担忧也在上升。</p>\n<div>\n<h2 id=\"a2c836c2\">出口原油中约90%流向欧洲</h2>\n</div>\n<p>从出口目的地看，欧洲买家占据绝对主导。出口原油中约90%流向欧洲，主要目的地为荷兰，希腊、保加利亚和土耳其的炼油商亦首次出现在买家名单中。</p>\n<p>与此",
+      "link": "https://wallstreetcn.com/articles/3774557",
+      "published": "Fri, 12 Jun 2026 19:56:39 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "香港楼市热度回升！5月内地买家在港购房金额破200亿港元，创两年来新高",
+      "summary": "<p>内地买家在香港楼市的活跃度持续攀升。</p>\n<p>6月11日，《每日经济新闻》记者（以下简称“每经记者”）从美联物业方面获悉，2026年5月，内地买家（以买家姓名的英文拼音鉴别）在香港一二手住宅市场的注册金额突破200亿港元大关，达203.9亿港元，环比上升约6.8%。</p>\n<p>值得注意的是，这是自2024年4月以来的25个月内，内地买家在香港一二手住宅市场的注册金额首次突破200亿港元。</p>\n<p><img alt=\"\" src=\"https://wpimg-wscn.awtmt.com/973c486a-975f-481e-b64d-4785bfda1e5f.jpeg\" title=\"\" /></p>\n<p>2024年1月至今内地买家在港住宅注册量及金额 图片来源：美联物业</p>\n<p>今年以来，香港房地产市场热度回升。业内人士向每经记者透露，去年9月以来，内地买家在香港购房决策速度明显加快，并将香港房产视为长线投资标的。</p>\n<h2>前5个月，内地买家在港购房量价同比齐增</h2>\n<p>美联物业数据显示，2026年5月，内地买家在香港一二手住宅市场的注册",
+      "link": "https://wallstreetcn.com/articles/3774556",
+      "published": "Fri, 12 Jun 2026 19:46:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "海湾局势重大转折？阿联酋被曝将对伊朗解冻百亿美元，换取停止袭击承诺",
+      "summary": "<p>美东时间12日周五的媒体报道显示，阿联酋与伊朗之间正在秘密推进百亿美元规模的资金安排。</p>\n<p>该媒体援引知情者消息称，阿联酋已同意向伊朗解锁大规模资金，首批约30亿美元已完成划转，此举被视为海湾地区局势出现重大转折的信号。</p>\n<p>据上述报道，两位海湾地区消息人士称，阿联酋同意解锁的资金总额为100亿美元；另外两位熟悉相关安排的人士则将总额定为200亿美元，并表示此举的背景是伊朗承诺停止对阿联酋的武装袭击。一位知情人士称，首笔30亿美元已经到位。</p>\n<p>该媒体未能核实上述资金究竟属于阿联酋国有资产，还是长期被冻结的伊朗在阿联酋银行系统中的存款。对于上述资金安排，阿联酋官员回应媒体时未予否认，表示该国外交政策以推动地区降级和缓和紧张局势为核心，支持包括美国在内各方为保护地区人民免受冲突影响所作的努力。</p>\n<p>同在周五，美国副总统万斯在社交媒体发文称，特朗普政府不会因伊朗与美方签署协议而解冻被冻结的伊朗资金，任何经济利益须以伊朗履行义务为前提。白宫和伊朗政府均未就阿联酋的上述安排作出回应。不过，前一天的消息的确体现了中东国家寻求缓和同伊朗关系的进展。</",
+      "link": "https://wallstreetcn.com/articles/3774555",
+      "published": "Fri, 12 Jun 2026 19:35:11 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
+      "summary": "<p>据伊朗媒体12日报道，伊朗外长阿拉格齐参加当晚的一档电视节目时表示，正在进行的伊美谅解备忘录谈判中，美国承诺不发动战争，也不使用威胁手段，双方彼此尊重主权，互不干涉内政。</p>\n\n<p>阿拉格齐当天在谈及伊美谅解备忘录草案时表示，霍尔木兹海峡相关服务将收取费用。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3119056",
+      "published": "Fri, 12 Jun 2026 19:31:51 GMT"
     }
   ]
 }
