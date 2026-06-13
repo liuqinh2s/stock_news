@@ -1,64 +1,15 @@
 {
   "date": "2026-06-13",
   "hour": "19",
-  "total": 21,
-  "fetched_at": "2026-06-13T19:00:35.519514+08:00",
+  "total": 36,
+  "fetched_at": "2026-06-13T19:45:55.368728+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股股民，已超2.5亿！2025年新增1386.95万 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZ0tjRWFYNVlkWmFNVHBpd2xZS0g5Y1dla3doaWFId0J0dFh5RnRZUTdDOVMyeVQ1MGNQSXBCZlpjSFYybDRTZHJmQjVIQ2NZbktzdW1VRGNOWkRKeVAybnJ5Vnh1YnZPOVZhdVNoaTNydlVHamc?oc=5\" target=\"_blank\">A股股民，已超2.5亿！2025年新增1386.95万</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RZ0tjRWFYNVlkWmFNVHBpd2xZS0g5Y1dla3doaWFId0J0dFh5RnRZUTdDOVMyeVQ1MGNQSXBCZlpjSFYybDRTZHJmQjVIQ2NZbktzdW1VRGNOWkRKeVAybnJ5Vnh1YnZPOVZhdVNoaTNydlVHamc?oc=5",
-      "published": "Sat, 13 Jun 2026 10:26:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "最新数据：A股股民，已超2.5亿 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE93ZTZaYjdRaHNPbzlqLTE0UEtlN3ZyaW84MlBzV3ZoaWVBUW1zcW5TY3VwakVJSDRLQUVYeFNtVGJyVGRpWHNyZUhWbXQ1THpCZ2NBSmI5aXFXUm50Z2RWX0pLSnV4TXlFdDJRcnlwMkFxR3h6X3c?oc=5\" target=\"_blank\">最新数据：A股股民，已超2.5亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93ZTZaYjdRaHNPbzlqLTE0UEtlN3ZyaW84MlBzV3ZoaWVBUW1zcW5TY3VwakVJSDRLQUVYeFNtVGJyVGRpWHNyZUhWbXQ1THpCZ2NBSmI5aXFXUm50Z2RWX0pLSnV4TXlFdDJRcnlwMkFxR3h6X3c?oc=5",
-      "published": "Sat, 13 Jun 2026 09:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股股民，已超2.5亿 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1DSU1hY3V1UUowbW9CZk1COXY5a0Jsem44MHZlUktPQ2Y2NXJVb1lZNHFwd1BOYXMzbUxUTy1LNEVOdXVBMmEyaURNX0dwcXVueW9fTXNsa3I0cG5BTEJQbnhpTnJrNEM3MzJ3RkF1UWYxN0JWcEE?oc=5\" target=\"_blank\">A股股民，已超2.5亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DSU1hY3V1UUowbW9CZk1COXY5a0Jsem44MHZlUktPQ2Y2NXJVb1lZNHFwd1BOYXMzbUxUTy1LNEVOdXVBMmEyaURNX0dwcXVueW9fTXNsa3I0cG5BTEJQbnhpTnJrNEM3MzJ3RkF1UWYxN0JWcEE?oc=5",
-      "published": "Sat, 13 Jun 2026 09:42:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股股民已超2.5亿 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5nUUk0bXBSckRaeDFvT1pkNnl5TlVUREZIam9XT19HTTFuQmhfeWxvMGVKOXk5Y294WWNTdFFUdU95c3N0M3Voc3l3YldSY0RqSTExa2RxblBncENGOG1wLWRDNmlIZkg0QVp3ZWlTeWxHZFRUYzJ5WA?oc=5\" target=\"_blank\">A股股民已超2.5亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nUUk0bXBSckRaeDFvT1pkNnl5TlVUREZIam9XT19HTTFuQmhfeWxvMGVKOXk5Y294WWNTdFFUdU95c3N0M3Voc3l3YldSY0RqSTExa2RxblBncENGOG1wLWRDNmlIZkg0QVp3ZWlTeWxHZFRUYzJ5WA?oc=5",
-      "published": "Sat, 13 Jun 2026 09:33:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股投资者已超2.5亿 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZSWg1U3BZTi1qUjVTODB0TndSbkVtenNTQVlCMFotRWg5dV9Za19lME1uX0l1M1Boa1I2Z21XQUpGMHQ2VlpDcEJmS2RXRnFiT01iOU5Lck5GMUpvT3k4cm5EQWxfNXJHSUp3UDlucGM5cDNiZlJLVQ?oc=5\" target=\"_blank\">A股投资者已超2.5亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZSWg1U3BZTi1qUjVTODB0TndSbkVtenNTQVlCMFotRWg5dV9Za19lME1uX0l1M1Boa1I2Z21XQUpGMHQ2VlpDcEJmS2RXRnFiT01iOU5Lck5GMUpvT3k4cm5EQWxfNXJHSUp3UDlucGM5cDNiZlJLVQ?oc=5",
-      "published": "Sat, 13 Jun 2026 09:35:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股股民超2.5亿 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWHRDOThrY0VjSTJTR2lpalhDcnJRTk9NNGQ0LWY3QkJSbzA5ek9Bel9NeGhpUzJwNFNRV3NqbFZjNFpGaURkbm9RS29JUUJiNmlIenBZLUZjbld6aVlaeS14OHNWRVpEVjR6NHNvbkVGRDJmNlZEOQ?oc=5\" target=\"_blank\">A股股民超2.5亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KWHRDOThrY0VjSTJTR2lpalhDcnJRTk9NNGQ0LWY3QkJSbzA5ek9Bel9NeGhpUzJwNFNRV3NqbFZjNFpGaURkbm9RS29JUUJiNmlIenBZLUZjbld6aVlaeS14OHNWRVpEVjR6NHNvbkVGRDJmNlZEOQ?oc=5",
-      "published": "Sat, 13 Jun 2026 09:23:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "最新数据：A股股民，已超2.5亿 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1YWU5ZTmpsY0dHUmFQY1Y0c2lOMW9wSlBQM0pubVJIa2R5eElDTXZtV1JFSFhna2dmMVljOTV5ekx0bHpIWmprVFF5TUVSb3NYeVhyaUwtMEVLeWtHVjZMaDFTNFYzMXRhRGVQRzdOQ3haak5BcEE?oc=5\" target=\"_blank\">最新数据：A股股民，已超2.5亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YWU5ZTmpsY0dHUmFQY1Y0c2lOMW9wSlBQM0pubVJIa2R5eElDTXZtV1JFSFhna2dmMVljOTV5ekx0bHpIWmprVFF5TUVSb3NYeVhyaUwtMEVLeWtHVjZMaDFTNFYzMXRhRGVQRzdOQ3haak5BcEE?oc=5",
-      "published": "Sat, 13 Jun 2026 09:05:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "策略周报：五月PPI同比增速继续快速上行 A股指数宽幅震荡 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3RqdWpSTVFlMUtubTNtSjVkb19zSEtvZFBuR0hZTjdrNEs5b3lVdmxOdXNjNDlXMHRhRGFuQWNVM3VMZFFSTlROaUVob0dpT2UxUDNDazR2QVZ3ZXBNTVBHclUzNDJzODdzM3Z6ckxqQ1did1Z1VF9YRGpfeW1oWWNXTXBzd2ItOGtPOTg0c3dtbDlwZzdzalU5aW14N00wcDE3Nw?oc=5\" target=\"_blank\">策略周报：五月PPI同比增速继续快速上行 A股指数宽幅震荡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3RqdWpSTVFlMUtubTNtSjVkb19zSEtvZFBuR0hZTjdrNEs5b3lVdmxOdXNjNDlXMHRhRGFuQWNVM3VMZFFSTlROaUVob0dpT2UxUDNDazR2QVZ3ZXBNTVBHclUzNDJzODdzM3Z6ckxqQ1did1Z1VF9YRGpfeW1oWWNXTXBzd2ItOGtPOTg0c3dtbDlwZzdzalU5aW14N00wcDE3Nw?oc=5",
-      "published": "Sat, 13 Jun 2026 09:35:31 GMT"
+      "title": "最新数据：A股股民，已超2.5亿 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBtZVc0a2hiUHVCTzRVVU1MVGhyc2JJNFZ3N1NMemdnS2pPdkZuUFRBbzJvcXdWSHFCYjQ3S3U5dFhzOWhYSGp2ZlBMdmphUGFqbVFMaC1TNWFyQmJGVC1VTi16WDRaRVNpMTdjdThYN0FadnAzYmc?oc=5\" target=\"_blank\">最新数据：A股股民，已超2.5亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtZVc0a2hiUHVCTzRVVU1MVGhyc2JJNFZ3N1NMemdnS2pPdkZuUFRBbzJvcXdWSHFCYjQ3S3U5dFhzOWhYSGp2ZlBMdmphUGFqbVFMaC1TNWFyQmJGVC1VTi16WDRaRVNpMTdjdThYN0FadnAzYmc?oc=5",
+      "published": "Sat, 13 Jun 2026 10:10:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -77,23 +28,9 @@
     {
       "source": "新浪财经",
       "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzd4aTNTcDNlaTN5eWRxWVg5M1ZtZ1NFUERXSU9BYWNlVl9WSDFKT01nMDdGdXRWT3lPZHc5NFpvRGktWUl4N1lMWFZsSHZKblR5T2k5MW54Zm5MM1VaVnBmZHNCREI2YVBiZWpmQURwcHp4UE5MOTlqUXlfSi04NElDOGVVRHFXSEpVVmVianE0Qjh0RG04?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQzd4aTNTcDNlaTN5eWRxWVg5M1ZtZ1NFUERXSU9BYWNlVl9WSDFKT01nMDdGdXRWT3lPZHc5NFpvRGktWUl4N1lMWFZsSHZKblR5T2k5MW54Zm5MM1VaVnBmZHNCREI2YVBiZWpmQURwcHp4UE5MOTlqUXlfSi04NElDOGVVRHFXSEpVVmVianE0Qjh0RG04?oc=5",
-      "published": "Sat, 13 Jun 2026 09:01:20 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzZMeDB5VFdLdG1tZm41ZlcwQndHUUlaTzVtU2F3WHdsNzY5RTg1OWQzUnNPWDhYVzBCcW5aR0tQN0I5dmRWNFpkZ0ZVdDNQOXBmRnhCeGtVMlZ3NmFJTEtTVVdWekJiTUgxVjJiekM4bVZfWElEeFQ2bk1zaVF2Q0hDdU5qWGlJcXZxUV9JSjVtLUJhQ21z?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZzZMeDB5VFdLdG1tZm41ZlcwQndHUUlaTzVtU2F3WHdsNzY5RTg1OWQzUnNPWDhYVzBCcW5aR0tQN0I5dmRWNFpkZ0ZVdDNQOXBmRnhCeGtVMlZ3NmFJTEtTVVdWekJiTUgxVjJiekM4bVZfWElEeFQ2bk1zaVF2Q0hDdU5qWGlJcXZxUV9JSjVtLUJhQ21z?oc=5",
       "published": "Sat, 13 Jun 2026 10:42:25 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "“牛市旗手”，罕见大涨！这次有何不一样？ - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE56b3hNQ1dMODZGZHQ3amU0cFlzOW9kcmFkM1ZYcUV0TWxORXNMZnRzakFMNk1nNXl6TGlrRmkwTWJzY2F2UDRiQ2w5eWxlemEwOXhLb0RpYkZTQ0NwczFKYTUtVDhjR01CMHlSaXA5Y2d4TF9Zbk1zYg?oc=5\" target=\"_blank\">“牛市旗手”，罕见大涨！这次有何不一样？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56b3hNQ1dMODZGZHQ3amU0cFlzOW9kcmFkM1ZYcUV0TWxORXNMZnRzakFMNk1nNXl6TGlrRmkwTWJzY2F2UDRiQ2w5eWxlemEwOXhLb0RpYkZTQ0NwczFKYTUtVDhjR01CMHlSaXA5Y2d4TF9Zbk1zYg?oc=5",
-      "published": "Sat, 13 Jun 2026 09:06:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -103,18 +40,186 @@
       "published": "Sat, 13 Jun 2026 10:42:25 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3dmZGU5cFNjcXoyalJiNFJ3U3U3V3cxUUxuNDQwUXVuTWZFVGtuRGJEVmhxSlhBdnhicURPLUVGbXpkcEpvTy03Qm5VYTdBeDlSRWtydVdiLWVDbHgwUDdFWktLMjR5YUh2czZQdFJ2alpkUXlTclNpWUROTWFlTHhSVE9qVC1EYWdUWmR0ZkQ2ZENBTjRNdmRFbklHRXRWbzloTA?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY3dmZGU5cFNjcXoyalJiNFJ3U3U3V3cxUUxuNDQwUXVuTWZFVGtuRGJEVmhxSlhBdnhicURPLUVGbXpkcEpvTy03Qm5VYTdBeDlSRWtydVdiLWVDbHgwUDdFWktLMjR5YUh2czZQdFJ2alpkUXlTclNpWUROTWFlTHhSVE9qVC1EYWdUWmR0ZkQ2ZENBTjRNdmRFbklHRXRWbzloTA?oc=5",
-      "published": "Sat, 13 Jun 2026 09:01:20 GMT"
+      "source": "同花顺",
+      "title": "当前我国夏粮收获进度过八成",
+      "summary": "记者从农业农村部获悉，截至6月13日17时，全国已收获夏粮小麦2.88亿亩，收获进度85%。江苏麦收基本结束，山东过八成，河北近七成，陕西过六成半，山西过五成，新疆、甘肃零星收获。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442766.shtml",
+      "published": "Sat, 13 Jun 2026 11:29:16 GMT"
     },
     {
-      "source": "财联社",
-      "title": "17:32:51【A股股民超2.5亿】 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE0ta1cwcm5aWUxUWGV0bnRERkQzcXFQOENPYzItam5uSlNxY0ViX0hLNVJuVEZrejctM2padGdfajUxRlA4SGVLcA?oc=5\" target=\"_blank\">17:32:51【A股股民超2.5亿】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0ta1cwcm5aWUxUWGV0bnRERkQzcXFQOENPYzItam5uSlNxY0ViX0hLNVJuVEZrejctM2padGdfajUxRlA4SGVLcA?oc=5",
-      "published": "Sat, 13 Jun 2026 09:32:51 GMT"
+      "source": "同花顺",
+      "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
+      "summary": "当地时间6月13日，巴基斯坦总理夏巴兹·谢里夫在个人社交媒体账户上发文称，预计美伊协议将在未来24小时内敲定。夏巴兹·谢里夫表示，巴基斯坦正积极准备在协议达成后立即进行电子签署，并计划于下周展开技术层面的谈判。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442731.shtml",
+      "published": "Sat, 13 Jun 2026 11:16:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗司法总监：绝不信任美国",
+      "summary": "伊朗司法总监埃杰伊在一场纪念活动上说，伊朗绝对不信任美国。谈及美国时，埃杰伊表示，伊朗绝对不信任美国，这种不信任源于事实和过往事件。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442718.shtml",
+      "published": "Sat, 13 Jun 2026 11:11:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日本核污染水排海再次因异常警报停止",
+      "summary": "总台报道员获悉，当地时间13日下午，东京电力公司福岛第一核电站用于提示核污染水输送过程出现异常的警报被触发，核污染水排海作业自动停止。据称设备不存在异常情况。目前东电方面正在调查警报触发的原因。本月10日，福岛第一核电站曾出现相同状况。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442695.shtml",
+      "published": "Sat, 13 Jun 2026 11:04:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“十项措施”对接签约会举行 两岸交流融合更进一步",
+      "summary": "13日下午，参加第十八届海峡论坛的部分两岸嘉宾，在福建厦门出席“十项促进两岸交流合作的政策措施对接签约会”。十项促进两岸交流合作的政策措施于今年4月12日，由中共中央台办受权发布，涵盖两岸政党党际交流、青年交流以及经济、民生、文旅等领域，是推动两岸人员往来和各领域交流合作、增进同胞亲情福祉的又一重要举措。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442629.shtml",
+      "published": "Sat, 13 Jun 2026 10:50:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗已故最高领袖将于7月9日下葬",
+      "summary": "伊朗伊斯兰共和国通讯社13日报道，根据伊朗官方当日公布的安排，伊朗已故最高领袖哈梅内伊将于7月9日下葬。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442627.shtml",
+      "published": "Sat, 13 Jun 2026 10:50:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "血液蛋白信号或可提前多年预测肺癌风险",
+      "summary": "澳大利亚沃尔特与伊丽莎·霍尔医学研究所日前发布公报说，该研究所研究人员参与的一项国际合作研究发现，一组血液蛋白信号可能在肺癌确诊前多年提示患病风险，有助于更早识别高风险人群。研究团队分析了超过4.8万名英国生物样本库参与者的血浆蛋白数据，识别出可预测未来5年内患肺癌风险的14种蛋白。研究人员随后在8个国际数据集中验证了这组蛋白预测的有效性，其中包括无吸烟史人群。研究人员指出，现有肺癌筛查项目通常面向有吸烟史等高风险人群，但部分肺癌患者并无吸烟史，且许多病例确诊时已处于晚期。新发现的这组蛋白有望帮助更早识别风险人群，拓展现有筛查和预防策略。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442608.shtml",
+      "published": "Sat, 13 Jun 2026 10:40:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "联合国粮农组织：欧洲和中亚逾1亿人经历粮食短缺",
+      "summary": "联合国粮食及农业组织助理总干事、欧洲及中亚区域代表古楚12日在塔吉克斯坦首都杜尚别表示，近年来，欧洲和中亚地区超过1亿人经历了粮食短缺问题。古楚在一场由塔吉克斯坦主办的国际会议上说，确保粮食安全仍是一项严峻挑战。近年来，欧洲和中亚超过1亿人经历了中度或重度粮食短缺问题。该地区约9000万公顷土地受到退化影响，削弱了农业生产能力和生态系统功能，危及地区长期可持续发展。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442596.shtml",
+      "published": "Sat, 13 Jun 2026 10:38:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+      "summary": "伊朗伊斯兰共和国广播电视台13日报道说，伊朗官方当天公布了伊朗已故最高领袖哈梅内伊的葬礼安排。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442571.shtml",
+      "published": "Sat, 13 Jun 2026 10:33:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "黎真主党称在黎南部使用无人机打击以军车辆",
+      "summary": "黎巴嫩真主党当地时间13日宣布对黎南部发生的两起无人机袭击以色列军车事件负责。真主党称当天7时袭击了纳巴蒂耶区郊区河床上一辆以军车辆。30分钟后，袭击了迈尔季欧云地区萨拉山上的第二辆以军军车。真主党表示，发动袭击是为了回应以色列违反停火协议的行为，也是其“抵抗占领和解放土地的合法权利”的一部分。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442555.shtml",
+      "published": "Sat, 13 Jun 2026 10:31:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "京东健康与北京友谊医院达成合作 将共同建设消化系统专科大模型",
+      "summary": "6月13日，京东健康与首都医科大学附属北京友谊医院（简称“北京友谊医院”）正式达成合作。双方将共同建设消化系统专科大模型，重点应用于胃肠镜早癌筛查、疾病诊断等临床场景，推动AI技术与消化专科诊疗的深度融合。（京东健康黑板报）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442500.shtml",
+      "published": "Sat, 13 Jun 2026 10:13:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "内蒙古首个AI炼钢项目在包钢投用",
+      "summary": "日前，内蒙古首个AI炼钢项目——“包钢智冶”智慧炼钢大模型在包钢股份1号转炉成功投用。该项目打破了传统“经验炼钢”瓶颈，实现了从人工研判向数据算法自主管控的转型。（内蒙古日报）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442479.shtml",
+      "published": "Sat, 13 Jun 2026 10:10:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国人民保险集团股份有限公司原副总裁俞小平接受审查调查",
+      "summary": "中国人民保险集团股份有限公司原党委委员、副总裁俞小平涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 (新华社)",
+      "link": "https://news.10jqka.com.cn/20260613/c677442427.shtml",
+      "published": "Sat, 13 Jun 2026 10:01:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "今年前5月中国铁路发送旅客人次同比增长5.7%",
+      "summary": "记者13日从中国国家铁路集团有限公司获悉，1至5月，全国铁路发送旅客19.69亿人次、同比增长5.7%，创历史同期新高。数据显示，1至5月，全国铁路日均开行旅客列车11541列、同比增长5.9%，其中，5月1日发送旅客2484.4万人次，创单日旅客发送量历史新高。（中新社）",
+      "link": "https://news.10jqka.com.cn/20260613/c677442415.shtml",
+      "published": "Sat, 13 Jun 2026 09:55:32 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
+      "summary": "<p>当地时间6月13日，巴基斯坦总理夏巴兹·谢里夫在个人社交媒体账户上发文称，预计美伊协议将在未来24小时内敲定。夏巴兹·谢里夫表示，巴基斯坦正积极准备在协议达成后立即进行电子签署，并计划于下周展开技术层面的谈判。 (央视新闻)</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3774594",
+      "published": "Sat, 13 Jun 2026 11:17:04 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "72%！台积电市占再创新高",
+      "summary": "<p style=\"text-align: left;\">集邦12日公布最新调查，2026年第1季全球前十大晶圆代工产值季增3.7%，达479.5亿美元，再创单季新高；其中，台积电市占率进一步升至72%，稳居全球第一。</p>\n<p style=\"text-align: left;\">集邦指出，第1季除AI、HPC及相关周边订单持续出货，电视、PC及笔电供应链也提前生产、提高周边IC库存水位，促使晶圆代工厂陆续接获客户提前投片或追加订单，抵销智能手机生产淡季影响。</p>\n<p style=\"text-align: left;\">台积电受惠AI伺服器GPU及xPU需求续强，Agentic AI与通用型伺服器也带动伺服器CPU订单增加，第1季晶圆代工营收季增6.3%，达近358.6亿美元，市占率逆势升至72%，持续拉大与其他业者的差距。</p>\n<p style=\"text-align: left;\">三星（Samsung）晶圆代工事业第1季虽接获部分电视、PC及笔电供应链提前备货订单，但大致被智能手机淡季效应抵销，晶圆代工营收季减5.8%至32亿美元，市占率降至6.5%，排名维持第二。",
+      "link": "https://wallstreetcn.com/articles/3774592",
+      "published": "Sat, 13 Jun 2026 11:00:18 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋",
+      "summary": "<p style=\"text-align: left;\">SpaceX上市了，整个科技圈都在发祝贺。</p>\n<p style=\"text-align: left;\">高盛CEO、摩根大通CEO、a16z合伙人Katherine Boyle、特斯拉前AI总监&amp;现Anthropic研究员卡帕西……纷纷下场发帖。</p>\n<p style=\"text-align: left;\">所有人的心情都和卡帕西一样，两个词：<strong>激动、震撼</strong>。</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/1bdb987b-23a8-402b-8990-226d257b45d8.jpeg\" title=\"\" /></p>\n<p style=\"text-align: left;\">但比起这些庆祝和感叹，更让我印象深刻的，是敲钟前流出的两段视频。</p>\n<p style=\"text-align: left;\">一段来自马斯克本人，在德州St",
+      "link": "https://wallstreetcn.com/articles/3774591",
+      "published": "Sat, 13 Jun 2026 10:54:59 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "两万亿SpaceX上市，Mag 7不够叫了？MANGOS闪亮登场",
+      "summary": "<p style=\"text-align: left;\">SpaceX以史上最大规模IPO强势登陆市场，令华尔街沿用多年的\"Magnificent Seven\"（Mag 7）标签面临前所未有的挑战。</p>\n<p style=\"text-align: left;\">SpaceX上市首日估值即突破2万亿美元，超越Mag 7成员特斯拉与Meta，成为全球市值最高的科技公司之一。这一格局骤变令分析师和投资者开始重新审视：<strong>当最重要的科技公司之一游离于这一标签之外，\"Mag 7\"还能否继续作为市场领导力的有效代称？与此同时，OpenAI、Anthropic等万亿级AI独角兽亦在排队候场IPO，市场标签的迭代压力进一步加剧。</strong></p>\n<p style=\"text-align: left;\">目前，一个新缩写正在市场上迅速蔓延——<strong>\"MANGOS\"，代指Meta、Anthropic、Nvidia（英伟达）、谷歌母公司Alphabet、OpenAI和SpaceX，已有资产管理机构表示正在内部采用这一说法。</strong>不过，也有业内人士认为\"Mag",
+      "link": "https://wallstreetcn.com/articles/3774589",
+      "published": "Sat, 13 Jun 2026 10:51:49 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "瑞银专家电话会：厄尔尼诺现象已“正式成立”且可能“非常强烈”",
+      "summary": "<p style=\"text-align: left;\">一场可能是近几十年来最强的厄尔尼诺正在成形，它对全球农业、通胀和大宗商品市场的冲击，已经开始进入投资者的视野。</p>\n<p style=\"text-align: left;\">据追风交易台消息，6月12日，瑞银（UBS）全球可持续发展研究团队举办了一场专家电话会议，邀请欧洲中期天气预报中心（ECMWF）首席科学家Dr. Tim Stockdale就厄尔尼诺现象的最新进展及其市场影响进行深度解读。</p>\n<p style=\"text-align: left;\">就在电话会前一天，美国国家海洋暨大气总署（NOAA）于6月11日正式宣布厄尔尼诺现象成立，并预测其将在今年秋季进一步增强至中等或强烈级别。这一定性，标志着市场此前的担忧从预期变成了现实。</p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/ebe38542-cbdc-44f0-96e8-2726f5689303.png\" /></p>\n<h2 st",
+      "link": "https://wallstreetcn.com/articles/3774587",
+      "published": "Sat, 13 Jun 2026 10:44:23 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美国大厂等不及了：SOFC成为AI数据中心自发电的核心",
+      "summary": "<p style=\"text-align: left;\">美国AI数据中心用电需求激增，电网扩容滞后形成约148GW的刚性电力缺口。燃气轮机交付已排至2029-2030年，小型核电站建设周期长达3-5年，传统电源方案无力填补缺口。SOFC（固体氧化物燃料电池）凭借90-120天极速交付、原生800V直流架构节省约13.5-15亿美元/GW的BOS成本、以及ITC补贴最高50%的经济性优势，正从\"可选方案\"跃升为AI数据中心电源\"新标配\"。Bloom Energy作为全球SOFC商业化龙头，2026年Q1产品积压订单同比+140%至约60亿美元，甲骨文签署2.8GW框架协议，标志行业进入\"从1到10\"的规模化放量周期。</p>",
+      "link": "https://wallstreetcn.com/member/articles/3773951",
+      "published": "Sat, 13 Jun 2026 10:24:56 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "《金融信息服务数据分类分级指南》印发，一图读懂",
+      "summary": "<p style=\"text-align: justify;\">近日，国家互联网信息办公室、中国人民银行、国家金融监督管理总局、中国证券监督管理委员会、国家统计局、国家外汇管理局联合印发《金融信息服务数据分类分级指南》（以下简称《指南》）。国家互联网信息办公室有关负责同志就《指南》回答了记者提问。</p>\n<p style=\"text-align: justify;\"><strong>问1：请介绍一下《指南》的出台背景？</strong></p>\n<p style=\"text-align: justify;\"><strong>答：</strong>当前，金融信息服务有序发展，金融信息服务领域数据规模扩大、流动频繁，亟需分类分级规范管理。《中华人民共和国数据安全法》明确，国家建立数据分类分级保护制度，对数据实行分类分级保护。《网络数据安全管理条例》明确，各地区、各部门应当按照数据分类分级保护制度，确定重要数据具体目录并重点保护。为落实法律法规要求，国家互联网信息办公室、中国人民银行等六部门制定印发《指南》，旨在为金融信息服务机构开展数据分类分级工作提供系统性、针对性、可操作性的指引，规范",
+      "link": "https://wallstreetcn.com/articles/3774588",
+      "published": "Sat, 13 Jun 2026 10:17:03 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "硅微粉：高频高速覆铜板国产替代的\"隐形冠军\"",
+      "summary": "<p style=\"text-align: left;\">覆铜板应用中高性能球形硅微粉占比已超40%，预计2027年将提升至56.4%。2026年M9/M10覆铜板需求达3200万张，对应化学法球形硅微粉供需缺口预计达1.8万吨，2027年缺口扩大至2.6万吨。全球高端球硅市场长期被日本企业垄断（电化、龙森、新日铁合计占70%份额），国内龙头已逐步打破技术壁垒，在M9级别实现批量供货。</p><p style=\"text-align: left;\">中长期看，AI服务器向M10更低损耗等级持续迭代，球形硅微粉填充比例有望从当前15%逐步扩大至40%，高性能产品价值量将进一步提升。具备高端球形硅微粉产能、已突破M9/M10认证且在建产能有序推进的国内龙头，将在本轮AI材料变革中确定性受益。</p>",
+      "link": "https://wallstreetcn.com/member/articles/3774387",
+      "published": "Sat, 13 Jun 2026 10:15:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中国人民保险集团股份有限公司原党委委员、副总裁俞小平接受中央纪委国家监委纪律审查和监察调查。（新华社）",
+      "summary": "<p>中国人民保险集团股份有限公司原党委委员、副总裁俞小平接受中央纪委国家监委纪律审查和监察调查。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3119143",
+      "published": "Sat, 13 Jun 2026 10:01:29 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "经过两周调整，美国大型科技股仓位已经回落至“中性水平”、甚至略低于盈利增长",
+      "summary": "<p style=\"text-align: left;\">美股这轮回调的关键，不在指数跌了多少，而在最拥挤的大型科技交易被快速降温。</p>\n<p style=\"text-align: left;\">据追风交易台消息，6月12日，德意志银行证券发布全球资产配置策略更新，跟踪截至6月11日前后的投资者仓位、期权、期货和基金流。过去两周，标普500回撤近5%，但这不是全市场一起下跌：纳斯达克100跌7%，Mag 7跌10%，标普500其余部分和小盘股反而升至纪录高位。</p>\n<p style=\"text-align: left;\">策略师Parag Thatte等在上述更新中写道：“仅仅一周前，大型科技仓位还显得拥挤、要求很高；但现在回到中性后，情况已经不是这样。”</p>\n<p style=\"text-align: left;\"><strong>仓位数据给出的变化很直接。</strong>美股总体仓位从历史66分位降至34分位，由小幅超配转为小幅低配；几乎全部降幅来自大型科技，后者从97分位跌到48分位。标普500非科技部分的仓位仍在低位横盘。</p>\n<p style=\"text-a",
+      "link": "https://wallstreetcn.com/articles/3774576",
+      "published": "Sat, 13 Jun 2026 09:55:47 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中证登报告：A股投资者已超2.5亿",
+      "summary": "<p>中国证券登记结算有限责任公司6月12日发布了2025年年度报告。报告显示，2025年全年新增投资者1386.95万，其中新增自然人投资者1382.84万。2025年期末投资者数为25067.29万，比上年增加5.86%。</p>\n<p>截至2025年末，中国结算登记存管的沪深证券交易所的证券总市值为137.80万亿元、北京证券交易所的证券总市值为8694.42亿元、全国股份转让系统的证券总市值为19780.21亿元。其中，沪深A股总市值107.84万亿元，B股总市值1114.09亿元。从中国结算公布的过往数据来看，近十年来，A股每年新增的投资者数量均超过1000万，高峰时期超过2000万。</p>",
+      "link": "https://wallstreetcn.com/livenews/3119141",
+      "published": "Sat, 13 Jun 2026 09:46:30 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "巴基斯坦总理：预计美伊协议将在24小时内敲定",
+      "summary": "<figure><img alt=\"巴基斯坦总理：预计美伊协议将在24小时内敲定\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/60833777a85ea5d4259aff7ce3e569db.jpg\" /></figure><p>巴基斯坦正积极准备在协议达成后立即进行电子签署。</p><p>据央视新闻，当地时间6月13日，巴基斯坦总理夏巴兹·谢里夫在个人社交媒体账户上发文称，预计美伊协议将在未来24小时内敲定。夏巴兹·谢里夫表示，巴基斯坦正积极准备在协议达成后立即进行电子签署，并计划于下周展开技术层面的谈判。</p>",
+      "link": "https://www.yicai.com/news/103228854.html",
+      "published": "Sat, 13 Jun 2026 11:19:13 GMT"
     },
     {
       "source": "第一财经",
