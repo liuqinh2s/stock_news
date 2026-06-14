@@ -1,8 +1,8 @@
 {
   "date": "2026-06-15",
   "hour": "03",
-  "total": 3,
-  "fetched_at": "2026-06-15T03:00:44.937764+08:00",
+  "total": 4,
+  "fetched_at": "2026-06-15T03:07:03.636313+08:00",
   "news": [
     {
       "source": "同花顺",
@@ -24,6 +24,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MZEs4YW9PUzB1UlRudE9MRzZqdi1WMzk1QjloakdrWEFpaURPU2R6bEREQlh2OW1WVThRNVZjYXJMc1V5YjV1Ry1zLVVBVEUyYkNfWS0xSlVLVFh1dmZvT2xB?oc=5\" target=\"_blank\">今日公告透露利好：6只个股有潜力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MZEs4YW9PUzB1UlRudE9MRzZqdi1WMzk1QjloakdrWEFpaURPU2R6bEREQlh2OW1WVThRNVZjYXJMc1V5YjV1Ry1zLVVBVEUyYkNfWS0xSlVLVFh1dmZvT2xB?oc=5",
       "published": "Sun, 14 Jun 2026 18:19:29 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "不满以色列空袭贝鲁特，特朗普指责内塔尼亚胡“缺乏理智”",
+      "summary": "<p>当地时间14日，美国总统特朗普在接受以色列媒体采访时表示，对以色列空袭黎巴嫩首都贝鲁特表示不满，并指责以总理内塔尼亚胡此举“缺乏理智”，透露这一军事行动直接干扰并延迟了美伊即将签署的相关协议进程。据悉，特朗普在受访时公开了他向内塔尼亚胡传递的严厉警告。特朗普表示，在美方原定与伊朗签署协议的前一个小时，他接到了相关突发通报。特朗普说：“他们打电话告诉我，‘先生，以色列正在袭击贝鲁特。’我简直不敢相信这会发生。这太糟糕了。”（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3119268",
+      "published": "Sun, 14 Jun 2026 17:20:34 GMT"
     }
   ]
 }
