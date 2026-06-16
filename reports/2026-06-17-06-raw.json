@@ -1,9 +1,23 @@
 {
   "date": "2026-06-17",
   "hour": "06",
-  "total": 8,
-  "fetched_at": "2026-06-17T06:00:56.580520+08:00",
+  "total": 21,
+  "fetched_at": "2026-06-17T06:47:23.209367+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "机构：投资者可关注A股半年报绩优方向 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdGJacTQtZXpfV1FlSTJBWTZjZVpqamRuS0hWQldtMktUUGpScHRfN0U1bmdQVV9URmpraGhocnFoZDhGOWU0YmFkN0pjY3p6WXR2U0E4T1luNW5NeEdXMDNTNjl6eVVCWDUwNXFvNU5HSVdhdW8xeQ?oc=5\" target=\"_blank\">机构：投资者可关注A股半年报绩优方向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tdGJacTQtZXpfV1FlSTJBWTZjZVpqamRuS0hWQldtMktUUGpScHRfN0U1bmdQVV9URmpraGhocnFoZDhGOWU0YmFkN0pjY3p6WXR2U0E4T1luNW5NeEdXMDNTNjl6eVVCWDUwNXFvNU5HSVdhdW8xeQ?oc=5",
+      "published": "Tue, 16 Jun 2026 22:24:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰恒生A股电网设备ETF发起联接C净值上涨3.05% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRNZ2FhMXdCSDlyZEJwT2ZZQ1JVRkpOSHlpalRieXpiQjUyajhXUGEzOGpreXFhRGpoT0RKRURFVFJfUTU2N1JqbWhpZm4yWWwybDRFREJIeHpQTTcteDBVWUtSODJKcWFZd2JMbTlqWWxqSjFfX21VUkNVTGRDajNBOTJCbFg4M19yMnFwd081a2V5Qml3?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF发起联接C净值上涨3.05%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDRNZ2FhMXdCSDlyZEJwT2ZZQ1JVRkpOSHlpalRieXpiQjUyajhXUGEzOGpreXFhRGpoT0RKRURFVFJfUTU2N1JqbWhpZm4yWWwybDRFREJIeHpQTTcteDBVWUtSODJKcWFZd2JMbTlqWWxqSjFfX21VUkNVTGRDajNBOTJCbFg4M19yMnFwd081a2V5Qml3?oc=5",
+      "published": "Tue, 16 Jun 2026 22:39:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "前海开源MSCI中国A股消费C净值下跌1.68% - 新浪财经",
@@ -19,6 +33,111 @@
       "published": "Tue, 16 Jun 2026 21:27:00 GMT"
     },
     {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGF1YnRRQjJZQ3dYUVk3MDRmc2hkdkpEU1FaVFg3MFM3X1lsUlFjNGl6c0tReHZNRThlTElleFI2b3BEVlpJUUFKT0I0Z1pzZUViR1M1cEVJSGMtOEFfYWRCVkhDZ2NiendCYTk1YlZyMFMzRnZSdWlfdFQ2R3NOU0dqWlo1N0VxTFo0WTI5dnlBSTRvRWZONTlTZmMtOFdneXhsRl9R?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGF1YnRRQjJZQ3dYUVk3MDRmc2hkdkpEU1FaVFg3MFM3X1lsUlFjNGl6c0tReHZNRThlTElleFI2b3BEVlpJUUFKT0I0Z1pzZUViR1M1cEVJSGMtOEFfYWRCVkhDZ2NiendCYTk1YlZyMFMzRnZSdWlfdFQ2R3NOU0dqWlo1N0VxTFo0WTI5dnlBSTRvRWZONTlTZmMtOFdneXhsRl9R?oc=5",
+      "published": "Tue, 16 Jun 2026 20:51:31 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3h0aU5wT05WSHpGWElaTDgwZVJQMkNqS3g4ZEtRelVDS1Zkc1V5UFFVSmN5RDI0WnZhWC1VUHd5M0t3QnJ1a0V5MUhjeDljR1BxdFZYekR3anVIN1BlMzh4aW9nOFpjd0NOVkJ6M1djUUFrU21DNU1DSmFsUGFGclllNV9LR3d6Qk1wN29UcmItM0JfdzRuaTdwc213VnNSUHR1TGhR?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb3h0aU5wT05WSHpGWElaTDgwZVJQMkNqS3g4ZEtRelVDS1Zkc1V5UFFVSmN5RDI0WnZhWC1VUHd5M0t3QnJ1a0V5MUhjeDljR1BxdFZYekR3anVIN1BlMzh4aW9nOFpjd0NOVkJ6M1djUUFrU21DNU1DSmFsUGFGclllNV9LR3d6Qk1wN29UcmItM0JfdzRuaTdwc213VnNSUHR1TGhR?oc=5",
+      "published": "Tue, 16 Jun 2026 20:50:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港交所科技100指数半年度调整 AI龙头集中入列强化“硬科技”成色",
+      "summary": "日前，港交所科技100指数半年度常规调整与快速纳入机制首次同日生效，智谱、壁仞科技、天数智芯3只AI硬科技龙头通过快速纳入机制集中入列，与滴普科技、汇聚科技、禾赛-W等7只常规调整个股，共同构成10只新进成分股。此番调整后，指数“硬科技”成色明显增厚，其在人工智能、自动驾驶、机器人等未来产业领域的表征功能得以强化。分析人士认为，此番具有代表性的人工智能产业链核心企业集中纳入指数，短期有望为相关标的带来明确的被动资金配置增量；中长期看，优质AI龙头的加入亦有助于提升指数整体的成长弹性与估值标杆效应，吸引更多资金关注港股科技板块的结构性机会。（中证报）",
+      "link": "https://news.10jqka.com.cn/20260617/c677515061.shtml",
+      "published": "Tue, 16 Jun 2026 22:34:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "贵金属迎超跌修复窗口 多种因素催化筑牢底部支撑",
+      "summary": "近期贵金属市场走出一波“先蹲后跳”的行情：在6月11日触及阶段低点后，金银铂钯集体反弹，其中伦敦现货白银从低点起一度涨超14%，黄金、铂金、钯金也分别录得7%至12%不等的涨幅，市场情绪明显回暖。不过拉长时间来看，金价距离年初高位仍下跌超两成，整体仍处于震荡修复通道。对于贵金属这波急跌后的反弹行情，业内人士认为，这主要是受地缘局势降温、美国通胀预期走弱以及美联储宽松政策预期升温带动，资金在边际层面快速重新定价。从中长期看，全球央行持续增持黄金、去美元化趋势延续以及货币宽松周期尚未结束，仍在不断夯实贵金属的底部支撑，黄金的长期配置逻辑并未发生根本改变。（中证报）",
+      "link": "https://news.10jqka.com.cn/20260617/c677515015.shtml",
+      "published": "Tue, 16 Jun 2026 22:26:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "险资参与债券通“南向通”正式落地",
+      "summary": "近日，险资参与债券通“南向通”已正式落地。有关部门明确了保险资金参与内地和香港债券市场互联互通南向合作机制相关口径，包括资产分类、投资方式、交易机制等内容。多家险资机构已获准开展投资，并完成首笔交易。业内人士表示，此举对保险公司和境外债券市场均为实质性利好，有利于提升保险机构全球资产配置能力，增加香港债券市场流动性及交易活跃度。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260617/c677514979.shtml",
+      "published": "Tue, 16 Jun 2026 22:17:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "资金面边际收敛 银行间流动性重回均衡",
+      "summary": "6月以来，银行间资金面边际收敛迹象明显。随着中长期流动性工具延续净回笼、大行融出规模回落，资金利率已从此前偏低水平回到、并阶段性高于政策利率附近。资金价格中枢抬升可体现这一变化：截至6月16日收盘，DR001小幅上行0.04个基点至1.4360%，DR007上行1.85个基点至1.4856%，继续运行在1.4%的政策利率上方。多位机构人士认为，本轮资金面边际收敛并不意味着货币政策取向转向收紧，而是资金价格从过低状态向政策利率附近回归。在大行融出规模下降、理财资金预防性流动性管理和季末因素影响下，短期资金价格波动有所加大。判断后续资金面走势，仍需观察公开市场操作、大行融出规模修复和理财资金行为变化。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260617/c677514978.shtml",
+      "published": "Tue, 16 Jun 2026 22:15:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货白银失守70美元/盎司",
+      "summary": "现货白银失守70美元/盎司，日内跌0.03%。",
+      "link": "https://news.10jqka.com.cn/20260617/c677514949.shtml",
+      "published": "Tue, 16 Jun 2026 22:08:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国特拉华州一医院发生枪击事件，两名员工中枪",
+      "summary": "央视记者当地时间6月16日获悉，美国特拉华州威明顿医院发生一起枪击事件，一名医院员工涉嫌向两名同事开枪，警方目前正在展开搜捕。执法部门表示，两名伤者的具体伤情暂未公布，初步判断这是一起“纯粹的职场枪击事件”。警方已掌握嫌疑人身份信息，称其可能是一名临时员工。威明顿警察局表示，现场仍处于封锁状态，调查仍在进行中。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260617/c677514384.shtml",
+      "published": "Tue, 16 Jun 2026 21:58:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "青海海西州17日凌晨发生多次3.0级以上地震",
+      "summary": "中国地震台网正式测定：6月17日5时16分，在青海海西州直辖区（北纬37.91度，东经95.39度）发生3.2级地震，震源深度10千米。稍早前的5时7分，附近还发生一次3.1级地震，震源深度10千米。此外，17日2时50分和3时10分，附近还发生了两次地震，震级分别为3.7级和3.2级地震。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260617/c677514371.shtml",
+      "published": "Tue, 16 Jun 2026 21:54:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "外媒：美伊协议涉及的三千亿基金 超一半获出资承诺",
+      "summary": "据外媒16日报道，美国与伊朗达成的谅解备忘录中包含一项旨在刺激对伊投资的3000亿美元私有基金，其超过一半的款额已获得出资承诺。报道援引消息人士的话说，该基金旨在“为双方提供经济激励以促成最终协议达成”，它是“私有投资工具”，不包含任何政府资金或赠款。目前，已有总部位于美国、海湾国家以及亚洲、南美洲和非洲的公司承诺出资，投资领域涵盖能源、物流、制造和运输等。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260617/c677514345.shtml",
+      "published": "Tue, 16 Jun 2026 21:43:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时中国A50指数期货夜盘收跌0.24%，报15623点",
+      "summary": "富时中国A50指数期货夜盘收跌0.24%，报15623点。",
+      "link": "https://news.10jqka.com.cn/20260617/c677514307.shtml",
+      "published": "Tue, 16 Jun 2026 21:16:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "姆巴佩梅开二度，法国3-1塞内加尔",
+      "summary": "2026年美加墨世界杯I组首轮比赛中，法国队对阵塞内加尔队。姆巴佩表现出色，梅开二度，帮助法国队以3-1战胜塞内加尔队。比赛预告显示，今天还将进行多场激烈角逐，包括伊拉克VS挪威、阿根廷VS阿尔及利亚和奥地利VS约旦。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260617/c677514306.shtml",
+      "published": "Tue, 16 Jun 2026 21:15:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "SpaceX上市后飙升49% 市值超越亚马逊跃居全球第五",
+      "summary": "SpaceX周二连续第三个交易日上涨，超过亚马逊成为全球市值第五大公司。SpaceX股价收涨4.8%，推动其市值升至2.65万亿美元，较亚马逊高出约80亿美元。在该股处于盘中高点时，马斯克旗下这家火箭与人工智能公司市值一度超过微软，短暂成为全球市值第四大公司。至少部分涨势源于市场上可供交易的SpaceX股票数量有限，上市首日可流通股份仅约占总股本的4.2%。这可能导致股价波动更加剧烈，引发市值大幅变动。SpaceX股价较每股135美元的IPO发行价已上涨49%，显示投资者需求持续旺盛，也缓解了市场对这宗创纪录IPO规模过大、难以被市场消化的担忧。",
+      "link": "https://news.10jqka.com.cn/20260617/c677514299.shtml",
+      "published": "Tue, 16 Jun 2026 21:05:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强 - Sohu",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkZ1U1JrYW1yUFpMaGIwVEg5R1hIOVp4dTY4eUVDT01ab0lTWWtqaGZoTEJxU0NpLUJRZFdkUGlOeGpXek9yWV80TTFiY0FCNHNyNTZ4N09FTnVzYVUzc1pwZzhHZzZHaDhjcXhsVHNYSXRfVWlrb2VmdTBNYWRmLU9pSFpONW9l?oc=5\" target=\"_blank\">美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkZ1U1JrYW1yUFpMaGIwVEg5R1hIOVp4dTY4eUVDT01ab0lTWWtqaGZoTEJxU0NpLUJRZFdkUGlOeGpXek9yWV80TTFiY0FCNHNyNTZ4N09FTnVzYVUzc1pwZzhHZzZHaDhjcXhsVHNYSXRfVWlrb2VmdTBNYWRmLU9pSFpONW9l?oc=5",
+      "published": "Tue, 16 Jun 2026 22:22:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "外媒：美伊协议涉及的三千亿基金 超一半获出资承诺",
+      "summary": "<p>据外媒16日报道，美国与伊朗达成的谅解备忘录中包含一项旨在刺激对伊投资的3000亿美元私有基金，其超过一半的款额已获得出资承诺。</p>\n<p>报道援引消息人士的话说，该基金旨在“为双方提供经济激励以促成最终协议达成”，它是“私有投资工具”，不包含任何政府资金或赠款。目前，已有总部位于美国、海湾国家以及亚洲、南美洲和非洲的公司承诺出资，投资领域涵盖能源、物流、制造和运输等。</p>\n<p>美国和以色列2月28日对伊朗发起大规模军事行动。北京时间6月15日，美国、伊朗及调解方巴基斯坦分别宣布美伊谅解备忘录达成。据伊朗媒体15日披露，谅解备忘录草案包括14点内容，其中一点是美国及其盟友须提出总额至少3000亿美元的伊朗重建计划。美国政府一名高级官员当天晚些时候表示，美伊已电子签署谅解备忘录，双方将于19日举行正式签署仪式。</p>\n<p><span style=\"color: #808080;\">本文来源：<a href=\"https://h.xinhuaxmt.com/vh512/share/13154066?docid=13154066&amp;newstype=1001&amp",
+      "link": "https://wallstreetcn.com/articles/3774843",
+      "published": "Tue, 16 Jun 2026 22:05:18 GMT"
+    },
+    {
       "source": "华尔街见闻",
       "title": "外媒：美伊协议涉及的三千亿基金，超一半获出资承诺",
       "summary": "<p>据外媒16日报道，美国与伊朗达成的谅解备忘录中包含一项旨在刺激对伊投资的3000亿美元私有基金，其超过一半的款额已获得出资承诺。</p>\n\n<p>报道援引消息人士的话说，该基金旨在“为双方提供经济激励以促成最终协议达成”，它是“私有投资工具”，不包含任何政府资金或赠款。目前，已有总部位于美国、海湾国家以及亚洲、南美洲和非洲的公司承诺出资，投资领域涵盖能源、物流、制造和运输等。</p>\n<p>美国和以色列2月28日对伊朗发起大规模军事行动。北京时间6月15日，美国、伊朗及调解方巴基斯坦分别宣布美伊谅解备忘录达成。据伊朗媒体15日披露，谅解备忘录草案包括14点内容，其中一点是美国及其盟友须提出总额至少3000亿美元的伊朗重建计划。美国政府一名高级官员当天晚些时候表示，美伊已电子签署谅解备忘录，双方将于19日举行正式签署仪式。（新华社）</p>",
@@ -31,34 +150,6 @@
       "summary": "<p>慧与科技（HPE）押注AI基础设施需求加速，推出针对推理工作负载的专用交换机，并宣布西门子能源将采用其与英伟达联合打造的私有云方案。</p>\n<p>公司首席执行官Antonio Neri本周表示，网络是AI企业化落地的核心基础。慧与科技本月早些时候发布的业绩预测超出华尔街预期，理由正是服务器与网络产品的AI需求大幅增长。</p>\n<p>西门子能源将部署慧与与英伟达共同构建的AI技术组合，用于运行仿真程序及管理工程任务的私有云环境。</p>\n<p>分析人士认为，此类企业级AI部署案例的落地，是传统企业客户加速拥抱AI的直接体现，也印证了慧与科技以网络为核心切入AI市场的战略逻辑。</p>\n<p>慧与科技周二股价收跌0.91%，近一个月股价上涨47%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/1e489672-7f98-416f-b450-02b5ecc64e99.png\" /></p>\n<div>\n<h2 id=\"5b775665\">推理专用交换机，瞄准规模扩展市场</h2>\n</div>\n<p>慧与",
       "link": "https://wallstreetcn.com/articles/3774838",
       "published": "Tue, 16 Jun 2026 21:02:00 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "6月17日会员早报：特朗普开始对美伊协议\"打预防针” SpaceX 上市第三天就花 600 亿买 Cursor",
-      "summary": "<p style=\"text-align: left;\">1、【特朗普开始对美伊协议“打预防针”】特朗普6月15日在法国G7峰会上宣布，美伊谅解备忘录将确保伊朗”永远不会拥有核武器“，伊朗完全同意并接受”强力核查\"。但他没有说明将通过何种机制实现这一点。随后他又表示，将允许美国国会审议该协议。</p><p style=\"text-align: left;\">2、【SpaceX 上市第三天就花 600 亿买 Cursor】6 月 12 日，SpaceX 以 135 美元发行价登陆纳斯达克，募资 750 亿美元，打破沙特阿美保持的 IPO 纪录。三个交易日后的周二，股价盘中最高涨约 14%，市值先后越过亚马逊、一度短暂超过微软，跻身全球前五。一家 2025 年仍净亏近 50 亿美元的公司，挂牌 72 小时便站上近 3 万亿美元。</p><p style=\"text-align: left;\">市场还没消化完这个数字，SpaceX 就亮出了上市后的第一笔大动作：以全股票方式、600 亿美元收购 AI 编程工具 Cursor 的母公司 Anysphere。</p><p style=\"text-",
-      "link": "https://wallstreetcn.com/member/articles/3774840",
-      "published": "Tue, 16 Jun 2026 20:39:47 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "行业周报：美国上周API原油库存锐减超800万桶",
-      "summary": "<p>美国石油协会（API）数据显示，上周，<strong>美国API原油库存 -833万桶</strong>，之前一周 -911.9万桶。</p>\n\n<p>上周API库欣原油库存 -152.3万桶，前值 -112.5万桶。</p>\n\n<p>上周API成品油汽油库存 +247.9万桶（前值 -119.1万桶）、馏分油库存 -152.3万桶（前值 -40.7万桶）。</p>",
-      "link": "https://wallstreetcn.com/livenews/3120497",
-      "published": "Tue, 16 Jun 2026 20:36:07 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "高盛今年并购交易额突破1万亿美元，创史上最快纪录",
-      "summary": "<p>高盛今年的并购业务正以前所未有的速度书写行业纪录，并购热潮或将延续至明年。</p>\n<p>据Dealogic数据，高盛今年迄今已就逾1万亿美元的并购交易提供顾问服务，成为史上最快达到这一里程碑的投行。与2021年并购高峰期相比，高盛今年提前近一个月突破万亿美元门槛。</p>\n<p>高盛全球并购业务负责人Stephan Feldgoise表示，\"今年是大交易之年\"，并购活动的势头在规模与行业维度上均呈现全面扩张态势。</p>\n<p>这一纪录进一步强化了市场对2026年并购市场将持续景气的预期。尽管地缘政治局势、宏观经济走势以及人工智能带来的深远影响仍存在诸多不确定性，交易撮合者仍在积极鼓励企业抓住这一\"一代人难遇一次\"的战略整合机遇。</p>\n<div>\n<h2 id=\"3000\">巨型交易批量涌现，最近竞争对手落后逾3000亿</h2>\n</div>\n<p>彭博数据显示（不含SpaceX与xAI的合并交易），今年迄今全球已公布约1.7万亿美元的并购交易，与2021年同期水平相当。</p>\n<p>但在2021年那轮并购热潮中，高盛直到7月中旬才触及万亿美元门槛，而今年明显提前。De",
-      "link": "https://wallstreetcn.com/articles/3774837",
-      "published": "Tue, 16 Jun 2026 20:08:58 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "欧盟议会赶在“特朗普期限”前批准美欧贸易协议，关税风险暂时降温",
-      "summary": "<p>欧洲议会通过了期待已久的欧美贸易协议，为欧盟赢得暂时喘息空间，但双边关系的深层矛盾远未化解。</p>\n<p>欧洲议会周二以440票赞成、151票反对、50票弃权的结果，正式批准欧美贸易协议，欧盟同意取消对美国工业品及部分农产品的关税，换取美方将对欧产品的关税上限设定为15%。</p>\n<p>根据程序，欧盟成员国预计将于6月26日完成最终批准，为历时近一年的曲折磋商画上句号。</p>\n<p>此次批准为欧盟争取到了缓和跨大西洋贸易紧张局势的重要筹码。特朗普此前明确警告，若欧盟未能在7月4日前完成批准，将对欧盟汽车加征更高关税。议会投票在此截止日期前落地，令欧盟暂时规避了这一威胁。</p>\n<p>对市场而言，协议落地短期内有助于提振欧洲汽车板块情绪，降低出口不确定性。斯托克欧洲600汽车与零部件指数收涨2.6%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/d44f9065-77b8-433d-b574-43f10240c645.png\" /></p>\n<div>\n<p>然而，钢铝关税分歧与科技监管争端悬而未",
-      "link": "https://wallstreetcn.com/articles/3774832",
-      "published": "Tue, 16 Jun 2026 20:08:52 GMT"
     }
   ]
 }
