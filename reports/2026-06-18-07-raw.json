@@ -1,92 +1,211 @@
 {
   "date": "2026-06-18",
   "hour": "07",
-  "total": 22,
-  "fetched_at": "2026-06-18T07:00:47.100588+08:00",
+  "total": 39,
+  "fetched_at": "2026-06-18T07:16:47.750332+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "兴业银行股份有限公司 公开发行A股可转换公司债券 受托管理事务报告 （2025年度） - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBkcVZBYjhobGpnYndqZV91UUlhd3VRUGJPemJEUmVKTzhWYUEySExFRGNTWmhxT1ptVDlPTmROQnZXSlB5TV8wR2pZX3RUSmxUeF91d0xpZmpXZGFxLTlEa1U3UktUcXFpa1BZU1hyOHRWekdJd042Tw?oc=5\" target=\"_blank\">兴业银行股份有限公司 公开发行A股可转换公司债券 受托管理事务报告 （2025年度）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "兴业银行股份有限公司 公开发行A股可转换公司债券 受托管理事务报告 （2025年度） - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBkcVZBYjhobGpnYndqZV91UUlhd3VRUGJPemJEUmVKTzhWYUEySExFRGNTWmhxT1ptVDlPTmROQnZXSlB5TV8wR2pZX3RUSmxUeF91d0xpZmpXZGFxLTlEa1U3UktUcXFpa1BZU1hyOHRWekdJd042Tw?oc=5\" target=\"_blank\">兴业银行股份有限公司 公开发行A股可转换公司债券 受托管理事务报告 （2025年度）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkcVZBYjhobGpnYndqZV91UUlhd3VRUGJPemJEUmVKTzhWYUEySExFRGNTWmhxT1ptVDlPTmROQnZXSlB5TV8wR2pZX3RUSmxUeF91d0xpZmpXZGFxLTlEa1U3UktUcXFpa1BZU1hyOHRWekdJd042Tw?oc=5",
       "published": "Wed, 17 Jun 2026 22:34:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "建信中证A股指数增强发起C净值上涨0.64% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE5zQVpzN0IyWmJ5R28yZUJSVVlZRTFxRktMU0xKdFZCbmtSYXBXMnN4RnNmcjdQSzlUREVENzRrWUtjTTBNdXRYUmZZcV9EbTdGN2xDbWVJR1MtcW12SmZ0YWg4S1BjSmI1SW9ZZmdPNm1hWWVhVEczb2JJaVgwa0t5SE1WbHVreDF1Sm5GNnlyNERYVzlV?oc=5\" target=\"_blank\">建信中证A股指数增强发起C净值上涨0.64%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "华泰柏瑞中证A股ETF净值上涨0.71% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNU1PYmVNR2d5SmdwZE0wZ2wtS3VoZk1hZS1CNDhtTjVYa1pzWktzQVBGS2lPaGNFU24ycDgtR1FId21PLUMtOWFENmhyM051M3M1SGFsRjRjR1VkMlN2ai00MW5ta3VUZ3pRemxLMFRWV0VnUmUzRmNsN0tKX0UtZ0RZZEtMcTRURGJZaF9COTNZUldfN1dJ?oc=5\" target=\"_blank\">华泰柏瑞中证A股ETF净值上涨0.71%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNU1PYmVNR2d5SmdwZE0wZ2wtS3VoZk1hZS1CNDhtTjVYa1pzWktzQVBGS2lPaGNFU24ycDgtR1FId21PLUMtOWFENmhyM051M3M1SGFsRjRjR1VkMlN2ai00MW5ta3VUZ3pRemxLMFRWV0VnUmUzRmNsN0tKX0UtZ0RZZEtMcTRURGJZaF9COTNZUldfN1dJ?oc=5",
+      "published": "Wed, 17 Jun 2026 23:05:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "建信中证A股指数增强发起C净值上涨0.64% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE5zQVpzN0IyWmJ5R28yZUJSVVlZRTFxRktMU0xKdFZCbmtSYXBXMnN4RnNmcjdQSzlUREVENzRrWUtjTTBNdXRYUmZZcV9EbTdGN2xDbWVJR1MtcW12SmZ0YWg4S1BjSmI1SW9ZZmdPNm1hWWVhVEczb2JJaVgwa0t5SE1WbHVreDF1Sm5GNnlyNERYVzlV?oc=5\" target=\"_blank\">建信中证A股指数增强发起C净值上涨0.64%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbE5zQVpzN0IyWmJ5R28yZUJSVVlZRTFxRktMU0xKdFZCbmtSYXBXMnN4RnNmcjdQSzlUREVENzRrWUtjTTBNdXRYUmZZcV9EbTdGN2xDbWVJR1MtcW12SmZ0YWg4S1BjSmI1SW9ZZmdPNm1hWWVhVEczb2JJaVgwa0t5SE1WbHVreDF1Sm5GNnlyNERYVzlV?oc=5",
       "published": "Wed, 17 Jun 2026 22:35:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "广发恒生A股电网设备ETF净值上涨0.52% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWtSZ1RvT3QtUDFOa1JVVU5obE44NGNjS1hiWFlSY1ljVWdUN2tRN1VBcnRiUlNTZ21RamdibjFKejlEX0xxSlBCSDA1WXpmNEo3TkhFTTEyRk9MdHQ2QUdBWFgtdWJMQzJ1aU5NVzhaNlBlUGhZVml3MF9vZVIwNGRvYklwNDA0TjNJSnJtRFRaek5NbG00?oc=5\" target=\"_blank\">广发恒生A股电网设备ETF净值上涨0.52%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "广发恒生A股电网设备ETF净值上涨0.52% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWtSZ1RvT3QtUDFOa1JVVU5obE44NGNjS1hiWFlSY1ljVWdUN2tRN1VBcnRiUlNTZ21RamdibjFKejlEX0xxSlBCSDA1WXpmNEo3TkhFTTEyRk9MdHQ2QUdBWFgtdWJMQzJ1aU5NVzhaNlBlUGhZVml3MF9vZVIwNGRvYklwNDA0TjNJSnJtRFRaek5NbG00?oc=5\" target=\"_blank\">广发恒生A股电网设备ETF净值上涨0.52%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcWtSZ1RvT3QtUDFOa1JVVU5obE44NGNjS1hiWFlSY1ljVWdUN2tRN1VBcnRiUlNTZ21RamdibjFKejlEX0xxSlBCSDA1WXpmNEo3TkhFTTEyRk9MdHQ2QUdBWFgtdWJMQzJ1aU5NVzhaNlBlUGhZVml3MF9vZVIwNGRvYklwNDA0TjNJSnJtRFRaek5NbG00?oc=5",
       "published": "Wed, 17 Jun 2026 22:52:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "华泰柏瑞中证A股ETF发起式联接C净值上涨0.65% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2dPNllPTTVwSkNrQ3g0d0ZubGt2dXhSVFZPU0ZXTl80SjZYY2FTZUtpRVJsdTNrWmRIM0doTGp2S1M4emsxSGhlWnoyMmZESTBnNXB3SDRhQkVmTXVoM1NaZUtBMlM2YmFZVFJPbGhuR05MTmlvTk9RN3VCTWJ3cFZUdnJHbTF2SGt0X0xaOGdYTl90eFdz?oc=5\" target=\"_blank\">华泰柏瑞中证A股ETF发起式联接C净值上涨0.65%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "华泰柏瑞中证A股ETF发起式联接C净值上涨0.65% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2dPNllPTTVwSkNrQ3g0d0ZubGt2dXhSVFZPU0ZXTl80SjZYY2FTZUtpRVJsdTNrWmRIM0doTGp2S1M4emsxSGhlWnoyMmZESTBnNXB3SDRhQkVmTXVoM1NaZUtBMlM2YmFZVFJPbGhuR05MTmlvTk9RN3VCTWJ3cFZUdnJHbTF2SGt0X0xaOGdYTl90eFdz?oc=5\" target=\"_blank\">华泰柏瑞中证A股ETF发起式联接C净值上涨0.65%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2dPNllPTTVwSkNrQ3g0d0ZubGt2dXhSVFZPU0ZXTl80SjZYY2FTZUtpRVJsdTNrWmRIM0doTGp2S1M4emsxSGhlWnoyMmZESTBnNXB3SDRhQkVmTXVoM1NaZUtBMlM2YmFZVFJPbGhuR05MTmlvTk9RN3VCTWJ3cFZUdnJHbTF2SGt0X0xaOGdYTl90eFdz?oc=5",
       "published": "Wed, 17 Jun 2026 22:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "华宝标普中国A股红利机会ETF联接C净值下跌0.69% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUluSU92RkFUZWhtSVRORW1RUWZLUXlkTnVPWnFSY3NtSEx2VXFxQzJJRURLN3lpMjFlMVcyR2VzYlJvRDZyU2hrTjBKZkc5QlNsdHZqQ3lSbWJWbWFZQlNXQnRiMlRrV3hBbHN6Q3NkRVd6M3YtYVA0eHRJS3JVdE8tb1BxelZpUFhlQjE2S1pqZWtvNUdV?oc=5\" target=\"_blank\">华宝标普中国A股红利机会ETF联接C净值下跌0.69%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUluSU92RkFUZWhtSVRORW1RUWZLUXlkTnVPWnFSY3NtSEx2VXFxQzJJRURLN3lpMjFlMVcyR2VzYlJvRDZyU2hrTjBKZkc5QlNsdHZqQ3lSbWJWbWFZQlNXQnRiMlRrV3hBbHN6Q3NkRVd6M3YtYVA0eHRJS3JVdE8tb1BxelZpUFhlQjE2S1pqZWtvNUdV?oc=5",
-      "published": "Wed, 17 Jun 2026 21:20:00 GMT"
+      "title": "招商MSCI中国A股国际通ETF净值上涨1.05% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnk5ZFFQd0JwaFJjbUhPZDB0VXZvUlZndW9kaHBsMTJvOVhaYmZaVUJyVHNWVGxQWnlWUTR1VEVVU3VMRW80TzZiaWZtRU5MekVRakl1SjFfX0NQZ2RDMUh5YkxYNzk3eUxXR3hkbzhxY09mak4zbGtIMjdUbkRzY1lyVDdhVmQ1eWFnRzVIdzh2Q2xpQ1Vr?oc=5\" target=\"_blank\">招商MSCI中国A股国际通ETF净值上涨1.05%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcnk5ZFFQd0JwaFJjbUhPZDB0VXZvUlZndW9kaHBsMTJvOVhaYmZaVUJyVHNWVGxQWnlWUTR1VEVVU3VMRW80TzZiaWZtRU5MekVRakl1SjFfX0NQZ2RDMUh5YkxYNzk3eUxXR3hkbzhxY09mak4zbGtIMjdUbkRzY1lyVDdhVmQ1eWFnRzVIdzh2Q2xpQ1Vr?oc=5",
+      "published": "Wed, 17 Jun 2026 23:01:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "富国恒生A股专精特新企业ETF发起式联接C净值上涨3.01% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGpQT3NkbzdmNkh2SkJBMi1IMlUzSWExTEVvUUZIRmdCSHRsZHNCNWxLOVZtNGVlRVlhUXVzVFpWWktuMGxkRFpzRmhSeGFwcHBBZUpLSWhmcUstT0NNT0l2aXB2dEdxTXl0VFMyM0ZPVm5IUzBBaWthVmdJN3ZmZzZiQVdsajJFZ3FNQlZ3bzFHajZuMUow?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF发起式联接C净值上涨3.01%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "华泰柏瑞MSCI中国A股国际通ETF净值上涨1.03% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWppV3Q3T0I3NGdybzFIcEgwMEpNcXlEbVU2T0FjaEpxUE80YXpFLWQtNUFmTVU3QmlMVGdYcXVpNTZkemNYMDdpWE5Uajd1NFFRTmpRUUJxTzhZNXBLTGdJQXBnWHNibzlIUENkZDA5WVlraDh0dWkydklGUndwT1VkRTNMZl9tbkk2N0ZTem9JWTNITWJz?oc=5\" target=\"_blank\">华泰柏瑞MSCI中国A股国际通ETF净值上涨1.03%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWppV3Q3T0I3NGdybzFIcEgwMEpNcXlEbVU2T0FjaEpxUE80YXpFLWQtNUFmTVU3QmlMVGdYcXVpNTZkemNYMDdpWE5Uajd1NFFRTmpRUUJxTzhZNXBLTGdJQXBnWHNibzlIUENkZDA5WVlraDh0dWkydklGUndwT1VkRTNMZl9tbkk2N0ZTem9JWTNITWJz?oc=5",
+      "published": "Wed, 17 Jun 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "富国恒生A股专精特新企业ETF发起式联接C净值上涨3.01% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGpQT3NkbzdmNkh2SkJBMi1IMlUzSWExTEVvUUZIRmdCSHRsZHNCNWxLOVZtNGVlRVlhUXVzVFpWWktuMGxkRFpzRmhSeGFwcHBBZUpLSWhmcUstT0NNT0l2aXB2dEdxTXl0VFMyM0ZPVm5IUzBBaWthVmdJN3ZmZzZiQVdsajJFZ3FNQlZ3bzFHajZuMUow?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF发起式联接C净值上涨3.01%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGpQT3NkbzdmNkh2SkJBMi1IMlUzSWExTEVvUUZIRmdCSHRsZHNCNWxLOVZtNGVlRVlhUXVzVFpWWktuMGxkRFpzRmhSeGFwcHBBZUpLSWhmcUstT0NNT0l2aXB2dEdxTXl0VFMyM0ZPVm5IUzBBaWthVmdJN3ZmZzZiQVdsajJFZ3FNQlZ3bzFHajZuMUow?oc=5",
       "published": "Wed, 17 Jun 2026 22:42:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "上市公司切莫盲目跟风逐热 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1TT2xqWFRZX3FpUUhUZFhtaHVSLWdraWZBYkstUHlHUTZ2LTJDbkNqMFdfS18xSHRoV21LNnVBODJoZmNBTmdLSG1pSkJTOVdPMXJiMUQ1dVZXYWRBTXk5SDRZYnk3QnY2NktZV044Q080dHlJdmlaMw?oc=5\" target=\"_blank\">上市公司切莫盲目跟风逐热</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "上市公司切莫盲目跟风逐热 - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1TT2xqWFRZX3FpUUhUZFhtaHVSLWdraWZBYkstUHlHUTZ2LTJDbkNqMFdfS18xSHRoV21LNnVBODJoZmNBTmdLSG1pSkJTOVdPMXJiMUQ1dVZXYWRBTXk5SDRZYnk3QnY2NktZV044Q080dHlJdmlaMw?oc=5\" target=\"_blank\">上市公司切莫盲目跟风逐热</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TT2xqWFRZX3FpUUhUZFhtaHVSLWdraWZBYkstUHlHUTZ2LTJDbkNqMFdfS18xSHRoV21LNnVBODJoZmNBTmdLSG1pSkJTOVdPMXJiMUQ1dVZXYWRBTXk5SDRZYnk3QnY2NktZV044Q080dHlJdmlaMw?oc=5",
       "published": "Wed, 17 Jun 2026 22:11:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "建信MSCI中国A股指数增强C净值上涨1.09% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1Bjb3hPNzdyTnFicVJFUkdGNjN2bkE3VXFfT3ctbW45UGcyTS1zR2V0X1ZaeDJXZGdlanZ3dFZZOEgzOXZDZC1JeUZGbUxsbzlCTjkxb3RjQmpPS25sbkVqN19JdkFONFh1c2I3aVBVUDdieEhsYW4ydThOSWhhR0psMzE2MkNxci1YVkJJSkgtOHVfZ2VB?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强C净值上涨1.09%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "建信MSCI中国A股指数增强C净值上涨1.09% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1Bjb3hPNzdyTnFicVJFUkdGNjN2bkE3VXFfT3ctbW45UGcyTS1zR2V0X1ZaeDJXZGdlanZ3dFZZOEgzOXZDZC1JeUZGbUxsbzlCTjkxb3RjQmpPS25sbkVqN19JdkFONFh1c2I3aVBVUDdieEhsYW4ydThOSWhhR0psMzE2MkNxci1YVkJJSkgtOHVfZ2VB?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强C净值上涨1.09%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1Bjb3hPNzdyTnFicVJFUkdGNjN2bkE3VXFfT3ctbW45UGcyTS1zR2V0X1ZaeDJXZGdlanZ3dFZZOEgzOXZDZC1JeUZGbUxsbzlCTjkxb3RjQmpPS25sbkVqN19JdkFONFh1c2I3aVBVUDdieEhsYW4ydThOSWhhR0psMzE2MkNxci1YVkJJSkgtOHVfZ2VB?oc=5",
       "published": "Wed, 17 Jun 2026 21:33:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "前海开源MSCI中国A股消费C净值下跌1.10% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG5OU2NROU5qWktLLW9OYnIyeFA5ekZpemZmN3ZWNkRucTN2X25peHV3TXZjWlg4NlVoSG9OVHdFamZVUHJlb3NvczBoWWxXeU1xTlN6eExpVWZ5cFJobjI1Q2h6ZWFVQWU2eXMyYU41Nmsyb3lGMVVIdzlKQ1EzZkI0a0RxbzZrS09zU0JNWktEcmxMVDFr?oc=5\" target=\"_blank\">前海开源MSCI中国A股消费C净值下跌1.10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "前海开源MSCI中国A股消费C净值下跌1.10% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG5OU2NROU5qWktLLW9OYnIyeFA5ekZpemZmN3ZWNkRucTN2X25peHV3TXZjWlg4NlVoSG9OVHdFamZVUHJlb3NvczBoWWxXeU1xTlN6eExpVWZ5cFJobjI1Q2h6ZWFVQWU2eXMyYU41Nmsyb3lGMVVIdzlKQ1EzZkI0a0RxbzZrS09zU0JNWktEcmxMVDFr?oc=5\" target=\"_blank\">前海开源MSCI中国A股消费C净值下跌1.10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRG5OU2NROU5qWktLLW9OYnIyeFA5ekZpemZmN3ZWNkRucTN2X25peHV3TXZjWlg4NlVoSG9OVHdFamZVUHJlb3NvczBoWWxXeU1xTlN6eExpVWZ5cFJobjI1Q2h6ZWFVQWU2eXMyYU41Nmsyb3lGMVVIdzlKQ1EzZkI0a0RxbzZrS09zU0JNWktEcmxMVDFr?oc=5",
       "published": "Wed, 17 Jun 2026 21:28:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "招商MSCI中国A股国际通ETF联接A净值上涨1.00% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREtPeE14dXBhMGRnM3ZFZEhmQlBKZGtQdjhlRXEtMElKSnM4QkRweEpPSGxIUjhrZDYzR2dSVmFBYXlWQ0xjQ3p2UDFjOG04MlJiWGEyZC1WbnRlZW5EbEptM3ZEdVUzRWhuclRhSnRTSzYxYXU1MmMtemV3Tk9PbWFpQzlLWkRsVFYyM3U5aEJia280eXFJ?oc=5\" target=\"_blank\">招商MSCI中国A股国际通ETF联接A净值上涨1.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "招商MSCI中国A股国际通ETF联接A净值上涨1.00% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOREtPeE14dXBhMGRnM3ZFZEhmQlBKZGtQdjhlRXEtMElKSnM4QkRweEpPSGxIUjhrZDYzR2dSVmFBYXlWQ0xjQ3p2UDFjOG04MlJiWGEyZC1WbnRlZW5EbEptM3ZEdVUzRWhuclRhSnRTSzYxYXU1MmMtemV3Tk9PbWFpQzlLWkRsVFYyM3U5aEJia280eXFJ?oc=5\" target=\"_blank\">招商MSCI中国A股国际通ETF联接A净值上涨1.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOREtPeE14dXBhMGRnM3ZFZEhmQlBKZGtQdjhlRXEtMElKSnM4QkRweEpPSGxIUjhrZDYzR2dSVmFBYXlWQ0xjQ3p2UDFjOG04MlJiWGEyZC1WbnRlZW5EbEptM3ZEdVUzRWhuclRhSnRTSzYxYXU1MmMtemV3Tk9PbWFpQzlLWkRsVFYyM3U5aEJia280eXFJ?oc=5",
       "published": "Wed, 17 Jun 2026 21:24:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "中信建投MSCI ESG评级维持AA，位居A股同行业43家公司第4名，与中信证券等同级、高于东方财富等、低于东方证券等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlZIVFFFd3Q0UEdqLWVyekZhUE1kbHlOYjI5YTBNSTNqR3JaTXFMeTVHUWJvemNkU0cwbTBEM2pabHJKUTJ5aWVQbDAtbTkydDVQVmI5bVFFNmhKeG1oblhrV2hmc1hDVDFKVHN6UXczX2N4TVE2NXVQM3VjOEpfazBxU2VlSWc0aGliRGtn?oc=5\" target=\"_blank\">中信建投MSCI ESG评级维持AA，位居A股同行业43家公司第4名，与中信证券等同级、高于东方财富等、低于东方证券等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWlZIVFFFd3Q0UEdqLWVyekZhUE1kbHlOYjI5YTBNSTNqR3JaTXFMeTVHUWJvemNkU0cwbTBEM2pabHJKUTJ5aWVQbDAtbTkydDVQVmI5bVFFNmhKeG1oblhrV2hmc1hDVDFKVHN6UXczX2N4TVE2NXVQM3VjOEpfazBxU2VlSWc0aGliRGtn?oc=5",
-      "published": "Wed, 17 Jun 2026 21:08:00 GMT"
+      "source": "同花顺",
+      "title": "银行理财多项跨境投资新业务落地 参与全球化资产配置渠道拓宽",
+      "summary": "银行理财公司参与全球化资产配置的渠道正在进一步拓宽。证券时报记者从行业内独家获悉，作为首批3家银行理财公司的中银理财、工银理财和招银理财，已在去年末正式获得债券通“南向通”交易资格，这一资格实际上也赶在了保险机构之前。另外，银行理财公司跨境投资业务近日又传来利好——被首度引入银行间外币对市场，并于6月16日完成了理财资金在该市场的首笔交易。某银行理财公司一位资深人士对证券时报记者表示，在当前低利率环境下，资管机构全球化配置的热情升高，但目前资金“出海”渠道受限。理财资金全球化配置渠道的进一步拓宽，不仅有助于丰富理财产品种类，同时也可助力人民币国际化。（证券时报）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549415.shtml",
+      "published": "Wed, 17 Jun 2026 23:16:40 GMT"
     },
     {
       "source": "同花顺",
-      "title": "PB达1.61倍，大通证券17.03亿股寻买家，43亿元起拍能否顺利易主？ - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0SmlBMzhJaHROZ1puVzg0eDJsNG9rQTZWRjlOZW5UUHJZNURfTzhNLWZPUVZROWp3VC05cElXU29nak1hNEVPdXdxVFF3SjA5ZmJKTS0tenlxZ25BZ2JxQ1Zn?oc=5\" target=\"_blank\">PB达1.61倍，大通证券17.03亿股寻买家，43亿元起拍能否顺利易主？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0SmlBMzhJaHROZ1puVzg0eDJsNG9rQTZWRjlOZW5UUHJZNURfTzhNLWZPUVZROWp3VC05cElXU29nak1hNEVPdXdxVFF3SjA5ZmJKTS0tenlxZ25BZ2JxQ1Zn?oc=5",
-      "published": "Wed, 17 Jun 2026 21:29:02 GMT"
+      "title": "今年前5个月厦门对金砖国家进出口超870亿元",
+      "summary": "今年是金砖国家合作机制建立20周年。作为金砖创新基地所在地，福建厦门持续深耕金砖经贸网络，与金砖国家经贸合作不断走深走实。据厦门海关统计，今年1至5月，厦门对金砖国家进出口874.36亿元，同比增长29.98%；其中，出口281.54亿元，同比增长9.93%，进口592.82亿元，同比增长42.3%。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549405.shtml",
+      "published": "Wed, 17 Jun 2026 23:16:06 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "分散化配置底层逻辑仍然有效 多资产组合急需“动态校准”",
+      "summary": "今年以来，科技主导单边行情。无论是价值风格还是黄金等商品资产，在外部扰动因素不断的情况下都表现不尽如人意，这给多资产投资带来了一定冲击。今年以来就有不少采取多资产策略的FOF产品回报率为负，FOF扎堆重仓的底层基金，比如黄金、红利、港股通互联网等主题ETF，普遍表现不及预期。虽然今年部分资产表现不尽如人意，但在专业投资人士看来，恰恰说明不同资产轮动具有阶段性，面对这种环境，更应进行动态均衡而非静态分散。比如，权益投资保持适度偏积极，结构上更加关注具备产业趋势支撑的成长方向，同时兼顾部分估值具备安全边际的优质价值资产；黄金资产在全球地缘政治、财政扩张、长期资产配置需求下，仍具有组合分散风险的价值，更适合作为战略配置而非战术交易工具。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549373.shtml",
+      "published": "Wed, 17 Jun 2026 23:12:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "第七届跨国公司领导人青岛峰会闭幕 57个重点项目签约",
+      "summary": "昨天（17日），第七届跨国公司领导人青岛峰会在山东青岛闭幕。本届峰会期间，57个重点项目签约，并围绕未来产业、服务业扩大开放、国际经贸合作等开展多场活动。本届峰会以“携手‘十五五’向新向未来”为主题，吸引了来自44个国家和地区的357家世界500强和行业领军企业参会。峰会期间，57个重点项目签约，其中包括，20个外资项目、9个外贸项目和15个现代服务业项目。服务业扩大开放是本届峰会的一项重点议题。峰会就服务业扩大开放，邀请政商学界代表围绕政策举措、试点经验等开展交流。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549366.shtml",
+      "published": "Wed, 17 Jun 2026 23:11:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "香港金管局将基准利率维持在4%不变",
+      "summary": "香港金管局将基准利率维持在4%不变。",
+      "link": "https://news.10jqka.com.cn/20260618/c677549321.shtml",
+      "published": "Wed, 17 Jun 2026 23:06:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩国科学技术院科学家开发出超高效液冷技术，冷却性能达此前纪录10倍",
+      "summary": "韩国科学技术院科学家开发出一种超高效的液冷技术，能用室温水从内部直接为高热通量半导体芯片降温，其冷却性能指数达此前纪录的10倍。这项技术有望解决一系列高热通量电子系统的散热难题，对提升下一代AI数据中心的能效、缓解热瓶颈具有重要意义。相关论文发表于最新一期《能量转换与管理》杂志。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549165.shtml",
+      "published": "Wed, 17 Jun 2026 22:53:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩国科学技术院研究团队提出预测晶体管缩小物理极限值的新方法",
+      "summary": "韩国科学技术院研究团队通过基于量子力学的原子尺度计算，提出了一种预测晶体管缩小物理极限值的新方法。该成果有望加快下一代超小型AI半导体器件的研发进程。相关成果发表于新一期《计算材料学》期刊。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549164.shtml",
+      "published": "Wed, 17 Jun 2026 22:53:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "乌克兰首都基辅多次传出爆炸声",
+      "summary": "当地时间18日凌晨，新华社记者在乌克兰首都基辅市听到两轮防空警报，以及多次强烈爆炸声。此前，乌空军发布预警称，乌克兰面临弹道导弹威胁。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549137.shtml",
+      "published": "Wed, 17 Jun 2026 22:50:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "全球最大的白银ETF iShares Silver Trust持仓量较前日减少33.76吨",
+      "summary": "截至2026年06月17日，全球最大的白银ETF iShares Silver Trust持仓量为14939.09吨，较前一个交易日减少33.76吨。",
+      "link": "https://news.10jqka.com.cn/20260618/c677549096.shtml",
+      "published": "Wed, 17 Jun 2026 22:43:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外交部：与阿曼基本敲定霍尔木兹海峡管理机制",
+      "summary": "伊朗外交部发言人巴加埃当天表示，伊方已与阿曼基本敲定霍尔木兹海峡管理机制，将对在该海峡提供的服务收取费用。目前，相关机制安排正在起草中。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549073.shtml",
+      "published": "Wed, 17 Jun 2026 22:38:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗议长：霍尔木兹海峡“永远不会回到以前的状态”",
+      "summary": "伊朗伊斯兰议会议长卡利巴夫当天表示，霍尔木兹海峡“永远不会回到以前的状态”，伊朗会在霍尔木兹海峡收取“服务费用”。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549034.shtml",
+      "published": "Wed, 17 Jun 2026 22:26:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗称谅解备忘录以两种语言签署 具有同等效力",
+      "summary": "当地时间18日，伊朗外交部发言人巴加埃表示，谅解备忘录是以两种语言签署的，这一点非常重要，因为伊朗坚持，必须同时具备波斯语和英语两个版本的文本。他称，如果只有英文版本，可能会出现带有主观倾向的翻译差异。波斯语文本与英文文本完全一致，在伊朗方面看来具有完全同等的法律效力。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260618/c677549008.shtml",
+      "published": "Wed, 17 Jun 2026 22:19:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "比特币向下跌破64000美元",
+      "summary": "行情显示，比特币跌至63970.2美元，过去24小时内跌2.72%；以太坊跌至1729.14美元，过去24小时内跌3.65%。",
+      "link": "https://news.10jqka.com.cn/20260618/c677548857.shtml",
+      "published": "Wed, 17 Jun 2026 22:07:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "WTI原油跌超1%",
+      "summary": "WTI原油跌超1%，现报74.88美元/桶。",
+      "link": "https://news.10jqka.com.cn/20260618/c677548601.shtml",
+      "published": "Wed, 17 Jun 2026 22:05:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美官员称特朗普亲自签署美伊谅解备忘录",
+      "summary": "两名美国官员透露，美国和伊朗已远程签署旨在结束战争并开放霍尔木兹海峡的谅解备忘录，该协议现已生效。其中一名官员表示，美国总统特朗普亲自签署了这份文件。据悉，该签署仪式原定于19日在瑞士举行。此前当日早些时候，一位来自调解国的外交官和另一位知情人士透露，双方曾讨论过提前签署并实施该协议的事宜。该外交官表示，讨论加快时间表是为了能早于19日开放海峡，因为双方在这一问题上已达成共识。另一个因素可能是白宫面临着公布谅解备忘录文本的政治压力。不过，这位知情人士声称，是伊朗方面要求在正式签署前不公开文本，并否认白宫此举是为了应对政治压力。消息人士称，由美国副总统万斯和伊朗议会议长卡利巴夫率领的美伊代表团之间的会晤，预计仍将按计划于19日在瑞士举行。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260618/c677548292.shtml",
+      "published": "Wed, 17 Jun 2026 21:53:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外交部发言人：美伊已签署谅解备忘录",
+      "summary": "伊朗外交部发言人巴加埃当地时间18日表示，目前伊朗与美国的谅解备忘录文本已最终正式敲定，双方已经签署。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260618/c677548255.shtml",
+      "published": "Wed, 17 Jun 2026 21:32:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普戏称若美伊没签成就赖万斯",
+      "summary": "美国总统特朗普当地时间6月17日在七国集团峰会结束后的记者会上表示，他可能会继续留在欧洲出席美国与伊朗谅解备忘录的签署仪式，但也可能不会，因为这毕竟“不是一份重要到必须由他来签署的文件”。在回答记者提问时，他还戏称，“签署仪式如果成了，我就把功劳揽过来；如果黄了，我就怪（出席仪式的美国副总统）万斯。”在回答有关“设立3000亿美元基金用于伊朗重建和经济发展”的问题时，特朗普强调，“美国不出钱”，但如果伊朗“表现好、守规矩”，美国将允许其出售石油，允许别人投资伊朗。特朗普还再次威胁“如果伊朗违约将遭美军轰炸”。但现场有记者质疑“谅解备忘录中并不包括相关强制执行的条款”。特朗普对此回应称，“难道非得有（强制执行条款）不可吗？” （CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20260618/c677548247.shtml",
+      "published": "Wed, 17 Jun 2026 21:17:02 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -125,8 +244,8 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "据Axios报道：美国和伊朗周三以电子方式签署了谅解备忘录。",
-      "summary": "<p>据Axios报道：美国和伊朗周三以电子方式签署了谅解备忘录。</p>",
+      "title": "伊朗国家电视台确认伊美总统已线上签署MoU，称没有签字仪式",
+      "summary": "<p>据Axios报道，美国和伊朗周三以电子方式签署了谅解备忘录（MoU）。</p>\n\n<p>随后，伊朗国家电视台报道称，双方的谈判团队将现身瑞士，但不会在瑞士举办签署MoU的仪式，两国总统已经线上签字。</p>\n\n<p>据央视报道，伊朗外交部发言人巴加埃当地时间18日表示，目前伊朗与美国的谅解备忘录文本已最终正式敲定，双方已经签署。</p>",
       "link": "https://wallstreetcn.com/livenews/3121269",
       "published": "Wed, 17 Jun 2026 21:25:30 GMT"
     },
@@ -136,13 +255,6 @@
       "summary": "<p style=\"text-align: left;\">沃什是华尔街出身的鹰派，做过美联储理事，花了十几年批评美联储管太宽、说太多、资产负债表太胖。同时，他又是特朗普亲手选的人——而这位总统对降息的执念，从未掩饰过。</p><p style=\"text-align: left;\">6月17日这场首秀，市场想看到的很简单：这到底是谁的美联储？</p><p style=\"text-align: left;\">答案来得很快。</p><p style=\"text-align: left;\">利率没动，维持3.50%-3.75%，全票通过，在预期之内。但点阵图没有在预期之内：18位委员里9位预计年内加息，只有1位还在想降息。三个月前，中位数还指向年内降一次。道指从盘中历史新高直接跳水500点，2年期美债收益率一天飙了15个基点。</p><p style=\"text-align: left;\">DoubleLine Capital创始人、有“新债王”之称的冈拉克（Jeffrey Gundlach）说：“他在非常清楚地告诉你，他要交付物价稳定。别再指望一季度时大家幻想的那种宽松了。”</p>",
       "link": "https://wallstreetcn.com/member/articles/3774945",
       "published": "Wed, 17 Jun 2026 21:16:54 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "库克：苹果将因存储芯片供应问题而涨价",
-      "summary": "<p>据华尔街日报，苹果公司库克表示，苹果将因为存储芯片供应紧张而涨价，苹果产品涨价将是“无法避免的”，但拒绝透露详情。</p>\n\n<p>库克认为，记忆芯片、存储芯片都是公司面临的问题，公司将利用现金储备来应对记忆芯片的供应问题。</p>\n\n<p>过去半年的商品价格波动是他从未见过的。</p>\n\n<p>苹果股价美股盘后涨1%。</p>",
-      "link": "https://wallstreetcn.com/livenews/3121261",
-      "published": "Wed, 17 Jun 2026 21:02:50 GMT"
     },
     {
       "source": "证券时报",
@@ -157,6 +269,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SeHlZUlBqdnBPMnRZT1U0d2gyOVRTZk53SlB3SXp4UDdiMk4zamNaUXZaQl94Vjlvbm0wNC1XMmZNNVIxZjhCcVFBU2hxUUMxRW0zR0RtOW1PbEN0?oc=5\" target=\"_blank\">从A50指数调仓感知中国经济动能转换</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SeHlZUlBqdnBPMnRZT1U0d2gyOVRTZk53SlB3SXp4UDdiMk4zamNaUXZaQl94Vjlvbm0wNC1XMmZNNVIxZjhCcVFBU2hxUUMxRW0zR0RtOW1PbEN0?oc=5",
       "published": "Wed, 17 Jun 2026 22:44:00 GMT"
+    },
+    {
+      "source": "新股IPO",
+      "title": "A股IPO市场有望在2026年持续升温，更多标志性新股即将登陆 - 上观新闻",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNMXJKQVJKZEtqNFFxbWtkY2lSendiLW1fSmVyNzc5VmlCWVA4b0tqMnA2Zkg5N2cyZnFrREVzajlwM0pnUGFJUGlqenMwSm1NckhlUmd3M2dQQQ?oc=5\" target=\"_blank\">A股IPO市场有望在2026年持续升温，更多标志性新股即将登陆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上观新闻</font>",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNMXJKQVJKZEtqNFFxbWtkY2lSendiLW1fSmVyNzc5VmlCWVA4b0tqMnA2Zkg5N2cyZnFrREVzajlwM0pnUGFJUGlqenMwSm1NckhlUmd3M2dQQQ?oc=5",
+      "published": "Wed, 17 Jun 2026 22:56:00 GMT"
     }
   ]
 }
