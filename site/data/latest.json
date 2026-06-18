@@ -4,12 +4,12 @@
   "news": [
     {
       "title": "浦东国资启动股权整合",
-      "summary": "上海市浦东新区国资启动上市公司股权整合，涉及多家区属国企。此举旨在优化国有资本布局，提升资产证券化率。可能影响浦东国资概念股，如张江高科、外高桥等。属于地方国企改革利好，看多。",
-      "reason": "地方国资改革是中期利好信号，浦东作为改革前沿，整合有助于提升资产效率，可能带动上海国企板块活跃。",
-      "category": "监管政策",
+      "summary": "浦东新区国资委启动区属上市公司股权整合，涉及多家上海本地国企，旨在优化国有资本布局。该消息可能引发市场对上海国资改革板块的关注，相关个股如浦东建设、张江高科、外高桥等有望受益。信号偏多，属于结构性利好。",
+      "reason": "地方国资改革是中期主线，浦东作为改革前沿，股权整合有助于提升资产效率，吸引资金关注上海板块。",
+      "category": "行业动态",
       "impact_stocks": [
-        "浦东国资概念",
-        "上海国企",
+        "上海国资改革",
+        "浦东建设",
         "张江高科"
       ],
       "signal": "bullish",
@@ -20,46 +20,108 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqVktXMkN3N0gzNkdVT2FlYkhzWE80RnRhRWNvUXFTOVQ4dTcxRElmTWpTQTUtTHlVNGdTaHRLemlPeVRpcm85RWRHaGVmSDFLaFduUFFFT2h2R0RhMk5pVWtJdlZIVEhmMkxpYnk5aDBuTGthd0E?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "首都在线推股权激励计划",
-      "summary": "首都在线拟推2026年限制性股票激励计划，旨在绑定核心团队。股权激励通常利好公司长期发展，市场视为积极信号。可能刺激股价短期上涨。",
-      "reason": "股权激励有助于提升管理层积极性，市场反应正面，但需关注解锁条件。",
-      "category": "公司公告",
+      "title": "对澳进口牛肉加征55%关税",
+      "summary": "商务部宣布自6月20日零点起，对原产于澳大利亚的进口牛肉在现行适用关税税率基础上加征55%关税。此举将推高进口牛肉价格，利好国内肉牛养殖企业，如西部牧业、天山生物、福成股份等。但可能短期导致牛肉供应偏紧，对下游食品加工企业成本构成压力。信号偏多，属于贸易政策利好。",
+      "reason": "贸易政策变动直接改变竞争格局，加征关税将提升国内牛肉企业的市场份额和盈利能力。",
+      "category": "行业动态",
       "impact_stocks": [
-        "首都在线"
+        "西部牧业",
+        "天山生物",
+        "福成股份"
       ],
       "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677583322.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "宝马被曝停产国产纯电车型",
+      "summary": "市场传闻宝马将停产所有国产纯电车型，知情人士回应消息属实。若成真，将影响宝马在华新能源布局，对其供应链企业（如华晨中国、宁德时代等）形成利空。但国产新能源车品牌（如比亚迪、蔚来等）可能因此受益，减少竞争压力。信号偏空宝马相关个股，对国产新能源车中性偏多。",
+      "reason": "停产消息若确认，将冲击宝马产业链，重塑新能源车竞争格局。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "华晨中国",
+        "宁德时代",
+        "比亚迪"
+      ],
+      "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15WF9QRmtMQTBlcHVaWTVzREFEMWFJcVRmendJWFNZbHZEbmFkX3FZaG9TNFBTcUhNcGljbjgtVldycVhmMDdRN29YMzVnbFVBa0dqWU55TkJzMXpvemc?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677583207.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "纽约期金失守4240美元",
+      "summary": "纽约商品交易所黄金期货价格跌破4240美元/盎司，延续近期下跌趋势。地缘风险缓和（美伊临时协议）及美联储鹰派预期是主因。A股黄金板块承压，山东黄金、中金黄金、赤峰黄金等个股可能下跌。信号偏空，投资者应警惕黄金股回调风险。",
+      "reason": "金价持续下跌直接压制黄金企业盈利预期，利空板块。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "山东黄金",
+        "中金黄金",
+        "赤峰黄金"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677583200.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "亚马逊洽谈出售自研AI芯片",
+      "summary": "据外媒报道，亚马逊正与多家科技公司洽谈，计划向其出售自研AI芯片，与英伟达形成竞争。此举将加速AI芯片产业多元化，利好国内AI芯片产业链，如寒武纪、海光信息、澜起科技等。同时可能对英伟达供应链A股相关公司形成压力。信号偏多，属于行业利好。",
+      "reason": "AI芯片竞争加剧有助于国产替代逻辑强化，提升市场对相关板块的关注度。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "寒武纪",
+        "海光信息",
+        "澜起科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775047"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "中仑新材调研提及新能源",
-      "summary": "中仑新材在接受调研时表示，公司新能源业务进展良好。调研信息透露公司基本面变化，但未涉及具体数据。可能对新能源材料板块有轻微利好，但影响有限。",
-      "reason": "机构调研是常规事件，但涉及新能源热点，情绪上偏正面。",
-      "category": "行业动态",
+      "title": "监管闪电战严打蹭热点",
+      "summary": "监管层开启“闪电战”模式严打蹭热点行为，电科数字两个月内收罚单。此前已有多家公司因炒作科技概念被关注。此举将抑制短期题材投机情绪，尤其对无实质支撑的科技概念股形成压力。信号偏空，投资者应回避纯概念炒作，转向业绩确定性标的。",
+      "reason": "监管趋严直接打击市场投机氛围，影响短线资金情绪。",
+      "category": "监管政策",
       "impact_stocks": [
-        "中仑新材",
-        "新能源材料"
+        "科技概念股",
+        "电科数字"
       ],
-      "signal": "neutral",
-      "impact_level": 1,
+      "signal": "bearish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zbUNTaXYyV28tU3ZhQUdpZ2lTYlVOMWRsc054V0xzQk4xcVJDZHdfSGFRcl9PRVRtRVRmOVRhQlpidHdrNmJ4djZZT1RRUXE0cnNLdVNpQ0pxbk1DX0RfVkRIanV1cGVGalVr?oc=5"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103237657.html"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 13,
-  "generated_at": "2026-06-19T01:01:26.751933+08:00"
+  "total_fetched": 24,
+  "generated_at": "2026-06-19T01:54:38.176301+08:00"
 }
