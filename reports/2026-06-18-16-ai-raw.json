@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-18",
+  "hour": "16",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 15600,
+    "completion_tokens": 4385,
+    "total_tokens": 19985
+  },
+  "content_length": 2183,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"富祥股份扭亏为盈\",\n      \"summary\": \"富祥股份公告预计上半年净利润1.65-2.15亿元，上年同期亏损691万元，业绩大幅扭亏。主要受益于抗感染类原料药需求增长及产能利用率提升。该信号利多富祥股份及医药原料药板块，可能带动同行业业绩预期上修。\",\n      \"reason\": \"业绩预喜是公司重大事件，直接影响股价预期，属优先级二。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"富祥股份\", \"原料药\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260618/c677566249.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"光庭信息董事违规减持被罚\",\n      \"summary\": \"光庭信息董事王军德因违规减持收到证监会警示函。违规减持通常反映内部人急于套现，可能对公司股价产生负面情绪，尤其在小盘股中可能引发跟风抛售。\",\n      \"reason\": \"监管处罚属负面信号，影响个股及市场情绪，属优先级二。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"光庭信息\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260618/c677566255.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"中广天择筹划控股股东变更\",\n      \"summary\": \"中广天择公告筹划控股股东变更，股票继续停牌预计不超过3个交易日。控制权变更往往伴随资产注入或业务转型预期，是典型的重组利好，但停牌期间存在不确定性。\",\n      \"reason\": \"重大并购重组事件，属优先级一，直接刺激股价。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"中广天择\", \"传媒\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260618/c677565809.shtml\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"南向资金净卖出超40亿港元\",\n      \"summary\": \"今日南向资金净卖出港股超40亿港元，显示内地资金短期撤离港股。虽主要影响港股，但可能传导至A股情绪，尤其是与港股联动紧密的板块如科技、金融等。\",\n      \"reason\": \"资金流向是市场情绪重要指标，南向资金净卖出反映风险偏好下降。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"恒生科技\", \"港股通标的\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260618/c677565673.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"九章四号量子计算机首次开放云服务\",\n      \"summary\": \"'九章四号'同系列光量子计算机'天衍-P2000'首次正式开放云服务，标志着中国量子计算产业化迈出关键一步。利好量子计算概念股，预计将刺激相关板块短期炒作。\",\n      \"reason\": \"重大科技突破，影响量子计算产业链，属行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"量子计算\", \"国盾量子\", \"科大国创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260618/c677566383.shtml\"}],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
