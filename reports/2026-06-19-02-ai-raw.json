@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 10739,
+    "completion_tokens": 1759,
+    "total_tokens": 12498
+  },
+  "content_length": 1757,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"商务部对澳牛肉加征55%关税\",\n      \"summary\": \"商务部宣布自6月20日零点起，对自澳大利亚进口牛肉在现行适用关税税率基础上加征55%关税。此举将推高国内牛肉价格，利好国内养殖企业，如福成股份、西部牧业等。看多信号。\",\n      \"reason\": \"直接影响国内牛肉供给和价格，利好养殖板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"养殖\", \"牛肉概念\", \"福成股份\", \"西部牧业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260619/c677583322.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"宝马国产纯电停产？知情回应\",\n      \"summary\": \"市场传闻宝马停产所有国产纯电车型，知情人士回应称消息不实。若消息被证伪，将缓解市场对宝马供应链及新能源车行业的担忧，利好宝马产业链及新能源车板块。中性偏多信号。\",\n      \"reason\": \"澄清传言，消除行业负面扰动。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"新能源车\", \"宝马概念\", \"华晨中国\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260619/c677583207.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"纽约期金失守4240美元\",\n      \"summary\": \"纽约期金价格跌破4240美元/盎司，黄金板块承压。美国利率维持高位及美元走强打压金价，A股黄金股如山东黄金、中金黄金等短期面临回调压力。看空信号。\",\n      \"reason\": \"黄金价格下跌直接利空黄金股。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"黄金概念\", \"山东黄金\", \"中金黄金\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260619/c677583200.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"微软亚马逊云业务面临欧盟反垄断\",\n      \"summary\": \"微软和亚马逊云服务据悉将面临欧盟严厉反垄断监管，可能影响其全球业务扩张。对A股云计算、AI板块情绪有间接压制，但国内厂商或受益于竞争格局变化。中性偏空信号。\",\n      \"reason\": \"海外科技巨头监管趋严，可能压制科技板块情绪。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"云计算\", \"AI概念\", \"国产软件\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260619/c677583461.shtml\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
