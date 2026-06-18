@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-18",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 16445,
+    "completion_tokens": 3295,
+    "total_tokens": 19740
+  },
+  "content_length": 2191,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"博瑞医药实控人被取保候审\",\n      \"summary\": \"博瑞医药公告，实际控制人袁建栋因涉嫌操纵证券市场被取保候审。该事件可能对博瑞医药股价产生负面影响，并引发市场对医药板块合规风险的担忧。信号看空，建议回避相关个股。\",\n      \"reason\": \"公司重大负面事件，涉及实控人涉嫌操纵市场，对个股及板块有显著影响。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"博瑞医药\", \"医药制造\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260618/c677578155.shtml\"}\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"七部门推动算力资源开放\",\n      \"summary\": \"七部门联合发文推动算力资源开放，旨在促进算力基础设施共享。政策利好AI算力、云计算及半导体产业链相关公司，但需关注后续落地细节。信号中性偏多。\",\n      \"reason\": \"行业重磅政策，直接影响AI算力板块，属于中期利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"半导体\", \"中际旭创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFBlQnpuY0tYcUlpYnNwSU5IVkZabF9XMl8zdUFyTmNsMjhjOU10X2s3NGFDdF9ncDZJVWhRVkVqMjRIdTZuZ2VDQ0RIcDlpTXAyXzhKV3hMdVpvV1hSdGNUU2kwWkQ5ZllRVXZBdzNwUFk4eEprckdqcA?oc=5\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"深交所对149起异常交易自律监管\",\n      \"summary\": \"深交所本周共对149起证券异常交易行为采取自律监管措施，涉及虚假申报、拉抬打压等。此举表明监管层对市场操纵保持高压，短期可能抑制投机情绪，但长期有利于市场健康。信号中性。\",\n      \"reason\": \"监管动态，反映交易所严格执法，影响市场情绪。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"沪深300\", \"创业板指\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qRU1aWWRoMElZRU1lY2xLUGNJZFVlejJkOWxmNUF6OG9YQzZDTTlBTDVZSmszUkhpQXJYWXFhTWY1R1h2d2g3cUFiVW8xZ25kR2otaFBDT0ZYUDBFMFVVOUFNSQ?oc=5\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"埃森哲盘前大跌15%\",\n      \"summary\": \"埃森哲美股盘前跌超15%，或因业绩不及预期。作为全球IT服务巨头，其大跌可能引发市场对科技外包及AI相关公司的担忧，短期对A股科技板块形成情绪压制。信号看空。\",\n      \"reason\": \"海外科技龙头大跌，可能传导至A股科技板块，属于情绪影响。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"科技股\", \"AI概念\", \"IT服务\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260618/c677577866.shtml\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"今日有效新消息较少，部分历史重要消息已重复，无法再选入。仅筛选出4条新消息，建议结合盘中动态关注更多信号。\"\n}"
+}
