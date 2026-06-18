@@ -3,39 +3,56 @@
   "hour": "10",
   "news": [
     {
-      "title": "新债王：沃什暗示秋天前不加息",
-      "summary": "新债王冈拉克解读美联储主席沃什首秀，认为沃什暗示秋天之前不会加息，这缓解了市场对近期加息的担忧。此前沃什鹰派表态导致美股下跌，但新债王的解读使加息预期有所缓和。对A股而言，外部流动性压力减轻，利好高估值成长股及外资重仓板块。看多信号。",
-      "reason": "美联储货币政策预期变化直接影响全球资金流向和A股风险偏好，属于优先级一。",
-      "category": "货币政策",
+      "title": "华润新能源IPO募资36亿美元",
+      "summary": "华润新能源拟在深交所上市，募资高达36亿美元，成为深圳最大规模IPO。此举将吸收大量市场资金，可能对A股流动性产生短期压力，但新能源板块有望获得估值支撑。对沪深300、新能源板块影响较大，短期看空资金面，长期看多新能源。",
+      "reason": "优先级一：重大IPO募资规模巨大，直接影响市场资金面，历史未提及。",
+      "category": "资金流向",
       "impact_stocks": [
-        "沪深300",
-        "创业板",
-        "白酒",
-        "新能源"
+        "新能源",
+        "沪深300"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/charts/41959257"
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXU3ZnU4NVlqbmZXVnFKUUYwMFNEVDh6X2RhbnQ4MGVmVk5aM2ZBUnFUYk9GeTVVdW8tM0ZHdXJFa2lmUllGbC1KZnAwNEs4ZFRET0VINmxMb1VKSGVySDNmbzVDMUxDV196NENudDZjbVBZNk9zRXZIZkxZWGg5anpBYTY2eGg2ZTMzRWQyZWJpNUdhaGYyUEY3dUFuam95ek1RWHF6QVE1dkNZTGtPWFZoMlhtS3M3eDR1SURTUHM?oc=5"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "days"
     },
     {
-      "title": "氧化镝单日暴涨8万，稀土缺口",
-      "summary": "据华尔街见闻，氧化镝价格单日暴涨8万元/吨，MLCC等产业面临稀土‘历史级缺口’。稀土供给收紧叠加下游新能源、电子需求旺盛，价格有望持续上行。利好稀土永磁板块，同时上游资源股受益。看多信号。",
-      "reason": "行业供需突变引发价格跳涨，直接利好相关板块，属于优先级二行业政策变动。",
-      "category": "行业动态",
+      "title": "5月公募基金规模39.48万亿",
+      "summary": "截至5月末，我国公募基金管理规模合计39.48万亿元，较上月继续增长，显示居民资金持续通过基金入市。这为A股提供增量资金来源，利好市场整体流动性。对沪深300、消费、科技等核心资产构成正面支撑。",
+      "reason": "优先级二：宏观经济数据反映资金入市趋势，历史未提及该具体数字。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "北方稀土",
-        "中国稀土",
-        "金力永磁",
-        "稀土永磁板块"
+        "沪深300",
+        "消费",
+        "科技"
       ],
       "signal": "bullish",
       "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260618/c677557815.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "氧化镝单日暴涨8万",
+      "summary": "稀土氧化镝价格单日大涨8万元/吨，MLCC行业面临稀土历史级缺口。供给端收缩叠加需求增长，稀土价格有望持续走高。利好稀土永磁板块，如北方稀土、盛和资源等。稀土板块近期已走强，消息进一步强化看多逻辑。",
+      "reason": "优先级二：行业政策/价格变动，直接影响稀土板块，历史未提及具体价格涨幅。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "稀土永磁",
+        "北方稀土",
+        "盛和资源"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
           "name": "华尔街见闻",
@@ -45,66 +62,106 @@
       "urgency": "hours"
     },
     {
-      "title": "曾毓群炮轰电池行业低价竞争",
-      "summary": "宁德时代董事长曾毓群公开批评电池行业低价竞争源于心态浮躁、行为短视，并称很多人想进电池行业首先想到挖人、偷技术。此番言论可能引发市场对电池行业竞争格局的担忧，短期对电池板块情绪偏空，但长期利好具备技术壁垒的龙头宁德时代。偏中性但需警惕短期调整。",
-      "reason": "宁德时代为A股核心资产，其领导人言论影响市场对新能源车产业链的预期，属于优先级二公司重大事件。",
-      "category": "公司公告",
+      "title": "中国移动完成6G标准研究",
+      "summary": "中国移动牵头完成3GPP‘6G场景和技术需求’标准研究项目，标志着6G标准化工作取得关键进展。利好6G概念、通信设备、算力基础设施等板块，如中兴通讯、信科移动等。中期看多通信板块。",
+      "reason": "优先级二：行业政策/技术突破，影响6G概念，历史未提及。",
+      "category": "行业动态",
       "impact_stocks": [
-        "宁德时代",
-        "电池板块",
-        "新能源车"
+        "6G概念",
+        "通信设备",
+        "中兴通讯"
       ],
-      "signal": "bearish",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3774965"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260618/c677557578.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "金元证券首次覆盖工业富联增持",
-      "summary": "金元证券首次覆盖工业富联并给予增持评级，认为其在AI服务器、液冷等领域具备增长潜力。工业富联作为AI算力龙头，获券商首次覆盖可能吸引增量资金关注。利好AI算力板块。看多信号。",
-      "reason": "知名券商首次覆盖并给予正面评级，可能引发市场关注和资金流入，属于优先级二机构评级变动。",
-      "category": "资金流向",
+      "title": "商汤打造4万P国产算力",
+      "summary": "商汤携手香港科技园打造4万P国产算力基建，为全港最大国产智算中心。这将推动国产AI算力产业链发展，利好AI芯片、服务器、IDC等板块，如寒武纪、中际旭创等。AI硬件板块近期强势，事件进一步强化逻辑。",
+      "reason": "优先级二：行业动态/AI政策，影响算力板块，历史未提及。",
+      "category": "行业动态",
       "impact_stocks": [
-        "工业富联",
         "AI算力",
-        "服务器"
+        "寒武纪",
+        "中际旭创"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260618/c677558040.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美图1亿悬赏AI新产品",
+      "summary": "美图公司宣布1亿元悬赏AI新产品，创始人表示AI应用正走向自动驾驶。此举将刺激AI应用端创新，利好美图自身及AI软件、图像处理、短视频概念股。短期看多美图及相关AI应用板块。",
+      "reason": "优先级二：公司重大事件/行业动态，历史未提及。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "美图公司",
+        "AI应用",
+        "短视频概念"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iRFU1aXNGSzFmNXZxTlQ1QS1sTlhNcUlaQWNTNnQwd3QwZFFwa3FNeDd6Vms4SGJXZGtuUnlsYkdoSngzSlFDSXZ1clFQdFMtTGNxT3BjRG1TblpVVnc?oc=5"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103235786.html"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "东吴证券上调科达利目标价至327.9元",
-      "summary": "东吴证券上调科达利目标价至327.9元并给予买入评级，认为其受益于新能源车结构件需求增长。科达利为锂电池精密结构件龙头，评级上调利好新能源车零部件产业链。看多信号。",
-      "reason": "头部券商上调目标价和评级，反映对公司基本面看好，可能带动板块关注度，属于优先级二机构评级变动。",
-      "category": "资金流向",
+      "title": "寒武纪再创新高涨超10%",
+      "summary": "寒武纪盘中涨超10%，股价报1460元，再创历史新高。作为AI芯片龙头，其强势表现提振整个AI硬件板块信心，但短期涨幅过大可能引发获利回吐。持有者需注意回调风险，但趋势依然向好。",
+      "reason": "优先级三：市场情绪信号，龙头股创新高，历史未提及寒武纪具体涨幅。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "科达利",
-        "新能源车",
-        "锂电池结构件"
+        "寒武纪",
+        "AI芯片",
+        "半导体"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xSGFwTHFNUFBFbU10cjFTYnVEWF96QUpoRGlJdDZpbzZyYnVKdVVqQ2VHZWxFZWM3LXBMRjIyeTJaN0Vkd2dGY3VMT0YwOEY3cWl0aU9RenRLRXdEcnc?oc=5"
+          "url": "https://news.10jqka.com.cn/20260618/c677557899.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
+    },
+    {
+      "title": "创业板指涨2%再创新高",
+      "summary": "创业板指上涨2%，再创阶段新高，科技成长风格占优。AI硬件、半导体、新能源等板块领涨。创业板指强势突破提振市场风险偏好，短期看多创业板及科技股。",
+      "reason": "优先级三：市场情绪信号，指数创新高，历史未提及。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "创业板",
+        "科技",
+        "半导体"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3774970"
+        }
+      ],
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 53,
-  "generated_at": "2026-06-18T10:01:33.442961+08:00"
+  "total_fetched": 69,
+  "generated_at": "2026-06-18T10:36:03.635085+08:00"
 }
