@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2959,
+    "completion_tokens": 1495,
+    "total_tokens": 4454
+  },
+  "content_length": 1818,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美股科技股领涨存储半导体\",\n      \"summary\": \"美股收盘科技题材炒作热情再起，存储、半导体设备板块牛股领涨。受此情绪传导，A股半导体、存储芯片、AI算力等科技板块有望获得短期提振，明日开盘或高开。该信号偏多，但需观察成交量配合。\",\n      \"reason\": \"海外科技股大涨对A股科技板块有情绪带动作用，属于优先级二海外市场联动。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"存储芯片\", \"AI算力\", \"科创50\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2lFOVJZQmhYOUNfSjdKNC1zTGRFV0JHdGFQQ2FiSzRPUjBoQmhONXltdXNpNjcyUEU2Y2M3anhYbE1RZFNkSU81WVJEUzhicEdpbUlmdXNnbmpJSXdBNkJoOVJRakVqOE5wR195RHlCVk9wbE1VMWo4NXVBNU9wZVZkd21CNEVu?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"苹果英特尔联手在美造芯\",\n      \"summary\": \"特朗普官宣苹果与英特尔联手在美国制造芯片，可能减少对中国台湾及大陆代工依赖。短期对国内半导体封测、代工环节形成竞争压力，但长期将加速国产替代进程，设备、材料等自主可控方向或受益。信号偏中性，短期利空代工，利好设备材料。\",\n      \"reason\": \"重大行业动态，影响半导体产业链格局，属于优先级二行业政策变动。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体设备\", \"半导体材料\", \"中芯国际\", \"长电科技\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/member/articles/3775057\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"伊朗推迟赴瑞士谈判\",\n      \"summary\": \"因以军持续袭击黎巴嫩，伊朗推迟赴瑞士谈判行程，中东地缘政治紧张局势升级。可能推高油价，引发全球避险情绪，对A股整体偏空，尤其利空航空、石化下游板块，但利好石油开采、军工。信号偏空，影响有限。\",\n      \"reason\": \"地缘政治风险影响市场情绪，属于优先级三市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"石油开采\", \"军工\", \"航空\", \"石化\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775058\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮素材共9条，其中6条为普通基金净值变动、1条OPEC消息、1条美股情绪、1条地缘政治、1条早报综合。经筛选保留3条对A股交易有参考价值的消息。\"\n}"
+}
