@@ -3,15 +3,34 @@
   "hour": "06",
   "news": [
     {
-      "title": "OPEC反对IEA供应过剩论",
-      "summary": "OPEC驳斥IEA关于石油供应过剩的预测，认为石油需求将持续增长。此举可能支撑国际油价，进而利好A股石油板块（如中国石油、中国海油），同时化工品价格也可能受益。看多信号，OPEC言论缓解了市场对需求见顶的担忧。",
-      "reason": "油价直接影响A股能源股和化工板块，OPEC作为产油国组织发言具有权威性。",
+      "title": "美股科技股领涨",
+      "summary": "财联社报道美股收盘，科技题材炒作热情高涨，存储、半导体设备板块领涨。可能带动A股科技板块情绪，尤其光模块、算力等方向。短期看多A股科技股，但需注意美股波动传导风险。",
+      "reason": "美股科技股上涨对A股科技板块有情绪提振作用，属于市场情绪信号，间接利好。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "光模块",
+        "算力",
+        "半导体"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU2lFOVJZQmhYOUNfSjdKNC1zTGRFV0JHdGFQQ2FiSzRPUjBoQmhONXltdXNpNjcyUEU2Y2M3anhYbE1RZFNkSU81WVJEUzhicEdpbUlmdXNnbmpJSXdBNkJoOVJRakVqOE5wR195RHlCVk9wbE1VMWo4NXVBNU9wZVZkd21CNEVu?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "OPEC驳斥供应过剩预测",
+      "summary": "OPEC驳斥IEA关于石油供应过剩的预测，认为石油需求将持续增长。该言论可能支撑油价，利好A股石油石化板块及能源相关个股。但需关注伊朗局势等不确定性，短期偏多。",
+      "reason": "OPEC对需求看好的表态可能提振原油价格，利好A股石油板块，属于行业动态。",
       "category": "行业动态",
       "impact_stocks": [
-        "中国石油",
-        "中国石化",
-        "中国海油",
-        "化工"
+        "石油石化",
+        "中海油服",
+        "中国石油"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -24,19 +43,18 @@
       "urgency": "hours"
     },
     {
-      "title": "苹果英特尔合作美国造芯",
-      "summary": "特朗普官宣苹果与英特尔联手在美国制造芯片。这表明美国试图加强本土芯片制造，可能加速全球芯片产能区域化。对A股影响中性偏多：一方面苹果产业链供应商可能因美国本地化而面临订单分流；另一方面，国内芯片自主可控逻辑强化，利好半导体设备材料。短期市场情绪可能波动。",
-      "reason": "苹果和英特尔合作是重大产业事件，影响全球半导体供应链格局，A股相关板块易受情绪驱动。",
+      "title": "特朗普官宣苹果英特尔联手造芯",
+      "summary": "特朗普正式宣布苹果与英特尔合作在美国制造芯片，可能提振美股芯片股情绪，间接利好A股苹果产业链及半导体设备板块。但前期已有传闻，实际影响有限，短期中性偏多。",
+      "reason": "苹果与英特尔合作造芯消息正式官宣，可能提升产业链预期，对A股相关概念有情绪提振。",
       "category": "行业动态",
       "impact_stocks": [
+        "苹果产业链",
+        "半导体设备",
         "立讯精密",
-        "歌尔股份",
-        "中微公司",
-        "北方华创",
-        "半导体"
+        "韦尔股份"
       ],
       "signal": "neutral",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
           "name": "华尔街见闻",
@@ -44,28 +62,8 @@
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "伊拉克石油部长称产量恢复",
-      "summary": "伊拉克石油部长表示原油产量正逐步恢复至战前水平。这可能增加全球原油供给，对油价形成压力，进而利空A股石油板块。看空信号，但伊拉克增产幅度有限，影响偏小。",
-      "reason": "伊拉克作为OPEC主要产油国，产量恢复消息可能扰动油价预期。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "中国石油",
-        "中国石化",
-        "中国海油"
-      ],
-      "signal": "bearish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260619/c677583665.shtml"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
   "total_fetched": 17,
-  "generated_at": "2026-06-19T06:01:10.323674+08:00"
+  "generated_at": "2026-06-19T06:51:05.920747+08:00"
 }
