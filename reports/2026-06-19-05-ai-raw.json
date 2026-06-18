@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6956,
+    "completion_tokens": 1383,
+    "total_tokens": 8339
+  },
+  "content_length": 1989,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"英特尔重点发展先进封装\",\n      \"summary\": \"英特尔将先进封装确定为重点业务，并任命专门领导团队负责。先进封装是半导体制造关键环节，英特尔加大投入可能加速技术竞争与国产替代。A股半导体封装测试板块（如长电科技、通富微电）有望受益。信号偏多。\",\n      \"reason\": \"英特尔作为全球半导体巨头，其战略调整影响产业链，利好国内封装概念股。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体封装\", \"长电科技\", \"通富微电\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260619/c677583596.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"Meta与Crusoe签署AI算力协议\",\n      \"summary\": \"Meta与数据中心公司Crusoe签署AI算力合作协议，预计获得约1.6吉瓦算力。这表明全球AI算力需求持续扩张，利好光模块、服务器、数据中心等A股相关板块。信号偏多。\",\n      \"reason\": \"Meta的算力采购印证AI基础设施需求增长，利好A股算力产业链。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"光模块\", \"中际旭创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775055\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"美议员提议对AI公司征收股权税\",\n      \"summary\": \"美国参议员桑德斯提议对大型AI公司一次性征收50%股权税，设立主权财富基金。若实施将打压AI企业估值，短期可能引发市场对AI监管的担忧，利空A股AI概念股。信号偏空。\",\n      \"reason\": \"美国政策提案影响全球AI板块情绪，对A股AI概念股造成外部压力。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"AI概念\", \"科大讯飞\", \"海康威视\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775053\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"5月资金面偏紧降息预期减弱\",\n      \"summary\": \"财联社C50风向指数调查显示，5月资金面或小幅收敛但不收紧，物价回升削弱市场降息预期。这意味着短期货币政策宽松空间收窄，对A股流动性预期中性偏空，高估值板块承压。信号偏空。\",\n      \"reason\": \"降息预期减弱影响市场对流动性的乐观情绪，对A股整体及成长股形成压力。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"沪深300\", \"成长股\", \"创业板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"财联社\", \"url\": \"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVLVJON21sYjBWb0MtZEhlRDR1a20za0VjTDk0ZVBuUXVPUVo0RTdvX09FRHZwd1NSX3pQb1c5c2pBSjk1cTZiSA?oc=5\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
