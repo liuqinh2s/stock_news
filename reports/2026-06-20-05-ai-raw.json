@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4658,
+    "completion_tokens": 1702,
+    "total_tokens": 6360
+  },
+  "content_length": 1820,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"科技公司收购失败案例增多\",\n      \"summary\": \"近期A股科技公司收购失败案例增多，专家提醒投资者规避风险。这反映了科技行业并购整合面临阻力，可能对相关重组预期个股造成负面情绪影响，尤其涉及高估值收购的科技公司。信号偏空，需关注后续监管态度。\",\n      \"reason\": \"反映科技行业并购风险增加，影响市场对科技板块的预期，属于行业动态中的负面信号。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"科技板块\", \"重组概念\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE85MUZiZEh2ZU5PTmFnVURfMDhFQnBMYmdhTThlREVlQXItSGJyRUF5UWJQNXo5WWJxeFlIUURCVFptRnBpZFpsMFpGNjE1TU93c0hQZGlSemIteHBQMHphNGV5dGVnMlQ2eXYzN3BIU0F5RTJHVkRxbg?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"韩国半导体业员工消费旺盛\",\n      \"summary\": \"韩国半导体行业员工收入高，消费力惊人，反映全球半导体景气度持续高涨。这可能间接提振A股半导体板块情绪，尤其是与韩国半导体产业链相关的设备和材料公司。信号偏多，但需注意该消息仅为行业侧写。\",\n      \"reason\": \"半导体行业景气度信号，对A股半导体板块有情绪提振作用，属于行业动态中的利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体\", \"芯片设备\", \"材料\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://news.google.com/rss/articles/CBMiSEFVX3lxTE80YnRMNW9tSHJpNUhsWWtHSzRpMVA5Y25Mb3VRTkNxek5aQmkyMDRXd2oyM1FBUkdXQ2YxU2JOYVJaLUJoeEk1dQ?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"泽连斯基称乌俄谈判或重启\",\n      \"summary\": \"乌克兰总统泽连斯基表示，乌俄谈判可能重启，允许俄方确定具体形式。这释放了地缘政治缓和信号，有助于降低市场风险溢价，对A股整体偏正面，尤其利好风险偏好敏感板块。但谈判不确定性仍存。\",\n      \"reason\": \"地缘政治缓和信号，提振市场情绪，属于宏观经济范畴的利好。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"军工（利空）\", \"黄金（利空）\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://news.google.com/rss/articles/CBMiU0FVX3lxTE80WUNvZDlPR1RkV1J4Ni1jSF82cGZNSmk0S3FxRHplS2czZmRuNDh4ZXdDVkhBbzB4emtEODU3U0wzOHIwX3BiLXRzeUhIb0Rnc2s0?oc=5\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"当前时段高质量消息较少，仅筛选出3条对A股有一定影响的新闻，其余多为日常动态或已重复事件，未纳入。\"\n}"
+}
