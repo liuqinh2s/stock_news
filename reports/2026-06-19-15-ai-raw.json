@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7616,
+    "completion_tokens": 2800,
+    "total_tokens": 10416
+  },
+  "content_length": 2185,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"富泰和IPO过会 今年第92家\",\n      \"summary\": \"6月19日，富泰和IPO过会，保荐机构为中德证券，成为今年第92家过会企业。IPO节奏保持常态化，对次新股供给端压力变化不大，但利好券商投行收入预期。信号中性，影响有限。\",\n      \"reason\": \"IPO过会消息反映监管审批节奏，对次新股板块和券商有轻度影响。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"次新股\", \"券商\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNeXllbk5vOE5BU1BwTHN3SGJ4TGd5STk2VmdRR28tVDZRYnVlazdNaXlQNE9IREFLTnNHdS1uV1NmWjVvdVJDSG1scVB4ak1wZ0JSWUtqVkEyYTJJSmc?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"英特尔CEO谈AI芯片三大瓶颈\",\n      \"summary\": \"英特尔CEO陈立武指出电力、氦气和内存是AI芯片三大瓶颈，其中内存最为严重。该言论可能加剧市场对HBM、先进封装等细分领域的关注，间接利好A股相关概念股（如长电科技、通富微电）。信号偏多，但无实质政策催化。\",\n      \"reason\": \"全球AI芯片龙头对行业瓶颈的判断影响市场预期，利好A股半导体细分领域。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI芯片\", \"先进封装\", \"HBM概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775077\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"沃什鹰派首秀 高盛下调金价目标\",\n      \"summary\": \"新任美联储主席沃什发表鹰派言论，高盛随即下调黄金目标价至4900美元，并预测今年不会降息。若加息，金价将进一步下跌。利空A股黄金板块（如山东黄金），同时美元走强对A股整体资金面构成压力，信号偏空。\",\n      \"reason\": \"美联储政策预期转向鹰派，直接影响黄金价格和全球流动性预期，对A股黄金板块和整体市场情绪有负面冲击。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"黄金\", \"贵金属\", \"沪深300\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775075\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"日韩股市跳水 纳指期货跌1%\",\n      \"summary\": \"受美伊会谈取消及美联储鹰派预期影响，日韩股市午后跳水，纳指期货跌1%，美元指数突破101。海外风险情绪恶化可能传导至A股，短期市场承压，但影响持续性有待观察。信号短期偏空。\",\n      \"reason\": \"海外市场风险情绪骤降，通过外资流动和比价效应影响A股短期走势，尤其对沪深300和上证50构成压力。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"恒生指数\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775074\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
