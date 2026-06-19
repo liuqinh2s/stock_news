@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "hour": "23",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5559,
+    "completion_tokens": 2053,
+    "total_tokens": 7612
+  },
+  "content_length": 1942,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"石药创新递交香港IPO\",\n      \"summary\": \"石药创新(300765)向港交所递交招股书，中信证券独家保荐，计划在香港主板上市。该公司为A股上市公司石药集团旗下创新药平台，此举有助于拓宽融资渠道、提升国际知名度。可能影响医药板块，尤其是创新药、生物科技类个股。短期看多为中性，长期或增强公司基本面，但A股存摊薄预期，中性信号。\",\n      \"reason\": \"A股公司赴港上市属于公司重大事件，直接影响个股估值和资金面，符合优先级二公司重大事件标准。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"石药创新\", \"创新药\", \"生物科技\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmdMQl83RmNyZWxxYUI5SWh4OFN0d0l6LVRLZUFfdDljeDJ2WVhCWTVwTDlxOEw2ZndVVHVmUUV6WDdZOVZvSnJKOEx6OTZxQjNIcmlTUUJmYWtES3pMOUdhZnA5R0d2bGdtLVFuN0xQY1ZxWF9UY29QNmN0WHRJNTNRU1VQRlROTmhubw?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"伊朗否认IAEA核设施检查\",\n      \"summary\": \"伊朗外交部否认邀请国际原子能机构(IAEA)对其核设施进行检查，此前有报道称伊朗同意接受检查。此举加剧了美伊紧张局势，可能推动国际油价上涨，并引发避险情绪。对A股影响：油价上涨利好石油石化板块，但地缘风险利空整体市场情绪，尤其是航空、化工等成本敏感行业。短期偏空。\",\n      \"reason\": \"地缘政治风险升级影响全球风险偏好，可能传导至A股，符合优先级二海外市场联动及行业政策变动。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油石化\", \"航空\", \"化工\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260619/c677590402.shtml\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"公募加速布局韩国赛道\",\n      \"summary\": \"全球科技升温背景下，国内公募基金加速布局韩国股票市场，尤其聚焦半导体、AI等科技核心资产。韩国KOSPI指数近期表现强劲，外资持续流入。对A股影响：间接提振A股科技板块情绪，尤其与韩国产业链相关的半导体、消费电子等。另外，资金分流效应有限，整体偏多信号。\",\n      \"reason\": \"机构资金流向反映市场热点，可能带动A股科技板块跟涨，符合优先级二机构调研/资金流向及行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体\", \"消费电子\", \"AI概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260619/c677590203.shtml\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"由于近6小时历史消息中大量重复地缘政治和美联储预期内容，本轮抓取素材经去重后符合条件的消息仅3条。\"\n}"
+}
