@@ -3,9 +3,69 @@
   "hour": "03",
   "news": [
     {
-      "title": "天洋新材机构净买入1487万",
-      "summary": "天洋新材（603330）龙虎榜显示机构净买入1487.91万元，表明机构资金关注。该股属于新材料板块，机构买入通常被视作积极信号，短期有望获得资金推动。",
-      "reason": "机构集中买入属于优先级二的机构调研/评级变动，对个股有正面指引。",
+      "title": "倍轻松实控人遭重罚",
+      "summary": "倍轻松（688793）实际控制人因违规被证监会处以合计1814万元罚款，并实施5年证券市场禁入。该处罚涉及信息披露违法等行为，对倍轻松公司治理和股价造成重大利空，短期可能引发抛压，建议回避。",
+      "reason": "实控人重罚属于公司重大利空事件，直接影响投资者信心，且处罚金额较大、禁入时间长，可能对公司经营稳定性产生负面影响。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "倍轻松",
+        "健康设备",
+        "小家电"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ORmdDSlAteVB0ZXFjVG9ySThjbnNSaEEyc2NNeVhDSmQ2QzgwZjJ6MV8xc0tCeGhxblVjRF9nWkVla2hIbHpmQmdIcjFCZWJZd1FIN0F1QWY3Q0M2dkM5Tg"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "中研股份拟建万吨PEEK项目",
+      "summary": "中研股份（688716）公告拟建设万吨级PEEK（聚醚醚酮）材料项目，投资规模未披露。PEEK是高端工程塑料，广泛应用于航空航天、医疗器械、半导体等领域。该消息利好PEEK概念及新材料板块，显示公司扩张产能，长期看多。",
+      "reason": "新材料项目投产预期将强化公司行业地位，PEEK国产替代空间大，属于行业动态利好信号。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中研股份",
+        "PEEK概念",
+        "新材料"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QQ1NQQXF0RlU2cDdHSFVvQllQQXRwQzBRd0lzMGhPajBlS3BqVFF1T3hPcnJrbzJuWm5LdUNpRWVjMVdyOW9vVUxQQUhTbm8tblphLUwtRVpUN1A4M0pjZXZ5UkIzRmhfdjBF"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "振华风光核心技术员离职",
+      "summary": "振华风光（688439）公告核心技术人员夏良因个人原因离职。核心技术人员流失可能影响公司研发进度和竞争力，属于利空信号。公司主营高性能模拟芯片，该事件或对半导体板块情绪造成轻微压制。",
+      "reason": "核心技术人员离职直接削弱公司技术护城河，市场往往视其为负面信号，属于公司重大事件。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "振华风光",
+        "模拟芯片",
+        "半导体"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jMXVMNkFkS0NwVE90LVpjc01tY1ltWk1xY1NHQ0NWLVJrNUZtMXVJOW5mLVdFSXFIdFdzWHZOcmFhLUN4b21rTWZWQkJZMFBOLVNCY3owMk9oTDVxSU1VVGFVVHRUczU5a2Vv"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "天洋新材获机构净买入",
+      "summary": "天洋新材（603330）本周龙虎榜显示机构专用席位净买入1487.91万元。机构资金青睐通常表明对公司基本面或后续催化剂的认可，短期可能带动股价活跃，属于偏多信号。",
+      "reason": "机构净买入是资金流向的积极信号，尤其龙虎榜数据具有短线参考价值，符合市场情绪筛选标准。",
       "category": "资金流向",
       "impact_stocks": [
         "天洋新材",
@@ -16,32 +76,89 @@
       "sources": [
         {
           "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5scGFQbjVZLTlTeEhuY0VkWDB6OEpQdU55V0c2Qk9MV25Rcjlfc2U4VTlIWnUxR3prWTBhZ01tUWhBVWtNazBmc3hZelhSYUk5Rjk3V2xueTVUNHVfUnliSHRHNzRCOXlwYS1N?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5scGFQbjVZLTlTeEhuY0VkWDB6OEpQdU55V0c2Qk9MV25Rcjlfc2U4VTlIWnUxR3prWTBhZ01tUWhBVWtNazBmc3hZelhSYUk5Rjk3V2xueTVUNHVfUnliSHRHNzRCOXlwYS1N"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "以黎停火协议达成，布油反弹",
-      "summary": "以色列与黎巴嫩真主党同意停火，但伊朗局势仍紧张，布伦特原油价格短线下跌后反弹。停火缓解地缘风险，但伊朗问题未解，原油供应担忧仍存。对A股石油板块短期偏空，但中期仍有不确定性。",
-      "reason": "中东局势影响油价和全球市场，属于优先级二的海外市场联动，对油气板块有直接影响。",
-      "category": "宏观经济",
+      "title": "勘设股份一周两登龙虎榜",
+      "summary": "勘设股份（603458）本周两次登上龙虎榜，显示资金关注度提升，但未披露具体买卖方向。该股属于工程咨询板块，龙虎榜活跃可能意味着短线博弈加剧，方向不明，建议观望。",
+      "reason": "频繁登上龙虎榜是市场情绪信号，但缺乏明确的机构或游资方向，信息中性，仅提示波动风险。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "石油板块",
-        "中国石油",
-        "中国石化"
+        "勘设股份",
+        "工程咨询"
       ],
-      "signal": "bearish",
-      "impact_level": 3,
+      "signal": "neutral",
+      "impact_level": 1,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3775100"
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pRWs0WmZBQlE0Q2daZFBuM1NQbVItX0ljVFN4TG4teV81RnRrS0JTTFpjVGxydW1PT2Mya1VXcm95dF9XSVp0SEhEWUV1d3QtRDZ5STIxM092dFBzeHVxOHlLejd2eWx6enNB"
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "中国交建通过十五五规划",
+      "summary": "中国交建（601800）董事会审议通过公司“十五五”总体规划，明确了未来五年发展方向。作为基建央企，规划落地可能带来长期业务增长预期，对基建板块构成温和利好，但短期影响有限。",
+      "reason": "央企五年规划属于战略级事件，虽无具体数字，但提振市场对基建投资的信心，属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中国交建",
+        "基建工程",
+        "中字头"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hcXZLU0Y4MnFnWkVIaFVkdjJyWjg4bGdlMjRfcXJmUTkwcm1Ja1pKYl9sY1ZDdkJ2X2wyZTE0ZkE2bDRaNWVUWFR3bUFXQzQ0NmJTTjU0WVpDU2hRaWkwV0pQM1A0UFQtTk5R"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "远东股份获政府补助705万",
+      "summary": "远东股份（600869）公告收到政府补助705.43万元，占最近一期净利润比例较小。该补助有助于增厚公司利润，但金额有限，对股价影响轻微，属于中性偏多信号。",
+      "reason": "政府补助虽为利好，但金额不大，且属于日常经营范畴，对公司基本面改善有限，按排除项标准不属于重大事件，但可作为补充信息。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "远东股份",
+        "电缆"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Qem1PZmVJenVOUHAyVDFnZklpTTNDUTR1V0tzeFNKcDZlOUhkaGRoSmFjd0l2WldCT25QV1ZoVVdUbGxXZlRONEd3SWZrUkxYZkV5MVFOSzZVejFCV2JQVEVVdDZSSGE3d1Jv"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "中国国贸每股派息1.07元",
+      "summary": "中国国贸（600007）公告2025年度每股派发现金红利1.07元。高股息率对价值投资者具有吸引力，但无超预期信息，对股价影响中性。",
+      "reason": "分红属于常规公司公告，无交易价值突变，按排除项属于普通日常动态，但高分红可视为轻微偏多信号。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "中国国贸",
+        "商业地产"
+      ],
+      "signal": "neutral",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10THlRcUVnTk5rd3NOd1MyTmNYam9aRnlXb2JGOThTTHpQWmVxcldXbXBfT1lNQ0ZQTWZEUUxlUEtCTWNTVHBsMUZmcVBWc19NSk1xM1VGZFFvdVBXSHJjRUx1MzZNbVRLZ21J"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 22,
-  "generated_at": "2026-06-20T03:01:10.381214+08:00"
+  "total_fetched": 21,
+  "generated_at": "2026-06-20T03:25:04.418022+08:00"
 }
