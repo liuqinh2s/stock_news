@@ -3,64 +3,125 @@
   "hour": "08",
   "news": [
     {
-      "title": "霍尔木兹海峡重开提振股债，半导体指数创新高",
-      "summary": "受美伊临时协议落地、美军解除对伊海上封锁影响，霍尔木兹海峡恢复通行，油价波动后走V，美股半导体指数收创新高，美元两连涨，黄金承压。此消息缓解了地缘风险，利好全球航运和能源板块，对A股半导体板块有正面情绪传导，但美元走强可能压制新兴市场。整体偏中性，短期对A股影响有限，但半导体板块或受益。",
-      "reason": "海外市场联动，地缘风险下降和半导体创新高影响A股情绪和相应板块。",
-      "category": "宏观经济",
+      "title": "百亿A股公司被ST警示",
+      "summary": "某百亿市值A股公司被实施其他风险警示（ST），停牌一天。ST标志意味着公司存在财务或经营风险，将触发机构风控调仓及散户抛售，短期股价承压。该消息属于重大利空信号，对相关行业及垃圾股情绪有负面影响。",
+      "reason": "ST处理直接影响个股估值和流动性，属于优先级一的公司公告事件，对市场情绪有抑制作用。",
+      "category": "公司公告",
       "impact_stocks": [
-        "半导体",
-        "航运",
-        "能源"
+        "小盘股",
+        "ST板块"
       ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GV2NVek94eVhjamFJSkZuZEdhRDMyRVl0OEx6WkhZcUY4NTdTa3c1UVZmOXV4RnBRbDdGSE5HVGQxY2dXQXVLSFJIQ0hmSjN4a0Nj?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "中原策略：电子半导体领涨，A股小幅震荡",
-      "summary": "中原证券发布市场分析报告指出，电子半导体板块领涨，A股整体小幅震荡。报告可能对后续市场走势有参考价值，但无实质性政策或数据冲击。属于机构观点类消息，对板块情绪有轻微提振，但交易信号较弱。",
-      "reason": "机构策略报告反映市场热点和板块轮动信号，但影响力有限。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "电子",
-        "半导体"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
+      "signal": "bearish",
+      "impact_level": 4,
       "sources": [
         {
           "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54SGVSYU9HcmpodkpNcG51Y1hzZmplMmZNYTIwOWdFMW82cWVjdUtiNnU5TjRRaE05RDNkNlJMdWNRS0tkUnNfOVl6UkV4c3J4emZITlJjMmdLTUxQMmNHSEpDcWEtaUViMUR0NFZ0cWhCU3RwRkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jcVEtMlVZRVFtdDRfSWdUM2hkYUFGSjUwanZSZzJ6S3MxMmlTZWl6MDNfTmdIWkJ5S3hFaHFCMGFGOFJwNWRESzNWaHFDclF4ZXdBakNrUWtfcDNCNVh0YnRxTS1qR3cwNm1jYjYyXzBrRTlyeXYwTg?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "晨曦航空股东减持934万股",
-      "summary": "晨曦航空发布公告，股东减持934.38万股，可能对个股股价造成压力，同时反映股东套现意愿。该减持规模适中，对军工板块整体影响有限，但短期可能拖累该个股及板块情绪。",
-      "reason": "公司公告中的股东减持属于利空信号，影响个股及所属板块。",
-      "category": "公司公告",
+      "title": "美国对德国药品启动301调查",
+      "summary": "美国启动针对德国药品的301条款调查，可能对进口药品加征关税。此举将影响全球医药贸易，若涉及中国原料药或仿制药，可能间接波及A股医药板块，尤其是与德国有供应链合作的企业。短期内市场情绪偏空，但影响有限。",
+      "reason": "301调查是贸易摩擦手段，可能引发医药板块下跌，属于行业动态的负面信号。",
+      "category": "行业动态",
       "impact_stocks": [
-        "晨曦航空",
-        "军工"
+        "医药",
+        "CXO"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "MSN",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOHhFZlpFTFN3VDM2anU0ZHZuOWczaDU2RGhRN09fLWxkdm9WME5BZFFwdGRoMDVXOFpFRW90RGJocENkTUQ4enR2T0RJc1paX29JLW95ODB6ajRZWEtVZlJiTGk2bDFqOGY2anhxRVJoMHVxUUdjLUtYRHBXaEtKMkdrTnpGdUktN0kzc1dHajEwaDNHNmxUQUItZmgtNzlKRVQ4UTQxZmlrUm9sdHZ3cGRjWGNaZVBiUmQ1S2lpVjRRRVRLMzN2UU94enh0czZzc1V4bUg0YlpkVEp5N0IxTWJ2NV82QjMzSFZLZl95M1d5d1BkNjJISkVYUXJlWXZocnlrSFlRWlV1cXl1Uy1YQ1k4NVpDYjRpd1VFLW9zSFJoenhkN2RoRVF3UTB5S3h1aGhUNXdaQ1l1RnA1eG9VSUpuQmdHcl92UTdZbzFUeVh5VzhuY3lQSG02cw?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677586501.shtml"
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "WTI原油跌超1%",
+      "summary": "WTI原油期货价格下跌超过1%，主要受地缘政治缓和（美军解除伊朗海上封锁）影响。油价下跌降低运输和化工成本，利好航空、物流、化工下游企业，但利空石油开采板块。A股航空、化工等行业有望受益，属于短期利多信号。",
+      "reason": "油价波动直接影响多个行业盈利预期，属宏观经济及大宗商品变化，对A股有结构性影响。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "航空",
+        "化工",
+        "交通运输",
+        "石油"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677586444.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "邮政局加快快递枢纽升级",
+      "summary": "国家邮政局发文要求因地制宜加快邮政快递枢纽节点改造升级，旨在提升物流效率。该政策利好快递物流行业，尤其是龙头企业，有望加速智慧物流和基础设施建设，对相关上市公司构成正面催化。",
+      "reason": "行业政策支持，属于优先级二的行业动态，推动板块景气度，看多信号。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "快递物流",
+        "顺丰控股",
+        "圆通速递"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677586440.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "三星SK海力士股价创新高",
+      "summary": "三星电子和SK海力士股价创历史新高，反映全球存储芯片需求旺盛、AI驱动景气上行。A股存储芯片、半导体材料及设备相关个股有望受提振，如长鑫存储、兆易创新等。科技题材热情或持续，偏多信号。",
+      "reason": "海外龙头股价新高等于行业景气度确认，对A股半导体板块有极强的情绪和估值拉动作用。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "存储芯片",
+        "兆易创新"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677586427.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "广州成立AI应用赋能中心",
+      "summary": "广州市粤港澳大湾区人工智能应用赋能中心正式成立并揭牌，旨在推动AI技术与产业融合。这是地方性AI扶持政策，利好粤港澳大湾区AI企业及相关概念，短期提振市场情绪，属于温和利多。",
+      "reason": "地方产业政策催化，对AI板块构成正面刺激，属于行业动态中的看多信号。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "粤港澳大湾区",
+        "科大讯飞"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260619/c677584579.shtml"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 12,
-  "generated_at": "2026-06-19T08:01:49.257335+08:00"
+  "total_fetched": 39,
+  "generated_at": "2026-06-19T08:19:59.157235+08:00"
 }
