@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "00",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2133,
+    "completion_tokens": 2298,
+    "total_tokens": 4431
+  },
+  "content_length": 1509,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"以黎停火伊美谈判推迟\",\n      \"summary\": \"据华尔街见闻，以色列被曝与黎巴嫩真主党达成停火协议，但以军无人机仍持续空袭黎南部；同时伊朗证实推迟与美国的核谈判，未来几天讨论新计划。地缘紧张有所缓和，降低全球避险情绪。该消息对A股整体偏多（风险偏好回升），但对石油、黄金、军工板块短期偏空。关注后续停火落实及伊美谈判进展。\",\n      \"reason\": \"地缘冲突缓和信号，影响市场情绪和原油价格预期，属中等影响。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"石油板块\", \"军工板块\", \"黄金板块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775098\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"伊朗否认霍尔木兹关闭\",\n      \"summary\": \"伊朗外交部否认关闭霍尔木兹海峡，称暂免通行费但未来或加收保险费，美军称20余艘船已顺利通过。此举缓解了原油供应中断担忧，短期有利于A股风险偏好回升，但对石油、航运板块影响中性偏空。\",\n      \"reason\": \"直接缓解中东原油供应风险，影响油价预期，属轻度至中等影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油板块\", \"航运板块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775099\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"爱尔兰药械企业亮相上交会\",\n      \"summary\": \"据第一财经，三个爱尔兰生物医药初创团队在上交会展示先进药械，反映中国吸引国外药械初创企业。长期看利好国内医疗创新合作与进口替代，对医疗器械、生物医药板块构成积极信号。\",\n      \"reason\": \"产业动态显示中国医疗创新生态吸引力增强，属轻度利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"医疗器械\", \"生物医药\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103237916.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
