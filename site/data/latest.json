@@ -4,15 +4,15 @@
   "news": [
     {
       "title": "联影医疗ESG评级升至AA",
-      "summary": "MSCI将联影医疗（688271）ESG评级从上年B大幅上调至AA，位居A股同行业14家公司排名第一。评级提升反映公司在环境、社会和治理方面的改善，有助于吸引ESG投资资金，增强机构信心。对医疗设备板块有积极情绪拉动。看多信号。",
-      "reason": "公司重大利好，ESG评级大幅跃升是积极信号，影响中期投资逻辑。",
-      "category": "公司公告",
+      "summary": "联影医疗MSCI ESG评级由B升至AA，位居A股同行业14家公司排名第1，与迈瑞医疗同级。ESG评级大幅提升有助于吸引外资及ESG主题基金关注，对股价形成长期利好。医疗器械板块情绪或受提振。信号：看多。",
+      "reason": "ESG评级大幅提升为积极信号，可能吸引中长期资金流入，影响医疗器械板块。",
+      "category": "市场结构",
       "impact_stocks": [
         "联影医疗",
-        "医疗设备"
+        "医疗器械"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
           "name": "新浪财经",
@@ -22,26 +22,24 @@
       "urgency": "days"
     },
     {
-      "title": "以黎局势持续紧张",
-      "summary": "尽管传出以色列与黎真主党达成停火消息，但以军无人机仍持续空袭黎巴嫩南部，导致47人死亡。局势不确定性推高原油和黄金价格，对A股石油板块有一定提振，但整体增加市场避险情绪，利空风险偏好。对A股整体偏空，结构上利好能源板块。看空信号。",
-      "reason": "地缘政治风险，直接影响能源价格和避险情绪，属于中期影响。",
-      "category": "宏观经济",
+      "title": "张江高科MSCI ESG评级维持B",
+      "summary": "张江高科MSCI ESG评级维持B，位居A股同行业14家公司排名第8，与滨江集团等同级，低于陆家B股等。评级无变化，对股价影响中性。",
+      "reason": "ESG评级不变，无明显多空信号，但作为行业对比可参考。",
+      "category": "市场结构",
       "impact_stocks": [
-        "石油",
-        "黄金",
-        "军工"
+        "张江高科"
       ],
-      "signal": "bearish",
-      "impact_level": 3,
+      "signal": "neutral",
+      "impact_level": 1,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRTc5U3ktUzVZcW15enZ6SUlpVXl1eWJ0eGItd3J5czNZWEw3cWJUSDl0bEFJRVN3VDJnWkdZTnNhelZ6V0p2QU5UWTdQV0E5T2xRQkZDOWx1amVuTGRtLXhQNnYzZUsxcTliQXhlNm1FQ1Q0ZmxMUTVnVTNscXZtUEFoSEQ5NHVyOF9WYk5B?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
   "total_fetched": 5,
-  "generated_at": "2026-06-20T06:01:45.057973+08:00"
+  "generated_at": "2026-06-20T06:06:01.182569+08:00"
 }
