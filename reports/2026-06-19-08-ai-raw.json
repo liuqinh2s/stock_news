@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "hour": "08",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6044,
+    "completion_tokens": 2073,
+    "total_tokens": 8117
+  },
+  "content_length": 2280,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"霍尔木兹海峡重开提振股债，半导体指数创新高\",\n      \"summary\": \"受美伊临时协议落地、美军解除对伊海上封锁影响，霍尔木兹海峡恢复通行，油价波动后走V，美股半导体指数收创新高，美元两连涨，黄金承压。此消息缓解了地缘风险，利好全球航运和能源板块，对A股半导体板块有正面情绪传导，但美元走强可能压制新兴市场。整体偏中性，短期对A股影响有限，但半导体板块或受益。\",\n      \"reason\": \"海外市场联动，地缘风险下降和半导体创新高影响A股情绪和相应板块。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"半导体\", \"航运\", \"能源\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GV2NVek94eVhjamFJSkZuZEdhRDMyRVl0OEx6WkhZcUY4NTdTa3c1UVZmOXV4RnBRbDdGSE5HVGQxY2dXQXVLSFJIQ0hmSjN4a0Nj?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"中原策略：电子半导体领涨，A股小幅震荡\",\n      \"summary\": \"中原证券发布市场分析报告指出，电子半导体板块领涨，A股整体小幅震荡。报告可能对后续市场走势有参考价值，但无实质性政策或数据冲击。属于机构观点类消息，对板块情绪有轻微提振，但交易信号较弱。\",\n      \"reason\": \"机构策略报告反映市场热点和板块轮动信号，但影响力有限。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"电子\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE54SGVSYU9HcmpodkpNcG51Y1hzZmplMmZNYTIwOWdFMW82cWVjdUtiNnU5TjRRaE05RDNkNlJMdWNRS0tkUnNfOVl6UkV4c3J4emZITlJjMmdLTUxQMmNHSEpDcWEtaUViMUR0NFZ0cWhCU3RwRkE?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"晨曦航空股东减持934万股\",\n      \"summary\": \"晨曦航空发布公告，股东减持934.38万股，可能对个股股价造成压力，同时反映股东套现意愿。该减持规模适中，对军工板块整体影响有限，但短期可能拖累该个股及板块情绪。\",\n      \"reason\": \"公司公告中的股东减持属于利空信号，影响个股及所属板块。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"晨曦航空\", \"军工\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"MSN\",\n          \"url\": \"https://news.google.com/rss/articles/CBMi2wJBVV95cUxQOHhFZlpFTFN3VDM2anU0ZHZuOWczaDU2RGhRN09fLWxkdm9WME5BZFFwdGRoMDVXOFpFRW90RGJocENkTUQ4enR2T0RJc1paX29JLW95ODB6ajRZWEtVZlJiTGk2bDFqOGY2anhxRVJoMHVxUUdjLUtYRHBXaEtKMkdrTnpGdUktN0kzc1dHajEwaDNHNmxUQUItZmgtNzlKRVQ4UTQxZmlrUm9sdHZ3cGRjWGNaZVBiUmQ1S2lpVjRRRVRLMzN2UU94enh0czZzc1V4bUg0YlpkVEp5N0IxTWJ2NV82QjMzSFZLZl95M1d5d1BkNjJISkVYUXJlWXZocnlrSFlRWlV1cXl1Uy1YQ1k4NVpDYjRpd1VFLW9zSFJoenhkN2RoRVF3UTB5S3h1aGhUNXdaQ1l1RnA1eG9VSUpuQmdHcl92UTdZbzFUeVh5VzhuY3lQSG02cw?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
