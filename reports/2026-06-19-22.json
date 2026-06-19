@@ -3,14 +3,13 @@
   "hour": "22",
   "news": [
     {
-      "title": "A股公司连续5年财务造假被ST",
-      "summary": "近200亿市值A股公司因连续五年财务造假被证监会处罚，公司及高管被罚，股票被实施ST。该事件可能引发投资者对中小市值公司财务真实性的担忧，影响ST板块及同行业公司。信号明确看空。",
-      "reason": "监管处罚导致公司风险暴露，ST处理将影响流动性和估值，属于优先级一公司公告类。",
+      "title": "财务造假被ST，近200亿市值公司罚",
+      "summary": "一家近200亿市值的A股公司因连续五年财务造假被证监会处罚，公司股票被实施ST处理。涉及财务造假和监管严惩，对该公司及同类公司形成负面示范，可能引发投资者对财务风险的担忧，利空该股及相关板块（如中小盘股）。信号：看空。",
+      "reason": "重大财务造假处罚属于公司公告类别，直接影响股价和投资者信心，符合筛选标准优先级一。",
       "category": "公司公告",
       "impact_stocks": [
-        "ST板块",
-        "中小市值",
-        "该个股"
+        "该ST公司",
+        "中小盘股"
       ],
       "signal": "bearish",
       "impact_level": 3,
@@ -20,19 +19,18 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbnZXUmp2bDI2Z2ZuZzZSQ25jZkJtMXZMZ3k0UnZlamctUWVWa0hzOWZwa1hWMDBUOUEwVUk2S0xQb1JrOWYtTW4tSjJYM0g3ZlRMMzRsb0NGSzNBb3hGZVRncXNRSnF0SWZXcDF2cy1LS1pNZXA1MDJva0wzVzUxa3c0bmtBVlhtSGwxRw?oc=5"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
       "title": "石药创新递交香港IPO招股书",
-      "summary": "石药创新(300765)向港交所递交招股书，拟在香港主板上市，中信证券独家保荐。港股上市有助于拓宽融资渠道，提升国际知名度，对A股股价形成短期支撑。信号中性偏多。",
-      "reason": "公司再融资及国际布局，属于公司公告，影响个股及医药板块。",
+      "summary": "石药创新（300765）向港交所递交IPO招股书，由中信证券独家保荐。这是A股公司赴港上市的新案例，有助于拓宽融资渠道、提升国际知名度，对该公司股价形成利好，同时可能带动医药板块关注度。信号：看多。",
+      "reason": "重大公司事件，影响个股及板块情绪，符合筛选标准优先级二。",
       "category": "公司公告",
       "impact_stocks": [
         "石药创新",
-        "医药板块",
-        "港股医药"
+        "医药板块"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
@@ -40,17 +38,37 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmdMQl83RmNyZWxxYUI5SWh4OFN0d0l6LVRLZUFfdDljeDJ2WVhCWTVwTDlxOEw2ZndVVHVmUUV6WDdZOVZvSnJKOEx6OTZxQjNIcmlTUUJmYWtES3pMOUdhZnA5R0d2bGdtLVFuN0xQY1ZxWF9UY29QNmN0WHRJNTNRU1VQRlROTmhubw?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "交易员充分定价9月美联储加息",
-      "summary": "市场交易员提高对美联储加息的押注，已充分消化到9月份加息25个基点的预期。加息预期升温将推高美元、美债收益率，新兴市场资金外流压力加大，A股短期承压。信号看空。",
-      "reason": "美联储货币政策预期变化影响全球流动性，属于优先级二海外市场联动，对A股形成负面情绪传导。",
+      "title": "伊朗否认霍尔木兹海峡关闭",
+      "summary": "伊朗外交部否认霍尔木兹海峡关闭的传闻，缓解了此前市场对原油供应中断的担忧。该消息有助于稳定油价预期，对航空、航运、石油化工等板块构成短期利好，但整体影响中性偏多。信号：看多。",
+      "reason": "地缘政治关键消息，直接影响油价和全球供应链，符合筛选标准优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "石油",
+        "航运",
+        "航空"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3122130"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "交易员押注美联储9月加息25基点",
+      "summary": "交易员提高对美联储加息的押注，充分消化到9月份加息25个基点的预期。这意味着全球流动性可能进一步收紧，对A股市场形成压力，特别是对高估值成长股不利。信号：看空。",
+      "reason": "海外货币政策重要信号，直接影响全球资金流向和风险偏好，符合筛选标准优先级一。",
       "category": "货币政策",
       "impact_stocks": [
         "沪深300",
-        "上证50",
-        "外资重仓股"
+        "创业板",
+        "成长股"
       ],
       "signal": "bearish",
       "impact_level": 4,
@@ -60,19 +78,39 @@
           "url": "https://wallstreetcn.com/livenews/3122119"
         }
       ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美伊会谈生变，日韩股市巨震",
+      "summary": "美伊谈判因宗教原因推迟，日韩股市盘中出现剧烈波动。地缘政治不确定性增加，短期风险偏好下降，可能通过情绪传导影响A股，尤其是能源和避险相关板块。信号：看空。",
+      "reason": "地缘政治重大事件，引发亚太市场波动，对A股有情绪传导风险，符合筛选标准优先级二。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "石油",
+        "黄金",
+        "日韩关联股"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "澎湃新闻财经",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14c3cyRGlaUV9nTXZyS2dyODEwejktR3Y3anM4OGQ4OVVIZXI1aEdwMklseHpHWlM3eGh5dlRDRzZXdm84LWJtUWpNeDMwcUhJSnBOMnhiS0JuOFNnUS1Pbg?oc=5"
+        }
+      ],
       "urgency": "immediate"
     },
     {
-      "title": "债市与美联储预期分化",
-      "summary": "文章分析当前债市与美联储政策预期出现分化，市场似乎不再担忧通胀，可能反映经济衰退预期或流动性宽松预期。若债市信号正确，利好成长股；若错误，则风险资产承压。信号中性。",
-      "reason": "市场情绪信号，反映债券投资者对宏观的看法，影响风险偏好，属于优先级三市场情绪。",
-      "category": "市场情绪",
+      "title": "债市与美联储预期分化，通胀担忧缓解",
+      "summary": "市场分析指出，当前债市与美联储预期出现分化，通胀担忧减弱，市场情绪趋于乐观。这有助于缓解A股对通胀和加息的担忧，对成长股和利率敏感板块形成支撑。信号：看多。",
+      "reason": "影响市场预期的重要分析，结合了宏观和情绪因素，符合筛选标准优先级二。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "利率敏感板块",
         "成长股",
+        "债券",
         "科技股"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
@@ -80,9 +118,9 @@
           "url": "https://wallstreetcn.com/member/articles/3775054"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 13,
-  "generated_at": "2026-06-19T22:01:28.698149+08:00"
+  "total_fetched": 10,
+  "generated_at": "2026-06-19T22:40:52.028783+08:00"
 }
