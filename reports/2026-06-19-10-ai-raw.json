@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-19",
+  "hour": "10",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7255,
+    "completion_tokens": 3443,
+    "total_tokens": 10698
+  },
+  "content_length": 1551,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"DeepSeek融资510亿元引巨头入局\",\n      \"summary\": \"DeepSeek完成510亿元融资，腾讯、宁德时代、网易、京东等参与。这是中国AI领域最大单笔融资之一，显示产业资本对AI赛道的强烈看好。可能带动A股AI概念、大模型、算力板块情绪，短期看多AI板块。\",\n      \"reason\": \"AI行业重大融资事件，多家知名企业参与，对AI产业生态有重要影响，属于行业动态二级优先级。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"大模型\", \"算力\", \"腾讯概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775067\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"22家A股公司集中提示概念炒作风险\",\n      \"summary\": \"22家A股公司密集发布公告，回应氮化铝等热门概念业务情况，提示相关风险。此举可能抑制概念股过度炒作，对相关纯概念股构成压力，短期偏空。\",\n      \"reason\": \"监管层引导的主动风险提示，可能影响市场对概念炒作的热情，属于监管政策性质。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"氮化铝概念\", \"热门题材股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFB0MVZjNFJzMy16WXJ5Qi00TmJKZ2t5VWdTeFIwSnhVSVQ3SWVPVUtIeXkwaldzTDR6cnJrVG9UbVgwTmUyVTd2eVVCSjVtYzFEQzB2clpvUmoxcjZ2S0ZmdDcxUEFNUzVMLVNGMERMUGlOSjgxQWxpaw?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"我国最大高原山地风电项目投运\",\n      \"summary\": \"我国单机容量最大高原山地风电项目正式投运，标志着风电技术突破。利好风电设备及运营企业，但短期兑现有限。偏多。\",\n      \"reason\": \"行业技术进步和项目落地，对风电板块有正面催化，属于行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"风电\", \"新能源\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260619/c677587047.shtml\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"其他已抓取消息与历史重复或影响微弱，仅选出3条关键信息。\"\n}"
+}
