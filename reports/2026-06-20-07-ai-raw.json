@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2820,
+    "completion_tokens": 318,
+    "total_tokens": 3138
+  },
+  "content_length": 75,
+  "raw_content": "{\"news\":[],\"note\":\"当前7条素材均为ESG评级更新或海外政治/市场分析，无直接影响A股行情的重大消息，故未筛选出符合标准的新闻。\"}"
+}
