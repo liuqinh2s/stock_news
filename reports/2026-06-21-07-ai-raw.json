@@ -2,13 +2,13 @@
   "date": "2026-06-21",
   "hour": "07",
   "model": "deepseek-v4-flash",
-  "attempt": "[deepseek] 5/6 策略=完整内容 retry=1",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 3776,
-    "completion_tokens": 1729,
-    "total_tokens": 5505
+    "prompt_tokens": 1886,
+    "completion_tokens": 203,
+    "total_tokens": 2089
   },
-  "content_length": 1951,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"券商起诉银行10亿案\",\n      \"summary\": \"据新浪财经，券商起诉银行涉及10亿元官司，与科创板“光存储第一股”造假案有关。该案件可能改变A股中介机构责任认定，影响券商、银行及科创板公司估值。市场情绪短期偏空，监管风险上升。\",\n      \"reason\": \"重大诉讼案件，涉及金融机构信任，属于优先级一的影响行情消息。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"券商\", \"银行\", \"科创板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"闽东电力3.98%解禁\",\n      \"summary\": \"闽东电力（000993）3.98%限售股于6月18日上市流通，可能带来抛压。电力板块个股承压，建议短期回避。\",\n      \"reason\": \"限售股集中解禁，属于优先级一的个股利空。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"闽东电力\", \"电力板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"奥瑞金拟回购2.5亿\",\n      \"summary\": \"奥瑞金（002701）拟回购1.5亿至2.5亿元股份，用于员工持股或注销，彰显信心。利好个股及包装板块。\",\n      \"reason\": \"公司回购属于优先级二的利好信号，直接提振股价。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"奥瑞金\", \"包装印刷\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"三超新材股权转让7.65%\",\n      \"summary\": \"三超新材（300554）股东邹余耀解除质押并协议转让7.65%股份，可能引入新战投或控制权变更。利好公司治理改善预期。\",\n      \"reason\": \"大比例股权转让，属优先级一的重大事件，可能引发股价异动。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"三超新材\", \"新材料\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"道恩股份终止收购\",\n      \"summary\": \"道恩股份（002838）终止收购道恩钛业，此前市场预期重组利好落空，股价承压。利空化工及钛白粉板块。\",\n      \"reason\": \"重大资产重组终止，属于优先级一的利空事件，影响预期。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"道恩股份\", \"钛白粉\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com\"}],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+  "content_length": 76,
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"当前时段无有效A股关键消息。仅有一条新浪财经股评文章，属纯观点推荐，无实质交易价值，已排除。\"\n}"
 }
