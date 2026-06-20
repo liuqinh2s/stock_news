@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "11",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 4/6 策略=完整内容 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5037,
+    "completion_tokens": 1696,
+    "total_tokens": 6733
+  },
+  "content_length": 1957,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"创业板周涨超11% 主力加仓中际旭创\",\n      \"summary\": \"据晓数点统计，本周创业板指周涨幅超11%，表现强势。中际旭创获主力资金加仓居首，显示光模块/算力方向受资金追捧。该信号反映市场风险偏好提升，科技成长风格占优，短期看多创业板及光模块板块。\",\n      \"reason\": \"创业板大涨11%属于市场情绪极端信号，主力加仓中际旭创指示结构性机会，符合优先级三市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"创业板指\", \"中际旭创\", \"光模块\", \"算力\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE94dkp4UWJyT2Joa1FobjVCZ1JJODBrVzlSZkh0S3lZaVRiTGFwaGVLMW9LQTRIZEdPYjE5QVZ6OWVMUXI4MkFaeVhVRU1WdHhYZ1Y1Mk13WHZRSGp3Q1kwd3lxU3V3bHAwZWNKZ0EydUJBTndwV0M0cg?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"公募加速布局韩国赛道 全球科技升温\",\n      \"summary\": \"澎湃新闻称，资金狂涌全球科技，公募基金加速布局韩国市场相关赛道，如半导体、AI等。韩股年内涨幅已超200%，美股科技基金流入创新高。该趋势可能外溢至A股科技板块，尤其是半导体和AI产业链，短期看多相关板块情绪。\",\n      \"reason\": \"全球科技资金流向影响A股科技板块情绪，属于优先级二行业政策变动（全球科技升温），但主要涉及韩国市场，间接影响。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"AI概念\", \"韩国主题ETF\", \"科技股\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"澎湃新闻\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxcGw3NUZrMy1mUnA4WW52RDhldDhIdmdkaDZBcGRxRS1mVzlNTnZaLXAzSU4wczRBbmI1eE1VZmhFcFFzZG5wZ0s3dEVxSWkzVHdNTEllOHZvWnN4cGc?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"德勤预测A股上半年IPO达70只 融资近700亿\",\n      \"summary\": \"德勤预计A股2026年上半年IPO将达70只，融资近700亿元。相比去年同期，IPO节奏加快，融资规模扩大，可能对市场资金面形成压力，尤其对次新股和打新偏好板块情绪偏空。但IPO常态化亦反映市场融资功能正常。\",\n      \"reason\": \"IPO数据影响市场供需，属于优先级一监管政策（IPO加速），但此处为预测，实际影响待观察，偏空信号。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"次新股\", \"打新基金\", \"沪深300\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"36氪\", \"url\": \"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kY2pqRXhpVTB0bUZIdFFMLThoMTR3eGZweHEyajctbmYyNjNoVDNvN2ZUeF9oYVl3RTlqZlFSWWUyMi1nYXVmSlZlaDVsRGpCb0t6clRnU0s?oc=5\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮素材有效新消息较少，经去重后仅筛选出3条，其余多为重复或低价值信息。\"\n}"
+}
