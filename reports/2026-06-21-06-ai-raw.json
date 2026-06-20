@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 5/6 策略=完整内容 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 3860,
+    "completion_tokens": 3411,
+    "total_tokens": 7271
+  },
+  "content_length": 2280,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"券商告银行10亿官司\",\n      \"summary\": \"据新浪财经报道，券商与银行之间发生一起涉及10亿元的诉讼，可能对金融板块产生重大影响。该官司源于科创板‘光存储第一股’造假案，券商作为中介机构被银行追偿，若败诉可能改变A股中介责任格局。预计将对券商板块形成利空压力，对银行板块影响中性偏负面，需关注后续判决。信号看空券商板块。\",\n      \"reason\": \"涉及金额大，可能改变行业规则，属于优先级一，影响金融股走势。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"券商\", \"银行\", \"科创板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"A股市值TOP10一半科技股\",\n      \"summary\": \"新浪财经报道当前A股市值前十名中有一半为科技股，包括宁德时代、比亚迪、海康威视等，反映市场结构正从传统行业向科技领域转移。这可能意味着资金持续流入科技板块，强化科技股主线，对AI、半导体、新能源等板块形成中长期利好。信号看多科技股。\",\n      \"reason\": \"市场结构变化信号，属于优先级三，但具有中期参考价值。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"科技股\", \"宁德时代\", \"比亚迪\", \"海康威视\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"10倍存储牛股下周解禁\",\n      \"summary\": \"10倍涨幅的存储类牛股（可能指向兆易创新等）下周面临限售股解禁，人均盈利或超1900万元，解禁规模较大。这将带来显著的抛售压力，可能引发短期股价下跌，对存储芯片板块构成利空。信号看空该个股及存储板块。\",\n      \"reason\": \"限售股集中解禁属于优先级一，直接影响个股和板块。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"存储芯片\", \"兆易创新\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"奥瑞金拟回购1.5亿至2.5亿\",\n      \"summary\": \"奥瑞金发布公告，拟以自有资金回购1.5亿至2.5亿元股份，用于股权激励或注销。回购计划通常显示公司对自身价值的信心，有助于提振股价，对奥瑞金及包装行业构成利好。信号看多奥瑞金。\",\n      \"reason\": \"上市公司回购属于优先级二，直接利好个股。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"奥瑞金\", \"包装行业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"中国优质资产吸引全球投资\",\n      \"summary\": \"新浪财经发文称中国优质资产正吸引全球资金关注，可能受益于人民币汇率稳定、经济复苏预期及外资流入增加。该消息有助于提升市场情绪，但缺乏具体数据，属于信号性利好。预计对A股整体及外资重仓股形成支撑。信号看多沪深300及核心资产。\",\n      \"reason\": \"外资流入预期属于优先级二，影响市场情绪。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"贵州茅台\", \"宁德时代\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://finance.sina.com.cn/article/2026-06-21/detail-ikqqq.html\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
