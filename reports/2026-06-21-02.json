@@ -3,27 +3,28 @@
   "hour": "02",
   "news": [
     {
-      "title": "道恩股份终止收购",
-      "summary": "道恩股份公告终止收购道恩钛业，交易终止对公司战略扩张构成打击，短期利空股价。涉及化工板块，可能引发市场对并购失败公司的抛售。",
-      "reason": "终止收购属于重大公司事件，直接影响公司估值和投资者预期。",
+      "title": "道恩股份终止收购道恩钛业",
+      "summary": "道恩股份（002838）宣布终止收购道恩钛业，原因为交易条件未达成一致。此次收购终止意味着公司外延扩张受阻，可能对投资者信心造成负面影响。该事件直接影响道恩股份股价，并可能波及钛白粉行业相关标的。从交易信号看，属于利空，短期内可能引发抛压。",
+      "reason": "重大重组终止属于公司重大事件，影响股价预期，符合筛选标准中的'公司公告'类别。",
       "category": "公司公告",
       "impact_stocks": [
-        "道恩股份"
+        "道恩股份",
+        "钛白粉概念"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
+          "name": "东方财富财富号",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4ydTVzQXNicThDR1NDaDYxeDdEejJBX2N4UWthXzV2QkpyQ1JNVlNNVG92eXFQN2dWNHZHY0FsWF9nc3hyZURYTXZlTDN4NWktcUNHclJaVzNsc1dlR2VTQk5rb0kxXzVEUkZZ?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "韶能股份股东减持",
-      "summary": "韶能股份股东减持至4.40%，接近举牌线，显示大股东或机构减持意愿。利空信号，可能带动股价下行，需关注后续减持公告。",
-      "reason": "股东减持直接增加抛压，是明确的利空信号。",
+      "title": "韶能股份股东减持至4.40%",
+      "summary": "韶能股份（000601）公告显示，股东减持股份，持股比例降至4.40%。这接近5%的披露线，表明重要股东在减持，可能对股价构成压力。股东减持通常被视为看空信号，尤其当减持比例较大时。该事件直接影响韶能股份，对电力板块影响有限。",
+      "reason": "股东减持属于资金流向信号，对个股影响直接，符合筛选标准中的'公司公告'。",
       "category": "公司公告",
       "impact_stocks": [
         "韶能股份"
@@ -32,49 +33,31 @@
       "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
+          "name": "东方财富财富号",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NT01vNHpuSXppNjNGWlY5WS1WV01jZVRuYUJBTTU0d3VkWVlIYUhlS09sNzdtQnRESXpxZmdVTkpuRGF1YTVkQV8ybExiNkV1Q2FMZ2xDZUw1MGFJbEZTZ0pHUUpEYlBTelZr?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "山金国际董事长辞职",
-      "summary": "山金国际董事长刘钦及副董事长汪仁建因工作调整辞职，核心高管变动可能影响公司战略稳定性，短期利空。黄金矿业板块个股风险加大。",
-      "reason": "高管集中辞职属于重大人事变动，市场通常视为负面信号。",
+      "title": "恒邦股份免去曲胜利董事职务",
+      "summary": "恒邦股份（002237）股东大会通过免去曲胜利董事职务的议案。高管层重大变动可能影响公司治理和战略稳定性，市场可能解读为负面信号。该事件对恒邦股份股价有直接影响，但对黄金板块整体影响有限。信号可视为中性偏空。",
+      "reason": "高管变动属于公司重大事件，可能影响经营预期，符合'公司公告'筛选标准。",
       "category": "公司公告",
       "impact_stocks": [
-        "山金国际"
+        "恒邦股份"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMaWhpZmRhdlAzWDJERlZBUUpfNFFfa3B3VTU4R0RRNmlxeHNveXF4VGNtVnNJbnd5cmpnNlp0aThQLUVvSTJrcWhHd2lsMG4tYm5qUGRUYklweC1UNkhWaFhNaTFCaTk3dWhj?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "中大力德折价大宗交易",
-      "summary": "中大力德出现多笔折价大宗交易，通常伴随股东减持意图，对股价形成压力。利空信号，需警惕后续减持公告。",
-      "reason": "折价大宗交易是股东减持的常见方式，直接利空股价。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "中大力德"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yR19Od09pdWt3cm8xTHltWngyLXlWUjZZVS1qRGhUbnRqNFFidkFwdF9WMXZzOE9INURSM0pTZ0FhTnJTZ2R2c29uMXIxLXdQQkR5WUNyYnVkSGxmNzA2Q1lTVVhFZkNHRFlj?oc=5"
+          "name": "东方财富财富号",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vODc5dkVVdVFFN3djZTlPXzNqTWJBMlNXb1dTd0hlMXRIU3RsRHdPbWtPWkYxeU9nZmN6SFlURjF5eW4ta0RTbU1BWWNfRjJRejJKRk1TaEtsVFFBRmFiYkdBTnBocUFlbkJN?oc=5"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 21,
-  "generated_at": "2026-06-21T02:02:13.906734+08:00"
+  "total_fetched": 20,
+  "generated_at": "2026-06-21T02:04:45.994554+08:00"
 }
