@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6205,
+    "completion_tokens": 2326,
+    "total_tokens": 8531
+  },
+  "content_length": 1739,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"2家A股公司获机构密集调研\",\n      \"summary\": \"据新浪财经报道，近期有2家A股公司被机构频繁调研，机构投资者积极关注，可能涉及半导体、新能源等热门行业。机构密集调研通常被视为积极信号，表示公司基本面或发展前景受到认可，可能带来股价上涨动力。短期看多，但需关注具体调研结论。\",\n      \"reason\": \"机构调研是优先级二的信号，反映资金关注度提升，可能带动个股行情。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"相关个股\", \"半导体\", \"新能源\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LTk5aT3Z3eUlsYnFnNnpsZFlNUFJGeVpnblVQR2pRVDJSa3RWc0tIWEJaY3VXblo3LVVoOG9ObkVWdE1MVFB2U3I1OWlGN19zZWhRV1piZENpZDFkNk8wd0RkZDZqekRiVXpNNWVJTkhCbTJnVmN6dQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"全球股市集中度创新高\",\n      \"summary\": \"华尔街见闻报道，当前全球股市集中度达到历史最高水平，少数龙头公司占据大部分市值。这一趋势可能延续至A股，资金将进一步向大市值蓝筹集中，中小盘股面临流动性压力。短期看空中小盘，但利好沪深300成分股。\",\n      \"reason\": \"市场结构变化影响资金偏好，属于优先级三的市场情绪信号，对A股风格有指引作用。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"沪深300\", \"中小盘股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/charts/41959272\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"上交所完善期权组合策略\",\n      \"summary\": \"上交所拟推出股票期权组合策略业务单边平仓功能，提升交易效率和风险管理能力。此举有助于吸引更多机构参与期权市场，增加券商佣金收入，并提升市场定价效率。对券商板块构成利好，A股整体中性偏多。\",\n      \"reason\": \"属于监管政策优化，提升市场功能，对券商和衍生品市场有直接推动作用。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"券商\", \"上证50\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/livenews/3122224\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中，有9条与历史消息重复或为占位符，经去重后仅剩3条有效新消息。\"\n}"
+}
