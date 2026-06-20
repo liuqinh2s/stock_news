@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2050,
+    "completion_tokens": 1081,
+    "total_tokens": 3131
+  },
+  "content_length": 1408,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"科技股占据A股半壁江山\",\n      \"summary\": \"据新浪财经报道，A股市值排名前十的公司中有五家是科技股，显示科技板块在市场中主导地位进一步增强。这可能吸引资金继续向科技股倾斜，对半导体、AI、新能源等科技细分领域形成支撑。但该消息属于市场结构的客观描述，缺乏即时政策驱动，短期信号中性偏多。影响板块：科技股、沪深300。\",\n      \"reason\": \"反映市场风格切换，科技股占比提升，有中长期参考价值。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"科技股\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE44RzViRWdRM0Q4MTE5RkI2MGh5dWl1UFZRaTdBcWZWdkdHTnFvNC15QjM1Y01RV0ZtVDNkT0p1QVM3VGhnQjNJSkJQYzQ3YVY5cTVjd3NBa0p0SGtaSGR5WFY4LTl6TVNuRzloZXlfRUVSdkMtVmc?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"券商起诉银行10亿 科创板造假案发酵\",\n      \"summary\": \"券商将银行告上法庭，涉及10亿元诉讼，同时科创板“光存储第一股”造假案被曝光，可能引发监管对科创板中介机构的严查。该事件对银行、券商板块情绪构成短期利空，尤其对涉事券商及科创板整体估值形成压力。投资者需警惕科创板个股的信用风险，以及相关金融股的诉讼冲击。\",\n      \"reason\": \"涉及重大诉讼及造假案件，可能改变市场对科创板及金融机构的预期，属高影响事件。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"券商\", \"银行\", \"科创板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE1uTXdUV2ZYdHpEbms3c3c3emZDUE0ySE9pMXh6b1lOQV90aVZPREFmamFKcEdJRkNOUS13MlJEekFFSlB5OGFYVVZpN25TZVZacFVZUk9UT2gwLU0tOHlOLU9yN2wtZ3NHZGpxVDNaUlRjZl8tUWc?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
