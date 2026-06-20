@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "16",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5674,
+    "completion_tokens": 2383,
+    "total_tokens": 8057
+  },
+  "content_length": 2418,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"科创新政：AI六小虎或加速回A\",\n      \"summary\": \"据机构热议，近期科创新政或呈现“一放一严”特征：一方面可能加速AI‘六小虎’等科技企业上市回流，利好科创板及科技板块；另一方面对题材炒作监管将全面收紧，抑制投机。该政策若落地，将提升A股科技股质量，但短期或对炒小炒差风格形成压制。看多科创板、AI、半导体龙头。\",\n      \"reason\": \"直接影响A股科技板块的监管政策动向，优先级一，涉及IPO加速与题材炒作管控，对市场结构影响显著。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"科创板\", \"AI概念\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE5RYUxiSldXMmxlVmhLUnd6bHdsQXZ4X0xhZ0FUbHR6MGZoTXZLNkpWTkhfUDhEMHlwZzc0N2loTXFiVkx0Mm5EX0Z1RDN1T2EwSTZLeTB1RDIzSFRueXo5UzFUSXc0U0xiZ19UWGFNQXFRd0s2bGRGeQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"L4强制加激光雷达？小鹏回应\",\n      \"summary\": \"针对市场传闻L4级自动驾驶可能强制加装激光雷达，小鹏汽车正式做出回应。该传闻若属实，将显著提升激光雷达装车率，利好激光雷达产业链（如禾赛科技、速腾聚创等），同时可能增加自动驾驶成本。小鹏回应或削弱市场预期，但需关注后续政策动态。整体短期影响有限，关注技术路线变化。\",\n      \"reason\": \"涉及行业动态（自动驾驶政策传闻），可能影响智能驾驶及激光雷达板块，属于中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"激光雷达\", \"自动驾驶\", \"小鹏汽车\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260620/c677592368.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"AI存储瓶颈加剧宏观通胀\",\n      \"summary\": \"华尔街见闻报道称，AI最紧瓶颈已从算力转向存储，存储成本上升的影响已扩展至宏观经济，加剧整体通胀压力。这意味着存储芯片（尤其是HBM、NAND）供需持续紧张，利好存储芯片厂商（如三星、SK海力士，A股相关如兆易创新、北京君正）。但通胀上行可能强化全球紧缩预期，对股市整体偏空。板块多空交织，存储子行业看多。\",\n      \"reason\": \"直接关联AI产业链核心环节，影响宏观预期和行业景气度，优先级二。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"存储芯片\", \"AI硬件\", \"兆易创新\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775113\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"全球股市集中度历史新高\",\n      \"summary\": \"数据显示全球股市集中度从未如此之高，少数巨头（如美股科技七姐妹）占据极大权重。这可能导致A股科技股受外资情绪波动影响加大，同时也暗示市场脆弱性增加。对A股而言，若美股回调可能通过ETF互联互通传导，短期需警惕科技板块回调风险。整体偏空信号。\",\n      \"reason\": \"反映市场结构极端化，属于市场情绪和资金流向的前瞻信号，优先级三。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"科技龙头\", \"创业板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/charts/41959272\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"受限于抓取素材数量及去重规则，仅筛选出4条符合标准的高价值消息。\"\n}"
+}
