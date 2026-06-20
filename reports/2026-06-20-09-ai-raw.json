@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "09",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5664,
+    "completion_tokens": 3171,
+    "total_tokens": 8835
+  },
+  "content_length": 2296,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"盛吉盛半导体孵化中心落地无锡\",\n      \"summary\": \"盛吉盛先进半导体产品孵化与制造中心项目落地江苏无锡，旨在打造半导体设备及材料孵化与制造基地。该消息利好半导体设备、材料国产化板块，如中微公司、北方华创等。政策支持信号明确，看多半导体板块。\",\n      \"reason\": \"直接利好半导体产业链，属于行业动态，具备中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体设备\", \"半导体材料\", \"中微公司\", \"北方华创\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677591173.shtml\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"八部门发文提升都市圈通勤效率\",\n      \"summary\": \"交通运输部等八部门印发《都市圈城际通勤效率提升工程实施方案（2026~2030）》，力争三年内主要都市圈内具备1小时通勤条件人口的覆盖率达到73%。政策利好轨道交通、城际铁路、基建板块，如中国中车、中国交建等。属于基建投资加码信号，看多相关板块。\",\n      \"reason\": \"直接政策利好基建和轨道交通行业，中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"轨道交通\", \"基建\", \"中国中车\", \"中国交建\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677591053.shtml\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"美元指数小幅下跌\",\n      \"summary\": \"6月19日美元指数小幅下跌，人民币汇率压力有所缓解。通常美元走弱利好新兴市场资金流入，对A股形成支撑。但跌幅较小，影响有限。偏中性信号。\",\n      \"reason\": \"汇率变化影响外资流向，属于宏观经济因素。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"人民币升值受益股\", \"航空\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677590831.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美股科技股再创新高\",\n      \"summary\": \"美股科技板块延续牛市，纳斯达克指数创新高。海外科技股走强可能提振A股科技板块情绪，特别是半导体、AI、新能源等板块。但需注意美联储加息预期背景。看多A股科技板块短期情绪。\",\n      \"reason\": \"海外市场联动，情绪传导，影响A股科技股。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"AI概念\", \"纳斯达克关联股\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677590806.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"垣信实现存量手机直连卫星通话\",\n      \"summary\": \"上海垣信卫星科技有限公司完成首例无需改造的存量商用手机直连卫星通话测试，标志着卫星通信商用化迈出重要一步。利好卫星互联网、通信设备板块，如中国卫星、华为等。属于技术突破，看多卫星通信概念。\",\n      \"reason\": \"行业技术进步，利好卫星互联网板块，中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"卫星互联网\", \"通信设备\", \"中国卫星\", \"华为概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677590803.shtml\"}],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
