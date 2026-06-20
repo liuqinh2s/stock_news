@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6004,
+    "completion_tokens": 3342,
+    "total_tokens": 9346
+  },
+  "content_length": 1974,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"ST美晨子公司撤诉获还款\",\n      \"summary\": \"ST美晨（300237）公告，子公司涉及诉讼已撤诉，并获对方还款承诺。这将减轻公司法律风险，改善现金流，对ST板块构成短期利好。但ST公司基本面较弱，需谨慎。\",\n      \"reason\": \"子公司诉讼撤诉并获还款，属于公司重大事件中的利好信号，但影响范围限于个股，级别较低。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"ST美晨\", \"ST板块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTE8yYTVTV0RkRW9tcWFKWkhYdWFqdlVWeU9DY3h5MjBwT2lsUWdIdzZyOGphTDRUTVIxa25JMWVWdU01S01iMGt3THY0YU9haUJvVEhyVkMyMGhaYV9Qa1psSXFEQVhZSkE4QzVJ?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"ST围海董事长辞职\",\n      \"summary\": \"ST围海（002586）董事长辞职，公司提名新董事。高管变动增加经营不确定性，对ST板块构成利空。ST公司治理风险上升，可能引发股价波动。\",\n      \"reason\": \"董事长辞职属于公司重大事件中的高管变动，通常被市场解读为负面信号，影响个股及ST板块情绪。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"ST围海\", \"ST板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTE5BTjBqdXVIaklIbDJ4V1JocFFOTkpXYjAweXhya0lyRFF4WnZwemw5QlQ4Q0I5TElUZmNyNnZkNEZfaUpEU19QcmZVcGtJSS00WFlDQVdVZk90YlNNUDkxb2w3Ri0xdklVSlUw?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"川网传媒增收不增利\",\n      \"summary\": \"川网传媒（300987）2025年报显示增收不增利，盈利能力下滑。该消息对文化传媒板块构成利空，反映行业竞争加剧或成本上升，投资者需警惕业绩风险。\",\n      \"reason\": \"增收不增利是典型的业绩利空信号，属于公司重大事件中的业绩预亏类，影响板块情绪。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"川网传媒\", \"文化传媒\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTFBJc294YVhGY3hnc2NtWUlMSXRocUhnOTBRUFQ2bW1obE93bGpFNTIzWmVrWEZPNlZ1R1pxQk5TR1N3WHZ1U243U0pBSmtNX0lOaGV6QlhuYXYzUzFsRGNudC0tREtDcHRWTXdF?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮抓取的15条新闻多为重复或低影响公司日常动态，仅有上述3条具备一定交易参考价值，但均属轻度影响，投资者需结合大盘整体情况决策。\"\n}"
+}
