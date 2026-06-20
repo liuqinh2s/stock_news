@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "12",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5574,
+    "completion_tokens": 3389,
+    "total_tokens": 8963
+  },
+  "content_length": 1420,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"澳大利亚现高致病性禽流感\",\n      \"summary\": \"澳大利亚大陆首次检出高致病性H5型禽流感病毒，可能引发市场对禽类产品需求下降的担忧，同时利好禽流感疫苗和检测概念股。对A股养殖板块（如益生股份、民和股份）偏空，动物疫苗板块（中牧股份、生物股份）或受益。整体影响有限，信号中性。\",\n      \"reason\": \"国际疫情消息，可能短期影响养殖和疫苗板块情绪。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"养殖板块\", \"动物疫苗\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677591961.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"外资行看多中国资产\",\n      \"summary\": \"多家外资行发表观点，看好中国资产，认为创新生态聚引力增强。这可能提振A股市场信心，吸引外资流入。对沪深300、创业板等核心指数构成利好，尤其科技和消费板块。信号偏多。\",\n      \"reason\": \"外资行集体看多反映国际资本对中国市场的积极态度，可能推动增量资金入场。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"创业板指\", \"消费\", \"科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677591848.shtml\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"金饰价格年内大跌\",\n      \"summary\": \"金饰克价年内大跌近450元，反映黄金现货需求疲软或国际金价走弱。高盛此前已下调金价预期，该消息进一步强化看空趋势。对A股黄金板块（如山东黄金、中金黄金）构成利空，短期股价承压。\",\n      \"reason\": \"金饰价格下跌是金价走弱的直接体现，利空黄金股。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"黄金板块\", \"山东黄金\", \"中金黄金\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260620/c677591679.shtml\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中符合筛选标准的新消息较少，仅选出三条。\"\n}"
+}
