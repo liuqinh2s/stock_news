@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "21",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 4/6 策略=完整内容 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6286,
+    "completion_tokens": 1959,
+    "total_tokens": 8245
+  },
+  "content_length": 2425,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"富时中国A50指数迭代\",\n      \"summary\": \"富时中国A50指数进行迭代调整，反映A股核心资产价值变迁。预计将纳入更多新经济成分，剔除传统行业。可能引导跟踪基金调仓，利好被纳入的新经济龙头股。信号偏多，对沪深300及核心资产有积极影响。\",\n      \"reason\": \"指数成分调整直接影响被动资金配置，属于市场结构变化，需关注调仓方向。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"沪深300\", \"贵州茅台\", \"宁德时代\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1RMkJRdjBMaWhISk5jNDhWMnRvMzBKREZ2QVlPVk1ROHBpNzhDLWRROFlRaV9wdlduME1iYUY5cV9jRXBQZFAwWG16dElldXFYdWZzUkF2TVlKMGF0TGZLbmRwT0xzSlpwa3RlcWM2Ml9hMmVtVVMtYg?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"伊朗拟对霍尔木兹海峡船只收费\",\n      \"summary\": \"伊朗波斯湾海峡管理局要求所有船只持有其批准的保险才能通过霍尔木兹海峡，后续可能收费。这加剧了中东地缘风险，可能推高国际油价，对A股石油板块形成利好，但增加全球航运成本和不确定性，对航运股偏空。整体市场情绪可能受避险影响。\",\n      \"reason\": \"霍尔木兹海峡是石油咽喉，地缘事件直接冲击能源供应预期，影响油运和石化板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"中国石油\", \"中国石化\", \"中远海控\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260620/c677593367.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"对澳进口牛肉加征55%关税\",\n      \"summary\": \"6月20日起对澳大利亚进口牛肉加征55%关税，供应商已提价，但零售端暂未明显波动。关税将提高进口牛肉成本，利好国内养殖企业，特别是猪肉和牛肉替代概念。但可能引发贸易摩擦升级，需关注后续反制。短期看多养殖板块。\",\n      \"reason\": \"贸易政策变动直接影响相关行业供需格局，国内肉类企业受益于进口替代。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"牧原股份\", \"新希望\", \"大北农\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103238121.html\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"某A股公司11年未聘财务总监\",\n      \"summary\": \"一家A股上市公司连续11年未聘任财务总监，暴露出公司治理严重缺陷，可能面临监管风险和市场质疑。该消息对该公司股价构成利空，但仅为个案，对市场整体影响微弱。投资者应回避此类治理混乱的个股。\",\n      \"reason\": \"财务总监长期缺失是重大公司治理瑕疵，直接影响投资者信心和合规风险。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"该上市公司\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE16WEIxbnpueDFUeEFZZnM3YzBrX043dmZ2eDVWMHZiYmY2UzM3QmFOQUp4ZFp2NHNyNFA1YjNEdlBtVHdSNEljTE1ZYWxTYUhObkpEeENGbWpuMTgtaVZpWWdsQUotUGkwVjZFOXpjQ0xrVVNuNWc?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"筛选出4条具有交易价值的新消息。其他素材或为重复、或与A股关联度低，故未选入。\"\n}"
+}
