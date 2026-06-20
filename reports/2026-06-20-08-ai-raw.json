@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "08",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4459,
+    "completion_tokens": 1503,
+    "total_tokens": 5962
+  },
+  "content_length": 1546,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"特朗普紧盯AI威胁\",\n      \"summary\": \"特朗普政府视Anthropic为国家安全威胁，并称必要时干预AI领域。此举可能加剧全球AI监管不确定性，对A股AI概念股（如科大讯飞、寒武纪）形成情绪压制。但国内AI产业政策独立，实际影响有限，偏空信号。\",\n      \"reason\": \"涉及美国AI监管升级，可能影响A股AI板块情绪，属行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"科大讯飞\", \"寒武纪\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775104\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"高盛警示美股CTA下行风险\",\n      \"summary\": \"高盛报告指出美股地缘动能停滞，CTA面临不对称下行风险，可能导致美股回调。美股若下跌将通过情绪和资金渠道传导至A股，短期利空A股大盘尤其是上证50和沪深300。\",\n      \"reason\": \"高盛权威观点，美股风险可能引发全球避险，影响A股情绪，属宏观经济联动。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775101\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美联储声明最短，加息预期存疑\",\n      \"summary\": \"美联储发布19年来最短声明，市场解读为鸽派信号，但标题暗示牛市可能止步于加息。实际美联储未明确加息，但市场对紧缩担忧升温，可能短期压制A股成长股估值，尤其是高估值科技板块。\",\n      \"reason\": \"美联储政策动向直接影响全球资金流向，对A股流动性预期有影响，属货币政策。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"创业板\", \"科技股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"澎湃新闻\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yZzNuU1lyR2R3ZVROdGp6WU9zVFotaXUzZzZsb1lLTlZaTlhZbmczM1JJUDdDU3Z2aVZ5dEFBbkNlN1RLR0ZXaThrWW9HdzJvbkwzYnJud25UM3dnbWc?oc=5\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本次筛选有效消息较少，仅3条具有交易价值。其余素材如英国内斗、早餐FM等或与A股无关，或缺乏实质信息。\"\n}"
+}
