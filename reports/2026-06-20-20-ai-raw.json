@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5357,
+    "completion_tokens": 2306,
+    "total_tokens": 7663
+  },
+  "content_length": 2191,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"富时中国A50指数迭代\",\n      \"summary\": \"富时罗素宣布对富时中国A50指数进行季度调整，涉及成分股变更，此次迭代旨在更好反映A股核心资产价值变迁。调整后，新纳入的股票将获得跟踪指数的被动资金流入，而被剔除的股票则面临抛压。该指数是海外资金配置A股的重要参考，此次调整对金融、消费等核心板块的权重股影响较大。整体看，指数迭代优化了成分结构，属于中性偏多的信号，有利于提升指数代表性和吸引外资。\",\n      \"reason\": \"富时中国A50指数调整直接影响跟踪该指数的被动资金流向，对成分股有明确买卖压力，属于市场结构类重要事件。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"沪深300\", \"贵州茅台\", \"招商银行\", \"宁德时代\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1RMkJRdjBMaWhISk5jNDhWMnRvMzBKREZ2QVlPVk1ROHBpNzhDLWRROFlRaV9wdlduME1iYUY5cV9jRXBQZFAwWG16dElldXFYdWZzUkF2TVlKMGF0TGZLbmRwT0xzSlpwa3RlcWM2Ml9hMmVtVVMtYg?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"ETF市场集中度提升\",\n      \"summary\": \"近期ETF市场呈现两大趋势：一是资金向头部宽基ETF集中，如沪深300ETF、中证500ETF规模持续膨胀；二是行业主题ETF分化加剧，新能源、AI等热门赛道ETF获得大额申购，而传统行业ETF遭赎回。这种分化导致ETF市场‘路越走越窄’，部分小型ETF面临流动性危机。对投资者而言，需警惕单一ETF的过度拥挤和潜在赎回压力，同时关注ETF资金流向对对应板块的短期影响。\",\n      \"reason\": \"ETF资金流向反映市场情绪和板块偏好，集中度变化可能引发板块轮动或流动性风险。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"中证500\", \"新能源ETF\", \"AI ETF\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMihwFBVV95cUxOTTh6cEh0UkFRek5rMjZjejJiQVBBY1FLZDZOOGVmSnpjM04zZFh1Z2p4aXo4bGZZZVIxNExKQkR6RE93VTBVckx1dHBUTS1zbTd4RlgxM01VcE9IbFhoSHFoc0NjWkdPUGtMWGdMemt2T3pUei1mUXlXT2Q0N1RSdEFzekY5SEU?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"端午档票房突破3亿元\",\n      \"summary\": \"据猫眼专业版数据，截至6月20日18时，2026年端午档电影总票房（含预售）突破3亿元，观影人次约750万。档期内多部国产片表现亮眼，提振影视行业信心。但相较于往年纪录，该数据并不算突出，且票房对影视公司业绩影响有限。短期或对影视板块形成情绪提振，但持续性存疑。\",\n      \"reason\": \"票房数据直接反映消费复苏情况，对影视板块股票有短期催化作用，但影响级别较低。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"影视板块\", \"万达电影\", \"光线传媒\", \"中国电影\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260620/c677593129.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮素材中多数为重复历史消息或无关内容，仅筛选出3条有一定价值的新闻。\"\n}"
+}
