@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2629,
+    "completion_tokens": 168,
+    "total_tokens": 2797
+  },
+  "content_length": 72,
+  "raw_content": "{\"news\": [], \"note\": \"本轮素材均为个股日常经营动态（股东户数变动、电话变更、诉讼进展等），无重大影响，未达到筛选标准。\"}"
+}
