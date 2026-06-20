@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-20",
+  "hour": "22",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 3415,
+    "completion_tokens": 1111,
+    "total_tokens": 4526
+  },
+  "content_length": 1369,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"伊朗关闭霍尔木兹海峡\",\n      \"summary\": \"伊朗军方宣布关闭霍尔木兹海峡，全球约30%石油运输需经过该海峡。此事件将导致国际油价短期暴涨，直接利好A股石油板块（如中国石油、中国石化）及能源相关个股，同时利空航空（燃油成本上升）、航运及部分化工行业。地缘风险升温可能引发避险情绪，对大盘产生短期压力，但石油板块有望走强。信号：石油板块看多，整体市场中性偏空。\",\n      \"reason\": \"霍尔木兹海峡是全球原油运输咽喉，关闭将引发能源价格剧烈波动，对A股石油、航空、航运等板块产生直接且重大的影响，符合优先级二行业政策变动及海外市场联动。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油板块\", \"中国石油\", \"中国石化\", \"航空板块\", \"航运板块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/livenews/3122261\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"上交所暂不实施期权组合策略\",\n      \"summary\": \"上交所表示暂不实施股票期权组合策略业务中的单边平仓功能。该功能原拟降低交易成本，但暂缓实施可能出于风险控制考虑。对市场整体影响有限，短期期权市场交易规则维持现状，对券商板块和期权交易者影响较小。属于中性消息，不改变市场趋势。\",\n      \"reason\": \"属于证监会/交易所监管政策调整，但力度较小，对行情直接影响有限，符合优先级一中的交易所公告，但影响程度低。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"券商板块\", \"上证50\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMibEFVX3lxTE1TVUtGdU1LU1pZcGNsMnJZbzZlS0gzN3ZsX1lqNGFaNll1TzlRN2FDQTJhLVZJOTI4ZjQyYmctU2dlaDI2c0JTS2lWV3psMHBlYTl6RG9hcXZYRTc2X291Yzc0U1ZyRHBJVTByVw?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"仅筛选出2条有效消息，其余素材为研报、热帖或科普内容，不符合筛选标准。\"\n}"
+}
