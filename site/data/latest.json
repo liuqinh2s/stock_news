@@ -3,64 +3,46 @@
   "hour": "18",
   "news": [
     {
-      "title": "特朗普不再威胁Anthropic",
-      "summary": "特朗普公开表示不再将AI公司Anthropic视为国家安全威胁，缓和了市场对AI监管收紧的担忧。此举可能提振全球AI风险偏好，A股AI概念股（如科大讯飞、寒武纪、海光信息）或受情绪带动。属于中性偏利好信号。",
-      "reason": "影响AI板块情绪，历史未出现，符合行业动态筛选标准。",
-      "category": "行业动态",
+      "title": "慈星股份内幕交易被实锤",
+      "summary": "财联社追踪一年后，慈星股份内幕交易质疑获监管实锤。该公司及相关责任人可能面临处罚，短期对股价构成利空。该消息可能引发市场对中小市值股票合规风险的担忧，但影响范围有限，属于个股利空，对板块情绪略有压制。",
+      "reason": "内幕交易实锤属于公司公告类重大利空，直接影响该股及市场信心，但属于个股事件，影响范围较小。",
+      "category": "公司公告",
       "impact_stocks": [
-        "AI概念",
-        "科大讯飞",
-        "寒武纪"
+        "慈星股份",
+        "中小盘股"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260620/c677592629.shtml"
+          "name": "搜狐",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUZQTEFTdW92SnNBY2RudE5pLVY1UG9LSnVIYUxBR0NMNFZMUGxKR1pLZTF1eVkyVDlqNzN1c1NoTWlrZkphSmlYN04zRFo4YkRwZnZ1UzJmVG1wejRIaTFuLUJOLXVTZVJRUi1OalNFTmQta3hqbXYzWmk5SXNwUEU5ZG9lbDZI?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "司美格鲁肽专利保护延长",
-      "summary": "司美格鲁肽的专利保护期将持续至2027年4月，原研药企诺和诺德独占市场的时间超预期。对A股相关仿制药和原料药企业构成利空，但利好创新药产业链的估值逻辑。整体影响有限，属于个股及细分领域中性偏空。",
-      "reason": "医药行业重要专利事件，历史未出现，符合行业动态标准。",
+      "title": "AI Agent重塑云基础设施",
+      "summary": "Nebius Inflection 2026峰会讨论AI Agent时代云基础设施变革，提出Agent Runtime概念，预示AI云基础设施将从模型托管转向智能体运行期。该趋势利好国内AI云服务商及算力基础设施企业，如阿里云、华为云产业链相关公司，以及数据中心、服务器厂商。属于AI行业长期利好，但短期影响有限。",
+      "reason": "AI基础设施架构变革是行业重要动态，影响AI产业长期发展方向，对相关板块有潜在正面影响。",
       "category": "行业动态",
       "impact_stocks": [
-        "医药",
-        "诺泰生物",
-        "翰宇药业"
+        "AI概念",
+        "云基础设施",
+        "算力",
+        "数据中心"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260620/c677592636.shtml"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775114"
         }
       ],
       "urgency": "days"
-    },
-    {
-      "title": "慈星股份内幕交易被实锤",
-      "summary": "财联社跟踪一年发现慈星股份内幕交易行为，并获监管实锤。该公司及责任人合计被罚2475万元，利空个股。短期可能引发股价下跌，并警示市场对中小市值公司的监管风险。",
-      "reason": "个股重大负面公告，历史未出现，符合公司公告标准。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "慈星股份"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "财联社",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWUZQTEFTdW92SnNBY2RudE5pLVY1UG9LSnVIYUxBR0NMNFZMUGxKR1pLZTF1eVkyVDlqNzN1c1NoTWlrZkphSmlYN04zRFo4YkRwZnZ1UzJmVG1wejRIaTFuLUJOLXVTZVJRUi1OalNFTmQta3hqbXYzWmk5SXNwUEU5ZG9lbDZI?oc=5"
-        }
-      ],
-      "urgency": "immediate"
     }
   ],
-  "total_fetched": 21,
-  "generated_at": "2026-06-20T18:01:15.268665+08:00"
+  "total_fetched": 13,
+  "generated_at": "2026-06-20T18:25:59.026052+08:00"
 }
