@@ -3,61 +3,79 @@
   "hour": "10",
   "news": [
     {
-      "title": "外资机构密集调研A股",
-      "summary": "近期外资机构频繁调研A股上市公司，重点关注人工智能、新能源、半导体等科技赛道。新浪财经报道显示，多家外资机构开始密集调研，表明对中国优质资产的兴趣提升。外资调研增加通常预示着后续买入，可能带动北向资金流入，对相关板块构成利好。属于中期看多信号。",
-      "reason": "外资机构调研增加通常预示着后续资金流入，属于中期资金流向信号。",
+      "title": "下周近550亿元解禁来袭",
+      "summary": "据新浪财经报道，下周A股市场将迎来总解禁市值达549.08亿元，多只科技牛股（如10倍存储牛股）面临限售股解禁。解禁规模较大，可能带来抛压，尤其是近期涨幅较大的科技股。这是明显的看空信号，短期需回避相关个股。",
+      "reason": "大规模限售股解禁属于优先级一，直接增加市场抛压。",
       "category": "资金流向",
       "impact_stocks": [
-        "沪深300",
-        "外资重仓股",
-        "人工智能",
-        "新能源",
-        "半导体"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xdnRSd2NkMUJpb0QxQ0JCaFM4T1FadnhUamdKbW9RamdERGt2YkVPX3FHVlpMZlM5UjdydXUtRE4xZU8xRTV3aG40NW9jNVR5SjJJSm9tR0hWUGxDeDNFbV9taUJYd1ZPQmJndUNpVTVpUjNqZEJDdA?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "下周549亿解禁来袭",
-      "summary": "下周A股市场将迎来549.08亿元限售股解禁，多只科技牛股涉及其中。大规模解禁可能带来减持压力，对相关个股及科技板块构成抛压信号。投资者需警惕解禁后的大股东减持行为，短期偏空。属于优先级一的利空信号。",
-      "reason": "限售股大规模解禁属于优先级一的利空信号，直接影响市场供给。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "半导体",
-        "人工智能",
         "科技股",
-        "解禁个股"
+        "存储芯片",
+        "创业板"
       ],
       "signal": "bearish",
       "impact_level": 4,
       "sources": [
         {
           "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmYk9fSzFWaWo2X0pJX0lGTXBqQ2N4X2x6c2ZJNThnenYxTHB1UEF4d3Z3VVNDZ1Bfc2xzMmJZMHBEVHBBWWdtZTNLVlNmSUY0WURKay0xOTUzejg5NEhsNEo5dk15bndEQWhCMlFfTVBWWkxDQWh0Tg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmYk9fSzFWaWo2X0pJX0lGTXBqQ2N4X2x6c2ZJNThnenYxTHB1UEF4d3Z3VVNDZ1Bfc2xzMmJZMHBEVHBBWWdtZTNLVlNmSUY0WURKay0xOTUzejg5NEhsNEo5dk15bndEQWhCMlFfTVBWWkxDQWh0Tg"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "野村警告预防性加息风险",
-      "summary": "野村证券报告指出，美国新任财长沃什的首秀可能成为转折点，警惕预防性加息演变为实质性紧缩。市场担忧美联储加速收紧，对全球风险资产构成压力，A股短期可能受情绪传导影响，外资流出风险增大。该消息偏空。",
-      "reason": "美联储政策预期变化通过海外市场联动影响A股，属于中期影响。",
+      "title": "外资机构频繁调研A股",
+      "summary": "新浪财经报道，近期外资机构密集调研A股市场，重点关注新能源、人工智能、消费等赛道。外资调研通常为后续投资布局铺垫，叠加中国优质资产吸引力提升，可能带来增量资金。看多信号，利好外资重仓板块。",
+      "reason": "外资动向是优先级二，机构调研预示潜在买入。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "新能源",
+        "AI概念",
+        "消费"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xdnRSd2NkMUJpb0QxQ0JCaFM4T1FadnhUamdKbW9RamdERGt2YkVPX3FHVlpMZlM5UjdydXUtRE4xZU8xRTV3aG40NW9jNVR5SjJJSm9tR0hWUGxDeDNFbV9taUJYd1ZPQmJndUNpVTVpUjNqZEJDdA"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "下周重磅日程：美通胀数据公布",
+      "summary": "华尔街见闻称，下周将公布“美联储最爱通胀指标”PCE数据，同时英伟达股东大会、OpenAI或发新模型、美光财报密集来袭。PCE若超预期可能强化加息预期，反之则利好风险资产；科技巨头动态将影响AI产业链。整体中性偏空，需警惕数据扰动。",
+      "reason": "海外宏观数据联动A股，影响市场预期。",
       "category": "宏观经济",
       "impact_stocks": [
         "沪深300",
+        "纳指ETF",
+        "AI概念",
+        "半导体"
+      ],
+      "signal": "neutral",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775117"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "野村警告沃什或致实质性紧缩",
+      "summary": "华尔街见闻报道，野村指出美联储主席沃什首秀可能是“十年一遇的转折点”，需警惕“预防性加息”演变为“实质性紧缩”。市场对美联储加速收紧的担忧升温，可能压制全球风险资产偏好，利空A股外资重仓板块。",
+      "reason": "美联储政策是优先级二，紧缩预期影响跨境资金。",
+      "category": "货币政策",
+      "impact_stocks": [
+        "沪深300",
         "上证50",
-        "外资重仓股",
-        "成长股"
+        "北向资金重仓股"
       ],
       "signal": "bearish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
           "name": "华尔街见闻",
@@ -65,8 +83,68 @@
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "特斯拉再推进AI与机器人战略",
+      "summary": "同花顺报道，特斯拉加速推进人工智能与机器人战略，申请注册“Amazing Abundance”商标。此举有望提振AI及机器人产业链情绪，相关A股概念板块（人形机器人、自动驾驶）受益。看多信号。",
+      "reason": "行业龙头战略动态影响板块情绪。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "机器人",
+        "特斯拉产业链"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260621/c677594487.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "夏季达沃斯论坛下周开幕",
+      "summary": "第一财经报道，下周夏季达沃斯论坛将开幕，主题涉及全球经济、科技创新等。论坛释放的政策信号可能影响市场预期，若强调开放合作或产业扶持，利好相关板块。中性偏多，关注具体议题。",
+      "reason": "重要会议影响市场预期，属优先级二。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "科技股",
+        "消费"
+      ],
+      "signal": "neutral",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103238239.html"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "A股K型分化：拥抱科技还是老股？",
+      "summary": "新浪财经文章指出A股市场呈现K型分化，科技成长股与价值股走势割裂。机构建议关注科技主线，但需警惕高位分化。该信号提示板块轮动加速，短期科技股可能继续活跃，但波动加大。中性。",
+      "reason": "市场结构信号影响板块选择。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "科技股",
+        "消费",
+        "金融"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzOVVmZkdkOXZpMi1QdmozdVJsbk5EU2RoT1JqTmgyeExBZmRoQXl3d0ZtbU1ISVdpOUE2eWhfRHltbGs1SVp0a0xOWGNLcTRqcUF1SUFzR2hiUjFsR2VfY1hmNEZ2OWc4LUZBNXRlaG8zZjBnaEV2MQ"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 9,
-  "generated_at": "2026-06-21T10:01:36.663837+08:00"
+  "total_fetched": 22,
+  "generated_at": "2026-06-21T10:37:35.238472+08:00"
 }
