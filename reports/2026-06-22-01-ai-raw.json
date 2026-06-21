@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 1839,
+    "completion_tokens": 105,
+    "total_tokens": 1944
+  },
+  "content_length": 79,
+  "raw_content": "{\n  \"news\": [],\n  \"note\": \"当前素材中仅有一条埃塞俄比亚议会选举消息，与A股行情无直接关联，不符合筛选标准，故未选取任何消息。\"\n}"
+}
