@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5937,
+    "completion_tokens": 2061,
+    "total_tokens": 7998
+  },
+  "content_length": 2099,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"花旗重申中铝买入评级\",\n      \"summary\": \"花旗发布研究报告，重申中国铝业（601600.SH/02600.HK）“买入”评级，目标价17.08港元。报告认为铝价上行周期持续，公司盈利弹性突出。该信号对有色金属板块偏多，尤其利好中国铝业及铝产业链相关个股。\",\n      \"reason\": \"知名外资机构评级变动，直接提供个股交易信号，影响有限但明确。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"中国铝业\", \"有色金属\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzc3cWtOVDVXUmlPMFZhOHRVOXdtNXVWVmdpSlU0SWNoSGNfMFZXQ1BXYVhHQjhRMUxLazQ2R0RPX1Q1dzlHczEzUTJUaWg0R1VHRmVuclV4cGxrb21aTUNCM0NCcUhrSlNCVE5GRkxzMDZlTXdWQS1YVFR5eEx1VkI2aVBtMUdrd3c4?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"多部门规范直播电商竞争\",\n      \"summary\": \"多部门联合出手规范“内卷式”竞争，重点净化直播电商等行业生态。政策意在遏制恶性价格战、保护消费者权益，长期有利于头部平台和品牌商。短期可能对中小主播和依赖低价策略的企业形成压力，但对行业整体利大于弊。\",\n      \"reason\": \"监管政策直接影响电商行业格局，属于行业动态中的利好信号。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"电商\", \"直播概念\", \"品牌消费\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260621/c677595246.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"端午消费数据向好\",\n      \"summary\": \"飞猪发布端午假期数据，人均预订金额同比增长16%，特色古镇搜索量增长3倍，显示旅游消费复苏势头良好。途家数据也显示暑期民宿预订升温，连住15天以上订单同比增41%。消费复苏信号对旅游、酒店、航空等板块形成短期利好。\",\n      \"reason\": \"宏观经济消费数据超预期，利好消费板块，属于中等影响信号。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"旅游\", \"酒店\", \"航空\", \"消费\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260621/c677595214.shtml\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"银行板块基本面修复预期\",\n      \"summary\": \"华尔街见闻文章分析指出，尽管近期资金从银行板块撤退，但基本面在好转，银行板块叙事可能从“防御”转向“修复”。净息差企稳、资产质量改善，叠加高股息属性，银行板块估值修复行情可期。\",\n      \"reason\": \"机构分析揭示板块基本面改善，资金流出属于短期扰动，中期看多信号。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"银行\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/member/articles/3774396\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮素材中有效新信息较少，已筛选4条。历史消息已覆盖限售股解禁、AI模型发布、美伊谈判等内容，未重复选入。\"\n}"
+}
