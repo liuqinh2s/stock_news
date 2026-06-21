@@ -3,13 +3,55 @@
   "hour": "21",
   "news": [
     {
-      "title": "监管出手降温AI铜箔炒作",
-      "summary": "第一财经报道，市场爆炒AI铜箔概念，部分公司无订单却股价暴涨，监管已出手降温。这可能对AI铜箔相关个股（如铜冠铜箔、诺德股份等）形成利空，短期炒作情绪将受压制，需警惕回调风险。",
-      "reason": "监管直接干预概念炒作，属于行业动态中的政策降温信号，对相关板块有明确利空影响。",
+      "title": "沃什首秀加息预期增强",
+      "summary": "A股策略周报指出，美联储新任主席沃什首秀可能释放鹰派信号，加息预期增强。这将影响全球流动性预期，对A股形成压力，尤其是对利率敏感的高估值科技股。属于利空信号。",
+      "reason": "美联储加息预期直接影响全球资金流向，对A股市场情绪和估值产生压制。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "创业板",
+        "科技股"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWxJWi1fU240TU5ORnZfb2ZoNlVEZEdMWGs2alg5UTVGTXl1eFdYSFM3RC1lVjhFZzRIWXZRU1NUclY3ZUdjaXlpbzNwc1J4MFJyODByZ2g0cS01NnJ1OUlsRFhNOWpxQ2FtRmhzWFhLSkNOOUR6MlBHR3ZFQTB3ZVRDbWprT3lTbWRzTDIwVktvbjZOQzFuMmRxaFhEV0JTaGdiQg?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "苹果折叠屏供应链小批量供货",
+      "summary": "供应链公司透露已向苹果首款折叠屏iPhone小批量供货，标志着苹果折叠屏产品正式进入量产阶段。利好苹果产业链相关公司，如显示面板、结构件、电池等供应商，对消费电子板块构成正面催化。",
+      "reason": "苹果新品发布预期带动产业链备货，相关公司业绩受益，市场情绪积极。",
       "category": "行业动态",
       "impact_stocks": [
+        "苹果产业链",
+        "消费电子",
+        "立讯精密",
+        "蓝思科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260621/c677596719.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "监管出手降温AI铜箔概念",
+      "summary": "第一财经报道，市场爆炒AI铜箔概念，监管已出手降温。说明相关概念股短期涨幅过大，监管关注可能引发回调。对AI铜箔概念股形成利空，注意风险。",
+      "reason": "监管降温直接影响炒作情绪，相关个股面临调整压力。",
+      "category": "监管政策",
+      "impact_stocks": [
         "AI铜箔概念",
-        "铜冠铜箔",
+        "铜箔板块",
+        "嘉元科技",
         "诺德股份"
       ],
       "signal": "bearish",
@@ -23,14 +65,14 @@
       "urgency": "hours"
     },
     {
-      "title": "北上深宅地楼面价破10万",
-      "summary": "宅地涨价潮来袭，北京、上海、深圳楼面价天花板均突破10万元/平方米。这显示土地市场热度回升，对房地产板块构成利好，尤其拥有核心城市土地储备的房企（如保利发展、万科A）将受益。但需警惕后续调控加码风险。",
-      "reason": "房地产行业重要价格信号，直接反映市场景气度，对地产股有正面催化作用。",
+      "title": "北上深楼面价天花板破10万",
+      "summary": "第一财经报道，北京、上海、深圳的宅地楼面价天花板均突破10万元/平，显示土地市场火热，房企拿地热情高。这可能预示房价上涨预期，对地产板块构成利好，但需关注政策是否收紧。",
+      "reason": "楼面价创新高反映房企对后市看好，地产板块估值有望修复。",
       "category": "行业动态",
       "impact_stocks": [
-        "房地产",
-        "保利发展",
-        "万科A"
+        "房地产板块",
+        "万科A",
+        "保利发展"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -40,28 +82,9 @@
           "url": "https://www.yicai.com/news/103238442.html"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "AI生成股市谣言被监管处罚",
-      "summary": "AI生成3000字股市谣言被处罚，监管明确AI不是挡箭牌。此事件警示市场利用AI造谣将受严惩，对AI概念股情绪有一定负面影响，但实质冲击有限。短期需关注AI板块波动。",
-      "reason": "监管处罚案例，体现监管对AI乱象的整治态度，影响市场情绪，属于轻度利空。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "AI概念",
-        "人工智能板块"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103238419.html"
-        }
-      ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 21,
-  "generated_at": "2026-06-21T21:01:34.646989+08:00"
+  "total_fetched": 58,
+  "generated_at": "2026-06-21T21:05:00.247496+08:00"
 }
