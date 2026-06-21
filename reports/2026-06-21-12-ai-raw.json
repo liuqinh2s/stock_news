@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "12",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4310,
+    "completion_tokens": 2141,
+    "total_tokens": 6451
+  },
+  "content_length": 2254,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"高盛警告AI资本支出信贷饱和\",\n      \"summary\": \"高盛发布报告警告，全球AI资本支出已达5.3万亿美元，逼近信贷饱和水平，企业端开始'算力降本'。这可能意味着AI算力投资增速放缓，对A股AI算力、光模块等板块形成利空。需警惕相关高位股调整风险。信号偏空。\",\n      \"reason\": \"直接影响AI板块预期，高盛权威警告，市场情绪可能转向。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"光模块\", \"中际旭创\", \"寒武纪\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775121\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"史上首次！Figure机器人数超越人类员工\",\n      \"summary\": \"Figure机器人公司宣布，其机器人生产线上机器人数量首次超过人类员工，标志着人形机器人产业化加速。该消息利好A股机器人产业链，如减速器、伺服电机、传感器等核心零部件公司。信号偏多。\",\n      \"reason\": \"机器人行业里程碑事件，提振板块情绪，机构关注度高。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"机器人\", \"减速器\", \"绿的谐波\", \"汇川技术\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/charts/41959277\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"知名基金经理调仓：增持硬科技、电网\",\n      \"summary\": \"财联社报道，知名基金经理最新调仓显现，对医药板块分歧加大，部分基金减持医药，增持硬科技（半导体、AI）和电网设备。该动向表明机构资金正从医药流向科技和电网，相关板块有望获得增量资金。信号偏多硬科技和电网。\",\n      \"reason\": \"反映机构最新动向，具有资金流向指引意义。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"半导体\", \"AI概念\", \"电网设备\", \"国电南瑞\", \"中芯国际\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://news.google.com/rss/articles/CBMimAFBVV95cUxPckVueDJhd0dwY3pBSVJrXzk5ZDB4c2JuSjV2eWtfWVZpcjBHdU5KOXliUW1XUXMzdlpJQUNuTGJKOU90TG5CMUVGcDZldkJoY19SQ1hjcHBWRkZJY3VvZk1aMTEwb2REZXlnUlI4TkNMYmIyLU9DcFBTVks0dXdjWkxBV2lNWkJ6NWFCcHRjeklfM2hzTkFoLQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"伊拉克要求油田开足马力增产\",\n      \"summary\": \"伊拉克石油部要求油田开足马力增产，可能加剧全球原油供应过剩，短期利空油价。对A股石油板块（中国石油、中国石化）形成压力，但对下游化工、航空运输等成本端有利。信号偏空石油板块。\",\n      \"reason\": \"影响油价预期，进而影响相关板块，属于行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油\", \"中国石油\", \"中国石化\", \"航空运输\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260621/c677594925.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
