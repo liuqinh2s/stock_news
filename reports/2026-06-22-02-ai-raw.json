@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5587,
+    "completion_tokens": 2045,
+    "total_tokens": 7632
+  },
+  "content_length": 2315,
+  "raw_content": "{\"news\": [{\"title\": \"伊朗代表团离开谈判地点\", \"summary\": \"因抗议特朗普威胁言论，伊朗代表团离开美伊谈判地点，谈判陷入僵局。中东地缘政治风险升级，可能推动原油和黄金价格上涨，对A股石油、军工板块影响偏多，但对整体市场风险偏好构成压制，短期看空信号。\", \"reason\": \"地缘政治突发事件，可能引发避险情绪和油价波动，影响A股相关板块。\", \"category\": \"宏观经济\", \"impact_stocks\": [\"石油板块\", \"黄金板块\", \"军工板块\"], \"signal\": \"bearish\", \"impact_level\": 3, \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3122371\"}], \"urgency\": \"immediate\"}, {\"title\": \"*ST天山复牌\", \"summary\": \"*ST天山于2026年6月22日复牌交易。该股此前因财务问题被实施退市风险警示，复牌后可能面临补跌压力。对ST板块及同类风险警示股有一定情绪传导，短期偏空信号。\", \"reason\": \"ST股复牌属于公司重大事件，可能引发短期波动。\", \"category\": \"公司公告\", \"impact_stocks\": [\"*ST天山\", \"ST板块\"], \"signal\": \"bearish\", \"impact_level\": 2, \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2Qmc1aWR6VzlTaWtUR0xOZWFhRzNFWUM3bUE3YlR0T1NLYXZZSjRwUENBUzU3M0xMMkNRQWdmanpUSVdKR0d0SzFrc0szQzJ6VDhmS1JBY1BjaUtiTEl5eWJn?oc=5\"}], \"urgency\": \"hours\"}, {\"title\": \"*ST华闻复牌\", \"summary\": \"*ST华闻于2026年6月22日复牌交易。该股因财务问题被ST，复牌后抛压风险较大，对ST板块有负面示范效应，短期看空。\", \"reason\": \"ST股复牌属于公司重大事件，可能引发短期波动。\", \"category\": \"公司公告\", \"impact_stocks\": [\"*ST华闻\", \"ST板块\"], \"signal\": \"bearish\", \"impact_level\": 2, \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGQ0tiVjVRRHg1Mi1HSmtOLVltRzBBZkNLWVF0Si1SbDRyanBwYnp0dnA0WTItbGxpTnBIbU1GWnNwaFo5c3VIX2RjRE5WWlRjUXFLdHpXTUFTSTZSaUVvU1J3?oc=5\"}], \"urgency\": \"hours\"}, {\"title\": \"*ST清越纳入异动股票池\", \"summary\": \"深交所自6月22日起将*ST清越纳入异动股票池，意味着其股价异动将受到重点监控。对ST板块及该公司自身构成短期利空，可能抑制炒作情绪。\", \"reason\": \"交易所监管措施，对ST股及高波动个股有警示作用。\", \"category\": \"监管政策\", \"impact_stocks\": [\"*ST清越\", \"ST板块\"], \"signal\": \"bearish\", \"impact_level\": 2, \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVWHAtVkFkX2pxZm83VTJrMUxaNjFzcVRNY0gzaFZVR281QTFrLUJZZ25FQ3RmNEY1VWxPdnlhVHBTX01oejNjYTFHcnI3dHNOakEzNGpETzJPa3B1UFE?oc=5\"}], \"urgency\": \"hours\"}, {\"title\": \"学大教育拟回购股份\", \"summary\": \"学大教育公告拟回购不超过215.05万股公司股份，用于股权激励或注销。回购通常被视为公司看好自身价值，短期利好股价，对教育板块有一定提振。\", \"reason\": \"回购属于积极信号，但规模较小，影响有限。\", \"category\": \"公司公告\", \"impact_stocks\": [\"学大教育\", \"教育板块\"], \"signal\": \"bullish\", \"impact_level\": 2, \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMUxQQ3VRRjItcmFSSXhJa3JmZXhTc1gwVTBJcFJOODE5SEsybmhYbVFWd0VRSGFwLUVwMXZoLWF2Y01uN2lGNVI4YmRSQ1c3NVZIVkl1NWRhSUlkeFE?oc=5\"}], \"urgency\": \"days\"}]}"
+}
