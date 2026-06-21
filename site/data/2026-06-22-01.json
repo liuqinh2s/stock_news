@@ -1,7 +1,65 @@
 {
   "date": "2026-06-22",
   "hour": "01",
-  "news": [],
-  "total_fetched": 1,
-  "generated_at": "2026-06-22T01:01:02.105051+08:00"
+  "news": [
+    {
+      "title": "*ST天山复牌",
+      "summary": "*ST天山于2026年6月22日复牌，此前因筹划重大事项停牌。复牌后股价可能补跌或补涨，但公司基本面仍较弱，中性偏空信号。",
+      "reason": "复牌事件，属于公司公告，但历史消息已提及摘星脱帽，预期充分。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "*ST天山",
+        "ST板块"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2Qmc1aWR6VzlTaWtUR0xOZWFhRzNFWUM3bUE3YlR0T1NLYXZZSjRwUENBUzU3M0xMMkNRQWdmanpUSVdKR0d0SzFrc0szQzJ6VDhmS1JBY1BjaUtiTEl5eWJn?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "*ST华闻复牌",
+      "summary": "*ST华闻于2026年6月22日复牌，与*ST天山类似，属摘星脱帽后复牌。复牌后短期波动可能较大，但无额外利好，中性信号。",
+      "reason": "复牌事件，预期已反映，影响有限。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "*ST华闻",
+        "ST板块"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGQ0tiVjVRRHg1Mi1HSmtOLVltRzBBZkNLWVF0Si1SbDRyanBwYnp0dnA0WTItbGxpTnBIbU1GWnNwaFo5c3VIX2RjRE5WWlRjUXFLdHpXTUFTSTZSaUVvU1J3?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "学大教育拟回购股份",
+      "summary": "学大教育公告拟回购不超过215.05万股公司股份，用于股权激励或注销。回购金额约1-2亿元（按股价估算），体现公司信心，对股价有支撑，偏多信号。",
+      "reason": "上市公司回购属积极信号，虽规模不大，但符合资金流向利好。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "学大教育",
+        "教育板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺财经",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMUxQQ3VRRjItcmFSSXhJa3JmZXhTc1gwVTBJcFJOODE5SEsybmhYbVFWd0VRSGFwLUVwMXZoLWF2Y01uN2lGNVI4YmRSQ1c3NVZIVkl1NWRhSUlkeFE?oc=5"
+        }
+      ],
+      "urgency": "days"
+    }
+  ],
+  "total_fetched": 5,
+  "generated_at": "2026-06-22T01:18:02.902488+08:00"
 }
