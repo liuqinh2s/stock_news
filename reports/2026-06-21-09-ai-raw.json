@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "09",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2806,
+    "completion_tokens": 1721,
+    "total_tokens": 4527
+  },
+  "content_length": 1921,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"陆家嘴论坛释放稳定信号\",\n      \"summary\": \"陆家嘴论坛上监管层释放资金面稳定信号，强调货币政策维持稳健，金融股估值已处低位，调整空间有限。此消息利好金融板块，尤其是银行和券商，预计将吸引资金回流。信号偏多，短期对市场情绪有提振作用。\",\n      \"reason\": \"货币政策信号直接影响市场预期，属优先级一范畴，但未涉及具体操作，影响程度中等。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"银行\", \"券商\", \"金融板块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXY3UlloS2JlVzhNbllrQVc4a1gycDRUakZyZmJySXVYdUVkNTFueTVsWmdpalItSDRHaGFtektDZDNrLWt0dllwdnY2MVdGbEd6NVo3OE96WS16aTZUaVBmbWRFWVdkOF9sLWZLMWZDdEZ5WVd0VEljbEV2V3p4YzQyd1VTLVd1ckpPLUMyY1BsUEo0Ry0xZ0ZFWnl0dy1QSC1fMA?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"全球股市现资金撤离信号\",\n      \"summary\": \"近期全球表现最好的股市（如美股）出现投资者卖股票换豪宅的现象，可能预示资金从股市转向实物资产。若该趋势持续，可能引发全球风险偏好下降，导致北向资金从A股流出，对大盘形成压制。信号偏空，需警惕短期调整。\",\n      \"reason\": \"资金流向信号影响市场情绪，属优先级三，但涉及全球联动，对A股有间接影响。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GSXRvX2pMQnQ0dVA3bmMzbjFIQ1RraWJKU3RFbFRMMVgwZXJHaFF4V0tDQUFOTEtESUNrUFdObnY1dWF0UmFOLU9ieDhpdVBGQkREU3ZjT3VINXFYQWZIdQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"伊朗关闭霍尔木兹海峡\",\n      \"summary\": \"美伊谈判在即，伊朗军方宣布关闭霍尔木兹海峡，全球原油供应受阻风险大增，油价短线或飙升。利好A股石油石化板块（中国石油、中国石化），利空航空、航运等成本敏感行业。地缘风险升温可能带动避险情绪，资金或流向黄金、军工。信号中性偏多石油板块，但大盘整体承压。\",\n      \"reason\": \"地缘政治事件直接影响油价及能源板块，属行业动态优先级二，影响程度较大。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油石化\", \"中国石油\", \"中国石化\", \"航空\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775118\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
