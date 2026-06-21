@@ -3,63 +3,66 @@
   "hour": "23",
   "news": [
     {
-      "title": "兴业科技拟收购磷化铟资产",
-      "summary": "近20家A股公司本周披露并购重组公告，其中兴业科技拟收购磷化铟业务相关资产。磷化铟是半导体关键材料，用于光通信、AI算力等领域。此次收购有望增强兴业科技在半导体材料领域的布局，并带动磷化铟概念股活跃。信号偏多，但需关注收购进展和估值。",
-      "reason": "并购重组属于重大事件，涉及半导体核心材料，可能引发板块炒作，符合优先级一。",
-      "category": "公司公告",
+      "title": "TGV玻璃基板加速量产",
+      "summary": "据央视财经，国产TGV玻璃基板正从技术验证向小批量量产过渡，国内多家头部企业产线筹备全面铺开。预计到2030年全球先进封装市场规模将达800亿美元。该消息利好先进封装产业链，尤其利好玻璃基板相关标的，如沃格光电、美迪凯等。看多信号。",
+      "reason": "AI筛选原因：属于行业动态（先进封装技术突破），可能带动相关板块上涨。历史消息未提及此具体进展。",
+      "category": "行业动态",
       "impact_stocks": [
-        "兴业科技",
-        "磷化铟概念",
-        "半导体材料"
+        "先进封装",
+        "玻璃基板",
+        "沃格光电"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jLXRTVW5QLTBPZDBGcXc0LVpWcmM2b3pfX3dsRXZadWZZRkQxc25WZXBfNC1ma1hxNC1EZzV6Rm45YmNCQlBJcA"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260621/c677597239.shtml"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "金海高科推员工持股计划",
-      "summary": "金海高科公告推出员工持股计划草案，激励核心团队。员工持股计划有利于绑定员工利益，提升公司治理，通常被视为积极信号。对公司股价有正面刺激作用，但影响有限。",
-      "reason": "员工持股计划属于公司积极信号，符合中期影响，但需关注具体规模和行权条件。",
-      "category": "公司公告",
+      "title": "特朗普威胁收取中东石油20%收益",
+      "summary": "特朗普称若美伊未达成协议，美国将接管霍尔木兹海峡并收取中东20%石油收益。此举将加剧中东紧张局势，推高油价，利好A股石油石化板块（如中国石油、中国石化）。短期可能引发市场避险情绪，但对石油板块构成正面刺激。看多石油板块。",
+      "reason": "AI筛选原因：地缘政治事件影响油价，进而影响A股能源板块。历史消息有类似威胁，但具体收益比例未出现，属新信息。",
+      "category": "资金流向",
       "impact_stocks": [
-        "金海高科"
+        "石油石化",
+        "中国石油",
+        "中国石化"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vN0xJbWdyN0JsdVZJX0FVR0FYWTZHZzgwYnJYSnIwd3N4UW5CbDJ5dHpPVlZPMEM1Z1BDbkltU3dzVnA1UnJvc0dRY29YSGhXN2JOYmM1QWdKRGJxd0E"
+          "url": "https://news.10jqka.com.cn/20260621/c677597172.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "immediate"
     },
     {
-      "title": "易普力获广发证券等机构调研",
-      "summary": "易普力于6月16日举办投资者关系活动，广发证券、海富通等机构参与。公司为民爆行业龙头，调研可能围绕行业景气度、新建产能等。机构关注度提升，但民爆板块弹性有限，信号中性。",
-      "reason": "机构调研属于中期信号，但民爆行业关注度较低，影响轻微。",
-      "category": "资金流向",
+      "title": "端午消费平稳，以旧换新超万亿",
+      "summary": "商务部数据显示，端午假期全国消费市场平稳，截至6月20日消费品以旧换新惠及1.36亿人次，带动销售额超1万亿元。汽车、家电等板块受益，消费数据略超预期，对消费板块构成支撑。看多消费板块。",
+      "reason": "AI筛选原因：宏观经济数据（消费指标）超预期，显示内需韧性，利好消费类个股。历史消息有端午假期北京数据，但全国性数据属新发布。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "易普力",
-        "民爆行业"
+        "消费",
+        "家电",
+        "汽车"
       ],
-      "signal": "neutral",
-      "impact_level": 1,
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XZ3pDYnFyclBfWElWbEp5N1YzN3hiZFVnWGpyWkpmMXh1b1JLR21QMm9hUm9uU25ldGtrbzBMMGNaTG5weHdBcmhvMkdNOW1MOEVYZjdCcjJjVHlvcUF2dnBB"
+          "url": "https://news.10jqka.com.cn/20260621/c677597131.shtml"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 13,
-  "generated_at": "2026-06-21T23:01:21.270810+08:00"
+  "total_fetched": 14,
+  "generated_at": "2026-06-21T23:46:24.129931+08:00"
 }
