@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "00",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 1999,
+    "completion_tokens": 959,
+    "total_tokens": 2958
+  },
+  "content_length": 731,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"国泰海通看好A股上升\",\n      \"summary\": \"国泰海通证券发布研报称，端午节前市场不确定性已落地，中国股市新一轮上升窗口期打开。该券商认为当前风险偏好回升，资金有望重新流入A股，建议投资者积极布局。此观点可能提振市场信心，尤其利好沪深300、上证50等权重指数，以及券商板块。从交易信号看，属于看多信号，但需关注后续实际资金动向。\",\n      \"reason\": \"知名券商明确看多，可能影响短期市场情绪，属于优先级二中的机构评级变动。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"券商\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFBpM2R4ajg3VmIzbXY2UEpDdGVFWEowRXJncmx5THgwbFlXVjVBb0JmenppaV9ORVhfQ0RzRG9wcy13dlRNNEU0U2U3UV9wemd4UGN0UXlXQWx5T3U4Z1FPUjd6ekszUWRpMm1Qcm5yamZrcm1yV3BYYg?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
