@@ -3,33 +3,14 @@
   "hour": "15",
   "news": [
     {
-      "title": "花旗重申中铝买入评级",
-      "summary": "花旗发布研究报告，重申中国铝业（601600.SH/02600.HK）“买入”评级，目标价17.08港元。报告认为铝价上行周期持续，公司盈利弹性突出。该信号对有色金属板块偏多，尤其利好中国铝业及铝产业链相关个股。",
-      "reason": "知名外资机构评级变动，直接提供个股交易信号，影响有限但明确。",
-      "category": "公司公告",
+      "title": "七部门规范直播电商内卷",
+      "summary": "工信部等七部门联合发文规范“内卷式”竞争，重点净化直播电商等行业生态。此举旨在促进行业健康发展，避免恶性价格战。短期可能压制部分靠低价竞争的平台，但利好头部合规企业。对直播电商、MCN板块构成中性偏多信号，长期有助于行业集中度提升。",
+      "reason": "监管政策影响电商生态，涉及广泛。",
+      "category": "监管政策",
       "impact_stocks": [
-        "中国铝业",
-        "有色金属"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTzc3cWtOVDVXUmlPMFZhOHRVOXdtNXVWVmdpSlU0SWNoSGNfMFZXQ1BXYVhHQjhRMUxLazQ2R0RPX1Q1dzlHczEzUTJUaWg0R1VHRmVuclV4cGxrb21aTUNCM0NCcUhrSlNCVE5GRkxzMDZlTXdWQS1YVFR5eEx1VkI2aVBtMUdrd3c4?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "多部门规范直播电商竞争",
-      "summary": "多部门联合出手规范“内卷式”竞争，重点净化直播电商等行业生态。政策意在遏制恶性价格战、保护消费者权益，长期有利于头部平台和品牌商。短期可能对中小主播和依赖低价策略的企业形成压力，但对行业整体利大于弊。",
-      "reason": "监管政策直接影响电商行业格局，属于行业动态中的利好信号。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "电商",
-        "直播概念",
-        "品牌消费"
+        "直播电商",
+        "MCN概念",
+        "平台经济"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -39,37 +20,16 @@
           "url": "https://news.10jqka.com.cn/20260621/c677595246.shtml"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "端午消费数据向好",
-      "summary": "飞猪发布端午假期数据，人均预订金额同比增长16%，特色古镇搜索量增长3倍，显示旅游消费复苏势头良好。途家数据也显示暑期民宿预订升温，连住15天以上订单同比增41%。消费复苏信号对旅游、酒店、航空等板块形成短期利好。",
-      "reason": "宏观经济消费数据超预期，利好消费板块，属于中等影响信号。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "旅游",
-        "酒店",
-        "航空",
-        "消费"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260621/c677595214.shtml"
-        }
-      ],
       "urgency": "days"
     },
     {
-      "title": "银行板块基本面修复预期",
-      "summary": "华尔街见闻文章分析指出，尽管近期资金从银行板块撤退，但基本面在好转，银行板块叙事可能从“防御”转向“修复”。净息差企稳、资产质量改善，叠加高股息属性，银行板块估值修复行情可期。",
-      "reason": "机构分析揭示板块基本面改善，资金流出属于短期扰动，中期看多信号。",
-      "category": "市场结构",
+      "title": "银行板块基本面改善",
+      "summary": "华尔街见闻分析指出，2026年一季度银行业净息差企稳回升、手续费收入止跌转涨、拨备计提回归常态化，基本面出现明确边际改善。尽管资金面承压，但修复逻辑正在酝酿。银行股可能从防御板块转向修复行情，利好银行板块及金融ETF。",
+      "reason": "行业动态，机构观点可能影响资金流向。",
+      "category": "行业动态",
       "impact_stocks": [
         "银行",
-        "沪深300"
+        "金融ETF"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -80,8 +40,28 @@
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "港股反映人民币美元博弈",
+      "summary": "华尔街见闻文章指出，当前港股市场成为人民币与美元信心博弈的实时记分板。陆家嘴论坛释放资金面稳定信号，而美联储沃什立场偏鹰。如果人民币汇率企稳，港股有望修复，进而带动A股情绪。但若美元持续走强，则外资流出压力大。整体为中性预警。",
+      "reason": "宏观分析，影响跨境资金和风险偏好。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "港股",
+        "沪深300",
+        "金融"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775127"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 21,
-  "generated_at": "2026-06-21T15:01:28.114045+08:00"
+  "total_fetched": 20,
+  "generated_at": "2026-06-21T15:25:38.880027+08:00"
 }
