@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2416,
+    "completion_tokens": 1431,
+    "total_tokens": 3847
+  },
+  "content_length": 1410,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"外资巨头看好A股AI价值洼地\",\n      \"summary\": \"多家外资机构发布年中投资展望，认为A股AI板块估值处于历史低位，具备长期配置价值。这可能吸引外资流入AI概念股及相关板块，如算力、半导体、大模型等。从交易角度看，属于看多信号，但需注意市场情绪传导的滞后性。\",\n      \"reason\": \"外资机构集中看好A股AI板块，属于市场情绪和资金流向的积极信号，可能提振板块表现。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1memZDRmYxY0Q4c3luazh6NnhGaDRWMi1USmgzaHpqcXI2NUJXQ1NITXNyRVdNNDllei02eVdBMVBpUlI0R0M1aHlQVmRzTWFaUld1dmNtQXdMVHBZYkJlTkpuam1qNmQ0bVpwRkU2V1psenBhUDlBYQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"金发拉比今日复牌\",\n      \"summary\": \"金发拉比（002762）于2026年6月22日复牌交易，此前因筹划重大事项停牌。复牌后股价可能面临波动，但具体影响需结合停牌期间公告内容判断。目前无明确多空信号，中性看待。\",\n      \"reason\": \"个股复牌属于公司公告事件，停牌原因不明，对大盘影响有限，但对该股及医美板块有短期关注度。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"金发拉比\", \"医美概念\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qM2t5bUc0T1Npby1nanRCMTA2WEpFX0d6TUJQSkNQX3BKWlduaVkwalpPdlBaelZIMUNSTFFVaHhaR2Izd3lHbks0Q2tENWYtY0ZCODJKN0FYT29yLTJkekd3?oc=5\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ],\n  \"note\": \"近6小时消息面较为平淡，仅筛选出两条具有一定交易参考价值的消息。其余素材如分红实施公告、私募备案研报等缺乏明确交易信号，予以排除。\"\n}"
+}
