@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "21",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6680,
+    "completion_tokens": 3267,
+    "total_tokens": 9947
+  },
+  "content_length": 1569,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"监管出手降温AI铜箔炒作\",\n      \"summary\": \"第一财经报道，市场爆炒AI铜箔概念，部分公司无订单却股价暴涨，监管已出手降温。这可能对AI铜箔相关个股（如铜冠铜箔、诺德股份等）形成利空，短期炒作情绪将受压制，需警惕回调风险。\",\n      \"reason\": \"监管直接干预概念炒作，属于行业动态中的政策降温信号，对相关板块有明确利空影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI铜箔概念\", \"铜冠铜箔\", \"诺德股份\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103238448.html\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"北上深宅地楼面价破10万\",\n      \"summary\": \"宅地涨价潮来袭，北京、上海、深圳楼面价天花板均突破10万元/平方米。这显示土地市场热度回升，对房地产板块构成利好，尤其拥有核心城市土地储备的房企（如保利发展、万科A）将受益。但需警惕后续调控加码风险。\",\n      \"reason\": \"房地产行业重要价格信号，直接反映市场景气度，对地产股有正面催化作用。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"房地产\", \"保利发展\", \"万科A\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103238442.html\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"AI生成股市谣言被监管处罚\",\n      \"summary\": \"AI生成3000字股市谣言被处罚，监管明确AI不是挡箭牌。此事件警示市场利用AI造谣将受严惩，对AI概念股情绪有一定负面影响，但实质冲击有限。短期需关注AI板块波动。\",\n      \"reason\": \"监管处罚案例，体现监管对AI乱象的整治态度，影响市场情绪，属于轻度利空。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"AI概念\", \"人工智能板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103238419.html\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中，多数新闻与历史重复或价值较低，仅筛选出上述3条对A股有直接影响的非重复消息。\"\n}"
+}
