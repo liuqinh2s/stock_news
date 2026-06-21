@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4115,
+    "completion_tokens": 1788,
+    "total_tokens": 5903
+  },
+  "content_length": 2258,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"科技板块市值版图重塑\",\n      \"summary\": \"A股科技板块强势崛起，市值版图历史性重塑，科技股占比显著提升。可能影响半导体、AI、消费电子等科技板块，机构看好科技主线持续走强。看多信号，科技板块有望引领行情。\",\n      \"reason\": \"科技板块市值结构变化反映市场风格切换，机构资金向高景气方向集中，具有中期投资价值。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"半导体\", \"AI概念\", \"消费电子\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yT3RJWlFFWXYxekhrNWF1NC1qMmNoSU11UXZWVk5TWnVHNXU4TTdDV2t6dDdfLU5fQnFBeC1tTFZwSnBQMjRkank1eF9MTWdmUG5CVUhLbkVLTEoxUnZpU3ZIdDc1X0dkcDBTdUdzcFZjczltUVE?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"华润新能源开启申购\",\n      \"summary\": \"深交所史上最大规模IPO华润新能源(001248.SZ)开启申购，募资规模巨大。对市场资金面形成短期抽血效应，可能打压大盘及新能源板块情绪。看空信号，短期市场承压。\",\n      \"reason\": \"大规模IPO申购会分流市场资金，通常引发短期调整，尤其对新能源板块有拖累。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"新能源\", \"华润新能源\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcVJxcEwxS0UxVWdnbHNsVHlqRWpMTnFIZVZrdTYyUTZLekZscTNRc3FDWmVNa3RlTzhDdlNHSGJtY29sYUp2Y01VYWplZngzdHR5UjVUdlR5ZTIzbWNDT1NMZ3lxYkpEVDlvZjFoN1RUdVZVRnhoc1NRLVZBS0tCTzMwTG9MNXdJREhsejln?oc=5\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"券商业绩利好频频\",\n      \"summary\": \"市场交投持续活跃，自营业务不断修复，券商业绩利好频传。券商板块盈利预期改善，估值有修复空间。看多信号，建议关注头部券商及经纪业务占比高的标的。\",\n      \"reason\": \"活跃成交和自营修复直接增厚券商利润，行业景气度上行，是典型的看多信号。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"券商\", \"中信证券\", \"东方财富\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DMkhJcXRLalZ5U3BzakpfekVWNVlObk1XZmk3RzJlejlCcllVYnViaTkzQkdjb0dxRUJwNm85enJib0ZEYnFYZHRHOFZYVkl5NlNtcXJpNU9TYVB2SlE?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"原油期货大涨逾2%\",\n      \"summary\": \"布油、WTI原油期货周一亚洲盘初上涨逾2%，因特朗普最新威胁激怒伊朗，地缘政治紧张加剧。利好石油板块，油气股或受提振。看多信号，短期油价仍有上行空间。\",\n      \"reason\": \"地缘政治风险推升油价，直接利好A股石油开采及油服板块。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油开采\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3122396\"}],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
