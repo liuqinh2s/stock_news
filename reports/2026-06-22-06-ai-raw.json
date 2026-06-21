@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2170,
+    "completion_tokens": 1299,
+    "total_tokens": 3469
+  },
+  "content_length": 1980,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"A股科技板块或与全球AI共振\",\n      \"summary\": \"新浪财经报道，机构认为A股科技板块有望与全球AI科技行情形成共振，资金可能持续向高景气方向缩圈。这意味着AI相关板块（如算力、大模型、应用）可能继续获得资金关注，形成结构性行情。信号偏多，对AI概念股、科技ETF正面。\",\n      \"reason\": \"机构观点指向AI板块高景气，短期情绪偏多，符合市场结构信号。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"科技股\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE5RSFYzbHVoQUtfdFJRaVRLLUx2ME1tZTE1bnY4WkpTcW81NEFyNUMtaldvc3hPZnEyX1hKNFItanZUQmpxRFJRZjRtUHZ6ZlJvSFowbDNGeFVrMmY3UlJOV3Q4V0h3WW1oQUt3X0dPLUpFLTl2UDhBRQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"外资巨头看好A股AI价值洼地\",\n      \"summary\": \"外资机构年中投资展望出炉，将A股AI板块视为“价值洼地”，认为估值较低且增长潜力大。这有助于吸引外资流入AI相关个股，如中科曙光、海光信息等。信号偏多，利好AI板块及大盘指数。\",\n      \"reason\": \"外资观点影响资金流向，尤其是北向资金可能加仓AI，符合资金流向信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"AI板块\", \"外资重仓股\", \"中证500\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1memZDRmYxY0Q4c3luazh6NnhGaDRWMi1USmgzaHpqcXI2NUJXQ1NITXNyRVdNNDllei02eVdBMVBpUlI0R0M1aHlQVmRzTWFaUld1dmNtQXdMVHBZYkJlTkpuam1qNmQ0bVpwRkU2V1psenBhUDlBYQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"私募备案高位分化 权益策略可期\",\n      \"summary\": \"据同花顺报道，私募备案数量处于高位但有分化，两类权益策略（主观多头和量化指增）潜力可观。表明私募资金仍活跃，但策略选择更聚焦。对市场整体影响中性偏多，可能支撑结构性行情。\",\n      \"reason\": \"私募备案数据反映市场参与度和资金动向，属于市场结构信号。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"私募基金\", \"权益市场\", \"沪深300\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUc2xIVjd5dTRpREdUcjEyS09sUXNFR3lYZjVfOEdlUHVNYzY5LVZwTXpsN2FCeFNpTGZBN19PMmJrOENnbl9CaFpPV1dWTkp6Q01pUWM2YUZIZHEwMEE?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
