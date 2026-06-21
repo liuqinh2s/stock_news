@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-21",
+  "hour": "10",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4081,
+    "completion_tokens": 4091,
+    "total_tokens": 8172
+  },
+  "content_length": 1824,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"外资机构密集调研A股\",\n      \"summary\": \"近期外资机构频繁调研A股上市公司，重点关注人工智能、新能源、半导体等科技赛道。新浪财经报道显示，多家外资机构开始密集调研，表明对中国优质资产的兴趣提升。外资调研增加通常预示着后续买入，可能带动北向资金流入，对相关板块构成利好。属于中期看多信号。\",\n      \"reason\": \"外资机构调研增加通常预示着后续资金流入，属于中期资金流向信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"外资重仓股\", \"人工智能\", \"新能源\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE5xdnRSd2NkMUJpb0QxQ0JCaFM4T1FadnhUamdKbW9RamdERGt2YkVPX3FHVlpMZlM5UjdydXUtRE4xZU8xRTV3aG40NW9jNVR5SjJJSm9tR0hWUGxDeDNFbV9taUJYd1ZPQmJndUNpVTVpUjNqZEJDdA?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"下周549亿解禁来袭\",\n      \"summary\": \"下周A股市场将迎来549.08亿元限售股解禁，多只科技牛股涉及其中。大规模解禁可能带来减持压力，对相关个股及科技板块构成抛压信号。投资者需警惕解禁后的大股东减持行为，短期偏空。属于优先级一的利空信号。\",\n      \"reason\": \"限售股大规模解禁属于优先级一的利空信号，直接影响市场供给。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"半导体\", \"人工智能\", \"科技股\", \"解禁个股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFBmYk9fSzFWaWo2X0pJX0lGTXBqQ2N4X2x6c2ZJNThnenYxTHB1UEF4d3Z3VVNDZ1Bfc2xzMmJZMHBEVHBBWWdtZTNLVlNmSUY0WURKay0xOTUzejg5NEhsNEo5dk15bndEQWhCMlFfTVBWWkxDQWh0Tg?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"野村警告预防性加息风险\",\n      \"summary\": \"野村证券报告指出，美国新任财长沃什的首秀可能成为转折点，警惕预防性加息演变为实质性紧缩。市场担忧美联储加速收紧，对全球风险资产构成压力，A股短期可能受情绪传导影响，外资流出风险增大。该消息偏空。\",\n      \"reason\": \"美联储政策预期变化通过海外市场联动影响A股，属于中期影响。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"外资重仓股\", \"成长股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775119\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮新消息中有效消息较少，仅筛选出3条，其余消息因重复、无实质内容或不符合筛选标准而被排除。\"\n}"
+}
