@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6642,
+    "completion_tokens": 1414,
+    "total_tokens": 8056
+  },
+  "content_length": 1776,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"外资看多A股AI板块\",\n      \"summary\": \"外资巨头发布年中投资展望，认为A股AI板块是“价值洼地”，看好其长期增长潜力。消息可能提振AI相关个股，如科大讯飞、中科曙光等。信号看多。\",\n      \"reason\": \"外资机构观点对市场情绪有正面影响，且AI板块是当前热点，符合市场主线。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"AI概念\", \"科大讯飞\", \"中科曙光\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE9CbmxseXNxMHJIQV9GWFItQnI5SkxhQmRvWi16eXk0elpwd285VHNpMVdUbFc2Mks0SkVHSDNDWW1QeUpTa3NoWmRRc1p4Tm8xWFljc1hHRzNPcl93SllQd0dJT0dudHB5Wi1jLVlSOG91WDVrN1l4ZQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"伊朗石油制裁豁免草案敲定\",\n      \"summary\": \"伊朗谈判团队成员称伊石油制裁豁免草案已敲定，可能增加全球石油供给。消息利空油价，对A股石油板块（如中国石油）形成压力，但对下游化工企业成本降低有利。短期偏空石油板块。\",\n      \"reason\": \"地缘政治事件直接影响油价，进而传导至A股能源板块，属于中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油板块\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/livenews/3122375\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"新研股份复牌\",\n      \"summary\": \"新研股份于2026年6月22日复牌，此前可能因重大事项停牌。复牌后股价波动不确定，需关注后续公告。影响仅限该个股，短期中性。\",\n      \"reason\": \"个股复牌属于公司公告，对大盘影响小，但可能引发短线交易机会。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"新研股份\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IOENBWkNDTVJxUDkxeFA3NVlpOVFuWE5lNEI1WVZpb01zV0pRSmNHaTBsemtBREtla014Qmpzcno3eWpWc1FkQ2hzTUZkRU1mZ0ZNLUxpcWQteVZ6a2xURWRB?oc=5\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ],\n  \"note\": \"当前时段有效消息较少，仅选出3条，其余多为日常公告或重复内容。\"\n}"
+}
