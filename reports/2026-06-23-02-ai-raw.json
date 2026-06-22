@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-23",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9535,
+    "completion_tokens": 2508,
+    "total_tokens": 12043
+  },
+  "content_length": 1966,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"端午档电影遇冷\",\n      \"summary\": \"2026年端午档电影市场票房表现不佳，观众观影意愿降低，A股相关标的如万达电影、中国电影等出现分化。此消息反映消费复苏乏力，对电影板块构成短期利空，但影响程度有限。\",\n      \"reason\": \"属于行业动态，端午档数据反映消费趋势，对电影板块有直接利空影响，但影响级别较低。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"电影\", \"万达电影\", \"中国电影\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFBCVk9lZnhxN0YtS0o0RWZUSFdMb2l0V2RXYUdWbk1QRjVNRFVkcUx4dTJCQ19ab2tTWmlXZWtmWXR4TzZ6N2lnZ01TXzVVenMtMnFOZE9KVlFqY19ueHVvdThOdENkMnpBaUYxRThRMHVZeE04c2lfWA?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"江丰电子新增股份\",\n      \"summary\": \"江丰电子发行新增股票1065.04万股，可能用于项目融资或股权激励，将稀释现有股东权益，对股价构成一定压力。属于公司公告，短期偏空。\",\n      \"reason\": \"个股融资事件导致股本扩张，短期利空股价，需关注后续项目进展。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"江丰电子\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IVjdRdnhtNFo3N0k1ZEhGWXUtdGNjY1gxYllDWTg5U3NkQ0lnWDllaV96aFhPUkVsc3l6Z0VMSlpMRTlSRmZpRHA0NFZfY0UxSFNyYUdkeHI5SzRKenc?oc=5\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"新兴市场ETF资金回流\",\n      \"summary\": \"在美上市的新兴市场ETF近期出现资金净流入，表明国际投资者对新兴市场包括A股的配置意愿回升，可能带动北向资金流入，对A股整体偏多。属于资金流向信号，影响中等。\",\n      \"reason\": \"外资回流信号对A股市场情绪有正面提振，尤其利好外资重仓标的。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"创业板\", \"外资重仓\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"财联社\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE02LXBFRzd0NzNBUlctdkJMbEVFNWtJdWQ0dWR3MTFfVHVJd3pOVGVjY2w2QXJCb1IxX1VhS3g2SHFOYnFiWGdPWE5iTVE0NmVQUVdSeFhmQUVBZVRmU1VGNjNncFVhWlo2TkhHZTY0TFNTNTVobXROOA?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"该时段有效新闻较少，仅筛选出3条具有交易价值的消息，其余素材因与历史消息重复或缺乏实质影响被排除。\"\n}"
+}
