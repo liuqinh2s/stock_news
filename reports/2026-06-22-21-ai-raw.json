@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "21",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 18361,
+    "completion_tokens": 4591,
+    "total_tokens": 22952
+  },
+  "content_length": 2188,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"外资巨头看好A股下半场\",\n      \"summary\": \"近日多家外资机构发布2026年A股下半年前瞻，一致看好AI与半导体两大方向，认为政策支持、盈利改善及全球资金回流将推动相关板块表现。瑞银等机构预测A股盈利增速有望进一步提速，创业板、科创50创新高反映市场偏好。这是明确的看多信号，利好AI、半导体及科创板个股。\",\n      \"reason\": \"外资机构集中看好，对A股科技主线有正面指引，结合当日创业板创新高，强化市场信心。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"AI概念\", \"半导体\", \"科创板\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFBUYi1CQVU1Y3haZWs1TVlzamZwQjBobXFsOGVVMk1rMDhmb2w0OEEwTTlnX25zdUpqTzBNcEpLRkJfdTZpSlpVMGg4S0o2WjE2MFMzMUxuVXQ4anFBS19ZX09USFNqSnJLc1JWNnZYZ09uNlVtSWUxNg?oc=5\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"全球数据中心客户不足预警\",\n      \"summary\": \"华尔街见闻文章指出，全球规划中的数据中心面临客户不足风险，AI基建烧钱过快但需求可能不及预期。这可能导致算力相关资本开支放缓，对A股算力基建、光模块等板块构成利空。投资者需警惕AI上游硬件短期过热风险。\",\n      \"reason\": \"直接挑战当前AI算力投资逻辑，可能引发板块调整，属于中期看空信号。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"算力基建\", \"光模块\", \"数据中心\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/charts/41959285\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"飞鹿股份实控人转让10%股份\",\n      \"summary\": \"飞鹿股份公告，实控人章卫国拟向君拓启航转让10%股份，总价款3.14亿元。转让完成后公司控制权可能发生变化。该消息对个股影响较大，但非行业性事件，交易方向中性，需关注后续整合及业务影响。\",\n      \"reason\": \"实控人大比例转让股份属于重大股权变动，可能引发股价波动，但属于个股事件。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"飞鹿股份\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260622/c677625774.shtml\"}\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"英特尔投资金刚石晶圆散热\",\n      \"summary\": \"英特尔CEO陈立武表示已投资人造金刚石晶圆公司，看好其在芯片散热中的应用前景。该技术若成熟可能改变半导体散热格局，但距离量产较远。短期对A股相关概念股（如散热材料）有情绪提振，但影响有限。\",\n      \"reason\": \"新技术方向性利好散热概念，但实际影响需时间验证，短期偏题材。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"散热材料\", \"半导体设备\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260622/c677625802.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"今日A股大涨后，晚间消息以复盘和个股公告为主，无新增重磅政策或宏观数据。上述4条为筛选出的相对有价值消息，其余多为盘中已发酵内容或影响微弱事件。\"\n}"
+}
