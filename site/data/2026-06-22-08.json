@@ -3,14 +3,55 @@
   "hour": "08",
   "news": [
     {
-      "title": "纳指期货跌幅扩大至1.1%",
-      "summary": "纳斯达克100指数期货周一亚洲早盘跌幅扩大至1.1%，主要受地缘政治及科技股估值压力影响。短期可能通过情绪传导压制A股科技及成长股，但外资流入趋势未变。短期看空信号。",
-      "reason": "海外市场联动，短期情绪负面影响A股，属于市场情绪类。",
+      "title": "七部门联合印发算力资源开放通知",
+      "summary": "七部门联合印发通知，推动算力资源开放共享，重点支持AI、大数据等新兴领域。该政策有望加速算力基础设施建设和应用落地，利好算力、AI板块相关公司。信号为看多，属于行业动态。",
+      "reason": "优先级二：行业政策变动，直接影响AI、算力板块，市场关注度高。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "算力概念",
+        "AI概念",
+        "半导体"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqRkF5akZHVHkxaV9xdHhIRVRwOHZGNEVOc2NTSFNuNXgwNFpkSEVDdkNvblNkNHMyNjNQd2ZCSXYwaWJFa3BEUVlfMl9ZTnlRc0QyZG1KWVRQUi1J?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "伊朗拒绝谈判，原油期货上涨",
+      "summary": "伊朗代表团拒绝继续与美国谈判，地缘紧张局势升级，布油、WTI原油期货周一亚洲盘初上涨逾2%。油价上涨利好A股石油开采及化工板块，但可能加剧通胀担忧，对航空、运输板块形成压力。短期看多石油板块。",
+      "reason": "优先级一：海外地缘事件直接影响油价，进而传导至A股相关板块。",
       "category": "市场情绪",
       "impact_stocks": [
+        "石油开采",
+        "中国石油",
+        "中国石化",
+        "化工"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260622/c677598129.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "纳斯达克100期货跌幅扩大",
+      "summary": "纳斯达克100指数期货跌幅扩大至1.1%，反映科技股压力，可能对A股科技板块产生情绪传导，早盘科技股或有调整风险。信号偏空。",
+      "reason": "优先级一：海外市场联动，美股科技巨头期货跌幅较大，影响开盘情绪。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "科技板块",
         "创业板",
-        "科技股",
-        "AI概念"
+        "纳斯达克相关"
       ],
       "signal": "bearish",
       "impact_level": 3,
@@ -23,14 +64,15 @@
       "urgency": "immediate"
     },
     {
-      "title": "中信建投看好VC涨价弹性",
-      "summary": "中信建投研报指出，维生素C（VC）行业进入供需错配期，供给端收缩叠加需求稳定，看好涨价带来的业绩弹性。利好VC生产企业，如新和成、东北制药等。看多VC板块。",
-      "reason": "券商研报明确看多细分行业，影响VC概念股。",
+      "title": "中信建投：VC涨价业绩弹性大",
+      "summary": "中信建投研报指出，VC（维生素C）进入供需错配期，看好涨价带来的业绩弹性。该研报可能提振维生素及精细化工板块相关个股。信号看多。",
+      "reason": "优先级二：券商研报首次覆盖/上调评级，影响细分行业个股。",
       "category": "行业动态",
       "impact_stocks": [
-        "维生素C",
+        "维生素",
+        "化工",
         "新和成",
-        "东北制药"
+        "兄弟科技"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -40,18 +82,18 @@
           "url": "https://news.10jqka.com.cn/20260622/c677598515.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
       "title": "一线城市楼市持续回暖",
-      "summary": "新政带动改善型需求入市，一线城市楼市成交量持续回暖。地产板块有望受益，政策宽松预期增强。看多房地产板块及产业链（建材、家居）。",
-      "reason": "房地产行业回暖信号，属于行业动态，中期利好地产龙头。",
+      "summary": "新政带动改善型需求入市，一线城市楼市持续回暖。该数据表明地产调控政策效果显现，有助于地产板块企稳，看多地产龙头。",
+      "reason": "优先级二：宏观经济数据及行业政策变动，地产回暖影响权重股。",
       "category": "行业动态",
       "impact_stocks": [
         "房地产",
-        "保利发展",
         "万科A",
-        "建材"
+        "保利发展",
+        "招商蛇口"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -64,26 +106,44 @@
       "urgency": "days"
     },
     {
-      "title": "美伊谈判仍在继续",
-      "summary": "最新消息显示美伊谈判仍在进行，伊朗代表并未离场，与前期紧张预期有所缓和。原油价格短期涨幅或收窄，避险情绪降温，A股市场压力减轻。中性偏多信号。",
-      "reason": "地缘政治局势更新，影响原油和避险资产，间接影响A股情绪。",
-      "category": "宏观经济",
+      "title": "日韩股市集体低开",
+      "summary": "日韩股市周一集体低开，市场避险情绪升温，可能对A股开盘形成压力。信号偏空。",
+      "reason": "优先级二：海外市场联动，影响开盘情绪。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "原油",
-        "黄金",
-        "沪深300"
+        "沪深300",
+        "上证50"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53WHMxUkc0RW9RaFpUbXQ2dllqNU5sdkJwNmhMRTcybkVFMWo4MmdaaExGSzFhSXlnYTZ4dENuM0ZYS1FRNzBFZnhkSmRyMmhWWWFV?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260622/c677598601.shtml"
         }
       ],
-      "urgency": "hours"
+      "urgency": "immediate"
+    },
+    {
+      "title": "权益类基金分红同比增23%",
+      "summary": "权益类基金年内合计分红同比增长超23%，显示基金有业绩支撑且回馈投资者积极性提高，可提振市场信心，中性偏多。",
+      "reason": "优先级二：机构行为，基金分红增长反映盈利改善，中小投资者情绪正面。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "基金重仓股",
+        "沪深300"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260622/c677598204.shtml"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 52,
-  "generated_at": "2026-06-22T08:01:46.410776+08:00"
+  "total_fetched": 56,
+  "generated_at": "2026-06-22T08:12:14.945153+08:00"
 }
