@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-23",
+  "hour": "03",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2332,
+    "completion_tokens": 600,
+    "total_tokens": 2932
+  },
+  "content_length": 645,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"超微电脑大涨19%\",\n      \"summary\": \"超微电脑（Super Micro Computer）美股涨幅扩大至19%，该公司是AI服务器龙头，与英伟达深度合作。此次大涨可能因市场预期AI算力需求持续旺盛或公司获重大订单。该消息可能提振A股AI算力板块情绪，相关个股如中科曙光、浪潮信息、工业富联等有望跟涨。信号偏正面，但属于美股映射，情绪传导程度有限，短期或有高开。\",\n      \"reason\": \"超微电脑作为AI算力核心标的，其大涨通常映射A股同类板块，属于优先级二的中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"中科曙光\", \"浪潮信息\", \"工业富联\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260623/c677628057.shtml\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中多数为地缘政治消息，对A股直接影响微弱，且部分重复。仅超微电脑映射有一定交易价值，故输出1条。\"\n}"
+}
