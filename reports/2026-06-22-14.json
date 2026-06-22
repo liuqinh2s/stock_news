@@ -3,154 +3,172 @@
   "hour": "14",
   "news": [
     {
-      "title": "6月增持回购潮，规模超200亿",
-      "summary": "截至6月22日，A股上市公司6月累计披露增持回购计划上限规模超200亿元，多家公司密集发布股东增持或回购预案。这是市场底部的积极信号，显示产业资本对公司价值认可，有助于稳定股价和提振信心。利好整体市场，尤其是低估值、高分红的蓝筹股。看多信号。",
-      "reason": "大规模增持回购潮是证监会鼓励的方向，反映产业资本态度，属于中期利好。与历史“27家增持计划”相比，本条给出了累计规模上限超200亿的具体数据，是更新。",
-      "category": "资金流向",
+      "title": "创业板指创新高站上4300点",
+      "summary": "6月22日下午，A股三大股指持续拉升，创业板指涨超2%，站上4300点，继续刷新历史新高。这反映了市场对科技成长股的强烈信心，尤其是AI、半导体等板块的强势表现。创业板指创新高是强烈的看多信号，表明资金仍在积极涌入成长赛道。",
+      "reason": "创业板指刷新历史新高，属于市场结构信号，直接影响市场情绪和资金流向。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "沪深300",
-        "上证50",
-        "红利低波"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mc1NiQjdKREUydFpOc3lPWnAxdEc5UlZpQ2ZQb3p1blFNaWNmWUFySkpGTmxoanBSZEtsTXBfSmM5RkhYaHlsSTltVzFER1M3SFlGbm9iUzU4Wmd5dFJzd2xGVjN4ckhCeGVxcmlkOUc4WDBBZ1NUcg?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "保险成连接间接融资与直接融资大动脉，平安涨4%",
-      "summary": "中国平安A股涨4%，H股涨2%，消息称保险行业将被重新定位为连接间接融资与直接融资的“大动脉”，可能出台配套政策鼓励险资入市。这将为A股带来长期增量资金，利好大金融板块，尤其是保险股。看多信号。",
-      "reason": "政策定位变化对保险行业是重大利好，且中国平安作为龙头已有所反应，属于监管政策的延伸解读。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "中国平安",
-        "保险",
-        "大金融"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiY0lack05ZUNwaUwwV0hoVzdMRGlwSDNXQzFlM3pYLUNyYmNTTjFBZkt6Z3BZd005LVN3MjA4aDFaZjF5MXNPSXlHazJUOTVRZmdEcl95V1RNVWpQUDZqd1RrTVZHV0dkdTJYM1h5M3otZHZLY2RLcA?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "银行股集体拉升，中国银行涨超3%",
-      "summary": "A股银行股午后集体拉升，中国银行涨超3%，工商银行、建设银行等涨超2%。银行板块受益于经济复苏预期和低估值修复，同时近期降息预期升温。短期看多银行板块，但需关注政策面变化。",
-      "reason": "银行股作为权重板块拉升，对指数贡献大，且与保险、券商形成共振，是市场强势的确认信号。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "银行",
-        "中国银行",
-        "工商银行",
-        "建设银行"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUtJei03QUVCb0Q1TWpPdWw4SnR1SFVtZDJ4NjhDV3RMMkJ0dWUyQXNVRV9pZDRRS240WVphN0pHb2w4eUYzS3FicEdTdjctcm5qV1BCUlR0NGZKVXZ5TzlWeVZGNUxhejl0LWJhd1dTaG4zMk91Rl9kcDJ3YTNJbg?oc=5"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "科创创业ETF连续6日净流入4.54亿",
-      "summary": "科创创业ETF易方达（159781）连续6日获资金净流入4.54亿元，机构积极看多A股AI板块估值优势。该ETF主要投资科创板、创业板高成长股，尤其AI算力、芯片方向。资金持续流入说明机构看好科技主线，看多科创板、创业板AI相关个股。",
-      "reason": "ETF持续净流入是增量资金的明确信号，方向指向AI科技，符合当前市场主线。历史消息中虽有类似ETF资金流入，但本条是具体净额和天数，属于新数据。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "科创50",
         "创业板指",
+        "科技成长股",
         "AI概念",
-        "算力",
         "半导体"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
           "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45SVFPdnBDOEJCd2hTZE9VSXRWQ09DOFZSU1NfbTdvNEhBeU9jcFFpUzRReFFGWU1HZTJXeFhzUGFJMVhRTkpPbnJRckEzVzM1SjlWNEVaWlNWWWM3cnVSdG9zVzhvbDFNbXo3ZHNsM05fTENnTlVPVw?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "上证50股指期货主力合约涨超2%",
-      "summary": "上证50股指期货主力合约午后涨超2%，富时中国A50指数期货涨超1%。期货市场领涨现货，显示市场对大盘蓝筹的看多情绪浓厚，尤其是金融、消费龙头。短期看多上证50成分股，但需注意期货升水后的回调风险。",
-      "reason": "股指期货大涨是市场情绪和预期的直接体现，具有前瞻性，属于重要市场结构信号。",
-      "category": "市场结构",
-      "impact_stocks": [
-        "上证50",
-        "沪深300",
-        "金融",
-        "消费"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qX1lBUFQzdGgxd3AzbjNPSXpvT0p4cllnMXR4SlY1VnhhVURndGhMcVFsdG51UGtQYkFSa3ZCMFpOT3RfamFXT09UcnQwaklpS3NR?oc=5"
-        },
-        {
-          "name": "第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBYS0zQW1YSGhlOERRSnBkMzh3RGZVeE5COGROakU3OFBNLVJlTFlPNU9zc0hvTzl3N0xOX2tYTWd3a0RjbDEzLWxiZkYwVjRsd3Fj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHUDItcnVLMEhtbTZKRXMxMUZxRDcwZWFjWk9CNDh5eG5zR0NQUGx4ODJSd3doR2Q2b0FpWWlRRl9nbWd0MDhCQ3JKcnNnTENKa0k3aTFDVTMyWDQ5NFNLNDNVWTJiU0JIVno5R0JEdFRTRXhwUUM1Mw"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "景顺长城全球半导体芯片QDII-LOF临时停牌",
-      "summary": "景顺长城全球半导体芯片产业股票型证券投资基金（QDII-LOF）发布临时停牌公告，原因未明，可能是溢价过高或基金发生重大事项。该基金投资全球半导体龙头，停牌可能影响套利和交易，短期需关注后续公告。对半导体板块情绪或有扰动，中性偏谨慎。",
-      "reason": "QDII-LOF临时停牌较为罕见，可能涉及溢价风险或重大持仓变动，对半导体投资情绪有影响。属于市场结构中的异常事件。",
-      "category": "市场结构",
+      "title": "6月A股增持回购规模超200亿",
+      "summary": "A股6月增持回购热潮来袭，累计回购规模上限超200亿元。多家上市公司密集发布增持回购计划，显示产业资本对当前股价的认可，有助于稳定市场信心。大规模回购是看多信号，尤其对相关个股和整体市场形成支撑。",
+      "reason": "上市公司增持回购规模较大，属于公司重大事件，对市场有积极影响。",
+      "category": "公司公告",
       "impact_stocks": [
-        "半导体",
-        "芯片"
+        "沪深300",
+        "回购概念股",
+        "上证50"
       ],
-      "signal": "neutral",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sWm5qMW00Tl9DZ2pIRUtfWlFvV01Sc0lWSHR6QkI4NF9wVW85SXpGcXIyMDlDWjA1OW41REU5TEFkSTdvbjZTRkRDSU15elpyLVQtUEl2RkpUV0hEWUE?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Mc1NiQjdKREUydFpOc3lPWnAxdEc5UlZpQ2ZQb3p1blFNaWNmWUFySkpGTmxoanBSZEtsTXBfSmM5RkhYaHlsSTltVzFER1M3SFlGbm9iUzU4Wmd5dFJzd2xGVjN4ckhCeGVxcmlkOUc4WDBBZ1NUcg"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "港股中资券商股午后冲高，中信证券涨超9%",
-      "summary": "港股中资券商股午后持续冲高，中信证券涨超9%，华泰证券、中金公司等跟涨。A股券商板块同步拉升，广发证券、中信建投等涨停。券商作为“牛市旗手”，集体大涨通常预示市场行情启动，做多信号明确。利好券商板块及大盘指数。",
-      "reason": "港股券商大涨对A股券商有联动效应，且A股券商已有涨停个股，这是市场情绪高涨的典型表现。",
-      "category": "市场情绪",
+      "title": "小摩看高铜价至15000美元",
+      "summary": "摩根大通发布报告，喊出铜价15000美元/吨目标价，受此消息影响，A股有色金属板块走强，云南铜业涨超4%。铜作为重要的工业金属，与新能源、基建需求密切相关，看多铜价利好有色板块及上游资源股。",
+      "reason": "投行上调铜价目标，属于行业动态，直接影响有色金属板块。",
+      "category": "行业动态",
       "impact_stocks": [
-        "券商",
-        "中信证券",
-        "广发证券",
-        "中信建投"
+        "有色金属",
+        "铜概念",
+        "云南铜业",
+        "江西铜业"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdm1XTlg5V0I1aGE1UjZ1SnBnTEJEWXBUNGpQZndsb0pERzJmT2ZnSzQ0MXBFUGhQMDA4T1BTUEZySUswTUFpQTR0a1ZoWTlEM3hhMFdHa0VOVG80bFYxUUNHTFJRUGI2dl83VVdfUUppTXN0RWVLZVdqWGJsOTR2Ug"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "保险股集体大反弹新华涨停",
+      "summary": "6月22日下午，保险股集体大反弹，新华保险涨停，中国人寿一度涨超9%。保险板块的爆发可能受到十年期国债收益率企稳、保费收入增长以及市场情绪回暖的推动。作为大金融的重要组成，保险大涨对指数有较强拉动作用，属于看多信号。",
+      "reason": "保险板块异动大涨，属于行业动态，影响大金融板块及指数。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "保险",
+        "新华保险",
+        "中国人寿",
+        "中国平安"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA1TGZFQlNNbzNfZU1lMVJkcExOY1ZDeHg2akFPM3hsX0xhSzIwVU1ja2ROVmkxcFJneVpZQURPZHVQT1BBRnM0VFpzcWNrdVREWjFhRTlMU2dUUEJDOUpST3d4NzNZY2F4U1BNN29WbEhma09HYzdXTA"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "商务部15条举措支持外资上市",
+      "summary": "商务部等三部门联合发布15条举措，推动利用外资固稳促优，明确支持符合条件的重点外资企业在境内上市融资。此举有助于吸引外资流入，提升A股国际化水平，对整体市场构成利好，尤其利好外资重仓板块。",
+      "reason": "国务院部委发布外资政策，属于重大利好政策，影响市场预期。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "外资重仓股"
       ],
       "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ERzQyTDlUc2RmV2l1dWNyY01QclBpeDBzZ3BrNWZtSGhiMHgwd2EtcnF4Mkg3M0xRTkJlcWlpS05YeVpocUs3OHhkaFdEa05HOFNfNW1QNXF5VE43ajN6TUFB?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775174"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "几内亚禁止黄金原矿出口",
+      "summary": "几内亚宣布禁止黄金原矿出口，此举可能导致全球黄金供应收紧，推高金价。对A股黄金板块形成利好，相关个股如山东黄金、赤峰黄金等有望受益。黄金作为避险资产，其价格上涨也反映市场避险情绪升温。",
+      "reason": "资源国出口禁令，直接影响黄金板块，属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "黄金概念",
+        "山东黄金",
+        "赤峰黄金",
+        "紫金矿业"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775167"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "大金融板块爆发中信建投涨停",
+      "summary": "6月22日下午，A股风格突变，大金融板块全线爆发，新华保险、中信建投等午后涨停，银行股集体拉升。大金融的上涨可能由市场对政策宽松预期、低估值修复以及资金轮动推动。金融板块上涨对指数贡献大，是典型的看多信号。",
+      "reason": "大金融板块集体大涨，属于市场结构信号，影响指数和市场情绪。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "大金融",
+        "券商",
+        "保险",
+        "银行",
+        "中信建投",
+        "新华保险"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wUjVoaUN3X0JQTUNtZkVBSHprNkNKb3FZOWdCS1BlRjhfbHNqMHFkWUVPR2loLTZUMmxZMFRCY25HRnM0a1F2Z1RWbVJtRVZGR0FjcFV0V1MtaFlL"
         }
       ],
       "urgency": "immediate"
+    },
+    {
+      "title": "杠杆资金创四年新高空头破纪录",
+      "summary": "华尔街见闻文章指出，六月市场呈现三大警示信号：杠杆资金创四年新高、空头头寸破纪录。高杠杆意味着市场风险偏好上升，但同时也隐含回调风险；空头头寸纪录或预示潜在轧空行情。对A股而言，高杠杆可能推动短期上涨，但需警惕极端情绪后的调整。",
+      "reason": "市场杠杆和空头数据极端，属于市场结构信号，影响交易策略。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "沪深300",
+        "融资融券标的"
+      ],
+      "signal": "neutral",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775166"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 42,
-  "generated_at": "2026-06-22T14:01:40.423637+08:00"
+  "total_fetched": 52,
+  "generated_at": "2026-06-22T14:20:43.649653+08:00"
 }
