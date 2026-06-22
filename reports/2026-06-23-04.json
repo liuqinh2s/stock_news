@@ -3,38 +3,38 @@
   "hour": "04",
   "news": [
     {
-      "title": "拓荆科技定增发行完成",
-      "summary": "拓荆科技披露2025年度向特定对象发行股票发行情况报告书，已完成定增。作为国内半导体设备龙头，此次定增资金将用于扩产及研发，短期可能稀释每股收益，但长期利好国产替代。对半导体设备板块构成中性偏多信号。",
-      "reason": "定增公告属于公司重大事件，直接影响拓荆科技股价，并映射半导体设备板块情绪。",
-      "category": "公司公告",
+      "title": "SpaceX跌幅扩大至13%",
+      "summary": "SpaceX股价跌幅扩大至13%，连续第三个交易日下跌，此前公司宣布发债200亿美元。该事件可能引发美股科技板块情绪波动，间接影响A股AI、算力相关板块。市场担忧AI投资泡沫及资金紧张，对相关概念股形成短期利空。",
+      "reason": "SpaceX作为AI与航天龙头，其股价大跌反映市场对AI支出过度的担忧，可能传导至A股科技板块，属于市场情绪信号。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "拓荆科技",
-        "半导体设备",
-        "北方华创"
+        "AI概念",
+        "算力",
+        "半导体"
       ],
-      "signal": "neutral",
-      "impact_level": 2,
+      "signal": "bearish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tZ2traGdxM2VnOUxpSUJoeHAzQ2VYQWxlRmlGOHNSa0pnQlZxRC01T3RzQWNkelJZbGtRR0NrQ0oyVXBRUDhaVUk4VUo3X3dGUlJ1TTkxQWU3TTlqRl96MGh6ZnVUdWIxcEd4ejFYdng0aWQ3S0dYTA?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260623/c677628146.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "SK海力士市值短暂超三星",
-      "summary": "SK海力士在韩国股市市值短暂超越三星电子，反映存储芯片行业高景气度。作为全球HBM龙头，其强势表现可能催化A股存储芯片及AI算力概念股情绪，但直接联动有限，需警惕追高风险。偏多信号。",
-      "reason": "海外存储龙头市值突破，对A股半导体存储板块有情绪提振作用。",
+      "title": "SK海力士市值短暂超越三星",
+      "summary": "SK海力士市值短暂超越三星电子，改写韩国股市历史。这凸显了存储芯片行业的强劲需求，尤其是HBM受益于AI算力爆发。该事件将对A股存储芯片板块形成正面催化，相关个股如兆易创新、北京君正、澜起科技等有望受益。偏多信号。",
+      "reason": "SK海力士超越三星是存储行业景气度的重要标志，直接提振A股存储芯片及半导体设备板块，属于行业动态。",
       "category": "行业动态",
       "impact_stocks": [
-        "存储芯片",
         "兆易创新",
+        "北京君正",
         "澜起科技",
-        "AI算力"
+        "半导体设备"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 3,
       "sources": [
         {
           "name": "财联社",
@@ -44,25 +44,47 @@
       "urgency": "hours"
     },
     {
-      "title": "盟科药业限售股解禁",
-      "summary": "盟科药业公告首次公开发行部分限售股上市流通，解禁规模需关注具体数据。限售股解禁通常带来抛压，对个股形成利空。公司为创新药企，若解禁比例较大，短期股价承压。",
-      "reason": "限售股集中解禁属于优先级一的利空信号，直接增加市场抛压。",
-      "category": "资金流向",
+      "title": "宁德时代换电业务进军欧洲",
+      "summary": "宁德时代与章鱼能源合资，在欧洲建设重卡换电网络，计划2026年底实现GWh级换电服务。这标志着宁德时代全球化换电战略落地，利好宁德时代及相关换电产业链，如特锐德、许继电气等。属于公司重大事件，偏多。",
+      "reason": "宁德时代作为A股新能源龙头，其换电业务海外拓展将提升估值，并带动换电概念板块表现，属于公司重大事件。",
+      "category": "公司公告",
       "impact_stocks": [
-        "盟科药业",
-        "医药板块"
+        "宁德时代",
+        "换电概念",
+        "特锐德",
+        "新能源"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775230"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "巴克莱建议布局美债收益率走高",
+      "summary": "巴克莱建议投资者为美国国债收益率走高布局，认为美联储政策将维持紧缩。美债收益率上行可能导致全球资金回流美元资产，对A股形成资金外流压力，尤其对高估值成长股不利。北向资金可能净流出。偏空信号。",
+      "reason": "美债收益率走高直接影响外资流向，是A股重要的外部变量，属于宏观经济关联信号，影响中期走势。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "沪深300",
+        "北向资金重仓股",
+        "成长股"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "中国证券报",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jZ0F5R3N5WE1SSG1veW80OUVtM1UzQzFtSjdYbjJiSzN5MWx3S3ZFUTdraVB1UDNqX0VWcEZmcG9oZERMSEl4dHBya0EtY01IMU5ibW5DYnBxcEwtakNUSGZKa3RSZTJSNTkyeEJ1RmFYUXZGeXNJUg?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260623/c677628173.shtml"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 6,
-  "generated_at": "2026-06-23T04:01:22.451423+08:00"
+  "total_fetched": 17,
+  "generated_at": "2026-06-23T04:32:17.500172+08:00"
 }
