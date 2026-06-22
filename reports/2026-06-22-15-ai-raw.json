@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-22",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 18009,
+    "completion_tokens": 4531,
+    "total_tokens": 22540
+  },
+  "content_length": 2096,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"私募仓位创年内新高\",\n      \"summary\": \"截至6月19日，股票私募仓位指数攀升至81.55%，创年内新高，显示私募机构积极加仓。结合融资余额创新高，市场做多情绪浓厚，增量资金有望持续入场。利好整体市场，尤其是券商、科技等进攻性板块。\",\n      \"reason\": \"私募仓位是市场情绪重要指标，新高预示机构看多，对A股形成支撑。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"券商\", \"科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDSWJodnhodmw1TTdGeEo4UVFfS29LQzU5dklRc3c4bDJzMkhaMV9ieEdJb0wwS1JlbkY2NFRZQ2JnbWwxbUVPQW9CT0hQdEtvZnVZSG9ZVDdFeUlUQ0Fnd2l3?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"电车安全新国标下月实施\",\n      \"summary\": \"下月起，两项电动汽车安全新国标将实施，涉及电池热失控、整车碰撞等强制性要求。此举提高行业准入门槛，利好技术领先的头部电池及整车企业，如宁德时代、比亚迪，同时可能淘汰部分中小厂商，推动行业集中度提升。\",\n      \"reason\": \"行业政策变动直接影响新能源汽车产业链，新国标利好龙头。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"新能源汽车\", \"宁德时代\", \"比亚迪\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103239716.html\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"国信证券被监管警告\",\n      \"summary\": \"国信证券因干扰市场发行秩序被监管出具警示函，单季业绩下滑，自营收益降63%。短期对国信证券股价形成压制，并可能引发市场对券商监管收紧的担忧，但属于个股利空，整体影响有限。\",\n      \"reason\": \"券商监管事件影响个股及板块情绪，但非系统性风险。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"国信证券\", \"券商\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uOU1VZzZBVGVEb3JSV1I5Y204SUJLbDJHNDE1TnU0aTRHT1VQekpHeW5oSTZCeTVseE43OGdWVEpxNUVGd3F1dU01QVFrc1BWWTFFZGVWQW1sMWNiMXRJUHpn?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"黄金承压有色金属走强\",\n      \"summary\": \"受美联储加息预期影响，黄金下跌，但有色金属逆势大涨，主要受供需紧张及AI上游材料需求拉动。摩根大通喊出铜价15000美元目标，A股有色金属板块活跃，云南铜业涨超4%。资金从黄金转向工业金属，利好有色金属板块。\",\n      \"reason\": \"宏观因素与行业需求共振，有色金属板块受益。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"有色金属\", \"铜\", \"云南铜业\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103239809.html\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"因当日消息多与历史重复，仅筛选出4条具有独立价值的新消息。\"\n}"
+}
