@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-23",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8445,
+    "completion_tokens": 3862,
+    "total_tokens": 12307
+  },
+  "content_length": 1982,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"A股上市银行分红超1460亿\",\n      \"summary\": \"截至当前，A股上市银行2025年年度分红已派现超1460亿元。银行板块高分红属性吸引稳健资金，对银行股形成支撑，同时释放流动性利好整体市场。该事件属于资金流向信号，偏多头。\",\n      \"reason\": \"大规模分红派现显示银行盈利稳定，增强市场信心，对银行板块及沪深300有积极影响。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"银行\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3NmRBUG8wLVdhWVR3Um8tcjV1dV9jR1libFVzYk1LMWcyVXR4SWNRZnVFMGpudXhVTUtjZVRpWUMza2ZBb29fUWd0ZFdveUl1d182UXZJa29RaC1aeTRZSUQxRjFkaWJ4c0JVMnktQ1RLX2YzaXhRXw?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"A股并购重组活跃多股震荡\",\n      \"summary\": \"近期A股并购重组持续活跃，但多家公司因各种原因终止重组事项，导致股价震荡。并购重组是市场活力的体现，但终止事件增加不确定性，对相关个股及板块短期偏空，长期影响中性。\",\n      \"reason\": \"并购重组活跃度反映市场资源配置效率，但终止潮可能引发投机退潮，需警惕风险。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"中小盘股\", \"并购重组概念\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1vZURQRHBZOW4wcVlULVhJUHIxT19ENW4tY2FXeklvQlBPUFhEbWJreERGd21aQW9yRm9iQy1wTG1DRmZwNzVUWlFUX1JOblBNUlhTMWRvU1FxUERBTV9VR2J2WF9BbFRUYlFjdE9YUVNodUdqd3I3OQ?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"国泰海通证券营业部收警示函\",\n      \"summary\": \"国泰海通证券一营业部因未采取有效措施规范从业人员执业行为，收到监管警示函。该事件对券商行业合规性提出警示，但仅涉及单个营业部，影响范围有限，偏空但轻微。\",\n      \"reason\": \"监管警示函显示合规风险，但非系统性监管收紧，对券商板块情绪有微弱压制。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"券商\", \"国泰海通\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LSVRYbVBJS1RvWFhwdGx3LU9DWWQzVUJQZDNlQjFvRktDeE1LaURvdWkteUNQdEUtQk1vdzFWLVNCa01KYnNRLVhDTm1WbmVUVExiWXlSZU5KR3lkaHc?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"近6小时历史消息中多数已被覆盖，仅筛选出3条新消息，其余为重复或排除项。\"\n}"
+}
