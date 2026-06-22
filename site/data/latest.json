@@ -3,64 +3,130 @@
   "hour": "06",
   "news": [
     {
-      "title": "国泰海通营业部收警示函",
-      "summary": "国泰海通证券一营业部因未采取有效措施规范从业人员执业行为，收到证监会警示函。该事件反映券商合规问题，可能影响券商板块短期情绪，但整体影响有限。利空信号，但程度轻微。",
-      "reason": "券商监管处罚，属于行业动态，对券商板块有轻度负面影响。",
-      "category": "监管政策",
+      "title": "伊朗否认用冻资买美农产品",
+      "summary": "伊朗官方否认将用被美国解冻的120亿美元资金购买美国农产品，与特朗普此前表态矛盾。此举可能加剧美伊谈判不确定性，短期支撑油价。对A股石油板块（如中国石油、中国石化）偏多，但对航空、化工等成本敏感板块偏空。地缘风险上升亦刺激避险情绪，利好黄金股。",
+      "reason": "更新美伊谈判关键进展，直接影响油价和地缘风险偏好，优先级一（影响行情）。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "国泰海通",
-        "券商板块"
+        "石油板块",
+        "黄金板块",
+        "航空板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260623/c677628373.shtml"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3123047"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "特朗普称伊朗将接受武器核查",
+      "summary": "特朗普表示伊朗将同意接受国际武器核查，被视为美伊关系缓和信号。若落实，将降低中东冲突风险，利空油价。对A股石油板块偏空，但对航运、军工板块有一定压力，同时有利于风险偏好回升，利好科技和消费。",
+      "reason": "美伊谈判重要进展，影响全球避险情绪和油价，优先级一。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "石油板块",
+        "军工板块",
+        "消费板块"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260623/c677628246.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "欧盟完成800亿欧元能源转型融资",
+      "summary": "欧盟宣布完成800亿欧元能源转型融资目标，并缩减碳排放配额拍卖规模。此举将加速欧洲可再生能源和储能部署，对A股光伏、风电、储能等新能源板块构成中长期利好。同时碳配额减少有利于碳价，利好碳交易概念。",
+      "reason": "欧盟重大能源政策，涉及800亿欧元规模，对全球新能源产业有正面影响，优先级二（行业政策）。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "光伏",
+        "风电",
+        "储能",
+        "新能源车"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775236"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "首批理财公司试水南向通",
+      "summary": "首批理财公司开始试点跨境理财通南向通业务，允许境内资金投资香港等境外产品。这可能导致部分资金分流至港股，对A股流动性产生轻微压力，但规模有限。对港股券商和ETF有利，对A股中小盘股偏空。",
+      "reason": "跨境资金流动新政策，影响A股和港股资金分配，优先级二（资金流向）。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "港股ETF",
+        "券商",
+        "中小盘股"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RT0Rfam1nenRIdkd1eEF0Y3JTTXNoRTlzeXlFSi1kYm5NbERtbUtHOHBoWmk0X2xzcUZpMW1nUlU4dENtNERDbFlMWS1OSlN4NzNaOFpvUnVQa0hYWHlMUGRB"
+          "url": "https://news.10jqka.com.cn/20260623/c677628940.shtml"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "中国石油MSCI评级升至A",
-      "summary": "MSCI公布中国石油ESG评级从B上调至A，位居A股同行业第一。评级提升反映公司在环境、社会及治理方面的改善，有助于吸引外资关注。利好中国石油及石油板块，但短期股价影响有限。",
-      "reason": "ESG评级上调属于公司利好，可能吸引长期资金，但短期影响不大。",
-      "category": "公司公告",
+      "title": "二季度北交所过会企业扫描",
+      "summary": "二季度北交所过会企业审核趋严，问询重点聚焦业绩真实性与可持续性。监管层对上市质量把关增强，中长期利好北交所健康发展，但短期可能抑制新股炒作热情。对创投概念和北交所影子股有中性影响。",
+      "reason": "北交所监管动态，影响新股发行节奏和市场情绪，优先级三（市场结构）。",
+      "category": "市场结构",
       "impact_stocks": [
-        "中国石油",
-        "石油板块"
+        "北交所概念",
+        "创投板块"
       ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTN5Q2RJZnhTLWQwdUlJbW4wNEFkUExsbGVfWnAyZGg3MkhLUEJnWGdoVXFrYkdXZXF3SVMtUEJOcWFodGRUaE5UYXRZMHI0Y21LR1g5VGx3T1dTMjRYQjRSTURodVlUUGE1S3hFbDNUbV9wX2FmU2Vhd21fcHVkOFZyMVNJLW53NmhLQ2d3"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260623/c677628964.shtml"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "藏格矿业MSCI评级升至BBB",
-      "summary": "MSCI将藏格矿业ESG评级从B上调至BBB，位居同行业第5。评级提升体现了公司在钾肥、锂矿等业务上的治理改善。利好藏格矿业及钾肥、锂矿板块，但短期影响有限。",
-      "reason": "ESG评级上调，对公司长期估值有正面影响。",
-      "category": "公司公告",
+      "title": "美联储主席沃什7月14日听证",
+      "summary": "美联储主席沃什将于7月14日出席众议院货币政策听证会。市场关注其对通胀、利率路径的表态。若偏鹰则利空全球风险资产，偏鸽则利好。短期内可能引发市场预期波动，对A股外资重仓股和成长股有间接影响。",
+      "reason": "美联储政策关键事件预告，影响全球流动性预期，优先级二（海外联动）。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "藏格矿业",
-        "钾肥",
-        "锂矿"
+        "外资重仓股",
+        "成长股",
+        "沪深300"
       ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYU0yTUw3T0ZxSFdiNnNpSnhFc1U5Y1cxTkllUDhPSDhFMW8wV3FlRFRWbFBlQUl1UlczMHNnT2lUa0tZbkN5ZnItd2tqbUVyX2Rjc3JPYVZuZ2pRU0dnN3RiRWdJWDAyZUo5b3Nrbi1iWHRtNXFQWW9tWjZVMGZFZmRZMVcxaE5jMFl6Vjln"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/livenews/3123032"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 21,
-  "generated_at": "2026-06-23T06:01:33.962481+08:00"
+  "total_fetched": 35,
+  "generated_at": "2026-06-23T06:41:17.058612+08:00"
 }
