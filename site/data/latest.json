@@ -3,67 +3,126 @@
   "hour": "11",
   "news": [
     {
-      "title": "韩国KOSPI启动熔断机制",
-      "summary": "6月23日，韩国综合指数大幅下跌触发熔断，韩国交易所启动KOSPI熔断机制。这是继日经225下跌后亚太市场又一风险信号。韩股暴跌可能通过情绪传导影响A股，尤其是与韩国产业链关联度高的半导体、电子板块。今日A股PCB概念股已集体下挫。短期看空信号。",
-      "reason": "海外市场剧烈波动属于优先级二，可能引发A股情绪共振，尤其日韩股市联动效应明显。",
-      "category": "宏观经济",
+      "title": "韩股跳水触发熔断",
+      "summary": "韩国KOSPI指数盘中大跌超5%，触发熔断机制。亚太市场恐慌情绪蔓延，日经225、港股恒指同步下挫。韩股暴跌主因外部地缘风险及科技股估值回调，短期通过情绪传导压制A股风险偏好，尤其是与韩国竞争关系的半导体、面板等板块承压。",
+      "reason": "海外市场剧烈波动属于优先级二海外市场联动，熔断为极端信号。",
+      "category": "市场情绪",
       "impact_stocks": [
         "半导体",
-        "电子",
-        "PCB概念"
+        "消费电子",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775262"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "特朗普宣称伊朗接受核查",
+      "summary": "特朗普宣称伊朗将同意接受武器核查，但智库揭底霍尔木兹海峡重开实为美方付费妥协。地缘局势缓和预期升温，国际油价盘中大跌，黄金同步下挫。短期利空原油板块，利好航空、化工等用油行业，但市场对核查执行存疑，需关注后续进展。",
+      "reason": "地缘政治影响原油和避险资产，属于优先级二海外市场联动。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "原油",
+        "航空",
+        "化工"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775252"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "智谱AI大跌超15%",
+      "summary": "AI概念股智谱华章盘中暴跌超15%，拖累AI板块整体调整。公司未发布重大利空，可能系前期涨幅过大后的获利了结，叠加美股科技股回调情绪传导。AI概念短期面临估值压力，算力、大模型个股均受影响。",
+      "reason": "个股极端走势反映板块情绪，属于优先级三龙虎榜/异常波动，且AI为当前热点。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "AI概念",
+        "智谱华章",
+        "科大讯飞"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775254"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "北大荒补税14亿跌停",
+      "summary": "北大荒公告需补缴税款及滞纳金合计约14亿元，开盘即封死跌停。该事件反映公司历史税务问题，对农业板块情绪造成冲击。14亿元相当于公司近两年净利润，基本面受损严重，短期内股价承压，可能拖累农业板块整体估值。",
+      "reason": "公司重大利空事件，属于优先级一公司公告（重大负面）。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "北大荒",
+        "农业板块"
       ],
       "signal": "bearish",
       "impact_level": 4,
       "sources": [
         {
           "name": "第一财经",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BX01xdllIWFRSR2dRdVpQR29TUVVaTnVZWVhEaWZnVEozRnlBV3pwSlNlRWEwYkFUQmlGdU1oZUlwUU9jQVVnMldFS1hWb1p6SkJz"
+          "url": "https://www.yicai.com/news/103241274.html"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "证券板块ETF创60日新高",
-      "summary": "6月23日，证券板块持续走强，证券ETF(512900)最新价创60日新高，板块内长江证券涨停。技术面突破配合基本面（印花税增长、政策利好），显示资金持续流入券商板块。该信号确认市场做多情绪，属看多信号。",
-      "reason": "板块ETF创新高是市场结构的积极信号（优先级三），结合多重利好，具有较强指示意义。",
+      "title": "前5月基建投资增速放缓",
+      "summary": "1-5月全国基建投资增速放缓至0.6%，远低于市场预期。主要受地方债务约束和项目落地缓慢影响。基建作为经济稳增长抓手，增速放缓将拖累钢铁、水泥、工程机械等周期板块，同时可能促使政策加码预期升温。短期看空基建相关板块，中长期关注逆周期调节。",
+      "reason": "宏观经济数据不及预期，属于优先级二宏观经济数据。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "基建",
+        "钢铁",
+        "水泥",
+        "工程机械"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103241379.html"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "有色ETF单日暴跌7%",
+      "summary": "有色ETF今日收盘大跌7.09%，领跌全市场。主要受国际油价、白银暴跌拖累，以及国内经济数据疲软打压需求预期。资金大幅流出有色板块，铜、铝等品种跌幅居前。短期看空有色板块，关注贵金属避险属性弱化后的进一步调整风险。",
+      "reason": "行业ETF极端表现反映资金出逃，属于优先级三成交额/板块轮动信号。",
       "category": "市场结构",
       "impact_stocks": [
-        "券商",
-        "证券ETF",
-        "长江证券"
+        "有色金属",
+        "铜陵有色",
+        "中国铝业"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CRTg2cVZBcFVQaEx3TExkMWhHSzhuckIwMFVUanFXRFJpTHBFQmtleEFEa3gyYmpSQm80NDU4RWg2VFVNRnFxYzIxWjFaRTBqNXRBd3lYNmNBV2VZVXBZTHhn"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "英特尔押注金刚石散热材料",
-      "summary": "英特尔宣布押注金刚石散热等新材料，推动惠丰钻石、四方达等A股个股创历史新高。该技术有望应用于芯片散热，带动培育钻石及新材料板块关注度。属于行业技术催化事件，看多培育钻石及散热材料概念股。",
-      "reason": "行业动态（优先级二），涉及科技巨头技术路线，对相关产业链有直接催化作用。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "惠丰钻石",
-        "四方达",
-        "培育钻石",
-        "散热材料"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR0JPLVhEOVJGZTNzWDJTZzlQT3IxV0lGMmtxUUxWS1E5NDZIN2U2dWZzRFVTYjFFS2Eyb0RBdVlMelpNQXY1bFc2MlhmNEREODZPTERrU0tMNmZpQjNIT2twM0Q3NUVtOEozV09JZzVPRFhCU21LVGdSaldhOWo1Ug"
+          "url": "https://news.10jqka.com.cn/20260623/c677640461.shtml"
         }
       ],
       "urgency": "hours"
     }
   ],
   "total_fetched": 39,
-  "generated_at": "2026-06-23T11:01:34.509310+08:00"
+  "generated_at": "2026-06-23T11:36:28.892144+08:00"
 }
