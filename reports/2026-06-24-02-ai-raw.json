@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-24",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 11508,
+    "completion_tokens": 3874,
+    "total_tokens": 15382
+  },
+  "content_length": 2202,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"锆供需关系生变\",\n      \"summary\": \"据报道，小金属锆的供需关系发生显著变化，A股相关个股如东方锆业等受到市场追捧。消息可能源于锆矿供应紧张或下游需求增长，利好锆概念股。该信号为看多，但需注意东方锆业已连续涨停并发布风险提示，短期追高风险较大。\",\n      \"reason\": \"供需变化直接影响个股基本面，属于行业动态，可能带动相关板块上涨。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"锆概念\", \"东方锆业\", \"有色金属\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE9DRmV6aHhGbW9RcU5BZ214MlNZem1VMGpFR0kwRER0WUZfeG1NaU9zQ1pMRzR5ODQ1TUFvWllrZUFKS0lPcnVpMmJ0UDd6Qmt1SW13azVqTGtKZGlGN0oyYmF6ZmVXUkdVdWV6NTZNdnBHYndsZkRxZA?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"LME金属期货全线收跌\",\n      \"summary\": \"伦敦金属交易所（LME）金属期货收盘集体下跌，可能受全球经济前景担忧或美元走强影响。这将利空A股有色金属板块，如铜、铝、锌等相关个股。短期看空信号。\",\n      \"reason\": \"国际金属价格下跌直接影响A股有色板块盈利预期和股价，属于宏观联动。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"有色金属\", \"铜\", \"铝\", \"锌\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260624/c677661437.shtml\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"美两年期国债拍卖利率4.189%\",\n      \"summary\": \"美国财政部拍卖690亿美元两年期国债，得标利率为4.189%，反映市场对美联储利率路径的预期。若利率高于预期，可能加剧全球资本回流美国，对A股成长股估值形成压力。中性偏空。\",\n      \"reason\": \"美债收益率变化影响全球资产定价和外资流动，对A股有间接影响。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"成长股\", \"科技股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260624/c677661387.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"NYMEX取暖油涨超1%\",\n      \"summary\": \"NYMEX取暖油主力合约上涨超过1%，反映冬季取暖需求或供应偏紧。可能对A股石油化工板块产生小幅提振，但幅度有限。中性偏多。\",\n      \"reason\": \"能源价格上涨利好石油板块，但取暖油品种相对小众，影响有限。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"石油化工\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260624/c677661386.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本次筛选出的有效消息较少，部分重要消息已在历史中出现或暂未发现高价值信息。\"\n}"
+}
