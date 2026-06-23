@@ -1,15 +1,43 @@
 {
   "date": "2026-06-24",
   "hour": "05",
-  "total": 21,
-  "fetched_at": "2026-06-24T05:00:52.760389+08:00",
+  "total": 25,
+  "fetched_at": "2026-06-24T05:22:45.873239+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "蓝星安迪苏股份有限公司向特定对象发行A股股票限售股上市流通公告 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9nX1k5Y3lJNE5UWkt0MTNaYVhSRnZLQ0VjalEtQW1qd1JxNEt0dDA3SWZsRERpdGtyV0MwdGxkZmo5Q2JhTkJ2ekRYSkhUTFZTbHBXV2RFNWNuVG44XzB3d25fUjhONWkwbVRmTkJQRWNlT01WMWRTSQ?oc=5\" target=\"_blank\">蓝星安迪苏股份有限公司向特定对象发行A股股票限售股上市流通公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nX1k5Y3lJNE5UWkt0MTNaYVhSRnZLQ0VjalEtQW1qd1JxNEt0dDA3SWZsRERpdGtyV0MwdGxkZmo5Q2JhTkJ2ekRYSkhUTFZTbHBXV2RFNWNuVG44XzB3d25fUjhONWkwbVRmTkJQRWNlT01WMWRTSQ?oc=5",
-      "published": "Tue, 23 Jun 2026 19:08:00 GMT"
+      "title": "华夏MSCI中国A股国际通ETF联接A净值下跌2.36% - Sina finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdCdHY2eGJpc0pMa3VWdUg2VTFROGVXcG9NV0RRS0Z2VWdtNjRtRklYS2s2bEdvaktXQndmTWFNMUdDQXRWVTd2MmpEbHBvUUVQYS1NTGxpOENrX2JxeXhPZ0w4dm01N1RwOEVQa2dxdGRXNWdHU0lyenE4Zm9sbTlGOUhYcDR5dWRLX2hiZzh3NWdDYWgw?oc=5\" target=\"_blank\">华夏MSCI中国A股国际通ETF联接A净值下跌2.36%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdCdHY2eGJpc0pMa3VWdUg2VTFROGVXcG9NV0RRS0Z2VWdtNjRtRklYS2s2bEdvaktXQndmTWFNMUdDQXRWVTd2MmpEbHBvUUVQYS1NTGxpOENrX2JxeXhPZ0w4dm01N1RwOEVQa2dxdGRXNWdHU0lyenE4Zm9sbTlGOUhYcDR5dWRLX2hiZzh3NWdDYWgw?oc=5",
+      "published": "Tue, 23 Jun 2026 21:05:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "谷歌母公司Alphabet（谷歌A）将被纳入道琼斯工业平均指数（道指）",
+      "summary": "谷歌母公司Alphabet（谷歌A）将被纳入道琼斯工业平均指数（道指）。(新浪财经)",
+      "link": "https://news.10jqka.com.cn/20260624/c677661698.shtml",
+      "published": "Tue, 23 Jun 2026 21:21:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阿曼与国际海事组织协调开辟霍尔木兹海峡临时航道",
+      "summary": "当地时间24日凌晨，阿曼方面发布声明表示，鉴于该国对霍尔木兹海峡的责任以及该海峡对全球经济的重要作用，在遵守国际法和《联合国海洋法公约》、保障海峡自由通行且不收取通行费用的基础上，并结合美国与伊朗相关谈判和斡旋努力所取得的成果，阿曼已与国际海事组织协调，为所有船舶开辟一条临时海上航道。根据安排，相关航道将按照国际海事组织及阿曼主管部门公布的航行坐标运行，计划使用该航道的船舶需提前与国际海事组织进行协调。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260624/c677661697.shtml",
+      "published": "Tue, 23 Jun 2026 21:20:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "德国全境铁路暂停运营",
+      "summary": "德国23日晚出现大规模列车无线通信系统故障，导致全境铁路暂停运营。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260624/c677661676.shtml",
+      "published": "Tue, 23 Jun 2026 21:08:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "SpaceX 250亿美元的债权分五期发行 最长期限达30年",
+      "summary": "美国SEC文件显示，SpaceX将发行70亿美元2031年到期的5.35%优先票据，60亿美元2033年到期的5.65%优先票据、60亿美元2036年到期的5.875%优先票据、25亿美元2046年到期的6.6%优先票据和35亿美元2056年到期的6.65%优先票据。本次发行所得款项将用于偿还过桥贷款及一般公司用途，预计将于2026年6月26日完成。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260624/c677661675.shtml",
+      "published": "Tue, 23 Jun 2026 21:08:42 GMT"
     },
     {
       "source": "同花顺",
@@ -61,11 +89,18 @@
       "published": "Tue, 23 Jun 2026 19:38:43 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "巴方称伊美谅解备忘录谈判未涉及弹道导弹议题",
-      "summary": "巴基斯坦总理夏巴兹23日表示，伊朗和美国此前围绕谅解备忘录的谈判并未涉及弹道导弹议题。夏巴兹在与伊朗总统佩泽希齐扬共同出席记者会时强调，弹道导弹议题“从未摆上谈判桌”。本月早些时候，美国与伊朗签署谅解备忘录之际，美国总统特朗普称，他不反对伊朗拥有弹道导弹，不过美国盟友以色列对此坚决反对。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260624/c677661572.shtml",
-      "published": "Tue, 23 Jun 2026 19:17:20 GMT"
+      "source": "华尔街见闻",
+      "title": "标普道琼斯指数公司：谷歌A将被纳入道琼斯工业平均指数",
+      "summary": "<p>标普道琼斯指数公司：谷歌A将被纳入道琼斯工业平均指数。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3775339",
+      "published": "Tue, 23 Jun 2026 21:17:04 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "高盛交易台警告：橡皮筋已拉至极限，市场或临近断裂点",
+      "summary": "<p>本周二韩国股指暴跌掀起全球股市抛售潮后，高盛One-Delta交易台负责人Rich Privorotsky警告：过去数周，市场几乎无视了AI资本支出交易面临的所有负面信号，而这条橡皮筋已经拉到了极限。</p>\n<p>周二日经指数跌近3.5%，韩国KOSPI指数下跌约10%，SK海力士单日重挫约13%。Privorotsky指出，存储芯片股相关交易似乎正在触碰结构性瓶颈。与此同时，他强调，作为AI支出的最大来源，超大规模云服务商（hyperscalers）的股价走势才是最值得追踪的核心信号。</p>\n<p>从技术面来看，纳斯达克指数未能形成有效新高，市场结构的支撑正在减弱。做市商Gamma值在当前点位附近已偏低，且随价格下行将进一步压缩；CTA策略在多数指标上仍是净买入方，但对下行行情的凸性敞口极高。高盛大宗经纪数据所呈现的图景，与价格走势高度吻合：全球市场已经演变为一笔异常集中的单一押注。</p>\n<div>\n<div>\n<h2 id=\"c1d95f39\">极度集中的交易结构</h2>\n</div>\n<p>SK海力士此番暴跌的背后，是一个规模急剧膨胀的杠杆头寸。</p>\n<p>据",
+      "link": "https://wallstreetcn.com/articles/3775337",
+      "published": "Tue, 23 Jun 2026 21:16:54 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -143,13 +178,6 @@
       "summary": "<p style=\"text-align: left;\">韩国一篇行业报道在全球市场引发连锁反应，将高带宽存储芯片供应前景的隐忧推至台前。</p>\n<p style=\"text-align: left;\">据韩国媒体23日报道，<strong>SK海力士正在放缓第六代高带宽存储芯片（HBM4）的量产扩张节奏，并将资源重新倾斜至通用型DRAM市场。</strong></p>\n<p style=\"text-align: left;\">这一消息成为触发存储股大幅回调的导火索。彭博社与CNBC均援引消息称，\"交易员将矛头指向一篇韩国媒体报道——SK海力士正在放缓AI存储芯片扩产，并将重心转回通用型DRAM\"。</p>\n<p style=\"text-align: left;\">由于存储股约占韩国综合指数（KOSPI）权重的60%，韩国股市随即暴跌逾10%，并触发熔断机制，恐慌情绪随后向全球市场蔓延。</p>\n<p style=\"text-align: left;\">报道援引一名熟悉SK海力士内部情况的人士表示，鉴于<strong>英伟达下一代芯片\"Rubin\"的生产预测持续下调</strong>",
       "link": "https://wallstreetcn.com/articles/3775325",
       "published": "Tue, 23 Jun 2026 19:33:33 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "SpaceX涨5.6%，或终结三连跌！首发债券获约3.6倍认购，凸显市场心态谨慎",
-      "summary": "<p>SpaceX首次进军债市吸引了近900亿美元的认购订单，但债券投资者对短期限品种的集中追捧和高于同类企业的信用利差，折射出市场对公司长期现金流可持续性的深层疑虑。</p>\n<p>据彭博援引知情人士透露，SpaceX周二以五档期限结构发行250亿美元债券，为该公司首次公开发债，共吸引近900亿美元认购订单。今年以来高评级债券交易的平均认购倍数约为发行规模的四倍，<strong>SpaceX的认购倍数约为3.6倍低于此</strong>。</p>\n<p>然而，需求的结构颇值关注。另有知情人士表示，<strong>认购最为踊跃的是期限最短的一档，即风险相对最低的品种</strong>。与此同时，SpaceX为10年期债券支付的信用利差，在经过压缩后仍<strong>比评级相近的英特尔同期限债券高出约50个基点</strong>。</p>\n<p>这一市场格局揭示了股债投资者之间的根本分歧：<strong>股票投资者愿意为马斯克的宏大愿景支付溢价，债券投资者则更关注偿债能力与现金流的安全边际。</strong>标普全球评级预测，SpaceX将持续消耗现金至2030年，且明年烧钱速度将大幅提",
-      "link": "https://wallstreetcn.com/articles/3775328",
-      "published": "Tue, 23 Jun 2026 19:13:31 GMT"
     }
   ]
 }

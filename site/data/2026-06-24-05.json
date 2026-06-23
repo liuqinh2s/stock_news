@@ -3,17 +3,62 @@
   "hour": "05",
   "news": [
     {
-      "title": "Cerebras营收超预期 全年指引强劲",
-      "summary": "AI芯片公司Cerebras Systems第一财季营收1.934亿美元，超分析师预期，并给出全年营收8.55-8.65亿美元的强劲指引。该公司是AI算力领域重要参与者，业绩超预期可能提振市场对AI产业链的信心，利好A股AI芯片、算力及半导体板块。看多信号。",
-      "reason": "AI行业景气度验证，对A股相关板块有正向催化，属于优先级二的行业动态。",
-      "category": "行业动态",
+      "title": "谷歌纳入道指",
+      "summary": "标普道琼斯指数公司宣布谷歌母公司Alphabet（谷歌A）将被纳入道琼斯工业平均指数，替换现有成分股。此举反映科技巨头在传统蓝筹指数中权重提升，可能提振全球科技股情绪。对A股直接影响有限，但可能间接利好AI、科技板块。信号中性偏多，因成分股调整不改变基本面。",
+      "reason": "道指成分股变动是市场结构重要事件，谷歌纳入代表科技股地位上升，可能带动A股科技板块情绪。",
+      "category": "市场结构",
       "impact_stocks": [
         "AI概念",
-        "算力芯片",
-        "半导体"
+        "科技股",
+        "创业板"
       ],
       "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260624/c677661698.shtml"
+        },
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775339"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "高盛警告市场临近断裂",
+      "summary": "高盛交易台发布警告，称市场“橡皮筋已拉至极限，或临近断裂点”，暗示美股估值过高、波动性可能骤升。该信号可能引发全球风险偏好下降，短期对A股形成情绪压制，尤其是高估值成长股。需警惕外资流出和避险情绪升温。",
+      "reason": "高盛权威警告可能引发市场恐慌，对A股情绪产生负面传导，属于市场情绪预警。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "沪深300",
+        "创业板",
+        "科技股"
+      ],
+      "signal": "bearish",
       "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775337"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "Cerebras财报超预期",
+      "summary": "AI芯片公司Cerebras Systems第一财季营收1.934亿美元，超分析师预期1.814亿美元，全年营收指引8.55-8.65亿美元。显示AI算力需求依然强劲，可能提振A股AI芯片、算力产业链相关个股情绪，如寒武纪、海光信息等。信号偏多。",
+      "reason": "AI芯片需求强劲验证行业景气度，对A股AI板块有积极情绪传导。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI芯片",
+        "寒武纪",
+        "海光信息",
+        "算力概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
       "sources": [
         {
           "name": "华尔街见闻",
@@ -21,47 +66,8 @@
         }
       ],
       "urgency": "hours"
-    },
-    {
-      "title": "野村警告美股杠杆ETF或遭抛售",
-      "summary": "野村证券发布报告，提示美股可能面临大规模杠杆ETF被动抛售风险。此前韩国股市暴跌已引发全球关注，杠杆和衍生品风险加剧。若美股出现连锁抛售，将拖累全球市场，A股也难以独善其身。短期看空信号。",
-      "reason": "对全球市场系统性风险的预警，可能引发A股避险情绪，属于优先级三的市场情绪信号。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "A股大盘",
-        "沪深300",
-        "上证50"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3775331"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美国API原油库存小幅下降",
-      "summary": "美国API原油库存上周减少76.5万桶，低于前值减少833万桶，降幅明显收窄。数据发布后油价波动有限，对A股石油板块影响中性，但需关注后续EIA数据。中性信号。",
-      "reason": "常规库存数据，对A股直接关联较小，但可能影响原油相关个股情绪，属于宏观数据跟踪。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "石油",
-        "化工"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260624/c677661646.shtml"
-        }
-      ],
-      "urgency": "hours"
     }
   ],
-  "total_fetched": 21,
-  "generated_at": "2026-06-24T05:01:26.806282+08:00"
+  "total_fetched": 25,
+  "generated_at": "2026-06-24T05:23:27.445457+08:00"
 }
