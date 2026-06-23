@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-24",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 9444,
+    "completion_tokens": 1490,
+    "total_tokens": 10934
+  },
+  "content_length": 1506,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"折叠屏iPhone预期升温\",\n      \"summary\": \"据同花顺报道，首款折叠屏iPhone落地预期升温，产业链公司将受益。这意味着苹果可能推出折叠屏手机，将带动相关供应链企业如蓝思科技、京东方等需求增长。消费电子板块可能迎来新一轮炒作，信号偏多。\",\n      \"reason\": \"市场对折叠屏iPhone的预期将刺激消费电子板块，相关个股可能受益，属于行业动态中的利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"消费电子\", \"苹果概念\", \"蓝思科技\", \"京东方\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260624/c677662440.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"多家公司上半年业绩预喜\",\n      \"summary\": \"据同花顺报道，扩产、增效步履不停，多家公司上半年业绩预喜。业绩预喜通常反映公司经营状况良好，可能带动所属行业板块上涨，同时提振市场整体信心。需要关注具体行业分布，若集中在新能源、半导体等高景气领域，则利好更显著。信号偏多。\",\n      \"reason\": \"业绩预喜是中期利好信号，反映企业盈利改善，可提振市场情绪，属于市场情绪或宏观经济范畴。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"业绩预增概念\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260624/c677662507.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"北交所公司获密集调研\",\n      \"summary\": \"据同花顺报道，北交所公司迎来密集调研，机构掘金“专精特新”标的。北交所公司获机构关注表明资金可能加速流入北交所，利好北交所整体估值提升。短期可能引发北交所个股活跃，尤其“专精特新”企业。信号偏多。\",\n      \"reason\": \"机构密集调研通常预示后续资金布局，北交所作为新兴市场，关注度提升有利于吸引增量资金，属于资金流向信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"北交所\", \"专精特新\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260624/c677662368.shtml\"}\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+}
