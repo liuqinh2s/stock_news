@@ -1,15 +1,120 @@
 {
   "date": "2026-06-24",
   "hour": "07",
-  "total": 32,
-  "fetched_at": "2026-06-24T07:00:58.811699+08:00",
+  "total": 48,
+  "fetched_at": "2026-06-24T07:54:46.706405+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "前海开源MSCI中国A股消费A净值下跌1.53% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjlUajhwdjRyQmFMdXdfdVlhdnFqcUI0SXFEOVU5MDhLN05pS0NDbWtkSWNoTWtuUFRpY3Z0UGhkRWpuck51MlBuOWlkaWExXzVBbkJiYzMyaDJVNE5wYmw3bEptNzM3X2ZYOGRDTDJQRlN3cUE2UjZPYkdkbGRpV2lJeVlxZEpjX1gxb3pqdXJoaVMyTnpR?oc=5\" target=\"_blank\">前海开源MSCI中国A股消费A净值下跌1.53%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjlUajhwdjRyQmFMdXdfdVlhdnFqcUI0SXFEOVU5MDhLN05pS0NDbWtkSWNoTWtuUFRpY3Z0UGhkRWpuck51MlBuOWlkaWExXzVBbkJiYzMyaDJVNE5wYmw3bEptNzM3X2ZYOGRDTDJQRlN3cUE2UjZPYkdkbGRpV2lJeVlxZEpjX1gxb3pqdXJoaVMyTnpR?oc=5",
-      "published": "Tue, 23 Jun 2026 21:36:00 GMT"
+      "title": "【看新股】长龙航空冲刺A股：盈利稳步提升 近九成飞机依赖租赁 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9SNXVZUEM3TjlETU9kZ2ZrazloTDM2dEc4UzNRTDZzcDhPaWNYamp4Sk1nNm90eExuMFFSdExpOGhfd3VxNnBienhzYWFjY3AzZjZZWHc1Y3hKSFJRUHQ5WWlNUWpxeEdBM3ozOU5la0ZYdDgyQ1VXSw?oc=5\" target=\"_blank\">【看新股】长龙航空冲刺A股：盈利稳步提升 近九成飞机依赖租赁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SNXVZUEM3TjlETU9kZ2ZrazloTDM2dEc4UzNRTDZzcDhPaWNYamp4Sk1nNm90eExuMFFSdExpOGhfd3VxNnBienhzYWFjY3AzZjZZWHc1Y3hKSFJRUHQ5WWlNUWpxeEdBM3ozOU5la0ZYdDgyQ1VXSw?oc=5",
+      "published": "Tue, 23 Jun 2026 23:09:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股IPO有序升温 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1BMnpVUVJCSEhIRmttRFJoYWtYWGVMRl9LZVQxeGowUzEybjZqR3pvLU9iTHdiejdPX1E5anBCeFUyWXpfZFZYajJ5NjhVNzk4SHhDT0s2N2xoZVhJUkpoc1R1N1pMcFZ6U2h5ZWpQYTRHdm5YcGt1ZA?oc=5\" target=\"_blank\">A股IPO有序升温</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BMnpVUVJCSEhIRmttRFJoYWtYWGVMRl9LZVQxeGowUzEybjZqR3pvLU9iTHdiejdPX1E5anBCeFUyWXpfZFZYajJ5NjhVNzk4SHhDT0s2N2xoZVhJUkpoc1R1N1pMcFZ6U2h5ZWpQYTRHdm5YcGt1ZA?oc=5",
+      "published": "Tue, 23 Jun 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "“只要数据中心在建，光纤就不愁卖” 一根“黄线”搅动A股风云 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMHAxYW55YzlxZWh3V1EyNmZIX2dJeGkzbHdYek9ua1VHd1RkekNWQWVBaGNlcDkxMzQzRUNXM0cwcS1vZ05XLU5zeXJJVUl5NXdPLWJhMXljdThjdkt0eVA4Q3k2YVUxaXp0cE9TRmNDaEh5VEdkdg?oc=5\" target=\"_blank\">“只要数据中心在建，光纤就不愁卖” 一根“黄线”搅动A股风云</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CMHAxYW55YzlxZWh3V1EyNmZIX2dJeGkzbHdYek9ua1VHd1RkekNWQWVBaGNlcDkxMzQzRUNXM0cwcS1vZ05XLU5zeXJJVUl5NXdPLWJhMXljdThjdkt0eVA4Q3k2YVUxaXp0cE9TRmNDaEh5VEdkdg?oc=5",
+      "published": "Tue, 23 Jun 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华泰柏瑞中证A股ETF净值下跌2.31% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzVOeng1UzRKaFlpeTBSVV9aWEtFeVJUeTNUWFktdUtDLWFmbEYyRjNOT0VTLTk0MEExQXBJN183bWtieGJlX1ZwSnJ6M2ZBaGxUUzkxTWRSTjJ3ZnQ4TkRZV2l6aXpCR0FTN2J1M0M4b2t3UnVTRmhBcERJV0NDNmJBTGx6ZFQyVzFpdFB0RFJVTXljcDk0?oc=5\" target=\"_blank\">华泰柏瑞中证A股ETF净值下跌2.31%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzVOeng1UzRKaFlpeTBSVV9aWEtFeVJUeTNUWFktdUtDLWFmbEYyRjNOT0VTLTk0MEExQXBJN183bWtieGJlX1ZwSnJ6M2ZBaGxUUzkxTWRSTjJ3ZnQ4TkRZV2l6aXpCR0FTN2J1M0M4b2t3UnVTRmhBcERJV0NDNmJBTGx6ZFQyVzFpdFB0RFJVTXljcDk0?oc=5",
+      "published": "Tue, 23 Jun 2026 23:31:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰富时中国A股自由现金流聚焦ETF净值下跌2.15% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkFpNGVsSDBwWXhuLWtTSTBvdWNQUWhEcnRwcFR2NExvX2MtQVpqY3FIUm5xaEJ0dnFxa0VQbkRENngzeTFCUGNGS3lXM2d1ZlZwaTI1Z2s4bFFmNl9mNGl1eENES21BVXRJU256M3gxMkJSWFhvdVFJdDlFNlY5ZmNFYW1fczBuLUZTTUlESVdOb2lHam5Z?oc=5\" target=\"_blank\">国泰富时中国A股自由现金流聚焦ETF净值下跌2.15%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkFpNGVsSDBwWXhuLWtTSTBvdWNQUWhEcnRwcFR2NExvX2MtQVpqY3FIUm5xaEJ0dnFxa0VQbkRENngzeTFCUGNGS3lXM2d1ZlZwaTI1Z2s4bFFmNl9mNGl1eENES21BVXRJU256M3gxMkJSWFhvdVFJdDlFNlY5ZmNFYW1fczBuLUZTTUlESVdOb2lHam5Z?oc=5",
+      "published": "Tue, 23 Jun 2026 23:15:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华安中国A股增强指数净值下跌2.58% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkU1NFo1UXZ2eW5taDRKbzMzQTFXaGcwMlJ3RURZYzBxQnlZM0tPc25EOEh2MXlRVk9ZajE5RXg2dFhFSWFXUS1LSmN0Z0FCQXhlNERGVlh6ZTgwMVlVS1lQTDFKcmFsa0Z5aFItbC1PZC1iTGJWZ3c0VkpCNXlKdU1qaFlQWDNkXzNoUDUwbERCbUtXS1Z3?oc=5\" target=\"_blank\">华安中国A股增强指数净值下跌2.58%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkU1NFo1UXZ2eW5taDRKbzMzQTFXaGcwMlJ3RURZYzBxQnlZM0tPc25EOEh2MXlRVk9ZajE5RXg2dFhFSWFXUS1LSmN0Z0FCQXhlNERGVlh6ZTgwMVlVS1lQTDFKcmFsa0Z5aFItbC1PZC1iTGJWZ3c0VkpCNXlKdU1qaFlQWDNkXzNoUDUwbERCbUtXS1Z3?oc=5",
+      "published": "Tue, 23 Jun 2026 23:13:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "富国恒生A股专精特新企业ETF净值下跌1.50% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkVIV3B5OFJHa21DcWZOVXFvbm95eDJ2SVZ2YmxIVWJOMmN2S0dxNGw5QlREMHA3RHZJakFFRV9FT1I2VVlJSGx2eDVGZTd3azg1a1RzY0N4eVdmdjk5RzhrS1VXNk5oRFdTRkJYV2hybzNxSDZqWDZKRXl2dHI5NXFkOVF3eFVlNG1YRmF0elhpdXhSTm8w?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF净值下跌1.50%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkVIV3B5OFJHa21DcWZOVXFvbm95eDJ2SVZ2YmxIVWJOMmN2S0dxNGw5QlREMHA3RHZJakFFRV9FT1I2VVlJSGx2eDVGZTd3azg1a1RzY0N4eVdmdjk5RzhrS1VXNk5oRFdTRkJYV2hybzNxSDZqWDZKRXl2dHI5NXFkOVF3eFVlNG1YRmF0elhpdXhSTm8w?oc=5",
+      "published": "Tue, 23 Jun 2026 23:31:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "建信中证A股指数增强发起A净值下跌1.04% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXRsVklWa3Z6RjdJVFhNWDBpWVlqMXNYNkFITHFxbFdRSVY4ZFhMU1N1dmFUWkp1bWM5ZEVpZjdIRWFTV0dCUWN1MkxuSzdVZlVBeWtESFFRUFBEYnZRMVZ6S3c0VDFOQzhBMFpiaTBHN3U3SElSVC05UVc2M3NNU051bU1ZUGRLOV9wN2FOMlVTWjVtYnVZ?oc=5\" target=\"_blank\">建信中证A股指数增强发起A净值下跌1.04%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTXRsVklWa3Z6RjdJVFhNWDBpWVlqMXNYNkFITHFxbFdRSVY4ZFhMU1N1dmFUWkp1bWM5ZEVpZjdIRWFTV0dCUWN1MkxuSzdVZlVBeWtESFFRUFBEYnZRMVZ6S3c0VDFOQzhBMFpiaTBHN3U3SElSVC05UVc2M3NNU051bU1ZUGRLOV9wN2FOMlVTWjVtYnVZ?oc=5",
+      "published": "Tue, 23 Jun 2026 22:53:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "天弘富时中国A股自由现金流聚焦指数C净值下跌2.13% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTN3MjZSMVdSYS1ySWk2X2QzTmhlLXl2d3dmMmc4VjZSRl9BZUtmWTlVbHRZYjdCRG0zUkNrMmxvV08ycDZxVkxkT3JMOVhxX2hYSTdKUVVfcG9KM3d5Z3VEZWNEeGlnNVpzbnZYbjUzTDNwRFcyaWc5RS1YNXFuRnVoOXg1OWwxOEhidXl6MGgxRUxUcU5n?oc=5\" target=\"_blank\">天弘富时中国A股自由现金流聚焦指数C净值下跌2.13%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTN3MjZSMVdSYS1ySWk2X2QzTmhlLXl2d3dmMmc4VjZSRl9BZUtmWTlVbHRZYjdCRG0zUkNrMmxvV08ycDZxVkxkT3JMOVhxX2hYSTdKUVVfcG9KM3d5Z3VEZWNEeGlnNVpzbnZYbjUzTDNwRFcyaWc5RS1YNXFuRnVoOXg1OWwxOEhidXl6MGgxRUxUcU5n?oc=5",
+      "published": "Tue, 23 Jun 2026 23:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华泰柏瑞中证A股ETF发起式联接C净值下跌2.15% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOelN3RGpzNU9EQnRGdUNuUmZCLUFMYnZmNExaRDg4S2xqQUoyVDR6U2lxTjVCWmdHWDhKZ1hKT08xTWhWTHhyT1c0Y3FYMmd1anFEWWp4M3hBUDNKend2M2Fkc3RHZ214WHdXcW1PeGNIYUlKY2pGQ0kxcmRrak5MNnM5eEo0eDM1TmkwZnF2U3Q0bERFTTBZ?oc=5\" target=\"_blank\">华泰柏瑞中证A股ETF发起式联接C净值下跌2.15%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelN3RGpzNU9EQnRGdUNuUmZCLUFMYnZmNExaRDg4S2xqQUoyVDR6U2lxTjVCWmdHWDhKZ1hKT08xTWhWTHhyT1c0Y3FYMmd1anFEWWp4M3hBUDNKend2M2Fkc3RHZ214WHdXcW1PeGNIYUlKY2pGQ0kxcmRrak5MNnM5eEo0eDM1TmkwZnF2U3Q0bERFTTBZ?oc=5",
+      "published": "Tue, 23 Jun 2026 22:59:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "富国恒生A股专精特新企业ETF发起式联接A净值下跌1.43% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPN05RMVdFWFpQU1JveXlMakFhb3RONUZBN1hMcWZ3dzlTZ0RfNEVCM2hpSUtpaUlmcnVqMHVJNDZOaFZnbVJiaEJyd3FLV0dSQ083NHdUemlxNWFjM2VOc1FZcUh1UXpLSmZJT3dBdU1WS0RVSnFLUWhOMHB6UlZ4anBjMjgyMHd4V09yX3pXQ2g0NjI2S1BR?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF发起式联接A净值下跌1.43%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN05RMVdFWFpQU1JveXlMakFhb3RONUZBN1hMcWZ3dzlTZ0RfNEVCM2hpSUtpaUlmcnVqMHVJNDZOaFZnbVJiaEJyd3FLV0dSQ083NHdUemlxNWFjM2VOc1FZcUh1UXpLSmZJT3dBdU1WS0RVSnFLUWhOMHB6UlZ4anBjMjgyMHd4V09yX3pXQ2g0NjI2S1BR?oc=5",
+      "published": "Tue, 23 Jun 2026 23:02:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "鹏华中证A股资源产业指数(LOF)I净值下跌6.32% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdm9YYjhYZWFLdkljMVEwZklGWkkyTng2dlB3anNOMlpjaDhwZGVuT0p5MUU4REpZdGgyeHVZMjNsZEF5SjFUZFZaOEpWTG44dTZMZ2FsVDhZYkxUem5YZXNGZjBmcEctSkZQd00tMEJwUGZ4LWxxTkRuaWpMTm42czR4VVhMRXpOYnVqMzRWdEZmZE1IYVJN?oc=5\" target=\"_blank\">鹏华中证A股资源产业指数(LOF)I净值下跌6.32%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdm9YYjhYZWFLdkljMVEwZklGWkkyTng2dlB3anNOMlpjaDhwZGVuT0p5MUU4REpZdGgyeHVZMjNsZEF5SjFUZFZaOEpWTG44dTZMZ2FsVDhZYkxUem5YZXNGZjBmcEctSkZQd00tMEJwUGZ4LWxxTkRuaWpMTm42czR4VVhMRXpOYnVqMzRWdEZmZE1IYVJN?oc=5",
+      "published": "Tue, 23 Jun 2026 23:03:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "年内重要股东增持超350亿元，77家公司打出“增持+回购”组合拳 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAwSkZoYWgyQkZySnZTWDF2N3hpTzZaTVVkeVUtUml6MldrdVU1VGliMXlMLXRlaFBqT1ZiS3Q3R19jQnJ6eTdOQnYyd0tkMWlUaG14UHN4QTBDaDlmdEtZUTJEMmhxNUpFbzMtdHlWQ1NzaXNlLTBEQg?oc=5\" target=\"_blank\">年内重要股东增持超350亿元，77家公司打出“增持+回购”组合拳</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwSkZoYWgyQkZySnZTWDF2N3hpTzZaTVVkeVUtUml6MldrdVU1VGliMXlMLXRlaFBqT1ZiS3Q3R19jQnJ6eTdOQnYyd0tkMWlUaG14UHN4QTBDaDlmdEtZUTJEMmhxNUpFbzMtdHlWQ1NzaXNlLTBEQg?oc=5",
+      "published": "Tue, 23 Jun 2026 23:39:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "招商MSCI中国A股国际通ETF净值下跌2.45% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2JYUWlnekRBZnNNcURLaXBBNHpxdFdwTFQzd1lZLXlacHV4YkJqZnhjUEc5akVkcEl6ZmFzM2h4NmY0dVhobUJXZVJFVzRWN1ZKX0hWWGtiVEJfNTlJQjJMaFY2SmpmaVJ6V19CNmJvYmJIWnVLZER6aUxEQXBqTTI3WWRBN2pWNzRqeVdOcjYyX1dTUVhj?oc=5\" target=\"_blank\">招商MSCI中国A股国际通ETF净值下跌2.45%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2JYUWlnekRBZnNNcURLaXBBNHpxdFdwTFQzd1lZLXlacHV4YkJqZnhjUEc5akVkcEl6ZmFzM2h4NmY0dVhobUJXZVJFVzRWN1ZKX0hWWGtiVEJfNTlJQjJMaFY2SmpmaVJ6V19CNmJvYmJIWnVLZER6aUxEQXBqTTI3WWRBN2pWNzRqeVdOcjYyX1dTUVhj?oc=5",
+      "published": "Tue, 23 Jun 2026 23:26:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "易方达MSCI中国A股国际通ETF净值下跌2.49% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcW5DSUFheHlIMEYxZTlNcWphYU0yc09ZVHlueHdMY0R1NFdhLU9WOHFMTlE5NUI2MFJFS2sxNm1WQ0xUbHczYV9RUTdELVRiem5uQVNUaGYxaGZXNmw4UkFWVHV0bXJwLTJocFJwaUtHdTV6d2doT2ROc055WVZ2UU9hUWRCcG5GeENjSjJBSnA0NkVva09R?oc=5\" target=\"_blank\">易方达MSCI中国A股国际通ETF净值下跌2.49%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcW5DSUFheHlIMEYxZTlNcWphYU0yc09ZVHlueHdMY0R1NFdhLU9WOHFMTlE5NUI2MFJFS2sxNm1WQ0xUbHczYV9RUTdELVRiem5uQVNUaGYxaGZXNmw4UkFWVHV0bXJwLTJocFJwaUtHdTV6d2doT2ROc055WVZ2UU9hUWRCcG5GeENjSjJBSnA0NkVva09R?oc=5",
+      "published": "Tue, 23 Jun 2026 23:25:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰富时中国A股自由现金流聚焦ETF发起联接A净值下跌2.04% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjd5ZUR6ZUlrV0o4N2IyWXMwQmpCVUlsUVBhaEc2ZGgxZmNFR1g1cHVmcHliZnlqQl81d2NHem9MdEtjTXVCUlYwYjRWSmg0d3FfR1otU05ZV2JCdnlDYjFVeHhieUQtRGFYbUdpSzRHZklUNlY4d0lmU3BxaHlfRk8tS0I0NUFnRnNwT0dlV3ZlbGE3c1hN?oc=5\" target=\"_blank\">国泰富时中国A股自由现金流聚焦ETF发起联接A净值下跌2.04%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjd5ZUR6ZUlrV0o4N2IyWXMwQmpCVUlsUVBhaEc2ZGgxZmNFR1g1cHVmcHliZnlqQl81d2NHem9MdEtjTXVCUlYwYjRWSmg0d3FfR1otU05ZV2JCdnlDYjFVeHhieUQtRGFYbUdpSzRHZklUNlY4d0lmU3BxaHlfRk8tS0I0NUFnRnNwT0dlV3ZlbGE3c1hN?oc=5",
+      "published": "Tue, 23 Jun 2026 23:01:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -19,116 +124,123 @@
       "published": "Tue, 23 Jun 2026 22:21:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "摩根MSCI中国A股ETF联接C净值下跌2.33% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTdKUXZidzJJT09nSl9kNDBsQm9wNnNKVTVOSXhTZEhoWnZYOTlhNXFOZ0hwaVZscDBRaE0tWjZnbExLVWVhZEhxTXNUTUx4N3FaU01qOUN1ZUZ5aVltNkpCWk5MSXltV2RlX1B6ZklMYV9YMlFpQ2g1aHl4X3B4OWcyNlFRbHQyQnUzaUlQZHN2ZXVCVVhv?oc=5\" target=\"_blank\">摩根MSCI中国A股ETF联接C净值下跌2.33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTdKUXZidzJJT09nSl9kNDBsQm9wNnNKVTVOSXhTZEhoWnZYOTlhNXFOZ0hwaVZscDBRaE0tWjZnbExLVWVhZEhxTXNUTUx4N3FaU01qOUN1ZUZ5aVltNkpCWk5MSXltV2RlX1B6ZklMYV9YMlFpQ2g1aHl4X3B4OWcyNlFRbHQyQnUzaUlQZHN2ZXVCVVhv?oc=5",
-      "published": "Tue, 23 Jun 2026 21:48:00 GMT"
+      "source": "东方财富",
+      "title": "SK海力士将向韩国金融监督院提交与ADR挂钩的新股票发售计划 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UzlEc01pVzV0a2EwSzlRSnBiR2ZnRnpyazVNWjdsQ0VQano0NXFWZE9iajQ3ZEJNTGtES0QtNVNsOFgySDN4UC1vLTZrZFpjNFVuRlprRTZOdHM0X2NuRg?oc=5\" target=\"_blank\">SK海力士将向韩国金融监督院提交与ADR挂钩的新股票发售计划</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UzlEc01pVzV0a2EwSzlRSnBiR2ZnRnpyazVNWjdsQ0VQano0NXFWZE9iajQ3ZEJNTGtES0QtNVNsOFgySDN4UC1vLTZrZFpjNFVuRlprRTZOdHM0X2NuRg?oc=5",
+      "published": "Tue, 23 Jun 2026 23:29:20 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "华夏MSCI中国A股国际通ETF联接C净值下跌2.36% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlptTEFUeU03YmxLRElGRmNSbW1rdFJzRW9SdUxtT3c3SkZrZG9EQVJaaDYzUzNpS1ROSVNHY19RZENIWUtpQXdOclFLaFAtdi1GQWxOc3pYVTZ4OTlMR0ZybWpVMkxNVFdCS0JPbk91MGVHblctSE1CeWtoVmpmQ0pjSE85QW13VGFyUDhBbzV2cEVudGJ3?oc=5\" target=\"_blank\">华夏MSCI中国A股国际通ETF联接C净值下跌2.36%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWlptTEFUeU03YmxLRElGRmNSbW1rdFJzRW9SdUxtT3c3SkZrZG9EQVJaaDYzUzNpS1ROSVNHY19RZENIWUtpQXdOclFLaFAtdi1GQWxOc3pYVTZ4OTlMR0ZybWpVMkxNVFdCS0JPbk91MGVHblctSE1CeWtoVmpmQ0pjSE85QW13VGFyUDhBbzV2cEVudGJ3?oc=5",
-      "published": "Tue, 23 Jun 2026 21:30:00 GMT"
+      "source": "东方财富",
+      "title": "首创证券：融资净偿还10.69万元，融资余额7.09亿元 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YY1MycndrNzFGLVE5Qm82UGttU0hEdXFXWG5fMUpjY0p4aGZBSnRFbnhYLUpSa0hjUFRUN2NEbU1oRzFSRWY1bG1YXzN0ZzNjVVozeTNRMzdYYTdKSjRIR1JIaw?oc=5\" target=\"_blank\">首创证券：融资净偿还10.69万元，融资余额7.09亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YY1MycndrNzFGLVE5Qm82UGttU0hEdXFXWG5fMUpjY0p4aGZBSnRFbnhYLUpSa0hjUFRUN2NEbU1oRzFSRWY1bG1YXzN0ZzNjVVozeTNRMzdYYTdKSjRIR1JIaw?oc=5",
+      "published": "Tue, 23 Jun 2026 23:41:54 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "南方MSCI中国A股国际通ETF发起联接C净值下跌2.38% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOLW5raUFrWUctSXRuQzhOeFNkV2RLMVlaUzR5OC1IZG5fOGxTZHNTMnhkWTRuZGxvNDRiYWRRZE9uV1haV1B1NFlLcGp1Ukw5b2FIV1I1MFBFRFc2bWJEbmx0amhiREh5SFBpY3pOU2FiTE9IeUtNYW8xQktKMnBWV2k3ZS1EaGFYTy15enJmdW9rMzJydXpr?oc=5\" target=\"_blank\">南方MSCI中国A股国际通ETF发起联接C净值下跌2.38%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLW5raUFrWUctSXRuQzhOeFNkV2RLMVlaUzR5OC1IZG5fOGxTZHNTMnhkWTRuZGxvNDRiYWRRZE9uV1haV1B1NFlLcGp1Ukw5b2FIV1I1MFBFRFc2bWJEbmx0amhiREh5SFBpY3pOU2FiTE9IeUtNYW8xQktKMnBWV2k3ZS1EaGFYTy15enJmdW9rMzJydXpr?oc=5",
-      "published": "Tue, 23 Jun 2026 21:31:00 GMT"
+      "source": "同花顺",
+      "title": "古茗：建议发售19.6亿港元零息担保可换股债券及同步股份回购",
+      "summary": "古茗在港交所公告，建议发售19.6亿港元零息担保可换股债券及同步股份回购。",
+      "link": "https://news.10jqka.com.cn/20260624/c677663087.shtml",
+      "published": "Tue, 23 Jun 2026 23:53:17 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "前海开源MSCI中国A股指数C净值下跌2.32% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHNTV0tYYmtZVnZfazNEZzY0V2ZSWVRDYUdrbmZ0OFNMVDM0U19KcTRfNWR0bzJvRERCQkhxREhTN1Zfa2FPWXZ6dUkyQXVKeUhRUW9NS09JVGJnMG9Lc0dkUjh4cF9ncHBrNDNaNzJCdVNiMDVzQTRQTmFTeTNLeVVkRXM4MTFHcGh5VHg2WjE3MnlzMGJR?oc=5\" target=\"_blank\">前海开源MSCI中国A股指数C净值下跌2.32%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHNTV0tYYmtZVnZfazNEZzY0V2ZSWVRDYUdrbmZ0OFNMVDM0U19KcTRfNWR0bzJvRERCQkhxREhTN1Zfa2FPWXZ6dUkyQXVKeUhRUW9NS09JVGJnMG9Lc0dkUjh4cF9ncHBrNDNaNzJCdVNiMDVzQTRQTmFTeTNLeVVkRXM4MTFHcGh5VHg2WjE3MnlzMGJR?oc=5",
-      "published": "Tue, 23 Jun 2026 21:35:00 GMT"
+      "source": "同花顺",
+      "title": "日经指数期货转涨，此前一度跌0.5%",
+      "summary": "6月24日，日经指数期货转涨，此前一度跌0.5%。",
+      "link": "https://news.10jqka.com.cn/20260624/c677663035.shtml",
+      "published": "Tue, 23 Jun 2026 23:49:12 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "招商MSCI中国A股国际通ETF联接C净值下跌2.34% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVFWcmFYenY4b0VUOEE5bmN4NXNZTmFMNXkyQ3R4WW5scnltcXJMRzlCV2otU3RfQkVVTklxVkIwUXRTM1ItMldXa1ktWTVuZmloMElkZ0tyM0x1cHhoRmVOejlPWWk0V19KSzFGaEJZRy1tVGp5U2F4OEhWSldJVE11RmhOZUJXbmVSbnVRRU8tZXZROEhr?oc=5\" target=\"_blank\">招商MSCI中国A股国际通ETF联接C净值下跌2.34%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOVFWcmFYenY4b0VUOEE5bmN4NXNZTmFMNXkyQ3R4WW5scnltcXJMRzlCV2otU3RfQkVVTklxVkIwUXRTM1ItMldXa1ktWTVuZmloMElkZ0tyM0x1cHhoRmVOejlPWWk0V19KSzFGaEJZRy1tVGp5U2F4OEhWSldJVE11RmhOZUJXbmVSbnVRRU8tZXZROEhr?oc=5",
-      "published": "Tue, 23 Jun 2026 21:31:00 GMT"
+      "source": "同花顺",
+      "title": "汽车业上演“光进铜退” 头部企业争相布局千亿级赛道",
+      "summary": "在AI数据中心光模块需求持续井喷的当下，另一条千亿级赛道——车载光通信，正随着新能源汽车的电气化与智能化浪潮加速发展，从概念阶段进入产品落地与生态构建的关键期。近日，多家光通信头部企业加快在汽车赛道布局。亨通光电打造全套车载光纤通信方案，公司方面介绍，可稳定实现10Gb/s以上超高速传输，带宽能力数十倍优于传统铜缆。光迅科技也对外宣布，公司提前布局车载光通信等新兴光电子赛道，持续培育第二成长曲线。华工科技在不久前举行的“光博会”上，首次发布车载以太网高速通信光模块，实现微秒级超低时延传输。产业布局背后的驱动力明确。L3准入法规有望全面放开，智能座舱与高阶智驾加速普及，传统车载铜缆在带宽、抗干扰、轻量化等方面的天花板日益凸显，以光纤为介质的车载光通信技术，成为破局汽车“带宽危机”和构建下一代电子电气架构（EEA）的关键基础设施。多位业内人士表示，今年行业共识已从“是否要上”转向“如何上车”，“光进铜退”从通信行业向汽车行业加速演进。（证券时报）",
+      "link": "https://news.10jqka.com.cn/20260624/c677663026.shtml",
+      "published": "Tue, 23 Jun 2026 23:48:29 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "建信MSCI中国A股指数增强C净值下跌2.02% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjE3WG5mQl82ZDFobFY2a19xM1lVY2ZrUHRwdzBFRmdZTWxSbDVFaXpLaHhLMWtlMWRRdjJXMG81OXg2Z2lDM1ZsQTJQRmdzVTJ6WXNHZTZTeVVtUFN3WmxiTE9hSzM1ZTJZV0dFd1MzRENRWmZBdW5zT2l2RmlianNaMkIxVmpIVjlGUDg4eHFmOG1GRHBj?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强C净值下跌2.02%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWjE3WG5mQl82ZDFobFY2a19xM1lVY2ZrUHRwdzBFRmdZTWxSbDVFaXpLaHhLMWtlMWRRdjJXMG81OXg2Z2lDM1ZsQTJQRmdzVTJ6WXNHZTZTeVVtUFN3WmxiTE9hSzM1ZTJZV0dFd1MzRENRWmZBdW5zT2l2RmlianNaMkIxVmpIVjlGUDg4eHFmOG1GRHBj?oc=5",
-      "published": "Tue, 23 Jun 2026 21:42:00 GMT"
+      "source": "同花顺",
+      "title": "COMEX白银期货跌超2%",
+      "summary": "COMEX白银期货跌超2%，现报60.83美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260624/c677662993.shtml",
+      "published": "Tue, 23 Jun 2026 23:44:40 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "前海开源MSCI中国A股指数A净值下跌2.32% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONnZZSVd0azVnd1RTYnlFVmVkV3JqMEJxc3ZCdXpPbnp1YjNDaU5ZckJWbXNXTkR0enY2bmpkdnJYaTY1bnRYalRKaTJJem9tNHVNczFwaHAtUjZJQzNPTzZvOEgwTFJuZk1hcnIwRmRQdi14SlYyZ0ZvMHA3QmNrVXh4QmF6MDUzVkd0RWsxLTV6bUdncGtR?oc=5\" target=\"_blank\">前海开源MSCI中国A股指数A净值下跌2.32%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONnZZSVd0azVnd1RTYnlFVmVkV3JqMEJxc3ZCdXpPbnp1YjNDaU5ZckJWbXNXTkR0enY2bmpkdnJYaTY1bnRYalRKaTJJem9tNHVNczFwaHAtUjZJQzNPTzZvOEgwTFJuZk1hcnIwRmRQdi14SlYyZ0ZvMHA3QmNrVXh4QmF6MDUzVkd0RWsxLTV6bUdncGtR?oc=5",
-      "published": "Tue, 23 Jun 2026 21:35:00 GMT"
+      "source": "同花顺",
+      "title": "股票私募仓位创近9周新高 百亿级机构积极加仓",
+      "summary": "今年以来，随着A股市场回暖，股票私募加仓步伐明显加快。私募排排网数据显示，截至近日，股票私募仓位指数升至81.55%，环比上一周上涨0.56个百分点，创下近9周以来新高。在此轮加仓潮中，大型私募机构充当“急先锋”，不少百亿级私募甚至选择满仓出击。从不同规模私募的表现看，各梯队机构均出现加仓，大规模私募动作最为明显。其中，50亿至100亿元规模私募加仓力度尤为突出，仓位指数升至94.41%，创下年内新高；百亿级私募仓位达到85.98%，刷新年内次高水平。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260624/c677662990.shtml",
+      "published": "Tue, 23 Jun 2026 23:44:21 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "建信MSCI中国A股指数增强A净值下跌2.02% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOODJkX3VMNlhHZHQ5QmJYb2F6dUdCcG9yWlhYaS1CbXZ1WEZoZTBudlJQb0pXbUplUThVSHUwcWpKbm5OeVMxQVVFYVh1RWVkUkdxdmNZZ0JwZzM3MlNHNHdDZFV6Sl91US1Gb25EbnNLMkJoeVdTUTJTbFJyYlVYRFpoMFNuT2pHV2hvTmdoYTl2U18zSk9R?oc=5\" target=\"_blank\">建信MSCI中国A股指数增强A净值下跌2.02%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOODJkX3VMNlhHZHQ5QmJYb2F6dUdCcG9yWlhYaS1CbXZ1WEZoZTBudlJQb0pXbUplUThVSHUwcWpKbm5OeVMxQVVFYVh1RWVkUkdxdmNZZ0JwZzM3MlNHNHdDZFV6Sl91US1Gb25EbnNLMkJoeVdTUTJTbFJyYlVYRFpoMFNuT2pHV2hvTmdoYTl2U18zSk9R?oc=5",
-      "published": "Tue, 23 Jun 2026 21:42:00 GMT"
+      "source": "同花顺",
+      "title": "MSCI市场分类结果出炉 韩国仍未晋级发达市场",
+      "summary": "MSCI（明晟公司）当地时间6月23日晚发布2026年市场分类评审结果，涉及多个市场的分类地位调整及市场准入评估。此次评审中，韩国股市能否从新兴市场晋升为发达市场再度成为焦点。MSCI表示，尽管韩国市场监管机构已宣布一系列改革措施，但根本问题尚未完全解决，韩国仍未晋级发达市场。",
+      "link": "https://news.10jqka.com.cn/20260624/c677662947.shtml",
+      "published": "Tue, 23 Jun 2026 23:39:12 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "建信MSCI中国A股国际通ETF联接C净值下跌2.22% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1dUaF8zZ1QtREpjTXJLVWpPMnM2RUFiV2tkSjY0Qm1sLWpSYU01NlNsRnhQdjBTMk9sOWE2VXB5NUJjWmFuaFVOTUx4cjBrdXhWQWVrT3Y3M1FNZ0FLdkpKMFljZ2xjOHRBREc2RHk1ZmNYSUJZbzNCRG5qZFNjSVJoa3hnRF9uT0RHeHJNVVl1cVpVVXlZ?oc=5\" target=\"_blank\">建信MSCI中国A股国际通ETF联接C净值下跌2.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1dUaF8zZ1QtREpjTXJLVWpPMnM2RUFiV2tkSjY0Qm1sLWpSYU01NlNsRnhQdjBTMk9sOWE2VXB5NUJjWmFuaFVOTUx4cjBrdXhWQWVrT3Y3M1FNZ0FLdkpKMFljZ2xjOHRBREc2RHk1ZmNYSUJZbzNCRG5qZFNjSVJoa3hnRF9uT0RHeHJNVVl1cVpVVXlZ?oc=5",
-      "published": "Tue, 23 Jun 2026 21:31:00 GMT"
+      "source": "同花顺",
+      "title": "英伟达要求PCB厂商降价10%？PCB厂商、市场人士称传闻存在明显夸大和误读",
+      "summary": "6月23日，PCB板块大跌之际，市场围绕产业链出现多重讨论。一方面，市场流传“英伟达要求PCB厂商降价10%”“胜宏科技扩产拖累Rubin平台出货”等消息。对此，记者向PCB厂商、市场人士等进行了求证。多位受访者表示，上述传闻存在明显夸大和误读，其中“胜宏科技导致Rubin延期”的说法缺乏产业逻辑支撑。另一方面，外资行杰富瑞近日发布研报称，原计划于2027年导入的Kyber背板PCB方案或推迟至2028年落地，引发市场对AI PCB景气度的讨论。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260624/c677662867.shtml",
+      "published": "Tue, 23 Jun 2026 23:31:39 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "平安MSCI中国A股国际ETF联接C净值下跌2.34% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZlNUMVp6VVg0aDhCV081akxkeHB6SXo1X19hOVVWaFhPa282TG5IaURPRVBJeUdKMjBHTmpVemNSaW1KQWtEdktIOG4xOVZNYXhza25ock5BeWZsTUlZYlJPQWlUYS1KTHdwM3d6bVE2MXlRNFExeDc0ME5JV05FS1ZURTI3c0dqa3ZfNWdSSk5yVS1TWVNv?oc=5\" target=\"_blank\">平安MSCI中国A股国际ETF联接C净值下跌2.34%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZlNUMVp6VVg0aDhCV081akxkeHB6SXo1X19hOVVWaFhPa282TG5IaURPRVBJeUdKMjBHTmpVemNSaW1KQWtEdktIOG4xOVZNYXhza25ock5BeWZsTUlZYlJPQWlUYS1KTHdwM3d6bVE2MXlRNFExeDc0ME5JV05FS1ZURTI3c0dqa3ZfNWdSSk5yVS1TWVNv?oc=5",
-      "published": "Tue, 23 Jun 2026 21:31:00 GMT"
+      "source": "同花顺",
+      "title": "摩根士丹利旗下70亿美元私募信贷基金限制赎回，回购上限设为5%",
+      "summary": "摩根士丹利管理的一只规模70亿美元的私募信贷基金将赎回比例上限定为5%，意味着不到第二季度申请赎回比例的一半。据周二发布的信函，North Haven Private Income Fund表示投资者申请赎回比例为11.6%，高于第一季度的10.9%。在规模达1.8万亿美元的私募信贷市场中，由于许多基金在上一季度限制投资者全额退出，本季度主要基金面临的赎回申请普遍增加。摩根士丹利在信中表示，该基金第二季度超过一半的赎回申请来自上一季度未能全额赎回资金的投资者。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260624/c677662825.shtml",
+      "published": "Tue, 23 Jun 2026 23:27:43 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "富国MSCI中国A股国际通指数增强A净值下跌2.14% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk1XZ0R4eDhEUnZVNVZLRUNvdmNGU1lRTGszblQ5QzF2MTNxeWJaVjM3VkZXNENmSDdGa1RyeWh1dWtzRTVaeEVhWXVIOXozdmlxd1cxZ1hSZTNTNzFOcFpSdHE1Z3A3M21HM1FYQXZUWUdfVEFHQVFWeWFxb0hBcGY0OG53YlpnLWYzUDhEN3pDTU52dEhR?oc=5\" target=\"_blank\">富国MSCI中国A股国际通指数增强A净值下跌2.14%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWk1XZ0R4eDhEUnZVNVZLRUNvdmNGU1lRTGszblQ5QzF2MTNxeWJaVjM3VkZXNENmSDdGa1RyeWh1dWtzRTVaeEVhWXVIOXozdmlxd1cxZ1hSZTNTNzFOcFpSdHE1Z3A3M21HM1FYQXZUWUdfVEFHQVFWeWFxb0hBcGY0OG53YlpnLWYzUDhEN3pDTU52dEhR?oc=5",
-      "published": "Tue, 23 Jun 2026 21:33:00 GMT"
+      "source": "同花顺",
+      "title": "SK海力士将向韩国金融监督院提交与ADR挂钩的新股票发售计划",
+      "summary": "SK海力士将向韩国金融监督院（FSS）提交与ADR挂钩的新股票发售计划。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260624/c677662811.shtml",
+      "published": "Tue, 23 Jun 2026 23:26:27 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "建信MSCI中国A股国际通ETF联接A净值下跌2.21% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2pxUjNpZFNfWlpaelE0bUsxaHdkenp0UHo2R2NvclJ2TnRRZWJTa0c2TnNPbmdFNTBwc1FMQThiQ1RmRkFmd0N3YTREOWRocUd1UUtpdTZfOGhFa1kzT3E3c0pKWWhSLXJzMDJZTFdPdDlidHJUTHluSElpeklKclB3WDZsUThYSGJvaXhZdGUyQ2t1R2h3?oc=5\" target=\"_blank\">建信MSCI中国A股国际通ETF联接A净值下跌2.21%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ2pxUjNpZFNfWlpaelE0bUsxaHdkenp0UHo2R2NvclJ2TnRRZWJTa0c2TnNPbmdFNTBwc1FMQThiQ1RmRkFmd0N3YTREOWRocUd1UUtpdTZfOGhFa1kzT3E3c0pKWWhSLXJzMDJZTFdPdDlidHJUTHluSElpeklKclB3WDZsUThYSGJvaXhZdGUyQ2t1R2h3?oc=5",
-      "published": "Tue, 23 Jun 2026 21:31:00 GMT"
+      "source": "同花顺",
+      "title": "首款折叠屏iPhone落地预期升温 产业链公司将受益",
+      "summary": "日前，记者获悉，有苹果产业链公司已于近期开始向首款折叠屏iPhone小批量供货，预计首款折叠屏iPhone于今年秋季发布。机构认为，随着苹果推出首款折叠屏产品，凭借庞大的用户基础，有望提升折叠屏产品市场渗透率，折叠屏产业链公司将受益。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20260624/c677662810.shtml",
+      "published": "Tue, 23 Jun 2026 23:26:11 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "平安MSCI中国A股国际ETF联接A净值下跌2.34% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORWh4bnNLa1lwM1VaTlJKUGwyeHZNcVNMVEpqeG5FS1RnZkFldmJlbEhDQ3NwcTVJRlBSc0pjZ2JRSFlJRGRfckFxbVdIeXpTRzUzRE5RWHc2QlJsbHpPSG5ja2hOOFg5aWpYWktoWkdqNk5KWUV4bWkzVjFrZmdpRkZfRk52UDZCMTIyekx2R2lwYXZ6TnVJ?oc=5\" target=\"_blank\">平安MSCI中国A股国际ETF联接A净值下跌2.34%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORWh4bnNLa1lwM1VaTlJKUGwyeHZNcVNMVEpqeG5FS1RnZkFldmJlbEhDQ3NwcTVJRlBSc0pjZ2JRSFlJRGRfckFxbVdIeXpTRzUzRE5RWHc2QlJsbHpPSG5ja2hOOFg5aWpYWktoWkdqNk5KWUV4bWkzVjFrZmdpRkZfRk52UDZCMTIyekx2R2lwYXZ6TnVJ?oc=5",
-      "published": "Tue, 23 Jun 2026 21:31:00 GMT"
+      "source": "同花顺",
+      "title": "锂电行业景气度回升 关注龙头企业盈利修复机遇",
+      "summary": "6月23日，A股市场迎来调整，各大宽基指数跌幅显著，锂电板块却走出相对抗跌行情，板块内仍有多只个股涨停。今年以来，锂电板块行情几经起伏，6月初再度开启反弹；锂电池概念板块累计涨幅超17%，大幅跑赢沪深300指数。分析人士认为，看好锂电产业周期上行，随着储能需求旺季临近，行业或将迎来量价齐升的行情，产业链龙头盈利修复机遇备受关注。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20260624/c677662796.shtml",
+      "published": "Tue, 23 Jun 2026 23:24:27 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "招商MSCI中国A股国际通ETF联接A净值下跌2.34% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWU0MFFKR2wwTWU3TzhYdVh0V2hkTGJNQWItZmwwN1NJVlRzR2V0anFxejZwM0pfamFYQlpMZC05RWxWaktVUlZqUm9VWnAtMU5uOFB3UlRLTW1Fd0FaTHZ3eElUdU1GN0xYaG16RlBxVnRpeFpSUnpnNlF2MHppNjktVk1uVzFYaVE2ejZuWHVJdHJqNF93?oc=5\" target=\"_blank\">招商MSCI中国A股国际通ETF联接A净值下跌2.34%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWU0MFFKR2wwTWU3TzhYdVh0V2hkTGJNQWItZmwwN1NJVlRzR2V0anFxejZwM0pfamFYQlpMZC05RWxWaktVUlZqUm9VWnAtMU5uOFB3UlRLTW1Fd0FaTHZ3eElUdU1GN0xYaG16RlBxVnRpeFpSUnpnNlF2MHppNjktVk1uVzFYaVE2ejZuWHVJdHJqNF93?oc=5",
-      "published": "Tue, 23 Jun 2026 21:31:00 GMT"
+      "source": "同花顺",
+      "title": "德国铁路运营商德铁表示，列车无线电故障已解决，服务正在恢复",
+      "summary": "德国铁路运营商德铁表示，列车无线电故障已解决，服务正在恢复。(蓝鲸新闻)",
+      "link": "https://news.10jqka.com.cn/20260624/c677662719.shtml",
+      "published": "Tue, 23 Jun 2026 23:13:31 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "易方达MSCI中国A股国际通ETF联接C净值下跌2.38% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2RSc21UUTNlZDg0VnB5azdGWHRXT3poUnpqYVpLVk1lUnVkbmRGM1VqYzN6YS05UTBpc19HLVZrb09Ba0RJTFNnOFVZNkM1ZzFmWjI2NTNNRk42VWFHMl9KaVZDcDM1STdLci1xRG9ON19KNTJNdzl6QUxnVGVIOExUWDJQeFZmME5YMlNaaGlRVVpCM0dn?oc=5\" target=\"_blank\">易方达MSCI中国A股国际通ETF联接C净值下跌2.38%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2RSc21UUTNlZDg0VnB5azdGWHRXT3poUnpqYVpLVk1lUnVkbmRGM1VqYzN6YS05UTBpc19HLVZrb09Ba0RJTFNnOFVZNkM1ZzFmWjI2NTNNRk42VWFHMl9KaVZDcDM1STdLci1xRG9ON19KNTJNdzl6QUxnVGVIOExUWDJQeFZmME5YMlNaaGlRVVpCM0dn?oc=5",
-      "published": "Tue, 23 Jun 2026 21:36:00 GMT"
+      "source": "同花顺",
+      "title": "谷歌投资独立电影公司A24",
+      "summary": "谷歌正通过两家公司之间的一项新的人工智能研究合作，向独立电影制作公司A24进行投资。据知情人士透露，这家搜索巨头正向A24投资约7500万美元。A24最近推出了《后室》和《马蒂·苏佩姆》等热门影片。尽管谷歌通过YouTube在在线娱乐领域占据主导地位，但此次交易是其首次对影视工作室进行投资。谷歌的DeepMind人工智能部门与A24正致力于开发用于电影制作和发行的新工具。",
+      "link": "https://news.10jqka.com.cn/20260624/c677662711.shtml",
+      "published": "Tue, 23 Jun 2026 23:12:31 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "华夏MSCI中国A股国际通ETF联接A净值下跌2.36% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdCdHY2eGJpc0pMa3VWdUg2VTFROGVXcG9NV0RRS0Z2VWdtNjRtRklYS2s2bEdvaktXQndmTWFNMUdDQXRWVTd2MmpEbHBvUUVQYS1NTGxpOENrX2JxeXhPZ0w4dm01N1RwOEVQa2dxdGRXNWdHU0lyenE4Zm9sbTlGOUhYcDR5dWRLX2hiZzh3NWdDYWgw?oc=5\" target=\"_blank\">华夏MSCI中国A股国际通ETF联接A净值下跌2.36%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTTdCdHY2eGJpc0pMa3VWdUg2VTFROGVXcG9NV0RRS0Z2VWdtNjRtRklYS2s2bEdvaktXQndmTWFNMUdDQXRWVTd2MmpEbHBvUUVQYS1NTGxpOENrX2JxeXhPZ0w4dm01N1RwOEVQa2dxdGRXNWdHU0lyenE4Zm9sbTlGOUhYcDR5dWRLX2hiZzh3NWdDYWgw?oc=5",
-      "published": "Tue, 23 Jun 2026 21:05:00 GMT"
+      "source": "同花顺",
+      "title": "美国股指期货下跌，标普500指数期货下跌0.2%",
+      "summary": "美国股指期货下跌，标普500指数期货下跌0.2%。",
+      "link": "https://news.10jqka.com.cn/20260624/c677662710.shtml",
+      "published": "Tue, 23 Jun 2026 23:12:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货黄金失守4100美元/盎司",
+      "summary": "现货黄金失守4100美元/盎司，日内跌0.63%。",
+      "link": "https://news.10jqka.com.cn/20260624/c677662549.shtml",
+      "published": "Tue, 23 Jun 2026 23:00:13 GMT"
     },
     {
       "source": "同花顺",
@@ -166,46 +278,25 @@
       "published": "Tue, 23 Jun 2026 22:20:04 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "古巴外长批评美国收紧对古制裁",
-      "summary": "古巴外长罗德里格斯23日批评美国国务卿鲁比奥进一步收紧对古巴制裁，称驱使其采取相关行动的“是一种犯罪行为”。 罗德里格斯当天在社交媒体上表示，在“一个不诚实、满口谎言的国务卿”主导下，美国政府继续加强对古巴经济围困。尽管面临美国“无情打压”以及针对古巴人民的“集体惩罚”，古巴经济展现出的韧性、能力和效率都超出美方预期。 据美国国务院官网当天发布的消息，鲁比奥宣布将5个古巴实体以及古巴革命领袖劳尔·卡斯特罗的儿媳列入制裁名单。 美国长期对古巴实施经济、金融封锁和贸易禁运。今年相继对委内瑞拉、伊朗发起军事行动后，特朗普又对古巴发出威胁，称“下一个是古巴”，并进一步对古施压，实行石油封锁。特朗普5月1日签署行政令，以“威胁美国国家安全和对外政策”为由，加大对古巴制裁。根据该行政令，美政府除冻结在古能源、国防、矿产、金融等多领域经营的实体或个人资产和权益外，还禁止美国实体或个人与受制裁对象有资金、商品或服务往来，并限制受制裁对象入境美国。同时，相关联的外国金融机构也将受制裁。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260624/c677661952.shtml",
-      "published": "Tue, 23 Jun 2026 22:01:21 GMT"
+      "source": "华尔街见闻",
+      "title": "黄金交易T+0：迪拜DGCX推出当日结算黄金合约，巩固全球贵金属交易枢纽",
+      "summary": "<p>迪拜黄金与商品交易所（DGCX）于本周一正式推出黄金即日结算（T+0）期货合约，以更快的结算周期吸引避险资金流入，并巩固迪拜在全球贵金属交易版图中的地位。</p>\n<p>据路透报道，DGCX首席执行官Ahmed Bin Sulayem表示，此次推出的黄金现货T+0合约于6月22日上线，主要面向黄金经销商、精炼商、经纪商、清算会员及机构投资者，支持通过认可金库进行实物交割。</p>\n<p>他指出，缩短结算周期是全球市场向速度与效率转型的大势所趋。</p>\n<p>合约推出的时机与当前市场环境高度契合。Bin Sulayem表示，DGCX黄金合约交易量在美伊冲突爆发后前两三周明显上升，投资者加速涌入黄金寻求避险。尽管金价已从历史高位有所回落，但财政赤字扩大与各央行持续增持黄金，仍为金价提供中长期支撑。</p>\n<div>\n<h2 id=\"244f9327\">即日结算填补全球黄金衍生品市场空白</h2>\n</div>\n<p>全球金融市场正加速向更短结算周期迁移，各大交易所和清算机构通过升级系统、引入新技术来压缩交易对手风险、加快资金周转。在此背景下，T+0黄金合约在全球黄金衍生品市场中仍",
+      "link": "https://wallstreetcn.com/articles/3775346",
+      "published": "Tue, 23 Jun 2026 23:20:19 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "黎真主党领导人：以色列必须从黎巴嫩领土完全撤出",
-      "summary": "黎巴嫩真主党领导人卡西姆23日表示，以色列“别无选择”，必须从黎巴嫩领土上完全撤出并全面落实停火协议。卡西姆当天在黎巴嫩首都贝鲁特南郊举行的一场活动上说，“任何理由都不能允许以色列继续驻扎在黎巴嫩哪怕一寸土地上”。他还表示，以色列企图消灭真主党的计划已经破灭。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260624/c677661731.shtml",
-      "published": "Tue, 23 Jun 2026 21:38:05 GMT"
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年6月24日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">韩股高台跳水敲响AI狂热警钟，芯片股带头拖垮美股</span>，<span style=\"color: #ff0000;\">纳指跌超2%</span>，和标普收创近两周新低，道指止步两连阳；<span style=\"color: #ff0000;\">芯片指数收跌近8%</span>，<span style=\"color: #ff0000;\">美光和闪迪跌超10%</span>，<span style=\"color: #ff0000;\">Marvell跌逾9%</span>；<span style=\"color: #ff",
+      "link": "https://wallstreetcn.com/articles/3775341",
+      "published": "Tue, 23 Jun 2026 23:14:19 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "谷歌母公司Alphabet（谷歌A）将被纳入道琼斯工业平均指数（道指）",
-      "summary": "谷歌母公司Alphabet（谷歌A）将被纳入道琼斯工业平均指数（道指）。(新浪财经)",
-      "link": "https://news.10jqka.com.cn/20260624/c677661698.shtml",
-      "published": "Tue, 23 Jun 2026 21:21:59 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "阿曼与国际海事组织协调开辟霍尔木兹海峡临时航道",
-      "summary": "当地时间24日凌晨，阿曼方面发布声明表示，鉴于该国对霍尔木兹海峡的责任以及该海峡对全球经济的重要作用，在遵守国际法和《联合国海洋法公约》、保障海峡自由通行且不收取通行费用的基础上，并结合美国与伊朗相关谈判和斡旋努力所取得的成果，阿曼已与国际海事组织协调，为所有船舶开辟一条临时海上航道。根据安排，相关航道将按照国际海事组织及阿曼主管部门公布的航行坐标运行，计划使用该航道的船舶需提前与国际海事组织进行协调。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260624/c677661697.shtml",
-      "published": "Tue, 23 Jun 2026 21:20:43 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "德国全境铁路暂停运营",
-      "summary": "德国23日晚出现大规模列车无线通信系统故障，导致全境铁路暂停运营。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260624/c677661676.shtml",
-      "published": "Tue, 23 Jun 2026 21:08:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "SpaceX 250亿美元的债权分五期发行 最长期限达30年",
-      "summary": "美国SEC文件显示，SpaceX将发行70亿美元2031年到期的5.35%优先票据，60亿美元2033年到期的5.65%优先票据、60亿美元2036年到期的5.875%优先票据、25亿美元2046年到期的6.6%优先票据和35亿美元2056年到期的6.65%优先票据。本次发行所得款项将用于偿还过桥贷款及一般公司用途，预计将于2026年6月26日完成。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260624/c677661675.shtml",
-      "published": "Tue, 23 Jun 2026 21:08:42 GMT"
+      "source": "华尔街见闻",
+      "title": "马斯克的终极剧本？Baird：特斯拉与SpaceX合并一年半内落地，概率超80%",
+      "summary": "<p>马斯克旗下两大资产的整合预期，正成为支撑特斯拉股价的关键叙事。</p>\n<p>SpaceX上周完成史上规模最大的IPO，成为马斯克名下市值最高的资产，令特斯拉股东承压。然而，这场IPO也在华尔街点燃了另一种押注——投资者预期马斯克最终将推动特斯拉与SpaceX合并，打造一个可与英伟达、谷歌和苹果比肩的科技巨无霸。</p>\n<p>这种预期已开始反映在市场定价中。特斯拉股价自SpaceX上市以来保持相对稳定，并于周一重新站上400美元，SpaceX股价周二小幅收涨1%，此前已连续三个交易日回落，市值蒸发6000亿美元，IPO后的狂热情绪持续消退。</p>\n<p>Baird分析师Ben Kallo将两家公司合并称为\"终极结局\"，并预测交易将在12至18个月内落地，发生概率超过80%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/9668d822-55d3-46f9-93e7-619d3dddf536.png\" /></p>\n<div>\n<h2 id=\"7ac506\">合并叙事提振市场情绪</h2>\n</div",
+      "link": "https://wallstreetcn.com/articles/3775343",
+      "published": "Tue, 23 Jun 2026 22:56:05 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -215,18 +306,39 @@
       "published": "Tue, 23 Jun 2026 22:21:24 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "标普道琼斯指数公司：谷歌A将被纳入道琼斯工业平均指数",
-      "summary": "<p>标普道琼斯指数公司：谷歌A将被纳入道琼斯工业平均指数。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3775339",
-      "published": "Tue, 23 Jun 2026 21:17:04 GMT"
+      "source": "第一财经",
+      "title": "纳指重挫2.2%，英伟达跌超4%，美光、闪迪跌超13%，中概股普跌，国际油价小幅回落",
+      "summary": "<figure><img alt=\"纳指重挫2.2%，英伟达跌超4%，美光、闪迪跌超13%，中概股普跌，国际油价小幅回落\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/0d055bfbf9758535ccdec3e5d3c5dd52.jpg\" /></figure><p>芯片股领跌大盘，美光收跌13.18%，闪迪跌13.64%，高通跌8.01%。</p><p><strong>*三大股指全线下挫，纳指重挫2.2%</strong></p>\n\n<p><strong>*芯片股领跌，美光跌13.18%，闪迪跌13.64%</strong></p>\n\n<p><strong>*国际油价小幅回落</strong></p>\n\n<p>周二（23日）美股三大股指全线下挫。科技股抛售潮进一步蔓延，芯片股大幅下挫，市场遭遇重创。</p>\n\n<p>截至收盘，道指跌45.87点，跌幅0.09%，报51666.84点；纳指跌579.56点，跌幅2.21%，报25587.04点；标普500指数跌107.31点，跌幅1.44%，报7365.48点。</p>",
+      "link": "https://www.yicai.com/news/103242852.html",
+      "published": "Tue, 23 Jun 2026 23:04:21 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "高盛交易台警告：橡皮筋已拉至极限，市场或临近断裂点",
-      "summary": "<p>本周二韩国股指暴跌掀起全球股市抛售潮后，高盛One-Delta交易台负责人Rich Privorotsky警告：过去数周，市场几乎无视了AI资本支出交易面临的所有负面信号，而这条橡皮筋已经拉到了极限。</p>\n<p>周二日经指数跌近3.5%，韩国KOSPI指数下跌约10%，SK海力士单日重挫约13%。Privorotsky指出，存储芯片股相关交易似乎正在触碰结构性瓶颈。与此同时，他强调，作为AI支出的最大来源，超大规模云服务商（hyperscalers）的股价走势才是最值得追踪的核心信号。</p>\n<p>从技术面来看，纳斯达克指数未能形成有效新高，市场结构的支撑正在减弱。做市商Gamma值在当前点位附近已偏低，且随价格下行将进一步压缩；CTA策略在多数指标上仍是净买入方，但对下行行情的凸性敞口极高。高盛大宗经纪数据所呈现的图景，与价格走势高度吻合：全球市场已经演变为一笔异常集中的单一押注。</p>\n<div>\n<div>\n<h2 id=\"c1d95f39\">极度集中的交易结构</h2>\n</div>\n<p>SK海力士此番暴跌的背后，是一个规模急剧膨胀的杠杆头寸。</p>\n<p>据",
-      "link": "https://wallstreetcn.com/articles/3775337",
-      "published": "Tue, 23 Jun 2026 21:16:54 GMT"
+      "source": "证券时报",
+      "title": "A股半年报窗口临近 机构看好39股高成长潜力 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LM18xNWtqdVFRcHFEV0JzM0kwTlFBYWRqT0lGVFp4ZUdWMnlCSXRkTnZ2UzdERHJwUkZIZG5ULXlHUEI2UEU3ZjFSTXhmYTNUNnAyOU1zanBQNnpE?oc=5\" target=\"_blank\">A股半年报窗口临近 机构看好39股高成长潜力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5LM18xNWtqdVFRcHFEV0JzM0kwTlFBYWRqT0lGVFp4ZUdWMnlCSXRkTnZ2UzdERHJwUkZIZG5ULXlHUEI2UEU3ZjFSTXhmYTNUNnAyOU1zanBQNnpE?oc=5",
+      "published": "Tue, 23 Jun 2026 22:54:00 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "半年报窗口期将至 机构看好39股高成长潜力 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mX0pFYnlXbDFmT1BWNnlUXzBNSG4wVGxHQnh2SmpRM1AzSlRsWUVQUmJObnFCMV8wb3ZZNWI4MWkyS29la2VuRjV2dlZTRTNfX2FWT0NCemRWNklS?oc=5\" target=\"_blank\">半年报窗口期将至 机构看好39股高成长潜力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mX0pFYnlXbDFmT1BWNnlUXzBNSG4wVGxHQnh2SmpRM1AzSlRsWUVQUmJObnFCMV8wb3ZZNWI4MWkyS29la2VuRjV2dlZTRTNfX2FWT0NCemRWNklS?oc=5",
+      "published": "Tue, 23 Jun 2026 22:54:00 GMT"
+    },
+    {
+      "source": "澎湃新闻财经",
+      "title": "获利盘回吐还是杠杆爆仓，谁成了韩国股市暴跌的加速器？ - thepaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hT1daMjlteE1tOTlIZEIxRk9SNU1DNnU0aDhvNFQ1UC14SGE3RXFFd0xCZU5WaXRPeHRrUWU4RnZOdE1KNHJaZ3hLRnZraG1VVzlkNnFBSk9DWEJEcFE?oc=5\" target=\"_blank\">获利盘回吐还是杠杆爆仓，谁成了韩国股市暴跌的加速器？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hT1daMjlteE1tOTlIZEIxRk9SNU1DNnU0aDhvNFQ1UC14SGE3RXFFd0xCZU5WaXRPeHRrUWU4RnZOdE1KNHJaZ3hLRnZraG1VVzlkNnFBSk9DWEJEcFE?oc=5",
+      "published": "Tue, 23 Jun 2026 23:18:00 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "信达证券：给予哈尔斯买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE81VjViUWFJQzVJaF8tS2IwVmllWVBwM0ttOTdxOS1rS2NWLVZBbk5DWVJyWVdIZUpCVlF6djZoaXlBVjFoeVpUYTk1NFNCQUtFbHpQVF92dm9COHJzRV85eGNR?oc=5\" target=\"_blank\">信达证券：给予哈尔斯买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81VjViUWFJQzVJaF8tS2IwVmllWVBwM0ttOTdxOS1rS2NWLVZBbk5DWVJyWVdIZUpCVlF6djZoaXlBVjFoeVpUYTk1NFNCQUtFbHpQVF92dm9COHJzRV85eGNR?oc=5",
+      "published": "Tue, 23 Jun 2026 23:45:22 GMT"
     }
   ]
 }

@@ -3,53 +3,98 @@
   "hour": "07",
   "news": [
     {
-      "title": "折叠屏iPhone预期升温",
-      "summary": "据同花顺报道，首款折叠屏iPhone落地预期升温，产业链公司将受益。这意味着苹果可能推出折叠屏手机，将带动相关供应链企业如蓝思科技、京东方等需求增长。消费电子板块可能迎来新一轮炒作，信号偏多。",
-      "reason": "市场对折叠屏iPhone的预期将刺激消费电子板块，相关个股可能受益，属于行业动态中的利好。",
-      "category": "行业动态",
+      "title": "重要股东增持超350亿",
+      "summary": "截至6月23日，年内重要股东增持金额超350亿元，77家公司打出“增持+回购”组合拳。产业资本积极入场，彰显对公司信心，释放积极信号，有利于稳定市场情绪，对A股整体构成正面支撑。",
+      "reason": "产业资本增持是市场底部信号，历史上多次预示阶段性反弹，且金额较大，属于优先级一的资金流向类消息。",
+      "category": "资金流向",
       "impact_stocks": [
-        "消费电子",
-        "苹果概念",
-        "蓝思科技",
-        "京东方"
+        "沪深300",
+        "上证50",
+        "增持概念股"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260624/c677662440.shtml"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwSkZoYWgyQkZySnZTWDF2N3hpTzZaTVVkeVUtUml6MldrdVU1VGliMXlMLXRlaFBqT1ZiS3Q3R19jQnJ6eTdOQnYyd0tkMWlUaG14UHN4QTBDaDlmdEtZUTJEMmhxNUpFbzMtdHlWQ1NzaXNlLTBEQg?oc=5"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "多家公司上半年业绩预喜",
-      "summary": "据同花顺报道，扩产、增效步履不停，多家公司上半年业绩预喜。业绩预喜通常反映公司经营状况良好，可能带动所属行业板块上涨，同时提振市场整体信心。需要关注具体行业分布，若集中在新能源、半导体等高景气领域，则利好更显著。信号偏多。",
-      "reason": "业绩预喜是中期利好信号，反映企业盈利改善，可提振市场情绪，属于市场情绪或宏观经济范畴。",
-      "category": "宏观经济",
+      "title": "汽车业“光进铜退”布局",
+      "summary": "汽车行业正上演“光进铜退”趋势，头部企业争相布局千亿级光纤替代铜线赛道。车载光纤通信有望提升数据传输效率，利好光纤光缆、汽车电子板块，但短期业绩贡献有限，属于中期产业趋势。",
+      "reason": "涉及汽车电子和光纤光缆行业变革，属于行业动态，对相关个股有催化作用。",
+      "category": "行业动态",
       "impact_stocks": [
-        "沪深300",
-        "业绩预增概念"
+        "光纤光缆",
+        "汽车电子",
+        "长飞光纤",
+        "中际旭创"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
           "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260624/c677662507.shtml"
+          "url": "https://news.10jqka.com.cn/20260624/c677663026.shtml"
         }
       ],
       "urgency": "days"
     },
     {
+      "title": "英伟达要求PCB降价？被澄清",
+      "summary": "市场传闻英伟达要求PCB厂商降价10%，但PCB厂商及市场人士称传闻明显夸大和误读。该消息若为真将利空PCB板块，但澄清后情绪修复。短期可能引发PCB板块波动，需关注后续实际订单情况。",
+      "reason": "涉及英伟达供应链，影响PCB板块情绪，属于市场情绪和行业动态交叉。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "PCB",
+        "沪电股份",
+        "深南电路",
+        "鹏鼎控股"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260624/c677662867.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "SK海力士拟ADR融资",
+      "summary": "SK海力士将向韩国金融监督院提交与ADR挂钩的新股票发售计划。韩国存储巨头融资或稀释现有股东权益，同时暗示存储行业资本开支仍高，对A股存储芯片概念构成间接压力，偏空。",
+      "reason": "存储龙头融资消息影响板块情绪，属于行业动态，对A股相关标的（如兆易创新、江波龙）有情绪传导。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "存储芯片",
+        "兆易创新",
+        "江波龙",
+        "澜起科技"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5UzlEc01pVzV0a2EwSzlRSnBiR2ZnRnpyazVNWjdsQ0VQano0NXFWZE9iajQ3ZEJNTGtES0QtNVNsOFgySDN4UC1vLTZrZFpjNFVuRlprRTZOdHM0X2NuRg?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
       "title": "北交所公司获密集调研",
-      "summary": "据同花顺报道，北交所公司迎来密集调研，机构掘金“专精特新”标的。北交所公司获机构关注表明资金可能加速流入北交所，利好北交所整体估值提升。短期可能引发北交所个股活跃，尤其“专精特新”企业。信号偏多。",
-      "reason": "机构密集调研通常预示后续资金布局，北交所作为新兴市场，关注度提升有利于吸引增量资金，属于资金流向信号。",
+      "summary": "北交所公司迎来密集调研，机构掘金“专精特新”标的。北交所上市公司多属细分领域龙头，机构关注度提升可能带来增量资金，利好北交所专精特新个股，但整体市场规模较小。",
+      "reason": "机构调研增加是积极信号，属于资金流向和市场情绪，对北交所板块有提振。",
       "category": "资金流向",
       "impact_stocks": [
         "北交所",
-        "专精特新"
+        "专精特新",
+        "国义招标",
+        "贝特瑞"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -59,9 +104,69 @@
           "url": "https://news.10jqka.com.cn/20260624/c677662368.shtml"
         }
       ],
+      "urgency": "hours"
+    },
+    {
+      "title": "特斯拉与SpaceX合并概率高",
+      "summary": "Baird研报指出，特斯拉与SpaceX合并一年半内落地概率超80%。若合并，将打造超级科技巨头，利好特斯拉供应链概念，如零部件、智能驾驶板块，中期提振市场对科技股的信心。",
+      "reason": "重大并购重组预期（虽然未发生但概率高），直接影响特斯拉概念股情绪，属于公司事件。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "特斯拉概念",
+        "智能驾驶",
+        "拓普集团",
+        "三花智控"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775343"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "半年报窗口期 机构看好高成长",
+      "summary": "A股半年报窗口临近，证券时报援引机构观点，看好39只高成长潜力股。业绩预增个股有望迎来资金关注，市场焦点转向基本面向好标的，对相关个股构成利好。",
+      "reason": "半年报行情是市场关注重点，机构看好名单提供交易线索，属于市场结构消息。",
+      "category": "市场结构",
+      "impact_stocks": [
+        "高成长股",
+        "创业板",
+        "科创板"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "证券时报",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mX0pFYnlXbDFmT1BWNnlUXzBNSG4wVGxHQnh2SmpRM1AzSlRsWUVQUmJObnFCMV8wb3ZZNWI4MWkyS29la2VuRjV2dlZTRTNfX2FWT0NCemRWNklS?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "长龙航空冲刺A股",
+      "summary": "长龙航空更新招股书冲刺A股上市，盈利稳步提升，但近九成飞机依赖租赁。IPO扩容对航空板块资金面有扰动，但单一IPO影响有限，整体偏空市场情绪。",
+      "reason": "IPO动态影响市场供需预期，属于监管政策范畴（IPO提速），但规模不大。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "航空",
+        "机场"
+      ],
+      "signal": "bearish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SNXVZUEM3TjlETU9kZ2ZrazloTDM2dEc4UzNRTDZzcDhPaWNYamp4Sk1nNm90eExuMFFSdExpOGhfd3VxNnBienhzYWFjY3AzZjZZWHc1Y3hKSFJRUHQ5WWlNUWpxeEdBM3ozOU5la0ZYdDgyQ1VXSw?oc=5"
+        }
+      ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 32,
-  "generated_at": "2026-06-24T07:01:28.870799+08:00"
+  "total_fetched": 48,
+  "generated_at": "2026-06-24T07:55:28.767697+08:00"
 }
