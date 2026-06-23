@@ -3,62 +3,105 @@
   "hour": "18",
   "news": [
     {
-      "title": "字节豆包手机延迟发布",
-      "summary": "据报道，字节新一代豆包手机供应链信息曝光，但发布时间或延迟。该消息可能影响AI手机产业链，尤其是消费电子板块。从做多A股视角看，延迟发布视为负面，利空相关供应链公司。",
-      "reason": "字节AI手机为市场关注热点，延迟发布削弱短期题材预期。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "消费电子",
-        "AI概念"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3123358"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "量化游资抢筹长江证券",
-      "summary": "龙虎榜数据显示，量化资金联手游资积极抢筹长江证券，显示短期资金对券商板块关注度提升。今日大金融板块已逆势走强，该信号可能预示券商股后续仍有活跃机会，对市场情绪有提振作用。",
-      "reason": "龙虎榜资金动向反映短线博弈机会，券商板块近期受益于政策利好。",
+      "title": "龙虎榜：游资爆买黄河旋风",
+      "summary": "龙虎榜显示，两大游资联手买入黄河旋风，龙磁科技获7.31亿元抢筹。黄河旋风为培育钻石概念，龙磁科技为磁性材料。游资集中买入暗示短线情绪活跃，但需警惕次日分歧。影响培育钻石和稀土永磁板块。个股看多，但持续性存疑。",
+      "reason": "资金流向信号，游资集中买入引发短线机会。",
       "category": "资金流向",
       "impact_stocks": [
-        "长江证券",
-        "券商板块"
+        "黄河旋风",
+        "龙磁科技",
+        "培育钻石",
+        "稀土永磁"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "财联社",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NcDBPQXM2REd2VGxZQS15OFF0b2x0N0h3dEdqSG5nTTJQc1hLSTBVbU5TTWpBdzQ2NEVPSm5nRm9sa2U2TmEyag"
+          "name": "金融界",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1udkZ6c2xJVEtFWDNpWmVreEVEUW5pd2psbjhxWG5UZWhxWkVsQUVZd2w4REd5UzBDV2o4U0F5TEw1aHpkQ1Z1dmxWQ2d5UWgwc3RqeGhRYWJhc3haelVWUGJkWlAyTzBEaEdzMi1ocUVyUQ?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "中证协规范券商经纪业务",
-      "summary": "中国证券业协会强调，券商经纪业务应更注重服务质效提升，而非单纯规模增长。此举旨在引导行业健康发展，短期对券商股影响中性，但长期利好行业生态。",
-      "reason": "监管层对券商规范表态，影响行业预期，但无直接冲击。",
-      "category": "监管政策",
+      "title": "机构龙虎榜买入25股",
+      "summary": "6月23日龙虎榜显示，机构席位共计买入25只个股，净买入额较高，同时卖出兴业银锡2.36亿元。机构逆势买入反映对部分个股的看好，尤其医药、科技方向。资金动向偏积极，但市场整体弱势，需谨慎。影响被买入个股及所属板块。",
+      "reason": "机构资金动向，参考价值高。",
+      "category": "资金流向",
       "impact_stocks": [
-        "券商板块"
+        "医药",
+        "科技",
+        "兴业银锡"
       ],
-      "signal": "neutral",
+      "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260623/c677653115.shtml"
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103242326.html"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "六部门发文促广告业发展",
+      "summary": "2025年广告业收入首次突破2万亿元，六部门联合发布新政促进广告业高质量发展，包括支持数字广告、鼓励并购等。该政策利好传媒板块，尤其数字营销、户外媒体公司。行业景气度提升，偏多信号。",
+      "reason": "行业政策利好，刺激传媒板块。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "传媒",
+        "数字营销",
+        "分众传媒"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103242213.html"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "东方锆业异动提示风险",
+      "summary": "3连板东方锆业公告称，向特定对象发行股票事项存在不确定性，且市盈率显著高于行业平均水平。这构成短线风险警示，可能引发概念股回调。偏空信号，影响该股及锆相关概念股。",
+      "reason": "个股异动后风险提示，可能引起获利了结。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "东方锆业",
+        "锆概念"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺财经",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fS0pJQ2pRcjVnRTFRcmNQdmF5NHNmc0hVVzNFckZ0TGhwVFo4V3hDYi1YRlRWMDNGUHlUS2RKTjJqV0RXS3BWSTY1TElCWURxV1l0c0FlcjlpaU53QlE?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "泰恩康获回购贷款承诺函",
+      "summary": "泰恩康公告取得金融机构股票回购专项贷款承诺函，金额未披露，但表明公司有意回购股份，提振市场信心。对股价构成利好，但需关注后续执行。偏多信号，影响该公司及医药板块情绪。",
+      "reason": "回购增持信号，利好个股。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "泰恩康",
+        "医药"
+      ],
+      "signal": "bullish",
+      "impact_level": 1,
+      "sources": [
+        {
+          "name": "同花顺财经",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wX2wweS1fbVNpWmRfcDlHVnZpSERaOXA5MV9mdTVTcjZpeDZFLXV0eVl1d2loMFF3azV3cUVjUi1SZmVhQWdWUnJKZjdyWjlCUklnVGhJNVc1bVZZYmxLQmVR?oc=5"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 53,
-  "generated_at": "2026-06-23T18:01:45.528914+08:00"
+  "total_fetched": 51,
+  "generated_at": "2026-06-23T18:54:02.842551+08:00"
 }
