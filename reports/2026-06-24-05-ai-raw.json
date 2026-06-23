@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-24",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8590,
+    "completion_tokens": 2487,
+    "total_tokens": 11077
+  },
+  "content_length": 2133,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美股三大指数集体收跌\",\n      \"summary\": \"美股三大指数全线下跌，纳斯达克指数跌幅超3%，标普500和道琼斯指数也录得较大跌幅。科技股领跌，市场对通胀和美联储鹰派预期担忧加剧。短期可能通过情绪传导对A股形成负面压力，尤其是科技板块承压。看空信号。\",\n      \"reason\": \"美股暴跌直接影响全球风险偏好，A股情绪面受挫，属于优先级三的市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"A股大盘\", \"科技股\", \"创业板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260624/c677661625.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"Cerebras营收超预期 全年指引强劲\",\n      \"summary\": \"AI芯片公司Cerebras Systems第一财季营收1.934亿美元，超分析师预期，并给出全年营收8.55-8.65亿美元的强劲指引。该公司是AI算力领域重要参与者，业绩超预期可能提振市场对AI产业链的信心，利好A股AI芯片、算力及半导体板块。看多信号。\",\n      \"reason\": \"AI行业景气度验证，对A股相关板块有正向催化，属于优先级二的行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力芯片\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775338\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"野村警告美股杠杆ETF或遭抛售\",\n      \"summary\": \"野村证券发布报告，提示美股可能面临大规模杠杆ETF被动抛售风险。此前韩国股市暴跌已引发全球关注，杠杆和衍生品风险加剧。若美股出现连锁抛售，将拖累全球市场，A股也难以独善其身。短期看空信号。\",\n      \"reason\": \"对全球市场系统性风险的预警，可能引发A股避险情绪，属于优先级三的市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"A股大盘\", \"沪深300\", \"上证50\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775331\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美国API原油库存小幅下降\",\n      \"summary\": \"美国API原油库存上周减少76.5万桶，低于前值减少833万桶，降幅明显收窄。数据发布后油价波动有限，对A股石油板块影响中性，但需关注后续EIA数据。中性信号。\",\n      \"reason\": \"常规库存数据，对A股直接关联较小，但可能影响原油相关个股情绪，属于宏观数据跟踪。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油\", \"化工\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260624/c677661646.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"经过严格去重后，仅筛选出4条较有价值的新消息，其余素材与历史消息重复或影响微弱。\"\n}"
+}
