@@ -3,86 +3,187 @@
   "hour": "14",
   "news": [
     {
-      "title": "特朗普施压油价下跌",
-      "summary": "特朗普要求石油公司降低油价，否则面临司法部调查。此举打压油价预期，利空A股石油板块，如中国石油、中国石化等。油价下跌可能降低通胀压力，但对能源股构成短期利空。",
-      "reason": "特朗普直接干预油价，影响能源板块盈利预期，属于政策面利空。",
-      "category": "行业动态",
+      "title": "两融余额首破3万亿",
+      "summary": "截至6月23日，沪深两市融资融券余额首次突破3万亿元大关，创历史新高。融资余额持续上升表明杠杆资金加速入场，市场风险偏好显著提升，对A股整体构成看多信号。需关注后续监管是否会有降温措施。影响板块：沪深300、券商、科技。",
+      "reason": "两融余额突破3万亿是重要市场情绪和资金面信号，优先级三但意义重大，未在历史消息中出现。",
+      "category": "市场结构",
       "impact_stocks": [
-        "中国石油",
-        "中国石化",
-        "石油开采"
+        "沪深300",
+        "券商",
+        "科技"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPczROcjJycVFiMGczOEFBdFJfLVhXd092ZmZScTUtV190alg2cTl5UUtsOXBxeWxqeGlIVnZyTlQ2TDdsU1hfZ3l3c1ZNaG0zYnpKT1pXYzBVbjJVMERPY28wcW5hUU1aQThXN1ZrMDUySEY2ZElBNWJtSFRZZ202VUNFYV8zaHl1?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "新股N臻宝涨超1200%",
+      "summary": "新股N臻宝今日上市，盘中涨幅扩大至1000%后触发临停，尾盘再度拉升涨超1200%。中一签最高可赚超20万元。新股极端涨幅反映市场投机情绪高涨，对次新股板块有短期情绪带动，但也需警惕过热风险。看多次新股。",
+      "reason": "新股异常涨幅是市场情绪极端信号，历史有1000%但更新至1200%，有实质变化。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "次新股",
+        "半导体"
+      ],
+      "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3775377"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260624/c677675815.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "算力租赁板块大面积涨停",
+      "summary": "午后A股算力租赁板块异动拉升，多只个股涨停。算力需求持续受AI驱动，板块活跃度提升。该方向受益于AI算力基建政策加码及企业资本开支扩张，属高景气赛道。看多算力、光模块等板块。",
+      "reason": "板块异动涨停潮是短线资金追逐热点信号，历史消息未明确提及算力租赁大面积涨停。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "算力",
+        "光模块",
+        "AI服务器"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByU2ZTQWNpUDVQNFRlam5LUFpUYlRvZ1FDX3VpNTlFalhxSWhxd2NRS2wzYWJnZW9CTlZrYURCYzE1bE5tdFR2YWhkbVYxMzFBZ1pjS080b2MwbWROQTdiQ3ZWZ2ZSMFpFRE5FeEtyS2haWkJjbklLVA?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "北京上半年宅地出让金缩水66%",
-      "summary": "北京上半年宅地出让金同比缩水66%，显示房地产市场持续低迷。这利空地产板块，可能引发对地产链相关行业的担忧，如建材、家居等。房地产板块短期承压。",
-      "reason": "土地出让金大幅下降是房地产行业景气度的重要先行指标，利空地产板块。",
-      "category": "宏观经济",
+      "title": "脑机接口跑出翻倍牛股",
+      "summary": "脑机接口板块持续活跃，创新医疗等个股20CM涨停，板块内多股涨幅超过10%。高层此前强调推动脑机接口产业健康有序发展，政策催化叠加技术突破，板块走强。看多脑机接口、医疗器械。",
+      "reason": "历史消息有脑机接口走强，但下午出现新的20CM涨停和翻倍牛股，是事件进展。",
+      "category": "行业动态",
       "impact_stocks": [
-        "房地产",
-        "建材",
-        "家居"
+        "脑机接口",
+        "创新医疗",
+        "医疗器械"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Bd0Zxbk5TbG5tbTRMbVhCZ3RsbEwzeWtEU2lDSVZuUzdNT2RueHFGT1R5MWhUSDNsSlJmVEFWdm82OGJUQ25SWmpjaElLTVFoakNTcFZ5VGJqbzd3X3htZzJaRFozdzRmenNydGZBaXhjOTRYcXc?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "CPO光芯片板块再掀涨停潮",
+      "summary": "中国光芯片迎来高端化窗口期，A股CPO（共封装光学）板块今日再度掀起涨停潮。AI算力需求推动光模块向CPO演进，行业龙头加速布局。该方向是AI硬件核心，看多光芯片、光模块。",
+      "reason": "历史消息有光进铜退等，但CPO涨停潮是具体持续性热点，有新异动信息。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "CPO",
+        "光芯片",
+        "光模块"
+      ],
+      "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103243765.html"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82VnljdTZyQ01qM2F6Skg1UWU5bG1veXEzMDFUZUo3VzZVdng3Zl9iTHNHRzBLbmlQYjhaR2dpR0VlWm05ZHh2V1JPeFlmU2EwYjFVSnZ5NUhjd1ZwWkx2SGVnMnNmLS1nVHNVQnlSYTlwRk5pc0I1Wg?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "MSCI A股ETF连续净申购买溢价高",
+      "summary": "MSCI A股ETF易方达（512160）连续3日获净申购，盘中涨幅超32%，出现显著溢价（较净值溢价超20%）。资金追捧可能反映外资对A股纳入因子提升的预期，但高溢价风险需警惕。短期看多，但注意回调风险。",
+      "reason": "ETF连续净申购且高溢价是资金流入信号，历史消息未提及该ETF连续净申购。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "MSCI中国A股",
+        "金融"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iclR2dTJMRWZOZTZLYmJ3ZkVxRTNfWTRTVEl2aURnVnZvSkZaZ2lwRVJiQzlrQnRHa0twTHlKbzhFdDAxanBWa3ZYQUNXRFNOenNVODYtUTJVNWg0WlNieTJlbkNwYkJXbjkzNXNwdTBJNzZOdFBodA?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "方星海：中国资本市场将极具吸引力",
+      "summary": "中国金融学会副会长、前证监会副主席方星海表示，相信中国资本市场对国际资本将变得极具吸引力。此番表态正值全球资本因AI股灾波动之际，释放积极信号，提振外资流入预期。看多A股核心资产。",
+      "reason": "官方高层官员讲话对市场情绪有引导作用，属监管政策类信号，历史未出现。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "沪深300",
+        "上证50",
+        "外资重仓"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260624/c677675330.shtml"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "金价持续走弱，品牌金饰降价",
-      "summary": "国际金价继续下跌，国内品牌金饰每克最高降3%。黄金股如山东黄金、中金黄金等承压。美联储加息预期升温、美元走强是金价下跌主因，黄金板块短期偏空。",
-      "reason": "金价下跌直接影响黄金股盈利，叠加贵金属期货大跌，板块利空明确。",
+      "title": "MLCC价格涨势胜黄金",
+      "summary": "MLCC（多层陶瓷电容）价格持续上涨，涨幅甚至超过黄金，被称为“电子工业大米”加速涨价。受AI服务器、新能源车需求拉动，MLCC行业景气度高涨。看多MLCC、被动元件板块。",
+      "reason": "行业涨价动态，影响电子板块，历史消息中未提及MLCC价格涨势胜黄金。",
       "category": "行业动态",
       "impact_stocks": [
-        "山东黄金",
-        "中金黄金",
-        "黄金概念"
-      ],
-      "signal": "bearish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103243645.html"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "亚太科技股普涨，韩股反弹",
-      "summary": "继昨日韩股暴跌后，今日亚太科技股普遍反弹，韩股收复部分失地。芯片巨头三星、SK海力士领涨。这缓解了市场对AI泡沫破裂的担忧，利好A股科技板块情绪。",
-      "reason": "海外科技股反弹直接提振A股科技股风险偏好，特别是半导体、AI相关。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "半导体",
-        "AI概念",
-        "恒生科技"
+        "MLCC",
+        "被动元件",
+        "风华高科",
+        "三环集团"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
           "name": "第一财经",
-          "url": "https://www.yicai.com/news/103243703.html"
+          "url": "https://www.yicai.com/news/103243961.html"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
+    },
+    {
+      "title": "两龙头共谋光模块PCB扩产",
+      "summary": "两家龙头企业合作推进光模块PCB（印制电路板）扩产，行业扩产潮持续升温。反映AI算力需求对高端PCB的强劲拉动，与光模块、CPO产业链形成共振。看多PCB、光模块产业链。",
+      "reason": "企业合作扩产是行业景气度确认信号，历史有PCB相关但未提具体合作扩产。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "PCB",
+        "光模块",
+        "沪电股份",
+        "深南电路"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103243926.html"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 45,
-  "generated_at": "2026-06-24T14:01:23.990414+08:00"
+  "total_fetched": 57,
+  "generated_at": "2026-06-24T14:35:53.541944+08:00"
 }
