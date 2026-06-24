@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 10306,
+    "completion_tokens": 3226,
+    "total_tokens": 13532
+  },
+  "content_length": 2176,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美联储压力测试通过，银行资本要求豁免\",\n      \"summary\": \"美联储宣布32家银行全部通过年度压力测试，可承受7080亿美元损失，且测试结果不再影响资本要求。这意味着银行资本压力减轻，摩根大通等已宣布提高股息和回购计划。对A股银行板块（如招商银行、工商银行）情绪偏积极，但直接传导有限。信号中性偏多。\",\n      \"reason\": \"美联储压力测试细节更新，影响银行资本宽松预期，属货币政策关联事件，间接利好A股银行板块。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"银行\", \"招商银行\", \"工商银行\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775444\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"高通盘后涨超15%，营收展望乐观\",\n      \"summary\": \"高通盘后股价大涨超过15%，首席财务官表示公司有机会将年度营收规模拓展至1000亿美元。此举反映市场对AI和手机芯片需求的乐观预期，可能带动A股半导体、芯片板块（如中芯国际、韦尔股份）情绪回暖。信号偏多。\",\n      \"reason\": \"高通作为全球芯片龙头，股价大幅上涨反映行业景气度，对A股芯片产业链有情绪传导作用。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体\", \"中芯国际\", \"韦尔股份\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677693144.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美光预计存储芯片供应紧张至2027年后\",\n      \"summary\": \"美光表示存储芯片供应紧张将持续至2027财年之后，预计2028年才逐步改善，且看不到供应何时能追上需求。这一表态强化了存储高景气预期，利好A股存储芯片相关公司（如兆易创新、北京君正），同时可能带动整个半导体板块。信号偏多。\",\n      \"reason\": \"美光是全球存储龙头，其供应指引直接反映行业供需格局，对A股存储芯片个股有明确利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"存储芯片\", \"兆易创新\", \"北京君正\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775448\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"布油跌破75美元，创战争前新低\",\n      \"summary\": \"国际油价持续回落，布伦特原油跌破75美元/桶，已接近俄乌冲突前水平。主因地缘溢价消退及需求担忧。对A股航空、航运、化工等用油行业成本降低利好，但对石油开采板块（如中国石油）利空。整体偏中性。\",\n      \"reason\": \"油价作为重要宏观变量，大幅波动影响多个行业盈利，对A股成本敏感型板块有直接逻辑。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"航空\", \"航运\", \"化工\", \"中国石油\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775442\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"由于多数历史消息已重复，仅筛选出4条有新信息且影响A股的消息。\"\n}"
+}
