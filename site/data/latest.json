@@ -3,86 +3,26 @@
   "hour": "00",
   "news": [
     {
-      "title": "央行开展5000亿元MLF",
-      "summary": "中国人民银行宣布6月25日以固定数量、利率招标、多重价位中标方式开展5000亿元MLF操作。这是央行释放流动性、稳定市场信心的信号，有助于降低银行负债成本，利好金融板块及实体经济。看多信号。",
-      "reason": "货币政策直接释放流动性，对A股有显著正面影响，属于最高优先级事件。",
-      "category": "货币政策",
+      "title": "国际油价重挫美油跌破70美元",
+      "summary": "国际油价大幅下跌，美油期货跌破70美元/桶整数关口，布伦特原油跌破75美元。主因霍尔木兹海峡局势缓和及全球经济放缓担忧。油价下跌利好航空、化工、交通运输等用油行业，降低生产成本；但利空石油开采、能源板块。整体对A股多数行业偏利好，尤其航空和化工板块受益明显。看多信号。",
+      "reason": "大宗商品价格大幅波动直接影响相关板块利润，属于行业性重大事件。",
+      "category": "行业动态",
       "impact_stocks": [
-        "银行",
-        "沪深300",
-        "地产"
-      ],
-      "signal": "bullish",
-      "impact_level": 5,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.sina.com.cn/c/2026-06-24/doc-unknown.shtml"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "长电科技投资78亿扩产封测",
-      "summary": "长电科技拟投资78亿元在上海临港建设高端先进封测工厂，扩大先进封装产能。这将提升公司竞争力，并利好半导体封测产业链。看多信号。",
-      "reason": "公司重大投资公告，直接对半导体板块产生积极影响。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "长电科技",
-        "半导体封测",
-        "上海临港"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260624/c677692376.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "布油跌破75美元",
-      "summary": "国际油价重挫，布伦特原油跌破75美元，美油跌破70美元，回落至战争前水平。利空能源板块，但利好航空、化工等成本降低行业。看空能源信号。",
-      "reason": "大宗商品价格剧烈波动，直接影响能源股和下游行业。",
-      "category": "宏观经济",
-      "impact_stocks": [
-        "中国石油",
         "航空",
-        "化工"
+        "化工",
+        "交通运输"
       ],
-      "signal": "bearish",
-      "impact_level": 3,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
           "name": "同花顺",
           "url": "https://news.10jqka.com.cn/20260624/c677692124.shtml"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美光财报今夜公布",
-      "summary": "美光科技即将公布季度财报，市场密切关注其AI存储业务指引。财报若超预期将提振全球半导体板块，反之则可能引发回调。中性信号。",
-      "reason": "海外龙头财报对A股半导体板块有情绪传导作用，属于重要联动事件。",
-      "category": "市场结构",
-      "impact_stocks": [
-        "半导体",
-        "存储芯片",
-        "兆易创新"
-      ],
-      "signal": "neutral",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "BNN Bloomberg",
-          "url": "https://www.bnnbloomberg.ca/investor-outlook-micron-earnings-test-ai-stock-rally-as-expectations-climb-1.1234567"
-        }
-      ],
-      "urgency": "hours"
+      "urgency": "immediate"
     }
   ],
-  "total_fetched": 44,
-  "generated_at": "2026-06-25T00:03:25.067598+08:00"
+  "total_fetched": 57,
+  "generated_at": "2026-06-25T00:07:41.894647+08:00"
 }
