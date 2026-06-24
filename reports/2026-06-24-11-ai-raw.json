@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-24",
+  "hour": "11",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7800,
+    "completion_tokens": 1726,
+    "total_tokens": 9526
+  },
+  "content_length": 2006,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"锂电添加剂VC量价齐升\",\n      \"summary\": \"华尔街见闻文章指出，锂电添加剂VC（碳酸亚乙烯酯）当前淡季不淡，预计Q3将量价齐升。受新能源车及储能需求拉动，VC供需趋紧，价格已从低位反弹。该消息利多锂电材料板块，尤其VC相关企业如石大胜华、奥克股份等。信号为看多。\",\n      \"reason\": \"涉及锂电产业链关键添加剂涨价预期，对新能源板块有直接利好，属于行业动态，优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"新能源\", \"锂电材料\", \"石大胜华\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/member/articles/3774983\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"微信AI助手改版上线\",\n      \"summary\": \"微信进行6年来最大改版，推出AI助手“小微”，支持智能对话、任务执行等。该消息利好腾讯控股（港股）及AI应用产业链，如科大讯飞、云从科技等A股公司。信号为看多。\",\n      \"reason\": \"微信改版引入AI助手，提振AI应用板块情绪，属于行业动态，优先级二。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"腾讯概念\", \"科大讯飞\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775356\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"SpaceX上市或成AI泡沫测试\",\n      \"summary\": \"文章讨论SpaceX潜在上市对AI泡沫的影响，认为若SpaceX上市将考验市场对高估值科技股的信心。虽为美股事件，但可能通过情绪传导影响A股AI及科技板块，短期偏空。信号为看空。\",\n      \"reason\": \"涉及美股科技龙头上市对全球AI情绪影响，属于市场情绪信号，优先级三。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"AI概念\", \"科创板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/charts/41959294\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"A股盘中反弹 创新药算力走强\",\n      \"summary\": \"截至11:00，A股三大股指集体上涨，创业板涨1%，创新药延续涨势，算力硬件反攻，半导体大涨。盘中成交活跃，市场情绪回暖。该信号偏多，尤其利好创新药和算力板块。\",\n      \"reason\": \"盘中行情反映市场短期情绪和热点，属于市场结构信号，优先级三。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"创新药\", \"算力硬件\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775362\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
