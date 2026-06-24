@@ -3,35 +3,60 @@
   "hour": "04",
   "news": [
     {
-      "title": "黑猫股份登龙虎榜",
-      "summary": "黑猫股份（002068）于6月24日登上交易所龙虎榜，表明该股当日交易异常活跃，受到游资或机构关注。龙虎榜通常反映短线资金动向，但具体买卖方向需进一步分析。该消息对黑猫股份本身有情绪影响，但整体市场影响有限。中性信号。",
-      "reason": "龙虎榜异动属于市场情绪信号，可提供短线交易参考，但影响力有限。",
-      "category": "市场情绪",
+      "title": "中芯国际并购落地",
+      "summary": "中芯国际公告发行股份购买资产结果，交易完成。此举有助于公司整合资源、提升竞争力，利好半导体产业链，尤其对中芯国际本身及设备材料供应商构成正面催化。信号看多。",
+      "reason": "重大并购重组，直接影响半导体板块龙头公司价值，属优先级一。",
+      "category": "公司公告",
       "impact_stocks": [
-        "黑猫股份",
-        "炭黑行业"
+        "中芯国际",
+        "半导体设备",
+        "半导体材料"
       ],
-      "signal": "neutral",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "东方财富财富号",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yRWx5VmlFVjRTQWNESXZqOVdwZS01OGpkWDRMRlVORXlaellNQVFrRXdzZXJ3Q0tOSFBjMXUzUEt2YVNvSy1ibE1VaktjT0g3dTl2WVVkc1RKdU4yT09KRHhXamRqbWRFVV80?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPSkRqaXlGZFVqc2dSRzNLeEdQaXpnbUFCd0liOVdGYjBFVGRqd0xRN3ZGMGNENlVYS2dES1R0M3JQZEJ1eUd1NWhrLUU3N2U3R3AtMF95d3lCX1VxMjJuUkNzQjRMMEpRVUdRZTRNNUJXN1RTbDkxbA?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "immediate"
     },
     {
-      "title": "英伟达股东会：AI回报率有答案",
-      "summary": "英伟达召开股东会，CEO黄仁勋表示AI投资回报率问题已有答案，提振市场对AI前景的信心。这有助于维持全球AI板块热度，对A股AI相关公司如算力、芯片、大模型等构成情绪利好。英伟达作为全球AI龙头，其言论具有风向标意义。看多信号。",
-      "reason": "英伟达股东会发言直接关联AI行业景气度，对A股AI板块有正面催化。",
+      "title": "美光财报超预期盘后大涨",
+      "summary": "美光科技第四财季营收展望490-510亿美元，远超预期432.4亿美元，盘后涨11%。存储芯片行业景气度超预期，将提振A股半导体及存储概念股情绪，信号看多。",
+      "reason": "海外半导体龙头财报超预期，直接映射A股科技板块，属优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "存储芯片",
+        "兆易创新",
+        "北京君正"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775443"
+        },
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260625/c677693096.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "英伟达股东会释放AI乐观信号",
+      "summary": "英伟达股东会上黄仁勋称AI投资回报率已有答案，暗示客户投资AI算力回报可观。这强化了AI产业长期增长逻辑，利好A股AI算力、光模块等板块，信号看多。",
+      "reason": "英伟达作为AI风向标，其表态影响全球AI板块情绪，属优先级二。",
       "category": "行业动态",
       "impact_stocks": [
         "AI概念",
         "算力",
-        "半导体",
-        "中科曙光",
-        "科大讯飞"
+        "光模块",
+        "中际旭创"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -44,15 +69,54 @@
       "urgency": "hours"
     },
     {
-      "title": "摩根大通下调特斯拉交付预期",
-      "summary": "摩根大通下调特斯拉二季度交付预期，预计低于市场共识。这可能导致特斯拉股价承压，并传导至A股新能源车产业链，尤其是特斯拉供应商和零部件公司。特斯拉作为全球电动车龙头，交付下滑信号利空板块。看空信号。",
-      "reason": "知名投行下调交付预期，直接利空特斯拉及新能源车板块，影响A股相关个股情绪。",
+      "title": "SK海力士拟赴美上市300亿",
+      "summary": "SK海力士计划赴美上市募资近300亿美元，为全球半导体行业最大IPO之一。短期内可能分流国内半导体板块资金关注，但长期不影响A股存储公司基本面，信号中性。",
+      "reason": "重大半导体行业融资事件，影响市场资金面预期，属优先级二。",
       "category": "行业动态",
       "impact_stocks": [
-        "新能源车",
-        "特斯拉概念",
-        "宁德时代",
-        "拓普集团"
+        "半导体",
+        "存储芯片",
+        "长鑫存储概念"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/member/articles/3775442"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美联储压力测试通过利好银行",
+      "summary": "美联储宣布32家银行全部通过压力测试，摩根大通随即宣布提高股息至1.65美元并计划回购500亿美元。美银行体系稳健，利好全球银行股情绪，A股银行板块或受提振，信号看多。",
+      "reason": "海外金融监管结果积极，传递至A股银行板块，属优先级二。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "银行",
+        "招商银行",
+        "工商银行"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775444"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "摩根大通下调特斯拉交付预期",
+      "summary": "摩根大通下调特斯拉二季度交付预期，利空特斯拉及新能源车板块。可能拖累A股特斯拉供应链及新能源车情绪，信号看空。",
+      "reason": "海外知名投行下调电动车龙头预期，影响A股关联板块，属优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "新能源汽车",
+        "特斯拉供应链",
+        "宁德时代"
       ],
       "signal": "bearish",
       "impact_level": 2,
@@ -65,6 +129,6 @@
       "urgency": "hours"
     }
   ],
-  "total_fetched": 22,
-  "generated_at": "2026-06-25T04:01:29.134564+08:00"
+  "total_fetched": 24,
+  "generated_at": "2026-06-25T04:27:17.237532+08:00"
 }
