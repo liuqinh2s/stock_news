@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "05",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7955,
+    "completion_tokens": 830,
+    "total_tokens": 8785
+  },
+  "content_length": 1822,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"SK海力士拟赴美上市募资300亿美元\",\n      \"summary\": \"SK海力士计划赴美上市，募资近300亿美元，这是韩国半导体巨头首次在美上市。此举可能加剧全球半导体竞争，对A股存储芯片、半导体设备板块形成情绪压制，但长期看国产替代逻辑强化。短期偏空，但中期利好国产替代。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体\", \"存储芯片\", \"国产替代\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/member/articles/3775442\"}]\n    },\n    {\n      \"title\": \"美光科技上调营收展望，盘后涨11%\",\n      \"summary\": \"美光科技预计第四财季营收490-510亿美元，远超预期432.4亿美元，且毛利润率84.9%高于预期。显示存储芯片需求强劲，对A股存储芯片和半导体板块有积极提振。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"存储芯片\", \"半导体\", \"兆易创新\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775443\"}]\n    },\n    {\n      \"title\": \"摩根大通下调特斯拉交付预期\",\n      \"summary\": \"摩根大通下调特斯拉二季度交付预期，可能反映电动汽车需求放缓。对A股新能源车产业链有负面影响，尤其是特斯拉供应链相关公司。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"新能源车\", \"特斯拉供应链\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775439\"}]\n    },\n    {\n      \"title\": \"美联储压力测试通过，摩根大通提高股息\",\n      \"summary\": \"美联储宣布32家银行全部通过年度压力测试，摩根大通随后宣布提高股息至1.65美元并计划回购500亿美元股票。这利好美股银行板块，对A股银行板块情绪有正面映射。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"银行\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775444\"}]\n    },\n    {\n      \"title\": \"特朗普令司法部彻查油企“哄抬油价”\",\n      \"summary\": \"特朗普下令司法部调查石油公司是否哄抬油价，可能导致油价短期承压。对A股石油石化板块偏空，但利好航空、化工等成本降低的行业。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"石油石化\", \"航空\", \"化工\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/member/articles/3775442\"}]\n    }\n  ]\n}"
+}
