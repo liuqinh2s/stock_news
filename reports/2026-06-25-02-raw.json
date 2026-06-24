@@ -1,8 +1,8 @@
 {
   "date": "2026-06-25",
   "hour": "02",
-  "total": 5,
-  "fetched_at": "2026-06-25T02:00:42.424956+08:00",
+  "total": 22,
+  "fetched_at": "2026-06-25T02:26:49.866449+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -20,10 +20,129 @@
     },
     {
       "source": "同花顺",
-      "title": "旭光电子自6月25日起被纳入异动股票池 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HUDVTZVNkVGhyOWdtd1B2eEI0WHEtNURjS1o5cEd5ZW5BcjA1blFEUFpRUjBtbnY1SUExeGNFSkpDT1lpMXZvYTJZd3kxTDM3TERLek0zQUNYZWZxWThkUlpn?oc=5\" target=\"_blank\">旭光电子自6月25日起被纳入异动股票池</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HUDVTZVNkVGhyOWdtd1B2eEI0WHEtNURjS1o5cEd5ZW5BcjA1blFEUFpRUjBtbnY1SUExeGNFSkpDT1lpMXZvYTJZd3kxTDM3TERLek0zQUNYZWZxWThkUlpn?oc=5",
-      "published": "Wed, 24 Jun 2026 16:06:57 GMT"
+      "title": "LME金属期货收盘集体下跌",
+      "summary": "LME金属期货收盘集体下跌。伦铝收跌4.36%，报3117.5美元； 伦铜收跌2.57%，报13029.5美元； 伦镍收跌2.61%，报16780美元； 伦铅收跌1.49%，报1915.5美元； 伦锡收跌2.56%，报49750美元； 伦锌收跌2.73%，报3406美元。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692996.shtml",
+      "published": "Wed, 24 Jun 2026 18:13:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI推出新版GPT-5.5 Instant",
+      "summary": "OpenAI推出新版GPT-5.5 Instant，今日面向付费用户开放，明日面向免费用户开放。(蓝鲸新闻)",
+      "link": "https://news.10jqka.com.cn/20260625/c677692994.shtml",
+      "published": "Wed, 24 Jun 2026 18:10:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货黄金失守3960美元/盎司",
+      "summary": "现货黄金失守3960美元/盎司，日内跌3.94%。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692990.shtml",
+      "published": "Wed, 24 Jun 2026 18:04:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货白银暴跌9%",
+      "summary": "现货白银暴跌9%，现报56.06美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692988.shtml",
+      "published": "Wed, 24 Jun 2026 18:02:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "COMEX白银期货暴跌9%",
+      "summary": "COMEX白银期货暴跌9%，现报56.3美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692987.shtml",
+      "published": "Wed, 24 Jun 2026 18:01:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "联邦法官永久叫停美政府要求选民提供身份证明的命令",
+      "summary": "当地时间6月24日，美国联邦地区法院法官丹尼斯·卡斯珀裁定，永久禁止特朗普政府实施其首份选举行政令中的大部分内容。该行政令要求选民在登记投票时提供公民身份文件证明，并规定邮寄选票若在选举日后送达，即使邮戳日期符合要求，也不得计票。法官表示，根据美国宪法，规范选举事务的权力属于各州和国会，而非总统，因此总统无权通过行政命令单方面修改相关选举规则。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260625/c677692982.shtml",
+      "published": "Wed, 24 Jun 2026 18:00:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货白银大跌7%",
+      "summary": "现货白银大跌7%，现报57.33美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692974.shtml",
+      "published": "Wed, 24 Jun 2026 17:51:13 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "哥伦比亚左翼候选人塞佩达承认败选",
+      "summary": "当地时间24日上午，来自左翼执政联盟“哥伦比亚历史公约联盟”的候选人伊万·塞佩达通过网络平台直播宣布，他承认在哥伦比亚总统选举中败选。哥伦比亚21日举行总统选举第二轮投票，塞佩达和来自极右翼政治团体“祖国捍卫者”的独立候选人阿韦拉多·德拉埃斯普列亚展开最终角逐。根据哥伦比亚国家民事登记处21日晚公布总统选举第二轮投票的初步计票结果，德拉埃斯普列亚得票率领先塞佩达约1个百分点。现任总统佩特罗对这一结果提出质疑，并通过社交媒体表示，仍不能宣布谁将当选新总统。但德拉埃斯普列亚21日晚宣布胜选。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260625/c677692965.shtml",
+      "published": "Wed, 24 Jun 2026 17:45:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "新疆阿克苏地区沙雅县发生3.8级地震 震源深度28公里",
+      "summary": "中国地震台网正式测定：6月25日01时22分，在新疆阿克苏地区沙雅县（北纬40.99度，东经83.34度）发生3.8级地震，震源深度28公里。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260625/c677692956.shtml",
+      "published": "Wed, 24 Jun 2026 17:37:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股纳斯达克100指数期货跌超1%",
+      "summary": "美股纳斯达克100指数期货跌超1%，标普500指数期货跌0.39%，道琼斯指数期货涨0.15%。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692955.shtml",
+      "published": "Wed, 24 Jun 2026 17:33:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "COMEX白银期货大跌7%",
+      "summary": "COMEX白银期货大跌7%，现报57.6美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692949.shtml",
+      "published": "Wed, 24 Jun 2026 17:31:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货白银大跌6%",
+      "summary": "现货白银大跌6%，现报57.9美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692930.shtml",
+      "published": "Wed, 24 Jun 2026 17:25:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "27个国家和国际组织的外交官及智库专家参访湖北",
+      "summary": "“内陆开放高地·战略支点湖北”驻华外交官及国际智库专家参访活动24日在湖北省武汉市正式启动。来自土库曼斯坦、科摩罗、保加利亚、阿根廷、英国、西班牙、上海合作组织等27个国家和国际组织的近40名驻华大使、高级别外交官及智库专家将在湖北省武汉市、荆州市、宜昌市开展为期四天的参观考察。首日，外交官及智库专家们到访湖北省博物馆和武商梦时代广场，感受荆楚文物的千年魅力，观摩人形机器人等前沿领域的创新应用。保加利亚驻华大使特霍夫表示，在同一天了解到中国悠久的历史底蕴和领先的科技发展成果，让他印象深刻，期待此行能在湖北深入了解中华文化，探索合作空间。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260625/c677692926.shtml",
+      "published": "Wed, 24 Jun 2026 17:22:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "NYMEX钯金主力合约大跌6%",
+      "summary": "NYMEX钯金主力合约大跌6%，现报1167.5美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692918.shtml",
+      "published": "Wed, 24 Jun 2026 17:18:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国际铜夜盘收跌2.29%",
+      "summary": "国际铜夜盘收跌2.29%，沪铜收跌2.30%，沪铝收跌2.13%，沪锌收跌1.33%，沪铅收跌0.95%，沪镍收跌1.72%，沪锡收跌2.64%。氧化铝夜盘收跌0.84%，铝合金收跌1.69%。不锈钢夜盘收跌0.85%。",
+      "link": "https://news.10jqka.com.cn/20260625/c677692890.shtml",
+      "published": "Wed, 24 Jun 2026 17:06:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "鲁比奥：美伊本月底将继续技术磋商",
+      "summary": "美国国务卿鲁比奥表示，美国和伊朗技术团队将于6月底在瑞士继续举行会谈。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260625/c677692847.shtml",
+      "published": "Wed, 24 Jun 2026 16:53:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "哥伦比亚左翼候选人塞佩达承认大选败选",
+      "summary": "当地时间24日上午，来自左翼执政联盟“哥伦比亚历史公约联盟”的候选人伊万·塞佩达通过网络平台直播宣布，他承认在哥伦比亚总统选举中落败。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260625/c677692829.shtml",
+      "published": "Wed, 24 Jun 2026 16:43:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
+      "summary": "<p>谷歌另外两名主要的AI员工恐将跳槽至Anthropic。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3775440",
+      "published": "Wed, 24 Jun 2026 18:18:39 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -33,11 +152,11 @@
       "published": "Wed, 24 Jun 2026 17:51:01 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "2.3万亿美元！日本推出14年超级投资计划，近1/3押注AI半导体",
-      "summary": "<p style=\"text-align: left;\">日本正试图用一场持续14年的超级投资计划，重塑其在全球科技竞争中的地位。</p>\n<p style=\"text-align: left;\">6月24日，日本首相高市早苗公布长期经济增长蓝图，计划在截至2040财年的14年内累计投入超过370万亿日元（约2.3万亿美元），重点支持人工智能、半导体等战略产业。<strong>其中，仅AI和半导体领域的投资规模就高达101.6万亿日元，占整体计划近三分之一。</strong></p>\n<p style=\"text-align: left;\">这项计划被视为日本政府经济战略的核心支柱。在全球科技竞争加剧、供应链安全重要性上升以及日本人口老龄化持续加深的背景下，日本希望通过大规模产业投资提升经济安全、缓解劳动力短缺，并重振长期增长动能。</p>\n<p style=\"text-align: left;\">与此同时，日本政府还公布了三种长期财政情景预测。官方认为，<strong>如果增长战略顺利实施，日本债务占GDP比重有望逐步下降；但若技术突破不及预期或经济维持现状，债务压力将在2030年代",
-      "link": "https://wallstreetcn.com/articles/3775436",
-      "published": "Wed, 24 Jun 2026 16:03:55 GMT"
+      "source": "新股IPO",
+      "title": "硬科技IPO红利释放 券商投行业绩将延续高增长-证券之星 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSRDVvNWdGMUJ1UzlSbDg3ZURvMGI0THhWdUJEaXZ4ZndLcjU1cjU0Q0xGSE1jZS1QeHBFNjZsUUJ2WV9tVk1qTlBVOUl4dXg4Qm9sUHdGNlcxOXpFNnc?oc=5\" target=\"_blank\">硬科技IPO红利释放 券商投行业绩将延续高增长-证券之星</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSRDVvNWdGMUJ1UzlSbDg3ZURvMGI0THhWdUJEaXZ4ZndLcjU1cjU0Q0xGSE1jZS1QeHBFNjZsUUJ2WV9tVk1qTlBVOUl4dXg4Qm9sUHdGNlcxOXpFNnc?oc=5",
+      "published": "Wed, 24 Jun 2026 17:59:47 GMT"
     }
   ]
 }
