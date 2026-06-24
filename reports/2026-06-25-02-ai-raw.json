@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "02",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8308,
+    "completion_tokens": 1694,
+    "total_tokens": 10002
+  },
+  "content_length": 1784,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"硬科技IPO红利利好券商\",\n      \"summary\": \"多家券商投行部门预计，随着硬科技企业IPO加速，券商投行业绩将延续高增长。安永报告显示上半年A股IPO首日平均涨233%，筹资额同比增长49%，监管层鼓励质量优先的IPO新常态。该消息对券商板块构成直接利好，可能推动券商估值修复。信号偏多，但需关注市场整体成交额变化。\",\n      \"reason\": \"直接利好券商板块，硬科技IPO高增长将提升投行收入，符合中期影响逻辑。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"券商\", \"中信证券\", \"中金公司\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkYWZhaXoxN3o3QTNkOUZvUEVvQXlQYWhRNUJkdWVoYzhMU1JWQ1RKMFFlQ1R0d0pLcXF0cy1ZaHF1NU81TFpOaF9Cc2NQOEJ4X2VGNUFJNjBnZUlhX1RYaw?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"比特币创逾一年新低\",\n      \"summary\": \"比特币跌破5.9万美元，创2024年10月以来新低，单日跌幅约5%。散户大军撤退，市场脆弱性增加。可能引发A股区块链、数字货币概念股情绪承压，同时作为风险资产联动，或对整体市场情绪产生短期负面影响。历史数据显示比特币暴跌常伴随A股风险偏好下降。\",\n      \"reason\": \"比特币新低反映风险资产抛压，可能影响A股相关板块及市场情绪，属于市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"区块链\", \"数字货币\", \"沪深300\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775438\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"旭光电子被纳入异动股票池\",\n      \"summary\": \"旭光电子自6月25日起被同花顺纳入异动股票池，可能因近期股价波动较大或存在事件驱动。异动股票池通常吸引短线资金关注，但不对公司基本面构成影响。该消息对旭光电子个股有短期情绪影响，但对整体市场意义较小。信号中性偏多，需警惕游资炒作风险。\",\n      \"reason\": \"个股异动信号，短期可能吸引资金关注，但影响范围小，属于轻度市场结构信号。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"旭光电子\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HUDVTZVNkVGhyOWdtd1B2eEI0WHEtNURjS1o5cEd5ZW5BcjA1blFEUFpRUjBtbnY1SUExeGNFSkpDT1lpMXZvYTJZd3kxTDM3TERLek0zQUNYZWZxWThkUlpn?oc=5\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮可筛选有效消息较少，仅3条符合标准，故输出少于5条。其余素材因重复或无关已排除。\"\n}"
+}
