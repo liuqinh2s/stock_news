@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8984,
+    "completion_tokens": 3774,
+    "total_tokens": 12758
+  },
+  "content_length": 1811,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"黑猫股份登龙虎榜\",\n      \"summary\": \"黑猫股份（002068）于6月24日登上交易所龙虎榜，表明该股当日交易异常活跃，受到游资或机构关注。龙虎榜通常反映短线资金动向，但具体买卖方向需进一步分析。该消息对黑猫股份本身有情绪影响，但整体市场影响有限。中性信号。\",\n      \"reason\": \"龙虎榜异动属于市场情绪信号，可提供短线交易参考，但影响力有限。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"黑猫股份\", \"炭黑行业\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富财富号\", \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTE8yRWx5VmlFVjRTQWNESXZqOVdwZS01OGpkWDRMRlVORXlaellNQVFrRXdzZXJ3Q0tOSFBjMXUzUEt2YVNvSy1ibE1VaktjT0g3dTl2WVVkc1RKdU4yT09KRHhXamRqbWRFVV80?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"英伟达股东会：AI回报率有答案\",\n      \"summary\": \"英伟达召开股东会，CEO黄仁勋表示AI投资回报率问题已有答案，提振市场对AI前景的信心。这有助于维持全球AI板块热度，对A股AI相关公司如算力、芯片、大模型等构成情绪利好。英伟达作为全球AI龙头，其言论具有风向标意义。看多信号。\",\n      \"reason\": \"英伟达股东会发言直接关联AI行业景气度，对A股AI板块有正面催化。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"半导体\", \"中科曙光\", \"科大讯飞\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"财联社\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1CY0l5d3lxbl8talBYZFRsN3ZzMjVieVB1bGdZU051eGVtc3VJWXhHNDRmYUVhSlVRZUFLM2U2aVA3YWFHU0JyeWpwYjAxcERBVFREQ1RSLXcyTTdNREwxbTJpc2ZVQWFodjh6bDI2U1RfbXdyYjh2MA?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"摩根大通下调特斯拉交付预期\",\n      \"summary\": \"摩根大通下调特斯拉二季度交付预期，预计低于市场共识。这可能导致特斯拉股价承压，并传导至A股新能源车产业链，尤其是特斯拉供应商和零部件公司。特斯拉作为全球电动车龙头，交付下滑信号利空板块。看空信号。\",\n      \"reason\": \"知名投行下调交付预期，直接利空特斯拉及新能源车板块，影响A股相关个股情绪。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"新能源车\", \"特斯拉概念\", \"宁德时代\", \"拓普集团\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775439\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"由于历史消息中已大量覆盖地缘政治、海外资产价格下跌等事件，且严格去重后，仅筛选出3条新消息。\"\n}"
+}
