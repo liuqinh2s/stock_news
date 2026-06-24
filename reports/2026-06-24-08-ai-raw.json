@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-24",
+  "hour": "08",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 10029,
+    "completion_tokens": 4207,
+    "total_tokens": 14236
+  },
+  "content_length": 1820,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"东北证券上调迪哲医药评级\",\n      \"summary\": \"东北证券发布研报，上调迪哲医药评级。迪哲医药为创新药企业，评级上调反映机构对其研发进展或市场前景的看好，可能带动创新药板块情绪。这属于机构评级变动，信号偏多，但影响范围有限。\",\n      \"reason\": \"机构评级变动是优先级二事件，虽影响个股为主，但创新药板块近期活跃，有情绪传导可能。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"迪哲医药\", \"创新药\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTE03RmFJYWExOEZGTi10UXRuUGZLQ0ZoYm9GcTRWYS1vZDlYXy1qajJYQXBFclh1aFVMUUtPOXRQaWRaV3FBVFFGSmZoamY1dmFQSk41V2xia1J2QjNMQmc?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"中邮证券上调矽电股份评级\",\n      \"summary\": \"中邮证券发布研报，上调矽电股份评级。矽电股份主营半导体设备，评级上调反映机构对其订单或行业景气度的看好，可能提振半导体设备板块信心。信号偏多，但个股影响为主。\",\n      \"reason\": \"机构评级变动，半导体设备近期受AI和国产替代关注，有中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"矽电股份\", \"半导体设备\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺财经\", \"url\": \"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKTkdZMk5oRGFnVWR5czBkQktfaFlSaGlQandIYUYycXBXek1jUVdiQnFwdVZfMEpLVzYtSWxKckpmNndHeUJlWExac2pNSm5QTG5IcUtnNmYwYk1IT0E?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"海富通均衡优势混合基金发售\",\n      \"summary\": \"海富通均衡优势混合型证券投资基金发布基金份额发售公告。新基金发行通常带来增量资金入市预期，但混合型基金规模及影响力尚不明确，信号中性偏多。对市场整体影响微弱。\",\n      \"reason\": \"新基金发行属于市场情绪信号，但普通混合基金发售对市场资金面的影响有限。\",\n      \"category\": \"市场结构\",\n      \"impact_stocks\": [\"沪深300\", \"基金重仓股\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"天天基金\", \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTFB1M3RiOGNfT1I0QXBETVphOFlDUWc4czVkcFhKSzQyOHM1Y0VoLTVtWG5tWnRaMlN3MER1eWQ5Wm01X241NDRRX3JMWjFqQnRtZU9FX216T3B4ejJONWozbjJOWE1rbHB1RGlJYzYxZ3VTZGdXNUE?oc=5\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"近6小时历史消息中大部分A股相关新闻已重复出现，本轮筛选仅发现3条新消息且影响力较低，未能达到5条以上。\"\n}"
+}
