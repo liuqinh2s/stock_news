@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "01",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 11240,
+    "completion_tokens": 4144,
+    "total_tokens": 15384
+  },
+  "content_length": 2228,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"中报行情启动\",\n      \"summary\": \"据新浪财经报道，A股中报行情正式启幕，4家先发布业绩预告且高增长的公司获得资金青睐。中报业绩是市场关注焦点，高增长公司可能带动相关板块（如电子、医药等）走强。该消息预示市场对业绩确定性追涨，属于中期看多信号。\",\n      \"reason\": \"中报行情是市场核心驱动力，业绩预增股容易获得超额收益，符合优先级二（中期影响）的筛选标准。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"业绩预增股\", \"电子\", \"医药\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE00YmNTOGZvamRvSzVmLV9LZkMyU2VnY1dLejVmakszNGluUzVrOERaakJ1ek9lMUF2VVo5aTJyYU85QVdsSHVNWWhmYWlYelQyaHN4LUVaZGRjQmxIMEFuMTNvLS1VeXlrVFlETlZFWE5sVmtaM1hqTw?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"美伊继续技术磋商\",\n      \"summary\": \"美国国务卿鲁比奥表示，美伊双方将于本月底继续进行技术磋商，以解决霍尔木兹海峡相关问题。这一消息缓和了中东紧张局势，可能对油价产生下行压力，降低避险需求。对A股影响中性偏多，有利于石油石化板块压力减轻，但航运、军工可能情绪降温。\",\n      \"reason\": \"中东局势影响全球市场，技术磋商属于事态缓和信号，符合优先级二（海外市场联动）的筛选标准。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油石化\", \"航运\", \"黄金\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677692847.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"英得尔实业启动上市辅导\",\n      \"summary\": \"广东英得尔实业股份有限公司启动上市辅导，拟在A股IPO。该公司主营业务为车载冰箱等汽车零部件。该消息表明IPO排队再增加，但影响较小，对汽车零部件板块情绪稍有提振。\",\n      \"reason\": \"属于IPO进程小消息，影响微弱，但可反映资本市场活跃度，符合优先级三（市场结构）的筛选标准。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"汽车零部件\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677692797.shtml\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"吉泰科电气启动上市辅导\",\n      \"summary\": \"江苏吉泰科电气股份有限公司启动上市辅导，拟在A股IPO。公司主营电力电子设备。消息本身影响微弱，但显示电气设备行业公司上市意愿。\",\n      \"reason\": \"同英得尔实业，属于IPO进程小消息，影响微弱。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"电气设备\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677692795.shtml\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中大部分与历史消息重复，仅4条具有新信息且符合筛选标准，因此输出少于5条。\"\n}"
+}
