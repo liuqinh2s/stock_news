@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-26",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 1928,
+    "completion_tokens": 956,
+    "total_tokens": 2884
+  },
+  "content_length": 882,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美股分化：科技跌芯片涨\",\n      \"summary\": \"隔夜美股收盘，标普500基本持平，但科技巨头普遍下跌，苹果重挫6.12%，拖累纳指走弱；美光财报亮眼暴涨15.81%，带动芯片股逆势走高。中概股整体走低。此外，受霍尔木兹局势影响，国际油价跳涨；黄金价格重回4000美元/盎司以上。对A股影响：科技股（尤其是苹果产业链及消费电子板块）承压，看空；半导体板块受美光带动可能短期提振，看多；油价上涨利好石油开采板块，看多；金价上涨利好黄金股，看多。整体看，A股开盘可能受情绪压制，但结构性机会存在。\",\n      \"reason\": \"海外市场波动直接影响A股情绪及对应板块，科技股下跌与芯片股上涨形成分化，油价和金价异动带来结构性交易机会。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"科技股\", \"半导体\", \"中概股\", \"石油\", \"黄金\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"华尔街见闻\", \"url\": \"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LUWhsSnVmMThuYzNranZzbUY1czBJU1d4VWxNMGlqSERWSFUwVHRTbGZmMENDYVJ4MldLdlNzZWlRaGJhV1hWdjZtYXBYbi1JYV9V?oc=5\"},\n        {\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103247137.html\"}\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"当前时间附近仅两条高度重叠的海外市场消息，筛选后合并为一条。\"\n}"
+}
