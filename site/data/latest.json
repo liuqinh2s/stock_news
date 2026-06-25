@@ -3,28 +3,106 @@
   "hour": "07",
   "news": [
     {
-      "title": "美光暴涨15.81%",
-      "summary": "美光科技（Micron）公布财报超预期，股价暴涨15.81%，带动美股半导体板块整体走高。A股存储芯片、半导体产业链将受正面激励，尤其是与美光直接关联的封测、模组等环节。信号看多，短期利好芯片半导体板块。",
-      "reason": "美光作为全球存储芯片龙头，其财报超预期和股价暴涨直接提振市场对存储行业景气度的信心，利好A股相关概念股，如兆易创新、北京君正、长电科技等。",
-      "category": "行业动态",
+      "title": "央行隔夜逆回购呵护流动性",
+      "summary": "央行近期将开展隔夜逆回购操作，多维发力呵护年中流动性。此举旨在平滑月末资金面波动，稳定市场预期。逆回购操作释放短期流动性，对A股整体构成流动性利好，尤其利好银行、非银金融板块。信号偏多，但影响程度中等，因为逆回购为常规工具。",
+      "reason": "央行流动性操作直接影响资金面，属于货币政策范畴，对市场情绪有提振作用。",
+      "category": "货币政策",
       "impact_stocks": [
-        "存储芯片",
-        "半导体",
-        "兆易创新",
-        "北京君正",
-        "长电科技"
+        "银行",
+        "非银金融",
+        "沪深300"
       ],
       "signal": "bullish",
-      "impact_level": 4,
+      "impact_level": 3,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103247137.html"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677726070.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "券商加码国际业务",
+      "summary": "券商竞逐国际业务新增长极，多家券商加速海外布局。短期对券商板块情绪有提振，但业绩兑现需时间。利好头部券商如中信证券、华泰证券等，信号偏正面。",
+      "reason": "行业动态利好券商板块，属于中期催化，但非重磅政策。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中信证券",
+        "华泰证券",
+        "中金公司"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677726100.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美欧拟建立AI伙伴关系",
+      "summary": "美国据称寻求与欧盟建立AI伙伴关系，聚焦监管协调与供应链安全。此举有望推动全球AI治理合作，利好AI产业长期发展，但短期对A股AI概念股影响有限。可能提振AI算力、芯片等板块。信号中性偏多。",
+      "reason": "国际AI政策动态影响产业预期，属于行业层面消息。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "算力",
+        "半导体"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775555"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "特朗普政府要求OpenAI分阶段发布GPT-5.6",
+      "summary": "报道称特朗普政府要求OpenAI分阶段发布GPT-5.6，AI监管升温。这或短期压制AI板块情绪，但长期有利于行业规范。对A股AI概念股如科大讯飞、三六零等有情绪影响，信号偏空但影响有限。",
+      "reason": "AI监管政策影响板块情绪，属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI概念",
+        "科大讯飞",
+        "三六零"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775553"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "欧洲多国遭遇破纪录高温",
+      "summary": "欧洲多国遭遇6月同期破纪录高温，可能推升电力需求及空调等制冷设备需求。利好A股电力板块（如长江电力）及家电板块（如格力电器）。但影响偏短期，信号中性偏多。",
+      "reason": "极端气候事件可能影响能源、家电行业需求，属于行业动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "长江电力",
+        "格力电器",
+        "电力板块"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677726364.shtml"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 2,
-  "generated_at": "2026-06-26T07:02:57.279728+08:00"
+  "total_fetched": 40,
+  "generated_at": "2026-06-26T07:07:13.423589+08:00"
 }
