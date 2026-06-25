@@ -3,33 +3,55 @@
   "hour": "10",
   "news": [
     {
-      "title": "央行将增加隔夜逆回购品种",
-      "summary": "中国央行宣布将在6月29日、6月30日公开市场操作中增加隔夜逆回购操作品种，以丰富流动性管理工具。此举为临时性安排，旨在平滑半年末资金面波动，信号偏积极。短期利好债市和股市流动性，但影响程度有限。信号：中性偏多。",
-      "reason": "央行流动性管理创新，虽为短期安排但体现呵护意图，对市场情绪有正面作用。",
+      "title": "央行新增隔夜逆回购",
+      "summary": "中国央行宣布将在6月29日、30日公开市场操作中增加隔夜逆回购操作品种。这是央行短期流动性管理工具的创新，有助于平滑月末资金面波动，释放稳定市场信号。此举将增加短期资金供给，利好银行间市场流动性，对A股整体构成正面支撑，尤其利好金融板块及高杠杆行业。信号：看多。",
+      "reason": "货币政策新工具，直接影响流动性预期，属于高优先级事件。",
       "category": "货币政策",
       "impact_stocks": [
+        "沪深300",
         "银行",
-        "沪深300"
+        "券商"
       ],
-      "signal": "neutral",
-      "impact_level": 3,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
           "name": "华尔街见闻",
           "url": "https://wallstreetcn.com/livenews/3124327"
         }
       ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "A股六大存储龙头齐创历史新高",
+      "summary": "今日A股六大存储龙头（如兆易创新、北京君正等）股价集体创下历史新高，存储芯片板块持续走强。受美光超预期财报及AI存储需求推动，资金集中涌入该赛道。该板块年内涨幅已较大，但产业景气度上行趋势明确，短期仍可关注，但需注意高位波动风险。信号：看多（中期）。",
+      "reason": "板块龙头创新高，验证存储行业高景气，是市场主线的体现。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "存储芯片",
+        "兆易创新",
+        "北京君正",
+        "澜起科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "中国证券报",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd2VpWE1aeWhlQVJEaU1zWWMtNFNES1dMcThZNURGSVhZczZMMnJwTGRtMWRqS3V4TEJzemNldUhIUHFaUzBSRVE1elhYTGZXVl9kTkZEeHRobUoxRzV4M1RrWDJIaWplb1lyTFo2R0lFcl9lWTQyNFJBUDItdFBmcE15OXBoLVVESE0yVlFn?oc=5"
+        }
+      ],
       "urgency": "hours"
     },
     {
-      "title": "科创50首次突破2000点",
-      "summary": "科创50指数涨超1%，首次突破2000点整数关口，年内累计涨幅近50%。市场标杆意义重大，反映资金对科技创新赛道的持续追捧。半导体、AI等板块领涨，预计将吸引更多资金配置科创板ETF及相关个股。信号：看多。",
-      "reason": "科创50创历史新高是重要市场情绪信号，强化科技主线，对科创板及科技成长股构成提振。",
+      "title": "科创50指数首次突破2000点",
+      "summary": "今日科创50指数涨超1%，首次突破2000点整数关口，年内累计涨幅近50%。科创板科技属性突出，受半导体、AI等板块带动，指数强势突破反映市场对科技成长股的追捧。后续关注科创板ETF资金流入及政策面支持。信号：看多。",
+      "reason": "重要指数突破关键点位，代表科技股主线地位确认，具有指标意义。",
       "category": "市场情绪",
       "impact_stocks": [
         "科创板",
-        "半导体",
-        "AI"
+        "科创50ETF",
+        "半导体"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -39,36 +61,59 @@
           "url": "https://wallstreetcn.com/articles/3775467"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "华恒生物董事长被刑拘",
-      "summary": "华恒生物公告，董事长、实际控制人郭恒华因涉嫌非法吸收公众存款罪被刑事拘留，公司同时终止港股上市计划。该事件对公司经营和声誉构成重大利空，短期内股价承压，且可能引发市场对相关化工或生物制造板块的担忧。信号：看空。",
-      "reason": "公司核心人物涉案且港股上市终止，属重大负面事件，直接影响个股及可能波及板块。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "华恒生物",
-        "生物制造"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yRm5PZGJreE5iOVpOUzI3VlFIWjhpTkRyZkRDbjh5cGlOUDQ0d1A1dXBKdTFfNFduR1NXMnlpTjVnakY2WGJpMmVQRFBmZ0QzOS1OZjZ2Q1NrS2lhTUxzSQ?oc=5"
-        }
-      ],
       "urgency": "immediate"
     },
     {
-      "title": "日本酸素氦气提价30%",
-      "summary": "日本酸素宣布氦气提价30%，引发新一轮涨价潮。氦气是半导体制造关键气体，此次涨价凸显供应链紧张，可能带动国内氦气及半导体材料板块走强。A股相关公司如凯美特气、华特气体等有望受益。信号：看多半导体材料。",
-      "reason": "原材料涨价直接利好国内替代厂商，半导体产业链国产替代逻辑强化。",
+      "title": "高通发布AI CPU并收购AI软件企业",
+      "summary": "高通在投资者日宣布，将于2028年年中推出数据中心CPU，并预计到2029财年数据中心AI组件销售额超150亿美元。同时高通收购AI软件企业，盘后股价大涨。此举将加剧AI算力竞争，利好国内AI硬件产业链（如光模块、服务器）及国产替代相关公司。信号：看多AI板块。",
+      "reason": "高通进军AI算力进一步确认AI基础设施建设长期需求，对AI板块有催化作用。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI算力",
+        "光模块",
+        "中际旭创",
+        "服务器"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "财联社",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DYmg2bHV6eU9KaDhNaUlKemtPd0JtREIxWFYyQkJfN1BwT0RYR0R1MmlWYlRsVi1aWjZIYXBKVFMzWkktUjdsYg?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "康宁推出玻璃光互连技术",
+      "summary": "康宁公司发布玻璃光学互连技术，旨在替代传统PCB电互联，为CPO（共封装光学）提供新方案。该技术有望提升数据中心内部通信带宽和能效，利好国内光通信及CPO产业链，如天孚通信、中际旭创等。信号：看多光通信板块。",
+      "reason": "新技术突破可能推动CPO产业化加速，影响较大，属于行业重要动态。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "光通信",
+        "CPO",
+        "天孚通信",
+        "中际旭创"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775461"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "日本酸素宣布氦气提价30%",
+      "summary": "日本酸素株式会社宣布氦气提价30%，开启新一轮涨价潮。氦气是半导体制造关键气体，涨价将增加晶圆厂成本，但也可能驱动国内替代材料需求。利好国内氦气生产商和半导体供应链公司（如华特气体、金宏气体）。信号：中性偏多（关注国产替代）。",
+      "reason": "半导体关键材料价格大幅上涨，对产业链有结构性影响，需关注国产替代机会。",
       "category": "行业动态",
       "impact_stocks": [
         "半导体材料",
-        "凯美特气",
-        "华特气体"
+        "华特气体",
+        "金宏气体"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -78,29 +123,9 @@
           "url": "https://wallstreetcn.com/member/articles/3775266"
         }
       ],
-      "urgency": "hours"
-    },
-    {
-      "title": "科济药业实体瘤CAR-T获批",
-      "summary": "科济药业自主研发的全球首款实体瘤CAR-T产品获国家药监局批准上市，定价一针99万元。该产品填补实体瘤细胞治疗空白，对创新药板块具有里程碑意义。A股细胞治疗概念股如复星医药、药明康德等有望受到提振。信号：看多创新药。",
-      "reason": "重大行业突破，提振细胞治疗产业链预期，对A股创新药及生物科技板块形成催化。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "创新药",
-        "细胞治疗",
-        "复星医药"
-      ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3775466"
-        }
-      ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 63,
-  "generated_at": "2026-06-25T10:01:11.864934+08:00"
+  "total_fetched": 71,
+  "generated_at": "2026-06-25T10:46:33.095861+08:00"
 }
