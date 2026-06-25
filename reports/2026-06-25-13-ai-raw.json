@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "13",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 14950,
+    "completion_tokens": 3916,
+    "total_tokens": 18866
+  },
+  "content_length": 1701,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美银：纳斯达克泡沫临界点\",\n      \"summary\": \"美银发布报告警告，半导体板块主导下纳斯达克指数已达泡沫临界点。该行认为当前估值过高，未来可能面临回调风险。此消息可能引发全球科技股情绪波动，对A股半导体、AI等板块构成短期利空，需警惕资金外流和避险情绪。信号：看空。\",\n      \"reason\": \"美银作为顶级投行，其泡沫警告具有权威性，可能引发全球科技股回调，传导至A股半导体等板块。属于市场情绪影响。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"半导体\", \"AI概念\", \"科创50\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775478\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"瑞银：60%企业控制AI支出\",\n      \"summary\": \"瑞银调查报告显示，60%的企业已开始控制AI支出，并转向使用低成本模型和开源中国模型。这一趋势可能减缓对高端算力基础设施的需求，利空英伟达等海外算力龙头，但对国产AI芯片和开源模型是利好。A股中，光模块、服务器等算力相关板块可能承压，而国产AI概念有望受益。\",\n      \"reason\": \"瑞银调查揭示了AI支出放缓趋势，直接影响市场对AI算力需求的预期，对A股AI产业链有结构性影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"光模块\", \"服务器\", \"国产芯片\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775468\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"IDC：手持智能相机出货增33%\",\n      \"summary\": \"IDC数据显示，2026年Q1全球手持智能相机（如无人机、运动相机）出货量同比增长33%，显示消费电子细分领域需求强劲。利好A股中的光学镜头、传感器、无人机等产业链公司，如大疆产业链相关标的。信号：看多。\",\n      \"reason\": \"消费电子细分领域增长数据超预期，对相关板块构成业绩支撑，属于轻度利好。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"消费电子\", \"光学镜头\", \"无人机\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677704110.shtml\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"近6小时历史消息中已大量覆盖美光财报、A股存储股新高、华恒生物跌停等事件，本轮抓取的新增有效消息较少，故仅输出3条。\"\n}"
+}
