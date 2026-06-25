@@ -1,113 +1,106 @@
 {
   "date": "2026-06-25",
   "hour": "21",
-  "total": 67,
-  "fetched_at": "2026-06-25T21:00:42.487653+08:00",
+  "total": 55,
+  "fetched_at": "2026-06-25T21:09:34.818899+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股公司公告：半年报业绩预计增超23倍 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ObWhDRkVQcFlVdWN6RHUxd0FmaEk2NUlueElSc25qVWROeWVDRlRHYVJYZUZLLWsxb2JGc2JUdFk2alM4MVdGUEVPREt5TjRxWXN2QkxzWG15dU05SkZIY1h3c09CVlFSdzZOWEV0Z3UxLVBkOEE?oc=5\" target=\"_blank\">A股公司公告：半年报业绩预计增超23倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股公司公告：半年报业绩预计增超23倍 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ObWhDRkVQcFlVdWN6RHUxd0FmaEk2NUlueElSc25qVWROeWVDRlRHYVJYZUZLLWsxb2JGc2JUdFk2alM4MVdGUEVPREt5TjRxWXN2QkxzWG15dU05SkZIY1h3c09CVlFSdzZOWEV0Z3UxLVBkOEE?oc=5\" target=\"_blank\">A股公司公告：半年报业绩预计增超23倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ObWhDRkVQcFlVdWN6RHUxd0FmaEk2NUlueElSc25qVWROeWVDRlRHYVJYZUZLLWsxb2JGc2JUdFk2alM4MVdGUEVPREt5TjRxWXN2QkxzWG15dU05SkZIY1h3c09CVlFSdzZOWEV0Z3UxLVBkOEE?oc=5",
       "published": "Thu, 25 Jun 2026 11:43:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股超级肉签，首日狂飙1220%！80后重庆富豪身家暴涨超200亿 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnI2bEhEZVpiaWVzNXpoWlhsRklFWDhSaDkxbFpyUHBZSU53eUVuelBIVklqMV9EMm0yTkU3MVVBUEE4d0o4eUZHam92LWRoaDJWaXlDVi1yNHJLSzVKY3oydllpUHZHdzNidXhpeXJWVks4NUt6eGdTazJFRGZ3TmN3czdwYzdKVkVHbC14VGFyYm9SUDZfS1Z2dzFIaFRHYXUwU1dpaWFWbVNSOEhBS0V6a2c4Wlg0aGxTUDcybXVaSEtocEo5MXNKOGoyUWc?oc=5\" target=\"_blank\">A股超级肉签，首日狂飙1220%！80后重庆富豪身家暴涨超200亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "实控人遭刑拘，华恒生物A股跌停 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0yWXdmNmNuVmlTc2J4Y01uc3h5cjdkS2l0UDJHdHZlZ09zQlpOMHpxNW5iVUZUSFFXdjRUeHBqanZad21pX3ZoSFpoMlBNT2NRSUFhLUhSX2FkWUZIbDlkYTJVbk5xRVhQVTUwc2FFUFlPOWtzVnc?oc=5\" target=\"_blank\">实控人遭刑拘，华恒生物A股跌停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yWXdmNmNuVmlTc2J4Y01uc3h5cjdkS2l0UDJHdHZlZ09zQlpOMHpxNW5iVUZUSFFXdjRUeHBqanZad21pX3ZoSFpoMlBNT2NRSUFhLUhSX2FkWUZIbDlkYTJVbk5xRVhQVTUwc2FFUFlPOWtzVnc?oc=5",
+      "published": "Thu, 25 Jun 2026 12:50:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股超级肉签，首日狂飙1220%！80后重庆富豪身家暴涨超200亿 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnI2bEhEZVpiaWVzNXpoWlhsRklFWDhSaDkxbFpyUHBZSU53eUVuelBIVklqMV9EMm0yTkU3MVVBUEE4d0o4eUZHam92LWRoaDJWaXlDVi1yNHJLSzVKY3oydllpUHZHdzNidXhpeXJWVks4NUt6eGdTazJFRGZ3TmN3czdwYzdKVkVHbC14VGFyYm9SUDZfS1Z2dzFIaFRHYXUwU1dpaWFWbVNSOEhBS0V6a2c4Wlg0aGxTUDcybXVaSEtocEo5MXNKOGoyUWc?oc=5\" target=\"_blank\">A股超级肉签，首日狂飙1220%！80后重庆富豪身家暴涨超200亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnI2bEhEZVpiaWVzNXpoWlhsRklFWDhSaDkxbFpyUHBZSU53eUVuelBIVklqMV9EMm0yTkU3MVVBUEE4d0o4eUZHam92LWRoaDJWaXlDVi1yNHJLSzVKY3oydllpUHZHdzNidXhpeXJWVks4NUt6eGdTazJFRGZ3TmN3czdwYzdKVkVHbC14VGFyYm9SUDZfS1Z2dzFIaFRHYXUwU1dpaWFWbVNSOEhBS0V6a2c4Wlg0aGxTUDcybXVaSEtocEo5MXNKOGoyUWc?oc=5",
       "published": "Thu, 25 Jun 2026 12:13:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZR1o5SDBIM25ia0JoNktDTUQtYVp3S3dpbGp4MVZWbmI5R05mR196VnllYTBDNllkVVByS0Zhc3FNQlhzSk1MMUJ4NXZ1bHotOXZNbGxTRERoZzBVM1hrT1VzbnhJYmU0RllQMlJHd1gyMVAxMnlFSg?oc=5\" target=\"_blank\">A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZR1o5SDBIM25ia0JoNktDTUQtYVp3S3dpbGp4MVZWbmI5R05mR196VnllYTBDNllkVVByS0Zhc3FNQlhzSk1MMUJ4NXZ1bHotOXZNbGxTRERoZzBVM1hrT1VzbnhJYmU0RllQMlJHd1gyMVAxMnlFSg?oc=5\" target=\"_blank\">A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZR1o5SDBIM25ia0JoNktDTUQtYVp3S3dpbGp4MVZWbmI5R05mR196VnllYTBDNllkVVByS0Zhc3FNQlhzSk1MMUJ4NXZ1bHotOXZNbGxTRERoZzBVM1hrT1VzbnhJYmU0RllQMlJHd1gyMVAxMnlFSg?oc=5",
       "published": "Thu, 25 Jun 2026 11:25:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ESlMwdkdQcUlkcnB3Q2UyVjU0ajJhYmVJV3pKelFNUDhHUi1GRW5sbE1TQ010WEI3bzUxMEp3eW9CTVcyY2xUcUo4RG5rNng2cldXczl2QndsRGtncElKR01qSXhKalptTUpKT0cwdXlPTF95RzlxUQ?oc=5\" target=\"_blank\">A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ESlMwdkdQcUlkcnB3Q2UyVjU0ajJhYmVJV3pKelFNUDhHUi1GRW5sbE1TQ010WEI3bzUxMEp3eW9CTVcyY2xUcUo4RG5rNng2cldXczl2QndsRGtncElKR01qSXhKalptTUpKT0cwdXlPTF95RzlxUQ?oc=5\" target=\"_blank\">A股指数双创新高却超4200股下跌，哪些板块在“吃肉”？丨川观解盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ESlMwdkdQcUlkcnB3Q2UyVjU0ajJhYmVJV3pKelFNUDhHUi1GRW5sbE1TQ010WEI3bzUxMEp3eW9CTVcyY2xUcUo4RG5rNng2cldXczl2QndsRGtncElKR01qSXhKalptTUpKT0cwdXlPTF95RzlxUQ?oc=5",
       "published": "Thu, 25 Jun 2026 11:25:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股IPO成本曝光 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWTU1WWFMaDgxMTFMbE9NMHRJc05qd1NESVEwczdWSnhsRXRJSlYtMGtPYTFPUDZ6WnJnaDhjR2VneVNLQzA0SUJCRUZGOG9uakJZZW00bnRZYW9wdzMxQmVyZzV5SmRRM0VfQ3hLTXkyTjhjSHc?oc=5\" target=\"_blank\">A股IPO成本曝光</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股IPO成本曝光 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWTU1WWFMaDgxMTFMbE9NMHRJc05qd1NESVEwczdWSnhsRXRJSlYtMGtPYTFPUDZ6WnJnaDhjR2VneVNLQzA0SUJCRUZGOG9uakJZZW00bnRZYW9wdzMxQmVyZzV5SmRRM0VfQ3hLTXkyTjhjSHc?oc=5\" target=\"_blank\">A股IPO成本曝光</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWTU1WWFMaDgxMTFMbE9NMHRJc05qd1NESVEwczdWSnhsRXRJSlYtMGtPYTFPUDZ6WnJnaDhjR2VneVNLQzA0SUJCRUZGOG9uakJZZW00bnRZYW9wdzMxQmVyZzV5SmRRM0VfQ3hLTXkyTjhjSHc?oc=5",
       "published": "Thu, 25 Jun 2026 11:10:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "芯报丨英伟达谷歌AI液冷路线亮相，A股公司全产业链布局 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1xZFlob3ZvRWdEY0xPengyN1JvMkU5dldFMTJreFlnc3pxTkJYMzNJNWlRYXhBbzJyUFVLMU1MUFAyNFhrWS15WklwRzk0RDJXb0xZdUp5S0M1QTNlc05jQ0RWUFduR3ZwN05tbnF6Tkw4ejl1ZVE?oc=5\" target=\"_blank\">芯报丨英伟达谷歌AI液冷路线亮相，A股公司全产业链布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "芯报丨英伟达谷歌AI液冷路线亮相，A股公司全产业链布局 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1xZFlob3ZvRWdEY0xPengyN1JvMkU5dldFMTJreFlnc3pxTkJYMzNJNWlRYXhBbzJyUFVLMU1MUFAyNFhrWS15WklwRzk0RDJXb0xZdUp5S0M1QTNlc05jQ0RWUFduR3ZwN05tbnF6Tkw4ejl1ZVE?oc=5\" target=\"_blank\">芯报丨英伟达谷歌AI液冷路线亮相，A股公司全产业链布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xZFlob3ZvRWdEY0xPengyN1JvMkU5dldFMTJreFlnc3pxTkJYMzNJNWlRYXhBbzJyUFVLMU1MUFAyNFhrWS15WklwRzk0RDJXb0xZdUp5S0M1QTNlc05jQ0RWUFduR3ZwN05tbnF6Tkw4ejl1ZVE?oc=5",
       "published": "Thu, 25 Jun 2026 12:30:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "先歌国际北交所过会：“中国声音”的全球化样本 | A股融资快报 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1MQUZnV28yZVdrR3ZfZVVCT1AyRTVMcHY0a2NqazV4YkpjLWFQTmstNnQ5WVBhVHZXdGpsb0xrek1MZjhSOHRCS0dUOXBMcFZ1d2NBYW9RY1EtNXN0bjNTVHdTT0xfYUE2V01OS1ZKUFpWUUc4RVE?oc=5\" target=\"_blank\">先歌国际北交所过会：“中国声音”的全球化样本 | A股融资快报</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MQUZnV28yZVdrR3ZfZVVCT1AyRTVMcHY0a2NqazV4YkpjLWFQTmstNnQ5WVBhVHZXdGpsb0xrek1MZjhSOHRCS0dUOXBMcFZ1d2NBYW9RY1EtNXN0bjNTVHdTT0xfYUE2V01OS1ZKUFpWUUc4RVE?oc=5",
-      "published": "Thu, 25 Jun 2026 12:34:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "骄成超声：向特定对象发行A股股票申请获上交所受理 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBES3hqMzdCVTVuZ1NMb0l1cGgyX00wTzktVU5aRTNxbDFTeHg3dGJxQjN4SzZGejJJZk1iYmJLZWdWYXVQVXhXZDdqOWZNZk1mMFRPR3dmTFhRa3JhQzN4ZkdwVks1WWtWcEtqNEZJU2ZvdmVhbjF3bg?oc=5\" target=\"_blank\">骄成超声：向特定对象发行A股股票申请获上交所受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "骄成超声：向特定对象发行A股股票申请获上交所受理 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBES3hqMzdCVTVuZ1NMb0l1cGgyX00wTzktVU5aRTNxbDFTeHg3dGJxQjN4SzZGejJJZk1iYmJLZWdWYXVQVXhXZDdqOWZNZk1mMFRPR3dmTFhRa3JhQzN4ZkdwVks1WWtWcEtqNEZJU2ZvdmVhbjF3bg?oc=5\" target=\"_blank\">骄成超声：向特定对象发行A股股票申请获上交所受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBES3hqMzdCVTVuZ1NMb0l1cGgyX00wTzktVU5aRTNxbDFTeHg3dGJxQjN4SzZGejJJZk1iYmJLZWdWYXVQVXhXZDdqOWZNZk1mMFRPR3dmTFhRa3JhQzN4ZkdwVks1WWtWcEtqNEZJU2ZvdmVhbjF3bg?oc=5",
       "published": "Thu, 25 Jun 2026 11:34:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "凯莱英(06821.HK)A股异动 不存在应披露而未披露重大事项 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi01bHoyQ3JjV0lhQlc0aXZJYWk0V0tvUFplUWJaZHY3c0dJbm5lbko2TXlsM3JkeDZjTXYtdXFzelJMYTRseng2V1NmYnlpeGc4S2hHV2Q5MjIxRlBNdHB6V05ENnVFN0ZoLW5lMXFROFE4Q2lFenM5Yllxc2RwNw?oc=5\" target=\"_blank\">凯莱英(06821.HK)A股异动 不存在应披露而未披露重大事项</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "凯莱英(06821.HK)A股异动 不存在应披露而未披露重大事项 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi01bHoyQ3JjV0lhQlc0aXZJYWk0V0tvUFplUWJaZHY3c0dJbm5lbko2TXlsM3JkeDZjTXYtdXFzelJMYTRseng2V1NmYnlpeGc4S2hHV2Q5MjIxRlBNdHB6V05ENnVFN0ZoLW5lMXFROFE4Q2lFenM5Yllxc2RwNw?oc=5\" target=\"_blank\">凯莱英(06821.HK)A股异动 不存在应披露而未披露重大事项</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVi01bHoyQ3JjV0lhQlc0aXZJYWk0V0tvUFplUWJaZHY3c0dJbm5lbko2TXlsM3JkeDZjTXYtdXFzelJMYTRseng2V1NmYnlpeGc4S2hHV2Q5MjIxRlBNdHB6V05ENnVFN0ZoLW5lMXFROFE4Q2lFenM5Yllxc2RwNw?oc=5",
       "published": "Thu, 25 Jun 2026 11:22:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "可孚医疗(01187)：累计回购331.7万股A股 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDdXdmhNaWJxcWt0NE9RZmI5RUJNcG5CS0NyNFZVbWJkN2lXQllFTGJkZUFUNlFHYS1mRF9xTVA3aFZJV1lKSkMyMXlBMjBQWjFEbmNTSVhpd2tUYjJCOTh1emRGTzQ5SjNydmhQMjIwUnlLdXcxcDZxSFNaMnZOZzVET25Kb2UyaGRtRFV3?oc=5\" target=\"_blank\">可孚医疗(01187)：累计回购331.7万股A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "可孚医疗(01187)：累计回购331.7万股A股 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDdXdmhNaWJxcWt0NE9RZmI5RUJNcG5CS0NyNFZVbWJkN2lXQllFTGJkZUFUNlFHYS1mRF9xTVA3aFZJV1lKSkMyMXlBMjBQWjFEbmNTSVhpd2tUYjJCOTh1emRGTzQ5SjNydmhQMjIwUnlLdXcxcDZxSFNaMnZOZzVET25Kb2UyaGRtRFV3?oc=5\" target=\"_blank\">可孚医疗(01187)：累计回购331.7万股A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZDdXdmhNaWJxcWt0NE9RZmI5RUJNcG5CS0NyNFZVbWJkN2lXQllFTGJkZUFUNlFHYS1mRF9xTVA3aFZJV1lKSkMyMXlBMjBQWjFEbmNTSVhpd2tUYjJCOTh1emRGTzQ5SjNydmhQMjIwUnlLdXcxcDZxSFNaMnZOZzVET25Kb2UyaGRtRFV3?oc=5",
       "published": "Thu, 25 Jun 2026 11:13:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "民生银行2025年度A股每股派现0.053元 合计派现约2.32亿元 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1tT2hRZUZnelFBa3hDMkRmUXllNlBneFNxM1pSTWNyLThoRU1sbGkyU1E0U0pOLWF2V2NnbkN3LWFIay1Da3czSVJIRUZYVGMyZVNONkVkMWJZYVh3Y3hxTHNLTmd4NU9JX09pNk1CcVRhV01iS2doeVN0M2FJREFEekN1UDU4Vi1IaU55MzdRNTg?oc=5\" target=\"_blank\">民生银行2025年度A股每股派现0.053元 合计派现约2.32亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "民生银行2025年度A股每股派现0.053元 合计派现约2.32亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1tT2hRZUZnelFBa3hDMkRmUXllNlBneFNxM1pSTWNyLThoRU1sbGkyU1E0U0pOLWF2V2NnbkN3LWFIay1Da3czSVJIRUZYVGMyZVNONkVkMWJZYVh3Y3hxTHNLTmd4NU9JX09pNk1CcVRhV01iS2doeVN0M2FJREFEekN1UDU4Vi1IaU55MzdRNTg?oc=5\" target=\"_blank\">民生银行2025年度A股每股派现0.053元 合计派现约2.32亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYm1tT2hRZUZnelFBa3hDMkRmUXllNlBneFNxM1pSTWNyLThoRU1sbGkyU1E0U0pOLWF2V2NnbkN3LWFIay1Da3czSVJIRUZYVGMyZVNONkVkMWJZYVh3Y3hxTHNLTmd4NU9JX09pNk1CcVRhV01iS2doeVN0M2FJREFEekN1UDU4Vi1IaU55MzdRNTg?oc=5",
       "published": "Thu, 25 Jun 2026 11:29:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "兆易创新(03986.HK)：A股股价异常波动 无应披露重大信息 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSHVyY2VITF9JRC1lVDdPbHlLVXRldThWQkNIYWVDTkVrMExnT0Z5WlczdzBnYWRPak05UElJQXEyTUJWNnFIS0pVb01rTmJRRDM2bDREbGFuRGFrNDVveXBLNThSWko1cDRaaVJQVG9xSENSU0pRMlo3bk5sbkxUdw?oc=5\" target=\"_blank\">兆易创新(03986.HK)：A股股价异常波动 无应披露重大信息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "兆易创新(03986.HK)：A股股价异常波动 无应披露重大信息 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPSHVyY2VITF9JRC1lVDdPbHlLVXRldThWQkNIYWVDTkVrMExnT0Z5WlczdzBnYWRPak05UElJQXEyTUJWNnFIS0pVb01rTmJRRDM2bDREbGFuRGFrNDVveXBLNThSWko1cDRaaVJQVG9xSENSU0pRMlo3bk5sbkxUdw?oc=5\" target=\"_blank\">兆易创新(03986.HK)：A股股价异常波动 无应披露重大信息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSHVyY2VITF9JRC1lVDdPbHlLVXRldThWQkNIYWVDTkVrMExnT0Z5WlczdzBnYWRPak05UElJQXEyTUJWNnFIS0pVb01rTmJRRDM2bDREbGFuRGFrNDVveXBLNThSWko1cDRaaVJQVG9xSENSU0pRMlo3bk5sbkxUdw?oc=5",
       "published": "Thu, 25 Jun 2026 11:36:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "华力创通(300045.SZ)：终止公司2025年度向特定对象发行A股股票方案 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEp0TnJnNG5nOEtvOFl2bEJXVFVVZWQzVmIzaW80RGxrc0o4QWlfVmNZcFVRRVdHbEFXSlA5MmhqUmRxSHM4RDV2d2hBZXNYcFphVEY5UDBhWE5SRGg0cGd6V0J4OUZuSnNXNkppNVEyRkZPUTZGZTM5MHZaRnFfQw?oc=5\" target=\"_blank\">华力创通(300045.SZ)：终止公司2025年度向特定对象发行A股股票方案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "华力创通(300045.SZ)：终止公司2025年度向特定对象发行A股股票方案 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEp0TnJnNG5nOEtvOFl2bEJXVFVVZWQzVmIzaW80RGxrc0o4QWlfVmNZcFVRRVdHbEFXSlA5MmhqUmRxSHM4RDV2d2hBZXNYcFphVEY5UDBhWE5SRGg0cGd6V0J4OUZuSnNXNkppNVEyRkZPUTZGZTM5MHZaRnFfQw?oc=5\" target=\"_blank\">华力创通(300045.SZ)：终止公司2025年度向特定对象发行A股股票方案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEp0TnJnNG5nOEtvOFl2bEJXVFVVZWQzVmIzaW80RGxrc0o4QWlfVmNZcFVRRVdHbEFXSlA5MmhqUmRxSHM4RDV2d2hBZXNYcFphVEY5UDBhWE5SRGg0cGd6V0J4OUZuSnNXNkppNVEyRkZPUTZGZTM5MHZaRnFfQw?oc=5",
       "published": "Thu, 25 Jun 2026 12:30:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "药企董事长涉非吸被刑拘，港股折戟、A股暴跌20% - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE50U3VUYjExZnV4aVdLV283MGs1T09xbldRQVExc0doSzZvVDBkN3Q0Q3VsVlFkZWRIUzY2aU0xY1JEdU8tZ2Y5czRRTmJySzUwOVNyNkdKSE5vcVBHOEpJdy0xcFFndk9tZVlYQkpyRUVzamsybnc?oc=5\" target=\"_blank\">药企董事长涉非吸被刑拘，港股折戟、A股暴跌20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "药企董事长涉非吸被刑拘，港股折戟、A股暴跌20% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE50U3VUYjExZnV4aVdLV283MGs1T09xbldRQVExc0doSzZvVDBkN3Q0Q3VsVlFkZWRIUzY2aU0xY1JEdU8tZ2Y5czRRTmJySzUwOVNyNkdKSE5vcVBHOEpJdy0xcFFndk9tZVlYQkpyRUVzamsybnc?oc=5\" target=\"_blank\">药企董事长涉非吸被刑拘，港股折戟、A股暴跌20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50U3VUYjExZnV4aVdLV283MGs1T09xbldRQVExc0doSzZvVDBkN3Q0Q3VsVlFkZWRIUzY2aU0xY1JEdU8tZ2Y5czRRTmJySzUwOVNyNkdKSE5vcVBHOEpJdy0xcFFndk9tZVlYQkpyRUVzamsybnc?oc=5",
       "published": "Thu, 25 Jun 2026 12:03:21 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "安徽合力：控股股东增持36.37万股 并计划增持不超2亿元公司股份 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE54SVU3VkJnSXRCU0RqYXpRWnNRWVlXbGlJV05pY2h2TUMxRVVBeHBnU2VHaE5ReHdUY1VwVUJvQi1SNzE2SU8zanhpYllFemVTTmhQTnpxbWg0ekJUQVlBWg?oc=5\" target=\"_blank\">安徽合力：控股股东增持36.37万股 并计划增持不超2亿元公司股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54SVU3VkJnSXRCU0RqYXpRWnNRWVlXbGlJV05pY2h2TUMxRVVBeHBnU2VHaE5ReHdUY1VwVUJvQi1SNzE2SU8zanhpYllFemVTTmhQTnpxbWg0ekJUQVlBWg?oc=5",
-      "published": "Thu, 25 Jun 2026 11:01:02 GMT"
     },
     {
       "source": "东方财富",
@@ -139,13 +132,6 @@
     },
     {
       "source": "东方财富",
-      "title": "退市沪科:退市沪科股票进入退市整理期交易的第六次风险提示公告 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZOUJneC1mT1dNb0tqOEhKdnlYemxhOHU3UnZLSHFLdGljd0lINFJkRE9kbjBnQjl3VmdmcVIzN3czY0FULWpnUUNrcFcta2xMZlZaZGM1RUpfSklIMWlkN0NZeHBCMVVGYWtyRUc0Y185WWFvZXc2ZHh1Y1h2UQ?oc=5\" target=\"_blank\">退市沪科:退市沪科股票进入退市整理期交易的第六次风险提示公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZOUJneC1mT1dNb0tqOEhKdnlYemxhOHU3UnZLSHFLdGljd0lINFJkRE9kbjBnQjl3VmdmcVIzN3czY0FULWpnUUNrcFcta2xMZlZaZGM1RUpfSklIMWlkN0NZeHBCMVVGYWtyRUc0Y185WWFvZXc2ZHh1Y1h2UQ?oc=5",
-      "published": "Thu, 25 Jun 2026 11:03:26 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "天岳先进:国泰海通证券股份有限公司关于山东天岳先进科技股份有限公司2025年年度报告的信息披露监管问询函回复的核查意见 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBHWXNPdHljUFQ1Q2Z3Nkt2NmpzMTBpVjF5OU1Na2JoZnJlMEI2aUFrbmtsZjQxbzhha3hleDhPbUZRVXVLZ2xjRjZuNnhyeG10dHVoX2dhR0JVdFlaa1ZkdHUwX0V4NGN5YlF6dzNGMzQyU19IT3Z0bmRsWl9Ldw?oc=5\" target=\"_blank\">天岳先进:国泰海通证券股份有限公司关于山东天岳先进科技股份有限公司2025年年度报告的信息披露监管问询函回复的核查意见</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHWXNPdHljUFQ1Q2Z3Nkt2NmpzMTBpVjF5OU1Na2JoZnJlMEI2aUFrbmtsZjQxbzhha3hleDhPbUZRVXVLZ2xjRjZuNnhyeG10dHVoX2dhR0JVdFlaa1ZkdHUwX0V4NGN5YlF6dzNGMzQyU19IT3Z0bmRsWl9Ldw?oc=5",
@@ -174,15 +160,15 @@
     },
     {
       "source": "同花顺",
-      "title": "骄成超声：向特定对象发行A股股票申请获上交所受理 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJaDQzNzBoNXNKbDFRaVJSb1Bza0NUdjl3Zk9sX1FrMW9uZlNSRGpYNFBNd2tQQXNWbVB0ZnJULXRkeUpibHVDNHFaMUR5b2tyT0hHa0I5N0MyVGdINHc?oc=5\" target=\"_blank\">骄成超声：向特定对象发行A股股票申请获上交所受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "title": "骄成超声：向特定对象发行A股股票申请获上交所受理 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJaDQzNzBoNXNKbDFRaVJSb1Bza0NUdjl3Zk9sX1FrMW9uZlNSRGpYNFBNd2tQQXNWbVB0ZnJULXRkeUpibHVDNHFaMUR5b2tyT0hHa0I5N0MyVGdINHc?oc=5\" target=\"_blank\">骄成超声：向特定对象发行A股股票申请获上交所受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJaDQzNzBoNXNKbDFRaVJSb1Bza0NUdjl3Zk9sX1FrMW9uZlNSRGpYNFBNd2tQQXNWbVB0ZnJULXRkeUpibHVDNHFaMUR5b2tyT0hHa0I5N0MyVGdINHc?oc=5",
       "published": "Thu, 25 Jun 2026 11:37:30 GMT"
     },
     {
       "source": "同花顺",
-      "title": "昀冢科技：公司股票将于2026年6月26日开市起停牌 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX2FPeTZqM04wWUZzdWVvZVBEZVIzLWp1Mlo0Y0dCcnVscnZKcmZ2UTNHOFFMdlEyLURyNTZZc1hZYm1WYlV3VVdRNl95cWtGYVV2ekg3bTZzb2NIRFE?oc=5\" target=\"_blank\">昀冢科技：公司股票将于2026年6月26日开市起停牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "title": "昀冢科技：公司股票将于2026年6月26日开市起停牌 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX2FPeTZqM04wWUZzdWVvZVBEZVIzLWp1Mlo0Y0dCcnVscnZKcmZ2UTNHOFFMdlEyLURyNTZZc1hZYm1WYlV3VVdRNl95cWtGYVV2ekg3bTZzb2NIRFE?oc=5\" target=\"_blank\">昀冢科技：公司股票将于2026年6月26日开市起停牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZX2FPeTZqM04wWUZzdWVvZVBEZVIzLWp1Mlo0Y0dCcnVscnZKcmZ2UTNHOFFMdlEyLURyNTZZc1hZYm1WYlV3VVdRNl95cWtGYVV2ekg3bTZzb2NIRFE?oc=5",
       "published": "Thu, 25 Jun 2026 11:51:44 GMT"
     },
@@ -287,7 +273,7 @@
     {
       "source": "华尔街见闻",
       "title": "报道：苹果上调Mac、iPad和家用设备价格，以因应存储芯片短缺",
-      "summary": "<p>苹果将MacBook Air售价上调至1,299美元，MacBook Pro上调至1,999美元；将MacBook Neo起售价从599美元上调至699美元；将iPad Pro售价从999美元上调至1,199美元，iPad Air上调至749美元。</p>",
+      "summary": "<p>苹果将MacBook Air售价上调至1,299美元，MacBook Pro上调至1,999美元；将MacBook Neo起售价从599美元上调至699美元；将iPad Pro售价从999美元上调至1,199美元，iPad Air上调至749美元。苹果HomePod现价349美元，HomePod mini售价129美元，Apple TV调至199美元。</p>",
       "link": "https://wallstreetcn.com/livenews/3124694",
       "published": "Thu, 25 Jun 2026 12:40:36 GMT"
     },
@@ -391,73 +377,10 @@
     },
     {
       "source": "第一财经",
-      "title": "中欧能源技术创新合作再出成果，将推动绿电国际互认",
-      "summary": "<figure><img alt=\"中欧能源技术创新合作再出成果，将推动绿电国际互认\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/8324caf5c91ff713429fc623881e2de6.jpg\" /></figure><p>论坛上发布了多项绿电国际互认系列成果。</p><p>在中欧能源技术创新合作框架下，中欧将推动绿电国际互认。</p>\n\n<p>6月25日，第四届中欧能源技术创新合作论坛在四川成都成功举办。论坛上发布了多项绿电国际互认系列成果。包括发布“RE100·中国绿色电力园区”倡议和《绿电（零碳）园区绿电供应方式方案集》，以及成立绿电认证国际合作创新联合体。</p>\n\n<p>同一天，国家发改委、国家能源局发布了《新型能源体系建设“十五五”规划》，规划提出，加快培育壮大绿证绿电市场，建立强制消费与自愿消费相结合的绿证消费制度。完善绿色电力消费核算、认证和标识制度，建立绿证和绿电消费标准体系。提升绿证国际认可度，积极应对国际绿色贸易壁垒。</p>\n\n<p align=\"center\"><img align=\"\"",
-      "link": "https://www.yicai.com/news/103246866.html",
-      "published": "Thu, 25 Jun 2026 12:28:58 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "实控人遭刑拘，华恒生物A股跌停、港股IPO梦碎",
-      "summary": "<figure><img alt=\"实控人遭刑拘，华恒生物A股跌停、港股IPO梦碎\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/c592941e2e88785b817153ed293b9440.jpg\" /></figure><p>此次执掌了公司21年的创始人被刑拘、赴港上市告败，这对公司将产生怎样的影响？</p><p>实际控制人、董事长兼总经理郭恒华被刑事拘留的消息发布后，6月25日华恒生物（688639.SH）股价遭“20cm”跌停。</p>\n\n<p>6月24日晚间，华恒生物发布公告称，郭恒华因涉嫌非法吸收公众存款罪被公安机关刑事拘留，公司被告知调查事项与公司经营无关，同时郭恒华辞职，不再担任公司任何职务。该公司董事长、总经理职务由公司董事樊义接任。</p>\n\n<p>同日，该公司紧急宣布，终止在港股上市的计划。而该公司刚披露了H股发行聆讯后资料集，原本挂牌上市近在咫尺。华恒生物给出的终止原因为“基于对多方面因素的全面权衡及实际情况作出的审慎决策”。</p>\n\n<p>值得注意的是，在华恒生物上市前，郭恒华曾卷入多起民事诉讼",
-      "link": "https://www.yicai.com/news/103246867.html",
-      "published": "Thu, 25 Jun 2026 12:28:46 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "赔付“缩水”？惠民保高压之下“开源”续航",
-      "summary": "<figure><img alt=\"赔付“缩水”？惠民保高压之下“开源”续航\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/fca86bda64411200abe29c3b83e80c83.jpg\" /></figure><p>“从趋势来看，（赔付责任）收紧有其必然性。”据业内专家观察，目前，多地惠民保产品赔付率已突破90%甚至95%。</p><p>近年来，惠民保被寄予衔接商保与创新药、填补带病体保障缺口的厚望。但行至2026年年中，惠民保在多重博弈下，挑战越发凸显——在近期部分城市启动投保的2026年版惠民保产品中，既往症赔付和特药责任显著收紧，且已有首批商保创新药目录内药品（下称“商保创新药”）被悄然移出惠民保特药清单。</p>\n\n<p>“从趋势来看，（赔付责任）收紧有其必然性。”据浙江省医疗保障研究会副会长王平洋观察，目前，多地惠民保产品赔付率已突破90%甚至95%。</p>\n\n<p>王平洋表示，相较于过去几年，全国惠民保赔付率整体没有显著改善，也没有继续恶化，但随着创新药械进院情况改善，尤其是在“商保创新药不占DRG额",
-      "link": "https://www.yicai.com/news/103246859.html",
-      "published": "Thu, 25 Jun 2026 12:22:59 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "人工智能核心产业规模超1.2万亿，机器人领域快速发展",
-      "summary": "<figure><img alt=\"人工智能核心产业规模超1.2万亿，机器人领域快速发展\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/8fc28c0d77f0c1c136a837ce3901625d.jpg\" /></figure><p>2025年，中国工业机器人出口首次超过进口。</p><p>机器人写毛笔字、机器人制作咖啡……无论是正在大连举办的夏季达沃斯论坛，还是在2026上海世界移动通信大会上，具身智能相关话题与场景都备受关注。</p>\n\n<p>今年6月以来，多部门出台相关文件，促进人形机器人走向更多场景。商务部等8部门关于加快“人工智能+消费”发展的实施意见提出，促进人工智能机器人消费，面向“一老一小”等重点人群，加快养老机器人、陪伴机器人、人工智能生活助手等新型人工智能产品应用示范等；工信部近日发布通知，公开征求多项行业标准制修订计划项目意见，拟制定的标准包括人形机器人在变电站、家电制造等场景技术要求。</p>\n\n<p>国家数据局近日发布的《数字中国发展报告（2025年）》（下称“报告”）显示，中国人工智能企业已超",
-      "link": "https://www.yicai.com/news/103246796.html",
-      "published": "Thu, 25 Jun 2026 12:04:44 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "全球能源投资创新高、动能却停滞，能源转型呈碎片化",
-      "summary": "<figure><img alt=\"全球能源投资创新高、动能却停滞，能源转型呈碎片化\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/06/46f04dc7c1bf7e4edb25964d19327905.jpeg\" /></figure><p>成熟的能源体系也日益面临新的、不断演变的风险威胁。</p><p>尽管当前全球能源投资创新高，但能源转型的步伐却没能跟上。</p>\n\n<p>近日，世界经济论坛（WEF）联合埃森哲共同发布的《能源转型指数2026》报告显示，随着全球能源投资规模不断走高，2026年全球能源转型指数（ETI）较2025年仅微增0.03%。</p>\n\n<p>该指数采用系统性能（60%）与转型准备度（40%）的加权框架，涵盖46项子指标，涉及能源政策、基础设施、投资创新、人力资本等领域，旨在对全球120个国家和地区的能源转型进展进行评估。</p>\n\n<p>报告显示，构成指数的一大分项——衡量政策、基建与创新环境的“转型准备度”十多年来首次出现下滑。地缘政治冲突加剧、能源供应受阻和能源需求持续走高，导致全球能源格局出现分化",
-      "link": "https://www.yicai.com/news/103246803.html",
-      "published": "Thu, 25 Jun 2026 12:04:35 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "1.1亿千瓦！中国核电2030目标明确",
-      "summary": "<figure><img alt=\"1.1亿千瓦！中国核电2030目标明确\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/418841146752d55b29f8a4d48e12d23c.jpg\" /></figure><p>近年来，国内核电的发展稳健前行。</p><p>6月25日，国家发改委、国家能源局联合印发《新型能源体系建设“十五五”规划》（下称《规划》）正式对外公布。《规划》提出，坚持风光水核等多能并举，实施非化石能源十年倍增行动，“三北”风电光伏基地、西南水风光一体化基地、沿海核电基地、海上风电基地和分布式新能源成为非化石能源主要生产高地。</p>\n\n<p>在核电方面，《规划》再次重申了“积极安全有序发展核电”的总方针，提出“以三代压水堆技术为主，保持核电平稳建设节奏”的要求。同时，积极稳妥推进先进堆型研发和示范工程建设，因地制宜推进核能综合利用，并明确了“2030年在运核电装机达到1.1亿千瓦左右”的总目标。</p>\n\n<p>截至2025年底，全国在运核电总装机容量为6252万千瓦。</p>\n\n<p>“平稳建设节奏",
-      "link": "https://www.yicai.com/news/103246778.html",
-      "published": "Thu, 25 Jun 2026 11:34:35 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "德业股份再投12.32亿元加码工商储，股价年内已涨超六成",
-      "summary": "<figure><img alt=\"德业股份再投12.32亿元加码工商储，股价年内已涨超六成\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/981BC571-DFB6-417C-B75A-5AFB3ED19F7B.jpg\" /></figure><p>截至今日收盘，德业股份市值为1264亿元，年初至今市值增长63.05%。</p><p>千亿市值的户用储能逆变器企业德业股份（605117.SH）再次抛出扩产计划。或受海外工商业储能需求释放刺激，该公司24日<span class=\"spro yb ser7\">发布</span>的公告称，全资子公司德业储能与慈溪滨海<span class=\"spro yb ser4\">经</span>济开发区管理委员<span class=\"spro yb ser9\">会</span><span class=\"spro yb ser10\"><span class=\"spro yb ser9\">签</span>署</span>二期投资协议，投资建设年产9GWh工商<span class=\"spr",
-      "link": "https://www.yicai.com/news/103246773.html",
-      "published": "Thu, 25 Jun 2026 11:33:43 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "存储板块半年市值多了1.4个贵州茅台，兆易创新增超4000亿",
-      "summary": "<figure><img alt=\"存储板块半年市值多了1.4个贵州茅台，兆易创新增超4000亿\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/06/a469e2b3dde727f16a7bc31bcba64ee3.jpeg\" /></figure><p>“9·24”行情以来存储板块市值增长了5倍</p><p>6月25日，A股存储芯片板块全天强势领涨，多只个股股价集体刷新历史高点。截至收盘，普冉股份（688766.SH）、兆易创新（603986.SH）、德明利（001309.SZ）、江波龙（301308.SZ）、北京君正（300223.SZ）、佰维存储（688525.SH）、东芯股份（688110.SH）等16只存储概念股同步创出历史新高。</p>\n\n<p>消息面上，存储巨头美光科技于当地时间24日发布的第三财季财报大幅超出市场预期，单季净利润同比暴增逾12倍，毛利率接近85%，再度验证AI浪潮下存储芯片行业的高景气度，这直接点燃了A股存储板块的做多情绪。</p>\n\n<p><strong>存储板块正在成为继光通信之后又一个高价股高度",
-      "link": "https://www.yicai.com/news/103246733.html",
-      "published": "Thu, 25 Jun 2026 11:25:05 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "一天12家！IPO受理步入高峰期，多家企业“二进宫”",
-      "summary": "<figure><img alt=\"一天12家！IPO受理步入高峰期，多家企业“二进宫”\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/95113BF6-F519-49FE-930C-EC6125408FFD.jpg\" /></figure><p>通常而言，IPO申报具有“日历效应”，6月是IPO申报的“旺季”。</p><p>上半年步入收官阶段，IPO市场出现集中受理潮。</p><p>6月24日，三大交易所合计受理了12家企业的上市申请，涉及杭州朗迅科技股份有限公司（下称“朗迅科技”）等，深交所数量最多，达到6家。截至当天，三大交易所月内累计新增受理了66单IPO申请，数量已超前5月受理家数总和（44单）。</p><p>创业板和北交所最受青睐，这60余家企业中，25家瞄准创业板、23家冲刺北交所，合计占比超过七成。从募资规模看，月内获受理企业中，近半数（约30家）募资规模超过10亿元，部分北交所申报企业去年净利润超5亿元，远超该板块的上市标准。</p><p>通常而言，IPO申报具有“日历效应”，6月是IPO申报的“旺季”。",
-      "link": "https://www.yicai.com/news/103246748.html",
-      "published": "Thu, 25 Jun 2026 11:14:16 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "金融营销的钱，一半都浪费了？鲸鸿动能破解确定性增长难题",
-      "summary": "<figure><img alt=\"金融营销的钱，一半都浪费了？鲸鸿动能破解确定性增长难题\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/aae6ca4c32dbf5721cd811eeaefc2c24.jpg\" /></figure><p>“我知道有一半的广告费被浪费了，但不知道是哪一半。”这句营销界的百年老梗，在金融行业正变得格外刺耳。</p>\n\n<p>近三年来，国家始终围绕“金融五篇大文章”推进金融行业的高质量发展，监管总局反复强调“ 金融机构要转变发展方式，从规模扩张转向以质量和效益为中心”。在当前需求调整、不确定性预期增强的形势下，<strong>精细化服务取代粗放扩展、主动合规与风险预防成为新时代金融服务的主旋律。</strong></p>\n\n<p>移动互联网流量红利已经见顶，获客成本逐年攀升，用户决策链路日益复杂，优质流量愈发稀缺。因此，金融营销已不再适用简单的“投流扩张”逻辑，而是必须面对\"存量深耕\"的现实；<strong>金融机构的数字化、智能化转型已从“要不要做”进入“怎么做深做透”的硬仗阶段。</stro",
-      "link": "https://www.yicai.com/news/103246747.html",
-      "published": "Thu, 25 Jun 2026 11:13:33 GMT"
+      "title": "今日股市0625丨双创指数放量创新高 新一轮上涨空间已打开？ - 第一财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuY2FSRHBMb1ItZ1JvUHNvWl8teWFPR2x5Vk9sMWtWejk5dEcxQ1RSUVhBazFkUEZiQm9TV1JsN2ZieTIzX19GRkpRLXRhMTNvTV80?oc=5\" target=\"_blank\">今日股市0625丨双创指数放量创新高 新一轮上涨空间已打开？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuY2FSRHBMb1ItZ1JvUHNvWl8teWFPR2x5Vk9sMWtWejk5dEcxQ1RSUVhBazFkUEZiQm9TV1JsN2ZieTIzX19GRkpRLXRhMTNvTV80?oc=5",
+      "published": "Thu, 25 Jun 2026 11:14:36 GMT"
     },
     {
       "source": "证券时报",
@@ -465,13 +388,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pMmFCYS13aHR0Q21YUm0zUnRGVzA5ZFE3NGxUYXQtSkJtV3dRS0JycUNPTTBha0RDUHgtQmdkU3NrS19PVkdfalRFOEhwYmVFZGNaQVRIYVdaN09laVE?oc=5\" target=\"_blank\">小登看数据：年度分红高峰来袭！A股红利行情要启动？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pMmFCYS13aHR0Q21YUm0zUnRGVzA5ZFE3NGxUYXQtSkJtV3dRS0JycUNPTTBha0RDUHgtQmdkU3NrS19PVkdfalRFOEhwYmVFZGNaQVRIYVdaN09laVE?oc=5",
       "published": "Thu, 25 Jun 2026 12:13:00 GMT"
-    },
-    {
-      "source": "沪深交易所公告",
-      "title": "停牌核查已完成，8倍大牛股，明日复牌 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aaS01UjhDSWFsbGpuVi14VS1aY1plbUVtZ3ZTaTNNMl9WZlZacnlnNUgwOXpFVEQ3Y3ZUTER5NDVjY2NHRGhrLUdnQ1VvUEFjcWJ0LU8wZnZ6Zlh5?oc=5\" target=\"_blank\">停牌核查已完成，8倍大牛股，明日复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aaS01UjhDSWFsbGpuVi14VS1aY1plbUVtZ3ZTaTNNMl9WZlZacnlnNUgwOXpFVEQ3Y3ZUTER5NDVjY2NHRGhrLUdnQ1VvUEFjcWJ0LU8wZnZ6Zlh5?oc=5",
-      "published": "Thu, 25 Jun 2026 11:08:00 GMT"
     }
   ]
 }

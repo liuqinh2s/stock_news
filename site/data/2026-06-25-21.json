@@ -3,35 +3,14 @@
   "hour": "21",
   "news": [
     {
-      "title": "新股首日暴涨1220%",
-      "summary": "今日某A股新股上市首日涨幅高达1220%，中一签可赚超35万元，创年内新股收益纪录。该股所属行业为半导体设备，高涨幅反映市场对新股炒作热情极高，但可能引发监管关注。短期看多该股所在板块（半导体设备），但整体信号中性偏谨慎。",
-      "reason": "新股极端涨幅反映市场情绪亢奋，属于市场情绪信号，可能带动次新股板块活跃，但需警惕回调风险。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "新股",
-        "次新股",
-        "半导体设备"
-      ],
-      "signal": "neutral",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnI2bEhEZVpiaWVzNXpoWlhsRklFWDhSaDkxbFpyUHBZSU53eUVuelBIVklqMV9EMm0yTkU3MVVBUEE4d0o4eUZHam92LWRoaDJWaXlDVi1yNHJLSzVKY3oydllpUHZHdzNidXhpeXJWVks4NUt6eGdTazJFRGZ3TmN3czdwYzdKVkVHbC14VGFyYm9SUDZfS1Z2dzFIaFRHYXUwU1dpaWFWbVNSOEhBS0V6a2c4Wlg0aGxTUDcybXVaSEtocEo5MXNKOGoyUWc?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "苹果因存储短缺涨价",
-      "summary": "据报道，苹果公司因全球存储芯片供应短缺，上调了Mac、iPad及家用设备价格。此举印证了存储芯片供需偏紧格局，利好A股存储芯片及模组厂商，如兆易创新、江波龙等。同时，苹果涨价可能压制消费电子需求，但中长期看多存储板块。",
-      "reason": "苹果涨价直接反映存储芯片短缺，强化存储行业景气度，利好A股存储相关公司。",
+      "title": "苹果因存储短缺上调价格",
+      "summary": "报道称苹果上调Mac、iPad和家用设备价格，以因应存储芯片短缺。这验证了存储芯片供需紧张，利好A股存储芯片及产业链公司，如兆易创新、澜起科技等。看多信号。",
+      "reason": "存储芯片涨价逻辑再获验证，苹果提价反映行业景气，利好A股存储板块。",
       "category": "行业动态",
       "impact_stocks": [
         "存储芯片",
         "兆易创新",
-        "江波龙",
-        "消费电子"
+        "澜起科技"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -44,48 +23,141 @@
       "urgency": "hours"
     },
     {
-      "title": "AI核心产业规模超1.2万亿",
-      "summary": "据第一财经报道，我国人工智能核心产业规模已超过1.2万亿元，机器人领域快速发展。该数据表明AI产业进入高速增长期，政策支持力度持续，利好AI算力、机器人、智能驾驶等板块。短期看多相关概念股。",
-      "reason": "产业规模超预期增长，体现AI商业化加速，叠加政策扶持，对AI板块形成基本面支撑。",
+      "title": "AI算力瓶颈转向电力基础设施",
+      "summary": "华尔街见闻文章指出AI军备竞赛的隐形瓶颈是电力基础设施，电力供应将成为AI发展的关键。这利好A股电力设备、变压器、特高压等相关板块，如国电南瑞、许继电气等。看多信号。",
+      "reason": "AI算力需求爆发，电力基础设施成为新的投资主线，利好电力板块。",
       "category": "行业动态",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "机器人",
-        "智能驾驶"
+        "电力设备",
+        "特高压",
+        "国电南瑞"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103246796.html"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775526"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "中欧推动绿电国际互认",
-      "summary": "中欧能源技术创新合作取得新进展，将推动绿色电力国际互认。此举有助于提升中国绿电需求，利好光伏、风电、储能等新能源板块，并促进新能源消纳。短期看多绿电运营商及电力设备。",
-      "reason": "绿电互认扩大绿电市场空间，增强新能源板块政策预期，属于行业动态利好。",
-      "category": "行业动态",
+      "title": "美国一季度GDP终值低于预期",
+      "summary": "美国一季度GDP终值年化增长2.1%，较初值2.4%下修，PCE物价指数4.4%显示通胀粘性。经济放缓但通胀仍高，可能延缓美联储降息，对A股市场构成短期压力，利空。",
+      "reason": "美国经济数据不及预期且通胀高，影响全球流动性预期，对A股情绪偏空。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "光伏",
-        "风电",
-        "储能",
-        "绿电"
+        "沪深300",
+        "上证50"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103246866.html"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775529"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "美国5月耐用品订单大幅下滑",
+      "summary": "美国5月耐用品订单环比初值-4.5%，远逊于前值8%，显示制造业需求疲软。这加剧衰退担忧，利空全球股市，A股外需相关板块承压。看空信号。",
+      "reason": "耐用品订单大幅下滑，表明美国制造业萎缩，对A股出口相关板块不利。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "出口板块",
+        "家电",
+        "机械"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775528"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "黄金避险光环褪色可能继续承压",
+      "summary": "文章指出黄金出现技术死叉，地缘风险脱钩，多头遭流动性清算。金价半年回撤30%，可能继续下跌。利空A股黄金股，如山东黄金、赤峰黄金。看空信号。",
+      "reason": "黄金破位下跌，避险逻辑减弱，黄金股面临进一步回调风险。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "黄金股",
+        "山东黄金",
+        "赤峰黄金"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775523"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "华力创通终止定增方案",
+      "summary": "华力创通(300045)公告终止2025年度向特定对象发行A股股票方案。定增终止通常意味着融资计划受阻，短期对股价构成利空。公司主营卫星导航，注意风险。",
+      "reason": "定增终止反映公司融资不顺，可能影响后续发展，短期利空股价。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "华力创通"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEp0TnJnNG5nOEtvOFl2bEJXVFVVZWQzVmIzaW80RGxrc0o4QWlfVmNZcFVRRVdHbEFXSlA5MmhqUmRxSHM4RDV2d2hBZXNYcFphVEY5UDBhWE5SRGg0cGd6V0J4OUZuSnNXNkppNVEyRkZPUTZGZTM5MHZaRnFfQw?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "中船特气停牌核查结束明日复牌",
+      "summary": "中船特气停牌核查结束，股票将于2026年6月26日复牌。停牌期间公司发布相关公告，复牌后股价可能波动。需关注市场反应，中性偏观望。",
+      "reason": "停复牌事件，复牌后股价可能补跌或补涨，需观察。",
+      "category": "监管政策",
+      "impact_stocks": [
+        "中船特气"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3eTFrZ2hSdFhMbkFCLTBiVWVSbW8xb3dNM2xPNm01REtRMDR5QUNBZ0YwUTJkTjFKazQyc0pUMGtXUEl2RENTRkpsdVFUMDZfTlhIN3cxLTFxbUFsajctY2R3?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "氮化镓专利战：国产替代机遇",
+      "summary": "氮化镓领域出现中德专利禁令，全球市场格局生变。国产氮化镓企业有望受益于国产替代，利好A股半导体材料及氮化镓概念股，如三安光电、华润微等。中性偏多。",
+      "reason": "专利战推动国产替代，利好国内相关企业，但需关注实际影响。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "氮化镓",
+        "三安光电",
+        "华润微"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775527"
         }
       ],
       "urgency": "days"
     }
   ],
-  "total_fetched": 67,
-  "generated_at": "2026-06-25T21:01:26.877381+08:00"
+  "total_fetched": 55,
+  "generated_at": "2026-06-25T21:10:45.397819+08:00"
 }
