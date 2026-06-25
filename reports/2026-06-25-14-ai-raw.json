@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "14",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 13018,
+    "completion_tokens": 3240,
+    "total_tokens": 16258
+  },
+  "content_length": 2306,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"沪深京成交额突破3万亿\",\n      \"summary\": \"截至14:00，沪深京三市成交额突破3万亿元，较昨日同期放量2804亿元，显示市场交投极度活跃。历史天量通常伴随指数大幅波动，当前科创50、存储芯片等科技板块领涨，成交额放大强化了看多信号，但需警惕短期过热风险。影响板块：全市场，尤其券商、科技。\",\n      \"reason\": \"成交额创阶段新高，是市场情绪和资金进场的直接体现，符合优先级三的市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"沪深300\", \"券商\", \"科创50\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677705970.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"兆易创新成交额达300亿\",\n      \"summary\": \"存储芯片龙头兆易创新成交额突破300亿元，股价创历史新高。叠加美光超预期财报、HBM需求爆发，存储芯片板块持续受资金追捧。天量成交显示机构与游资博弈激烈，但短期情绪过热，需注意回调风险。影响个股：兆易创新、江波龙、北京君正等。\",\n      \"reason\": \"个股成交额巨大，反映资金集中攻击，符合资金流向信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"兆易创新\", \"江波龙\", \"北京君正\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677705623.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"港股南方海力士杠杆ETF涨23%\",\n      \"summary\": \"港股南方两倍做多海力士ETF涨幅扩大至23%，反映海外资金对存储龙头的极度追捧。SK海力士因美光财报带动股价创新高，亚太存储产业链情绪高涨。该信号可能传导至A股存储及半导体板块，但杠杆产品波动大，需谨慎。影响板块：存储芯片、半导体设备。\",\n      \"reason\": \"杠杆ETF涨幅巨大，是市场情绪的极致体现，符合市场情绪信号。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"存储芯片\", \"半导体设备\", \"港股科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260625/c677705583.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"恒生指数跌破23000点\",\n      \"summary\": \"港股恒生指数午后跌破23000点关口，日内跌幅1.76%。科网股、银行股走弱，与A股科技板块强势形成反差。恒指破位可能引发北上资金情绪谨慎，但A股独立行情或延续。影响板块：港股通标的、上证50。\",\n      \"reason\": \"恒指破位是重要宏观情绪信号，对A股有间接压制，符合中期影响。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"港股通\", \"上证50\", \"恒生科技\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VWGMtaGN2dFRsV2NRd1lQZE1VUDNxVGhiRzVKNlhaVjEtMU5KM0phQmxfcjRsLWdkeGxmRWVkX0FicTZlS0p3VHY5eHpHemRLUXAw?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"由于去重规则，许多重要消息（如美光财报、存储芯片涨停、股王新高、科创50突破）已在历史消息中出现，故仅筛选出上述4条新消息。\"\n}"
+}
