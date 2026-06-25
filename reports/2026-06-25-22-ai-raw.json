@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-25",
+  "hour": "22",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 15047,
+    "completion_tokens": 4807,
+    "total_tokens": 19854
+  },
+  "content_length": 1850,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"人工智能核心产业规模超1.2万亿\",\n      \"summary\": \"据报道，中国人工智能核心产业规模已超过1.2万亿元，机器人领域快速发展。这一数据表明AI产业持续高景气，政策支持力度大，预计将带动AI概念、机器人、算力等相关板块走强。信号偏多。\",\n      \"reason\": \"AI产业规模数据超预期，反映行业高速增长，对A股AI相关板块形成利好支撑。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"机器人\", \"算力\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103246796.html\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"中欧能源合作推动绿电互认\",\n      \"summary\": \"中欧能源技术创新合作再出成果，将推动绿电国际互认。这有利于中国新能源企业拓展欧洲市场，提升光伏、风电等清洁能源出口预期。信号偏多，但影响较为中长期。\",\n      \"reason\": \"国际合作利好新能源板块，特别是光伏和风电出口企业。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光伏\", \"风电\", \"新能源\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103246866.html\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"全球能源投资创新高但转型停滞\",\n      \"summary\": \"国际能源署数据显示全球能源投资创新高，但能源转型动能停滞，化石能源投资仍占较大比重。这对新能源板块既有提振（投资规模大）也有压力（转型慢），信号中性。\",\n      \"reason\": \"全球能源投资数据影响市场对能源转型速度的预期，对新能源和传统能源板块均有影响。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"新能源\", \"煤炭\", \"石油\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103246803.html\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"DeepSeek招聘扩大团队一倍\",\n      \"summary\": \"DeepSeek发布招聘广告，计划将各部门规模扩大至少一倍。反映AI初创公司扩张加速，行业景气度持续，利好AI算力、大模型等方向。信号偏多。\",\n      \"reason\": \"头部AI公司扩张，显示行业处于高景气阶段，对A股AI概念有情绪提振。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3124723\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"近6小时历史消息中已覆盖大量重磅消息（美光业绩、苹果涨价、PCE数据、存储板块、华恒生物等），本次抓取素材多数重复。筛选出4条新消息，均属行业动态或宏观经济，影响等级适中。\"\n}"
+}
