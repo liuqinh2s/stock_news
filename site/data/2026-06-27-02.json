@@ -3,9 +3,49 @@
   "hour": "02",
   "news": [
     {
-      "title": "长城汽车获回购授权",
-      "summary": "长城汽车董事会获得回购A股及H股的一般性授权，并发布通知债权人公告。回购通常表明公司认为股价被低估，有利于提振投资者信心。对长城汽车股价构成正面支撑，同时可能带动汽车板块情绪。",
-      "reason": "公司回购属于优先级二的公司重大事件，对个股及汽车板块有正面影响。",
+      "title": "A股“股王”暴跌逾10%",
+      "summary": "6月26日，A股“股王”（贵州茅台）放量大跌，盘中跌幅超10%，创上市以来最大跌幅。受全球科技股重创、市场风格切换及抱团瓦解影响，白酒板块承压。短期看空，建议规避高位消费股。",
+      "reason": "权重股异常暴跌影响市场情绪和指数，符合优先级三（市场情绪信号中的极端值）。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "贵州茅台",
+        "白酒",
+        "沪深300"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHZYVTdYdzRrTE15Yno2ZGMtRFZlTEpaT0ViU3FZVWFqM3ZuR0RZUmFURlktZy1MbUFBcHAyLWJ0c21xREdSVFJXX1hMSU5rVVdCVHR1ay16bGJwMnk3UmdfbWFZTHNEWmRjVjVUVEd0YmdCZkVQejl0ZGZuNHowR1A5d1I?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "伊朗否认设立霍尔木兹热线",
+      "summary": "伊朗外交部否认与美方就霍尔木兹海峡建立沟通热线，此前媒体传闻称双方已设热线。美伊关系再生变数，地缘政治风险上升，可能推高油价和航运避险情绪。利好石油、军工板块，短期偏多。",
+      "reason": "地缘政治事件影响能源安全和市场风险偏好，符合优先级二（行业政策变动中的能源）。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "石油",
+        "航运",
+        "军工"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260627/c677760313.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "长城汽车获回购一般授权",
+      "summary": "长城汽车董事会获得回购A股及H股一般性授权，并公告通知债权人。回购计划释放管理层对公司价值认可的信号，短期利好股价，但对行业影响有限。中性偏多。",
+      "reason": "公司重大事件（回购），符合优先级二（公司重大事件中的回购增持）。",
       "category": "公司公告",
       "impact_stocks": [
         "长城汽车",
@@ -19,9 +59,9 @@
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94V2FPand5dWxiLS1VOVF6MjJTemowYTdhZTE3aW56VjBXVjJka0dvYktQbm9DaC1FOVlDWnhxNF91bFI5OVlteUEyUm1zeC1EUG80cEZOOTVvWjJuY01ZQ1JLZ3ZMVHpkbFZoOE9zQnJzcTNBNjl5dQ?oc=5"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "days"
     }
   ],
   "total_fetched": 27,
-  "generated_at": "2026-06-27T02:01:33.568935+08:00"
+  "generated_at": "2026-06-27T02:22:40.738028+08:00"
 }
