@@ -3,76 +3,54 @@
   "hour": "00",
   "news": [
     {
-      "title": "巨力索具蹭热点被罚",
-      "summary": "第一财经报道，巨力索具因“蹭热点”遭河北证监局处罚，杨子侄子被罚200万元。公司收到行政处罚事先告知书，涉嫌信息披露违法违规。监管层近期对“蹭热点”行为严厉打击，此次处罚向市场传递严监管信号，将抑制题材炒作和游资乱炒行为。短期对概念炒作（如AI、机器人）中的跟风个股形成压力，市场情绪可能降温。同时，该事件利好价值投资导向。",
-      "reason": "证监会查违规属于高优先级监管政策，直接影响市场炒作情绪及题材股表现。",
-      "category": "监管政策",
-      "impact_stocks": [
-        "AI概念",
-        "机器人",
-        "小盘题材股"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103249186.html"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "美股医药股续创新高",
-      "summary": "东方财富报道，礼来、强生等医疗制药股票续刷记录新高。美股医药板块持续走强，礼来、强生等巨头创新高，显示全球资金对医药行业的高关注。A股医药板块近期调整，美股强势可能带动A股创新药、医疗器械等核心资产估值修复。尤其关注CXO（药明康德）、创新药（恒瑞医药）等龙头。港股医药也跟涨。中长期利好医药风格。",
-      "reason": "海外市场联动，美股医药股的强势可能通过情绪和比价效应传导至A股，属于中期影响。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "医药",
-        "创新药",
-        "药明康德",
-        "恒瑞医药"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYLUxQeE5xbmdUYnpTYnB2ampVMmVPVnVXWHFBZHRWb2NuOWNJcjl4cWlYNm5rZ3BzX2huN2gyQi1sZTNtekxPWVMyS2lZRGFJOVFmUDhQYVg1SkZYMUlsNFM1MA?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "兴业科技6连板或停牌",
-      "summary": "同花顺报道，6连板兴业科技公告：如未来公司股票价格进一步上涨，可能申请停牌核查。连续涨停的妖股发布停牌预警，反映监管层对股价异常波动的关注。历史上妖股停牌往往引发短线情绪退潮，类似个股（如近期连板股）面临抛压。市场投机资金可能谨慎，对微盘股、概念股形成压制。建议回避高位连板品种。",
-      "reason": "妖股停牌预警属于市场情绪信号，影响短线资金行为，对市场情绪有降温作用。",
+      "title": "霍尔木兹海峡船只或需付费",
+      "summary": "阿曼告知盟友，穿越霍尔木兹海峡的船只可能不得不付费。这加剧了伊朗与西方的紧张关系，可能推高全球油价和运输成本。对A股石油开采、航运板块构成利好（成本传导），但对整体经济形成通胀压力，偏空。关注中国石油、中远海控等。",
+      "reason": "影响全球能源供应和贸易成本，属于重大地缘政治事件，优先级一。",
       "category": "市场情绪",
       "impact_stocks": [
-        "微盘股",
-        "概念股",
-        "连板股"
+        "中国石油",
+        "中远海控",
+        "招商南油"
       ],
       "signal": "bearish",
-      "impact_level": 2,
+      "impact_level": 4,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZaVFEVjctcG1KR0pPSDRDWVA2aVdoTmlpeTh2YTVJMlFMQy11MC11dGgxWm1IbzhoR05OM203a05lNFNEelZwc1RSd1RrTk9uYS1fdVJ5WTNQZEs0YlpJNDdn?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775645"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "国资基金抢滩AI产业",
-      "summary": "财联社报道，上半年AI热钱涌动，国资基金抢滩人工智能。张江AI小镇生态日透露，上半年AI领域投资活跃，国资基金积极布局。AI产业政策持续支持，智能体互联国家标准已发布。中长期利好AI产业链（算力、芯片、应用）。但短期AI板块已累积较大涨幅，需注意分化。",
-      "reason": "行业政策利好AI板块，属于中期影响，资本持续流入支撑行业发展。",
+      "title": "布伦特原油失守72美元",
+      "summary": "布伦特原油价格跌破72美元/桶，延续近期跌势，可能因需求担忧及OPEC+增产预期。利空A股石油开采板块（如中国石油），但利好航空、化工等用油行业（如中国国航、万华化学）。",
+      "reason": "原油是大宗商品龙头，价格大幅波动影响多个行业，属于市场情绪信号。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "中国国航",
+        "万华化学",
+        "中国石油"
+      ],
+      "signal": "neutral",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677759750.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "国资基金抢滩人工智能",
+      "summary": "上半年AI领域热钱涌动，国资基金积极参与人工智能投资，显示政策支持力度加大。利好AI整体板块，尤其是算力、大模型等细分领域，如科大讯飞、寒武纪等。属于行业动态，偏多信号。",
+      "reason": "AI是当前主线，国资入局强化市场信心，属于行业动态优先级二。",
       "category": "行业动态",
       "impact_stocks": [
-        "AI概念",
-        "算力",
-        "半导体",
-        "智能体"
+        "科大讯飞",
+        "寒武纪",
+        "中科曙光"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -85,26 +63,46 @@
       "urgency": "days"
     },
     {
-      "title": "券商整合空间仍大",
-      "summary": "同花顺财经报道，东吴证券研报指出，券商行业整合仍具备较大空间，重资本业务成拉开差距关键胜负手。近期券商板块持续调整，但行业并购整合预期（如平安+方正、国联+民生等）提供催化剂。研报中性偏利好，提示行业龙头集中度提升趋势。可关注有整合预期的券商股（如方正证券、财通证券）以及头部券商（中信证券、华泰证券）。",
-      "reason": "券商行业整合是中期结构性机会，对板块有催化作用，但需结合市场整体环境。",
-      "category": "行业动态",
+      "title": "零售业加快创新转型",
+      "summary": "数据显示我国零售业加快创新转型，线上线下融合、数字化升级趋势明显。消费板块有望受益，尤其是新零售、电商龙头如阿里巴巴、京东等。宏观数据偏多，但需结合整体消费复苏情况。",
+      "reason": "宏观经济中的消费数据改善信号，影响板块预期，优先级二。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "券商",
-        "方正证券",
-        "中信证券"
+        "阿里巴巴",
+        "京东",
+        "永辉超市"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "同花顺财经",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zM3JWSG4zZ0JQM3ByeVZ5YVk2SjI3SUtzX1YtUDZaRFQ0Q3NOQzY1dmdVV0c2SG9WQ1JGc0xGNzltNmhaVWI3WUtMMkhsd1ZvaTMtUUNuZXctVDZLMnloLWJR?oc=5"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677759568.shtml"
         }
       ],
       "urgency": "days"
+    },
+    {
+      "title": "普京延长反制石油限价",
+      "summary": "普京签署总统令，延长反制西方对俄石油限价措施，维持俄罗斯原油出口的灵活性。对国际油价形成支撑，利好A股能源板块，如中国石油、广汇能源。但影响有限，市场已部分消化。",
+      "reason": "影响原油供给预期，属于能源地缘因素，优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中国石油",
+        "广汇能源",
+        "中曼石油"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677759968.shtml"
+        }
+      ],
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 33,
-  "generated_at": "2026-06-27T00:01:28.069777+08:00"
+  "total_fetched": 47,
+  "generated_at": "2026-06-27T00:06:15.193868+08:00"
 }
