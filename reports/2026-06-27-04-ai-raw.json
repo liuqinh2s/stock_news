@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "04",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 8828,
+    "completion_tokens": 2704,
+    "total_tokens": 11532
+  },
+  "content_length": 1950,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"大众汽车拟裁员10万并关厂\",\n      \"summary\": \"大众汽车计划扩大裁员至10万人，并关闭多家工厂，以应对电动化转型和成本压力。此消息可能对A股汽车零部件、新能源车板块形成情绪压制，短期利空相关个股。整体看空信号，但影响有限。\",\n      \"reason\": \"大众作为全球头部车企，大规模裁员和关厂反映汽车行业竞争加剧和盈利压力，可能传导至A股供应链企业，影响市场情绪。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"汽车零部件\", \"新能源车\", \"大众概念股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260627/c677760414.shtml\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"马斯克收购Mesh加码光通信\",\n      \"summary\": \"马斯克旗下公司获准收购Mesh，加码数据中心光通信布局。此事件利好A股光模块、光通信及数据中心相关公司，可能带动板块情绪。看多信号，但需关注后续整合进展。\",\n      \"reason\": \"马斯克收购Mesh显示其对光通信领域的重视，有望推动光模块需求，A股光通信龙头如中际旭创等或受益。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光模块\", \"光通信\", \"中际旭创\", \"新易盛\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/livenews/3125444\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"韩国AI杠杆ETF加剧硬件波动\",\n      \"summary\": \"韩国市场出现500亿规模的杠杆ETF聚焦AI交易，加剧亚洲硬件供应链波动。该消息可能短期影响A股AI硬件板块（如服务器、光模块）的交易情绪，增加震荡风险。中性偏空信号。\",\n      \"reason\": \"韩国AI交易热度高但波动加大，可能引发全球AI硬件供应链的估值扰动，对A股相关板块形成连带压力。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"AI概念\", \"服务器\", \"光模块\", \"半导体\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775649\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美元指数26日下跌\",\n      \"summary\": \"美元指数下跌，反映市场对美国经济预期走弱或海外资金回流。此举可能利好A股外资流入，尤其是人民币资产吸引力提升。偏多看信号，但影响较为间接。\",\n      \"reason\": \"美元走弱通常带动人民币升值，有利于北向资金流入和A股市场情绪，对蓝筹股和外资重仓股形成支撑。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"上证50\", \"贵州茅台\", \"宁德时代\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260627/c677760427.shtml\"}],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"当前时段重大政策消息较少，仅筛选出4条对A股有参考价值的消息，其中3条为行业动态和市场情绪，1条为宏观数据。\"\n}"
+}
