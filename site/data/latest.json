@@ -3,53 +3,13 @@
   "hour": "10",
   "news": [
     {
-      "title": "美光财报引爆存储板块",
-      "summary": "美光科技财报超预期，存储芯片供需缺口持续，摩根大通上调预测市场规模。A股存储产业链全线爆发，利好半导体、存储、芯片等板块。看多信号。",
-      "reason": "直接影响行情的行业重大动态，美光财报超预期带动产业链上涨，摩根大通上调预测增强信心。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "半导体",
-        "存储芯片",
-        "兆易创新"
-      ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hak1rTEJMUVJXc3lSTy1hM25MeTZweFNiTjRtZHNOekd0ZThHdWpGVE5uU1RNQk5LenVEOWhKNmVrZzBmT1B4N1lyRjBMS3d4UDVWOXNiODNwMlVCdHlIRE5NYUlYUWx6VGRRNUdiSmNNOHFWR1NEcw?oc=5"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "沪深两市成交缩量指数跌超1%",
-      "summary": "A股三大指数集体跌超1%，游戏、光通信方向领跌；沪深京三市成交额超5000亿元，较上日缩量。市场情绪低迷，短期看空信号。",
-      "reason": "市场情绪信号：成交额缩量、指数下跌，反映资金观望或流出，不利于短期行情。",
-      "category": "市场情绪",
+      "title": "韩国综指跌幅扩大至4%",
+      "summary": "韩国综合指数盘中跌幅扩大至4%，日经225亦跌超3%。亚太股市集体重挫，可能由美国科技股下跌、地缘政治风险（霍尔木兹海峡）及日本加息预期引发。情绪传导至A股，增加短期下行压力。",
+      "reason": "海外市场剧烈波动，对A股情绪产生直接影响，跌幅进一步扩大构成新信号。",
+      "category": "宏观经济",
       "impact_stocks": [
         "沪深300",
-        "创业板指",
-        "光通信"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260626/c677734122.shtml"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "日韩股市重挫亚太情绪传导",
-      "summary": "日经225指数跌超3%，韩国综指跌超4%。富时中国A50期货跌2%。海外市场暴跌可能通过情绪传导影响A股，短期看空。",
-      "reason": "海外市场联动，亚太股市暴跌会引发A股短期避险情绪，北向资金可能流出。",
-      "category": "市场情绪",
-      "impact_stocks": [
-        "沪深300",
-        "上证50"
+        "创业板"
       ],
       "signal": "bearish",
       "impact_level": 3,
@@ -59,59 +19,54 @@
           "url": "https://news.10jqka.com.cn/20260626/c677734108.shtml"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
     },
     {
-      "title": "钽金属年内大涨超150%",
-      "summary": "钽金属因AI需求爆发，年内涨幅超150%，成为战略稀有金属。利好钽资源相关个股及稀有金属板块，看多。",
-      "reason": "行业动态，战略稀有金属因AI需求上涨斜率陡峭，相关个股受益。",
-      "category": "行业动态",
+      "title": "开盘半小时成交1.2万亿",
+      "summary": "6月26日开盘半小时沪深京三市成交额达1.2万亿元，而此前10时许成交额刚破万亿。短期放量明显，但指数下跌，可能为放量下跌，投资者抛售意愿强，短期看空。",
+      "reason": "成交额极值信号，结合指数下跌构成空头信号。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "稀有金属",
-        "钽概念",
-        "东方钽业"
+        "沪深300"
       ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/member/articles/3775504"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677734417.shtml"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "新股N惠科涨超600%",
+      "summary": "新股N惠科盘中涨幅超600%触发二次临停，恢复交易后继续拉升。新股首日回报率极高，显示市场投机情绪旺盛，但可能预示着资金从题材股流向新股，对现有板块形成抽血效应。中性偏空。",
+      "reason": "新股异常表现是市场情绪极端化的信号，需警惕潜在回调。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "次新股"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677734310.shtml"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "AI散热成培育钻石新增长极",
-      "summary": "多家公司布局AI散热领域，培育钻石作为散热材料成为新增长极，但多数公司仍处于早期阶段。利好培育钻石概念股，看多。",
-      "reason": "行业动态，新技术有望打开成长空间，概念板块受关注。",
+      "title": "美国ITC对光伏电缆337调查",
+      "summary": "美国国际贸易委员会（ITC）对光伏干线总线电缆部件及其组件启动337调查。可能对光伏出口企业构成不利影响，相关A股公司或面临制裁风险。短期利空光伏板块。",
+      "reason": "贸易摩擦直接打压相关行业，光伏是A股重要板块，影响较大。",
       "category": "行业动态",
       "impact_stocks": [
-        "培育钻石",
-        "散热",
-        "黄河旋风"
+        "光伏",
+        "电力设备"
       ],
-      "signal": "bullish",
-      "impact_level": 2,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260626/c677733726.shtml"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "中信证券：电子行业业绩全面向好",
-      "summary": "中信证券预计2026年二季度电子行业整体业绩全面向好，存储、半导体等景气度提升，利好电子板块。",
-      "reason": "机构研报，头部券商看好电子行业，提振板块信心。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "电子",
-        "半导体",
-        "消费电子"
-      ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
@@ -119,28 +74,67 @@
           "url": "https://news.10jqka.com.cn/20260626/c677733767.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "QDII基金限购潮或促资金回流A股",
-      "summary": "QDII基金因额度紧张限购升级，单日只能买10元，可能促使部分资金转向A股，利好A股流动性。",
-      "reason": "市场结构变化，限购海外基金引导资金流入A股，间接利好。",
-      "category": "资金流向",
+      "title": "东京CPI上升，日央行加息预期升温",
+      "summary": "日本6月东京核心CPI年率1.6%，符合预期但高于前值1.3%，重拾升势。市场对日本央行年内再加息预期加强，可能推高全球利率，对A股估值形成压力，利空。",
+      "reason": "海外货币政策是重要宏观因子，影响全球资本流动。",
+      "category": "宏观经济",
       "impact_stocks": [
-        "沪深300",
-        "公募重仓股"
+        "沪深300"
       ],
-      "signal": "bullish",
-      "impact_level": 2,
+      "signal": "bearish",
+      "impact_level": 3,
       "sources": [
         {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FVTJyMWFEXzhYazZxNFhGQUthREk1MlMxN2NaaTJGUlprazJtZnBPWGZtZEhrRWZzUzE1WFJFT3YtaWpoNUZ1MzZ2MVhQWV9HdktObDB4VXNtWGt5aHc?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775562"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "电力板块走高，节能风电涨停",
+      "summary": "电力板块震荡走高，节能风电、华能国际等涨停。受新能源“十五五”规划及夏季用电高峰预期推动，板块获资金青睐。中长期看多电力及新能源运营商。",
+      "reason": "板块轮动信号，电力受政策和需求双重利好，是中期主线。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "电力",
+        "风电",
+        "新能源"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677733701.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "先进封装板块活跃，个股涨停",
+      "summary": "先进封装板块再度活跃，莱宝高科、太极实业涨停。AI芯片需求拉动封装技术升级，行业景气度上行。受益于算力基建和自主可控逻辑，看多。",
+      "reason": "科技细分板块异动，反映AI产业链持续发展，有中期投资机会。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "先进封装",
+        "半导体",
+        "AI芯片"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260626/c677733571.shtml"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 68,
-  "generated_at": "2026-06-26T10:01:39.658057+08:00"
+  "total_fetched": 63,
+  "generated_at": "2026-06-26T10:10:35.998418+08:00"
 }
