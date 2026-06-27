@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6232,
+    "completion_tokens": 3121,
+    "total_tokens": 9353
+  },
+  "content_length": 1581,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"财通证券大宗交易5752万\",\n      \"summary\": \"2026年6月26日，财通证券发生一笔大宗交易，成交金额5752.44万元。大宗交易通常反映机构或大股东的交易行为，金额较小，对整体市场影响有限。可能涉及机构调仓或股东减持，信号中性。影响个股财通证券及券商板块。\",\n      \"reason\": \"大宗交易反映机构动向，虽金额不大但属资金流向信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"财通证券\", \"券商板块\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yM01yX25PSnE5MUU2aHNzek9veFVBUnhMMHpEc01qOHZEX1BvNTNOcW45MV9DS3RNeGlQR2FEN0FHcTJldmxhbnhJT0Y1UTEtNTNTT3NMZEpGU2pua2hnQi16bjRBUQ\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"IBM：AI部署第2年为拐点\",\n      \"summary\": \"IBM分享了大规模部署AI的经验，指出第2年是实现价值拐点的关键时期。这一观点对全球AI产业趋势有参考意义，反映AI应用正从实验走向规模化。对A股AI概念股（如科大讯飞、商汤等）可能产生间接积极影响，但缺乏直接政策或业绩催化，信号中性。\",\n      \"reason\": \"行业龙头经验分享，提供AI商业化进展信号，影响市场情绪但无直接交易指引。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"科大讯飞\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 1,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/charts/41959314\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"太空算力创企3月融资3轮\",\n      \"summary\": \"太空算力初创企业在3个月内完成3轮融资，显示资本市场对太空计算概念的高度关注。这可能刺激A股相关太空算力概念股，如中国卫星、航天电子、中科星图等。但A股标的较少，属于概念炒作，短期情绪提振，信号中性。\",\n      \"reason\": \"融资活动反映行业热度，可能带动A股同概念板块情绪。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"航天卫星\", \"太空算力概念\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775671\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮素材中大部分为重复内容或研报详情，无实质影响行情的消息。仅筛选出3条轻度影响消息。\"\n}"
+}
