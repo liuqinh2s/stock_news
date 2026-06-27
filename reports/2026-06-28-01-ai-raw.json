@@ -5,10 +5,10 @@
   "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 2199,
-    "completion_tokens": 1457,
-    "total_tokens": 3656
+    "prompt_tokens": 1874,
+    "completion_tokens": 531,
+    "total_tokens": 2405
   },
-  "content_length": 1391,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"A股公司被立案调查\",\n      \"summary\": \"据报道，又一家A股上市公司被证监会立案调查，涉及上万名股东。具体公司名称尚未披露，但此类事件通常引发市场对问题股的抛售，并对所属板块产生情绪冲击。本次立案凸显监管层持续从严执法，短期将打压相关个股及同类题材，投资者需警惕仓线、质押等连锁风险。信号：利空。\",\n      \"reason\": \"证监会监管执法升级，属于直接影响行情的监管政策，对市场情绪有负面压制。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"A股市场\", \"中小盘股\", \"问题股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE5Da2RsUkcydnJHWlFYdkNubW5BcGtUTEtJaUkxa2pCcUxwbzk4b0wyQ1R1RXFtWWE5MFdlRDhWb3oyZ0poRzB2VF9HeVYxODNaalpKMGp6RVlpbk8wTnFiNmZ4RWZGdWFQMi0xSmxfeEgxUDJUa2c?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"国泰海通召开临时股东会\",\n      \"summary\": \"国泰海通证券（原国泰君安与海通合并主体）公告将召开2026年第一次临时股东会，审议相关议案。市场关注会议是否涉及合并后续整合、资本运作或高管任免。由于具体内容未披露，对股价影响暂不确定，但此类事件通常反映公司治理动向，对券商板块有一定指引作用。信号：中性。\",\n      \"reason\": \"公司重大事件，属于优先级二，可能对券商板块产生中期影响，但缺乏具体决议内容，信号待定。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"国泰海通\", \"券商板块\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"雪球\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiakFVX3lxTE9jTl9XX0xJbFhzTkMzdnJPMTlpRmx0cF9KNlNuenlzV3M1QWVRaTd2M2djTHM1ZVlNZHo2TnA1aF9ZOHZkbzRySHZxVnYyWnlLX3JlemdrMEJJVUU1SjJtYUtsVFhqMjZ6R2c?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ]\n}"
+  "content_length": 780,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"华虹宏力拟收购华力微股权\",\n      \"summary\": \"华虹宏力（688347）公告拟收购华力微97.5%股权，构成重大资产重组。华力微为国内领先的晶圆代工企业，此次收购将强化华虹宏力在成熟制程领域的产能和技术优势，提升半导体产业链协同效应。若交易完成，华虹宏力有望跻身国内代工第一梯队，对半导体设备、材料等上游环节也形成利好。短期看，收购带来资产增值预期，但需关注整合风险及监管审批进度。该事件属于公司层面重大利好，信号偏多，尤其利好半导体板块及华虹宏力本身。\",\n      \"reason\": \"重大并购重组属于优先级一（直接影响行情），且涉及半导体核心资产，市场关注度高。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"华虹宏力\", \"半导体\", \"晶圆代工\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTE15SWYtQjNBZEwxaEJWU0hQNFFEOU4xZVl3U3dBM3VXdUJMUnhJLW56Qm9WQVJ0ZUxGQlNJQzE5cDRFSHQ2Wjh6bUE1ZEVXcjM2elpDbTBKeGJlU1lvRENqTDZldUtCOWVnTHFB?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
 }

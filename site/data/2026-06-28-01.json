@@ -3,44 +3,25 @@
   "hour": "01",
   "news": [
     {
-      "title": "《灵笼第二季》获白玉兰奖",
-      "summary": "国产动画《灵笼第二季》首度问鼎上海电视节白玉兰奖最佳动画片，打破海外垄断。该奖项表明国产动画制作水准获认可，有望带动相关IP授权、衍生品及影视板块关注度。但直接A股影响有限，属于文化传媒板块情绪利好。信号中性偏多，建议关注光线传媒、奥飞娱乐等IP运营公司。",
-      "reason": "国产动画重大突破，可能提振文化传媒板块短期情绪，但业绩影响不确定，属于轻度利好。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "文化传媒",
-        "IP概念"
-      ],
-      "signal": "bullish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "第一财经",
-          "url": "https://www.yicai.com/news/103249535.html"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "国泰海通证券临时股东会决议",
-      "summary": "国泰海通证券发布2026年第一次临时股东会决议公告，涉及公司治理事项。具体内容未披露，但市场关注度较高。作为头部券商，其股东大会决议可能涉及分红、融资或业务调整，目前信号中性，需跟踪后续公告。对券商板块影响有限。",
-      "reason": "券商股东会决议可能隐含重要信息，但当前内容不明，属于中性事件，建议关注后续公告。",
+      "title": "华虹宏力拟购华力微97.5%股权",
+      "summary": "华虹宏力（688347）公告拟收购华力微电子97.5%股权，交易金额待定。此次并购将显著增强公司在半导体制造领域的竞争力，整合资源，提升市场份额。有望带动半导体板块整体估值提升，尤其利好华虹宏力及其产业链上下游。并购通常被视为利好信号，但需关注整合风险及收购价格。短期看多华虹宏力及半导体板块。",
+      "reason": "重大并购重组，属于优先级一事件，直接对公司及行业产生较大影响。",
       "category": "公司公告",
       "impact_stocks": [
-        "国泰海通",
-        "券商"
+        "华虹宏力",
+        "半导体"
       ],
-      "signal": "neutral",
-      "impact_level": 1,
+      "signal": "bullish",
+      "impact_level": 4,
       "sources": [
         {
-          "name": "雪球",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jTl9XX0xJbFhzTkMzdnJPMTlpRmx0cF9KNlNuenlzV3M1QWVRaTd2M2djTHM1ZVlNZHo2TnA1aF9ZOHZkbzRySHZxVnYyWnlLX3JlemdrMEJJVUU1SjJtYUtsVFhqMjZ6R2c?oc=5"
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15SWYtQjNBZEwxaEJWU0hQNFFEOU4xZVl3U3dBM3VXdUJMUnhJLW56Qm9WQVJ0ZUxGQlNJQzE5cDRFSHQ2Wjh6bUE1ZEVXcjM2elpDbTBKeGJlU1lvRENqTDZldUtCOWVnTHFB?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     }
   ],
-  "total_fetched": 4,
-  "generated_at": "2026-06-28T01:02:15.533629+08:00"
+  "total_fetched": 1,
+  "generated_at": "2026-06-28T01:55:37.862578+08:00"
 }
