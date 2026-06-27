@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "18",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5130,
+    "completion_tokens": 4354,
+    "total_tokens": 9484
+  },
+  "content_length": 1473,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美伊冲突升级\",\n      \"summary\": \"美伊交火击碎停火幻象，伊朗革命卫队实质打击美军据点，霍尔木兹海峡“法理争夺”推升能源断航溢价。可能影响A股石油、军工、黄金板块，看多石油、军工，看空航空、海运。整体市场情绪偏空。\",\n      \"reason\": \"地缘政治冲突升级，直接影响原油供应预期，属于海外市场联动，中期影响行情。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油\", \"黄金\", \"军工\", \"航空\", \"海运\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775679\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"光谷出台科技金融新政\",\n      \"summary\": \"武汉光谷发布一揽子科技金融新政，目标上市企业力争突破100家。将利好光谷板块的光通信、半导体、激光等科技企业，短期提振区域科技股情绪。\",\n      \"reason\": \"地方性科技金融政策，直接利好光谷相关上市公司，属于行业动态，中期影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"光谷板块\", \"光通信\", \"半导体\", \"武汉本地股\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\"name\": \"同花顺\", \"url\": \"https://news.10jqka.com.cn/20260627/c677766207.shtml\"},\n        {\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103249458.html\"}\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"首开集团与北京建院重组\",\n      \"summary\": \"首开集团与北京建院官宣重组，两家北京市属国企合并，有望产生协同效应。利好北京本地地产建筑国企，可能引发国企改革概念炒作。\",\n      \"reason\": \"国企重组公告，属于公司重大事件，可能带动相关板块中期行情。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"首开集团\", \"北京建院\", \"国企改革\", \"地产建筑\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"第一财经\", \"url\": \"https://www.yicai.com/news/103249457.html\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"经过严格去重和筛选，符合A股交易决策价值的新消息仅3条。\"\n}"
+}
