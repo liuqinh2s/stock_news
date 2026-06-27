@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-28",
+  "hour": "07",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 3/6 策略=仅标题+链接 retry=2",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2497,
+    "completion_tokens": 2278,
+    "total_tokens": 4775
+  },
+  "content_length": 2092,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"华虹宏力拟购华力微97.5%股权\",\n      \"summary\": \"华虹宏力（688347）拟收购华力微97.5%股权，构成重大资产重组。华力微为半导体制造企业，此次收购将强化华虹宏力在晶圆代工领域的竞争力。利好华虹宏力及半导体板块，但需关注整合风险。信号看多。\",\n      \"reason\": \"重大并购重组，优先级一，直接影响公司价值及半导体行业格局。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"华虹宏力\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com/\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"新赛股份因信披违规被证监会立案\",\n      \"summary\": \"新赛股份（600540）因信息披露违法违规被证监会立案调查。公司主营棉花种植加工，立案可能导致股价承压、投资者索赔。利空新赛股份及农业板块同类公司，信号看空。\",\n      \"reason\": \"公司重大事件，信披违规立案属利空，影响投资者信心。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"新赛股份\", \"农业\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com/\"}],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"宁波远洋拟定增募资10.86亿元\",\n      \"summary\": \"宁波远洋（601022）披露定增预案，拟募集资金不超过10.86亿元，用于补充流动资金或项目建设。定增通常摊薄现有股东权益，短期中性偏空，但若用于扩张可能利好长期发展。中性信号。\",\n      \"reason\": \"公司重大融资事件，影响股本结构和未来业绩预期。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"宁波远洋\", \"航运\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com/\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"ST信通控股股东股份将被司法处置\",\n      \"summary\": \"ST信通（600289）控股股东一致行动人持有的股份将被司法处置，可能引发控制权变更或抛压风险。公司本身已ST，基本面较差。信号看空。\",\n      \"reason\": \"公司重大风险事件，股份司法处置通常利空，尤其对ST股影响更大。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"ST信通\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com/\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"天智航先进制造基金减持至4.93%\",\n      \"summary\": \"天智航（688277）股东先进制造基金减持，持股比例降至4.93%，低于5%后后续减持无需披露。减持行为反映机构可能看淡，对股价形成压力。利空天智航及医疗机器人板块。\",\n      \"reason\": \"机构减持信号，影响市场情绪和后续抛压预期。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"天智航\", \"医疗机器人\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"东方财富\", \"url\": \"https://www.eastmoney.com/\"}],\n      \"urgency\": \"hours\"\n    }\n  ]\n}"
+}
