@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "16",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6445,
+    "completion_tokens": 2467,
+    "total_tokens": 8912
+  },
+  "content_length": 2037,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"高通推端侧AI芯片技术\",\n      \"summary\": \"高通计划将数据中心芯片技术引入智能手机，提升端侧AI能力。此举将加速AI手机渗透，利好国内AI手机产业链及端侧AI芯片设计公司。看多信号，预计消费电子和AI概念板块受益。\",\n      \"reason\": \"行业重大技术进展，直接影响AI手机和端侧AI产业链，具有中期交易价值。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"消费电子\", \"AI手机\", \"端侧AI芯片\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260627/c677765572.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"宏微科技共建联合实验室\",\n      \"summary\": \"宏微科技与国家电投核力创芯共建联合实验室，聚焦功率半导体技术。宏微科技是国内功率半导体主要供应商，此次合作强化其技术壁垒，利好公司股价。看多信号，但个股影响有限。\",\n      \"reason\": \"个股重大合作公告，涉及央企背景，可能引发市场关注。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"宏微科技\", \"功率半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260627/c677765466.shtml\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"大唐集团与四川省签约\",\n      \"summary\": \"中国大唐与四川省政府签署全面深化战略合作协议，将在清洁能源、电力保供等领域合作。利好大唐集团旗下上市公司，如大唐发电、大唐新能源等。看多信号，但政策落地需时间。\",\n      \"reason\": \"央企与地方政府重大合作，可能带来订单和项目支持，对电力板块有正面影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"大唐发电\", \"大唐新能源\", \"电力板块\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260627/c677765267.shtml\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"新注册会计师法明年施行\",\n      \"summary\": \"新修订的注册会计师法将于2027年起施行，加强审计责任和监管。此举有利于提升上市公司财务质量，长期利好资本市场。短期影响中性，但对审计行业和上市公司治理有正面意义。\",\n      \"reason\": \"监管政策变化，影响资本市场基础制度，虽非直接行情驱动，但具有中长期意义。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"沪深300\", \"审计概念\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103249435.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前市场缺乏重大级别消息，仅筛选出4条具有轻度至中等影响的消息，建议关注后续政策及数据发布。\"\n}"
+}
