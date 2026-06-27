@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-28",
+  "hour": "06",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2461,
+    "completion_tokens": 210,
+    "total_tokens": 2671
+  },
+  "content_length": 87,
+  "raw_content": "{\"news\": [], \"note\": \"本轮抓取的5条消息均为普通公司日常经营动态（股东会决议、小额派息、闲置资金理财、小额政府补助等），属于排除项，无重大交易价值。\"}"
+}
