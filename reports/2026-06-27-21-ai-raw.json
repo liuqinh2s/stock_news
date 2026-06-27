@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "21",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 2265,
+    "completion_tokens": 3255,
+    "total_tokens": 5520
+  },
+  "content_length": 2118,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"下周千亿解禁来袭\",\n      \"summary\": \"下周A股解禁市值超1000亿元，16只股票解禁比例超10%，对市场构成明显抛压，尤其是解禁比例高的个股风险较大。属于限售股集中解禁预警，利空信号。\",\n      \"reason\": \"优先级一，大规模解禁直接增加供给压力，影响市场情绪和资金面。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"高比例解禁股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Tcm9LZzNEeDRvQmZNVXViUDZWZmxsOUpCXzZtNVNVLUxRVVE1RUxWV2VnaGZ2blhORzB3S3NUeHJhQnBVdS1pQVlUSU1hcEh6bnZLMGFTYU1IbWF5NVZjd0Y4eVhVZ01PSWFIWFlKcjgzOWFFMFVRNw?oc=5\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"AI收入首超折旧\",\n      \"summary\": \"AI行业季度收入首次超过基础设施折旧，表明AI技术投资开始产生正向回报，行业盈利能力提升。利好AI概念股、算力、半导体等板块，是行业基本面向好的信号。\",\n      \"reason\": \"优先级二，行业动态，标志性事件，对AI板块有提振作用。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"半导体\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/charts/41959316\"}],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"某大牛股业绩暴增10000%\",\n      \"summary\": \"一条刷屏消息称A股某大牛股业绩暴增10000%，通常源于低基数或一次性收益，但极端增幅引发市场关注，可能带动相关板块情绪。需关注具体公司，若为真实业绩，则为重大利好，但需警惕炒作风险。\",\n      \"reason\": \"优先级三，极端业绩变动引发市场情绪，短期可能刺激相关板块。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"相关板块（待个股公布）\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"新浪财经\", \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTE10VS15SGxZZGZqT0hvaFVGdlhqSDdSYTVkUkNIVGZScnRJQWtuZ1l5SExVZW9lYVRMRE80Vlk4dUgzMmpSTU1ZQnQ3ZUpWU3JaaFBZQ0VxREJ6TlhGeS1jQzMzNnctdFdodGYwS1FaZHJNZmdzSVE?oc=5\"}],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"美元指数下半年展望\",\n      \"summary\": \"文章分析美元指数下半年走势，可能影响人民币汇率和外资流向。若美元走强则人民币贬值压力增大，不利A股；反之利好。目前无明确方向，中性偏谨慎。\",\n      \"reason\": \"优先级二，宏观经济因素，影响市场预期和资金流向。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"沪深300\", \"人民币汇率\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [{\"name\": \"华尔街见闻\", \"url\": \"https://wallstreetcn.com/articles/3775680\"}],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮素材中仅有4条对A股交易有实质影响，其余内容（如专业增设、人口城市、高校产教融合、娃哈哈调价）与A股关联度低或影响微弱，已排除。\"\n}"
+}
