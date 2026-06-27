@@ -3,25 +3,125 @@
   "hour": "07",
   "news": [
     {
-      "title": "新赛股份因信披违规被证监会立案",
-      "summary": "新赛股份（600540）因信息披露违法违规被证监会立案调查。公司主营棉花种植加工，立案可能导致股价承压、投资者索赔。利空新赛股份及农业板块同类公司，信号看空。",
-      "reason": "公司重大事件，信披违规立案属利空，影响投资者信心。",
-      "category": "公司公告",
+      "title": "中信中金获评A类评级",
+      "summary": "国际评级机构首次将中信证券和中金公司评为A类，反映中国金融业对外开放成效，提升券商板块信心。可能带动券商及金融股走强。看多信号。",
+      "reason": "国际评级提升，利好券商板块，增强外资信心。",
+      "category": "资金流向",
       "impact_stocks": [
-        "新赛股份",
-        "农业"
+        "中信证券",
+        "中金公司",
+        "券商"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwZGlGQ3hUZW8tdlYtX0NXOTdFUTZOT3JSdVdSVkhleUM2UjVoOEVGWVJ3YUxJMlF3Wno1WlZVNjh1MFluS3FKWVNsZlJYOFRydm5lOGgza0toNkpVZDZ5Qg?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "第四代半导体项目落户郑州",
+      "summary": "国内首个第四代半导体材料全产业链项目落户郑州，标志我国在超宽禁带半导体领域自主可控迈出关键一步。利好半导体设备、材料及化合物半导体板块。看多信号。",
+      "reason": "重大产业项目突破，提升半导体产业链自主化预期。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "半导体",
+        "碳化硅",
+        "金刚石"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260628/c677768541.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美军打击伊朗导弹库",
+      "summary": "特朗普称美军打击伊朗导弹和无人机储存地点，中东地缘冲突骤然升级，可能推高原油、黄金等避险资产，并加剧全球市场波动。利空A股整体风险偏好，短期承压。看空信号。",
+      "reason": "地缘冲突升级，影响市场情绪和资源股价格。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "原油",
+        "黄金",
+        "军工"
       ],
       "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://www.eastmoney.com/"
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260628/c677768503.shtml"
         }
       ],
       "urgency": "immediate"
+    },
+    {
+      "title": "C909交付186架占支线7成",
+      "summary": "C909（原ARJ21）商运十周年累计交付186架，占国内支线机队70%，国产民机商业化进展顺利。利好航空制造、大飞机产业链。",
+      "reason": "国产飞机交付里程碑，提振航空制造板块信心。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "中航西飞",
+        "中航沈飞",
+        "大飞机"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260628/c677768502.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "前5月社会物流总额146万亿",
+      "summary": "今年前五个月我国物流需求平稳增长，社会物流总额超146万亿元，显示经济复苏基础稳固。利好物流、交通运输板块，整体市场情绪中性偏多。",
+      "reason": "宏观经济数据稳中向好，增强经济复苏预期。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "物流",
+        "交通运输"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260628/c677768514.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "马斯克拟收购光模块公司",
+      "summary": "据报道，马斯克旗下公司计划收购一家光模块企业，强化AI算力基础设施。可能刺激光模块、AI算力、通信板块。看多信号。",
+      "reason": "巨头收购事件，凸显光模块在AI中的重要性，提升板块估值。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "光模块",
+        "AI算力",
+        "中际旭创"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103249563.html"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 0,
-  "generated_at": "2026-06-28T07:01:25.102012+08:00"
+  "total_fetched": 27,
+  "generated_at": "2026-06-28T07:53:23.639675+08:00"
 }

@@ -1,7 +1,197 @@
 {
   "date": "2026-06-28",
   "hour": "07",
-  "total": 0,
-  "fetched_at": "2026-06-28T07:00:45.377310+08:00",
-  "news": []
+  "total": 27,
+  "fetched_at": "2026-06-28T07:52:56.582115+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnFLR21mVHo0d0NGT0E0R0VNQ0M1WmFQWk50TFF0VGJRUjV1Ty1vbS1DUm9LcUxwLWJwTnFjSFFnSEg0UlpMZm1jNnRncmVLZElYNVNMNnJ4clF2bHMxdG1KSkFpOFBfTHp3Rm85OEFyZWV6Nk5Bd2UwanJFT2Q0MktDTWVEcUdGSFVoaFhDVzJzclpyQ2JB?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnFLR21mVHo0d0NGT0E0R0VNQ0M1WmFQWk50TFF0VGJRUjV1Ty1vbS1DUm9LcUxwLWJwTnFjSFFnSEg0UlpMZm1jNnRncmVLZElYNVNMNnJ4clF2bHMxdG1KSkFpOFBfTHp3Rm85OEFyZWV6Nk5Bd2UwanJFT2Q0MktDTWVEcUdGSFVoaFhDVzJzclpyQ2JB?oc=5",
+      "published": "Sat, 27 Jun 2026 23:42:15 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDlPd3FKbXRwaUNpQmNmbDh5M1ZNbEJNRThFSFlON1dlSk5JWUQ3b3R3MmxLTl9odzZGbDRWcENDNTNnOEZKVXBYRlcyS1FKaVNPSFBqOXU3dGFMMVFxYVg3c0JVRjBEU3RTMkVNajY3eGdlTnZ4U1hsSUdmZ3FYNXlSMkl5T0l6c2JuZWJoVUU1OThrTXFV?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDlPd3FKbXRwaUNpQmNmbDh5M1ZNbEJNRThFSFlON1dlSk5JWUQ3b3R3MmxLTl9odzZGbDRWcENDNTNnOEZKVXBYRlcyS1FKaVNPSFBqOXU3dGFMMVFxYVg3c0JVRjBEU3RTMkVNajY3eGdlTnZ4U1hsSUdmZ3FYNXlSMkl5T0l6c2JuZWJoVUU1OThrTXFV?oc=5",
+      "published": "Sat, 27 Jun 2026 23:42:15 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjNMX3ZsN2hfZEFBclRWU0o5Q05SSnZ2R1ZMemVXZDZsSVk5c1Vxd0ZLS2Zkd1Ffd3BBQ1pEZHJ5U2R4ZVVNcmlKN0dMU3B5N0pkMG5ZTWQ5U3d4RWswYU1maXZ0RUJCUFFWQ0pYUzdpSWxtdVBPMmp4d1BmS3RsNU52NVJDTjhPaXBnd1JLY1dBUFM4YXNTZUd1WEJiMDBmSS04UQ?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjNMX3ZsN2hfZEFBclRWU0o5Q05SSnZ2R1ZMemVXZDZsSVk5c1Vxd0ZLS2Zkd1Ffd3BBQ1pEZHJ5U2R4ZVVNcmlKN0dMU3B5N0pkMG5ZTWQ5U3d4RWswYU1maXZ0RUJCUFFWQ0pYUzdpSWxtdVBPMmp4d1BmS3RsNU52NVJDTjhPaXBnd1JLY1dBUFM4YXNTZUd1WEJiMDBmSS04UQ?oc=5",
+      "published": "Sat, 27 Jun 2026 23:42:15 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxONEVlZmxNNVAxZTVHWG1UYWNaMHhNaVJzaTBfOWVnMXNEb2VwQzVTbGU4NzFoRk9oMWZldDVDQ0Z4LVB3SERvZUN2SWc3bE12WkFoM25mVl80TWVvTVplUlhYMWtqbDVZZW5RYXNSTTdfQ0YwU0hxSHFibjRhcHhZb1A5czJpZjdUME80Mjd0NVFGZzR4VkE4?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONEVlZmxNNVAxZTVHWG1UYWNaMHhNaVJzaTBfOWVnMXNEb2VwQzVTbGU4NzFoRk9oMWZldDVDQ0Z4LVB3SERvZUN2SWc3bE12WkFoM25mVl80TWVvTVplUlhYMWtqbDVZZW5RYXNSTTdfQ0YwU0hxSHFibjRhcHhZb1A5czJpZjdUME80Mjd0NVFGZzR4VkE4?oc=5",
+      "published": "Sat, 27 Jun 2026 23:42:15 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "上调！国际评级机构出手！中信、中金首次获评A类 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwZGlGQ3hUZW8tdlYtX0NXOTdFUTZOT3JSdVdSVkhleUM2UjVoOEVGWVJ3YUxJMlF3Wno1WlZVNjh1MFluS3FKWVNsZlJYOFRydm5lOGgza0toNkpVZDZ5Qg?oc=5\" target=\"_blank\">上调！国际评级机构出手！中信、中金首次获评A类</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwZGlGQ3hUZW8tdlYtX0NXOTdFUTZOT3JSdVdSVkhleUM2UjVoOEVGWVJ3YUxJMlF3Wno1WlZVNjh1MFluS3FKWVNsZlJYOFRydm5lOGgza0toNkpVZDZ5Qg?oc=5",
+      "published": "Sat, 27 Jun 2026 23:32:13 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股票投资逻辑:好公司股价一直低估时买，好公司股价泡沫时卖，现在的极端行情像大秦铁 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1VQm1jS3BaNnhIanJHLW9sbm1zV3NXRzc0SUJqMUd4SWdUby1uQjJqMXdZTkhlRG53di1PMXhqSzZEc3FQclVqY3BHZ1h3MkhhRjNlOU84dGg0LTVVU1Nad1laNFV5aEFKVXRZ?oc=5\" target=\"_blank\">股票投资逻辑:好公司股价一直低估时买，好公司股价泡沫时卖，现在的极端行情像大秦铁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VQm1jS3BaNnhIanJHLW9sbm1zV3NXRzc0SUJqMUd4SWdUby1uQjJqMXdZTkhlRG53di1PMXhqSzZEc3FQclVqY3BHZ1h3MkhhRjNlOU84dGg0LTVVU1Nad1laNFV5aEFKVXRZ?oc=5",
+      "published": "Sat, 27 Jun 2026 22:34:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国内首个第四代半导体材料全产业链项目落户郑州",
+      "summary": "6月26日，郑州高新区与中科粉研（河南）超硬材料有限公司签署协议，中科粉研第四代半导体材料生产基地正式落户该区。该基地是国内首个第四代半导体材料全产业链项目，将为河南在全球独具优势的超硬材料产业链补上关键的一环。(河南政府网)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768541.shtml",
+      "published": "Sat, 27 Jun 2026 23:38:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国裁判将首次参加世界杯淘汰赛执裁工作",
+      "summary": "国际足联27日宣布，中国裁判马宁将在美加墨世界杯32强赛德国队与巴拉圭队的比赛中担任第四官员，周飞将担任该场比赛候补助理裁判。这将是中国裁判员首次参与世界杯淘汰赛执裁工作。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768519.shtml",
+      "published": "Sat, 27 Jun 2026 23:31:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "今年前五个月我国物流需求平稳增长 社会物流总额超146万亿元",
+      "summary": "中国物流与采购联合会今天公布今年1到5月物流运行数据。物流需求总体保持平稳增长，新旧动能加快转换，结构升级态势持续显现。1—5月份，全国社会物流总额146.6万亿元，同比增长5.2%。其中，工业品物流总额同比增长5.4%。行业分化特征持续显现，采矿、非金属矿物制品业等传统资源类物流需求持续低位运行，而随着新质生产力加快培育，高端制造领域物流需求保持较快增长。5月份，高技术制造业相关物流需求同比增长15.1%，装备制造业相关物流需求同比增长9.5%，较上月均有所加快。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768514.shtml",
+      "published": "Sat, 27 Jun 2026 23:30:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "坦桑尼亚国家电网故障致大面积停电",
+      "summary": "当地时间27日晚，由于坦桑尼亚国家电网发生技术故障，导致大面积停电，所有连接到国家输电网络地区的电力供应中断。坦桑尼亚电力供应公司当晚发表声明称，当天19时，国家电网发生故障。停电影响了坦桑尼亚全国多个地区的家庭、企业和公共机构。坦桑尼亚电力公司表示，其技术团队正在进行抢修工作，分阶段恢复电力供应。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768509.shtml",
+      "published": "Sat, 27 Jun 2026 23:28:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "德国再次刷新本国最高气温纪录",
+      "summary": "当地时间6月27日下午，根据德国气象局发布的初步数据，当天，德国东部默肯-德雷维茨地区当天测得的初步气温数据达41.5摄氏度，创下德国有气象记录以来最高气温纪录。这是德国连续第二天刷新最高气温纪录。德国气象局26日在西部城市萨尔布吕肯测得41.3摄氏度高温，打破此前纪录。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768508.shtml",
+      "published": "Sat, 27 Jun 2026 23:28:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阿根廷内阁首席部长因贪腐丑闻宣布辞职",
+      "summary": "阿根廷内阁首席部长曼努埃尔·阿多尔尼因贪腐丑闻宣布辞职。阿多尔尼近期被曝搭乘私人飞机度假、拥有未申报的豪华房产和豪华汽车等。阿根廷一些国会议员指出，阿多尔尼的支出与申报收入不符，涉嫌非法敛财等腐败行为。本月11日，他承认向税务机关隐瞒了超过50万美元的收入。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768507.shtml",
+      "published": "Sat, 27 Jun 2026 23:26:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "委内瑞拉地震死亡人数升至1430人",
+      "summary": "委内瑞拉全国代表大会主席豪尔赫·罗德里格斯27日表示，委内瑞拉地震死亡人数已升至1430人，另有3238人受伤。罗德里格斯当天通过委国家电视台发表讲话说，继24日两次强震以来，委境内发生了约430次轻微至中等强度的余震。罗德里格斯代表委内瑞拉政府向遇难者表示深切哀悼，并承诺将坚持不懈开展搜 救工作。据他介绍，抵达委内瑞拉的国际救援力量和资源包括2242名救援人员、96只搜 救犬，以及103吨设备和3吨药品。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768505.shtml",
+      "published": "Sat, 27 Jun 2026 23:23:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伦敦发生疑似蓄意驾车撞人事件 致5人受伤",
+      "summary": "英国伦敦警方27日说，伦敦西部当天发生一起疑似蓄意驾车撞人事件，造成5人受伤，一名男子因涉嫌谋杀未遂、危险驾驶被捕。伦敦警察局说，事件发生在当天14时30分左右，地点位于伦敦西部伊灵百老汇地区。两名伤者在现场接受救治，另外3人被送往医院，均无生命危险。警方称，驾车者肇事后没有停车，涉事车辆随后在附近一处公园被警方截停。驾车者是一名34岁男子、出生于索马里。目前，警方尚未将此事作为恐怖主义事件处理。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768504.shtml",
+      "published": "Sat, 27 Jun 2026 23:22:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+      "summary": "当地时间27日，美国总统特朗普表示，美军刚刚打击了伊朗的导弹和无人机储存地点，以及沿海雷达站点，因为他们再次违反了停火协议。美军中央司令部27日在社交媒体发布声明称，美军当天对伊朗境内多个目标实施新一轮打击。声明称，伊朗武装力量于美东时间27日凌晨发射一架攻击无人机，击中一艘航行于霍尔木兹海峡附近海域、悬挂巴拿马国旗的油轮。美军当天发起的军事打击行动是对“伊朗持续针对商船行为”的直接回应。美军战机打击了伊朗的军事监视设施、通信系统、防空阵地、无人机储存设施以及布雷装备等目标。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768503.shtml",
+      "published": "Sat, 27 Jun 2026 23:22:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "C909商运十周年累计交付186架 占国内支线机队70%",
+      "summary": "中国商飞发布消息，国产商用飞机C909已商运10年，累计交付186架，占国内支线机队70%。经过十年运营，C909已成长为中国支线航空运输市场的主力机型。C909飞机于2002年立项，2008年首飞。作为我国自主研制的90座级中短程涡扇支线客机，C909主要承担中小城市间及向枢纽机场的运输任务，与C919等干线客机形成差异化互补。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768502.shtml",
+      "published": "Sat, 27 Jun 2026 23:21:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "内塔尼亚胡称以军已打死9000名黎真主党武装人员",
+      "summary": "以色列总理内塔尼亚胡27日发表视频讲话称，自“战争开始以来”，以军已打死9000多名黎巴嫩真主党武装人员，仅过去两周就打死200多名武装人员，并且正在整个“安全区”内清除黎真主党武装基础设施。以色列、美国和黎巴嫩26日在华盛顿结束为期4天的新一轮停火撤军谈判，并宣布达成三方框架协议。27日，黎巴嫩真主党领导人纳伊姆·卡西姆谴责了美国、以色列和黎巴嫩达成的框架协议，称这是黎巴嫩政府犯下的重大错误，真主党方面认为该协议无效。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260628/c677768500.shtml",
+      "published": "Sat, 27 Jun 2026 23:21:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国再对伊朗实施军事打击",
+      "summary": "当地时间6月27日，美国已对伊朗实施军事打击。美国中央司令部发表声明称，在总统特朗普指示下，美军对伊朗境内多个目标实施了新一轮打击。声明称，在美军26日就商船“长悦”号遇袭事件打击伊朗目标后，美方曾给予伊朗履行停火协议的机会，但伊朗军方于美东时间27日凌晨4时30分再次发射单向攻击无人机，击中一艘悬挂巴拿马国旗、载有超过200万桶原油的油轮。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768496.shtml",
+      "published": "Sat, 27 Jun 2026 23:19:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "委内瑞拉地震中国公民遇难人数升至8人",
+      "summary": "据中国驻委内瑞拉大使馆消息，截至当地时间6月27日17时，据不完全统计，已确认有8名中国公民在“6·24地震”中遇难。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768495.shtml",
+      "published": "Sat, 27 Jun 2026 23:19:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日本岩手县近海发生6.1级地震",
+      "summary": "据日本气象厅公布的数据，当地时间28日5时21分左右，日本岩手县近海发生里氏6.1级地震，最大震感为震度5弱，震源深度40公里。本次地震暂无海啸风险。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768494.shtml",
+      "published": "Sat, 27 Jun 2026 23:18:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴基斯坦准军事部队遭恐袭 3名安全人员死亡",
+      "summary": "巴基斯坦警方人员27日说，该国南部信德省首府卡拉奇一处准军事部队设施当晚遭遇恐怖袭击，造成至少3名安全部队人员死亡。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768492.shtml",
+      "published": "Sat, 27 Jun 2026 23:18:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
+      "summary": "当地时间6月27日，美国总统特朗普提名兰斯·施罗耶出任美国移民与海关执法局局长。特朗普表示，施罗耶曾任俄克拉何马州州警和美国海军陆战队员，长期和移民与海关执法局合作执法，具备打击非法移民犯罪和遣返非法移民的丰富经验。特朗普同时呼吁美参议院尽快确认施罗耶的提名。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768491.shtml",
+      "published": "Sat, 27 Jun 2026 23:18:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以官员：若黎真主党发动攻击 将进行强烈回应",
+      "summary": "当地时间27日，以色列安全官员称，以方目前正严阵以待，以防备黎巴嫩真主党近期可能对以色列发动攻击，破坏以黎最新签署的框架协议。以色列方面称，将对黎真主党的任何袭击作出“严厉且强烈的回应”。当天稍早时，黎巴嫩真主党领导人纳伊姆·卡西姆曾谴责美国、以色列和黎巴嫩达成的框架协议，认为该协议无效。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768489.shtml",
+      "published": "Sat, 27 Jun 2026 23:17:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以国家安全部长称黎以美框架协议是“重大错误”",
+      "summary": "当地时间27日，以色列国家安全部部长本-格维尔发表声明称，在美国斡旋下达成的以黎新框架协议是“一个重大错误”，要求总理内塔尼亚胡将该协议正式提交内阁进行表决。本-格维尔表示，黎巴嫩政府不会真正解除真主党的武装，这一点只有以色列国防军才能做到。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768485.shtml",
+      "published": "Sat, 27 Jun 2026 23:17:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以总理：以色列保留了北部边境所需全部“安全区”",
+      "summary": "当地时间27日，以色列总理内塔尼亚胡召开新闻发布会，表示以色列与黎巴嫩达成的框架协议是一项“历史性成就”。该协议推动了结束双边冲突的进程，并开启了“以色列与黎巴嫩最终达成和平协议”的前景。内塔尼亚胡称，这项协议对伊朗和黎真主党是“一次重大打击”。该协议标志着美国和黎巴嫩已经同意以色列在黎境内保留“安全区”，且保留期限将“视以色列的安全需要而定”，直至黎真主党和其他武装组织被解除武装，黎巴嫩不再对以色列构成威胁。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768483.shtml",
+      "published": "Sat, 27 Jun 2026 23:16:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴基斯坦卡拉奇再次传出爆炸声",
+      "summary": "当地时间27日晚，总台报道员在巴基斯坦卡拉奇爆炸及枪击地点附近再次听到巨大爆炸声。稍早前，巴基斯坦卡拉奇大学路一带传出爆炸声及密集枪声。事件发生后，当地警方立即派遣大批警力赶赴现场处置。当地警方官员表示，有关部门正在展开调查。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260628/c677768482.shtml",
+      "published": "Sat, 27 Jun 2026 23:14:30 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "拟收购光模块公司，马斯克也要站在“光”里？",
+      "summary": "<figure><img alt=\"拟收购光模块公司，马斯克也要站在“光”里？\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/BBD344BC-9A51-4D49-8565-C92B4195CC8D.jpg\" /></figure><p>Mesh公司的光通信技术被认为或能够为SpaceX推进太空算力战略提供助力。</p><p>继收购AI初创公司Cursor之后，马斯克拟再次扩大商业版图，试图兑现SpaceX的上市承诺。</p>\n\n<p>据美国联邦贸易委员会（FTC）披露信息，近日埃隆·马斯克已获得批准收购Mesh Optical Technologies Corp，但交易具体细节暂未公开。</p>\n\n<p>Mesh公司由三位前SpaceX工程师创立，专注于数据中心光学通信技术，长期愿景是建立一个人类、计算器、航天器和深空探测器之间光学连接的太阳系。第一财经记者通过领英搜索注意到，Mesh公司联合创始人曾参与SpaceX星链互联网卫星系统激光通信技术。</p>\n\n<p>Mesh官网介绍称，其首款产品&nbsp;Alpha C",
+      "link": "https://www.yicai.com/news/103249563.html",
+      "published": "Sat, 27 Jun 2026 23:27:03 GMT"
+    }
+  ]
 }
