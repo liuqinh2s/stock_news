@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "13",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6464,
+    "completion_tokens": 2751,
+    "total_tokens": 9215
+  },
+  "content_length": 1980,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"五大险企1024亿分红到账\",\n      \"summary\": \"A股五大险企（中国人寿、中国平安、中国太保、新华保险、中国人保）密集发放现金红利，总额达1024亿元。然而保险指数上半年大跌27%，跑输大盘，显示市场对保险行业基本面（如投资收益下滑、负债成本高）的担忧。分红本身是利好，但板块弱势可能持续。信号中性，关注保险板块短期反弹机会。\",\n      \"reason\": \"分红总额超千亿，但板块表现极差，可能引发市场对保险行业前景的重新审视，属于公司公告类消息，影响保险板块个股。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"保险板块\", \"中国平安\", \"中国人寿\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE5KeVJ2R1FoZFQzaEJvNldOa0FXTkJHVWVFT0N0N1RNWmJLWXlhR3hQd002b2U1UlJkZmhGZTRvMzBpVnJXclluUGZKTVhjWUxvMHo5QjFUMGoxcVktTVJNZGsyNXMzY0ExV05OaXA1bGNOdUVHbVNnNw?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"四方精创获6家机构调研\",\n      \"summary\": \"四方精创（300468）接待光大证券研究所等6家机构调研，关注其金融科技业务进展。机构调研通常被视为潜在关注信号，但并非立即影响股价。若调研后机构给予正面评级，可能推动股价。当前中性偏多。\",\n      \"reason\": \"机构调研反映资本市场关注度，属于资金流向信号，可能为后续买入或评级调整做铺垫，影响个股及金融科技板块情绪。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"四方精创\", \"金融科技\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qd182ak0tZm5zYkhfSHIxNUVJWnlBVkFjRkhqWFpiUnFRNmhtTzdBODV3Y3doQjdjTXkxeWJKWjBjRDdGQjR3OVdJWG5iZFhaanJqRG5iY3oydnRKaFJOMg?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"SpaceX债券直逼垃圾级\",\n      \"summary\": \"SpaceX在IPO后再次天量发债，其债券收益率飙升，评级逼近垃圾级，跌速令交易员惊讶。这可能反映市场对高估值科技公司风险的担忧，进而影响全球科技股情绪，间接利空A股科技板块（尤其是科创板、创业板中的高估值标的）。\",\n      \"reason\": \"海外科技龙头信用风险事件可能传导至A股情绪，属于市场结构或情绪信号，对科技股构成短期压力。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"科技股\", \"科创板\", \"创业板\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 1,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775665\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"近6小时历史消息中重复较多，本轮素材仅有3条未重复且有一定交易价值的信息，其余多为重复或无关内容。\"\n}"
+}
