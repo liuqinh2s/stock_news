@@ -3,34 +3,15 @@
   "hour": "17",
   "news": [
     {
-      "title": "主力资金撤离“易中天”超267亿",
-      "summary": "6月27日，主力资金大幅流出，超过267亿元从“易中天”（易方达、中欧、天弘等基金重仓股）撤出。这显示机构资金在调仓或避险，可能引发市场情绪悲观，短期对基金重仓股、创业板和科创板形成抛压。属看空信号。",
-      "reason": "资金流向是市场情绪的直接反映，大规模主力流出通常预示短期调整。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "基金重仓股",
-        "创业板",
-        "科创板"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpdWE3SUtlZlA3dXc2dmtIZGxkcHZOdXU3cHdXZTJiZFUzenNLNEx5SnFsNVQzVDNlTGdlTk1jTk11dUViVGNVQVNmR0x6TkZhV0dzQ0xwSlFCRlo3ZWtlM1pnT096SC0zdXQzYmpZRnl0MzBIdlE?oc=5"
-        }
-      ],
-      "urgency": "immediate"
-    },
-    {
-      "title": "功率半导体再调价，AI电源订单爆满",
-      "summary": "功率半导体厂商再次开启阶梯式调价，有厂商表示AI相关的电源功率订单爆满，产能供不应求。这将改善功率半导体企业的盈利预期，利好IGBT、SiC等细分领域，如士兰微、斯达半导、时代电气等。看多信号。",
-      "reason": "涨价和需求旺盛直接提升公司业绩，带动板块投资情绪。",
+      "title": "功率半导体涨价 AI电源订单爆满",
+      "summary": "功率半导体厂商启动阶梯式调价，有厂商表示AI相关的电源功率订单爆满，产能紧张。这将直接利好国内功率半导体公司，如斯达半导、士兰微、华润微等。AI算力需求爆发带动电源功率器件需求，是中期看多信号。",
+      "reason": "功率半导体涨价反映供需紧张，AI电源订单激增，业绩弹性大，符合行业动态筛选标准。",
       "category": "行业动态",
       "impact_stocks": [
         "功率半导体",
+        "斯达半导",
         "士兰微",
-        "斯达半导"
+        "AI算力"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -40,40 +21,41 @@
           "url": "https://news.10jqka.com.cn/20260627/c677765837.shtml"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "苹果寻求从长鑫存储购买内存芯片",
-      "summary": "外媒报道苹果正寻求获得批准，从中国存储芯片厂商长鑫存储采购DRAM芯片。这将打开国产存储进入苹果供应链的预期，利好长鑫存储相关概念股，如兆易创新、北京君正、深科技等。看多信号。",
-      "reason": "苹果作为全球顶级客户，采购国产芯片将大幅提升国产存储的竞争力和市场空间。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "存储芯片",
-        "兆易创新",
-        "长鑫存储"
-      ],
-      "signal": "bullish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/articles/3775675"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "DeepSeek V4更新，推理速度提升80%",
-      "summary": "DeepSeek发布V4版本更新DSpark，推理速度提升80%。这标志着国产AI大模型性能的持续突破，将提振AI算力、应用板块的情绪，相关个股如寒武纪、中际旭创、科大讯飞等可能受到关注。看多信号。",
-      "reason": "AI技术进步是当前投资主线，性能大幅提升催化板块热度。",
+      "title": "英伟达以太网交换机收入暴增193%",
+      "summary": "英伟达数据中心以太网交换机收入同比暴增193%，悄然登顶全球第一，显示AI组网需求爆发。这利好国内AI算力产业链，特别是光模块（中际旭创、新易盛）、交换机（紫光股份、星网锐捷）及服务器厂商。英伟达的强势表现提振AI板块信心。",
+      "reason": "英伟达核心硬件收入飙升，直接印证AI资本开支高景气，对A股算力板块有映射效应。",
       "category": "行业动态",
       "impact_stocks": [
         "AI算力",
-        "寒武纪",
-        "中际旭创"
+        "光模块",
+        "中际旭创",
+        "紫光股份"
       ],
       "signal": "bullish",
-      "impact_level": 2,
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775674"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "DeepSeek V4更新 推理速度提升80%",
+      "summary": "DeepSeek V4更新DSpark版本，推理速度提升80%，性能大幅升级。这标志着国产大模型持续突破，利好AI应用端，如科大讯飞、金山办公、以及AI agent相关公司。技术迭代加快，有望刺激AI应用商业化落地。",
+      "reason": "国产大模型重要迭代，直接提升AI应用竞争力，属于AI行业重大进展。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "AI应用",
+        "科大讯飞",
+        "金山办公"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
           "name": "华尔街见闻",
@@ -81,8 +63,50 @@
         }
       ],
       "urgency": "hours"
+    },
+    {
+      "title": "苹果寻求从长鑫存储购买内存芯片",
+      "summary": "外媒报道苹果正在寻求获准从长鑫存储购买内存芯片，若获批准，将打破三星、海力士的垄断，对国产存储芯片行业是重大利好。直接受益标的包括兆易创新、长鑫存储（概念股）、澜起科技等。同时，可能加剧中美科技博弈，但短期情绪偏多。",
+      "reason": "苹果作为全球顶级客户，若采购长鑫存储芯片，标志国产存储获得国际认可，属于重大事件。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "存储芯片",
+        "兆易创新",
+        "长鑫存储概念",
+        "澜起科技"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775675"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "光谷出台科技金融新政 力推上市",
+      "summary": "东湖高新区（光谷）出台一揽子科技金融新政，目标上市企业突破100家，包括鼓励并购、设立专项基金等。政策利好光谷板块上市公司，如烽火通信、华工科技、长飞光纤等，同时提振科技股情绪。属于地方性产业扶持政策。",
+      "reason": "地方强力政策支持科技创新和资本运作，对当地上市公司形成直接利好。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "光谷板块",
+        "烽火通信",
+        "华工科技",
+        "长飞光纤"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103249458.html"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 18,
-  "generated_at": "2026-06-27T17:01:13.631648+08:00"
+  "total_fetched": 19,
+  "generated_at": "2026-06-27T17:22:09.312765+08:00"
 }
