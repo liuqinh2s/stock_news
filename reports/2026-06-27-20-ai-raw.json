@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "20",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4336,
+    "completion_tokens": 2850,
+    "total_tokens": 7186
+  },
+  "content_length": 2021,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"下周A股解禁市值逾1000亿元\",\n      \"summary\": \"统计显示，下周A股市场将有超过1000亿元市值的限售股解禁，涉及16只个股解禁比例超过10%。大规模解禁通常带来减持压力，对资金面和市场情绪形成冲击，尤其是高比例解禁个股面临较大抛售风险。这是明确的利空信号，可能影响相关个股及整体市场。投资者需警惕解禁比例高的个股所属行业（如电子、机械等）的短期波动。\",\n      \"reason\": \"大规模限售股解禁属于优先级一中的直接利空因素，直接影响市场供需，是明确bearish信号。\",\n      \"category\": \"资金流向\",\n      \"impact_stocks\": [\"沪深300\", \"解禁比例超10%个股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Tcm9LZzNEeDRvQmZNVXViUDZWZmxsOUpCXzZtNVNVLUxRVVE1RUxWV2VnaGZ2blhORzB3S3NUeHJhQnBVdS1pQVlUSU1hcEh6bnZLMGFTYU1IbWF5NVZjd0Y4eVhVZ01PSWFIWFlKcjgzOWFFMFVRNw?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"2026上半年港股筹资规模创近五年新高\",\n      \"summary\": \"报告显示，2026年上半年港股筹资规模创近五年同期新高，反映港股市场融资功能活跃。虽然对A股直接影响有限，但可能提升资本市场整体景气预期，间接提振投资者情绪。不过需注意港股融资活跃或分流部分资金，整体信号中性，对A股影响偏弱。\",\n      \"reason\": \"属于市场情绪信号，间接影响A股，但非直接利好或利空，信号中性。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"港股\", \"A股整体\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪财经\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE4ta1N4RlZGM1ZzaFQwOWZnUzRsWGFrQTZqSzY3OHNnTXRjNFZTRERBV0FITHhKTHFpTzBJbEdiejRQejVGS0pMenp0MkoxeS1HdFRrb0s5TjhqOGRwMjRaR3Utbm10YTc4OTNsb3dtT0NrcVBMa0Z4Wg?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"AI季度收入首超基础设施折旧\",\n      \"summary\": \"数据显示，AI行业季度收入首次超过基础设施折旧，标志着AI产业开始产生正向现金流，商业化进程加速。这一信号表明AI投资回报周期缩短，利好AI相关产业链，包括算力、芯片、大模型及应用。对A股AI概念股、半导体、计算机等板块构成利好，有望提振相关板块情绪。\",\n      \"reason\": \"AI产业基本面改善，属于行业动态中的积极信号，对A股AI板块有直接利好作用。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"算力\", \"半导体\", \"计算机\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/charts/41959316\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮提供的7条消息中，经去重后仅有3条符合筛选标准，故输出3条。\"\n}"
+}
