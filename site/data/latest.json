@@ -3,75 +3,72 @@
   "hour": "23",
   "news": [
     {
-      "title": "中芯国际市值周增超千亿",
-      "summary": "中芯国际本周市值逆势增长超千亿元，成为A股半导体板块亮点。可能带动半导体产业链估值修复，但需警惕短期获利回吐。看多信号，体现资金对国产替代信心。",
-      "reason": "半导体龙头市值大幅增长，反映市场对AI芯片需求及国产替代的乐观预期，利好半导体板块。",
-      "category": "市场情绪",
+      "title": "A股公司立案实控人失联",
+      "summary": "A股某公司被证监会立案调查，实控人失联超半年，涉及上万名投资者。该事件可能引发市场对中小市值公司治理风险的担忧，对相关个股及壳资源概念构成利空。属于个股层面的负面事件，短期可能引发抛售。",
+      "reason": "公司重大负面事件，直接影响投资者信心，符合优先级一公司公告类。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "壳资源概念",
+        "中小盘股"
+      ],
+      "signal": "bearish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LQ2xlYld6SWVQOHJqT2h6OUllQ0dZT0lEdS01T1M2UDd0MHBMNnNyTDBYazVNMjdudDBEemp1NW1LOHJyS1l5NkJwcHIzaWVNUGEzYUpWSHdqbDZFT0ZYS2JLWXN6dmNramtFNGx5UzlfNWZxVUg5RzhncjE?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "中芯国际市值周增千亿",
+      "summary": "中芯国际本周市值大幅增长超千亿元，逆市走强。反映半导体板块景气度提升，AI芯片需求旺盛。可能带动半导体设备、材料及代工产业链个股走强，属于行业龙头领涨信号。",
+      "reason": "行业龙头重大涨幅，符合优先级二行业动态中机构关注影响，对半导体板块有明确正向指引。",
+      "category": "行业动态",
       "impact_stocks": [
         "中芯国际",
-        "半导体",
+        "半导体设备",
         "AI芯片"
       ],
       "signal": "bullish",
       "impact_level": 3,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnXzZISWRCTDBKY0otcjZiVmNEVDdQMVhQVWs2S3pJRHdES3YwNG9hekxtLWJhMENkZ05EUHlrb3k3ZDVOUHhYYk1SODA3NFFua3F1azB3YUl3S0c2dkExZGxqVlQ3dzNRcmhvNXRkZ2Uwckp4YkVDYw"
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnXzZISWRCTDBKY0otcjZiVmNEVDdQMVhQVWs2S3pJRHdES3YwNG9hekxtLWJhMENkZ05EUHlrb3k3ZDVOUHhYYk1SODA3NFFua3F1azB3YUl3S0c2dkExZGxqVlQ3dzNRcmhvNXRkZ2Uwckp4YkVDYw?oc=5"
         }
       ],
       "urgency": "hours"
     },
     {
-      "title": "欧盟强硬回应关税威胁",
-      "summary": "欧盟针对特朗普关税威胁表态将坚决捍卫自身权利，可能引发新一轮贸易摩擦。对A股外贸出口板块构成压力，尤其机电、纺织等对欧出口敏感行业。偏空信号。",
-      "reason": "贸易摩擦升级风险，压制出口型企业盈利预期，短期利空外贸相关板块。",
-      "category": "宏观经济",
+      "title": "港股IPO募资活跃",
+      "summary": "今年上半年港股前十大IPO募资额中，A+H公司占据主导，基石投资者多元化。港股融资活跃度回升，可能提振A股科技股估值，尤其对同时在A+H上市的公司形成正向联动。",
+      "reason": "市场融资环境信号，关注度中等，可作为市场情绪参考。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "外贸出口",
-        "机电",
-        "纺织"
-      ],
-      "signal": "bearish",
-      "impact_level": 3,
-      "sources": [
-        {
-          "name": "同花顺",
-          "url": "https://news.10jqka.com.cn/20260627/c677767982.shtml"
-        }
-      ],
-      "urgency": "hours"
-    },
-    {
-      "title": "A+H公司霸榜港股IPO前十大",
-      "summary": "2026年上半年港股IPO筹资规模创近五年新高，前十大IPO中多为A+H股公司，基石投资者趋于多元化。对A股资金面有一定分流压力，但利好相关公司双市场估值联动。",
-      "reason": "港股IPO活跃分流部分资金，但A+H上市提升公司国际融资能力，需关注后续资金流向。",
-      "category": "资金流向",
-      "impact_stocks": [
-        "A+H股",
-        "港股通",
-        "沪深300"
+        "A+H概念",
+        "港股科技股"
       ],
       "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wWWhiNTlYZHZOTWY2Ym03eXJLbTFvaV9RejZTd29nX1RwMS1FTzVCVGRDNnNFV2FnWU80c1l0MHlNc0pTWTYzb2I2Y0NWX0ViaWtVcXNUZHZBdWNwMHFVaWxGcFJvcmozWVFWTXJJUFJIOFRiRWc"
+          "name": "新浪网",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wWWhiNTlYZHZOTWY2Ym03eXJLbTFvaV9RejZTd29nX1RwMS1FTzVCVGRDNnNFV2FnWU80c1l0MHlNc0pTWTYzb2I2Y0NWX0ViaWtVcXNUZHZBdWNwMHFVaWxGcFJvcmozWVFWTXJJUFJIOFRiRWc?oc=5"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "长虹华丰打高端互联突围战",
-      "summary": "长虹华丰科技发布二十余款新品，聚焦高端连接器、高速背板等前沿赛道，助力国产替代。利好军工电子、数据中心、通信设备等板块，看多信号。",
-      "reason": "新品发布体现国产高端连接器突破，契合AI算力与军工信息化需求，提振相关产业链预期。",
+      "title": "长虹华丰新品发布利好",
+      "summary": "长虹华丰科技集中发布二十余款高端互联新品，聚焦五大前沿赛道。公司为军工连接器龙头，新品有望提升市场份额，对军工电子、高端制造板块构成利好。",
+      "reason": "公司产品进展符合优先级二行业动态，影响个股及板块。",
       "category": "行业动态",
       "impact_stocks": [
         "长虹华丰",
-        "连接器",
         "军工电子",
-        "数据中心"
+        "连接器"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -81,28 +78,9 @@
           "url": "https://www.yicai.com/news/103249557.html"
         }
       ],
-      "urgency": "days"
-    },
-    {
-      "title": "A股又一公司被立案实控人失联",
-      "summary": "某A股公司被证监会立案调查，实控人已失联半年，涉及上万名投资者。该事件警示个股治理风险，但影响范围有限，偏空信号。",
-      "reason": "个股暴雷事件，虽非系统性风险，但需警惕类似治理问题公司，对相关板块情绪有抑制作用。",
-      "category": "公司公告",
-      "impact_stocks": [
-        "ST板块",
-        "小盘股"
-      ],
-      "signal": "bearish",
-      "impact_level": 1,
-      "sources": [
-        {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LQ2xlYld6SWVQOHJqT2h6OUllQ0dZT0lEdS01T1M2UDd0MHBMNnNyTDBYazVNMjdudDBEemp1NW1LOHJyS1l5NkJwcHIzaWVNUGEzYUpWSHdqbDZFT0ZYS2JLWXN6dmNramtFNGx5UzlfNWZxVUg5RzhncjE"
-        }
-      ],
       "urgency": "hours"
     }
   ],
   "total_fetched": 9,
-  "generated_at": "2026-06-27T23:01:16.434999+08:00"
+  "generated_at": "2026-06-27T23:07:30.018851+08:00"
 }
