@@ -3,15 +3,35 @@
   "hour": "04",
   "news": [
     {
+      "title": "ST信通控股股东股份司法处置",
+      "summary": "ST信通（600289）控股股东一致行动人持有的公司股份将被司法处置，可能导致控制权变更或进一步抛压。该公司本身已处于ST状态，此事件加剧了退市风险。对通信板块及ST股情绪造成负面影响。做空信号，建议投资者回避。",
+      "reason": "个股重大风险事件，属于公司公告范畴，直接影响股价，历史消息中无重复。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "ST信通",
+        "ST板块",
+        "通信"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "东方财富",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUeVdXbU5mTDl1UjZEcmNuZmlyRHdza2RsX05ESlhRX2NGSFVuN0dGYjRuNVhvcm9NTkh3ZmtQeV9NRHhjYlRhY1lpY0ktSWFUQk11OEltNjJ5RUhZWG5NYklJOFJwMzZETmlv?oc=5"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
       "title": "宁波远洋拟定增募资10.86亿",
-      "summary": "宁波远洋（601022）公告拟非公开发行股票募资不超过10.86亿元，用于补充流动资金及偿还债务。该定增方案需经股东大会及证监会核准，短期对股价影响中性，长期若资金改善运营，利好公司发展。影响板块为航运物流，个股宁波远洋。信号中性。",
-      "reason": "公司重大融资公告，可能影响市场对航运板块的预期，但金额较小，属于常规事件。",
+      "summary": "宁波远洋（601022）公告拟定向增发募资不超过10.86亿元，用于补充流动资金或项目建设。定增通常对现有股东产生稀释效应，短期偏空，但若资金用于优质项目则长期利好。当前航运板块处于周期波动中，需关注后续进展。中性偏空信号。",
+      "reason": "公司再融资事件，影响股本结构和资金面，属于公司公告，历史消息中无重复。",
       "category": "公司公告",
       "impact_stocks": [
         "宁波远洋",
-        "航运物流"
+        "航运板块"
       ],
-      "signal": "neutral",
+      "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
@@ -19,16 +39,16 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BREdpd1h2d2k0MjhPUFEzQm1RYzlKZUNDR2xxcjRNZWg5NGZGUlFCdUY2T3Y3cXpnS3NhREN3a0ZaeXpDdmgzTTdmNDNDUE1IZ0k1SkljakJ4ekpMYjl5YU90ZDhnUUp0MTZZ?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     },
     {
-      "title": "福莱新材跌停登龙虎榜",
-      "summary": "福莱新材（605488）因股价跌停登上龙虎榜，龙虎榜数据显示资金净流出较大。公司主营功能性涂布复合材料，近期无重大利空，跌停或由市场情绪或资金博弈导致。该事件暗示短期抛压较重，对个股形成情绪利空，影响新材料板块。信号看空。",
-      "reason": "市场情绪信号，龙虎榜异动反映游资或机构动向，可能引发散户跟风。",
+      "title": "福莱新材跌停上榜龙虎榜",
+      "summary": "福莱新材（605488）因股价跌停而登上龙虎榜，显示短线资金出逃或机构抛售。作为近期次新股，该异动可能引发市场对次新股板块的担忧。做空信号，提示短期风险。",
+      "reason": "龙虎榜异动属于市场情绪信号（优先级三），但对于次新股有参考价值，历史消息中无重复。",
       "category": "市场情绪",
       "impact_stocks": [
         "福莱新材",
-        "新材料"
+        "次新股"
       ],
       "signal": "bearish",
       "impact_level": 2,
@@ -41,6 +61,6 @@
       "urgency": "hours"
     }
   ],
-  "total_fetched": 6,
-  "generated_at": "2026-06-28T04:01:32.799288+08:00"
+  "total_fetched": 10,
+  "generated_at": "2026-06-28T04:49:28.885182+08:00"
 }
