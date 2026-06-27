@@ -3,45 +3,45 @@
   "hour": "19",
   "news": [
     {
-      "title": "美伊冲突升级威胁霍尔木兹海峡",
-      "summary": "联合海上信息中心将霍尔木兹海峡威胁等级提升，此前伊朗革命卫队已对美军据点实施打击，双方交火打破停火预期。地缘风险加剧可能推升国际油价，利好A股石油石化板块，但同时加剧市场避险情绪，短线利空整体市场。",
-      "reason": "地缘冲突直接扰动能源供应预期，影响油价及相关板块，需关注持续性。",
-      "category": "宏观经济",
+      "title": "某A股公司业绩暴增10000%",
+      "summary": "一则A股公司业绩暴增10000%的消息刷屏，具体公司尚未披露，但可能涉及科技或新能源领域。该消息若属实，将显著提振市场情绪，带动相关板块个股上涨。属于重大利好信号，但需警惕炒作风险。",
+      "reason": "业绩暴增幅度极大，属于公司重大利好，可能引发市场热炒，影响相关板块情绪。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "石油石化",
-        "中国石油",
-        "中国石化"
+        "相关个股",
+        "科技板块",
+        "新能源"
       ],
-      "signal": "bearish",
+      "signal": "bullish",
       "impact_level": 4,
       "sources": [
         {
-          "name": "华尔街见闻",
-          "url": "https://wallstreetcn.com/livenews/3125588"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaQW5yMnh6QUNNRUl0ajJ1dk9nQkZoX3JhNmlFdVlJYVA5d0VYcVRkUVJNU04weWRteW1aS094WUpaVHE1V2tSWHVWVGJERjVzbEJfMEhHUGZ3Zmc3c29KN2NTZ0loZVlRTFZ3LWpVa3Eydzc1NHc?oc=5"
         }
       ],
       "urgency": "immediate"
     },
     {
-      "title": "A股大牛股业绩暴增10000%",
-      "summary": "某A股公司披露业绩预告，净利润同比暴增超10000%，引发市场关注。该股可能为小市值题材股，叠加近期市场情绪低迷，此类极端业绩容易引发游资炒作，但需警惕基本面可持续性，短线偏多但风险较大。",
-      "reason": "极端业绩增长吸引眼球，可能带动相关题材炒作，但需核实公司质地。",
-      "category": "公司公告",
+      "title": "招商证券：铜价短期承压中长期看好",
+      "summary": "招商证券研报指出，铜价短期需关注流动性收紧与地缘风险，中长期供需格局仍偏紧。该观点对铜板块影响中性偏空，短期可能压制铜业股，但中长期逻辑不变。",
+      "reason": "券商对铜价的分析影响有色金属板块情绪，短期利空但中长期利好。",
+      "category": "行业动态",
       "impact_stocks": [
-        "相关个股（待定）",
-        "题材炒作"
+        "铜业股",
+        "有色金属"
       ],
-      "signal": "bullish",
+      "signal": "neutral",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪网",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaQW5yMnh6QUNNRUl0ajJ1dk9nQkZoX3JhNmlFdVlJYVA5d0VYcVRkUVJNU04weWRteW1aS094WUpaVHE1V2tSWHVWVGJERjVzbEJfMEhHUGZ3Zmc3c29KN2NTZ0loZVlRTFZ3LWpVa3Eydzc1NHc?oc=5"
+          "name": "同花顺财经",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wMmx6dWZvQkhkSlNwbDU5Y3JpSjFBWF9sWDlpZmxTcjlqU2JseWoya1ZxTy01ZEVTV0xNZ2NVemRYMTRMU2t1Uko3NHNNcmVzSXZlZGk2X1UyLUluT2c?oc=5"
         }
       ],
-      "urgency": "hours"
+      "urgency": "days"
     }
   ],
-  "total_fetched": 8,
-  "generated_at": "2026-06-27T19:01:20.292391+08:00"
+  "total_fetched": 4,
+  "generated_at": "2026-06-27T19:20:51.844769+08:00"
 }
