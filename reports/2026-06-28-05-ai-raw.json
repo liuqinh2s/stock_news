@@ -2,13 +2,13 @@
   "date": "2026-06-28",
   "hour": "05",
   "model": "deepseek-v4-flash",
-  "attempt": "[deepseek] 4/6 策略=完整内容 retry=0",
+  "attempt": "[deepseek] 6/6 策略=仅标题（无历史） retry=0",
   "finish_reason": "stop",
   "usage": {
-    "prompt_tokens": 4416,
-    "completion_tokens": 1924,
-    "total_tokens": 6340
+    "prompt_tokens": 2461,
+    "completion_tokens": 142,
+    "total_tokens": 2603
   },
-  "content_length": 1954,
-  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"新赛股份被证监会立案调查\",\n      \"summary\": \"新赛股份（600540）因信息披露违规被证监会立案。信披违规通常导致股价承压，投资者需警惕相关风险。该事件属于监管调查，对农业板块及个股构成利空信号。\",\n      \"reason\": \"证监会立案调查属于优先级一的监管政策，对个股及板块有负面影响。\",\n      \"category\": \"监管政策\",\n      \"impact_stocks\": [\"新赛股份\", \"农业板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTFAzSGREX1NHZl9zRWdvbTB2cm9jSVl4MFBEUjJ6ZlIwaHdJYkVCRldhV0pta29CTTBhVTQxZzNxbFBIYUVnWjRaUUwya0owOWpxOGZqTWJhRXk3MzZ0Z0MzMDlyWTAtb0VSZ2N3?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"福莱新材因跌停登上龙虎榜\",\n      \"summary\": \"福莱新材（605488）因股价跌停上榜龙虎榜，显示短期资金博弈激烈，跌停可能由利空因素引发或机构出逃，对个股后续走势构成压力，但具体买卖席位未披露，需进一步观察。\",\n      \"reason\": \"龙虎榜异动属于市场情绪信号，跌停上榜可能预示资金出逃，对个股短期影响较大。\",\n      \"category\": \"市场情绪\",\n      \"impact_stocks\": [\"福莱新材\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTE0xMmctZFFUcDRtUVJGYzVHRllwZGg4TzJkZXhhcE1LUHFKajEyUTVIeW9ENkdvb1hwM0QydldGZnlWaVcwcDc0REM3aWtkcXVrd2ptSDNYMHlIRnNsYzJzUnozVGtmU2FUeE40?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"宁波远洋拟定增募资10.86亿\",\n      \"summary\": \"宁波远洋（601022）计划非公开发行股票募集资金10.86亿元，用于补充流动资金或项目投资。定增将摊薄现有股东权益，短期偏利空，但资金到位后可能促进业务发展，需关注具体投向。\",\n      \"reason\": \"公司定增属于重大融资事件，影响估值和股价，对航运板块及个股构成中性偏空信号。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"宁波远洋\", \"航运板块\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"东方财富\",\n          \"url\": \"https://news.google.com/rss/articles/CBMia0FVX3lxTE9BREdpd1h2d2k0MjhPUFEzQm1RYzlKZUNDR2xxcjRNZWg5NGZGUlFCdUY2T3Y3cXpnS3NhREN3a0ZaeXpDdmgzTTdmNDNDUE1IZ0k1SkljakJ4ekpMYjl5YU90ZDhnUUp0MTZZ?oc=5\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮抓取素材多为常规公司动态，有效消息较少，筛选出3条具有交易决策价值的消息。\"\n}"
+  "content_length": 93,
+  "raw_content": "{\"news\": [], \"note\": \"当前抓取的5条消息均为个股日常公告（股东会决议、派息、募资赎回、政府补助等），按照筛选标准属于排除项，无重大市场影响，因此未选入任何消息。\"}"
 }
