@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-27",
+  "hour": "19",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 4745,
+    "completion_tokens": 1829,
+    "total_tokens": 6574
+  },
+  "content_length": 1873,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"美伊冲突升级威胁霍尔木兹海峡\",\n      \"summary\": \"联合海上信息中心将霍尔木兹海峡威胁等级提升，此前伊朗革命卫队已对美军据点实施打击，双方交火打破停火预期。地缘风险加剧可能推升国际油价，利好A股石油石化板块，但同时加剧市场避险情绪，短线利空整体市场。\",\n      \"reason\": \"地缘冲突直接扰动能源供应预期，影响油价及相关板块，需关注持续性。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"石油石化\", \"中国石油\", \"中国石化\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 4,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/livenews/3125588\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"A股大牛股业绩暴增10000%\",\n      \"summary\": \"某A股公司披露业绩预告，净利润同比暴增超10000%，引发市场关注。该股可能为小市值题材股，叠加近期市场情绪低迷，此类极端业绩容易引发游资炒作，但需警惕基本面可持续性，短线偏多但风险较大。\",\n      \"reason\": \"极端业绩增长吸引眼球，可能带动相关题材炒作，但需核实公司质地。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"相关个股（待定）\", \"题材炒作\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪网\",\n          \"url\": \"https://news.google.com/rss/articles/CBMidkFVX3lxTFBaQW5yMnh6QUNNRUl0ajJ1dk9nQkZoX3JhNmlFdVlJYVA5d0VYcVRkUVJNU04weWRteW1aS094WUpaVHE1V2tSWHVWVGJERjVzbEJfMEhHUGZ3Zmc3c29KN2NTZ0loZVlRTFZ3LWpVa3Eydzc1NHc?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"海天味业回购股份\",\n      \"summary\": \"海天味业发布关于回购A股股份事项的前十大股东及持股情况公告，表明公司正在进行股份回购。回购通常传递管理层看好公司价值的信号，短期对股价有支撑，属于利多信号，但金额及进度待观察。\",\n      \"reason\": \"回购公告属于公司主动行为，通常偏多，但需结合市场整体环境。\",\n      \"category\": \"公司公告\",\n      \"impact_stocks\": [\"海天味业\", \"食品饮料\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"新浪网\",\n          \"url\": \"https://news.google.com/rss/articles/CBMieEFVX3lxTE9Icy1iQkE5d3JvMzd5b3RydUpxT2RMRUprTXZHTnZoTUF2NkZuTnkyNkNQT05USGxIelFCQVFNUHN0XzFBQnZlb1pOcWo3c1Q4SFR4SFhrZmhHZVV0eWZUZTdyY05JRFNLVGtiZmk2RUNpS0xaOEJYSg?oc=5\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    }\n  ],\n  \"note\": \"本轮素材中多数消息与历史重复，仅筛选出3条有价值的新消息。\"\n}"
+}
