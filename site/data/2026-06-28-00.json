@@ -3,18 +3,37 @@
   "hour": "00",
   "news": [
     {
-      "title": "MWC上海：通信业寻找AI船票",
-      "summary": "在MWC上海大会上，通信行业普遍探讨从传统连接业务向AI驱动的转型，包括Token经营、AI原生网络等。AI洪流下，运营商和设备商面临ARPU下降和投资回报压力，但AI算力需求为行业带来新增长点。该消息对通信板块（尤其是AI算力网络、光模块等）有中长期利好，但短期缺乏直接订单或政策刺激。信号中性偏多。",
-      "reason": "反映了通信行业的重要趋势，AI与通信融合是当前热点，对相关概念股有催化作用。",
+      "title": "A股又一公司被立案",
+      "summary": "某A股上市公司因涉嫌信息披露违法违规被证监会立案调查，涉及上万名投资者。该事件可能引发个股连续跌停，并波及相关板块（如中小盘股），短期内市场避险情绪上升。信号利空，投资者应警惕持仓风险。",
+      "reason": "上市公司被立案调查属于重大利空事件，直接影响个股股价，可能引发恐慌抛售，符合优先级一。",
+      "category": "公司公告",
+      "impact_stocks": [
+        "被立案公司",
+        "中小盘股"
+      ],
+      "signal": "bearish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Da2RsUkcydnJHWlFYdkNubW5BcGtUTEtJaUkxa2pCcUxwbzk4b0wyQ1R1RXFtWWE5MFdlRDhWb3oyZ0poRzB2VF9HeVYxODNaalpKMGp6RVlpbk8wTnFiNmZ4RWZGdWFQMi0xSmxfeEgxUDJUa2c?oc=5"
+        }
+      ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "MWC上海聚焦AI通信变革",
+      "summary": "2026年MWC上海大会上，通信行业集体探讨AI驱动下的网络转型，华为、中兴等企业展示最新技术。AI与通信融合加速，利好光模块、算力、5G应用等板块。信号正面，预计短期催化相关概念股。",
+      "reason": "行业重大展会动态，AI+通信是当前热点，可能引发新一轮炒作，符合优先级二行业政策变动。",
       "category": "行业动态",
       "impact_stocks": [
-        "通信板块",
-        "AI算力",
+        "AI概念",
+        "通信设备",
         "光模块",
-        "运营商"
+        "算力"
       ],
-      "signal": "neutral",
-      "impact_level": 2,
+      "signal": "bullish",
+      "impact_level": 3,
       "sources": [
         {
           "name": "第一财经",
@@ -24,14 +43,14 @@
       "urgency": "days"
     },
     {
-      "title": "华为乾崑与猛士推智能越野车",
-      "summary": "华为乾崑与猛士联手打造智能越野车，尊界新车售价138.8万元起。同时东风股份发布首个无人物流车品牌。这显示智能驾驶和无人配送在商用车领域加速落地。对华为汽车产业链、无人驾驶、物流车相关个股有正面影响，但车型销量存不确定性。信号偏多，影响板块包括智能驾驶、华为汽车概念。",
-      "reason": "华为合作的新车发布是汽车行业热点，对相关概念股有短期刺激。",
+      "title": "华为联手猛士推智能越野车",
+      "summary": "华为乾崑与猛士联合打造智能越野车，尊界新车售价138.8万元起，搭载华为高阶智驾系统。该合作强化华为汽车生态，利好华为汽车概念、智能驾驶及高端零部件供应商。但售价较高，销量预期有限，信号中性偏多。",
+      "reason": "华为合作新车发布，属于行业动态，对华为汽车产业链有催化作用，符合优先级二行业政策变动。",
       "category": "行业动态",
       "impact_stocks": [
-        "华为汽车概念",
+        "华为汽车",
         "智能驾驶",
-        "无人配送"
+        "东风汽车"
       ],
       "signal": "bullish",
       "impact_level": 2,
@@ -44,6 +63,6 @@
       "urgency": "days"
     }
   ],
-  "total_fetched": 8,
-  "generated_at": "2026-06-28T00:02:56.911216+08:00"
+  "total_fetched": 5,
+  "generated_at": "2026-06-28T00:56:30.434404+08:00"
 }
