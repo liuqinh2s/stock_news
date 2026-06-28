@@ -3,14 +3,54 @@
   "hour": "14",
   "news": [
     {
-      "title": "Anthropic大模型恢复访问",
-      "summary": "美国即将允许Anthropic恢复其最新大模型Fable 5访问权限，此前因监管问题受限。该消息利好AI板块，尤其是与Anthropic有合作或类似技术的公司，如科大讯飞、商汤科技等。看多信号。",
-      "reason": "AI行业重磅进展，恢复访问意味着监管放松，利好AI概念股。",
+      "title": "电子行业利润增103.9%",
+      "summary": "周末要闻回顾显示，1-5月份电子行业利润同比增长103.9%，反映出半导体、消费电子等领域景气度持续高涨。电子行业作为科技核心板块，利润大增将提振市场对中报业绩的信心，尤其利好芯片设计、封测、消费电子等细分领域。该数据属于宏观行业数据，信号偏多，预计下周电子板块将迎来资金关注。",
+      "reason": "历史消息中无此具体数据，是增量利好，直接反映行业高景气，对A股电子板块有正向催化。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "电子",
+        "半导体",
+        "消费电子"
+      ],
+      "signal": "bullish",
+      "impact_level": 4,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260628/c677769982.shtml"
+        }
+      ],
+      "urgency": "hours"
+    },
+    {
+      "title": "智元机器人第15000台下线",
+      "summary": "智元机器人宣布第15000台通用具身机器人正式量产下线，标志着人形机器人产业化加速。该事件直接利好人形机器人产业链，包括电机、减速器、传感器、AI算法等核心供应商。智元作为国内头部机器人企业，量产规模提升将带动相关零部件需求，相关概念股有望受益。信号看多机器人板块，中期利好。",
+      "reason": "历史消息中无此内容，是机器人行业重大进展，对A股机器人概念股有直接刺激。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "机器人",
+        "智能制造",
+        "减速器"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260628/c677770049.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "美国拟恢复Anthropic模型访问",
+      "summary": "美国即将允许Anthropic恢复其最新大模型Fable 5访问权限，表明AI监管态度边际放松。这将对全球AI产业情绪形成提振，国内AI概念股如大模型、算力、应用等有望跟涨。此外，OpenAI近期亦发布定制芯片，AI产业竞争加速，利好算力需求。信号看多AI板块。",
+      "reason": "历史消息中有AI周报，但具体恢复访问权限是新增动态，对AI板块情绪有直接推动。",
       "category": "行业动态",
       "impact_stocks": [
         "AI概念",
-        "科大讯飞",
-        "商汤科技"
+        "大模型",
+        "算力"
       ],
       "signal": "bullish",
       "impact_level": 3,
@@ -20,9 +60,68 @@
           "url": "https://news.10jqka.com.cn/20260628/c677769829.shtml"
         }
       ],
-      "urgency": "immediate"
+      "urgency": "hours"
+    },
+    {
+      "title": "3家A股公司获机构调研",
+      "summary": "近期3家A股公司获得多家机构集中调研，调研往往意味着机构关注度提升，后续可能带来增持或评级上调。虽然未披露具体公司，但机构调研密集的区域如科技、新能源等板块值得关注。信号中性偏多，暗示机构资金可能布局。",
+      "reason": "历史消息中未具体提及3家公司调研，属于资金流向信号，对个股可能有催化，但影响有限。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "沪深300",
+        "中小盘"
+      ],
+      "signal": "neutral",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wX0ZPLU9CMnkxR2p4b3MzblRKM2J6Q3ZKT1o1b002VER1WmNJT19sZkN6aHA4cE9VS0U5TmRaaV9uSDJSWWJuOU5lUFJuRmdKYXItTDRUQ0w5ZWZIUjZhb0FEM05jTlp2SlMyaWdpWk1rUUs5WEZMaQ?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "电风扇出口欧洲订单增两成",
+      "summary": "中国今年前5个月向欧洲出口电风扇猛增，部分厂商订单增两成。受欧洲高温热浪影响，空调、电扇等制冷设备需求爆发，叠加关税优惠，出口型家电企业受益明显。该消息利好小家电、空调等出口产业链，相关个股短期有业绩支撑。信号看多家电板块。",
+      "reason": "历史消息中有欧洲热浪和空调爆卖，但电风扇出口增两成是具体数据，强化了出口利好逻辑。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "家电",
+        "小家电",
+        "出口"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103249697.html"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "券商：七月科技仍为主线",
+      "summary": "华金证券发布七月策略，认为基本面主导，科技仍是主线，聚焦绩优科技和周期行业。该观点与市场当前主线吻合，科技板块（AI、半导体、算力）在调整后有望重获资金青睐。信号偏多，但属于券商观点，需结合市场实际走势。",
+      "reason": "历史消息中有众多券商观点，但此条明确给出七月主线判断，具有时效性参考价值。",
+      "category": "市场情绪",
+      "impact_stocks": [
+        "科技",
+        "半导体",
+        "AI概念"
+      ],
+      "signal": "bullish",
+      "impact_level": 2,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUE1KMVM4YzFQNGU3QXBFeWQ4YjhIWlIwZ1pDOEd5dm0taWluVnRFaEstNnU2MVpBaERsaVRxX1RwNXVRTmN5TXQ1SEd3TWkzXy1TdkRCMXpwSWtvd0lxV1pnVlFlMmxoVjFhUWRYUU1MOTRnU1YtcURuaGcxWXpYSkFXaEN4cERoQTV6S1BTS2R0U05xbjlsMlRfU1lmT1VGWUtoQVMwQzM1N1cxVnR1VmItbWo1dDFrOElIekFoUWlERzhLc1NsYlpVdEJJak0?oc=5"
+        }
+      ],
+      "urgency": "days"
     }
   ],
-  "total_fetched": 25,
-  "generated_at": "2026-06-28T14:01:28.500026+08:00"
+  "total_fetched": 27,
+  "generated_at": "2026-06-28T14:53:49.311914+08:00"
 }
