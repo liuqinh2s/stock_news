@@ -1,36 +1,64 @@
 {
   "date": "2026-06-28",
   "hour": "21",
-  "total": 37,
-  "fetched_at": "2026-06-28T21:00:42.393181+08:00",
+  "total": 42,
+  "fetched_at": "2026-06-28T21:12:35.010904+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "近30家A股上市公司本周披露并购重组最新公告 银河微电拟收购恒泰柯100%股权明起复牌 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4zbzA1Y3dnbXVhamU2MzJaMHo3YS1zMDJLVnNHZGowS1RDc09SUUh3MF9HVDBPdUY4VWdMU3dkNnM4RDZIbktmNGVfWVJISVlFMTlfMXVoYmZEVzhEWUpZbzlHSktFMU52SHItTkozdnI4N01IbVpBWQ?oc=5\" target=\"_blank\">近30家A股上市公司本周披露并购重组最新公告 银河微电拟收购恒泰柯100%股权明起复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股年中“红包雨”，来了！下周还有800亿元在路上 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5RV2RyTWk2bEctdVNHM214MlhvMUlMR1czOG9TWko1V3JOMVJyUC1VM2NDNnNwR2daNXY4T3lHOEVrYlFNaWVwcGdaVVdNeVk3QWMzOXpWWmdxWll1d2w3UTExdjB3T2ZodnpfalA4RTJ2ZElHODNmag?oc=5\" target=\"_blank\">A股年中“红包雨”，来了！下周还有800亿元在路上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RV2RyTWk2bEctdVNHM214MlhvMUlMR1czOG9TWko1V3JOMVJyUC1VM2NDNnNwR2daNXY4T3lHOEVrYlFNaWVwcGdaVVdNeVk3QWMzOXpWWmdxWll1d2w3UTExdjB3T2ZodnpfalA4RTJ2ZElHODNmag?oc=5",
+      "published": "Sun, 28 Jun 2026 12:58:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "最新公告！5家A股公司，明日停牌 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5YQVYxYXVTZ0U5Y00yUS1VZHRjRU10Z3V2YjFuSEtYQklHSEo5Z2ppZmRGQkNUWUVjUGd6RDBnQTRoVHBFbEF0NmhSMzFhNHJNcFF6X25QTDRaR3doaWpQRU9jMHZKemx2Z1Jzd3I0dmVuSWVPbFE?oc=5\" target=\"_blank\">最新公告！5家A股公司，明日停牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YQVYxYXVTZ0U5Y00yUS1VZHRjRU10Z3V2YjFuSEtYQklHSEo5Z2ppZmRGQkNUWUVjUGd6RDBnQTRoVHBFbEF0NmhSMzFhNHJNcFF6X25QTDRaR3doaWpQRU9jMHZKemx2Z1Jzd3I0dmVuSWVPbFE?oc=5",
+      "published": "Sun, 28 Jun 2026 12:26:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股最新融资余额突破3万亿元 融资资金加仓先进封装、存储板块 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4tNHVwcFM1Z2w5Rmc3WTFMakxndTdaZmI0eXZkUEt0UFhZUXhMS0kxQldrT1dYNC1KOHBMbUlHcm50eElaYXpfOE9raUViWllRa3hfTWw2OWhRRFFINmtTZThCQUQ3Ni1HQS1jWnpzVkVtUFlwUUlGVw?oc=5\" target=\"_blank\">A股最新融资余额突破3万亿元 融资资金加仓先进封装、存储板块</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tNHVwcFM1Z2w5Rmc3WTFMakxndTdaZmI0eXZkUEt0UFhZUXhMS0kxQldrT1dYNC1KOHBMbUlHcm50eElaYXpfOE9raUViWllRa3hfTWw2OWhRRFFINmtTZThCQUQ3Ni1HQS1jWnpzVkVtUFlwUUlGVw?oc=5",
+      "published": "Sun, 28 Jun 2026 11:53:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "多只A股发布股价异动公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRGxMMjRidHpaU05lamdMbDZXQ0NrRjhsZDk0aGxCU0I0V2FZaGxRLUxPX29lX1pod0NGaUtWZWtEN1czUk11RVJnYXVncVVPY1R5N05vdEplU0RzZDR6bDVfS1l3aFJjYm0wRzNLaUpabmRyV1RyMQ?oc=5\" target=\"_blank\">多只A股发布股价异动公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRGxMMjRidHpaU05lamdMbDZXQ0NrRjhsZDk0aGxCU0I0V2FZaGxRLUxPX29lX1pod0NGaUtWZWtEN1czUk11RVJnYXVncVVPY1R5N05vdEplU0RzZDR6bDVfS1l3aFJjYm0wRzNLaUpabmRyV1RyMQ?oc=5",
+      "published": "Sun, 28 Jun 2026 12:30:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "近30家A股上市公司本周披露并购重组最新公告 银河微电拟收购恒泰柯100%股权明起复牌 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4zbzA1Y3dnbXVhamU2MzJaMHo3YS1zMDJLVnNHZGowS1RDc09SUUh3MF9HVDBPdUY4VWdMU3dkNnM4RDZIbktmNGVfWVJISVlFMTlfMXVoYmZEVzhEWUpZbzlHSktFMU52SHItTkozdnI4N01IbVpBWQ?oc=5\" target=\"_blank\">近30家A股上市公司本周披露并购重组最新公告 银河微电拟收购恒泰柯100%股权明起复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zbzA1Y3dnbXVhamU2MzJaMHo3YS1zMDJLVnNHZGowS1RDc09SUUh3MF9HVDBPdUY4VWdMU3dkNnM4RDZIbktmNGVfWVJISVlFMTlfMXVoYmZEVzhEWUpZbzlHSktFMU52SHItTkozdnI4N01IbVpBWQ?oc=5",
       "published": "Sun, 28 Jun 2026 11:59:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股最新融资余额突破3万亿元 融资资金加仓先进封装、存储板块 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oM2dwUl9WenZORVF6NFdwZWp5bklDUExnNFFQS042RE1QQVJ3TWl4OTdjcHYzRHhSWUJnMWEyQmNmTENLaXpwVW1EVFQ3YkNOcGRiaHhqY19hSWRjUHdiWkFUM2JVVnl0WUh0ZmRzR1RpVGF2RlJRWA?oc=5\" target=\"_blank\">A股最新融资余额突破3万亿元 融资资金加仓先进封装、存储板块</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oM2dwUl9WenZORVF6NFdwZWp5bklDUExnNFFQS042RE1QQVJ3TWl4OTdjcHYzRHhSWUJnMWEyQmNmTENLaXpwVW1EVFQ3YkNOcGRiaHhqY19hSWRjUHdiWkFUM2JVVnl0WUh0ZmRzR1RpVGF2RlJRWA?oc=5",
-      "published": "Sun, 28 Jun 2026 11:48:00 GMT"
+      "title": "下周A股解禁市值超千亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1FSUThObTkxMzVFcVJkRkNWeUhhdUlSODd5V2pSTWZVZXNGa21XdlBSdnpBNWxrcW5HM3lOYUsxeXY1UkJMTnRYWE54MW5RMFV1Y2NkMC1xSHgweFMyNlBDWnZ0RDdBc3E1WjQ2VUZxWndGQ1JobHRBT3Jyd0RCRkZQekFVam1G?oc=5\" target=\"_blank\">下周A股解禁市值超千亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1FSUThObTkxMzVFcVJkRkNWeUhhdUlSODd5V2pSTWZVZXNGa21XdlBSdnpBNWxrcW5HM3lOYUsxeXY1UkJMTnRYWE54MW5RMFV1Y2NkMC1xSHgweFMyNlBDWnZ0RDdBc3E1WjQ2VUZxWndGQ1JobHRBT3Jyd0RCRkZQekFVam1G?oc=5",
+      "published": "Sun, 28 Jun 2026 12:22:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "科技放量调整，A股单周成交创新高！资金逢跌加码创业板人工智能ETF！电子板块分化，农牧渔逆市崛起 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFdEekx5Zm5kRkpvTjV2ZEhLSnFpUHV1TU1OODVXMVE1eS1RcHRObkRubG5oeElHZXVKSXpCZVF1RHpJVnhCTlBPTEZoVHBGSWNoWHNEVmpsdWFvNGZ5UXNRWGI0a2ZnT3RaSXlhNlE1WkgzY1BLbksyY0xwRENsZW9RdU5PQQ?oc=5\" target=\"_blank\">科技放量调整，A股单周成交创新高！资金逢跌加码创业板人工智能ETF！电子板块分化，农牧渔逆市崛起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "A股、H股股价齐跌，可孚医疗打出回购加增持组合拳 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2RVTmxVYU9PR0lmeWVxVFJhaEd5VUlIMFllUjA5cy01dUVQaGdxUWtCRU1KcHlLQzJTdEFVQlQ3dDNsdlNMYWdaN0V2SG05VUhwSGFoV1dqamxfNExDRzF4OHhhamhmSUNCVWpMVkQ1TkpjaHhNUjRtaTFZZy1wN2pfM3R2QnVI?oc=5\" target=\"_blank\">A股、H股股价齐跌，可孚医疗打出回购加增持组合拳</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2RVTmxVYU9PR0lmeWVxVFJhaEd5VUlIMFllUjA5cy01dUVQaGdxUWtCRU1KcHlLQzJTdEFVQlQ3dDNsdlNMYWdaN0V2SG05VUhwSGFoV1dqamxfNExDRzF4OHhhamhmSUNCVWpMVkQ1TkpjaHhNUjRtaTFZZy1wN2pfM3R2QnVI?oc=5",
+      "published": "Sun, 28 Jun 2026 11:52:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "科技放量调整，A股单周成交创新高！资金逢跌加码创业板人工智能ETF！电子板块分化，农牧渔逆市崛起 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFdEekx5Zm5kRkpvTjV2ZEhLSnFpUHV1TU1OODVXMVE1eS1RcHRObkRubG5oeElHZXVKSXpCZVF1RHpJVnhCTlBPTEZoVHBGSWNoWHNEVmpsdWFvNGZ5UXNRWGI0a2ZnT3RaSXlhNlE1WkgzY1BLbksyY0xwRENsZW9RdU5PQQ?oc=5\" target=\"_blank\">科技放量调整，A股单周成交创新高！资金逢跌加码创业板人工智能ETF！电子板块分化，农牧渔逆市崛起</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFdEekx5Zm5kRkpvTjV2ZEhLSnFpUHV1TU1OODVXMVE1eS1RcHRObkRubG5oeElHZXVKSXpCZVF1RHpJVnhCTlBPTEZoVHBGSWNoWHNEVmpsdWFvNGZ5UXNRWGI0a2ZnT3RaSXlhNlE1WkgzY1BLbksyY0xwRENsZW9RdU5PQQ?oc=5",
       "published": "Sun, 28 Jun 2026 12:01:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "多只A股，集体公告！涉及供货英伟达、PCB、特种纤维布、液冷散热…… - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlJrQTdRM1BYUEI2bWpYaDVfUVFzajd0d1NuWjBEcnVEU2pCd2Z6RXpJOFA4cjFGb2VRRjFsenpFYWtqbTg0ZkwyZENRRXl0N2xzN1locjhGRzkxdWRjUzFzOHlIQUloNy1MaTNqWlBzTGFncTFHOTRXYm4tbWIwaw?oc=5\" target=\"_blank\">多只A股，集体公告！涉及供货英伟达、PCB、特种纤维布、液冷散热……</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUlJrQTdRM1BYUEI2bWpYaDVfUVFzajd0d1NuWjBEcnVEU2pCd2Z6RXpJOFA4cjFGb2VRRjFsenpFYWtqbTg0ZkwyZENRRXl0N2xzN1locjhGRzkxdWRjUzFzOHlIQUloNy1MaTNqWlBzTGFncTFHOTRXYm4tbWIwaw?oc=5",
-      "published": "Sun, 28 Jun 2026 11:13:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -55,15 +83,15 @@
     },
     {
       "source": "新浪财经",
-      "title": "领益智造 H 股港交所主板正式挂牌上市 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaTN2MTkxT29GMEU3dGZaVTVhdmE4cEsydjFfRGFxdUZYWDZNNUF4RC1UVV9ubDl0UWxmYk1kZEJBYVV5LWM4RVg5Umw2ZEthRnZTYkg5a21sV3V0NTg2VGx0SXRraXRRWWpUVkNJWlFWVXUyaEIzMlg0Njg5MEM2ZWl4OVJlMWRpd2xZbnF3?oc=5\" target=\"_blank\">领益智造 H 股港交所主板正式挂牌上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "领益智造 H 股港交所主板正式挂牌上市 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaTN2MTkxT29GMEU3dGZaVTVhdmE4cEsydjFfRGFxdUZYWDZNNUF4RC1UVV9ubDl0UWxmYk1kZEJBYVV5LWM4RVg5Umw2ZEthRnZTYkg5a21sV3V0NTg2VGx0SXRraXRRWWpUVkNJWlFWVXUyaEIzMlg0Njg5MEM2ZWl4OVJlMWRpd2xZbnF3?oc=5\" target=\"_blank\">领益智造 H 股港交所主板正式挂牌上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaTN2MTkxT29GMEU3dGZaVTVhdmE4cEsydjFfRGFxdUZYWDZNNUF4RC1UVV9ubDl0UWxmYk1kZEJBYVV5LWM4RVg5Umw2ZEthRnZTYkg5a21sV3V0NTg2VGx0SXRraXRRWWpUVkNJWlFWVXUyaEIzMlg0Njg5MEM2ZWl4OVJlMWRpd2xZbnF3?oc=5",
       "published": "Sun, 28 Jun 2026 12:22:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "【国盛非银】周报|硬科技IPO募资需求增长，券商业绩水涨船高 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTJ0WlBveUI2c2JyLUVVWFJYUW9LajlFXzVWTGpWLVJuQmdLX05sU0FHdW5BSzhnSlh5V0h4Tm9PeGExVVJJSTlZdTZqb2xWUjB6dkdRWVpmVTA0blZKaHUwZW1iUWo5TDctRHFvdEdxSlhhemNaTzBLUFU0dW5JYjZzUV8?oc=5\" target=\"_blank\">【国盛非银】周报|硬科技IPO募资需求增长，券商业绩水涨船高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "【国盛非银】周报|硬科技IPO募资需求增长，券商业绩水涨船高 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTJ0WlBveUI2c2JyLUVVWFJYUW9LajlFXzVWTGpWLVJuQmdLX05sU0FHdW5BSzhnSlh5V0h4Tm9PeGExVVJJSTlZdTZqb2xWUjB6dkdRWVpmVTA0blZKaHUwZW1iUWo5TDctRHFvdEdxSlhhemNaTzBLUFU0dW5JYjZzUV8?oc=5\" target=\"_blank\">【国盛非银】周报|硬科技IPO募资需求增长，券商业绩水涨船高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTJ0WlBveUI2c2JyLUVVWFJYUW9LajlFXzVWTGpWLVJuQmdLX05sU0FHdW5BSzhnSlh5V0h4Tm9PeGExVVJJSTlZdTZqb2xWUjB6dkdRWVpmVTA0blZKaHUwZW1iUWo5TDctRHFvdEdxSlhhemNaTzBLUFU0dW5JYjZzUV8?oc=5",
       "published": "Sun, 28 Jun 2026 12:01:00 GMT"
     },
@@ -83,8 +111,8 @@
     },
     {
       "source": "新浪财经",
-      "title": "申万宏源：6-7月调整 二季报期再上行 - Sina finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3OHgzQnBmZi1UZ1Rtb1lkbXZDa2MyMzVlUFFUU3dUQ3FRWTZVc2ZFZklYemtMd0J4T3JrRlY0Xzk2SFIzU0RvUThoMV9HaUxCelc2QVhLZUR3bEhrRVYyNGtPaU9hd3FLTW1CbFBTYTZWYkFaYVhSaA?oc=5\" target=\"_blank\">申万宏源：6-7月调整 二季报期再上行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sina finance</font>",
+      "title": "申万宏源：6-7月调整 二季报期再上行 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB3OHgzQnBmZi1UZ1Rtb1lkbXZDa2MyMzVlUFFUU3dUQ3FRWTZVc2ZFZklYemtMd0J4T3JrRlY0Xzk2SFIzU0RvUThoMV9HaUxCelc2QVhLZUR3bEhrRVYyNGtPaU9hd3FLTW1CbFBTYTZWYkFaYVhSaA?oc=5\" target=\"_blank\">申万宏源：6-7月调整 二季报期再上行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3OHgzQnBmZi1UZ1Rtb1lkbXZDa2MyMzVlUFFUU3dUQ3FRWTZVc2ZFZklYemtMd0J4T3JrRlY0Xzk2SFIzU0RvUThoMV9HaUxCelc2QVhLZUR3bEhrRVYyNGtPaU9hd3FLTW1CbFBTYTZWYkFaYVhSaA?oc=5",
       "published": "Sun, 28 Jun 2026 11:20:00 GMT"
     },
@@ -108,6 +136,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE13Nm1UcFYyYTB2YUZ0WXRaRDcySnRtY2NBX1FwbVNVbUxxVGl4WlQwWFlneHl2U2ttTmR0QjNBQ1JFTVQ4UlRmYnE1Sm1mYXlEVkltN1hUZ1dXRWZiRWJtY2xXMy0?oc=5\" target=\"_blank\">破发的 财通证券 ，还有脸来制定薪酬？？？真！章启诚应该辞职了！大家表决吧！！！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13Nm1UcFYyYTB2YUZ0WXRaRDcySnRtY2NBX1FwbVNVbUxxVGl4WlQwWFlneHl2U2ttTmR0QjNBQ1JFTVQ4UlRmYnE1Sm1mYXlEVkltN1hUZ1dXRWZiRWJtY2xXMy0?oc=5",
       "published": "Sun, 28 Jun 2026 11:32:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧洲已记录到与高温相关的1300多例超额死亡",
+      "summary": "世界卫生组织总干事谭德塞28日在社交媒体发文称，自6月21日以来，欧洲已有超过1300例超额死亡记录与高温天气有关。超额死亡数指特定地点和特定时期估计的总死亡人数与没有健康危机情况下的预计死亡人数之间的差额。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260628/c677771899.shtml",
+      "published": "Sun, 28 Jun 2026 13:05:30 GMT"
     },
     {
       "source": "同花顺",
@@ -152,34 +187,6 @@
       "published": "Sun, 28 Jun 2026 11:34:43 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "中国人民银行行长潘功胜出席国际清算银行行长例会及年度股东大会",
-      "summary": "2026年6月27日至28日，中国人民银行行长潘功胜出席国际清算银行（BIS）在瑞士巴塞尔举行的行长例会和年度股东大会。与会央行行长就国际经济金融形势、通胀第二轮效应的衡量、人工智能的影响等问题进行了交流。会议期间，潘功胜会见部分与会央行行长，就双边金融合作交换了意见。(中国人民银行)",
-      "link": "https://news.10jqka.com.cn/20260628/c677770964.shtml",
-      "published": "Sun, 28 Jun 2026 11:04:55 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊莱特主板IPO审核状态变更为'已受理'",
-      "summary": "伊莱特能源装备股份有限公司主板IPO审核状态变更为'已受理'，保荐机构为中泰证券。",
-      "link": "https://news.10jqka.com.cn/20260628/c677770960.shtml",
-      "published": "Sun, 28 Jun 2026 11:03:44 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "康佰家主板IPO审核状态变更为'已受理'",
-      "summary": "康佰家医药集团股份有限公司主板IPO审核状态变更为'已受理'，保荐机构为中信证券。",
-      "link": "https://news.10jqka.com.cn/20260628/c677770959.shtml",
-      "published": "Sun, 28 Jun 2026 11:03:35 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中导光电科创板IPO审核状态变更为'已受理'",
-      "summary": "中导光电设备股份有限公司科创板IPO审核状态变更为'已受理'，保荐机构为国联民生保荐。",
-      "link": "https://news.10jqka.com.cn/20260628/c677770958.shtml",
-      "published": "Sun, 28 Jun 2026 11:03:27 GMT"
-    },
-    {
       "source": "财联社",
       "title": "19:57:39【近30家A股上市公司本周披露并购重组最新公告 银河微电拟收购恒泰柯100%股权明起复牌】 - 财联社",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE50ano5VzMtVTZ6SEVvS3JzSFVYdkxKWjdyQXVJVzBhSUZaNkpCcE5hRXRxZUs3TExuMDBRYnRPQ3hPMU5HS1dPRA?oc=5\" target=\"_blank\">19:57:39【近30家A股上市公司本周披露并购重组最新公告 银河微电拟收购恒泰柯100%股权明起复牌】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
@@ -201,11 +208,39 @@
       "published": "Sun, 28 Jun 2026 11:25:15 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "中国人民银行行长潘功胜出席国际清算银行行长例会及年度股东大会",
-      "summary": "<p>2026年6月27日至28日，中国人民银行行长潘功胜出席国际清算银行（BIS）在瑞士巴塞尔举行的行长例会和年度股东大会。与会央行行长就国际经济金融形势、通胀第二轮效应的衡量、人工智能的影响等问题进行了交流。会议期间，潘功胜会见部分与会央行行长，就双边金融合作交换了意见。（中国央行网站）</p>",
-      "link": "https://wallstreetcn.com/livenews/3125657",
-      "published": "Sun, 28 Jun 2026 11:05:53 GMT"
+      "source": "第一财经",
+      "title": "建设全国统一大市场迎新部署：抓紧制定招商引资鼓励和禁止清单",
+      "summary": "<figure><img alt=\"建设全国统一大市场迎新部署：抓紧制定招商引资鼓励和禁止清单\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/4cd8908d364f8c89ac7c458e493929b6.jpg\" /></figure><p>近期，汽车、钢铁、平台经济等领域的反内卷动作不断。</p><p>建设全国统一大市场迎来新一轮密集部署。</p>\n\n<p>十四届全国人大常委会第二十三次会议于2026年6月23日至26日在北京举行。国家发改委副主任李春临作《国务院关于建设全国统一大市场工作情况的报告》。</p>\n\n<p>李春临表示，统一大市场对集聚资源、推动增长、激励创新、优化分工、促进竞争的作用正在不断显现。下一步将加快构建全国统一大市场评价指标体系，探索对进展成效进行年度评估。进一步明确招商引资的行为边界，抓紧制定招商引资鼓励和禁止事项清单。</p>\n\n<p>十四届全国人大常委会第二十三次会议6月24日举行联组会议，就关于建设全国统一大市场工作情况报告进行专题询问。财政部部长蓝佛安表示，中央层面加快建立地方财政补贴负",
+      "link": "https://www.yicai.com/news/103249839.html",
+      "published": "Sun, 28 Jun 2026 13:03:45 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美股是在泡沫中狂欢，还是在押注美国国运",
+      "summary": "<figure><img alt=\"美股是在泡沫中狂欢，还是在押注美国国运\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/79f3c9ca72a63b4bb503f8366812a664.jpg\" /></figure><p>市场正在面临两种不同逻辑的竞争：一种逻辑基于历史均值与盈利回归；另一种逻辑基于技术跃迁与结构重估。</p><p>2026年的华尔街，正同时被两种截然不同的力量拉扯。</p>\n\n<p>一种力量来自历史。美国股市总市值与GDP之比（通常被称为“巴菲特指标”）已升至约220%以上的历史极端区间，明显高于长期均值，也接近甚至超过2000年互联网泡沫时期的水平。席勒周期调整市盈率（CAPE）超过40倍，处于150年来最昂贵的历史区间之一。与此同时，标普500指数前十大成份股市值占比已超过40%，市场结构高度集中。从传统金融框架来看，这些指标几乎指向同一个结论：美股估值处于显著高位，且风险溢价偏低。</p>\n\n<p>另一种力量则来自未来。以OpenAI、软银与甲骨文参与的“Stargate”计划为代表，美国AI基础设",
+      "link": "https://www.yicai.com/news/103249838.html",
+      "published": "Sun, 28 Jun 2026 13:03:40 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美元走强意味着什么",
+      "summary": "<figure><img alt=\"美元走强意味着什么\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/a2cff6f79fc51a9f7da80314b3f9dbc2.jpg\" /></figure><p>利差框架已经不足以解释当前的美元走势，驱动美元汇率的另有其因。</p><p>2026年6月，全球外汇市场经历了一场深刻的逻辑重构。美元指数（DXY）在6月24日一度触及101.8，创13个月新高，随后在PCE数据公布后回落至101.6附近。年初至今，美元指数已累计上涨约3.5%。美联储6月FOMC会议释放出超预期的鹰派信号——点阵图显示近半数官员预计年内加息；日本央行加息至1%的31年高位，日元却仍在160关口挣扎；美伊达成临时和平协议后油价暴跌，美元反而先涨后跌。这一系列看似矛盾的现象隐含真相，即：美元走强是全球流动性收紧的危险信号，而非标志着美国经济强劲；美元走弱往往是系统性压力缓释的健康表征，而非美元霸权的衰落。</p>\n\n<p>6月16日，日本央行将政策利率上调25个基点至1.0%，创1995年以来最高水平，以7比1",
+      "link": "https://www.yicai.com/news/103249837.html",
+      "published": "Sun, 28 Jun 2026 13:03:36 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "管涛：货币紧缩发生在美伊谅解达成之际",
+      "summary": "<figure><img alt=\"管涛：货币紧缩发生在美伊谅解达成之际\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/4fc8b16ea65bdba1a1ee3c5b03fc45de.jpg\" /></figure><p>中东战争引发的能源价格飙升导致全球货币宽松退潮乃至转向。</p><p>2026年2月底以来，中东局势演变牵动着全球主要央行的货币政策走向。当地时间（下同）6月15日，美国与伊朗签署谅解备忘录，双方宣布立即永久停止所有战线的军事行动，并于6月21日在瑞士完成首轮磋商。在美伊停火协议达成前后，全球再度迎来“超级央行周”。</p>\n\n<p>“事不过三”。在前两次按兵不动之后，这次议息会议主要央行货币政策总体转鹰。欧洲央行与日本央行加息靴子相继落地，并释放出可能进一步加息的信号。加息选项也进入美联储的视野，约半数美联储官员预计年内将有所行动。英国央行继续维持现状但内部分歧加剧，委员会重申将“随时准备采取必要行动”应对通胀风险。</p>\n\n<p><strong>欧日央行加息落地或将继续加息</strong></p>",
+      "link": "https://www.yicai.com/news/103249835.html",
+      "published": "Sun, 28 Jun 2026 13:03:33 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "佩特罗政府经济民生实绩不佳与哥伦比亚大选变局",
+      "summary": "<figure><img alt=\"佩特罗政府经济民生实绩不佳与哥伦比亚大选变局\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/06/a4ed403d0c7414c97c1e0290de0c7b9a.jpg\" /></figure><p>佩特罗政府执政3年来在经济增长、宏观经济稳定方面实绩不如其前任。</p><p>哥伦比亚总统大选第二轮投票初步统计结果已经揭晓，充满争议的“极右翼”政治素人、律师和商人阿韦拉多·德拉埃斯普列亚作为独立候选人领先，如无意外变故，将入主这个拉美大国。这场该国内外瞩目的大选社会动员程度堪称哥伦比亚历史之最，预计这场大选对该国的影响将分外深刻、长久。</p>\n\n<p>投票率64%，为该国实行两轮投票制度以来最高；第二轮投票双方各自赢得选票均近1300万张，双双打破现任总统佩特罗在2022年总统大选中创造的1100多万张最高得票纪录。</p>\n\n<p>2022年大选，佩特罗以50.4%得票率成为哥伦比亚史上第一位左翼总统；仅仅执政一个任期4年，其力推的左翼接班人就竞选失利，根源在于其施政从经济民生到社会治安、从",
+      "link": "https://www.yicai.com/news/103249834.html",
+      "published": "Sun, 28 Jun 2026 13:03:28 GMT"
     },
     {
       "source": "第一财经",
@@ -237,8 +272,8 @@
     },
     {
       "source": "第一财经",
-      "title": "农行股东会释放积极信号：不良率持续收敛，息差拐点已现",
-      "summary": "<figure><img alt=\"农行股东会释放积极信号：不良率持续收敛，息差拐点已现\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/06/3248c18cea5dc6e5890178895505612f.jpeg\" /></figure><p>净息差企稳趋势已很明显。</p><p>中国农业银行（601288.SH，01288.HK）本周五（6月26日）在北京召开2025年度股东会。管理层围绕资产质量、息差走势及盈利可持续性等市场核心关切，与股东进行了深入沟通，多项指标释放积极信号。</p>\n\n<p><strong>不良率降幅居同业首位，资产质量指标持续优化</strong></p>\n\n<p>资产质量是股东最关心的问题。农行董事长谷澍在股东会上给出了几个关键数字：截至2026年一季度末，农行不良贷款率1.25%，在2025年累计下降3BP（基点）的基础上，今年一季度又下降2BP，降幅在可比同业中最大。近年来，农行不良生成率（年化）始终保持在1%以下的低位水平，2026年一季度新生成不良同比增长额低于可比同业，不良生成率同比下降。逾",
+      "title": "农行股东会释放积极信号：资产质量稳定，可持续盈利路径清晰",
+      "summary": "<figure><img alt=\"农行股东会释放积极信号：资产质量稳定，可持续盈利路径清晰\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/06/3248c18cea5dc6e5890178895505612f.jpeg\" /></figure><p>净息差企稳趋势已很明显。</p><p>6月26日，中国农业银行（601288.SH，01288.HK）在北京召开2025年度股东会。管理层围绕资产质量、息差走势及盈利可持续性等市场核心关切，与股东进行了深入沟通，多项指标释放积极信号。</p><p><strong>逾期率可比同业最低，资产质量指标持续优化</strong></p><p>资产质量是股东最关心的问题。农行董事长谷澍在股东会上给出了几个关键数字：截至2026年一季末，农行不良贷款率1.25%，在2025年累计下降3BP的基础上，一季度又下降2个BP，降幅可比同业最大。近年来不良生成率始终保持同业较低水平，2026年一季度不良生成率同比下降。逾期贷款率1.248%，处于同业最优水平，且是唯一一家逾期率较年初下降的大型商业银行。<",
       "link": "https://www.yicai.com/news/103249794.html",
       "published": "Sun, 28 Jun 2026 11:43:29 GMT"
     },
