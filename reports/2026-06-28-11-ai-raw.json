@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-28",
+  "hour": "11",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 1/6 策略=仅标题+链接 retry=0",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 5459,
+    "completion_tokens": 3164,
+    "total_tokens": 8623
+  },
+  "content_length": 1579,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"下周重磅日程：半导体涨价潮\",\n      \"summary\": \"下周（6/29-7/3）重要事件包括中国6月PMI数据、美国非农及沃什讲话，其中半导体行业传出“7月涨价潮”，多家厂商计划调涨晶圆代工、封装测试价格，利好半导体板块。PMI数据若超预期将提振整体市场情绪。综合看半导体涨价确定性高，短期偏多。\",\n      \"reason\": \"下周事件前瞻直接涉及宏观经济数据（PMI）和行业涨价（半导体），对A股有明确影响。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"半导体\", \"沪深300\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/charts/41959317\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"沃什下周欧洲央行论坛亮相\",\n      \"summary\": \"美联储潜在主席候选人沃什将在下周欧洲央行论坛发表讲话，市场关注其货币政策立场。若言论偏鹰，可能推动美元走强、美债收益率上升，对A股北向资金形成压力，短期偏空。此次亮相是7月美联储决议前的重要信号。\",\n      \"reason\": \"美联储重要官员讲话影响全球流动性预期，间接传导至A股资金面。\",\n      \"category\": \"货币政策\",\n      \"impact_stocks\": [\"沪深300\", \"北向资金重仓股\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775687\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"楼市K型分化：复苏非直线\",\n      \"summary\": \"分析指出中国楼市复苏呈“K型分化”，高端市场回暖但低端疲软，整体复苏路径曲折。地方政府专项债突破40万亿元，债务压力制约刺激空间。对地产板块偏空，尤其三四线地产股承压。\",\n      \"reason\": \"地产行业长期趋势分析，影响板块估值预期。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"房地产\", \"银行\"],\n      \"signal\": \"bearish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/member/articles/3775585\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"当前时段新消息较少，仅筛选出3条对A股有直接或间接影响的消息，其余多为重复或与A股关联性低的地缘政治新闻。\"\n}"
+}
