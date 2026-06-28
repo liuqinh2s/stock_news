@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-28",
+  "hour": "14",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 6245,
+    "completion_tokens": 2487,
+    "total_tokens": 8732
+  },
+  "content_length": 1951,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"Anthropic大模型恢复访问\",\n      \"summary\": \"美国即将允许Anthropic恢复其最新大模型Fable 5访问权限，此前因监管问题受限。该消息利好AI板块，尤其是与Anthropic有合作或类似技术的公司，如科大讯飞、商汤科技等。看多信号。\",\n      \"reason\": \"AI行业重磅进展，恢复访问意味着监管放松，利好AI概念股。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI概念\", \"科大讯飞\", \"商汤科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260628/c677769829.shtml\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"三条碳纤维生产线投产\",\n      \"summary\": \"三条世界级高性能碳纤维生产线集中投产，标志着我国碳纤维产能大幅提升。利好碳纤维产业链公司，如光威复材、中简科技等。看多信号。\",\n      \"reason\": \"行业里程碑事件，供给端利好，增强国产替代逻辑。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"碳纤维\", \"光威复材\", \"中简科技\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260628/c677769801.shtml\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    },\n    {\n      \"title\": \"中国移动03星将发射\",\n      \"summary\": \"中国移动03星近期将择机发射，搭载星载基站验证卫星物联网业务。利好卫星通信、物联网板块，如中国卫通、移远通信等。看多信号。\",\n      \"reason\": \"卫星物联网商业化进展，推动6G及空天信息产业发展。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"卫星通信\", \"物联网\", \"中国卫通\", \"移远通信\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260628/c677769701.shtml\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"16兆瓦浮式风电平台出港\",\n      \"summary\": \"全球首座16兆瓦张力腿浮式风电平台“海油安澜号”顺利出港，标志我国深海风电技术重大突破。利好风电板块，特别是海油工程、明阳智能等。看多信号。\",\n      \"reason\": \"海上风电技术突破，提振板块情绪，增强出海预期。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"风电\", \"海油工程\", \"明阳智能\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"同花顺\",\n          \"url\": \"https://news.10jqka.com.cn/20260628/c677769627.shtml\"\n        }\n      ],\n      \"urgency\": \"immediate\"\n    }\n  ]\n}"
+}
