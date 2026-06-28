@@ -4,13 +4,13 @@
   "news": [
     {
       "title": "4家A股公司被查被罚",
-      "summary": "6月27日夜间，4家A股公司发布被查被罚公告，其中一家公司实控人遭刑事立案。这4家公司分别涉及信披违规、财务造假等问题。监管重拳出击，对相关个股形成直接利空，同时可能引发市场对监管收紧的担忧，短期压制小盘股及问题股情绪。这是明显的看空信号，投资者需规避相关个股及存在类似风险的公司。",
-      "reason": "证监会监管重拳，直接影响个股和市场情绪，属于优先级一。",
+      "summary": "新浪财经报道，一夜之间4家A股公司因信披违规、财务造假等问题被证监会立案调查或处罚，其中一家实控人遭刑事立案。这是监管层近期加强执法力度的体现，可能引发市场对合规风险的担忧，短期利空相关个股及小盘股。",
+      "reason": "证监会监管重拳，直接影响市场情绪，符合优先级一。",
       "category": "监管政策",
       "impact_stocks": [
         "小盘股",
-        "问题股",
-        "ST板块"
+        "ST板块",
+        "问题股"
       ],
       "signal": "bearish",
       "impact_level": 4,
@@ -20,77 +20,98 @@
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KZC00REhoT3dBVExDWDVSVldjcGpTRDByRTNqWS1nRFBQaWRhMUNhUm9oY09qYTl2VWliNElWR2U3Y1FsYzRHTTItQ3hJVmNiXzAta05Vam9NWnA3LU1semN4SDRHaVNKZk5HUHJsbUVpSk9qenc?oc=5"
         }
       ],
+      "urgency": "immediate"
+    },
+    {
+      "title": "地方专项债首破40万亿",
+      "summary": "第一财经报道，我国地方政府专项债务余额首次突破40万亿元，显示出地方债务压力持续增大。这可能引发市场对财政可持续性的担忧，尤其是基建投资相关板块面临资金收紧预期，整体偏利空。",
+      "reason": "宏观经济数据关键变化，影响市场对债务风险的定价，符合优先级二。",
+      "category": "宏观经济",
+      "impact_stocks": [
+        "基建",
+        "城投",
+        "银行"
+      ],
+      "signal": "bearish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "第一财经",
+          "url": "https://www.yicai.com/news/103249639.html"
+        }
+      ],
       "urgency": "hours"
     },
     {
-      "title": "美国断供Anthropic，国产AI受益",
-      "summary": "美国对AI公司Anthropic实施断供，国产AI公司智谱半年冲上万亿港元。这标志着国内AI自主可控需求迫切，国产AI概念股有望获得政策与资金支持。逻辑上利好国产AI芯片、服务器、大模型等板块。看多。",
-      "reason": "行业政策变动，影响AI板块，属于优先级二。",
-      "category": "行业动态",
+      "title": "A股近4700股收跌",
+      "summary": "澎湃新闻报道，昨日A股近4700只个股下跌，市场出现普跌格局。分析认为原因包括地缘政治风险、地方债担忧及外资流出。下周走势需关注量能变化，短期情绪偏空，可能继续调整。",
+      "reason": "市场情绪极值信号，跌幅广度大，符合优先级三。",
+      "category": "市场情绪",
       "impact_stocks": [
-        "AI概念",
-        "国产芯片",
-        "智谱概念股"
+        "沪深300",
+        "中证500",
+        "中证1000"
       ],
-      "signal": "bullish",
-      "impact_level": 4,
-      "sources": [
-        {
-          "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wVDYwYkVyU2RHeElPODdibGM1U25PRDFsMXdrY1JjMmd1RjYzX0o3bXktVXVuZkphRl9tTjdGWDlIeWR3bXVxVzk2a3dNZ0NGN1N6WE1OTm1QOV9ZcHc?oc=5"
-        }
-      ],
-      "urgency": "days"
-    },
-    {
-      "title": "长协到期，硅片涨价预期升温",
-      "summary": "光伏长协到期，市场预期硅片将迎来涨价大年。产业链上游硅片价格有望上行，利好硅片龙头及一体化组件企业。但需注意下游成本压力。整体看多光伏上游。",
-      "reason": "行业供需变化，影响光伏板块，属于优先级二。",
-      "category": "行业动态",
-      "impact_stocks": [
-        "硅片",
-        "光伏",
-        "隆基绿能",
-        "TCL中环"
-      ],
-      "signal": "bullish",
+      "signal": "bearish",
       "impact_level": 3,
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rZzg1NDdqY0lhQ0lSbG02cmcxM2s5dURCR0d0LU5rLU9SNXlrb0J6RXp1X1hEZjU4UHlYM0lpUjloT0s3V3lvanlSYlRJM2Y5cF9hVHBxaW9QU0UyaXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jTjAwQ2I1TkhBRnk1RTVSY09OWkJHdHVOdHB1OVhrRFFVXzBic05EdW9xSmQzUG9JdU8wTmF5NnRfZ2dDc29hUjk2UlQ4N0gxMEhlLXFnZ0hrdjIxaWc?oc=5"
         }
       ],
-      "urgency": "days"
+      "urgency": "hours"
     },
     {
-      "title": "特斯拉人形机器人供应商冲刺IPO",
-      "summary": "特斯拉人形机器人一级供应商新剑传动冲刺创业板获受理。公司为机器人核心零部件供应商，上市有望带动机器人产业链关注度。利好机器人概念、减速器、传感器等板块。看多。",
-      "reason": "IPO受理影响相关板块，属于优先级三的市场结构。",
-      "category": "市场结构",
+      "title": "欧洲热浪空调卖爆",
+      "summary": "华尔街见闻报道，欧洲遭遇史上最严酷热浪，空调需求暴增，美的PortaSlit二手价格甚至超过新机。这会直接利好空调出口企业及白色家电板块，看多空调产业链。",
+      "reason": "行业动态，欧洲高温刺激空调需求，利好A股家电板块，符合优先级二。",
+      "category": "行业动态",
       "impact_stocks": [
-        "人形机器人",
-        "新剑传动",
-        "机器人概念"
+        "美的集团",
+        "格力电器",
+        "海尔智家",
+        "空调出口"
       ],
       "signal": "bullish",
       "impact_level": 2,
       "sources": [
         {
-          "name": "新浪财经",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUJJYk03TVYwd0hYRXRJcXdlbEFESkZsdmNrNmk0V0x5VVVaNFVlZGJielYxc3o5b2Jha0l5eXlWa1liN2htaGRuSVBFUEpvMkc0SFFPalpIQ201SlB6QlVpTlhwZFlqdGJLd3R4QlFud01Wa1M1OUlfMDQyX3Mwcw?oc=5"
+          "name": "华尔街见闻",
+          "url": "https://wallstreetcn.com/articles/3775684"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "高盛：AI再平衡引发市场动荡",
-      "summary": "高盛合伙人指出，本周市场大动荡并非由沃什言论导致，而是AI板块资金再平衡所致。市场风格可能从AI切换至其他板块，短期AI板块面临获利回吐压力。中性偏空，但属于短期情绪。",
-      "reason": "资金流向变化，影响市场风格，属于优先级三。",
-      "category": "资金流向",
+      "title": "锂电中报业绩趋势向好",
+      "summary": "新浪财经锂电产业链双周报指出，宁德时代发布钠电储能系统，锂电中报业绩同比趋势持续向好。钠电储能是新技术增量，利好宁德时代及钠电概念，同时锂电板块业绩支撑下有望反弹。",
+      "reason": "行业景气度确认，业绩预告向好，符合优先级二。",
+      "category": "行业动态",
+      "impact_stocks": [
+        "宁德时代",
+        "钠电池",
+        "锂电材料"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXBGODk2VHNLR3huMFZZT2dpWG1oY1QzWnFuWGZnaUlHVVZBYm55QzdfN3c4VE9iNUVydkZHSFBFdmNoblpqdnhwOF9uMERoazVDc2Y0eEJBSzZnTkp6VC1rR3lUWmhOOFdFU3pSZ19TZjF0b1gzLWFpQjFMMG5CYlBJOTZUWEplTGZ2MG0xLWlEczM3Rk1F?oc=5"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "高盛：AI再平衡导致波动",
+      "summary": "华尔街见闻报道，高盛合伙人指出本周市场大动荡并非由美联储言论引发，而是AI量化交易再平衡所致。这解释了近期市场极端波动，并提示AI相关策略可能持续影响，对AI板块短期中性。",
+      "reason": "解释市场异常波动原因，影响机构行为，符合优先级三。",
+      "category": "市场结构",
       "impact_stocks": [
         "AI概念",
-        "科技股"
+        "量化基金",
+        "沪深300"
       ],
       "signal": "neutral",
       "impact_level": 3,
@@ -103,45 +124,67 @@
       "urgency": "hours"
     },
     {
-      "title": "国际评级上调中信、中金至A类",
-      "summary": "国际评级机构上调中信证券、中金公司评级至A类，为首次。这提升券商板块国际形象，吸引外资配置。利好券商龙头，尤其头部券商。看多。",
-      "reason": "评级变动影响机构配置，属于优先级二。",
-      "category": "行业动态",
+      "title": "特斯拉供应商冲刺IPO",
+      "summary": "新浪财经报道，特斯拉人形机器人一级供应商新剑传动冲刺创业板获受理。该公司是机器人核心零部件企业，IPO推进利好机器人产业链，尤其是人形机器人概念股。",
+      "reason": "重要公司IPO进展，关联特斯拉和机器人热点，符合优先级二。",
+      "category": "公司公告",
       "impact_stocks": [
-        "中信证券",
-        "中金公司",
-        "券商板块"
+        "机器人概念",
+        "特斯拉供应链",
+        "新剑传动"
       ],
       "signal": "bullish",
-      "impact_level": 3,
+      "impact_level": 2,
       "sources": [
         {
-          "name": "东方财富",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBZeC1QM0F2TURucjRMZFN4N1l5U0hWR0o5bFBUQWVQdVd4dEJQelBpbHhGa29fWm15QTYxV0RGX1lnanlGamlWTkdvQlhiTFJobDQ4OWpHZGo0YWhIOXc?oc=5"
+          "name": "新浪财经",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUJJYk03TVYwd0hYRXRJcXdlbEFESkZsdmNrNmk0V0x5VVVaNFVlZGJielYxc3o5b2Jha0l5eXlWa1liN2htaGRuSVBFUEpvMkc0SFFPalpIQ201SlB6QlVpTlhwZFlqdGJLd3R4QlFud01Wa1M1OUlfMDQyX3Mwcw?oc=5"
         }
       ],
       "urgency": "days"
     },
     {
-      "title": "A股近4700股下跌，原因找到",
-      "summary": "6月26日A股近4700只个股下跌，市场恐慌情绪蔓延。分析认为主要为地缘冲突、外资流出及科技股回调所致。短期市场情绪偏弱，但可能形成超跌反弹机会。中性偏空。",
-      "reason": "市场情绪极端信号，属于优先级三。",
-      "category": "市场情绪",
+      "title": "iOS27深度整合AI",
+      "summary": "郭明錤表示iOS 27将进一步深化与Apple Intelligence的系统级整合，这预示苹果新一代系统将强化AI功能，有望带动苹果产业链及AI应用板块关注度。",
+      "reason": "苹果产业链重要预期，利好AI手机相关，符合优先级二。",
+      "category": "行业动态",
       "impact_stocks": [
+        "苹果产业链",
+        "AI应用",
+        "立讯精密",
+        "歌尔股份"
+      ],
+      "signal": "bullish",
+      "impact_level": 3,
+      "sources": [
+        {
+          "name": "同花顺",
+          "url": "https://news.10jqka.com.cn/20260628/c677768969.shtml"
+        }
+      ],
+      "urgency": "days"
+    },
+    {
+      "title": "韩国股市“刹车”",
+      "summary": "澎湃新闻及同花顺报道，韩国股市因散户过度加杠杆引发监管紧急刹车，限制贷款炒股。此举可能引发韩国股市回调，并通过情绪传导影响A股，尤其是外资重仓股，短期偏利空。",
+      "reason": "海外市场监管变化，可能影响外资流动和风险偏好，符合优先级二。",
+      "category": "资金流向",
+      "impact_stocks": [
+        "外资重仓",
         "沪深300",
-        "全市场"
+        "创业板"
       ],
       "signal": "bearish",
       "impact_level": 2,
       "sources": [
         {
           "name": "澎湃新闻",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jTjAwQ2I1TkhBRnk1RTVSY09OWkJHdHVOdHB1OVhrRFFVXzBic05EdW9xSmQzUG9JdU8wTmF5NnRfZ2dDc29hUjk2UlQ4N0gxMEhlLXFnZ0hrdjIxaWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaeC1QM0F2TURucjRMZFN4N1l5U0hWR0o5bFBUQWVQdVd4dEJQelBpbHhGa29fWm15QTYxV0RGX1lnanlGamlWTkdvQlhiTFJobDQ4OWpHZGo0YWhIOXc?oc=5"
         }
       ],
       "urgency": "hours"
     }
   ],
-  "total_fetched": 39,
-  "generated_at": "2026-06-28T10:01:25.288143+08:00"
+  "total_fetched": 36,
+  "generated_at": "2026-06-28T10:27:52.685908+08:00"
 }
