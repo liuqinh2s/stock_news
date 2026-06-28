@@ -1,0 +1,14 @@
+{
+  "date": "2026-06-28",
+  "hour": "15",
+  "model": "deepseek-v4-flash",
+  "attempt": "[deepseek] 2/6 策略=仅标题+链接 retry=1",
+  "finish_reason": "stop",
+  "usage": {
+    "prompt_tokens": 7236,
+    "completion_tokens": 2173,
+    "total_tokens": 9409
+  },
+  "content_length": 1548,
+  "raw_content": "{\n  \"news\": [\n    {\n      \"title\": \"谷歌对Meta实施Gemini限制\",\n      \"summary\": \"华尔街见闻报道，谷歌悄然对Meta实施Gemini大模型使用上限，反映AI算力资源紧张。算力供给瓶颈凸显，可能推动算力基础设施投资加速。利好AI算力芯片、服务器、光模块等相关板块，如中际旭创、寒武纪等。算力需求持续高增，看多信号。\",\n      \"reason\": \"AI行业重大动态，算力紧缺直接利好算力产业链，影响较大。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"AI算力\", \"中际旭创\", \"寒武纪\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 3,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/articles/3775694\"\n        }\n      ],\n      \"urgency\": \"hours\"\n    },\n    {\n      \"title\": \"中国电风扇出口欧洲猛增\",\n      \"summary\": \"第一财经报道，今年前5个月中国向欧洲出口电风扇大幅增长，部分厂商订单增两成。欧洲热浪推动制冷需求，利好家电出口企业。预计对美的、海尔等家电龙头及上游零部件企业形成业绩支撑。看多家电板块。\",\n      \"reason\": \"出口数据超预期，直接利好家电行业，属行业动态。\",\n      \"category\": \"行业动态\",\n      \"impact_stocks\": [\"家电\", \"美的集团\", \"海尔智家\"],\n      \"signal\": \"bullish\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"第一财经\",\n          \"url\": \"https://www.yicai.com/news/103249697.html\"\n        }\n      ],\n      \"urgency\": \"days\"\n    },\n    {\n      \"title\": \"超万亿美元顺差后资本输出格局成形\",\n      \"summary\": \"华尔街见闻分析，中国积累超万亿美元顺差后，资本输出格局逐渐成形，可能通过对外投资缓解贸易摩擦。长期看有利于人民币国际化，但对A股短期资金面影响中性。关注对外投资相关板块如基建、能源。\",\n      \"reason\": \"宏观格局变化，中期影响资金流向和市场结构。\",\n      \"category\": \"宏观经济\",\n      \"impact_stocks\": [\"基建\", \"能源\"],\n      \"signal\": \"neutral\",\n      \"impact_level\": 2,\n      \"sources\": [\n        {\n          \"name\": \"华尔街见闻\",\n          \"url\": \"https://wallstreetcn.com/member/articles/3775690\"\n        }\n      ],\n      \"urgency\": \"days\"\n    }\n  ],\n  \"note\": \"本轮抓取素材中多数与历史消息重复，仅筛选出3条有效新消息。\"\n}"
+}
