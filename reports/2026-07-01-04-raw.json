@@ -1,36 +1,99 @@
 {
   "date": "2026-07-01",
   "hour": "04",
-  "total": 4,
-  "fetched_at": "2026-07-01T04:00:48.443139+08:00",
+  "total": 13,
+  "fetched_at": "2026-07-01T04:50:05.802680+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "A股上半年行情收官：成交额刷新纪录 科技成核心主线 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4wZVdGakg5clZRT2hGdDBpYkVxSUpYZVFuUnV6SHVRZXVWTFAwMzVDZzRma1BPVzZUNEJYVWRsclJ0OVNGb3p3TkdrdkZTY05pS3RydFNmNmN3RVZibkhkV3JBZTVtT2tObmlhYU93M0VDeUk0U3QxZQ?oc=5\" target=\"_blank\">A股上半年行情收官：成交额刷新纪录 科技成核心主线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wZVdGakg5clZRT2hGdDBpYkVxSUpYZVFuUnV6SHVRZXVWTFAwMzVDZzRma1BPVzZUNEJYVWRsclJ0OVNGb3p3TkdrdkZTY05pS3RydFNmNmN3RVZibkhkV3JBZTVtT2tObmlhYU93M0VDeUk0U3QxZQ?oc=5",
-      "published": "Tue, 30 Jun 2026 18:14:00 GMT"
-    },
-    {
       "source": "东方财富",
-      "title": "华特气体:广东华特气体股份有限公司关于股票交易风险提示的公告 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1ES1g5bnh2VXROWDVOV2ZMeVdfZkc3c2Q0SkdMbHJKeEtoaWVCcy1icTdSY1F5MjhjQlFzZVlmdk9ZOC1kbDFVclZ3dW9VMzJYVjFTMWVtLWxfajBKd0hVRFc1amktZ25TblI4X0Z0bUE4QVZmU2xsamVxX2ZHdGs?oc=5\" target=\"_blank\">华特气体:广东华特气体股份有限公司关于股票交易风险提示的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ES1g5bnh2VXROWDVOV2ZMeVdfZkc3c2Q0SkdMbHJKeEtoaWVCcy1icTdSY1F5MjhjQlFzZVlmdk9ZOC1kbDFVclZ3dW9VMzJYVjFTMWVtLWxfajBKd0hVRFc1amktZ25TblI4X0Z0bUE4QVZmU2xsamVxX2ZHdGs?oc=5",
-      "published": "Tue, 30 Jun 2026 18:43:10 GMT"
+      "title": "【调研快报】魅视科技接待华福证券等8家机构调研 - 股吧",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGcHNheUxORTNsXzlCamtTOEgzaUtqOC1IeFVrU0VRZzh4U0g4el9qR0ZMYTdZTXBCYjZINmJHWHB2ZTBMNW5EUmxiTG4tOElleWFyNFhJNW8yajVuUGczNGFlZ0E?oc=5\" target=\"_blank\">【调研快报】魅视科技接待华福证券等8家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGcHNheUxORTNsXzlCamtTOEgzaUtqOC1IeFVrU0VRZzh4U0g4el9qR0ZMYTdZTXBCYjZINmJHWHB2ZTBMNW5EUmxiTG4tOElleWFyNFhJNW8yajVuUGczNGFlZ0E?oc=5",
+      "published": "Tue, 30 Jun 2026 20:40:06 GMT"
     },
     {
       "source": "同花顺",
-      "title": "大晟文化于2026年7月01日复牌 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE53ZW5GaU4teW5JeHhUOEREN25Gc0locElDdS00TjNxNFFnemtJNFIzQXYzcFZ5Y2NEU2Y5ZXl1MF9GREQyQ0xjTU5rSHduS2FyWF9WREFyTlpkWWQxU0xFT2NR?oc=5\" target=\"_blank\">大晟文化于2026年7月01日复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53ZW5GaU4teW5JeHhUOEREN25Gc0locElDdS00TjNxNFFnemtJNFIzQXYzcFZ5Y2NEU2Y5ZXl1MF9GREQyQ0xjTU5rSHduS2FyWF9WREFyTlpkWWQxU0xFT2NR?oc=5",
-      "published": "Tue, 30 Jun 2026 18:46:42 GMT"
+      "title": "英伟达公司股东批准将“超级多数投票规则”改为“简单多数投票标准”",
+      "summary": "根据美国证交会（SEC）文件，英伟达公司股东批准一项提案，将“超级多数投票规则”改为“简单多数投票标准”。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260701/c677849860.shtml",
+      "published": "Tue, 30 Jun 2026 20:33:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "墨西哥北部发生6.1级地震",
+      "summary": "据墨西哥国家地震监测局发布的消息，当地时间6月30日13时45分，墨西哥北部锡那罗亚州瓜萨沃市西南方向约116公里处发生6.1级地震，震源深度约5公里。目前没有人员伤亡的报告。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260701/c677849849.shtml",
+      "published": "Tue, 30 Jun 2026 20:22:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "耐克第四季度营收109.7亿美元，上年同期111亿美元",
+      "summary": "耐克第四季度营收109.7亿美元，上年同期111亿美元；第四季度每股收益0.72美元，上年同期0.14美元。",
+      "link": "https://news.10jqka.com.cn/20260701/c677849848.shtml",
+      "published": "Tue, 30 Jun 2026 20:20:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收评：美股三大指数集体收涨",
+      "summary": "美股三大指数集体收涨，标普500指数涨0.75%，道指涨0.23%，纳指涨1.52%。大型科技股方面，超威半导体涨7.68%，英特尔涨6.01%，阿斯麦涨5.65%，SpaceX涨4.06%，苹果涨2.70%，英伟达涨2.63%，特斯拉涨2.13%，微软涨1.21%，谷歌A涨1.05%，高通跌2.08%。中概股方面，小鹏集团涨3.44%，蔚来涨2.22%，哔哩哔哩涨1.01%，理想汽车跌1.26%。",
+      "link": "https://news.10jqka.com.cn/20260701/c677849847.shtml",
+      "published": "Tue, 30 Jun 2026 20:18:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国联邦航空管理局要求部门员工不可持有SpaceX股票",
+      "summary": "美国联邦航空管理局（FAA）要求部门员工不可以持有SpaceX股票。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260701/c677849774.shtml",
+      "published": "Tue, 30 Jun 2026 19:29:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗议会议长卡利巴夫：石油制裁已解除，我们的石油售价上涨了两成",
+      "summary": "伊朗议会议长卡利巴夫：石油制裁已解除，我们的石油售价上涨了两成。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260701/c677849769.shtml",
+      "published": "Tue, 30 Jun 2026 19:24:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄罗斯关闭西北边境部分口岸",
+      "summary": "俄罗斯联邦政府总理米舒斯京6月30日签署政府令，关闭与拉脱维亚、芬兰和爱沙尼亚边境的一系列口岸。根据政府令，指定口岸将于7月1日起临时暂停人员、车辆、商品和货物通行。俄外交部将于当天起正式向拉脱维亚、芬兰和爱沙尼亚政府通报这一决定。政府令未说明关闭原因。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260701/c677849719.shtml",
+      "published": "Tue, 30 Jun 2026 18:54:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "埃及、土耳其同哈马斯讨论落实加沙停火事宜",
+      "summary": "埃及与土耳其情报官员30日在埃及首都开罗同巴勒斯坦伊斯兰抵抗运动（哈马斯）多名高级官员举行会晤，就落实加沙停火事宜展开讨论。据埃及媒体报道，由哈利勒·哈亚、哈立德·迈沙阿勒等哈马斯高级官员组成的代表团当日早些时候抵达开罗，恢复关于加沙停火第二阶段的谈判。埃及情报总局局长哈桑·拉沙德与土耳其国家情报局局长卡林同哈马斯代表团举行会谈。据报道，三方当天的会谈取得“积极进展”。各方对美国提出的结束加沙冲突计划持乐观看法。哈马斯官员确认将全力支持和落实该计划。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260701/c677849717.shtml",
+      "published": "Tue, 30 Jun 2026 18:53:18 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "欧股Q2劲涨10%创2020年来最佳季表现，AI热情与油价回落成推手 - 华尔街见闻",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSVZhZEFNeTBWZ0xVYkRXYUZ3SDhDNE92dldFU2d5VVJhb2tUeW1GamJoT2gxOER3TGZsVWhtdXEtM3VVSEM1d0NPdU53LXRCUENz?oc=5\" target=\"_blank\">欧股Q2劲涨10%创2020年来最佳季表现，AI热情与油价回落成推手</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhSVZhZEFNeTBWZ0xVYkRXYUZ3SDhDNE92dldFU2d5VVJhb2tUeW1GamJoT2gxOER3TGZsVWhtdXEtM3VVSEM1d0NPdU53LXRCUENz?oc=5",
-      "published": "Tue, 30 Jun 2026 18:10:30 GMT"
+      "title": "寒武纪万亿市值夜的“冷水”：上游涨价挤压利润，高估值面临业绩兑现大考",
+      "summary": "<p style=\"text-align: left;\">在成为科创板首家万亿市值公司后，国内芯片龙头寒武纪深夜“提示风险”。</p>\n<p style=\"text-align: left;\">6月30日，寒武纪股价收涨7.66%至1595.55元，盘中市值一度突破万亿元，位列A股总市值第九位。今年以来，寒武纪股价累计涨幅超过75%。</p>\n<p style=\"text-align: left;\"><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/85ac0577-7bd9-41b5-b365-e8fd5a26c6e2.png\" /></p>\n<p style=\"text-align: left;\">当日晚间，公司发布公告，明确指出股票价格累计涨幅已大幅超越科创综指和上证综指，\"可能存在短期上涨过快出现的下跌风险\"，同时提示公司滚动市盈率368.97倍、市净率77.88倍，显著高于所在行业水平，\"存在估值较高的风险\"。</p>\n<p style=\"text-align: left;\">此番主动示警，折射出高速上涨行情下的多重结",
+      "link": "https://wallstreetcn.com/articles/3775886",
+      "published": "Tue, 30 Jun 2026 20:44:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "知名投资者Burry：做空英伟达、特斯拉、应用材料",
+      "summary": "<p>“大空头”Michael Burry：我首次做空卡特彼勒。做空英伟达、特斯拉、应用材料。</p>",
+      "link": "https://wallstreetcn.com/livenews/3126978",
+      "published": "Tue, 30 Jun 2026 20:13:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI会带来失业？OpenAI经济学家：不会！",
+      "summary": "<p>OpenAI首席经济学家Ronnie Chatterji表示，人工智能的崛起不会让人类劳动者变得多余。</p>\n<p>Chatterji在欧洲央行辛特拉年度论坛上表示：</p>\n<blockquote>\n<p>“仅仅因为一项工作任务容易受到AI影响，并不意味着AI就会取代它。我们需要更深入地思考工作的本质，以及工作将如何演变。这样，我们才能就劳动力市场趋势向人们提供更有价值的建议，而不是盲目乐观或悲观。”</p>\n</blockquote>\n<p>在葡萄牙辛特拉举行的欧洲央行年度论坛上，Chatterji与Philip Lane展开对话，并向现场各国央行官员分享了自己家庭与新技术发展的经历。</p>\n<blockquote>\n<p>“我的父亲也是一名经济学家。1985年，当他第一次把个人电脑搬进办公室时，他的工作看起来非常容易受到这项新技术的影响。但结果并不是被电脑取代，而是从过去依靠打孔卡、在大型主机上运行回归分析，变成可以直接在个人电脑上完成。这项技术最终成为他工作的有力补充，提高了他的工作效率。”</p>\n</blockquote>\n<p>AI对经济的影响，已成为欧洲央行及",
+      "link": "https://wallstreetcn.com/articles/3775882",
+      "published": "Tue, 30 Jun 2026 20:00:02 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
+      "summary": "<p>伊朗议长卡利巴夫在国家电视台表示，美国解除封锁以来，伊朗石油出口已经超过4000万桶。</p>",
+      "link": "https://wallstreetcn.com/livenews/3126957",
+      "published": "Tue, 30 Jun 2026 19:12:17 GMT"
     }
   ]
 }
