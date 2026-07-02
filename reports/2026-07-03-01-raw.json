@@ -1,36 +1,43 @@
 {
   "date": "2026-07-03",
   "hour": "01",
-  "total": 27,
-  "fetched_at": "2026-07-03T01:00:51.873530+08:00",
+  "total": 20,
+  "fetched_at": "2026-07-03T01:25:04.960902+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "今夜，102家A股公司提示风险 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBCLXprOWNxdGQ1YmFYZXA1Zl9rZVJ5ZmZnY0lXa01seC1sbVl2VG1RTE9CenZZc1BDd0xtUk1ZemRHZ2R3OVdRNmhzVHlscDROdTZiVUJicDdyS2VKanFrbEJIdzM4ZVpnZy1sdzZCdTF0RzdiVHc?oc=5\" target=\"_blank\">今夜，102家A股公司提示风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "title": "今夜，102家A股公司提示风险 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBCLXprOWNxdGQ1YmFYZXA1Zl9rZVJ5ZmZnY0lXa01seC1sbVl2VG1RTE9CenZZc1BDd0xtUk1ZemRHZ2R3OVdRNmhzVHlscDROdTZiVUJicDdyS2VKanFrbEJIdzM4ZVpnZy1sdzZCdTF0RzdiVHc?oc=5\" target=\"_blank\">今夜，102家A股公司提示风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCLXprOWNxdGQ1YmFYZXA1Zl9rZVJ5ZmZnY0lXa01seC1sbVl2VG1RTE9CenZZc1BDd0xtUk1ZemRHZ2R3OVdRNmhzVHlscDROdTZiVUJicDdyS2VKanFrbEJIdzM4ZVpnZy1sdzZCdTF0RzdiVHc?oc=5",
       "published": "Thu, 02 Jul 2026 15:46:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "一夜之间，102家A股公司提示风险 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5UMXEwcU9PUnZkSUwyUjQ4NWRPRnZHZkN4Wl82MTVGLUJmd3c3U1lDemFSOWJTM25DR0ItTk9GQzFRU1otUXlzenFlNlJBLUh0eXhlTW5KcnEyRXdpbEs1MWNmQi04NTNqRXdyUGVSY0E5NFdNYXc?oc=5\" target=\"_blank\">一夜之间，102家A股公司提示风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UMXEwcU9PUnZkSUwyUjQ4NWRPRnZHZkN4Wl82MTVGLUJmd3c3U1lDemFSOWJTM25DR0ItTk9GQzFRU1otUXlzenFlNlJBLUh0eXhlTW5KcnEyRXdpbEs1MWNmQi04NTNqRXdyUGVSY0E5NFdNYXc?oc=5",
-      "published": "Thu, 02 Jul 2026 15:17:00 GMT"
+      "title": "中兴通讯A股股东户数减少5096户降幅0.80%，流通A股户均持股6340.95股增幅0.80%，户均持股市值22.95万元降幅3.72% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFB1TWc2Q3p1UG1PVWd1OVFHNlpxejNLdFNIYmVxMnlXWnhBRzVlelBOVC0wSU42akJoRlZzdmFLU090Y09DSENMdUoyeEpkeHd0LUNTcTBsUjBnZnRRV1JXdDNQekRnMUtxNHhCaUFqWGFBQ1NfRWZTa1FpTjRqUFVJN3U3NTh2ZG9QZA?oc=5\" target=\"_blank\">中兴通讯A股股东户数减少5096户降幅0.80%，流通A股户均持股6340.95股增幅0.80%，户均持股市值22.95万元降幅3.72%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaFB1TWc2Q3p1UG1PVWd1OVFHNlpxejNLdFNIYmVxMnlXWnhBRzVlelBOVC0wSU42akJoRlZzdmFLU090Y09DSENMdUoyeEpkeHd0LUNTcTBsUjBnZnRRV1JXdDNQekRnMUtxNHhCaUFqWGFBQ1NfRWZTa1FpTjRqUFVJN3U3NTh2ZG9QZA?oc=5",
+      "published": "Thu, 02 Jul 2026 15:30:00 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "埃斯顿：公司A股股票交易异常波动 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnVTJGaGxBZzVtUHBZNEM5N0lyeGJ6Q3lsV29lMGZrbVhwUDVYMUd4bFBhVmN4MlExNmdKTjFScG1JdlJxZVJuY1QwSlVpaVgwYWczQkRsNnZUamtrb2IxdnpoSQ?oc=5\" target=\"_blank\">埃斯顿：公司A股股票交易异常波动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnVTJGaGxBZzVtUHBZNEM5N0lyeGJ6Q3lsV29lMGZrbVhwUDVYMUd4bFBhVmN4MlExNmdKTjFScG1JdlJxZVJuY1QwSlVpaVgwYWczQkRsNnZUamtrb2IxdnpoSQ?oc=5",
-      "published": "Thu, 02 Jul 2026 15:06:18 GMT"
+      "source": "同花顺",
+      "title": "摩根大通：Meta的云计划或表明其AI进展缓慢",
+      "summary": "摩根大通认为，如果Meta决定推出云基础设施业务，1吉瓦的算力可能会为Meta带来约200亿美元的年营收和数美元的每股收益。此前有报道称，Meta正在考虑这一举措。但摩根大通的分析师也认为，这表明该公司在专有AI工作方面缺乏进展。“我们更希望Meta开发核心AI产品，在其40亿用户基础上加以利用，并为其自身的推理需求提供大规模算力，而不是出售其基础设施的使用权，”摩根大通的分析师在一份报告中说。“这仍然向我们表明，Meta在广告以外的AI产品吸引力仍然有限。”Meta股价跌超4%。",
+      "link": "https://news.10jqka.com.cn/20260703/c677914238.shtml",
+      "published": "Thu, 02 Jul 2026 17:23:46 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "同一晚 102家A股公司提示风险 多只股票近期大涨 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1mRmJaVTJTUXJ0SThSLWVMZHQ3TnpVWm1mLVNTV2F2WmlTVl95dGw4UUdzTE1YU2diOU5HMnVoVHVDVnhKNzlhc0ZlNEZ6eUZ3ZXliYkNiMVpiQ0Vvbjg3akpqTm1sR0ZQYXZ6Zg?oc=5\" target=\"_blank\">同一晚 102家A股公司提示风险 多只股票近期大涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mRmJaVTJTUXJ0SThSLWVMZHQ3TnpVWm1mLVNTV2F2WmlTVl95dGw4UUdzTE1YU2diOU5HMnVoVHVDVnhKNzlhc0ZlNEZ6eUZ3ZXliYkNiMVpiQ0Vvbjg3akpqTm1sR0ZQYXZ6Zg?oc=5",
-      "published": "Thu, 02 Jul 2026 16:56:18 GMT"
+      "source": "同花顺",
+      "title": "肯尼亚加紧从南非撤侨",
+      "summary": "肯尼亚内阁首席部长兼外长穆达瓦迪2日表示，鉴于南非反移民暴力和排外抗议活动持续升级，肯尼亚加大了撤离工作，已经撤离151名在南非的肯公民。穆达瓦迪说，约2.7万肯尼亚人居住在南非，目前有240人登记求助。穆达瓦迪与南非国际关系与合作部长罗纳德·拉莫拉通电话，希望南非政府继续支持撤离进程，保护留在南非的肯尼亚侨民的福利和安全。同时，呼吁散居海外的肯尼亚人尊重住在国法律，确保移民身份合法有效。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260703/c677914234.shtml",
+      "published": "Thu, 02 Jul 2026 17:19:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "费城半导体指数跌超6% 美光科技、Arm跌超6%",
+      "summary": "费城半导体指数跌超6%，科磊跌超12%，美光科技、Arm跌超6%，美国超微公司、英特尔、高通跌超5%。",
+      "link": "https://news.10jqka.com.cn/20260703/c677914225.shtml",
+      "published": "Thu, 02 Jul 2026 17:03:59 GMT"
     },
     {
       "source": "同花顺",
@@ -122,62 +129,6 @@
       "summary": "据黎巴嫩国家通讯社2日报道，黎巴嫩总统奥恩当天在贝鲁特会见到访的叙利亚过渡政府外长希巴尼时表示，黎巴嫩希望与叙利亚建立基于合作、协调及互不干涉内政原则的双边关系。（新华社）",
       "link": "https://news.10jqka.com.cn/20260702/c677913984.shtml",
       "published": "Thu, 02 Jul 2026 15:30:44 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "今年上半年上海接待游客量同比增长17.6%",
-      "summary": "上海市文化和旅游局在7月2日举办的媒体通气会上介绍，今年1月至6月，上海接待游客总量达3.13亿人次，同比增长17.6%，实现文旅消费总额5433.26亿元。今年上半年，上海文旅市场人气旺、消费热、品质高，文旅融合特征显著。今年上半年沪上美术馆举办展览470个，接待观众370万人次，全市博物馆举办常设展览390个、临展151个，接待观众超1499.81万人次。“China Travel”热度持续攀升。最新数据显示，今年1月至5月，上海累计接待入境游游客438.36万人次，同比增长29.06%。在文旅消费潜力持续释放同时，产业投资也更加活跃。今年1月至5月，上海新增文旅相关企业6151家，文旅市场主体规模持续扩容。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260702/c677913932.shtml",
-      "published": "Thu, 02 Jul 2026 15:23:37 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "秘鲁多地因厄尔尼诺进入60天紧急状态",
-      "summary": "秘鲁政府2日宣布，由于当前厄尔尼诺现象持续发展并可能引发强降雨和重大灾害风险，全国多地进入为期60天的紧急状态。秘鲁政府当天发布公告说，安卡什省、阿雷基帕省、皮乌拉省等多个省份的796个区市进入为期60天的紧急状态。紧急状态期间，政府将采取必要措施以降低灾害风险，并开展应急处置和灾后恢复工作。秘鲁厄尔尼诺现象研究中心近期发布报告说，厄尔尼诺现象在秘鲁近海的影响正在持续，预计将延续至2027年夏季。厄尔尼诺现象指太平洋赤道海域海水大范围持续异常升温的现象，往往会引起全球多个地区气候异常。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260702/c677913914.shtml",
-      "published": "Thu, 02 Jul 2026 15:21:20 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "台湾宜兰县海域发生4.5级地震 震源深度90千米",
-      "summary": "中国地震台网正式测定：7月2日22时44分在台湾宜兰县海域（北纬24.60度，东经122.60度）发生4.5级地震，震源深度90千米。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260702/c677913869.shtml",
-      "published": "Thu, 02 Jul 2026 15:16:14 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "银行板块近30亿增持计划完成",
-      "summary": "今年以来，面对科技与“老登”的冰火两重天，不少银行投资者正身处难熬阶段。进入7月，这一趋势初现反转信号。近期恰逢银行密集召开股东会，多家银行对市值管理、股东回报进行了积极表态，尤其招商银行称成立市值管理小组引起关注。在业内人士看来，在监管引导下，随着制度完善、理念强化，银行市值管理正走向更深层次的行动实践，但长期实效仍要从根本上做好经营、强化沟通，吸引更多长期资金。从制度到实践落地，股东和高管增持是市场最关注的工具之一。据记者不完全统计，今年上半年近10家银行披露增持进展，截至6月末落地的最新一轮增持金额接近30亿元，其中既有区域农商行、城商行，也有股份行、国有大行。不过，其中相当一部分是延续落实2025年的既定增持计划。（第一财经）",
-      "link": "https://news.10jqka.com.cn/20260702/c677913850.shtml",
-      "published": "Thu, 02 Jul 2026 15:14:40 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "阿斯利康涨幅扩大，触及盘中高点",
-      "summary": "阿斯利康涨幅扩大，触及盘中高点，最新涨幅为6%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677913805.shtml",
-      "published": "Thu, 02 Jul 2026 15:09:56 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "费城半导体指数跌幅扩大至4%",
-      "summary": "费城半导体指数跌幅扩大至4%。美光科技跌5.10%，西部数据跌7.28%，希捷科技跌7.48%，闪迪跌11.53%，铠侠ADR跌12.50%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677913801.shtml",
-      "published": "Thu, 02 Jul 2026 15:09:21 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "标普500指数转跌，此前一度涨约0.7%",
-      "summary": "标普500指数转跌，此前一度涨约0.7%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677913795.shtml",
-      "published": "Thu, 02 Jul 2026 15:08:22 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6% - 华尔街见闻",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CekhodXh2NHpRWjlaOVZnekliSXdsc0hIdHpZbm9NYnIyLUo4TlhrckV2NzFCa0g3Uk4tOVB1b2V5NVo2SDh5UklIcTU5YmJsV2Jj?oc=5\" target=\"_blank\">非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CekhodXh2NHpRWjlaOVZnekliSXdsc0hIdHpZbm9NYnIyLUo4TlhrckV2NzFCa0g3Uk4tOVB1b2V5NVo2SDh5UklIcTU5YmJsV2Jj?oc=5",
-      "published": "Thu, 02 Jul 2026 15:02:09 GMT"
     },
     {
       "source": "第一财经",
