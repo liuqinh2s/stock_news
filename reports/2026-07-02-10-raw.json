@@ -1,9 +1,16 @@
 {
   "date": "2026-07-02",
   "hour": "10",
-  "total": 70,
-  "fetched_at": "2026-07-02T10:00:46.961401+08:00",
+  "total": 47,
+  "fetched_at": "2026-07-02T10:07:17.301827+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "从自愿探索到规范落地 A股ESG披露率近50% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZTVRXRTFsNTl2Rl9xQzFxc19MSmJPZVNxdUg4ZTFhRzkyb0JLT3RrVW5yT0hITldXVHJJT3c5V0ZtZUVkeUxWanhEQ25DTHlyZE9pVWhCNkk1UGRzZmlHZXUzMUxXRjRtakNnekpCR2xaRjhHbXRSdQ?oc=5\" target=\"_blank\">从自愿探索到规范落地 A股ESG披露率近50%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZTVRXRTFsNTl2Rl9xQzFxc19MSmJPZVNxdUg4ZTFhRzkyb0JLT3RrVW5yT0hITldXVHJJT3c5V0ZtZUVkeUxWanhEQ25DTHlyZE9pVWhCNkk1UGRzZmlHZXUzMUxXRjRtakNnekpCR2xaRjhHbXRSdQ?oc=5",
+      "published": "Thu, 02 Jul 2026 01:46:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "A股低开创业板指跌2.94%，贵金属板块涨幅居前 - 新浪财经",
@@ -76,6 +83,13 @@
     },
     {
       "source": "新浪财经",
+      "title": "华宝标普中国A股红利机会ETF(562060)已连续10日遭遇资金净赎回，区间净流出额2.3亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkh5N1RJOXpoUkdzV050ZlpZRElrRDhMelE2eHFXeWZ4d3IyQW5Pd2FfdVhGSFI4TnNTQ1h2NXFGbWRsdHRId3ZVM1Z3NnZhczBVZ1g3M2NMMWZmMk82WjRpRnYyZUxXdE1DMkt5aGFGbG9DZW5rd2lCRklTR0h5MGhnSUVoQ2pVLThHV1I1UWFzd3dpanU3bzdjVQ?oc=5\" target=\"_blank\">华宝标普中国A股红利机会ETF(562060)已连续10日遭遇资金净赎回，区间净流出额2.3亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkh5N1RJOXpoUkdzV050ZlpZRElrRDhMelE2eHFXeWZ4d3IyQW5Pd2FfdVhGSFI4TnNTQ1h2NXFGbWRsdHRId3ZVM1Z3NnZhczBVZ1g3M2NMMWZmMk82WjRpRnYyZUxXdE1DMkt5aGFGbG9DZW5rd2lCRklTR0h5MGhnSUVoQ2pVLThHV1I1UWFzd3dpanU3bzdjVQ?oc=5",
+      "published": "Thu, 02 Jul 2026 01:45:00 GMT"
+    },
+    {
+      "source": "新浪财经",
       "title": "赛力斯：6月回购A股股份251.71万股 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS3lNT3BSMkVLSWVSLXd6aU5XVkdxY1FtNzJlQUxQczNiU0l6UjluUXFIU0JzZFFkUVJ0U1NyaS1YNFFNd01hMVY3NUxuMDVfX1dfWEZxbGRNNXd0a0ZLWDFyczdHMmZYd2dqSk9GMHhFWUI3SkdmVWNaTjVUanFEUkZGczB5cWRXSVJ1VmFyVUJzSVYxVm95TzFrR3A5MXFiNGtiZkFPc1ViUDBlWkwyekRiY0MzcHpXLVJtbi1WVVM2bVBubHA3YVpVWDREZm5hRmtlZUJnLUZDLVNJMkxwd0FQRHc5dw?oc=5\" target=\"_blank\">赛力斯：6月回购A股股份251.71万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS3lNT3BSMkVLSWVSLXd6aU5XVkdxY1FtNzJlQUxQczNiU0l6UjluUXFIU0JzZFFkUVJ0U1NyaS1YNFFNd01hMVY3NUxuMDVfX1dfWEZxbGRNNXd0a0ZLWDFyczdHMmZYd2dqSk9GMHhFWUI3SkdmVWNaTjVUanFEUkZGczB5cWRXSVJ1VmFyVUJzSVYxVm95TzFrR3A5MXFiNGtiZkFPc1ViUDBlWkwyekRiY0MzcHpXLVJtbi1WVVM2bVBubHA3YVpVWDREZm5hRmtlZUJnLUZDLVNJMkxwd0FQRHc5dw?oc=5",
@@ -87,6 +101,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUN4XzVLYldYQ2o0aVpsVnZCdVZEWmJrTUlVbnhiNHpDNUljcXBFdjBXLVlISFVBbTFNc2xiWjJtN1k0MFZjblFGN05GdklPZjZvLWlwUWJES25mLTRWMHZNSkZrbXhfY2tnMDhJRWR1eXBjZi1mUXFYTjRoa1BsVlAwUlJvY0E2Z2Y2dENuVERsTUFKM09HOGJVRQ?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF(561380)已连续18日遭遇资金净赎回，区间净流出额16.75亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYUN4XzVLYldYQ2o0aVpsVnZCdVZEWmJrTUlVbnhiNHpDNUljcXBFdjBXLVlISFVBbTFNc2xiWjJtN1k0MFZjblFGN05GdklPZjZvLWlwUWJES25mLTRWMHZNSkZrbXhfY2tnMDhJRWR1eXBjZi1mUXFYTjRoa1BsVlAwUlJvY0E2Z2Y2dENuVERsTUFKM09HOGJVRQ?oc=5",
       "published": "Thu, 02 Jul 2026 01:36:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "创业板指低开近3% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE05TElZSk9jLXBCTmN3Rk9DUVg0aWpka0NsdENDSG1zWWRoZWh5SGdkVzQxdF94bzdiX2h5RllLSFNMendZcDd5MW5oSHFyNTgzNmVUX1hXbkpka2NlLXZpSWV2T0NhVlhHN3RXODluS193SS1rZVUydg?oc=5\" target=\"_blank\">创业板指低开近3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05TElZSk9jLXBCTmN3Rk9DUVg0aWpka0NsdENDSG1zWWRoZWh5SGdkVzQxdF94bzdiX2h5RllLSFNMendZcDd5MW5oSHFyNTgzNmVUX1hXbkpka2NlLXZpSWV2T0NhVlhHN3RXODluS193SS1rZVUydg?oc=5",
+      "published": "Thu, 02 Jul 2026 01:54:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -115,13 +136,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkVUZ0ZPMjhiMXIza3BOcU8yYVdwZ1JWM3h6bk9fRy1UNDFYMGQ1NFlHU0d1OXd6QkZPRl9NbDA1MzVhaURzVVlPNkVoSFRNcGVyWjlxNmNZdmcxRVJvSThJRHRxSE1hekNQZXg0TU1rQXphRENEb0FyUU1CMVV3eENIdFlSS3g2VHNxVUE0RmFOdGtqZXRpWTlMVQ?oc=5\" target=\"_blank\">国泰富时中国A股自由现金流聚焦ETF(159399)已连续7日遭遇资金净赎回，区间净流出额1.35亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkVUZ0ZPMjhiMXIza3BOcU8yYVdwZ1JWM3h6bk9fRy1UNDFYMGQ1NFlHU0d1OXd6QkZPRl9NbDA1MzVhaURzVVlPNkVoSFRNcGVyWjlxNmNZdmcxRVJvSThJRHRxSE1hekNQZXg0TU1rQXphRENEb0FyUU1CMVV3eENIdFlSS3g2VHNxVUE0RmFOdGtqZXRpWTlMVQ?oc=5",
       "published": "Thu, 02 Jul 2026 01:31:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "绿色动力环保：截至2026年6月30日累计14.3万元“绿动转债”已转换成公司A股股票 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbkV6bkdWcEtPNktua2liYlN3enhwN0h1d01VeHVoS3AyRzVjMHNrUEl3Nzl5WXYzWmktWmhBbUdkS1phWDVuYkkzZ3JtQXhEOHVYSVh3WnlSRFdyZkx3Tm9MM194TGRnSkZqcXlvb3JucDBmVTZzRmZGd2pJREpUNUZxMlY5czluVEhyem5XZDhEZFJuU2NDNFRYXzhMb2RXcnVSNVNlQlN0VE1QX1FucEhoMmZCdWQ0ZmYxQnNYRHg1MXFsZ3VaMDBVU0JLNzJXSS1mZGZCRFZXLWZKZmJDam9VRS1NZw?oc=5\" target=\"_blank\">绿色动力环保：截至2026年6月30日累计14.3万元“绿动转债”已转换成公司A股股票</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbkV6bkdWcEtPNktua2liYlN3enhwN0h1d01VeHVoS3AyRzVjMHNrUEl3Nzl5WXYzWmktWmhBbUdkS1phWDVuYkkzZ3JtQXhEOHVYSVh3WnlSRFdyZkx3Tm9MM194TGRnSkZqcXlvb3JucDBmVTZzRmZGd2pJREpUNUZxMlY5czluVEhyem5XZDhEZFJuU2NDNFRYXzhMb2RXcnVSNVNlQlN0VE1QX1FucEhoMmZCdWQ0ZmYxQnNYRHg1MXFsZ3VaMDBVU0JLNzJXSS1mZGZCRFZXLWZKZmJDam9VRS1NZw?oc=5",
-      "published": "Thu, 02 Jul 2026 00:02:00 GMT"
     },
     {
       "source": "东方财富",
@@ -160,262 +174,87 @@
     },
     {
       "source": "同花顺",
-      "title": "培育钻石板块短线走低",
-      "summary": "培育钻石板块短线走低，晶盛机电跌超6%，英诺激光、沃尔德、恒林股份、国机精工等跟跌。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890345.shtml",
-      "published": "Thu, 02 Jul 2026 02:00:51 GMT"
+      "title": "公司正在积极有序推动本次向特定对象发行A股股票的各项工作 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hOFg4cUJSM05pcTB4NzZYbTdOSU14bDZkRHZfbUVVUE0yRDJvR19hTF9na1Bxei1wcVU1c1NqVklUSk94WlpwajFSMjI0NHZrTzEwZVNlVnRqUVFka3plZ2lyenFQWk1Z?oc=5\" target=\"_blank\">公司正在积极有序推动本次向特定对象发行A股股票的各项工作</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hOFg4cUJSM05pcTB4NzZYbTdOSU14bDZkRHZfbUVVUE0yRDJvR19hTF9na1Bxei1wcVU1c1NqVklUSk94WlpwajFSMjI0NHZrTzEwZVNlVnRqUVFka3plZ2lyenFQWk1Z?oc=5",
+      "published": "Thu, 02 Jul 2026 00:28:40 GMT"
     },
     {
       "source": "同花顺",
-      "title": "减速器板块短线拉升",
-      "summary": "减速器板块短线拉升，韶能股份涨停, 宏昌科技、盛德鑫泰涨超10%，瑞迪智驱、瑜欣电子、光洋股份、丰光精密、易实精密等跟涨。相关ETF方面，机器人ETF富国（159272）涨0.6%，成交额8393.47万元，机器人ETF易方达（159530）涨0.61%，成交额4.79亿元。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890280.shtml",
-      "published": "Thu, 02 Jul 2026 01:57:23 GMT"
+      "title": "高斯贝尔向特定对象发行股票申请获深交所受理 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ETGJrcXRxU09Bb2NnM0Z3QVhRc2t6V1hzemdUQ0RNanhCOS10ejdiMDJqTlpteS1DRk9uaEthbG5pcE8wX1hJQ3dTQzBKaFplMDR1WnkzR0RnZko2Z2VOLV9n?oc=5\" target=\"_blank\">高斯贝尔向特定对象发行股票申请获深交所受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ETGJrcXRxU09Bb2NnM0Z3QVhRc2t6V1hzemdUQ0RNanhCOS10ejdiMDJqTlpteS1DRk9uaEthbG5pcE8wX1hJQ3dTQzBKaFplMDR1WnkzR0RnZko2Z2VOLV9n?oc=5",
+      "published": "Thu, 02 Jul 2026 00:18:36 GMT"
     },
     {
       "source": "同花顺",
-      "title": "氟化工概念板块逆市走强 和远气体2连板",
-      "summary": "氟化工概念板块逆市走强，和远气体2连板，天域生物、滨化股份、联化科技涨停，永太科技、金石资源、联创股份、中船特气、昊华科技跟涨。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890234.shtml",
-      "published": "Thu, 02 Jul 2026 01:55:21 GMT"
+      "title": "股价飙涨，维峰电子紧急公告：人形机器人尚未量产 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZQkt4RVJoc1BHb190YUozSGpwbEhvcENCMjdRYkZPYTE3Z0xDSm93OG96SG9tTWpZRFI1UG1Vclh1Vkg2TF9ORS1PalF0TFd0U2JwY0FkUm56bE1WU180dUJ3?oc=5\" target=\"_blank\">股价飙涨，维峰电子紧急公告：人形机器人尚未量产</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZQkt4RVJoc1BHb190YUozSGpwbEhvcENCMjdRYkZPYTE3Z0xDSm93OG96SG9tTWpZRFI1UG1Vclh1Vkg2TF9ORS1PalF0TFd0U2JwY0FkUm56bE1WU180dUJ3?oc=5",
+      "published": "Thu, 02 Jul 2026 00:23:38 GMT"
     },
     {
       "source": "同花顺",
-      "title": "港股恒生科技指数涨幅达2%",
-      "summary": "港股恒生科技指数涨幅扩大至2%，恒生指数现涨1.62%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890224.shtml",
-      "published": "Thu, 02 Jul 2026 01:54:55 GMT"
+      "title": "最新筹码大幅集中股出炉 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQODNVbWFNVDRaNWFMNnI0QjlqNk9zbl9ZSnFaRjN2RWRfSUh1WlIzRTZuWEVsbHpHWnJwMWhaTkFKVF9KYzYyZmZSV3lxNlUyakxyWVBmVUFPMjlUVjNNNFR3?oc=5\" target=\"_blank\">最新筹码大幅集中股出炉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQODNVbWFNVDRaNWFMNnI0QjlqNk9zbl9ZSnFaRjN2RWRfSUh1WlIzRTZuWEVsbHpHWnJwMWhaTkFKVF9KYzYyZmZSV3lxNlUyakxyWVBmVUFPMjlUVjNNNFR3?oc=5",
+      "published": "Thu, 02 Jul 2026 00:53:59 GMT"
     },
     {
       "source": "同花顺",
-      "title": "沪深京三市成交额超1万亿元，较上日此时放量937亿元",
-      "summary": "据同花顺iFinD数据，沪深京三市成交额超1万亿元，较上日此时放量937亿元，预计全天成交金额约3.9万亿元。截至目前，沪市成交额4421亿元，深市成交额5541亿元，北证50成交额67亿元。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890195.shtml",
-      "published": "Thu, 02 Jul 2026 01:53:22 GMT"
+      "title": "联合动力：东吴证券、华商基金等多家机构于7月1日调研我司 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKWUczaTZuVm1MTGN0RHZibXE3dzZDbXJtZ3h4YUw0S1I4V1JBSllyaTFfQ0drUVMxTXZrWlZoOUZFeXdVV1MtTlQ3T1ZWVWdKVTFxNVhLRWx4V1NocjJfek1R?oc=5\" target=\"_blank\">联合动力：东吴证券、华商基金等多家机构于7月1日调研我司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKWUczaTZuVm1MTGN0RHZibXE3dzZDbXJtZ3h4YUw0S1I4V1JBSllyaTFfQ0drUVMxTXZrWlZoOUZFeXdVV1MtTlQ3T1ZWVWdKVTFxNVhLRWx4V1NocjJfek1R?oc=5",
+      "published": "Thu, 02 Jul 2026 01:44:00 GMT"
     },
     {
       "source": "同花顺",
-      "title": "新易盛成交额达100亿元",
-      "summary": "新易盛成交额达100亿元，现跌7.48%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890167.shtml",
-      "published": "Thu, 02 Jul 2026 01:51:28 GMT"
+      "title": "7月2日新股提示：华润新能源、吉和昌今日上市 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uNWk1NmNNbFoyeEgwY2wxZ0UwOFpfZy1hYS1wS0QtWkRscnpqWjgxVExFZ3Fmd2hFNXhlUDJvVG53em5sTFRKRzg0UGFSQlVRWDl4THZ4ckRna3NwLTRzbGhn?oc=5\" target=\"_blank\">7月2日新股提示：华润新能源、吉和昌今日上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uNWk1NmNNbFoyeEgwY2wxZ0UwOFpfZy1hYS1wS0QtWkRscnpqWjgxVExFZ3Fmd2hFNXhlUDJvVG53em5sTFRKRzg0UGFSQlVRWDl4THZ4ckRna3NwLTRzbGhn?oc=5",
+      "published": "Thu, 02 Jul 2026 00:08:36 GMT"
     },
     {
       "source": "同花顺",
-      "title": "富时中国A50指数期货跌逾2%",
-      "summary": "富时中国A50指数期货跌逾2%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890147.shtml",
-      "published": "Thu, 02 Jul 2026 01:50:57 GMT"
+      "title": "英诺激光：公司暂无半年度业绩预告计划 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Y3RWcDIxS3Y1REFUcGl2bmFxalBoaGgtS3Vmc3NjeEFyT2FDOFZQcXdUYnNwZ3VxZndlVEUwY0o0ZjBzRm5TTGdlSEp5LXU5T2FXX3pDOEl2b2xJd3BfdDNfQmc3eExY?oc=5\" target=\"_blank\">英诺激光：公司暂无半年度业绩预告计划</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00Y3RWcDIxS3Y1REFUcGl2bmFxalBoaGgtS3Vmc3NjeEFyT2FDOFZQcXdUYnNwZ3VxZndlVEUwY0o0ZjBzRm5TTGdlSEp5LXU5T2FXX3pDOEl2b2xJd3BfdDNfQmc3eExY?oc=5",
+      "published": "Thu, 02 Jul 2026 01:16:50 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国内首家，东航宣布宽体机航班上网全部免费",
-      "summary": "东航今日宣布，自2026年7月3日起，东航及旗下上海航空所有宽体机航班空中Wi-Fi全免费。其中，超级经济舱和经济舱旅客可获得标准版流量，公务舱及头等舱旅客可获得高速版流量。在此之前，东航陆续放开了宽体机执飞的所有国内航线和部分国际航线上网免费，此次也是不分国内国际航线全部免费。(第一财经)",
-      "link": "https://news.10jqka.com.cn/20260702/c677890119.shtml",
-      "published": "Thu, 02 Jul 2026 01:50:28 GMT"
+      "title": "近5日机构调研数据：197家公司获关注 水晶光电成最受追捧标的 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE41MjNLQVBDNU1fMXBMVk9mOUlyWDF0ZFg1ZXJmSTR6UG1XV0hnM2RiR24wLWpGcmtEaTUtS190ZHN1N0pkOG55OG9LOHBtbExTVElkMHBPcHhWVDFONGJ2aGZR?oc=5\" target=\"_blank\">近5日机构调研数据：197家公司获关注 水晶光电成最受追捧标的</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41MjNLQVBDNU1fMXBMVk9mOUlyWDF0ZFg1ZXJmSTR6UG1XV0hnM2RiR24wLWpGcmtEaTUtS190ZHN1N0pkOG55OG9LOHBtbExTVElkMHBPcHhWVDFONGJ2aGZR?oc=5",
+      "published": "Thu, 02 Jul 2026 01:28:51 GMT"
     },
     {
       "source": "同花顺",
-      "title": "化学原料板块走强",
-      "summary": "化学原料板块走强，鲁银投资、滨化股份涨超7%，凯盛新材、善水科技、中泰化学跟涨。",
-      "link": "https://news.10jqka.com.cn/20260702/c677890061.shtml",
-      "published": "Thu, 02 Jul 2026 01:47:34 GMT"
+      "title": "7月2日盘前停复牌汇总 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oYnlENW1xY2wyMlhwTVRKVUFwNy0zXzBZYVY2dmdDVHBvSVRIOEUtUU5pQjI2XzUtTXNTV2llaU9lZlo3dnVEUlk4VWNVNTJ0RjhkSzNvMlhIYzgwTlFBSDVn?oc=5\" target=\"_blank\">7月2日盘前停复牌汇总</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oYnlENW1xY2wyMlhwTVRKVUFwNy0zXzBZYVY2dmdDVHBvSVRIOEUtUU5pQjI2XzUtTXNTV2llaU9lZlo3dnVEUlk4VWNVNTJ0RjhkSzNvMlhIYzgwTlFBSDVn?oc=5",
+      "published": "Thu, 02 Jul 2026 00:58:44 GMT"
     },
     {
       "source": "同花顺",
-      "title": "养殖业板块再度走高",
-      "summary": "养殖业板块再度走高，益生股份涨停，天域生物、新五丰、国联水产、华英农业、民和股份跟涨。相关ETF方面，养殖ETF汇添富（159172）涨0.63%，成交额673.63万元，养殖ETF易方达（159020）涨0.69%，成交额524.05万元。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889924.shtml",
-      "published": "Thu, 02 Jul 2026 01:41:38 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "智谱港股跌超15%",
-      "summary": "智谱港股跌15.40%，报1781.00港元。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889921.shtml",
-      "published": "Thu, 02 Jul 2026 01:41:27 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "海南板块短线走强",
-      "summary": "海南板块短线走强，海南海药4连板，海马汽车涨停，神农种业、欣龙控股、康芝药业、海峡股份跟涨。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889902.shtml",
-      "published": "Thu, 02 Jul 2026 01:40:36 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国KOSPI指数跌幅收窄至3%",
-      "summary": "韩国KOSPI指数跌幅收窄至3%，此前一度跌近7%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889876.shtml",
-      "published": "Thu, 02 Jul 2026 01:39:30 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "科创50指数跌幅扩大至6%",
-      "summary": "科创50指数跌幅扩大至6%，现报2023.2点。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889720.shtml",
-      "published": "Thu, 02 Jul 2026 01:34:38 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "创业板指跌4%",
-      "summary": "创业板指跌幅扩大至4%，上证指数跌1.59%，深证成指跌3.27%。半导体等AI硬件领跌。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889710.shtml",
-      "published": "Thu, 02 Jul 2026 01:34:27 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "科创50指数跌幅扩大至5%",
-      "summary": "科创50指数跌幅扩大至5%，现报2044.17点。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889054.shtml",
-      "published": "Thu, 02 Jul 2026 01:32:38 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中证1000股指期货(IM)主力合约日内跌超1%",
-      "summary": "中证1000股指期货(IM)主力合约日内跌超1%，现报8426.2点。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889022.shtml",
-      "published": "Thu, 02 Jul 2026 01:31:19 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "化学制药板块短线拉升",
-      "summary": "化学制药板块短线拉升，海南海药、京新药业涨停，宣泰医药、易明医药、贝达药业、前沿生物、天宇股份等纷纷走高。",
-      "link": "https://news.10jqka.com.cn/20260702/c677889019.shtml",
-      "published": "Thu, 02 Jul 2026 01:31:04 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "富时中国A50指数期货盘初跌超1%",
-      "summary": "富时中国A50指数期货盘初跌超1%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677888987.shtml",
-      "published": "Thu, 02 Jul 2026 01:29:33 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "股指期货早盘开盘 主力合约集体低开",
-      "summary": "股指期货早盘开盘，主力合约集体低开。沪深300股指期货(IF)主力合约跌1.20%，上证50股指期货(IH)主力合约跌0.25%，中证500股指期货(IC)主力合约跌1.16%，中证1000股指期货(IM)主力合约跌0.59%。",
-      "link": "https://news.10jqka.com.cn/20260702/c677888986.shtml",
-      "published": "Thu, 02 Jul 2026 01:29:29 GMT"
+      "title": "全域信创、单轨运行！恒生O45助力中邮证券自营投资跨越新发展 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OeXdHTmhvdWNlbXAzLUVyUVdtblVyaFd5QmJOcm1zMEE1UnBDVURNblNGWkpXZFpVWnI5YUZnOXpLSWtsS2J2NnZNYXNLaTdfSDdzeE9LNVdveDU3WlhrNjR3?oc=5\" target=\"_blank\">全域信创、单轨运行！恒生O45助力中邮证券自营投资跨越新发展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OeXdHTmhvdWNlbXAzLUVyUVdtblVyaFd5QmJOcm1zMEE1UnBDVURNblNGWkpXZFpVWnI5YUZnOXpLSWtsS2J2NnZNYXNLaTdfSDdzeE9LNVdveDU3WlhrNjR3?oc=5",
+      "published": "Thu, 02 Jul 2026 01:33:42 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "A股IPO一热，港股公司坐不住了",
-      "summary": "<section>\n<p>A股IPO市场正在迎来久违的热闹。</p>\n<p><strong>一边是募资端的回暖。</strong>2026年上半年，以发行日计（下同），A股IPO募资总额达到953.63亿元，已是去年同期的2.5倍之多。华润新能源、惠科股份、盛合晶微等大型项目集中落地撑起了A股IPO市场的融资规模。</p>\n<p><strong>另一边，受理端也在升温。</strong>沪深北三大交易所上半年合计受理242家公司的IPO申请，同比提升37%。创业板、科创板受理数量明显回升，北交所仍是申报主力，连锁药房、民航、艺术品等此前并不活跃的行业重新出现在受理名单中。</p>\n<p><strong>A股IPO市场的回暖还在吸引更多港股公司。</strong>据信风不完全统计，2026年上半年已有不少于5家公司推进A股IPO，分别是智谱、范式智能、MINIMAX、映恩生物和瑛泰医疗。</p>\n<p>制度也在为这些公司提供更多支持。今年6月，中国证监会主席吴清在陆家嘴论坛宣布，科创板第五套上市标准适用范围扩大至人工智能领域，重点支持优质AI大模型企业上市。</p>\n<p><strong",
-      "link": "https://wallstreetcn.com/articles/3776032",
-      "published": "Thu, 02 Jul 2026 01:36:56 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "再论“猪周期”：行业现金流正在枯竭，供给出清或将以“非线性”方式到来",
-      "summary": "<h2 style=\"text-align: left;\">一、发生了什么？——多重历史极值叠加，行业陷入“失血”深渊</h2><p style=\"text-align: left;\">价格端全线告急。截至2026年6月26日，全国生猪出栏均价为9.4元/公斤，在4月中旬触及8.67元/公斤的二十年来最低水平后，始终在9-10元/公斤的极窄区间内低位震荡，呈现出典型的“磨底”形态。仔猪市场同步崩塌，6月23日7公斤断奶仔猪价格已跌至157元/头，同比下降64%，环比下降13%，较280元/头的行业成本线已形成深度倒挂。</p><p style=\"text-align: left;\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/e74a9444-3bf5-4efb-b232-5fbe6cbc97cd.png\" title=\"\" /></p><p style=\"text-align: left;\">历史性指标接连告破。截至6月24日，全国大中城市猪粮比价跌至3.88，逼近今年4月创下的历史新低。猪粮比是衡量养殖盈",
-      "link": "https://wallstreetcn.com/member/articles/3775957",
-      "published": "Thu, 02 Jul 2026 01:33:58 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "A股三大指数集体低开",
-      "summary": "<p>上证指数跌1.42%，深证成指跌2.41%，创业板指跌2.94%。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3776030",
-      "published": "Thu, 02 Jul 2026 01:26:05 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "华创张瑜：当前宏观逻辑，暂不支持向消费板块进行系统性、战略性切换",
-      "summary": "<p style=\"text-align: left;\">本次旬度我们直面当前资本市场最核心的关切，能否系统性向消费板块切换（系统性是指半年到一年维度的大切换，周度、月度更多是策略与博弈层面问题）。</p>\n<p style=\"text-align: justify;\"><strong>从自上而下出发，我将从三个维度研判当前是否具备向消费板块系统性切换的条件：</strong>第一是宏观背景，偏向中长期维度，对应3-5年的发展阶段特征，宏观背景决定了一段时间内消费胜率偏高的时间占比，即——总是“好的”还是偶尔“好的”；第二是行业比较，择时性更强；第三是K型分化的收敛可能性，观察需求广谱度能否打开，所谓的左侧埋伏是否具备了信号。</p>\n<p style=\"text-align: justify;\"><strong>我们的结论是：当前宏观逻辑，暂不支持向消费板块进行系统性、战略性切换。</strong></p>\n<h2 style=\"text-align: justify;\">一、宏观背景：消费长期β已发生本质变化</h2>\n<p style=\"text-align: justify;\"",
-      "link": "https://wallstreetcn.com/articles/3776028",
-      "published": "Thu, 02 Jul 2026 01:05:53 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "刚刚，Fable 5全球复活！限时7天，额度砍半",
-      "summary": "<p style=\"text-align: justify;\">刚刚，Anthropic正式官宣：Fable 5回来了！</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/18d30809-264c-4dc0-b6a9-0cfcdc15d448.jpeg\" title=\"\" /></p>\n<p style=\"text-align: justify;\">就这简单的一句话，让全网奔走相告。</p>\n<p style=\"text-align: justify;\">苦等19天，所有人像过年一样冲回Claude，就为了亲眼确认那个熟悉的名字重新亮起。</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/3cd07b4c-9dab-4c45-9aa7-d6104337f40b.jpeg\" title=\"\" /></p>",
-      "link": "https://wallstreetcn.com/articles/3776027",
-      "published": "Thu, 02 Jul 2026 01:00:42 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美芯片股抛售拖累亚太股市，韩股触发熔断，SK海力士跌7%，油价持续回落，黄金稳于4000上方",
-      "summary": "<p style=\"text-align: left;\">投资者对人工智能（AI）概念股估值过高的担忧引发华尔街芯片板块剧烈抛售，这一恐慌情绪迅速蔓延至亚太市场。早盘期间，亚太股市普遍承压，韩国股市成为重灾区并触发熔断机制。与此同时，美联储释放的温和信号以及国际油价的持续下跌，正在重塑全球市场的风险偏好。</p>\n<p style=\"text-align: left;\">亚太市场的抛售潮在早盘迅速加剧。韩国首尔综指（KOSPI）低开4.5%后，日内跌幅迅速扩大至超过6%，跌破7800点关口。由于KOSPI 200期货暴跌5%，韩国交易所启动了熔断机制，程序化交易被暂停5分钟。权重芯片股跟随美股科技股隔夜跌势领跌大盘，SK海力士盘初重挫7.6%，三星电子下跌6.5%。</p>\n<p style=\"text-align: left;\">跌势不仅局限于韩国。日经225指数低开0.6%后，日内跌幅扩大至2%。MSCI亚太指数整体下跌1%。这一区域性暴跌的直接导火索是隔夜美股市场的动荡，美国半导体股票指数周三大幅下挫6.3%，标普500指数期货在亚洲时段继续下跌0.2%。</p>\n<p styl",
-      "link": "https://wallstreetcn.com/articles/3776024",
+      "title": "美芯片股抛售拖累亚太股市，韩股触发熔断，SK海力士跌7%，油价持续回落，黄金稳于4000上方 - 华尔街见闻",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CekhodXh2NHpRWjlaOVZnekliSXdsc0hIdHpZbm9NYnIyLUo4TlhrckV2NzFCa0g3Uk4tOVB1b2V5NVo2SDh5UklIcTU5YmJsV2Jj?oc=5\" target=\"_blank\">美芯片股抛售拖累亚太股市，韩股触发熔断，SK海力士跌7%，油价持续回落，黄金稳于4000上方</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CekhodXh2NHpRWjlaOVZnekliSXdsc0hIdHpZbm9NYnIyLUo4TlhrckV2NzFCa0g3Uk4tOVB1b2V5NVo2SDh5UklIcTU5YmJsV2Jj?oc=5",
       "published": "Thu, 02 Jul 2026 00:52:44 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "“全球最大杠杆ETF”的威力：“两倍海力士ETF”不仅影响海力士，甚至是整个全球科技股走势",
-      "summary": "<p style=\"text-align: left;\">追踪单一科技巨头的杠杆ETF正从被动投资工具演变为加剧全球市场波动的核心引擎。随着资金高度集中，这类产品不仅放大了底层股票和基准指数的涨跌幅，其引发的连锁反应正向全球科技股蔓延。</p>\n<p style=\"text-align: left;\">上周，韩国Kospi指数暴跌10%，引发全球科技股抛售，并拖累纳斯达克指数下跌3%。<strong>这一剧烈波动凸显了南方东英（CSOP）SK海力士杠杆ETF的巨大影响力。</strong>在推出仅九个月后，<strong>该基金规模已膨胀至130亿美元，成为全球同类产品中规模最大的基金。</strong></p>\n<p style=\"text-align: left;\">7月2日，据彭博报道，在市场波动剧烈的日子里，该ETF及其规模较小的同类基金的交易量可占SK海力士股票总交易量的三分之二——对于一家市值高达1.2万亿美元的公司而言，这是一个惊人的数字——<strong>迫使从华尔街到香港的各大银行不得不精心策划复杂的融资和对冲交易，以维持这些产品的正常运作。</strong></p>",
-      "link": "https://wallstreetcn.com/articles/3776019",
-      "published": "Thu, 02 Jul 2026 00:44:31 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "多家巨头警告北美电网“告急”：2027年电网容量转负，停电常态且要涨电费？！",
-      "summary": "<p style=\"text-align: left;\">SemiAnalysis最新报告指出，美国电网剩余可用容量最快将在2027年降至负值，意味着AI数据中心无法再依赖公共电网获得稳定供电，行业正被迫从“并网取电”走向“自备电源”时代。 美国数据中心新增电力需求将从2026年的21GW快速增长至2030年的84GW，而同期电网年均新增可靠容量仅约15GW。供需缺口持续扩大——NERC预计2027-2030年美国年均高峰缺口达20GW以上；高盛预测到2027年美国数据中心电力需求将较2025年翻一倍以上。这一“电力荒”正催生百亿美元级的自备电源市场：2025年全球数据中心备用发电机市场规模约128亿美元，预计2030年突破210亿美元。</p>",
-      "link": "https://wallstreetcn.com/member/articles/3775936",
-      "published": "Thu, 02 Jul 2026 00:43:11 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "SemiAnalysis：谷歌下一代TPU将采用英特尔EMIB-T封装",
-      "summary": "<p style=\"text-align: left;\">7月1日，据知名半导体分析机构SemiAnalysis透露，谷歌下一代代号为Humufish的TPU将放弃台积电的CoWoS封装，转而采用英特尔的EMIB-T技术。</p>\n<p style=\"text-align: left;\">目前，台积电的CoWoS是AI芯片封装的行业默认标准。谷歌作为头部科技巨头，其旗舰产品若成功迁移至英特尔的封装体系，将对台积电造成冲击。SemiAnalysis在X平台称，</p>\n<blockquote>\n<p style=\"text-align: left;\">“谷歌下一代TPU，代号Humufish，将采用英特尔EMIB-T，而不是台积电CoWoS。CoWoS是行业默认选择，这正是一个旗舰部件转向其他方案值得关注的原因。”</p>\n</blockquote>\n<p style=\"text-align: left;\">两者的核心区别在于封装的物理路径。CoWoS将所有的裸片（dies）放置在一个大型的硅或RDL中介层上。而英特尔的EMIB技术，则是将小型硅桥直接嵌入有机基板中，仅仅在需要芯片间连接",
-      "link": "https://wallstreetcn.com/articles/3776021",
-      "published": "Thu, 02 Jul 2026 00:41:55 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "贝森特高级助手将担任沃什顾问，美联储要和美国财政部更紧密合作？",
-      "summary": "<p>美联储主席沃什正从美国财政部引入关键幕僚，这一人事变动引发了市场对美联储与特朗普政府之间关系走向的密切关注。</p>\n<p>据彭博周四引述知情人士消息，美国财政部长贝森特的高级助手Samantha Schwab将加入美联储，担任沃什的顾问。Schwab自今年4月起担任贝森特的首席副幕僚长，此前曾在特朗普首个总统任期内于白宫任职。</p>\n<p>这一任命触动了投资者的敏感神经。市场和立法者正重新评估，在沃什的领导下，美联储是否会与包括财政部在内的特朗普政府建立更为紧密的联系，从而潜在影响货币政策的独立预期。</p>\n<p>沃什周三强调，美联储在决定适当政策路径时将保持自主性。他在欧洲央行会议的一场小组讨论中表示，“我们作为独立央行已经很长时间了。此刻我们仍将是独立央行，你们不会看到这方面发生变化。”</p>\n<h2 id=\"3717b6e8\">财政部高级助手转任美联储顾问</h2>\n<p>Samantha Schwab自今年4月起担任Scott Bessent在财政部的首席副幕僚长。她于2025年1月加入财政部，此前还曾在特朗普第一任期内的白宫任职。Schwab将出任沃什的顾问，但",
-      "link": "https://wallstreetcn.com/articles/3776023",
-      "published": "Thu, 02 Jul 2026 00:38:06 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "“还会降息吗？”四位央行行长笑而不答",
-      "summary": "<p>当地时间7月1日，美联储主席凯文·沃什、欧洲央行行长拉加德、英国央行行长安德鲁·贝利以及加拿大央行行长麦克勒姆共同出席在葡萄牙举行的欧洲央行中央银行论坛。</p>\n\n<p>当主持人问道“现在还有人认为会降息吗”，四位央行行长笑而不答。</p>",
-      "link": "https://wallstreetcn.com/charts/41959332",
-      "published": "Thu, 02 Jul 2026 00:22:31 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-      "summary": "<p style=\"text-align: left;\">Meta出售过剩算力的计划打破了市场对于“算力绝对稀缺”的核心信仰，这一战略转向引发了资金从芯片股的剧烈流出，同时也标志着市场对科技巨头无节制资本开支的容忍度正迎来拐点。</p>\n<p style=\"text-align: left;\">该消息在二级市场引发了极端的两极分化。主动释放削减开支信号的Meta股价单日暴涨10%，创下年内最佳表现；而传统的AI硬件受益者——半导体巨头、存储芯片制造商以及新兴云服务商（Neocloud）——则遭遇重挫，并拖累纳斯达克指数出现显著波动。</p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/e57ef8e3-5b1a-4492-ad72-05b29db50579.png\" /></p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/bd08d9b3-",
-      "link": "https://wallstreetcn.com/articles/3776018",
-      "published": "Thu, 02 Jul 2026 00:15:54 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "先进封装巨头，涨价20%",
-      "summary": "<div id=\"meta_content\"><span style=\"text-align: justify;\">据业界消息，7月1日，全球排名第一的半导体封装测试（OSAT）供应商日月光宣布再度调涨封装报价，涨价幅度最高超过20%。</span></div>\n<div id=\"js_content\">\n<p>日月光本次涨价品类涵盖各类先进封装技术，包括晶圆基板芯片封装（CoWoS）和扇出型基板芯片封装（FoCoS）。</p>\n<p>针对调价逻辑，日月光COO吴田玉此前在股东会后接受采访时曾回应，涨价主要有两方面考量：一是反映原材料价格上涨，这类调价属于必要性；二是覆盖近期大幅提升的资本开支对应的投资成本。公开数据显示，日月光此前年度资本开支约为20亿美元，2025年已提升至53亿美元，2026年进一步上调至85亿美元。</p>\n<p>全球市场来看，随着AI算力持续呈现爆发式增长，摩尔定律逼近物理极限，先进封装成为延续芯片性能增长、支撑AI算力爆发的核心赛道，产业战略地位空前提升。</p>\n<p>市场调研机构Yole表示，2025年全球先进封装的市场规模为540亿美元，预计到2031",
-      "link": "https://wallstreetcn.com/articles/3776020",
-      "published": "Thu, 02 Jul 2026 00:09:46 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "从“断航恐慌”到“过剩危机”：美伊协议引爆油价暴跌30%，高盛预警明年原油净过剩近200万桶",
-      "summary": "<p style=\"text-align: left;\">随着美伊地缘政治局势实质性降温，全球原油市场正经历从“供应恐慌”向“过剩危机”的剧烈基本面切换。</p>\n<p>周三，国际油价再度遭遇抛售跳水，WTI原油与布伦特原油期货跌幅均一度超过1.70%。布伦特原油跌破73美元关口，较战争期间逾126美元的峰值大幅回落。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/ef48d058-ace5-488f-9bf7-86053055e7aa.png\" /></p>\n<p>油价重挫的直接驱动力来自于中东地缘局势的快速降温。白宫发言人明确表示美国与伊朗有很大机会达成协议，双方代表团已于7月1日在多哈举行间接会谈，推进解冻资产及确保海峡海上安全等议题。</p>\n<p>高盛与摩根士丹利双双断言，全球石油市场即将重返严重的供应过剩状态，即便考虑到全球补充战略石油储备的庞大需求，明年原油市场的日均净过剩量仍将逼近200万桶，对油价形成长期压制。</p>\n<h2>美伊协议推进，地缘溢价全面回吐</h2>\n<p>原油市场正快速剥",
-      "link": "https://wallstreetcn.com/articles/3776012",
-      "published": "Thu, 02 Jul 2026 00:07:52 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "长协范围进一步扩大！通用汽车与美光签署“存储长期供应协议”",
-      "summary": "<p>通用汽车正在把关键芯片供应的确定性前置锁定。面对AI数据中心需求推高存储芯片价格、挤压跨行业供应的局面，汽车制造商与芯片厂商之间的长期协议正进一步扩展到存储与存储平台领域。</p>\n<p>据路透报道，美光与通用汽车周三表示，<strong>双方已签署一项长期供应协议，内容涵盖用于汽车生产的内存和存储平台。根据协议，通用汽车将确保获得相关内存和存储芯片供应，同时双方将合作开发未来技术。</strong></p>\n<p>这项协议的背景是，AI数据中心投资激增正在显著拉动存储芯片需求，并导致供应趋紧、价格上涨。S&amp;P Global Mobility报告显示，自去年12月以来，DRAM价格涨幅快于预期，累计上涨约70%。</p>\n<p>对汽车行业而言，存储芯片已不再只是电子零部件清单中的普通项目。随着高级驾驶辅助系统和高功耗信息娱乐系统在车辆中的重要性提升，内存和存储芯片正成为汽车生产中更关键的组成部分。</p>\n<div>\n<h2 id=\"cfd95a53\">长协锁定车用存储供应</h2>\n</div>\n<p>根据双方披露的协议，通用汽车将通过该长期供应安排获得内存和存储芯片保",
-      "link": "https://wallstreetcn.com/articles/3776016",
-      "published": "Thu, 02 Jul 2026 00:07:15 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "狂飙牛市中的杠杆隐忧：韩股风险会蔓延吗？",
-      "summary": "<p style=\"text-align: left;\">6月下旬，作为全球AI硬件周期风向标的韩国股市，遭遇剧烈杠杆风暴。KOSPI指数上周一攀至9000点历史新高后急转直下，周二暴跌10%触发熔断，周四收复大半失地，周五再度重挫8%二次熔断。韩国交易所自2000年以来仅触发过11次熔断机制，而上周单周贡献两次，年内累计已达5次。</p> <p style=\"text-align: left;\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/f748d773-63ea-47a7-8dba-f14f46828b39.png\" title=\"\" /></p> <p style=\"text-align: left;\">在本轮极端波动中，占据市场主导地位的两大芯片巨头——三星电子和SK海力士首当其冲，双双录得超过12%的单日跌幅，两家公司贡献了指数总跌幅的71%。韩国股市波动率飙升至92.7，甚至超过2008年全球金融危机时的峰值，为美国VIX指数的五倍。</p> <p style=\"text-align: left",
-      "link": "https://wallstreetcn.com/member/articles/3775758",
-      "published": "Thu, 02 Jul 2026 00:06:42 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "马斯克推进550亿美元Terafab芯片项目，特斯拉与SpaceX合并预期再升温",
-      "summary": "<p style=\"text-align: left;\">合并传闻尚未落地，Terafab已经让特斯拉和SpaceX在芯片、人才和制造体系上先行合流。</p>\n<p style=\"text-align: left;\">埃隆·马斯克正在特斯拉内部组建名为Terafab的半导体制造团队。据The Information最新报道，Terafab项目旨在为特斯拉和SpaceX的自动驾驶、人形机器人及数据中心提供关键的芯片制造能力。目前，两家公司已同意初步联合投资550亿美元，未来总投资额可能攀升至1190亿美元。</p>\n<p style=\"text-align: left;\">Terafab由SpaceX人员占主导。项目核心负责人John Federspiel向马斯克汇报，管理34名工程师和经理，其中只有少数来自特斯拉。项目还引入英特尔人员，马斯克曾表示，其公司计划使用Intel制造工艺生产芯片。</p>\n<p style=\"text-align: left;\">这一庞大的资本支出计划正值SpaceX完成首次公开募股（IPO）后的关键时期。目前SpaceX的股价较IPO价格上涨约25%，市值",
-      "link": "https://wallstreetcn.com/articles/3776017",
-      "published": "Thu, 02 Jul 2026 00:00:56 GMT"
+      "title": "A股IPO一热，港股公司坐不住了 - 华尔街见闻",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtbnY0ZEQ0UEhlVkQycmFYaDZsQnl0bXBVNnJ3YWN4a3h4TVdjd2lET2t0M2VxMFQ5Qnptc0dRWFNKd2dEb045ZDlwbzRHcW80Q2tZ?oc=5\" target=\"_blank\">A股IPO一热，港股公司坐不住了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtbnY0ZEQ0UEhlVkQycmFYaDZsQnl0bXBVNnJ3YWN4a3h4TVdjd2lET2t0M2VxMFQ5Qnptc0dRWFNKd2dEb045ZDlwbzRHcW80Q2tZ?oc=5",
+      "published": "Thu, 02 Jul 2026 01:36:56 GMT"
     },
     {
       "source": "第一财经",
@@ -467,13 +306,6 @@
       "published": "Thu, 02 Jul 2026 01:45:00 GMT"
     },
     {
-      "source": "证券时报",
-      "title": "东北证券李冠英：全球资本再平衡下，增配中国权益是长期主线 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xSldReXRwQUx2Mi1naS0yNm0wNkVlZ00yS19hQUdOTV9UYmtVWlhjakIwMGdpSnRpTjhTeEt3aENvczlTR3FpZ1k1c193SThDd1U0R3pvc202S2c2?oc=5\" target=\"_blank\">东北证券李冠英：全球资本再平衡下，增配中国权益是长期主线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5xSldReXRwQUx2Mi1naS0yNm0wNkVlZ00yS19hQUdOTV9UYmtVWlhjakIwMGdpSnRpTjhTeEt3aENvczlTR3FpZ1k1c193SThDd1U0R3pvc202S2c2?oc=5",
-      "published": "Thu, 02 Jul 2026 01:12:00 GMT"
-    },
-    {
       "source": "中国证券报",
       "title": "珠海泰诺麦博制药股份有限公司首次公开发行6908.1928万股A股 - 中证网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE52bk5GTEV4Mzdfd3UxaHZfS1lTV0dBbk50S2dZeFBDQUsyRkZCaHVzTDVjZ0VaR2VIQ0QxcTRvUGNLZzI4d0dtSElQVFJtRDZlU3lzQVowWmJhcFJfQkVWZmNydlRveHk2bkdnNC1SMjBVQmVBeGJF?oc=5\" target=\"_blank\">珠海泰诺麦博制药股份有限公司首次公开发行6908.1928万股A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中证网</font>",
@@ -493,6 +325,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlems5TE9VX0NfLXhBdXhjN1J1QmFLamRGcW5QTFV2aVprbVN2WlpBRm0tS083LU93eVFFM0hleENtM2ZWSjF5WVh5cjQ2ajJ4U2FUd2Z3?oc=5\" target=\"_blank\">7月2日国际晨讯｜韩国综合指数盘初跌超5% Meta拟推出云基础设施业务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报</font>",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlems5TE9VX0NfLXhBdXhjN1J1QmFLamRGcW5QTFV2aVprbVN2WlpBRm0tS083LU93eVFFM0hleENtM2ZWSjF5WVh5cjQ2ajJ4U2FUd2Z3?oc=5",
       "published": "Thu, 02 Jul 2026 00:44:26 GMT"
+    },
+    {
+      "source": "上海证券报",
+      "title": "日经225指数开盘跌0.62% 韩国综合指数跌4.46% - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fMzJ6dzcxVEx4dURRZ3F6cUpTNERkc3Y2VXd2Z0I1SU1oNE80ZUoyZ1BZODl3SDZuRm4zTHFPdldmQXc5WDBZNmt4Y240Qk5EOVlock5TOExoR1J3REZJSGFCbHU0dw?oc=5\" target=\"_blank\">日经225指数开盘跌0.62% 韩国综合指数跌4.46%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fMzJ6dzcxVEx4dURRZ3F6cUpTNERkc3Y2VXd2Z0I1SU1oNE80ZUoyZ1BZODl3SDZuRm4zTHFPdldmQXc5WDBZNmt4Y240Qk5EOVlock5TOExoR1J3REZJSGFCbHU0dw?oc=5",
+      "published": "Thu, 02 Jul 2026 00:45:28 GMT"
     }
   ]
 }
