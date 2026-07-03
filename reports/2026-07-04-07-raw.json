@@ -1,36 +1,92 @@
 {
   "date": "2026-07-04",
   "hour": "07",
-  "total": 18,
-  "fetched_at": "2026-07-04T07:00:50.204352+08:00",
+  "total": 24,
+  "fetched_at": "2026-07-04T07:56:05.493520+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "上半年A股新开户数超2000万户释放多重积极信号 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHFSRVJGMmR1VHFCa1hybEFKZFRscWNmWWt6bVRBMTEwNW1ZRTRnc2pSbnpxMGZLVVVQZXBiU0RlVEZCbG9sZkdLREUydEs1OFl5dlNRT2FpeDZtQ2YzcUZkVEp5Ml9XZmtldkowNGVfVFRXNTFzcg?oc=5\" target=\"_blank\">上半年A股新开户数超2000万户释放多重积极信号</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "title": "上半年A股回购三信号 注销过半、央国企入场、董事长“画饼”连坐 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBMcDhSY2FCMy11STFZY3ZncVFVSzBEU3JVcVZkZnJxb1Y2dUNaeHRvQWVJMlFDaGs4SkpnUXJZTkM3RC1ldy1tR1Z4amZyZEptaXBFNjVSV1pKTnVRODZwbm1mNFRwbHpMWW5aSUlPelgyWXZyZTlRZg?oc=5\" target=\"_blank\">上半年A股回购三信号 注销过半、央国企入场、董事长“画饼”连坐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMcDhSY2FCMy11STFZY3ZncVFVSzBEU3JVcVZkZnJxb1Y2dUNaeHRvQWVJMlFDaGs4SkpnUXJZTkM3RC1ldy1tR1Z4amZyZEptaXBFNjVSV1pKTnVRODZwbm1mNFRwbHpMWW5aSUlPelgyWXZyZTlRZg?oc=5",
+      "published": "Fri, 03 Jul 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "上半年A股新开户数超2000万户释放多重积极信号 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHFSRVJGMmR1VHFCa1hybEFKZFRscWNmWWt6bVRBMTEwNW1ZRTRnc2pSbnpxMGZLVVVQZXBiU0RlVEZCbG9sZkdLREUydEs1OFl5dlNRT2FpeDZtQ2YzcUZkVEp5Ml9XZmtldkowNGVfVFRXNTFzcg?oc=5\" target=\"_blank\">上半年A股新开户数超2000万户释放多重积极信号</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11NHFSRVJGMmR1VHFCa1hybEFKZFRscWNmWWt6bVRBMTEwNW1ZRTRnc2pSbnpxMGZLVVVQZXBiU0RlVEZCbG9sZkdLREUydEs1OFl5dlNRT2FpeDZtQ2YzcUZkVEp5Ml9XZmtldkowNGVfVFRXNTFzcg?oc=5",
       "published": "Fri, 03 Jul 2026 22:38:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "年内53家国家级专精特新“小巨人”企业登陆A股 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBIZUNKa2N4N2JYcG5ERko3YjB3VTZTUWoySkMyOHd0b0dVUjBCckkwS0Y5MlMwTmUyb2lNWl9GMi1NclgtNzdlZzE2eVJIUzh2RTFLaUtWY0VId0JYX0tFWl9yaTNWdk5rRnJuTDlGYWFybDRuNVRTNw?oc=5\" target=\"_blank\">年内53家国家级专精特新“小巨人”企业登陆A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIZUNKa2N4N2JYcG5ERko3YjB3VTZTUWoySkMyOHd0b0dVUjBCckkwS0Y5MlMwTmUyb2lNWl9GMi1NclgtNzdlZzE2eVJIUzh2RTFLaUtWY0VId0JYX0tFWl9yaTNWdk5rRnJuTDlGYWFybDRuNVRTNw?oc=5",
-      "published": "Fri, 03 Jul 2026 22:37:00 GMT"
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXpQenQyLWoyYU03eUw3TjJDaVQ1QndvNmtRM3NEZVlvT3NEaGgwNUVyVVVLMTYwaGE3WkdROFFRd0dmR1o0YVR1QUUwaFU0YUx4Sm5OZElxTHhPb1pVLVJnMHFMRzd5Vl84bFpxeFBCbTY1Z1JoSGRRNGdaak9hWlZmajdOSTJtSG43dWUzTFQxSFFzbmdz?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXpQenQyLWoyYU03eUw3TjJDaVQ1QndvNmtRM3NEZVlvT3NEaGgwNUVyVVVLMTYwaGE3WkdROFFRd0dmR1o0YVR1QUUwaFU0YUx4Sm5OZElxTHhPb1pVLVJnMHFMRzd5Vl84bFpxeFBCbTY1Z1JoSGRRNGdaak9hWlZmajdOSTJtSG43dWUzTFQxSFFzbmdz?oc=5",
+      "published": "Fri, 03 Jul 2026 23:54:01 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "金钼股份MSCI ESG评级维持B，位居A股同行业55家公司第17名，与中钨高新等同级、高于北方稀土、低于金博股份等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWpQeUtZVDJrRFlTY3JDZnU2eXVuYk1vNUI1MmxNTXJPbWhtcHRXcmRkbm9aY3I1QmJmRVRyLXJpeWJQNnlORnJwWEdvWmF2Si10OTI4SXB1TTdsaWNmeG5RVF90XzE2WFNNUk44aGpJS1ZkU1Q3TlpXYWVtRF9xVnRDSDV1MjlGV0tETEtn?oc=5\" target=\"_blank\">金钼股份MSCI ESG评级维持B，位居A股同行业55家公司第17名，与中钨高新等同级、高于北方稀土、低于金博股份等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWpQeUtZVDJrRFlTY3JDZnU2eXVuYk1vNUI1MmxNTXJPbWhtcHRXcmRkbm9aY3I1QmJmRVRyLXJpeWJQNnlORnJwWEdvWmF2Si10OTI4SXB1TTdsaWNmeG5RVF90XzE2WFNNUk44aGpJS1ZkU1Q3TlpXYWVtRF9xVnRDSDV1MjlGV0tETEtn?oc=5",
-      "published": "Fri, 03 Jul 2026 21:16:00 GMT"
+      "source": "同花顺",
+      "title": "蓄力稳增长 三季度专项债发行或加码",
+      "summary": "企业预警通数据显示，截至7月3日，今年已经发行新增专项债20692亿元，完成全年进度的47%；其中，6月发行5716亿元，为今年以来月度发行高峰。专家认为，当前专项债发行提速态势已明确，后续发行与使用节奏有望加快。综合立体交通、能源水利等领域有望成为专项债资金支持重点，为全年经济稳增长蓄力。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947798.shtml",
+      "published": "Fri, 03 Jul 2026 23:51:40 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "招商公路MSCI ESG评级较上年上升至BB，位居A股同行业8家公司排名第1，与宁沪高速同级、高于上海机场等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3oxbXY0Qkl3eVJScWp3SmswcTllNmh2U2RPYWF2MVZUZ203aENVM3RVSzFEandkYXFyNDVfbjZtbXltUzVlakFpUFlYaDZHLWhOSnRseGpKekZsSE5yMXpDSG9YTXhjRmtaUEtOVkU2dTJaRUJTRjktUGxaVjJHMXFsQTF4WmZqb2U3RzJR?oc=5\" target=\"_blank\">招商公路MSCI ESG评级较上年上升至BB，位居A股同行业8家公司排名第1，与宁沪高速同级、高于上海机场等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3oxbXY0Qkl3eVJScWp3SmswcTllNmh2U2RPYWF2MVZUZ203aENVM3RVSzFEandkYXFyNDVfbjZtbXltUzVlakFpUFlYaDZHLWhOSnRseGpKekZsSE5yMXpDSG9YTXhjRmtaUEtOVkU2dTJaRUJTRjktUGxaVjJHMXFsQTF4WmZqb2U3RzJR?oc=5",
-      "published": "Fri, 03 Jul 2026 21:10:00 GMT"
+      "source": "同花顺",
+      "title": "英媒：热浪致命，欧洲酝酿一项气候韧性战略计划",
+      "summary": "欧洲新闻台3日称，欧盟委员会表示，欧洲目前约75%的气候相关死亡与高温热应激有关，这凸显出极端气温已成该大陆首要气候威胁。欧盟委员会认识到，欧洲的政策未能跟上气候变化加速的步伐及其影响，并承诺在上周经历极端且致命的热浪后，加倍努力减缓气候变化。欧盟官员表示，今年夏天热浪可能会再次出现，并强调欧盟必须从应对灾害转向预防灾害，一项气候韧性战略计划拟于今年第四季度推出。有欧盟官员称：“我们希望提出一个非常有力、全面的方案框架，以促进和赋能整个欧洲经济，涵盖欧盟治理的各个层面。”（环球时报）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947792.shtml",
+      "published": "Fri, 03 Jul 2026 23:49:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "北约高级指挥官：欧洲已基本填补美国削减军力留下的缺口",
+      "summary": "北约欧洲盟军副最高司令约翰·斯特林格表示，美国削减欧洲战时应急增援计划中的资产后，北约欧洲盟友已基本填补相关缺口。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947791.shtml",
+      "published": "Fri, 03 Jul 2026 23:49:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "未来产业基金密集“落子” 上市公司前瞻布局抢占风口",
+      "summary": "“仅上周五（6月26日），我们就接待了6波投资人。”近日，一家核聚变初创企业负责人对记者说。启明创投主管合伙人胡旭波则在日前透露：“脑机接口会是下一个规模可观的领域，最近相关公司的估值涨得很快。”今年以来，未来产业投融资、证券化均明显升温。一级市场上，具身智能、量子科技、可控核聚变等多个未来产业赛道大额融资频现。更有不少未来产业公司已进入上市辅导、IPO受理等阶段。与此同时，北京、上海、四川等地密集“落子”未来产业基金；近期上市公司相继参投设立产业投资基金，纷纷瞄准未来产业细分赛道。（上海证券报）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947784.shtml",
+      "published": "Fri, 03 Jul 2026 23:48:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "7月以来新发基金168只 权益类占比近六成",
+      "summary": "下半年开局，公募基金便迎来了一波新发小高峰。数据显示，7月基金新发数量达到168只，权益类产品占比近六成，成为月度新发主力。此次权益赛道发行结构更趋均衡，布局方向兼顾成长与价值两大主线。（上海证券报）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947772.shtml",
+      "published": "Fri, 03 Jul 2026 23:46:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "券商板块获得机构密集调研 修复行情有望持续",
+      "summary": "6月下旬以来，沉寂许久的券商板块骤然掀起行情浪潮。行情启动前夕，机构调研风向已率先转向券商赛道。数据显示，6月以来，有13家券商接受了证券、基金、外资等各类投资机构的调研，受访券商数量较去年同期增长四成。展望半年报，多家机构预计上市券商净利润同比增速有望达50%。业内认为，本轮行情是基本面景气与交易压制出清共同作用的结果，当前板块估值仍处于历史偏低位置，随着业绩不断验证与资金面持续改善，券商板块的估值修复行情具备较强持续性。（上海证券报）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947771.shtml",
+      "published": "Fri, 03 Jul 2026 23:46:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "格陵兰岛当局称美仍在施压 但该岛“绝不出售”",
+      "summary": "格陵兰岛自治政府总理延斯-弗雷德里克·尼尔森3日在法国出席一场公开活动时表示，美国为取得格陵兰岛仍在持续施压，但格陵兰岛“绝不出售”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947742.shtml",
+      "published": "Fri, 03 Jul 2026 23:36:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "河南省政府对郑州市政府进行安全生产约谈",
+      "summary": "根据《加强安全生产责任落实若干制度》等有关规定，6月30日，河南省政府对郑州市政府进行安全生产约谈。河南省委常委、常务副省长张敏指出，郑州市近期生产安全事故多发频发，暴露出安全意识淡薄、思想松懈，工作不严不实，查不到位、改不到位、吸取教训不到位等突出问题。要高度警醒，坚决扛牢安全生产政治责任，守土有责、守土尽责，以最坚决的态度、最有力的举措、最严实的作风，全力破解工作堵点、补齐监管漏洞，坚决扭转安全生产被动落后局面。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260704/c677947714.shtml",
+      "published": "Fri, 03 Jul 2026 23:30:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Apple Watch S12曝光",
+      "summary": "科技媒体 MacRumors 昨日（7 月 3 日）发布博文，报道称在 Apple Watch Series 12 智能手表表带上，苹果公司可能会嵌入新的健康传感器。 报道称 Apple Watch Series 12 这款表带将采用注塑方式，将传感器集成到硅胶表带中。且消息称由于受限于目前的表带工艺，该传感器仅限部署在硅胶表带。(新浪财经)",
+      "link": "https://news.10jqka.com.cn/20260704/c677947686.shtml",
+      "published": "Fri, 03 Jul 2026 23:18:48 GMT"
     },
     {
       "source": "同花顺",
@@ -82,25 +138,11 @@
       "published": "Fri, 03 Jul 2026 22:33:51 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "巴西最高法院裁定延长前总统博索纳罗居家监禁",
-      "summary": "当地时间3日，巴西最高法院大法官德莫赖斯裁决，延长前总统博索纳罗的居家监禁。博索纳罗因涉嫌在2022年总统选举失利后企图发动政变而受到刑事指控。2025年9月11日，巴西联邦最高法院宣布博索纳罗策划政变罪名成立，判刑27年零3个月。博索纳罗于2025年11月25日开始正式服刑。今年3月，巴西最高法院因博索纳罗需要治疗支气管炎，批准其辩护律师提出的居家监禁申请，并裁定90天期满后，将根据医疗评估结果重新决定是否继续居家监禁。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260704/c677947430.shtml",
-      "published": "Fri, 03 Jul 2026 21:48:27 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "斯洛伐克称不会承担北约峰会上提出的任何援乌义务",
-      "summary": "当地时间7月3日，斯洛伐克总理菲佐表示，即将在土耳其安卡拉举行的北约峰会所通过的决议，不会使斯洛伐克承担参与向乌克兰提供军事援助财政机制的义务。菲佐表示，斯洛伐克政府始终认为，乌克兰冲突没有军事解决方案，而“现在又有人提出，要通过一项政治声明，为乌克兰再提供700亿欧元的支持”。菲佐说，斯洛伐克愿意继续向乌克兰提供人道主义援助，并继续通过斯乌政府双边磋商机制开展合作，但“不会参与任何旨在为乌克兰提供军事支持的财政机制”。菲佐表示，如果德国或法国决定向乌克兰提供贷款，斯洛伐克无权阻止，但他强调，斯洛伐克不会参与其中，就像此前没有参与欧盟向乌克兰提供900亿欧元贷款一样，“峰会结论不会对任何单一成员国产生具有约束力的义务”。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260704/c677947415.shtml",
-      "published": "Fri, 03 Jul 2026 21:29:08 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "富时中国A50指数期货夜盘收跌0.03%，报14882点",
-      "summary": "富时中国A50指数期货夜盘收跌0.03%，报14882点。",
-      "link": "https://news.10jqka.com.cn/20260704/c677947408.shtml",
-      "published": "Fri, 03 Jul 2026 21:16:38 GMT"
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年7月4日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">AI担忧缓和</span>，<span style=\"color: #ff0000;\">美股休市</span>，纳斯达克100期货反弹超1%；<span style=\"color: #ff0000;\">科技股反弹</span>，<span style=\"color: #ff0000;\">力挺</span>泛<span style=\"color: #ff0000;\">欧股</span>指两日<span style=\"color: #ff0000;\">连创新高</span>，<span style=\"color: #ff0",
+      "link": "https://wallstreetcn.com/articles/3776185",
+      "published": "Fri, 03 Jul 2026 23:18:03 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -110,11 +152,11 @@
       "published": "Fri, 03 Jul 2026 22:06:52 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "智利锂矿巨头计划扩产70%！Novandino将锂年产目标设定最高47万吨",
-      "summary": "<p>智利矿业公司SQM与Codelco正推进双方大型锂业合资项目扩产，将这一全球最重要的锂产区押注于长期电池需求增长之上。</p>\n<p>根据一份涉及30亿美元的运营改造环境影响研究报告，两家公司旗下合资企业Novandino提出将锂年产量目标设定为最高47万吨，较该公司今年约27万吨的产量指引高出逾70%。Novandino未披露达产时间表。</p>\n<p>此次扩产计划的背景是，储能电池需求与电动汽车市场共同推动全球锂消费呈现两位数增长。分析人士指出，若该计划得以落地，将对高成本竞争对手形成压力——尤其是在全球供应过剩局面逐步消退之际。</p>\n<p>然而，市场咨询机构Benchmark Mineral Intelligence表示，47万吨的目标出人意料，因为该项目此前主要被定位为环保升级举措，而非显著扩大产能。</p>\n<div>\n<h2 id=\"18dee816\">产能扩张路径仍需多年铺垫</h2>\n</div>\n<p>根据周五提交的申报文件，Novandino计划分阶段推进。在当前框架下，产量预计将逐步爬升至约30万吨，随后进入为期七年的过渡期，届时将引入直接锂提取（DLE",
-      "link": "https://wallstreetcn.com/articles/3776182",
-      "published": "Fri, 03 Jul 2026 21:27:36 GMT"
+      "source": "中国证券报",
+      "title": "四大证券报头版头条内容精华摘要_2026年7月3日_财经新闻 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOemt4QTZjeU9MVDJHdWFESUt3a3pOOHFISFJMUklzNjFfUUItZEJyOGdOZG1jZzc4V3B0WDRIQmZlbkRxV3JnOE5TWnJoTHZaVDB4Y2ZHQjZ0RTVWQ2FwemJtSUxNSmNjVmRSSUJUTTZmNk5xeTh5UTY2WGw5dlVWZkkxV2pqZjVmSzZqQ3d1X1EtT21idTJnam9qbmV2QzQ4M0s4YUhveTgyM2w0bGNIRkYzbmpvRXQ2MHNOMURFUGR5U0hDOGQ2bV85SU1ZRW84V2JpeW9WUlJsVjFmMC0zRFlrV3gxUk54NWVCaS0wckEyTGlRbDZsbjduNU56UnB1WEQ2N1ctdHNSOElp?oc=5\" target=\"_blank\">四大证券报头版头条内容精华摘要_2026年7月3日_财经新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\"",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOemt4QTZjeU9MVDJHdWFESUt3a3pOOHFISFJMUklzNjFfUUItZEJyOGdOZG1jZzc4V3B0WDRIQmZlbkRxV3JnOE5TWnJoTHZaVDB4Y2ZHQjZ0RTVWQ2FwemJtSUxNSmNjVmRSSUJUTTZmNk5xeTh5UTY2WGw5dlVWZkkxV2pqZjVmSzZqQ3d1X1EtT21idTJnam9qbmV2QzQ4M0s4YUhveTgyM2w0bGNIRkYzbmpvRXQ2MHNOMURFUGR5U0hDOGQ2bV85SU1ZRW84V2JpeW9WUlJsVjFmMC0zRFlrV3gxUk54NWVCaS0wckEyTGlRbDZsbjduNU56UnB1WEQ2N1ctdHNSOElp?oc=5",
+      "published": "Fri, 03 Jul 2026 22:14:47 GMT"
     },
     {
       "source": "限售股解禁",
