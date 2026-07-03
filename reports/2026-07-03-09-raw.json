@@ -1,253 +1,36 @@
 {
   "date": "2026-07-03",
   "hour": "09",
-  "total": 59,
-  "fetched_at": "2026-07-03T09:00:50.500782+08:00",
+  "total": 19,
+  "fetched_at": "2026-07-03T09:51:16.147935+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "A股再迎宽幅震荡，短线何时企稳？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE83aFZrZHhJYXp2dG9Ob2tiUE9sUERoNlI3V2NERldtbEx6ZmJlMDlYUlBoamlLbzJsWVNPeGVkTjdDbmhwdkhaOHpxZ29YOHpYcFhwclN5QUJvTVZDNUJmNmU5M3RJd3dta2o2MlprMThoYVk0UDQ4WQ?oc=5\" target=\"_blank\">A股再迎宽幅震荡，短线何时企稳？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83aFZrZHhJYXp2dG9Ob2tiUE9sUERoNlI3V2NERldtbEx6ZmJlMDlYUlBoamlLbzJsWVNPeGVkTjdDbmhwdkhaOHpxZ29YOHpYcFhwclN5QUJvTVZDNUJmNmU5M3RJd3dta2o2MlprMThoYVk0UDQ4WQ?oc=5",
-      "published": "Fri, 03 Jul 2026 00:24:00 GMT"
+      "source": "华尔街见闻",
+      "title": "中国6月RatingDog服务业PMI 54.1，前值 54.4。",
+      "summary": "<p>中国6月RatingDog服务业PMI 54.1，前值 54.4。 </p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3776125",
+      "published": "Fri, 03 Jul 2026 01:45:43 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "年内超50家A股上市公司发布筹划控制权变更公告 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8tRGFQM3drTDNYZ0NaYVdFS05aektObzREejFtRXJ1SDdXbWxuMm90aDM5eHVId3l5YXdwNFA5SG1FcEpsUHMwVi1aU2JPVjh4OXlVZF9zMERXUy15b1pGUE1SZ3J5eFdhTWRFc05GcUdBMEhyLVdUMQ?oc=5\" target=\"_blank\">年内超50家A股上市公司发布筹划控制权变更公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tRGFQM3drTDNYZ0NaYVdFS05aektObzREejFtRXJ1SDdXbWxuMm90aDM5eHVId3l5YXdwNFA5SG1FcEpsUHMwVi1aU2JPVjh4OXlVZF9zMERXUy15b1pGUE1SZ3J5eFdhTWRFc05GcUdBMEhyLVdUMQ?oc=5",
-      "published": "Thu, 02 Jul 2026 23:16:00 GMT"
+      "source": "华尔街见闻",
+      "title": "日韩股市反弹，美股期货走高",
+      "summary": "<p>韩国首尔综指日内涨超1%，此前一度跌3%。铠侠股价转为涨跌持平，此前一度跌12%。美股期货走高，纳斯达克100指数期货涨0.4%。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3776124",
+      "published": "Fri, 03 Jul 2026 01:27:07 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股定增一览：17家公司披露定增进展 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Hc3hsUWtvOU9iSXEzY2pVbzhDZ0d1RTNsMGQ2U2Q5LVlGeDFTWXpnSHRtYlFwMUFVZWtMTUMyTVF4RDdYN3NsNTdkTl9KLXBDMzZiSVo2WTR0YmE5TXJaNVVZekZwM1A1OFFjLXVCZG9RcjMzRE1ycA?oc=5\" target=\"_blank\">A股定增一览：17家公司披露定增进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Hc3hsUWtvOU9iSXEzY2pVbzhDZ0d1RTNsMGQ2U2Q5LVlGeDFTWXpnSHRtYlFwMUFVZWtMTUMyTVF4RDdYN3NsNTdkTl9KLXBDMzZiSVo2WTR0YmE5TXJaNVVZekZwM1A1OFFjLXVCZG9RcjMzRE1ycA?oc=5",
-      "published": "Thu, 02 Jul 2026 23:48:00 GMT"
+      "source": "华尔街见闻",
+      "title": "高盛对冲基金主管的“半年度总结”：这种情况以前只发生过一次",
+      "summary": "<p>标普500指数今年上半年录得约10%的总回报，若全年维持在7530点以上，将创下68年指数历史中第二次实现连续四年两位数回报的纪录。高盛对冲基金业务主管Tony Pasquariello在其半年度市场回顾中指出，这一市场环境是他27年职业生涯中所见过的最具动态性的时期。</p>\n<p>AI基础设施建设的加速推进是贯穿上半年的核心主线。高盛自定义篮子数据显示，内存板块年初至今涨幅高达250%，数据中心板块上涨115%，AI半导体板块上涨101%。与此同时，北亚股市表现抢眼，韩国KOSPI以本币计算年内总回报达102%，台湾加权指数上涨62%，日经225指数上涨40%，三者均深度受益于AI基础设施投资浪潮。</p>\n<p>Pasquariello同时警示，市场并非一帆风顺。前端利率预期从年初的降息50个基点大幅转向加息37个基点，美元从3月的普遍看跌转为当前的普遍看涨，大宗商品市场亦经历剧烈波动。<strong>展望下半年，他维持\"做多Delta、做多波动率\"的整体仓位构建。</strong></p>\n<h2>连续四年两位数回报：历史上仅此一次</h2>\n<p>标普500指数上半年约",
+      "link": "https://wallstreetcn.com/articles/3776119",
+      "published": "Fri, 03 Jul 2026 01:18:08 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股限售股解禁一览：13.83亿元市值限售股今日解禁 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBOeG5hR29CRjVSNzlfaGxicnpHRU1GdnpnQlMyYmFFbEhaTE1vQ0VyTEZyYnEyUGthTkJUbC1JTHdKV0Iwb0ZwSUxPX013a2pWRVowaVZGQzg4dWlHdWVYSUVfUTJqTWdUWURKdmlhOU5oUzQwLTBQZQ?oc=5\" target=\"_blank\">A股限售股解禁一览：13.83亿元市值限售股今日解禁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOeG5hR29CRjVSNzlfaGxicnpHRU1GdnpnQlMyYmFFbEhaTE1vQ0VyTEZyYnEyUGthTkJUbC1JTHdKV0Iwb0ZwSUxPX013a2pWRVowaVZGQzg4dWlHdWVYSUVfUTJqTWdUWURKdmlhOU5oUzQwLTBQZQ?oc=5",
-      "published": "Thu, 02 Jul 2026 23:31:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "京东方A逆袭成交493亿居A股之首 切换算力赛道股价翻倍市值增1800亿 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE92UC1xOHN5WW1UZFIzSnJPR0dYUWZVVHd3MHB4SGJ0WHYzZVJwRWF1VzQwQjZ1WnkyaG1kS280WmxGcUpFVV92X2czQktXVG9QdkFXZGpIMnEzbUh5Mmx0YzVvYWd4alhJTXhhRWJoanNaa3Jwcy11eQ?oc=5\" target=\"_blank\">京东方A逆袭成交493亿居A股之首 切换算力赛道股价翻倍市值增1800亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92UC1xOHN5WW1UZFIzSnJPR0dYUWZVVHd3MHB4SGJ0WHYzZVJwRWF1VzQwQjZ1WnkyaG1kS280WmxGcUpFVV92X2czQktXVG9QdkFXZGpIMnEzbUh5Mmx0YzVvYWd4alhJTXhhRWJoanNaa3Jwcy11eQ?oc=5",
-      "published": "Thu, 02 Jul 2026 23:33:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQUdXUUJTamdIQ3FRUUI1emFQVEhTd1RfOGxjalZtWnpmUlJBZWZpRTVuWE8wTk9oX3lTLXp5bWU5RVFaVEhxZE9xVzh0SUoyaHlIZ1BjVnBibGpLRUVWRVRiXzh4a1RzY19Jb0k4aDM0eXBkZ05aRw?oc=5\" target=\"_blank\">上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QQUdXUUJTamdIQ3FRUUI1emFQVEhTd1RfOGxjalZtWnpmUlJBZWZpRTVuWE8wTk9oX3lTLXp5bWU5RVFaVEhxZE9xVzh0SUoyaHlIZ1BjVnBibGpLRUVWRVRiXzh4a1RzY19Jb0k4aDM0eXBkZ05aRw?oc=5",
-      "published": "Thu, 02 Jul 2026 23:14:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "财闻早知道 | 美道指创新高存储股继续大跌 宇树科技IPO注册通过 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBGTm5LMFc5UEEwTV9qRkN2SjE0OXQ0b0ctMjNvSDdydzU0NEpHT1d2T0pDZVc4b1VlWnotYVVYM3JubjRyQWdzT3hhSnZ1MXBEZTZvcDJpUjFwRmV3ejNybFhSOTdHcGdHaFJKY3drZWd4UGNYT1BZcA?oc=5\" target=\"_blank\">财闻早知道 | 美道指创新高存储股继续大跌 宇树科技IPO注册通过</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGTm5LMFc5UEEwTV9qRkN2SjE0OXQ0b0ctMjNvSDdydzU0NEpHT1d2T0pDZVc4b1VlWnotYVVYM3JubjRyQWdzT3hhSnZ1MXBEZTZvcDJpUjFwRmV3ejNybFhSOTdHcGdHaFJKY3drZWd4UGNYT1BZcA?oc=5",
-      "published": "Fri, 03 Jul 2026 00:31:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "今年过半，诞生154个IPO - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1qOFFLR2tGOGd4VGlLM3JHQW5LU0NSbUNDWVB5YVgxb3didy1IM1NVVFpnWjlIYWpaQWlxV1NsRUhiM2tUVV9JQ1VjRVR5WThNbGRIUENoU3lkUENLYm1PUlhrMTZxajN4aWV0XzRzd1Nuc2ZQdHpXRw?oc=5\" target=\"_blank\">今年过半，诞生154个IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qOFFLR2tGOGd4VGlLM3JHQW5LU0NSbUNDWVB5YVgxb3didy1IM1NVVFpnWjlIYWpaQWlxV1NsRUhiM2tUVV9JQ1VjRVR5WThNbGRIUENoU3lkUENLYm1PUlhrMTZxajN4aWV0XzRzd1Nuc2ZQdHpXRw?oc=5",
-      "published": "Thu, 02 Jul 2026 23:14:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1Y0bkU3THBJVm1iSy1FUE1pYVp2bWNXVGswdlU5eGwweXJtM2RzcTlEZU9wekxSUXpNYUVUUGNCcjhPZTdlaVpPMWZ4akpPejVlVnI4MU1iLTk4MHhzbWFZbE1tQkxpc3ppUXNqalk2Y1F5TjNBVHVLSm8xUU1IVVU4MzZSNXJiWTFZQjBkVDJMNmd5VVhF?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV1Y0bkU3THBJVm1iSy1FUE1pYVp2bWNXVGswdlU5eGwweXJtM2RzcTlEZU9wekxSUXpNYUVUUGNCcjhPZTdlaVpPMWZ4akpPejVlVnI4MU1iLTk4MHhzbWFZbE1tQkxpc3ppUXNqalk2Y1F5TjNBVHVLSm8xUU1IVVU4MzZSNXJiWTFZQjBkVDJMNmd5VVhF?oc=5",
-      "published": "Fri, 03 Jul 2026 00:33:34 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "红K先生：逆水行舟，A股又是一场硬仗！ - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXdWUFhJUXQ4THdxamF2TEpiY1hMZkhsN3paLTM5ZjU3OWxJUUhxOFhpaHdUelNfWjNHSDlTTGpsbGwwZXU4NFA2UWhkOTN6TnE1MTNrOTdFWWR2MTl1cGVPT2lXMEtOQTdFbmFBaXFyQUZ3b1ZaLURpRmpNWkp4Q2ROZjFhYWMtMUVZUE5peDQwel9WeFNwNnJWeHgtOEYwSndJZXV4X2JvZWgtZkRDYkMydw?oc=5\" target=\"_blank\">红K先生：逆水行舟，A股又是一场硬仗！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXdWUFhJUXQ4THdxamF2TEpiY1hMZkhsN3paLTM5ZjU3OWxJUUhxOFhpaHdUelNfWjNHSDlTTGpsbGwwZXU4NFA2UWhkOTN6TnE1MTNrOTdFWWR2MTl1cGVPT2lXMEtOQTdFbmFBaXFyQUZ3b1ZaLURpRmpNWkp4Q2ROZjFhYWMtMUVZUE5peDQwel9WeFNwNnJWeHgtOEYwSndJZXV4X2JvZWgtZkRDYkMydw?oc=5",
-      "published": "Fri, 03 Jul 2026 00:17:48 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "南方佳元6个月持有期债券型证券投资基金招募说明书(20260703更新) 查看PDF原文 - 天天基金",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWk1Bams1bHphVXlBcE1RbXZSY1NnRnNNNkd6a3MzdjlNejhXV3BMNV9WcHQ1LWxKc1pqX0tWNlpuMnNYS2REd3FsZVNXelZnTHlHd1Z6SnhPR3FmWmlhdmhRQlkzX1hFYTVzamxYWnVWcVFYemc?oc=5\" target=\"_blank\">南方佳元6个月持有期债券型证券投资基金招募说明书(20260703更新) 查看PDF原文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BWk1Bams1bHphVXlBcE1RbXZSY1NnRnNNNkd6a3MzdjlNejhXV3BMNV9WcHQ1LWxKc1pqX0tWNlpuMnNYS2REd3FsZVNXelZnTHlHd1Z6SnhPR3FmWmlhdmhRQlkzX1hFYTVzamxYWnVWcVFYemc?oc=5",
-      "published": "Fri, 03 Jul 2026 00:10:56 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "南方誉尚一年持有期混合型证券投资基金招募说明书(20260703更新) _ 基金公告 - 天天基金",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBoMk94RTJ3VEpWekUzVFN5MWlOQ2VhLU83MFo5aXBncmR1X1R1X083S2k0ckxKVzVGZGRXa3k2M2ZWTkVybzZ2eW5IbDdjbGI2VzA1WU1ncnVWN2pfdFVsVXRYTFpDaVZ6dlJPSGQ4Wl9ScVVVaUE?oc=5\" target=\"_blank\">南方誉尚一年持有期混合型证券投资基金招募说明书(20260703更新) _ 基金公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoMk94RTJ3VEpWekUzVFN5MWlOQ2VhLU83MFo5aXBncmR1X1R1X083S2k0ckxKVzVGZGRXa3k2M2ZWTkVybzZ2eW5IbDdjbGI2VzA1WU1ncnVWN2pfdFVsVXRYTFpDaVZ6dlJPSGQ4Wl9ScVVVaUE?oc=5",
-      "published": "Fri, 03 Jul 2026 00:10:55 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "中信证券：供需与科技共振 稀土价值重估正当时 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE40anFVci1Za2stVm9OWmNXUzM4ZlplVXoyUjNhRUlnM3lPQXpoMTBtY3ZHaHRnOEdYQkswT0tsQU5YRGV0N2pWNkxNdUs1alkyc3hkTkRudGc2SkVFanFJanFaaUg0Zw?oc=5\" target=\"_blank\">中信证券：供需与科技共振 稀土价值重估正当时</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40anFVci1Za2stVm9OWmNXUzM4ZlplVXoyUjNhRUlnM3lPQXpoMTBtY3ZHaHRnOEdYQkswT0tsQU5YRGV0N2pWNkxNdUs1alkyc3hkTkRudGc2SkVFanFJanFaaUg0Zw?oc=5",
-      "published": "Fri, 03 Jul 2026 00:16:01 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "现货黄金站上4150美元/盎司",
-      "summary": "现货黄金站上4150美元/盎司，日内涨0.68%。",
-      "link": "https://news.10jqka.com.cn/20260703/c677919259.shtml",
-      "published": "Fri, 03 Jul 2026 00:56:39 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "第10号台风“美莎克”将登陆我国",
-      "summary": "中央气象台7月3日06时继续发布台风蓝色预警和暴雨黄色预警。预计，今年第10号台风“美莎克”将以每小时10-15公里的速度向西北方向移动，强度还将有所加强，即将于3日白天在海南三亚到琼海一带沿海登陆（23-25米/秒，9-10级，热带风暴级或强热带风暴级），穿过海南岛后移入北部湾，并将于4日晚上在广西沿海和越南北部沿海交界附近再次登陆（20-23米/秒，8-9级，热带风暴级），以后强度逐渐减弱。3日08时至4日08时，广东西部和南部、广西东南部、海南岛等地部分地区有大到暴雨，其中，广东西南部沿海、海南岛南部等地部分地区有大暴雨，海南岛南部局地有特大暴雨（250～300毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过70毫米）。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260703/c677919186.shtml",
-      "published": "Fri, 03 Jul 2026 00:52:56 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中国第二批埃博拉抗疫医疗专家组赴刚果（金）",
-      "summary": "记者从国家卫生健康委获悉，7月3日凌晨，中国第二批抗疫医疗专家组从北京启程，赴刚果（金）接续首批专家组工作，接力开展埃博拉疫情防控国际合作，持续助力当地筑牢公共卫生防线。据悉，本次出征的中国第二批专家组成员涵盖公共卫生、临床救治、感染防控、实验室检测、流行病学检疫等专业领域。专家组成员来自国家卫生健康委、海关总署、复旦大学附属华山医院、中国疾控中心等，均拥有丰富的疫情防控经验。国家卫生健康委有关负责人介绍，抵达刚果（金）后，专家组将与首批专家组做好交接，与中国援刚果（金）医疗队一道，加强风险趋势评估，与有关疾病控制机构交流防疫经验，推动合作，与国际组织建立常态化联络机制，参与抗疫国际行动，助力当地提升埃博拉疫情防控能力。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260703/c677919130.shtml",
-      "published": "Fri, 03 Jul 2026 00:50:33 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "两市融资余额较上日减少64.46亿元",
-      "summary": "截至7月2日，上交所融资余额报15149.64亿元，较前一交易日减少47.24亿元；深交所融资余额报14761.73亿元，较前一交易日减少17.22亿元；两市合计29911.37亿元，较前一交易日减少64.46亿元。",
-      "link": "https://news.10jqka.com.cn/20260703/c677919028.shtml",
-      "published": "Fri, 03 Jul 2026 00:47:13 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中金财富期货：6月非农就业新增5.7万人远低预期 黄金市场迎来反弹契机",
-      "summary": "6月非农就业新增5.7万人，远低于市场预期，且前两个月数据合计下修。失业率虽降至4.2%，但主要原因是劳动力人口减少，25至34岁劳动参与人数单月骤降70万。数据公布后，市场对美联储下一步动作的预期明显转向\"观望\"，黄金大幅反弹。目前美联储面临的形势是就业不过热、通胀预期趋于温和，这意味着整个夏天加息的概率骤然降温，黄金市场迎来反弹契机。(中金财富期货)",
-      "link": "https://news.10jqka.com.cn/20260703/c677919022.shtml",
-      "published": "Fri, 03 Jul 2026 00:47:06 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "光大证券：Meta算力出租是资源优化手段 不改中长期扩产规划",
-      "summary": "Meta试水外部算力租赁，光大证券最新研报表示，Meta进军云计算的底层逻辑，是希望为巨额的AI基础设施投资创造新的变现通道，侧面反映出云计算为当前最快、最明确的收回巨额前期投入、提高当期回报率的方式，说明对外变现能力本身已成为支撑Meta持续扩大AI投资的现金流保证。Meta中长期持续加码AI算力的整体规划并未转向。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918982.shtml",
-      "published": "Fri, 03 Jul 2026 00:45:26 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "半导体行业组织呼吁美国政府避免采取扭曲存储芯片市场的举措",
-      "summary": "一个半导体行业组织警告特朗普政府，政府试图通过影响价格或产能来解决全球存储芯片短缺问题，将会加剧人工智能AI热潮导致的历史性供应紧张局面。在致美国政府高级官员的一封信中，行业协会SEMI呼吁美国允许企业继续与客户签订长期协议，并延长旨在提高美国产量的税收优惠政策。三大存储芯片制造商 —— 总部爱达荷州的美光科技公司，以及韩国的SK海力士和三星电子都是SEMI的会员。据媒体看到的信函副本，SEMI在信中表示：“虽然有针对性的政策可以支持加快国内供应韧性的提升，但扭曲定价或产能决策的干预措施可能会延长需求低迷期。”该组织补充说：“目前的市场状况正通过投资美国制造业和日益重视长期采购协议来解决。”这封日期为7月1日的信函写给财政部长斯科特·贝森特、国防部长皮特·海格塞斯、商务部长霍华德·卢特尼克和国务卿马尔科·鲁比奥。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918931.shtml",
-      "published": "Fri, 03 Jul 2026 00:43:26 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国KOSPI指数跌幅扩大至3%后快速反弹，现跌1.5%",
-      "summary": "韩国KOSPI指数跌幅扩大至3%后快速反弹，现跌1.5%。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918708.shtml",
-      "published": "Fri, 03 Jul 2026 00:37:38 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国综指跌幅扩大至3%",
-      "summary": "韩国综指跌幅扩大至3%，现报7418.25点。个股方面，SK海力士跌超3%。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918661.shtml",
-      "published": "Fri, 03 Jul 2026 00:35:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "芯原股份推出CPP2000摄像头后处理IP",
-      "summary": "7月3日，芯原股份宣布推出高性能CPP2000摄像头后处理 (CPP) IP，据介绍，CPP2000能够提升移动成像场景下的图像质量与视觉感知能力，为机器人、无人机及其他移动视觉应用提供更加稳定可靠的视觉处理性能。(人民财讯)",
-      "link": "https://news.10jqka.com.cn/20260703/c677918623.shtml",
-      "published": "Fri, 03 Jul 2026 00:33:56 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "欧盟拟出台未成年人社媒禁令",
-      "summary": "7月2日，“欧洲动态”网站援引多名欧盟官员的表态披露称，欧盟委员会主席冯德莱恩计划于9月16日在欧洲议会发表年度“盟情咨文”时公布在欧盟范围内禁止未成年人使用社交媒体的计划。一个未成年人上网安全研究咨询小组预计本月13日提交相关报告，为欧委会提供建议。报道说，尚不清楚欧委会将把使用社交媒体的年龄门槛定在多少岁，以及这项计划具体如何落实。目前，欧盟各国政府已就如何实行社媒禁令提出不同方案，包括彻底限制特定年龄以下未成年人使用社媒平台，或要求未成年人必须首先获得家长同意。这一计划将为欧盟通过立法或采取其他措施限制未成年人使用社交媒体铺平道路。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260703/c677918595.shtml",
-      "published": "Fri, 03 Jul 2026 00:31:34 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国综指跌幅扩大至2%",
-      "summary": "韩国综指跌幅扩大至2%，现报7491.25点。个股方面，SK海力士跌超3%。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918594.shtml",
-      "published": "Fri, 03 Jul 2026 00:31:30 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "玻色量子完成数亿元Pre-IPO轮融资 加速实用化量子计算",
-      "summary": "记者独家获悉，近日玻色量子正式完成数亿元Pre-IPO轮融资，由杭州产投、九智资本、元禾璞华、全新世、洪泰基金、君礼资本、招银国际、中银资本投控、元和资本、福州国资集团榕投资本联合投资。包括本轮融资和今年3月份完成的10亿元B轮融资，玻色量子自2020年11月成立以来已进行了10轮融资。据了解，玻色量子聚焦专用量子计算路线，是国内专用量子计算机赛道的代表之一。在量子算力应用层面，玻色量子SDK调用量累计破亿次。（科创板日报）",
-      "link": "https://news.10jqka.com.cn/20260703/c677918528.shtml",
-      "published": "Fri, 03 Jul 2026 00:28:37 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国KOSPI指数日内跌幅达1.00%",
-      "summary": "韩国KOSPI指数日内跌幅达1.00%，盘初一度涨超1%。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918482.shtml",
-      "published": "Fri, 03 Jul 2026 00:26:02 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "铠侠-闪迪BiCS10（332 层）3D NAND闪存进入出样阶段",
-      "summary": "铠侠-闪迪联盟宣布，由双方合作开发的第10代BiCS FLASH 3D闪存现已启动样品交付，首款产品为1Tb TLC。BiCS10采用332层堆叠设计，由铠侠日本岩手北上Fab2晶圆厂生产，延续了BiCS8时代导入的CMOS直接键合到阵列 (CBA) 和节距选通 (OPS) 两大新技术。（科创板日报）",
-      "link": "https://news.10jqka.com.cn/20260703/c677918418.shtml",
-      "published": "Fri, 03 Jul 2026 00:20:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中信证券：继续全面看好国产算力产业链",
-      "summary": "中信证券研报指出，2026年6月30日美团发布首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数模型，当前国产算力系统能力从推理升维至训练，此外DeepSeekV4正式版在7月中旬发布后将引入“峰谷定价”机制，高峰API调用价格将翻倍，国产算力供给约束仍在加强。研报认为现阶段国产算力订单清晰度显著增强，未来具备客户订单及产能优先分配权的设计公司有望率先受益。继续全面看好国产算力产业链，从稀缺的先进制程能力到百花齐放的设计公司，到超节点均会迎来放量机会，同时先进制程、先进封装、先进存储以及配套产业链有望迎来强劲增长动能。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918412.shtml",
-      "published": "Fri, 03 Jul 2026 00:20:21 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中金：非农降温支持联储不加息、不降息",
-      "summary": "中金公司研报指出，6月美国新增非农就业5.7万人，低于市场预期，表明就业增长的加速势头有所降温。前值下修后，近三个月平均新增就业仍达11.1万人，显示劳动力市场仍在扩张。与此同时，失业率降至4.2%，劳动参与率继续回落，反映就业需求稳健与劳动力供给收缩并存，整体失业压力不大。我们认为，这份数据给了美联储等待观望的时间，因此维持年内既不加息、也不降息的判断。中期来看，今年美国就业改善更多源于AI投资推动的经济周期修复，而非世界杯等短期因素。这意味着如果经济总需求在AI的拉动下持续扩张，则不排除明年美联储重启加息的可能性。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918376.shtml",
-      "published": "Fri, 03 Jul 2026 00:18:08 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "华泰证券：6月非农超预期下行暂缓美联储短期加息压力",
-      "summary": "华泰证券研报称，6月美国新增非农不及预期，主要是由于此前受到Memorial day提前以及世界杯提振的休闲酒店、地方政府就业大幅回落；分行业看，服务和政府部门新增非农就业均明显放缓，商品部门则小幅回升。6月非农报告缓解市场对美国就业市场过热风险的担忧，领先指标指示未来数月就业水平位于0—5万均衡水平附近，维持美联储下半年保持利率不变、明年可能需要加息的观点。",
-      "link": "https://news.10jqka.com.cn/20260703/c677918329.shtml",
-      "published": "Fri, 03 Jul 2026 00:12:31 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "日经225指数跌幅扩大至1%",
-      "summary": "日经225指数跌幅扩大至1%。",
-      "link": "https://news.10jqka.com.cn/20260703/c677917398.shtml",
-      "published": "Fri, 03 Jul 2026 00:08:54 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国KOSPI指数转跌，盘初曾涨1.4%",
-      "summary": "韩国KOSPI指数转跌，盘初曾涨1.4%。",
-      "link": "https://news.10jqka.com.cn/20260703/c677916298.shtml",
-      "published": "Fri, 03 Jul 2026 00:04:02 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "马斯克发布大合照引爆机器人概念，宏昌科技20CM涨停，多股涨超10% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlBNcFZYb2ZsVXJHTzVFU0M3Y3E4OWg3dlR3Z0ZjN3J0enpOV0hYa3BPbGNJeEdqdkd6MXU5ZzIxUGRLZEQ3TFdtcjhSMkdMaHZ1d1hJZHBKazN1aTlVZFoyaXgyRXdZblRzNFpyUHFIWnUxamxyNTM0VzFPQmVnNnVZNGhCMzJiQkhkYnZHRmxyMDFU?oc=5\" target=\"_blank\">马斯克发布大合照引爆机器人概念，宏昌科技20CM涨停，多股涨超10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQlBNcFZYb2ZsVXJHTzVFU0M3Y3E4OWg3dlR3Z0ZjN3J0enpOV0hYa3BPbGNJeEdqdkd6MXU5ZzIxUGRLZEQ3TFdtcjhSMkdMaHZ1d1hJZHBKazN1aTlVZFoyaXgyRXdZblRzNFpyUHFIWnUxamxyNTM0VzFPQmVnNnVZNGhCMzJiQkhkYnZHRmxyMDFU?oc=5",
-      "published": "Fri, 03 Jul 2026 00:41:34 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNYmRrQjlUZko5NDdxa2lkeGFrUGUtVFBqb3ZHSDVza1U2Y0tlQ0wxSUo0eGQ3QzFwb19nZDZRQmgzUjIxSkN4cg?oc=5\" target=\"_blank\">【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNYmRrQjlUZko5NDdxa2lkeGFrUGUtVFBqb3ZHSDVza1U2Y0tlQ0wxSUo0eGQ3QzFwb19nZDZRQmgzUjIxSkN4cg?oc=5",
-      "published": "Thu, 02 Jul 2026 23:12:24 GMT"
+      "source": "华尔街见闻",
+      "title": "“AI鬼故事”不断！“老牌PE”黑石意外退出“全球最大数据中心园区”",
+      "summary": "<p>全球最大数据中心园区项目正走向终结。随着黑石集团旗下QTS Realty Trust宣布放弃建设计划，弗吉尼亚州\"数字门户\"项目在失去最后一位开发商后，实际上已名存实亡。</p>\n<p>据彭博援引知情人士消息，QTS高管近日决定放弃在法院继续推进该项目，其律师最快将于本周通知法院。</p>\n<p>此前，另一合作开发商、Brookfield支持的Compass Datacenters已于今年5月率先撤出，QTS由此成为该项目的唯一剩余方。</p>\n<p>黑石本周的动作连番出击，在刚刚完成以35亿美元出售北弗吉尼亚州三处数据中心资产后，不到两天便再次宣布从新项目中撤退。<strong>此番QTS退出意味着，这一原本规划投资逾1000亿美元、有望打造全球最大科技走廊的宏图，就此戛然而止。</strong></p>\n<p><strong>两项操作叠加，外界开始质疑这家管理规模逾1.3万亿美元、自称全球最大数据中心提供商的PE巨头，是否正在悄然收缩其AI基础设施敞口。</strong></p>\n<div>\n<h2 id=\"edb4c494\">Compass退出成为压倒项目的最后一根稻草</",
+      "link": "https://wallstreetcn.com/articles/3776118",
+      "published": "Fri, 03 Jul 2026 01:09:15 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -327,95 +110,32 @@
       "published": "Thu, 02 Jul 2026 23:51:47 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "私募信贷赎回潮未退！Blue Owl再遭巨额赎回，连续两个季度限制提款",
-      "summary": "<p>私募信贷市场的动荡延续至第二季度。Blue Owl Capital旗下两只私募信贷基金再度遭遇大规模赎回请求，被迫连续第二个季度对投资者实施赎回限制。</p>\n<p>据彭博报道，Blue Owl旗下约340亿美元规模的Blue Owl Credit在第二季度收到相当于18.8%份额、约36亿美元的赎回申请；规模较小的Blue Owl Technology则收到高达38.1%、约11亿美元的赎回请求。两只基金均触发5%的赎回上限，再度关闭部分退出通道。</p>\n<p>Blue Owl方面表示，公司已满足此前持续提交赎回请求的股东逾43%的原始赎回需求，且第二季度的赎回申请主要来自这批重复申请者，\"新增参与者有限\"。</p>\n<p>尽管第二季度整体赎回规模较第一季度略有回落，但这一趋势出现在市场大幅反弹、科技股普遍回升的背景之下，表明私募信贷基金所承受的投资者赎回压力并未随市场情绪改善而显著缓和。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/527cd7ca-7000-428d-bf49-2c4f8eac",
-      "link": "https://wallstreetcn.com/articles/3776104",
-      "published": "Thu, 02 Jul 2026 23:43:35 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "报道：韩国考虑动用5万亿韩元增量税收推进自主AI模型开发，正在讨论购买约1万个英伟达Vera Rubin GPU模块",
-      "summary": "<p>韩国经济日报报道称，韩国正考虑利用半导体繁荣带来的约5万亿韩元增量税收，为自主人工智能(AI)模型开发提供资金。韩国科技信息通信部正在讨论利用增量税收购买约1万个英伟达Vera Rubin GPU模块，并招募AI人才。为了与全球模型竞争，科技信息通信部考虑将约1万个GPU分配给一个团队，用于构建前沿AI模型，而不是把资源拆分给多家研发机构。</p>",
-      "link": "https://wallstreetcn.com/livenews/3128284",
-      "published": "Thu, 02 Jul 2026 23:43:02 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "900多页报告曝光特朗普去年“神秘操盘”：AI交易踩点、关税风暴前后高频换仓",
-      "summary": "<p>美国政府本周公布的2025年财务信息文件报告不仅让大家看到，美国总统特朗普去年一年<a href=\"https://wallstreetcn.com/articles/3775893\" rel=\"noopener\" target=\"_blank\">利用加密货币业务大赚超10亿美元</a>，也首次完整展现了特朗普去年美股最剧烈波动时期如何精准炒股的轨迹。</p>\n<p>上述美国联邦政府道德办公室（OGE）公布的报告长达927页。一些美媒分析报告发现，在特朗普宣布全球对等关税前后，其投资账户连续数日进行了数百笔股票交易，并在关税暂缓前夕集中买入苹果、伯克希尔等蓝筹股；数月后，又在白宫发布AI行动计划当天，大举增持英伟达、微软、亚马逊等AI龙头。</p>\n<p>尽管白宫强调，特朗普本人并不参与账户交易，所有证券投资均由独立投资顾问管理，并由其子Donald Trump Jr.负责信托，但由于交易时间点与重大政策出台高度重合，仍再度引发美国伦理监督机构对于总统是否存在潜在利益冲突的质疑。</p>\n<p>相比去年披露文件仅展示约1000笔交易，本次特朗普的年度财务信息披露首次完整公开了他2",
-      "link": "https://wallstreetcn.com/articles/3776108",
-      "published": "Thu, 02 Jul 2026 23:24:33 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "华尔街见闻早餐FM-Radio | 2026年7月3日",
-      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">美国6月非农就业数据显著放缓，缓解了市场对美联储近期加息的担忧，道指上涨1.1%创新高</span>，美股金融、非必需消费品和医疗保健板块走强。然而，因对AI投资回报的质疑加剧，半导体再度遭抛售，<span style=\"color: #ff0000;\">芯片股两日累计跌11%，令纳指100盘中跌2%</span>，拖累标普500收盘几乎持平。</p>\n<p>芯片设计与算力链集体重挫，Marvell&nbsp;跌9.84%、Arm跌6.58%、美光跌5.49%、AMD跌4.26%、博通跌2.41%，英伟达相对抗跌但仍收",
-      "link": "https://wallstreetcn.com/articles/3776110",
-      "published": "Thu, 02 Jul 2026 23:21:38 GMT"
+      "source": "第一财经",
+      "title": "“对子数=行情顶”？交易人士：非绝对情况，无法当判断依据",
+      "summary": "<figure><img alt=\"“对子数=行情顶”？交易人士：非绝对情况，无法当判断依据\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/5566B7FE-36DC-4199-ADE4-92A1E94B25CD.jpg\" /></figure><p>看似神秘的“对子数”，其实出现非常频繁，且与行情走势无必然关联。</p><p>88.88、66.00这些常见的数字，竟成为A股判断行情走势的“密码”？</p><p>下半年的首个交易日（7月1日），A股热门板块大幅下挫，科创50指数下跌2.48%。部分个股在出现“对子数”后转跌，如长电科技盘中触及111.11元 ,海光信息盘中最高价位377.88元。同样的情形，今年5月底时也曾上演，似乎印证了“对子数=行情顶”的判断。</p><p>这些所谓“特殊”的股票价格，真的能作为判断行情走势的信号吗？</p><p><strong>年内已出现两次</strong></p><p>“对子数”，也被称为“对子顶”“豹子号”等，指的是股票价格为“22.22”“33.00”“123.55”等某个数字",
+      "link": "https://www.yicai.com/news/103258674.html",
+      "published": "Fri, 03 Jul 2026 01:50:19 GMT"
     },
     {
       "source": "第一财经",
-      "title": "滚动更新丨日韩股市盘中大幅下挫，韩国KOSPI指数跌破7500点 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pLUlDQzB2X0ozeXBrRTQzQTRycHVhX2xOVENtLWFOTWZoQUF0T1lPaFZTeWZaV3hBaWxMRkxKaHZxRTFPRzRqckotQktfX21PSG8w?oc=5\" target=\"_blank\">滚动更新丨日韩股市盘中大幅下挫，韩国KOSPI指数跌破7500点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pLUlDQzB2X0ozeXBrRTQzQTRycHVhX2xOVENtLWFOTWZoQUF0T1lPaFZTeWZaV3hBaWxMRkxKaHZxRTFPRzRqckotQktfX21PSG8w?oc=5",
-      "published": "Fri, 03 Jul 2026 00:46:00 GMT"
+      "title": "中国汽车流通协会：市场迎阶段修复窗口",
+      "summary": "<figure><img alt=\"中国汽车流通协会：市场迎阶段修复窗口\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/984cf29ad8b32932e0f65c41b708cb16.jpg\" /></figure><p>“6月份汽车终端市场呈现前低后高的运行特征。”</p><p>“6月份汽车终端市场呈现前低后高的运行特征。”中国汽车流通协会产业协调工作委员会副秘书长樊宇昨日在月度分析会上表示，上半月受高温多雨天气、农忙时节、高考分流客群等因素影响，叠加5月多地集中开展车展透支了部分需求，终端经销商客流、订单和销量同步回落。</p>\n\n<p>他称，下半月市场迎来阶段修复窗口，契合6月份“前低后高”传统季节性规律，年中业绩冲刺全面启动、经销商普遍加大终端让利幅度，同时端午节假期和618大促形成集中的营销节点，暑期前置购车需求逐步释放，叠加前期上市新车经过一段产能爬坡、热门车型交付节奏加快，多重因素共同带动终端客流与成交回暖。</p>\n\n<p>樊宇认为，促销冲量并未从根本上消解消费者的观望情绪，在约两年的价格战中消费者对于价格的",
+      "link": "https://www.yicai.com/news/103258393.html",
+      "published": "Fri, 03 Jul 2026 01:24:58 GMT"
     },
     {
       "source": "第一财经",
-      "title": "日韩股市开盘 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE14dWpsenhrdzk5bHpKcnptOEEzeUo1MFJHanBfcGhpM2VkUVc2aWNnQjFjMWNiMVRkM3NjTjFkbnVGT2g3S2pkQXRvTWNabm00R1JDbQ?oc=5\" target=\"_blank\">日韩股市开盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14dWpsenhrdzk5bHpKcnptOEEzeUo1MFJHanBfcGhpM2VkUVc2aWNnQjFjMWNiMVRkM3NjTjFkbnVGT2g3S2pkQXRvTWNabm00R1JDbQ?oc=5",
-      "published": "Fri, 03 Jul 2026 00:02:00 GMT"
+      "title": "滚动更新丨日韩股市盘中大幅下挫，韩国KOSPI指数跌破7500点",
+      "summary": "<figure><img alt=\"滚动更新丨日韩股市盘中大幅下挫，韩国KOSPI指数跌破7500点\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/ff95bf723b65e698798e923b004e6d26.jpg\" /></figure><p>日经225指数跌幅扩大至1%。</p><p><strong>08:35</strong> 韩国KOSPI指数跌破7500点，日内跌3%至7418.25点。三星电子转跌，此前一度上涨4%。</p>\n\n<p><strong>08:24</strong> 韩国KOSPI指数日内跌超1%，盘初一度涨超1%。</p>\n\n<p><strong>08:08</strong> 日经225指数跌幅扩大至1%。</p>\n\n<p><strong>08:01</strong> 日经225指数跌0.08%，韩国KOSPI指数涨1.2%。</p>",
+      "link": "https://www.yicai.com/news/103258323.html",
+      "published": "Fri, 03 Jul 2026 00:44:55 GMT"
     },
     {
       "source": "第一财经",
-      "title": "多只ETF拆分份额 公募产品普惠性凸显 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YVlJKSTRSUnVjSWktdm1UaHI3R3NCR1R6VG9xOU43T1RuYnFUY3BCNXdQU04wTmlTQXlVeFJ0N1FSVUlPN2Zaa3VkY090cUczdEZN?oc=5\" target=\"_blank\">多只ETF拆分份额 公募产品普惠性凸显</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YVlJKSTRSUnVjSWktdm1UaHI3R3NCR1R6VG9xOU43T1RuYnFUY3BCNXdQU04wTmlTQXlVeFJ0N1FSVUlPN2Zaa3VkY090cUczdEZN?oc=5",
-      "published": "Thu, 02 Jul 2026 23:20:50 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "全球科技股遭遇“黑色星期四”，市场在担忧什么？ - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HVTI1SDRubTFYS3JSOEhMWkZWRUNqbTJFMFhTU19GdHZybl9WMHdYRV9wWEthV0NEVG14ZXRmN3dKcnpGRTFVOTY1YW9fVnl3MDNyUg?oc=5\" target=\"_blank\">全球科技股遭遇“黑色星期四”，市场在担忧什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HVTI1SDRubTFYS3JSOEhMWkZWRUNqbTJFMFhTU19GdHZybl9WMHdYRV9wWEthV0NEVG14ZXRmN3dKcnpGRTFVOTY1YW9fVnl3MDNyUg?oc=5",
-      "published": "Thu, 02 Jul 2026 23:20:53 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "科创底色鲜明！71只新股全部飘红 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZLUNxdGppUC1vLWt3YXRXa0VoLWtuLXNQWExCQXk1UTUtWnptanJrLTVSU2NQUjE1c1RxeWxTcjBhbXVOMUxPVWZkMTc0QjBTc3NvWDkwb2s1eG9i?oc=5\" target=\"_blank\">科创底色鲜明！71只新股全部飘红</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZLUNxdGppUC1vLWt3YXRXa0VoLWtuLXNQWExCQXk1UTUtWnptanJrLTVSU2NQUjE1c1RxeWxTcjBhbXVOMUxPVWZkMTc0QjBTc3NvWDkwb2s1eG9i?oc=5",
-      "published": "Fri, 03 Jul 2026 00:39:00 GMT"
-    },
-    {
-      "source": "中国证券报",
-      "title": "四大证券报头版头条内容精华摘要_2026年7月3日_财经新闻 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgJBVV95cUxOQ1dwWVpMcnlDTzVkVkRFeF9EdTZDenM3eXZHZU5uUnVjc2o4aXktb0tVV0hKNjRwUGxwZ2d1LUVMT3MyQWhBOHVHTmozOU54QWNXNnVVMktBUVlLeXZkUmR0cXA5aGZTYjEyVDJSSWlIZklxMTNycVRUaGYxWUl5bUxzQzkwdWlKQUdZOGNqTEk4OWRTYnNxcFJqcHlkaGhhUXZid2JtMnB6eWI1VGxFOVVzNkxRSUZzRE4yQmxlN050OUJ3T2EyRzlrOEtWbWZ3NFR6cGNTaVhtQnNiR0JGSEsxYy1ZWEZ6OXlSeXpJbk9MMFRpaWNDLWVJTF9aYVdZZmpyOE9xZWhQT3l3b3YtNjhtbWpIUjBWSi1IbWdzM0QtcS1BQUE?oc=5\" target=\"_blank\">四大证券报头版头条内容精华摘要_2026年7月3日_财经新闻</",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOQ1dwWVpMcnlDTzVkVkRFeF9EdTZDenM3eXZHZU5uUnVjc2o4aXktb0tVV0hKNjRwUGxwZ2d1LUVMT3MyQWhBOHVHTmozOU54QWNXNnVVMktBUVlLeXZkUmR0cXA5aGZTYjEyVDJSSWlIZklxMTNycVRUaGYxWUl5bUxzQzkwdWlKQUdZOGNqTEk4OWRTYnNxcFJqcHlkaGhhUXZid2JtMnB6eWI1VGxFOVVzNkxRSUZzRE4yQmxlN050OUJ3T2EyRzlrOEtWbWZ3NFR6cGNTaVhtQnNiR0JGSEsxYy1ZWEZ6OXlSeXpJbk9MMFRpaWNDLWVJTF9aYVdZZmpyOE9xZWhQT3l3b3YtNjhtbWpIUjBWSi1IbWdzM0QtcS1BQUE?oc=5",
-      "published": "Thu, 02 Jul 2026 23:21:17 GMT"
-    },
-    {
-      "source": "上海证券报",
-      "title": "日经225指数低开0.08% 韩国综合指数涨1.2% - 搜狐网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2RXYXpPeVNhcWM3b0VuX1R4b054R1owUGZVb3RkLWVWSDROeFpsN3E4dXd1TS1HMTY1NGRnc3Q3bEZsSXROS2Y4NjM5NzdaWmlTVDNRZlR1UnFSNHhCUHQxdjZya3FCek82V3dlZDFXTjVHWHJGSGh3cGVLMjJWa1pRdC0xbUpqTEdkbA?oc=5\" target=\"_blank\">日经225指数低开0.08% 韩国综合指数涨1.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2RXYXpPeVNhcWM3b0VuX1R4b054R1owUGZVb3RkLWVWSDROeFpsN3E4dXd1TS1HMTY1NGRnc3Q3bEZsSXROS2Y4NjM5NzdaWmlTVDNRZlR1UnFSNHhCUHQxdjZya3FCek82V3dlZDFXTjVHWHJGSGh3cGVLMjJWa1pRdC0xbUpqTEdkbA?oc=5",
-      "published": "Fri, 03 Jul 2026 00:24:07 GMT"
-    },
-    {
-      "source": "央行政策",
-      "title": "6月央行中期借贷便利净投放2000亿元|中国邮政储蓄银行|中国人民银行|抵押补充贷款|货币政策|MLF_手机新浪网 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbDZmUGtGZElMbVRCaWJ4Mk1wNmRnQXExX0ROUTFETWdWUUZ1TnppTXduZTRiaTVmaHIyZUZjX3FXd1RtZExzX2dxRVlLcHZGbmItTFQ0dW9Pd1N2QXlfaERrWGxkOU1hVTZqeXdYSzNsNVVYNXVISEJWbTNEaUtrMHVhaXlJbHc4a0JhRm0wY21Ma3pIUFVwUmVaZjVDLTI0M2VlYUNfUnJqNWIxN0JmSlE2ZFFFbnhqRzRkVWlxOGRhek1RNkJyYko4UnpvZEZ6bmNieFVsdFhWbmt0dkhsMEkxeDREcVhBMFBhWlBOU2RJeGZGYXBKTDFmZG5BaVU?oc=5\" target=\"_blank\">6月央行中期借贷便利净投放2000亿元|中国邮政储蓄银行|中国人民银行|抵押补充贷款|货币政策|MLF_手机新浪网</a>&nbsp;&nbsp;<font color",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbDZmUGtGZElMbVRCaWJ4Mk1wNmRnQXExX0ROUTFETWdWUUZ1TnppTXduZTRiaTVmaHIyZUZjX3FXd1RtZExzX2dxRVlLcHZGbmItTFQ0dW9Pd1N2QXlfaERrWGxkOU1hVTZqeXdYSzNsNVVYNXVISEJWbTNEaUtrMHVhaXlJbHc4a0JhRm0wY21Ma3pIUFVwUmVaZjVDLTI0M2VlYUNfUnJqNWIxN0JmSlE2ZFFFbnhqRzRkVWlxOGRhek1RNkJyYko4UnpvZEZ6bmNieFVsdFhWbmt0dkhsMEkxeDREcVhBMFBhWlBOU2RJeGZGYXBKTDFmZG5BaVU?oc=5",
-      "published": "Fri, 03 Jul 2026 00:39:34 GMT"
-    },
-    {
-      "source": "行业研报",
-      "title": "中邮证券：给予甬矽电子买入评级_券商研报_数据解析 - 证券之星",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE54WFBTSzhraC1uNGw5S2dWM2VRU280anA4QV9wYUQ1ZE5PQVM1dnRldG8yaVJISENKQkxWSEJ3UXFEQ0p0b25pZWdxN0ozRnhDTEpvNkhWS1Q0SEp4Rllkd3lB?oc=5\" target=\"_blank\">中邮证券：给予甬矽电子买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54WFBTSzhraC1uNGw5S2dWM2VRU280anA4QV9wYUQ1ZE5PQVM1dnRldG8yaVJISENKQkxWSEJ3UXFEQ0p0b25pZWdxN0ozRnhDTEpvNkhWS1Q0SEp4Rllkd3lB?oc=5",
-      "published": "Thu, 02 Jul 2026 23:15:21 GMT"
+      "title": "盘前必读丨国内油价或迎来年内最大单次降幅；A股“人形机器人第一股”诞生在即",
+      "summary": "<figure><img alt=\"盘前必读丨国内油价或迎来年内最大单次降幅；A股“人形机器人第一股”诞生在即\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/7eeec269c29a695eb186193c3dfa3bb6.jpg\" /></figure><p>机构认为，中长期科技仍是主线，应聚焦有业绩支撑的“真成长”。</p><p><strong>【财经日历】</strong></p>\n\n<p>国内成品油将开启新一轮调价窗口</p>\n\n<p>广期所正式引入境外交易者参与碳酸锂期货及期权交易</p>\n\n<p>2026亚布力论坛创新年会(上海，7/3-7/4)</p>\n\n<p>交易提示：美股休市</p>\n\n<p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" height=\"87\" src=\"https://imgcdn.yicai.com/uppics/images/2019/10/be231c70bd009c5fbf111e298546d5be.jpg\"",
+      "link": "https://www.yicai.com/news/103258286.html",
+      "published": "Fri, 03 Jul 2026 00:00:30 GMT"
     }
   ]
 }
