@@ -1,9 +1,16 @@
 {
   "date": "2026-07-05",
   "hour": "02",
-  "total": 2,
-  "fetched_at": "2026-07-05T02:00:51.000476+08:00",
+  "total": 9,
+  "fetched_at": "2026-07-05T02:54:33.179479+08:00",
   "news": [
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：奥来德（688378）放弃参股公司增资优先认购权 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9RWEVraFcyZ3F0dnpQaDNra3htNEYxSHdRNkVVRmdJSE96ZVhmQ0JXaUpvQWlPQVJybmxCZWNjWVRzck1wcUZXTnFzNU5BUHJDUmpQbFg4NmdsT0dPYldLbW9JUFJuWVRNMWpr?oc=5\" target=\"_blank\">每周股票复盘：奥来德（688378）放弃参股公司增资优先认购权</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RWEVraFcyZ3F0dnpQaDNra3htNEYxSHdRNkVVRmdJSE96ZVhmQ0JXaUpvQWlPQVJybmxCZWNjWVRzck1wcUZXTnFzNU5BUHJDUmpQbFg4NmdsT0dPYldLbW9JUFJuWVRNMWpr?oc=5",
+      "published": "Sat, 04 Jul 2026 18:38:00 GMT"
+    },
     {
       "source": "东方财富",
       "title": "Ta的粉丝还关注 - 东方财富",
@@ -13,10 +20,52 @@
     },
     {
       "source": "东方财富",
-      "title": "半导体出利好，真就可以直接进场？ - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE12X0NqZ3c2RTVoRGpoUUs1S0NHQ1gyWTBzU1czYUVyRmFDQnZWTzBkS3pZTUlXTGhrN2pnd1d6dG9xamZLZ045S0s3Vl9Sd1RodFN1NmZoREhnOEVWWFFRVElTdFRUVERaQTk4?oc=5\" target=\"_blank\">半导体出利好，真就可以直接进场？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12X0NqZ3c2RTVoRGpoUUs1S0NHQ1gyWTBzU1czYUVyRmFDQnZWTzBkS3pZTUlXTGhrN2pnd1d6dG9xamZLZ045S0s3Vl9Sd1RodFN1NmZoREhnOEVWWFFRVElTdFRUVERaQTk4?oc=5",
-      "published": "Sat, 04 Jul 2026 16:17:00 GMT"
+      "title": "每周股票复盘：通策医疗（600763）首次回购14.8万股 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdmwzUWJMRVZHM1kwMThTUlRHZDNTcEE0bDVYU085ZFJaUmFoMlhlVlNaU1B5NDVLMGxva1VjOC1tLTNwMGI1bm5oZ19rSFBhOHdPanpWOGl1dGVyVTE3RnlQdTRabEVpZ1Aw?oc=5\" target=\"_blank\">每周股票复盘：通策医疗（600763）首次回购14.8万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pdmwzUWJMRVZHM1kwMThTUlRHZDNTcEE0bDVYU085ZFJaUmFoMlhlVlNaU1B5NDVLMGxva1VjOC1tLTNwMGI1bm5oZ19rSFBhOHdPanpWOGl1dGVyVTE3RnlQdTRabEVpZ1Aw?oc=5",
+      "published": "Sat, 04 Jul 2026 18:38:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：万盛股份（603010）因股价异动登龙虎榜 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1YQ1lQSDFXd3B1QWMzamNpNUxrbWctT3h1LUhTVE1raTV3a0dPdVpKRG41MXRYUkNuV3FyUWUtaFN5RTFEOENXNnA3akVtakNXR0RheHNONldlQ2JSZl9YUHk1TkVrUmVma3pJ?oc=5\" target=\"_blank\">每周股票复盘：万盛股份（603010）因股价异动登龙虎榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YQ1lQSDFXd3B1QWMzamNpNUxrbWctT3h1LUhTVE1raTV3a0dPdVpKRG41MXRYUkNuV3FyUWUtaFN5RTFEOENXNnA3akVtakNXR0RheHNONldlQ2JSZl9YUHk1TkVrUmVma3pJ?oc=5",
+      "published": "Sat, 04 Jul 2026 17:59:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：公牛集团（603195）已回购592.13万股 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWDdBRVFGcGVpZzMyQm1oQ245SzVCX3JUSWdpYWJpbHdFa3pKY1J3bmpBUzRldDdUVnEweW05MDhoQVVmMFNDZFp1Y2pmRmVfcUxzdk1vcmZOVWlOSEE1cy1qVk9uRjBHQlVn?oc=5\" target=\"_blank\">每周股票复盘：公牛集团（603195）已回购592.13万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mWDdBRVFGcGVpZzMyQm1oQ245SzVCX3JUSWdpYWJpbHdFa3pKY1J3bmpBUzRldDdUVnEweW05MDhoQVVmMFNDZFp1Y2pmRmVfcUxzdk1vcmZOVWlOSEE1cy1qVk9uRjBHQlVn?oc=5",
+      "published": "Sat, 04 Jul 2026 18:38:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：天安新材（603725）股价异动因涨幅偏离值超20% - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA2c1M4V1NWY2k0dUoxUFZfXzNHV1pGMnFzanJSQ1otQW9hSXYyYW1UM2tGNUhGQ2V5eDZBSGtIelE0ZUhsMzczbEVCaW15Y1JOZUF5WlhDREdfdnVLbm9aMHFCcGJhaWZQdHZB?oc=5\" target=\"_blank\">每周股票复盘：天安新材（603725）股价异动因涨幅偏离值超20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2c1M4V1NWY2k0dUoxUFZfXzNHV1pGMnFzanJSQ1otQW9hSXYyYW1UM2tGNUhGQ2V5eDZBSGtIelE0ZUhsMzczbEVCaW15Y1JOZUF5WlhDREdfdnVLbm9aMHFCcGJhaWZQdHZB?oc=5",
+      "published": "Sat, 04 Jul 2026 17:55:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：中信重工（601608）2025年年度股东会顺利召开 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9OUkxlV0hpTXB2WWpPRXZZc25tUE9SYnZXYzIwZXhOVmIxNWZMa3hKaEVUMUc2Z296NkE5cjhFX0k1Wm5LeHhzUlhiYkVmd3p0T0xXWkxESThQZnc0RDJXYkpDb0NUd3NEYzFr?oc=5\" target=\"_blank\">每周股票复盘：中信重工（601608）2025年年度股东会顺利召开</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OUkxlV0hpTXB2WWpPRXZZc25tUE9SYnZXYzIwZXhOVmIxNWZMa3hKaEVUMUc2Z296NkE5cjhFX0k1Wm5LeHhzUlhiYkVmd3p0T0xXWkxESThQZnc0RDJXYkpDb0NUd3NEYzFr?oc=5",
+      "published": "Sat, 04 Jul 2026 18:38:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：科沃斯（603486）2025年度分红每股0.92元 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVUF6ang2RzU3dHZHZTBZWVhnNDBBZXhkeHg1bzBrLURhQzNiUDRhbk5NMldVWWlXc21vVmdsTC03Y3FRWldnNXJ3eUpaVi1DVDV5Sm1CTVFsVVI3c0I1NlJIdGRpUmdXcWFR?oc=5\" target=\"_blank\">每周股票复盘：科沃斯（603486）2025年度分红每股0.92元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVUF6ang2RzU3dHZHZTBZWVhnNDBBZXhkeHg1bzBrLURhQzNiUDRhbk5NMldVWWlXc21vVmdsTC03Y3FRWldnNXJ3eUpaVi1DVDV5Sm1CTVFsVVI3c0I1NlJIdGRpUmdXcWFR?oc=5",
+      "published": "Sat, 04 Jul 2026 17:55:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "A股再融资规则将迎重磅调整：锁价定增退出 发行全面挂钩市场价 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2RZelFhNnZPTjl6Ymc0LWYyNHYwd1dIRVF2Mm5kdEt6ZUdPcHZCYTNZdTRyZnVxMHAzeE41RlNhcFdIOEFrd1RqUnZCMmRRS0xpSGxQNFFzaUQwR0dQcmN4OXJpZEx1aTVpYkVDRGZTM3pCOGhYSVdNb3lYa1dnRzVB?oc=5\" target=\"_blank\">A股再融资规则将迎重磅调整：锁价定增退出 发行全面挂钩市场价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2RZelFhNnZPTjl6Ymc0LWYyNHYwd1dIRVF2Mm5kdEt6ZUdPcHZCYTNZdTRyZnVxMHAzeE41RlNhcFdIOEFrd1RqUnZCMmRRS0xpSGxQNFFzaUQwR0dQcmN4OXJpZEx1aTVpYkVDRGZTM3pCOGhYSVdNb3lYa1dnRzVB?oc=5",
+      "published": "Sat, 04 Jul 2026 18:10:00 GMT"
     }
   ]
 }
