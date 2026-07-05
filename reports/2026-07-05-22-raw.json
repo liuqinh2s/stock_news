@@ -1,9 +1,16 @@
 {
   "date": "2026-07-05",
   "hour": "22",
-  "total": 33,
-  "fetched_at": "2026-07-05T22:00:50.997750+08:00",
+  "total": 17,
+  "fetched_at": "2026-07-05T22:24:48.096275+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "近20家A股上市公司本周披露并购重组最新公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRHVGWlpqWGc2b21hMEpWRmpodVpGdVZYN1RneUlFZVdRcVZUempJVE9raENwNlg3VlBUb19YYlJhUkhJUENhZG13M3dMTUZiZlpvZ21DWFdPUjhOek9zckRkSWNqLTZ1NjIyODdPN21YUTNfRTNLZQ?oc=5\" target=\"_blank\">近20家A股上市公司本周披露并购重组最新公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRHVGWlpqWGc2b21hMEpWRmpodVpGdVZYN1RneUlFZVdRcVZUempJVE9raENwNlg3VlBUb19YYlJhUkhJUENhZG13M3dMTUZiZlpvZ21DWFdPUjhOek9zckRkSWNqLTZ1NjIyODdPN21YUTNfRTNLZQ?oc=5",
+      "published": "Sun, 05 Jul 2026 13:17:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "中炬高新：向全体A股股东每股派发现金红利0.45元 - 新浪财经",
@@ -20,31 +27,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "关于A股后市，机构最新研判 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZkJPeTc5Q3FXNHRYSU5aMWkyTE4tQnh0UlhJdXdMaHJ0alYtZFdSd1FTaWM0NVRKbjk0RFNrNFRRaU5KUWcwbUZVN0hPcmN6OHBzdEkwN2JhY2N5MW1WeDFzdFl0cWJackdlR1JrMGJCSXAwWDdEWA?oc=5\" target=\"_blank\">关于A股后市，机构最新研判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mZkJPeTc5Q3FXNHRYSU5aMWkyTE4tQnh0UlhJdXdMaHJ0alYtZFdSd1FTaWM0NVRKbjk0RFNrNFRRaU5KUWcwbUZVN0hPcmN6OHBzdEkwN2JhY2N5MW1WeDFzdFl0cWJackdlR1JrMGJCSXAwWDdEWA?oc=5",
-      "published": "Sun, 05 Jul 2026 12:18:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "中信建投：A股从“集中抱团”到“百花齐放” - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9fVlRicTZwdlZRbFp0em03RjQwd1NXZEhVbHptSVNLc2ZiVGNjYmMzLWc3N19yaDdiczlIUXlzS1FmZDhtVXJ5cVoyd25WQUlqMTBTRXRzWTljUXltamhINFBYYTRzb2ZyaWpmb0tVQjFPODAwUktBUg?oc=5\" target=\"_blank\">中信建投：A股从“集中抱团”到“百花齐放”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fVlRicTZwdlZRbFp0em03RjQwd1NXZEhVbHptSVNLc2ZiVGNjYmMzLWc3N19yaDdiczlIUXlzS1FmZDhtVXJ5cVoyd25WQUlqMTBTRXRzWTljUXltamhINFBYYTRzb2ZyaWpmb0tVQjFPODAwUktBUg?oc=5",
-      "published": "Sun, 05 Jul 2026 12:20:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "近20家A股上市公司本周披露并购重组最新公告 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRHVGWlpqWGc2b21hMEpWRmpodVpGdVZYN1RneUlFZVdRcVZUempJVE9raENwNlg3VlBUb19YYlJhUkhJUENhZG13M3dMTUZiZlpvZ21DWFdPUjhOek9zckRkSWNqLTZ1NjIyODdPN21YUTNfRTNLZQ?oc=5\" target=\"_blank\">近20家A股上市公司本周披露并购重组最新公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tRHVGWlpqWGc2b21hMEpWRmpodVpGdVZYN1RneUlFZVdRcVZUempJVE9raENwNlg3VlBUb19YYlJhUkhJUENhZG13M3dMTUZiZlpvZ21DWFdPUjhOek9zckRkSWNqLTZ1NjIyODdPN21YUTNfRTNLZQ?oc=5",
-      "published": "Sun, 05 Jul 2026 13:17:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "利好来了！10倍大牛股，业绩刷屏！刚刚，A股密集公告 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBTS1g0aWdKb2UycFhrYU9XZGVhRXhiaU5XZkVteDh2V3pubEJQd3FFa2lHSnd3bTRjUEUxNEs1Ulg0V2dTQjVtYVB3bnE0VFk5WVdBMWpvcnoxNkJPSzBvOTBQNU9CekZLNmJMSDEyX2FrTGQ2QklETg?oc=5\" target=\"_blank\">利好来了！10倍大牛股，业绩刷屏！刚刚，A股密集公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTS1g0aWdKb2UycFhrYU9XZGVhRXhiaU5XZkVteDh2V3pubEJQd3FFa2lHSnd3bTRjUEUxNEs1Ulg0V2dTQjVtYVB3bnE0VFk5WVdBMWpvcnoxNkJPSzBvOTBQNU9CekZLNmJMSDEyX2FrTGQ2QklETg?oc=5",
-      "published": "Sun, 05 Jul 2026 12:02:00 GMT"
+      "title": "最高预增超1194%！普源精电、奥来德等9家A股公司上半年业绩大涨 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9Xbllyb21jOFpmUmRCYjZpUXVFSHczRjREbTZYM2NzSWU3VmoycXhjdGNjbGVyQXUzOUZQa0hrYWhQdEpUd3g4UGN4cENUVVRkRE10eXZVWUh4eWtWd0Fhdm5JRFFCQUtDbHJvLWRNN3duLUJqVENlXw?oc=5\" target=\"_blank\">最高预增超1194%！普源精电、奥来德等9家A股公司上半年业绩大涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Xbllyb21jOFpmUmRCYjZpUXVFSHczRjREbTZYM2NzSWU3VmoycXhjdGNjbGVyQXUzOUZQa0hrYWhQdEpUd3g4UGN4cENUVVRkRE10eXZVWUh4eWtWd0Fhdm5JRFFCQUtDbHJvLWRNN3duLUJqVENlXw?oc=5",
+      "published": "Sun, 05 Jul 2026 13:53:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -62,10 +48,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "科技之后谁是主线？机构最新研判 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9zQ3JxLXdBUW40SzVGb25yMHBhMGloMW9yUDMtWC1ISkYzTkJfTVdiUWIySUg2eVVySk1aTDJkb2tTeWtzMURPOWJybnlLcDJsNk1hMV82UGNJSHBKSXlmQzlSeXBHaUpZeHR1dlhJXzNhQWdtTVE?oc=5\" target=\"_blank\">科技之后谁是主线？机构最新研判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zQ3JxLXdBUW40SzVGb25yMHBhMGloMW9yUDMtWC1ISkYzTkJfTVdiUWIySUg2eVVySk1aTDJkb2tTeWtzMURPOWJybnlLcDJsNk1hMV82UGNJSHBKSXlmQzlSeXBHaUpZeHR1dlhJXzNhQWdtTVE?oc=5",
-      "published": "Sun, 05 Jul 2026 12:02:00 GMT"
+      "title": "中信建投：A股从“集中抱团”到“百花齐放” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPR09UUVRKcDJ0c09HVVVXdU03ZU5fQkJRMHU0RzBTZ09rVkdBREpfX2xWTGRxd3l2Um9zU1R3THBxaW9zbEtIUjloWXFtMVQ2c1c5dFY1c0hjSUFEcnNSbFFuelNlY1hjRDViaEh4ZDFwY0RCbC14WW1neVBfZ1pfNmEyODMzRlFmajQtczBxbEUxZTA?oc=5\" target=\"_blank\">中信建投：A股从“集中抱团”到“百花齐放”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR09UUVRKcDJ0c09HVVVXdU03ZU5fQkJRMHU0RzBTZ09rVkdBREpfX2xWTGRxd3l2Um9zU1R3THBxaW9zbEtIUjloWXFtMVQ2c1c5dFY1c0hjSUFEcnNSbFFuelNlY1hjRDViaEh4ZDFwY0RCbC14WW1neVBfZ1pfNmEyODMzRlFmajQtczBxbEUxZTA?oc=5",
+      "published": "Sun, 05 Jul 2026 12:39:00 GMT"
     },
     {
       "source": "东方财富",
@@ -90,31 +76,24 @@
     },
     {
       "source": "同花顺",
-      "title": "湖南5家烟花爆竹生产企业有序复工复产",
-      "summary": "湖南首批5家烟花爆竹生产企业在全面完成隐患排查治理，经企业自查，市、县、乡三级联合核查后，正式复工复产。这5家企业分别为：浏阳市丰峰烟花制造有限公司、浏阳市云璟烟花制造有限公司、醴陵彩丰烟花有限公司、醴陵市赖吉昌爆竹制造有限公司、醴陵市吉利烟花制造有限公司。此前，5月5日，全省烟花爆竹企业停产整顿，开展拉网式排查整治。 (湖南日报)",
-      "link": "https://news.10jqka.com.cn/20260705/c677957778.shtml",
-      "published": "Sun, 05 Jul 2026 13:37:15 GMT"
+      "title": "周末，利好来了！000301，最高预增超11倍 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQm5XX0JjNjdJcGhTUVAwM3JRcGdfV1U0OG54Q3EyZkYxcDZ5SG5OMUJxV2ttZjhYTXZUd0dSTmhCWmJQM0hTY2xsZ242dERpaWl5NzcxRTVwVGwtS2R2Xw?oc=5\" target=\"_blank\">周末，利好来了！000301，最高预增超11倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1aQm5XX0JjNjdJcGhTUVAwM3JRcGdfV1U0OG54Q3EyZkYxcDZ5SG5OMUJxV2ttZjhYTXZUd0dSTmhCWmJQM0hTY2xsZ242dERpaWl5NzcxRTVwVGwtS2R2Xw?oc=5",
+      "published": "Sun, 05 Jul 2026 14:19:38 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国旅联合：发行股份购买资产并募集配套资金获证监会注册批复",
-      "summary": "国旅联合公告称，公司发行股份及支付现金购买江西润田实业100%股份并募集配套资金事项，获证监会同意注册批复。本次交易将发行股份购买资产，并募集配套资金不超过9.3亿元。",
-      "link": "https://news.10jqka.com.cn/20260705/c677957643.shtml",
-      "published": "Sun, 05 Jul 2026 13:22:51 GMT"
+      "title": "控股股东拟转让18%股份，好利科技实控人将变更为厦门市财政局 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUl9fOEtueVJEVzUzbGpDUkdRQ0I2ZkZJaXZDNC0zWjRVZGV2X2hlcXNiekNIUHVUcU8zUlotd18xQkplV1owU3cydFZFOHo0ZzNjcU1OTjlNc2pRdkZmS1R3?oc=5\" target=\"_blank\">控股股东拟转让18%股份，好利科技实控人将变更为厦门市财政局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUl9fOEtueVJEVzUzbGpDUkdRQ0I2ZkZJaXZDNC0zWjRVZGV2X2hlcXNiekNIUHVUcU8zUlotd18xQkplV1owU3cydFZFOHo0ZzNjcU1OTjlNc2pRdkZmS1R3?oc=5",
+      "published": "Sun, 05 Jul 2026 13:19:30 GMT"
     },
     {
       "source": "同花顺",
-      "title": "长征十号乙首飞锁定7月10日至7月13日期间 验证首创的“海上网系回收”技术",
-      "summary": "长征十号乙首飞窗口锁定7月10日至13日，将在文昌商业航天发射场验证全球首创的“海上网系回收”技术。机构研报指出，全球看，商业航天竞争正从单一火箭技术升级为空天基础设施竞争。美国侧，以6月12日SpaceX上市为标志，打通“低成本发射—星链组网—终端运营—政府安全应用—太空AI”资本闭环；政策端通过简化商业发射审批、提高发射频次，将商业空间能力纳入国防体系。中国侧，处在“政策体系化—星箭批产—可回收验证—补运力短板”的追赶阶段。",
-      "link": "https://news.10jqka.com.cn/20260705/c677957437.shtml",
-      "published": "Sun, 05 Jul 2026 13:01:16 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "埃及国家战略指挥中心在新行政首都启用",
-      "summary": "埃及总统塞西4日在该国新行政首都为国家战略指挥中心揭幕，宣布该中心正式启用。根据埃及总统府4日发表的声明，塞西在启用仪式上发表讲话时说，国家战略指挥中心的落成，标志着埃及在指挥、控制和作战管理领域实现重大飞跃。该中心配备先进的技术基础设施、安全通信系统，具有卓越的情报收集与分析能力，将领导层与执行层纳入统一框架，实现指挥体系的高度一体化和精准快速响应。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260705/c677957048.shtml",
-      "published": "Sun, 05 Jul 2026 12:19:12 GMT"
+      "title": "三个月内两度遭证监会立案调查近10亿元债务逾期，停牌两月未交年报，ST萃华将被实施退市风险警示 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqXzE0Qk5vYkhoeWhaZVE1WHo0dllmd09DakIwREhDeHFqQVh0S3BsXzN4Tk1xcVNkUExRaHpQWHlBV2c2NTN6aE15YmxDWFNRbXAxMDd4NEVZTUtkMUNvZFpn?oc=5\" target=\"_blank\">三个月内两度遭证监会立案调查近10亿元债务逾期，停牌两月未交年报，ST萃华将被实施退市风险警示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqXzE0Qk5vYkhoeWhaZVE1WHo0dllmd09DakIwREhDeHFqQVh0S3BsXzN4Tk1xcVNkUExRaHpQWHlBV2c2NTN6aE15YmxDWFNRbXAxMDd4NEVZTUtkMUNvZFpn?oc=5",
+      "published": "Sun, 05 Jul 2026 13:19:30 GMT"
     },
     {
       "source": "财联社",
@@ -124,109 +103,18 @@
       "published": "Sun, 05 Jul 2026 13:39:43 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "中国大模型会终结Anthropic的暴利吗？",
-      "summary": "<p>vLLM项目联合创始人、Inferact联合创始人兼首席执行官Simon Mo&nbsp;表示，GLM-5.2 并非孤例，而是过去几个月中国模型实验室密集涌现的前沿模型代表之一，它们在编程等长周期任务上以极低成本逼近甚至局部超越 Claude Opus 和 GPT 5.5，这已促使大量企业开始考虑将日常驱动和后台 Agent 从最昂贵的专有模型切换回开源模型。</p>",
-      "link": "https://wallstreetcn.com/charts/41959356",
-      "published": "Sun, 05 Jul 2026 13:33:04 GMT"
+      "source": "财联社",
+      "title": "最高预增超1194%！普源精电、奥来德等9家A股公司上半年业绩大涨 - 富途牛牛",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVS1vMml2ekI2bk1YWXp2RU9jazFwT2p0R1ZTSF80T0htQVBkdHNhZnFnMzBPbUhIREhJSGhicXBpV2dDY3hhOHkzRkRNLXBUcmJ2WG5WMlUwZ21MbG96VFFMUkEydnRqYnRMTGVlN3lZbkV1R0thWEprcjRDVFF4a0NZVXNKblpaX00yeVVqOHpEZjBVSDdr?oc=5\" target=\"_blank\">最高预增超1194%！普源精电、奥来德等9家A股公司上半年业绩大涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVS1vMml2ekI2bk1YWXp2RU9jazFwT2p0R1ZTSF80T0htQVBkdHNhZnFnMzBPbUhIREhJSGhicXBpV2dDY3hhOHkzRkRNLXBUcmJ2WG5WMlUwZ21MbG96VFFMUkEydnRqYnRMTGVlN3lZbkV1R0thWEprcjRDVFF4a0NZVXNKblpaX00yeVVqOHpEZjBVSDdr?oc=5",
+      "published": "Sun, 05 Jul 2026 13:52:30 GMT"
     },
     {
       "source": "第一财经",
-      "title": "电动化迎来重磅拐点：中国车欧洲份额首超日本",
-      "summary": "<figure><img alt=\"电动化迎来重磅拐点：中国车欧洲份额首超日本\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/638905c2c3a8f68fb51366fe777648a7.jpg\" /></figure><p>电动化趋势使得中国车企在全球市场的竞争优势开始显现。</p><p>电动化趋势使得中国车企在全球市场的竞争优势开始显现。</p>\n\n<p>欧洲汽车制造商协会（ACEA）近期发布的统计数据显示，2026年5月，中国车企在欧洲【欧盟27国+英国+欧洲自由贸易联盟（EFTA）】的月度新车注册量首次超越日本车企。</p>\n\n<p>无论是狭义的欧盟口径，还是拓展至欧盟+英国+EFTA的口径，五家中国主力车企5月新车注册总量同比增幅均超60%。两种口径下，中国车企新车注册总量均超过日本车企。</p>\n\n<p>市场格局逆转，缘于欧洲电动化渗透率持续提升、中日车企产品结构分化等多重因素。尽管后续各国政策、行业竞争仍会带来份额波动，但中国车企正加速落地欧洲本地化生产，持续夯实市场竞争力。</p>\n\n<p>乘联分会秘书长崔",
-      "link": "https://www.yicai.com/news/103260816.html",
-      "published": "Sun, 05 Jul 2026 13:55:30 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "“备老”规划前置，他们希望体面地老去",
-      "summary": "<figure><img alt=\"“备老”规划前置，他们希望体面地老去\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/2a502091e2ac3439cb3d74ef21ed74a2.jpg\" /></figure><p>鼓励老人或备老群体提前做自我规划。</p><p>“由于独生子有智力障碍，我们夫妻非常担心他年老或在我们过世后，生活无法得到妥善安置、或遭受财产侵害。最终，我们决定以信托方式来为后续生活做好保障。”在沪经商打拼多年的赵先生今年刚满60岁，他告诉第一财经，尽管家中已有一定积蓄，但让残障独子、年迈老人都能过上稳定、持续的生活是他一直以来的“心病”，“将人生规划前置很有必要”。</p>\n\n<p>“我前不久刚经历了一次因心脏疾病入院治疗，由于是单身人士且暂无婚育计划，家中还有一位70余岁患有轻度阿尔茨海默症的母亲。我担心哪天自己突发意外，无法照顾自己和母亲未来的生活。权衡之下，打算选择将名下保单、现金交付给信托，来做一些基本支持。”今年刚满40岁的陈女士称，自己已聘用了律师事务所担任信托监察人，由好友来担任信托指令人",
-      "link": "https://www.yicai.com/news/103260813.html",
-      "published": "Sun, 05 Jul 2026 13:44:26 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "偿债成本危机下的美国财政重构",
-      "summary": "<figure><img alt=\"偿债成本危机下的美国财政重构\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/7e9880fb5996915dd04b8ff1622f311d.jpg\" /></figure><p>美国财政面临的本质困境在于：债务规模的增长速度持续超过经济增长速度。</p><p>截至2026年3月31日，美国公共债务总额已达39.07万亿美元。其中，公众持有债务约31.3万亿美元，几乎相当于整个美国经济的规模。根据美国审计署（GAO）的预测，在现行政策下，公众持有债务的增长速度将是经济增长速度的两倍以上，到2036年将达到GDP的123%。</p>\n\n<p>债务规模本身尚不足以构成即时危机——真正令人警醒的是偿债成本。2025财年，美国联邦政府的净利息支出达到9700亿美元。这一数字已经超过了国防预算，成为联邦预算中仅次于社保、收入保障和医保的第四大支出项目。进入2026财年，仅前8个月利息支出就已高达7230亿美元。国会预算办公室（CBO）预计，2026全年利息支出将首次突破1万亿美元，而到2036年这一数",
-      "link": "https://www.yicai.com/news/103260805.html",
-      "published": "Sun, 05 Jul 2026 13:39:56 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "加强出海企业海外数字资产保护",
-      "summary": "<figure><img alt=\"加强出海企业海外数字资产保护\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/f3682de117caf803125a88dac8273ed3.jpg\" /></figure><p>数字时代中国企业出海面临的核心挑战，已经不再是“要不要”合规，而是合规能力“能不能”真正应对系统性监管挑战。</p><p>数字化时代，企业出海过程中形成的数据资源、算法模型、数字基础设施等，正逐渐成为其海外经营的重要资产，同时，也令出海企业资产安全问题面临新的风险和挑战。传统上，企业海外经营限制和风险主要体现为市场准入限制、国民待遇歧视、劳工和环保标准合规等。随着数字经济的发展，各国监管边界正在迅速扩张，企业海外经营过程中形成的数据、平台、技术和数字基础设施等领域正逐渐成为各国监管机构重点关注的对象。</p>\n\n<p>与传统有形资产不同，数字资产具有跨境流动性强、监管敏感度高、风险传导速度快等特点，其价值实现高度依赖东道国的监管环境。随着各国持续加强数字资产监管，数据跨境流动、人工智能、网络安全等议题不断被纳入监管",
-      "link": "https://www.yicai.com/news/103260804.html",
-      "published": "Sun, 05 Jul 2026 13:39:47 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "管涛：外资在债汇“双杀”下加速回流美国证券资产",
-      "summary": "<figure><img alt=\"管涛：外资在债汇“双杀”下加速回流美国证券资产\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/98f70077ca00ee077247edaa69c2281f.jpg\" /></figure><p>美元指数和美债价格下跌往往会引发人们关于外资抛售美国资产的联想，事实并非如此。</p><p>3月份，中东战争爆发导致全球股债金齐跌，唯有美元指数上涨。4月份，随着美伊休战，中东局势缓和，市场避险情绪消退、流动性紧缩局面缓解，美国金融市场涨跌互现。当月，美指冲高回落1.8%，标普500指数反弹10.4%且迭创历史新高。但因美伊磋商推进缓慢，霍尔木兹海峡被双重封锁，布伦特原油现货月均价升至120.8美元/桶，环比上涨16.0%，同比上涨77.9%。因此，尽管4月份美联储议息会议继续按兵不动，债券市场却在交易通胀风险，2年期和10年期美债收益率分别上行9和10个基点。</p>\n\n<p>美元指数和美债价格下跌往往会引发人们关于外资抛售美国资产的联想。不过，从美国财政部发布的月度国际资本流动报告（TIC）管",
-      "link": "https://www.yicai.com/news/103260803.html",
-      "published": "Sun, 05 Jul 2026 13:39:35 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "程实：AI时代会如何到来︱实话世经",
-      "summary": "<figure><img alt=\"程实：AI时代会如何到来︱实话世经\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/29bc4623ad6b03dd7711d4abe84e6117.jpg\" /></figure><p>如果AI主要停留在既有产业内部的效率优化，其宏观影响可能低于市场当前的乐观预期。</p><p>人工智能（AI）正在成为全球经济最重要的结构性变量之一。市场普遍将AI视为继电力、互联网之后的新一轮通用技术革命，并据此提前定价未来数十年的生产率跃升。然而，与资本市场的乐观预期形成鲜明对比的是，全球经济仍然面临通胀压力，长期潜在增长率并未明显上修。</p>\n\n<p>为何技术突破正在以前所未有的速度发生，但全球经济增长却没有同步加速？参考经济理论，为我们理解AI时代提供了新的视角：经济增长并不由最先进的部门决定，而是由落后的瓶颈决定。现阶段，算力、能源等物理约束，企业流程和系统等组织约束，人类监督和判断等人力约束，以及法律和监管等制度约束，共同限制了AI由局部任务效率向整体生产率的转化。</p>\n\n<p>随着AI由辅",
-      "link": "https://www.yicai.com/news/103260802.html",
-      "published": "Sun, 05 Jul 2026 13:39:26 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "把老师傅经验装进工业大脑有多难，亚布力论坛热议AI重塑制造业",
-      "summary": "<figure><img alt=\"把老师傅经验装进工业大脑有多难，亚布力论坛热议AI重塑制造业\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/4837025c810c2ec55bc48bf8b86e7fdb.jpg\" /></figure><p>以往大部分制造业客户对使用智能化设备三四年回本还可以接受，但现在周期已经缩短至两年。</p><p>发展智能制造是我国“十五五”时期优化提升传统产业的重要举措，同时也是全方位推进数智技术赋能的一部分。今年以来，多地也正在部署推进人工智能与制造业快速融合。</p>\n\n<p>在2026亚布力中国企业家论坛第十二届创新年会上，多位来自AI、具身智能领域的行业人士分享了AI技术给制造业带来的变化。他们认为，当“人工智能+”进入传统的工业制造领域，生产范式从经验驱动转变为数据智能驱动，产业价值的创造逻辑正在经历一场深刻的重塑。</p>\n\n<p><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/07/0c95b97cff86b",
-      "link": "https://www.yicai.com/news/103260796.html",
-      "published": "Sun, 05 Jul 2026 13:12:14 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "全球AI交易重构，市场进入“业绩验证”时刻",
-      "summary": "<figure><img alt=\"全球AI交易重构，市场进入“业绩验证”时刻\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/19d9849ec702db5814217ef1078676b3.jpg\" /></figure><p>下半年伊始，全球AI交易进入重构阶段，资金从“烧钱”的云服务商向“赚钱”的硬件供应商进行结构性再配置，市场定价逻辑逐步转向对业绩兑现与经营现金流的验证。</p><p>2026年下半年伊始，全球AI交易或开启重构。</p>\n\n<p>7月首周，全球芯片股遭遇剧烈抛售，费城半导体指数两个交易日累计跌超11%；A股创业板指7月2日单日暴跌5.71%，创近15个月来最大跌幅。</p>\n\n<p>然而，资金并非全面撤离，而是在科技板块内部进行着结构性的再配置，从“烧钱”的云服务商转向“赚钱”的硬件供应商，市场定价逐步转向盈利验证。</p>\n\n<p>贝莱德基金权益、多资产及指数首席投资官王晓京在接受第一财经采访时表示,在AI全产业链，尤其是硬件环节，部分中国资产已逐步迈入业绩兑现期。自去年起与全球AI算力需求形成共振",
-      "link": "https://www.yicai.com/news/103260797.html",
-      "published": "Sun, 05 Jul 2026 13:07:18 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "一财社论：充分博弈让资本市场更健康",
-      "summary": "<figure><img alt=\"一财社论：充分博弈让资本市场更健康\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/e657b86f99c44052f524a67fffe65182.jpg\" /></figure><p>证监会对上市公司再融资规则进行的修改，将为市场提供充分博弈拓宽空间。</p><p>更有效的风险定价和资源优化配置是资本市场永恒的追求。</p>\n\n<p>7月3日，中国证监会发布《关于修改〈上市公司证券发行注册管理办法〉的决定（征求意见稿）》及相关配套规则公开征求意见的通知，围绕建立定向增发储架发行制度等六个方面进行修改。</p>\n\n<p>这些修改内容大都是针对市场长期关注的问题和痛点展开，有助于提高资本市场制度包容性、适应性，进而增强国内资本市场竞争力和吸引力。长期以来，国内资本市场在资源的供需调节和匹配等方面相对刚性，导致供给冲击与需求冲击频繁。市场好的时候，投融资相对便利，而市场一旦走势疲弱，投融资就将面临政策性阻断可能（如暂停或收紧融资），这客观上带来了制度和政策的不连贯和不稳定性。</p>\n\n<p>这",
-      "link": "https://www.yicai.com/news/103260798.html",
-      "published": "Sun, 05 Jul 2026 13:04:09 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "“中国椅业之乡”穿越周期，装备制造成为第一支柱产业",
-      "summary": "<figure><img alt=\"“中国椅业之乡”穿越周期，装备制造成为第一支柱产业\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/f0df4bd47c85f07ff855fa0437d099e9.jpg\" /></figure><p>在贸易壁垒与内需承压的多重夹击下，中国外向型制造重镇亟须找到新的增长极。</p><p>在中国东部密集的县域经济版图上，安吉是一个无法被忽略的名字，它以“中国椅业之乡”著称，全国每三把椅子中，就有一把产自这里，其出口量更是占了全国的二分之一。而在2026年，这里发生了一次具有标志意义的产业位次更替——装备制造产业规上产值首次超越绿色家居，成为全县第一大支柱产业。</p>\n\n<p>在安吉近日举行的一场企业创新发布大会上，能够实现重载拣运、适应高空高危作业的多款具身机器人吸引了国内外客商的目光。</p>\n\n<p>浙江省安吉县经信局产业科科长李玲对第一财经表示，过去，安吉的工业经济高度依赖绿色家居产业，产业结构单一、抗风险能力较弱。近年来外部市场不确定性增加、国内市场低端同质化竞争、原材料和物流成本上",
-      "link": "https://www.yicai.com/news/103260795.html",
-      "published": "Sun, 05 Jul 2026 12:42:00 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "IPO周报：2天激增98单申请，年内新增受理242单",
-      "summary": "<figure><img alt=\"IPO周报：2天激增98单申请，年内新增受理242单\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/5970a4e46e34a489a4ad1b2b7ae2aad8.jpg\" /></figure><p>今年以来沪深北交易所IPO新增受理242单，相较去年同期的177单增加36.72%。</p><p>6月29日～7月5日当周，A股市场IPO新增受理火爆。在6月29日和6月30日两天，有98单IPO申请获得受理。7月份尚未有IPO申请获得受理。今年以来沪深北交易所合计受理242单IPO申请，这意味着上述两天的受理量占到四成。</p>\n\n<p>上述98单新增受理的IPO申请中，北交所新增受理最多，有54单；其次是上交所，新增受理了30单，其中28单来自科创板、2单来自主板；深交所新增受理了14单，全部来自创业板。</p>\n\n<p>今年A股IPO新增受理从5月份开始加速，到6月份迎来爆发。今年1～4月份，沪深北交易所新增受理的IPO申请分别为2单、1单、8单、9单。但是5月份开始，新增受理节奏加快",
-      "link": "https://www.yicai.com/news/103260791.html",
-      "published": "Sun, 05 Jul 2026 12:32:49 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "与前合作伙伴对簿公堂，奔图科技变更案由，提高索赔金额至49.5亿元",
-      "summary": "<figure><img alt=\"与前合作伙伴对簿公堂，奔图科技变更案由，提高索赔金额至49.5亿元\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/272f04641685f299dee6d300c8cb7af9.jpg\" /></figure><p>上市公司与私募机构互诉，事因一则“蛇吞象”故事</p><p>从合作完成“蛇吞象”并购到对簿公堂，奔图科技（002180.SZ，更名前证券简称为“纳思达”）与亚洲知名私募公司的恩怨再度升级。</p>\n\n<p>7月4日，奔图科技发布《关于重大诉讼变更诉讼请求的公告》，称公司起诉太盟亚洲资本利盟控股有限公司（PAG Asia Capital Lexmark Holding Limited，下称“太盟投资”）、第三人上海朔达投资中心（有限合伙）（下称“上海朔达”）一案，案由由“滥用股东权利”变更为“侵权”，索赔金额由原来的4.7亿美元（按照最新汇率计算约31.92亿元）改为49.5亿元。</p>\n\n<p>奔图科技称，本次变更诉讼请求的申请已获得珠海市中级人民法院准许，且案件已于今年4月",
-      "link": "https://www.yicai.com/news/103260790.html",
-      "published": "Sun, 05 Jul 2026 12:30:34 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "霉霉婚礼再现“钞能力”：拆解20亿美元商业版图与婚前协议规划",
-      "summary": "<figure><img alt=\"霉霉婚礼再现“钞能力”：拆解20亿美元商业版图与婚前协议规划\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/82d85a543a6090c3ea3c0a32613fa3c7.jpg\" /></figure><p>据估计，这场婚礼花费至少为2000万美元。  </p><p>当地时间7月3日，美国东海岸同日上演两大盛事。</p>\n\n<p>一项是世界杯“黑马”佛得角在迈阿密对阵阿根廷，另一项则是被网友称为“霉霉”的流行音乐歌手泰勒・斯威夫特（Taylor Swift）与职业美式足球联盟（NFL）球星特拉维斯・凯尔西（Travis Kelce）举行婚礼，地点位于纽约市的地标体育馆麦迪逊广场花园。</p>\n\n<p>“封路和警察非常多。”一位当天路过婚礼场馆的纽约市民告诉第一财经记者，他在社交媒体记录道：“现场全是警车和警察，还有大批媒体和围观的人，我还以为有什么重大事件发生。”</p>\n\n<p>根据《福布斯》杂志的最新统计，斯威夫特净资产约为20亿美元，全球排名2077位，其中近8亿美元来自版税和巡演",
-      "link": "https://www.yicai.com/news/103260781.html",
-      "published": "Sun, 05 Jul 2026 12:01:44 GMT"
-    },
-    {
-      "source": "中国证券报",
-      "title": "壁仞科技配售1.53亿股新H股 六成募资拟用于下一代GPGPU生产放量 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE51Rk5sOHNZU2xlRzRQM0prdDFYZE5lUGdIdU00c0tjQXZBUVU1SVRUNlNBaXI4YTRldG5fVkpBTU4xZXFqMW02cWdRS1dUbm5KaEJta2ItblFPUWFld3o5Vmp6a3l2cEdDckZFSzFYZW83WkVOcERObQ?oc=5\" target=\"_blank\">壁仞科技配售1.53亿股新H股 六成募资拟用于下一代GPGPU生产放量</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51Rk5sOHNZU2xlRzRQM0prdDFYZE5lUGdIdU00c0tjQXZBUVU1SVRUNlNBaXI4YTRldG5fVkpBTU4xZXFqMW02cWdRS1dUbm5KaEJta2ItblFPUWFld3o5Vmp6a3l2cEdDckZFSzFYZW83WkVOcERObQ?oc=5",
-      "published": "Sun, 05 Jul 2026 12:19:00 GMT"
+      "title": "全球AI交易重构，市场进入“业绩验证”时刻 - 第一财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxcVRyLXA4YTdFelFCaFdpWThma0dXRGN0NHA2MDMwazVmN0NPUEozN3l5T2t5MjRYbFFCdDdRc2VNNW5ydEVNcjR0YWxBdDNOdzk0?oc=5\" target=\"_blank\">全球AI交易重构，市场进入“业绩验证”时刻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxcVRyLXA4YTdFelFCaFdpWThma0dXRGN0NHA2MDMwazVmN0NPUEozN3l5T2t5MjRYbFFCdDdRc2VNNW5ydEVNcjR0YWxBdDNOdzk0?oc=5",
+      "published": "Sun, 05 Jul 2026 13:07:53 GMT"
     },
     {
       "source": "中国证券报",
