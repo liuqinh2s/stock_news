@@ -1,9 +1,44 @@
 {
   "date": "2026-07-07",
   "hour": "05",
-  "total": 12,
-  "fetched_at": "2026-07-07T05:01:04.126373+08:00",
+  "total": 16,
+  "fetched_at": "2026-07-07T05:19:30.821386+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股市场重要股东减持渠道“一降两升” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBwRGtPSjFJVUxzMlB6Tk8xUVhFWGVWTW9kY1l1aHFrZ3pIMjFQZ3lOSUN4MnpyaFpQaGNaSXkwNFNJdmFrZFpaMmdqTGpYNGQxeXZiYnAwZFNxeE1KTEdSbnFpSmFBMVA5YU8xR2NFSllsQkRnRXduUw?oc=5\" target=\"_blank\">A股市场重要股东减持渠道“一降两升”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwRGtPSjFJVUxzMlB6Tk8xUVhFWGVWTW9kY1l1aHFrZ3pIMjFQZ3lOSUN4MnpyaFpQaGNaSXkwNFNJdmFrZFpaMmdqTGpYNGQxeXZiYnAwZFNxeE1KTEdSbnFpSmFBMVA5YU8xR2NFSllsQkRnRXduUw?oc=5",
+      "published": "Mon, 06 Jul 2026 19:25:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "国力电子:股票交易异常波动的公告 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1BODF4Ui02NGxxOWI1WmtMQkpYTFlpbDdwcmhIcnhWZXZXZC1pbUxGNDhuMmptY2cxMEZ4Z3p5dWxlRzNFd3VQZmRfOGpSdkdLbWtsbHBBanA3eDhreFlkMHk4Y1Y0eklRTmtBbXpYcV8wek5nWWJkeExCTWlnSDQ?oc=5\" target=\"_blank\">国力电子:股票交易异常波动的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BODF4Ui02NGxxOWI1WmtMQkpYTFlpbDdwcmhIcnhWZXZXZC1pbUxGNDhuMmptY2cxMEZ4Z3p5dWxlRzNFd3VQZmRfOGpSdkdLbWtsbHBBanA3eDhreFlkMHk4Y1Y0eklRTmtBbXpYcV8wek5nWWJkeExCTWlnSDQ?oc=5",
+      "published": "Mon, 06 Jul 2026 21:07:36 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "利好不断+BD高增！创新药板块连续爆发 中长期布局良机已至？(附股) - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE84MXI5c1B4cTJ2cW5zeTZ0TjlaU05jcUZ0S3gtV2ZCMUJpemZCVmM4cHVxTnp1b2FlcEcwNmRESHJTYUN4eXIteXBRUDRpMDQzc3JfRjI2WWdMRm9uQllNY0VWT1VkUWdhOGl3?oc=5\" target=\"_blank\">利好不断+BD高增！创新药板块连续爆发 中长期布局良机已至？(附股)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84MXI5c1B4cTJ2cW5zeTZ0TjlaU05jcUZ0S3gtV2ZCMUJpemZCVmM4cHVxTnp1b2FlcEcwNmRESHJTYUN4eXIteXBRUDRpMDQzc3JfRjI2WWdMRm9uQllNY0VWT1VkUWdhOGl3?oc=5",
+      "published": "Mon, 06 Jul 2026 20:53:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沃尔玛下调碎牛肉、甜玉米和红樱桃的价格",
+      "summary": "沃尔玛下调碎牛肉、甜玉米和红樱桃的价格。",
+      "link": "https://news.10jqka.com.cn/20260707/c677990101.shtml",
+      "published": "Mon, 06 Jul 2026 21:14:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "比特币升破64000美元，日内涨1.01%",
+      "summary": "比特币升破64000美元，日内涨1.01%。",
+      "link": "https://news.10jqka.com.cn/20260707/c677990098.shtml",
+      "published": "Mon, 06 Jul 2026 21:10:09 GMT"
+    },
     {
       "source": "同花顺",
       "title": "特朗普：沃尔玛是一家真正爱国的公司，其他零售商应该效仿沃尔玛的做法",
@@ -80,13 +115,6 @@
       "summary": "<p>伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。</p>",
       "link": "https://wallstreetcn.com/livenews/3129533",
       "published": "Mon, 06 Jul 2026 19:20:10 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "SK海力士美股定价在即，顶级AI基金抢筹，瑞银料长期“吸金”150亿",
-      "summary": "<p style=\"text-align: left;\">SK海力士赴美发行存托凭证（ADR）进入关键定价期，顶级AI基金的集中抢筹与巨量被动资金流入预期，正重塑这家存储芯片巨头的估值逻辑，并催生出复杂的跨市场套利交易。</p>\n<p style=\"text-align: left;\">最新披露的Base offering认购名单显示，BG、Coatue及Situational Awareness等知名AI基金悉数入局。资金面的增量预期更为庞大。据瑞银测算，长期来看，SK海力士ADR纳入核心半导体指数将引流高达150亿美元被动资金。在资金涌入预期下，做多ADR、做空韩国正股的跨市场套利策略开始涌现。</p>\n<p style=\"text-align: left;\">这一系列资本运作不仅印证了机构对AI半导体赛道高景气度的共识，也意味着随着跨市场转换额度的逐步消耗，SK海力士在美股市场的定价权与溢价空间将迎来实质性重估。</p>\n<h2 style=\"text-align: left;\">顶级AI基金集结，定价时间表明确</h2>\n<p style=\"text-align: left;\"",
-      "link": "https://wallstreetcn.com/articles/3776321",
-      "published": "Mon, 06 Jul 2026 19:11:39 GMT"
     }
   ]
 }
