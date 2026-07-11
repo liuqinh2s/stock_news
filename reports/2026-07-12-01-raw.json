@@ -1,78 +1,43 @@
 {
   "date": "2026-07-12",
   "hour": "01",
-  "total": 10,
-  "fetched_at": "2026-07-12T01:00:59.899604+08:00",
+  "total": 5,
+  "fetched_at": "2026-07-12T01:44:27.859932+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "中信建投｜研究周知：从“集中抱团”到“百花齐放” - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE56YV9fQ2luVkZabzl1bmZKWWZtN0tlY1pBak54aGd6SkNydzhjdGN2NDVDeXVwQVNZVHVSZ2F1ZUlDMElLN3hDSlVLZjdxQU5aLTdTODNsTlRRakZqMUp3M04wbmQ2dUxva2xMN2xSNXhWd0ZndlE?oc=5\" target=\"_blank\">中信建投｜研究周知：从“集中抱团”到“百花齐放”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56YV9fQ2luVkZabzl1bmZKWWZtN0tlY1pBak54aGd6SkNydzhjdGN2NDVDeXVwQVNZVHVSZ2F1ZUlDMElLN3hDSlVLZjdxQU5aLTdTODNsTlRRakZqMUp3M04wbmQ2dUxva2xMN2xSNXhWd0ZndlE?oc=5",
-      "published": "Sat, 11 Jul 2026 15:13:00 GMT"
+      "source": "东方财富",
+      "title": "每周股票复盘：澜起科技（688008）完成22023万元回购并注销166.2万股 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE45dlhTVE5CalBWNnBNTEJPRWQ2bno2S29uYnlqSVhTVGotaVBfTVBRdm1ydmdackxHVGlObDRvdU4tdE9mZi13QkgxWnVhTHhISG5NQ0RGYnZPRlp2YzlUSzc2dGpUNk9qczVF?oc=5\" target=\"_blank\">每周股票复盘：澜起科技（688008）完成22023万元回购并注销166.2万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45dlhTVE5CalBWNnBNTEJPRWQ2bno2S29uYnlqSVhTVGotaVBfTVBRdm1ydmdackxHVGlObDRvdU4tdE9mZi13QkgxWnVhTHhISG5NQ0RGYnZPRlp2YzlUSzc2dGpUNk9qczVF?oc=5",
+      "published": "Sat, 11 Jul 2026 17:12:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "我的投资之路（二八三） - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA2eUlRZlI3bTZSRzBmVldTVVJkMTd2ZG9FU3h0QlhJRDZvOEVxWmQ2SFRadkNzSEpTblk5RFJWQ0g4dXFHTHdNZUJTT0s3Q1BHTW1mdlJrUWliRE5Kb1pLX2Z0eUdtSkxOV1c4?oc=5\" target=\"_blank\">我的投资之路（二八三）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2eUlRZlI3bTZSRzBmVldTVVJkMTd2ZG9FU3h0QlhJRDZvOEVxWmQ2SFRadkNzSEpTblk5RFJWQ0g4dXFHTHdNZUJTT0s3Q1BHTW1mdlJrUWliRE5Kb1pLX2Z0eUdtSkxOV1c4?oc=5",
-      "published": "Sat, 11 Jul 2026 15:35:00 GMT"
+      "title": "每周股票复盘：工业富联（601138）H1净利预增93%-101% - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1IQTFZakpCZXlmRkRKM0FqM1ZiQWVKeWdHMUJuNXpVeEJvVjA4QVE0Y2VfSHRHcVBNZk5hbTBiS0o1ay1CdHc1bF9DNVJpN1JZRE9IYWFDaFNXLXhWeEU4SDUzMVd5cXhkUjVj?oc=5\" target=\"_blank\">每周股票复盘：工业富联（601138）H1净利预增93%-101%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IQTFZakpCZXlmRkRKM0FqM1ZiQWVKeWdHMUJuNXpVeEJvVjA4QVE0Y2VfSHRHcVBNZk5hbTBiS0o1ay1CdHc1bF9DNVJpN1JZRE9IYWFDaFNXLXhWeEU4SDUzMVd5cXhkUjVj?oc=5",
+      "published": "Sat, 11 Jul 2026 17:12:00 GMT"
     },
     {
-      "source": "财联社",
-      "title": "台风“巴威”在浙江乐清二次登陆",
-      "summary": "【台风“巴威”在浙江乐清二次登陆】财联社7月12日电，中央气象台最新消息，台风“巴威”于12日0时前后，在浙江省温州市乐清市清江镇沿海二次登陆，登陆时中心附近最大风力13级（38米/秒），中心最低气压960百帕。",
-      "link": "",
-      "published": "Sat, 11 Jul 2026 16:06:03 GMT"
+      "source": "东方财富",
+      "title": "每周股票复盘：国泰海通（601211）董事长代为履行总裁职责 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBzZFNpUGtjLWJfc1lpdThrVUF4MDhfVkdYNDNwWmM4SlQ4OWt0RkpGaDBFd2JGUEhXNUVJRmZrRjZfcW9aalA0NXBFbnZicVN1dWZjY21RbDVVejZqNHlCMjFXenk3NUZqMHNz?oc=5\" target=\"_blank\">每周股票复盘：国泰海通（601211）董事长代为履行总裁职责</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzZFNpUGtjLWJfc1lpdThrVUF4MDhfVkdYNDNwWmM4SlQ4OWt0RkpGaDBFd2JGUEhXNUVJRmZrRjZfcW9aalA0NXBFbnZicVN1dWZjY21RbDVVejZqNHlCMjFXenk3NUZqMHNz?oc=5",
+      "published": "Sat, 11 Jul 2026 17:12:00 GMT"
     },
     {
-      "source": "财联社",
-      "title": "新疆阿克苏地区拜城县发生4.2级地震 震源深度10千米",
-      "summary": "【新疆阿克苏地区拜城县发生4.2级地震 震源深度10千米】财联社7月11日电，中国地震台网正式测定：7月11日23时40分在新疆阿克苏地区拜城县（北纬41.74度，东经81.20度）发生4.2级地震，震源深度10千米。<br /><img src=\"https://image.cls.cn/images/20260711/71SVb2D73W_690x518.jpg\" />",
-      "link": "",
-      "published": "Sat, 11 Jul 2026 15:55:44 GMT"
+      "source": "东方财富",
+      "title": "每周股票复盘：睿创微纳（688002）调整激励计划价格并推进合资 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9EYXF2T0cyZ2tOa2Q2WWtkcDZjREtCWmJRNFRacWR3TjNMQ3c3N1RSZFBsbEtYZk9JeUxfYzZDaVBQc0tSWnRKSlNrUlFNSUcxTmxDeUt1M1VoTVRzcUF2dG9RMjNlblVhSGtj?oc=5\" target=\"_blank\">每周股票复盘：睿创微纳（688002）调整激励计划价格并推进合资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EYXF2T0cyZ2tOa2Q2WWtkcDZjREtCWmJRNFRacWR3TjNMQ3c3N1RSZFBsbEtYZk9JeUxfYzZDaVBQc0tSWnRKSlNrUlFNSUcxTmxDeUt1M1VoTVRzcUF2dG9RMjNlblVhSGtj?oc=5",
+      "published": "Sat, 11 Jul 2026 17:12:00 GMT"
     },
     {
-      "source": "财联社",
-      "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
-      "summary": "【伊朗方面公布被导弹击中的约旦美军基地卫星图像】财联社7月11日电，据央视新闻，伊朗方面公布卫星图像，称是伊朗导弹击中的约旦美军基地。\n\n伊朗方面消息称，卫星图像显示，位于约旦的穆瓦法克·萨尔提空军基地在美国多次违反停火后遭到打击。图像显示，基地内至少有两处设施遭导弹击中，据称美军战机机库被毁，但目前尚不清楚机库内当时存放何种装备。伊朗方面称，此前美国和约旦方面均表示，来袭目标已全部被拦截。\n\n当地时间9日，美军部署在约旦穆瓦法克·萨尔提的基地遭目标锁定。约旦政府在一份声明中称，该国军方已拦截来自伊朗方面的导弹，并将持续为维护国家安全做好准备。约旦军方称，拦截了8枚来自伊朗的导弹。<br /><img src=\"https://image.cls.cn/images/20260711/eFJkZ2i56J_636x569.jpg\" />",
-      "link": "",
-      "published": "Sat, 11 Jul 2026 15:41:26 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "台风“巴威”在浙江台州玉环登陆",
-      "summary": "【台风“巴威”在浙江台州玉环登陆】财联社7月11日电，今年第9号台风“巴威”(台风级)的中心已于11日23时20分前后在台州玉环登陆，登陆时中心附近最大风力13级(40米/秒)，中心最低气压为955百帕。（央视新闻）",
-      "link": "",
-      "published": "Sat, 11 Jul 2026 15:32:35 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "国内航司计划取消12日进出港航班超2800架次",
-      "summary": "【国内航司计划取消12日进出港航班超2800架次】财联社7月11日电，据央视新闻，大数据显示，7月11日，上海浦东机场、常州奔牛机场、上海虹桥机场、杭州萧山机场、宁波栎社机场、无锡硕放机场等约36个机场发布了雷雨天气预报。上海浦东机场、杭州萧山机场、宁波栎社机场、上海虹桥机场、北京首都机场当日临时取消航班量位列国内前五。\n\n截至7月11日20:00，今天国内机场的延误航班数量超1300架次。福州长乐、舟山普陀山、武夷山、梧州西江、安顺黄果树、义乌、宁波栎社、琼海博鳌等机场的航班大面积取消；北京首都、北京大兴机场大面积延误，最高延误比例达96%。\n\n截至7月11日20:00，国内各航司计划取消12日进出港航班超2800架次，建议旅客密切关注天气状况和航班动态，灵活调整出行安排。",
-      "link": "",
-      "published": "Sat, 11 Jul 2026 15:16:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "湖北十堰发布暴雨红色预警",
-      "summary": "【湖北十堰发布暴雨红色预警】财联社7月11日电，湖北十堰市气象台2026年7月11日20时38分发布暴雨红色预警信号：过去2小时，竹溪丰溪界梁村雨量已达60毫米。预计未来3小时，竹溪丰溪及周边乡镇局部累计雨量将达100毫米以上，山区山洪、地质灾害、中小河流洪水、城乡积涝风险极高，请注意防范。（央视新闻）",
-      "link": "",
-      "published": "Sat, 11 Jul 2026 15:14:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "南非国脚亚当斯世界杯赛回国后去世",
-      "summary": "【南非国脚亚当斯世界杯赛回国后去世】财联社7月11日电，南非体育部长盖顿·麦肯齐11日证实，代表南非国家男子足球队出征2026年美加墨世界杯的国脚杰登·亚当斯回到国内后去世，年仅25岁。南非官方并未公布亚当斯死因。亚当斯死讯最初由当地媒体从其家人处证实后披露，但未对相关细节进行报道。个别社交媒体称亚当斯系因抑郁自杀。亚当斯的祖母在世界杯期间不幸去世。美加墨世界杯期间，亚当斯代表南非队出战了三场小组赛，南非队分别以0:2负于墨西哥队、1:1战平捷克队、1:0战胜韩国队。",
-      "link": "",
-      "published": "Sat, 11 Jul 2026 15:08:49 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "壹快评｜长沙公职人员强占车位事件，不只是私德问题",
-      "summary": "<figure><img alt=\"壹快评｜长沙公职人员强占车位事件，不只是私德问题\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/3F9C2CBC-72F2-4D18-9081-2B8C12B1F9FD.jpg\" /></figure><p>闵某采取以暴制暴的方式维权，折射出普通公民在面对邻里纠纷式侵权行为时的维权困境。</p><p>近日，长沙市体育局干部彭某某占用他人车位引发纠纷一事引发广泛关注。舆论将焦点对准彭某某的公职人员身份，认为其私德有亏，有损政府形象，这当然有其道理。但将此事仅仅框定在“私德”范畴，可能模糊了问题的本质。事件的真正核心，并非身份标签下的道德瑕疵，而是一方对另一方合法财产权的公然侵犯，以及这种看似“小恶”的违法行为，为何在现实中难以被及时制止。</p>\n\n<p>根据联合调查组情况通报，涉事车位是闵某花费8万元购买的产权车位，属于受法律保护的私有财产。《民法典》规定：私人的合法财产受法律保护，禁止任何组织或者个人侵占、哄抢、破坏。彭某某未经允许占用他人车位，在接到挪车要求后，非但没有及时纠正，反而",
-      "link": "https://www.yicai.com/news/103270778.html",
-      "published": "Sat, 11 Jul 2026 15:16:08 GMT"
+      "source": "东方财富",
+      "title": "每周股票复盘：XD航天电（600879）在手订单覆盖周期为一至三年 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5zc05jUHdnSVMtdzExTm8tZWVMUnF0eFVSaFNUejhoMXJMVndtV0xyMjBEa0JlVHIzX2RrcnhxMlVubFhWZFNqa2NKN0hRV2h1aGVpeG1vRWRudU1fSTZwbVJMZnE5QWpKY3BF?oc=5\" target=\"_blank\">每周股票复盘：XD航天电（600879）在手订单覆盖周期为一至三年</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zc05jUHdnSVMtdzExTm8tZWVMUnF0eFVSaFNUejhoMXJMVndtV0xyMjBEa0JlVHIzX2RrcnhxMlVubFhWZFNqa2NKN0hRV2h1aGVpeG1vRWRudU1fSTZwbVJMZnE5QWpKY3BF?oc=5",
+      "published": "Sat, 11 Jul 2026 17:12:00 GMT"
     }
   ]
 }
