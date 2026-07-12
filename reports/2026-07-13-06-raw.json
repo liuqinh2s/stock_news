@@ -1,9 +1,16 @@
 {
   "date": "2026-07-13",
   "hour": "06",
-  "total": 2,
-  "fetched_at": "2026-07-13T06:01:06.037126+08:00",
+  "total": 5,
+  "fetched_at": "2026-07-13T06:36:50.841834+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "把握A股高低切 机构这样研判 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA5TDgzTXJKZF9iYTY2YzNacS1NNUxjNDNQcmJ1aEdmWnFFMWdpdTNrc2UxbTFXZWl3ajFydTlFT0lfUkRmZjdCdEtlM1JFenI0REpsaGxiOUtuQUZhSG1yVEpHeXlvU0FQNVpJWGxLMGdBV1FJX2pnNg?oc=5\" target=\"_blank\">把握A股高低切 机构这样研判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5TDgzTXJKZF9iYTY2YzNacS1NNUxjNDNQcmJ1aEdmWnFFMWdpdTNrc2UxbTFXZWl3ajFydTlFT0lfUkRmZjdCdEtlM1JFenI0REpsaGxiOUtuQUZhSG1yVEpHeXlvU0FQNVpJWGxLMGdBV1FJX2pnNg?oc=5",
+      "published": "Sun, 12 Jul 2026 21:52:00 GMT"
+    },
     {
       "source": "东方财富",
       "title": "王迪2026年二季度表现，融通通鑫灵活配置混合基金季度涨幅90.98% - 财富号",
@@ -13,10 +20,24 @@
     },
     {
       "source": "东方财富",
+      "title": "香农芯创净利最多预增超24倍 多家A股公司预计业绩大增 走势将如何？ - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE43aXdyVXNUSEVQWktJMm51djBPVERPY2ZKMkxPN3czSWhJVmdWeld5YWYyekhxZDFCeWRzVGpQZTZNbXFuR3FnaS0wUnNKSW5UdGRtNllxYlZtaDBlYTNkWGtXalhsN3c1YWJz?oc=5\" target=\"_blank\">香农芯创净利最多预增超24倍 多家A股公司预计业绩大增 走势将如何？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43aXdyVXNUSEVQWktJMm51djBPVERPY2ZKMkxPN3czSWhJVmdWeld5YWYyekhxZDFCeWRzVGpQZTZNbXFuR3FnaS0wUnNKSW5UdGRtNllxYlZtaDBlYTNkWGtXalhsN3c1YWJz?oc=5",
+      "published": "Sun, 12 Jul 2026 21:32:00 GMT"
+    },
+    {
+      "source": "东方财富",
       "title": "本周披露并购重组进展的A股名单一览 国林科技20CM涨停 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8wQm1sMzZhVzBxNEhRTGpVSGhWLVFTbE5NNkhDMHl5VjlwN3o2T1h6dWpTdU5MWlZvUnNXbXhZZVRNV01IaEtJUG95eHNCWUNoRHdMbnV4OTFhVE8tUjhEcEF0bGlKWndLNHN3?oc=5\" target=\"_blank\">本周披露并购重组进展的A股名单一览 国林科技20CM涨停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wQm1sMzZhVzBxNEhRTGpVSGhWLVFTbE5NNkhDMHl5VjlwN3o2T1h6dWpTdU5MWlZvUnNXbXhZZVRNV01IaEtJUG95eHNCWUNoRHdMbnV4OTFhVE8tUjhEcEF0bGlKWndLNHN3?oc=5",
       "published": "Sun, 12 Jul 2026 21:27:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
+      "summary": "<p>布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。</p>",
+      "link": "https://wallstreetcn.com/livenews/3132438",
+      "published": "Sun, 12 Jul 2026 22:02:01 GMT"
     }
   ]
 }
