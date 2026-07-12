@@ -1,23 +1,9 @@
 {
   "date": "2026-07-13",
   "hour": "04",
-  "total": 7,
-  "fetched_at": "2026-07-13T04:01:17.608921+08:00",
+  "total": 6,
+  "fetched_at": "2026-07-13T04:51:46.939576+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "上周A股市场震荡延续 每经品牌100指数逆势涨超3.8% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5zMFRmeGtReU5Gd0paMGhnazJiOUROcU04d3BaR1N2cTF1VWVpV1FlWEhxZXctWGJnckJvOHIyakkzb283Q0xuZ2JHa0tBN0JLNHJ5OG9QMGVYamFBSHZfejR5c0FCR0xSTUc2MHRGY08tRnZ2WnVHSw?oc=5\" target=\"_blank\">上周A股市场震荡延续 每经品牌100指数逆势涨超3.8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zMFRmeGtReU5Gd0paMGhnazJiOUROcU04d3BaR1N2cTF1VWVpV1FlWEhxZXctWGJnckJvOHIyakkzb283Q0xuZ2JHa0tBN0JLNHJ5OG9QMGVYamFBSHZfejR5c0FCR0xSTUc2MHRGY08tRnZ2WnVHSw?oc=5",
-      "published": "Sun, 12 Jul 2026 18:13:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：红 宝 丽（002165）7月10日主力资金净流出464.41万元，占总成交额0.0% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBiRUE4dUpWQ19WSHN2SjdLUGs5bHZQUDhoSmZtaGFhZHduRmd6R0s2Q2EtMGliR0lCbWQwd3ZUS3dDQmdneWppWFlScFJBb0tRbnZqdHJ4S3JjZ0FkTThYZ2ZLRU1IN1dOSjVJ?oc=5\" target=\"_blank\">股市必读：红 宝 丽（002165）7月10日主力资金净流出464.41万元，占总成交额0.0%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiRUE4dUpWQ19WSHN2SjdLUGs5bHZQUDhoSmZtaGFhZHduRmd6R0s2Q2EtMGliR0lCbWQwd3ZUS3dDQmdneWppWFlScFJBb0tRbnZqdHJ4S3JjZ0FkTThYZ2ZLRU1IN1dOSjVJ?oc=5",
-      "published": "Sun, 12 Jul 2026 18:05:00 GMT"
-    },
     {
       "source": "东方财富",
       "title": "股市必读：力佳科技（920237）7月10日主力资金净流入91.66万元，占总成交额0.0% - 财富号",
@@ -40,11 +26,18 @@
       "published": "Sun, 12 Jul 2026 19:05:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "今晚，七家公司发布利好！ - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRVJubWFIazA1QjYwcHY1ZEU1VWRrVnQxZTFJZ2xtZkVDWF8tVWdKeHZRUjNwcEtqSmJNSVZtb1BwVjdWM29mdkp5XzRZWnJQRzJsR1FIeHp4cVAtUzdISmh3?oc=5\" target=\"_blank\">今晚，七家公司发布利好！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRVJubWFIazA1QjYwcHY1ZEU1VWRrVnQxZTFJZ2xtZkVDWF8tVWdKeHZRUjNwcEtqSmJNSVZtb1BwVjdWM29mdkp5XzRZWnJQRzJsR1FIeHp4cVAtUzdISmh3?oc=5",
-      "published": "Sun, 12 Jul 2026 18:38:20 GMT"
+      "source": "东方财富",
+      "title": "同是“妖怪”，差距咋这么大 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE51RzJ2ZUUtYXVhODVMdXgyd2g5ckJ1T1cwYTcwXzRNQWtmLVBNeHBZeGVXLWpZMlNQRHhEYmVZYnRUZHR2SnFYU0g1NjZMbDA3YTI0MGRVTF9UaEJvY3B1czlMQkg1cE5JTVZN?oc=5\" target=\"_blank\">同是“妖怪”，差距咋这么大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51RzJ2ZUUtYXVhODVMdXgyd2g5ckJ1T1cwYTcwXzRNQWtmLVBNeHBZeGVXLWpZMlNQRHhEYmVZYnRUZHR2SnFYU0g1NjZMbDA3YTI0MGRVTF9UaEJvY3B1czlMQkg1cE5JTVZN?oc=5",
+      "published": "Sun, 12 Jul 2026 19:55:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股市必读：比依股份（603215）7月10日主力资金净流入2.92万元 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9qdlJtSGo4UGdkSG9MZE5KVlEyWFV2ZndNMVlOT1NoajJHdEtscnVrR2kxM1BWbHBBaG9OQW52YWhHQ1daRlNhQ2pKTk92b3NFSmFIb2k4TVVLVHNrbWNvMUNWVlRNb1R3bjFr?oc=5\" target=\"_blank\">股市必读：比依股份（603215）7月10日主力资金净流入2.92万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qdlJtSGo4UGdkSG9MZE5KVlEyWFV2ZndNMVlOT1NoajJHdEtscnVrR2kxM1BWbHBBaG9OQW52YWhHQ1daRlNhQ2pKTk92b3NFSmFIb2k4TVVLVHNrbWNvMUNWVlRNb1R3bjFr?oc=5",
+      "published": "Sun, 12 Jul 2026 19:32:00 GMT"
     },
     {
       "source": "财联社",
