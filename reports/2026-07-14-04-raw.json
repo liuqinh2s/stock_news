@@ -1,23 +1,9 @@
 {
   "date": "2026-07-14",
   "hour": "04",
-  "total": 16,
-  "fetched_at": "2026-07-14T04:01:10.827065+08:00",
+  "total": 10,
+  "fetched_at": "2026-07-14T04:48:01.372284+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "A股交易新规运行一周 数据揭示市场变化 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5DcHJYNDQ4bmhfdkJhSkpkRHd3WGdEeHVEeEFwb1JJZVhMd1dJb25DX1BXU0NiNUhMV2hwN01KeUotcktSb3N4amNZNWxsR3dQRWNIdV9YWWtHTHQtUWl2UlFEbnhreWhYTTgxY1M0cXU0R192UVJHNg?oc=5\" target=\"_blank\">A股交易新规运行一周 数据揭示市场变化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DcHJYNDQ4bmhfdkJhSkpkRHd3WGdEeHVEeEFwb1JJZVhMd1dJb25DX1BXU0NiNUhMV2hwN01KeUotcktSb3N4amNZNWxsR3dQRWNIdV9YWWtHTHQtUWl2UlFEbnhreWhYTTgxY1M0cXU0R192UVJHNg?oc=5",
-      "published": "Mon, 13 Jul 2026 18:20:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：泽润新能（301636）7月13日主力资金净流出59.84万元，占总成交额0.0% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE90ZDczSmNFX1R4SVFFaE1oR0w0VHM3VGhKVUl4OXhBQnYtemk1bUFwd2ZIQUI5WUxBTUxfRWxCdV9NNUd1dG5BcmhYbnMtQWplbk03anYwbVRrTDZLOFJucllzQkhEdXlUcXkw?oc=5\" target=\"_blank\">股市必读：泽润新能（301636）7月13日主力资金净流出59.84万元，占总成交额0.0%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90ZDczSmNFX1R4SVFFaE1oR0w0VHM3VGhKVUl4OXhBQnYtemk1bUFwd2ZIQUI5WUxBTUxfRWxCdV9NNUd1dG5BcmhYbnMtQWplbk03anYwbVRrTDZLOFJucllzQkhEdXlUcXkw?oc=5",
-      "published": "Mon, 13 Jul 2026 18:44:00 GMT"
-    },
     {
       "source": "东方财富",
       "title": "股市必读：南极电商（002127）预计2026年1-6月扣非后净利润盈利3200万元至4800万元 - 财富号",
@@ -27,38 +13,10 @@
     },
     {
       "source": "东方财富",
-      "title": "首都在线新注册《GpuGeek大模型服务平台V2.0》项目的软件著作权 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ORjQ2UndhSEd4bFh2NkdTcGpxbGVWOFdfbEtMYUZKWHBkWE4zNnhsS0tDR3cyeUswTmdBYzZLNnJmOVpwVjFnMTB1T2liMmVDRjc3cnpZd2NIZzdIclFNX1BIeDBueFJsQXBr?oc=5\" target=\"_blank\">首都在线新注册《GpuGeek大模型服务平台V2.0》项目的软件著作权</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ORjQ2UndhSEd4bFh2NkdTcGpxbGVWOFdfbEtMYUZKWHBkWE4zNnhsS0tDR3cyeUswTmdBYzZLNnJmOVpwVjFnMTB1T2liMmVDRjc3cnpZd2NIZzdIclFNX1BIeDBueFJsQXBr?oc=5",
-      "published": "Mon, 13 Jul 2026 18:26:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "招商证券新注册《研究AI助手系统V1.0》等2个项目的软件著作权 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9QWEpaSmdUbk9LSnpxYkNHMjRGQUZlbEl6MHQ3SjdRVGtxeUhkMEdEMUc3dzkxTnhQbWtDYjFPMUxTVU9BVWNVQVFSZDVLUjdpRkhYMGlMMFRNWmRWQWZ0OUUxdGJXLV9rSVhj?oc=5\" target=\"_blank\">招商证券新注册《研究AI助手系统V1.0》等2个项目的软件著作权</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QWEpaSmdUbk9LSnpxYkNHMjRGQUZlbEl6MHQ3SjdRVGtxeUhkMEdEMUc3dzkxTnhQbWtDYjFPMUxTVU9BVWNVQVFSZDVLUjdpRkhYMGlMMFRNWmRWQWZ0OUUxdGJXLV9rSVhj?oc=5",
-      "published": "Mon, 13 Jul 2026 18:27:00 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "炒股票的意义在哪里？把我们骗进来的意图在哪里？就是让散户亏钱吗？把我本钱还我，让我走可以吗？我不炒股了。 - 股吧",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MVjNORWhGekRPM3Q3V0RHY3hnQkJUbTFBV2FnZEZKcVd6dGpYSVdUc2ZjQWJLV2Y3RVdoU0VxWDZXdWljMGZ0S2NHQ185M1VIUWFybnhuOUVHUXZzMlJmV19QM3k?oc=5\" target=\"_blank\">炒股票的意义在哪里？把我们骗进来的意图在哪里？就是让散户亏钱吗？把我本钱还我，让我走可以吗？我不炒股了。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5MVjNORWhGekRPM3Q3V0RHY3hnQkJUbTFBV2FnZEZKcVd6dGpYSVdUc2ZjQWJLV2Y3RVdoU0VxWDZXdWljMGZ0S2NHQ185M1VIUWFybnhuOUVHUXZzMlJmV19QM3k?oc=5",
       "published": "Mon, 13 Jul 2026 19:57:07 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：ST麦趣（002719）7月13日主力资金净流入48.58万元，占总成交额0.0% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5aaE0xQ0UxdXd1MUNHWGJmNTJYd3BMRmZSVzJhWEpYSTg2RzU5QWNHSzlMNkczSm45YjZabjZIQjFWaVpLUlQ3VlhFbDJrSlBqbW1DREM0amtlci1rUXkyWVNlRnVGclIzZDlR?oc=5\" target=\"_blank\">股市必读：ST麦趣（002719）7月13日主力资金净流入48.58万元，占总成交额0.0%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aaE0xQ0UxdXd1MUNHWGJmNTJYd3BMRmZSVzJhWEpYSTg2RzU5QWNHSzlMNkczSm45YjZabjZIQjFWaVpLUlQ3VlhFbDJrSlBqbW1DREM0amtlci1rUXkyWVNlRnVGclIzZDlR?oc=5",
-      "published": "Mon, 13 Jul 2026 18:44:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：海森药业（001367）7月13日主力资金净流入50.14万元，占总成交额0.0% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Z0xLSVBoOGE5UWRpNnV0Si1scFZ5YXhGLW5xR2h4OGpLSXdnVVJBOHVHZzdtdWdmcUNwYlY3VU1ZbzgwemhpUjdGMjNUMG1xR2NhWWduSTRwcVNYWWtBcUJqbklGeDQ0VTlJ?oc=5\" target=\"_blank\">股市必读：海森药业（001367）7月13日主力资金净流入50.14万元，占总成交额0.0%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0Z0xLSVBoOGE5UWRpNnV0Si1scFZ5YXhGLW5xR2h4OGpLSXdnVVJBOHVHZzdtdWdmcUNwYlY3VU1ZbzgwemhpUjdGMjNUMG1xR2NhWWduSTRwcVNYWWtBcUJqbklGeDQ0VTlJ?oc=5",
-      "published": "Mon, 13 Jul 2026 18:44:00 GMT"
     },
     {
       "source": "东方财富",
@@ -75,18 +33,18 @@
       "published": "Mon, 13 Jul 2026 18:52:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "天际股份：公司股票将于7月15日起被实施其他风险警示，变更为“ST天际” - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aLVE1NjY3dWFrNWhWTU5VY04wbEhGVU05NFdkVkFjUllkcTZCTXo2b3VPXy1OLXJhNUg0dEotUEpjSWRyWE81YnVFbDQ5REpjMW9CWnRvQWtqWWRoZmc?oc=5\" target=\"_blank\">天际股份：公司股票将于7月15日起被实施其他风险警示，变更为“ST天际”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aLVE1NjY3dWFrNWhWTU5VY04wbEhGVU05NFdkVkFjUllkcTZCTXo2b3VPXy1OLXJhNUg0dEotUEpjSWRyWE81YnVFbDQ5REpjMW9CWnRvQWtqWWRoZmc?oc=5",
-      "published": "Mon, 13 Jul 2026 18:14:06 GMT"
-    },
-    {
       "source": "财联社",
       "title": "韩国散户，“弹药库”一个月减少34万亿韩元 - 手机网易网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4U2ZWNzhnV2RBZVF6MjY5bFZMZC1fVzJvRjNCMmNpNFNfbHpySXNVWWtwQW16dzVFblZPV215MzB6UERrVDFNMVlpZmxZSXhJZ1JJM2p5ZWJyLVY2X2o5MENB?oc=5\" target=\"_blank\">韩国散户，“弹药库”一个月减少34万亿韩元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机网易网</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4U2ZWNzhnV2RBZVF6MjY5bFZMZC1fVzJvRjNCMmNpNFNfbHpySXNVWWtwQW16dzVFblZPV215MzB6UERrVDFNMVlpZmxZSXhJZ1JJM2p5ZWJyLVY2X2o5MENB?oc=5",
       "published": "Mon, 13 Jul 2026 19:30:07 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
+      "summary": "<p>布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。</p>",
+      "link": "https://wallstreetcn.com/livenews/3133078",
+      "published": "Mon, 13 Jul 2026 20:15:11 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -110,11 +68,11 @@
       "published": "Mon, 13 Jul 2026 19:26:28 GMT"
     },
     {
-      "source": "上海证券报",
-      "title": "A股高股息板块扛起防御大旗 机构：科技产业中长期趋势不改 - 上海证券报电子版",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE8wOTNXaWttdW5XOHc4UWxHQ295aTE0TnYwRUdNLWF6NFpJOVB3cXVUOW5xUFB6Q3AtNjIwbUFoeVdGdmxnMTBJNEd4bUxBUXVHRVVCZktSZlZ3TTI5MjhqYkR5dWk3bHBabDFRRnlB?oc=5\" target=\"_blank\">A股高股息板块扛起防御大旗 机构：科技产业中长期趋势不改</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wOTNXaWttdW5XOHc4UWxHQ295aTE0TnYwRUdNLWF6NFpJOVB3cXVUOW5xUFB6Q3AtNjIwbUFoeVdGdmxnMTBJNEd4bUxBUXVHRVVCZktSZlZ3TTI5MjhqYkR5dWk3bHBabDFRRnlB?oc=5",
-      "published": "Mon, 13 Jul 2026 18:03:54 GMT"
+      "source": "宏观经济",
+      "title": "美国CPI达4.2%，美联储陷加息两难困境 - 手机网易网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oYUFZMW5kX3BDQjZEUVJTUFFJeDZwMUNINXpmbVlva2JQaDlsVGZVWVFfM1o3eHBjcFhMazctRE44b3JVeTdDbFFKaUJLdGt4VW52RVE2dnhjaldTYmgtcDRB?oc=5\" target=\"_blank\">美国CPI达4.2%，美联储陷加息两难困境</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机网易网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oYUFZMW5kX3BDQjZEUVJTUFFJeDZwMUNINXpmbVlva2JQaDlsVGZVWVFfM1o3eHBjcFhMazctRE44b3JVeTdDbFFKaUJLdGt4VW52RVE2dnhjaldTYmgtcDRB?oc=5",
+      "published": "Mon, 13 Jul 2026 20:04:31 GMT"
     }
   ]
 }
