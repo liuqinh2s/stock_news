@@ -1,0 +1,554 @@
+{
+  "date": "2026-07-16",
+  "hour": "00",
+  "total": 78,
+  "fetched_at": "2026-07-16T00:01:14.903532+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "万邦医药A股股东户数增加7007户增幅65.30%，流通A股户均持股1843.52股降幅39.50%，户均持股市值8.33万元降幅15.90% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2pDYkM5SmZjcW5xeWN6RlpZVHl1M3JfS2ZscjFFZWh4YmtZX2hzd1F5WVhRbWtDZkFSYTdyVmFvVTRMOTFVN0k2Q1Z0MTdsTld1bHcydjBFX3h1QmdBcWRPWmgzNTROYXNibzhmUEcxR0s1d0g0R00ySEZvMHNOYUtlR0tYSUdJWWI4SA?oc=5\" target=\"_blank\">万邦医药A股股东户数增加7007户增幅65.30%，流通A股户均持股1843.52股降幅39.50%，户均持股市值8.33万元降幅15.90%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ2pDYkM5SmZjcW5xeWN6RlpZVHl1M3JfS2ZscjFFZWh4YmtZX2hzd1F5WVhRbWtDZkFSYTdyVmFvVTRMOTFVN0k2Q1Z0MTdsTld1bHcydjBFX3h1QmdBcWRPWmgzNTROYXNibzhmUEcxR0s1d0g0R00ySEZvMHNOYUtlR0tYSUdJWWI4SA?oc=5",
+      "published": "Wed, 15 Jul 2026 15:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "肯特股份A股股东户数减少1355户降幅9.34%，流通A股户均持股3399.1股增幅10.30%，户均持股市值12.19万元降幅16.35% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2NWblF1a2VMajktcUZacjVyM25oc0ZoQlVGNDA0SDV2SUVlNE9raTFBREdNNjg3ejk4ZGdpRnVQZTNuY0M4VHpJOE1IUzFVUkhJN2pmV0FQOEdYNWZUbVctTU4zYkUwZ2xKTEhrY3dEN2J1VDBtYW8tNjJTOEc2SXl5OGZiVVZLc0ZEMA?oc=5\" target=\"_blank\">肯特股份A股股东户数减少1355户降幅9.34%，流通A股户均持股3399.1股增幅10.30%，户均持股市值12.19万元降幅16.35%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2NWblF1a2VMajktcUZacjVyM25oc0ZoQlVGNDA0SDV2SUVlNE9raTFBREdNNjg3ejk4ZGdpRnVQZTNuY0M4VHpJOE1IUzFVUkhJN2pmV0FQOEdYNWZUbVctTU4zYkUwZ2xKTEhrY3dEN2J1VDBtYW8tNjJTOEc2SXl5OGZiVVZLc0ZEMA?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "德尔玛A股股东户数减少1000户降幅5.15%，流通A股户均持股1.44万股增幅5.43%，户均持股市值11.17万元降幅9.00% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNY045TUM2c0pGdkhoOHp4aE9NR3JyRllidmI5VkMyRERfMTVVRXJfUV8wczVsekpQQjBLaUEzOXNJUXQtd0JtQTFCWC1kR2xYY09nOTFOLTlWWnQ5bnBZT2I3eGwtaUZzYkJzUzdDano1X3BPUWNFbnd6RTJYa1NwLUkyam1aMjF3S01ZTQ?oc=5\" target=\"_blank\">德尔玛A股股东户数减少1000户降幅5.15%，流通A股户均持股1.44万股增幅5.43%，户均持股市值11.17万元降幅9.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY045TUM2c0pGdkhoOHp4aE9NR3JyRllidmI5VkMyRERfMTVVRXJfUV8wczVsekpQQjBLaUEzOXNJUXQtd0JtQTFCWC1kR2xYY09nOTFOLTlWWnQ5bnBZT2I3eGwtaUZzYkJzUzdDano1X3BPUWNFbnd6RTJYa1NwLUkyam1aMjF3S01ZTQ?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "超频三A股股东户数减少595户降幅1.97%，流通A股户均持股1.54万股增幅2.01%，户均持股市值8.29万元降幅12.07% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3VZQWVIeFV1aFA5MTMxaTdGMkJFRHpMMjhVSlhTVU5rbURIUlJaOGpRRGN0eVdtMXNzSHFKZHRocFdPSW5PMDlUZjdWOUIwci10NXpWeVRwdmJwTEkzRVhsVEZXTmE4Q3dmVTBhcnlCajZ2SEhTZ3NyMkZHMWZvT2NlQ19XdklRQ0hmQw?oc=5\" target=\"_blank\">超频三A股股东户数减少595户降幅1.97%，流通A股户均持股1.54万股增幅2.01%，户均持股市值8.29万元降幅12.07%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3VZQWVIeFV1aFA5MTMxaTdGMkJFRHpMMjhVSlhTVU5rbURIUlJaOGpRRGN0eVdtMXNzSHFKZHRocFdPSW5PMDlUZjdWOUIwci10NXpWeVRwdmJwTEkzRVhsVEZXTmE4Q3dmVTBhcnlCajZ2SEhTZ3NyMkZHMWZvT2NlQ19XdklRQ0hmQw?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "天汽模A股股东户数增加528户增幅0.64%，流通A股户均持股1.2万股降幅0.63%，户均持股市值6.45万元降幅1.73% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHNGX2lacnl2VWw0dm5SUFl4Nzl5a042cjc3dTJndy15a1lhLTBpQWFOb2NmMTVsOTNlTk5IbVlGSnVFNXRWaXNOV3NoSGR5RHM5NVNfZ3V6VXlVTXhEUFhCXzFEM0ZSVDJJWkRMajFiRkVjZGlVQ182R0w5RndLbHdLOEs1TFI0M2ZOeA?oc=5\" target=\"_blank\">天汽模A股股东户数增加528户增幅0.64%，流通A股户均持股1.2万股降幅0.63%，户均持股市值6.45万元降幅1.73%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHNGX2lacnl2VWw0dm5SUFl4Nzl5a042cjc3dTJndy15a1lhLTBpQWFOb2NmMTVsOTNlTk5IbVlGSnVFNXRWaXNOV3NoSGR5RHM5NVNfZ3V6VXlVTXhEUFhCXzFEM0ZSVDJJWkRMajFiRkVjZGlVQ182R0w5RndLbHdLOEs1TFI0M2ZOeA?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "浙江交科A股股东户数增加229户增幅0.57%，流通A股户均持股6.39万股降幅0.56%，户均持股市值22.42万元增幅5.77% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUdPYUo0SVp1bzJhM1FRMVdLRU85cWluV2plU3AzRzFrWVVVNG9oaVFYNUkwUnhFVEV6d1hEcFRVaEMwN1RSaGpmT09tZjB6ZnZza1lxZ0pRNjg2RFlOSGh4Yks1ZExXcnRjSUtLMTdpaWdUb0NZV2t4dkpHZERzNm1HUG1VeWhmc0xEdg?oc=5\" target=\"_blank\">浙江交科A股股东户数增加229户增幅0.57%，流通A股户均持股6.39万股降幅0.56%，户均持股市值22.42万元增幅5.77%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUdPYUo0SVp1bzJhM1FRMVdLRU85cWluV2plU3AzRzFrWVVVNG9oaVFYNUkwUnhFVEV6d1hEcFRVaEMwN1RSaGpmT09tZjB6ZnZza1lxZ0pRNjg2RFlOSGh4Yks1ZExXcnRjSUtLMTdpaWdUb0NZV2t4dkpHZERzNm1HUG1VeWhmc0xEdg?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中航机载A股股东户数增加1404户增幅0.76%，流通A股户均持股2.6万股降幅0.75%，户均持股市值30.07万元增幅5.92% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1ZYVkM3Z3Q1MkNDM0dGZ1o0c2hUVGZFRFhuN25UenhoX0MtbUJwLVpOb1NZUVplVmRBTHNjMzEwX3ZwMjEzcjdPRUUydnc4UW1wVXIxM0NqQmlqSnpqZ29LaHNDbnlPdzBkWUJQWUFyMXRZMUhHY1hhSTdYOFlnVTBwSXJaNXZOMGx5bA?oc=5\" target=\"_blank\">中航机载A股股东户数增加1404户增幅0.76%，流通A股户均持股2.6万股降幅0.75%，户均持股市值30.07万元增幅5.92%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1ZYVkM3Z3Q1MkNDM0dGZ1o0c2hUVGZFRFhuN25UenhoX0MtbUJwLVpOb1NZUVplVmRBTHNjMzEwX3ZwMjEzcjdPRUUydnc4UW1wVXIxM0NqQmlqSnpqZ29LaHNDbnlPdzBkWUJQWUFyMXRZMUhHY1hhSTdYOFlnVTBwSXJaNXZOMGx5bA?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "佛燃能源A股股东户数不变，流通A股户均持股6.34万股增幅0.00%，户均持股市值63.1万元增幅4.95% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORnFULVRSNkZWQ2xpV3hLcFcxVFBEWlVLenJsS3lTYVNoQ2VvQXVpUFNkZTN6WEJ6QUtjZnRPbXdZd2ZBRi01NVd1N0dmUVJtR0dSRXJMZkJsTWxuTlFjcUpJOFIySzNES2tpSWFha282UnZKdzBhN0lOODV2ek1PeVYwMGJVamd1WU00Mw?oc=5\" target=\"_blank\">佛燃能源A股股东户数不变，流通A股户均持股6.34万股增幅0.00%，户均持股市值63.1万元增幅4.95%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORnFULVRSNkZWQ2xpV3hLcFcxVFBEWlVLenJsS3lTYVNoQ2VvQXVpUFNkZTN6WEJ6QUtjZnRPbXdZd2ZBRi01NVd1N0dmUVJtR0dSRXJMZkJsTWxuTlFjcUpJOFIySzNES2tpSWFha282UnZKdzBhN0lOODV2ek1PeVYwMGJVamd1WU00Mw?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "通达动力A股股东户数减少870户降幅3.61%，流通A股户均持股6980.34股增幅3.75%，户均持股市值9.88万元降幅4.73% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxORTFSdGhyck5zcWk3aVhCOEdrZ3VmT2IxVk9UQzFPU0lQRE91US1WNFNfSUptQnphYnpacm5qX21zZzc0NzBobmZfZGVQM2NaYzIwZGtvMW1XZGJVVC14WS1sRWRWZk9JcFJEdmlXU3V6a3puNS0wYVV3clJkWEtZVnYwTU1YTXNaQVRlWg?oc=5\" target=\"_blank\">通达动力A股股东户数减少870户降幅3.61%，流通A股户均持股6980.34股增幅3.75%，户均持股市值9.88万元降幅4.73%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORTFSdGhyck5zcWk3aVhCOEdrZ3VmT2IxVk9UQzFPU0lQRE91US1WNFNfSUptQnphYnpacm5qX21zZzc0NzBobmZfZGVQM2NaYzIwZGtvMW1XZGJVVC14WS1sRWRWZk9JcFJEdmlXU3V6a3puNS0wYVV3clJkWEtZVnYwTU1YTXNaQVRlWg?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "七彩化学A股股东户数减少650户降幅2.01%，流通A股户均持股1.13万股增幅2.05%，户均持股市值12.54万元降幅10.07% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnd0WlV0b2FlSFAyTFpUdlVLc2wwdkpfanJCRWYzMU4zejNRTEpQNGNrVEpnVV8wckFkdnRnVjQ2cVJvM19vTWFFMEwzT2ZIbjVJY0VLaDlwVEp5Q2V4VVg3RDlrOGFSVFlvSTNSbGsxcmhQdTVzNnBGSVBLUnRUaEg4WlJ5MzRQSjdjXw?oc=5\" target=\"_blank\">七彩化学A股股东户数减少650户降幅2.01%，流通A股户均持股1.13万股增幅2.05%，户均持股市值12.54万元降幅10.07%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnd0WlV0b2FlSFAyTFpUdlVLc2wwdkpfanJCRWYzMU4zejNRTEpQNGNrVEpnVV8wckFkdnRnVjQ2cVJvM19vTWFFMEwzT2ZIbjVJY0VLaDlwVEp5Q2V4VVg3RDlrOGFSVFlvSTNSbGsxcmhQdTVzNnBGSVBLUnRUaEg4WlJ5MzRQSjdjXw?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "东港股份A股股东户数增加358户增幅1.15%，流通A股户均持股1.66万股降幅1.13%，户均持股市值13.26万元增幅0.25% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQV9Sc0NFdS1SaG9RNDBLenhtTXg3c2J6Z2o3cU9IVXBRZzhKTTBnRDNpVGpKUWh1ckpRcFVWSElyLTRQVzNOTmlHWnNDVDJmY2ZqTUVZN3doamx2cUdBS1JtblNGaHNfcnRndHRySjNENExWUTRXMDZqblNINmtzdkczUFczMnlOczF6NQ?oc=5\" target=\"_blank\">东港股份A股股东户数增加358户增幅1.15%，流通A股户均持股1.66万股降幅1.13%，户均持股市值13.26万元增幅0.25%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQV9Sc0NFdS1SaG9RNDBLenhtTXg3c2J6Z2o3cU9IVXBRZzhKTTBnRDNpVGpKUWh1ckpRcFVWSElyLTRQVzNOTmlHWnNDVDJmY2ZqTUVZN3doamx2cUdBS1JtblNGaHNfcnRndHRySjNENExWUTRXMDZqblNINmtzdkczUFczMnlOczF6NQ?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "康平科技A股股东户数减少1170户降幅11.06%，流通A股户均持股1.02万股增幅12.43%，户均持股市值52.68万元增幅4.13% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNzRteFdWN2lxOEFaeTZGSFZ6cGlQOHdOa3UzbnJIcm5WN0xDbEU0THdBd3VYOVNSZ2J0bUNhbjVHRi1NcGNST3BBMWx0VUtza0lISGRJdEo3QUdrNVZoZmpMMXFtMGR0RUUtSXJDVld6N1RaSXFzeHVFZzRNSUtSNVVMMHN1YzZRUGhubA?oc=5\" target=\"_blank\">康平科技A股股东户数减少1170户降幅11.06%，流通A股户均持股1.02万股增幅12.43%，户均持股市值52.68万元增幅4.13%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNzRteFdWN2lxOEFaeTZGSFZ6cGlQOHdOa3UzbnJIcm5WN0xDbEU0THdBd3VYOVNSZ2J0bUNhbjVHRi1NcGNST3BBMWx0VUtza0lISGRJdEo3QUdrNVZoZmpMMXFtMGR0RUUtSXJDVld6N1RaSXFzeHVFZzRNSUtSNVVMMHN1YzZRUGhubA?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "奥联电子A股股东户数增加231户增幅1.90%，流通A股户均持股1.38万股降幅1.87%，户均持股市值20.48万元降幅10.94% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2pEaFhMZWpkdlc0QU83WFVfcDhEdEZfY3R5dW43VmVSNUdrT3AtQXh5UTVSWHNkaXIxc3JtRy1hLUlPc3YzWnpwZlduV1FWS1JtNi1rYW1DMURScTItTnZvTUF0bTBKU0VTVUhiWXBTaHpnTzBqY25JdVdkc281Nmd5UHlOS2h0dmdlMQ?oc=5\" target=\"_blank\">奥联电子A股股东户数增加231户增幅1.90%，流通A股户均持股1.38万股降幅1.87%，户均持股市值20.48万元降幅10.94%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2pEaFhMZWpkdlc0QU83WFVfcDhEdEZfY3R5dW43VmVSNUdrT3AtQXh5UTVSWHNkaXIxc3JtRy1hLUlPc3YzWnpwZlduV1FWS1JtNi1rYW1DMURScTItTnZvTUF0bTBKU0VTVUhiWXBTaHpnTzBqY25JdVdkc281Nmd5UHlOS2h0dmdlMQ?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中航机载A股股东户数减少3050户降幅1.62%，流通A股户均持股2.62万股增幅1.65%，户均持股市值28.39万元降幅8.05% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRW5RVWF6RFVHTW90b1pmOGg4YjlKYm5GbU9DZkRNZ0N5QlI2WlNiWVk0ODFweWZfTTJVM2FLUGdZUk9xaEhEbXdUNndXanE4YnFzRjA0Wkt0c2VZYlp2YVNNMkJSSXlwaFpkeUJnX2pwY0t0LURhbkFfNWIyT0RvTVFFSHpERVpOdndsbA?oc=5\" target=\"_blank\">中航机载A股股东户数减少3050户降幅1.62%，流通A股户均持股2.62万股增幅1.65%，户均持股市值28.39万元降幅8.05%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRW5RVWF6RFVHTW90b1pmOGg4YjlKYm5GbU9DZkRNZ0N5QlI2WlNiWVk0ODFweWZfTTJVM2FLUGdZUk9xaEhEbXdUNndXanE4YnFzRjA0Wkt0c2VZYlp2YVNNMkJSSXlwaFpkeUJnX2pwY0t0LURhbkFfNWIyT0RvTVFFSHpERVpOdndsbA?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "三川智慧A股股东户数减少2106户降幅3.39%，流通A股户均持股1.66万股增幅3.51%，户均持股市值8.67万元降幅3.35% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNsblBxQ1g5V29iTTZ5REJQV0FCVlNkREVmOHBVODd0MTVxc1EwLXlDZHlMVk9SZ3l1LW83MU14akVGMVpoRzJXdS15Wm85Uzl3cHJaWURaUEdzUVdVZUZkMlNlcE5wOGZrLU1jVVBKaTMyemdWMllnaWVYZnl6NVdEV2oycUswbkkzbw?oc=5\" target=\"_blank\">三川智慧A股股东户数减少2106户降幅3.39%，流通A股户均持股1.66万股增幅3.51%，户均持股市值8.67万元降幅3.35%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjNsblBxQ1g5V29iTTZ5REJQV0FCVlNkREVmOHBVODd0MTVxc1EwLXlDZHlMVk9SZ3l1LW83MU14akVGMVpoRzJXdS15Wm85Uzl3cHJaWURaUEdzUVdVZUZkMlNlcE5wOGZrLU1jVVBKaTMyemdWMllnaWVYZnl6NVdEV2oycUswbkkzbw?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "卫宁健康A股股东户数增加283户增幅0.25%，流通A股户均持股1.64万股降幅0.25%，户均持股市值11.68万元增幅5.68% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdV9zMjN1anJTS1d3UHh0VmZjc0JKRFE2LW9wUUFlVnMwanhqUUpKekxzUmFCYThTWFZhSTM0Y3M3azd4M09pRV8ydGVySkFUZTJJcFV1b1lDMkZpT0IzaTdDUlUyTUFuTWR1LWk4S1luM1pXNjU1YTZPWlNDZ1B4cWZDTDQxS1J3d0lpOQ?oc=5\" target=\"_blank\">卫宁健康A股股东户数增加283户增幅0.25%，流通A股户均持股1.64万股降幅0.25%，户均持股市值11.68万元增幅5.68%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdV9zMjN1anJTS1d3UHh0VmZjc0JKRFE2LW9wUUFlVnMwanhqUUpKekxzUmFCYThTWFZhSTM0Y3M3azd4M09pRV8ydGVySkFUZTJJcFV1b1lDMkZpT0IzaTdDUlUyTUFuTWR1LWk4S1luM1pXNjU1YTZPWlNDZ1B4cWZDTDQxS1J3d0lpOQ?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "皇台酒业A股股东户数减少6288户降幅16.22%，流通A股户均持股5461.9股增幅19.36%，户均持股市值5.45万元降幅11.13% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0tFSmlSTUh4Zm9lNGVlY1NSamg0Qmt2cUhxc3hEdkQtbEphem9kYWVlY1dSVV9Kbk1MajRNckQzMzBQc3JuQkh5cm9kWDhLQV8tOGVUWlNEQjlCb1ROWFdwQldXbHh1TGpXSGJ1bW5oRG56c1dWMkdFM3VIeWpFZk5LWnBIdjktX1FrTA?oc=5\" target=\"_blank\">皇台酒业A股股东户数减少6288户降幅16.22%，流通A股户均持股5461.9股增幅19.36%，户均持股市值5.45万元降幅11.13%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0tFSmlSTUh4Zm9lNGVlY1NSamg0Qmt2cUhxc3hEdkQtbEphem9kYWVlY1dSVV9Kbk1MajRNckQzMzBQc3JuQkh5cm9kWDhLQV8tOGVUWlNEQjlCb1ROWFdwQldXbHh1TGpXSGJ1bW5oRG56c1dWMkdFM3VIeWpFZk5LWnBIdjktX1FrTA?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "劲嘉股份A股股东户数减少1626户降幅2.87%，流通A股户均持股2.55万股增幅2.96%，户均持股市值9.6万元降幅0.99% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2pvNDk3emN3TGg0ZEowZU1jLWc2NGE0M3VUc2pPdDNBVkZUM2p0UEUxNHJtZzk0UUxzMTByR2RwY2RXaVNLeU5hQmlXMWQ1SWFvYUpKWDRCck5JWWNyUkNQME1DNnN4b2h4Zk04TTJkMVdIVUU3SWp5YmwtTVBYbzJMSUR2U2xXUUJXeA?oc=5\" target=\"_blank\">劲嘉股份A股股东户数减少1626户降幅2.87%，流通A股户均持股2.55万股增幅2.96%，户均持股市值9.6万元降幅0.99%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU2pvNDk3emN3TGg0ZEowZU1jLWc2NGE0M3VUc2pPdDNBVkZUM2p0UEUxNHJtZzk0UUxzMTByR2RwY2RXaVNLeU5hQmlXMWQ1SWFvYUpKWDRCck5JWWNyUkNQME1DNnN4b2h4Zk04TTJkMVdIVUU3SWp5YmwtTVBYbzJMSUR2U2xXUUJXeA?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "高新发展A股股东户数增加3364户增幅8.02%，流通A股户均持股4241.34股降幅7.42%，户均持股市值17.79万元降幅18.07% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTRUZnJRbFhGelRGZ0xYckt6QnpVMXdmQ09NdG5icm1lNnhtclZ2S2gzYkVwVTVsV2FmNTJrZGVCbFpkbW5yTW1fY2VwMWlqM3BtSzg2eDU3VFZrSTd2YzltVzBMYm1BTTBzTE4zN1JsVXdpdDJBMVpWelAzTWhPVFdsS2NWSUZKS2Vjdw?oc=5\" target=\"_blank\">高新发展A股股东户数增加3364户增幅8.02%，流通A股户均持股4241.34股降幅7.42%，户均持股市值17.79万元降幅18.07%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTRUZnJRbFhGelRGZ0xYckt6QnpVMXdmQ09NdG5icm1lNnhtclZ2S2gzYkVwVTVsV2FmNTJrZGVCbFpkbW5yTW1fY2VwMWlqM3BtSzg2eDU3VFZrSTd2YzltVzBMYm1BTTBzTE4zN1JsVXdpdDJBMVpWelAzTWhPVFdsS2NWSUZKS2Vjdw?oc=5",
+      "published": "Wed, 15 Jul 2026 14:10:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "米兰上市的意法半导体股票在下跌3.75%后自动暂停交易 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hTkc5bEhHMlNXZ2FleFdoS3pnZkJTMktnejV5RFljRU93ejlyWUNlNlFlbzhjZHlEZldQTC16UUtNMXhQSkVkdkdhRk1mMlljWG1XT3FhbUx2Rk1BNC1XY1liaw?oc=5\" target=\"_blank\">米兰上市的意法半导体股票在下跌3.75%后自动暂停交易</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hTkc5bEhHMlNXZ2FleFdoS3pnZkJTMktnejV5RFljRU93ejlyWUNlNlFlbzhjZHlEZldQTC16UUtNMXhQSkVkdkdhRk1mMlljWG1XT3FhbUx2Rk1BNC1XY1liaw?oc=5",
+      "published": "Wed, 15 Jul 2026 14:43:46 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "美股市值排名前列的股票多数上涨，苹果涨3% - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkZmhBWUt2alVuUHhFWVVhVXhHVFpKODJLSWc3YUxhdEFCVGRXdG1ZcHNrV0Foc2ZrVXRhbkpmZW9QWEQ2TmlfS1JBXzh3YlY2bWtadFJUSFBJeU9DaEE2SnFlTnpWZw?oc=5\" target=\"_blank\">美股市值排名前列的股票多数上涨，苹果涨3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkZmhBWUt2alVuUHhFWVVhVXhHVFpKODJLSWc3YUxhdEFCVGRXdG1ZcHNrV0Foc2ZrVXRhbkpmZW9QWEQ2TmlfS1JBXzh3YlY2bWtadFJUSFBJeU9DaEE2SnFlTnpWZw?oc=5",
+      "published": "Wed, 15 Jul 2026 14:52:07 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "【调研快报】同兴科技接待国金证券等9家机构调研 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDh4MWJ6RnkxNUt2U2U2eGlFWWwtLW5BNG5nLUVVUGJBdkFIMklNcXFNWlk1VWRmUGpBcDcxOHRPNExGU1pYUTRiWXI5YjZyOVNqYTVNWnhiWTFlUDBxUW5MRQ?oc=5\" target=\"_blank\">【调研快报】同兴科技接待国金证券等9家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TDh4MWJ6RnkxNUt2U2U2eGlFWWwtLW5BNG5nLUVVUGJBdkFIMklNcXFNWlk1VWRmUGpBcDcxOHRPNExGU1pYUTRiWXI5YjZyOVNqYTVNWnhiWTFlUDBxUW5MRQ?oc=5",
+      "published": "Wed, 15 Jul 2026 14:03:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄称“志愿联盟”国家在乌克兰部署兵力不可接受",
+      "summary": "俄罗斯外交部发言人扎哈罗娃15日在莫斯科举行的记者会上表示，对俄罗斯而言，任何“志愿联盟”国家在乌克兰部署军事力量都是不可接受的。扎哈罗娃表示，一旦这些军事力量完成部署，将加剧俄罗斯面临的安全威胁，俄方将把这些军事力量视为合法打击目标。扎哈罗娃还表示，西方国家向乌持续供应武器是解决乌克兰问题的障碍之一。要结束冲突，西方就必须停止向乌克兰供应武器。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207424.shtml",
+      "published": "Wed, 15 Jul 2026 15:52:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "直布罗陀与西班牙拆除边境围栏",
+      "summary": "关于直布罗陀未来地位的协议15日开始临时执行，直布罗陀与西班牙之间的陆路边境围栏被拆除，人员和车辆跨境通行的常规边境检查取消。西班牙首相桑切斯15日出席在直布罗陀与西班牙拉利内阿－德拉康塞普西翁之间的陆路边境口岸举行的围栏拆除仪式。桑切斯在现场举行的新闻发布会上表示，此举标志着“欧洲大陆的最后一道墙”倒下，当地开启“充满机遇的新时代”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207408.shtml",
+      "published": "Wed, 15 Jul 2026 15:43:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧洲主要股指收盘多数下跌",
+      "summary": "欧洲主要股指收盘多数下跌，英国富时100指数跌0.13%，法国CAC40指数涨0.14%，德国DAX30指数跌0.51%，富时意大利MIB指数跌0.85%。",
+      "link": "https://news.10jqka.com.cn/20260715/c678207406.shtml",
+      "published": "Wed, 15 Jul 2026 15:41:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "马里中部发生交通事故 6死84伤",
+      "summary": "联合国难民事务高级专员公署驻马里办事处15日发布公报说，马里中部邦贾加拉区14日发生一起交通事故，造成6人死亡、84人受伤。公报说，当地时间14日14时左右，一辆载有货物和乘客的卡车在15号国道一路段发生侧翻，造成6人死亡、84人受伤，其中36人伤势较重。所有伤者已被送医。公报还说，车上大多数乘客为来自布基纳法索的难民。邦贾加拉区目前是马里接收因安全局势恶化而逃离布基纳法索的难民最多的地区。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207405.shtml",
+      "published": "Wed, 15 Jul 2026 15:41:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外交部：若美方违约，伊朗则反制",
+      "summary": "伊朗“平衡”通讯社15日援引伊朗外交部发言人的话报道，伊美谅解备忘录只有在维护国家利益和安全的条件下才对伊朗有价值。报道说，伊朗会在对方遵守承诺的前提下履行义务；若对方违约伊朗会在必要时停止履约、采取反制。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207404.shtml",
+      "published": "Wed, 15 Jul 2026 15:41:08 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美媒曝对伊战事真实花费高达千亿美元",
+      "summary": "美国全国广播公司报道，美国对伊朗军事行动实际支出可能高达1000亿美元，远超美国政府公布的310亿美元。报道称，美国防部内部评估显示，美国在对伊朗军事行动中的实际支出在800亿至1000亿美元之间，与此前政府公布的数额存在巨大差距，主要是因为此前的估算没有涵盖未公开的作战支出、先进战机损失以及美国在中东军事设施遭受的严重破坏。仅重建被伊朗打击的美军基地一项，费用就可能超过300亿美元。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207398.shtml",
+      "published": "Wed, 15 Jul 2026 15:39:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗方面称亨加姆岛遭美军袭击",
+      "summary": "伊朗方面15日消息，伊朗南部亨加姆岛遭美军炮弹击中。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207396.shtml",
+      "published": "Wed, 15 Jul 2026 15:38:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "默茨称不希望美国干涉德国选举",
+      "summary": "德国总理默茨15日表示，不希望美国干涉德国选举。默茨当天在出席政府夏季新闻发布会时说，德国不会干涉美国大选。“反过来说，我也不希望美国政府或与政府关系密切的机构干涉德国选举。”默茨说，外国向德国政党提供资金违反德国法律，希望有关国家遵守德国相关法律规定。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207395.shtml",
+      "published": "Wed, 15 Jul 2026 15:38:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阿斯麦据悉计划提高芯片制造设备价格",
+      "summary": "据四位知情人士透露，全球核心芯片设备供应商阿斯麦计划提高芯片制造设备价格，此举或致其与全球最大芯片代工厂商台积电关系紧张。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207394.shtml",
+      "published": "Wed, 15 Jul 2026 15:38:01 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苹果股价上涨3.3% 续刷记录新高",
+      "summary": "苹果股价上涨3.3%，报325.26美元/股，续刷记录新高，总市值报4.78万亿美元。",
+      "link": "https://news.10jqka.com.cn/20260715/c678207360.shtml",
+      "published": "Wed, 15 Jul 2026 15:28:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "WTI原油跌超1%",
+      "summary": "WTI原油跌超1%，现报78.52美元/桶。",
+      "link": "https://news.10jqka.com.cn/20260715/c678207328.shtml",
+      "published": "Wed, 15 Jul 2026 15:25:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "55家内地出版文化单位亮相香港书展",
+      "summary": "7月15日在香港会展中心拍摄的书展内地展区。香港书展是内地与香港文化交流、对接海外市场的重要平台。本届书展内地出版单位展区总面积544平方米，以“精品展示、文化互鉴、产业合作”为核心定位，参展单位涵盖出版集团、地方出版社、高校学术社和发行机构，展出书籍种类丰富。展区采用“1个主题省展区+3大特色展区”组合模式，全方位展现新时代内地出版高质量发展成果。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207298.shtml",
+      "published": "Wed, 15 Jul 2026 15:20:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美光科技股价跌破900美元/股",
+      "summary": "美光科技股价下跌8.59%，报898.71美元/股，总市值报1.01万亿美元。",
+      "link": "https://news.10jqka.com.cn/20260715/c678207278.shtml",
+      "published": "Wed, 15 Jul 2026 15:18:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国芯片出口管制政策遭AI产业界质疑",
+      "summary": "美国近年来持续把先进半导体出口管制作为维护技术优势的重要政策工具。但这套单边限制政策，也引发了美国国内AI产业界的质疑。美国商务部工业和安全局发布的文件中的关键词是“case-by-case review”，也就是逐案审查。它并不是简单地把所有出口一刀切禁止，而是通过许可审查，把先进AI芯片的流向放进国家安全框架中逐项评估。这种政策也引发美国科技企业的担忧。包括英伟达等企业高管在内，多次公开表达反对。一方面，全球AI产业链被进一步分割。芯片设计、制造、封装、设备、材料、云服务和数据中心建设，都可能受到不同国家政策变化影响。另一方面，技术限制也会促使其他经济体加快自主替代。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207275.shtml",
+      "published": "Wed, 15 Jul 2026 15:18:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗媒体称亨加姆岛遭美军袭击",
+      "summary": "伊朗媒体15日报道，伊朗南部亨加姆岛遭美军炮弹击中。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207259.shtml",
+      "published": "Wed, 15 Jul 2026 15:16:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "COMEX白银期货跌超2%",
+      "summary": "COMEX白银期货跌超2%，现报57.87美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260715/c678207256.shtml",
+      "published": "Wed, 15 Jul 2026 15:16:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "马来西亚总理安瓦尔：政府正在调查柔佛州一网络学校的运营是否有以色列人参与",
+      "summary": "马来西亚总理安瓦尔15日表示，政府正在调查柔佛州一网络学校的运营是否有以色列人参与，一旦查实，将立即把他们驱逐出境。安瓦尔当天在出席一个活动时说：“我们正在调查此事，绝不允许有这种情况发生。如果确有其事，就必须采取行动。因为马来西亚不承认以色列，相关人士将被立即驱逐出境。”据当地媒体近日报道，柔佛州发现多人隐瞒其以色列人身份、使用其他国籍身份文件参与该网校运营，引起轩然大波。马来西亚是巴勒斯坦事业的坚定支持者，迄今未与以色列建立外交关系，也不承认以色列为主权国家。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260715/c678207186.shtml",
+      "published": "Wed, 15 Jul 2026 15:09:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "期市夜盘收盘，国内期货主力合约涨跌互现",
+      "summary": "期市夜盘收盘，国内期货主力合约涨跌互现。涨幅方面，合成橡胶涨超1%。跌幅方面，PTA跌超2%，燃油、低硫燃油、对二甲苯、短纤、瓶片跌超1%。",
+      "link": "https://news.10jqka.com.cn/20260715/c678207102.shtml",
+      "published": "Wed, 15 Jul 2026 15:00:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阳光电源： 公司出口到美国的逆变器没有远程升级功能，也没有远程通信功能",
+      "summary": "阳光电源在接受投资者调研中表示，关于FCC限制中国逆变器的传闻一直都有，公司未看到禁止中国逆变器的实质性文件。公司出口到美国的逆变器没有远程升级功能，也没有远程通信功能，满足美国相关标准。今年初美国能源部对中国逆变器也进行过检测，没有发现存在故意植入的恶意无线通信功能。",
+      "link": "https://news.10jqka.com.cn/20260715/c678207089.shtml",
+      "published": "Wed, 15 Jul 2026 14:59:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "康诺亚-B：预计2026年上半年扭亏为盈净利润不低于12亿元，产品收入超3.9亿元同比增超132%",
+      "summary": "康诺亚-B公告，2026年上半年核心产品康悦达（司普奇拜单抗）收入超过人民币3.9亿元，同比增长超过132%。该产品已获批三项适应症（成人中重度特应性皮炎、慢性鼻窦炎伴鼻息肉、季节性过敏性鼻炎）并纳入国家医保目录。同时，公司发布正面盈利预告，预计2026年上半年将录得利润不低于人民币12亿元，而上年同期亏损约7900万元，实现扭亏为盈。扭亏主要因：出售Ouro Medicines少数股权确认其他收益约16.8亿元；CMG901授权AstraZeneca触发里程碑付款确认合作收入约2.2亿元；以及康悦达 销售收入增长。",
+      "link": "https://news.10jqka.com.cn/20260715/c678206919.shtml",
+      "published": "Wed, 15 Jul 2026 14:47:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美对伊战事真实花费被曝高达千亿美元",
+      "summary": "【美对伊战事真实花费被曝高达千亿美元】财联社7月15日电，美国方面有消息称，美国对伊朗军事行动实际支出可能高达1000亿美元，远超美国政府公布的310亿美元。消息称，美国防部内部评估显示，美国在对伊朗军事行动中的实际支出在800亿至1000亿美元之间。与此前政府公布的数额存在巨大差距，主要是因为此前的估算没有涵盖未公开的作战支出、先进战机损失以及美国在中东军事设施遭受的严重破坏。仅重建被伊朗打击的美军基地一项，费用就可能超过300亿美元。 (央视新闻)",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:56:29 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，谷歌已撤回其在Epic Games反垄断案中寻求修改法院裁决的动议，将于下周起允许第三方应用商店在其Google Play商店内上架。",
+      "summary": "财联社7月15日电，谷歌已撤回其在Epic Games反垄断案中寻求修改法院裁决的动议，将于下周起允许第三方应用商店在其Google Play商店内上架。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:55:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，纽约洋基队据悉正在与阿波罗全球管理公司就一项30亿美元的融资协议进行磋商。",
+      "summary": "财联社7月15日电，纽约洋基队据悉正在与阿波罗全球管理公司就一项30亿美元的融资协议进行磋商。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:53:15 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，欧盟计划放缓碳市场减排节奏，考虑在2031年至2035年期间将线性减排系数设定在3.5%至3.9%区间，自2036年起将线性减排系数设定为2%至2.4%。",
+      "summary": "财联社7月15日电，欧盟计划放缓碳市场减排节奏，考虑在2031年至2035年期间将线性减排系数设定在3.5%至3.9%区间，自2036年起将线性减排系数设定为2%至2.4%。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:52:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，一名欧盟外交官表示，欧盟各国特使已达成一致，在制裁磋商持续进行的同时，将俄罗斯石油价格上限保持不变，有效期至7月23日。",
+      "summary": "财联社7月15日电，一名欧盟外交官表示，欧盟各国特使已达成一致，在制裁磋商持续进行的同时，将俄罗斯石油价格上限保持不变，有效期至7月23日。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:50:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，据伊朗方面消息，伊朗表示目前没有与美国进行会谈的计划。",
+      "summary": "财联社7月15日电，据伊朗方面消息，伊朗表示目前没有与美国进行会谈的计划。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:44:01 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗外交部：若美方违约 伊朗则反制",
+      "summary": "【伊朗外交部：若美方违约 伊朗则反制】财联社7月15日电，伊朗“平衡”通讯社7月15日援引伊朗外交部发言人的话报道，伊美谅解备忘录只有在维护国家利益和安全的条件下才对伊朗有价值。报道说，伊朗会在对方遵守承诺的前提下履行义务；若对方违约伊朗会在必要时停止履约、采取反制。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:43:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，欧洲主要股指收盘多数下跌，英国富时100指数跌0.13%，法国CAC40指数涨0.14%，德国DAX30指数跌0.51%，富时意大利MIB指数跌0.85%。",
+      "summary": "财联社7月15日电，欧洲主要股指收盘多数下跌，英国富时100指数跌0.13%，法国CAC40指数涨0.14%，德国DAX30指数跌0.51%，富时意大利MIB指数跌0.85%。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:40:02 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "阿斯麦据悉计划提高芯片制造设备价格",
+      "summary": "【阿斯麦据悉计划提高芯片制造设备价格】财联社7月15日电，据四位知情人士透露，全球核心芯片设备供应商阿斯麦计划提高芯片制造设备价格。消息称，阿斯麦近期已与台积电讨论提高其极紫外（EUV）光刻系统的价格。并且阿斯麦在最近几周告知部分客户，计划对其深紫外（DUV）光刻系统提价10%。而台积电已开始抵制阿斯麦的定价方案。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:36:41 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，Shabana Mahmood据称将被伯纳姆任命为财政大臣。",
+      "summary": "财联社7月15日电，Shabana Mahmood据称将被伯纳姆任命为财政大臣。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:32:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，Anthropic据悉计划在未来几周内举行IPO投资者会议。",
+      "summary": "财联社7月15日电，Anthropic据悉计划在未来几周内举行IPO投资者会议。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:29:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "苹果股价上涨3.3% 续刷记录新高",
+      "summary": "【苹果股价上涨3.3% 续刷记录新高】财联社7月15日电，苹果股价上涨3.3%，报325.260美元/股，续刷记录新高，总市值报4.78万亿美元。<br /><img src=\"https://image.cls.cn/images/20260715/N8u9zn32hM_652x646.png\" />",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:28:19 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，美国贸易代表格里尔将于7月22日出席参议院小组听证会并作证。",
+      "summary": "财联社7月15日电，美国贸易代表格里尔将于7月22日出席参议院小组听证会并作证。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:27:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，现货白银日内跌幅扩大至2%，报57.47美元/盎司。",
+      "summary": "财联社7月15日电，现货白银日内跌幅扩大至2%，报57.47美元/盎司。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:23:18 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美光科技股价跌破900美元/股",
+      "summary": "【美光科技股价跌破900美元/股】财联社7月15日电，美光科技股价下跌8.59%，报898.710美元/股，总市值报1.01万亿美元。<br /><img src=\"https://image.cls.cn/images/20260715/MdT9P9rCXd_638x678.png\" />",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:17:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，美联储主席沃什表示，美国劳动力市场看起来总体上处于平衡状态。实现物价稳定这个使命现在看来完成度不太好。",
+      "summary": "财联社7月15日电，美联储主席沃什表示，美国劳动力市场看起来总体上处于平衡状态。实现物价稳定这个使命现在看来完成度不太好。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:16:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，伊朗称美国袭击了霍尔木兹海峡附近的亨格姆岛（Hengam Island）。",
+      "summary": "财联社7月15日电，伊朗称美国袭击了霍尔木兹海峡附近的亨格姆岛（Hengam Island）。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:12:59 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，美联储主席沃什表示，特朗普没有试图影响美联储政策。如果特朗普试图影响政策，他自己会保持低调。",
+      "summary": "财联社7月15日电，美联储主席沃什表示，特朗普没有试图影响美联储政策。如果特朗普试图影响政策，他自己会保持低调。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:10:58 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月15日电，美联储主席沃什表示，不想透露与特朗普的谈话内容。",
+      "summary": "财联社7月15日电，美联储主席沃什表示，不想透露与特朗普的谈话内容。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:05:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "PTA夜盘跌超2%",
+      "summary": "【PTA夜盘跌超2%】财联社7月15日电，国内期货主力合约夜盘涨跌不一，PTA跌超2%，瓶片、短纤跌近2%，对二甲苯、低硫燃料油（LU）、燃料油跌超1%，烧碱跌近1%。涨幅方面，合成橡胶涨超1%，塑料、豆粕涨近1%。",
+      "link": "",
+      "published": "Wed, 15 Jul 2026 15:03:55 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Anthropic冲刺IPO，最快10月挂牌，或抢先OpenAI登陆资本市场",
+      "summary": "<p>AI行业最大IPO之一正加速逼近。</p>\n<p>7月15日，据彭博援引知情人士，<strong>Anthropic正推进首次公开募股（IPO）计划，承销银行已开始安排公司管理层与潜在投资者会面，最快有望于今年10月完成上市。</strong></p>\n<p>公司计划于未来数周内密集举办多场IPO投资者会议。<strong>若进展顺利，Anthropic将率先于主要竞争对手OpenAI登陆资本市场</strong>。彭博此前报道称，OpenAI已将IPO时间表推迟至2027年，较此前计划的2026年秋季进一步延后。两家公司均已秘密提交上市申请。</p>\n<p>此次IPO筹备正值Anthropic估值快速攀升之际。<strong>今年5月，公司完成新一轮融资后，估值升至9650亿美元，首次超过OpenAI，成为全球估值最高的未上市科技公司之一。</strong>不过，报道援引知情人士表示，目前相关安排仍在讨论中，上市时间及发行细节仍存在调整可能。</p>\n<h2>AI竞赛进入资本市场阶段</h2>\n<p>随着生成式AI竞争持续升级，资本市场或将迎来新一轮AI企业上市潮。</p>\n<",
+      "link": "https://wallstreetcn.com/articles/3777045",
+      "published": "Wed, 15 Jul 2026 15:52:41 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伊朗外交部：若美方违约，伊朗则反制",
+      "summary": "<p>伊朗“平衡”通讯社15日援引伊朗外交部发言人的话报道，伊美谅解备忘录只有在维护国家利益和安全的条件下才对伊朗有价值。报道说，伊朗会在对方遵守承诺的前提下履行义务；若对方违约伊朗会在必要时停止履约、采取反制。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3134510",
+      "published": "Wed, 15 Jul 2026 15:41:10 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI牛市满血复活？瑞银：前期调整只是“夏日洗盘”，财报季有望推动行情延续",
+      "summary": "<p>经历阶段性回调后，华尔街对人工智能板块的态度正重新转向乐观。瑞银在最新策略报告中指出，市场此前对AI相关资产的悲观预期已过度，近期调整更多反映资金流动与仓位变化，而非产业基本面恶化。</p>\n<p>随着美股财报季开启，瑞银预计，<strong>企业业绩有望再次验证AI产业链的高景气度，并推动盈利预期持续上修，成为板块表现的新催化剂。</strong>除AI外，医疗健康板块因盈利修正改善及AI应用加速渗透，也被瑞银列为重点配置方向；而消费板块则因盈利动能偏弱，继续处于主题排名末位。</p>\n<p>与此同时，巴克莱数据显示，当前市场赚钱效应仍高度集中于少数板块，过去一年跑赢标普500指数的个股占比明显低于历史均值，反映出资金仍在围绕具备盈利上修逻辑的主线布局。</p>\n<h2>瑞银：AI重新成为最强投资主题</h2>\n<p>据瑞银策略师Gerry Fowler团队周三发布的客户报告，该行用于衡量市场主题景气度的\"主题计量器（Theme-o-Meter）\"显示，<strong>AI主题已重新升至所有投资主题首位，主要受益于盈利预期持续改善和宏观环境转暖。</strong></p>\n<p",
+      "link": "https://wallstreetcn.com/articles/3777043",
+      "published": "Wed, 15 Jul 2026 15:40:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "阿斯麦计划对芯片制造设备涨价。（The Information）",
+      "summary": "<p>阿斯麦计划对芯片制造设备涨价。（The Information）</p>",
+      "link": "https://wallstreetcn.com/livenews/3134506",
+      "published": "Wed, 15 Jul 2026 15:37:01 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "闪迪跌逾12%领跌，SK海力士重挫8%：美股存储板块开盘遭全线抛售",
+      "summary": "<p style=\"text-align: left;\">美股存储芯片板块本交易日开盘即遭遇集体抛售，涵盖DRAM、NAND闪存、HDD机械硬盘及HBM等各赛道的六只主要标的无一上涨，跌幅跨度从1.5%至10.5%不等。</p>\n<p style=\"text-align: left;\">其中，闪迪以12.56%的跌幅领跌全场，SK海力士紧随其后大跌8.16%，成为当日存储板块的两大重灾区。西部数据下跌7.73%，希捷科技下跌7.25%，美光科技下跌5.91%，铠侠ADR跌4.5%。</p>\n<p style=\"text-align: left;\"><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/bd3fec9d-acc3-4006-bbf4-9411fd40a5b3.png\" /></p>\n<p style=\"text-align: left;\">从盘面特征来看，此次抛售呈现全赛道无差别下行，无论是机械硬盘龙头希捷，还是NAND闪存核心供应商闪迪与西部数据，抑或是HBM（高带宽内存）领域的标杆企业SK海力士，均未能获得资金支撑",
+      "link": "https://wallstreetcn.com/articles/3777044",
+      "published": "Wed, 15 Jul 2026 15:34:31 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "IBM“暴雷”只是开始？伯恩斯坦：行业预算大转移，资金正在加速撤离传统IT",
+      "summary": "<p style=\"text-align: left;\">IBM在2026年第二季度提前披露业绩预警，收入与每股盈利双双大幅低于市场预期，导火索是大型机需求的意外崩塌。</p>\n<p style=\"text-align: left;\">伯恩斯坦最新发布的首席信息官（CIO）调查显示，<strong>这一冲击并非孤立事件，而是企业IT预算加速向生成式AI和网络安全转移这一结构性趋势的集中体现。</strong></p>\n<p style=\"text-align: left;\">IBM第二季度初步收入报17.2亿美元，较伯恩斯坦预估的179.61亿美元及市场一致预期的178.58亿美元均低约4%；初步非GAAP每股盈利为2.93美元，同样不及伯恩斯坦预估的3.09美元及市场一致预期的3.03美元。</p>\n<p style=\"text-align: left;\">IBM在致投资者信中将原因归结为客户采购模式转变——企业正抢先将预算转向服务器、存储及内存等供应受限基础设施，以规避预期中的价格上涨压力。然而，伯恩斯坦的CIO调查数据指向更令人忧虑的长期趋势：</p>\n<p style=\"tex",
+      "link": "https://wallstreetcn.com/articles/3777041",
+      "published": "Wed, 15 Jul 2026 15:26:29 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "油价重返85美元，市场对欧央行继续加息的押注升温",
+      "summary": "<p style=\"text-align: left;\">霍尔木兹海峡局势再度升级，国际油价快速反弹，欧洲央行原本趋于明朗的政策路径再次陷入不确定。</p>\n<p style=\"text-align: left;\">7月15日，据CNBC，德国央行行长、欧洲央行管委Joachim Nagel表示，<strong>中东冲突升级及油价上涨令经济前景面临\"极高的不确定性\"，欧洲央行将保持警惕，并在必要时采取行动。这番表态强化了市场对欧洲央行可能继续收紧政策的预期。</strong></p>\n<p style=\"text-align: left;\">目前，市场仍预计欧洲央行7月22日会议维持利率不变，但利率互换显示，当次会议加息25个基点的概率已升至约20%，投资者仍押注明年春季前累计加息50个基点，届时存款利率将升至2.75%。</p>\n<h2 style=\"text-align: left;\">油价反弹打乱通胀回落节奏</h2>\n<p style=\"text-align: left;\">随着美伊围绕霍尔木兹海峡的军事冲突持续升级，国际油价大幅反弹。</p>\n<p style=\"text-a",
+      "link": "https://wallstreetcn.com/articles/3777040",
+      "published": "Wed, 15 Jul 2026 15:05:33 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "留给开源模型的时间，就剩6个月？",
+      "summary": "<p style=\"text-align: justify;\">开源模型，正在经历迄今最严峻的一次生存考验。</p>\n<p style=\"text-align: justify;\">近日，有外媒报道称，白宫正在考虑出台一项行政命令来限制开源 AI，尤其是由中国公司开发的系统。</p>\n<p style=\"text-align: justify;\">“如果本届政府最终对其使用开源 AI 发表明确立场，甚至限制联邦机构使用某些开源工具，我不会感到意外。”高级研究员 Adam Thierer 表示。</p>\n<p style=\"text-align: justify;\">据悉，知情人士们几乎都表示，相关讨论仍处于早期阶段，目前尚不清楚这些讨论最终是否会转化为具体政策。不过，如果最终没有成为现实，它进一步增加了外界对特朗普政府混乱 AI 治理方式的质疑。而相关措施即便落地，最可能影响的也只是两类对象：一是来自中国的模型，二是政府部门对这些模型的使用。但第一块多米诺骨牌一旦倒下，后续影响很难控制。</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" cl",
+      "link": "https://wallstreetcn.com/articles/3777039",
+      "published": "Wed, 15 Jul 2026 15:05:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "广发郭磊：对上半年宏观经济数据的四点认识",
+      "summary": "<p style=\"text-align: left;\"><strong>2026年二季度实际GDP同比增长4.3%，和我们高频模型模拟的结果一致。在前期报告《长波与分化：2026年中期宏观环境展望》中，我们指出“对四个季度国内实际GDP的假设分别为5.0%、4.3%、4.6%、4.8%”。</strong></p>\n<p style=\"text-align: left;\">2025年四个季度实际GDP同比分别为5.4%、5.2%、4.8%、4.5%。</p>\n<p style=\"text-align: left;\">2026年一季度实际GDP同比为5.0%，二季度则再度放缓至4.3%。上半年同比的4.7%高于去年四季度的4.5%，但二季度单季低于去年四季度。</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/ba9f247e-9547-4939-99eb-3da6f5d78fac.jpeg\" title=\"\" /></p>\n<p style=\"",
+      "link": "https://wallstreetcn.com/articles/3777038",
+      "published": "Wed, 15 Jul 2026 15:05:08 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "沃什拒绝向国会山透露其与特朗普的沟通情况，重申美联储独立性",
+      "summary": "<p>美联储主席沃什：在我（上任以来）是否已经与美国总统特朗普对话方面，我无可奉告。</p>\n\n<p>我可不想与你们（国会山）分享有关我和总统沟通的情况。</p>\n\n<p>总统还没有企图影响（FOMC货币）政策。</p>\n\n<p>如果特朗普企图影响（美联储的）政策，我将继续埋头（做自己的事，即保持独立性）。</p>\n\n<p>即便接到总统的电话，我也不会感到不自在。</p>",
+      "link": "https://wallstreetcn.com/livenews/3134486",
+      "published": "Wed, 15 Jul 2026 15:05:05 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "沃什国会作证：AI可能推高价格但未必推升通胀",
+      "summary": "<p>美东时间15日周三，美联储主席沃什出席美国参议院银行委员会的听证会，这是他首次身为联储主席在参议院的半年度货币政策听证会上作证。</p>\n<p>沃什在此次听证会上表示，由AI驱动的投资正在推高价格，但他怀疑这种趋势能否推升通胀，称美联储将判断这类价格变动会不会演变为通胀。</p>\n<p>沃什说：“我不认为一次性的价格变动必然意味着通胀，因为我认为市场会有供给侧的反应；这一点与可能削弱经济供给能力的国外冲突有着本质区别。”</p>\n<p>沃什称，未来12个月内价格可能会因上述AI驱动而上涨，但强调，这是否会演变为通胀，取决于美联储采取何种行动。</p>\n<p>沃什认为，AI对需求的影响比对供应的影响更加迅速。相信AI将长期地创造就业岗位，但也可能会产生干扰。与AI相关的价格飙涨是真实的，不希望这被忽视。</p>\n<p>沃什说，更愿意看到企业投资，而不是回购股票。生产力将出现结构性的通胀回落。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场",
+      "link": "https://wallstreetcn.com/articles/3777042",
+      "published": "Wed, 15 Jul 2026 14:59:29 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "沃什：怀疑AI将在未来12个月推高价格",
+      "summary": "<p>美联储主席沃什：一次性价格变动并不必然导致通胀。</p>\n\n<p>AI对需求的影响比对供应的影响更加迅速。</p>\n\n<p>怀疑AI将在未来12个月推高价格。</p>\n\n<p>AI是否造成通胀将由AI来判断。</p>\n\n<p>相信AI将长期性地创造就业岗位，但也可能会产生干扰。</p>\n\n<p>与AI相关的价格飙涨是真实的，不希望这被忽视。</p>",
+      "link": "https://wallstreetcn.com/livenews/3134465",
+      "published": "Wed, 15 Jul 2026 14:44:09 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "特朗普称或很快打击伊朗镐山核设施",
+      "summary": "<p>美国总统特朗普近日在一档节目上表示，美国“可能很快”打击伊朗纳坦兹铀浓缩设施附近的“镐山”地下核设施。“镐山”位于纳坦兹铀浓缩设施以南约1.6公里处，拥有两座深埋地下的隧道群，被认为是伊朗最坚固的地下核设施之一，专家称其能够抵御美国现役最强钻地炸弹的攻击。（CCTV国际时讯）</p>",
+      "link": "https://wallstreetcn.com/livenews/3134464",
+      "published": "Wed, 15 Jul 2026 14:43:44 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "提升离岸人民币的定价权，陆家嘴金融沙龙第二十一期热议离岸金融市场建设",
+      "summary": "<figure><img alt=\"提升离岸人民币的定价权，陆家嘴金融沙龙第二十一期热议离岸金融市场建设\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/8c1da1fe8c56d3cfda1e6945975a3219.jpg\" /></figure><p>陆家嘴论坛发布《上海国际金融中心发展离岸金融行动方案》。</p><p>在全球资本流动的新格局下，近日结束的2026年陆家嘴论坛就上海离岸金融发展、离岸人民币交易试点等释放诸多政策信号。</p>\n\n<p>7月13日，陆家嘴金融沙龙第二十一期活动圆满举办。本期沙龙以《波动·分化·韧性——全球资本流动新格局下现代化金融市场体系与资本项目制度型开放协同共进》为主题，汇聚各方专家，深度解读政策内涵，探讨离岸金融市场的建设路径。</p>\n\n<p><strong>服务出海企业 离岸金融业务体系化建设在即</strong></p>\n\n<p>陆家嘴论坛发布《上海国际金融中心发展离岸金融行动方案》（以下简称《行动方案》），支持上海率先构建与国际金融中心相匹配的离岸金融业务体系。</p>\n\n<p>",
+      "link": "https://www.yicai.com/news/103276936.html",
+      "published": "Wed, 15 Jul 2026 15:26:30 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "留言互动、公开办理！四川成都探索城市安全共建共治新路径",
+      "summary": "<figure><img alt=\"留言互动、公开办理！四川成都探索城市安全共建共治新路径\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/9e1cc916a9173717aeb8597ace33b6a4.jpg\" /></figure><p>6月5日，四川成都市民在主流媒体平台反映龙泉驿区龙都北路夜间飙车扰民。次日夜间，成都交警八分局即在该路段开展专项整治，并在评论区公开公示执法现场与处置进展。</p>\n\n<p>6月16日，市民留言称西新大道的人行道上有裸露的铆钉，存在安全隐患。当日上午10:08，新津区综合执法局工作人员随即抵达现场核实，中午11:45，12处残留铆钉全部清除完毕。</p>\n\n<p>轰鸣炸街的改装车、路面暗藏伤人地钉、小区消防通道堆物、工地渣土乱堆……这些藏在市民家门口的安全“烦心事”，如今，在成都有了一套完整闭环解决体系。</p>\n\n<p>当前，成都市深入学习领会习近平总书记关于安全生产的重要论述，全面落实党中央、国务院和省委、省政府部署要求，认真落实安全生产治本攻坚三年行动部署，建立安全隐患“大排查、大曝",
+      "link": "https://www.yicai.com/news/103276932.html",
+      "published": "Wed, 15 Jul 2026 15:20:36 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "杭州汽车保有量首超武汉",
+      "summary": "<figure><img alt=\"杭州汽车保有量首超武汉\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/336d20da44c60d170cf43c5e192afd6d.jpg\" /></figure><p>全国汽车保有量超过500万辆的城市增至9个。</p><p>截至2026年6月底，杭州汽车保有量正式超越武汉，跻身全国汽车保有量超500万辆城市行列。</p>\n\n<p>这是乘联分会秘书长崔东树在其7月15日发布的《公安部2026年上半年的上牌和驾驶员数据分析》一文中，援引公安部最新数据而披露的。</p>\n\n<p>他在文章中表示，全国汽车保有量超过500万辆的城市增至9个，其中成都、重庆、北京三城超过600万辆，郑州、苏州、上海、西安、杭州、武汉紧随其后。2022年，武汉率先突破400万辆大关，彼时杭州尚不及这一数字。短短四年间，杭州实现反超。</p>\n\n<p>从全国视角来看，截至2026年6月底，全国汽车保有量为3.71亿辆。全国新能源汽车保有量达4897万辆，占汽车总量的13.19%，较去年同期提高2.92个百分点。其中",
+      "link": "https://www.yicai.com/news/103276924.html",
+      "published": "Wed, 15 Jul 2026 14:51:59 GMT"
+    }
+  ]
+}
