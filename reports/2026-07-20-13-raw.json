@@ -1,204 +1,78 @@
 {
   "date": "2026-07-20",
   "hour": "13",
-  "total": 86,
-  "fetched_at": "2026-07-20T13:00:50.326603+08:00",
+  "total": 52,
+  "fetched_at": "2026-07-20T13:29:02.262861+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "A股关键时刻，“国家队”出手！ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1yOUZQbUFocWFUcVZrZEJpQ19kTHZCcHdqM2ZRU0tiSlBkWHgyTld6NzltcGFwM1psRWpocjF4LUxxbFJfcHhmTFRtNWJpYnpXdG5tb2hpQnUxYUE2ZFR0dTZteXgtSUEyRllkbzA3eUQ4TThEa0E?oc=5\" target=\"_blank\">A股关键时刻，“国家队”出手！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yOUZQbUFocWFUcVZrZEJpQ19kTHZCcHdqM2ZRU0tiSlBkWHgyTld6NzltcGFwM1psRWpocjF4LUxxbFJfcHhmTFRtNWJpYnpXdG5tb2hpQnUxYUE2ZFR0dTZteXgtSUEyRllkbzA3eUQ4TThEa0E?oc=5",
-      "published": "Mon, 20 Jul 2026 04:17:00 GMT"
+      "source": "同花顺",
+      "title": "雄安两座卫星共享中心即将正式投入使用",
+      "summary": "7月17日，位于雄安科创中心中试基地内的卫星共享智造中心、卫星共享测试中心内一片忙碌，工作人员正在对两座共享中心内的设备逐一进行调试检测。近期，两座卫星共享中心将正式投入使用，面向全国商业航天企业开放，破解重资产投入大、实验排期久、卫星转运距离远等痛点。（雄安发布）",
+      "link": "https://news.10jqka.com.cn/20260720/c678285962.shtml",
+      "published": "Mon, 20 Jul 2026 05:28:22 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股反攻！万亿龙头股，涨停 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBrS1NvNWhLajRNSm84YkJMZ0M4SUFDSzBucmp2ZE1kYjRER3pISkhYWmtXMGxTcTJkN08tUGN1WVVzOFFBNjBnZEo0cThWejdsSTB1R2ZrTjljZkVaVktNdzFEaVctSVg3ejBUTm9hZVl4bWtNV2c?oc=5\" target=\"_blank\">A股反攻！万亿龙头股，涨停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrS1NvNWhLajRNSm84YkJMZ0M4SUFDSzBucmp2ZE1kYjRER3pISkhYWmtXMGxTcTJkN08tUGN1WVVzOFFBNjBnZEo0cThWejdsSTB1R2ZrTjljZkVaVktNdzFEaVctSVg3ejBUTm9hZVl4bWtNV2c?oc=5",
-      "published": "Mon, 20 Jul 2026 04:38:00 GMT"
+      "source": "同花顺",
+      "title": "北证50指数跌幅扩大至1%",
+      "summary": "北证50指数跌幅扩大至1%，现报1065.4点。",
+      "link": "https://news.10jqka.com.cn/20260720/c678285923.shtml",
+      "published": "Mon, 20 Jul 2026 05:24:42 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股探底回升，电力、煤炭多股涨停，半导体股下挫，托底积极信号频现 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MHB0TWItZDhHYTJQVXd0VlhScUJzSEtHcGVabmtZX0piVlc2ZGFEc0ZMVEpOc08wUHBOQ0s2MUZSWE53MHZXcGItNU8ySmFnVGtNWFVfNEd0VlV0OEt5N2RBMklRSmpxUEFFRUl2YUxscFBrS3c?oc=5\" target=\"_blank\">A股探底回升，电力、煤炭多股涨停，半导体股下挫，托底积极信号频现</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5MHB0TWItZDhHYTJQVXd0VlhScUJzSEtHcGVabmtZX0piVlc2ZGFEc0ZMVEpOc08wUHBOQ0s2MUZSWE53MHZXcGItNU8ySmFnVGtNWFVfNEd0VlV0OEt5N2RBMklRSmpxUEFFRUl2YUxscFBrS3c?oc=5",
-      "published": "Mon, 20 Jul 2026 04:03:00 GMT"
+      "source": "同花顺",
+      "title": "中研股份新设子公司 含多项AI相关业务",
+      "summary": "企查查APP显示，近日，中研淘淘塑（深圳）网络科技有限公司成立，经营范围包含前沿新材料销售；人工智能公共数据平台；人工智能公共服务平台技术咨询服务；人工智能基础资源与技术平台等。企查查股权穿透显示，该公司由中研股份全资持股。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260720/c678285901.shtml",
+      "published": "Mon, 20 Jul 2026 05:23:21 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "中国银河杨超：A股阶段性调整属外部情绪传导 多重积极因素夯实市场底气 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBuc1dyNDVoRHhGSXZwYlZ2cm9pT3psWEhzbm4ybjlGaGcyOVRuSEhHYUZYMFRzVE85S0pIV1JKOFVZR0lVUzdxN1NiSncyNWdZQTJnbTVZTzRVVWZkWjFEQnNTMXdLc0NFdjZXX0JwajhLZXVlWFE?oc=5\" target=\"_blank\">中国银河杨超：A股阶段性调整属外部情绪传导 多重积极因素夯实市场底气</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuc1dyNDVoRHhGSXZwYlZ2cm9pT3psWEhzbm4ybjlGaGcyOVRuSEhHYUZYMFRzVE85S0pIV1JKOFVZR0lVUzdxN1NiSncyNWdZQTJnbTVZTzRVVWZkWjFEQnNTMXdLc0NFdjZXX0JwajhLZXVlWFE?oc=5",
-      "published": "Mon, 20 Jul 2026 04:40:00 GMT"
+      "source": "同花顺",
+      "title": "中国信通院牵头的ITU算电协同2项标准成功立项",
+      "summary": "近日，国际电信联盟标准化局第五研究组（ITU-T SG5）全会于法国索菲亚安提波利斯召开，中国信通院牵头提出的“面向减缓气候变化的算力电力协同框架与要求”及“面向减缓气候变化的算力电力协同平台技术要求”2项议题成功立项，同时主导的2项绿色低碳领域国际标准顺利完成结项。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260720/c678285855.shtml",
+      "published": "Mon, 20 Jul 2026 05:19:05 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "科技股，反弹！A股“股王”，大涨超10% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE0xSkJUYTN0Z2QzMmsxaHlNd1Z5T1FVM2JyOENRVXRQd202LTdQYkRjLUtSVnhkcmRxZzk1bGhVcmVjRjhlSGFXTTBzWVhUNmtCTVVUVGV5Y3plNG1uelBQU3pxUHhDdzlRb1BiQzdNLWR3QzZpZEdmVQ?oc=5\" target=\"_blank\">科技股，反弹！A股“股王”，大涨超10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xSkJUYTN0Z2QzMmsxaHlNd1Z5T1FVM2JyOENRVXRQd202LTdQYkRjLUtSVnhkcmRxZzk1bGhVcmVjRjhlSGFXTTBzWVhUNmtCTVVUVGV5Y3plNG1uelBQU3pxUHhDdzlRb1BiQzdNLWR3QzZpZEdmVQ?oc=5",
-      "published": "Mon, 20 Jul 2026 03:43:00 GMT"
+      "source": "同花顺",
+      "title": "中证1000股指期货(IM)主力合约日内跌超3%",
+      "summary": "中证1000股指期货(IM)主力合约日内跌超3%，现报6928.8点。",
+      "link": "https://news.10jqka.com.cn/20260720/c678285815.shtml",
+      "published": "Mon, 20 Jul 2026 05:17:53 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "上市仅200天，分手费近60亿元，A股再现天价离婚案 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ckdyUzJrRFZYVnAxYS0wUTl0T3h3aTUyUmN3TmZvYm9aVkx5Rl85cmVXWGxaOXZ1WVdYM3RKaURBZHFGejY5NnhtbTU1dGkyQ1RQWVRNaU5iTDJYSlotcjlVRkdCZ1VMN0ZwbWNzeGJCQkpLZ2c?oc=5\" target=\"_blank\">上市仅200天，分手费近60亿元，A股再现天价离婚案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3ckdyUzJrRFZYVnAxYS0wUTl0T3h3aTUyUmN3TmZvYm9aVkx5Rl85cmVXWGxaOXZ1WVdYM3RKaURBZHFGejY5NnhtbTU1dGkyQ1RQWVRNaU5iTDJYSlotcjlVRkdCZ1VMN0ZwbWNzeGJCQkpLZ2c?oc=5",
-      "published": "Mon, 20 Jul 2026 04:19:00 GMT"
+      "source": "同花顺",
+      "title": "中国信通院在2026年人工智能向善全球峰会期间举办“脑机接口：技术向善与标准合作”研讨会",
+      "summary": "当地时间2026年7月8日下午，中国信息通信研究院在日内瓦“2026人工智能向善”全球峰会期间举办“脑机接口：技术向善与标准合作”研讨会。本次研讨会上，中国信通院联合多家国际组织和企业，共同成立了脑机接口技术标准化预研组。预研组将持续吸纳全球企业、高校和研究机构，布局脑机接口标准预研并深化产业合作。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260720/c678285796.shtml",
+      "published": "Mon, 20 Jul 2026 05:16:05 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股午盘｜沪指涨1.18% 油气、电力板块涨幅居前 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE41SUxGTmhYUW5tRVoxRy1ZTWx5TWFfTUU5NlZVTDhjdjhrNDY1cHVzdHFOcF9DdmZNUmJ6TmRPcEVaNlYybENfYmJDanRSc1NjM0lDT0Q4SWdUVV9Sd1lsVVNKenA2bjBSNFphY3ZLclRiLWJGR21sZg?oc=5\" target=\"_blank\">A股午盘｜沪指涨1.18% 油气、电力板块涨幅居前</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41SUxGTmhYUW5tRVoxRy1ZTWx5TWFfTUU5NlZVTDhjdjhrNDY1cHVzdHFOcF9DdmZNUmJ6TmRPcEVaNlYybENfYmJDanRSc1NjM0lDT0Q4SWdUVV9Sd1lsVVNKenA2bjBSNFphY3ZLclRiLWJGR21sZg?oc=5",
-      "published": "Mon, 20 Jul 2026 03:37:00 GMT"
+      "source": "同花顺",
+      "title": "电子化学品板块午后持续大幅下挫 格林达连续3日跌停",
+      "summary": "电子化学品板块午后持续大幅下挫，宏昌电子、江化微、格林达触及跌停，方邦股份、中船特气跌超15%，晶瑞电材、金宏气体、三孚新科、中巨芯、兴福电子跌超10%，菲沃泰、光华科技、莱特光电、华特气体、国瓷材料跟跌。",
+      "link": "https://news.10jqka.com.cn/20260720/c678285769.shtml",
+      "published": "Mon, 20 Jul 2026 05:13:21 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "美的集团：累计回购8433.94万股A股股份 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IZHNnRHNWeDZzZjl1S3NSeWlKMkVmSnZqZDZrQlIyc2xlWE95Y3dESUx0RzdKakhzYU4zWDJBcWR5b0M3UzhKdjJQMTQzbTBMNEI1Ym1YZmhWZFJ2VEM2N2pEV0htUEEtTmY4RnpsQlhaaGtHcFBDUQ?oc=5\" target=\"_blank\">美的集团：累计回购8433.94万股A股股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IZHNnRHNWeDZzZjl1S3NSeWlKMkVmSnZqZDZrQlIyc2xlWE95Y3dESUx0RzdKakhzYU4zWDJBcWR5b0M3UzhKdjJQMTQzbTBMNEI1Ym1YZmhWZFJ2VEM2N2pEV0htUEEtTmY4RnpsQlhaaGtHcFBDUQ?oc=5",
-      "published": "Mon, 20 Jul 2026 03:35:00 GMT"
+      "source": "同花顺",
+      "title": "海南：“十五五”时期全省共谋划公路水路项目223个 总投资1363亿元",
+      "summary": "记者从省交通运输厅获悉，《海南省“十五五”综合交通运输（公路水路）发展规划》（以下简称“规划”）日前已正式印发实施，切实推进人享其行、物畅其流，为海南自由贸易港建设夯实交通根基。根据规划，“十五五”时期，全省共谋划公路水路项目223个，总投资1363亿元。其中，公路及枢纽项目130个，投资1030.9亿元；水路项目83个，投资312.9亿元；数字化转型项目10个，投资19.2亿元。（海南日报）",
+      "link": "https://news.10jqka.com.cn/20260720/c678285766.shtml",
+      "published": "Mon, 20 Jul 2026 05:12:53 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股投资新选择！中证A股ETF华夏7月20日起重磅发售 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1IUkZfeTNxT0tZODM2bUN0Y2s1MzZDVkJwZ1YydDRRaUxPV1JEVTZNTUFOM2tzR2RjcUp3UFE2NlcxdUhBTkU4dFNVNHhOSGR0bnFPT28xR2kxOURKX3F4emFTYnRiZjdEUDZYeHNwSDRtSkg5OWd2cg?oc=5\" target=\"_blank\">A股投资新选择！中证A股ETF华夏7月20日起重磅发售</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IUkZfeTNxT0tZODM2bUN0Y2s1MzZDVkJwZ1YydDRRaUxPV1JEVTZNTUFOM2tzR2RjcUp3UFE2NlcxdUhBTkU4dFNVNHhOSGR0bnFPT28xR2kxOURKX3F4emFTYnRiZjdEUDZYeHNwSDRtSkg5OWd2cg?oc=5",
-      "published": "Mon, 20 Jul 2026 03:21:00 GMT"
+      "source": "同花顺",
+      "title": "伊朗方面称该国多地遭美军袭击",
+      "summary": "伊朗方面消息，当地时间7月20日凌晨，伊朗西南部胡齐斯坦省霍梅尼港附近遭到美军导弹袭击。消息还称，当天凌晨2时35分左右，伊朗东阿塞拜疆省省会城市大不里士西南区的军事区遭到美军袭击，引发剧烈爆炸。袭击未造成平民受伤或死亡。当天凌晨，伊朗西南部马赫沙赫尔港、霍梅尼港以及南部港口城市锡里克多次传出爆炸声。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260720/c678285649.shtml",
+      "published": "Mon, 20 Jul 2026 05:05:29 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "真金白银表态！7月A股大跌，私募左手自购右手连续三周加仓 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE96eXZWMTFiT2M1VThPTTFCcU44QjZ4eTBzNlBSdVA1YUdMbW1vTllCNUpiMG40b3hEN1F6bHJzVVVTTUpRNU9KelJWaDF4RVFPbGxyVHBkb2N0ZUd5RjRRajBvT2oxQlYzLTZBemtPZy1maXFydGM5bg?oc=5\" target=\"_blank\">真金白银表态！7月A股大跌，私募左手自购右手连续三周加仓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96eXZWMTFiT2M1VThPTTFCcU44QjZ4eTBzNlBSdVA1YUdMbW1vTllCNUpiMG40b3hEN1F6bHJzVVVTTUpRNU9KelJWaDF4RVFPbGxyVHBkb2N0ZUd5RjRRajBvT2oxQlYzLTZBemtPZy1maXFydGM5bg?oc=5",
-      "published": "Mon, 20 Jul 2026 03:12:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股风格生变？券商资管最新研判：科技回调非终局，低估值修复已上路 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBtcVYxLUN0UlpIREtoVFdqTmhOMWJLM2pDUjBMNUlSNWN6b2JLcUVrOGlkMWtiUXNwSVZ0RGxoRnVDR1RUSENSMnNwZlBkUlpoS01NUG9ZZVBOZ0ZvLXI3c2xWTFdOQ3JVTnl1Y3gteTBVUnZhd043TA?oc=5\" target=\"_blank\">A股风格生变？券商资管最新研判：科技回调非终局，低估值修复已上路</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtcVYxLUN0UlpIREtoVFdqTmhOMWJLM2pDUjBMNUlSNWN6b2JLcUVrOGlkMWtiUXNwSVZ0RGxoRnVDR1RUSENSMnNwZlBkUlpoS01NUG9ZZVBOZ0ZvLXI3c2xWTFdOQ3JVTnl1Y3gteTBVUnZhd043TA?oc=5",
-      "published": "Mon, 20 Jul 2026 03:20:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "提价催化！贵州茅台大涨5.58%，A股热榜第二 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBNelZYOTlVbEN1bzQzOWxpOVlEeG9fTVViT1haamg3RXVZU25lTmdZdko0bTR6QmVhLUNLZlRmdkw3N1B0YU1STkFWOThIMVZxeEZ4cTFPNHhwRTM3NzRMOGd3VHBCVUZqWnFBV09PVjhXUTlXOHhSYg?oc=5\" target=\"_blank\">提价催化！贵州茅台大涨5.58%，A股热榜第二</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNelZYOTlVbEN1bzQzOWxpOVlEeG9fTVViT1haamg3RXVZU25lTmdZdko0bTR6QmVhLUNLZlRmdkw3N1B0YU1STkFWOThIMVZxeEZ4cTFPNHhwRTM3NzRMOGd3VHBCVUZqWnFBV09PVjhXUTlXOHhSYg?oc=5",
-      "published": "Mon, 20 Jul 2026 04:19:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股午评：沪指涨1.18%重回3800点，超2900股上涨，油气、煤炭股领涨 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNODN1ektDb1BIcXpkUnBVWjdpSVgwNjkwbjEwa1BBcklpM1NFYTBURFN0d0VXZHhMSWV0SU1Rc3pleTNUSlMxNzJ3UWxBQTdhM1ludHZMMGNYbWRfckRwYWpKZmRXd3NEb3RZZzc4YzVNdFRuQ3dGaTJ6UURkYkwtTQ?oc=5\" target=\"_blank\">A股午评：沪指涨1.18%重回3800点，超2900股上涨，油气、煤炭股领涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODN1ektDb1BIcXpkUnBVWjdpSVgwNjkwbjEwa1BBcklpM1NFYTBURFN0d0VXZHhMSWV0SU1Rc3pleTNUSlMxNzJ3UWxBQTdhM1ludHZMMGNYbWRfckRwYWpKZmRXd3NEb3RZZzc4YzVNdFRuQ3dGaTJ6UURkYkwtTQ?oc=5",
-      "published": "Mon, 20 Jul 2026 03:35:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股异动丨华安、国联民生拟斥资数亿回购，券商股集体上涨 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOczc4eGpDanowM2E1eGxxcXJCY2E2WVJJaVJwcXhNa3Z3OXhRTDY2LVZOS1pvNEhESnptaHJaVlp2SkRxUlIzeUo2YnRMUk12VDJpUkJndzRlUDJwYzFXdFYxLUpwRmU1Z2lDZ0x2WHRwbVB0SzV1NlRQbUdOTkY0Vw?oc=5\" target=\"_blank\">A股异动丨华安、国联民生拟斥资数亿回购，券商股集体上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOczc4eGpDanowM2E1eGxxcXJCY2E2WVJJaVJwcXhNa3Z3OXhRTDY2LVZOS1pvNEhESnptaHJaVlp2SkRxUlIzeUo2YnRMUk12VDJpUkJndzRlUDJwYzFXdFYxLUpwRmU1Z2lDZ0x2WHRwbVB0SzV1NlRQbUdOTkY0Vw?oc=5",
-      "published": "Mon, 20 Jul 2026 03:11:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股ETF华泰柏瑞（563330）涨1.34%，半日成交额2097.11万元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEFMSFR2a1RJbDR5YTdYNzUwSm5GWjVKU0VkRC1xTTRGOTAxMVFScXVheUllaS1aTHJ0U0pKXzY1bU9IS2RqTy1tcDgtRU9JTlJoS3Rid01LQXNhMWdNcnpsUGtTclY3UnBoZVEwZHpjbHNjX201bW1GWXhIU1lNS2daSXBjTjZkYzEyOEtXWUhUWVdWNFlwQQ?oc=5\" target=\"_blank\">A股ETF华泰柏瑞（563330）涨1.34%，半日成交额2097.11万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOEFMSFR2a1RJbDR5YTdYNzUwSm5GWjVKU0VkRC1xTTRGOTAxMVFScXVheUllaS1aTHJ0U0pKXzY1bU9IS2RqTy1tcDgtRU9JTlJoS3Rid01LQXNhMWdNcnpsUGtTclY3UnBoZVEwZHpjbHNjX201bW1GWXhIU1lNS2daSXBjTjZkYzEyOEtXWUhUWVdWNFlwQQ?oc=5",
-      "published": "Mon, 20 Jul 2026 03:33:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 手机新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVGNjNWMTdObHFjU1BXREVqT0ZSWGtuWlNieDRsUGhBQzY4amtLc1IwSUdWdGU5dWVOSWRCbHM1eEJEX01TLXYxSW50dVRVM2pLUUpxcmF4bDdyd0JJTUFPTkpfbHRHdmJuaGZpUVotODhhMlAxeE1tdWNweU1HTm1oeHAya2ZwU2YxbkktcXZFTkN2TVFpTHhqS0tmS1N3dmJfcg?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDVGNjNWMTdObHFjU1BXREVqT0ZSWGtuWlNieDRsUGhBQzY4amtLc1IwSUdWdGU5dWVOSWRCbHM1eEJEX01TLXYxSW50dVRVM2pLUUpxcmF4bDdyd0JJTUFPTkpfbHRHdmJuaGZpUVotODhhMlAxeE1tdWNweU1HTm1oeHAya2ZwU2YxbkktcXZFTkN2TVFpTHhqS0tmS1N3dmJfcg?oc=5",
-      "published": "Mon, 20 Jul 2026 03:28:08 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "科技股，反弹！A股“股王”，大涨超10% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjFXRW9qOUJYQWZLZ2wtM0JFU0Q0bHQ4dVlnUkJwVy1hT3gxelFQT2UwMmNFYUJzVXlTMmFCR1QzcGVUeDFSQTNXdDd1Y01pQjZDSTlUR1FLaVIyVk8yUEFwOS0tR01fM3NsUUJ4OWJ5Q2JYQVRYN1gzN3pWMGY4bA?oc=5\" target=\"_blank\">科技股，反弹！A股“股王”，大涨超10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjFXRW9qOUJYQWZLZ2wtM0JFU0Q0bHQ4dVlnUkJwVy1hT3gxelFQT2UwMmNFYUJzVXlTMmFCR1QzcGVUeDFSQTNXdDd1Y01pQjZDSTlUR1FLaVIyVk8yUEFwOS0tR01fM3NsUUJ4OWJ5Q2JYQVRYN1gzN3pWMGY4bA?oc=5",
-      "published": "Mon, 20 Jul 2026 03:08:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "海尔智家累计回购A股18.18亿元 8706.22万股用于员工持股计划或股权激励 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEViRmJldjZFN2dSQ29uYmphbUZFa1pyOHByVWp0RHlXZ2hSbjZSUXo1SVVOdG1xY3ZOSGw4VF9ydzlSOFp1NnY2NmhfSVQzZG5wQU9SZWtGcXAwV1NQMTUxNDlOb2IySTBBVkJoR050alEzaVdhdjRLZTNkdnBuNTZMa1JMWl91?oc=5\" target=\"_blank\">海尔智家累计回购A股18.18亿元 8706.22万股用于员工持股计划或股权激励</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTEViRmJldjZFN2dSQ29uYmphbUZFa1pyOHByVWp0RHlXZ2hSbjZSUXo1SVVOdG1xY3ZOSGw4VF9ydzlSOFp1NnY2NmhfSVQzZG5wQU9SZWtGcXAwV1NQMTUxNDlOb2IySTBBVkJoR050alEzaVdhdjRLZTNkdnBuNTZMa1JMWl91?oc=5",
-      "published": "Mon, 20 Jul 2026 04:14:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "7月17日易方达MSCI中国A股国际通ETF(512090)获净申购390.87万元，位居当日股票ETF净流入排名431/1269 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHBzQWx5V2pNSW9qOG5DNEdtUW0xZEhENGNmYzdjR3BSTmJhbDI2T09aN0NRV05iTFBxbUN5QWZoajNZaGhKU3FROVZuMjdwTlJUakNKM0ZXamtsX2U4MEs2VENueHZuQVBNbVk4MDRtWmVUX1R2TnBldHR0SEYyRG1XUHBWSElIYkcycGN2UnVuWUxNM2EwX205QQ?oc=5\" target=\"_blank\">7月17日易方达MSCI中国A股国际通ETF(512090)获净申购390.87万元，位居当日股票ETF净流入排名431/1269</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHBzQWx5V2pNSW9qOG5DNEdtUW0xZEhENGNmYzdjR3BSTmJhbDI2T09aN0NRV05iTFBxbUN5QWZoajNZaGhKU3FROVZuMjdwTlJUakNKM0ZXamtsX2U4MEs2VENueHZuQVBNbVk4MDRtWmVUX1R2TnBldHR0SEYyRG1XUHBWSElIYkcycGN2UnVuWUxNM2EwX205QQ?oc=5",
-      "published": "Mon, 20 Jul 2026 03:09:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "标普A股红利ETF华宝（562060）涨1.67%，半日成交额5172.38万元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1dmUlNfYXJHM1I3Q1ZpZzVCUjhFcXJZSGp5TGtoYWdQY05RSWdUYUtCNHdlMGUwRkxXVzJIeVFNclppbW9kX1ljdzdGbHhPeURUVzctcW44djNvSDltRFRXMllPUHZnTnlMcllpeWpOS2F2bG1hSG9KRjd3OTc0eWRMcFVZaFhXMTdfblAwbGMxYWlLanpJRA?oc=5\" target=\"_blank\">标普A股红利ETF华宝（562060）涨1.67%，半日成交额5172.38万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1dmUlNfYXJHM1I3Q1ZpZzVCUjhFcXJZSGp5TGtoYWdQY05RSWdUYUtCNHdlMGUwRkxXVzJIeVFNclppbW9kX1ljdzdGbHhPeURUVzctcW44djNvSDltRFRXMllPUHZnTnlMcllpeWpOS2F2bG1hSG9KRjd3OTc0eWRMcFVZaFhXMTdfblAwbGMxYWlLanpJRA?oc=5",
-      "published": "Mon, 20 Jul 2026 03:34:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "华东医药最新公告：董事长提议实施2026年中期利润分配方案拟10派3.5元 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSGt2OThyYVJybHVxOGJ1MkhhUVVRcHFBS0RuQlRpZ0tVYUVIMXd0b2xXQmwtbnB4elQ1cl94RXpCSXlDVzNyUGxPa2lyMTFSYVpJNG05NzJsY3Y2VUlnYXh5WjZ3QllkcS04?oc=5\" target=\"_blank\">华东医药最新公告：董事长提议实施2026年中期利润分配方案拟10派3.5元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSGt2OThyYVJybHVxOGJ1MkhhUVVRcHFBS0RuQlRpZ0tVYUVIMXd0b2xXQmwtbnB4elQ1cl94RXpCSXlDVzNyUGxPa2lyMTFSYVpJNG05NzJsY3Y2VUlnYXh5WjZ3QllkcS04?oc=5",
-      "published": "Mon, 20 Jul 2026 04:03:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "券商回购潮起，岂止是护盘而已？ - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9XOWtvYjZBd0FUUHQxVWRSMEVTNGRMeGE0RWF4QlFWcmw3Z0hsM0lsN0RCRWJfazZuNFVJRHo4WlUzT0x5ZFZtNTVNMXcxd2U0ZFNQQkcyTDdlSV9zdFhWbW4ydFlxdHdXZzZZ?oc=5\" target=\"_blank\">券商回购潮起，岂止是护盘而已？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XOWtvYjZBd0FUUHQxVWRSMEVTNGRMeGE0RWF4QlFWcmw3Z0hsM0lsN0RCRWJfazZuNFVJRHo4WlUzT0x5ZFZtNTVNMXcxd2U0ZFNQQkcyTDdlSV9zdFhWbW4ydFlxdHdXZzZZ?oc=5",
-      "published": "Mon, 20 Jul 2026 03:04:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "今日盘中突破半年线个股 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iRXdFekVsR0hQblRYaF96S0pKS25HN0lZczRlbnJubEZabFF0LXZ0NFFqcTExRE05MjY0X1A5UUt0TUd0VXU4RURIb0prc3NQYi1RQ1NkWWZ1bGUta2t2X1hFU2JCQQ?oc=5\" target=\"_blank\">今日盘中突破半年线个股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iRXdFekVsR0hQblRYaF96S0pKS25HN0lZczRlbnJubEZabFF0LXZ0NFFqcTExRE05MjY0X1A5UUt0TUd0VXU4RURIb0prc3NQYi1RQ1NkWWZ1bGUta2t2X1hFU2JCQQ?oc=5",
-      "published": "Mon, 20 Jul 2026 03:33:14 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "国投瑞银招财灵活配置混合型证券投资基金2026年第2季度报告_ 基金公告 - 天天基金",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE0xRVRQblZHZ1pCYmZGa0RUNFhlOHkzT0pJZWdqMmNSclZuNzEyYUdKSTJpU1c5UWR5Y255RERWMFBzSnkwckVtT2syTFN3NmZkR2JOdl9jRW1OZmFmUllaNzQtVnpTQ3UzZzA2LUxOcTNWa29Hemc?oc=5\" target=\"_blank\">国投瑞银招财灵活配置混合型证券投资基金2026年第2季度报告_ 基金公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xRVRQblZHZ1pCYmZGa0RUNFhlOHkzT0pJZWdqMmNSclZuNzEyYUdKSTJpU1c5UWR5Y255RERWMFBzSnkwckVtT2syTFN3NmZkR2JOdl9jRW1OZmFmUllaNzQtVnpTQ3UzZzA2LUxOcTNWa29Hemc?oc=5",
-      "published": "Mon, 20 Jul 2026 03:51:01 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "鹏华价值共赢两年持有期混合：2026年第二季度利润5107.65万元 净值增长率14.36% - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlWkRCdzFyaWY5MThJTk1mWGtQWnoyUWJaNE1RNkZ5aGtMZDRMREptdXZLLS1TVkg1Y0VlSU9OUUJqeHUwa1A2YUNOeXNoTEQyWVdkcHhRQS14UDk4dWpnYU1lQVExUQ?oc=5\" target=\"_blank\">鹏华价值共赢两年持有期混合：2026年第二季度利润5107.65万元 净值增长率14.36%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlWkRCdzFyaWY5MThJTk1mWGtQWnoyUWJaNE1RNkZ5aGtMZDRMREptdXZLLS1TVkg1Y0VlSU9OUUJqeHUwa1A2YUNOeXNoTEQyWVdkcHhRQS14UDk4dWpnYU1lQVExUQ?oc=5",
-      "published": "Mon, 20 Jul 2026 04:33:26 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "兴华景明混合型证券投资基金2026年第2季度报告 查看PDF原文 - 天天基金",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9obGYxckNNVWtDSlR3ZlZSLTU4d0E1Q0NFNWd0X0tQZDNvRDh6V3BSMzdnbXExOEsyWndKTUxTTW9aUDZvc2JlUHItbS1jR2x5X2o1ZzE5TjU1Nk84OTU4NkJldFJUVWdMSC05OFY0TnhGZUd3T1E?oc=5\" target=\"_blank\">兴华景明混合型证券投资基金2026年第2季度报告 查看PDF原文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9obGYxckNNVWtDSlR3ZlZSLTU4d0E1Q0NFNWd0X0tQZDNvRDh6V3BSMzdnbXExOEsyWndKTUxTTW9aUDZvc2JlUHItbS1jR2x5X2o1ZzE5TjU1Nk84OTU4NkJldFJUVWdMSC05OFY0TnhGZUd3T1E?oc=5",
-      "published": "Mon, 20 Jul 2026 03:50:58 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "创金合信新能源汽车股票A：2026年第二季度利润1.86亿元 净值增长率39.4% - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kdTYyWUVCZ2VvWkY1MkR1M3UtZXR1Q1NwQ24wMU1jcDBvRlp4bG1rVmFkSHFNMlpLYzAtVzZLUGN3N3RzamZVQ2RTTUtqVWFTWFc3TjFkRmZ6OEhnNlpQbE5RZVQ5Zw?oc=5\" target=\"_blank\">创金合信新能源汽车股票A：2026年第二季度利润1.86亿元 净值增长率39.4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kdTYyWUVCZ2VvWkY1MkR1M3UtZXR1Q1NwQ24wMU1jcDBvRlp4bG1rVmFkSHFNMlpLYzAtVzZLUGN3N3RzamZVQ2RTTUtqVWFTWFc3TjFkRmZ6OEhnNlpQbE5RZVQ5Zw?oc=5",
-      "published": "Mon, 20 Jul 2026 04:55:54 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "华兴证券：首次覆盖明略科技(02718-W)，关注其智能体AI的变现与增长潜力 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5bE00a3dScEs2RHZFMzhFZlJoTy1sSnpBSVFIWTA5M0dRVTRLSjJEb0NQa0xkMk9aOG9QaEJyY2Y0ZnNERElKMHFWSkhDR013dVVBSXFEQmNVMDJtQk5sQ1VDX25ZZw?oc=5\" target=\"_blank\">华兴证券：首次覆盖明略科技(02718-W)，关注其智能体AI的变现与增长潜力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5bE00a3dScEs2RHZFMzhFZlJoTy1sSnpBSVFIWTA5M0dRVTRLSjJEb0NQa0xkMk9aOG9QaEJyY2Y0ZnNERElKMHFWSkhDR013dVVBSXFEQmNVMDJtQk5sQ1VDX25ZZw?oc=5",
-      "published": "Mon, 20 Jul 2026 03:54:21 GMT"
+      "source": "同花顺",
+      "title": "中国软件国际午后涨超20%",
+      "summary": "中国软件国际午后涨超20%。消息面上，公司与北京月之暗面科技有限公司正式签署“登月计划”之Token分成及联合创新合作协议。",
+      "link": "https://news.10jqka.com.cn/20260720/c678285623.shtml",
+      "published": "Mon, 20 Jul 2026 05:02:54 GMT"
     },
     {
       "source": "同花顺",
@@ -271,74 +145,109 @@
       "published": "Mon, 20 Jul 2026 04:31:37 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "AI机器人上新了 一大波机器人同事即将上岗",
-      "summary": "2026世界人工智能大会（WAIC）正在上海举行，AI正从前沿技术进化为智能伙伴，让每个人、每个产业用得上、用得起。本届WAIC发布了10件“镇馆之宝”。商用全尺寸人形机器人远征A3 Ultra成为其中唯一一款具身智能机器人产品。全球首款量产版载人变形机甲GD01在本届WAIC首展。这款“现实版高达”采用自研高精度伺服驱动系统与高强度结构，自研变形控制算法，攻克了传统载人机器人形态单一、复杂地形通过性差的行业难题。全球首个可变形个人机器人来了！区别于传统单一形态机器人，启元T1最大的特点在于能够根据环境变化，自主切换不同运动形态，以适应更加丰富的生活场景，以可变形态设计锚定家用多场景需求，为大众市场再次定义个人机器人全新产品形态。今年5月，上海明确提出，加速人形机器人等创新产品突破产业规模化发展瓶颈。到2028年，要推动大型企业实现智能工厂全覆盖，机器人密度提高到600台/万人。力争到“十五五”末推动10万台人形机器人进入工厂。从供给端的产量突破到需求端的工厂部署，人形机器人正在从“大型玩具”转变为真正的生产力工具。（央视财经）",
-      "link": "https://news.10jqka.com.cn/20260720/c678285328.shtml",
-      "published": "Mon, 20 Jul 2026 04:31:15 GMT"
+      "source": "财联社",
+      "title": "凯投宏观：若霍尔木兹海峡持续关闭 布油将从目前的84美元升至150美元",
+      "summary": "【凯投宏观：若霍尔木兹海峡持续关闭 布油将从目前的84美元升至150美元】财联社7月20日电，随着美军和伊朗方面的战火重新被点燃，全球石油运输咽喉要道——霍尔木兹海峡再次陷入危机，威胁着全球经济。凯投宏观指出，如果霍尔木兹海峡水道持续关闭，原油价格最初可能上涨至120美元。在更不利的情景下，布伦特原油将从目前约84美元升至150美元，而欧洲天然气价格则可能从每兆瓦时54欧元上涨至90欧元。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:24:18 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "国际精密是否间接进入智元机器人的供应链？中国宝安回应",
-      "summary": "有投资者向中国宝安（000009.SZ）提问，有报道公司旗下的国际精密（00929.HK），谐波减速器及关节模组和丝杠产品有供货到具身机器人意优科技，是否意味间接进入智元机器人的供应链，不知道现在对意优科技的出货量有多少?\n7月20日，公司回答表示，国际精密与意优科技有业务合作，但目前业务占比不大。",
-      "link": "https://news.10jqka.com.cn/20260720/c678285326.shtml",
-      "published": "Mon, 20 Jul 2026 04:30:49 GMT"
+      "source": "财联社",
+      "title": "中国信通院牵头的ITU算电协同2项标准成功立项",
+      "summary": "【中国信通院牵头的ITU算电协同2项标准成功立项】财联社7月20日电，国际电信联盟标准化局第五研究组（ITU-T SG5）全会近日于法国索菲亚安提波利斯召开，中国信通院牵头提出的“面向减缓气候变化的算力电力协同框架与要求”及“面向减缓气候变化的算力电力协同平台技术要求”2项议题成功立项，同时主导的2项绿色低碳领域国际标准顺利完成结项。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:20:42 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "京东网上离境退税三项核心服务升级正式落地",
-      "summary": "7月20日，京东网上离境退税三项核心服务升级正式落地——离境退税办理全程无纸化、境外银行卡支付和“即买即退”。其中，京东支付“外卡内绑”成为此次升级的重要组成部分，进一步打通境外旅客购物支付与退税到账全流程，实现从支付到退税一张境外卡即可完成。(券中社)",
-      "link": "https://news.10jqka.com.cn/20260720/c678285285.shtml",
-      "published": "Mon, 20 Jul 2026 04:24:48 GMT"
+      "source": "财联社",
+      "title": "韩国今年人均GDP有望达3.9万美元 增幅7.6%",
+      "summary": "【韩国今年人均GDP有望达3.9万美元 增幅7.6%】财联社7月20日电，得益于半导体旺季推动出口增加，韩国今年人均GDP有望大幅提升。综合韩国财政经济部、韩国银行和国家数据处19日的数据，今年韩国人均GDP有望达到3.9164万美元，同比增加2750美元，增幅为7.6%，增幅为2021年（11.5%）以来近5年之最。若韩元对美元年平均汇率低于1456.1韩元，届时韩国人均GDP有望迈入“4万美元时代”。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:20:32 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "上半年我国创新药对外技术授权交易额创新高",
-      "summary": "工业和信息化部运行监测协调局局长陶青20日表示，今年上半年，我国创新药高质量成果不断涌现，38款创新药获批上市，其中国产创新药31款。创新药对外技术授权再创新高，交易总额超过1000亿美元。 陶青在当天举行的国新办新闻发布会上说，面对复杂严峻的外部环境和行业转型压力，我国医药工业展现出强大韧性。1至6月，规模以上医药工业增加值同比增长6.4%，其中，生物制品增速达到两位数，成为驱动行业发展提速的主要引擎。医药出口交货值超过2100亿元，同比增长9%，出口结构不断优化，化学制剂、生物制品等高附加值产品占比近20%，出口结构正从以原料药为主，向具有高附加值的制剂产品加速切换。 此外，数智技术、绿色技术赋能医药工业加速转型升级。全面协同推进医药工业数字化、智能化改造，梯度培育医药智能工厂，支持21家医药工业企业建设卓越级智能工厂，加快推进医药工业绿色低碳转型，累计培育300余家绿色工厂。 陶青表示，下一步将加快《医药工业发展“十五五”规划》宣贯落实，集中力量打造“创新医药”“数智医药”“普惠医药”和“开放医药”，继续加强原始技术和关键核心技术攻关，运用人工智能全面赋能产业发展。加强对“一老一",
-      "link": "https://news.10jqka.com.cn/20260720/c678285282.shtml",
-      "published": "Mon, 20 Jul 2026 04:24:35 GMT"
+      "source": "财联社",
+      "title": "黑石集团同意投资韩国机器人供应商Futronic",
+      "summary": "【黑石集团同意投资韩国机器人供应商Futronic】财联社7月20日电，黑石集团7月20日宣布，旗下关联私募股权基金将对Futronic进行“重大投资”，Futronic是一家生产用于工业机器人和汽车行业的高精度执行器的韩国供应商。根据声明，Futronic创始人Jin-ho Ko将继续担任董事长兼首席执行官，并与黑石集团合作，加速公司全球发展。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:18:23 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "建立全链条服务能力 我国在孵科技型企业和团队数量超42.5万家",
-      "summary": "在国务院新闻办公室今天举行的新闻发布会上，工业和信息化部相关负责人表示，目前，我国正聚焦畅通成果产业化渠道和科技型企业孵化链条，以培育壮大科技服务业为抓手，着力推动科技创新和产业创新更深度融合。工业和信息化部总工程师王卫明介绍，建立从“研发到中试再到孵化”的全链条服务能力。在研发服务阶段，新成立2家国家制造业创新中心，累计布局达到32家，持续提升行业关键共性技术的供给能力。在中试服务阶段，形成了由21家国家级制造业中试平台、331家重点培育平台和1800多家储备平台组成的全国制造业中试服务网络。在孵化服务阶段，认定并发布首批14家卓越级和402家标准级工业和信息化部科技型企业孵化器。截至目前，在孵企业和团队数量超过42.5万家。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260720/c678285270.shtml",
-      "published": "Mon, 20 Jul 2026 04:23:13 GMT"
+      "source": "财联社",
+      "title": "电力板块持续走高 华能蒙电等近十股涨停",
+      "summary": "【电力板块持续走高 华能蒙电等近十股涨停】财联社7月20日电，午后电力板块持续走高，华能蒙电封涨停，此前立新能源3连板，华银电力、乐山电力、桂冠电力2连板，九洲集团涨超10%，华电辽能、京能电力逼近涨停。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:17:58 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "三峡能源：控股股东三峡集团拟增持15亿至30亿元",
-      "summary": "三峡能源公告，控股股东三峡集团计划于2026年7月20日～2027年7月19日通过上海证券交易所系统以集中竞价、大宗交易等方式增持公司A股，拟增持股份金额不低于人民币15亿元、不高于人民币30亿元，资金来源为自有及自筹资金。本次增持不设定价格区间。",
-      "link": "https://news.10jqka.com.cn/20260720/c678285247.shtml",
-      "published": "Mon, 20 Jul 2026 04:20:18 GMT"
+      "source": "财联社",
+      "title": "长治市应急管理局党委书记、局长张文波接受审查调查",
+      "summary": "【长治市应急管理局党委书记、局长张文波接受审查调查】财联社7月20日电，长治市应急管理局党委书记、局长张文波涉嫌严重违纪违法，目前正接受省纪委监委纪律审查和监察调查。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:17:49 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "上汽集团：控股股东承诺6个月内不以任何方式减持其持有的公司股份",
-      "summary": "上汽集团公告，收到控股股东承诺函，上汽总公司承诺自承诺函签署之日（2026年7月20日）起6个月内，不以任何方式减持其持有的公司股份，包括因公司资本公积转增股本、派送股票红利等事项取得的新增股份。",
-      "link": "https://news.10jqka.com.cn/20260720/c678285235.shtml",
-      "published": "Mon, 20 Jul 2026 04:19:23 GMT"
+      "source": "财联社",
+      "title": "海南：“十五五”时期全省共谋划公路水路项目223个 总投资1363亿元",
+      "summary": "【海南：“十五五”时期全省共谋划公路水路项目223个 总投资1363亿元】财联社7月20日电，从省交通运输厅获悉，《海南省“十五五”综合交通运输（公路水路）发展规划》日前已正式印发实施，切实推进人享其行、物畅其流，为海南自由贸易港建设夯实交通根基。根据规划，“十五五”时期，全省共谋划公路水路项目223个，总投资1363亿元。其中，公路及枢纽项目130个，投资1030.9亿元；水路项目83个，投资312.9亿元；数字化转型项目10个，投资19.2亿元。 (海南日报)",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:16:32 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "韩国KOSPI指数跌幅扩大至5%",
-      "summary": "韩国KOSPI指数跌幅扩大至5%，SK海力士跌逾5%，三星电子跌逾4%。",
-      "link": "https://news.10jqka.com.cn/20260720/c678285232.shtml",
-      "published": "Mon, 20 Jul 2026 04:18:51 GMT"
+      "source": "财联社",
+      "title": "财联社7月20日电，花旗集团将德意志银行目标价从29欧元上调至31.5欧元。",
+      "summary": "财联社7月20日电，花旗集团将德意志银行目标价从29欧元上调至31.5欧元。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:14:02 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "小商品城：董事长提议2026年中期利润分配不低于净利润25%",
-      "summary": "小商品城公告，公司董事会收到董事长陈德占先生关于制定2026年中期利润分配方案的提议。为积极回报投资者，结合公司经营发展、盈利水平及现金流等因素，董事长提议在符合相关法律法规及《公司章程》前提下，以未来实施2026年度中期利润分配方案的股权登记日公司总股本为基数，公司2026年度中期利润分配金额不低于公司2026年半年度归属于上市公司股东的净利润的25%。具体方案将由董事会根据半年度财务情况等在年度股东会授权范围内依法制定，并履行审批及信披义务。该方案尚需提交董事会审议通过后方可实施。",
-      "link": "https://news.10jqka.com.cn/20260720/c678285094.shtml",
-      "published": "Mon, 20 Jul 2026 04:17:08 GMT"
+      "source": "财联社",
+      "title": "日本自卫队驻地发生火灾",
+      "summary": "【日本自卫队驻地发生火灾】财联社7月20日电，据日本广播协会（NHK）报道， 当地时间今天（7月20日）上午11点30分左右，也就是北京时间10点30分左右，横跨琦玉县朝霞市和东京练马区的日本陆上自卫队朝霞驻地发生火灾，驻地上方冒出黑烟。据朝霞驻地方面消息，初步信息显示，驻地内垃圾堆放处起火，随后蔓延至相邻的仓库。警方及消防部门正在对起火原因等展开调查。据了解，朝霞驻地被视为日本陆上自卫队的“中枢神经”，驻有陆上总队司令部等单位。 (CCTV国际时讯)",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:10:48 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "我国电子信息制造业保持快速增长态势，盈利能力显著提升",
-      "summary": "在国务院新闻办公室今天举行的新闻发布会上，相关负责人介绍，今年以来，我国电子信息制造业继续保持快速增长态势，盈利能力显著提升，产业提质升级成效不断显现，实现“十五五”时期良好开局。工业和信息化部新闻发言人、运行监测协调局局长陶青介绍，规模以上计算机、通信和其他电子设备制造业增加值、营业收入均实现两位数增长。今年上半年，生产同比增长14.8%，投资同比增长6.5%；前5个月实现营业收入超7.5万亿元，同比增长17.1%；利润超4200亿元，较上年同期翻一番。上半年，电子信息制造业在技术和产品上创新亮点纷呈。一批人工智能终端企业，凭借灵活的市场机制和完善的产业链配套体系推出AI乐器、AI摄像头、AI耳机等多款产品，丰富消费市场选择。北斗独立定位芯片攻关突破取得新进展，北斗产品种类持续丰富，出货量快速攀升。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260720/c678285087.shtml",
-      "published": "Mon, 20 Jul 2026 04:16:30 GMT"
+      "source": "财联社",
+      "title": "伊朗方面称该国多地遭美军袭击",
+      "summary": "【伊朗方面称该国多地遭美军袭击】财联社7月20日电，据伊朗方面消息，当地时间7月20日凌晨，伊朗西南部胡齐斯坦省霍梅尼港附近遭到美军导弹袭击。消息还称，当天凌晨2时35分左右，伊朗东阿塞拜疆省省会城市大不里士西南区的军事区遭到美军袭击，引发剧烈爆炸。袭击未造成平民受伤或死亡。当天凌晨，伊朗西南部马赫沙赫尔港、霍梅尼港以及南部港口城市锡里克多次传出爆炸声。 (央视新闻)",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:07:04 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月20日电，中国软件国际涨幅扩大至30%，公司与月之暗面正式签署“登月计划”之Token分成及联合创新合作协议。",
+      "summary": "财联社7月20日电，中国软件国际涨幅扩大至30%，公司与月之暗面正式签署“登月计划”之Token分成及联合创新合作协议。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:06:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月20日电，普睿司曼与莫仕签订规模最高达55亿欧元的光缆合作协议。",
+      "summary": "财联社7月20日电，普睿司曼与莫仕签订规模最高达55亿欧元的光缆合作协议。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:06:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "有色·铝概念异动拉升 中国铝业逼近涨停",
+      "summary": "【有色·铝概念异动拉升 中国铝业逼近涨停】财联社7月20日电，午后有色·铝概念异动拉升，中国铝业逼近涨停，天山铝业、华峰铝业、神火股份、焦作万方、中孚实业、云铝股份涨幅靠前。消息面上，中国铝业发布公告，控股股东中国铝业集团及其一致行动人计划在未来12个月内增持公司A股及H股股份，增持金额不低于10亿元，不超过20亿元，增持股份数量不超过公司总股本的2%。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:05:36 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月20日电，中国软件国际午后涨超25%，公司与月之暗面正式签署“登月计划”之Token分成及联合创新合作协议。",
+      "summary": "财联社7月20日电，中国软件国际午后涨超25%，公司与月之暗面正式签署“登月计划”之Token分成及联合创新合作协议。",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 05:01:08 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【机构调研】新造船价指数周环比上行，这家公司一季度新获20艘船舶建造订单",
+      "summary": "",
+      "link": "",
+      "published": "Mon, 20 Jul 2026 04:58:17 GMT"
     },
     {
       "source": "财联社",
@@ -376,109 +285,11 @@
       "published": "Mon, 20 Jul 2026 04:29:36 GMT"
     },
     {
-      "source": "财联社",
-      "title": "三峡能源：控股股东拟以15亿元—30亿元增持公司股份",
-      "summary": "【三峡能源：控股股东拟以15亿元—30亿元增持公司股份】财联社7月20日电，三峡能源午间公告，控股股东中国长江三峡集团有限公司（简称“三峡集团”）计划在未来12个月内通过二级市场增持公司股份，包括集中竞价、大宗交易等交易方式，增持金额不低于15亿元、不高于30亿元,本次增持不设置固定价格区间，结合资本市场行情择机开展股票增持，资金来源为三峡集团自有资金或自筹资金。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:23:38 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "红塔证券：董事长提议公司以5000万元—1亿元回购股份",
-      "summary": "【红塔证券：董事长提议公司以5000万元—1亿元回购股份】财联社7月20日电，红塔证券午间公告，董事长景峰提议红塔证券以自有资金以集中竞价方式回购公司部分股份，回购的股份将用于减少公司注册资本，以维护公司市场价值，提升股东权益。回购股份的资金总额不低于5000万元（含），不超过1亿元（含）。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:20:37 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "上汽集团：控股股东承诺6个月内不以任何方式减持其持有的公司股份",
-      "summary": "【上汽集团：控股股东承诺6个月内不以任何方式减持其持有的公司股份】财联社7月20日电，上汽集团公告，收到控股股东承诺函，上汽总公司承诺自承诺函签署之日（2026年7月20日）起6个月内，不以任何方式减持其持有的公司股份，包括因公司资本公积转增股本、派送股票红利等事项取得的新增股份。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:17:49 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "韩国KOSPI指数跌幅扩大至5%",
-      "summary": "【韩国KOSPI指数跌幅扩大至5%】财联社7月20日电，韩国KOSPI指数跌幅扩大至5%，现报6478.66点。三星电子跌逾5%，SK海力士跌超4%。<br /><img src=\"https://image.cls.cn/images/20260720/6d46beBYy9_1169x1359.jpg\" />",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:17:36 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国太保：将继续投资科技成长、消费、新能源等领域股票及ETF",
-      "summary": "【中国太保：将继续投资科技成长、消费、新能源等领域股票及ETF】财联社7月20日电，中国太保午间公告，今年以来，公司持续发挥保险资金长期投资优势，加大权益配置比例。后续将继续投资科技成长、消费、新能源等领域股票及ETF，支持培育和发展新质生产力，做真正的市场耐心资本。2026年，公司着力优化分红节奏，积极筹备中期利润分配工作，根据公司2025年度股东会决议，授权董事会决定2026年中期利润分配方案，增强分红稳定性、持续性和可预期性，进一步提升投资者获得感。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:15:05 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国软件国际：与月之暗面签署Token分成及联合创新合作协议",
-      "summary": "【中国软件国际：与月之暗面签署Token分成及联合创新合作协议】财联社7月20日电，中国软件国际公告，近日，公司已与北京月之暗面科技有限公司正式签署“登月计划”之Token分成及联合创新合作协议，是公司面向高专业价值Token运营商转型的关键战略举措。双方将依托各自核心优势，围绕企业服务领域智能体人工智能开展全方位深度合作，合力打通大模型商业化落地的最后一环。本次合作中，中软国际将充分发挥自身在企业服务领域沉淀的丰富业务场景、行业专业经验，以及规模化落地交付能力，同时发挥在行业应用、代码生成与程序开发实操方面的优势；月之暗面则依托其在通用大模型领域领先的算法架构与前沿技术研发实力，构建强强联合、优势互补的协作模式。双方将以中软国际自研的企业智能操作系统 AllMeta 平台，搭配月之暗面 K2.7 Code、K3 大模型及其后续迭代版本作为核心技术底座，共同推动企业级智能体相关技术、产品与解决方案在能源电力、金融等行业实现创新应用与规模化商业落地。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:10:02 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "正泰电器：控股股东提议实施2026年度中期分红 拟10派0.5元",
-      "summary": "【正泰电器：控股股东提议实施2026年度中期分红 拟10派0.5元】财联社7月20日电，正泰电器午间公告，公司控股股东正泰集团提议实施2026年度中期分红，向全体股东每10股派发现金红利0.5元（含税），不送红股，不以资本公积金转增股本。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:08:45 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "水利部：广西东部部分地区发生山洪灾害可能性大",
-      "summary": "【水利部：广西东部部分地区发生山洪灾害可能性大】财联社7月20日电，水利部举行会商，分析研判全国的防汛形势，安排部署暴雨洪水防御工作。据预报，7月20日至7月22日，受上游来水影响，松花江流域松花江干流肇源江段、辽河流域辽河中下游干流及浑河、海河流域蓟运河等主要河流将维持超警；受降雨影响，珠江流域西江中游干流及支流郁江、柳江、桂江、贺江，长江中下游及洞庭湖水系湘江资水，鄱阳湖水系赣江修河昌江乐安河等主要河流将出现涨水过程，暴雨区内部分中小河流可能发生超警洪水。7月20日8时至7月21日8时，广西东部部分地区发生山洪灾害可能性大。水利部发布橙色山洪灾害气象预警，提醒暴雨洪水影响地区社会公众注意防范。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:07:57 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "伊朗革命卫队称打击科威特境内美军目标",
-      "summary": "【伊朗革命卫队称打击科威特境内美军目标】财联社7月20日电，伊朗伊斯兰革命卫队发布声明称，革命卫队当天打击了科威特境内多处美军目标。声明称，革命卫队当天使用无人机摧毁了美军位于科威特的一处预警雷达系统。在另一次行动中，伊朗打击了美军在科威特的阿里·萨利姆空军基地，击中一处飞机零件仓库、一座用于停放MQ－9无人机的机库，摧毁数架无人机。 (央视新闻)",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:05:24 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "海尔智家：已耗资18.18亿元回购8706.22万股公司股份",
-      "summary": "【海尔智家：已耗资18.18亿元回购8706.22万股公司股份】财联社7月20日电，海尔智家发布回购A股股份的进展公告，本次回购实施起始日（2026年3月27日）至2026年7月17日，公司已累计回购股份8706.22万股，占公司总股本的比例为0.928%，购买的最高价为22.4元/股、最低价为19.6元/股，支付的金额为18.18亿元。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:02:33 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月20日午间新闻精选",
-      "summary": "【财联社7月20日午间新闻精选】\n1、截至午间收盘，沪指涨1.18%，深证成指涨0.21%，创业板指涨1.13%。恒生科技指数涨2.91%，恒生指数涨2.07%。\n2、工信部在新闻发布会上介绍，将印发算力标准体系建设指南，推动建立算力市场化定价等标准。持续实施新一轮机械、汽车等行业稳增长工作方案，全方位扩大优质供给和有效需求。将把新一代通信网规划建设作为推动信息通信业发展的重点。\n3、国家能源局综合司发布《关于深入推进农村能源革命 开展村镇微能网建设试点工作的通知》，其中提到，到2028年底，在全国范围内建成一批村镇微能网试点项目。\n4、伊朗伊斯兰革命卫队在一份公告中表示，伊朗精准打击并摧毁位于约旦阿兹拉克地区的20处美军藏身地点，并打死数十名美军人员。\n5、美军中央司令部表示，美军于美东时间当晚10时完成连续第九晚对伊朗的打击行动。美军中央司令部称，此轮行动袭击了伊朗军事指挥中心、防空和沿海监视设施、海上作战能力、导弹和无人机发射场以及通信网络，旨在进一步削弱伊朗袭击经霍尔木兹海峡通行的商船和平民船员的能力。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:01:43 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "港股午评：恒生科技指数涨2.91% 恒生指数涨2.07%",
-      "summary": "【港股午评：恒生科技指数涨2.91% 恒生指数涨2.07%】财联社7月20日电，港股午间收盘，恒生科技指数涨2.91%，恒生指数涨2.07%。科网股拉升，阿里巴巴涨超5%，腾讯、美团涨近4%，京东、小米涨逾2%。光通讯、存储半导体股多数活跃，南方两倍做多海力士涨逾19%，南方两倍做多三星电子涨近17%，长飞光纤光缆涨超8%，华虹宏力涨近5%。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 04:00:26 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "伊朗西部地区发生5.5级地震",
-      "summary": "【伊朗西部地区发生5.5级地震】财联社7月20日电，据欧洲地中海地震中心消息，当地时间7月20日，伊朗西部地区发生5.5级地震。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 03:59:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "华东医药：董事长提议实施2026年中期利润分配方案 拟10派3.5元",
-      "summary": "【华东医药：董事长提议实施2026年中期利润分配方案 拟10派3.5元】财联社7月20日电，华东医药午间公告，公司董事长吕梁提议实施2026年中期利润分配方案，向全体股东每10股派3.5元人民币现金（含税），不送红股，不以资本公积转增股本。以公司目前总股本为基数计算，预计2026年中期分红总额为6.14亿元。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 03:59:16 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "长川科技：实控人提议制定2026年中期利润分配方案 拟10派1元",
-      "summary": "【长川科技：实控人提议制定2026年中期利润分配方案 拟10派1元】财联社7月20日电，长川科技午间公告，公司实际控制人、董事长兼总经理赵轶提议制定公司2026年中期利润分配方案，向全体股东每10股派发现金红利1元（含税），不送红股，不以资本公积转增股本。",
-      "link": "",
-      "published": "Mon, 20 Jul 2026 03:58:37 GMT"
+      "source": "华尔街见闻",
+      "title": "7家央企领衔 A股回购增持潮来了",
+      "summary": "<p>继7月19日晚间中国国新、中国诚通两大国有资本运营公司宣布增持A股后，7月20日一批A股上市公司密集披露回购、增持计划，尤其是央企控股上市公司，纷纷投入真金白银，为市场注入信心与活力。7月20日早间，中国铝业、中国中车、国电南瑞、中煤能源、国投电力等5家央企控股上市公司先后发布公告，披露控股股东增持或上市公司回购计划。另外，伴随增持浪潮推进，回购计划也在同步进行。国电南瑞董事长提议5亿元至10亿元回购。红塔证券董事长提议回购5000万元至1亿元。</p>",
+      "link": "https://wallstreetcn.com/livenews/3136591",
+      "published": "Mon, 20 Jul 2026 05:08:09 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -502,32 +313,11 @@
       "published": "Mon, 20 Jul 2026 03:32:30 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "Anthropic被曝测试AMD GPU，AI巨头正在系统性降低单一算力依赖",
-      "summary": "<p>Anthropic正在将AMD纳入其算力供应商体系。据芯片行业分析机构SemiAnalysis解读，AMD AI业务高级总监在公开GitHub代码中披露了相关信息，<strong>显示Anthropic将成为AMD客户。</strong>这一动向表明Anthropic正在主动拓宽芯片来源，降低对单一供应商的依赖。</p>\n<p>周一，据SemiAnalysis在社交媒体平台X上发布的分析帖，<strong>该机构通过解读AMD AI高级总监公开发布的GitHub代码，得出Anthropic将采购AMD芯片的结论</strong>，SemiAnalysis在帖文中表示将进一步解释代码细节及相关背景。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/ce116b9d-f902-461b-b4f2-2f98dd71054f.png\" /></p>\n<p>若上述信息属实，AMD将获得一个此前由英伟达和谷歌主导的高端AI训练市场的重要新客户，同时也意味着Anthropic的算力基础设施布局正在向多元化方向加速演进。<",
-      "link": "https://wallstreetcn.com/articles/3777394",
-      "published": "Mon, 20 Jul 2026 03:21:28 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "字节游戏的AI试错，这回试出了路",
-      "summary": "<p>7月17日，字节游戏旗下朝夕光年发布了首款AI全流程制作的超写实修仙互动作品《不问凡尘》的第二支PV（Promotion Video）。&nbsp;</p>\n<p>这款修仙题材的买断制互动产品里，几乎所有的场景、人物、战斗动画都由Seedance等AI模型生成。&nbsp;</p>\n<p>从去年10月立项到今年以来两度发布PV，这仅用了不到1年的时间。</p>\n<p>日前，华尔街见闻·全天候科技与《不问凡尘》总制作人昕玠及其所在的团队江南工作室展开了一场深度对话。</p>\n<p>不到一年的开发周期背后，其实是团队和AI模型的共同成长。</p>\n<p>去年立项时，当时AI视频模型生成的人物还处在“人都不像人”的阶段，团队不得不像做Flash动画一样，一帧帧手插关键帧再交给模型链接。到今年春节，Seedance2.0正式发布后视频跨过“恐怖谷”阶段，模型开始能理解人物表演，制作效率才迎来质的飞跃。</p>\n<p><strong>即便如此，昕玠在交流中反复提到的一个词让人印象深刻：“勤奋”。</strong></p>\n<p>在AI工具日新月异的今天，这似乎是一个格格不入的词。</p>",
-      "link": "https://wallstreetcn.com/articles/3777397",
-      "published": "Mon, 20 Jul 2026 03:13:44 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "头部量化“迅猛加仓”，灵均投资公告两周内自购2亿",
-      "summary": "<p>当上证指数跌破3800点之际，头部量化机构公布大额的自购动作。</p>\n<p>灵均投资日前公告称，基于对中国资本市场长期稳健发展以及公司主动管理能力的坚定信心，公司及主要核心人员将在两周内使用自有资金合计人民币2亿元，申购旗下私募证券基金产品。</p>\n<p>这成为近期加仓A股的又一批机构。</p>\n<h2><strong>灵均投资宣布自购2亿元</strong></h2>\n<p>7月19日晚间，灵均投资公告申购旗下私募基金产品。</p>\n<p><strong>根据灵均投资发布的公告，公司及主要核心人员将在两周内，以自有资金参与申购旗下私募证券基金产品，金额合计达到2亿元。</strong></p>\n<p>公告称，此次申购是基于对中国资本市场长期稳健发展及公司主动管理能力的坚定信心，同时也是践行长期投资理念的重要举措。</p>\n<p>灵均投资表示，本次自有资金申购将严格遵循监管规定和合规要求，未来将持续勤勉尽职，与全体持有人“共担风险、共享收益”，努力为投资者创造长期价值。</p>\n<p>在私募行业中，管理人自购通常具有多重含义，一方面，自有资金与投资者资金共同进入产品，意味着管",
-      "link": "https://wallstreetcn.com/articles/3777395",
-      "published": "Mon, 20 Jul 2026 03:05:00 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "高盛解读新易盛财报：Q2利润大超预期，800G/1.6T 光模块出货量将持续提升",
-      "summary": "<p style=\"text-align: left;\">基于新易盛最新公布的上半年净利润预估，高盛全面上调了2026至2028年的利润预测，并上调新易盛12个月目标价。</p>\n<p style=\"text-align: left;\"><a href=\"https://wallstreetcn.com/articles/3777355\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">华尔街见闻</a>文章此前写道，新易盛7月19日披露2026年半年度业绩预告，预计2026年上半年归母净利润达70-80亿元，同比增长77.56%-102.93%，扣非净利润增速基本同步，主营增长成色充足。AI算力投资持续增长与产品结构优化为核心驱动力，高速率光模块需求强劲，公司作为产业链重要厂商持续受益于行业高景气。</p>\n<p style=\"text-align: left;\">据追风交易台消息，高盛在7月20日的研报中指出，受AI资本支出激增及产品结构向高速光模块升级的强力驱动，<strong>新易盛2026年二季度净利润指引中位数大幅超出预",
-      "link": "https://wallstreetcn.com/articles/3777393",
-      "published": "Mon, 20 Jul 2026 03:04:23 GMT"
+      "source": "第一财经",
+      "title": "进出口创新高，上海外贸如何打开增量空间",
+      "summary": "<figure><img alt=\"进出口创新高，上海外贸如何打开增量空间\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/f2d7e0a358fa8f4f362b683d643e2ae2.jpg\" /></figure><p>高技术产品上半年进出口同比增长21.6%。</p><p>上海今年上半年的外贸数据超出预期，创下历史新高。</p>\n\n<p>根据上海统计局的最新数据，今年上半年，上海市货物进出口总额2.55万亿元，同比增长18.6%。这一增速领先于全国平均水平（16.9%）。其中，出口额、进口额同比分别增长20.1%、17.4%。</p>\n\n<p><strong>高增长背后的支撑</strong></p>\n\n<p>高技术产品是上海外贸的重要增长动能，今年上半年进出口同比增长21.6%。其中，电子信息、高端装备产品进出口分别增长20.7%、26.5%。</p>\n\n<p>上海发改委研究院副院长马海倩对第一财经表示，今年上半年上海外贸高增长的背后，有三个核心支撑。一是产品结构持续优化。高技术产品出口增长34.5%，“新三样”出口",
+      "link": "https://www.yicai.com/news/103282578.html",
+      "published": "Mon, 20 Jul 2026 05:09:15 GMT"
     },
     {
       "source": "第一财经",
@@ -577,34 +367,6 @@
       "summary": "<figure><img alt=\"茅台调价后今日股价盘中大涨5%，白酒股集体跟涨\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/31EF74E5-E2F8-44FA-8E25-41FE8B11A6E3.jpg\" /></figure><p>茅台调价后股价回升。</p><p>飞天茅台年内二次提价落地后，贵州茅台（600519.SH）股价也随之上涨。今日盘中，茅台上涨超过5%，也带动白酒股集体大涨，古井贡酒（000596.SZ）涨停，多股涨幅超过5%。</p><p>7月17日晚，贵州茅台（600519.SH）宣布年内第二次对飞天茅台进行提价，i茅台平台零售价由1539元/瓶调整为1639元/瓶、销售合同价由1269元/瓶调整为1369元/瓶，对应上调幅度分别为6.5%、7.9%。据机构预测，根据飞天茅台各渠道销售占比测算，预计此次提价将贡献2026年收入增量约27亿元，利润增厚约16亿元，全年业绩确定性进一步提升。</p><p>今日开盘后茅台高开高走，截至11点13分，股价上涨5.25%，重回1300元。茅台也带动了白酒板块",
       "link": "https://www.yicai.com/news/103282415.html",
       "published": "Mon, 20 Jul 2026 03:34:07 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "部分重大项目下半年陆续开工，多专家预计基建投资增速将回升",
-      "summary": "<figure><img alt=\"部分重大项目下半年陆续开工，多专家预计基建投资增速将回升\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/07/ff8b63470e129e5d689af30f01cfc005.jpeg\" /></figure><p>2026年基建相关财政资金全年额度较为充足。</p><p>随着下半年财政资金投入基建节奏加快、相关项目加快推进，多位专家预期，下半年基建投资增速将有所回升。</p>\n\n<p>粤开证券首席经济学家罗志恒认为，从资金端看，2026年基建相关财政资金全年额度较为充足，下半年支出和发行进度有望明显提速，从而对基建投资形成更有力支撑。根据今年预算，预计6～12月，全国一般公共预算支出中四项基建支出规模约4.4万亿元，同比增长7.8%。另外，政府性基金支出中，6～12月新增专项债发行规模将达到约2.9万亿元，大部分资金支持基建项目建设。</p>\n\n<p>罗志恒分析称，从项目端看，今年上半年处于前期准备阶段的部分重大项目，有望在下半年陆续进入开工建设和投资实施阶段。为保障实现全年经济社会发展目标，地",
-      "link": "https://www.yicai.com/news/103282413.html",
-      "published": "Mon, 20 Jul 2026 03:28:52 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "工信部答一财：加强对重点群体用药保障",
-      "summary": "<figure><img alt=\"工信部答一财：加强对重点群体用药保障\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/ab54fea7c9fa666ed8c0365869938c7a.jpg\" /></figure><p>创新药对外技术授权创新高，上半年交易额超1000亿美元。</p><p>今年上半年，医药出口交货值超过2100亿元，同比增长9%，出口结构不断优化，化学制剂、生物制品等高附加值产品占比近20%，出口结构正从以原料药为主，向具有高附加值的制剂产品加速切换。</p>\n\n<p>7月20日，国务院新闻办举行发布会介绍2026年上半年工业和信息化发展情况。</p>\n\n<p>工信部新闻发言人、运行监测协调局局长陶青回答第一财经记者提问时表示，面对复杂严峻的外部环境和行业转型压力，医药工业展现出强大韧性。1—6月，规模以上医药工业增加值同比增长6.4%，其中，生物制品增速达到两位数，成为驱动行业发展提速的主要引擎。</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"h",
-      "link": "https://www.yicai.com/news/103282386.html",
-      "published": "Mon, 20 Jul 2026 03:09:53 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "A股，全线反攻！A50直线飙涨！中金：年内二次买点或已到来 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NRlhWQmg2ZzJRTkxpRGVzYVNhaE1zdUZXUHFvUTVvQnBPM2VRekItNzhwaGtoR1VuWjl4TGF4NEZBVEhaSTFfaHpHSHlKMGJLWGs0WlR0QkFYcm1E?oc=5\" target=\"_blank\">A股，全线反攻！A50直线飙涨！中金：年内二次买点或已到来</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NRlhWQmg2ZzJRTkxpRGVzYVNhaE1zdUZXUHFvUTVvQnBPM2VRekItNzhwaGtoR1VuWjl4TGF4NEZBVEhaSTFfaHpHSHlKMGJLWGs0WlR0QkFYcm1E?oc=5",
-      "published": "Mon, 20 Jul 2026 04:55:00 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "中国海油(SH600938)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzSnI0MzYxVEZjYWpEWWRpX0ZiaTFxNENhLVQwSm9zLU1mQ3JsUi1Ca05xcjBsNnRBSExjdHowbk94Vzg?oc=5\" target=\"_blank\">中国海油(SH600938)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAzSnI0MzYxVEZjYWpEWWRpX0ZiaTFxNENhLVQwSm9zLU1mQ3JsUi1Ca05xcjBsNnRBSExjdHowbk94Vzg?oc=5",
-      "published": "Mon, 20 Jul 2026 04:17:51 GMT"
     }
   ]
 }
