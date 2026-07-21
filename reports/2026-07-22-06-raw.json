@@ -1,15 +1,204 @@
 {
   "date": "2026-07-22",
   "hour": "06",
-  "total": 25,
-  "fetched_at": "2026-07-22T06:00:49.895655+08:00",
+  "total": 36,
+  "fetched_at": "2026-07-22T06:43:25.571870+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "建信中证A股指数增强发起C净值上涨3.21% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOQlRUTWd4MWxydW1yY2ZtOUgtX3dMVF96dXNOVGZKd0JCdW00MDZKVUppUkYwQnJINFNvNnVFU1RIcTZLMkE5Sm0tbFJEeTVqWkpaUVAwYmlwWU5SRm9RN0dkT1BYamthb182bi04Y1BpTDJKa2dmVklBZkZ3MktwVzR4MW9pMWxOMGpBczVfN3M3Q3NuNUl3?oc=5\" target=\"_blank\">建信中证A股指数增强发起C净值上涨3.21%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQlRUTWd4MWxydW1yY2ZtOUgtX3dMVF96dXNOVGZKd0JCdW00MDZKVUppUkYwQnJINFNvNnVFU1RIcTZLMkE5Sm0tbFJEeTVqWkpaUVAwYmlwWU5SRm9RN0dkT1BYamthb182bi04Y1BpTDJKa2dmVklBZkZ3MktwVzR4MW9pMWxOMGpBczVfN3M3Q3NuNUl3?oc=5",
+      "published": "Tue, 21 Jul 2026 22:15:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华夏MSCI中国A股国际通ETF净值上涨3.11% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUdMYzBhdTdzdVJiTzJFZGFGSmVvZG9yVUNnX25MTm5RUF96MEhRcE54b2JFaU9TaHRGNGt0ZUVzTjgwU3h2bmZJUlVIQl9OMTR3c29qS1llaFU0VUxhM3V0eU9KWW9jY3h0M0dPTnEycW5JVGRrVnlteGFtU2lZWG05cXZjdXhRZHI4SGtCZldrc3N1bjBV?oc=5\" target=\"_blank\">华夏MSCI中国A股国际通ETF净值上涨3.11%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUdMYzBhdTdzdVJiTzJFZGFGSmVvZG9yVUNnX25MTm5RUF96MEhRcE54b2JFaU9TaHRGNGt0ZUVzTjgwU3h2bmZJUlVIQl9OMTR3c29qS1llaFU0VUxhM3V0eU9KWW9jY3h0M0dPTnEycW5JVGRrVnlteGFtU2lZWG05cXZjdXhRZHI4SGtCZldrc3N1bjBV?oc=5",
+      "published": "Tue, 21 Jul 2026 22:34:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰恒生A股电网设备ETF发起联接A净值上涨3.11% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW1ZUjlGZUdqTk5IWF8wa01PZWp1dGtBNDJIWS1aYjBfUU92WmtwMmsweTBRNHEzdTRoOFhSSGI5ZW9kZHV0YmJRNVFGeXFXTlNvNXRkdGpPQXlsNU8xUUYtTHBTanM5QkVzZU1mZ1pyNkhnWmx6RnJGMTRDVlB3RlExWWFRWTV5RU5MbzJsMXhpUE5LbXVF?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF发起联接A净值上涨3.11%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdW1ZUjlGZUdqTk5IWF8wa01PZWp1dGtBNDJIWS1aYjBfUU92WmtwMmsweTBRNHEzdTRoOFhSSGI5ZW9kZHV0YmJRNVFGeXFXTlNvNXRkdGpPQXlsNU8xUUYtTHBTanM5QkVzZU1mZ1pyNkhnWmx6RnJGMTRDVlB3RlExWWFRWTV5RU5MbzJsMXhpUE5LbXVF?oc=5",
+      "published": "Tue, 21 Jul 2026 22:19:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "建信MSCI中国A股国际通ETF净值上涨3.07% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUE0WS1GNWtkV29yUlBUMDVFQlBqb2J5UWJ3Tm9ONXplWjl2RmQ3bnprVE5ZQzRnSFItWWtIeWpaN0NSSGNvRTRuSXRLYnNyV1FiR0lZV2dVdDRaY0FQTEs4aTV5RE9oMW9maDhIOXdIZFRCaTFlY2N0czVjbEhkUlUyRUx4Q2VIZzhiWWgtNldGRC1Ecy1R?oc=5\" target=\"_blank\">建信MSCI中国A股国际通ETF净值上涨3.07%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdUE0WS1GNWtkV29yUlBUMDVFQlBqb2J5UWJ3Tm9ONXplWjl2RmQ3bnprVE5ZQzRnSFItWWtIeWpaN0NSSGNvRTRuSXRLYnNyV1FiR0lZV2dVdDRaY0FQTEs4aTV5RE9oMW9maDhIOXdIZFRCaTFlY2N0czVjbEhkUlUyRUx4Q2VIZzhiWWgtNldGRC1Ecy1R?oc=5",
+      "published": "Tue, 21 Jul 2026 22:34:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "平安MSCI中国A股国际ETF净值上涨3.08% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnJlMC15N0R5Q3pFeXVvMDBpc2JOTmxTTGU5Z3dqa2pRam1zSktNcFZUTWV6dmtFSE95R1JaYXVMZmNWd3YtTHQyVGRkcFNsOHJnak9XZFJta0UtWEE1LThuZmNlQjdvZTlZcXE2Ml9GT19YWnNVNFMzclJUMTZKV1c5aHI3TXVSUFB0NG1relg2ZDRZZndB?oc=5\" target=\"_blank\">平安MSCI中国A股国际ETF净值上涨3.08%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnJlMC15N0R5Q3pFeXVvMDBpc2JOTmxTTGU5Z3dqa2pRam1zSktNcFZUTWV6dmtFSE95R1JaYXVMZmNWd3YtTHQyVGRkcFNsOHJnak9XZFJta0UtWEE1LThuZmNlQjdvZTlZcXE2Ml9GT19YWnNVNFMzclJUMTZKV1c5aHI3TXVSUFB0NG1relg2ZDRZZndB?oc=5",
+      "published": "Tue, 21 Jul 2026 22:34:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "南方MSCI中国A股国际通ETF净值上涨3.17% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXctbzJQMXByZDVEbWJ0OGpmMHlURU1TY1lBX3pKVGkwcG14WmtzaU0yd0dsMTA4T2xtaFNPM241UXhVZGtja19SVWdIbGFFTU1mOFV0cDNPMW9rOE1yZ3dtT2Q5X3NxMDd1Z3FXUlIxRXNGdDJSVk9EenB4blVIVkZpT0RUZlJHalBKcTExVlgxb0ZidzJN?oc=5\" target=\"_blank\">南方MSCI中国A股国际通ETF净值上涨3.17%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQXctbzJQMXByZDVEbWJ0OGpmMHlURU1TY1lBX3pKVGkwcG14WmtzaU0yd0dsMTA4T2xtaFNPM241UXhVZGtja19SVWdIbGFFTU1mOFV0cDNPMW9rOE1yZ3dtT2Q5X3NxMDd1Z3FXUlIxRXNGdDJSVk9EenB4blVIVkZpT0RUZlJHalBKcTExVlgxb0ZidzJN?oc=5",
+      "published": "Tue, 21 Jul 2026 22:34:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "南方MSCI中国A股国际通ETF发起联接C净值上涨3.03% - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQWktGUDhTaGY0T19uS0RpNHR0ZkVCSnB6UlZnclpfeTMxVFc3YXdId3dYSW1KdUtiZ2w4OHRmSFhNRFJHNTBac2xsUFFqM09uQXJmQzRMUWJPRnVpcjFNZy0wZXVaMno2eE9FclBnV3JYNkJURUllbk92R2hucHVmc3JCeHV5Sm9QRDFvNG1iT1NnM2liSWNR?oc=5\" target=\"_blank\">南方MSCI中国A股国际通ETF发起联接C净值上涨3.03%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWktGUDhTaGY0T19uS0RpNHR0ZkVCSnB6UlZnclpfeTMxVFc3YXdId3dYSW1KdUtiZ2w4OHRmSFhNRFJHNTBac2xsUFFqM09uQXJmQzRMUWJPRnVpcjFNZy0wZXVaMno2eE9FclBnV3JYNkJURUllbk92R2hucHVmc3JCeHV5Sm9QRDFvNG1iT1NnM2liSWNR?oc=5",
       "published": "Tue, 21 Jul 2026 21:16:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华泰柏瑞MSCI中国A股国际通ETF净值上涨3.06% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQOF9hUnU0dkxyUUlwd2JJVW5pQmNxQXVOZi1CQ3Zwcm9RS0Nudi1JQVViS3JUSE1pRTduRDFDSkNyb2VSMnRtN2NPTXA0QmtsU1ljdzVnUmN2Nnpmcm55VDJYOGhXMWdUaWxqVURVUTBPRks5dVloQTZlY1g2aThkVUlCT2psd3NZWjRSRS1OSWs5OFVNN2hZ?oc=5\" target=\"_blank\">华泰柏瑞MSCI中国A股国际通ETF净值上涨3.06%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOF9hUnU0dkxyUUlwd2JJVW5pQmNxQXVOZi1CQ3Zwcm9RS0Nudi1JQVViS3JUSE1pRTduRDFDSkNyb2VSMnRtN2NPTXA0QmtsU1ljdzVnUmN2Nnpmcm55VDJYOGhXMWdUaWxqVURVUTBPRks5dVloQTZlY1g2aThkVUlCT2psd3NZWjRSRS1OSWs5OFVNN2hZ?oc=5",
+      "published": "Tue, 21 Jul 2026 22:34:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国泰恒生A股电网设备ETF发起联接C净值上涨3.11% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWNaeGNjZC1lY1RtUW0zMHY4dWZ6Ry1ZTENrMERBRWV5bUQtZ3dQMHpHSWVySEhPR3l6d3JicWl0OTBNbzh5ZXNaLW9oZDlsbDhZd2Ezbm0xWExiNVBTM1NreDdvQUpPa2cyOXpCd2dTTDJGemFVUV81eVZaclZWM2NYejd2WXVLb2dqLUJPdGdmQW5ubkk4?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF发起联接C净值上涨3.11%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSWNaeGNjZC1lY1RtUW0zMHY4dWZ6Ry1ZTENrMERBRWV5bUQtZ3dQMHpHSWVySEhPR3l6d3JicWl0OTBNbzh5ZXNaLW9oZDlsbDhZd2Ezbm0xWExiNVBTM1NreDdvQUpPa2cyOXpCd2dTTDJGemFVUV81eVZaclZWM2NYejd2WXVLb2dqLUJPdGdmQW5ubkk4?oc=5",
+      "published": "Tue, 21 Jul 2026 22:19:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "宁沪高速中证指数ESG评级维持AA，位居A股同行业4家公司排名第1，与招商公路同级、高于山东高速等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmZiUzFMX2dfWmJ4TXhvOU02TU1OcGdZVnpLM2M4VWJsaWdDeTgwWm95UV9nd3dHUlpTQndlZUduTU1Fd05ERWtCS3JqR2ljRm82cEliUHJ3ZlFBSk9pVE9ZeWdYeEZ3UHZrVUpkU0FPWG5iS05jcV9ZWW5OUVppTkREMFl5Sk5fNkVON1l3?oc=5\" target=\"_blank\">宁沪高速中证指数ESG评级维持AA，位居A股同行业4家公司排名第1，与招商公路同级、高于山东高速等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbmZiUzFMX2dfWmJ4TXhvOU02TU1OcGdZVnpLM2M4VWJsaWdDeTgwWm95UV9nd3dHUlpTQndlZUduTU1Fd05ERWtCS3JqR2ljRm82cEliUHJ3ZlFBSk9pVE9ZeWdYeEZ3UHZrVUpkU0FPWG5iS05jcV9ZWW5OUVppTkREMFl5Sk5fNkVON1l3?oc=5",
+      "published": "Tue, 21 Jul 2026 22:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中国能建中证指数ESG评级较上年维持BBB，位居A股同行业8家公司排名第5，与中国电建等同级、高于四川路桥、低于隧道股份 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmxzZDlCYWRjTGdqUmlqVGxWbmlFdDRPTlBYTF9iSVhFT21wRWY5THRNaFI5WGQzUEl3OWRTT1U2THFEUmVxMGluaXA5TzhvQnZxVXAxbjlUVk9lOVRNRVM2NlAwNmxYUWwtMElDMDVua1RwbmU2SUswNUotZEluUEFGQWRXWnJWcnBRZjVB?oc=5\" target=\"_blank\">中国能建中证指数ESG评级较上年维持BBB，位居A股同行业8家公司排名第5，与中国电建等同级、高于四川路桥、低于隧道股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmxzZDlCYWRjTGdqUmlqVGxWbmlFdDRPTlBYTF9iSVhFT21wRWY5THRNaFI5WGQzUEl3OWRTT1U2THFEUmVxMGluaXA5TzhvQnZxVXAxbjlUVk9lOVRNRVM2NlAwNmxYUWwtMElDMDVua1RwbmU2SUswNUotZEluUEFGQWRXWnJWcnBRZjVB?oc=5",
+      "published": "Tue, 21 Jul 2026 22:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "白银有色中证指数ESG评级较上年维持CC，位居A股同行业9家公司排名第9名，高于北方铜业等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPejE3SVVKWkk3RXJsVktNbm1EWWZ6SVlkVmNsRkJtMVRNdFZWS2xsdTlfdVJaMFQzV2dtMVB6MzRzU0pIXy1tdktkTE8zb3BVQjNqalhKWlZQb2I2UEVWRnRnNmlLTXU3Y3ItVTNac0xFWXJqVDBnRnVVdXJiUjE3Z3B4N0tkcGk1elZ2VF9R?oc=5\" target=\"_blank\">白银有色中证指数ESG评级较上年维持CC，位居A股同行业9家公司排名第9名，高于北方铜业等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPejE3SVVKWkk3RXJsVktNbm1EWWZ6SVlkVmNsRkJtMVRNdFZWS2xsdTlfdVJaMFQzV2dtMVB6MzRzU0pIXy1tdktkTE8zb3BVQjNqalhKWlZQb2I2UEVWRnRnNmlLTXU3Y3ItVTNac0xFWXJqVDBnRnVVdXJiUjE3Z3B4N0tkcGk1elZ2VF9R?oc=5",
+      "published": "Tue, 21 Jul 2026 22:04:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "外资机构密集发声看好中国股市",
+      "summary": "7月以来，花旗集团、瑞银、渣打银行等多家外资机构密集发布市场观点，看好中国股市下半年表现。从评级上调到真金白银增配，外资机构正在用实际行动唱多做多中国资产。伴随资本市场系列对外开放举措持续推进，全球资本配置中国资产的通道将持续拓宽，中国资本市场对外资长线资金的“磁吸力”有望进一步增强。 （中证报）",
+      "link": "https://news.10jqka.com.cn/20260722/c678336328.shtml",
+      "published": "Tue, 21 Jul 2026 22:43:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日元汇率跌至1986年以来最低水平",
+      "summary": "21日纽约外汇市场上，日元汇率跌至1美元兑163日元区间，为1986年以来首次。受中东局势迅速紧张影响，市场避险情绪升温，推动了买入美元的走势。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336326.shtml",
+      "published": "Tue, 21 Jul 2026 22:43:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港股市场年内配售募资计划已超2100亿港元",
+      "summary": "今年以来，港股再融资市场颇为活跃。在业界看来，凭借高效性、灵活性以及成本等方面优势，配售已成为港股公司再融资的重要手段。数据显示，以公告日期为统计口径，截至7月21日，年内已有241家港股公司（包括H股公司，下同）披露配售股份再融资计划，募资总额合计达2138亿港元；而去年同期有204家，计划募资总额合计达1698亿港元。在上述年内计划配售股份再融资的241家港股公司中，10家公司计划配售融资规模超过50亿港元，去年同期仅有3家。(证券日报)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336315.shtml",
+      "published": "Tue, 21 Jul 2026 22:41:01 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "AI算力需求驱动+产品涨价 半导体产业链上半年业绩大面积预增",
+      "summary": "最高预增743倍，半年度利润高达110亿元，以存储模组龙头江波龙为代表，A股半导体公司上半年业绩大面积预喜。半导体公司上半年业绩为何增长？AI算力需求爆发带动需求增长，叠加产品涨价，布局AI赛道的半导体企业依托产品“量价齐升”，实现营收与利润同步高增。展望下半年，有业内人士分析称，在北美四大云厂资本开支持续加码、头部大模型公司商业化持续落地的情况下，AI算力需求有望维持高增长态势，算力链条上的AI芯片、半导体设备与材料等细分环节，将持续保持较高景气度。(财联社)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336308.shtml",
+      "published": "Tue, 21 Jul 2026 22:39:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "范式智能：预计上半年归母净利润9,000万元至13,000万元",
+      "summary": "范式智能公告，预计2026年上半年营业收入将介乎约32亿元至40亿元，较2025年同期增长约22%-52%；预计归母净利润将介乎约9,000万元至13,000万元，相较2025年同期录得亏损有大幅改善。",
+      "link": "https://news.10jqka.com.cn/20260722/c678336284.shtml",
+      "published": "Tue, 21 Jul 2026 22:28:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "SK海力士正就收购英特尔位于俄亥俄州的芯片园区事宜进行谈判",
+      "summary": "据报道，SK海力士正就收购英特尔位于俄亥俄州的芯片园区事宜进行谈判。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260722/c678336259.shtml",
+      "published": "Tue, 21 Jul 2026 22:20:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "支出“赶进度” 下半年财政加力可期",
+      "summary": "今年以来，我国实施更加积极的财政政策，财政支出进度平稳，发债节奏偏慢，仍有较大规模财政资金留待使用。进入下半年，为巩固经济向好态势、如期完成全年预算安排，财政政策加力提效的必要性有所上升。当前，财政预算资金与新增地方政府债券尚有较大规模待使用，备受关注的8000亿元新型政策性金融工具蓄势待发。即使不调整预算赤字，我国增量政策工具箱仍具备适度加力的空间，为下半年加大逆周期调节提供坚实支撑。在今年政府工作报告部署的各项政策工具中，可发挥“补资金缺口、强信贷杠杆”作用的8000亿元新型政策性金融工具尚未启用。受访专家一致认为，该工具将在第三季度落地，通过杠杆效应撬动社会资本，支持下半年稳投资、扩内需工作。新型政策性金融工具由发展改革部门筛选项目清单，政策性银行发行金融债筹措资金，专项用于补充重大项目资本金，配套财政贴息支持，重点破解项目资本金不足的难题，进而撬动商业银行配套贷款。(证券时报)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336257.shtml",
+      "published": "Tue, 21 Jul 2026 22:19:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "科技板块引领A股“V”起 机构称布局窗口已至均衡配置为上",
+      "summary": "昨日A股市场科技板块迎来暴力反弹，市场多个指数涨幅创阶段新高。多家券商研究所在接受采访时指出，科技板块高估值已得到一定消化，市场压力释放较为充分，当前已进入高性价比的中长期布局窗口。多位机构分析师建议，投资者应均衡配置资产，避免过度集中于单一赛道。(证券时报)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336246.shtml",
+      "published": "Tue, 21 Jul 2026 22:15:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美联储7月维持利率不变的概率74.9%",
+      "summary": "据CME“美联储观察”：美联储7月维持利率不变的概率为74.9%，累计加息25个基点的概率为25.1%。 美联储到9月维持利率不变的概率为28.9%，累计加息25个基点的概率为55.7%，累计加息50个基点的概率为15.4%。(财联社)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336240.shtml",
+      "published": "Tue, 21 Jul 2026 22:14:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中际旭创：H股发售价将不会高于每股发售股份1010港元",
+      "summary": "中际旭创于港交所公告，已向上市委员会申请批准根据全球发售将予发行的H股（包括因超额配股权获行使而可能发行的H股）上市及买卖。全球发售的架构全球发售包括：初步提呈发售5,450,000股发售股份（可予重新分配，占全球发售项下初步可供认购的发售股份总数约10.0%）的香港公开发售；及初步提呈发售49,050,000股发售股份（可予重新分配及视乎超额配股权行使与否而定，占根据全球发售项下初步可供认购的发售股份总数约90.0%）的国际发售。发售价将不会高于每股发售股份1,010.00港元。预计7月28日定价；7月30日开始在港交所交易。",
+      "link": "https://news.10jqka.com.cn/20260722/c678336237.shtml",
+      "published": "Tue, 21 Jul 2026 22:13:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "百亿主动权益基金增至七十二只 AI半导体赛道成吸金主力",
+      "summary": "随着2026年公募基金二季报披露收官，主动权益基金的规模格局迎来显著变化。数据显示，截至二季度末，全市场百亿规模主动权益基金数量已从一季度末的32只跃升至72只，环比增幅高达125%。在头部阵营中，科技主题基金展现出强劲的吸金能力，包揽了规模榜前三甲。其中，东方人工智能主题、永赢科技智选与永赢先锋半导体智选规模均突破300亿元大关，二季度末规模分别达到351.25亿元、346.41亿元和329.16亿元。这3只聚焦AI与半导体产业的基金上半年业绩同样亮眼，A份额收益率分别高达166.72%、66.45%和149.90%。除上述3只“巨无霸”外，华泰柏瑞质量成长、银华集成电路、富国创新科技、大成科技创新、华商均衡成长、中欧医疗健康及兴全合润等基金规模均超过240亿元。整体来看，全市场共有18只主动权益基金规模成功跨越200亿元门槛，头部效应进一步凸显。(证券时报)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336218.shtml",
+      "published": "Tue, 21 Jul 2026 22:09:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "7月以来机构调研375家公司 电子行业业绩亮眼备受青睐",
+      "summary": "7月以来，A股上市公司陆续披露 2026年半年度业绩预告，机构调研热度显著升温，受AI赋能的电子行业成长优势突出，成为机构重点调研赛道。据统计，7月以来，共有375家上市公司获机构调研，其中，新易盛、京东方A、华灿光电、华勤技术等22家公司获50家以上机构调研。具体来看，新易盛获417家机构调研，居首。京东方A获243家机构调研，居次席。上述22家获机构密集调研公司7月以来股价平均下跌22.86%，其中燕京啤酒、天壕能源、华勤技术和立中集团股价上涨，累计涨幅分别为24.49%、9.77%、7.31%和3.52%。统计显示，上述机构调研公司中，112家已发布2026年半年度业绩相关公告。按业绩快报净利润、业绩预告净利润下限顺序计算，13家预计扭亏为盈、2家同比减亏、67家归母净利润实现同比增长，报喜比例超过七成。(证券时报)",
+      "link": "https://news.10jqka.com.cn/20260722/c678336207.shtml",
+      "published": "Tue, 21 Jul 2026 22:07:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "淡水河谷铁矿石产量超预期，维持全年产量指引",
+      "summary": "全球头部铁矿石生产商淡水河谷第二季度炼钢原料铁矿石产量高于市场预期，铜产量同步增长。截至6月30日的三个月内，铁矿石总产量达8426万吨，环比上升21%，同比小幅上涨近1%。分析师此前预期产量为8384万吨。竞争对手力拓在澳大利亚气旋灾害影响消退后，同期产出8880万吨铁矿石。这家大型铁矿石矿企维持全年铁矿石产量目标不变，区间为3.35亿–3.45亿吨。(新浪财经)",
+      "link": "https://news.10jqka.com.cn/20260722/c678335850.shtml",
+      "published": "Tue, 21 Jul 2026 22:05:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "白宫官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能",
+      "summary": "白宫官员透露，特朗普政府计划在联邦科学研究中降低对高校的侧重，转而强调人工智能。白宫将把数十亿美元的研究资金从高校转向人工智能领域，减少对高校的支持。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260722/c678335844.shtml",
+      "published": "Tue, 21 Jul 2026 22:03:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "科威特称遭无人机袭击",
+      "summary": "当地时间22日凌晨，科威特武装部队发布消息称，科方防空系统“正在”应对无人机袭击。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260722/c678335786.shtml",
+      "published": "Tue, 21 Jul 2026 22:00:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国发布《中国关于数智时代全球网络治理的立场文件》",
+      "summary": "联合国全球网络安全常设机制首次会议20日至24日在纽约联合国总部举行。中国代表团向全球机制提交了《中国关于数智时代全球网络治理的立场文件》。继网络主权后，中方此次提出了数字主权的重要原则，是中国落实全球治理倡议和推动构建网络空间命运共同体的最新举措。文件强调，为维护和平稳定，各国在网络空间应遵守联合国宪章宗旨和原则；倡导尊重数字主权，共促普惠发展，各国有权基于国情自主选择包括人工智能在内的数智技术发展路径，有权自主选择人工智能技术、产品和服务，不应当被胁迫选边站队；重申坚持多边主义，有效应对人工智能等新兴技术对网络安全带来的风险，与时俱进制定新的网络国际规则。中国代表团团长、外交部网络和数字事务协调员在全球机制会议期间全面介绍了中方立场文件。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260722/c678335781.shtml",
+      "published": "Tue, 21 Jul 2026 21:59:41 GMT"
     },
     {
       "source": "同花顺",
@@ -40,123 +229,18 @@
       "published": "Tue, 21 Jul 2026 21:26:56 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "英特尔确认将进一步裁员 股价大涨近9%",
-      "summary": "英特尔股价周二大涨，此前该公司确认将进一步裁员，以削减成本并调整其关键的数据中心部门。英特尔股价上涨8.6%，这家科技公司表示将在数据中心部门(DCG)裁员，但未披露具体人数。这延续了该股今年以来的涨势，有迹象显示在首席执行官陈立武的领导下，英特尔在扭转颓势方面取得进展。(新浪财经)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335668.shtml",
-      "published": "Tue, 21 Jul 2026 21:20:54 GMT"
+      "source": "华尔街见闻",
+      "title": "中际旭创：香港IPO股票发行价最高定在每股1010港元",
+      "summary": "<p><a href=\"https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0722/2026072200012_c.pdf\" rel=\"nofollow\">中际旭创</a>申请通过香港IPO发行5450万股股票。</p>\n\n<p>发行价指导区间顶端为每股1010港元。预计股票将从7月30日开始交易。</p>",
+      "link": "https://wallstreetcn.com/livenews/3137775",
+      "published": "Tue, 21 Jul 2026 22:13:23 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "加拿大总理：若美方关税生效 将考虑全面回应",
-      "summary": "加拿大总理卡尼21日表示，如果美国对加拿大特定商品加征50%关税真的生效，加方将考虑所有回应选项。卡尼说，他已与美国总统特朗普通电话，双方同意在未来几周加紧贸易谈判。卡尼重申，加拿大首要目标是关注自身可控因素，即增强国内实力、购买本国商品以及推动国际合作伙伴多元化等。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335667.shtml",
-      "published": "Tue, 21 Jul 2026 21:19:19 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "富时中国A50指数期货夜盘收涨0.11%，报15179点",
-      "summary": "富时中国A50指数期货夜盘收涨0.11%，报15179点。",
-      "link": "https://news.10jqka.com.cn/20260722/c678335666.shtml",
-      "published": "Tue, 21 Jul 2026 21:17:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国驻伊拉克埃尔比勒领馆又遭无人机袭击",
-      "summary": "伊拉克北部库尔德自治区（库区）一名消息人士21日告诉记者，4架无人机当晚在美国驻伊拉克埃尔比勒领馆附近被击落，暂无人员伤亡报告。近日，美国驻伊拉克埃尔比勒领馆频繁遭遇无人机袭击。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335665.shtml",
-      "published": "Tue, 21 Jul 2026 21:16:33 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国6月PPI同比增长8.6%，前值8.50%",
-      "summary": "韩国6月PPI同比增长8.6%，前值8.50%。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260722/c678335640.shtml",
-      "published": "Tue, 21 Jul 2026 21:08:31 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "金价涨超1.7%，白银涨4.2%，纽约铜涨超2.9%",
-      "summary": "周二（7月21日）纽约尾盘，现货黄金涨1.76%，报4078.31美元/盎司，COMEX黄金期货涨1.69%，报4083.7美元/盎司。现货白银涨4.21%，报58.8美元/盎司。COMEX白银期货涨4.23%，报59.06美元/盎司。COMEX铜期货涨2.95%，报6.53美元/磅。现货铂金涨2.15%，报1631.15美元/盎司；现货钯金涨1.98%，报1281.01美元/盎司。",
-      "link": "https://news.10jqka.com.cn/20260722/c678335633.shtml",
-      "published": "Tue, 21 Jul 2026 21:02:35 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "投资回报飙升至数十年最高 套利交易在华尔街大行其道",
-      "summary": "面对各类资产低到令人难以置信的波动率，投资者纷纷涌入套利交易，让这种最经久不衰的外汇押注之一迎来了几十年来最耀眼的行情。这种借入低收益货币投资于收益更高处的策略以业绩坐实了自己2026年的赢家地位，因全球经济在伊朗战争引发的石油冲击下出乎意料地保持了韧性。这一环境抑制了市场波动，也让追逐发展中国家高收益率的交易员风险胃口大开。花旗集团等银行的策略师最近津津乐道的一种做法是，借入欧元来买入由巴西雷亚尔、哥伦比亚比索和土耳其里拉组成的一篮子货币。数据显示，截至上周，该策略年迄今上涨约18%，创出2005年以来的最大年内升幅。 套利俨然是今年以来外汇交易员最强劲的策略，轻松超越了动量或价值等其它广受关注的手法。花旗、高盛集团和摩根大通在研报中纷纷着墨，Nuveen和Vontobel等投资者则认为它还有上涨空间。(财联社)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335623.shtml",
-      "published": "Tue, 21 Jul 2026 20:56:37 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国至7月17日当周API原油库存增加 260.3万桶，前值-56.4万桶",
-      "summary": "美国石油协会（API）数据显示，上周，美国API原油库存 +260.3万桶，之前一周 -56.4万桶。上周API库欣原油库存 -73.7万桶，前值 +23.8万桶。上周API成品油汽油库存 -137.9万桶（前值 -166.4万桶）、馏分油库存 +175.9万桶（前值 +225.9万桶）。",
-      "link": "https://news.10jqka.com.cn/20260722/c678335594.shtml",
-      "published": "Tue, 21 Jul 2026 20:36:55 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "穆迪将阿根廷评级上调至B3，并将展望调整为积极",
-      "summary": "穆迪将阿根廷评级上调至B3，并将展望调整为积极。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260722/c678335593.shtml",
-      "published": "Tue, 21 Jul 2026 20:36:21 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美防长：对伊朗战争已耗资375亿美元",
-      "summary": "记者当地时间21日获悉，美国国防部长赫格塞思表示，美国对伊朗战争迄今已耗资375亿美元，高于此前公布的估算。赫格塞思当天在参议院拨款委员会作证，为共和党提出的950亿美元预算方案争取支持。该方案除军费外，还包括农业援助及白宫优先推动的选举法调整。听证会期间，抗议者多次打断赫格塞思发言。五角大楼此前宣布，冲突中又有3名美军人员死亡，使死亡人数升至17人；自7月初以来，另有100多人受伤。赫格塞思称，追加战争拨款是“紧迫且必要”的资金注入，并警告，如果无法获得相关资金，美军将面临关键资源缺口。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335592.shtml",
-      "published": "Tue, 21 Jul 2026 20:34:23 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美伊冲突叠加红海风险 国际油价升至五周高点",
-      "summary": "当地时间7月21日，受美伊相互袭击升级及也门胡塞武装威胁封锁沙特阿拉伯海运影响，国际油价上涨约2%，升至五周以来最高水平。布伦特原油期货上涨1.79美元，涨幅2%，收于每桶91.01美元；美国西得州中质原油期货上涨1.68美元，涨幅2%，收于每桶84.91美元。布伦特原油创6月10日以来最高收盘价，西得州中质原油则创6月11日以来最高。市场担忧中东能源运输面临进一步中断。美军夜间袭击伊朗南部和西部目标，伊朗则攻击美国在巴林、科威特和约旦的设施，霍尔木兹海峡至少一艘油轮遭到袭击。胡塞武装20日宣布对沙特阿拉伯实施海上封锁，使冲突风险从海湾地区进一步扩大至红海航线。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335579.shtml",
-      "published": "Tue, 21 Jul 2026 20:22:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "吉利德科学预计收购IPR&D将给二季度造成112亿美元开支",
-      "summary": "吉利德科学预计收购IPR&amp;D将给二季度造成112亿美元开支。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260722/c678335577.shtml",
-      "published": "Tue, 21 Jul 2026 20:14:39 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "泽连斯基任命德拉帕蒂为乌克兰武装部队总司令",
-      "summary": "当地时间21日晚，乌克兰总统泽连斯基发布视频讲话，宣布由德拉帕蒂接替瑟尔斯基出任乌克兰武装部队总司令。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335574.shtml",
-      "published": "Tue, 21 Jul 2026 20:13:53 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "委内瑞拉卫生部证实3人感染汉坦病毒死亡",
-      "summary": "委内瑞拉卫生部21日证实，该国东北部安索阿特吉州有3人死于汉坦病毒感染。委卫生部在社交媒体发布公报称，目前尚无证据表明汉坦病毒在委出现人际传播，各病例间无直接关联。安索阿特吉州并非委内瑞拉6月24日强震受灾最严重地区。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335572.shtml",
-      "published": "Tue, 21 Jul 2026 20:09:22 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "超微电脑盘后涨超26%",
-      "summary": "超微电脑第四季度积压订单创历史新高；新增订单突破600亿美元；预计第四财季营收接近指引区间110亿-125亿美元的底部。预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。超微电脑盘后涨超26%。",
-      "link": "https://news.10jqka.com.cn/20260722/c678335571.shtml",
-      "published": "Tue, 21 Jul 2026 20:08:57 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "国际油价21日上涨",
-      "summary": "国际油价21日上涨。截至当天收盘，纽约商品交易所8月交货的轻质原油期货价格上涨1.68美元，收于每桶84.91美元，涨幅为2.02%；9月交货的伦敦布伦特原油期货价格上涨1.79美元，收于每桶91.01美元，涨幅为2.01%。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260722/c678335570.shtml",
-      "published": "Tue, 21 Jul 2026 20:03:39 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "韩股去杠杆已近尾声？融资余额降至近三个月新低 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE04TTZmX2dhOEs3OGlZVkZOTWFPVjZuVk9ka08yTzlvR0liZl9Qbjk3OTZhVDdKZ1o4cGhESmxZbmdBYU9PRXBFRQ?oc=5\" target=\"_blank\">韩股去杠杆已近尾声？融资余额降至近三个月新低</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE04TTZmX2dhOEs3OGlZVkZOTWFPVjZuVk9ka08yTzlvR0liZl9Qbjk3OTZhVDdKZ1o4cGhESmxZbmdBYU9PRXBFRQ?oc=5",
-      "published": "Tue, 21 Jul 2026 20:05:38 GMT"
+      "source": "华尔街见闻",
+      "title": "报道：美国白宫希望向研究员提供2000亿美元研发经费",
+      "summary": "<p>白宫希望，向研究员们提供2000亿美元研发预算。</p>\n\n<p>综合美国科学技术顾问Michael Kratsios透露的信息和和一份关于白宫资金计划的备忘录来看，美国将改变提供给大专院校的预算的用途，考虑划拨给面向人工智能（AI）的那些研发经费，金额（至少）数十亿美元。美国寻求将相关资金提供给科学家们，而不是大专院校。（华尔街日报）</p>",
+      "link": "https://wallstreetcn.com/livenews/3137774",
+      "published": "Tue, 21 Jul 2026 22:02:11 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -171,13 +255,6 @@
       "summary": "<p>OpenAI旗下AI智能体产品用户数量快速攀升，在ChatGPT Work发布后不久即突破千万大关，与竞争对手Anthropic之间的市场角力持续升温。</p>\n<p>7月21日，OpenAI宣布，其两款AI智能体产品——<strong>面向编程场景的Codex，以及面向综合任务处理的ChatGPT Work合计用户数已达1000万，较本月早些时候近乎翻倍。</strong></p>\n<p>ChatGPT Work的上线为这一增长注入了直接动力。这一产品与Anthropic此前推出的协作工具Cowork定位相近，AI智能体赛道的竞争格局正随之加速演变。</p>\n<div>\n<h2 id=\"ai\">AI智能体，下一个主战场</h2>\n</div>\n<p>AI智能体被业界视为继基础聊天机器人之后的下一代核心产品形态。</p>\n<p>与传统对话式AI不同，智能体产品能够自主处理更复杂的多步骤任务，大幅降低用户的操作门槛。</p>\n<p>OpenAI的智能体业务扩张建立在其庞大用户生态之上。自2022年底ChatGPT发布以来，该产品已积累逾9亿周活跃用户，为智能体类产品的推广提供了天然",
       "link": "https://wallstreetcn.com/articles/3777599",
       "published": "Tue, 21 Jul 2026 21:30:42 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
-      "summary": "<p>美伊战事仍未看到明确的停火出口。</p>\n<p>当地时间21日周二，美国总统特朗普明确给美伊会谈的前景泼冷水，称伊朗“迫切希望会面”，但在伊方准备好进行“有意义的会谈”之前，美国“没有兴趣”会面。他还表示，美国与伊朗的斗争“根本没有结束”，美国不会离开伊朗；即便伊朗只是考虑发展核能力，美国也会在相关地区实施打击。</p>\n<p>央视提到，特朗普当天表示，美国“很快”将对伊朗位于纳坦兹以南的“镐山”地下核设施发动打击，而且打击力度将“非常猛烈”。</p>\n<p>针对被视为伊朗所支持组织也门胡塞武装威胁封锁沙特的海上运输，特朗普发出警告。据新华社，特朗普21日在白宫会见到访的黎巴嫩总统奥恩时表示，如果也门胡塞武装封锁红海，美国将采取行动。</p>\n<p>本周一传出了美伊调解方试图推动双方停火10天的消息，伊朗也确认收到停火提议。特朗普的最新表态显示，美国当前的优先事项仍是军事施压，而不是立即回到谈判桌前。美伊冲突不仅没有出现明确降温信号，反而正沿着“继续打击伊朗—扩大航运压力—外交斡旋艰难推进”的路径发展。</p>\n<p>同在周二，伊朗媒体IRNA报道称，伊朗已部署新的防空系统。这一",
-      "link": "https://wallstreetcn.com/articles/3777603",
-      "published": "Tue, 21 Jul 2026 20:08:21 GMT"
     }
   ]
 }
