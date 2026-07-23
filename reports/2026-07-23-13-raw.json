@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
   "hour": "13",
-  "total": 48,
-  "fetched_at": "2026-07-23T13:01:00.972140+08:00",
+  "total": 36,
+  "fetched_at": "2026-07-23T13:14:23.820595+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -26,18 +26,18 @@
       "published": "Thu, 23 Jul 2026 03:24:30 GMT"
     },
     {
+      "source": "新浪财经",
+      "title": "美银证券：毛戈平目标价95港元 重申“买入”评级 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWXEzVUFNRDBhQTAtWnp2LWtqT0VsaExxM3pFNTJ1WC1ESGZfcTFUYmpFa3pZcDZMay1hRGphSFlWeFEtZm5LRGY5MnMyUFhDdTRPSGJFSGxfWU94LTNUQWpHZHFDSGVnM0pTNXk3aVZhOHFhY1F0TENBS0J4SXJaNUFuc1lvT29zZXhoRG5xblp0YWJwMXhRVkRCOWRlRnZDdUN3Tl9QVU05bEE1Wjc3VmY1dERoZkE5ZlFRUzloU0NYQ1ptZzF3LW1oMzcxaEtrTnBEc25Kd2xrZDcyN1ZxT3Z2NA?oc=5\" target=\"_blank\">美银证券：毛戈平目标价95港元 重申“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWXEzVUFNRDBhQTAtWnp2LWtqT0VsaExxM3pFNTJ1WC1ESGZfcTFUYmpFa3pZcDZMay1hRGphSFlWeFEtZm5LRGY5MnMyUFhDdTRPSGJFSGxfWU94LTNUQWpHZHFDSGVnM0pTNXk3aVZhOHFhY1F0TENBS0J4SXJaNUFuc1lvT29zZXhoRG5xblp0YWJwMXhRVkRCOWRlRnZDdUN3Tl9QVU05bEE1Wjc3VmY1dERoZkE5ZlFRUzloU0NYQ1ptZzF3LW1oMzcxaEtrTnBEc25Kd2xrZDcyN1ZxT3Z2NA?oc=5",
+      "published": "Thu, 23 Jul 2026 04:29:00 GMT"
+    },
+    {
       "source": "东方财富",
       "title": "午评:今天盘前提示根据外围市场情况，对早评进行了微调和补充:一是原油期指持续上涨 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAxeEVyLUVLdUdhd1ozNVo3NFE0VnBqSWNTU3ZCLWViN19rdzFnMnNJVllmSzVsdTNiSngwVDB0XzRlZFhHSThSZkRGQmZRbnFUeUFGcUI0X3pLVVBjdjdTM3dNQy1CLVpOa2tR?oc=5\" target=\"_blank\">午评:今天盘前提示根据外围市场情况，对早评进行了微调和补充:一是原油期指持续上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxeEVyLUVLdUdhd1ozNVo3NFE0VnBqSWNTU3ZCLWViN19rdzFnMnNJVllmSzVsdTNiSngwVDB0XzRlZFhHSThSZkRGQmZRbnFUeUFGcUI0X3pLVVBjdjdTM3dNQy1CLVpOa2tR?oc=5",
       "published": "Thu, 23 Jul 2026 04:30:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "【涨停直击】摘星脱帽，复牌一字涨停！ - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Hdll0Ykd1bzBiUTdyUlFiTkZNOUdFUkRUM05xcXZNRmFKM183djFpcV9pNjI0UVNlVHRCRXc3cUhaYUt1b3Nkd0h1V3dMdEpLWkM5UXFySk9NcVNjNUM2QWczQUJlUQ?oc=5\" target=\"_blank\">【涨停直击】摘星脱帽，复牌一字涨停！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Hdll0Ykd1bzBiUTdyUlFiTkZNOUdFUkRUM05xcXZNRmFKM183djFpcV9pNjI0UVNlVHRCRXc3cUhaYUt1b3Nkd0h1V3dMdEpLWkM5UXFySk9NcVNjNUM2QWczQUJlUQ?oc=5",
-      "published": "Thu, 23 Jul 2026 03:13:53 GMT"
     },
     {
       "source": "东方财富",
@@ -62,143 +62,66 @@
     },
     {
       "source": "同花顺",
-      "title": "Seed Edge团队发布科学家计划",
-      "summary": "7月23日，Seed Edge团队正式发布Seed STEM 科学家计划。该计划拟邀请100位前沿科学领域学者，与Seed 团队一起，围绕真实科研问题展开合作。该计划希望学者在STEM相关学科领域已获得或正在攻读博士学位。首期STEM科学家计划约持续6个月，在此期间，参与学者需来到Seed办公区，与团队一起开展工作。该计划将为参与学者提供充足的算力资源、先进的模型体验和专业的AI研究团队支持。为充分认可参与学者的科研价值和贡献，Seed团队将为其提供业界具有竞争力的薪酬回报。（界面新闻）",
-      "link": "https://news.10jqka.com.cn/20260723/c678379016.shtml",
-      "published": "Thu, 23 Jul 2026 04:51:43 GMT"
+      "title": "高特电子：二级市场股票价格受多重因素综合影响 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE85LXloM01FZFFJcDAtZ3NiSzFqQlNsSXpWLTIxMjhhZExSY3hoOHN3RU5mN1lZZzdCT0Z0QzExOVlpMy1wa3h4NzBaTmI5WlB6RGtaTkxqemFmemcyMWRqMmpMLUFYSVJl?oc=5\" target=\"_blank\">高特电子：二级市场股票价格受多重因素综合影响</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85LXloM01FZFFJcDAtZ3NiSzFqQlNsSXpWLTIxMjhhZExSY3hoOHN3RU5mN1lZZzdCT0Z0QzExOVlpMy1wa3h4NzBaTmI5WlB6RGtaTkxqemFmemcyMWRqMmpMLUFYSVJl?oc=5",
+      "published": "Thu, 23 Jul 2026 03:48:48 GMT"
     },
     {
       "source": "同花顺",
-      "title": "农业农村部组织开展我国台湾岛以东管辖海域渔业资源调查",
-      "summary": "为全面了解我国管辖海域渔业资源状况，支撑海洋渔业资源养护与可持续发展，7月17日至23日，农业农村部中国水产科学研究院东海水产研究所“蓝海201”科学调查船在我国台湾岛以东海域开展了渔业资源调查。该海域渔业资源种类丰富，是金枪鱼类等主要经济种类的重要产卵场。此次调查采用多学科调查手段，采集了鱼类、头足类、甲壳类等渔业生物样本与环境DNA样本，获取了渔业声学和水文气象等基础数据，为我国系统掌握该海域渔业资源状况奠定了基础，也为在该海域开展渔业资源养护管理、促进海洋渔业可持续发展提供了科学依据。(界面)",
-      "link": "https://news.10jqka.com.cn/20260723/c678378804.shtml",
-      "published": "Thu, 23 Jul 2026 04:25:54 GMT"
+      "title": "刚刚，4家公司发布重要消息！ - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rYjVmVFJvOTk1V19Da1JhNHE5SjVwc2lqcXduUGNVdVdDYnRYZ0liSjhYUHZWNllZa01udFZIQWo3MWpBNHg4RDVrOThXYVJUM3czdVkxTXYtM3MwZDVWVFVn?oc=5\" target=\"_blank\">刚刚，4家公司发布重要消息！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rYjVmVFJvOTk1V19Da1JhNHE5SjVwc2lqcXduUGNVdVdDYnRYZ0liSjhYUHZWNllZa01udFZIQWo3MWpBNHg4RDVrOThXYVJUM3czdVkxTXYtM3MwZDVWVFVn?oc=5",
+      "published": "Thu, 23 Jul 2026 03:49:13 GMT"
     },
     {
       "source": "同花顺",
-      "title": "巴西宣布将拓展贸易伙伴应对美关税冲击",
-      "summary": "巴西总统卢拉22日宣布，巴西将拓展贸易伙伴以应对美国关税影响，并凭借自身信誉和国际市场地位为本国经济找到新出路。 卢拉表示，巴西政府将推出总额185亿雷亚尔（约合37亿美元）的信贷支持计划，以减轻美国对巴西产品加征关税和中东局势对巴西出口带来的冲击。 据介绍，此次信贷支持计划主要扶持受美国加征关税影响的钢铁、铝、汽车、木材、机械等行业，以及化肥、制药等战略性工业领域和受中东局势影响的出口商。 同日，卢拉签署法案，为一项此前设立的信贷支持计划追加150亿雷亚尔（约合30亿美元）信贷额度。该计划旨在应对去年美国首轮加征关税对巴西经济造成的冲击。 美国贸易代表办公室15日发布声明，宣布依据《1974年贸易法》第301条款，对部分巴西产品加征25%的关税。加征关税措施从7月22日开始生效，涉及数千种巴西产品。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260723/c678378757.shtml",
-      "published": "Thu, 23 Jul 2026 04:17:52 GMT"
+      "title": "沃特股份拟1500万至3000万元回购A股 用于股权激励或持股计划 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE91RmxlNDN6eFd5NEN1a3dyQWVEZmpmZGY4QVRURjhhME1JakpiaU96dXdLRXNpaW90QWhmdVNGdmQ2U1pZN3doVGlrZ1NOa1JWSjkxTHBjQjE5V0REajBjcGhB?oc=5\" target=\"_blank\">沃特股份拟1500万至3000万元回购A股 用于股权激励或持股计划</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91RmxlNDN6eFd5NEN1a3dyQWVEZmpmZGY4QVRURjhhME1JakpiaU96dXdLRXNpaW90QWhmdVNGdmQ2U1pZN3doVGlrZ1NOa1JWSjkxTHBjQjE5V0REajBjcGhB?oc=5",
+      "published": "Thu, 23 Jul 2026 03:28:53 GMT"
     },
     {
       "source": "同花顺",
-      "title": "港股午评：恒生指数涨1.34%，恒生科技指数涨0.79%",
-      "summary": "港股午间收盘，恒生指数涨1.34%，恒生科技指数涨0.79%。恒指港股通ETF银华（159318）涨1.71%，港股通科技ETF鹏华（159751）涨0.68%。板块方面，工业集团企业、电力板块涨幅靠前；酒店和度假村REIT、航空货运与物流板块跌幅靠前。个股方面，真健康医疗-B涨14.23%，智云科技建设涨14.03%，旺山旺水-B涨13.17%，中伟新材涨12.71%，迅策涨11.4%；天数智芯跌8.46%，怡俊集团控股跌7.05%，华虹宏力跌6.44%，鸣鸣很忙跌5.41%，应星控股跌5.07%。",
-      "link": "https://news.10jqka.com.cn/20260723/c678378503.shtml",
-      "published": "Thu, 23 Jul 2026 04:02:16 GMT"
+      "title": "又现净流出！半导体、集成电路、电力等ETF逆势“吸金” - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHZGlqRFBVUzBDWmVoRzlaaGZ0YVRhcDc3Tzh5MmE3MEJLWjc4V013YzVHS1dNSEh4SDRFcjRudmR3YUhnUWZXZ0g2OTl3aHhfWldyZi1CY2hibUotYnpKcWtR?oc=5\" target=\"_blank\">又现净流出！半导体、集成电路、电力等ETF逆势“吸金”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHZGlqRFBVUzBDWmVoRzlaaGZ0YVRhcDc3Tzh5MmE3MEJLWjc4V013YzVHS1dNSEh4SDRFcjRudmR3YUhnUWZXZ0g2OTl3aHhfWldyZi1CY2hibUotYnpKcWtR?oc=5",
+      "published": "Thu, 23 Jul 2026 03:28:59 GMT"
     },
     {
       "source": "同花顺",
-      "title": "卡莱特与天津具身智能创新中心展开战略合作",
-      "summary": "据卡莱特消息，近日，卡莱特与天津具身智能创新中心正式签署战略合作框架协议，双方将围绕具身智能领域建立长期合作机制，共同推动技术融合与产业生态建设。(人民财讯)",
-      "link": "https://news.10jqka.com.cn/20260723/c678378417.shtml",
-      "published": "Thu, 23 Jul 2026 03:59:17 GMT"
+      "title": "长安汽车定增上会获通过 将于深交所上市 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jeWNzYkpFWlFCREYxejcwYjl1MWthVXA3N0gzaXVya0oyMS1hZ1BoU1E4ZzhxZzdsZUJxQVRqU3BWaHpKRWhrUkdITDBlVzFnSmE2d1o2cG1RYjF2ZnBSM0NB?oc=5\" target=\"_blank\">长安汽车定增上会获通过 将于深交所上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jeWNzYkpFWlFCREYxejcwYjl1MWthVXA3N0gzaXVya0oyMS1hZ1BoU1E4ZzhxZzdsZUJxQVRqU3BWaHpKRWhrUkdITDBlVzFnSmE2d1o2cG1RYjF2ZnBSM0NB?oc=5",
+      "published": "Thu, 23 Jul 2026 03:53:53 GMT"
     },
     {
       "source": "同花顺",
-      "title": "领益智造：公司AMD系列显卡散热模组已实现批量出货",
-      "summary": "领益智造7月22日接受机构调研时表示，作为AMD核心供应商，公司在不同系列产品项目上与客户展开合作，为散热设计优化、量产效率提升等关键环节提供解决方案，公司生产的AMD系列显卡散热模组已实现批量出货。(人民财讯)",
-      "link": "https://news.10jqka.com.cn/20260723/c678378382.shtml",
-      "published": "Thu, 23 Jul 2026 03:54:36 GMT"
+      "title": "山东矿机定增上会获通过 将于深交所上市 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZHhUVnhjMUlEN1ZaOXg3NHBhVnZnWEgxam55RUVxTUhUb1JNbVJnZzE3bFE5S2l1bHJlSGZWaXpfUWt3cHVrQWo0Q1dQUUFhQzBBSWlqQVZKWUVqX2llUElB?oc=5\" target=\"_blank\">山东矿机定增上会获通过 将于深交所上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kZHhUVnhjMUlEN1ZaOXg3NHBhVnZnWEgxam55RUVxTUhUb1JNbVJnZzE3bFE5S2l1bHJlSGZWaXpfUWt3cHVrQWo0Q1dQUUFhQzBBSWlqQVZKWUVqX2llUElB?oc=5",
+      "published": "Thu, 23 Jul 2026 03:53:53 GMT"
     },
     {
       "source": "同花顺",
-      "title": "趋境科技力争五年内建成万卡级AI Token工厂",
-      "summary": "近日，趋境科技华东区域总部项目正式落地杭州萧山区钱江世纪城。据悉，趋境科技将在钱江世纪城重点建设高效能人工智能Token生产服务平台（ATaaS）华东区域交付与服务中心，力争在五年内建成万卡级集群规模的高品质AI Token工厂。(人民财讯)",
-      "link": "https://news.10jqka.com.cn/20260723/c678378366.shtml",
-      "published": "Thu, 23 Jul 2026 03:52:32 GMT"
+      "title": "利好继续！一批A股公司宣布回购增持 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjZmJ5by1tX0wyNUxoMXJwcWZBWWxiXy1pOEk2T054OFVwS1B3QWJhZTlUb3VNeDJWU3hpSEVxTFFadWhIN2lvY3FQZ0trLTJsYmtwVG1rVnY3UFVKMEUtSEhR?oc=5\" target=\"_blank\">利好继续！一批A股公司宣布回购增持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjZmJ5by1tX0wyNUxoMXJwcWZBWWxiXy1pOEk2T054OFVwS1B3QWJhZTlUb3VNeDJWU3hpSEVxTFFadWhIN2lvY3FQZ0trLTJsYmtwVG1rVnY3UFVKMEUtSEhR?oc=5",
+      "published": "Thu, 23 Jul 2026 04:48:55 GMT"
     },
     {
       "source": "同花顺",
-      "title": "7月23日午间公告一览：海思科创新药琥珀酸思普可泮片获批上市",
-      "summary": "海思科公告，国家药监局批准公司申报的1类创新药琥珀酸思普可泮片上市。琥珀酸思普可泮片（研发代号：HSK39297片）是公司自主研发的一种高效、高选择性口服补体B因子（CFB）小分子抑制剂，通过抑制CFB活性从而阻断旁路途径（AP）的激活与补体扩增循环，进而抑制整个补体通路的活性，旨在治疗由补体异常活化所介导的多种疾病。本次获批上市的适应症为治疗既往未接受过补体抑制剂治疗的阵发性睡眠性血红蛋白尿症（PNH）成人患者。",
-      "link": "https://news.10jqka.com.cn/20260723/c678378361.shtml",
-      "published": "Thu, 23 Jul 2026 03:52:09 GMT"
+      "title": "“小东财”，第5次增资 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiOWViN2xsUTI0ak04MXc2Zkd1amRmV3hJeGxCZHVGM3dsVFk1QnFEUmxOMjJJUDBFYUVLd2FGd3BNTEJESFhWYU1kY2pMMEJ2d0t5SGtpb2NSRGUtc3Mzd1JR?oc=5\" target=\"_blank\">“小东财”，第5次增资</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiOWViN2xsUTI0ak04MXc2Zkd1amRmV3hJeGxCZHVGM3dsVFk1QnFEUmxOMjJJUDBFYUVLd2FGd3BNTEJESFhWYU1kY2pMMEJ2d0t5SGtpb2NSRGUtc3Mzd1JR?oc=5",
+      "published": "Thu, 23 Jul 2026 03:54:10 GMT"
     },
     {
       "source": "同花顺",
-      "title": "英国外交部说从伊朗暂时撤出工作人员",
-      "summary": "英国外交部22日说，鉴于地区局势紧张，英国工作人员已暂时从伊朗撤出，使馆以远程方式办公。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260723/c678378314.shtml",
-      "published": "Thu, 23 Jul 2026 03:48:58 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中国海警局新闻发言人就菲公务船侵闯中国黄岩岛管辖海域发表谈话",
-      "summary": "中国海警局新闻发言人姜略表示，7月23日，菲律宾3012、3018两艘公务船不顾中方一再劝阻和警告，执意侵闯中国黄岩岛管辖海域。中国海警依法对菲船采取跟监外逼、拦阻管制等必要措施予以驱离，现场操作专业规范、正当合法。黄岩岛是中国固有领土。我们敦促菲方立即停止侵权挑衅行径。中国海警将依法持续在黄岩岛海域开展维权执法活动，坚决维护国家领土主权和海洋权益。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260723/c678378311.shtml",
-      "published": "Thu, 23 Jul 2026 03:48:43 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：鼓励公募基金、银行理财等资产管理机构设立更多科创主题ETF基金、科创理财产品等",
-      "summary": "中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，优化一二级市场投资接力。做好科创板重点硬科技企业规范培育工作、境外上市沟通协调工作和创业板地方政府推送企业信息工作，市区联动做好企业合规辅导，支持上海市重点科技企业对接境内外资本市场。优化面向科技企业的上市辅导体系，整合中介机构资源，提供精准的资本市场培训与对接服务。支持设立基石投资基金，并为其跨境投资提供审核备案汇兑等便利。鼓励公募基金、银行理财等资产管理机构设立更多科创主题ETF基金、科创理财产品等，培育二级市场科技投资力量。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260723/c678378295.shtml",
-      "published": "Thu, 23 Jul 2026 03:48:06 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：鼓励上海市国资基金与AIC合作设立股权投资基金",
-      "summary": "中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，拓展金融资本来源。探索经相关决策程序后，对优秀基金管理人设定差异化国资出资比例、门槛收益率等条件，积极吸引社保基金、保险资金等在上海市出资设立股权投资基金。引导保险、养老金等长期资本扩大以“优先股+可转债”方式参与早期科技企业融资的规模。借鉴巨灾债券的风险分层设计，探索发行结构化科技金融产品。鼓励上海市国资基金与AIC合作设立股权投资基金。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260723/c678378280.shtml",
-      "published": "Thu, 23 Jul 2026 03:47:28 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：探索引入境外离岸人民币资金支持境内科技创新",
-      "summary": "上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，深化合格境外有限合伙人（QFLP）试点，发挥国资基金管理人的本土资源优势，推广“外资内管”模式，吸引境外优质资金。探索引入境外离岸人民币资金支持境内科技创新。对运作成熟、信誉良好的外资管理机构，推动优化设立审批流程，完善外汇资金汇兑便利，加强税务合规操作辅导。",
-      "link": "https://news.10jqka.com.cn/20260723/c678378268.shtml",
-      "published": "Thu, 23 Jul 2026 03:46:18 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：建设直接融资试验区",
-      "summary": "中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，建设直接融资试验区。依托上海市股权投资集聚区及张江科学城、大零号湾等高能级科创集聚区，规划建设直接融资试验区。建立政策评估与反馈机制，定期梳理政策落地堵点，推动及时解决落实，总结形成可复制推广的经验做法。推动在试验区内形成资本、人才、技术、信息的高度集聚，构建覆盖从“0到1”概念验证，到“1到10”孵化加速，再到“10到100”产业放大的全链条融资服务体系。",
-      "link": "https://news.10jqka.com.cn/20260723/c678378263.shtml",
-      "published": "Thu, 23 Jul 2026 03:46:04 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：持续强化上市公司并购科技企业审核标准公开 支持交易双方以多元化的评估方法为基础协商确定交易作价",
-      "summary": "中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，健全科技并购生态体系。持续强化上市公司并购科技企业审核标准公开，支持交易双方以多元化的评估方法为基础协商确定交易作价。发挥第三方市场化服务平台功能，建设科技企业并购案例库和估值数据库。推动科技企业适用简易审核程序典型案例落地，鼓励开展第三方并购。做好国家级并购基金对接服务，发挥上海市国资并购基金矩阵作用，吸引集聚市场化并购基金，围绕科技企业产业链开展并购交易。鼓励国内保险公司与海外机构开展技术合作，开发并推出本土化并购保险产品。",
-      "link": "https://news.10jqka.com.cn/20260723/c678378186.shtml",
-      "published": "Thu, 23 Jul 2026 03:43:25 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
-      "summary": "中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，推动科创板持续深化改革。推动出台科创板人工智能、低空经济等企业适用第五套标准上市审核指引，推动可控核聚变、具身智能、大模型、量子计算、脑机接口等新兴产业和未来产业领域企业在科创板上市，持续扩大科创板第五套上市标准的适用范围，增强资本市场对前沿科技领域未盈利企业的制度包容性与适应性。用好优质科技企业试点IPO预先审阅机制，推动进一步完善上海证券交易所与优质投资机构及专业投资者的沟通交流机制。",
-      "link": "https://news.10jqka.com.cn/20260723/c678378124.shtml",
-      "published": "Thu, 23 Jul 2026 03:41:14 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：便利科技企业再融资 推动再融资储架发行制度落地实施",
-      "summary": "中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，便利科技企业再融资。用好再融资支持政策，优化再融资审核流程和再融资时间间隔，允许按照未盈利标准上市且尚未盈利的企业及存在破发情形的企业再融资，优化再融资申报材料等，支持科技企业灵活运用增发、配股、可转债等多种工具进行融资。推动再融资储架发行制度落地实施。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260723/c678378116.shtml",
-      "published": "Thu, 23 Jul 2026 03:40:49 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海：深化债券市场“科技板”建设",
-      "summary": "中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出，深化债券市场“科技板”建设。推动科技创新与民营企业债券风险分担工具、国家融资担保基金等政策工具在上海落地，鼓励金融机构创设信用风险缓释工具，形成央地协同的增信体系，为科技创新债券发行提供支持。用好上海市有关贴息政策，支持更多符合条件的企业发行科技创新债券。深化科技创新债券产品创新，支持更多科技企业发行科创可转债等股债关联产品。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260723/c678378114.shtml",
-      "published": "Thu, 23 Jul 2026 03:40:42 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "A股午评：科创50指数跌超4% 半导体板块表现弱势",
-      "summary": "截至午盘，上证指数跌0.19%，深证成指跌0.19%，创业板指跌0.33%，北证50跌0.07%。三市成交额14654亿元，较上日缩量3242亿元。全市场超3200家个股上涨。\n板块题材上，贵金属、油气、电网设备板块涨幅居前；半导体板块跌幅居前。\n盘面上，贵金属板块高开高走，四川黄金涨停，兴业银锡、湖南白银、晓程科技、紫金矿业、赤峰黄金跟涨。油气板块震荡走强，中曼石油2连板，潜能恒信、科力股份涨超10%，通源石油、博迈科、首华燃气、蓝焰控股、惠博普跟涨。电力板块午后走高，长缆科技3连板，顺钠股份、三变科技、中电鑫龙、太阳电缆、汉缆股份、中能电气、宝光股份、百利电气、保变电气、中国西电、华菱线缆、望变电气、新亚电缆涨停。半导体板块震荡走弱，燕东微、华虹宏力跌超10%，甬矽电子、汇成股份、盛科通信、瑞芯微、晶合集成跟跌。",
-      "link": "https://news.10jqka.com.cn/20260723/c678377872.shtml",
-      "published": "Thu, 23 Jul 2026 03:33:59 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "ETF午评：有色金属ETF领涨3.96%，芯片ETF领跌4.92%",
-      "summary": "ETF午间收盘涨跌不一，有色金属ETF（516650）领涨3.96%，石油ETF（159026）涨3.90%，有色ETF（159652）涨3.88%，芯片ETF（159599）领跌4.92%，半导体ETF（159582）跌4.9%，芯片ETF（159560）跌4.9%。",
-      "link": "https://news.10jqka.com.cn/20260723/c678377797.shtml",
-      "published": "Thu, 23 Jul 2026 03:31:12 GMT"
+      "title": "优利德上半年净利润预增43% 海外市场收入大幅提升 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvMUNSdmtMS1BCMEJEanZuRFB5dFdVUldXYnVfMl9XMjdXOVZZVGNPT0Uta1IzSkRXMXk0MmNOWjFSc2dvb0pzMDhLUzZsOFZrWXNyZVJxNjdGQl96cDRXN0ln?oc=5\" target=\"_blank\">优利德上半年净利润预增43% 海外市场收入大幅提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvMUNSdmtMS1BCMEJEanZuRFB5dFdVUldXYnVfMl9XMjdXOVZZVGNPT0Uta1IzSkRXMXk0MmNOWjFSc2dvb0pzMDhLUzZsOFZrWXNyZVJxNjdGQl96cDRXN0ln?oc=5",
+      "published": "Thu, 23 Jul 2026 03:38:53 GMT"
     },
     {
       "source": "财联社",
@@ -255,13 +178,6 @@
       "summary": "<p style=\"text-align: left;\">英伟达和AMD正在争的，不只是谁的CPU更快，而是谁来定义AI时代CPU的评判标准。</p>\n<p style=\"text-align: left;\">英伟达近日对外披露了Vera CPU架构的最详细技术细节。这款处理器搭载88个自研Olympus ARM架构核心，内存带宽1.2TB/s，片上互联带宽3.4TB/s。英伟达的核心论点是：AI Agent的工作方式是CPU与GPU反复交互——工具调用、代码执行、数据检索、任务编排——每一步都依赖上一步完成，<strong>因此CPU的单核速度和延迟直接决定整个Agent的响应效率。</strong></p>\n<p style=\"text-align: left;\">7月23日，据追风交易台消息，美银证券分析师Vivek Arya在最新报告中指出，Vera的发布为行业引入了一个新的评估框架：<strong>“规模化下的最大单线程性能”</strong>。这与AMD长期坚持的chiplet多核堆叠路线形成直接对比。该行将这场争论定性为：<strong>“智能体AI究竟是被单任务完成时间",
       "link": "https://wallstreetcn.com/articles/3777742",
       "published": "Thu, 23 Jul 2026 03:15:54 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "4小时、118个回答，梁文锋内部交流回应一切",
-      "summary": "<p style=\"text-align: left;\">DeepSeek近日完成成立以来的首轮外部融资。本轮募资总额超500亿元人民币（约合74亿美元），投前估值约3675亿元（约543亿美元）。在投资方阵容中，DeepSeek创始人梁文锋个人出资200亿元，腾讯出资100亿元，宁德时代出资50亿元，网易、京东和IDG资本分别出资30亿元，国家人工智能产业投资基金出资10亿元。</p>\n<p style=\"text-align: justify;\">在此之前，梁文锋曾提出“不融资、不上市、不商业化”的原则。此次大规模融资标志着DeepSeek正式走向资本市场，也引发了业界对其商业化路径与技术愿景的广泛关注。</p>\n<p style=\"text-align: justify;\">在近期的一场投资者交流会上，梁文锋详细阐述了DeepSeek的组织文化、开源逻辑、技术路线图以及对行业竞争格局的看法。</p>\n<p style=\"text-align: justify;\">以下为腾讯科技获得的近4小时的交流会中梁文锋发言实录整理，按主题分类，共计118条，文本尽可能保留原意，仅略作编辑。<",
-      "link": "https://wallstreetcn.com/articles/3777743",
-      "published": "Thu, 23 Jul 2026 03:09:14 GMT"
     },
     {
       "source": "第一财经",
