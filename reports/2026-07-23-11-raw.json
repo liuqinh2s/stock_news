@@ -1,0 +1,505 @@
+{
+  "date": "2026-07-23",
+  "hour": "11",
+  "total": 71,
+  "fetched_at": "2026-07-23T11:00:47.960899+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDNSUnNNZEgya2hneXJaSEVSRE51SlBMaGlnUEtvN3dkQVpYOFJPY3VvNW1VcWtMWmZNd2pxdXpwbE9KQXlnMWhFX29oRXNia3M3VndMLU9tWnFBbXRmYTl5Y0FoNGFTTDdqdDkzZ0k2eXBvSTcwaEhEbFhjODFtSHBCdkNLYzFyZFVHenRocnJaYXctS0FV?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDNSUnNNZEgya2hneXJaSEVSRE51SlBMaGlnUEtvN3dkQVpYOFJPY3VvNW1VcWtMWmZNd2pxdXpwbE9KQXlnMWhFX29oRXNia3M3VndMLU9tWnFBbXRmYTl5Y0FoNGFTTDdqdDkzZ0k2eXBvSTcwaEhEbFhjODFtSHBCdkNLYzFyZFVHenRocnJaYXctS0FV?oc=5",
+      "published": "Thu, 23 Jul 2026 01:56:10 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股半导体板块集体下挫 华虹宏力跌9%、中芯国际跌超4% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQN01OTXFkRWlrUEwtMHNveWEySmw1U09zRGVIbjdXaGVncEJPOWVYODRPVFFRZmFmWE8yb0puOTVBeXJYY1VndXJNaHVQYXFZR1pwSTVEYnVyM1N3bXFVUXl1ZDZhRGJTeUdrUEFuN3phU2pSVERTUFU4LUFyRThwY2FPR1ZMcG1jeTNFdElGUTYybW8?oc=5\" target=\"_blank\">A股半导体板块集体下挫 华虹宏力跌9%、中芯国际跌超4%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN01OTXFkRWlrUEwtMHNveWEySmw1U09zRGVIbjdXaGVncEJPOWVYODRPVFFRZmFmWE8yb0puOTVBeXJYY1VndXJNaHVQYXFZR1pwSTVEYnVyM1N3bXFVUXl1ZDZhRGJTeUdrUEFuN3phU2pSVERTUFU4LUFyRThwY2FPR1ZMcG1jeTNFdElGUTYybW8?oc=5",
+      "published": "Thu, 23 Jul 2026 02:17:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "标普A股红利ETF华宝（562060）开盘跌0.17%，重仓股格力电器跌0.51%，行动教育涨0.00% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlk5WnNDR0xSbzFobEVJREtJVmtNWUt0R2o1MExwU0p6cm1tT1EtNFdRZWhCUUFtOG9CY3I5TmdNSGEwN3o3YWpJNEV0d2RtX1JZQVFFN2Y2NGNDb21xelUydVFvbVdqcGpqR1NlQ1o1SjhiY2VsUi1GYlBmbnNzYVRRVHF6UHJvUndrWXUzbUdWNG0xQ2NOSA?oc=5\" target=\"_blank\">标普A股红利ETF华宝（562060）开盘跌0.17%，重仓股格力电器跌0.51%，行动教育涨0.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlk5WnNDR0xSbzFobEVJREtJVmtNWUt0R2o1MExwU0p6cm1tT1EtNFdRZWhCUUFtOG9CY3I5TmdNSGEwN3o3YWpJNEV0d2RtX1JZQVFFN2Y2NGNDb21xelUydVFvbVdqcGpqR1NlQ1o1SjhiY2VsUi1GYlBmbnNzYVRRVHF6UHJvUndrWXUzbUdWNG0xQ2NOSA?oc=5",
+      "published": "Thu, 23 Jul 2026 01:32:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "MSCI中国A股ETF摩根（515770）开盘跌0.21%，重仓股宁德时代涨0.20%，贵州茅台跌0.40% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDVwRDV4NHhYc3R0Z01Tdy05Z2JCRWVRY3ltbTJZX1hDd1ZDZ010VkJHdkl5M1JoMHlvQ2c3SDh3emY5Sl9jMXk5aGdiajlGY2JFWDNzempSWWlCSUZKWDJQMWZHeG5oQVNtSGstUDg2TTRlUHJaeUFITUE1N3N6UHJZZXlrSTFMQ2dLS0hXYzlmY2lqbUNYLQ?oc=5\" target=\"_blank\">MSCI中国A股ETF摩根（515770）开盘跌0.21%，重仓股宁德时代涨0.20%，贵州茅台跌0.40%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDVwRDV4NHhYc3R0Z01Tdy05Z2JCRWVRY3ltbTJZX1hDd1ZDZ010VkJHdkl5M1JoMHlvQ2c3SDh3emY5Sl9jMXk5aGdiajlGY2JFWDNzempSWWlCSUZKWDJQMWZHeG5oQVNtSGstUDg2TTRlUHJaeUFITUE1N3N6UHJZZXlrSTFMQ2dLS0hXYzlmY2lqbUNYLQ?oc=5",
+      "published": "Thu, 23 Jul 2026 01:35:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "7月22日景顺长城标普中国A股红利100ETF(159188)遭净赎回91.62万元，位居当日股票ETF净流出排名456/1269 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpVLUtpRWwtVjh4Wks5T085eGtpMXRETkl4QVJTRG9jcmNHOXBFVzF2ZWFnaV9rSWQwWjNmS0J6S1l4RzF2NVBaNjVSbm52d011ZlFoQk9RX3NhWXBrUVYxNnliN01pU21hLThyVUdLRHgtT1ZEVUJycDV5M0tKN01DdHhOcE1LZWVkQ3FaeXo4RFRmaXdORERZWQ?oc=5\" target=\"_blank\">7月22日景顺长城标普中国A股红利100ETF(159188)遭净赎回91.62万元，位居当日股票ETF净流出排名456/1269</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpVLUtpRWwtVjh4Wks5T085eGtpMXRETkl4QVJTRG9jcmNHOXBFVzF2ZWFnaV9rSWQwWjNmS0J6S1l4RzF2NVBaNjVSbm52d011ZlFoQk9RX3NhWXBrUVYxNnliN01pU21hLThyVUdLRHgtT1ZEVUJycDV5M0tKN01DdHhOcE1LZWVkQ3FaeXo4RFRmaXdORERZWQ?oc=5",
+      "published": "Thu, 23 Jul 2026 01:14:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "多地国有资本投资运营平台跟进增持 央地联动夯实A股长期资金底盘 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5feXdTYjFxQmJ6MmxPYXBKUWJmZGd0aGFDc0Z3Um40aDBCR2Fic1NkMVZZcEpVRTNjQ0tFYS1UdHVuNXNzRl9GcU5nUk5CczNGR2V1NXJtb1U0My1ZUXZUWTlxVno0SzhlMUd6T2FHRXFzbGJseWJlbQ?oc=5\" target=\"_blank\">多地国有资本投资运营平台跟进增持 央地联动夯实A股长期资金底盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5feXdTYjFxQmJ6MmxPYXBKUWJmZGd0aGFDc0Z3Um40aDBCR2Fic1NkMVZZcEpVRTNjQ0tFYS1UdHVuNXNzRl9GcU5nUk5CczNGR2V1NXJtb1U0My1ZUXZUWTlxVno0SzhlMUd6T2FHRXFzbGJseWJlbQ?oc=5",
+      "published": "Thu, 23 Jul 2026 02:41:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "子公司2700万美元光模块产品失窃？A股4000亿龙头回应 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFk2X1RyZlQxaEltSS1TRmg1U0pYOW45RW5OYV9tekk4UzBNYUphWVN2a3JIcUd3eUxVQXN2bDViejhhVy13NlRuX2ppckVEOE1zb2ZZYnBtcEFfSW9nNG0xVTFZSmlGaFBFOVVhdDA1OU1OOHVDTldlRXN4bnFCUQ?oc=5\" target=\"_blank\">子公司2700万美元光模块产品失窃？A股4000亿龙头回应</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcFk2X1RyZlQxaEltSS1TRmg1U0pYOW45RW5OYV9tekk4UzBNYUphWVN2a3JIcUd3eUxVQXN2bDViejhhVy13NlRuX2ppckVEOE1zb2ZZYnBtcEFfSW9nNG0xVTFZSmlGaFBFOVVhdDA1OU1OOHVDTldlRXN4bnFCUQ?oc=5",
+      "published": "Thu, 23 Jul 2026 02:29:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "证监会主席吴清会见加拿大养老基金总裁 花旗上调A股评级 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkdUOFJIUlk2VnRHSFpOYjhFeXRKbEhWR2c3YmVGSkJrZE1BOVM0WDh4TmlqODlWVFBwazJLSG9OeGtCU3haXzJCcEl3Zlg1aDkxUG9IQUlRMHNOM2ZaaWtESFRCRkZ2SlNWckdnTTcwMUt6Z1JyY0JyeDl0LWwxWm1IcS1sa2NxeFFUXzA5Rkd2SHc?oc=5\" target=\"_blank\">证监会主席吴清会见加拿大养老基金总裁 花旗上调A股评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVkdUOFJIUlk2VnRHSFpOYjhFeXRKbEhWR2c3YmVGSkJrZE1BOVM0WDh4TmlqODlWVFBwazJLSG9OeGtCU3haXzJCcEl3Zlg1aDkxUG9IQUlRMHNOM2ZaaWtESFRCRkZ2SlNWckdnTTcwMUt6Z1JyY0JyeDl0LWwxWm1IcS1sa2NxeFFUXzA5Rkd2SHc?oc=5",
+      "published": "Thu, 23 Jul 2026 01:47:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWZTTjh3YmtPS1hfa1NMSUp1WHBBX29VSVItTGpXTndHWHR6cGE0TkZwdWtWZ2pZVXNCeWh5ZGpjbkU3cXppMXpRVTdQLXNBZ3hkcmw2eW1scEp6S3VkcnVWcEE3VzdwcHNCUUc5Qk1MdXhsMUpfNmVXenFFb0w4UXp6YWtMNkRuT1UwLXNQM09sY1pETmVj?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRWZTTjh3YmtPS1hfa1NMSUp1WHBBX29VSVItTGpXTndHWHR6cGE0TkZwdWtWZ2pZVXNCeWh5ZGpjbkU3cXppMXpRVTdQLXNBZ3hkcmw2eW1scEp6S3VkcnVWcEE3VzdwcHNCUUc5Qk1MdXhsMUpfNmVXenFFb0w4UXp6YWtMNkRuT1UwLXNQM09sY1pETmVj?oc=5",
+      "published": "Thu, 23 Jul 2026 02:26:16 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkhKa3lPWXBFa01lNkZWd29hV3d4UkhSMzlQcHJib19hMHFaTVVYNzFOMmJOZkhXeFlxckZCSlFhUElTVDdyNUd0U0UtazBnbmY4VnE5Uy1UZTQ5NkN6VXB5T0cyNGdQMHE5ZDhFWDBGQTRoSzVLbFphVjNTTE1TLVR5SW16WWhvd042bUUwZmhGM2didktr?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWkhKa3lPWXBFa01lNkZWd29hV3d4UkhSMzlQcHJib19hMHFaTVVYNzFOMmJOZkhXeFlxckZCSlFhUElTVDdyNUd0U0UtazBnbmY4VnE5Uy1UZTQ5NkN6VXB5T0cyNGdQMHE5ZDhFWDBGQTRoSzVLbFphVjNTTE1TLVR5SW16WWhvd042bUUwZmhGM2didktr?oc=5",
+      "published": "Thu, 23 Jul 2026 02:26:16 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEFzM3g5U0JBc3hIVGdjRVpheHVtdjlEMm9rVk5OT0VaM0NiWksyTUlOOGM2SnNwbXdMZjFCU3FycWpKZzlYdFRzdlhmYnk1djNLcndCU1RYWlNRa1hBSS1pNENEVEhLX3FuS1g5LVpsV3hDUnR0bVlnbUwzTm1EbUxpRmtYNTZ6aHA1U1ZQMWx5VmNjTUtz?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaEFzM3g5U0JBc3hIVGdjRVpheHVtdjlEMm9rVk5OT0VaM0NiWksyTUlOOGM2SnNwbXdMZjFCU3FycWpKZzlYdFRzdlhmYnk1djNLcndCU1RYWlNRa1hBSS1pNENEVEhLX3FuS1g5LVpsV3hDUnR0bVlnbUwzTm1EbUxpRmtYNTZ6aHA1U1ZQMWx5VmNjTUtz?oc=5",
+      "published": "Thu, 23 Jul 2026 02:26:16 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "中邮创业基金管理股份有限公司关于中邮新锐量化选股混合型发起式证券投资基金增加代销机构并开通相关业务的公告 - 天天基金",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9BYUpES3FqamdrX081N0g1T3RDTVJRbTExVEk1UkZVRzE0MnFaZ0YyNm5HaHpxYVFacDZHZmhxN3czWUJ6VG1DNWM3emQtbkZoWTE4RFZwS004NmdLWk1QWFZjOVBTQ3g5MXhkdHRIV1JHNzAxcWc?oc=5\" target=\"_blank\">中邮创业基金管理股份有限公司关于中邮新锐量化选股混合型发起式证券投资基金增加代销机构并开通相关业务的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BYUpES3FqamdrX081N0g1T3RDTVJRbTExVEk1UkZVRzE0MnFaZ0YyNm5HaHpxYVFacDZHZmhxN3czWUJ6VG1DNWM3emQtbkZoWTE4RFZwS004NmdLWk1QWFZjOVBTQ3g5MXhkdHRIV1JHNzAxcWc?oc=5",
+      "published": "Thu, 23 Jul 2026 01:16:20 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "芯火燎原！碳化硅迎来上行窗口 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9IM3liT2Vpa3VNTFhxcVk0UExzY2RYdkRISS1vNkp3OGl4dVZjM1pFMmV3aDBldmJ1SmN0NVFZTUw4VHRIRHI1b0FvSUlFcVlzMkNMdVVVZXRQeWEyeXJHWGhKall5Z2JJa09V?oc=5\" target=\"_blank\">芯火燎原！碳化硅迎来上行窗口</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IM3liT2Vpa3VNTFhxcVk0UExzY2RYdkRISS1vNkp3OGl4dVZjM1pFMmV3aDBldmJ1SmN0NVFZTUw4VHRIRHI1b0FvSUlFcVlzMkNMdVVVZXRQeWEyeXJHWGhKall5Z2JJa09V?oc=5",
+      "published": "Thu, 23 Jul 2026 02:19:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上海银行间同业拆放利率(Shibor)部分下跌",
+      "summary": "隔夜shibor报1.3650%，下跌0.80个基点；7天shibor报1.3930%，下跌0.80个基点；14天shibor报1.4030%，下跌1.20个基点；1月shibor报1.4200%，与前一交易日持平；3月shibor报1.4300%，与前一交易日持平。",
+      "link": "https://news.10jqka.com.cn/20260723/c678376745.shtml",
+      "published": "Thu, 23 Jul 2026 03:00:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "广期所碳酸锂主力合约大涨5%",
+      "summary": "广期所碳酸锂主力合约大涨5%，报148480元/吨。",
+      "link": "https://news.10jqka.com.cn/20260723/c678376714.shtml",
+      "published": "Thu, 23 Jul 2026 02:58:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "奥特维大宽幅量产蒸发镀膜设备正式发货交付",
+      "summary": "据奥特维消息，近日，奥特维自主研发的首台大宽幅量产型钙钛矿蒸发镀膜设备正式发货，交付国内钙钛矿领军企业。公司表示，本次交付的百兆瓦级大幅宽量产型蒸发镀膜设备，实现公司钙钛矿真空装备产品的规模化落地应用。(人民财讯)",
+      "link": "https://news.10jqka.com.cn/20260723/c678376695.shtml",
+      "published": "Thu, 23 Jul 2026 02:57:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "业内专家：量化交易不是不能做，但绝不能成为市场波动的“放大器”",
+      "summary": "7月20日至21日，从投资者、上市公司到行业机构、专家学者，中国证监会以少见的密度和广度举行系列座谈会，围绕促进资本市场稳定健康发展听取意见建议。其中，“规范量化交易和AI应用”“加大市场违法违规惩处力度”成为讨论的核心话题。业内专家认为，量化交易不是不能做，但绝不能成为市场波动的“放大器”。不是技术本身有问题，而是技术应用的行为边界需要明确界定。从投资者代表建议“规范发展量化交易和AI应用”，到后续系列座谈会提出“进一步规范量化交易行为”——从“规范发展”到“规范行为”，这意味着具体政策或正在路上。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260723/c678376562.shtml",
+      "published": "Thu, 23 Jul 2026 02:52:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "泰国南部一检查站遭炸弹袭击 5名士兵死亡",
+      "summary": "据泰国媒体23日报道，一伙不明身份人员22日在泰国南部那拉提瓦府一检查站开枪并投掷管状炸弹，造成5名士兵死亡、6名平民受伤。 报道说，袭击发生在当地时间18时45分许，6名袭击者驾驶皮卡车到达那拉提瓦府拉昂县一检查站门口，开枪并投掷炸弹，随后驾车逃逸。 目前，泰国安全部门正全力追捕袭击者，同时下令在该地区采取最高级别安保措施，指示所有检查站保持高度警惕。 泰国总理阿努廷22日晚针对这一袭击事件敦促相关部门采取有效应对措施。他还表示，南部边境省份的和平谈判进程将继续进行。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260723/c678376548.shtml",
+      "published": "Thu, 23 Jul 2026 02:51:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "宁德时代“天价锂矿”斯诺威环评获受理",
+      "summary": "近日，甘孜州生态环境局受理《雅江县斯诺威矿业发展有限公司斯诺威矿业新能源锂矿开发项目》建设项目环境影响评价文件，并对外公告。根据环评受理公示，该项目位于甘孜州雅江县、康定市，建设单位为雅江县斯诺威矿业发展有限公司。环评文件披露，斯诺威项目建成后采矿规模将达150万吨/年。斯诺威矿业因2022年其54.2857%股权拍卖引发行业“天价锂矿”争夺战而闻名。最终宁德时代以逾64亿元的重整方案成为其100%控股股东和实际控制人。本次环评受理，标志矿山开发由前期手续筹备阶段迈入实质性建设筹备阶段。（界面新闻）",
+      "link": "https://news.10jqka.com.cn/20260723/c678376466.shtml",
+      "published": "Thu, 23 Jul 2026 02:48:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "工业金属板块持续走强",
+      "summary": "工业金属板块持续走强，盛达资源3连板，宏桥控股、南山铝业涨停，天山铝业、西部矿业、华峰铝业、中孚实业、新威凌跟涨。相关ETF方面，有色ETF广发（159029）涨3.74%，成交额2389.22万元，工业有色ETF易方达（159032）涨3.8%，成交额971.64万元。",
+      "link": "https://news.10jqka.com.cn/20260723/c678376324.shtml",
+      "published": "Thu, 23 Jul 2026 02:44:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英国新首相下调部分地区公交票价",
+      "summary": "英国新任首相安迪·伯纳姆22日说，他将下调英格兰地区公交车票价，缓解民众生活成本压力。不过，观察人士指出，伯纳姆面对的是“堆积如山的民生挑战”，长期高昂的公交车票价只是英国社会生活众多棘手问题中的冰山一角。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260723/c678376087.shtml",
+      "published": "Thu, 23 Jul 2026 02:35:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国家药监局批准2款创新药上市",
+      "summary": "近日，国家药品监督管理局通过优先审评审批程序批准Takeda Pharmaceuticals U.S.A., Inc.申报的1类创新药奥普雷顿片（商品名称：奥泽悦/ORZEYFUL）上市，用于16岁及以上青少年和成人1型发作性睡病患者。此外，近日，国家药品监督管理局通过优先审评审批程序批准四川海思科制药有限公司申报的1类创新药琥珀酸思普可泮片上市，适用于治疗既往未接受过补体抑制剂治疗的阵发性睡眠性血红蛋白尿症（PNH）成人患者。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260723/c678376037.shtml",
+      "published": "Thu, 23 Jul 2026 02:32:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "科创50指数跌幅扩大至4%",
+      "summary": "科创50指数跌幅扩大至4%，现报1785.6点。成分股中，华虹宏力跌超14%。",
+      "link": "https://news.10jqka.com.cn/20260723/c678375923.shtml",
+      "published": "Thu, 23 Jul 2026 02:28:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "三大指数集体翻绿 半导体、创新药板块跌幅居前",
+      "summary": "三大指数集体翻绿，科创50指数跌超3.5%，全市场超3200家个股上涨，半导体、创新药板块跌幅居前。",
+      "link": "https://news.10jqka.com.cn/20260723/c678375895.shtml",
+      "published": "Thu, 23 Jul 2026 02:27:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "广东：上半年工业机器人产品产量同比增长34.2%",
+      "summary": "广东统计信息网发布，上半年，全省规模以上工业增加值同比增长5.8%。分门类看，上半年，采矿业增加值同比增长8.8%，制造业增加值增长5.4%，电力、热力、燃气及水生产和供应业增加值增长8.9%。分行业看，上半年，计算机、通信和其他电子设备制造业增加值同比增长11.6%，电气机械和器材制造业增加值增长4.2%，汽车制造业增加值增长9.9%。分产品看，上半年，工业机器人产品产量同比增长34.2%，集成电路增长29.7%。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260723/c678375856.shtml",
+      "published": "Thu, 23 Jul 2026 02:26:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "海兴电力等成立智联科技新公司",
+      "summary": "企查查APP显示，近日，杭州辰光智联科技有限公司成立，经营范围包含半导体照明器件销售；新兴能源技术研发；储能技术服务；智能控制系统集成等。企查查股权穿透显示，该公司由海兴电力等共同持股。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260723/c678375852.shtml",
+      "published": "Thu, 23 Jul 2026 02:26:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "第33届东盟地区论坛在菲律宾马尼拉举行",
+      "summary": "当地时间23日，第33届东盟地区论坛在菲律宾马尼拉举行。与会各国外长就地区政治安全问题举行磋商。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260723/c678375846.shtml",
+      "published": "Thu, 23 Jul 2026 02:26:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "长江商学院：7月中国企业经营状况指数回升至50.1",
+      "summary": "长江商学院：7月中国企业经营状况指数回升至50.1长江商学院周四公布的7月中国企业经营状况指数（BCI ）录得50.1，较6月的48.7小幅回升。该指数由四个分指数以算术平均的方式构成。本月四个分指数出现三升一降的局面。企业销售前瞻指数由上月的57.3升至本月的60。企业利润前瞻指数本月为45.7，上月为42.7。企业融资环境指数本月为44.3，上个月为47.9。企业库存前瞻指数本月为50.3，上月为46.8。除上述四项指数，长江商学院在问卷中询问了企业对成本、价格情况的预期。本月企业用工成本前瞻指数出现了明显上升，上月该指数为63.6，本月为70.4。企业总成本前瞻指数本月出现了小幅上升，上月为68.2，本月为70.4。消费品价格前瞻指数本月出现了小幅上升，上月的指数为44.6，本月为46.6。（界面新闻）",
+      "link": "https://news.10jqka.com.cn/20260723/c678375803.shtml",
+      "published": "Thu, 23 Jul 2026 02:24:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以媒：美国通知以色列将加大对伊打击 或轰炸镐山",
+      "summary": "据《以色列时报》22日报道，美国已经通知以色列，其计划在未来数日加大对伊朗的打击力度，包括自今年美国和以色列对伊朗采取军事行动以来首次使用重型轰炸机。报道称，重型轰炸机预计将用于打击伊朗镐山地下核设施。美国总统特朗普过去一周曾多次威胁称，“可能很快”打击该地区。据报道，美以保持密切协调旨在让以色列做好准备，应对伊朗可能因美国加大打击力度而升级的反击行动，包括向以色列发射导弹。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260723/c678375761.shtml",
+      "published": "Thu, 23 Jul 2026 02:22:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "又一个台风预计将登陆我国",
+      "summary": "中央气象台23日10时发布热带低压预报，菲律宾以东热带低压23日早晨在菲律宾以东洋面上生成，8时位于菲律宾马尼拉偏东方向约930公里的洋面上，预计这一低压将于未来12至24小时发展为台风，25日晚上至26日凌晨在广东中东部到福建南部一带沿海登陆，登陆后逐渐转向北偏西方向移动，强度逐渐减弱。 这将是继台风“美莎克”和“巴威”之后，今年登陆我国的第3个台风。 中央气象台预计，未来10天，西北太平洋和南海将有2至3个台风生成，其中1个将于25日前后进入南海北部海域，并影响华南地区。按照台风命名表，今年第12号台风将被命名为“红霞”。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260723/c678375719.shtml",
+      "published": "Thu, 23 Jul 2026 02:21:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "电池板块震荡拉升 吉和昌涨超15%",
+      "summary": "电池板块震荡拉升，吉和昌涨超15%，中瑞股份涨超10%，海科新源、华盛锂电、天华新能、中伟新材、鹏辉能源跟涨。相关ETF方面，电池ETF大成（159155）涨1.96%，成交额551.01万元，电池ETF广发（159755）涨1.53%，成交额1.86亿元。",
+      "link": "https://news.10jqka.com.cn/20260723/c678375608.shtml",
+      "published": "Thu, 23 Jul 2026 02:17:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "科创50指数跌幅扩大至3%",
+      "summary": "科创50指数跌幅扩大至3%，现报1804.24点。成分股中，华虹宏力跌超10%。",
+      "link": "https://news.10jqka.com.cn/20260723/c678375493.shtml",
+      "published": "Thu, 23 Jul 2026 02:14:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "两部门：实施医疗卫生强基工程中医药行动",
+      "summary": "国家中医药管理局、国家发展和改革委员会印发《中医药振兴发展“十五五”规划》，其中提出，实施医疗卫生强基工程中医药行动。推动每个县级中医医院至少建成2个中医特色优势专科和1个县域中医适宜技术推广中心，发挥其在县域中医医疗、预防保健、特色康复、人才培养、适宜技术推广和健康宣教方面的龙头作用。大力推广基层中医适宜技术，推进中医馆、中医阁建设，支持基层医疗卫生机构提升中医药服务能力。持续开展巡回医疗、健康帮扶。加强边远地区中医医疗机构和综合医院中医科（少数民族医科室）建设。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260723/c678375489.shtml",
+      "published": "Thu, 23 Jul 2026 02:14:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "马斯克：FSD是拉动特斯拉汽车需求的核心驱动力",
+      "summary": "【马斯克：FSD是拉动特斯拉汽车需求的核心驱动力】财联社7月23日电，美东时间周三盘后，特斯拉CEO马斯克在财报会上表示，特斯拉需求基本面依旧强劲，FSD是拉动需求的核心驱动力。“在FSD全自动驾驶获批落地的地区，选装率极高。很多客户本质是冲着FSD来买车，相当于买一套FSD附赠一台车。随着FSD在全球各国陆续获批，我们预计各地需求都会迎来类似爆发式增长，这一块前景十分乐观。”",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:59:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "主力资金监控：紫光股份净卖出超18亿",
+      "summary": "【主力资金监控：紫光股份净卖出超18亿】财联社7月23日电，财联社星矿数据显示，今日早盘主力资金净流入有色金属、电新行业、电网设备行业等板块，净流出半导体、电子、计算机等板块，其中半导体板块净流出超131亿元。个股方面，工业富联上涨，主力资金净买入超9.45亿元位居首位，紫金矿业、洛阳钼业、风华高科获主力资金净流入居前；紫光股份遭净卖出超18亿元，中兴通讯、长电科技、新易盛资金净流出额居前。<br /><img src=\"https://image.cls.cn/images/20260723/LHo7Y6Be2I_930x683.png\" /><img src=\"https://image.cls.cn/images/20260723/YtWhFD2JT3_672x690.png\" />",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:58:38 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美军称结束连续第12晚对伊朗打击行动",
+      "summary": "【美军称结束连续第12晚对伊朗打击行动】财联社7月23日电，美军中央司令部在社交媒体发布消息称，美军于美国东部时间7月22日晚10时30分，结束连续第12晚对伊朗打击行动。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:56:18 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月23日电，印尼股市自6月低点回升20%，势将步入技术性牛市。",
+      "summary": "财联社7月23日电，印尼股市自6月低点回升20%，势将步入技术性牛市。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:53:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "锂矿概念持续走强 国城矿业、永杉锂业双双涨停",
+      "summary": "【锂矿概念持续走强 国城矿业、永杉锂业双双涨停】财联社7月23日电，锂矿概念盘中持续走强，国城矿业、永杉锂业涨停，盛新锂能、天华新能、大中矿业、中矿资源等涨超6%。消息面上，广期所碳酸锂主力合约日内涨超4%，站上14.7万元/吨。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:50:37 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【研选•数据】A股中观景气跟踪一张表",
+      "summary": "",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:40:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "有色·铝板块震荡走高 宏桥控股涨停",
+      "summary": "【有色·铝板块震荡走高 宏桥控股涨停】财联社7月23日电，有色·铝板块盘中震荡走高，宏桥控股涨停，南山铝业、中孚实业、天山铝业、华峰铝业、云铝股份均涨超5%。消息面上，中银证券指出，原油价格再度上行意味着海外能源价格低位逐步确定，作为电能实物载体的电解铝，商品价格底部同样有望逐步确定。自今年年初以来早已完成“去杠杆”的主要电解铝企业，当前均具备较高的股息率。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:38:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国家药监局批准2款创新药上市",
+      "summary": "【国家药监局批准2款创新药上市】财联社7月23日电，国家药品监督管理局近日通过优先审评审批程序批准Takeda Pharmaceuticals U.S.A., Inc.申报的1类创新药奥普雷顿片（商品名称：奥泽悦/ORZEYFUL）上市，用于16岁及以上青少年和成人1型发作性睡病患者。此外，近日，国家药品监督管理局通过优先审评审批程序批准四川海思科制药有限公司申报的1类创新药琥珀酸思普可泮片上市，适用于治疗既往未接受过补体抑制剂治疗的阵发性睡眠性血红蛋白尿症（PNH）成人患者。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:35:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月23日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨3500元/吨，中间价报145500元/吨。 (Mysteel)",
+      "summary": "财联社7月23日电，数据显示，今日MMLC电池级碳酸锂（早盘）价格较昨日上涨3500元/吨，中间价报145500元/吨。 (Mysteel)",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:34:21 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月23日电，BMD马来西亚棕榈油主力合约涨近2%。",
+      "summary": "财联社7月23日电，BMD马来西亚棕榈油主力合约涨近2%。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:32:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月23日电，香港恒生指数上涨1%至25,141.64点。",
+      "summary": "财联社7月23日电，香港恒生指数上涨1%至25,141.64点。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:32:29 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "沙特证实一艘油轮在红海遭袭起火",
+      "summary": "【沙特证实一艘油轮在红海遭袭起火】财联社7月23日电，据沙特方面23日消息，沙特阿拉伯“恩塞利亚”号油轮在红海航行时遭袭，袭击造成船头起火，船员均安全。此前，也门胡塞武装表示使用多枚弹道导弹、巡航导弹以及无人机，打击违反该组织海上禁运令的沙特油轮“恩塞利亚”号和“莱拉”号。也门胡塞武装20日宣布对沙特实施海上禁运，并警告国际航运公司称，与沙特港口开展贸易往来的船只可能面临军事打击。 (央视新闻)",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:32:05 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "广东：上半年工业机器人、集成电路产品产量分别增长34.2%、29.7%",
+      "summary": "【广东：上半年工业机器人、集成电路产品产量分别增长34.2%、29.7%】财联社7月23日电，广东统计官微数据显示，上半年，广东省规模以上工业增加值同比增长5.8%，增速比一季度提高0.4个百分点。分门类看，采矿业增加值增长8.8%，制造业增长5.4%，电力、热力、燃气及水生产和供应业增长8.9%。分行业看，电子信息行业是主要支柱，计算机、通信和其他电子设备制造业增加值增长11.6%，对规模以上工业贡献率达56.9%；汽车制造业增长9.9%；电力、热力生产和供应业增长10.8%；设备制造业快速增长，专用设备制造业、通用设备制造业分别增长11.2%、7.6%。上半年，全省规模以上先进制造业、高技术制造业增加值分别增长6.9%、11.1%，分别高于规模以上工业增速1.1个、5.3个百分点；占全省规模以上工业比重分别为57.2%、35.8%，比重比上年同期提高1.8个、2.8个百分点。分产品看，高技术产品保持较快增长，工业机器人、3D打印设备、集成电路产品产量分别增长34.2%、51.8%、29.7%；绿色产品增势良好，新能源汽车、锂离子电池产品产量分别增长48.4%、32.2%。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:31:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【风口研报·公司】二季度业绩大增400%，这家公司在WAIC2026上发布“Token工厂”和全栈算力矩阵、正式切入推理算力服务市场，并卡位LPU推理芯片与具身智能核心部...",
+      "summary": "",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:29:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "三大指数全部翻绿 科创50跌近4%",
+      "summary": "【三大指数全部翻绿 科创50跌近4%】财联社7月23日电，指数再度走低，三大指数全部翻绿，科创50指数跌近4%。半导体芯片、白酒、游戏等方向跌幅居前，沪深京三市下跌个股近2100只。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:27:18 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "沪深两市成交额突破1万亿 较上一日此时缩量超2600亿",
+      "summary": "【沪深两市成交额突破1万亿 较上一日此时缩量超2600亿】财联社7月23日电，据财联社盯盘数据显示，沪深两市成交额突破1万亿，较上一日此时缩量超2600亿，预计全天成交金额近2.3万亿。<br /><img src=\"https://image.cls.cn/images/20260723/zP16AD3ij4_1206x1178.jpg\" />",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:25:41 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "芯片产业链震荡回落 华虹宏力跌超10%",
+      "summary": "【芯片产业链震荡回落 华虹宏力跌超10%】财联社7月23日电，芯片产业链盘中震荡回落，华虹宏力跌超10%，万通发展、精智达、甬矽电子、拓荆科技、乐鑫科技、中科飞测等跟跌。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:15:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "科创50跌超3% 芯片股领跌",
+      "summary": "【科创50跌超3% 芯片股领跌】财联社7月23日电，指数分化，科创50回落跌超3%，华虹宏力、精智达、拓荆科技、甬矽电子、中科飞测等芯片股领跌。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:14:59 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "法国6月至7月初热浪期间全因超额死亡5764人",
+      "summary": "【法国6月至7月初热浪期间全因超额死亡5764人】财联社7月23日电，法国公共卫生署22日发布的报告说，6月17日至7月2日席卷法国的热浪期间，该国记录了至少5764例全因超额死亡，较正常预期水平增加36%。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:14:42 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "贵金属概念再度走强 盛达资源3连板",
+      "summary": "【贵金属概念再度走强 盛达资源3连板】财联社7月23日电，贵金属概念再度走强，盛达资源3连板，四川黄金涨超8%，兴业银锡、湖南白银、赤峰黄金、山金国际跟涨。消息面上，现货黄金站上4140美元/盎司，日内涨0.17%。现货白银站上60美元/盎司，日内涨0.55%。",
+      "link": "",
+      "published": "Thu, 23 Jul 2026 02:13:29 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "清算量超越港元与美元！香港离岸人民币市场跃升为全球融资枢纽",
+      "summary": "<p>香港离岸人民币市场正经历结构性跃升——从贸易结算工具演变为全球融资枢纽，标志着人民币国际化进入新阶段。</p>\n<p><strong>香港6月人民币清算量升至53.2万亿元（约合7.9万亿美元），在港结算规模首次超越港元与美元，创下历史纪录。</strong>与此同时，香港离岸人民币存款于5月底达到1.13万亿元的历史高位，债券发行量年内同比激增33%。</p>\n<p>据彭博周四报道，这一趋势正在重塑全球资本流动格局。<strong>中国企业加速出海，将财资管理、对冲及融资活动向香港集中；全球主权机构与企业借道香港发行离岸人民币债券的热情持续升温；渣打、汇丰、中国银行（香港）等主要银行均表示，客户对人民币贷款的需求正在快速扩大，且期限不断拉长。</strong></p>\n<h2>清算量创纪录，人民币结算规模超越港元与美元</h2>\n<p>香港银行同业结算有限公司数据显示，今年6月香港人民币清算量达53.2万亿元，整体结算规模在港超越港元与美元，这一里程碑式突破直观反映出离岸人民币市场的深度与广度已发生质变。</p>\n<p>渣打银行中国开放及人民币国际化主管Karen Ng表示，\"",
+      "link": "https://wallstreetcn.com/articles/3777738",
+      "published": "Thu, 23 Jul 2026 02:53:06 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "新债王：2026年私募信贷，正在重演2008年次贷危机？",
+      "summary": "<p>新债王冈拉克认为，当前的私募信贷市场正在重演2008年次贷危机前的“金融炼金术”，机构受利益驱使，利用极不透明的定价机制和可疑的评级掩盖资产大幅贬值的真相，故意维持虚高的估值以赚取高额管理费，系统性风险正在悄然积聚。</p>",
+      "link": "https://wallstreetcn.com/charts/41959445",
+      "published": "Thu, 23 Jul 2026 02:38:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "金油从反向到同涨，资金变了",
+      "summary": "<p><strong>黄金突破关键阻力位，一改前期弱势。</strong>近两日黄金连续大涨，伦敦金现21日上涨1.73%，22日盘中最大涨幅达1.58%、强势突破4140美元/盎司，两日累计涨幅接近3%，盘面上一举突破5日、10日、20日均线（4040-4070美元/盎司区间）。</p>\n<p><strong>原油同样表现强劲，“油涨金跌”逻辑暂时失效。</strong>7月2日以来，布伦特原油期货累计涨幅已超30%，其中21日上涨2.7%，22日盘中再涨近3%。值得注意的是，7月6日以来，伴随美伊再起冲突，市场重回“油涨金跌”的跷跷板行情，但在最近两个交易日，这一关联被“金油同涨”打破，反映出定价逻辑正在边际变化。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/e5b7151a-1c28-4959-b6ff-1bcd0bc69127.png\" /></p>\n<p><strong>反常之处在于，黄金对利空信号明显钝化，对“实际利率”这一传统定价锚边际脱敏。本周加息交易仍在继续，但金价拒绝下跌。</strong",
+      "link": "https://wallstreetcn.com/articles/3777733",
+      "published": "Thu, 23 Jul 2026 02:36:56 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "可再生能源发展“十五五”规划出炉！2030年风光装机超28亿千瓦、发电量占比达30%",
+      "summary": "<p>7月23日，<a href=\"https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20649\" rel=\"noopener\" target=\"_blank\">国家发展改革委和国家能源局联合发布《可再生能源发展“十五五”规划》</a>。</p>\n<p>其中提出，<strong>2030年，可再生能源消费总量达到18亿吨标准煤左右。2030年，可再生能源发电总装机达到35亿千瓦左右，年发电量达到6万亿千瓦时左右；风电和太阳能发电总装机达到28亿千瓦以上、装机占比超过50%，年发电量4万亿千瓦时以上，发电量占比达到30%。</strong></p>\n<p>2030年，可再生能源非电利用总规模较2025年增长1.5倍，折合约1.5亿吨标准煤。</p>\n<p>2030年，全国风电光伏（含源侧配建储能）平均置信出力达到8%（风电11%左右，光伏6%左右），迎峰度夏度冬晚高峰风电光伏（含源侧配建储能）电量占比达到20%以上，提高约10个百分点。“十五五”期间新增可再生能源可靠顶峰发电能力3亿千瓦以上。</p>\n<div>\n<h2 id=\"e75c9b7",
+      "link": "https://wallstreetcn.com/articles/3777737",
+      "published": "Thu, 23 Jul 2026 02:16:08 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "A股三大股指震荡上涨，有色金属再拉升，科创50跌超2%，半导体产业链调整，恒指涨1%，科网股多反弹",
+      "summary": "<p>7月23日，A股震荡上涨，沪指盘初维持在平盘附近盘整，深成指、创业板盘初一度涨超1%，算力硬件股早盘活跃，覆铜板、光模块等方向走强，培育钻石、玻璃纤维、超硬材料等概念股拉升，锂矿、工业金属等大涨，芯片半导体再度陷入调整，半导体硅片、半导体设备等跌幅居前。</p>\n<p>港股早盘高开高走，恒指、恒科指盘初双双上涨，恒指涨近1%，科网股多数反弹，腾讯、阿里、快手、百度等上涨，芯片股承压，华虹宏力跌6%。AI大模型股延续涨势，MINIMAX、智谱均走高。债市方面，国债期货多数下跌。商品方面，国内商品期货普遍上涨。核心市场走势：</p>\n<blockquote>\n<p><strong>A股</strong>：截至发稿，沪指%，深成指%，创业板指%。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/6e8fa20f-102d-41ed-9f64-9ddce4b45193.png\" /></p>\n<p><strong>港股</strong>：截至发稿，恒指涨0.73%，恒科指涨0.27%。</p>\n<p><img c",
+      "link": "https://wallstreetcn.com/articles/3777740",
+      "published": "Thu, 23 Jul 2026 02:09:48 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "“十五五”时期全面推进中医药高质量发展！《规划》部署十方面重点任务",
+      "summary": "<p>经国务院批复同意，国家中医药局、国家发展改革委日前印发《中医药振兴发展“十五五”规划》。《规划》明确“十五五”时期全面推进中医药发展指导思想、发展目标和指标。《规划》提出，到2030年，覆盖全民和全生命周期的中医药服务体系更加健全，中医药防治重大疾病取得新突破，基层服务提质升级，基础研究能力大幅提升，中药产业创新创造力大幅增强，中医药文化与国际影响力进一步提升，中医药振兴发展迈上新台阶，实现人人享有中医药服务。《规划》从中医药资源、服务、文化、开放发展等方面提出10项主要发展指标。</p>\n<p>《规划》部署了十方面重点任务，包括完善高质量中医药服务体系、提升中医药全生命周期健康服务能力、推动中西医结合高质量发展、建设高质量中医药人才队伍、推进中医药传承与创新、推进现代化中药产业和健康服务、推动中医药文化繁荣发展、扩大中医药开放发展、加速中医药数智化赋能与标准化建设、深化中医药领域改革与治理，共提出27项重点举措，设置11个专栏、37个工程项目。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3138549",
+      "published": "Thu, 23 Jul 2026 02:02:07 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "沃什时代的美联储太难猜！临近FOMC，市场仍无法确定下周的政策走向",
+      "summary": "<p>距离美联储下次议息会议仅剩数日，市场对其政策走向的判断却依然高度分歧——这在近年来极为罕见。新任主席沃什彻底抛弃前任惯用的前瞻指引做法，正在从根本上重塑交易员与美联储之间的信息博弈规则。</p>\n<p>利率互换市场显示，交易员目前预计美联储在7月29日会议上加息25个基点的概率约为30%，维持利率不变的概率约为70%。如此接近会议日期仍存在如此大的分歧，在近年来极为罕见。</p>\n<p>据彭博周四报道，Bianco Research总裁兼宏观策略师Jim Bianco表示：<strong>“没有前瞻指引，意味着我们将频繁看到20%、30%、40%的概率分布。市场正在向这种新的思维方式过渡。”</strong></p>\n<p>这一不确定性的直接影响已在债券市场显现。对于押注美联储动向的交易员而言，猜对将获得更丰厚的回报，猜错则面临更大的损失。利率互换市场目前已完全定价9月加息25个基点，并隐含明年3月前累计加息逾两次。</p>\n<h2>沃什打破惯例，前瞻指引成历史</h2>\n<p>自今年5月就任以来，沃什明确表态将废除美联储长期以来向市场预先发出利率路径信号的做法。他认为，前瞻指引",
+      "link": "https://wallstreetcn.com/articles/3777732",
+      "published": "Thu, 23 Jul 2026 01:46:33 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "摩根大通的“技术分析”：油价触及关键阻力，金价中期偏空，铜价跌破支撑将强化看空",
+      "summary": "<p style=\"text-align: left;\">大宗商品市场正同步走到多个技术关口。</p>\n<p style=\"text-align: left;\">据追风交易台消息，摩根大通技术策略师Jason Hunter在7月21日的商品技术图表报告中指出，布伦特原油、黄金、铜等主要大宗商品均到达关键价位节点，且方向性信号存在明显分化——原油短期多头面临阻力考验，黄金中期偏空格局尚未逆转，铜价则处于“潜在周期顶部”的悬而未决状态。</p>\n<p style=\"text-align: left;\">三类资产的共同特征是：反弹空间受限，下行风险却相对清晰。不论是油价在85附近遇阻，还是金价在4197下方维持空头偏向，当前图表结构给出的信号都是“上行需要更多确认，下行则已有路径”。</p>\n<h2 style=\"text-align: left;\">原油：反弹触顶，夏季区间上限已至</h2>\n<p style=\"text-align: left;\">布伦特原油（2026年12月合约）从72.07-72.51美元支撑区间反弹后，<strong>涨势在83-85.71一带遭遇密集阻力</str",
+      "link": "https://wallstreetcn.com/articles/3777734",
+      "published": "Thu, 23 Jul 2026 01:20:24 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致",
+      "summary": "<p style=\"text-align: left;\">花旗研究认为，腾讯控股7月22日股价单日重挫逾7%，主要源于市场对二季度游戏收入数据的恐惧情绪与误读，而非基本面的实质性恶化。花旗维持对腾讯的买入评级，目标价港币758元，并将<strong>此次下跌定性为\"过度反应\"</strong>，视之为增强型买入机会。</p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/1846fada-0c41-4017-9c5d-a986eec74328.png\" /></p>\n<p style=\"text-align: left;\">据花旗研究分析师Alicia Yap及Nelson Cheung在7月22日发布的快评报告，此次抛售由三重因素叠加触发：<strong>市场资金向AI硬件板块轮动、彭博援引券商报告称腾讯二季度游戏\"收入\"将出现下滑，以及市场对腾讯加大AI投资拖累利润的担忧重燃。</strong>花旗认为，上述因素共同放大了市场的负面情绪，但其中<strong>关",
+      "link": "https://wallstreetcn.com/articles/3777735",
+      "published": "Thu, 23 Jul 2026 01:20:15 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "正在老去的美国 已经进入全面梭哈AI状态",
+      "summary": "<p>温彻斯特是波士顿郊外一个安静的富裕小镇，公立学区在全州数一数二，曾经是年轻家庭抢着搬进来的地方。但在镇上的Jenks老年活动中心，排舞课越来越火，中心不得不扩建接驳车服务，停车场也快要装不下了。教练一边带着学员踩节拍，一边喊：“这能帮你们的神经元放电，预防认知衰退！”穿矫形鞋的老人们笑着转圈。几个街区外，一所小学的幼儿园班，今年秋天只收到了建校以来最少的报名。</p> <p>老人越来越多，孩子越来越少——这件事正在美国数以千计的郊区小镇同时发生。2000到2024年，美国郊区县的老年人口翻了一倍多，学龄儿童几乎没有增长，很多地方反而在减少。郊区小学的一年级入学人数在2012到2023年间下降了14%，降幅快过大城市的11%和中小城市的10%。</p> <p>把镜头从一个个小镇拉远，拉到整个国家的尺度，你看到的是一幅更令人不安的图景。</p> <p>斯坦福大学商学院经济学家Chad Jones给这幅图景起了一个名字：“空星球”。在他的模型里，一个文明的人口一旦开始持续下降，产生新想法的大脑就越来越少，而想法恰恰是经济增长的唯一燃料——于是知识存量趋于凝固，生活水平停止改善，文明进入",
+      "link": "https://wallstreetcn.com/member/articles/3776830",
+      "published": "Thu, 23 Jul 2026 01:19:27 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中金：公募还持有多少港股？",
+      "summary": "<p style=\"text-align: left;\">经历了2025年的大幅上涨后，2026年上半年的港股显得有些“落寞”：内有A股创业板屡创新高的对比，外有韩国、美股AI行情的衬托，资金与关注度都大不如前，<strong>这背后恰是中国信用周期K型分化的直接映射。</strong></p>\n<p style=\"text-align: left;\"><strong>6月下旬，港股一度加速下行至阶段低位，资金面也同步降温，2Q26南向资金流入港股约800亿港元，</strong>上半年累计流入约3000亿港元，较2025年二季度约3000亿港元、上半年约7300亿港元的规模显著缩水。<strong>不过7月中旬以来，全球高拥挤AI资产遭遇“去杠杆式”动荡，韩国、美股科技与A股创业板先后调整，资金开始在高低位资产之间寻求再平衡，处于低位的港股反而迎来阶段性的交易机会。</strong>南向资金也再度流入，上周单周流入达370亿港元。</p>\n<p style=\"text-align: left;\">作为南下资金重要参与者的内地公募基金，其对港股持仓情况如何、行业配置上有何变化？我们通过",
+      "link": "https://wallstreetcn.com/articles/3777731",
+      "published": "Thu, 23 Jul 2026 01:08:46 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "国家发展改革委、国家能源局印发 《可再生能源发展“十五五”规划》",
+      "summary": "<p>其中<a href=\"https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=20649\" rel=\"nofollow\">提到</a>，2030年，可再生能源消费总量达到18亿吨标准煤左右。2030年，可再生能源发电总装机达到35亿千瓦左右，年发电量达到6万亿千瓦时左右；风电和太阳能发电总装机达到28亿千瓦以上、装机占比超过50%，年发电量4万亿千瓦时以上，发电量占比达到30%。</p>\n<p>2030年，可再生能源非电利用总规模较2025年增长1.5倍，折合约1.5亿吨标准煤。</p>\n\n<p>2030年，全国风电光伏（含源侧配建储能）平均置信出力达到8%（风电11%左右，光伏6%左右），迎峰度夏度冬晚高峰风电光伏（含源侧配建储能）电量占比达到20%以上，提高约10个百分点。“十五五”期间新增可再生能源可靠顶峰发电能力3亿千瓦以上。</p>",
+      "link": "https://wallstreetcn.com/livenews/3138499",
+      "published": "Thu, 23 Jul 2026 01:04:55 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "要管管国会山股神了？美国参议院将表决《禁止内幕交易法案》",
+      "summary": "<figure><img alt=\"要管管国会山股神了？美国参议院将表决《禁止内幕交易法案》\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/07/77761977e558855aa4be444527b6e699.jpeg\" /></figure><p>前众议院议长佩洛西收益率大幅跑赢巴菲特长期回报。</p><p>当地时间周三，美国议会众议院以232票对198票表决结果，通过一项名为《停止内幕交易法案》的议案。该议案是首个在众议院全体会议上进行表决的国会股票交易禁令法案，旨在限制国会议员及其家属买卖股票。接下来法案将提交参议院审议。</p><p>民众普遍支持全面禁止议员任职期间交易股票：数十年来，议员凭借精准择时买卖股票、投资组合收益大幅跑赢市场，伦理监督机构多次质疑其利用职务内幕信息牟利，相关行为持续引发公众强烈不满。</p><p>前众议院议长南希・佩洛西是最知名 “国会山股神”，其丈夫代为操作账户，2024年投资收益71%，多年复合收益超700%，大幅跑赢巴菲特长期回报。</p><p>追踪政客交易的机构Unusual Whales",
+      "link": "https://www.yicai.com/news/103288922.html",
+      "published": "Thu, 23 Jul 2026 02:40:26 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "一批注册会计师相关规定将迎来修订",
+      "summary": "<figure><img alt=\"一批注册会计师相关规定将迎来修订\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/9c15a9a8a93ff11a84b7a1ed92062357.jpg\" /></figure><p>为配合新的注册会计师法落地，一批相关配套制度将修改</p><p>时隔十多年大修的《中华人民共和国注册会计师法》，将于明年1月1日施行。为了配合新法落地，财政部正部署修订相关法规。</p>\n\n<p>近日，财政部公布《关于做好新修改注册会计师法贯彻实施工作的通知》，其中一大重点是加快修改完善配套制度。</p>\n\n<p>财政部称，为贯彻落实新修改注册会计师法，财政部正积极推动《会计师事务所执业许可和监督管理办法》《注册会计师注册办法》《注册会计师任职资格检查办法》等配套制度的修改或制定工作，研究加强会计师事务所执业许可与经营主体登记制度的衔接协调、健全注册会计师行业自律监督制度规范，确保新修改注册会计师法落实到位。</p>\n\n<p>另外，财政部还要求，各地区要根据新修改注册会计师法精神，抓紧做好本地区涉及法律修改内容",
+      "link": "https://www.yicai.com/news/103288914.html",
+      "published": "Thu, 23 Jul 2026 02:36:00 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "财长谈财金促内需新政成效，将强化问题导向优化政策",
+      "summary": "<figure><img alt=\"财长谈财金促内需新政成效，将强化问题导向优化政策\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/c341872a546a6d2eaaa2100b4938bc87.jpg\" /></figure><p>千亿财政金融协同工具上半年撬动相关贷款超17万亿元</p><p>为了扩大内需，今年中国创新推出一项宏观政策工具，即1000亿元的财政金融协同促内需一揽子6项政策，通过财政贴息等手段定向支持民间投资、居民消费。那么这项新政究竟效果如何？</p>\n\n<p>7月23日，财政部部长蓝佛安在《人民日报》发表的《以更大力度落实财政金融协同促内需一揽子政策》一文中，给出了答案。</p>\n\n<p>蓝佛安在上文中表示，今年初，财政金融协同促内需一揽子政策实施以来，中央统筹推进，地方紧抓落实，金融机构创新服务，经营主体和居民广泛参与，有力推动政策加快落地，政策效果逐步显现。</p>\n\n<p>据官方统计，1—6月，新发放相关领域中小微企业贷款、设备更新贷款、服务业经营主体贷款、个人消费贷款4项贷款合计超17万亿元，同",
+      "link": "https://www.yicai.com/news/103288919.html",
+      "published": "Thu, 23 Jul 2026 02:35:07 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "百万年薪招董事长背后：温州商人胡兴荣与多弗集团危局",
+      "summary": "<figure><img alt=\"百万年薪招董事长背后：温州商人胡兴荣与多弗集团危局\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/f761ef42747098c5f6b3e92cc9cebbdc.jpg\" /></figure><p>多弗集团要求高管应聘者具备战略转型、危机管理经验，甚至明确提出“消债能力强”。</p><p>从依靠收购房地产不良资产崛起，到跻身中国民营企业500强、号称年营收突破2000亿元，再到如今面临实控人风波，多弗集团正在经历一场剧烈转折。</p>\n\n<p>19岁就成立自己公司的温州商人胡兴荣，在烂尾楼收购中发现暴富的机遇，曾位列胡润全球白手起家富豪榜，38岁便当选北京温州企业商会会长，构建了“A+H”双上市平台。</p>\n\n<p>然而今年7月胡兴荣被有关部门采取强制措施的消息落地后，多弗集团公开高薪招聘旗下上市公司董事长、总经理等核心管理岗位，引发市场对于其后续资产重组、债务处置以及经营调整的广泛关注。</p>\n\n<p><strong>高薪招高管，要求“消债能力强”</strong></p>\n\n<p",
+      "link": "https://www.yicai.com/news/103288645.html",
+      "published": "Thu, 23 Jul 2026 01:35:17 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "滚动更新丨A股四大指数集体高开，市场逾3000股下跌",
+      "summary": "<figure><img alt=\"滚动更新丨A股四大指数集体高开，市场逾3000股下跌\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/07/6c981834b71d7d40b7a0e1317c91af83.jpg\" /></figure><p>盘面上，制药、煤炭板块跌幅居前。</p><p><strong>09:41</strong> 科创50指数跌幅扩大至1%，现报1844.90点。</p>\n\n<p align=\"center\"><img align=\"\" alt=\"\" border=\"0\" height=\"450\" src=\"https://imgcdn.yicai.com/uppics/images/2026/07/29ad63d5576755aca44c90e3874f6ad4.jpg\" width=\"1189\" /></p>\n\n<p><strong>09:38</strong> MLCC概念震荡反弹，风华高科、火炬电子涨停，昀冢科技涨超16%，利和兴、三环集团、博迁新材、国瓷材料跟涨。消息面上，调研反馈显示，当前MLCC供",
+      "link": "https://www.yicai.com/news/103288657.html",
+      "published": "Thu, 23 Jul 2026 01:31:44 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "多地国有资本投资运营平台跟进增持 央地联动夯实A股长期资金底盘 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE91STJGOWNfRUxicC1VR0ZVVHNfMmpqcDZSSEtRR3RPMThKOUFUazFDSlJGbEJfNU8xYkVyOEJha3FQWDJ5OWFsVUdReGlFZVZ0SXBucUpuOVBQYVVK?oc=5\" target=\"_blank\">多地国有资本投资运营平台跟进增持 央地联动夯实A股长期资金底盘</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91STJGOWNfRUxicC1VR0ZVVHNfMmpqcDZSSEtRR3RPMThKOUFUazFDSlJGbEJfNU8xYkVyOEJha3FQWDJ5OWFsVUdReGlFZVZ0SXBucUpuOVBQYVVK?oc=5",
+      "published": "Thu, 23 Jul 2026 02:41:00 GMT"
+    }
+  ]
+}
