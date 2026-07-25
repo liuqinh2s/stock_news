@@ -1,15 +1,36 @@
 {
   "date": "2026-07-26",
   "hour": "02",
-  "total": 1,
-  "fetched_at": "2026-07-26T02:00:50.955079+08:00",
+  "total": 4,
+  "fetched_at": "2026-07-26T02:50:10.296538+08:00",
   "news": [
     {
       "source": "东方财富",
-      "title": "光芯业绩翻三倍，难道没有隐忧？ - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9sNXJRTkZ0N1RoeVh4Y0F5TnNfbEhvZkpGNVJDUFQxSDBTSi1LcUZ1WVAzcklERmhLdl90UUhiSkw1Y083RXg2OG1IVVVfMjdMWXZrT005U2FPMFRKcHB2N2xYWkViemtBUzRB?oc=5\" target=\"_blank\">光芯业绩翻三倍，难道没有隐忧？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sNXJRTkZ0N1RoeVh4Y0F5TnNfbEhvZkpGNVJDUFQxSDBTSi1LcUZ1WVAzcklERmhLdl90UUhiSkw1Y083RXg2OG1IVVVfMjdMWXZrT005U2FPMFRKcHB2N2xYWkViemtBUzRB?oc=5",
-      "published": "Sat, 25 Jul 2026 16:34:00 GMT"
+      "title": "每周股票复盘：山外山（688410）全资子公司获血液透析管路注册证 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1NTFl3VHRqb0F2QnluVnl1R1gxdldJMEZQVEVkbE1Nb0czX1hmUXA0bmlFWWticGRTWmg1dHk5cFp2ajN3bDJqRVFQd1BGUTBsTkxYM2JWZG1uemhsUk9JaFRjUGpWMkJOa1hJ?oc=5\" target=\"_blank\">每周股票复盘：山外山（688410）全资子公司获血液透析管路注册证</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NTFl3VHRqb0F2QnluVnl1R1gxdldJMEZQVEVkbE1Nb0czX1hmUXA0bmlFWWticGRTWmg1dHk5cFp2ajN3bDJqRVFQd1BGUTBsTkxYM2JWZG1uemhsUk9JaFRjUGpWMkJOa1hJ?oc=5",
+      "published": "Sat, 25 Jul 2026 18:31:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "特朗普下令暂停空袭伊朗",
+      "summary": "【特朗普下令暂停空袭伊朗】财联社7月26日电，当地时间7月25日，美国总统特朗普下令美军当天不要对伊朗发动新的空袭，结束了此前连续近两周、持续13天的每日打击行动。\n\n据悉，特朗普此前每天都会批准军方提交的对伊朗打击方案，但25日收到新的作战计划后，并未批准执行，而是直接下令当天暂停空袭。目前尚不清楚这一决定只是一天的临时安排，还是意味着军事行动将进入暂停阶段。\n\n两名知情人士表示，特朗普此举一方面是为了给外交谈判留出更多空间，另一方面是认为在不重新展开大规模军事行动的情况下，目前的空袭已基本达到其效果上限。不过，美军仍在制定恢复大规模军事行动的预案，一旦特朗普下令，仍可在短时间内恢复打击。",
+      "link": "",
+      "published": "Sat, 25 Jul 2026 18:08:41 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "台风“红霞”逼近 广东已累计转移人员超71万人",
+      "summary": "【台风“红霞”逼近 广东已累计转移人员超71万人】财联社7月26日电，今年第12号台风“红霞”已于25日22时由台风级加强为强台风级，其中心位于惠州惠东县东南方向大约100公里的近海海面上。预计，“红霞”将以每小时20公里的速度向西北方向移动，将于26日凌晨在广东深圳到海丰一带沿海登陆，登陆后转向北偏西方向移动，强度逐渐减弱。截至7月26日0时，广东省累计转移人员715351人。目前，潮州、汕头、揭阳、汕尾、河源、梅州、深圳、珠海、江门、广州、东莞、惠州等12个地市已采取“五停”或部分“五停”措施。",
+      "link": "",
+      "published": "Sat, 25 Jul 2026 17:07:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "深圳市发布台风红色预警信号",
+      "summary": "【深圳市发布台风红色预警信号】财联社7月26日电，台风“红霞”（强台风级）将给深圳带来严重风雨影响，深圳东部将进入12级风圈，深圳市气象台7月26日0时30分将盐田区、坪山区、大鹏新区、大鹏湾、大亚湾和龙岗区（坪地、龙城、龙岗、宝龙、园山街道）台风橙色预警信号升级为红色；同时将罗湖区、南山区、福田区、宝安区、光明区、龙华区、珠江口、深圳湾和龙岗区（平湖、南湾、坂田、横岗、吉华街道）台风黄色预警信号升级为橙色。请做好防风防雨工作。",
+      "link": "",
+      "published": "Sat, 25 Jul 2026 17:03:35 GMT"
     }
   ]
 }
