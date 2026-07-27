@@ -1,127 +1,36 @@
 {
   "date": "2026-07-28",
   "hour": "01",
-  "total": 64,
-  "fetched_at": "2026-07-28T01:00:57.143364+08:00",
+  "total": 25,
+  "fetched_at": "2026-07-28T01:28:23.670894+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "长鑫科技上市首日成交额刷新A股历史 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcFU0MDRmMWpWV3FTTVJNODZnX0dvRlBueTNaVHNPcVNIdnJsQkVsV2JQYXhNUXF3YzlsNnR3RmVCMDNBUldVR2VvQjRHVFBWeVJOeC1ORXJOaThvVVFQNnR6ODdtUl9IQ3lhb3VEbnFZbXpIdmtkVw?oc=5\" target=\"_blank\">长鑫科技上市首日成交额刷新A股历史</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vcFU0MDRmMWpWV3FTTVJNODZnX0dvRlBueTNaVHNPcVNIdnJsQkVsV2JQYXhNUXF3YzlsNnR3RmVCMDNBUldVR2VvQjRHVFBWeVJOeC1ORXJOaThvVVFQNnR6ODdtUl9IQ3lhb3VEbnFZbXpIdmtkVw?oc=5",
-      "published": "Mon, 27 Jul 2026 16:43:00 GMT"
+      "source": "同花顺",
+      "title": "美国战略石油储备的原油库存上周下降约370万桶",
+      "summary": "美国战略石油储备的原油库存上周下降约370万桶，降至3.08亿桶，为1983年以来最低水平。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260728/c678468039.shtml",
+      "published": "Mon, 27 Jul 2026 17:20:14 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "最高20亿元！近20家A股公司宣布回购增持 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5EN2dZTHFaTHFWNWdxYklSR3MyTV9QYm8xelhjVUZBNGh1NzNWT0Z5T2FwUU5TWmZfRTZwVTdTZS1sdGt5REZobGxlRWdYWFljNmdmOWZkc21WODJHSFkycEtHQi1TaDFGUXlYSGlZNlYtR1cySGc?oc=5\" target=\"_blank\">最高20亿元！近20家A股公司宣布回购增持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EN2dZTHFaTHFWNWdxYklSR3MyTV9QYm8xelhjVUZBNGh1NzNWT0Z5T2FwUU5TWmZfRTZwVTdTZS1sdGt5REZobGxlRWdYWFljNmdmOWZkc21WODJHSFkycEtHQi1TaDFGUXlYSGlZNlYtR1cySGc?oc=5",
-      "published": "Mon, 27 Jul 2026 16:01:00 GMT"
+      "source": "同花顺",
+      "title": "美联储隔夜逆回购协议（RRP）使用规模为13.8亿美元",
+      "summary": "周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.8亿美元。",
+      "link": "https://news.10jqka.com.cn/20260728/c678468033.shtml",
+      "published": "Mon, 27 Jul 2026 17:17:50 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "3万亿元“巨无霸”落地 A股惊险过关！ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1ORkNHaHBMY2p6bDlzR1M3Qm9TQ0tLOUlJVEc0R2RSWFlqaVJXbTJWbTBUV214QS1pNmJNZkx2azFZLUF2NFFRVUZqX2xfVHAwY2ZsZjk2Y1NXVmpzMlhJdmFLQ0pzNXlUY3ZfX0tyYzkwTkNJMmdINg?oc=5\" target=\"_blank\">3万亿元“巨无霸”落地 A股惊险过关！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ORkNHaHBMY2p6bDlzR1M3Qm9TQ0tLOUlJVEc0R2RSWFlqaVJXbTJWbTBUV214QS1pNmJNZkx2azFZLUF2NFFRVUZqX2xfVHAwY2ZsZjk2Y1NXVmpzMlhJdmFLQ0pzNXlUY3ZfX0tyYzkwTkNJMmdINg?oc=5",
-      "published": "Mon, 27 Jul 2026 16:00:00 GMT"
+      "source": "同花顺",
+      "title": "美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数3.06",
+      "summary": "美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数3.06。",
+      "link": "https://news.10jqka.com.cn/20260728/c678468020.shtml",
+      "published": "Mon, 27 Jul 2026 17:05:46 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股万亿巨头，盘后公告：拟斥资最高20亿元回购股份，回购后将用于出售 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1zYjJsWHJqaXotZU9JSDh2MFJxU3JSWWlJdnpxUzladVhpTDJtVUhJVzdvMjhCZ1MyYUdDVjNBTVJqSnhFRzNmeGZBaHFOZW1JLUV0YUFLTkxyUlBJNmlYQTNOYktjbzQtOWQySlBxN2RrOVAzYlE?oc=5\" target=\"_blank\">A股万亿巨头，盘后公告：拟斥资最高20亿元回购股份，回购后将用于出售</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zYjJsWHJqaXotZU9JSDh2MFJxU3JSWWlJdnpxUzladVhpTDJtVUhJVzdvMjhCZ1MyYUdDVjNBTVJqSnhFRzNmeGZBaHFOZW1JLUV0YUFLTkxyUlBJNmlYQTNOYktjbzQtOWQySlBxN2RrOVAzYlE?oc=5",
-      "published": "Mon, 27 Jul 2026 15:16:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "南网能源A股股东户数减少4386户降幅2.54%，流通A股户均持股2.25万股增幅2.60%，户均持股市值12.07万元降幅5.00% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnAyQnR1VzlfUHJmcjJObUc2TXJLakpNQU0yc1JBbzJETFBGVTB4YkVoTW1VVnA1ZlM3WmVwTzNyclV0TmxDaDVCb0ZIOTBmLXhlNl9zOHNpSzhnejE2TWs1R1B6Z2t5ZWVGV21iNHpZdmxGNHpSLVp6VXRYSkNueXBFV2toZWs4X05JUw?oc=5\" target=\"_blank\">南网能源A股股东户数减少4386户降幅2.54%，流通A股户均持股2.25万股增幅2.60%，户均持股市值12.07万元降幅5.00%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnAyQnR1VzlfUHJmcjJObUc2TXJLakpNQU0yc1JBbzJETFBGVTB4YkVoTW1VVnA1ZlM3WmVwTzNyclV0TmxDaDVCb0ZIOTBmLXhlNl9zOHNpSzhnejE2TWs1R1B6Z2t5ZWVGV21iNHpZdmxGNHpSLVp6VXRYSkNueXBFV2toZWs4X05JUw?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "津药药业A股股东户数增加1.25万户增幅14.39%，流通A股户均持股1.1万股降幅12.58%，户均持股市值5.76万元降幅17.29% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTg4SXBNajRkR00xMkg0dVN2Sm5aV0s3MXlYRUtlcE1CUTRJT28wTFpYRHhvOS11bGlyT1FXQkJUUkx1Y0hRM1lybFZNRENaeFpscFlPTkpRTGY3am5SN2lKb2xxMU12QUp2dlY5NGN6c0J3T180YTFhRFRDeGJwdEVveU9TZm8zVXhUWg?oc=5\" target=\"_blank\">津药药业A股股东户数增加1.25万户增幅14.39%，流通A股户均持股1.1万股降幅12.58%，户均持股市值5.76万元降幅17.29%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTg4SXBNajRkR00xMkg0dVN2Sm5aV0s3MXlYRUtlcE1CUTRJT28wTFpYRHhvOS11bGlyT1FXQkJUUkx1Y0hRM1lybFZNRENaeFpscFlPTkpRTGY3am5SN2lKb2xxMU12QUp2dlY5NGN6c0J3T180YTFhRFRDeGJwdEVveU9TZm8zVXhUWg?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "绿城水务A股股东户数不变，流通A股户均持股3.4万股增幅0.00%，户均持股市值14.77万元降幅12.56% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzVubk9JeGZVT1lmTnY4SVJraVFqZzlPc3BIUVRFZXE4TkRHQkpnb2hEbTZqS0ZGMnZDZkpaSHJPbFM4WW55LXZzMGpSQXZaM0N1aUtTR19aYmppbDJjdGlTRXZxcmUxRTlqcGE5aEM1ektMZDhPa3dWUE5oNEJJVmFaS0t6OUpoUHBUUA?oc=5\" target=\"_blank\">绿城水务A股股东户数不变，流通A股户均持股3.4万股增幅0.00%，户均持股市值14.77万元降幅12.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzVubk9JeGZVT1lmTnY4SVJraVFqZzlPc3BIUVRFZXE4TkRHQkpnb2hEbTZqS0ZGMnZDZkpaSHJPbFM4WW55LXZzMGpSQXZaM0N1aUtTR19aYmppbDJjdGlTRXZxcmUxRTlqcGE5aEM1ektMZDhPa3dWUE5oNEJJVmFaS0t6OUpoUHBUUA?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "坚朗五金A股股东户数减少232户降幅0.75%，流通A股户均持股7059.62股增幅0.75%，户均持股市值9.91万元降幅6.75% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdk83Ml9WUXdWSlhtNjZXbmpETUdpaTFEUGN2dzRnY3dRT3ZrTVMyWWZqNHJrVE11QUtJLWtxOS11WGhOaDYwSEo4QjVTYkY2YUJPaDQyTnlQWTE4VEpteFVNR01ibkVURVYyYUJMQ3JzZTVEM0dXeFN6YjhtQURkX25lcnBLZ3ZYTGVBTw?oc=5\" target=\"_blank\">坚朗五金A股股东户数减少232户降幅0.75%，流通A股户均持股7059.62股增幅0.75%，户均持股市值9.91万元降幅6.75%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdk83Ml9WUXdWSlhtNjZXbmpETUdpaTFEUGN2dzRnY3dRT3ZrTVMyWWZqNHJrVE11QUtJLWtxOS11WGhOaDYwSEo4QjVTYkY2YUJPaDQyTnlQWTE4VEpteFVNR01ibkVURVYyYUJMQ3JzZTVEM0dXeFN6YjhtQURkX25lcnBLZ3ZYTGVBTw?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "新亚强A股股东户数增加1.94万户增幅96.14%，流通A股户均持股7968.58股降幅49.02%，户均持股市值15.51万元降幅4.87% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGFYRW1VaG9pOVRQZktpdUlKWGtLNHFwSVBWLWMxS2xuWkNoajVKSURDT0VlVnlBLVhrSW80cDVCYm5Odkp2UzVkeEQxRnBySnIxbk92dzVCQzc1WUY1QUROV3RDNDd5SWpoZ2RTbHlyaGhib1NjU2t4LU9zSk1NclhiRDMzMEpLbndJXw?oc=5\" target=\"_blank\">新亚强A股股东户数增加1.94万户增幅96.14%，流通A股户均持股7968.58股降幅49.02%，户均持股市值15.51万元降幅4.87%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGFYRW1VaG9pOVRQZktpdUlKWGtLNHFwSVBWLWMxS2xuWkNoajVKSURDT0VlVnlBLVhrSW80cDVCYm5Odkp2UzVkeEQxRnBySnIxbk92dzVCQzc1WUY1QUROV3RDNDd5SWpoZ2RTbHlyaGhib1NjU2t4LU9zSk1NclhiRDMzMEpLbndJXw?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "美亚光电A股股东户数增加360户增幅1.13%，流通A股户均持股1.35万股降幅1.12%，户均持股市值19.81万元增幅1.36% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGc5RzdaSjllc3pCTHFmWFJmRmV1ZkNTc2lFU01yVUJVNFZQQ2x0SmN4MVJDOFBCY003NkRhb1B5MjFqUFNkQ2NWNVRjWU1mQk83N1JnWjBXeUx0THZxSjBtUlIxQ0FkcmZaSkp6Q0NJQnZZMXI5Y3dHX0p6UHQybjJzZXRtLUZ6Q0tOSg?oc=5\" target=\"_blank\">美亚光电A股股东户数增加360户增幅1.13%，流通A股户均持股1.35万股降幅1.12%，户均持股市值19.81万元增幅1.36%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaGc5RzdaSjllc3pCTHFmWFJmRmV1ZkNTc2lFU01yVUJVNFZQQ2x0SmN4MVJDOFBCY003NkRhb1B5MjFqUFNkQ2NWNVRjWU1mQk83N1JnWjBXeUx0THZxSjBtUlIxQ0FkcmZaSkp6Q0NJQnZZMXI5Y3dHX0p6UHQybjJzZXRtLUZ6Q0tOSg?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "福立旺A股股东户数减少865户降幅5.21%，流通A股户均持股2.56万股增幅5.50%，户均持股市值41.36万元降幅29.51% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTFzNXgtaEZSSlJZZEd1bjMtR1JjX2xnN2NRd1Y4cHl2OHV3cUM2NkswN05ReTdyTEtkcEM5QUJnX3Q2by1lRDBTUDI5d19zeGpIWFNoNUFCa3BFZzY0VHh2WTlXalkxLVBXMnZDWG0tU05JYnJVT25KdV94OEVqRk1sS0diUV9CWmZCTQ?oc=5\" target=\"_blank\">福立旺A股股东户数减少865户降幅5.21%，流通A股户均持股2.56万股增幅5.50%，户均持股市值41.36万元降幅29.51%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTFzNXgtaEZSSlJZZEd1bjMtR1JjX2xnN2NRd1Y4cHl2OHV3cUM2NkswN05ReTdyTEtkcEM5QUJnX3Q2by1lRDBTUDI5d19zeGpIWFNoNUFCa3BFZzY0VHh2WTlXalkxLVBXMnZDWG0tU05JYnJVT25KdV94OEVqRk1sS0diUV9CWmZCTQ?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "高斯贝尔A股股东户数增加4630户增幅52.66%，流通A股户均持股1.23万股降幅34.49%，户均持股市值17.15万元降幅32.65% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0dKY2N6MkI2dlF6a3g3TEgwRTZTN0JQWnJQSkJYWmtUSGZGalE0SXVUYlA5ZHBlaXY5RVdyM0xOTW1ocWM5bzlHMUxNNFd1V0FZdFVsYzFhTEFaZmpwOVJyZGlPdy1VdU1hczFFUHBZcWJ5RVNEY1JsLW5oUVh0cnFuREFWUjFTc1FLNg?oc=5\" target=\"_blank\">高斯贝尔A股股东户数增加4630户增幅52.66%，流通A股户均持股1.23万股降幅34.49%，户均持股市值17.15万元降幅32.65%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0dKY2N6MkI2dlF6a3g3TEgwRTZTN0JQWnJQSkJYWmtUSGZGalE0SXVUYlA5ZHBlaXY5RVdyM0xOTW1ocWM5bzlHMUxNNFd1V0FZdFVsYzFhTEFaZmpwOVJyZGlPdy1VdU1hczFFUHBZcWJ5RVNEY1JsLW5oUVh0cnFuREFWUjFTc1FLNg?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "航天发展A股股东户数减少6278户降幅1.49%，流通A股户均持股3822.18股增幅1.51%，户均持股市值5.03万元降幅26.54% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkR6b19XRHdydVZiQzRTbS01WjV2WE1MNGJHdUV0clN2aHlBenVBLTdXbDFwNGYxTUxfUVdJeVNqTFlZODd3eXczM0RxeExQNEtZbWQ1Tl9TT19SWVhuVU00bnd5SmN0QklNeDdqTjlxak53dzN6ZFY4SzZkWjdUTExhTmdvY2ZlUnZRTg?oc=5\" target=\"_blank\">航天发展A股股东户数减少6278户降幅1.49%，流通A股户均持股3822.18股增幅1.51%，户均持股市值5.03万元降幅26.54%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkR6b19XRHdydVZiQzRTbS01WjV2WE1MNGJHdUV0clN2aHlBenVBLTdXbDFwNGYxTUxfUVdJeVNqTFlZODd3eXczM0RxeExQNEtZbWQ1Tl9TT19SWVhuVU00bnd5SmN0QklNeDdqTjlxak53dzN6ZFY4SzZkWjdUTExhTmdvY2ZlUnZRTg?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "清溢光电A股股东户数减少804户降幅5.01%，流通A股户均持股2.07万股增幅5.28%，户均持股市值61.91万元降幅32.89% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTNoSGZKNEpDU3o4cmVFcmVpSFc3RkNfRENFdmdDN1ZOM1gxdTFTMWx0cFJpMU9xc2FtYzhIZzU0dWlWaWl0aW5WaEVzc2k0ay01MjljUTFNSHQ4emVNMlllWGdQUGxiaUs0OXg3UUdHR3VyekJGWldGVHdnRkc4N2tZNjJELVdqZXNkVw?oc=5\" target=\"_blank\">清溢光电A股股东户数减少804户降幅5.01%，流通A股户均持股2.07万股增幅5.28%，户均持股市值61.91万元降幅32.89%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTNoSGZKNEpDU3o4cmVFcmVpSFc3RkNfRENFdmdDN1ZOM1gxdTFTMWx0cFJpMU9xc2FtYzhIZzU0dWlWaWl0aW5WaEVzc2k0ay01MjljUTFNSHQ4emVNMlllWGdQUGxiaUs0OXg3UUdHR3VyekJGWldGVHdnRkc4N2tZNjJELVdqZXNkVw?oc=5",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "财联社7月27日讯（编辑夏军雄）摩根士丹利策略师表示，随着越来越多美国企业将人工 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZjdvUklETVNDd19jRkMtUTlPcVJWejAtTmRXN2tHcmQtTWlOOFF2Vm44NFZGc2U4T3NtRlRWcnhHWjN3bG55Tk5kcTdEMlR0c2t4TXBVb2NpQ096VVh4NEluRWFpVWFUZFk4?oc=5\" target=\"_blank\">财联社7月27日讯（编辑夏军雄）摩根士丹利策略师表示，随着越来越多美国企业将人工</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZjdvUklETVNDd19jRkMtUTlPcVJWejAtTmRXN2tHcmQtTWlOOFF2Vm44NFZGc2U4T3NtRlRWcnhHWjN3bG55Tk5kcTdEMlR0c2t4TXBVb2NpQ096VVh4NEluRWFpVWFUZFk4?oc=5",
-      "published": "Mon, 27 Jul 2026 16:28:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "谁胜出或都出局 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93N19pYXNFOVRPMExmb2VHWjFhYzhhU0cwQUlWSEs0MGI5RTlDbGtURUozSl9HVHVEV05WQTJZV0h1eGxvTnBTVE43Q2FqTnhoQy1ENnpEM19HTFhhQUdXSExFQWRfaXFPSnlV?oc=5\" target=\"_blank\">谁胜出或都出局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93N19pYXNFOVRPMExmb2VHWjFhYzhhU0cwQUlWSEs0MGI5RTlDbGtURUozSl9HVHVEV05WQTJZV0h1eGxvTnBTVE43Q2FqTnhoQy1ENnpEM19HTFhhQUdXSExFQWRfaXFPSnlV?oc=5",
-      "published": "Mon, 27 Jul 2026 16:21:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "新“一哥”诞生 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA5M1ZVNkpvQzBOR0lsdnhSZGlYd1lLNDJ4Z0RnZWR1cHlXaHY0N0JPTmhQckFLaTRyV3ktQU9tNV8tNTM4OFFjbGJfdEhGQzNvb2dPdnBudmFqRkNscVQ5dmlTYkN4Y3A5eFN3?oc=5\" target=\"_blank\">新“一哥”诞生</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5M1ZVNkpvQzBOR0lsdnhSZGlYd1lLNDJ4Z0RnZWR1cHlXaHY0N0JPTmhQckFLaTRyV3ktQU9tNV8tNTM4OFFjbGJfdEhGQzNvb2dPdnBudmFqRkNscVQ5dmlTYkN4Y3A5eFN3?oc=5",
-      "published": "Mon, 27 Jul 2026 15:51:00 GMT"
+      "source": "同花顺",
+      "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.408%",
+      "summary": "美国财政部拍卖700亿美元五年期国债，得标利率4.408%（6月24日为4.20%、创2025年1月份以来新高），投标倍数2.28（前次为2.35）。",
+      "link": "https://news.10jqka.com.cn/20260728/c678468019.shtml",
+      "published": "Mon, 27 Jul 2026 17:05:36 GMT"
     },
     {
       "source": "同花顺",
@@ -236,172 +145,11 @@
       "published": "Mon, 27 Jul 2026 15:35:43 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "纳斯达克中国金龙指数涨幅扩大，现涨2.5%",
-      "summary": "纳斯达克中国金龙指数涨幅扩大，现涨2.5%，最新报6259.26点。",
-      "link": "https://news.10jqka.com.cn/20260727/c678467745.shtml",
-      "published": "Mon, 27 Jul 2026 15:30:29 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "英伟达拟为OpenAI提供巨额融资担保",
-      "summary": "据美国方面26日消息，知情人士称，英伟达正与美国开放人工智能研究中心（OpenAI）谈判，计划为其提供约2500亿美元的融资担保，以帮助OpenAI从一个正在建设的庞大数据中心项目中获得算力支持。据消息，这个10吉瓦级的数据中心项目位于美国俄亥俄州，由日本软银集团（软银）旗下的能源子公司开发，项目总投资规模可能达到约5000亿美元。按照规划，该数据中心群建成后将成为全球规模最大的人工智能（AI）基础设施项目之一。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260727/c678467737.shtml",
-      "published": "Mon, 27 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海碧云天生物技术股份有限公司IPO审核状态变更为已问询",
-      "summary": "上海碧云天生物技术股份有限公司IPO审核状态变更为已问询。",
-      "link": "https://news.10jqka.com.cn/20260727/c678467731.shtml",
-      "published": "Mon, 27 Jul 2026 15:28:23 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "SC原油主力合约日内跌4%",
-      "summary": "SC原油主力合约日内跌4%，现报542.4元/桶。",
-      "link": "https://news.10jqka.com.cn/20260727/c678467703.shtml",
-      "published": "Mon, 27 Jul 2026 15:25:41 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "英国首相伯纳姆排除在预算案中调整印花税的可能性",
-      "summary": "【英国首相伯纳姆排除在预算案中调整印花税的可能性】财联社7月28日电，英国首相安迪·伯纳姆表示，今年秋季政府首份财政预算案不会调整英国购房印花税，从而否认了此前媒体关于政府正考虑调整该税种的报道。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:53:47 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "以色列前高官发联名信警告约旦河西岸局势或升级",
-      "summary": "【以色列前高官发联名信警告约旦河西岸局势或升级】财联社7月28日电，据以色列方面27日消息，约600名以色列军方、警方、国家安全总局以及情报和特勤局前高级官员联合致信美国总统特朗普，呼吁美方敦促以色列政府遏制约旦河西岸日益加剧的定居者暴力，并警告当地局势可能导致冲突升级。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:47:05 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，特朗普重申美国应拥有全球最低利率。",
-      "summary": "财联社7月28日电，特朗普重申美国应拥有全球最低利率。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:36:03 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，当被问及本周美联储利率会议时，特朗普称成本正在迅速下降。",
-      "summary": "财联社7月28日电，当被问及本周美联储利率会议时，特朗普称成本正在迅速下降。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:34:41 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，英伟达将向Sutskever的人工智能初创公司投资50亿美元。",
-      "summary": "财联社7月28日电，英伟达将向Sutskever的人工智能初创公司投资50亿美元。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:32:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，美国总统特朗普表示，关于乌克兰战争，将会了解俄罗斯的行动。将询问俄罗斯总统普京关于对伊朗的卫星图像。",
-      "summary": "财联社7月28日电，美国总统特朗普表示，关于乌克兰战争，将会了解俄罗斯的行动。将询问俄罗斯总统普京关于对伊朗的卫星图像。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:32:13 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，美国总统特朗普表示，伊朗通过协调方提出了会面请求；正在与伊朗进行良好的谈判，有很大机会会发生一些事情。",
-      "summary": "财联社7月28日电，美国总统特朗普表示，伊朗通过协调方提出了会面请求；正在与伊朗进行良好的谈判，有很大机会会发生一些事情。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:28:12 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
-      "summary": "【美军称对伊朗海上封锁期间已迫使17艘商船改道】财联社7月28日电，美军中央司令部当地时间7月27日表示，自恢复对伊朗的海上封锁以来，美军已迫使17艘商船改变航向，使2艘商船丧失航行能力，并登临检查了2艘商船。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:19:53 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "罗马尼亚因无人机事件驱逐俄罗斯外交官",
-      "summary": "【罗马尼亚因无人机事件驱逐俄罗斯外交官】财联社7月28日电，罗马尼亚外交部27日宣布将俄罗斯驻罗马尼亚使馆一名外交官列为“不受欢迎的人”，要求其在5日内离境。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 16:12:22 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "法国政府：已抓获162名涉嫌故意纵火人员",
-      "summary": "【法国政府：已抓获162名涉嫌故意纵火人员】财联社7月27日电，法国总理塞巴斯蒂安·勒科尔尼当地时间7月27日表示，自7月6日以来，法国警方已抓获162名涉嫌故意纵火人员。他强调，故意纵火属于重罪，最高可判处15年有期徒刑。目前，法国安全部门正全力追查纵火嫌疑人，所有涉案人员都将被依法追究责任。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:53:16 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "米其林上半年营收126.9亿欧元 不及市场预期",
-      "summary": "【米其林上半年营收126.9亿欧元 不及市场预期】财联社7月27日电，米其林上半年营收126.9亿欧元，分析师预期127.4亿欧元；上半年净利润7.66亿欧元，分析师预期9.77亿欧元。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:47:18 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "路易威登母公司二季度时装与皮草有机销售增长1% 不及预期",
-      "summary": "【路易威登母公司二季度时装与皮草有机销售增长1% 不及预期】财联社7月27日电，路易威登母公司二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。二季度有机营收增长3%，分析师预期增长2.32%；二季度美国有机营收增长6%，分析师预期增长4%；二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%；二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:46:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "纳斯达克综合指数向下跌破25000点 创5月份以来盘中新低",
-      "summary": "【纳斯达克综合指数向下跌破25000点 创5月份以来盘中新低】财联社7月27日电，纳斯达克综合指数向下跌破25000点，最新报24861.26点，日内下跌0.46%；创5月份以来盘中新低。英伟达跌幅扩大至5%，报195.92美元/股。<br /><img src=\"https://image.cls.cn/images/20260727/t6P8TS4j06_915x493.png\" />",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:44:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月27日电，欧洲主要股指收盘集体上涨，英国富时100指数涨0.42%，法国CAC40指数涨0.81%，德国DAX30指数涨1.30%，富时意大利MIB指数涨0.49%。",
-      "summary": "财联社7月27日电，欧洲主要股指收盘集体上涨，英国富时100指数涨0.42%，法国CAC40指数涨0.81%，德国DAX30指数涨1.30%，富时意大利MIB指数涨0.49%。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:37:41 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国驻吉达总领馆再次提醒在沙特中资机构和中国公民注意安全",
-      "summary": "【中国驻吉达总领馆再次提醒在沙特中资机构和中国公民注意安全】财联社7月27日电，中国驻吉达总领馆发布提醒称，连日来，沙特多地遭导弹和无人机攻击，数艘沙特运营的船只在红海航行时遭袭，部分地区航班受到影响，局势还有可能进一步恶化。中国驻吉达总领馆再次提醒在沙中资机构和中国公民密切关注沙特和中东地区形势发展，采取必要措施切实加强安全防范，及时避险。不要拍摄军事行动，不传播未经证实的消息。有乘飞机或轮船出行计划的旅客请与有关航司保持密切联系，以免影响行程。如遇紧急情况，请及时报警并联系驻沙使领馆。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:32:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月27日电，纳斯达克中国金龙指数涨幅扩大，现涨2.5%，最新报6259.26点。",
-      "summary": "财联社7月27日电，纳斯达克中国金龙指数涨幅扩大，现涨2.5%，最新报6259.26点。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:30:01 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月27日电，上交所上海碧云天生物技术股份有限公司IPO审核状态变更为已问询。",
-      "summary": "财联社7月27日电，上交所上海碧云天生物技术股份有限公司IPO审核状态变更为已问询。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:25:50 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月27日电，SC原油主力合约日内跌4%，现报542.40元/桶。",
-      "summary": "财联社7月27日电，SC原油主力合约日内跌4%，现报542.40元/桶。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:23:35 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "特朗普称若谈判破裂将强力打击伊朗",
-      "summary": "【特朗普称若谈判破裂将强力打击伊朗】财联社7月27日电，据美国“阿克西奥斯新闻网（Axios）”报道，美国总统特朗普称，他决定暂停对伊朗的打击，以便给谈判一个机会。但他强调，如果外交努力失败，他可能会下令恢复并扩大军事行动。特朗普称，美国正与伊朗进行“非常深入”的谈判，如果谈判没有结果，美国将转而采取非常强硬的军事行动。当被问及愿意给外交努力多长时间时，特朗普回答说：“时间不多，要么进展迅速，要么干脆作罢。” (CCTV国际时讯)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:15:41 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月27日电，BNP Paribas给予兆易创新A股跑赢大盘的初始评级，目标价648元；给予澜起科技A股跑赢大盘的初始评级，目标价320元。",
-      "summary": "财联社7月27日电，BNP Paribas给予兆易创新A股跑赢大盘的初始评级，目标价648元；给予澜起科技A股跑赢大盘的初始评级，目标价320元。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 15:15:02 GMT"
+      "source": "华尔街见闻",
+      "title": "房地产市场筑底回稳态势增强",
+      "summary": "<p>2026年行至年中，房地产市场走向备受关注。</p>\n<p>习近平总书记强调，“着力稳定房地产市场，因城施策控增量、去库存、优供给”“加快构建房地产发展新模式”。</p>\n<p>面对当前我国房地产市场供求关系发生重大变化的新形势，按照党中央决策部署，各地区各部门坚持因城施策、精准调控，用足用好政策工具箱，持续调整优化房地产政策，有力支持刚性和改善性住房需求，促进房地产市场平稳健康发展。</p>\n<p>近日，记者深入多地一线调研发现，“稳楼市”政策持续显效，市场信心和预期逐步改善，刚性和改善性住房需求有序释放，房地产市场继续保持稳的态势。</p>\n<h2>“稳楼市”政策持续显效 市场积极信号进一步增强</h2>\n<p>走进上海虹口区的一家售楼处，虽是工作日，前来看房的客户仍有20多组。不久前在此认购四房户型的金先生说，他举家搬到上海一年多，受限于外地户口和不足三年社保缴纳记录，一直处于限购状态。</p>\n<p>“2月底‘沪七条’出台后，外地户籍一年社保即可获得中心城区购房资格，我们夫妻公积金贷款额度也一举提升了100多万元，月供压力大大缓解。于是，我们果断买房，让两个小孩有好一些的",
+      "link": "https://wallstreetcn.com/articles/3778057",
+      "published": "Mon, 27 Jul 2026 17:19:52 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -413,9 +161,9 @@
     {
       "source": "华尔街见闻",
       "title": "特朗普：暂停打击伊朗是给谈判再一次机会，谈不拢就“重新大打”",
-      "summary": "<p>美伊冲突暂停被美国总统特朗普重新定义为“谈判窗口”，而不是战争结束的信号。</p>\n<p>美东时间27日周一，特朗普对美媒确认他此前下令暂停对伊朗发动新的军事打击，称这是为了给外交谈判“再一次机会”，还称美伊正进行“非常深入的谈判”。特朗普同时发出明确警告：如果谈判失败，美国将重新发动“非常强大的军事行动”。</p>\n<p>就在特朗普释放谈判信号的稍早，据央视新闻，本周一伊朗外交部发言人否认伊朗与美国进行谈判，并强调伊方不允许由美国决定何时战、何时止。同在周一，以色列总理内塔尼亚胡启程访美，将与特朗普会面，伊朗问题预计将成为双方讨论的核心议题。</p>\n<h2>特朗普：美伊在进行“非常深入的谈判”</h2>\n<p>据美媒Axios27日周一报道，特朗普接受采访时表示，他之所以暂停对伊朗发动新的袭击，是因为参与调解的国家要求他给外交努力“再一次机会”。</p>\n<p>特朗普说：“我们正在与伊朗进行非常深入的谈判。如果谈不拢，我们将重新采取非常强大的军事行动。”</p>\n<p>特朗普称，当前谈判的重点包括重新开放霍尔木兹海峡，以及重新启动一项全面核协议。他将暂停军事行动描述为一次值得",
+      "summary": "<p>美伊冲突暂停被美国总统特朗普定义为“谈判窗口”，而不是战争结束的信号。</p>\n<p>美东时间27日周一，特朗普对美媒确认，他此前下令暂停对伊朗发动新的军事打击，称这是为了给外交谈判再一次机会，美伊正进行“非常深入的谈判”，同时明确警告：如果谈判失败，美国将重新发动“非常强大的军事行动”。</p>\n<p>在特朗普释放谈判信号稍早，据央视新闻，本周一伊朗外交部发言人否认伊朗与美国进行谈判，并强调伊方不允许由美国决定何时战、何时止。同在周一，以色列总理内塔尼亚胡启程访美，将与特朗普会面，伊朗问题将成为双方讨论的核心议题。</p>\n<h2>特朗普：美伊在进行“非常深入的谈判” 不会有多长时间</h2>\n<p>据美媒Axios27日周一报道，特朗普接受采访时表示，他之所以暂停对伊朗发动新的袭击，是因为参与调解的国家要求他给外交努力再一次机会。</p>\n<p>特朗普说：“我们正在与伊朗进行非常深入的谈判。如果谈不拢，我们将重新采取非常强大的军事行动。”</p>\n<p>被问及愿意给外交努力多长时间时，特朗普回答：“没多长时间。要么进展迅速，要么干脆作罢。”</p>\n<p>他将暂停军事行动描述",
       "link": "https://wallstreetcn.com/articles/3778056",
-      "published": "Mon, 27 Jul 2026 16:02:47 GMT"
+      "published": "Mon, 27 Jul 2026 15:50:35 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -430,27 +178,6 @@
       "summary": "<p>据月之暗面Kimi公众号，该公司发布Kimi K3的模型权重、技术报告，并开源支撑Kimi K3模型训练的关键Infra技术：MoonEP、FlashKDA和AgentEnv。希望以此加速前沿智能的部署与普及，促进AGI研究。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
       "link": "https://wallstreetcn.com/articles/3778054",
       "published": "Mon, 27 Jul 2026 15:39:30 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普：为了谈判，已经决定暂停袭击伊朗",
-      "summary": "<p>美国总统特朗普告诉Axios，决定暂停美军对伊朗的袭击。</p>\n\n<p>暂停袭击是为了谈判。</p>\n\n<p>“我们的对话是非常深入的。”</p>\n\n<p>要么迅速谈判，要么根本不会进行。</p>\n\n<p>如果对话失败，美方可能会重新采取军事行动。</p>\n\n<p>特朗普在暂停袭击后提到油价下跌、股市上涨。</p>",
-      "link": "https://wallstreetcn.com/livenews/3140411",
-      "published": "Mon, 27 Jul 2026 15:14:09 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "特朗普称若谈判破裂将强力打击伊朗 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LTkVXdTVFbmtDSjhBd05qSEpLeFdUcmZlbENrTU1KblltemI4SkRhZ3Fsai1Udy1vY2xLdW5vV2FVeTZjdWpJSFRGcTlYVVRITU9V?oc=5\" target=\"_blank\">特朗普称若谈判破裂将强力打击伊朗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LTkVXdTVFbmtDSjhBd05qSEpLeFdUcmZlbENrTU1KblltemI4SkRhZ3Fsai1Udy1vY2xLdW5vV2FVeTZjdWpJSFRGcTlYVVRITU9V?oc=5",
-      "published": "Mon, 27 Jul 2026 15:36:15 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "特朗普称若谈判破裂将强力打击伊朗 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE13VjFJdnRVVzZKaVR3WmdKaWkzTFVRU1lUWmZyazhpUGVDOFFkSTJpMDVWOFVwcVVnWFNYempvbXVsN3MwZ1JKVDZfZU90VWROV0VlTQ?oc=5\" target=\"_blank\">特朗普称若谈判破裂将强力打击伊朗</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13VjFJdnRVVzZKaVR3WmdKaWkzTFVRU1lUWmZyazhpUGVDOFFkSTJpMDVWOFVwcVVnWFNYempvbXVsN3MwZ1JKVDZfZU90VWROV0VlTQ?oc=5",
-      "published": "Mon, 27 Jul 2026 15:34:00 GMT"
     }
   ]
 }
