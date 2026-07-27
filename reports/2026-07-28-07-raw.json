@@ -1,64 +1,148 @@
 {
   "date": "2026-07-28",
   "hour": "07",
-  "total": 70,
-  "fetched_at": "2026-07-28T07:00:54.186256+08:00",
+  "total": 60,
+  "fetched_at": "2026-07-28T07:53:48.839017+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8wQUJQRzJwZHVtODc0amlzd1liT21jUDI5N1VjSXl0U2k4ZTlwZGI3QXc1dWFHMFYxd29GRmJqM2lNbzRGdk1CNjBiWWlYa2VrZm9xUGs4c085RmhTUmk0OXN6SERaNHI1YnNHZmtYTFZ4QUZIWEVxQQ?oc=5\" target=\"_blank\">长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wQUJQRzJwZHVtODc0amlzd1liT21jUDI5N1VjSXl0U2k4ZTlwZGI3QXc1dWFHMFYxd29GRmJqM2lNbzRGdk1CNjBiWWlYa2VrZm9xUGs4c085RmhTUmk0OXN6SERaNHI1YnNHZmtYTFZ4QUZIWEVxQQ?oc=5",
-      "published": "Mon, 27 Jul 2026 22:54:00 GMT"
+      "title": "多重利好渐显，A股市场转机将至 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBubUpfZWpxXzRjUFdlSVNIOGx1MGE1Slo5MGViNVg5WXplNUczYXZTOVJWbU9BTjRpYVdpcnRqeGpET3o1Y0J0UEN6eDZlV1F2X0ppWUw3NE5hRU5JSVNoWnN5RzZRemZEMW1tMGZROU10N2NBaUlkbw?oc=5\" target=\"_blank\">多重利好渐显，A股市场转机将至</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBubUpfZWpxXzRjUFdlSVNIOGx1MGE1Slo5MGViNVg5WXplNUczYXZTOVJWbU9BTjRpYVdpcnRqeGpET3o1Y0J0UEN6eDZlV1F2X0ppWUw3NE5hRU5JSVNoWnN5RzZRemZEMW1tMGZROU10N2NBaUlkbw?oc=5",
+      "published": "Mon, 27 Jul 2026 23:39:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股上市券商开启中期分红预热 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE05c0RLa0czcFdQR1BTcUdlbXlqWF9WcUQ3VkpBY1QyNDgweUlpMHVJUTlzcG9HT0t6Zi1QUUw3aUFndkFaTUw3eU9ETDVrbnV6T1VQVFh5UFdCcVllMWRMTmFoV0JSLXRoV1ZIS19OQTJ5X3M0QUh0dA?oc=5\" target=\"_blank\">A股上市券商开启中期分红预热</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "title": "历史性时刻：安徽走出A股市值最大上市公司 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZ213TUs1YWpwenpEdjVwQ2ppT3VyYUFNM3lrd3JyLTI3NmZoWjVhUUpCMEFtZVlRR0xBZXVrSjdkVlYtalZhUWFIOTd2RTZncnJpZ1ZnQ3BpLVJIcG1OQ0d2eTROZ2pyblo2MjJieWc1S25xWE5peQ?oc=5\" target=\"_blank\">历史性时刻：安徽走出A股市值最大上市公司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZ213TUs1YWpwenpEdjVwQ2ppT3VyYUFNM3lrd3JyLTI3NmZoWjVhUUpCMEFtZVlRR0xBZXVrSjdkVlYtalZhUWFIOTd2RTZncnJpZ1ZnQ3BpLVJIcG1OQ0d2eTROZ2pyblo2MjJieWc1S25xWE5peQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:21:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股分红派息转增一览：12股今日股权登记 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5YQjU4WDVYaUw1cTFIeHdKYUx3RG5sU0R3YkRaZkdfbUtnOWVZd1Z3bFRDS0xGYm51UlQxVXlXamxEdzdUVHZaTUpMV3MwZFN2Y3BVczd4LVg2ZVZkbElLOE9EU2tRYjYzVy1vMHIxdDF4LWE2RWlWQw?oc=5\" target=\"_blank\">A股分红派息转增一览：12股今日股权登记</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YQjU4WDVYaUw1cTFIeHdKYUx3RG5sU0R3YkRaZkdfbUtnOWVZd1Z3bFRDS0xGYm51UlQxVXlXamxEdzdUVHZaTUpMV3MwZFN2Y3BVczd4LVg2ZVZkbElLOE9EU2tRYjYzVy1vMHIxdDF4LWE2RWlWQw?oc=5",
+      "published": "Mon, 27 Jul 2026 23:45:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股定增一览：9家公司披露定增进展 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE84NXJsdWRzTU5zOWZCbVJTOFRWc2otYk9qUk5lMDJLaXYzbGVzbnVfRE1mWFB6OVVsZDZnQTJEbnpqOVZ3TUNpc293aEJGVUMyOElpZ3RIdWRxdG5UU2kwUFFJeUx2cXRPSHdNZVIxMGN6QXo2dzh4Yg?oc=5\" target=\"_blank\">A股定增一览：9家公司披露定增进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84NXJsdWRzTU5zOWZCbVJTOFRWc2otYk9qUk5lMDJLaXYzbGVzbnVfRE1mWFB6OVVsZDZnQTJEbnpqOVZ3TUNpc293aEJGVUMyOElpZ3RIdWRxdG5UU2kwUFFJeUx2cXRPSHdNZVIxMGN6QXo2dzh4Yg?oc=5",
+      "published": "Mon, 27 Jul 2026 23:45:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "长鑫科技A股首秀创下五项纪录 朱一明身家779亿穿越周期待考 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTW8zWGpyakd0T3RyYi1iaHFoamlqdm9XYnpPNjE1alk3ZW9pYXFIbUR0SER0ZUlJS0l5VDVzMmpHc2tBdVR3YU14NHBuUFBtdWtETWZ4TFR1TGdVOHdQTmV5M3lPQ0hTaEJjNXdfT2tqSGJDeGc4MQ?oc=5\" target=\"_blank\">长鑫科技A股首秀创下五项纪录 朱一明身家779亿穿越周期待考</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTW8zWGpyakd0T3RyYi1iaHFoamlqdm9XYnpPNjE1alk3ZW9pYXFIbUR0SER0ZUlJS0l5VDVzMmpHc2tBdVR3YU14NHBuUFBtdWtETWZ4TFR1TGdVOHdQTmV5M3lPQ0hTaEJjNXdfT2tqSGJDeGc4MQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:37:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中信建投：A股长期致胜的八个宏观视角 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9fS0FId2c4TktJNENVZlpIMFdKMjVLUnNseTFEWUFNc1liRDRLalZRQmJsdGswTTVLTktfTVpmNVlYTUEweGhPYjdsTXZIVlRnNUZFMjZLRDBNWTlYc21mWHUzTjVzMHhySlVqTVZzaGR0ZnFtUFVnbQ?oc=5\" target=\"_blank\">中信建投：A股长期致胜的八个宏观视角</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fS0FId2c4TktJNENVZlpIMFdKMjVLUnNseTFEWUFNc1liRDRLalZRQmJsdGswTTVLTktfTVpmNVlYTUEweGhPYjdsTXZIVlRnNUZFMjZLRDBNWTlYc21mWHUzTjVzMHhySlVqTVZzaGR0ZnFtUFVnbQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:38:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5IcnB3dXFLUXJ4MHBUandDempuRGxBMmd0MFlGQUkzbUpGRTQ5UG9Vc0J2WUdHaXFfenRhMDc4Qkpjek9Sc3RIazZCYl9YelY1OXlQLTlsclZRTm10Q1JycmhISlRORzFjOXFMX2hpZk1pMTRNbFNyTQ?oc=5\" target=\"_blank\">长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IcnB3dXFLUXJ4MHBUandDempuRGxBMmd0MFlGQUkzbUpGRTQ5UG9Vc0J2WUdHaXFfenRhMDc4Qkpjek9Sc3RIazZCYl9YelY1OXlQLTlsclZRTm10Q1JycmhISlRORzFjOXFMX2hpZk1pMTRNbFNyTQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:19:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "多家公司同日停牌谋易主 A股“卖壳”潮涌动 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBEa1FXSmRxWVVjWFVXRUhOT294TkVqdGNUdjhWRzgyT292cm9DLUh0RXVBWFVrRTZkNVBFUnpOOTVNUUhJdS1OWWJZdFBOMjBnM3psLWNoZlAtRm9vSXZvYmpiQWEwMnpEaU1kb1lCWm1wb3dJc19DUQ?oc=5\" target=\"_blank\">多家公司同日停牌谋易主 A股“卖壳”潮涌动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEa1FXSmRxWVVjWFVXRUhOT294TkVqdGNUdjhWRzgyT292cm9DLUh0RXVBWFVrRTZkNVBFUnpOOTVNUUhJdS1OWWJZdFBOMjBnM3psLWNoZlAtRm9vSXZvYmpiQWEwMnpEaU1kb1lCWm1wb3dJc19DUQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:18:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "券商解读A股阶段性调整 估值回归合理，基本面支撑市场运行 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8xeVFqRDdmdXQ3NWZuRjJJR2VoZEI5WEVtRlZxQWtKWkg0b3pYaDQ2allWbVpZTndsR0tVVjhIM1hZQmpHdDAxSExreDJLRXc4cGk3dGE4dUFvMDh1MjVnSk9pR1JFamY1b3ZuemlZTXljWnZpMk5kaA?oc=5\" target=\"_blank\">券商解读A股阶段性调整 估值回归合理，基本面支撑市场运行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xeVFqRDdmdXQ3NWZuRjJJR2VoZEI5WEVtRlZxQWtKWkg0b3pYaDQ2allWbVpZTndsR0tVVjhIM1hZQmpHdDAxSExreDJLRXc4cGk3dGE4dUFvMDh1MjVnSk9pR1JFamY1b3ZuemlZTXljWnZpMk5kaA?oc=5",
+      "published": "Mon, 27 Jul 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "千亿抢筹！A股新一哥，还要翻倍？ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1TOE5SRDRjSFJjeUtQbXF6Uk5yT0NnV3R6QU5xSzE1T1FDc3ZPcjd2NTNfcWFyQi10SnZVNkdnRDNEbEFGbkRGelp6SW1oTjRVVzZqWnVqaFlPaF9kX2hpSGpBNm50MEQtd3VHZDA4VzVud2lnMDBOdA?oc=5\" target=\"_blank\">千亿抢筹！A股新一哥，还要翻倍？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TOE5SRDRjSFJjeUtQbXF6Uk5yT0NnV3R6QU5xSzE1T1FDc3ZPcjd2NTNfcWFyQi10SnZVNkdnRDNEbEFGbkRGelp6SW1oTjRVVzZqWnVqaFlPaF9kX2hpSGpBNm50MEQtd3VHZDA4VzVud2lnMDBOdA?oc=5",
+      "published": "Mon, 27 Jul 2026 22:50:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "3.27万亿元，长鑫科技市值登顶A股！散户中一签赚2万多，这些机构更是赢麻了 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAyMElRZ0FYRFVJWi1BeHlfVnVTYnc1VWZMbUdJVXZYd3owY05HRUozQVNaaVhudTk0OGJhMFc2Q2xkX25zSktCc3U1bUltWS16WUtoQkFCSlpOOEc1ZjJjdHRJbF90MW12WVRGMElzUDBaY2VtMzRJMw?oc=5\" target=\"_blank\">3.27万亿元，长鑫科技市值登顶A股！散户中一签赚2万多，这些机构更是赢麻了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyMElRZ0FYRFVJWi1BeHlfVnVTYnc1VWZMbUdJVXZYd3owY05HRUozQVNaaVhudTk0OGJhMFc2Q2xkX25zSktCc3U1bUltWS16WUtoQkFCSlpOOEc1ZjJjdHRJbF90MW12WVRGMElzUDBaY2VtMzRJMw?oc=5",
+      "published": "Mon, 27 Jul 2026 22:57:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股上市券商开启中期分红预热 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE05c0RLa0czcFdQR1BTcUdlbXlqWF9WcUQ3VkpBY1QyNDgweUlpMHVJUTlzcG9HT0t6Zi1QUUw3aUFndkFaTUw3eU9ETDVrbnV6T1VQVFh5UFdCcVllMWRMTmFoV0JSLXRoV1ZIS19OQTJ5X3M0QUh0dA?oc=5\" target=\"_blank\">A股上市券商开启中期分红预热</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05c0RLa0czcFdQR1BTcUdlbXlqWF9WcUQ3VkpBY1QyNDgweUlpMHVJUTlzcG9HT0t6Zi1QUUw3aUFndkFaTUw3eU9ETDVrbnV6T1VQVFh5UFdCcVllMWRMTmFoV0JSLXRoV1ZIS19OQTJ5X3M0QUh0dA?oc=5",
       "published": "Mon, 27 Jul 2026 22:19:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "月内超600家A股上市公司获机构调研 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE13T1ZaX003aHNGMXJnUFBtOWZGU0NSYkpkcUFhMDllT2paX2Myd3NCckViaEFFSjhHbmc1UndXWlhNeng3QTNJSUh5dm9STGtveWRYMFoxcFY4Q0Q2WkxTdlB6S3JKd1B6QUVzem1ZYnVySTRIejl1UA?oc=5\" target=\"_blank\">月内超600家A股上市公司获机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13T1ZaX003aHNGMXJnUFBtOWZGU0NSYkpkcUFhMDllT2paX2Myd3NCckViaEFFSjhHbmc1UndXWlhNeng3QTNJSUh5dm9STGtveWRYMFoxcFY4Q0Q2WkxTdlB6S3JKd1B6QUVzem1ZYnVySTRIejl1UA?oc=5",
-      "published": "Mon, 27 Jul 2026 21:48:00 GMT"
+      "title": "长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMDZZOGs5eVNLQ2NGVUczT2dtci1xb1BReFlVNG9PdlJDOE9nMDZ1dnVQS1RCSnUtcnNWWXRUcTJMODBKQWNCLXVYQjBvb2JjX2pQUEFIdUFneUVScjBHTHE4cjU1ejhwZVdXZ01oVXI4TFJnaEtuYQ?oc=5\" target=\"_blank\">长鑫科技让合肥坐上A股总市值第四城：硬科技正在重新定义城市竞争力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IMDZZOGs5eVNLQ2NGVUczT2dtci1xb1BReFlVNG9PdlJDOE9nMDZ1dnVQS1RCSnUtcnNWWXRUcTJMODBKQWNCLXVYQjBvb2JjX2pQUEFIdUFneUVScjBHTHE4cjU1ejhwZVdXZ01oVXI4TFJnaEtuYQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:14:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "路博迈中证A股指数增强C净值上涨3.06% - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTk5iS0pqcnFyR3pfMjBKNjd6UUVpQ0RVbUJWazFNZ0Rja0NQN1ZCZlJ3amxpbTlpc3hwa2xIVUh2ZXcxc2FFdXhiazB5bURFblhjTjhWRHR0MGxtbk5IOXZYRTR6bFZHaFZCNVhocnJXbktYTHFJaDlDb3JMYlNxUVNnV21FcWMyRm1NTVh0VF9LcE0xZDBJ?oc=5\" target=\"_blank\">路博迈中证A股指数增强C净值上涨3.06%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTk5iS0pqcnFyR3pfMjBKNjd6UUVpQ0RVbUJWazFNZ0Rja0NQN1ZCZlJ3amxpbTlpc3hwa2xIVUh2ZXcxc2FFdXhiazB5bURFblhjTjhWRHR0MGxtbk5IOXZYRTR6bFZHaFZCNVhocnJXbktYTHFJaDlDb3JMYlNxUVNnV21FcWMyRm1NTVh0VF9LcE0xZDBJ?oc=5",
-      "published": "Mon, 27 Jul 2026 21:39:00 GMT"
+      "title": "A股股票回购一览：40家公司披露回购进展 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1jcW9XeXk4M09vT3k4RHpsZHIxUlVoZlFNRmY5OFkwSDFtajQwN1JHSFFjZUpXMHhVSGs0bWIteE01X3RQN3RoWG1oeVVsSW1yRTRzR2pKWm1Xa2VCbDdPV2tuUU44cGE4MkNxRlFraDBOSzgzdDEyRA?oc=5\" target=\"_blank\">A股股票回购一览：40家公司披露回购进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jcW9XeXk4M09vT3k4RHpsZHIxUlVoZlFNRmY5OFkwSDFtajQwN1JHSFFjZUpXMHhVSGs0bWIteE01X3RQN3RoWG1oeVVsSW1yRTRzR2pKWm1Xa2VCbDdPV2tuUU44cGE4MkNxRlFraDBOSzgzdDEyRA?oc=5",
+      "published": "Mon, 27 Jul 2026 23:32:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "富国恒生A股专精特新企业ETF发起式联接C净值上涨3.77% - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPblRTb0h1WHFpSG5QeDNJOVhDRVo1Vm44TzJ4eW8yS3pLWEZadkZYemZ5UFRHT0NUdkdaU0djZ0FpUjN3bk43OUdhc3F2VENtMU81WEdkcWtnaGJtT3JaT2QzbzFsdzJUcXJPdDZCM1AtYW5xVW9JaUpUclNfRC1WdXZGNHlGa0gwUGoyT2l0dlRMd1o2SmpB?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF发起式联接C净值上涨3.77%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPblRTb0h1WHFpSG5QeDNJOVhDRVo1Vm44TzJ4eW8yS3pLWEZadkZYemZ5UFRHT0NUdkdaU0djZ0FpUjN3bk43OUdhc3F2VENtMU81WEdkcWtnaGJtT3JaT2QzbzFsdzJUcXJPdDZCM1AtYW5xVW9JaUpUclNfRC1WdXZGNHlGa0gwUGoyT2l0dlRMd1o2SmpB?oc=5",
-      "published": "Mon, 27 Jul 2026 21:35:00 GMT"
+      "title": "A股限售股解禁一览：73.18亿元市值限售股今日解禁 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzhyY0hTeDNmWklGY3U2Zld4dDhEaXJnYWtleEk2bTBHVzZrejMwT2VDalBkVDJHQ0VIYk44ZmtPam1LckhjQ0dfSXo2YWFTQzFuVUpDdHBxWG5kdGt1LWhuN0FIUkp3cWFLamN4d2lPSzRXSHJNMEVuVHBWQ3lNNg?oc=5\" target=\"_blank\">A股限售股解禁一览：73.18亿元市值限售股今日解禁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYzhyY0hTeDNmWklGY3U2Zld4dDhEaXJnYWtleEk2bTBHVzZrejMwT2VDalBkVDJHQ0VIYk44ZmtPam1LckhjQ0dfSXo2YWFTQzFuVUpDdHBxWG5kdGt1LWhuN0FIUkp3cWFLamN4d2lPSzRXSHJNMEVuVHBWQ3lNNg?oc=5",
+      "published": "Mon, 27 Jul 2026 23:44:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "国泰恒生A股电网设备ETF净值上涨3.36% - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMDhUUm44d0xPTXpVQzhLNTdPYjh1eS10UDRjd0N2RWRCbnVEdTJ0ZlY3c25OMU9sQ1dnMXYySXRxbU9QU2c5bFJrVnIyak4wZzBJUDJKQzRFVEttWjc2UUE1Y1BpdjZya1dhaWZDdEozOXM3cDhMX1c1RGs3ek80U3RIUUVaR0daMmVQX0ktOFZweEVKcmdj?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF净值上涨3.36%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMDhUUm44d0xPTXpVQzhLNTdPYjh1eS10UDRjd0N2RWRCbnVEdTJ0ZlY3c25OMU9sQ1dnMXYySXRxbU9QU2c5bFJrVnIyak4wZzBJUDJKQzRFVEttWjc2UUE1Y1BpdjZya1dhaWZDdEozOXM3cDhMX1c1RGs3ek80U3RIUUVaR0daMmVQX0ktOFZweEVKcmdj?oc=5",
-      "published": "Mon, 27 Jul 2026 21:45:00 GMT"
+      "title": "中信建投黄文涛：A股长期致胜的八个宏观视角 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzljV0hmX3ZXOXdTNnl6elZyRTVTSUFaSGpsenZ6ZjU4dWI3ei12dnpVNVhyVl9OY2FzRTdIUTJOY1U1ZHczcGZ6MGRSTzRJVzRSODdYcFU2eTdEQ25TYzB3N09CNldIM0p4amQ3NE1YQVdUZmpjZThfQ3drY2l4OTVvRXBBME5DSmF4TzZR?oc=5\" target=\"_blank\">中信建投黄文涛：A股长期致胜的八个宏观视角</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzljV0hmX3ZXOXdTNnl6elZyRTVTSUFaSGpsenZ6ZjU4dWI3ei12dnpVNVhyVl9OY2FzRTdIUTJOY1U1ZHczcGZ6MGRSTzRJVzRSODdYcFU2eTdEQ25TYzB3N09CNldIM0p4amQ3NE1YQVdUZmpjZThfQ3drY2l4OTVvRXBBME5DSmF4TzZR?oc=5",
+      "published": "Mon, 27 Jul 2026 23:00:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "富国恒生A股专精特新企业ETF净值上涨3.94% - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzE2MkZoc2dNLUxLemRJWnFnNGhUZFBKeTJ2XzlQTXJaM1VUMEZYVjd3VUlXdjNrZ0d4OUJqdlZYSTlnLVR5WXhCZGlMRVNVM0dqbXRodm5ZMHp5R2VsYXJBMk5kd3JHTTlzREJqLTFieWJ6andGNHIzRTBvbXNRb2ExWnQyd3p4cjRjcWZpZFZEQ1hhU1FJ?oc=5\" target=\"_blank\">富国恒生A股专精特新企业ETF净值上涨3.94%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdzE2MkZoc2dNLUxLemRJWnFnNGhUZFBKeTJ2XzlQTXJaM1VUMEZYVjd3VUlXdjNrZ0d4OUJqdlZYSTlnLVR5WXhCZGlMRVNVM0dqbXRodm5ZMHp5R2VsYXJBMk5kd3JHTTlzREJqLTFieWJ6andGNHIzRTBvbXNRb2ExWnQyd3p4cjRjcWZpZFZEQ1hhU1FJ?oc=5",
-      "published": "Mon, 27 Jul 2026 21:45:00 GMT"
+      "title": "月内超600家A股上市公司获机构调研，电子行业受青睐 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3BDTm5oMndCUHFyNHdHMVNad0dxQzhSRkJzdmdNOFdya2k5djdVT0Z2ekNWRlZDYmNFV2k5TTBWVm9VTHZCX2ZSX2EtcV9qeEhWWGw4RE1VZTRiOXRpMVBJSGdha0ZEUFVwc3pQMzgtdlNFXzNtLUdxQTltNUpsdg?oc=5\" target=\"_blank\">月内超600家A股上市公司获机构调研，电子行业受青睐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS3BDTm5oMndCUHFyNHdHMVNad0dxQzhSRkJzdmdNOFdya2k5djdVT0Z2ekNWRlZDYmNFV2k5TTBWVm9VTHZCX2ZSX2EtcV9qeEhWWGw4RE1VZTRiOXRpMVBJSGdha0ZEUFVwc3pQMzgtdlNFXzNtLUdxQTltNUpsdg?oc=5",
+      "published": "Mon, 27 Jul 2026 23:21:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "国泰恒生A股电网设备ETF发起联接C净值上涨3.13% - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmNiNnpkekFfOWdZaFVMV3B2dmRHeTQ1cmNyU1RwNDgwWGk1VmRNRWNlaGtleWxlLTJ2ZlNKUXh2WjBQdEVBS0tIUXctcmxjVWhIUnNEZllIZ2xnY2dXNThYRmlVVGZQWUh6dDkyTFFKSDRvNkZkaXR4NkZBQlVxVi1famFwZnAtM2pydDY2VUVIZk9sS28w?oc=5\" target=\"_blank\">国泰恒生A股电网设备ETF发起联接C净值上涨3.13%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdmNiNnpkekFfOWdZaFVMV3B2dmRHeTQ1cmNyU1RwNDgwWGk1VmRNRWNlaGtleWxlLTJ2ZlNKUXh2WjBQdEVBS0tIUXctcmxjVWhIUnNEZllIZ2xnY2dXNThYRmlVVGZQWUh6dDkyTFFKSDRvNkZkaXR4NkZBQlVxVi1famFwZnAtM2pydDY2VUVIZk9sS28w?oc=5",
-      "published": "Mon, 27 Jul 2026 21:34:00 GMT"
+      "title": "首日盘中涨超530%！长鑫科技成A股“一哥”，险企浮盈超1400亿 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1YMS0xRE1odFBhbVRIREtBazV2TXJ3VTNVR1pQWWNacHljM2pKQkVGSGFQVHVpaTFBbjl6aWlmWWlUbHdlSVZhSWhYaTBaMWJIMm1CTE9aV19zR2xVSVV1cnpyaXo1ak1PX25mWTZFQWNXUERkalV1Wg?oc=5\" target=\"_blank\">首日盘中涨超530%！长鑫科技成A股“一哥”，险企浮盈超1400亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YMS0xRE1odFBhbVRIREtBazV2TXJ3VTNVR1pQWWNacHljM2pKQkVGSGFQVHVpaTFBbjl6aWlmWWlUbHdlSVZhSWhYaTBaMWJIMm1CTE9aV19zR2xVSVV1cnpyaXo1ak1PX25mWTZFQWNXUERkalV1Wg?oc=5",
+      "published": "Mon, 27 Jul 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "长鑫科技上市首日市值突破3万亿元 A股迎“存储”新标杆 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdnFSREhvek1vc3Y3MDVKeExMRzNoVlJjeFFNWS1wZ2V2MEg0cTRBMFpKblZiMjA1STNZSFZoQzZzazZsVDhBd3JkMWhfYkxoRk5mU3hIamZfQThoZUNUbDRFV1JObHZoTGVVbURPb3BVblNld0dkag?oc=5\" target=\"_blank\">长鑫科技上市首日市值突破3万亿元 A股迎“存储”新标杆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdnFSREhvek1vc3Y3MDVKeExMRzNoVlJjeFFNWS1wZ2V2MEg0cTRBMFpKblZiMjA1STNZSFZoQzZzazZsVDhBd3JkMWhfYkxoRk5mU3hIamZfQThoZUNUbDRFV1JObHZoTGVVbURPb3BVblNld0dkag?oc=5",
+      "published": "Mon, 27 Jul 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "复盘长鑫科技上市首日交易卡顿 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVVNmYUhpYnpGOHFadXYwejd2aV9aYlNTdm1ONDZ4eWpmaWhIR0xpdDJQTlJ4bHRwcVR3NGFYeDYzemg3eGd4dHNmRW8yZ1g4WTRTTEpqdWpOM3ZBc0N6emVyWFBCVnBEQldhaTVwRDgxZU1OaHBKWQ?oc=5\" target=\"_blank\">复盘长鑫科技上市首日交易卡顿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iVVNmYUhpYnpGOHFadXYwejd2aV9aYlNTdm1ONDZ4eWpmaWhIR0xpdDJQTlJ4bHRwcVR3NGFYeDYzemg3eGd4dHNmRW8yZ1g4WTRTTEpqdWpOM3ZBc0N6emVyWFBCVnBEQldhaTVwRDgxZU1OaHBKWQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:04:00 GMT"
     },
     {
       "source": "东方财富",
@@ -69,27 +153,6 @@
     },
     {
       "source": "东方财富",
-      "title": "全球市场：美股三大指数收盘涨跌不一 英伟达跌近5% 国际油价大跌逾8% - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wZVlTWHVTVS0xVTNRQ0R3dDMtUlk4Yng3RHkyZTJSVzUzMGYzU3FUTV83cGZWWEhDNnlmZ21FOTlIWXJ6V0ZVSzZKaWNDekFicUJBcVdPVkNJQm5EZ0dTcw?oc=5\" target=\"_blank\">全球市场：美股三大指数收盘涨跌不一 英伟达跌近5% 国际油价大跌逾8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wZVlTWHVTVS0xVTNRQ0R3dDMtUlk4Yng3RHkyZTJSVzUzMGYzU3FUTV83cGZWWEhDNnlmZ21FOTlIWXJ6V0ZVSzZKaWNDekFicUJBcVdPVkNJQm5EZ0dTcw?oc=5",
-      "published": "Mon, 27 Jul 2026 21:46:03 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "打磨自己，降低预期！ - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBUUWtPQklYa3JpWlFaaU9yYWwxMjNSN3ZsR2JCOTdKSEVXVGQzSndWczNWSnpIX291WEttMGtiTG1YelFXZ3V2THJaWmNRVm5qT0RxNW5mZmtNb2Zva1MzUHp5M3NBTE5lLXZz?oc=5\" target=\"_blank\">打磨自己，降低预期！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUUWtPQklYa3JpWlFaaU9yYWwxMjNSN3ZsR2JCOTdKSEVXVGQzSndWczNWSnpIX291WEttMGtiTG1YelFXZ3V2THJaWmNRVm5qT0RxNW5mZmtNb2Zva1MzUHp5M3NBTE5lLXZz?oc=5",
-      "published": "Mon, 27 Jul 2026 21:31:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "双底来了，下面机会在哪里？ - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBUcWZtdWpFeHpQbW5yM296VV9mMjhCSWw1N0xHODlSbUFJR1lEZFM5ZC00c2NFUVVPSjBKYW5EZlBEMm5jb0xmQmZRdTVLUWxWa0IyeldPUDZWVXFGb1NNTjh1UDRsNUt0WkZR?oc=5\" target=\"_blank\">双底来了，下面机会在哪里？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUcWZtdWpFeHpQbW5yM296VV9mMjhCSWw1N0xHODlSbUFJR1lEZFM5ZC00c2NFUVVPSjBKYW5EZlBEMm5jb0xmQmZRdTVLUWxWa0IyeldPUDZWVXFGb1NNTjh1UDRsNUt0WkZR?oc=5",
-      "published": "Mon, 27 Jul 2026 22:08:00 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "短期均线要金叉 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBURzFfcWxITWdJZEZ0WGtKd2puSFhyR2dQMTAxc2VPallQUGtNd1FjV19SMmZuZHcta05lUEU3d0xKNFZVVHZrc0lObTFsbGR4NEUxVEdhX0FEYW9aYlBGYV8xM1RoTHRXcWk4?oc=5\" target=\"_blank\">短期均线要金叉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBURzFfcWxITWdJZEZ0WGtKd2puSFhyR2dQMTAxc2VPallQUGtNd1FjV19SMmZuZHcta05lUEU3d0xKNFZVVHZrc0lObTFsbGR4NEUxVEdhX0FEYW9aYlBGYV8xM1RoTHRXcWk4?oc=5",
@@ -97,17 +160,143 @@
     },
     {
       "source": "东方财富",
-      "title": "长鑫科技登陆科创板首日：在理性定价与温和交易中开新局 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5FbS1Xc015ZS1pcHljdkx2eGY2bUpMZGRRZ1JwdjAwLVN0ck1xYjdqWnFWa1gyaXFFT2s0SEI0b3JNVHBzYWtFNnBOS1htVTR6MG5uQWhiXzE0Ti1hRnMwdWF6SUZBamxUNDI4?oc=5\" target=\"_blank\">长鑫科技登陆科创板首日：在理性定价与温和交易中开新局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FbS1Xc015ZS1pcHljdkx2eGY2bUpMZGRRZ1JwdjAwLVN0ck1xYjdqWnFWa1gyaXFFT2s0SEI0b3JNVHBzYWtFNnBOS1htVTR6MG5uQWhiXzE0Ti1hRnMwdWF6SUZBamxUNDI4?oc=5",
-      "published": "Mon, 27 Jul 2026 21:44:00 GMT"
+      "title": "浙商汇金通利增强债券型证券投资基金基金合同生效公告_ 基金公告 - 天天基金",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBYa0wyUmROYjZTS0hZRmxvelAzSW5LVm5EMEhFLU1oT3BMVlVKWmJMSWU2cmNFRVNPcnhqNi15OGFQSzE1Y2ZCVzVQamNlVHFfbWNwYm5VSlZLY3Y4UTdOd0F4TGRDMUJVOUZJNmllQV9yZ3J2TlE?oc=5\" target=\"_blank\">浙商汇金通利增强债券型证券投资基金基金合同生效公告_ 基金公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYa0wyUmROYjZTS0hZRmxvelAzSW5LVm5EMEhFLU1oT3BMVlVKWmJMSWU2cmNFRVNPcnhqNi15OGFQSzE1Y2ZCVzVQamNlVHFfbWNwYm5VSlZLY3Y4UTdOd0F4TGRDMUJVOUZJNmllQV9yZ3J2TlE?oc=5",
+      "published": "Mon, 27 Jul 2026 23:18:45 GMT"
     },
     {
       "source": "东方财富",
-      "title": "德琪医药-B(06996)发盈喜 预计上半年利润约1.95亿元至2.38亿元 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBaR0hjN1VoSnFBQ2puUVdTcm1zTG5fR3ctTldwbWZnMVJESDROeFpSU2JrcDMzNlh0Vmt0UEYyREVWZ2RtenU5ZUM4cm56aGZSYWlPM0ZQTGdNMlhnMTN5YlNOM1llOE9UcUgw?oc=5\" target=\"_blank\">德琪医药-B(06996)发盈喜 预计上半年利润约1.95亿元至2.38亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaR0hjN1VoSnFBQ2puUVdTcm1zTG5fR3ctTldwbWZnMVJESDROeFpSU2JrcDMzNlh0Vmt0UEYyREVWZ2RtenU5ZUM4cm56aGZSYWlPM0ZQTGdNMlhnMTN5YlNOM1llOE9UcUgw?oc=5",
-      "published": "Mon, 27 Jul 2026 22:40:00 GMT"
+      "title": "单周530亿资金流入宽基ETF 创年内次高 再显抄底意图？ - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE01MXU4RTFwcUJ5SVBkU0huczFzOGlNaXVES1gwRUgtUmQwMDVRS1QxYmQwa3lJU3NrU191RXo2LXViYzFval9GWERsUmdmX1JMZDlNVDFSUFZGdlRKSUZRcU80NA?oc=5\" target=\"_blank\">单周530亿资金流入宽基ETF 创年内次高 再显抄底意图？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01MXU4RTFwcUJ5SVBkU0huczFzOGlNaXVES1gwRUgtUmQwMDVRS1QxYmQwa3lJU3NrU191RXo2LXViYzFval9GWERsUmdmX1JMZDlNVDFSUFZGdlRKSUZRcU80NA?oc=5",
+      "published": "Mon, 27 Jul 2026 23:11:20 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "【早知道】美股三大指数涨跌不一；东方证券拟251.2亿元收购上海证券 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ba3FIakRHUlZhai01N1lISU83MDVvYi1lMGc4QkplOVNwNUg0MnhNbkd2X2NOYjFXRm0wckRWM0U3QnR0bThZNGVBTk80NUs5cUdPOHJmbjFybENrUkFRNXJSUWh2UQ?oc=5\" target=\"_blank\">【早知道】美股三大指数涨跌不一；东方证券拟251.2亿元收购上海证券</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ba3FIakRHUlZhai01N1lISU83MDVvYi1lMGc4QkplOVNwNUg0MnhNbkd2X2NOYjFXRm0wckRWM0U3QnR0bThZNGVBTk80NUs5cUdPOHJmbjFybENrUkFRNXJSUWh2UQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:49:45 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "国联中证500指数增强型证券投资基金2026年第二次分红公告 查看PDF原文 - 天天基金",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1lT01EWkpESzBzTVVDTkRCVFU1Y2QxSWxRN0lObjdGNWoyb3Q4TTNrUVRTLXl4THRQcmdRYjNRR09HNXJyZUdoZWpLaWlhUzNUbTFzdzAzRWhaLTJTVXFCMXlXYVBab042TVVLZUNzVWZKS2plaGc?oc=5\" target=\"_blank\">国联中证500指数增强型证券投资基金2026年第二次分红公告 查看PDF原文</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lT01EWkpESzBzTVVDTkRCVFU1Y2QxSWxRN0lObjdGNWoyb3Q4TTNrUVRTLXl4THRQcmdRYjNRR09HNXJyZUdoZWpLaWlhUzNUbTFzdzAzRWhaLTJTVXFCMXlXYVBab042TVVLZUNzVWZKS2plaGc?oc=5",
+      "published": "Mon, 27 Jul 2026 23:18:46 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "长鑫科技上市首日 A股放量普涨 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByTk5TemhsYXVDT1I4d1VEZThyS0p1LVd1YUMydV9jUDV1SlVvZFdMbUl0NmJLajRFdkZYcUQxUElyY2pDWlI3dk9BZVByVHpSaHB6TlJPaWdXT2dsU0xfQ2xzOA?oc=5\" target=\"_blank\">长鑫科技上市首日 A股放量普涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByTk5TemhsYXVDT1I4d1VEZThyS0p1LVd1YUMydV9jUDV1SlVvZFdMbUl0NmJLajRFdkZYcUQxUElyY2pDWlI3dk9BZVByVHpSaHB6TlJPaWdXT2dsU0xfQ2xzOA?oc=5",
+      "published": "Mon, 27 Jul 2026 22:46:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国联邦航空管理局：数百架波音737 MAX飞机的座椅安装不当",
+      "summary": "美国联邦航空管理局表示，数百架波音737 MAX飞机的座椅安装不当，在紧急着陆时座椅可能会松动。美国联邦航空管理局提议出台新规要求航空公司修复座椅问题。",
+      "link": "https://news.10jqka.com.cn/20260728/c678469514.shtml",
+      "published": "Mon, 27 Jul 2026 23:47:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中信建投：A股长期致胜的八个宏观视角",
+      "summary": "中信建投指出，A股市场将长期致胜。当前我国A股的长期趋势是向上的，整体市值是扎实的，投资机遇是广阔的，虽有少数个股泡沫现象，但整体市场没有系统性风险，产业进步和业绩成长显著。而美股全市场系统性泡沫因素极高，虽其仍有科技、货币优势，但全市场产业空心化、价格泡沫化系统性风险不容忽视。相较美股，A股有八个优势。其一，总市值水平不同，为安全边际优势；其二，杠杆规模不同，为流动性条件优势；其三，货币信用不同，为主权信用优势；其四，AI发展模式不同，为AI前景优势；其五，产业更新节奏不同，为向新速度优势；其六，产业链质量不同，为产业链优势；其七，产业实绩不同，为成长业绩优势；其八，未来潜力不同，为重估潜力优势。",
+      "link": "https://news.10jqka.com.cn/20260728/c678469454.shtml",
+      "published": "Mon, 27 Jul 2026 23:40:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普为何突然叫停对伊空袭？潜在“最直接原因”曝光：攻击性弹药消耗过多",
+      "summary": "美军连续对伊朗空袭13天之后，美国总统特朗普于7月24日宣布“暂停对伊朗发动新一轮打击”，伊朗随即也宣布“暂停对等打击行动”，中东战火暂时告一段落。对于特朗普为何突然叫停对伊空袭，外界猜测纷纷，但广为流传的说法是，美军武器弹药的极度消耗，让五角大楼继续开动战争机器已经难以为继。以色列《新消息报》网站26日称，由于弹药短缺，美国对伊朗境内目标的打击方式发生了明显变化。在7月初的对伊朗空袭行动初期，美军更多地依赖远程“战斧”巡航导弹和JASSM隐形巡航导弹。但空袭行动后期，美军明显减少了这些远程导弹的使用，转而更多地使用卫星定位导引的联合直接攻击弹药（JDAM）和小直径炸弹（SDB）。美国《纽约时报》25日提到，除了用于进攻的弹药严重不足之外，美军防御伊朗反击的拦截导弹数量也接近见底。（环球网）",
+      "link": "https://news.10jqka.com.cn/20260728/c678469431.shtml",
+      "published": "Mon, 27 Jul 2026 23:37:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "桥水联席CIO：政府加强干预或增加AI投资不确定性",
+      "summary": "桥水基金的联席首席投资官周一在致客户的报告中表示，政府对人工智能(AI)领域的介入可能会减缓这项技术的普及和发展，并给投资者带来更多不确定性。该投资公司的联席首席投资官Bob Prince、Greg Jensen和Karen Karniol-Tambour在报告中写道：尽管监管在降低AI可能带来的有害后果方面发挥着关键作用，但也可能通过压低资本回报率，或仅仅通过增加投资者进行长期投资时面临的不确定性，从而扰乱AI资本支出周期。上述评论发表之际，华盛顿正加强对新AI模型发布的监管，以识别潜在威胁。桥水警告称，尽管利率环境趋紧以及股市回调不太可能动摇对AI的投资意愿，但AI领域投资高度集中的现象还伴随着其他风险，例如对技术进步不及预期以及政府AI监管措施的敏感性。三位联席首席投资官表示：“当前的扩张依赖于为AI建设提供资金的意愿，目前AI建设需要大量资金投入。”",
+      "link": "https://news.10jqka.com.cn/20260728/c678469425.shtml",
+      "published": "Mon, 27 Jul 2026 23:36:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "大型游乐设施安全领域基础性强制性国家标准公开征求意见",
+      "summary": "为全面筑牢游乐园和景区大型游乐设施安全底线，规范大型游乐设施设计、制造、安装和使用全链条技术要求，市场监管总局组织修订了《大型游乐设施安全要求（征求意见稿）》，现面向全社会公开征集意见。作为我国大型游乐设施安全领域基础性、强制性的国家标准，征求意见稿汲取了近年来大型游乐设施事故教训，系统梳理了全国在用大型游乐设施运行痛点，同步对标国际先进游乐设施安全标准，适应行业新技术发展需求，制定符合我国国情的大型游乐设施全生命周期基本安全要求。",
+      "link": "https://news.10jqka.com.cn/20260728/c678469329.shtml",
+      "published": "Mon, 27 Jul 2026 23:29:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中泰证券：流动性风险或已阶段性解除，往后看，长鑫科技上市前市场仍需维持一定热度和成交规模",
+      "summary": "中泰证券发布研究报告称，就当前市场而言，“AI资本开支周期是否见顶”是市场博弈的核心。从产业趋势来看，当前AI产业趋势并未松动。近期调整的核心驱动是市场对AI资本开支可持续性的怀疑。空头逻辑看似两头堵：若巨头增加资本开支，则举债稀释股东权益;若减少开支，则意味着AI周期见顶。但这一逻辑的关键遗漏在于：举债本身不是问题，投资是否有正收益才是。流动性风险或已阶段性解除。往后看，长鑫科技上市前市场仍需维持一定热度和成交规模，叠加杠杆资金已明显去化，短期市场有望迎来一波反弹。一、科技内部优先关注国产半导体设备、存储和算力方向。长鑫上市后，市场或迎来一轮反弹，科创50板块或为弹性最大方向;二、科技以外：电力设备(出海外需逻辑)、有色(铜、黄金，油价底部确认后有色弹性打开)以及创新药均可适当关注。",
+      "link": "https://news.10jqka.com.cn/20260728/c678469325.shtml",
+      "published": "Mon, 27 Jul 2026 23:28:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "银行密集试水AI权益信用卡 高净值客群精细化运营突围",
+      "summary": "信用卡获客的开卡礼，正从传统的拉杆箱、咖啡券等，向人工智能（AI）算力、大模型会员等加速转变。2026年下半年以来，多家商业银行密集上线搭载AI权益的主题信用卡。“消费即算力”，正从部分机构的试水之举，演变为银行业竞相布局的新赛道。业内人士指出，在信用卡发卡量持续收缩的背景下，以算力为核心的权益更迭，是银行针对高净值客群展开的一场精细化运营突围。长远来看，此类产品能否为信用卡业务带来实质性增量，关键在于机构如何利用AI技术融入业务、实质性优化授信审批与智能风控，以及在AI算力生态建设上的持续投入。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260728/c678469294.shtml",
+      "published": "Mon, 27 Jul 2026 23:24:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以色列总理抵达美国",
+      "summary": "当地时间7月27日，以色列总理内塔尼亚胡抵达美国安德鲁斯空军基地，乘车前往华盛顿。他将于当地时间7月28日赴白宫会晤美国总统特朗普。（CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20260728/c678469262.shtml",
+      "published": "Mon, 27 Jul 2026 23:20:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "公募打新长鑫总浮盈超500亿元 机构看好科技板块修复",
+      "summary": "在长鑫科技上市首日大涨的背后，参与网下配售的公募基金成为重要受益者。按上市首日收盘价测算，公募基金打新长鑫科技的总浮盈超500亿元，获配金额最高的基金公司浮盈超过68亿元；从单只产品来看，长鑫科技预计将为24只基金带来超过1%的收益贡献，最高贡献或超过3%。金信基金的基金经理孔学兵表示，存储大厂的平稳登陆，意味着近期困扰市场的资金面担忧和风格扰动告一段落。国泰基金表示，作为国内存储龙头，长鑫科技上市后资本开支有望提速，或将持续拉动上游设备、材料需求，成为板块重要“催化剂”。当前全球AI算力扩张带动先进制程与存储双线扩产，全球晶圆设备市场增速持续上行，叠加国产替代红利，国内设备企业成长空间广阔。中长期AI产业趋势稳固，半导体设备作为算力建设核心环节，成长确定性突出。短期板块波动仍存，建议分批布局、把控节奏。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260728/c678469257.shtml",
+      "published": "Mon, 27 Jul 2026 23:18:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "亚马逊Leo拟部署5105颗卫星，加入手机直连卫星竞争",
+      "summary": "当地时间7月27日消息，亚马逊卫星互联网业务Amazon Leo向美国联邦通信委员会（FCC）提交申请，计划部署最多5105颗卫星，提供手机直连卫星服务，为偏远地区用户提供语音、短信、数据传输和紧急通信服务，预计最早于2028年开始部署。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260728/c678469252.shtml",
+      "published": "Mon, 27 Jul 2026 23:16:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "海外大模型Token代理产业快速走红 治理与监管存难题",
+      "summary": "2026年以来，词元（Token）成为市场热词，而在这一热潮背后，依托低价倒卖Token额度、搭建中转站点的海外大模型Token代理产业快速走红，各类“0门槛副业”招募广告在多个网络平台泛滥，还依托多级分润机制实现规模裂变式增长。记者调查发现，这一游走在合规边缘的灰色产业，看似为个人创作者、中小微企业、科研群体提供了低成本海外大模型调用渠道，实则乱象丛生：部分中转站点通过虚报计费、模型掉包、退款套利等方式牟取不当利益，用户输入的数据在传输过程中几近“裸奔”。由于运营隐蔽、跨境属性突出、模式迭代迅猛，该行业正成为监管治理的难点。业内专家表示，唯有补齐合法需求供给缺口、建立常态化分级治理机制、推动国产大模型技术与服务升级，方能倒逼灰色产业出清，推动行业走向合规规范化发展。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260728/c678469248.shtml",
+      "published": "Mon, 27 Jul 2026 23:15:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "雷军回应小米澎程没有纯电车：纯电电池太重",
+      "summary": "近日，小米汽车创始人雷军在社交媒体上发文，解释了小米全新澎程系列为何全系只做增程、暂不推出纯电版本的原因。 雷军指出三个核心原因：澎程系列方盒子造型风阻太大，全尺寸大空间车非常重，如果做纯电长续航需要超大电池，进一步加大重量，反过来也会影响续航。 雷军表示，大电池增程可以实现日常通勤纯电一周一充，极限情况增程兜底，彻底消除充电焦虑，养车也省心。 此前官方也曾回应，过去三年小米汽车纯电系列的超长续航能力已被用户充分验证，但用户的生活环境、用车习惯、充电条件并不相同，还有不少用户对补能一次的超长续航里程有需求。 2023年初澎程系列正式规划立项时，动力形式就选择了增程技术，并进行了深入研发和优化改进，用增程的目的就是提高最大化的纯电体验。",
+      "link": "https://news.10jqka.com.cn/20260728/c678469240.shtml",
+      "published": "Mon, 27 Jul 2026 23:13:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "绿电直供数据中心，成就宁夏中卫一片投资热土",
+      "summary": "今年以来，算力网、新一代通信网加速布局，相关领域投资较快增长。上半年，固定资产投资规模达22.6万亿元，信息传输业投资增长25.6%。今年，“算电协同”首次被写入《政府工作报告》，与超大规模智算集群一同被明确为新基建工程。5月，首个大规模“算电协同”绿电直供项目在中卫投运。这一项目总投资87亿元，激发了上下游的连锁反应。光伏电站往南40公里，150万千瓦风电项目正加紧建设，计划9月全容量并网。“届时整个绿电直供项目年发电量将达43亿千瓦时，可基本满足数据中心集群的用电需求。”大唐中卫新能源有限公司副总经理靳良说。为推动实现“双碳”目标，国家枢纽节点新建数据中心绿电占比应不低于80%，电能利用效率低于1.2。绿电直供，成为中卫市发展大数据产业的优势，带动了投资增长。(人民日报)",
+      "link": "https://news.10jqka.com.cn/20260728/c678469225.shtml",
+      "published": "Mon, 27 Jul 2026 23:09:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日本首相最快周四将下令下调消费税",
+      "summary": "据媒体援引不愿具名官员消息，日本首相高市早苗最快将于周四下达相关政令，启动食品饮料类商品消费税降至1%、并维持两年的落地流程。另据报道，高市早苗有望于本周内正式公布该减税方案。(新浪财经)",
+      "link": "https://news.10jqka.com.cn/20260728/c678469219.shtml",
+      "published": "Mon, 27 Jul 2026 23:08:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上市券商开启中期分红预热 释放股东回报积极信号",
+      "summary": "临近上市券商2026年半年度业绩披露季，多位上市券商董事长发声，提议推出中期分红方案。与此同时，2025年年度分红进入派现实施窗口期，7月以来已有18家上市券商发布权益分派实施公告。“往年行业很少出现董事长直接提议分红的情形，大部分由公司董事会统一出方案披露。”博通咨询金融行业资深分析师王蓬博在接受记者采访时表示，这一现象的出现，本质是监管层持续推动上市公司常态化分红的政策要求在证券业落地，同时也反映出上市券商上半年盈利、未分配利润及现金储备充足，资本水平可同时覆盖股东分红与业务发展需求。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260728/c678469211.shtml",
+      "published": "Mon, 27 Jul 2026 23:08:04 GMT"
     },
     {
       "source": "同花顺",
@@ -145,249 +334,25 @@
       "published": "Mon, 27 Jul 2026 22:48:40 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "强生公司表示，将支付55亿美元解决与卵巢滑石粉相关的索赔事宜",
-      "summary": "强生公司表示，将支付55亿美元解决与卵巢滑石粉相关的索赔事宜。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260728/c678469003.shtml",
-      "published": "Mon, 27 Jul 2026 22:42:43 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中际旭创香港上市发售价定在每股980港元",
-      "summary": "中际旭创在港交所公告，香港上市发售价定为每股980港元，公开发售配售结果将于7月29日公布。该公司将于7月30日在香港交易所主板挂牌上市。",
-      "link": "https://news.10jqka.com.cn/20260728/c678468990.shtml",
-      "published": "Mon, 27 Jul 2026 22:39:47 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "俄组建建筑工程部队 武装力量总人数增至242万余",
-      "summary": "俄罗斯总统普京27日签署命令，决定组建几支军事建筑工程部队，并将俄武装力量编制总人数增至242万余人。这一新命令将于8月1日生效。综合俄罗斯总统网站、法律信息网站消息，普京当天签署总统令，为组建几支军事建筑工程部队，修改6月12日的总统令，将俄武装力量编制总人数变更至242万余人，其中包括153.5万名现役军人。这意味着俄武装力量编制总人数将增加2.7万人，其中现役军人增加2.5万人。据塔斯社、今日俄罗斯通讯社等多家媒体报道，6月12日的总统令规定俄武装力量编制总人数为239万余人，其中现役军人151万人。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468978.shtml",
-      "published": "Mon, 27 Jul 2026 22:35:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "海地总统选举再推迟 首轮投票拟于12月举行",
-      "summary": "海地临时选举委员会27日公布2026年至2027年选举日程，宣布总统选举和立法机构选举首轮投票将于今年12月13日举行，第二轮投票将于2027年2月21日举行。这是一再推迟的海地选举最新进展。今年初，海地临时选举委员会曾将总统选举投票日期暂定为8月30日。公告说，选举能否如期举行，取决于安全环境能否改善以及相关资金保障能否落实。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468948.shtml",
-      "published": "Mon, 27 Jul 2026 22:28:48 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "30年期国债期货创近8个月新高 债市或告别“三低”震荡",
-      "summary": "近日，债市终于摆脱持续的“三低”状态——低成交、低波动、低股债相关性，走出新方向：超长端债券明显走强，7月27日，30年期国债期货主力合约盘中一度升至115.18元，创近8个月新高。多家机构认为，本轮超长债突破，既缘于前期低波动行情积蓄了较强动能，又与基本面偏弱、再通胀预期反复落空、央行呵护资金面，以及机构对超长端期限利差压缩的重新定价有关。不过，在基金久期偏高、政府债供给压力尚未完全落地的背景下，后续行情能否延续，仍取决于配置盘能否接力交易盘。（上证报）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468940.shtml",
-      "published": "Mon, 27 Jul 2026 22:24:27 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "主动权益类基金二季度加仓券商板块 多重稳市信号支撑券商股修复行情",
-      "summary": "随着公募基金2026年二季报完整披露，机构资金布局非银金融的路径清晰显现：主动权益类基金二季度加仓券商板块，34只券商标的获增持，头部投行、互联网券商成为资金核心落脚点。与此同时，近期多家券商密集推出股份回购、国资股东大额增持等利好。在产业资本与机构资金共振下，多重稳市信号落地，机构普遍看好券商板块的估值修复行情。（上证报）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468922.shtml",
-      "published": "Mon, 27 Jul 2026 22:20:17 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "A股上市券商开启中期分红预热",
-      "summary": "临近上市券商2026年半年度业绩披露季，多位上市券商董事长发声，提议推出中期分红方案。与此同时，2025年年度分红进入派现实施窗口期，7月以来已有18家上市券商发布权益分派实施公告。（上证报）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468920.shtml",
-      "published": "Mon, 27 Jul 2026 22:19:36 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "多家上市银行年中工作会议定调：持续加强资产负债管理 向数智化转型要成效",
-      "summary": "在多重考验交织下，银行业走完2026年上半程。随着年中工作会议的陆续召开，多家上市银行下半年的经营路线图也正式浮出水面。透过一系列会议可见：多家银行明确将加强资产负债管理、提升多元收益作为破局关键；与此同时，持续提升服务实体经济质效、加快数智化转型、强化风险防控等也是各家银行下半年的重点任务。（上证报）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468915.shtml",
-      "published": "Mon, 27 Jul 2026 22:18:07 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "Anthropic澄清立场：从未主张禁止开放权重AI模型",
-      "summary": "Anthropic表示，其从未倡导禁止开放权重AI模型，对近期的相关说法予以反驳。该公司首席执行官达里奥·阿莫代伊称，公司并不同意开放权重模型天然更利于AI安全防护开发的观点。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468913.shtml",
-      "published": "Mon, 27 Jul 2026 22:17:19 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "特朗普称有耐心与伊朗达成新协议",
-      "summary": "美国总统特朗普当地时间7月27日在乘坐“空军一号”专机前往密歇根州途中对媒体称，目前美国与伊朗的谈判“进行良好”，他有足够耐心和时间与伊朗达成协议，但如果达不成新的停火协议，美国将恢复对伊朗的军事打击——并且“美军目前弹药库存充足，有大量不同类型的弹药”。(财联社)",
-      "link": "https://news.10jqka.com.cn/20260728/c678468531.shtml",
-      "published": "Mon, 27 Jul 2026 22:04:39 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储本周维持利率不变的概率63.7%",
-      "summary": "据CME“美联储观察”：美联储7月维持利率不变的概率为63.7%，累计加息25个基点的概率为36.3%。美联储到9月维持利率不变的概率为18.5%，累计加息25个基点的概率为55.7%，累计加息50个基点的概率为25.8%。",
-      "link": "https://news.10jqka.com.cn/20260728/c678468524.shtml",
-      "published": "Mon, 27 Jul 2026 22:02:57 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "WTI原油价格跌至每桶81.68美元",
-      "summary": "WTI原油价格跌至每桶81.68美元，交易员关注美伊谈判进展。",
-      "link": "https://news.10jqka.com.cn/20260728/c678468523.shtml",
-      "published": "Mon, 27 Jul 2026 22:02:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "现货黄金突破4080美元/盎司",
-      "summary": "现货黄金突破4080美元/盎司，日内涨0.09%。",
-      "link": "https://news.10jqka.com.cn/20260728/c678468520.shtml",
-      "published": "Mon, 27 Jul 2026 22:01:16 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "以色列总理：伊朗的核计划必须终止",
-      "summary": "根据以色列总理办公室发布的声明，以色列总理内塔尼亚胡7月27日启程前往美国，并计划于28日与美国总统特朗普举行会谈。启程前，内塔尼亚胡表示，无论是否达成相关协议，伊朗的核计划必须终止。内塔尼亚胡说，战争只有在伊朗现政权倒台或被彻底削弱到被迫放弃其核计划时才会结束。他强调，“无论是否达成协议”，伊朗的核计划都必须终止。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468437.shtml",
-      "published": "Mon, 27 Jul 2026 21:53:21 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗武装部队对美国海上封锁发出警告",
-      "summary": "当地时间7月27日，伊朗武装部队哈塔姆安比亚中央总部发表声明称，美国在加剧地区不安全局势的同时，持续对伊朗实施非法的海上封锁，并在过去三天里威胁伊朗沿海和领海的商船、油轮等。美国的这一行动将被视为对地区战争的扩大，伊朗武装力量绝不会放过美军的任何威胁，将作出回应。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260728/c678468423.shtml",
-      "published": "Mon, 27 Jul 2026 21:51:20 GMT"
+      "source": "财联社",
+      "title": "长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？ - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFRvYUlvNmM0aW14VTlCNDczZHFPZnA1Sm12bXp3dEIzLTlid0wzbkVHeHQtWjNlYVBrbTdhaGg0VmR3eldxeHJmRER6V1YxY2x6UDFMVVlEbXFKZ2RzRUhHOGRkaU5GQzJPY1JHenFETmNfQVY0NzBuUHplWGNnNU5rZVRnMVJHZktfMWVOVmxnRVR3amI1aQ?oc=5\" target=\"_blank\">长鑫科技上市首日哪些数据刷A股纪录？券商如何看后市？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFRvYUlvNmM0aW14VTlCNDczZHFPZnA1Sm12bXp3dEIzLTlid0wzbkVHeHQtWjNlYVBrbTdhaGg0VmR3eldxeHJmRER6V1YxY2x6UDFMVVlEbXFKZ2RzRUhHOGRkaU5GQzJPY1JHenFETmNfQVY0NzBuUHplWGNnNU5rZVRnMVJHZktfMWVOVmxnRVR3amI1aQ?oc=5",
+      "published": "Mon, 27 Jul 2026 23:43:09 GMT"
     },
     {
       "source": "财联社",
-      "title": "俄组建建筑工程部队 武装力量总人数增至242万余",
-      "summary": "【俄组建建筑工程部队 武装力量总人数增至242万余】财联社7月28日电，俄罗斯总统普京当地时间7月27日签署总统令，决定组建几支军事建筑工程部队，并将俄武装力量编制总人数增加2.7万人至242万余人。这一新命令将于8月1日生效。其中，现役军人数量将增加2.5万人，达到153.5万人。这是自今年初以来俄军第三次扩编，前两次分别在3月和6月。 (央视新闻)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:58:42 GMT"
+      "title": "【早报】美存储股全线重挫，SK海力士破发；原油暴跌、黄金微涨；“东方证券+上海证券”合并重组草案出炉 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NQmJRSmdlaVlRWnpIeUk4TEE2WWxXa0R3T0ZpZjFxYmRyUElHQzRrUjNINWJkZFJKQTI0R2tzVGIxRXFBUm1yVA?oc=5\" target=\"_blank\">【早报】美存储股全线重挫，SK海力士破发；原油暴跌、黄金微涨；“东方证券+上海证券”合并重组草案出炉</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NQmJRSmdlaVlRWnpIeUk4TEE2WWxXa0R3T0ZpZjFxYmRyUElHQzRrUjNINWJkZFJKQTI0R2tzVGIxRXFBUm1yVA?oc=5",
+      "published": "Mon, 27 Jul 2026 23:08:00 GMT"
     },
     {
-      "source": "财联社",
-      "title": "激活或阻断同一受体均可减肥",
-      "summary": "【激活或阻断同一受体均可减肥】财联社7月28日电，英国剑桥大学代谢科学研究所科学家通过小鼠实验发现，激活或阻断同一受体均可减肥。研究显示，两种作用相反的葡萄糖依赖性促胰岛素多肽受体（GIPR）药物，其实是作用于大脑的不同区域，而且当它们与某些胰高血糖素样肽-1受体（GLP-1）减肥药“联手”时，还能进一步提升减肥效果。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:50:29 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "微型忆阻型射频开关无需供电可保持工作状态",
-      "summary": "【微型忆阻型射频开关无需供电可保持工作状态】财联社7月28日电，新加坡国立大学领导的国际研究团队开发出一种微型忆阻型射频开关，可在无需持续供电的情况下保持工作状态，并首次将其应用于可重新配置的单片微波集成电路（MMIC）中，实现了高频信号调控。该成果有望助力5G和6G射频芯片向更小尺寸、更低功耗方向发展。相关成果发表于新一期《自然》杂志。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:49:45 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "以色列总理抵达美国",
-      "summary": "【以色列总理抵达美国】财联社7月28日电，以色列总理内塔尼亚胡当地时间7月27日抵达美国安德鲁斯空军基地，乘车前往华盛顿。他将于当地时间7月28日赴白宫会晤美国总统特朗普。按计划，内塔尼亚胡还将出席日前暴毙的美国共和党参议员林赛·格雷厄姆的追悼会。 ( CCTV国际时讯)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:48:18 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "我国科研团队发现心脏细胞分化“命运开关”",
-      "summary": "【我国科研团队发现心脏细胞分化“命运开关”】财联社7月28日电，从昆明理工大学获悉，该校灵长类转化医学研究院教授李天晴团队近期首次揭开人类胚胎心脏早期发育核心谜题，锁定调控心肌、心外膜细胞分化的关键信号轴，为先天性心脏病防治与心脏再生修复开辟全新路径。国际期刊《科学·进展》刊发了研究成果。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:47:37 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "海地总统选举再推迟 首轮投票拟于12月举行",
-      "summary": "【海地总统选举再推迟 首轮投票拟于12月举行】财联社7月28日电，海地临时选举委员会27日公布2026年至2027年选举日程，宣布总统选举和立法机构选举首轮投票将于今年12月13日举行，第二轮投票将于2027年2月21日举行。这是一再推迟的海地选举最新进展。 (央视新闻)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:45:23 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，基本半导体在港交所公告，公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。承包商同意承接本公司碳化硅模块封装产线基地的...",
-      "summary": "财联社7月28日电，基本半导体在港交所公告，公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:45:01 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，强生公司表示，将支付55亿美元解决与卵巢滑石粉相关的索赔事宜。",
-      "summary": "财联社7月28日电，强生公司表示，将支付55亿美元解决与卵巢滑石粉相关的索赔事宜。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:42:13 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中际旭创香港上市发售价定在每股980港元",
-      "summary": "【中际旭创香港上市发售价定在每股980港元】财联社7月28日电，中际旭创在港交所公告，香港上市发售价定为每股980港元，公开发售配售结果将于7月29日公布。该公司将于7月30日在香港交易所主板挂牌上市。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:39:20 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "多家公司同日停牌谋易主 A股“卖壳”潮涌动",
-      "summary": "【多家公司同日停牌谋易主 A股“卖壳”潮涌动】财联社7月28日电，A股市场7月27日出现一幕扎堆景象——普联软件、欣天科技、佳云科技、贝肯能源、联创电子等上市公司同时处于停牌状态，且均因筹划控制权变更事宜。从各家披露的公告来看，这些公司的实控人正急于让渡手中股权，有的甚至计划清仓退出。多家上市公司集中筹划控制权变更，当前资本市场“壳交易”正升温。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:35:22 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "两大热门产业成机构掘金高地 部分上市公司下半年订单产能喜人",
-      "summary": "【两大热门产业成机构掘金高地 部分上市公司下半年订单产能喜人】财联社7月28日电，数据显示，截至7月27日，7月以来机构投资者已对近600家上市公司展开调研，试图透过公司经营的最新动向，“把脉”下半年投资机遇。受益于AI技术变革带动的算力需求持续释放，电子行业、通信行业成为机构调研的热门赛道，其中新易盛、源杰科技、澜起科技等14家公司均获百家以上机构青睐 (上证报)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:26:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "30年期国债期货创近8个月新高 债市或告别“三低”震荡",
-      "summary": "【30年期国债期货创近8个月新高 债市或告别“三低”震荡】财联社7月28日电，近日，债市终于摆脱持续的“三低”状态——低成交、低波动、低股债相关性，走出新方向：超长端债券明显走强，7月27日，30年期国债期货主力合约盘中一度升至115.18元，创近8个月新高。多家机构认为，本轮超长债突破，既缘于前期低波动行情积蓄了较强动能，又与基本面偏弱、再通胀预期反复落空、央行呵护资金面，以及机构对超长端期限利差压缩的重新定价有关。不过，在基金久期偏高、政府债供给压力尚未完全落地的背景下，后续行情能否延续，仍取决于配置盘能否接力交易盘。 (上证报)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:20:17 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "主动权益类基金二季度加仓券商板块 多重稳市信号支撑券商股修复行情",
-      "summary": "【主动权益类基金二季度加仓券商板块 多重稳市信号支撑券商股修复行情】财联社7月28日电，随着公募基金2026年二季报完整披露，机构资金布局非银金融的路径清晰显现：主动权益类基金二季度加仓券商板块，34只券商标的获增持，头部投行、互联网券商成为资金核心落脚点。与此同时，近期多家券商密集推出股份回购、国资股东大额增持等利好。在产业资本与机构资金共振下，多重稳市信号落地，机构普遍看好券商板块的估值修复行情。 (上证报)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:19:33 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "上市券商开启中期分红预热",
-      "summary": "【上市券商开启中期分红预热】财联社7月28日电，临近上市券商2026年半年度业绩披露季，多位上市券商董事长发声，提议推出中期分红方案。与此同时，2025年年度分红进入派现实施窗口期，7月以来已有18家上市券商发布权益分派实施公告。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:18:41 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "多家上市银行年中工作会议定调：持续加强资产负债管理 向数智化转型要成效",
-      "summary": "【多家上市银行年中工作会议定调：持续加强资产负债管理 向数智化转型要成效】财联社7月28日电，在多重考验交织下，银行业走完2026年上半程。随着年中工作会议的陆续召开，多家上市银行下半年的经营路线图也正式浮出水面。透过一系列会议可见：多家银行明确将加强资产负债管理、提升多元收益作为破局关键；与此同时，持续提升服务实体经济质效、加快数智化转型、强化风险防控等也是各家银行下半年的重点任务。 (上证报)",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:17:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "Anthropic澄清立场：从未主张禁止开放权重AI模型",
-      "summary": "【Anthropic澄清立场：从未主张禁止开放权重AI模型】财联社7月28日电，Anthropic表示，其从未倡导禁止开放权重AI模型，对近期的相关说法予以反驳。该公司首席执行官达里奥·阿莫代伊称，公司并不同意开放权重模型天然更利于AI安全防护开发的观点。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:16:40 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美联储本周维持利率不变的概率63.7%",
-      "summary": "【美联储本周维持利率不变的概率63.7%】财联社7月28日电，据CME“美联储观察”：美联储7月维持利率不变的概率为63.7%，累计加息25个基点的概率为36.3%。 美联储到9月维持利率不变的概率为18.5%，累计加息25个基点的概率为55.7%，累计加息50个基点的概率为25.8%。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:15:20 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "特朗普称有耐心与伊朗达成新协议",
-      "summary": "【特朗普称有耐心与伊朗达成新协议】财联社7月28日电，美国总统特朗普当地时间7月27日在乘坐“空军一号”专机前往密歇根州途中对媒体称，目前美国与伊朗的谈判“进行良好”，他有足够耐心和时间与伊朗达成协议，但如果达不成新的停火协议，美国将恢复对伊朗的军事打击——并且“美军目前弹药库存充足，有大量不同类型的弹药”。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:03:42 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，WTI原油价格跌至每桶81.68美元，交易员关注美伊谈判进展。",
-      "summary": "财联社7月28日电，WTI原油价格跌至每桶81.68美元，交易员关注美伊谈判进展。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:02:10 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "周二（7月28日）重点关注财经事件和经济数据",
-      "summary": "【周二（7月28日）重点关注财经事件和经济数据】\n①待定 以色列总理内塔尼亚胡会晤特朗普；\n②11:05 澳洲联储主席布洛克发表讲话；\n③20:15 美国至7月11日当周ADP就业人数周度变动；\n④21:00 美国5月FHFA房价指数月率、5月S&amp;P/CS20座大城市房价指数年率；\n⑤22:00 美国7月谘商会消费者信心指数、7月里奇蒙德联储制造业指数；\n⑥次日04:30 美国至7月24日当周API原油库存。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 22:00:04 GMT"
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年7月28日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p>美股三大股指集体高开，纳指一度涨1%。但受一项可能加速中国芯片产业发展的技术突破报道的影响、以及英伟达循环融资的担忧，令美股指盘初转跌，纳指100盘中跌超1%，收盘时跌幅收窄。道指和小盘股收涨，标普500基本收平。半导体板块大幅领跌。费城半导体指数一度跌超5%、收跌2%。英伟达大跌5%，阿斯麦跌超5%。</p>\n<p>美股存储板块疲软，美光跌2.25%，SK海力士一度大跌10%，股价破发，闪迪重挫11%。</p>\n<p>中概股逆市收涨2.5%，小米ADR收涨8.97%，腾讯控股、阿里巴巴均涨逾2%。</p>\n<p>美债收益率整体下降，但短端债券表现不及长端，收益率曲线持续走平。",
+      "link": "https://wallstreetcn.com/articles/3778072",
+      "published": "Mon, 27 Jul 2026 23:20:27 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -398,10 +363,10 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "美联储本周加息？城堡证券：沃什本周加息将强化抗通胀信誉，并终结前瞻指引时代",
+      "title": "城堡证券：美联储主席沃什本周或意外加息，以强化抗通胀信誉",
       "summary": "<p>城堡证券（Citadel Securities）预计，美联储将在本周会议上加息——这一出人意料的举措将提升美联储主席凯文·沃什在抗击通胀方面的信誉。</p>\n<p>该公司宏观策略主管弗兰克·弗莱特（Frank Flight）在一份报告中写道，若美联储周三宣布加息25个基点，将强化沃什一再强调的恢复物价稳定承诺，同时也表明政策制定者不再依赖提前向市场释放政策信号。</p>\n<p>弗莱特表示：</p>\n<blockquote>\n<p>“市场可能再次低估了美联储鹰派转向的程度。本周加息‘将明确终结前瞻指引时代’，同时凸显美联储的独立性。”</p>\n</blockquote>\n<p>利率互换市场显示，交易员目前预计美联储周三加息25个基点的概率约为40%。按照近年来美联储决策前的市场定价标准来看，如此临近议息会议仍存在较大不确定性。交易员则已经完全计价美联储将在9月加息。</p>\n<p>弗莱特认为，本周加息相比等到9月采取行动，将产生更大的影响，因为这会改变市场对于美联储应对通胀方式的预期。</p>\n<p>他说，除增强央行抗通胀的可信度外，意外加息还将影响企业定价决策以及工人的工资要求，",
       "link": "https://wallstreetcn.com/articles/3778073",
-      "published": "Mon, 27 Jul 2026 22:46:24 GMT"
+      "published": "Mon, 27 Jul 2026 22:49:29 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -418,67 +383,11 @@
       "published": "Mon, 27 Jul 2026 22:15:39 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "报道：特朗普政府即将敲定AI自愿监管框架",
-      "summary": "<div><span style=\"text-align: justify;\">据The Information援引三位知情人士的消息报道，美国即将敲定一项自愿性框架，要求AI公司在向公众发布其最先进模型之前，先将其提交给政府审查。</span></div>\n<article>\n<p>约两周前，白宫国家网络总监办公室（Office of the National Cyber Director）已将该框架的草案分发给OpenAI、Anthropic和谷歌。</p>\n<p>这三家公司联合提交了各自的修改意见。</p>\n<p>报道称，目前尚无法得知模型审查流程将如何运作的关键细节。</p>\n</article><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </di",
-      "link": "https://wallstreetcn.com/articles/3778070",
-      "published": "Mon, 27 Jul 2026 21:47:33 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美国CME全天候黄金期货上线首周末需求强劲，成交将近1.5万份合约，散户为主",
-      "summary": "<p>美国芝加哥商业交易所集团（CME Group Inc.）表示，其1盎司黄金期货全天候（24/7）交易在首个周末上线时，尽管波动率较低，但需求强于预期，且市场流动性充裕。在新全天候交易时间表启动的首个周末，共成交近1.5万份1盎司黄金期货合约，名义价值约为6000万美元。芝商所的参与者构成与其现有的1盎司黄金客户群相似，需求继续主要来自散户投资者。</p>",
-      "link": "https://wallstreetcn.com/livenews/3140526",
-      "published": "Mon, 27 Jul 2026 21:32:08 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "英伟达大跌5%！巨额AI循环交易引发信用风险担忧，苹果市值反超重夺全球第一",
-      "summary": "<p><a href=\"https://wallstreetcn.com/articles/3778049?keyword=%E7%BB%91%E5%AE%9A\" rel=\"noopener\" target=\"_blank\">英伟达深陷逾7500亿美元AI基础设施交易谈判的消息</a>，在信用衍生品市场引发强烈震动，其违约保护成本单日涨幅创下历史纪录。与此同时，苹果因克制的资本支出策略获得市场青睐，市值重夺全球上市公司第一宝座。</p>\n<p>据ICE Data Services数据，<strong>英伟达五年期信用违约互换（CDS）价差单日最高飙升14个基点至82个基点</strong>，为该合约自去年11月活跃交易以来最大盘中涨幅。受此影响，英伟达股价周一收跌5%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/0fe14d31-ece5-437b-ade1-e18191034d63.png\" /></p>\n<p>苹果股价今年上涨24%，周一收涨1.2%，市值约达4.93万亿美元，超越英伟达的4.78万亿美",
-      "link": "https://wallstreetcn.com/articles/3778066",
-      "published": "Mon, 27 Jul 2026 21:31:52 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "SpaceX 逼近100美元，市场预期差在哪？",
-      "summary": "<p style=\"text-align: left;\">SpaceX股价在解禁压力下承压，但摩根士丹利认为，这恰恰创造了一个估值错位的买入窗口。</p>\n<p style=\"text-align: left;\">周一盘中，SpaceX股价一度跌至108.66，创上市以来新低，高点225.64美元已跌超一半。随着锁定期解禁临近，部分投资者认为股价可能进一步下探至100美元。</p>\n<p style=\"text-align: left;\">据追风交易台，摩根士丹利分析师Adam Jonas近期发布报告，若股价真的跌至100美元，意味着市场对SpaceX AI业务的估值将降至零甚至为负，同时对火箭发射+星链业务2028年EBITDA的隐含预期将较该行基准预测低约30%。</p>\n<p style=\"text-align: left;\"><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/401178e3-0b33-4bc8-b8f8-f55191bcd590.png\" /></p>\n<p style=\"text-align: lef",
-      "link": "https://wallstreetcn.com/articles/3778053",
-      "published": "Mon, 27 Jul 2026 21:29:32 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "“一天一价，合同价只保一周， 20万元涨到80万元还买不到！”",
-      "summary": "<p style=\"text-align: justify;\">7月27日，国家统计局公布1—6月规上工业企业利润数据。</p>\n<p style=\"text-align: justify;\">上半年，算力需求大幅增长，推动电子行业利润同比增长96.9%，拉动全部规模以上工业企业利润增长8.5个百分点，集成电路制造行业利润增长更是高达2579.5%。</p>\n<p style=\"text-align: justify;\">同一日，存储龙头长鑫科技登陆科创板，上市首日高开471%，收盘涨465.82%，市值3.28万亿元，超越工商银行成为A股总市值“一哥”。</p>\n<p style=\"text-align: justify;\">夸张数字背后，算力市场的真实现状是怎样的？普通人和这场算力“狂飙”有什么关系？近日，在郑州举办的光合组织2026智能计算应用大会期间，《每日经济新闻》记者（以下简称每经记者）展开实地调研。</p>\n<h2 style=\"text-align: left;\">服务器合同价一周有效连板卡都缺货</h2>\n<p style=\"text-align: justify;\"",
-      "link": "https://wallstreetcn.com/articles/3778069",
-      "published": "Mon, 27 Jul 2026 21:25:47 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "7月28日会员早报：特朗普称谈判向好 英伟达联手数十家巨头组建“安全AI联盟”",
-      "summary": "<p>1、【特朗普称谈判向好】特朗普周一在“空军一号”上对记者说，美国与伊朗“谈得不错”，有“很大机会”达成协议——但他同时警告，一旦谈判破裂，美军将以比之前“更猛”的力度恢复对伊朗的打击。围绕这场对话如何开始，双方各执一词。特朗普称，是伊朗在“挨了十四天的揍”之后主动请美国停手，“他们很客气地求我们停下来”；伊朗外交部则否认目前与美国存在任何谈判。连“谁先开口”都谈不拢的分歧，本身就折射出停火的脆弱。</p> <p>2、【英伟达联手数十家巨头组建“安全AI联盟”】英伟达周一（7月27日）宣布，联合微软、SpaceX、戴尔、IBM、Palantir、CrowdStrike、思科、Cloudflare、Salesforce、西门子、Palo Alto Networks、红帽、Hugging Face 等数十家科技与网络安全公司，组建一个名为“开放安全AI联盟”（Open Secure AI Alliance）的组织，主张用可自由下载、修改、在自有硬件上运行的开放权重（open-weight）AI 模型来武装网络防御方。促成这个联盟的，不是什么长远愿景，而是一周前一桩让整个行业脊背发凉的A",
-      "link": "https://wallstreetcn.com/member/articles/3778065",
-      "published": "Mon, 27 Jul 2026 21:10:39 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "比亚迪最坏的时刻已经过去了？",
-      "summary": "<p style=\"text-align: left;\">国内承压、出海补位，是 2026 上半年中国汽车品牌的主旋律，即便是比亚迪也不例外。</p>\n<p style=\"text-align: left;\">今年上半年，比亚迪在海外总共卖出了 789367 台，占比从 21.9% 提升至 43.6%，但看 1808511 台的总销量，较2025年同期下降近4 成，这展示了比亚迪国内市场出现了动荡。</p>\n<p style=\"text-align: left;\">也正是因为这样，比亚迪将重心转移到国内市场，开启了对现有产品序列的优化。</p>\n<p style=\"text-align: left;\">算上 1 月份推出的秦 L/秦 PLUS/海豹 05/宋 Pro 等 DM-i 车型的长续航版，比亚迪在今年上半年，已经推出多款新车及新版本，它们之中既有 6.99 万起的海鸥，也有最高 46.98 万的腾势 N9/D9 都有新血液。</p>\n<p style=\"text-align: left;\">对现有车型的查缺补漏，无法让比亚迪彻底止住在国内市场的「失血」。这些新车如纯电版海豹 0",
-      "link": "https://wallstreetcn.com/articles/3778063",
-      "published": "Mon, 27 Jul 2026 21:10:23 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "奥特曼赴华盛顿游说：将展示OpenAI模型能力，回应开放模型与安全争议",
-      "summary": "<p>OpenAI首席执行官奥特曼本周将在华盛顿与特朗普政府高级官员、国会议员及经济学家密集会晤，议题涵盖即将发布的AI模型能力、网络安全事件及开放权重模型监管走向。</p>\n<p>据CNBC，Altman此行将向决策层预演OpenAI新一代AI模型系列的核心能力，并就公司对开放权重模型的立场接受质询。访问恰逢美国科技界围绕是否限制开放权重AI模型的争论白热化之际。</p>\n<p>上周五，<a href=\"https://wallstreetcn.com/articles/3777898?keyword=%E9%A6%96%E6%8E%A8\" rel=\"noopener\" target=\"_blank\">英伟达、微软、Meta及Palantir等科技公司联合发布公开信</a>，呼吁政策制定者避免对开放权重模型实施\"过早限制\"。OpenAI在公开信发布后补签了该声明。</p>\n<p>此次华盛顿之行还叠加了一起网络安全事件——OpenAI本月早些时候披露，旗下模型突破沙盒测试环境、访问互联网并入侵第三方系统，在业界引发广泛震动。分析人士认为，上述事件将使监管讨论的焦点进一步向AI安全与管控",
-      "link": "https://wallstreetcn.com/articles/3778068",
-      "published": "Mon, 27 Jul 2026 21:09:45 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美国出现AI创业潮：找不到工作就只能“自己当老板”了",
-      "summary": "<p>2025 年，美国新企业申请达到约567万份，创历史新高。进入2026年热度不减，仅6月单月就有53.1万份新申请。硅谷在欢呼，华盛顿在庆祝，华尔街在写报告说“AI赋能了美国的奋斗文化”。</p> <p>但如果你愿意多翻几层数据，你会发现：这不是一场创业精神的复兴，而是劳动力市场发出的求救信号。</p>",
-      "link": "https://wallstreetcn.com/member/articles/3778067",
-      "published": "Mon, 27 Jul 2026 21:09:27 GMT"
+      "source": "证券时报",
+      "title": "传统行业“补课” 考核指标“焕新” A股股权激励升温 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE96VXQyUmZGcmR3WnRxazlhZTM3YzUzRm5PMHdjWXA1cUtGR1pTYkZlR240OENja0pnLTRvcTRJOWJjejFGRzl1Umc5S2RNY0hub0c1LUJnRy1RdmVM?oc=5\" target=\"_blank\">传统行业“补课” 考核指标“焕新” A股股权激励升温</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96VXQyUmZGcmR3WnRxazlhZTM3YzUzRm5PMHdjWXA1cUtGR1pTYkZlR240OENja0pnLTRvcTRJOWJjejFGRzl1Umc5S2RNY0hub0c1LUJnRy1RdmVM?oc=5",
+      "published": "Mon, 27 Jul 2026 23:26:00 GMT"
     },
     {
       "source": "证券时报",
@@ -488,11 +397,32 @@
       "published": "Mon, 27 Jul 2026 22:46:00 GMT"
     },
     {
+      "source": "证券时报",
+      "title": "多重利好渐显 A股市场转机将至 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdXJMTFRRcVh0M3ZtVHRTMDhyVWZfMmlYdDhKWnFDNzRnTUZwaWI0SndBM1daSmRlRWN3U1BHRDdzdXAwMHVSbDM0aHl0S2d0NmxQeHV6VFZoQXg4?oc=5\" target=\"_blank\">多重利好渐显 A股市场转机将至</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mdXJMTFRRcVh0M3ZtVHRTMDhyVWZfMmlYdDhKWnFDNzRnTUZwaWI0SndBM1daSmRlRWN3U1BHRDdzdXAwMHVSbDM0aHl0S2d0NmxQeHV6VFZoQXg4?oc=5",
+      "published": "Mon, 27 Jul 2026 23:18:00 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "多重利好渐显 A股市场转机将至 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEhyMmNqTDRRMEc2cG14NzBVMmtHR09zSlZhQmlScjNwVl9zaVVxTWFpRkN1M2xXYnI0QWxkcWsteTdEQ2FWNTNDdVBzcmRzRWhIWlVrcXNRSnBrZXFRZlVaXzN4QXdtUWxwYTc2UnpZcmUwcFRjajRDV3FfeFZybWlfLU8zNXhiLTJtTU95QjdHYkpk?oc=5\" target=\"_blank\">多重利好渐显 A股市场转机将至</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZEhyMmNqTDRRMEc2cG14NzBVMmtHR09zSlZhQmlScjNwVl9zaVVxTWFpRkN1M2xXYnI0QWxkcWsteTdEQ2FWNTNDdVBzcmRzRWhIWlVrcXNRSnBrZXFRZlVaXzN4QXdtUWxwYTc2UnpZcmUwcFRjajRDV3FfeFZybWlfLU8zNXhiLTJtTU95QjdHYkpk?oc=5",
+      "published": "Mon, 27 Jul 2026 23:47:17 GMT"
+    },
+    {
       "source": "中国证券报",
       "title": "长鑫科技上市首日 A股放量普涨 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFByTk5TemhsYXVDT1I4d1VEZThyS0p1LVd1YUMydV9jUDV1SlVvZFdMbUl0NmJLajRFdkZYcUQxUElyY2pDWlI3dk9BZVByVHpSaHB6TlJPaWdXT2dsU0xfQ2xzOA?oc=5\" target=\"_blank\">长鑫科技上市首日 A股放量普涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByTk5TemhsYXVDT1I4d1VEZThyS0p1LVd1YUMydV9jUDV1SlVvZFdMbUl0NmJLajRFdkZYcUQxUElyY2pDWlI3dk9BZVByVHpSaHB6TlJPaWdXT2dsU0xfQ2xzOA?oc=5",
       "published": "Mon, 27 Jul 2026 22:46:20 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "【读研报】开源证券金益腾：高位给雅化集团等“买入”评级，审慎性存疑 - mbcaijing.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uX1BTUnltQVdtaGluQ1dFZlhBMmo5cGVQX0ltQ1gySk1nZXlsZ3BMYnNLT1FQOVlRZFpGQUJwUTdXc2pSYmpMVXpxWmtNbVA2Um10LXdqajhyT1JM?oc=5\" target=\"_blank\">【读研报】开源证券金益腾：高位给雅化集团等“买入”评级，审慎性存疑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mbcaijing.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uX1BTUnltQVdtaGluQ1dFZlhBMmo5cGVQX0ltQ1gySk1nZXlsZ3BMYnNLT1FQOVlRZFpGQUJwUTdXc2pSYmpMVXpxWmtNbVA2Um10LXdqajhyT1JM?oc=5",
+      "published": "Mon, 27 Jul 2026 23:30:00 GMT"
     }
   ]
 }
