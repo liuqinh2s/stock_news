@@ -1,8 +1,8 @@
 {
   "date": "2026-07-28",
   "hour": "03",
-  "total": 38,
-  "fetched_at": "2026-07-28T03:01:00.356118+08:00",
+  "total": 26,
+  "fetched_at": "2026-07-28T03:09:58.308251+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -17,13 +17,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcDhyazMyYVlaZkZYUmFWT2lOcXU2eURETGVWbW9OVF96a0dZaTRiRDZXenNqN3YxNTZHWlZpdXQ4SGM1MzRNT040R0tSZTZEVktBVjVWYmRTLUFXUURLQUZmSW9Sbmx3VVVTT0VIX3lnQ2VYVTVtQg?oc=5\" target=\"_blank\">A股回购阵营再扩容 工业富联推最高20亿元回购方案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrcDhyazMyYVlaZkZYUmFWT2lOcXU2eURETGVWbW9OVF96a0dZaTRiRDZXenNqN3YxNTZHWlZpdXQ4SGM1MzRNT040R0tSZTZEVktBVjVWYmRTLUFXUURLQUZmSW9Sbmx3VVVTT0VIX3lnQ2VYVTVtQg?oc=5",
       "published": "Mon, 27 Jul 2026 17:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "长鑫科技3.27万亿市值登顶A股，股民一签可赚2万多！有股民中了6500股，卖出部分持仓净赚8万：“人只能赚到认知以内的钱” - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE14MDJzRFc2VUFEOGpJMk9KVzhmQmpmX1dWSThDZzdsbFVzdzE3VkhVbE80Y0lxdWp2dnhncmM5NnY0d0VySGQyZmN6MXBEZGZoa2llVGozOXFyaWcwZVBrN1BFOTJTRFhrbXZVcTBURlVrWXJvZ1E?oc=5\" target=\"_blank\">长鑫科技3.27万亿市值登顶A股，股民一签可赚2万多！有股民中了6500股，卖出部分持仓净赚8万：“人只能赚到认知以内的钱”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14MDJzRFc2VUFEOGpJMk9KVzhmQmpmX1dWSThDZzdsbFVzdzE3VkhVbE80Y0lxdWp2dnhncmM5NnY0d0VySGQyZmN6MXBEZGZoa2llVGozOXFyaWcwZVBrN1BFOTJTRFhrbXZVcTBURlVrWXJvZ1E?oc=5",
-      "published": "Mon, 27 Jul 2026 17:04:00 GMT"
     },
     {
       "source": "东方财富",
@@ -80,6 +73,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE96OW1CdV95TzQ0Rzg0akJadEhwbVNtVnVaT0RQR1ljOU5ZQUNFUmtEM2FQRVhsZ00yVFQzZXdZUmhhMFJNaXhjT1R1NmpLMmZVR01meWxzWklXa1BMN2JmZWNBMkwyWnR3SWVV?oc=5\" target=\"_blank\">股市必读：奥浦迈（688293）7月27日主力资金净流入325.18万元，占总成交额0.0%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96OW1CdV95TzQ0Rzg0akJadEhwbVNtVnVaT0RQR1ljOU5ZQUNFUmtEM2FQRVhsZ00yVFQzZXdZUmhhMFJNaXhjT1R1NmpLMmZVR01meWxzWklXa1BMN2JmZWNBMkwyWnR3SWVV?oc=5",
       "published": "Mon, 27 Jul 2026 17:14:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "在岸人民币兑美元较上周五夜盘收盘涨77点",
+      "summary": "在岸人民币兑美元（CNY）北京时间03:00收报6.7625元，较上周五夜盘收盘涨77点。成交量293.56亿美元。",
+      "link": "https://news.10jqka.com.cn/20260728/c678468217.shtml",
+      "published": "Mon, 27 Jul 2026 19:08:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国驻多伦多总领事馆再遭枪击",
+      "summary": "加拿大媒体报道，当地时间27日凌晨，美国驻多伦多总领事馆遭枪击，这是该建筑今年第二次遭袭。多伦多市警方表示，枪击发生于当天4时45分许。一名值班警员听到枪声后，发现一辆无牌照的白色轿车正高速驶离现场。由于缺乏空中支援且嫌疑车辆车速过快，警方出于安全考量，在高速公路附近暂停追捕。总领馆外墙受损，无人员伤亡。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260728/c678468209.shtml",
+      "published": "Mon, 27 Jul 2026 19:03:01 GMT"
     },
     {
       "source": "同花顺",
@@ -171,97 +178,6 @@
       "summary": "周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.8亿美元。",
       "link": "https://news.10jqka.com.cn/20260728/c678468033.shtml",
       "published": "Mon, 27 Jul 2026 17:17:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数3.06",
-      "summary": "美国财政部拍卖三个月期国债，得标利率3.815%，投标倍数3.06。",
-      "link": "https://news.10jqka.com.cn/20260728/c678468020.shtml",
-      "published": "Mon, 27 Jul 2026 17:05:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国财政部拍卖700亿美元五年期国债，得标利率4.408%",
-      "summary": "美国财政部拍卖700亿美元五年期国债，得标利率4.408%（6月24日为4.20%、创2025年1月份以来新高），投标倍数2.28（前次为2.35）。",
-      "link": "https://news.10jqka.com.cn/20260728/c678468019.shtml",
-      "published": "Mon, 27 Jul 2026 17:05:36 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "摩根士丹利：投资者在美联储议息会议前增加美元多仓",
-      "summary": "【摩根士丹利：投资者在美联储议息会议前增加美元多仓】财联社7月28日电，摩根士丹利策略师援引数据称，投资者在美联储和英国央行本周召开议息会议之前已增加了美元多头和英镑空头仓位。“期权定价数据显示，投资者增加了做多美元指数的仓位和做空英镑的仓位，” 策略师Molly Nickolin、David Adams和Andrew Watrous周一写道“期权数据指向做多美元的仓位，而期货市场的数据也表明美元为多仓，” 他们说，“资产管理公司主要做多欧元和做空英镑，而杠杆基金则多做多英镑和做空新西兰元”。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 18:40:53 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，国际原油期货结算价大幅收跌。WTI原油期货9月合约结算价收跌7.5%，报82.61美元/桶。",
-      "summary": "财联社7月28日电，国际原油期货结算价大幅收跌。WTI原油期货9月合约结算价收跌7.5%，报82.61美元/桶。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 18:33:46 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "国际原油期货跌幅扩大 WTI原油期货跌超8%",
-      "summary": "【国际原油期货跌幅扩大 WTI原油期货跌超8%】财联社7月28日电，国际原油期货跌幅扩大，WTI原油期货价格跌8.06%，报82.115美元/桶；布伦特原油期货价格跌6.86%，报85.388美元/桶。消息面上，此前美国总统特朗普表示，伊朗通过协调方提出了会面请求；正在与伊朗进行良好的谈判，有很大机会会发生一些事情。<br /><img src=\"https://image.cls.cn/images/20260728/Nd28ijT9vN_913x482.png\" />",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 18:21:18 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，谷歌和微软表示发现的软件漏洞数量创下历史新高，已知网络漏洞数量预计将大幅超过205个。",
-      "summary": "财联社7月28日电，谷歌和微软表示发现的软件漏洞数量创下历史新高，已知网络漏洞数量预计将大幅超过205个。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 18:06:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美国驻多伦多领事馆今年第二次遭枪击",
-      "summary": "【美国驻多伦多领事馆今年第二次遭枪击】财联社7月28日电，美国驻多伦多领事馆当地时间7月27日今年第二次遭枪击。美国驻多伦多领事馆发言人称，至少有一发子弹击中了该建筑，该建筑此前曾在3月10日遇袭。当天4时45分左右，警察在大学大道和军械库街附近的大楼区域听到枪声，并在美国领事馆外发现了枪支射击的证据。警方表示，他们正在寻找一辆可疑的白色轿车。目前还没有嫌疑人的描述，也尚无人员伤亡报告。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 17:59:19 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "伊拉克政府已就“伊境内无人机袭击沙特”展开调查",
-      "summary": "【伊拉克政府已就“伊境内无人机袭击沙特”展开调查】财联社7月28日电，据伊拉克武装部队总司令发言人萨巴赫·努曼当地时间27日晚声明，伊拉克总理扎伊迪当天已指示相关安全部门调查沙特国防部声明中关于伊拉克境内无人机袭击沙特的表态。声明重申，伊拉克政府坚持睦邻友好原则，绝不允许伊拉克领土被用作通道或跳板以发动针对兄弟友好国家的袭击。伊拉克政府正在展开相关调查，并将根据调查结果对任何被证实参与此类行动的人采取法律手段。声明强调，伊拉克与沙特的关系牢固紧密，建立在相互尊重、共同利益和睦邻友好原则之上。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 17:53:23 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "Microsoft AI推出MAI-Cyber-1-Flash",
-      "summary": "【Microsoft AI推出MAI-Cyber-1-Flash】财联社7月28日电，Microsoft AI推出MAI-Cyber-1-Flash，这是公司自主研发的新型网络安全模型。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 17:44:04 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，惠誉评级称，人工智能市场的修正正成为主要信用风险。",
-      "summary": "财联社7月28日电，惠誉评级称，人工智能市场的修正正成为主要信用风险。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 17:38:07 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "飞利浦二季度销售43.6亿欧元 高于市场预期",
-      "summary": "【飞利浦二季度销售43.6亿欧元 高于市场预期】财联社7月28日电，飞利浦二季度销售43.6亿欧元，分析师预期43.1亿欧元；二季度可比销售增长4.1%，分析师预期增长3.96%；二季度调整后EBITDA为7.17亿欧元，分析师预期5.174亿欧元；二季度调整后EBITDA利润率为16.4%，分析师预期11.9%。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 17:30:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，美国战略石油储备的原油库存上周下降约370万桶，降至3.077亿桶，为1983年以来最低水平。",
-      "summary": "财联社7月28日电，美国战略石油储备的原油库存上周下降约370万桶，降至3.077亿桶，为1983年以来最低水平。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 17:19:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元。",
-      "summary": "财联社7月28日电，周一（7月27日），美联储隔夜逆回购协议（RRP）使用规模为13.80亿美元。",
-      "link": "",
-      "published": "Mon, 27 Jul 2026 17:17:22 GMT"
     },
     {
       "source": "华尔街见闻",
