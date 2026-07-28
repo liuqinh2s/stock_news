@@ -1,8 +1,8 @@
 {
   "date": "2026-07-29",
   "hour": "01",
-  "total": 55,
-  "fetched_at": "2026-07-29T01:00:57.075971+08:00",
+  "total": 37,
+  "fetched_at": "2026-07-29T01:17:18.770325+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -40,18 +40,74 @@
       "published": "Tue, 28 Jul 2026 15:20:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "股价即将跌穿H股发行价，中际旭创抛出大额回购计划 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVGJEeUJjQzRfN2Vabl8zRVU1UG0zellJSmxzOVVfaUxjZDdjS3paZUdyUmZfb3E2M1diVXRoNXpTS2duSTUyYUtBYVNFRk1JczlQX3llWWxqQjRIeWRBTkZWTjRXWmhNR29XNm9fNzdJdmRtc1E?oc=5\" target=\"_blank\">股价即将跌穿H股发行价，中际旭创抛出大额回购计划</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVGJEeUJjQzRfN2Vabl8zRVU1UG0zellJSmxzOVVfaUxjZDdjS3paZUdyUmZfb3E2M1diVXRoNXpTS2duSTUyYUtBYVNFRk1JczlQX3llWWxqQjRIeWRBTkZWTjRXWmhNR29XNm9fNzdJdmRtc1E?oc=5",
-      "published": "Tue, 28 Jul 2026 15:13:00 GMT"
-    },
-    {
       "source": "东方财富",
       "title": "骏创科技：聘任高子昂为公司证券事务代表 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE15Z2k5RWExS2E1eWNGUUVVamxEQ3l5ZHBWVkRHSVA5ZlU2QmZwZlFLd2F5N2JIMGRXUllzMmtVOG5JTE5NQTZGTHc2ZHFKNUxkal9FSE0zQ2h1YVJBZ01hNmJnOA?oc=5\" target=\"_blank\">骏创科技：聘任高子昂为公司证券事务代表</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15Z2k5RWExS2E1eWNGUUVVamxEQ3l5ZHBWVkRHSVA5ZlU2QmZwZlFLd2F5N2JIMGRXUllzMmtVOG5JTE5NQTZGTHc2ZHFKNUxkal9FSE0zQ2h1YVJBZ01hNmJnOA?oc=5",
       "published": "Tue, 28 Jul 2026 16:13:58 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "美股三大指数走势分化 道指涨超1% AI硬件板块重挫 国际油价下跌 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9hVW42c3pUREpJMVEzeXJySTZwU1B2VDJqT0NvNnJEUGJhWEMwa2pEcHRNM2FIcEpvYkhLakJvWVYxSkZya0VLOXB3U3VhQkNsaG4taU1CYnVCVEJlM2ZZTE5OZlJUalplZHcw?oc=5\" target=\"_blank\">美股三大指数走势分化 道指涨超1% AI硬件板块重挫 国际油价下跌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hVW42c3pUREpJMVEzeXJySTZwU1B2VDJqT0NvNnJEUGJhWEMwa2pEcHRNM2FIcEpvYkhLakJvWVYxSkZya0VLOXB3U3VhQkNsaG4taU1CYnVCVEJlM2ZZTE5OZlJUalplZHcw?oc=5",
+      "published": "Tue, 28 Jul 2026 16:48:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "华讯退股东因信息披露违规被证监会责令改正 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9CY0h1N09yYml1cmVfYlhCbUFuaWdhckxPcWo3UDBNU3ZpOGxqMFVwckd5ekRJZlFUdm1ZZ2Y2UGtiZmpnQWFveUhPYnBySHhyemp4RHV5Q3hSY1VSUUR4dGVBeUNySGo5WUFB?oc=5\" target=\"_blank\">华讯退股东因信息披露违规被证监会责令改正</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CY0h1N09yYml1cmVfYlhCbUFuaWdhckxPcWo3UDBNU3ZpOGxqMFVwckd5ekRJZlFUdm1ZZ2Y2UGtiZmpnQWFveUhPYnBySHhyemp4RHV5Q3hSY1VSUUR4dGVBeUNySGo5WUFB?oc=5",
+      "published": "Tue, 28 Jul 2026 17:01:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "公告精选：中红医疗上半年净利最高预增超35倍；京东方A控股股东拟5亿元至10亿元增持股份 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4yNXoxM3p3R0tzYk5xTlpFRVlxNzZvYldRYjZrQzF3MTVYOHEyOUxPYmo2R3lfM1JFNEFkSGxTeTdESS1LNlVSalVON1Vva1RvdnpPN0F0MjJ6SFR6akNXUUF1dENneGdkYjhJ?oc=5\" target=\"_blank\">公告精选：中红医疗上半年净利最高预增超35倍；京东方A控股股东拟5亿元至10亿元增持股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yNXoxM3p3R0tzYk5xTlpFRVlxNzZvYldRYjZrQzF3MTVYOHEyOUxPYmo2R3lfM1JFNEFkSGxTeTdESS1LNlVSalVON1Vva1RvdnpPN0F0MjJ6SFR6akNXUUF1dENneGdkYjhJ?oc=5",
+      "published": "Tue, 28 Jul 2026 16:54:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "也门胡塞武装称，已用弹道导弹袭击了一艘沙特船只",
+      "summary": "也门胡塞武装称，已用弹道导弹袭击了一艘沙特船只。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260729/c678499217.shtml",
+      "published": "Tue, 28 Jul 2026 17:11:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "频繁遭以方袭扰 约旦河西岸居民濒临忍耐极限",
+      "summary": "近日，巴勒斯坦约旦河西岸暴力冲突事件频发。当地巴勒斯坦人表示，随着以军升级军事行动，以及以色列定居者频繁袭击巴勒斯坦村庄，暴力对峙事件不断增多，当地局势已濒临失控。27日，以色列在约旦河西岸杰宁阿拉拜镇和安萨镇拆除巴勒斯坦人的房屋。约旦河西岸北部城镇24日发生一起袭击事件，以军称，起因是“巴勒斯坦人袭击在当地徒步的以色列人”，袭击者从一名以方人员手中夺取武器，向以方人员开火。据悉，事件造成4名巴勒斯坦人和2名以色列人死亡。巴勒斯坦方面称，事发时多名携带武器装备的以色列犹太定居者抵达巴勒斯坦村庄，试图对巴民众房屋和农田纵火，引发巴民众反抗。今年71岁的艾哈迈德就在此次袭击事件中失去了儿子。约旦河西岸居民：他们要是继续袭扰我们，早晚要出事。我们的生命只有一次，眼看着有人上门要来害我，我能咋办，难不成还客客气气拿糖招待他们。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260729/c678499216.shtml",
+      "published": "Tue, 28 Jul 2026 17:11:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "云南德宏州盈江县发生3.2级地震",
+      "summary": "中国地震台网正式测定：7月29日00时53分在云南德宏州盈江县（北纬25.05度，东经97.84度）发生3.2级地震，震源深度8千米。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260729/c678499215.shtml",
+      "published": "Tue, 28 Jul 2026 17:10:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "在联合国“撕破脸” 法方发言时美方离场",
+      "summary": "27日，在联合国安理会关于乌克兰问题的紧急公开会上，美国代表团不仅在法国代表发言时离场，更是在随后的发言中，公开指责这位长期盟友发表“虚伪的作秀言论”。画面显示，法国常驻联合国代表博纳方在发言时，美国代表团已经离开席位。在随后的发言中，美方代表更是指责法国对其“指手画脚”。美国驻联合国经社理事会代表丹·内格雷亚：安理会中有一位成员，总在表演道德义愤，假装要在所有议题上对我们其他人指手画脚，这正是我们在法国发言时退场的原因，这种虚伪的作秀令人厌倦。此前我们出于“五常”之间的情谊与相互尊重，一直选择了容忍，在他们摒弃居高临下、缺乏尊重的言辞，并以符合其在安理会席位身份的方式行事之前，我们不会再浪费时间，听他们那些政治化的胡言乱语。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260729/c678499214.shtml",
+      "published": "Tue, 28 Jul 2026 17:10:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗称美国的海上封锁无法迫使其进行谈判",
+      "summary": "伊朗称美国的海上封锁无法迫使其进行谈判。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260729/c678499213.shtml",
+      "published": "Tue, 28 Jul 2026 17:10:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗副外长：我们从未请求与美国谈判，也没有向美方提出过停火请求",
+      "summary": "伊朗副外长Kazem Gharibabadi表示：“我们从未请求与美国谈判，也没有向美方提出过停火请求。”（财联社）",
+      "link": "https://news.10jqka.com.cn/20260729/c678499200.shtml",
+      "published": "Tue, 28 Jul 2026 17:02:37 GMT"
     },
     {
       "source": "同花顺",
@@ -152,193 +208,18 @@
       "published": "Tue, 28 Jul 2026 15:58:14 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "布伦特原油期货跌幅扩大至5%",
-      "summary": "布伦特原油期货跌幅扩大至5%，报81.559美元/桶；WTI原油期货价格跌4.88%，报78.577美元/桶。",
-      "link": "https://news.10jqka.com.cn/20260728/c678498997.shtml",
-      "published": "Tue, 28 Jul 2026 15:55:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "xAI面向Grok推出Build模型",
-      "summary": "xAI面向Grok推出Build模型。Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。(财联社)",
-      "link": "https://news.10jqka.com.cn/20260728/c678498992.shtml",
-      "published": "Tue, 28 Jul 2026 15:52:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中际旭创：预计下半年原材料会有阶段性改善 出货量也会有明显增加",
-      "summary": "中际旭创发布投资者关系活动记录表公告，针对光芯片、电芯片、PCB和无源器件等原材料，公司均有部署采购计划。基于强劲的下游行业需求，公司正在积极备料。一方面和现有供应商签订长协，锁定新增产能；另一方面开拓新的供应商，同时通过预付款、股权投资等方式，加强供应商的绑定。供应商也愿意积极扩产，预计今年下半年物料就会有阶段性的改善，出货量也会有明显的增加。",
-      "link": "https://news.10jqka.com.cn/20260728/c678498987.shtml",
-      "published": "Tue, 28 Jul 2026 15:51:12 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "以军称打死杰哈德“努赫巴”部队一名指挥官",
-      "summary": "以色列国防军28日发表声明说，以军27日对加沙地带汗尤尼斯地区发动打击，打死杰哈德“努赫巴”部队指挥官穆罕默德·哈利勒·穆罕默德·阿斯拉姆。以军称，阿斯拉姆曾在2023年10月参与对以色列的突袭行动，指挥武装人员劫持以色列平民。声明还说，以军将继续采取行动，“消除任何迫在眉睫的威胁”。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260728/c678498985.shtml",
-      "published": "Tue, 28 Jul 2026 15:50:18 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "乌干达宣布该国埃博拉疫情结束",
-      "summary": "当地时间7月28日，乌干达卫生部长克里斯·巴里奥蒙西宣布，该国埃博拉疫情正式结束。根据世界卫生组织标准，在最后一例确诊病例康复后连续42天未发现新增病例，即可宣布疫情结束。乌干达卫生部门表示，全国已完成为期42天的监测期，其间未发现新的埃博拉感染病例，因此正式宣布疫情结束。据悉，本轮疫情共报告20例确诊病例，其中2人死亡。多数病例与邻国刚果（金）持续蔓延的埃博拉疫情有关。15例患者来自刚果（金），最后一名患者为刚果（金）公民，已于7月16日完成治疗并出院。巴里奥蒙西表示，尽管该国埃博拉疫情已经结束，但鉴于邻国刚果（金）的疫情仍在持续，乌干达仍将保持高度警惕，继续加强边境监测和疫情防控措施。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260728/c678498984.shtml",
-      "published": "Tue, 28 Jul 2026 15:50:02 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中际旭创：2027年期间有望陆续完成NPO产品导入",
-      "summary": "中际旭创(300308.SZ)发布投资者关系活动记录表公告，2027年下半年开始，预计行业内有两个有影响力的重点客户开始批量采购NPO产品，更大上量预计会在2028年。目前多家CSP厂商、大模型企业、Neocloud客户均对NPO产品感兴趣，2027年期间有望陆续完成产品导入。NPO有望成为在scale-up场景的主流产品之一，并分阶段放量，首先是头部企业开始采用，随后扩展至更多客户。",
-      "link": "https://news.10jqka.com.cn/20260728/c678498962.shtml",
-      "published": "Tue, 28 Jul 2026 15:38:40 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月29日电，知情人士称，美国网络安全公司AlgoSec考虑在英国IPO。",
-      "summary": "财联社7月29日电，知情人士称，美国网络安全公司AlgoSec考虑在英国IPO。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:56:28 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月29日电，土耳其总统埃尔多安称，伊拉克部长表示可以向土耳其提供100万桶石油。",
-      "summary": "财联社7月29日电，土耳其总统埃尔多安称，伊拉克部长表示可以向土耳其提供100万桶石油。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:55:31 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月29日电，据伊朗方面消息，伊朗称美国通过阿曼向德黑兰传话，承诺不发动袭击。",
-      "summary": "财联社7月29日电，据伊朗方面消息，伊朗称美国通过阿曼向德黑兰传话，承诺不发动袭击。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:47:31 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月29日电，据报道，英伟达CEO黄仁勋与美国商务部长卢特尼克会面。",
-      "summary": "财联社7月29日电，据报道，英伟达CEO黄仁勋与美国商务部长卢特尼克会面。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:46:39 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "国际原油期货跌幅扩大 布伦特原油期货跌超6%",
-      "summary": "【国际原油期货跌幅扩大 布伦特原油期货跌超6%】财联社7月29日电，国际原油期货跌幅扩大，WTI原油期货价格跌5.82%，报77.800美元/桶；布伦特原油期货价格跌6.02%，报80.698美元/桶。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:41:47 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月29日电，OpenAI与Anthropic要求美国帮助治理AI。",
-      "summary": "财联社7月29日电，OpenAI与Anthropic要求美国帮助治理AI。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:40:26 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "加强版“动力心脏”全球爆单 订单已排到2027年",
-      "summary": "【加强版“动力心脏”全球爆单 订单已排到2027年】财联社7月29日电，在浙江金华的一家轴向磁通电机的生产企业里，诞生了全球首条规模化轴向磁通电机量产线。工厂内，100台轴向磁通电机刚刚下线就要被发往世界各地。企业执行总裁透露，工厂“订单实现三倍增长，营收翻番”，生产已经排到了2027年一季度。五条规模化产线满负荷运转，年产能30万台，依然供不应求。出口数据表现更亮眼，轴向磁通电机出口土耳其同比飙升520%，出口泰国增长150%，产品已覆盖30多个国家和地区，连欧美老牌工业国也在加急催单。“电机”被誉为现代工业的“动力心脏”。传统径向磁通电机像个笨重的“圆柱体”，磁场垂直于输出轴。但轴向磁通电机扁平如“圆盘”，磁场平行于输出轴。结构上的一小步，性能上的一大步——同等功率下，机电能量转换面积更大，让体积和重量各减少50%。 (央视新闻)",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:22:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月29日电，谷歌称，在文档中推出由Gemini增强的评论工作流程。",
-      "summary": "财联社7月29日电，谷歌称，在文档中推出由Gemini增强的评论工作流程。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:18:33 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "并行科技：上半年净利同比预增687.62%至845.14%",
-      "summary": "【并行科技：上半年净利同比预增687.62%至845.14%】财联社7月29日电，并行科技公告，2026年半年度归属于上市公司股东的净利润预计为4000万元至4800万元，较上年同期增长687.62%至845.14%。业绩增长主要得益于智算算力服务市场需求持续增长、公司算力资源运营效率提升及费用管控成效显著。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:05:01 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "依视路陆逊梯卡二季度营收增长8.7% 不及预期",
-      "summary": "【依视路陆逊梯卡二季度营收增长8.7% 不及预期】财联社7月29日电，依视路陆逊梯卡（EssilorLuxottica）二季度营收（剔除汇率因素）增长8.7%，分析师预期增长10.1%。二季度营收76.9亿欧元，分析师预期77.5亿欧元。二季度剔除汇率因素的营收增长8.7%，分析师预期增长10.1%。二季度北美营收32.5亿欧元，同比增长4.7%。二季度调整后运营利润27.5亿欧元，分析师预期24.4亿欧元。上半年营收148.2亿欧元，分析师预期149.1亿欧元。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:03:40 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "ASM国际二季度营收10亿欧元 略高于市场预期",
-      "summary": "【ASM国际二季度营收10亿欧元 略高于市场预期】财联社7月29日电，ASM国际二季度营收10亿欧元，分析师预期9.998亿欧元。二季度运营利润率32.2%，分析师预期31.9%。二季度毛利润率51.9%，分析师预期51.2%。预计三季度营收按恒定汇率将为11亿欧元+/-5%。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 16:03:22 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "布伦特原油期货跌幅扩大至5%",
-      "summary": "【布伦特原油期货跌幅扩大至5%】财联社7月28日电，布伦特原油期货跌幅扩大至5%，报81.559美元/桶；WTI原油期货价格跌4.88%，报78.577美元/桶。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:55:22 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "xAI面向Grok推出Build模型",
-      "summary": "【xAI面向Grok推出Build模型】财联社7月28日电，xAI面向Grok推出Build模型。Grok Build模型处于早期测试阶段，针对的是SuperGrok Heavy超级订阅者。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:48:22 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "乌干达宣布该国埃博拉疫情结束",
-      "summary": "【乌干达宣布该国埃博拉疫情结束】财联社7月28日电，乌干达卫生部长克里斯·巴里奥蒙西当地时间7月28日宣布，该国埃博拉疫情正式结束。根据世界卫生组织标准，在最后一例确诊病例康复后连续42天未发现新增病例，即可宣布疫情结束。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:47:14 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，国际油价持续走低，截至目前，WTI原油期货价格跌4.25%，报79.098美元/桶；布伦特原油期货价格跌4.58%，报81.939美元/桶。",
-      "summary": "财联社7月28日电，国际油价持续走低，截至目前，WTI原油期货价格跌4.25%，报79.098美元/桶；布伦特原油期货价格跌4.58%，报81.939美元/桶。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:45:14 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，开云集团二季度古驰同店销售下滑2%，分析师预期下降3.27%。",
-      "summary": "财联社7月28日电，开云集团二季度古驰同店销售下滑2%，分析师预期下降3.27%。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:41:20 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中际旭创：预计下半年原材料会有阶段性改善 出货量也会有明显增加",
-      "summary": "【中际旭创：预计下半年原材料会有阶段性改善 出货量也会有明显增加】财联社7月28日电，中际旭创(300308.SZ)发布投资者关系活动记录表公告，针对光芯片、电芯片、PCB和无源器件等原材料，公司均有部署采购计划。基于强劲的下游行业需求，公司正在积极备料。一方面和现有供应商签订长协，锁定新增产能；另一方面开拓新的供应商，同时通过预付款、股权投资等方式，加强供应商的绑定。供应商也愿意积极扩产，预计今年下半年物料就会有阶段性的改善，出货量也会有明显的增加。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:40:18 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中际旭创：2027年期间有望陆续完成NPO产品导入",
-      "summary": "【中际旭创：2027年期间有望陆续完成NPO产品导入】财联社7月28日电，中际旭创(300308.SZ)发布投资者关系活动记录表公告，2027年下半年开始，预计行业内有两个有影响力的重点客户开始批量采购NPO产品，更大上量预计会在2028年。目前多家CSP厂商、大模型企业、Neocloud客户均对NPO产品感兴趣，2027年期间有望陆续完成产品导入。NPO有望成为在scale-up场景的主流产品之一，并分阶段放量，首先是头部企业开始采用，随后扩展至更多客户。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:38:07 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，欧洲主要股指收盘多数上涨，英国富时100指数涨0.83%，法国CAC40指数涨0.72%，德国DAX30指数涨0.52%，富时意大利MIB指数跌0.69%。",
-      "summary": "财联社7月28日电，欧洲主要股指收盘多数上涨，英国富时100指数涨0.83%，法国CAC40指数涨0.72%，德国DAX30指数涨0.52%，富时意大利MIB指数跌0.69%。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:36:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社7月28日电，泽连斯基表示他与特朗普进行了良好的会晤。",
-      "summary": "财联社7月28日电，泽连斯基表示他与特朗普进行了良好的会晤。",
-      "link": "",
-      "published": "Tue, 28 Jul 2026 15:32:27 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
       "summary": "<p>据伊朗媒体IRIB报道，伊朗称不曾在过去16-17天内寻求与美国对话，美方曾通过阿曼传递信息、承诺不会（继续）袭击伊朗。7月27日，美国总统特朗普宣称，“目前，伊朗正与我们洽谈达成协议。 伊朗在说‘求求你们，别封锁’。 我们很快就会结束伊朗的核威慑。”</p>\n\n<p>目前，WTI原油5分钟内上涨0.57美元/桶，报78.41美元/桶；布伦特原油5分钟内上涨0.55美元/桶，报81.31美元/桶。</p>",
       "link": "https://wallstreetcn.com/livenews/3141133",
       "published": "Tue, 28 Jul 2026 16:45:45 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "开云集团大涨！二季度古驰同店销售下滑2%，下滑幅度低于预期",
+      "summary": "<p>开云集团二季度同店销售营收增长2%，分析师预期增长2.58%。</p>\n<p>二季度古驰同店销售下滑2%，分析师预期下降3.27%。二季度时装与皮草商品同店销售持平，分析师预期增长0.15%。</p>\n<p>二季度营收36.5亿欧元，分析师预期36.2亿欧元。二季度古驰营收14.1亿欧元，分析师预期13.9亿欧元。</p>\n<p>上半年同店销售增长1%，分析师预期增长1.54%。上半年持续经营利润9.23亿欧元，分析师预期8.823亿欧元。</p>\n<p>开云集团绩后大涨，截至发稿，开云ADR美股盘中上涨12.45%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/d00eb134-36fb-4496-b415-b58cf5c2bea5.png\" /></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，",
+      "link": "https://wallstreetcn.com/articles/3778152",
+      "published": "Tue, 28 Jul 2026 15:56:04 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -374,13 +255,6 @@
       "summary": "<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/ff12753f-30d6-4e41-98a0-81549a701fff.png\" /></p>\n<p>受生成式AI驱动的光通信需求大增提振，康宁公司第二季度业绩强劲增长，并凭借AI数据中心带来的“单GPU光纤需求或增10倍”的庞大想象空间，宣布进入加速增长的新阶段。</p>\n<p>康宁公司召开了2026年第二季度业绩电话会议。在生成式人工智能基础设施建设狂潮的推动下，康宁Q2销售额同比增长17%至47.4亿美元，每股收益（EPS）大增30%至0.78美元，毛利率与营业利润率均实现大幅扩张。</p>\n<p>康宁预计今年第三季度销售额将达到49亿至50亿美元，核心每股收益同比增长约28%。公司首席执行官兼总裁温德尔·P·威克斯（Wendell P. Weeks）在会上直言：</p>\n<blockquote>\n<p>“我们正在进入加速增长的新阶段。”</p>\n</blockquote>\n<p><strong>需要注意的是康宁三季度销售指引上限仅与预期持平，指引隐含环比增速从9%",
       "link": "https://wallstreetcn.com/articles/3778144",
       "published": "Tue, 28 Jul 2026 15:41:20 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "开云集团二季度古驰同店销售下滑2%，下滑幅度低于预期",
-      "summary": "<p>开云集团二季度同店销售营收增长2%，分析师预期增长2.58%。</p>\n<p>二季度古驰同店销售下滑2%，分析师预期下降3.27%。二季度时装与皮草商品同店销售持平，分析师预期增长0.15%。</p>\n<p>二季度营收36.5亿欧元，分析师预期36.2亿欧元。二季度古驰营收14.1亿欧元，分析师预期13.9亿欧元。</p>\n<p>上半年同店销售增长1%，分析师预期增长1.54%。上半年持续经营利润9.23亿欧元，分析师预期8.823亿欧元。</p>\n<p>截至发稿，开云集团ADR美股盘中上涨5%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/733e6a6d-9458-4394-8b41-fad1c31c5a66.png\" /></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成",
-      "link": "https://wallstreetcn.com/articles/3778152",
-      "published": "Tue, 28 Jul 2026 15:40:36 GMT"
     },
     {
       "source": "华尔街见闻",
