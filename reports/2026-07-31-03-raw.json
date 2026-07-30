@@ -1,8 +1,8 @@
 {
   "date": "2026-07-31",
   "hour": "03",
-  "total": 34,
-  "fetched_at": "2026-07-31T03:00:50.698263+08:00",
+  "total": 32,
+  "fetched_at": "2026-07-31T03:07:13.564109+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -24,13 +24,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00d2dvRmRxbjhPLTNjeDBhYXBBX2JwN2NTVjFMTWhteklHaUtyUUtPN0F0cUZXNi04YnV0c3p5OXdoTm9ZOUFyRXZoeG1YVXhBV0d1bmJKakg5UHR1SWRsSFdXdzVZVm5JTGxGSmlPTHlzRFpHc1JiZw?oc=5\" target=\"_blank\">广发证券股份有限公司2025年度A股利润分配实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00d2dvRmRxbjhPLTNjeDBhYXBBX2JwN2NTVjFMTWhteklHaUtyUUtPN0F0cUZXNi04YnV0c3p5OXdoTm9ZOUFyRXZoeG1YVXhBV0d1bmJKakg5UHR1SWRsSFdXdzVZVm5JTGxGSmlPTHlzRFpHc1JiZw?oc=5",
       "published": "Thu, 30 Jul 2026 17:45:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "三度叩门A股 瑞能股份拟拿下佳云科技控制权 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9TWXRWX3RFYkt0QURGQTBtaUdJWmlPamlPWEJmQ29SY01iMG56LWdEcVk1Z08yaE5tSGVaLVYxMUFBdWxHaXNCVGljX1JyXzhVZTBraTAyczVYNTg3LUVaRkV5bmZDS3U2Zm8tVEdBYVlPWVdZLXZmVQ?oc=5\" target=\"_blank\">三度叩门A股 瑞能股份拟拿下佳云科技控制权</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TWXRWX3RFYkt0QURGQTBtaUdJWmlPamlPWEJmQ29SY01iMG56LWdEcVk1Z08yaE5tSGVaLVYxMUFBdWxHaXNCVGljX1JyXzhVZTBraTAyczVYNTg3LUVaRkV5bmZDS3U2Zm8tVEdBYVlPWVdZLXZmVQ?oc=5",
-      "published": "Thu, 30 Jul 2026 17:06:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -234,13 +227,6 @@
       "summary": "<p style=\"text-align: left;\">华尔街刚刚经历了一轮史上最剧烈的动量股崩溃。尽管科技股在连续重挫后出现短暂企稳，但市场对于反弹能否持续仍存在明显分歧，部分技术分析师警告，当前市场或仍未完成风险释放。</p>\n<p style=\"text-align: left;\">BTIG首席市场技术分析师Jonathan Krinsky表示，<strong>美国科技股虽然已经进入超跌区域，短线存在技术性反弹空间，但投资者不应急于抄底。</strong>他指出，摩根士丹利行业中性动量指数在过去四个交易日累计暴跌17.4%，创有记录以来最大跌幅，超过互联网泡沫破裂、2022年熊市以及疫情冲击后的调整幅度。</p>\n<p style=\"text-align: left;\">与此同时，<strong>长端美债收益率持续攀升也加剧了成长股压力。</strong>30年期美债收益率周三一度升至5.246%，创2007年以来新高，高估值科技股面临进一步压制。</p>\n<p style=\"text-align: left;\">市场情绪的快速逆转令投资者措手不及。费城半导体指数周三单日下跌5",
       "link": "https://wallstreetcn.com/articles/3778351",
       "published": "Thu, 30 Jul 2026 18:18:10 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
-      "summary": "<p>OpenAI：将GPT-5.6Luna的价格下调80%，GPT-5.6Terra的价格下调20%。</p>\n\n<p>LUNA API定价为每百万个输入Token0.20美元，每百万个输出Token1.20美元。</p>\n\n<p>Terra API定价为每百万输入Token2美元，每百万输出Token12美元。</p>\n\n<p>SOL定价、ChatGPT和Codex订阅价格及配额预算保持不变；Terra和Luna的使用消耗的积分更少。</p>\n\n<p>GPT-5.6 SOL快速模式取代了API中的优先级处理。</p>",
-      "link": "https://wallstreetcn.com/livenews/3142590",
-      "published": "Thu, 30 Jul 2026 17:01:14 GMT"
     }
   ]
 }
