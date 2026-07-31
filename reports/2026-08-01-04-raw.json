@@ -1,50 +1,337 @@
 {
   "date": "2026-08-01",
   "hour": "04",
-  "total": 11,
-  "fetched_at": "2026-08-01T04:00:56.600863+08:00",
+  "total": 49,
+  "fetched_at": "2026-08-01T04:52:10.773221+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "一个月市值缩水3300亿 “存储巨头”先套现44亿再喊话回购 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBxbnNXeFFHTloxdmJwUEtOSjdiYzVxcUVCa2ZEeU4xUDllUVdoSmMyTUdsZUlNS1l1T2YwNjhwcXNqVVJONEpHV3pUWFNKUnlvVEVFNGRIMk1GOE9yUl9Kb0pjYTUwcGRwcnpTRE9uYWduV1FUR2FPbQ?oc=5\" target=\"_blank\">一个月市值缩水3300亿 “存储巨头”先套现44亿再喊话回购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "title": "一个月市值缩水3300亿 “存储巨头”先套现44亿再喊话回购 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBxbnNXeFFHTloxdmJwUEtOSjdiYzVxcUVCa2ZEeU4xUDllUVdoSmMyTUdsZUlNS1l1T2YwNjhwcXNqVVJONEpHV3pUWFNKUnlvVEVFNGRIMk1GOE9yUl9Kb0pjYTUwcGRwcnpTRE9uYWduV1FUR2FPbQ?oc=5\" target=\"_blank\">一个月市值缩水3300亿 “存储巨头”先套现44亿再喊话回购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxbnNXeFFHTloxdmJwUEtOSjdiYzVxcUVCa2ZEeU4xUDllUVdoSmMyTUdsZUlNS1l1T2YwNjhwcXNqVVJONEpHV3pUWFNKUnlvVEVFNGRIMk1GOE9yUl9Kb0pjYTUwcGRwcnpTRE9uYWduV1FUR2FPbQ?oc=5",
       "published": "Fri, 31 Jul 2026 19:43:00 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "证监会同日对5家券商采取行政监管措施 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXYXZncHdCZWJWX0tFQzZHY3lrTWh2aHZwMVB4MElBdU5jUlRtUmdkazJxYTVac2hhcW5qRTgyYmNZb2RXRVBwaUlZTDBsTl92cWNxaTlveWpaR1N2RUNtZQ?oc=5\" target=\"_blank\">证监会同日对5家券商采取行政监管措施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXYXZncHdCZWJWX0tFQzZHY3lrTWh2aHZwMVB4MElBdU5jUlRtUmdkazJxYTVac2hhcW5qRTgyYmNZb2RXRVBwaUlZTDBsTl92cWNxaTlveWpaR1N2RUNtZQ?oc=5",
-      "published": "Fri, 31 Jul 2026 18:09:02 GMT"
+      "source": "新浪财经",
+      "title": "三年三换交易所：百菲乳业的曲折上市路与资本“新叙事” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5MNTZFRjBybkNBdEJUOWRBOThNcUFsZU94cDhFTlRra3RpVGNYNkNiWTB6M2lwT3MtZWVZUm9vRFJUNDdjVFJfNTc5bnZEUU9kRklndExwdXducGx0d3MzZGJaOEtDQTc0NjhHZUpyOGc0cm9vZGNHcw?oc=5\" target=\"_blank\">三年三换交易所：百菲乳业的曲折上市路与资本“新叙事”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MNTZFRjBybkNBdEJUOWRBOThNcUFsZU94cDhFTlRra3RpVGNYNkNiWTB6M2lwT3MtZWVZUm9vRFJUNDdjVFJfNTc5bnZEUU9kRklndExwdXducGx0d3MzZGJaOEtDQTc0NjhHZUpyOGc0cm9vZGNHcw?oc=5",
+      "published": "Fri, 31 Jul 2026 20:16:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "从巨亏366亿到日赚3亿 长鑫科技是怎么炼成的？ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBxa1AwbmY3eWxVSE5vZW12cnhUaXJmNXpwaUFtSjBIcE9ZLTRoTkpDSENKaUxJTDlOSVprbDgyOVhpbDZBOS01LUlMTjQwY2wzMzRsNGxlUzI4SjJhM2hBeTNrRmVydWNNdW5wVjIxVTVEV3pXMW9jRQ?oc=5\" target=\"_blank\">从巨亏366亿到日赚3亿 长鑫科技是怎么炼成的？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxa1AwbmY3eWxVSE5vZW12cnhUaXJmNXpwaUFtSjBIcE9ZLTRoTkpDSENKaUxJTDlOSVprbDgyOVhpbDZBOS01LUlMTjQwY2wzMzRsNGxlUzI4SjJhM2hBeTNrRmVydWNNdW5wVjIxVTVEV3pXMW9jRQ?oc=5",
+      "published": "Fri, 31 Jul 2026 20:10:00 GMT"
     },
     {
       "source": "同花顺",
-      "title": "东兴证券：上半年归母净利润同比增长25.13% - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wTVkwVGFGSnRMSHFSa1BOYUUtZkJ0WHluNk5yX3lXOEFiMWM3V3FZQUVGd0s0TFo1empZOXZCUTNuSl9fUEdMT2llX0RPU1RPQVNPQXBjdlNicUFFaXNfa2pn?oc=5\" target=\"_blank\">东兴证券：上半年归母净利润同比增长25.13%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wTVkwVGFGSnRMSHFSa1BOYUUtZkJ0WHluNk5yX3lXOEFiMWM3V3FZQUVGd0s0TFo1empZOXZCUTNuSl9fUEdMT2llX0RPU1RPQVNPQXBjdlNicUFFaXNfa2pn?oc=5",
-      "published": "Fri, 31 Jul 2026 18:21:09 GMT"
+      "title": "CFTC持仓：美元多头头寸终于创下新纪录",
+      "summary": "美国商品期货交易委员会（CFTC）发布了最新一期的交易者持仓报告（COT），数据截至周二收盘。美元综合多头头寸激增至刚刚超过500亿美元，创下历史最高纪录！投机客抛售了3.11万份欧元、1.13万份日元（哎呀！）、9300份英镑、1900份加元和2300份澳元。尽管有2300份新西兰元被买入，以及少量瑞郎和墨西哥比索的买盘，但美元综合多头头寸仍增加了近70亿美元，以微弱优势打破了2014至2015年间创下的最大持仓规模纪录。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599129.shtml",
+      "published": "Fri, 31 Jul 2026 20:48:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普：尚未同意授权乌克兰生产“爱国者”拦截弹",
+      "summary": "美国总统特朗普7月31日在马里兰州戴维营举行的内阁会议上对媒体说，美国尚未同意授权乌克兰生产“爱国者”防空系统拦截弹。特朗普在谈及乌克兰危机时说，乌克兰和俄罗斯领导人都想达成协议，但双方必须为此做出一些让步。他表示，美国尚未同意授予乌克兰“爱国者”防空系统拦截弹生产许可，“我们正在讨论”，转让这类技术“必须非常谨慎”。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599126.shtml",
+      "published": "Fri, 31 Jul 2026 20:47:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美军一架F-35隐形战机在加州坠毁",
+      "summary": "据美国媒体31日报道，一架美军F-35隐形战机当天在加利福尼亚州圣迭戈一处军事基地坠毁。一名美国海军陆战队发言人向当地媒体证实，这架隶属于美国海军陆战队第3航空联队第11航空大队的F-35B型战机于当地时间10时左右在海军陆战队米拉马尔航空站坠毁。机上一名飞行员弹射逃生。当地电视台播放的航拍画面显示，破损的机身浓烟滚滚，残骸散落在一大片焦黑地面上。美国军方正在调查事故原因。F-35B是美军“闪电II”家族中具备短距起飞与垂直降落能力的型号，主要装备美国海军陆战队。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260801/c678599125.shtml",
+      "published": "Fri, 31 Jul 2026 20:44:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国军方：截至7月31日，中央司令部已改变30艘商船的航行路线",
+      "summary": "美国军方称，截至7月31日，中央司令部已改变30艘商船的航行路线，使2艘商船失去行动能力，并登船检查了2艘商船。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599124.shtml",
+      "published": "Fri, 31 Jul 2026 20:44:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美联储主席沃什据悉考虑减少美联储政策会议的频率",
+      "summary": "据报道，美联储主席沃什据悉正在考虑减少美联储定期召开的利率决策会议的次数，这一举措可能引发巨大震动，并将标志着近年来美联储运作方式最重大的变革。目前，美联储由12人组成的联邦公开市场委员会（FOMC）每年召开八次会议，就是否上调、下调或维持借贷成本进行表决。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599115.shtml",
+      "published": "Fri, 31 Jul 2026 20:34:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现",
+      "summary": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
+      "link": "https://news.10jqka.com.cn/20260801/c678599114.shtml",
+      "published": "Fri, 31 Jul 2026 20:31:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "高通售股股东最多可自模块化收购中转售1782.66万股股份",
+      "summary": "据SEC备案文件，高通售股股东最多可自模块化收购中转售1782.66万股股份。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599113.shtml",
+      "published": "Fri, 31 Jul 2026 20:29:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "非美货币7月份普遍上涨，挪威克朗涨超4.5%、纽元涨超3.8%",
+      "summary": "周五（7月31日）纽约尾盘，欧元兑美元持平、整体呈现出V形反转、北京时间21:40跌至1.15刷新日低，7月份累计上涨0.95%，7月29-30日显著上涨。英镑兑美元涨0.10%、21:40也曾刷新日低至1.34，7月份累涨1.65%，7月15日、29-30日显著走高。美元兑瑞郎涨0.42%、22:08曾刷新日高至0.8129，7月份大致持平。7月份，商品货币对中，澳元兑美元累涨1.77%，纽元兑美元累涨3.83%，美元兑加元累跌1.29%。瑞典克朗兑美元累涨1.91%，挪威克朗兑美元累涨4.52%，丹麦克朗兑美元累涨0.91%。波兰兹罗提兑美元累涨0.71%，美元兑匈牙利福林累跌1.64%。印度卢比兑美元累跌0.77%，土耳其里拉兑美元累跌1.85%，南非兰特兑美元累跌0.84%，墨西哥比索兑美元累涨0.95%，巴西雷亚尔兑美元累涨1.74%。",
+      "link": "https://news.10jqka.com.cn/20260801/c678599101.shtml",
+      "published": "Fri, 31 Jul 2026 20:17:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI调查人员发现有证据表明：有其他AI智能体已突破了管控限制",
+      "summary": "据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599100.shtml",
+      "published": "Fri, 31 Jul 2026 20:17:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美元指数31日上涨",
+      "summary": "衡量美元对六种主要货币的美元指数当天上涨0.05%，在汇市尾市收于99.917。截至纽约汇市尾市，1欧元兑换1.1531美元，低于前一交易日的1.1535美元；1英镑兑换1.3482美元，高于前一交易日的1.3476美元。1美元兑换158.90日元，低于前一交易日的158.93日元；1美元兑换0.8082瑞士法郎，高于前一交易日的0.8040瑞士法郎；1美元兑换1.4019加元，高于前一交易日的1.3996加元；1美元兑换9.5193瑞典克朗，高于前一交易日的9.5189瑞典克朗。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260801/c678599099.shtml",
+      "published": "Fri, 31 Jul 2026 20:12:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "利弗莫尔中概股龙头指数收涨1.6%",
+      "summary": "利弗莫尔中概股龙头指数收涨1.6%。成分股中，金山云涨近10%，阿里巴巴涨超5%，新东方、脑再生科技涨超4%，新东方涨4.28%，百胜中国涨超3%。",
+      "link": "https://news.10jqka.com.cn/20260801/c678599096.shtml",
+      "published": "Fri, 31 Jul 2026 20:01:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收盘：三大指数集体收涨 亚马逊涨超15%创2012年以来单日最大涨幅",
+      "summary": "美股三大指数集体收涨，纳指涨1%，本周累涨1.59%，7月份累跌3.2%；标普500指数涨0.7%，本周累涨1.05%，7月份累跌0.13%；道指涨0.53%，本周累涨1.04%，7月份累涨0.32%，月线录得四连涨。苹果跌超7%，创2025年4月以来最大跌幅。亚马逊涨超15%，创2012年以来单日最大涨幅。谷歌涨超6%，总市值4.36万亿美元。英伟达涨近3%，总市值4.86万亿美元，收回全球“股王”的位置。SpaceX跌超3%，7月份累跌超36%。",
+      "link": "https://news.10jqka.com.cn/20260801/c678599095.shtml",
+      "published": "Fri, 31 Jul 2026 20:01:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "CFTC：截至7月28日当周 投机者将CBOT美国2年期国债期货净空头头寸减少了30023手",
+      "summary": "据美国商品期货交易委员会（CFTC）：截至7月28日当周，投机者将CBOT美国2年期国债期货净空头头寸减少了30023手，至112.46万手；投机者将CBOT美国5年期国债期货净空头头寸减少了12.69万手，至114.64万手；投机者将CBOT美国10年期国债期货净空头头寸减少了3587手，至87.61万手；投机者将CBOT美国超长期国债期货净空头头寸减少了642手，至32.07万手。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599081.shtml",
+      "published": "Fri, 31 Jul 2026 19:41:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "CFTC：截至7月28日当周 原油投机者将WTI净多头头寸增加了28,159手",
+      "summary": "据美国商品期货交易委员会（CFTC），截至7月28日当周，原油投机者将WTI净多头头寸增加了28,159手，至106,507手。天然气投机者将NYMEX和ICE四大市场净空头头寸增加了5,281手，至60,997手。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599076.shtml",
+      "published": "Fri, 31 Jul 2026 19:33:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "CFTC：截至7月28日当周 COMEX黄金投机者将净多头头寸减少3258手",
+      "summary": "据美国商品期货交易委员会（CFTC），截至7月28日当周，COMEX黄金投机者将净多头头寸减少3,258手，降至120,328手。COMEX白银投机者将净多头头寸减少1,614手，降至8,387手。COMEX铜投机者将净多头头寸减少7,195手，降至66,490手。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599075.shtml",
+      "published": "Fri, 31 Jul 2026 19:33:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "CBOT玉米期货7月份累涨超6%，CBOT小麦期货7月份累涨超8%",
+      "summary": "CBOT玉米期货跌1.01%，报4.64美元/蒲式耳，本周累跌4.87%，7月份累涨6.36%。CBOT小麦期货跌3.84%，报6.38美元/蒲式耳，本周累跌5.90%，7月份累涨8.27%。CBOT大豆期货跌0.04%，报11.88美元/蒲式耳，本周累跌5.21%，7月份累涨3.89%，豆粕期货累涨5.87%，豆油期货累涨2.60%。",
+      "link": "https://news.10jqka.com.cn/20260801/c678599068.shtml",
+      "published": "Fri, 31 Jul 2026 19:25:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "意法德多国采取措施 应对西班牙飞地移民危机",
+      "summary": "当地时间7月31日，西班牙内政部表示，自本轮移民危机开始以来，共有5万名非法移民进入该国飞地休达，其中4.83万人已自愿返回摩洛哥，目前仍有不足2000人滞留当地。此前，休达自治市政府方面援引当地国民警卫队数据称，实际非法入境人数约为6万人，高于西班牙内政部公布的数据。意大利宣布恢复与西班牙之间港口和机场的边境检查，以应对西班牙在北非的飞地休达移民危机带来的影响。意大利政府表示，相关临时边境管控措施仅适用于非欧盟公民。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599067.shtml",
+      "published": "Fri, 31 Jul 2026 19:25:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普否认允许乌克兰生产“爱国者”拦截弹",
+      "summary": "当地时间7月31日，美国总统特朗普在内阁会议上对媒体表示，美国并未同意由乌克兰生产“爱国者”防空系统拦截弹。他说，美方在允许他国制造这类武器的问题上“必须非常谨慎”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599066.shtml",
+      "published": "Fri, 31 Jul 2026 19:25:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "智利中部沿海地区发生5.2级地震",
+      "summary": "根据智利大学地震中心报告，当地时间7月31日13时48分，智利科金博大区沿海地区发生5.2级地震，震源深度30公里。目前暂无海啸预警报告。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599059.shtml",
+      "published": "Fri, 31 Jul 2026 19:17:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英国财政大臣要求各内阁大臣准备削减预算",
+      "summary": "据报道，英国财政大臣Healey要求各内阁大臣准备削减预算。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599058.shtml",
+      "published": "Fri, 31 Jul 2026 19:12:36 GMT"
     },
     {
       "source": "财联社",
-      "title": "SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yU0prcUtGeTU3R3pIMEVlN3NUZVFVQUVjdFo1UVFoSzBnM0NraUMtM1RIZ1hyT01ubXhwaU05aEViNU53WFBZcQ?oc=5\" target=\"_blank\">SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yU0prcUtGeTU3R3pIMEVlN3NUZVFVQUVjdFo1UVFoSzBnM0NraUMtM1RIZ1hyT01ubXhwaU05aEViNU53WFBZcQ?oc=5",
-      "published": "Fri, 31 Jul 2026 19:12:13 GMT"
+      "title": "CFTC持仓：美元多头头寸终于创下新纪录",
+      "summary": "【CFTC持仓：美元多头头寸终于创下新纪录】财联社8月1日电，美国商品期货交易委员会（CFTC）发布了最新一期的交易者持仓报告（COT），数据截至周二收盘。美元综合多头头寸激增至刚刚超过500亿美元，创下历史最高纪录！投机客抛售了3.11万份欧元、1.13万份日元（哎呀！）、9300份英镑、1900份加元和2300份澳元。尽管有2300份新西兰元被买入，以及少量瑞郎和墨西哥比索的买盘，但美元综合多头头寸仍增加了近70亿美元，以微弱优势打破了2014至2015年间创下的最大持仓规模纪录。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:48:24 GMT"
     },
     {
       "source": "财联社",
-      "title": "7月收官 股票ETF单月净流入或超5400亿创历史新高 - finance.sina.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEZfeUdLZ0l1Y21HNjByYU94SW9CdU5PVjRzcFpJMGp1bGFVUmF5OW9zZmd0ZnBhNEVnZGVtSmlvY2VpM3BoQXNVTjMwTDZwcUtKZURicTF0S3htOS0zWDlCMUtwZTRjc2JocXItQkJKZkh5b2NqNU15ZmJVZzhLbjVOUkx3VTgyNS13MlVzUFFWbEZsdmoyVDdoWEc0U0cz?oc=5\" target=\"_blank\">7月收官 股票ETF单月净流入或超5400亿创历史新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSEZfeUdLZ0l1Y21HNjByYU94SW9CdU5PVjRzcFpJMGp1bGFVUmF5OW9zZmd0ZnBhNEVnZGVtSmlvY2VpM3BoQXNVTjMwTDZwcUtKZURicTF0S3htOS0zWDlCMUtwZTRjc2JocXItQkJKZkh5b2NqNU15ZmJVZzhLbjVOUkx3VTgyNS13MlVzUFFWbEZsdmoyVDdoWEc0U0cz?oc=5",
-      "published": "Fri, 31 Jul 2026 18:35:32 GMT"
+      "title": "财联社8月1日电，美国军方称，截至7月31日，中央司令部已改变30艘商船的航行路线，使2艘商船失去行动能力，并登船检查了2艘商船。",
+      "summary": "财联社8月1日电，美国军方称，截至7月31日，中央司令部已改变30艘商船的航行路线，使2艘商船失去行动能力，并登船检查了2艘商船。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:43:32 GMT"
     },
     {
       "source": "财联社",
-      "title": "聚焦打鼾口服疗法 美生物科技公司上市首日股价跳涨 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNkp2QTlFbEs1ZTNBaThlS19tU0FVRVhyMkF3ajR4bVlPVmdIMTRyMW9LYzlJemZveHF2dzB3RkNuSXRHdHM0dmhuZkN3YzF5Z3pTWERORlk5VVVjU2NSbzdvTWZ2anRyTm5mYTFMQS1mVk9uZWZSSQ?oc=5\" target=\"_blank\">聚焦打鼾口服疗法 美生物科技公司上市首日股价跳涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNkp2QTlFbEs1ZTNBaThlS19tU0FVRVhyMkF3ajR4bVlPVmdIMTRyMW9LYzlJemZveHF2dzB3RkNuSXRHdHM0dmhuZkN3YzF5Z3pTWERORlk5VVVjU2NSbzdvTWZ2anRyTm5mYTFMQS1mVk9uZWZSSQ?oc=5",
-      "published": "Fri, 31 Jul 2026 18:01:00 GMT"
+      "title": "美联储主席沃什据悉考虑减少美联储政策会议的频率",
+      "summary": "【美联储主席沃什据悉考虑减少美联储政策会议的频率】财联社8月1日电，据报道，美联储主席沃什据悉正在考虑减少美联储定期召开的利率决策会议的次数，这一举措可能引发巨大震动，并将标志着近年来美联储运作方式最重大的变革。目前，美联储由12人组成的联邦公开市场委员会（FOMC）每年召开八次会议，就是否上调、下调或维持借贷成本进行表决。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:33:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
+      "summary": "财联社8月1日电，新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:30:36 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，据SEC备案文件，高通售股股东最多可自模块化收购中转售17,826,566股股份。",
+      "summary": "财联社8月1日电，据SEC备案文件，高通售股股东最多可自模块化收购中转售17,826,566股股份。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:29:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
+      "summary": "财联社8月1日电，据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:16:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，派拉蒙宣布延长此前公布的交换要约及收购要约的截止日期。",
+      "summary": "财联社8月1日电，派拉蒙宣布延长此前公布的交换要约及收购要约的截止日期。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:13:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "利弗莫尔中概股龙头指数收涨1.59%",
+      "summary": "【利弗莫尔中概股龙头指数收涨1.59%】财联社8月1日电，利弗莫尔中概股龙头指数收涨1.59%。成分股中，金山云涨近10%，阿里巴巴涨超5%，新东方、脑再生科技涨超4%，新东方涨4.28%，百胜中国涨超3%。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:00:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美股收盘：亚马逊涨超15%创2012年以来单日最大涨幅 微软、亚马逊7月份市值合计增长超1万亿美元",
+      "summary": "【美股收盘：亚马逊涨超15%创2012年以来单日最大涨幅 微软、亚马逊7月份市值合计增长超1万亿美元】财联社8月1日电，美股三大指数集体收涨，纳指涨1%，本周累涨1.59%，7月份累跌3.2%；标普500指数涨0.7%，本周累涨1.05%，7月份累跌0.13%；道指涨0.53%，本周累涨1.04%，7月份累涨0.32%，月线录得四连涨。苹果跌超7%，创2025年4月以来最大跌幅；亚马逊涨超15%，创2012年以来单日最大涨幅，7月份累涨约14%；谷歌涨超6%，总市值4.36万亿美元；微软涨超3%，7月份累涨超24%；英伟达涨近3%，总市值4.86万亿美元，收回全球“股王”的位置；SpaceX跌超3%，7月份累跌超36%。其中，微软、亚马逊7月份市值合计增长超1万亿美元。Roundhill存储ETF跌3.76%，7月份累跌近32%。光通信、存储板块涨跌不一，铠侠ADR跌超10%，闪迪、美光科技跌超5%，SK海力士跌逾3%；Coherent涨超5%，西部数据、康宁、迈威尔科技涨超2%。其中，铠侠ADR7月份累跌53%，闪迪7月份累跌超46%，美光科技7月份累跌超28%。<br /><img",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:00:27 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "CFTC：截至7月28日当周 投机者将CBOT美国2年期国债期货净空头头寸减少了30023手",
+      "summary": "【CFTC：截至7月28日当周 投机者将CBOT美国2年期国债期货净空头头寸减少了30023手】财联社8月1日电，据美国商品期货交易委员会（CFTC）：截至7月28日当周，投机者将CBOT美国2年期国债期货净空头头寸减少了30,023手，至1,124,574手；投机者将CBOT美国5年期国债期货净空头头寸减少了126,929手，至1,146,400手；投机者将CBOT美国10年期国债期货净空头头寸减少了3,587手，至876,119手；投机者将CBOT美国超长期国债期货净空头头寸减少了642手，至320,708手。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:41:09 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "CFTC：截至7月28日当周 原油投机者将WTI净多头头寸增加了28,159手",
+      "summary": "【CFTC：截至7月28日当周 原油投机者将WTI净多头头寸增加了28,159手】财联社8月1日电，据美国商品期货交易委员会（CFTC），截至7月28日当周，原油投机者将WTI净多头头寸增加了28,159手，至106,507手。天然气投机者将NYMEX和ICE四大市场净空头头寸增加了5,281手，至60,997手。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:33:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "CFTC：截至7月28日当周 COMEX黄金投机者将净多头头寸减少3258手",
+      "summary": "【CFTC：截至7月28日当周 COMEX黄金投机者将净多头头寸减少3258手】财联社8月1日电，据美国商品期货交易委员会（CFTC），截至7月28日当周，COMEX黄金投机者将净多头头寸减少3,258手，降至120,328手。COMEX白银投机者将净多头头寸减少1,614手，降至8,387手。COMEX铜投机者将净多头头寸减少7,195手，降至66,490手。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:32:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "CBOT玉米期货7月份累涨超6% CBOT小麦期货7月份累涨超8%",
+      "summary": "【CBOT玉米期货7月份累涨超6% CBOT小麦期货7月份累涨超8%】财联社8月1日电，CBOT玉米期货跌1.01%，报4.6375美元/蒲式耳，本周累跌4.87%，7月份累涨6.36%。CBOT小麦期货跌3.84%，报6.38美元/蒲式耳，本周累跌5.90%，7月份累涨8.27%。CBOT大豆期货跌0.04%，报11.8825美元/蒲式耳，本周累跌5.21%，7月份累涨3.89%，豆粕期货累涨5.87%，豆油期货累涨2.60%。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:21:14 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "智利中部沿海地区发生5.2级地震",
+      "summary": "【智利中部沿海地区发生5.2级地震】财联社8月1日电，根据智利大学地震中心报告，当地时间7月31日13时48分，智利科金博大区沿海地区发生5.2级地震，震源深度30公里。目前暂无海啸预警报告。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:18:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，据报道，英国财政大臣Healey要求各内阁大臣准备削减预算。",
+      "summary": "财联社8月1日电，据报道，英国财政大臣Healey要求各内阁大臣准备削减预算。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:12:05 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "在岸人民币兑美元较周四夜盘收盘涨3点",
+      "summary": "【在岸人民币兑美元较周四夜盘收盘涨3点】财联社8月1日电，在岸人民币兑美元（CNY）北京时间03:00收报6.7525元，较周四夜盘收盘涨3点。成交量382亿美元。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:06:27 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "意大利暂停与西班牙的申根自由通行机制",
+      "summary": "【意大利暂停与西班牙的申根自由通行机制】财联社8月1日电，意大利总理梅洛尼7月31日晚在社交媒体发文，意大利政府决定暂停与西班牙的申根自由通行机制，恢复边境检查。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 19:04:35 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美联储按兵不动的底气？美国通胀降温信号增多！",
+      "summary": "<p>美联储在通胀目标上的拉锯战出现新变数。最新数据显示，衡量通胀趋势的\"截尾均值\"指标已降至数年低位，为政策讨论提供了新的参考维度。</p>\n<p><a href=\"https://wallstreetcn.com/articles/3778338\">华尔街见闻提及</a>，7月30日，美国6月PCE物价指数六年来首次环比下降，<strong>达拉斯联储截尾均值通胀率的单月年化数据骤降至1.4%，不仅低于美联储2%的政策目标，也是2020年11月以来的最低水平。</strong></p>\n<p><strong>这一数据引发市场关注，尤其是在美联储主席沃什明确表示有意重新审视通胀衡量框架的背景下。</strong>与此同时，美联储内部出现罕见多数票异见。</p>\n<p>美国达拉斯联储主席Lorie Logan、明尼阿波利斯联储主席Neel Kashkari以及克利夫兰联储主席Beth Hammack均对维持利率不变的决定投下反对票，坚持认为通胀压力依然偏高，需要立即采取行动。</p>\n<div>\n<h2 id=\"52249b73\">截尾均值指标触及数年低点</h2>\n</div>\n<p",
+      "link": "https://wallstreetcn.com/articles/3778462",
+      "published": "Fri, 31 Jul 2026 20:40:16 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "前美联储副主席Clarida：调整通胀目标须清晰沟通，否则将加剧市场不确定性",
+      "summary": "<p>前美联储副主席Richard Clarida表示，如果美联储在没有清晰沟通政策目标的情况下调整其偏好的通胀衡量指标，可能会加剧市场的不确定性。</p>\n<p>此前，美联储主席沃什曾表示，美联储将审视是否存在替代当前核心个人消费支出价格指数（Core PCE）的其他通胀指标。</p>\n<p>克拉里达表示：“他们可以选择采用平均指标，而不是固定关注某一个指数；也可以关注CPI、PPI——有很多选择。”</p>\n<p>“一个实行通胀目标制的央行必须明确自己究竟在追踪什么目标。这个目标可以变化，也可能随着时间推移演变，而这一点非常重要。”</p>\n<h2>沃什任期核心议题：减少前瞻指引，但市场需要更多信号</h2>\n<p>克拉里达对美联储沟通方式的评论，触及了沃什接替鲍威尔以来政策讨论的核心。</p>\n<p>沃什希望美联储减少使用“前瞻指引”，避免通过提前暗示未来利率路径影响市场。但在缺少明确政策信号的情况下，华尔街开始自行解读美联储立场。</p>\n<p>例如，在本周三，美联储会议后市场因担忧通胀压力重新升温，导致30年期美债收益率大幅飙升。</p>\n<p>克拉里达表示：“新闻发布会期间",
+      "link": "https://wallstreetcn.com/articles/3778463",
+      "published": "Fri, 31 Jul 2026 20:39:55 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "韩国去杠杆打出存量牌：杠杆ETF可被强制降倍至1倍，规模蒸发78%，外资已抢先回头",
+      "summary": "<h2 style=\"text-align: left;\">核心观点</h2>\n<p style=\"text-align: left;\">韩国去杠杆结束了吗？整体已消减大半，但尾部风险尚未出清</p>\n<p style=\"text-align: left;\">我们在此前的报告中曾指出（《如何看待韩股未来走势？》，2026/07/13），韩国股市杠杆分为两层，一层是银行和非银创造可用来投资金融市场的资金杠杆，二层杠杆则对应杠杆ETF等金融产品形成的交易杠杆，二层杠杆以相乘而非简单相加的方式共同放大市场风险，压力更多在第二层。1）第一层杠杆的风险在于T+2追保带来的强平问题。一旦股价快速调整，投资者可能因追加保证金而被迫平仓，进而放大市场跌幅，形成单边下跌压力。2）第二层杠杆的风险更多体现为杠杆ETF通过负Gamma循环放大波动，使市场呈现双边大幅波动。</p>\n<p style=\"text-align: left;\">第一层资金杠杆上，融资余额逐步回落，且本身水平不高，不是本轮波动的核心压力来源。截至2026年7月29日，券商端三类融资工具（不含待入市保证金）余额合计已下降至52.9万亿",
+      "link": "https://wallstreetcn.com/articles/3778465",
+      "published": "Fri, 31 Jul 2026 20:39:33 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "金价回调之际Tether购金提速！ Q2再买14吨黄金，储备规模升至146吨",
+      "summary": "<p>在截至6月底的三个月内，Tether为其储备资产购买了14吨黄金，延续了此前持续买入黄金的趋势。目前，该公司已成为全球已知持有黄金规模最大的非银行、非主权机构投资者。</p>\n<p>根据Tether季度储备审计报告，截至6月底，该公司的黄金储备增至146吨，价值约188亿美元。</p>\n<p>整个季度，黄金价格持续走弱。中东冲突引发的通胀担忧推动债券收益率大幅上升，对不产生利息收益的黄金资产构成压力。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/a3103bb1-d4ec-471c-9ae2-04a517b9859d.png\" /></p>\n<p>Tether同时披露，二季度净营业利润约为15亿美元，低于上年同期的49亿美元。</p>\n<div>\n<h2 id=\"fcd5b23\">买金节奏提速，一季度放缓后再度加仓</h2>\n</div>\n<p>Tether过去一年多以来始终是全球黄金市场最大的单一买家之一。</p>\n<p>2025年末季，其购金量超过21吨，但今年一季度明显放缓至6吨。此次二季度重回1",
+      "link": "https://wallstreetcn.com/articles/3778461",
+      "published": "Fri, 31 Jul 2026 20:39:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：沃什考虑减少美联储政策会议的频率",
+      "summary": "<p>报道：沃什考虑减少美联储政策会议的频率。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3778467",
+      "published": "Fri, 31 Jul 2026 20:32:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
+      "summary": "<p>OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）</p>",
+      "link": "https://wallstreetcn.com/livenews/3143460",
+      "published": "Fri, 31 Jul 2026 20:19:54 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
+      "summary": "<p>亚马逊收涨15%，创2012年以来最大单日涨幅。</p>\n\n<p>苹果收跌7.4%，创2025年4月份以来最大单日跌幅。</p>",
+      "link": "https://wallstreetcn.com/livenews/3143449",
+      "published": "Fri, 31 Jul 2026 20:01:20 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -59,27 +346,6 @@
       "summary": "<p>中东冲突扰动全球能源供应链，推动原油价格和炼厂利润率同步飙升，美国两大石油巨头迎来强劲二季度业绩。不过，在超预期利润与市场预期之间，两家公司呈现出不同表现。</p>\n<p><strong>当地时间周五，埃克森美孚公布第二季度财报，调整后利润达到147亿美元，环比增长67%，创四年来最高水平，但仍低于华尔街预期。</strong></p>\n<p><strong>雪佛龙则交出超预期成绩单，调整后利润达到120亿美元，创至少六年来季度新高。</strong></p>\n<p>两家公司业绩均受益于二季度国际油价上涨以及炼油利润率改善。由于美伊冲突导致霍尔木兹海峡航运受限，全球能源供应担忧升温，布伦特原油二季度平均收盘价达到每桶96.68美元，较一季度上涨23%。</p>\n<p>不过，地缘政治风险也成为双刃剑。<strong>埃克森美孚在中东资产暴露较高，部分产能受到影响；雪佛龙由于中东产量占比较低，更多享受到高油价带来的利润增长。</strong></p>\n<p>财报公布后，埃克森美孚股价盘前一度下跌约2%，随后收窄跌幅，截至发稿，盘中下跌1.4%。</p>\n<p><img class=\"",
       "link": "https://wallstreetcn.com/articles/3778457",
       "published": "Fri, 31 Jul 2026 18:56:04 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "报道：美联储要求美国各大银行关注欧元兑日元汇率",
-      "summary": "<p>媒体援引知情人士报道称，美国纽约联储周五要求至少两家美国大型银行查询日元兑欧元的汇率。</p>",
-      "link": "https://wallstreetcn.com/livenews/3143425",
-      "published": "Fri, 31 Jul 2026 18:27:31 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普称对与伊朗达成协议“失去信心”，伊方称关闭霍尔木兹、美军否认",
-      "summary": "<p>霍尔木兹海峡局势进一步升级之际，美国总统特朗普对伊朗的谈判态度明显转硬。</p>\n<p>美东时间31日周五，美国总统特朗普在内阁会议期间自称正逐渐失去对伊朗谈判代表的信心，指责伊方“撒谎”、“歪曲事实”、“总是想谈，却一次次食言”，并警告，美国将继续对伊朗实施“非常猛烈”的打击，直到伊朗“再也承受不了”为止。</p>\n<p>周五稍早，据央视新闻，伊朗称已关闭霍尔木兹海峡，而美军中央司令部否认海峡关闭。双方围绕霍尔木兹通航状况的表态直接冲突。</p>\n<p>作为全球约五分之一海运石油运输的咽喉要道，霍尔木兹海峡持续紧张令能源市场神经高度紧绷。 新华社援引航运数据称，7月30日本周四，通过该海峡的船舶通行数量较前一日骤降77%至5艘。这显示，地缘政治风险已对实际航运产生明显影响。</p>\n<h2>特朗普指伊朗“撒谎”、“总是食言”，警告将实施“非常猛烈”打击</h2>\n<p>据多家媒体报道，特朗普本周五在马里兰州戴维营举行的内阁会议上表示，美方仍通过中间人与伊朗保持接触，但自己对谈判前景越来越悲观。</p>\n<p>特朗普称：<span style=\"letter-spacing: 1",
-      "link": "https://wallstreetcn.com/articles/3778460",
-      "published": "Fri, 31 Jul 2026 18:02:10 GMT"
-    },
-    {
-      "source": "中国证券报",
-      "title": "券商8月“金股”来了 - finance.sina.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNRThwd0thcks4U25kRWVRbGlVVm5QUkhud05MUVVvNnc1T0l5ZUVFTmpfUTRyVU5OaFl2dHhkQXRwOVJEYTlVSUwyV19lREl0RWlzZG0wZ1lKdTVPZVdCaWt4czQ4V2pFdGYtUnpDUl9ldnBiRF9WMlJPQ3U2ZzU4Q29ma1dCMUoxU1Z5c1ZlcXM1SVRMNlRJTGZCRG9yajZDUUc4?oc=5\" target=\"_blank\">券商8月“金股”来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRThwd0thcks4U25kRWVRbGlVVm5QUkhud05MUVVvNnc1T0l5ZUVFTmpfUTRyVU5OaFl2dHhkQXRwOVJEYTlVSUwyV19lREl0RWlzZG0wZ1lKdTVPZVdCaWt4czQ4V2pFdGYtUnpDUl9ldnBiRF9WMlJPQ3U2ZzU4Q29ma1dCMUoxU1Z5c1ZlcXM1SVRMNlRJTGZCRG9yajZDUUc4?oc=5",
-      "published": "Fri, 31 Jul 2026 18:35:53 GMT"
     }
   ]
 }
