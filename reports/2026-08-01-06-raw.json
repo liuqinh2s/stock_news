@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
   "hour": "06",
-  "total": 34,
-  "fetched_at": "2026-08-01T06:00:54.957242+08:00",
+  "total": 45,
+  "fetched_at": "2026-08-01T06:51:44.189807+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,13 +10,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBYV2ltdWxjaDA2MzRjcWJveVNEaGxRVEVKeGtTczlldUpUSlhZSEhmOXBIc1F4Vmh1d05GallqS0ltOHhTYjY5Vk9JaTIwYkZhLTkzS1Q2ZTllX0hUeDVvUlRaeWtjM29MUjAzdW5HbkJhTllNRVZ3eQ?oc=5\" target=\"_blank\">A股科技板块全线反攻 机构称调整或接近尾声</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYV2ltdWxjaDA2MzRjcWJveVNEaGxRVEVKeGtTczlldUpUSlhZSEhmOXBIc1F4Vmh1d05GallqS0ltOHhTYjY5Vk9JaTIwYkZhLTkzS1Q2ZTllX0hUeDVvUlRaeWtjM29MUjAzdW5HbkJhTllNRVZ3eQ?oc=5",
       "published": "Fri, 31 Jul 2026 21:06:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "7月收官8月在望 A股市场风格或走向再平衡 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBEdHpMbEw0aGo5aFBWT1ctRjNiTVAxZ2l0QVh6N1ZvdXN5RnFJUFBuMFJueFJERnZKU1lhOHRvQkpMTGx1R29sMHdGQVBlcEZkT3dCUXM4cTBzbXYxSFhRTXA2QzR3RDBLLTNnZ0hEQ204eHJNVUJtTg?oc=5\" target=\"_blank\">7月收官8月在望 A股市场风格或走向再平衡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEdHpMbEw0aGo5aFBWT1ctRjNiTVAxZ2l0QVh6N1ZvdXN5RnFJUFBuMFJueFJERnZKU1lhOHRvQkpMTGx1R29sMHdGQVBlcEZkT3dCUXM4cTBzbXYxSFhRTXA2QzR3RDBLLTNnZ0hEQ204eHJNVUJtTg?oc=5",
-      "published": "Fri, 31 Jul 2026 20:49:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -33,11 +26,39 @@
       "published": "Fri, 31 Jul 2026 21:34:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "三年三换交易所：百菲乳业的曲折上市路与资本“新叙事” - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5MNTZFRjBybkNBdEJUOWRBOThNcUFsZU94cDhFTlRra3RpVGNYNkNiWTB6M2lwT3MtZWVZUm9vRFJUNDdjVFJfNTc5bnZEUU9kRklndExwdXducGx0d3MzZGJaOEtDQTc0NjhHZUpyOGc0cm9vZGNHcw?oc=5\" target=\"_blank\">三年三换交易所：百菲乳业的曲折上市路与资本“新叙事”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MNTZFRjBybkNBdEJUOWRBOThNcUFsZU94cDhFTlRra3RpVGNYNkNiWTB6M2lwT3MtZWVZUm9vRFJUNDdjVFJfNTc5bnZEUU9kRklndExwdXducGx0d3MzZGJaOEtDQTc0NjhHZUpyOGc0cm9vZGNHcw?oc=5",
-      "published": "Fri, 31 Jul 2026 20:16:00 GMT"
+      "source": "同花顺",
+      "title": "乌克兰首都基辅遭弹道导弹袭击 传出强烈爆炸声",
+      "summary": "当地时间8月1日凌晨1时33分至40分，新华社记者在乌克兰首都基辅听到多轮密集爆炸声。基辅市市长克利奇科在社交媒体发文说，俄军正对基辅市发动弹道导弹袭击。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260801/c678599736.shtml",
+      "published": "Fri, 31 Jul 2026 22:50:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗官员：美以若袭击伊朗基础设施是鲁莽行为",
+      "summary": "据伊朗方面消息，一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。(财联社)",
+      "link": "https://news.10jqka.com.cn/20260801/c678599691.shtml",
+      "published": "Fri, 31 Jul 2026 22:24:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI本周预览了AI模型Astra",
+      "summary": "据报道， OpenAI本周在美国华盛顿特区预览了名为“Astra”的人工智能（AI）模型，该公司CEO Altman向（国会山的/特朗普政府的）决策者们、各大监管机构演示了“Astra”。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260801/c678599678.shtml",
+      "published": "Fri, 31 Jul 2026 22:20:22 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中央气象台8月1日06时继续发布暴雨黄色预警",
+      "summary": "中央气象台8月1日06时继续发布暴雨黄色预警：预计，8月1日08时至2日08时，黑龙江东南部、吉林中部、辽宁北部、陕西中南部、四川东部和南部、重庆西南部、云南东北部及山西中西部、广西南部、广东中南部、海南岛中东部、青海东部、西藏东南部等地部分地区有大到暴雨，其中，黑龙江东南部、四川盆地西北部和南部、广东南部沿海等地局地有大暴雨（100～200毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过80毫米），局地有雷暴大风或冰雹等强对流天气。",
+      "link": "https://news.10jqka.com.cn/20260801/c678599663.shtml",
+      "published": "Fri, 31 Jul 2026 22:10:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中央气象台8月1日06时继续发布强对流天气蓝色预警",
+      "summary": "中央气象台8月1日06时继续发布强对流天气蓝色预警：预计8月1日08时至2日08时，内蒙古东部、东北地区中部、华北西部、西北地区东部、江汉西部、西南地区东部、江南东部等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，黑龙江东南部将有10级以上雷暴大风；东北地区中南部、华北西部、江汉西部、西北地区东部、西南地区东部和南部、华南中东部和南部、江南东部等地的部分地区将有小时雨量大于20毫米的短时强降水天气，其中，内蒙古东南部、黑龙江东南部、吉林中部、陕西南部、山西西部、河南西部、四川东部、重庆西部、贵州西北部、广西南部、广东西南部、海南岛东部和南部等地的部分地区小时雨量大于50毫米，最大可达80毫米以上。",
+      "link": "https://news.10jqka.com.cn/20260801/c678599660.shtml",
+      "published": "Fri, 31 Jul 2026 22:10:12 GMT"
     },
     {
       "source": "同花顺",
@@ -131,60 +152,158 @@
       "published": "Fri, 31 Jul 2026 20:57:30 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "CFTC持仓：美元多头头寸终于创下新纪录",
-      "summary": "美国商品期货交易委员会（CFTC）发布了最新一期的交易者持仓报告（COT），数据截至周二收盘。美元综合多头头寸激增至刚刚超过500亿美元，创下历史最高纪录！投机客抛售了3.11万份欧元、1.13万份日元（哎呀！）、9300份英镑、1900份加元和2300份澳元。尽管有2300份新西兰元被买入，以及少量瑞郎和墨西哥比索的买盘，但美元综合多头头寸仍增加了近70亿美元，以微弱优势打破了2014至2015年间创下的最大持仓规模纪录。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260801/c678599129.shtml",
-      "published": "Fri, 31 Jul 2026 20:48:58 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "特朗普：尚未同意授权乌克兰生产“爱国者”拦截弹",
-      "summary": "美国总统特朗普7月31日在马里兰州戴维营举行的内阁会议上对媒体说，美国尚未同意授权乌克兰生产“爱国者”防空系统拦截弹。特朗普在谈及乌克兰危机时说，乌克兰和俄罗斯领导人都想达成协议，但双方必须为此做出一些让步。他表示，美国尚未同意授予乌克兰“爱国者”防空系统拦截弹生产许可，“我们正在讨论”，转让这类技术“必须非常谨慎”。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260801/c678599126.shtml",
-      "published": "Fri, 31 Jul 2026 20:47:52 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美军一架F-35隐形战机在加州坠毁",
-      "summary": "据美国媒体31日报道，一架美军F-35隐形战机当天在加利福尼亚州圣迭戈一处军事基地坠毁。一名美国海军陆战队发言人向当地媒体证实，这架隶属于美国海军陆战队第3航空联队第11航空大队的F-35B型战机于当地时间10时左右在海军陆战队米拉马尔航空站坠毁。机上一名飞行员弹射逃生。当地电视台播放的航拍画面显示，破损的机身浓烟滚滚，残骸散落在一大片焦黑地面上。美国军方正在调查事故原因。F-35B是美军“闪电II”家族中具备短距起飞与垂直降落能力的型号，主要装备美国海军陆战队。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260801/c678599125.shtml",
-      "published": "Fri, 31 Jul 2026 20:44:57 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国军方：截至7月31日，中央司令部已改变30艘商船的航行路线",
-      "summary": "美国军方称，截至7月31日，中央司令部已改变30艘商船的航行路线，使2艘商船失去行动能力，并登船检查了2艘商船。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260801/c678599124.shtml",
-      "published": "Fri, 31 Jul 2026 20:44:02 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储主席沃什据悉考虑减少美联储政策会议的频率",
-      "summary": "据报道，美联储主席沃什据悉正在考虑减少美联储定期召开的利率决策会议的次数，这一举措可能引发巨大震动，并将标志着近年来美联储运作方式最重大的变革。目前，美联储由12人组成的联邦公开市场委员会（FOMC）每年召开八次会议，就是否上调、下调或维持借贷成本进行表决。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260801/c678599115.shtml",
-      "published": "Fri, 31 Jul 2026 20:34:39 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现",
-      "summary": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
-      "link": "https://news.10jqka.com.cn/20260801/c678599114.shtml",
-      "published": "Fri, 31 Jul 2026 20:31:10 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "高通售股股东最多可自模块化收购中转售1782.66万股股份",
-      "summary": "据SEC备案文件，高通售股股东最多可自模块化收购中转售1782.66万股股份。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260801/c678599113.shtml",
-      "published": "Fri, 31 Jul 2026 20:29:59 GMT"
+      "source": "财联社",
+      "title": "乌克兰基辅传出连续爆炸声",
+      "summary": "【乌克兰基辅传出连续爆炸声】财联社8月1日电，乌克兰基辅市内当地时间8月1日传出连续爆炸声。此前基辅拉响防空警报。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 22:37:39 GMT"
     },
     {
       "source": "财联社",
-      "title": "黑色七月收官！韩股今创史上最大单日反弹：短暂喘息还是持续性修复？ - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BWDhlVWFabVVKSmJPaHd0VDJ4NFRYMXk2YjR4bXpZakJHeF9sSFp5ZWJaOG80R2RkNGJLNzBUZUlVd0wzT0xlSw?oc=5\" target=\"_blank\">黑色七月收官！韩股今创史上最大单日反弹：短暂喘息还是持续性修复？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BWDhlVWFabVVKSmJPaHd0VDJ4NFRYMXk2YjR4bXpZakJHeF9sSFp5ZWJaOG80R2RkNGJLNzBUZUlVd0wzT0xlSw?oc=5",
-      "published": "Fri, 31 Jul 2026 20:07:08 GMT"
+      "title": "伊朗警告打击美以能源基础设施",
+      "summary": "【伊朗警告打击美以能源基础设施】财联社8月1日电，据伊朗塔斯尼姆通讯社当地时间今天（8月1日）凌晨援引伊朗高级安全官员的消息报道称，若美国、以色列袭击伊朗能源设施，伊朗将把其视为“一种鲁莽行径”。伊朗已制定全面计划，以应对任何“潜在的鲁莽行径”。伊朗的回应方案涵盖“打击以色列的关键基础设施及美国在本地区的能源设施”。 (CCTV国际时讯)",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 22:23:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "OpenAI本周预览了AI模型Astra",
+      "summary": "【OpenAI本周预览了AI模型Astra】财联社8月1日电，据报道， OpenAI本周在美国华盛顿特区预览了名为“Astra”的人工智能（AI）模型，该公司CEO Altman向（国会山的/特朗普政府的）决策者们、各大监管机构演示了“Astra”。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 22:18:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中央气象台8月1日06时继续发布暴雨黄色预警",
+      "summary": "【中央气象台8月1日06时继续发布暴雨黄色预警】财联社8月1日电，中央气象台8月1日06时继续发布暴雨黄色预警：预计，8月1日08时至2日08时，黑龙江东南部、吉林中部、辽宁北部、陕西中南部、四川东部和南部、重庆西南部、云南东北部及山西中西部、广西南部、广东中南部、海南岛中东部、青海东部、西藏东南部等地部分地区有大到暴雨，其中，黑龙江东南部、四川盆地西北部和南部、广东南部沿海等地局地有大暴雨（100～200毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过80毫米），局地有雷暴大风或冰雹等强对流天气。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 22:10:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中央气象台8月1日06时继续发布强对流天气蓝色预警",
+      "summary": "【中央气象台8月1日06时继续发布强对流天气蓝色预警】财联社8月1日电，中央气象台8月1日06时继续发布强对流天气蓝色预警：预计8月1日08时至2日08时，内蒙古东部、东北地区中部、华北西部、西北地区东部、江汉西部、西南地区东部、江南东部等地的部分地区将有8级以上雷暴大风或冰雹天气，其中，黑龙江东南部将有10级以上雷暴大风；东北地区中南部、华北西部、江汉西部、西北地区东部、西南地区东部和南部、华南中东部和南部、江南东部等地的部分地区将有小时雨量大于20毫米的短时强降水天气，其中，内蒙古东南部、黑龙江东南部、吉林中部、陕西南部、山西西部、河南西部、四川东部、重庆西部、贵州西北部、广西南部、广东西南部、海南岛东部和南部等地的部分地区小时雨量大于50毫米，最大可达80毫米以上。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 22:09:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "周六你需要知道的隔夜全球要闻：微软、亚马逊7月份市值合计增长超1万亿美元，沃什据悉考虑减少美联储政策会议的频率，美官员称特朗普已下令对伊朗发动新一轮袭击",
+      "summary": "【周六你需要知道的隔夜全球要闻：微软、亚马逊7月份市值合计增长超1万亿美元，沃什据悉考虑减少美联储政策会议的频率，美官员称特朗普已下令对伊朗发动新一轮袭击】\n1、美股三大指数集体收涨，纳指涨1%，本周累涨1.59%，7月份累跌3.2%；标普500指数涨0.7%，本周累涨1.05%，7月份累跌0.13%；道指涨0.53%，本周累涨1.04%，7月份累涨0.32%，月线录得四连涨。苹果跌超7%，创2025年4月以来最大跌幅；亚马逊涨超15%，创2012年以来单日最大涨幅，7月份累涨约14%；微软涨超3%，7月份累涨超24%；英伟达涨近3%，总市值4.86万亿美元，收回全球“股王”的位置。其中，微软、亚马逊7月份市值合计增长超1万亿美元。\n2、据报道，美联储主席沃什考虑减少美联储政策会议的频率。\n3、美国官员表示，美国总统特朗普已下令对伊朗发动新一轮袭击，目的是迫使德黑兰方面投降。相关行动最早可能于本周末开始，并持续数天。\n4、国际原油期货结算价收涨超1%。WTI原油期货9月合约结算价涨1.29%，本周累跌5.2%，WTI原油期货主连7月份累涨21.83%。布伦特原油期货9月合约结算价涨1.",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 22:00:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，据报道，日本政府和日本央行周五连续第二个交易日干预汇市买入日元。",
+      "summary": "财联社8月1日电，据报道，日本政府和日本央行周五连续第二个交易日干预汇市买入日元。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:56:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "拉脱维亚关闭与白俄罗斯的边境",
+      "summary": "【拉脱维亚关闭与白俄罗斯的边境】财联社8月1日电，拉脱维亚内政部长多姆布拉瓦当地时间7月31日表示，由于技术原因，拉脱维亚已关闭与白俄罗斯的边境，建议尚未返回拉脱维亚的人员使用其他路线。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:34:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供",
+      "summary": "【OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供】财联社8月1日电，OpenAI称，GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:32:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "云南普洱市墨江县附近发生4.5级左右地震",
+      "summary": "【云南普洱市墨江县附近发生4.5级左右地震】财联社8月1日电，中国地震台网自动测定：08月01日05时24分在云南普洱市墨江县附近（北纬23.19度，东经101.44度）发生4.5级左右地震，最终结果以正式速报为准。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:26:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "离岸人民币兑美元较周四纽约尾盘跌44点",
+      "summary": "【离岸人民币兑美元较周四纽约尾盘跌44点】财联社8月1日电，周五（7月31日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7524元，较周四纽约尾盘跌44点，日内整体交投于6.7423-6.7553元区间。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:17:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，标普道琼斯指数公司将Ferguson Enterprises纳入标普500指数，取代Electronic Arts（艺电，EA）。",
+      "summary": "财联社8月1日电，标普道琼斯指数公司将Ferguson Enterprises纳入标普500指数，取代Electronic Arts（艺电，EA）。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:17:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，富时A50期指连续夜盘收跌0.37%，报14751点。",
+      "summary": "财联社8月1日电，富时A50期指连续夜盘收跌0.37%，报14751点。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:16:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+      "summary": "【美官员称特朗普已下令对伊朗发动新一轮袭击】财联社8月1日电，美国官员表示，美国总统特朗普已下令对伊朗发动新一轮袭击，目的是迫使德黑兰方面投降。相关行动最早可能于本周末开始，并持续数天。 (央视新闻)",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:16:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道",
+      "summary": "【胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道】财联社8月1日电，也门胡塞武装发言人叶海亚当地时间7月31日在社交媒体发文称，在巩固“以封锁回应封锁”方针、并落实对沙特实施海上禁运措施的框架下，8艘沙特油轮被迫改变航线，折返驶向其出发港口。他表示，对沙特实施海上封锁行动仍在持续。只要条件允许，胡塞武装将继续拦截沙特船只。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:09:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，COMEX黄金期货跌1.41%，报4107.2美元/盎司，本周累涨1.26%，7月份累涨2.1%。COMEX白银期货跌2.27%，报57.97美元/盎司，本周累跌近1%，7月份累跌...",
+      "summary": "财联社8月1日电，COMEX黄金期货跌1.41%，报4107.2美元/盎司，本周累涨1.26%，7月份累涨2.1%。COMEX白银期货跌2.27%，报57.97美元/盎司，本周累跌近1%，7月份累跌1.82%。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 21:06:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，据报道，美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标，特朗普尚未下达最终的袭击命令。",
+      "summary": "财联社8月1日电，据报道，美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标，特朗普尚未下达最终的袭击命令。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 20:57:07 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：OpenAI向美国监管机构演示新一代\"Astra\"AI模型",
+      "summary": "<p>OpenAI正在加快推进其下一代人工智能产品布局。</p>\n<p>7月31日，据The Information报道，<strong>OpenAI本周在美国华盛顿向监管机构预演了一款名为\"Astra\"的全新AI模型系列，标志着该公司在多智能体协作技术方向上迈出重要一步。</strong></p>\n<p>据报道，OpenAI首席执行官Sam Altman本周亲赴华盛顿，向当地监管机构现场演示了Astra模型。</p>\n<p><strong>Astra模型系列的核心能力在于支持多个AI智能体协同工作，并能够在较长时间跨度内持续执行复杂任务。</strong></p>\n<p>多智能体协作被业界视为推动AI从\"回答问题\"走向\"自主完成任务\"的关键路径，也是各大AI厂商当前竞争的核心赛道之一。</p>\n<p>OpenAI方面表示，该模型旨在解决传统单一智能体难以应对的高难度问题，有望进一步拓展AI在企业级应用场景中的边界。</p>\n<div>\n<h2 id=\"a51a92b9\">高管亲赴华盛顿，主动接触监管层</h2>\n</div>\n<p>Sam Altman亲自出席此次演示，体现了Open",
+      "link": "https://wallstreetcn.com/articles/3778470",
+      "published": "Fri, 31 Jul 2026 22:45:18 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+      "summary": "<p>数据中心竞赛中的四大巨头已承诺在未来几年内投入近2.4万亿美元，表明对人工智能基础设施的投资将继续大幅增加。由于竞相建设数据中心，谷歌母公司Alphabet Inc.、Meta Platforms Inc.、微软和亚马逊在过去一年纷纷披露在租赁、建筑、能源及其他设备方面的承诺金额大幅增加。这些承诺既包括短期支出，也包括期限长达数十年的长期投资。</p>\n<p>其中，谷歌母公司Alphabet上周披露，尚未开始执行的采购承诺、合同义务及租赁承诺达到9020亿美元。这是一年前的逾九倍。Meta也披露了类似的大幅增长，未来支出承诺接近7000亿美元。该公司的承诺总额是一年前的逾八倍。（彭博）</p>",
+      "link": "https://wallstreetcn.com/livenews/3143503",
+      "published": "Fri, 31 Jul 2026 22:36:16 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI安全警报！Anthropic、OpenAI接连“越狱”，专家警告国家安全风险",
+      "summary": "<p>人工智能领域两大巨头相继曝出安全漏洞，引发网络安全专家对AI系统失控风险的严重担忧。</p>\n<p><strong>Anthropic周四披露，该公司旗下Claude模型在进行网络安全测试期间，因隔离措施失效而意外接入互联网，并对外部机构实施了真实攻击——包括窃取基础设施凭证、植入恶意软件。</strong></p>\n<p>此前，OpenAI亦公开承认，其AI代理在测试过程中突破沙箱环境，渗透了开源AI平台Hugging Face。两起事件均在发生数周乃至数月后才被发现。</p>\n<p>事件在业界引发强烈反应。前美国国家安全局黑客、Hunter Labs研究与开发副总裁Jake Williams直言：\"这已经是疏忽大意。OpenAI和Anthropic均入侵了多个外部机构，没有一起被即时发现。我找不到其他词来形容。\"</p>\n<p><strong>多名前政府官员则警告，随着自主AI系统攻击能力不断增强，相关威胁正逐步上升至国家安全层面。</strong></p>\n<div>\n<h2 id=\"4764aa70\">安全沙箱失效，真实攻击悄然发生</h2>\n</div>\n<p>据Ant",
+      "link": "https://wallstreetcn.com/articles/3778469",
+      "published": "Fri, 31 Jul 2026 22:27:03 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：OpenAI本周预览了AI模型Astra",
+      "summary": "<p>OpenAI本周在美国华盛顿特区预览了名为“Astra”的人工智能（AI）模型，该公司CEO Altman向（国会山的/特朗普政府的）决策者们、各大监管机构演示了“Astra”。（The Information）</p>",
+      "link": "https://wallstreetcn.com/livenews/3143500",
+      "published": "Fri, 31 Jul 2026 22:17:23 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "心脏新药三期试验失败，诺和诺德股价重挫：减肥药依赖加剧，研发转型再受考验",
+      "summary": "<div>\n<div dir=\"auto\" tabindex=\"0\">\n<div>\n<div>\n<p>丹麦制药巨头诺和诺德遭遇重大研发挫折。公司周五宣布，<strong>其在研心血管疾病药物ziltivekimab在一项大型后期临床试验中未能达到主要终点，未能证明能够降低患者发生重大心血管事件的风险。</strong></p>\n<p>这一失败将进一步凸显公司对GLP-1减肥药业务的高度依赖，同时增加未来增长的不确定性。受此消息影响，诺和诺德美国存托凭证（ADR）收跌8.7%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/e79183f6-a99a-4369-9cb1-52ad7e05aeaa.png\" /></p>\n<p>此次试验失败也成为诺和诺德近期连续研发挫折的一部分。此前，公司用于挑战礼来减肥药优势地位的实验性药物CagriSema未能证明优于竞争对手Zepbound；而口服版Ozempic相关研究此前也未能达到延缓阿尔茨海默病发展的目标。</p>\n<h2>IL-6靶向药未能降低心血管风险，6300人大",
+      "link": "https://wallstreetcn.com/articles/3778468",
+      "published": "Fri, 31 Jul 2026 22:16:33 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -194,53 +313,11 @@
       "published": "Fri, 31 Jul 2026 20:57:03 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "美联储按兵不动的底气？美国通胀降温信号增多！",
-      "summary": "<p>美联储在通胀目标上的拉锯战出现新变数。最新数据显示，衡量通胀趋势的\"截尾均值\"指标已降至数年低位，为政策讨论提供了新的参考维度。</p>\n<p><a href=\"https://wallstreetcn.com/articles/3778338\">华尔街见闻提及</a>，7月30日，美国6月PCE物价指数六年来首次环比下降，<strong>达拉斯联储截尾均值通胀率的单月年化数据骤降至1.4%，不仅低于美联储2%的政策目标，也是2020年11月以来的最低水平。</strong></p>\n<p><strong>这一数据引发市场关注，尤其是在美联储主席沃什明确表示有意重新审视通胀衡量框架的背景下。</strong>与此同时，美联储内部出现罕见多数票异见。</p>\n<p>美国达拉斯联储主席Lorie Logan、明尼阿波利斯联储主席Neel Kashkari以及克利夫兰联储主席Beth Hammack均对维持利率不变的决定投下反对票，坚持认为通胀压力依然偏高，需要立即采取行动。</p>\n<div>\n<h2 id=\"52249b73\">截尾均值指标触及数年低点</h2>\n</div>\n<p",
-      "link": "https://wallstreetcn.com/articles/3778462",
-      "published": "Fri, 31 Jul 2026 20:40:16 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "前美联储副主席Clarida：调整通胀目标须清晰沟通，否则将加剧市场不确定性",
-      "summary": "<p>前美联储副主席Richard Clarida表示，如果美联储在没有清晰沟通政策目标的情况下调整其偏好的通胀衡量指标，可能会加剧市场的不确定性。</p>\n<p>此前，美联储主席沃什曾表示，美联储将审视是否存在替代当前核心个人消费支出价格指数（Core PCE）的其他通胀指标。</p>\n<p>克拉里达表示：“他们可以选择采用平均指标，而不是固定关注某一个指数；也可以关注CPI、PPI——有很多选择。”</p>\n<p>“一个实行通胀目标制的央行必须明确自己究竟在追踪什么目标。这个目标可以变化，也可能随着时间推移演变，而这一点非常重要。”</p>\n<h2>沃什任期核心议题：减少前瞻指引，但市场需要更多信号</h2>\n<p>克拉里达对美联储沟通方式的评论，触及了沃什接替鲍威尔以来政策讨论的核心。</p>\n<p>沃什希望美联储减少使用“前瞻指引”，避免通过提前暗示未来利率路径影响市场。但在缺少明确政策信号的情况下，华尔街开始自行解读美联储立场。</p>\n<p>例如，在本周三，美联储会议后市场因担忧通胀压力重新升温，导致30年期美债收益率大幅飙升。</p>\n<p>克拉里达表示：“新闻发布会期间",
-      "link": "https://wallstreetcn.com/articles/3778463",
-      "published": "Fri, 31 Jul 2026 20:39:55 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "韩国去杠杆打出存量牌：杠杆ETF可被强制降倍至1倍，规模蒸发78%，外资已抢先回头",
-      "summary": "<h2 style=\"text-align: left;\">核心观点</h2>\n<p style=\"text-align: left;\">韩国去杠杆结束了吗？整体已消减大半，但尾部风险尚未出清</p>\n<p style=\"text-align: left;\">我们在此前的报告中曾指出（《如何看待韩股未来走势？》，2026/07/13），韩国股市杠杆分为两层，一层是银行和非银创造可用来投资金融市场的资金杠杆，二层杠杆则对应杠杆ETF等金融产品形成的交易杠杆，二层杠杆以相乘而非简单相加的方式共同放大市场风险，压力更多在第二层。1）第一层杠杆的风险在于T+2追保带来的强平问题。一旦股价快速调整，投资者可能因追加保证金而被迫平仓，进而放大市场跌幅，形成单边下跌压力。2）第二层杠杆的风险更多体现为杠杆ETF通过负Gamma循环放大波动，使市场呈现双边大幅波动。</p>\n<p style=\"text-align: left;\">第一层资金杠杆上，融资余额逐步回落，且本身水平不高，不是本轮波动的核心压力来源。截至2026年7月29日，券商端三类融资工具（不含待入市保证金）余额合计已下降至52.9万亿",
-      "link": "https://wallstreetcn.com/articles/3778465",
-      "published": "Fri, 31 Jul 2026 20:39:33 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "金价回调之际Tether购金提速！ Q2再买14吨黄金，储备规模升至146吨",
-      "summary": "<p>在截至6月底的三个月内，Tether为其储备资产购买了14吨黄金，延续了此前持续买入黄金的趋势。目前，该公司已成为全球已知持有黄金规模最大的非银行、非主权机构投资者。</p>\n<p>根据Tether季度储备审计报告，截至6月底，该公司的黄金储备增至146吨，价值约188亿美元。</p>\n<p>整个季度，黄金价格持续走弱。中东冲突引发的通胀担忧推动债券收益率大幅上升，对不产生利息收益的黄金资产构成压力。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/a3103bb1-d4ec-471c-9ae2-04a517b9859d.png\" /></p>\n<p>Tether同时披露，二季度净营业利润约为15亿美元，低于上年同期的49亿美元。</p>\n<div>\n<h2 id=\"fcd5b23\">买金节奏提速，一季度放缓后再度加仓</h2>\n</div>\n<p>Tether过去一年多以来始终是全球黄金市场最大的单一买家之一。</p>\n<p>2025年末季，其购金量超过21吨，但今年一季度明显放缓至6吨。此次二季度重回1",
-      "link": "https://wallstreetcn.com/articles/3778461",
-      "published": "Fri, 31 Jul 2026 20:39:20 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "报道：沃什考虑减少美联储政策会议的频率",
-      "summary": "<p>报道：沃什考虑减少美联储政策会议的频率。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3778467",
-      "published": "Fri, 31 Jul 2026 20:32:21 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
-      "summary": "<p>OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）</p>",
-      "link": "https://wallstreetcn.com/livenews/3143460",
-      "published": "Fri, 31 Jul 2026 20:19:54 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
-      "summary": "<p>亚马逊收涨15%，创2012年以来最大单日涨幅。</p>\n\n<p>苹果收跌7.4%，创2025年4月份以来最大单日跌幅。</p>",
-      "link": "https://wallstreetcn.com/livenews/3143449",
-      "published": "Fri, 31 Jul 2026 20:01:20 GMT"
+      "source": "龙虎榜数据",
+      "title": "机构游资“接盘”散户，500亿龙头“20CM”涨停 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTVBBbzROeE1CUWZ2Szl0WmVoV21rYWRmd0QwMEJFTzZqdGJsZTA3Q3JFdDhzMDhjeHFGSUVibjRmSkFDc2g2NVlMNGl4d1BxOC0wSllGWHloaHN5Vnh4cg?oc=5\" target=\"_blank\">机构游资“接盘”散户，500亿龙头“20CM”涨停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTVBBbzROeE1CUWZ2Szl0WmVoV21rYWRmd0QwMEJFTzZqdGJsZTA3Q3JFdDhzMDhjeHFGSUVibjRmSkFDc2g2NVlMNGl4d1BxOC0wSllGWHloaHN5Vnh4cg?oc=5",
+      "published": "Fri, 31 Jul 2026 21:21:19 GMT"
     }
   ]
 }
