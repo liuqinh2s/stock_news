@@ -1,8 +1,8 @@
 {
   "date": "2026-08-01",
   "hour": "01",
-  "total": 39,
-  "fetched_at": "2026-08-01T01:01:05.568512+08:00",
+  "total": 59,
+  "fetched_at": "2026-08-01T01:17:09.001452+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -13,10 +13,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "尚太科技A股股东户数减少2640户降幅12.31%，流通A股户均持股1.38万股增幅14.18%，户均持股市值70.18万元增幅18.55% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSThXdlRHZlUzVC1JX09qeW9kaXc4TmRxd3AtTWpGLVRHeUQ1dk56TlBLSkZ0d2ZsMGFxNElsbVZLTzFVZE5NS2pqeWFybldGdk12UW1fOElnQ0hCdjI0YjZyWnhPTEZXZ3FNaUliNTlVRHpGV2VmZWJBdFNUb2hRbjJPSmtHMzdDN0pDRg?oc=5\" target=\"_blank\">尚太科技A股股东户数减少2640户降幅12.31%，流通A股户均持股1.38万股增幅14.18%，户均持股市值70.18万元增幅18.55%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSThXdlRHZlUzVC1JX09qeW9kaXc4TmRxd3AtTWpGLVRHeUQ1dk56TlBLSkZ0d2ZsMGFxNElsbVZLTzFVZE5NS2pqeWFybldGdk12UW1fOElnQ0hCdjI0YjZyWnhPTEZXZ3FNaUliNTlVRHpGV2VmZWJBdFNUb2hRbjJPSmtHMzdDN0pDRg?oc=5",
-      "published": "Fri, 31 Jul 2026 15:10:00 GMT"
+      "title": "A股七月行情收官！3股逆势翻倍 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5BVF9aZFJsVXlwV3FvbVFLaHpRby1LenhhSlZnVWRyV1RUZEU1V3h2VHg3eGFqMHFpRlZuVk00eUd1cFRGQnZvb210V1MySEhvT2xHRk5lN2JmemwwSDAyTUtsbGJxNFJXYVYtZVVBT19GcDM0M1E?oc=5\" target=\"_blank\">A股七月行情收官！3股逆势翻倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BVF9aZFJsVXlwV3FvbVFLaHpRby1LenhhSlZnVWRyV1RUZEU1V3h2VHg3eGFqMHFpRlZuVk00eUd1cFRGQnZvb210V1MySEhvT2xHRk5lN2JmemwwSDAyTUtsbGJxNFJXYVYtZVVBT19GcDM0M1E?oc=5",
+      "published": "Fri, 31 Jul 2026 15:20:00 GMT"
     },
     {
       "source": "东方财富",
@@ -31,6 +31,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aOFlPWFYwRUhGaGF6YTlEVjRKMFBIb3dMdG9vU1JjLUtmeTAyTEdfMWhqSVZxemo1NU1LLXFJTzBiTHJJdGNjNGZyU1ZRMzJTdlB5QUFfZEU4Y0VGRE5mSA?oc=5\" target=\"_blank\">百傲化学：拟斥资8000万元至1.2亿元回购股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aOFlPWFYwRUhGaGF6YTlEVjRKMFBIb3dMdG9vU1JjLUtmeTAyTEdfMWhqSVZxemo1NU1LLXFJTzBiTHJJdGNjNGZyU1ZRMzJTdlB5QUFfZEU4Y0VGRE5mSA?oc=5",
       "published": "Fri, 31 Jul 2026 16:22:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元",
+      "summary": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元。",
+      "link": "https://news.10jqka.com.cn/20260801/c678598918.shtml",
+      "published": "Fri, 31 Jul 2026 17:16:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国至7月31日当周石油钻井总数451口，前值450口",
+      "summary": "美国至7月31日当周石油钻井总数451口，前值450口。",
+      "link": "https://news.10jqka.com.cn/20260801/c678598866.shtml",
+      "published": "Fri, 31 Jul 2026 17:02:05 GMT"
     },
     {
       "source": "同花顺",
@@ -159,18 +173,144 @@
       "published": "Fri, 31 Jul 2026 15:22:18 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "西班牙飞地移民危机死亡人数升至57人",
-      "summary": "据西班牙《国家报》7月31日报道，已有至少57人在从摩洛哥非法入境西班牙位于北非的飞地休达的过程中死亡。死亡人数恐进一步上升。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260731/c678598531.shtml",
-      "published": "Fri, 31 Jul 2026 15:17:48 GMT"
+      "source": "财联社",
+      "title": "财联社8月1日电，美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+      "summary": "财联社8月1日电，美国电信运营商T-Mobil通报德国电信，该公司不支持潜在交易。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 17:04:25 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "第十二批国采：科伦、正大天晴、诺华等15家企业拟中选沙库巴曲缬沙坦",
-      "summary": "第十二批国采：科伦、正大天晴、诺华等15家企业拟中选沙库巴曲缬沙坦口服常释剂型有华润双鹤利民，重庆圣华曦、山东新时代、南京正大天晴、齐鲁制药等10家企业按照规则一获得拟中选资格，四川科伦、江苏昂利康、诺华等5家企业通过规则三再次报价获得拟中选资格。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260731/c678598529.shtml",
-      "published": "Fri, 31 Jul 2026 15:17:21 GMT"
+      "source": "财联社",
+      "title": "财联社8月1日电，美国至7月31日当周石油钻井总数451口，前值450口。",
+      "summary": "财联社8月1日电，美国至7月31日当周石油钻井总数451口，前值450口。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 17:01:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "墨西哥恰帕斯州发生5.0级地震",
+      "summary": "【墨西哥恰帕斯州发生5.0级地震】财联社8月1日电，根据墨西哥国家地震监测局（SSN）的信息，7月31日10时15分56秒，在墨西哥东南部的恰帕斯州的玛帕斯特佩克市西南方向约165公里处发生5.0级地震，震源深度约10公里。墨西哥的地震预警系统没有启动，目前暂无人员伤亡和财产损失的报告。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 17:00:09 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美联储巴尔金：是否需要增加一些限制性措施才是美联储真正的问题",
+      "summary": "【美联储巴尔金：是否需要增加一些限制性措施才是美联储真正的问题】财联社8月1日电，美联储巴尔金表示，利率是否足够高是个“难以断言”的问题，是否需要增加一些限制性措施才是美联储真正的问题。并表示，感觉劳动力市场并不紧张，怀疑劳动力市场是否已真正走强。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:53:11 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "特朗普否认允许乌生产爱国者拦截弹",
+      "summary": "【特朗普否认允许乌生产爱国者拦截弹】财联社8月1日电，美国总统特朗普当地时间7月31日中午在内阁会议上对媒体表示，美国并未同意由乌克兰生产“爱国者”防空系统拦截弹。他说，美方在允许他国制造这类武器的问题上“必须非常谨慎”。 (CCTV国际时讯)",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:44:14 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "恩智浦洽谈收购Ambarella",
+      "summary": "【恩智浦洽谈收购Ambarella】财联社8月1日电，据报道，恩智浦半导体正洽谈收购一家价值33亿美元的自动驾驶汽车摄像头芯片设计公司Ambarella。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:37:32 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "苹果日内跌幅扩大至10%",
+      "summary": "【苹果日内跌幅扩大至10%】财联社8月1日电，苹果日内跌幅扩大至10%，报300.075美元/股，创2025年4月以来最大跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。<br /><img src=\"https://image.cls.cn/images/20260801/T8hTXi3sY6_915x486.png\" />",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:33:53 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中投公司：打造一流主权财富基金和国有金融资本受托管理机构",
+      "summary": "【中投公司：打造一流主权财富基金和国有金融资本受托管理机构】财联社8月1日电，据中投公司31日消息，近日中投公司召开2026年年中经营管理工作座谈会，总结公司系统上半年工作情况，研究部署下一步工作安排。会议要求，公司系统要坚持目标导向，攻坚克难、接续奋斗，努力完成全年工作任务。一是推动树立和践行正确政绩观学习教育走深走实，一体推进正风肃纪反腐，强化巡视监督、审计监督等贯通协同，全力开展整改攻坚。二是聚焦重点区域加大投资布局，着力提升自主投资能力，积极做好金融“五篇大文章”。三是接续推进高质量发展，对标对表做好公司系统战略规划编制，打造一流主权财富基金和国有金融资本受托管理机构，分类施策提升直管企业核心竞争力。四是坚持统筹发展和安全，持续增强经营管理韧性，夯实全面风险管理体系，筑牢高质量发展的安全防线。五是大力提升工作落实效能，构建“一个中投”体系，打造担当作为的干部队伍，深化“攻坚抓落实 奋斗在中投”企业文化建设，积极探索人工智能应用，不断提升管理水平和治理效能。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:29:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，美国总统特朗普称，可以与伊朗达成协议。",
+      "summary": "财联社8月1日电，美国总统特朗普称，可以与伊朗达成协议。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:25:04 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗称已关闭霍尔木兹海峡 美中央司令部否认",
+      "summary": "【伊朗称已关闭霍尔木兹海峡 美中央司令部否认】财联社8月1日电，美军中央司令部当地时间7月31日表示，“伊朗政府再次声称已关闭霍尔木兹海峡，这是不实的消息”。美军中央司令部称，“霍尔木兹海峡对于商船通行依然保持开放。伊朗并不控制该海峡”；过去四个月里，“已有数千艘船只通过这一国际水道”。7月31日稍早前，伊朗“波斯湾海峡管理局”发布声明称，由于美军在相关海域持续采取侵略性行动，目前霍尔木兹海峡已无法正常通行。 (央视新闻)",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:22:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，墨西哥国家石油公司称，在上半年已向供应商和承包商支付了2480亿比索。",
+      "summary": "财联社8月1日电，墨西哥国家石油公司称，在上半年已向供应商和承包商支付了2480亿比索。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:21:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，美国财政部长贝森特表示，美国核心通胀率低，消费者信心强劲。",
+      "summary": "财联社8月1日电，美国财政部长贝森特表示，美国核心通胀率低，消费者信心强劲。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:06:04 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月1日电，雪佛龙CFO表示，预计到2027年年度将收回在委内瑞拉的债务。",
+      "summary": "财联社8月1日电，雪佛龙CFO表示，预计到2027年年度将收回在委内瑞拉的债务。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 16:00:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "雪佛龙CEO：预计第三季度产品价格将面临一定的上行压力",
+      "summary": "【雪佛龙CEO：预计第三季度产品价格将面临一定的上行压力】财联社7月31日电，雪佛龙CEO表示，预计第三季度产品价格将面临一定的上行压力，欧洲柴油需求可能会增长，目前很难找到长期结构性需求下降的证据。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 15:55:11 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "德国宣布延长边境管控措施至9月以后",
+      "summary": "【德国宣布延长边境管控措施至9月以后】财联社7月31日电，德国联邦内政部长多布林特当地时间7月31日表示，鉴于近期西班牙北非飞地休达出现大规模非法移民涌入，德国将把针对邻国边境的管控措施延长至9月以后，以继续遏制非法移民。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 15:48:38 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月31日电，巴西互换合约交易恢复，但股市仍然暂停交易。",
+      "summary": "财联社7月31日电，巴西互换合约交易恢复，但股市仍然暂停交易。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 15:44:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月31日电，墨西哥石油公司Pemex二季度净利润180亿墨西哥比索。",
+      "summary": "财联社7月31日电，墨西哥石油公司Pemex二季度净利润180亿墨西哥比索。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 15:44:11 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月31日电，泽连斯基表示，接到了美国副总统万斯的电话，通话进行得不错。",
+      "summary": "财联社7月31日电，泽连斯基表示，接到了美国副总统万斯的电话，通话进行得不错。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 15:43:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社7月31日电，欧洲主要股指收盘涨跌不一，英国富时100指数跌0.27%，法国CAC40指数涨0.55%，德国DAX30指数涨0.07%，富时意大利MIB指数涨0.13%。",
+      "summary": "财联社7月31日电，欧洲主要股指收盘涨跌不一，英国富时100指数跌0.27%，法国CAC40指数涨0.55%，德国DAX30指数涨0.07%，富时意大利MIB指数涨0.13%。",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 15:36:37 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "第十二批国采：重症抗感染“王牌”头孢他啶阿维巴坦拟中选结果公布，齐鲁等13家国产企业入围",
+      "summary": "【第十二批国采：重症抗感染“王牌”头孢他啶阿维巴坦拟中选结果公布，齐鲁等13家国产企业入围】财联社记者从第十二批国采拟中标结果获悉，高级别复方抗生素头孢他啶阿维巴坦注射剂竞价结果出炉，华北制药河北华民药业、哈药集团制药总厂、国药集团致君(深圳)制药、沈阳三九药业、瑞阳制药、湘北威尔曼制药、海南海灵化学、成都倍特药业、湖南柏齐鹤、齐鲁制药等企业拟中选。小财注：头孢他啶阿维巴坦主要用于治疗耐药革兰氏阴性菌（如CRE）引起的重症感染，是ICU及抗感染领域的临床关键用药。本次国采中原研辉瑞2.5g规格医院报量47.31万支，而齐鲁制药以84.89万支的医院报量力压原研药居于首位，近20家企业参与了该抗生素的角逐。 (财联社记者 卢阿峰 于淼)",
+      "link": "",
+      "published": "Fri, 31 Jul 2026 15:28:01 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -181,8 +321,8 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "特朗普对伊朗失去信心，称对方撒谎",
-      "summary": "<p>美国总统特朗普：对伊朗失去信心，因为他们撒谎。</p>\n\n<p>特使Witkoff与库什纳、副总统万斯都参与（和伊朗相关的）讨论。</p>\n\n<p>将继续袭击伊朗。</p>",
+      "title": "美国总统特朗普：对伊朗失去信心，因为他们撒谎。",
+      "summary": "<p>美国总统特朗普：对伊朗失去信心，因为他们撒谎。</p>",
       "link": "https://wallstreetcn.com/livenews/3143394",
       "published": "Fri, 31 Jul 2026 16:24:04 GMT"
     },
