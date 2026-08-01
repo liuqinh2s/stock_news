@@ -1,8 +1,8 @@
 {
   "date": "2026-08-02",
   "hour": "07",
-  "total": 2,
-  "fetched_at": "2026-08-02T07:01:33.941725+08:00",
+  "total": 4,
+  "fetched_at": "2026-08-02T07:46:47.380217+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -17,6 +17,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBFVHlMR3RLdmVZVWNtR2Nmb1ZBVFpYMzlNbnNsWTFsNGZfTkpUNEtGX01lYVBNNXdkZnUyS0FMUDBGTk1hVERtaU1RRjQtN1dzVFpVVVhucmJsdEVHUTRmOXNha2hkcHNDNWU1eEpfRW5YRF9SUUZyMA?oc=5\" target=\"_blank\">涉嫌严重违纪违法，贵州交通投资集团原副总经理、总会计师王劲松被查</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFVHlMR3RLdmVZVWNtR2Nmb1ZBVFpYMzlNbnNsWTFsNGZfTkpUNEtGX01lYVBNNXdkZnUyS0FMUDBGTk1hVERtaU1RRjQtN1dzVFpVVVhucmJsdEVHUTRmOXNha2hkcHNDNWU1eEpfRW5YRF9SUUZyMA?oc=5",
       "published": "Sat, 01 Aug 2026 22:09:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "巴基斯坦雪崩致1名中国公民失联 我使馆敦促巴方全力搜救 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9DUU9tOUUtMmg4RlY0RkNodmF4WU55MUFpOTRxVWh1c2FBeTh2REExZ0huZ3JxZG01Q1hGZ21vMjJWRkpnOG9Vb0J4Z3ZjRHdEcFQtYWZsbTRYYk15Z0RlMUpNS244MUVGa0VrWnNiMXNmQ3pQZml0SA?oc=5\" target=\"_blank\">巴基斯坦雪崩致1名中国公民失联 我使馆敦促巴方全力搜救</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DUU9tOUUtMmg4RlY0RkNodmF4WU55MUFpOTRxVWh1c2FBeTh2REExZ0huZ3JxZG01Q1hGZ21vMjJWRkpnOG9Vb0J4Z3ZjRHdEcFQtYWZsbTRYYk15Z0RlMUpNS244MUVGa0VrWnNiMXNmQ3pQZml0SA?oc=5",
+      "published": "Sat, 01 Aug 2026 22:24:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美计划本周末发动“猛烈轰炸”，伊朗：全面反击方案已就绪",
+      "summary": "<p>美国国务院8月1日向中东地区美国公民发出广泛安全警告，建议其考虑撤离或做好迅速撤离准备。不过，美总统特朗普尚未下达最终行动命令。伊朗外交部则在同日发表声明，强调决心继续抵抗。据伊朗方面1日凌晨消息，一名伊朗高级安全官员透露，伊方已经制定了一套全面的反击方案，反击目标包括以色列的关键基础设施和中东地区的美国能源设施，随时可以启动这项方案。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3143632",
+      "published": "Sat, 01 Aug 2026 23:11:13 GMT"
     }
   ]
 }
