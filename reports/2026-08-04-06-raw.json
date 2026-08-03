@@ -1,15 +1,50 @@
 {
   "date": "2026-08-04",
   "hour": "06",
-  "total": 10,
-  "fetched_at": "2026-08-04T06:00:56.452782+08:00",
+  "total": 12,
+  "fetched_at": "2026-08-04T06:55:07.412876+08:00",
   "news": [
     {
+      "source": "新浪财经",
+      "title": "长鑫科技上市背后的资本“长跑” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA0MXczb0xGWjdEbE82Q0NIQVU5Ri1lNEZoVWQwcVZvd01GOHZseVIyZXJiSmJaSG5PeWZPWWpqTGRyVE1rbEM5QkFaR0gtaDFjZG9lX0dkM2hlNFd4MG1WcmhrZnlqU1lqamxEVXlUeFZ0dkZETnJNMw?oc=5\" target=\"_blank\">长鑫科技上市背后的资本“长跑”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0MXczb0xGWjdEbE82Q0NIQVU5Ri1lNEZoVWQwcVZvd01GOHZseVIyZXJiSmJaSG5PeWZPWWpqTGRyVE1rbEM5QkFaR0gtaDFjZG9lX0dkM2hlNFd4MG1WcmhrZnlqU1lqamxEVXlUeFZ0dkZETnJNMw?oc=5",
+      "published": "Mon, 03 Aug 2026 22:29:00 GMT"
+    },
+    {
       "source": "同花顺",
-      "title": "申万宏源证券党委书记、董事长刘健： 锻造硬核实力 当好服务实体经济排头兵 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE13em9OdnM1eHdDZFBDNFhtUWEzaWFGOHhWdlgzTUtvTWs0cllGYWtLUGIxYkpIbTJsQzltc240ZVpUT0VkRDF5MG9YYkRsZXdVOS0tVXpJc3FmNFhOV1JWc2Zn?oc=5\" target=\"_blank\">申万宏源证券党委书记、董事长刘健： 锻造硬核实力 当好服务实体经济排头兵</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13em9OdnM1eHdDZFBDNFhtUWEzaWFGOHhWdlgzTUtvTWs0cllGYWtLUGIxYkpIbTJsQzltc240ZVpUT0VkRDF5MG9YYkRsZXdVOS0tVXpJc3FmNFhOV1JWc2Zn?oc=5",
-      "published": "Mon, 03 Aug 2026 20:35:24 GMT"
+      "title": "亚马逊美股盘后跌近2%，文件显示亚马逊创始人杰夫·贝索斯出售价值40.7亿美元的股票",
+      "summary": "亚马逊美股盘后跌近2%，文件显示亚马逊创始人杰夫·贝索斯出售价值40.7亿美元的股票。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260804/c678639432.shtml",
+      "published": "Mon, 03 Aug 2026 22:37:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“创新+出海”驱动 A股生物医药公司盈利能力提升",
+      "summary": "2026年上半年，A股生物医药公司整体盈利能力显著提升，在韧性发展中交出亮眼的成绩单，创新驱动与国内外市场拓展成为业绩增长的核心动力。Wind数据显示，截至8月3日，104家A股生物医药公司披露了上半年业绩情况（含半年报、业绩预告等）。从预告净利润增幅下限来看，有67家公司预计净利润增长（包括扭亏、减亏）。此外，药明康德、沃华医药、泽璟制药等10家公司披露半年报，其中7家实现净利润同比增长或扭亏。（上证报）",
+      "link": "https://news.10jqka.com.cn/20260804/c678639394.shtml",
+      "published": "Mon, 03 Aug 2026 22:20:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "古巴国家电网瘫痪",
+      "summary": "古巴国家电网当地时间8月3日发生瘫痪。受美国制裁影响，古巴长期以来难以进口燃料及发电厂设备，发电厂设备老旧难更新，全国电力供应紧张。2024年10月以来，因电力设施故障、飓风侵袭等原因，古巴曾多次全国大停电。(财联社)",
+      "link": "https://news.10jqka.com.cn/20260804/c678638996.shtml",
+      "published": "Mon, 03 Aug 2026 22:02:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "埃及、卡塔尔和土耳其发表联合声明，谴责以色列在加沙侵犯行为",
+      "summary": "埃及、卡塔尔和土耳其三国当地时间3日发表联合声明，强烈谴责以色列在加沙地带持续的侵犯行为。三国强调，以色列必须遵守其在国际法下的所有义务，并全面履行其在停火协议中作出的承诺。三国重申，以色列持续侵犯加沙行为构成对停火协议的违反，破坏了第二阶段停火协议的实施，并威胁局势缓解进程。三国呼吁，确保平民、医疗设施和人道主义人员得到充分保护，并保障人道主义援助和医疗物资在加沙地带畅通无阻地运送。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260804/c678638841.shtml",
+      "published": "Mon, 03 Aug 2026 21:41:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时A50期指连续夜盘收涨0.42%",
+      "summary": "富时A50期指连续夜盘收涨0.42%，报14681点（财联社）",
+      "link": "https://news.10jqka.com.cn/20260804/c678638823.shtml",
+      "published": "Mon, 03 Aug 2026 21:23:06 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -52,27 +87,6 @@
       "summary": "<p style=\"text-align: left;\">7月31日，纽约联储通过高盛和摩根士丹利执行了买入日元的操作。这件事本身已经罕见——上一次美国亲自出手托日元，还是1998年亚洲金融危机。但更值得注意的，是操作里藏着两个不寻常的选择。</p><p style=\"text-align: left;\">第一，美国买日元，花的是欧元。</p><p style=\"text-align: left;\">要买日元，最直接的办法是卖掉手里的美元资产换钱。美国国库里最不缺的就是美债。但华盛顿偏偏绕了一个弯——把自己持有的欧元储备拿出来卖，换成日元。</p><p style=\"text-align: left;\">为什么多此一举？答案只有一个：不想让任何人卖美债。</p><p style=\"text-align: left;\">如果美国自己卖美债来筹钱，美债供给增加，价格下跌，收益率上升——这恰恰是华盛顿最怕看到的结果。而如果日本为了筹集干预资金也去卖美债（日本是全球最大的美债海外持有者，手握近1.19万亿美元），冲击会更大。用欧元，就是为了绕开美债这条线，一根都不碰。</p><p style=",
       "link": "https://wallstreetcn.com/member/articles/3778609",
       "published": "Mon, 03 Aug 2026 20:56:28 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普家族旗下比特币矿商连续三季亏损，股价较峰值跌逾九成",
-      "summary": "<p>American Bitcoin再度录得季度亏损，加密市场熊市持续侵蚀其资产价值，公司不得不实施合股以保住纳斯达克上市地位。</p>\n<p>8月3日周一，由特朗普家族参与创立的比特币矿商，American Bitcoin公布，<strong>第二季度净亏损5700万美元，合每股亏损80美分，为连续第三个季度录得亏损。</strong></p>\n<p><strong>尽管季度亏损较上季度的8200万美元有所收窄，营收也从上季度的6200万美元小幅增至6700万美元，但持续的熊市行情已令公司股价较上市峰值累计下跌约95%。</strong></p>\n<p>同期，比特币价格下跌14%，直接拖累公司持仓价值。</p>\n<p>今年7月，公司被迫实施1比15的合股，以维持在纳斯达克的上市资格。周一该股低开约3.3%，后跟随大盘趋势反弹，一度涨近8%。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/fd83c81a-5de5-43ea-95d8-e7d1df2d2e95.png\" /></p>\n<div>\n<h2 i",
-      "link": "https://wallstreetcn.com/articles/3778606",
-      "published": "Mon, 03 Aug 2026 20:16:45 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "8月4日会员早报：特朗普叫停“二战以来最大规模”对伊朗空袭 贝森特称“绝不犹豫”再度出手干预日元",
-      "summary": "<p>1、【特朗普叫停“二战以来最大规模”对伊朗空袭】美国总统特朗普在最后关头收回了对伊朗的一轮大规模空袭，并宣称美伊谈判即将重启。消息传出后，国际油价周一大幅回落，美股高开——布伦特原油一度下挫约5%至每桶83美元附近，WTI原油跌近6%至80美元下方；道琼斯工业平均指数开盘一度上涨约600点，标普500与纳斯达克指数同步走高。特朗普在“空军一号”上对记者表示，他应沙特阿拉伯、阿联酋、卡塔尔以及伊朗方面的请求，叫停了一次“二战以来最大规模”的军事打击，并称围绕霍尔木兹海峡的协议“指日可待”、谈判将于8月3日下午开始。但就在同一天，伊朗外交部发言人巴加埃伊在记者会上否认与美方存在任何谈判，称德黑兰当前唯一的对话对象是阿曼，且讨论仅限于一条能保障霍尔木兹海峡航运安全通行的临时航线。伊朗迈赫尔通讯社更援引军方消息人士称，特朗普的说法“不过是又一个谎言”，意在“讹诈海湾国家的统治者”。</p> <p>2、【贝森特称“绝不犹豫”再度出手干预日元】美国财政部长贝森特（Scott Bessent）8月3日公开表示，美国“绝不犹豫”支撑日元，并确认上周美日已联合入市干预。他的日本同僚、财务大臣片山皋",
-      "link": "https://wallstreetcn.com/member/articles/3778607",
-      "published": "Mon, 03 Aug 2026 20:08:44 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "股市连续剧震下 韩国监管层瞄准杠杆ETF “去杠杆”能否成为平抑波动“压舱石”？ - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNWgtTTFyN29GMlhXYmJHWndpV0dIRTZvMUlxTVVSX3dXYlVvY2dkaEc5dThHN1hCNW9tLVM2NU5GUlFwWU1aMXUzRFA2Y2wyVFpnQw?oc=5\" target=\"_blank\">股市连续剧震下 韩国监管层瞄准杠杆ETF “去杠杆”能否成为平抑波动“压舱石”？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYNWgtTTFyN29GMlhXYmJHWndpV0dIRTZvMUlxTVVSX3dXYlVvY2dkaEc5dThHN1hCNW9tLVM2NU5GUlFwWU1aMXUzRFA2Y2wyVFpnQw?oc=5",
-      "published": "Mon, 03 Aug 2026 20:53:06 GMT"
     }
   ]
 }
