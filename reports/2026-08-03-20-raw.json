@@ -1,43 +1,169 @@
 {
   "date": "2026-08-03",
   "hour": "20",
-  "total": 51,
-  "fetched_at": "2026-08-03T20:01:00.407047+08:00",
+  "total": 81,
+  "fetched_at": "2026-08-03T20:23:30.538533+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "华勤技术(03296)：截至7月末累计回购25.5万股A股 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkRhS1lrZVgtYUxLSzBhalVqUlBBUWZNa04yRTZBSUtsNmwteW9ZREVwNG5pYnI0ckQteFRNdkZGdEFQR21KQTgxM1RpbTNQa19QSk9xdHpXM0RXQVU3Q080OV9DM1ZWSmZka1UtZlYydWwtYWRvQXNVWVpOUWRKMXpnQTBoX2REMUJWVFVR?oc=5\" target=\"_blank\">华勤技术(03296)：截至7月末累计回购25.5万股A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "宁德时代：2026年中期A股分红61.80亿元 8月10日发放 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5Vai1fN1pSLUZqRkpydG5fZnhzVENqNnVXdXp5bjA3OGtFeDJtUHdsRWROaGd3aUpEdGp2V3ZVaG1QS3hXdU51bWJCQS05UF91anF1RHNZM0NmZEN4TFVfRV9rMkU4NEVPLXdMT0FVU0VVTlhOaWU2Yw?oc=5\" target=\"_blank\">宁德时代：2026年中期A股分红61.80亿元 8月10日发放</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Vai1fN1pSLUZqRkpydG5fZnhzVENqNnVXdXp5bjA3OGtFeDJtUHdsRWROaGd3aUpEdGp2V3ZVaG1QS3hXdU51bWJCQS05UF91anF1RHNZM0NmZEN4TFVfRV9rMkU4NEVPLXdMT0FVU0VVTlhOaWU2Yw?oc=5",
+      "published": "Mon, 03 Aug 2026 12:11:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "仕佳光子临时股东会通过向特定对象发行A股方案 同意比例最高达99.83% - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEl1TERJb1Azb29Oc1dISWlRamFLLVJ5cDNEaGoxUXAwSDlJSFc4cFNSRWJjNWJQanEyUVJ4VU5xdF9td01TWDNpUVBIUzk1MG4zWmFWdmljdFFWUTJDWW9nMk84UE91TGlEcGxUaHFhTjdxenVsMVNwMHFyaDVTQXVRX251cEJj?oc=5\" target=\"_blank\">仕佳光子临时股东会通过向特定对象发行A股方案 同意比例最高达99.83%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEl1TERJb1Azb29Oc1dISWlRamFLLVJ5cDNEaGoxUXAwSDlJSFc4cFNSRWJjNWJQanEyUVJ4VU5xdF9td01TWDNpUVBIUzk1MG4zWmFWdmljdFFWUTJDWW9nMk84UE91TGlEcGxUaHFhTjdxenVsMVNwMHFyaDVTQXVRX251cEJj?oc=5",
+      "published": "Mon, 03 Aug 2026 12:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "荣昌生物(09995)：截至7月末累计回购1.3万股A股 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOWThmRmJha1RVSnRwTnlmTTJRYW9GRDdRUmlWWmVEOXk3RHBxQUFYU1lOOEVHN09RSl9EaEhsbk44WVlkcVdvbjZiRUlNb3NsUm9PMmRJb04zT1RpMVc0U2MzU1RhMHFYS0s3cy1IX2s0bVRqclFUYXFLc3B3UGdYeWROYnVvTm9PQ2dRZlB3?oc=5\" target=\"_blank\">荣昌生物(09995)：截至7月末累计回购1.3万股A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWThmRmJha1RVSnRwTnlmTTJRYW9GRDdRUmlWWmVEOXk3RHBxQUFYU1lOOEVHN09RSl9EaEhsbk44WVlkcVdvbjZiRUlNb3NsUm9PMmRJb04zT1RpMVc0U2MzU1RhMHFYS0s3cy1IX2s0bVRqclFUYXFLc3B3UGdYeWROYnVvTm9PQ2dRZlB3?oc=5",
+      "published": "Mon, 03 Aug 2026 12:02:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华勤技术(03296)：截至7月末累计回购25.5万股A股 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkRhS1lrZVgtYUxLSzBhalVqUlBBUWZNa04yRTZBSUtsNmwteW9ZREVwNG5pYnI0ckQteFRNdkZGdEFQR21KQTgxM1RpbTNQa19QSk9xdHpXM0RXQVU3Q080OV9DM1ZWSmZka1UtZlYydWwtYWRvQXNVWVpOUWRKMXpnQTBoX2REMUJWVFVR?oc=5\" target=\"_blank\">华勤技术(03296)：截至7月末累计回购25.5万股A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkRhS1lrZVgtYUxLSzBhalVqUlBBUWZNa04yRTZBSUtsNmwteW9ZREVwNG5pYnI0ckQteFRNdkZGdEFQR21KQTgxM1RpbTNQa19QSk9xdHpXM0RXQVU3Q080OV9DM1ZWSmZka1UtZlYydWwtYWRvQXNVWVpOUWRKMXpnQTBoX2REMUJWVFVR?oc=5",
       "published": "Mon, 03 Aug 2026 10:54:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "海天味业回购进展：累计回购6580万元 占计划下限3.29% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzI0aVY4LUFzTGJEcXlrandCaDd1VE0tWXNrV051cGlsOGtrTXFsNnZzZDJEM2xhMVVRWUxqTE5lcGtKdThrLWV2ZVcwSGdXSlFnaWNiaFFzQ2hnM3VqV245RDRkWmtyeUpQZ1E4VEkyUnZuMVVyelZZRXdUcDkxcHl3eVM1dXZu?oc=5\" target=\"_blank\">海天味业回购进展：累计回购6580万元 占计划下限3.29%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "海天味业回购进展：累计回购6580万元 占计划下限3.29% - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzI0aVY4LUFzTGJEcXlrandCaDd1VE0tWXNrV051cGlsOGtrTXFsNnZzZDJEM2xhMVVRWUxqTE5lcGtKdThrLWV2ZVcwSGdXSlFnaWNiaFFzQ2hnM3VqV245RDRkWmtyeUpQZ1E4VEkyUnZuMVVyelZZRXdUcDkxcHl3eVM1dXZu?oc=5\" target=\"_blank\">海天味业回购进展：累计回购6580万元 占计划下限3.29%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMzI0aVY4LUFzTGJEcXlrandCaDd1VE0tWXNrV051cGlsOGtrTXFsNnZzZDJEM2xhMVVRWUxqTE5lcGtKdThrLWV2ZVcwSGdXSlFnaWNiaFFzQ2hnM3VqV245RDRkWmtyeUpQZ1E4VEkyUnZuMVVyelZZRXdUcDkxcHl3eVM1dXZu?oc=5",
       "published": "Mon, 03 Aug 2026 11:23:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "张寓帅增持东阳光药(06887)121.21万股 每股作价40.63港元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUs2TG5XS3ptbDRqWk1xTVRncDdmRFczUm5uVFNVMTMwZVZFTzhGWDBNZU5DQkwtcnFHWlE4RDNKZzlucWNFVXVXMG1QM0hoazNTd0lTdVJVRzJYaHloUHpzY2tENHVXRER1UmZFU3o0dGliOU41WTlYY0dxY29ZT2lpTk9JSXdmSXZ1VGlDeV93UDdEVEE?oc=5\" target=\"_blank\">张寓帅增持东阳光药(06887)121.21万股 每股作价40.63港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "港股六连升！互联网打头阵，513770涨超2%！SpaceX财报发布在即，通用航空全天强势！电力ETF华宝逆市四连阳 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmdHTVduOE9zRFk4REJnME5lZEt0dTRGZGdnaFFnRXZCc2J0LWxrb0k0SzQ5Y09pVUdJanY5djZIWjNiSVpMUDhtbjE1THdaTlh5eGJDVU41OU5pTnhrcThyNGVrRWgxWGFzeExGdVV6OHd4NXp2dlB5bERtY3hOQmdGNk0zUQ?oc=5\" target=\"_blank\">港股六连升！互联网打头阵，513770涨超2%！SpaceX财报发布在即，通用航空全天强势！电力ETF华宝逆市四连阳</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmdHTVduOE9zRFk4REJnME5lZEt0dTRGZGdnaFFnRXZCc2J0LWxrb0k0SzQ5Y09pVUdJanY5djZIWjNiSVpMUDhtbjE1THdaTlh5eGJDVU41OU5pTnhrcThyNGVrRWgxWGFzeExGdVV6OHd4NXp2dlB5bERtY3hOQmdGNk0zUQ?oc=5",
+      "published": "Mon, 03 Aug 2026 12:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "五粮液：已回购超10亿元！ - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzdvWThSbVE0UzFZZzJoeWxUcV95ZTJyRXAyNHpqeTgtUFZTbW5haU1uODBCNjFwT052ejlfZHdqNXFMSlVlNTNCbmU1bHhla0RfWHVjVVlCWUduUnJTSFcyS3h3WWFQWGpRSVp6Q0wyaDlkQ25WWFVrY0dNOXhTRQ?oc=5\" target=\"_blank\">五粮液：已回购超10亿元！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzdvWThSbVE0UzFZZzJoeWxUcV95ZTJyRXAyNHpqeTgtUFZTbW5haU1uODBCNjFwT052ejlfZHdqNXFMSlVlNTNCbmU1bHhla0RfWHVjVVlCWUduUnJTSFcyS3h3WWFQWGpRSVp6Q0wyaDlkQ25WWFVrY0dNOXhTRQ?oc=5",
+      "published": "Mon, 03 Aug 2026 11:56:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "张寓帅增持东阳光药(06887)121.21万股 每股作价40.63港元 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUs2TG5XS3ptbDRqWk1xTVRncDdmRFczUm5uVFNVMTMwZVZFTzhGWDBNZU5DQkwtcnFHWlE4RDNKZzlucWNFVXVXMG1QM0hoazNTd0lTdVJVRzJYaHloUHpzY2tENHVXRER1UmZFU3o0dGliOU41WTlYY0dxY29ZT2lpTk9JSXdmSXZ1VGlDeV93UDdEVEE?oc=5\" target=\"_blank\">张寓帅增持东阳光药(06887)121.21万股 每股作价40.63港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUs2TG5XS3ptbDRqWk1xTVRncDdmRFczUm5uVFNVMTMwZVZFTzhGWDBNZU5DQkwtcnFHWlE4RDNKZzlucWNFVXVXMG1QM0hoazNTd0lTdVJVRzJYaHloUHpzY2tENHVXRER1UmZFU3o0dGliOU41WTlYY0dxY29ZT2lpTk9JSXdmSXZ1VGlDeV93UDdEVEE?oc=5",
       "published": "Mon, 03 Aug 2026 11:25:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "天娱数科龙虎榜数据（8月3日） - finance.eastmoney.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FcmQxbFgwVTVBaG4xZ0VaVl9lOHRpZW9ubG5QcUFyVkJrTldpRXNnb093QlJSaUh1YkJZRU5sMnJjc29HTVNRZlpacE1pX25wNFc5MnpaRlBSWjZhSjc0X3NPbXpBQQ?oc=5\" target=\"_blank\">天娱数科龙虎榜数据（8月3日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.eastmoney.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FcmQxbFgwVTVBaG4xZ0VaVl9lOHRpZW9ubG5QcUFyVkJrTldpRXNnb093QlJSaUh1YkJZRU5sMnJjc29HTVNRZlpacE1pX25wNFc5MnpaRlBSWjZhSjc0X3NPbXpBQQ?oc=5",
-      "published": "Mon, 03 Aug 2026 10:19:37 GMT"
+      "title": "信源企业集团：股票继续暂停买卖 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWUzM0TTVjZm9GbXlyXzN5a0JFaGdwQkd3alFTYUVsNUt1anlCT1I0ejk5TnZXcUVadTR1eVEwTUg0TlpucHpLV3VjX2hTRTlnSlMybUNEMF9lUVkxc29aT2tJanp5Zw?oc=5\" target=\"_blank\">信源企业集团：股票继续暂停买卖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWUzM0TTVjZm9GbXlyXzN5a0JFaGdwQkd3alFTYUVsNUt1anlCT1I0ejk5TnZXcUVadTR1eVEwTUg0TlpucHpLV3VjX2hTRTlnSlMybUNEMF9lUVkxc29aT2tJanp5Zw?oc=5",
+      "published": "Mon, 03 Aug 2026 12:08:38 GMT"
     },
     {
       "source": "东方财富",
-      "title": "招商证券大宗交易成交30.00万股 成交额480.00万元 - finance.eastmoney.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZQ194MHdoczFXLThLakRfTGhwNDMycWZqNkhVNG5USVBndG1aeXFRRHlzRWVmTmFVV2VtZkhLYWhiMkFmemFWYXJpU0lVR29FZUZqa1p5VDFtcEtBMndQbG9aSlhodw?oc=5\" target=\"_blank\">招商证券大宗交易成交30.00万股 成交额480.00万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.eastmoney.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZQ194MHdoczFXLThLakRfTGhwNDMycWZqNkhVNG5USVBndG1aeXFRRHlzRWVmTmFVV2VtZkhLYWhiMkFmemFWYXJpU0lVR29FZUZqa1p5VDFtcEtBMndQbG9aSlhodw?oc=5",
-      "published": "Mon, 03 Aug 2026 10:52:36 GMT"
+      "title": "ST任子行：8月5日开市起股票复牌 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVTTh5NklEOEJwWlBTbjctYzhZblM3Rzktd2NrUTFPdVU4bUtOUkxGTlBkODFZb1BUZ1NLakVoUy12eUFvNDk3dzczUFNHcjZNNmxtOERxTEQ1ZS1CUUxHX2o0aklpUQ?oc=5\" target=\"_blank\">ST任子行：8月5日开市起股票复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVTTh5NklEOEJwWlBTbjctYzhZblM3Rzktd2NrUTFPdVU4bUtOUkxGTlBkODFZb1BUZ1NLakVoUy12eUFvNDk3dzczUFNHcjZNNmxtOERxTEQ1ZS1CUUxHX2o0aklpUQ?oc=5",
+      "published": "Mon, 03 Aug 2026 12:08:40 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "ST任子行：撤销其他风险警示，股票8月5日复牌 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VeFo3U1BCaFVZRGFHV3kwVjJza0EwNzNlbUJiRjZ5b2lCUGx6RmUxQXBfWkVHRWl4M0tLN0V1M1hYMkJncnUxZWpnc2h0NnRFaXlLcXY2UnZOcG9FVmxtOWhqdDhJQQ?oc=5\" target=\"_blank\">ST任子行：撤销其他风险警示，股票8月5日复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VeFo3U1BCaFVZRGFHV3kwVjJza0EwNzNlbUJiRjZ5b2lCUGx6RmUxQXBfWkVHRWl4M0tLN0V1M1hYMkJncnUxZWpnc2h0NnRFaXlLcXY2UnZOcG9FVmxtOWhqdDhJQQ?oc=5",
+      "published": "Mon, 03 Aug 2026 12:18:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "瑞幸咖啡2026年第二季度实现总净收入约159亿元，同比增长28.5%",
+      "summary": "8月3日，瑞幸咖啡公布2026年第二季度财报，数据显示，二季度瑞幸咖啡实现总净收入158.86亿元人民币，同比增长28.5%；GAAP营业利润同比转为正增长，较去年同期增长22.0%，达21.23亿元人民币，营业利润率为13.4%。在客户数据方面，财报显示，瑞幸咖啡月均交易客户数同比增长22.9%，达1.13亿，创历史新高。截至二季度末，全球门店总数达36310家，累计交易客户数已近5亿。（证券时报）",
+      "link": "https://news.10jqka.com.cn/20260803/c678634175.shtml",
+      "published": "Mon, 03 Aug 2026 12:21:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴西石油公司在哥伦比亚深水区发现天然气",
+      "summary": "8月3日，巴西石油公司宣布，在哥伦比亚深水区的GUA-OFF-0区块Sandia-1探索井中再次发现天然气聚集。该井水深1251米，距海岸约42公里。巴西石油公司通过其子公司在包含该区块的联合体中担任运营方并持有44.44%的权益，合作伙伴哥伦比亚国家石油公司持有剩余55.56%的权益。（界面新闻）",
+      "link": "https://news.10jqka.com.cn/20260803/c678634166.shtml",
+      "published": "Mon, 03 Aug 2026 12:20:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货白银跌超1%",
+      "summary": "现货白银跌超1%，现报57.67美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20260803/c678634093.shtml",
+      "published": "Mon, 03 Aug 2026 12:20:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "翔楼新材：股东唐卫国提前终止减持，已减持44.59万股",
+      "summary": "翔楼新材公告，公司持股5%以上股东、董事、总经理唐卫国，董事、副总经理张骁，董事、副总经理、财务总监曹菊芬，董事、副总经理张玉平决定提前终止减持计划。减持计划期间，张骁、曹菊芬、张玉平未减持公司股份；唐卫国于2026年7月20日至2026年7月31日通过集中竞价交易减持44.59万股，减持均价35.61元，减持比例0.27%。减持后，唐卫国持有1281.37万股，占总股本7.69%。",
+      "link": "https://news.10jqka.com.cn/20260803/c678634042.shtml",
+      "published": "Mon, 03 Aug 2026 12:14:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "摩根士丹利预计云计算支出将激增至1.2万亿美元",
+      "summary": "摩根士丹利预计，全球云计算资本支出将在2027年达到1.2万亿美元，同比增长30%，较第二季度前估算高出1700亿美元。该公司表示，美国四大主要超大规模云服务提供商仍面临容量限制，因为人工智能需求持续超过供应。Alphabet 、Amazon和Meta均上调了2026年资本支出指引，而 Microsoft维持了其支出展望。（科创板日报）",
+      "link": "https://news.10jqka.com.cn/20260803/c678633979.shtml",
+      "published": "Mon, 03 Aug 2026 12:13:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国信通院：2025年我国人工智能产业规模超1.2万亿元",
+      "summary": "中国信息通信研究院持续开展人工智能产业研究，并开展2025年人工智能产业规模测算。经测算，2025年我国人工智能产业规模超1.2万亿元，同比增长40%。截至2026年6月，人工智能企业数量超6600家，全球占比达到15%，已形成覆盖基础底座、模型框架、行业应用的完整产业体系。人工智能产业链分为基础层、模型框架层和应用层。2025年，我国人工智能基础层产业规模同比增长59%，占比为38%；人工智能模型框架层规模同比增长189%，占比为7%；人工智能应用层规模同比增长22%，占比为55%。下一步，中国信通院将持续夯实产业监测基础，明晰产业发展格局，实时掌握产业发展动态，精准识别风险与机遇，为政府科学决策和行业健康发展提供有力支撑。（中国信通院）",
+      "link": "https://news.10jqka.com.cn/20260803/c678633916.shtml",
+      "published": "Mon, 03 Aug 2026 12:12:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中证协：券商不得因过度追求短期利润、业务扩张放松流动性管理",
+      "summary": "记者了解到，中证协近期对《证券公司流动性风险管理指引》进行了修订，目前正就修订稿征求行业意见。修订的《指引》要求，券商应在内部定价以及考核激励等相关制度中充分考虑流动性风险因素，引导建立稳健的资产配置结构，避免因过度追求业务扩张和短期利润而放松流动性风险管理。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260803/c678633857.shtml",
+      "published": "Mon, 03 Aug 2026 12:10:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Sportradar Group美股盘前跌超20%",
+      "summary": "Sportradar Group美股盘前跌超20%，现报11.62美元。",
+      "link": "https://news.10jqka.com.cn/20260803/c678633811.shtml",
+      "published": "Mon, 03 Aug 2026 12:08:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Meta美股盘前涨超2%",
+      "summary": "Meta美股盘前涨超2%，现报568.05美元。",
+      "link": "https://news.10jqka.com.cn/20260803/c678633804.shtml",
+      "published": "Mon, 03 Aug 2026 12:08:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "香港证监会与中国证监会联合公布多项措施深化资本市场合作",
+      "summary": "据香港证券及期货事务监察委员会（香港证监会）3日消息，该委员会与中国证券监督管理委员会（中国证监会）联合公布一系列措施，以深化务实合作和协同发展，巩固提升香港国际金融中心地位。 据了解，新措施涵盖上市融资、指数合作、期货产品、交易所买卖基金、金融机构国际化、绿色金融和专业资格便利化等多个范畴。 具体措施包括：融资方面，继续支持符合条件的境内企业赴港上市融资，支持符合条件的港股上市公司境内上市，支持符合条件的香港企业到内地发行债券，更好利用两个市场、两种资源融资发展；指数方面，支持指数公司加强合作，推出更多基于中国资产的指数，扩大中国指数和中国资产国际影响力；专业资格方面，研究推动支持香港银行从事证券和期货业务专业人员通过简化程序申请内地相关从业资格。 香港证监会和中国证监会将加强监管协同、深入参与全球金融治理，为市场平稳健康运行提供坚实保障。下一步措施包括：持续加强中介机构监管合作，健全风险监测和信息共享机制，促进行业机构合规稳健经营；深入参与全球金融治理和区域监管合作，共同促进区域资本市场稳定健康发展等。 香港证监会主席黄天佑表示，这一系列重要举措聚焦核心领域，将有助提升中国资本市场",
+      "link": "https://news.10jqka.com.cn/20260803/c678633754.shtml",
+      "published": "Mon, 03 Aug 2026 12:04:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "南方精工：拟4773万元竞拍土地并投资10.24亿元建精密零部件项目",
+      "summary": "南方精工公告，公司拟竞拍江苏省常州市武进区地块编号为出呈2026023(GD2026033)土地使用权并投资新建项目，土地使用权竞拍起始价为人民币4773万元，项目投资总金额预计约为人民币10.24亿元，资金来源为自有资金或者自筹资金。项目名称为年产2.13亿套精密零部件项目，建设时间为竞得用地后60个月。该事项已于2026年8月3日经董事会审议通过，尚需提交公司2026年第一次临时股东会审议。",
+      "link": "https://news.10jqka.com.cn/20260803/c678633750.shtml",
+      "published": "Mon, 03 Aug 2026 12:04:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "闪迪美股盘前跌超5%",
+      "summary": "闪迪美股盘前跌超5%，现报1153.56美元。",
+      "link": "https://news.10jqka.com.cn/20260803/c678633747.shtml",
+      "published": "Mon, 03 Aug 2026 12:04:10 GMT"
     },
     {
       "source": "同花顺",
@@ -96,88 +222,165 @@
       "published": "Mon, 03 Aug 2026 11:45:47 GMT"
     },
     {
-      "source": "同花顺",
+      "source": "财联社",
+      "title": "宁德时代：2026年中期分红每10股派14.11元 股权登记日为8月7日",
+      "summary": "【宁德时代：2026年中期分红每10股派14.11元 股权登记日为8月7日】财联社8月3日电，宁德时代(300750.SZ)公告称，公司2026年中期分红方案为以现有A股总股本剔除回购股份后的43.8亿股为基数，向全体股东每10股派发现金分红14.11元(含税)，实际派发现金分红总额约61.8亿元。股权登记日为2026年8月7日，除权除息日为2026年8月10日。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:11:02 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "Strategy披露上周出售1,637枚比特币 价值超1.02亿美元",
+      "summary": "【Strategy披露上周出售1,637枚比特币 价值超1.02亿美元】财联社8月3日电，Strategy披露上周出售1,637枚比特币，价值超1.02亿美元，持仓降至842,138枚比特币。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:10:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【机构调研】这家锂电正极材料供应商加速贵州基地项目推进，预计9月底全面投产",
+      "summary": "",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:10:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中证协：券商不得因过度追求短期利润、业务扩张放松流动性管理",
+      "summary": "【中证协：券商不得因过度追求短期利润、业务扩张放松流动性管理】财联社8月3日电，记者了解到，中证协近期对《证券公司流动性风险管理指引》进行了修订，目前正就修订稿征求行业意见。修订的《指引》要求，券商应在内部定价以及考核激励等相关制度中充分考虑流动性风险因素，引导建立稳健的资产配置结构，避免因过度追求业务扩张和短期利润而放松流动性风险管理。 (财联社记者 林坚)",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:09:42 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，波罗的海干散货运价指数涨4.06%，至2843点。",
+      "summary": "财联社8月3日电，波罗的海干散货运价指数涨4.06%，至2843点。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:08:48 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "8月3日周一《新闻联播》要闻18条",
+      "summary": "【8月3日周一《新闻联播》要闻18条】财联社8月3日电，今天《新闻联播》主要内容有：\n1、【奋力开创中国式现代化建设新局面——习近平总书记今年以来治国理政纪实】扎扎实实以科技创新支撑和引领中国式现代化；\n2、蔡奇看望慰问北戴河暑期休假专家；\n3、【树立和践行正确政绩观】惠民生促发展 推动学习教育取得实效；\n4、上半年全国生态环境质量持续改善；\n5、上半年我国海洋生产总值5.5万亿元；\n6、我国加快构建绿色低碳电力供给格局；\n7、中欧班列高质量发展取得显著成效；\n8、西部多地持续强降雨 各地积极应对； \n9、上半年我国软件业务收入同比增长9.5%；\n10、1至7月全国新开国际航空货运航线超100条； \n11、粤港澳大湾区首个“华龙一号”项目一期工程全面建成；\n12、美总统称美伊将于8月3日举行谈判 伊朗称目前没有与美国举行会谈 伊朗称与阿曼讨论划定霍尔木兹海峡新航线；\n13、美国华盛顿州林火致数百栋建筑被毁 6万人接到疏散令 希腊林火逼近首都雅典 两架消防直升机相撞；\n14、以军连日空袭加沙地带致18人死亡；\n15、俄击落超1100架无人机 俄媒称创新高；\n16、“欧佩克+”主要产油国决",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:07:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，美国能源公司Base Power完成10亿美元D轮融资，投后估值达130亿美元。",
+      "summary": "财联社8月3日电，美国能源公司Base Power完成10亿美元D轮融资，投后估值达130亿美元。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:03:15 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，摩根士丹利将Circle目标价从106美元下调至38美元。",
+      "summary": "财联社8月3日电，摩根士丹利将Circle目标价从106美元下调至38美元。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 12:02:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，纳斯达克100指数期货回吐日内全部涨幅，最多时涨超1%。",
+      "summary": "财联社8月3日电，纳斯达克100指数期货回吐日内全部涨幅，最多时涨超1%。<br /><img src=\"https://image.cls.cn/images/20260803/5LCQ5Qhh38_760x762.png\" />",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:57:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，美光科技盘前跌幅扩大至5%，SK海力士、闪迪等存储股跌超4%。",
+      "summary": "财联社8月3日电，美光科技盘前跌幅扩大至5%，SK海力士、闪迪等存储股跌超4%。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:56:59 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "ST任子行：撤销其他风险警示 股票将于8月5日复牌",
+      "summary": "【ST任子行：撤销其他风险警示 股票将于8月5日复牌】财联社8月3日电，ST任子行(300311.SZ)公告称，公司撤销其他风险警示的申请已获深交所审核同意。公司股票将于2026年8月4日停牌1天，8月5日开市起复牌并撤销其他风险警示，证券简称由“ST任子行”变更为“任子行”，证券代码仍为300311，日涨跌幅限制仍为20%。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:55:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，英国10年期国债收益率下跌10个基点至4.95%。",
+      "summary": "财联社8月3日电，英国10年期国债收益率下跌10个基点至4.95%。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:55:32 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "阳光电源：拟5亿元-10亿元回购股份",
+      "summary": "【阳光电源：拟5亿元-10亿元回购股份】财联社8月3日电，阳光电源(300274.SZ)公告称，公司董事会审议通过回购方案，拟使用不低于5亿元且不超过10亿元的自有或自筹资金，以集中竞价方式回购股份，用于未来实施员工持股计划或股权激励，回购期限为12个月内。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:53:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，礼来公司的Olomorasib获得美国FDA授予的突破性疗法认定，用于治疗既往接受过治疗的KRAS G12C突变型晚期胰腺癌。",
+      "summary": "财联社8月3日电，礼来公司的Olomorasib获得美国FDA授予的突破性疗法认定，用于治疗既往接受过治疗的KRAS G12C突变型晚期胰腺癌。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:48:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月3日电，泰国计划每年从印度尼西亚进口10万吨尿素。",
+      "summary": "财联社8月3日电，泰国计划每年从印度尼西亚进口10万吨尿素。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:47:52 GMT"
+    },
+    {
+      "source": "财联社",
       "title": "嘉陵江四川南充段出现入汛以来最大洪峰",
-      "summary": "受上游降雨及亭子口水库调蓄影响，8月3日，嘉陵江四川南充段水位大幅上涨，今年入汛以来最大洪峰于当天上午过境主城区。洪峰水位最高达265.86米，比平时水位高4米左右，流量每秒达8450立方米。南充市高坪区沿江各地迅速行动做好防范，全力保障洪峰安全过境。高坪区防汛抗旱指挥部预测，明天水位会回落，嘉陵江水位会逐步恢复到正常水位。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260803/c678633103.shtml",
-      "published": "Mon, 03 Aug 2026 11:44:51 GMT"
+      "summary": "【嘉陵江四川南充段出现入汛以来最大洪峰】财联社8月3日电，受上游降雨及亭子口水库调蓄影响，8月3日，嘉陵江四川南充段水位大幅上涨，今年入汛以来最大洪峰于当天上午过境主城区。洪峰水位最高达265.86米，比平时水位高4米左右，流量每秒达8450立方米。南充市高坪区沿江各地迅速行动做好防范，全力保障洪峰安全过境。 (央视新闻)",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:45:28 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "乌军袭击俄多地致8人死亡",
-      "summary": "俄罗斯方面3日表示，乌克兰军队对弗拉基米尔州、克拉斯诺达尔边疆区和别尔哥罗德州等地进行袭击，造成至少8人死亡、13人受伤。俄罗斯弗拉基米尔州州长阿夫杰耶夫3日在社交媒体上说，乌克兰军队使用无人机袭击了该州的一处仓库，导致仓库起火，并造成3人受伤。俄侦查委员会发言人彼得连科同日表示，已就乌军相关袭击展开调查。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260803/c678632811.shtml",
-      "published": "Mon, 03 Aug 2026 11:43:12 GMT"
-    },
-    {
-      "source": "同花顺",
+      "source": "财联社",
       "title": "法国警方逮捕涉嫌与近期山火有关的375人",
-      "summary": "当地时间8月3日，据法国内政部消息，警方已逮捕375名涉嫌与近期山火有关的人员，其中包括142名未成年人，约占被捕总人数的37.9%。据接近调查的消息人士透露，目前已有36人被收监。其中，部分人员已被判处有期徒刑，并由法院下令立即收押；其余人员则在等待审判期间被采取审前羁押措施。近几周来，法国吉伦特省、奥德省和塞纳—马恩省等地接连发生火灾。部分火情与持续高温和干燥天气有关，另有一些火灾可能由人为疏忽或故意纵火引起。目前，相关调查仍在进行。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260803/c678632778.shtml",
-      "published": "Mon, 03 Aug 2026 11:41:22 GMT"
+      "summary": "【法国警方逮捕涉嫌与近期山火有关的375人】财联社8月3日电，据法国内政部当地时间8月3日消息，警方已逮捕375名涉嫌与近期山火有关的人员，其中包括142名未成年人，约占被捕总人数的37.9%。据接近调查的消息人士透露，目前已有36人被收监。其中，部分人员已被判处有期徒刑，并由法院下令立即收押；其余人员则在等待审判期间被采取审前羁押措施。近几周来，法国吉伦特省、奥德省和塞纳—马恩省等地接连发生火灾。部分火情与持续高温和干燥天气有关，另有一些火灾可能由人为疏忽或故意纵火引起。目前，相关调查仍在进行。 (央视新闻)",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:44:27 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "俄安全部门挫败一起针对地方检察院的恐袭图谋",
-      "summary": "俄罗斯联邦安全局3日通报说，该局日前挫败一起在斯塔夫罗波尔边疆区皮亚季戈尔斯克市检察院附近实施的恐袭图谋，一名来自中亚地区的男子被捕。通报说，这名男子生于2001年，是一个国际恐怖组织的支持者，他根据这一恐怖组织的指示，企图在皮亚季戈尔斯克市检察院附近实施袭击。通报还说，按照计划，这名男子将在实施袭击后前往叙利亚并正式加入这一恐怖组织。执法人员在搜查这名男子住所时，查获了用于组装自制爆炸装置的零件、化学制剂等。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260803/c678632777.shtml",
-      "published": "Mon, 03 Aug 2026 11:41:14 GMT"
+      "source": "财联社",
+      "title": "黑客攻破比特币“最安全保险箱” 持续洗劫用户资产",
+      "summary": "【黑客攻破比特币“最安全保险箱” 持续洗劫用户资产】财联社8月3日电，加拿大公司Coinkite Inc.上周末通知Coldcard硬件钱包用户，保护其比特币的密钥生成机制存在安全漏洞，部分钱包已受到影响。Galaxy Research的数据显示，截至周一，攻击者已从约5000个钱包中转走超过1755枚比特币，按当时市值计算约合1.1亿美元。Coldcard是一款硬件钱包，用户可借助该设备将比特币存放在所谓的“冷钱包”中。由于冷钱包与互联网隔离，长期以来一直被认为是存储加密货币最安全的方式。不过，Block Inc.工程团队发布的一份报告指出，Coldcard设备软件存在缺陷，导致生成的“助记词”具有可预测性。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:44:05 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "美光科技美股盘前跌超4%",
-      "summary": "美光科技美股盘前跌超4%，现报790.1美元。",
-      "link": "https://news.10jqka.com.cn/20260803/c678632654.shtml",
-      "published": "Mon, 03 Aug 2026 11:39:23 GMT"
+      "source": "财联社",
+      "title": "泰森食品第三财季销售额138.7亿美元 与上年同期持平",
+      "summary": "【泰森食品第三财季销售额138.7亿美元 与上年同期持平】财联社8月3日电，美国肉类巨头泰森食品（Tyson Foods）公布2026财年第三财季业绩。财报显示，公司当季销售额为138.68亿美元，与上年同期持平；GAAP营业利润为3.62亿美元，同比增长39%；GAAP每股收益为0.52美元，同比增加0.35美元。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:42:58 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "台风“白海豚” 7日后将趋向我国华东沿海",
-      "summary": "今年第13号台风“白海豚”于7月27日生成，8月3日17时其中心位于距离琉球群岛那霸市偏东方向约1890公里的西北太平洋洋面上，中心附近最大风力15级（48米/秒，强台风级），中心最低气压为945百帕。预计“白海豚”将以每小时20～25公里的速度继续向西偏北方向移动，强度变化不大，5日之前对我国无明显影响；将于6日至7日穿过琉球群岛移入东海。之后其移动路径和对我国的影响不确定性较大，目前研判主要有两种可能影响我国的路径。1在东海西行趋向长江口以南沿海9日前后在长江口到福建北部沿海登陆（台风级或强台风级，12～14级，33～45米/秒），登陆后继续向偏西方向移动，深入内陆；这种情况的登陆影响时间最早、登陆强度最强，将给浙江、福建、江西等地带来强风雨天气。2在东海转偏北方向移动，趋向长江口或以北沿海地区10日至11日登陆或擦过长江口至山东半岛沿海地区（强热带风暴级，10～11级，25～30米/秒）。这种情况下，东海、黄海、华东沿海将先后有9～11级大风，上海、江苏、安徽、山东、辽宁等地将有强降雨。气象专家提醒，台风“白海豚”将于6日至7日穿过琉球群岛移入东海，之后其路径和对我国的影响不确定",
-      "link": "https://news.10jqka.com.cn/20260803/c678632608.shtml",
-      "published": "Mon, 03 Aug 2026 11:35:28 GMT"
+      "source": "财联社",
+      "title": "财联社8月3日电，穆迪确认星展集团及星展银行评级，展望维持稳定。",
+      "summary": "财联社8月3日电，穆迪确认星展集团及星展银行评级，展望维持稳定。",
+      "link": "",
+      "published": "Mon, 03 Aug 2026 11:40:07 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "电魂网络：董事长胡建平提前终止减持计划，已减持1.88%股份",
-      "summary": "电魂网络公告，公司董事长胡建平先生原计划减持不超过467.2万股（占总股本1.92%），2026年5月19日至2026年8月3日期间实际通过集中竞价及大宗交易方式减持464.74万股，占总股本1.88%，减持总金额6436.45万元，减持价格区间12.33～16.2元/股。本次减持计划已提前终止，胡建平持股比例由7.66%降至5.78%。",
-      "link": "https://news.10jqka.com.cn/20260803/c678632460.shtml",
-      "published": "Mon, 03 Aug 2026 11:32:17 GMT"
+      "source": "华尔街见闻",
+      "title": "美股财报季盈利暴增，背后的水分在哪？",
+      "summary": "<p style=\"text-align: left;\">美股2026年第二季度财报季正在刷新市场对盈利能力的预期。标普500企业EPS同比增速一度达到45%，远超财季初市场约22%的预期，财报超预期比例也处于历史高位。</p>\n<p style=\"text-align: left;\">但亮眼数字背后，盈利结构正在发生变化。高盛拆解发现，<strong>标普500二季度EPS增长中，约19个百分点来自Alphabet和亚马逊的“其他收入”，主要是股权投资未实现收益，而非主营业务利润增长。</strong></p>\n<p style=\"text-align: left;\">剔除这些非经营性收益后，标普500二季度EPS同比增速仍达到约26%，说明企业基本面并未失真。但与此同时，美股盈利越来越依赖少数AI受益企业，超大规模科技公司持续扩大资本开支，并开始依靠债务和股权融资支撑AI基础设施投资。</p>\n<p style=\"text-align: left;\">换言之，<strong>这轮财报季的核心问题并非“盈利有没有增长”，而是“增长来自哪里，以及能否持续”。</strong></p>",
+      "link": "https://wallstreetcn.com/articles/3778590",
+      "published": "Mon, 03 Aug 2026 12:18:31 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "美股道琼斯指数期货涨超1%",
-      "summary": "美股道琼斯指数期货涨超1%，标普500指数期货涨0.59%，纳斯达克100指数期货涨0.29%。",
-      "link": "https://news.10jqka.com.cn/20260803/c678632438.shtml",
-      "published": "Mon, 03 Aug 2026 11:31:08 GMT"
+      "source": "华尔街见闻",
+      "title": "未来AI之间直接交易，可能不再需要银行",
+      "summary": "<p>知名策略师Tom Lee指出，当前市场对AI的布局集中在芯片（英伟达）和内存等瓶颈环节，类似早期蜂窝通信时代。</p>\n\n<p>但那个周期真正的赢家是铁塔公司（持有稀缺资产、稳定收租）和苹果（夺取生态）。</p>\n\n<p>类比AI领域，应开始向下游思考终端市场，金融服务将是一大方向——AI智能体将不仅能订票，还能自动开展业务，形成智能体之间的经济生态，其交易将不再依赖传统金融支付轨道。</p>",
+      "link": "https://wallstreetcn.com/charts/41959508",
+      "published": "Mon, 03 Aug 2026 12:06:45 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "澳大利亚首次出现H5型禽流感导致大规模鸟类死亡事件",
-      "summary": "据澳大利亚方面3日消息，南澳大利亚州东南海岸附近首次出现H5型禽流感导致大规模鸟类死亡事件，死亡的鸟类为大凤头燕鸥。截至目前，澳大利亚已有78例确诊病例。澳大利亚联邦农业部长柯林斯表示，鸟类大规模死亡事件在预料之中，澳大利亚人可能会看到禽流感继续蔓延，越来越多的野生动物受到影响。澳大利亚环境部长瓦特称，H5型禽流感国家管理计划已经启动，州政府和联邦政府将在已投入的1.13亿澳元基础上额外拨款2400万澳元。据专家介绍，未来几个月鸟类迁徙将增加疾病传播的风险，H5型禽流感可能蔓延到澳大利亚各地重要的内陆湿地。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260803/c678632419.shtml",
-      "published": "Mon, 03 Aug 2026 11:30:01 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "SpaceX美股盘前跌超2%",
-      "summary": "SpaceX美股盘前跌超2%，现报105.93美元。",
-      "link": "https://news.10jqka.com.cn/20260803/c678632416.shtml",
-      "published": "Mon, 03 Aug 2026 11:29:49 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "雷柏科技：2026年上半年净利润1491.56万元，同比下降2.52%",
-      "summary": "雷柏科技公告，2026年上半年营业收入2.29亿元，同比增长10.08%。归属于上市公司股东的净利润1491.56万元，同比下降2.52%，上年同期净利润1530.05万元。归属于上市公司股东的扣除非经常性损益的净利润1119.38万元，同比增长87.45%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-      "link": "https://news.10jqka.com.cn/20260803/c678632315.shtml",
-      "published": "Mon, 03 Aug 2026 11:22:18 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "农业农村部：统筹抓好田间管理和农业防灾减灾救灾",
-      "summary": "当前全国进入防汛抗旱关键期，也是秋粮产量形成关键期。记者从农业农村部了解到，农业农村部近日在山东德州召开全国秋粮生产现场推进会，要求全力做好农业防灾减灾救灾工作，努力夺取秋粮和全年粮食丰收。 农业农村部有关负责人在会上表示，要扎实推进奋战100天强田管抗灾害夺秋粮丰收行动，分作物分区域落实肥水管理、“一喷多促”等措施，促进苗情转化升级；要落实汛期农业防灾减灾预案，盯牢暴雨洪涝、干旱、高温热害、台风等灾害，加强监测预警，及早防范应对，用好农业生产救灾资金，最大程度减轻灾害损失；要盯紧水稻二化螟和“两迁”害虫、玉米螟和南方锈病等重大病虫害，推进统防统治、联防联控、应急防控，全力打好重大病虫害防控攻坚战。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260803/c678632260.shtml",
-      "published": "Mon, 03 Aug 2026 11:17:37 GMT"
+      "source": "华尔街见闻",
+      "title": "200亿“怪物新人”杨思亮：人声鼎沸时，更适合做旁观者",
+      "summary": "<p>2026年5月，价值红利风格的杨思亮与成长风格的何一铖被任命为易方达蓝筹的基金经理，与张坤共同管理这只曾经易方达旗下最知名的产品。</p>\n<p>他的管理规模也就此突破200亿。</p>\n<p>作为前宝盈基金的知名基金经理，杨思亮以价值和周期股投资为擅长，他于2025年9月加入易方达基金。</p>\n<p>日前，他参与中金财富的一场活动，系统地阐述他对AI行业、市场走向、内需强弱等的一系列深入判断。</p>\n<p>他承认AI影响深远，但强调投资上须“高位不追”；他认为当前逆风期更适合左侧“耕地”，内需资产需完成去金融化，并由成长逻辑转向商业模式和股东回报。</p>\n<p>金句：</p>\n<p>1、 从一个非常宏大的产业趋势，落实到实际买入的具体标的，中间隔着重重考验。</p>\n<p>2、 对擅长左侧投资的投资者而言，当前时点恰恰是更友好的状态。</p>\n<p>3、 本轮大宗商品周期的起点在2018年，这背后有非常深刻的社会背景。</p>\n<p>4、 站在当下，不希望在某一个维度上出现过度、极致的偏离。无论商业价值还是安全价值。</p>\n<p>5、 内需资产正在经历一个比较痛苦的去金",
+      "link": "https://wallstreetcn.com/articles/3778588",
+      "published": "Mon, 03 Aug 2026 11:54:52 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -185,6 +388,20 @@
       "summary": "<p style=\"text-align: left;\">为深入贯彻党的二十大和二十届历次全会精神，认真落实四中全会部署，践行“四个革命、一个合作”能源安全新战略，根据《中华人民共和国国民经济和社会发展第十五个五年规划纲要》和《新型能源体系建设“十五五”规划》有关要求，<strong>国家发展改革委、国家能源局组织编制了《新型电力系统建设“十五五”规划》。</strong></p>\n<p style=\"text-align: left;\">华尔街见闻总结要点如下：</p>\n<blockquote>\n<ul>\n<li style=\"text-align: left;\"><strong>明确总体目标与核心指标：</strong>到2030年初步建成新型电力系统，核心指标包括非化石能源发电量占比达50%、新能源装机消纳超28亿千瓦、电能占终端能源消费比重达35%，并支撑超1.1亿辆电动汽车充电需求。</li>\n<li style=\"text-align: left;\"><strong>构建绿色多元供给与煤电转型：</strong>统筹“沙戈荒”大基地、水风光一体化、海上风电及分布式光伏开发，",
       "link": "https://wallstreetcn.com/articles/3778582",
       "published": "Mon, 03 Aug 2026 11:45:57 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "利差这座大山未动，美日联手也难救日元？",
+      "summary": "<p style=\"text-align: left;\">美日两国联手干预外汇市场，推动日元单周大幅反弹，但市场反应表明，这场代价高昂的行动或难以从根本上扭转日元颓势。</p>\n<p style=\"text-align: left;\">据路透社此前报道，特朗普在内阁会议上确认美国参与了此次干预行动，称此举是\"友谊的信号\"。</p>\n<p style=\"text-align: left;\">日本财务省随后于周一正式确认，已与美国财政部联合出手，推动日元从上周触及的40年低点每美元兑164日元升至156.8日元，<strong>单周涨幅接近5%。</strong>此次干预规模估计超过500亿美元。</p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/e07bf712-5e8a-4863-81b3-89aa18b5754c.png\" /></p>\n<p style=\"text-align: left;\">然而，市场的反应并不如预期的那样热烈。<strong>即便经历这轮",
+      "link": "https://wallstreetcn.com/articles/3778585",
+      "published": "Mon, 03 Aug 2026 11:33:34 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "天风证券“掌门”续任，何日重回持续增长通道？",
+      "summary": "<p>天风证券的新一届治理架构正式落定。</p>\n<p>7月31日，天风证券第五届董事会第一次会议召开，会议选举庞介民为公司第五届董事会董事长，并同步完成四个董事会专门委员会组建及新一届高级管理人员聘任。</p>\n<p>早在2024年，庞介民已出任天风证券董事长。此次当选第五届董事会董事长，更多意味着他在公司转型、治理重构与经营修复阶段的管理职责得到延续。</p>\n<p>在董事会换届完成之际，天风证券亦交出了一份颇受市场关注的业绩预告。7月上旬，公司发布业绩预告，公司预计2026年上半年实现归母净利润1.64亿元至2.46亿元，同比增长429.03%至693.55%。</p>\n<p>治理架构完成“换届”、经营端持续修复，天风证券进入新的董事会任期。</p>\n<h2><strong>庞介民续任董事长</strong><strong>&nbsp;</strong></h2>\n<p>根据天风证券公告，第五届董事会第一次会议审议通过《关于选举公司第五届董事会董事长的议案》，庞介民当选第五届董事会董事长。</p>\n<p>公开信息显示，庞介民曾就职于中国人民银行北京分行、中国证监会机构监管部、北京",
+      "link": "https://wallstreetcn.com/articles/3778586",
+      "published": "Mon, 03 Aug 2026 11:26:17 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -220,20 +437,6 @@
       "summary": "<p>虎嗅独家获悉，阿里内部已经把“AI办公”这一当下市场风口视为公司在AI领域的战略方向之一。对“AI办公”这件事，阿里决策层的定位是：做企业级、面向企业组织的AI生产力平台，而非仅面向C端的个人AI办公工具。</p>\n<p>在组织架构上，“AI办公”的核心组织载体是“千问办公事业部”，为ATH事业群下属的一级事业部。这一组织，由陈宇森作为一号位负责的原悟空事业部升级而来。</p>\n<p>在产品上，千问办公（QwenWork）将是阿里在AI办公场景上的核心产品。这一产品，由QoderWork、悟空、MuleRun（骡子快跑）三个产品“技术三合一”而来，并非某个产品的融合升级，而是基于三个产品的技术沉淀重新做。</p>\n<p>虎嗅了解到，QoderWork、悟空、MuleRun（骡子快跑）三个产品今后将不再单独存在，人才也整合进入统一的千问办公这一体系内。</p>\n<p>基于这一调整和变化，ATH具体的架构体系变化情况如下：</p>\n<p>·Token Foundry事业部：由吴泳铭带队，包括通义大模型团队和未来生活实验室（Happy Horse、Happy Oyster等项目）</p",
       "link": "https://wallstreetcn.com/articles/3778578",
       "published": "Mon, 03 Aug 2026 10:40:29 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "韩国存储又涨价了！传统DRAM、NAND双双创多年新高",
-      "summary": "<p style=\"text-align: left;\">传统DRAM与NAND闪存价格7月双双创下多年新高，AI服务器持续抢占存储产能，推动传统PC及消费电子存储芯片供应趋紧，存储涨价周期仍未结束。</p>\n<p style=\"text-align: left;\">据韩联社援引TrendForce旗下DRAMeXchange数据，<strong>PC用基准DDR4 8Gb DRAM 7月平均合约价升至24美元，环比上涨14.3%，创2016年6月有统计以来新高</strong>；<strong>128Gb MLC NAND均价升至30.05美元，首次突破30美元</strong>。</p>\n<p style=\"text-align: left;\">TrendForce预计，AI服务器及高带宽内存（HBM）需求将继续挤占传统DRAM产能，<strong>DRAM供应紧张或持续至2027年</strong>；相比之下，<strong>NAND市场随着新增产能投放，2027下半年供应有望逐步改善。</strong></p>\n<h2 style=\"text-align: left;\">DRA",
-      "link": "https://wallstreetcn.com/articles/3778580",
-      "published": "Mon, 03 Aug 2026 10:22:15 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "中微公司：预计上半年净利润为27亿元到29亿元，同比增加282.48%到310.81%",
-      "summary": "<p>中微公司：预计上半年净利润为27亿元到29亿元，同比增加282.48%到310.81%。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3778581",
-      "published": "Mon, 03 Aug 2026 10:19:51 GMT"
     },
     {
       "source": "第一财经",
@@ -348,6 +551,13 @@
       "published": "Mon, 03 Aug 2026 10:28:30 GMT"
     },
     {
+      "source": "证券时报",
+      "title": "揭秘涨停丨19股封单资金均超1亿元 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCTGw4REV4LXlYUE9YcU9QeHVCYnZQTVVsaDZFSzVmYXlJaVY0QkhadmFvYWZXajRTb2JnbWIxT2MzVFdRZXJJZ1prdUsxbnZnTDRfTFFWZmhXTzRP?oc=5\" target=\"_blank\">揭秘涨停丨19股封单资金均超1亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCTGw4REV4LXlYUE9YcU9QeHVCYnZQTVVsaDZFSzVmYXlJaVY0QkhadmFvYWZXajRTb2JnbWIxT2MzVFdRZXJJZ1prdUsxbnZnTDRfTFFWZmhXTzRP?oc=5",
+      "published": "Mon, 03 Aug 2026 10:43:00 GMT"
+    },
+    {
       "source": "雪球热帖",
       "title": "立讯精密(SZ002475)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1X1o0WWt3VXc0ck5zUE0tc2Nad213ejFJcEY2c0d5R3lHNDNmMnhNdzk2ZlItQWNVclBSNDlKT2paQ2M?oc=5\" target=\"_blank\">立讯精密(SZ002475)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
@@ -356,8 +566,8 @@
     },
     {
       "source": "龙虎榜数据",
-      "title": "机构游资“接盘”散户，多个游资席位频频现身龙虎榜 - news.china.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1QWkN4SUswcnA5ZFRBcUJXbWlfeGVEY2FxR0dldTFEdnNNN0huSlduWjBvMnNGUHg5UFJ6a3VpNXJ4X3J3M2kyUjhNSUlhOUVyTll6LWJ5RXBpSUFCQnFjX2c3eUp0bEw4anc3dDktVGY?oc=5\" target=\"_blank\">机构游资“接盘”散户，多个游资席位频频现身龙虎榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.china.com</font>",
+      "title": "机构游资“接盘”散户，多个游资席位频频现身龙虎榜 - 中华网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1QWkN4SUswcnA5ZFRBcUJXbWlfeGVEY2FxR0dldTFEdnNNN0huSlduWjBvMnNGUHg5UFJ6a3VpNXJ4X3J3M2kyUjhNSUlhOUVyTll6LWJ5RXBpSUFCQnFjX2c3eUp0bEw4anc3dDktVGY?oc=5\" target=\"_blank\">机构游资“接盘”散户，多个游资席位频频现身龙虎榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中华网</font>",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QWkN4SUswcnA5ZFRBcUJXbWlfeGVEY2FxR0dldTFEdnNNN0huSlduWjBvMnNGUHg5UFJ6a3VpNXJ4X3J3M2kyUjhNSUlhOUVyTll6LWJ5RXBpSUFCQnFjX2c3eUp0bEw4anc3dDktVGY?oc=5",
       "published": "Mon, 03 Aug 2026 10:25:09 GMT"
     }
