@@ -1,22 +1,29 @@
 {
   "date": "2026-08-04",
   "hour": "01",
-  "total": 30,
-  "fetched_at": "2026-08-04T01:00:59.434610+08:00",
+  "total": 22,
+  "fetched_at": "2026-08-04T01:40:32.155355+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "宁德时代大手笔派61亿元红包，多家A股公司宣布分红 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1zUGx1NmdjanVJVXF0dUcwU1lkX21JQ2lYN1VqYmlXNHhRVjdlSFRleFZRV3ljbjI0RER4NENOYjFIdkpXX09RVUlrNHpVVFNxR2cxT3djTzRjeUx3RkNTSmVuR2FpVWRHd3A4OUs4TEU4Z2dPd3c?oc=5\" target=\"_blank\">宁德时代大手笔派61亿元红包，多家A股公司宣布分红</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zUGx1NmdjanVJVXF0dUcwU1lkX21JQ2lYN1VqYmlXNHhRVjdlSFRleFZRV3ljbjI0RER4NENOYjFIdkpXX09RVUlrNHpVVFNxR2cxT3djTzRjeUx3RkNTSmVuR2FpVWRHd3A4OUs4TEU4Z2dPd3c?oc=5",
-      "published": "Mon, 03 Aug 2026 15:35:00 GMT"
+      "source": "东方财富",
+      "title": "大立科技：股票8月5日起撤销退市风险警示并复牌 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdFJRQXFhMGkwNk5YYXo1RHQzeTNBRWI5Tk1BeTRkYTZJb2lCZ3hEaGRMR1lqeVAyZVhNbjRlMU5TRklqcjlRcEtxeVpHR3I3UUJKSDlscUtEcFFSSmktUElHbFpnN193MGdlag?oc=5\" target=\"_blank\">大立科技：股票8月5日起撤销退市风险警示并复牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdFJRQXFhMGkwNk5YYXo1RHQzeTNBRWI5Tk1BeTRkYTZJb2lCZ3hEaGRMR1lqeVAyZVhNbjRlMU5TRklqcjlRcEtxeVpHR3I3UUJKSDlscUtEcFFSSmktUElHbFpnN193MGdlag?oc=5",
+      "published": "Mon, 03 Aug 2026 17:08:23 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "城堡证券预测 到2028年 为人工智能芯片融资的新增债务将超过5000亿美元 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3WXhWWFZ6dmtXOVFWMm5BSVE5WEpLRFVMcnB1Sm55LUZuMzYyZW9sRFZHTExkQkl2X0xBcnRqZnR1MDlHUlA0dWJvWUR4dWFDNkxjdjA5RG8wcllDaWhmdjh2UnFXdw?oc=5\" target=\"_blank\">城堡证券预测 到2028年 为人工智能芯片融资的新增债务将超过5000亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3WXhWWFZ6dmtXOVFWMm5BSVE5WEpLRFVMcnB1Sm55LUZuMzYyZW9sRFZHTExkQkl2X0xBcnRqZnR1MDlHUlA0dWJvWUR4dWFDNkxjdjA5RG8wcllDaWhmdjh2UnFXdw?oc=5",
-      "published": "Mon, 03 Aug 2026 15:24:25 GMT"
+      "source": "同花顺",
+      "title": "美国FINRA对瑞银金融公司处以2000万美元罚款",
+      "summary": "美国金融业监管局（FINRA）称，因反洗钱违规，对瑞银金融公司处以2000万美元罚款。瑞银未能合理监控超过6万笔交易，总金额达100亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260804/c678638445.shtml",
+      "published": "Mon, 03 Aug 2026 17:28:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "周一（8月3日），美联储隔夜逆回购协议（RRP）使用规模为21.27亿美元",
+      "summary": "周一（8月3日），美联储隔夜逆回购协议（RRP）使用规模为21.27亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260804/c678638429.shtml",
+      "published": "Mon, 03 Aug 2026 17:17:02 GMT"
     },
     {
       "source": "同花顺",
@@ -103,53 +110,11 @@
       "published": "Mon, 03 Aug 2026 15:47:36 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "阿斯利康股价下跌9%，创下自2020年3月以来的最大单日跌幅",
-      "summary": "阿斯利康股价下跌9%，创下自2020年3月以来的最大单日跌幅。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260803/c678638125.shtml",
-      "published": "Mon, 03 Aug 2026 15:39:45 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "特朗普：没有美国的批准，任何事情都无法在伊朗推进",
-      "summary": "美国总统特朗普表示，没有美国的批准，任何事情都无法在伊朗推进。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260803/c678638105.shtml",
-      "published": "Mon, 03 Aug 2026 15:28:58 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "城堡证券预测，到2028年，为人工智能芯片融资的新增债务将超过5000亿美元",
-      "summary": "城堡证券预测，到2028年，为人工智能芯片融资的新增债务将超过5000亿美元。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260803/c678638086.shtml",
-      "published": "Mon, 03 Aug 2026 15:26:14 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "普京任命俄罗斯驻叙利亚大使",
-      "summary": "俄罗斯总统普京当地时间8月3日签署总统令，任命德米特里·多加德金为俄联邦驻叙利亚特命全权大使。俄外交部网站显示，多加德金1990年起从事外交工作，曾在俄外交部本部和驻外使领馆担任多个职务。2010年至2013年，他任俄联邦驻叙利亚大使馆公使衔参赞。7月10日，普京签署总统令，解除了多加德金的驻卡塔尔大使职务。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260803/c678638037.shtml",
-      "published": "Mon, 03 Aug 2026 15:18:14 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "国产水上运动装备订单暴涨 冲浪板全球爆单",
-      "summary": "广东作为体育用品的重要生产基地，水上运动产业链正乘着这股“热浪”，加速扩容。水上运动的消费热潮也从体验端传导到上游制造端。在一家动力冲浪板的生产车间内，工人正加紧赶制要交付的订单，目前他们的排单已排至半个月之后。这家企业仅用了5年时间，就完成了从自主研发动力冲浪板核心发电机、电池，到产品远销全球55个国家的跨越，目前他们的海外市场版图仍在持续拓宽。据了解，中国是全球最大的体育用品出口国，占全球出口比重超过四成。随着冲浪等户外水上运动热度走高，冲浪帽、防水包等周边配饰销量暴涨，线上店铺多款产品缺货，工厂正在加急补货。上半年，中国体育用品及设备总出口额达675.3亿元人民币。随着全球户外运动场景越来越多元化，桨板等水上运动器械出口额达47.7亿元人民币。",
-      "link": "https://news.10jqka.com.cn/20260803/c678638016.shtml",
-      "published": "Mon, 03 Aug 2026 15:15:51 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "EIA：上周美国战略石油储备中的原油库存减少约285万桶",
-      "summary": "EIA：上周美国战略石油储备中的原油库存减少约285万桶，至3.05亿桶，为1983年以来最低水平。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20260803/c678637997.shtml",
-      "published": "Mon, 03 Aug 2026 15:11:37 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗和阿曼外长通话讨论地区问题",
-      "summary": "伊朗和阿曼外长通话讨论地区问题。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260803/c678637996.shtml",
-      "published": "Mon, 03 Aug 2026 15:10:07 GMT"
+      "source": "华尔街见闻",
+      "title": "2029年之前！“控制”格陵兰岛，特朗普罕见列出时间表",
+      "summary": "<p>据美国《新闻周刊》和英国《独立报》8月2日报道，美国总统特朗普日前在接受采访时声称，格陵兰岛将在他本届总统任期结束、即2029年1月前由美国“控制”。</p>\n<p><img alt=\"图片\" src=\"https://wpimg-wscn.awtmt.com/1fe234f7-2b2b-4714-9375-23a1dc58af1d.jpeg\" title=\"\" /></p>\n<p>英媒：特朗普发帖暗示他希望美国“控制”格陵兰岛&nbsp;&nbsp;图源：社交媒体截图</p>\n<p>据报道，美国保守派媒体“真正美国之声”节目主持人史蒂夫·格鲁伯在7月31日的采访中说：“我曾在这个节目中预测，在你卸任之前，格陵兰岛将处于我们的实际控制之下。”特朗普回答说：“你会是对的……格陵兰岛对我们来说很重要……你应该为此下赌注。”</p>\n<p>《独立报》提到，特朗普长期主张由美国夺取丹麦自治领地格陵兰岛的控制权，还曾说希望实现对格陵兰岛“完全、彻底的购买”，并为此威胁对包括丹麦在内的部分欧洲国家商品加征关税，以推动达成相关协议。《新闻周刊》指出，美国官方声称推动“控制”格陵兰岛是出于国家安",
+      "link": "https://wallstreetcn.com/articles/3778601",
+      "published": "Mon, 03 Aug 2026 17:25:40 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -185,27 +150,6 @@
       "summary": "<p>8月3日，美国总统特朗普在社交平台“真实社交”（Truth Social）发文称，与伊朗的谈判已开始，后续会谈也已提上日程。</p>\n\n<p>美国总统特朗普2日释放双方即将开启谈判、缓和军事冲突的信号。但伊朗官方3日予以否认，双方表态出现明显分歧。（央视新闻）</p>",
       "link": "https://wallstreetcn.com/livenews/3144262",
       "published": "Mon, 03 Aug 2026 16:01:04 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普：除非达成协议、或者伊朗彻底投降，否则任何东西都进不了伊朗",
-      "summary": "<p>美国总统特朗普：没有美国的批准，任何事情都无法在伊朗推进。</p>\n\n<p>伊朗领导层是两面派。</p>\n\n<p>若不是我们想要的，任何东西多无法进入美国。</p>\n\n<p>除非达成协议、或者伊朗彻底投降，否则任何东西都进不了伊朗。</p>\n\n<p>霍尔木兹海峡由伊朗海军控制。</p>\n\n<p>我们正在讨论解决“伊朗造成的问题”的方案。</p>\n\n<p>不管伊朗是否愿意承认，我们现在要讨论的是解决方案。</p>",
-      "link": "https://wallstreetcn.com/livenews/3144250",
-      "published": "Mon, 03 Aug 2026 15:27:20 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美财政部预计维持发债指引不变，中期选举前力保长端收益率",
-      "summary": "<p style=\"text-align: left;\">美国财政部本周将公布最新季度再融资计划。市场普遍预计，财政部长贝森特<strong>将再次维持现有国债发行前瞻指引，即至少未来数个季度不增加中长期国债发行规模，继续依赖短期国库券（T-Bill）满足融资需求。</strong></p>\n<p style=\"text-align: left;\">这一决定意味着，美国财政部短期内仍将避免释放可能推高长期美债收益率的信号。但随着财政赤字持续扩大、短期债务占比不断攀升，以及市场重新押注美联储未来数月收紧政策，这一融资策略面临的风险正不断累积。</p>\n<p style=\"text-align: left;\">据彭博报道，在当地时间周三公布季度债务融资声明前，<strong>多数一级交易商预计财政部不会调整前瞻指引。</strong>尽管贝森特过去曾批评这一政策人为压低长期融资成本，但<strong>如今特朗普政府同样面临中期选举临近的政治压力，任何可能推动长期收益率进一步上升的政策调整，都不是财政部希望看到的。</strong></p>\n<p style=\"text-align: lef",
-      "link": "https://wallstreetcn.com/articles/3778598",
-      "published": "Mon, 03 Aug 2026 15:11:39 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "ChinaJoy参观人次创新高！机器人、汽车都来抢年轻人了",
-      "summary": "<figure><img alt=\"ChinaJoy参观人次创新高！机器人、汽车都来抢年轻人了\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/C3EE1042-6775-4501-9CE8-31587E3710F6.jpg\" /></figure><p>ChinaJoy影响力破圈、带动消费超7亿元。</p><p>8月3日，第23届ChinaJoy在上海闭幕。本届展会规模超14万平米，吸引来自全球35个国家和地区的900余家企业参展，四天整体参观人次达43.89万，同比增长6.97%，创历史新高。</p><p>从人群结构看，本届ChinaJoy参观的18-29岁年轻群体占比达65%，外省来沪观众占比63%。专业观众参与创新高，达到了4.4万人次，其中海外专业观众占比21%。</p><p>与此同时，ChinaJoy带来的经济效应也在扩大。</p><p>据主办方与大数据综合测算，ChinaJoy核心参与人群带动餐饮、零售、住宿、交通及其他服务消费约7.09亿元。ChinaJoy2026预计实现展期4天（7月31日-8月3日）龙阳",
-      "link": "https://www.yicai.com/news/103303702.html",
-      "published": "Mon, 03 Aug 2026 15:03:26 GMT"
     },
     {
       "source": "央行政策",
