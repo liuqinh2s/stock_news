@@ -1,15 +1,85 @@
 {
   "date": "2026-08-06",
   "hour": "07",
-  "total": 20,
-  "fetched_at": "2026-08-06T07:00:48.153259+08:00",
+  "total": 26,
+  "fetched_at": "2026-08-06T07:46:50.588798+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "Gangtise投研日报 | 8月6日星期四 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2c2wwMDFLSmhzSmNsakM4RlZLRi16R2lyUGxwLVlmeXhpaXNUVjN1Qy1FQlhCX3pYLUtzcENtemFYaXhNUDF1V1VPeklCdGRIdzZGaHI5bDBSZ29jS3hYWGFidklKVDQ1TFdaeE52NFJoMGpMbmJqRw?oc=5\" target=\"_blank\">Gangtise投研日报 | 8月6日星期四</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "title": "Gangtise投研日报 | 8月6日星期四 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2c2wwMDFLSmhzSmNsakM4RlZLRi16R2lyUGxwLVlmeXhpaXNUVjN1Qy1FQlhCX3pYLUtzcENtemFYaXhNUDF1V1VPeklCdGRIdzZGaHI5bDBSZ29jS3hYWGFidklKVDQ1TFdaeE52NFJoMGpMbmJqRw?oc=5\" target=\"_blank\">Gangtise投研日报 | 8月6日星期四</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2c2wwMDFLSmhzSmNsakM4RlZLRi16R2lyUGxwLVlmeXhpaXNUVjN1Qy1FQlhCX3pYLUtzcENtemFYaXhNUDF1V1VPeklCdGRIdzZGaHI5bDBSZ29jS3hYWGFidklKVDQ1TFdaeE52NFJoMGpMbmJqRw?oc=5",
       "published": "Wed, 05 Aug 2026 22:30:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "8月6日国内四大证券报纸、重要财经媒体头版头条内容精华摘要 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRR1hJSXVhVnRSVThvbGJOb0I3RUIyaUZISXRvUGkzQkFoZWlxWG9NVk82cDBWalZBWlRXQk4wZVlMWGo1V1VVbmV1bkpEUnFWZUxlOG9yc2k0Q1pvZW0wWFFuNA?oc=5\" target=\"_blank\">8月6日国内四大证券报纸、重要财经媒体头版头条内容精华摘要</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRR1hJSXVhVnRSVThvbGJOb0I3RUIyaUZISXRvUGkzQkFoZWlxWG9NVk82cDBWalZBWlRXQk4wZVlMWGo1V1VVbmV1bkpEUnFWZUxlOG9yc2k0Q1pvZW0wWFFuNA?oc=5",
+      "published": "Wed, 05 Aug 2026 23:19:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "微盘股成资金博弈“避险”新方向 优质小微企业有望迎来价值重估",
+      "summary": "今年以来，受科技主线对资金形成“虹吸效应”的影响，微盘股一度承受无差别抛压，相关指数及主题基金净值大幅回撤。不过，7月下旬高位板块震荡分化，估值已降至历史偏低区间的微盘股成为了资金博弈下的“避险”新方向，相关ETF产品的净值、份额双双上行，整体行情持续回暖。展望后市，多家机构预判，当前微盘股配置性价比显著抬升，但本轮修复或非普涨，其中深耕细分领域、基本面扎实的优质小微企业有望迎来价值重估，而缺乏业绩支撑的个股仍面临加速出清的风险。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705686.shtml",
+      "published": "Wed, 05 Aug 2026 23:35:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "公募基金持仓正向AI应用领域扩散",
+      "summary": "在人工智能（AI）赛道呈现高低切换的市场背景下，公募基金的持仓与资金意愿正向股价低位的AI应用领域扩散。记者注意到，随着软件、互联网、企业数字化相关标的迎来持续修复行情，公募基金投资逻辑也逐步从上游硬科技博弈，向有商业化落地能力的应用端企业聚焦。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705657.shtml",
+      "published": "Wed, 05 Aug 2026 23:31:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "MLCC产业链“涨”声不断 产品销量快速增长",
+      "summary": "近期，MLCC（多层片式陶瓷电容器）产业链的“涨”声不断，以风华高科、三环集团等为代表的上市公司的股价表现抢眼。记者综合多方信息发现，行业景气度提升，MLCC产业链的相关产品销量快速增长，扩产潮正在蔓延。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705505.shtml",
+      "published": "Wed, 05 Aug 2026 23:22:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阿根廷称驻巴西大使将“回国休假”，巴西降级与阿根廷关系",
+      "summary": "阿根廷外交部长巴勃罗·基尔诺5日说，阿根廷驻巴西大使丹尼尔·雷蒙迪将于近日“回国休假”。此前一天，巴西外交部长召见雷蒙迪，表示巴西政府决定将巴阿外交关系降至代办级，并要求其返回阿根廷。阿根廷与巴西关系近日恶化。阿总统米莱7月25日在巴西自由党于圣保罗举行的全国大会上强烈批评巴西总统卢拉，并抗议巴西联邦最高法院法官阻止其探望服刑中的巴前总统博索纳罗。巴西外交部次日召回驻阿根廷大使，以抗议米莱言行。基尔诺5日在新闻发布会上表示，阿根廷政府愿维持双边关系，不会对巴西政府的举动作出任何外交回应。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705496.shtml",
+      "published": "Wed, 05 Aug 2026 23:21:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国光模块“禁令”传闻扰动 业内人士：实际落地难度大",
+      "summary": "尽管美国拟禁止进口中国新款光模块的传闻引发担忧，但8月5日A股光模块展现韧性，板块指数收涨超3%，“易中天”走势分化，中际旭创和新易盛收跌，天孚通信上涨2.29%。相关光模块上市公司表示对传闻不予回应，并称公司运营正常。另外，业内人士向记者预估，考虑产能差距、技术迭代、原材料等因素，该“禁令”传闻实际落地难度大。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705472.shtml",
+      "published": "Wed, 05 Aug 2026 23:19:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "多家期货公司终止居间人合作 行业获客进入专业价值比拼新阶段",
+      "summary": "8月以来，一德期货、信达期货、中原期货、红塔期货、国联期货等期货公司纷纷发布公告：终止与全部居间人的居间业务合作，禁止任何机构或个人以公司居间人名义从事相关活动；原居间人介绍客户的日常服务，转为公司客户经理或官方客服人员直接对接处理。中国期货业协会最新数据显示，截至8月4日，期货公司的存续居间人数量仅剩36人，较高峰时期的4万余人大幅缩减，表明行业“去居间化”进程已近尾声。对此，受访人士表示，这是期货行业发展从“规模导向”转向“质量导向”的必然结果。随着监管层对适当性管理、投资者保护的要求越来越高，以及期货经营机构推进高质量发展，行业获客渠道将迈入专业价值比拼的新阶段。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705466.shtml",
+      "published": "Wed, 05 Aug 2026 23:18:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美铜伦铜价差再走阔 套利加剧铜供应紧张态势",
+      "summary": "近期，COMEX（纽约商品交易所）与LME（伦敦金属交易所）铜价、库存分化持续拉大。8月5日，美铜与伦铜的价差一度达到621.81美元/吨，背后是市场对美国精炼铜加征关税的预期持续发酵。价差打开跨市套利窗口，驱动全球铜资源持续向美国市场流动。由于关税是否落地、征收幅度及实施时间均存在较大不确定性，这一轮铜的跨境流转仍在持续。受访业内人士表示，铜矿供应偏紧的供需格局并未发生改变，基本面叠加宏观因素，仍将为铜价提供有力支撑。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705421.shtml",
+      "published": "Wed, 05 Aug 2026 23:14:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苹果创新周期打开增量空间 “果链”公司双线谋增长",
+      "summary": "苹果正迎来近年来最大规模的产品创新周期。这将是一场为期三年，覆盖手机、手表、平板、电脑、智能家居五大产品线的深度战略布局，2026年下半年计划推出折叠屏手机、iPhone 18系列等十几款新品。“这一创新周期在规模、广度和深度上都前所未有，既是苹果应对市场放缓的主动出击，也是从消费电子向AI设备转型的关键一步。它将对中国的‘果链’板块产生较大影响。”华创证券电子首席分析师岳阳表示。据统计，苹果产业链非常庞大，中国供应商数量最多，约占其全球的45%。记者采访发现，A股“果链”公司正经历新旧动能转换，不少企业都在拓展非“果链”业务，培育新的利润增长点。在拓展第二增长曲线方面，工业富联、蓝思科技、立讯精密等已经取得成效。正如舜宇光学董事长王锬炯这样定义公司转型：“让手机拍出好照片，是过去40年的事；让AI看懂物理世界，是未来几十年的事。”（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705419.shtml",
+      "published": "Wed, 05 Aug 2026 23:14:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日本熊本县发生5.1级地震",
+      "summary": "据日本气象厅消息，当地时间8月6日7时59分左右，日本熊本县天草、芦北地区生5.1级地震，最大震感为震度4，震源深度10公里。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260806/c678705417.shtml",
+      "published": "Wed, 05 Aug 2026 23:14:20 GMT"
     },
     {
       "source": "同花顺",
@@ -40,53 +110,18 @@
       "published": "Wed, 05 Aug 2026 22:02:09 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "明晟公司：2026年将结束对孟加拉国在MSCI股票指数中的特殊待遇",
-      "summary": "明晟公司（MSCI）称，将在2026年11月的指数评审中结束对孟加拉国在MSCI股票指数中的特殊待遇。（蓝鲸新闻）",
-      "link": "https://news.10jqka.com.cn/20260806/c678704371.shtml",
-      "published": "Wed, 05 Aug 2026 21:38:41 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "特朗普称美国通胀在下降",
-      "summary": "特朗普称美国通胀在下降。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260806/c678704351.shtml",
-      "published": "Wed, 05 Aug 2026 21:30:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "富时A50期指连续夜盘收跌0.35%",
-      "summary": "富时A50期指连续夜盘收跌0.35%，报14840点",
-      "link": "https://news.10jqka.com.cn/20260806/c678704326.shtml",
-      "published": "Wed, 05 Aug 2026 21:19:47 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "离岸人民币兑美元较周二纽约尾盘跌2点",
-      "summary": "周三（8月5日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.75元，较周二纽约尾盘跌2点，日内整体交投于6.74-6.75元区间。",
-      "link": "https://news.10jqka.com.cn/20260806/c678704311.shtml",
-      "published": "Wed, 05 Aug 2026 21:11:18 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "AWS：AWS 与 Anthropic 以及 OpenAI 展开合作，将 AWS Continuum 集成至开发者工作流程",
-      "summary": "AWS：AWS 与 Anthropic 以及 OpenAI 展开合作，将 AWS Continuum 集成至开发者工作流程。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20260806/c678704293.shtml",
-      "published": "Wed, 05 Aug 2026 21:04:06 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "AI也没发现的漏洞：比特币“保险箱”Coldcard遭黑客攻击，损失超1亿美元 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BakJZclNzck9za0dNQnJwckJFaVhzSXB5TGsyY2tIWFJ6UmpiWnBCLUdGRkVZTGtRTVRRLVllclpiSE9VZFpGbw?oc=5\" target=\"_blank\">AI也没发现的漏洞：比特币“保险箱”Coldcard遭黑客攻击，损失超1亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BakJZclNzck9za0dNQnJwckJFaVhzSXB5TGsyY2tIWFJ6UmpiWnBCLUdGRkVZTGtRTVRRLVllclpiSE9VZFpGbw?oc=5",
-      "published": "Wed, 05 Aug 2026 21:34:13 GMT"
-    },
-    {
       "source": "财联社",
       "title": "欧版“标普500”也创新高：半导体板块霸榜 能源股战争获益 - 财联社",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VNGFqUmtaX0EzRi1DamNjaVhVQk4tVi1sV0tXRUQ1MjBjMXhRLTdsdnNwNVJITDJvdEJScUxGd2lHejZEYlp4Xw?oc=5\" target=\"_blank\">欧版“标普500”也创新高：半导体板块霸榜 能源股战争获益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VNGFqUmtaX0EzRi1DamNjaVhVQk4tVi1sV0tXRUQ1MjBjMXhRLTdsdnNwNVJITDJvdEJScUxGd2lHejZEYlp4Xw?oc=5",
       "published": "Wed, 05 Aug 2026 21:49:16 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月6日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">伊朗与阿曼有望达成重启霍尔木兹海峡的协议</span>，平抑了油价与通胀预期。此外，企业财报两极分化，传统医疗与娱乐巨头盈利强劲推高道指，而市场对AI资本开支及回报率的担忧、加之SpaceX和AMD当日重挫，拖累纳指与科技板块。</p>\n<p><span style=\"color: #ff0000;\">美股三大指数临近收盘时显著下挫。最终道指涨0.49%，续创历史新高；标普500跌0.17%，纳指跌0.83%。</span></p>\n<p><span style=\"color: #ff0000;\">SpaceX跌超13",
+      "link": "https://wallstreetcn.com/articles/3778791",
+      "published": "Wed, 05 Aug 2026 23:20:42 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -131,11 +166,18 @@
       "published": "Wed, 05 Aug 2026 22:01:50 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "美银：美国7月薪资增长加速，低收入群体贡献明显",
-      "summary": "<p>根据美国银行（Bank of America）发布的研究报告，该行利用内部数据估算，7月美国薪资同比（非季节性调整）增长2%。</p>\n<p>失业救济金支付增长持平，就业增长主要由低收入家庭带动。</p>\n<p>该群体税后工资同比（季节性调整）增长5.2%，自2024年12月以来首次超过高收入家庭的增速。</p>\n<p>上述估算基于美国银行消费者存款数据的三个月移动平均值。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3778785",
-      "published": "Wed, 05 Aug 2026 21:43:57 GMT"
+      "source": "第一财经",
+      "title": "“小非农”降至半年新低，就业市场是否将搅动美联储加息前景",
+      "summary": "<figure><img alt=\"“小非农”降至半年新低，就业市场是否将搅动美联储加息前景\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/C75AA5B8-32EB-485A-8CCD-72418606CBF1.jpg\" /></figure><p>世界杯因素退潮。</p><p>作为本月非农报告前的重要预演，美国最大薪资处理机构ADP数据显示，7月私营企业招聘显著降温。对于将政策重心转向通胀的美联储而言，就业市场的波动或许成为影响加息的重要催化剂、</p>\n\n<p><strong>就业数据降温</strong></p>\n\n<p>ADP周三公布的数据显示，私营企业7月净新增就业岗位4.4万个，较6月数据经修正后新增9.5万个的数据大幅下滑，也不及市场预期的7.5万个岗位。今年早些时候企业招聘有所提速，5月新增就业达到12.2万，创下16个月新高。</p>\n\n<p>职位净增量全部来自服务业：服务业新增4.7万个岗位，而商品生产行业岗位减少3000个。细分行业中，教育与医疗服务业新增3.6万个岗位，延续该行业长期领跑就业增长的",
+      "link": "https://www.yicai.com/news/103307099.html",
+      "published": "Wed, 05 Aug 2026 23:25:02 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "越跌越买！散户投资者大举抄底SpaceX ，千亿美元限售股将解禁",
+      "summary": "<figure><img alt=\"越跌越买！散户投资者大举抄底SpaceX ，千亿美元限售股将解禁\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/08/fdbe5ebdc84a6b2bd2d64faad4212582.jpeg\" /></figure><p>股价短期波动或继续。</p><p>受AI业务支出激增冲击投资者情绪，太空探索公司SpaceX股价周三大跌13.61%。不过机构数据显示，散户投资者持续涌入SpaceX股票，开启逢低抄底模式。考虑到部分限售股即将上市，短期冲击或尚未结束。</p>\n\n<p><strong>散户持续买入</strong></p>\n\n<p>Vanda Research的数据显示，仅开盘第一个小时，个人交易者就净买入2270万美元 SpaceX 股票；在该股上市以来37个交易日当中，这一小时净买入规模排在历史第三位。“这表明，财报引发股价抛售后，散户逢低买入的热情并未消退，反而变得更加伺机而动。”</p>\n\n<p>6月12日，SpaceX上市创美国史上规模最大IPO，发行价135美元，此后还从未出现过散",
+      "link": "https://www.yicai.com/news/103307090.html",
+      "published": "Wed, 05 Aug 2026 23:10:39 GMT"
     },
     {
       "source": "第一财经",
