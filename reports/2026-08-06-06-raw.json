@@ -1,9 +1,16 @@
 {
   "date": "2026-08-06",
   "hour": "06",
-  "total": 25,
-  "fetched_at": "2026-08-06T06:00:58.360732+08:00",
+  "total": 27,
+  "fetched_at": "2026-08-06T06:04:42.001106+08:00",
   "news": [
+    {
+      "source": "同花顺",
+      "title": "美国总统特朗普重申伊朗不能拥有核武器，并表示他更希望与伊朗达成协议",
+      "summary": "美国总统特朗普重申伊朗不能拥有核武器，并表示他更希望与伊朗达成协议。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260806/c678704589.shtml",
+      "published": "Wed, 05 Aug 2026 22:02:09 GMT"
+    },
     {
       "source": "同花顺",
       "title": "明晟公司：2026年将结束对孟加拉国在MSCI股票指数中的特殊待遇",
@@ -122,6 +129,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VNGFqUmtaX0EzRi1DamNjaVhVQk4tVi1sV0tXRUQ1MjBjMXhRLTdsdnNwNVJITDJvdEJScUxGd2lHejZEYlp4Xw?oc=5\" target=\"_blank\">欧版“标普500”也创新高：半导体板块霸榜 能源股战争获益</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VNGFqUmtaX0EzRi1DamNjaVhVQk4tVi1sV0tXRUQ1MjBjMXhRLTdsdnNwNVJITDJvdEJScUxGd2lHejZEYlp4Xw?oc=5",
       "published": "Wed, 05 Aug 2026 21:49:16 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "高盛之后，摩根大通也上调SpaceX目标价",
+      "summary": "<p style=\"text-align: left;\">SpaceX季报颠覆华尔街估值框架。AI与算力业务的爆发式扩张正推动这家航天公司向科技超级平台加速蜕变。华尔街大行纷纷上调目标价。</p>\n<p style=\"text-align: left;\">据追风交易台，摩根大通在最新研究报告中将SpaceX目标价从225美元上调至240美元，维持\"增持\"评级。</p>\n<p style=\"text-align: left;\">核心驱动力在于：<strong>公司预计2026年12月年化经常性收入（ARR）将突破1000亿美元——大幅超越摩根大通此前对2027年全年收入750亿美元的预测——同时将实现1万亿美元年收入的时间节点从2031年提前至2030年。</strong></p>\n<p style=\"text-align: left;\">据摩根大通报告，该行将2026年营收预测上调14%至470亿美元，2027年营收预测大幅上调64%至1230亿美元。</p>\n<p style=\"text-align: left;\">这一估值重塑的核心催化剂是算力货币化进程的超预期提速。SpaceX计",
+      "link": "https://wallstreetcn.com/articles/3778777",
+      "published": "Wed, 05 Aug 2026 22:01:50 GMT"
     },
     {
       "source": "华尔街见闻",
