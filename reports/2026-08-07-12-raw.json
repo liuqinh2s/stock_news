@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
   "hour": "12",
-  "total": 52,
-  "fetched_at": "2026-08-07T12:00:58.855210+08:00",
+  "total": 49,
+  "fetched_at": "2026-08-07T12:46:11.005743+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -20,38 +20,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "中际旭创A股日内成交额达200亿元，现涨近4%。 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1pdFltbTJEcV9DeDUyc2l3WEVwZ1p5UmM2Y2tKX1ZMSlREWTVVcURSaHc0bElFQU9QTHFBYkVGd0hURnhlcHAwSXl2Z1o1alVTSndvU190bUhWSm5YMjd2c2FaSk5JVUgxY2I4Xzk1OUhHOVFQWk9RMA?oc=5\" target=\"_blank\">中际旭创A股日内成交额达200亿元，现涨近4%。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pdFltbTJEcV9DeDUyc2l3WEVwZ1p5UmM2Y2tKX1ZMSlREWTVVcURSaHc0bElFQU9QTHFBYkVGd0hURnhlcHAwSXl2Z1o1alVTSndvU190bUhWSm5YMjd2c2FaSk5JVUgxY2I4Xzk1OUhHOVFQWk9RMA?oc=5",
-      "published": "Fri, 07 Aug 2026 02:48:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股ETF建信（159066）涨0.99%，半日成交额484.08万元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUk4X2pUZzFvcDBpZUUtS2hBOS1oc25uV0RUaDUwS0pfN2hBaENvcjNpVTdyRXZiNmJPeVVnTnFicU80UzFxQWdtd1JzWEN2ODlXY1NmYnRUVHBwV0k2R2p0MklDQkUxTGU2V0xIaU93eEpjOG5fLVhMeHBtTzlWMUlfc0M1MkZEdjZiZDhZUkRPVGR0WUNhbg?oc=5\" target=\"_blank\">A股ETF建信（159066）涨0.99%，半日成交额484.08万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaUk4X2pUZzFvcDBpZUUtS2hBOS1oc25uV0RUaDUwS0pfN2hBaENvcjNpVTdyRXZiNmJPeVVnTnFicU80UzFxQWdtd1JzWEN2ODlXY1NmYnRUVHBwV0k2R2p0MklDQkUxTGU2V0xIaU93eEpjOG5fLVhMeHBtTzlWMUlfc0M1MkZEdjZiZDhZUkRPVGR0WUNhbg?oc=5",
-      "published": "Fri, 07 Aug 2026 03:36:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股ETF富国（159078）涨0.75%，半日成交额464.67万元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVhuQVpWTUNKa2JoVWZLdG1aYkwwYlRYU2V1RkFueDVldWd4dnp5Z05fVXliaUpiamxpSzNvMTV3eWpxVkhEM2RFckowMWJKWFN4aWdrMTA1eERmNXZadXlLV1hwRmI3WFc3T252eGVLSVR5enI4cFFZc0g5b0RGMHJ5WVptX2pzN1RfNXRKWmRWMDRDUldSTg?oc=5\" target=\"_blank\">A股ETF富国（159078）涨0.75%，半日成交额464.67万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVhuQVpWTUNKa2JoVWZLdG1aYkwwYlRYU2V1RkFueDVldWd4dnp5Z05fVXliaUpiamxpSzNvMTV3eWpxVkhEM2RFckowMWJKWFN4aWdrMTA1eERmNXZadXlLV1hwRmI3WFc3T252eGVLSVR5enI4cFFZc0g5b0RGMHJ5WVptX2pzN1RfNXRKWmRWMDRDUldSTg?oc=5",
-      "published": "Fri, 07 Aug 2026 03:36:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股游戏板块短线跳水 大晟文化跌停多股跟跌 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnR5dzhsajdTYXRLSmlhVmdzUGhoWUR0UTFnbE9TYS1EX0VPdWoxV2J5NkVjTnVEbGtLVklSaDAyN196dWc1TzZ3OHBRNFRMOVBrWU93Zm5uYnJfWHNyTEQtVU9wMTRuVENULU1HeE00dUp3aDgxSmxQeXoyNm95TXhRcWhTakIyLXV2SlllTnowaWM?oc=5\" target=\"_blank\">A股游戏板块短线跳水 大晟文化跌停多股跟跌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnR5dzhsajdTYXRLSmlhVmdzUGhoWUR0UTFnbE9TYS1EX0VPdWoxV2J5NkVjTnVEbGtLVklSaDAyN196dWc1TzZ3OHBRNFRMOVBrWU93Zm5uYnJfWHNyTEQtVU9wMTRuVENULU1HeE00dUp3aDgxSmxQeXoyNm95TXhRcWhTakIyLXV2SlllTnowaWM?oc=5",
-      "published": "Fri, 07 Aug 2026 02:48:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "兆易创新盘中涨超8% 获知名牛散葛卫东逆市加仓 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGlsd29kZHFZM0VaSE5PQ1YwUjBwU3owRFAtcTBTbmx5MWpra0V5YVJiWDNZMmdSQ2ZndXRRcmVyYThPaWZnWEo2Q2hWdE0zdFI0UmNGRXhKSVp0Q3VnUDNVVlNGQkRDTmc3RDN3Q1ZfTjV1UTBrODJFX1U3MEpqQ0owUUkzMjFRSUc0NUpXWjFjQ3pmalE?oc=5\" target=\"_blank\">兆易创新盘中涨超8% 获知名牛散葛卫东逆市加仓</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVGlsd29kZHFZM0VaSE5PQ1YwUjBwU3owRFAtcTBTbmx5MWpra0V5YVJiWDNZMmdSQ2ZndXRRcmVyYThPaWZnWEo2Q2hWdE0zdFI0UmNGRXhKSVp0Q3VnUDNVVlNGQkRDTmc3RDN3Q1ZfTjV1UTBrODJFX1U3MEpqQ0owUUkzMjFRSUc0NUpXWjFjQ3pmalE?oc=5",
-      "published": "Fri, 07 Aug 2026 03:08:00 GMT"
+      "title": "兆易创新，股价大涨 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE84dUMtaXVsQ1Rvc2Y3aXFmZWY5dDRGc0o4SFl5bldVRG12S2VQeXQ1NDdLQTdNcU83VE9JYUtUbFd2UjNVZTEzLTEyXy05ejVVb2ZTWkJIQTk1elhKYTEzVHZzcVJzZEJCeGhZZ0k3bnF6enFwYnpyaQ?oc=5\" target=\"_blank\">兆易创新，股价大涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84dUMtaXVsQ1Rvc2Y3aXFmZWY5dDRGc0o4SFl5bldVRG12S2VQeXQ1NDdLQTdNcU83VE9JYUtUbFd2UjNVZTEzLTEyXy05ejVVb2ZTWkJIQTk1elhKYTEzVHZzcVJzZEJCeGhZZ0k3bnF6enFwYnpyaQ?oc=5",
+      "published": "Fri, 07 Aug 2026 03:27:00 GMT"
     },
     {
       "source": "东方财富",
@@ -59,6 +31,90 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vV0h6NjRfbWkxYUJDTFJGem1hb2pia2h4UGJoandzQVFiSEFFOEJJcVB4UWxoNlA3dXpXNU5idEJaaFAydVhFcC10Q1k1ZXF6dk16LWNOZzBGQWZKSEphaFJWYUFRQQ?oc=5\" target=\"_blank\">股票ETF连续3日流出774亿元 科技板块流出居前</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vV0h6NjRfbWkxYUJDTFJGem1hb2pia2h4UGJoandzQVFiSEFFOEJJcVB4UWxoNlA3dXpXNU5idEJaaFAydVhFcC10Q1k1ZXF6dk16LWNOZzBGQWZKSEphaFJWYUFRQQ?oc=5",
       "published": "Fri, 07 Aug 2026 02:53:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "字节跳动瞄准打造接近Anthropic公司Mythos水平的超大规模AI模型",
+      "summary": "字节跳动瞄准打造接近Anthropic公司Mythos水平的超大规模AI模型。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260807/c678756342.shtml",
+      "published": "Fri, 07 Aug 2026 04:41:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日本熊本县强震后 大量家庭仍处于断水状态",
+      "summary": "日本方面7日援引熊本县方面的消息称，近期发生的强震一度导致当地超10万户家庭供水中断。截至6日，八代市、宇城市等地仍有约36880户家庭断水。消息称，预计熊本县全县的断水问题要到本月底才能解决。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260807/c678756334.shtml",
+      "published": "Fri, 07 Aug 2026 04:40:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "宜春官方：宁德时代锂矿处于停产检修状态",
+      "summary": "针对市场高度关注的宁德时代宜春枧下窝锂矿复产传闻，宜春市宜丰县生态环境局今日正式回应称：现场检查时，该企业处于停产检修状态，现场未进行矿石装运及破碎等生产作业，已要求企业尽快办理环评审批手续。 (上海证券报)",
+      "link": "https://news.10jqka.com.cn/20260807/c678756246.shtml",
+      "published": "Fri, 07 Aug 2026 04:31:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "北京亦庄发布全市首个词元经济政策 每年发放1亿元模型、词元券",
+      "summary": "《北京经济技术开发区关于支持词元驱动智能经济高质量发展的若干措施（试行）》明确，将加大推理专用芯片研发扶持力度，探索集成电路系统级架构创新。加速推理效能跃升，推动通用模型与行业专用模型协同研发，提升端侧推理效率。持续深化监管沙盒机制创新，鼓励具身智能、自动驾驶、医疗健康等重点领域的数据交易流通，探索以词元交易为基础的数据定价模式。通过打造全要素保障体系，为词元工厂建设提供全方位支撑。政策提出，对推动批量词元生产的企业，给予一定资金支持。每年还将继续发放算力券、数据券各1亿元，对开展推理效能跃升的企业，按照算力租赁费用的30%，给予最高2000万元的资金支持；按照年度数据交易金额的10%，给予采购主体最高100万元资金支持。不断降低基础设施建设和企业运营成本，全面提升单位能效下的词元产出效率与系统稳定性。目前，北京市首个词元工厂北京壹号词元工厂、北京市首家国资词元工厂京算词元工厂先后在北京亦庄正式点亮。未来，北京亦庄还将优化土地、能耗等要素保障，高标准推动万卡级词元工厂建设，支持各类主体推动批量词元生产。",
+      "link": "https://news.10jqka.com.cn/20260807/c678756206.shtml",
+      "published": "Fri, 07 Aug 2026 04:26:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阿里视频大模型Wan3.0开启公测",
+      "summary": "记者获悉，8月6日，阿里巴巴视频生成大模型Wan3.0开启公测，在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级：单次可生成30秒视频，完整表达创作意图；在文本、图片、音频、视频四种基础模态之外，首次支持doc、xls、ppt、pdf、md等文档格式输入等。据了解，Wan3.0还有智能时长功能，可根据提示词自动推荐合适时长。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260807/c678756188.shtml",
+      "published": "Fri, 07 Aug 2026 04:23:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "山西发布山洪和地质灾害双预警",
+      "summary": "8月7日上午，山西省自然资源厅和山西省气象局联合发布地质灾害气象风险预警，预计8月7日8时至8日8时，阳泉市城区、矿区、郊区、平定县、盂县、长治市平顺县、晋城市陵川县、临汾市襄汾县部分区域地质灾害气象风险预警级别为三级（黄色预警），发生地质灾害的风险较高。上述地区政府、部门和群众应根据预警等级采取相应的防范措施，加强雨前排查、雨中巡查、雨后核查。此外，山西省水利厅和山西省气象局联合发布山洪灾害气象风险预警，8月7日8时至8日8时，受强降雨影响：阳泉市南部1个县发生山洪的可能性很大（红色预警）；阳泉市北部和中部、晋中市东北部2个市5个县发生山洪的可能性大（橙色预警）；忻州市东南部、晋中市东部2个市2个县发生山洪的可能性较大（黄色预警）；大同市东南部、忻州市东北部、晋中市东南部、长治市东部、晋城市东部5个市7个县可能发生山洪（蓝色预警）。其他地区也可能因局地短历时强降水引发山洪灾害，各地注意做好实时监测、防汛预警和转移避险等防范工作。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260807/c678756177.shtml",
+      "published": "Fri, 07 Aug 2026 04:21:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日本实际家庭消费连续7个月同比下滑",
+      "summary": "日本总务省7日公布的调查结果显示，日本家庭消费持续疲软，6月实际家庭消费支出连续第7个月同比下滑。数据显示，6月日本两人及以上家庭月平均消费支出同比下降3.3%，环比下降6.4%。在消费支出的10个大类中，有6个类别支出同比下降。具体来看，服装和鞋类、家具家居、水电燃气、交通通信等支出明显下滑。食品支出在5月同比增长后，6月再次转为同比下降，降幅为2.5%。有分析指出，受台风、降雨量增加等天气因素影响，多类商品和服务支出减少。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260807/c678756083.shtml",
+      "published": "Fri, 07 Aug 2026 04:15:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "机构：2026年AI服务器出货量增幅上调至近31%",
+      "summary": "根据TrendForce集邦咨询最新AI服务器产业研究，在AI基础建设需求高涨的背景下，2026年全球九大云端服务供应商（CSP）总资本支出预估将同比增长约90%。近期超大型CSP、Tier-2数据中心业者对NVIDIA（英伟达）GB/VR等整柜式AI服务器方案的采购意愿明显提高，而且Google（谷歌）、AWS（亚马逊云科技）新一代ASIC平台于2026年下半年陆续放量，加上中系业者扩大采用本土AI方案以满足云端大语言模型（LLM）AI需求，促使TrendForce集邦咨询上调2026年AI服务器出货年成长幅度，从原先的28%更新为近31%。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260807/c678756036.shtml",
+      "published": "Fri, 07 Aug 2026 04:11:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "浙江省防指将防台风应急响应提升至Ⅲ级",
+      "summary": "今年第13号台风“白海豚”8月7日8时位于浙江温岭偏东方向约763公里的洋面上，中心附近最大风力14级（强台风级）。预计“白海豚”将以每小时15—20公里左右的速度向偏西方向移动，强度变化不大或略有增强。受“白海豚”影响，今天到明天东海海域风力10—13级部分13—16级。沿海海面今天阵风7—9级，夜里9—11级，明天继续增强到9—12级，局部12—14级。明天下午起沿海地区有大雨暴雨局部大暴雨。根据《浙江省防汛防台抗旱应急预案》和第13号台风“白海豚”防御工作方案，经研判会商，浙江省防指决定于8月7日12时将防台风应急响应提升至Ⅲ级。请各地各部门密切关注台风发展变化，高效运行“1833”联合指挥体系，进一步做好监测预警预报、风险研判和管控、人员避险转移、社会面宣传引导等各项工作，切实保障人民群众生命财产安全。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260807/c678756027.shtml",
+      "published": "Fri, 07 Aug 2026 04:10:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "8月7日午间公告一览：金河生物向特定对象发行股票获证监会同意注册批复",
+      "summary": "金河生物公告，公司于近日收到中国证监会出具的《关于同意金河生物科技股份有限公司向特定对象发行股票注册的批复》，同意公司向特定对象发行股票的注册申请，公司应在批复作出十个工作日内完成发行缴款。\n东方锆业公告，公司于近日收到深圳证券交易所出具的《关于受理广东东方锆业科技股份有限公司向特定对象发行股票申请文件的通知》，深交所对公司报送的申请文件进行了核对，认为申请文件齐备，决定予以受理。本次发行尚需通过深交所审核及获得中国证监会同意注册的批复后方可实施，最终能否通过及时间尚存在不确定性。",
+      "link": "https://news.10jqka.com.cn/20260807/c678756006.shtml",
+      "published": "Fri, 07 Aug 2026 04:09:25 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中科奥格完成超2亿元A3轮融资",
+      "summary": "中国异种移植领域的企业成都中科奥格生物科技有限公司于2026年8月宣布完成超2亿元A3轮融资。本轮融资由中科创星领投，联想创投、牧原集团、威高血净、华立集团、华方资本、成都科创投跟投，老股东贝达基金、光合创投持续加注。凯乘资本担任独家财务顾问。本轮资金将主要用于异种移植产品的临床试验申报与推进、DPF级医用供体猪产能扩建、产业基地建设及新一代多基因编辑供体猪开发。(第一财经)",
+      "link": "https://news.10jqka.com.cn/20260807/c678755895.shtml",
+      "published": "Fri, 07 Aug 2026 04:04:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港股午评：恒生指数涨0.15%，恒生科技指数涨0.34%",
+      "summary": "港股午间收盘，恒生指数涨0.15%，恒生科技指数涨0.34%。恒指港股通ETF银华（159318）涨0.23%，港股通科技ETF鹏华（159751）涨0.67%。板块方面，IT咨询与其他服务、林业板块涨幅靠前；铅锌、金属包装板块跌幅靠前。个股方面，拿森科技涨74.66%，MINIMAX-W涨17.7%，智谱涨17.57%，再鼎医药涨15.28%，太平洋航运涨15.12%；优然牧业跌5.94%，美高梅中国跌5.69%，现代牧业跌5.68%，晋景新能跌5.67%，商汤-W跌4.61%。",
+      "link": "https://news.10jqka.com.cn/20260807/c678755857.shtml",
+      "published": "Fri, 07 Aug 2026 04:01:09 GMT"
     },
     {
       "source": "同花顺",
@@ -117,88 +173,18 @@
       "published": "Fri, 07 Aug 2026 03:30:47 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "股指期货早盘收盘 主力合约全线上涨",
-      "summary": "股指期货早盘收盘，主力合约全线上涨。沪深300股指期货(IF)主力合约涨0.79%，上证50股指期货(IH)主力合约涨0.90%，中证500股指期货(IC)主力合约涨1.27%，中证1000股指期货(IM)主力合约涨1.16%。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755416.shtml",
-      "published": "Fri, 07 Aug 2026 03:30:19 GMT"
+      "source": "华尔街见闻",
+      "title": "上一轮互联网周期，美股风格如何切换？",
+      "summary": "<p style=\"text-align: left;\"><strong>核心观点</strong></p>\n<blockquote>\n<p style=\"text-align: left;\"><strong>今年5月标普500指数席勒市盈率曾达到42.32倍，非常接近2000年历史最高点44.19倍，叠加AI扩张推动的全球资本开支增速或于Q3见顶，多项指标均暗示若AI讲不出新故事，美股出现大幅调整的概率不低。但即便在1999-2001年美股见顶下挫过程中市场也蕴含了一些结构性机会。我们希望通过对1999-2001年美股如何实现风格切换的复盘来找到对未来的启示。</strong></p>\n<p style=\"text-align: left;\"><strong>一、回看上一轮美国互联网周期，美股市场风格如何切换？成长风格退潮，价值与防御风格占优。 </strong></p>\n<p style=\"text-align: left;\"><strong>阶段一：互联网基础设施商业化和流动性宽松激发投资热情。</strong>20世纪90年代中后期互联网进入繁荣期，资本投入与技术进步推动信息产",
+      "link": "https://wallstreetcn.com/articles/3778906",
+      "published": "Fri, 07 Aug 2026 04:08:36 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "创新药板块涨幅扩大，普洛药业涨停",
-      "summary": "创新药板块涨幅扩大，普洛药业涨停，此前瑞康医药、百普赛斯、哈药股份、海正药业等多股涨停，贝达药业、昊帆生物、皓元医药涨幅居前。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755356.shtml",
-      "published": "Fri, 07 Aug 2026 03:28:06 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
-      "summary": "国家能源局印发《电力安全生产“十五五”行动计划》。其中提到，加强“人工智能+”安全治理，创新设备高精度故障预测及健康管理方法，推动人工智能技术嵌入智能安全工器具，研究基于人工智能大模型的电力安全生产辅助决策技术。加大关键电力装备自主研发，加强新型防护材料研发，设立电力装备核心部件技术攻关专项计划，推动电力芯片、特高压组部件等关键技术突破。推动电力建设工程安全质量管控技术创新，研究建设电力建设工程智能化监管体系，运用人工智能、大数据等手段加强重点电力工程非现场监管和质量监督工作。（国家能源局）",
-      "link": "https://news.10jqka.com.cn/20260807/c678755328.shtml",
-      "published": "Fri, 07 Aug 2026 03:25:49 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中证1000股指期货(IM)主力合约日内涨超1%",
-      "summary": "中证1000股指期货(IM)主力合约日内涨超1%，现报7508.2点。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755286.shtml",
-      "published": "Fri, 07 Aug 2026 03:23:07 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "广期所多晶硅主力合约大涨5%",
-      "summary": "广期所多晶硅主力合约大涨5%，报37780元/吨。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755285.shtml",
-      "published": "Fri, 07 Aug 2026 03:22:59 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "大商所乙二醇主力合约大涨5%",
-      "summary": "大商所乙二醇主力合约大涨5%，报4813元/吨。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755284.shtml",
-      "published": "Fri, 07 Aug 2026 03:22:54 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "广告营销板块短线拉升，智度股份涨停",
-      "summary": "广告营销板块短线拉升，智度股份涨停，蓝色光标、易点天下、福石控股、引力传媒、省广集团等纷纷走高。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755283.shtml",
-      "published": "Fri, 07 Aug 2026 03:22:35 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "券商投资者保护迎新一轮细化核查，诱导宣传、投诉追责纳入检查清单",
-      "summary": "记者了解到，监管正就券商投资者诉求处理与投资者教育开启专项自查，陆续有地方证监局向券商下发了通知，属于常态化工作内容之一。根据相关工作安排，券商应以投教工作相关指引为依据，重点核查制度建设、投诉渠道响应、投教经费投入、业务全链条风险提示等事项。检查项目较细，例如包括包括是否加强对新开户中小投资者的教育工作、是否为了自身利益对投资者进行诱导性宣传、年度投诉自查总结与问题改进情况、投诉处理不力的责任追究情况等等。中证协此前披露，今年上半年证券行业投诉处理工作整体运行平稳，但受市场交易活跃度提升影响，投诉总量增长较快，同时传统服务痛点与交易系统、产品适配性等新增问题交织。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260807/c678755272.shtml",
-      "published": "Fri, 07 Aug 2026 03:21:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上期所原油主力合约大涨5% 燃油主力合约涨超4%",
-      "summary": "上期所原油主力合约大涨5%，报535.3元/桶；燃油主力合约涨超4%，报3506元/吨。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755240.shtml",
-      "published": "Fri, 07 Aug 2026 03:20:14 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中疾控：新冠阳性率上升趋缓 总体处于中流行水平 南方显著高于北方",
-      "summary": "中国疾控中心发布7月27日至8月2日全国急性呼吸道传染病哨点监测情况。新型冠状病毒检测阳性率上升趋缓，总体上处于中流行水平。监测结果显示，全国哨点医院报告的流感样病例数占门急诊就诊总数的比例（流感样病例百分比）为4.5%，南方省份（5.7%）高于北方省份（2.9%）。哨点医院门急诊流感样病例呼吸道样本检测阳性率前三位病原体为新型冠状病毒（22.3%）、流感病毒（13.3%）、肠道病毒（4.1%）；住院严重急性呼吸道感染病例呼吸道样本检测阳性率前三位病原体为新型冠状病毒（8.2%）、流感病毒（5.8%）、人偏肺病毒（5.5%）。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755226.shtml",
-      "published": "Fri, 07 Aug 2026 03:19:18 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "国债期货拉升 30年期主力合约涨0.2%",
-      "summary": "国债期货拉升，30年期主力合约盘中涨0.20%，现报115.630元。10年期涨0.03%，现报109.415元。5年期涨0.01%，现报106.51元。2年期跌0.01%，现报102.618元。",
-      "link": "https://news.10jqka.com.cn/20260807/c678755076.shtml",
-      "published": "Fri, 07 Aug 2026 03:13:26 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "刚果（金）埃博拉确诊病例超4000例",
-      "summary": "刚果（金）卫生部6日公布的数据显示，该国本轮埃博拉疫情累计确诊病例已达4053例。非洲疾病预防控制中心主任卡塞亚当天表示，实际感染人数可能高于已报告病例数。\n\n刚果（金）卫生部公布的数据显示，截至5日，该国累计报告埃博拉确诊病例4053例，其中死亡1850例，累计治愈793例。\n\n卡塞亚6日在线上记者会上说，实际感染人数或高于现有统计。本轮疫情严重程度前所未有，有关方面将开展研究，弄清病毒是否发生变异，以便有针对性地调整应对措施。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260807/c678755072.shtml",
-      "published": "Fri, 07 Aug 2026 03:13:06 GMT"
+      "source": "华尔街见闻",
+      "title": "这场仗，美国已经输了",
+      "summary": "<p>知名经济学家Steve Hanke认为，一场战争是否成功，关键不是打了多少仗、炸了多少目标，而是最初设定的战略目标有没有实现。</p>\n\n<p>他的观点很直白：如果政权没有改变、核问题没有解决、导弹能力还在、地区盟友也没有被削弱，那就说明战争并没有达到原本的目的。</p>\n\n<p>正因为如此，他才会一开场就抛出那个极具争议的判断——“美国其实已经输了这场战争。”</p>",
+      "link": "https://wallstreetcn.com/charts/41959535",
+      "published": "Fri, 07 Aug 2026 04:04:35 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -206,6 +192,13 @@
       "summary": "<p>美国光通信制造商Applied Optoelectronics，Inc.（AAOI）正进入由高端数据中心光模块驱动的扩张阶段。二季度营收同比增长86%，800G产品开始快速放量，而1.6T产品的认证、出货与产能爬坡，将成为决定公司下一阶段收入和利润率斜率的关键变量。</p>\n<p>截至2026年6月30日的第二财季，AAOI营收为1.919亿美元，同比增长86.4%，环比增长27%。<strong>其中，数据中心业务收入首次突破1亿美元，同比增长140%，占总收入比重升至56%，成为最大收入来源。</strong>公司非GAAP净利润为548万美元，非GAAP每股收益0.06美元，重回季度盈利。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/b724287b-ae3e-4a0d-8062-382fc10262b0.png\" /></p>\n<p>业绩电话会上，管理层表示，AI基础设施相关需求依然强劲，客户需求较AAOI当前供应能力高出约20%至40%。<strong>这意味着短期收入增长的主要约束并非订单，",
       "link": "https://wallstreetcn.com/articles/3778920",
       "published": "Fri, 07 Aug 2026 03:52:41 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "近一年收益95.17%，嘉实基金王贵重：看好下半年AI行情！光通信、存储是最好的投资机会，存储供小于求至少持续到2027年",
+      "summary": "<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/2969479d-da6b-4587-a976-657831937d29.png\" /><br />近日，嘉实基金基金经理王贵重在澎湃新闻首席连线节目中就2026年下半年AI投资机会分享了他的观点。</p>\n<p style=\"text-align: left;\">投资作业本整理了要点如下：</p>\n<p style=\"text-align: left;\">1、结论性地说，我们对下半年比较看好。</p>\n<p style=\"text-align: left;\">核心原因是，AI每个人都有切身体验。无论是用Chatbot还是Agent协助工作，都能清晰感受到AI在生产力层面的提升。从2023年至今，产业发展非常迅速，而且是在切实推进、切实进步的。</p>\n<p style=\"text-align: left;\">质疑和分歧每隔一段时间就会出现。</p>\n<p style=\"text-align: left;\">2、存储价格",
+      "link": "https://wallstreetcn.com/articles/3778919",
+      "published": "Fri, 07 Aug 2026 03:39:21 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -285,18 +278,11 @@
       "published": "Fri, 07 Aug 2026 02:51:55 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "【超30万亿元！今年前7月我国货物贸易进出口延续增长态势】海关总署今天公布统计数据显示，今年前7个月，我国货物贸易进出口总值30.13万亿元，同比增长了17.3%，...",
-      "summary": "<p>【超30万亿元！今年前7月我国货物贸易进出口延续增长态势】海关总署今天公布统计数据显示，今年前7个月，我国货物贸易进出口总值30.13万亿元，同比增长了17.3%，延续良好的增长态势。其中，出口17.44万亿元，增长14%；进口12.69万亿元，增长22%。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3778914",
-      "published": "Fri, 07 Aug 2026 02:31:16 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "创业板涨超1%，算力硬件拉升，CPO、PCB大涨，创新药反弹，恒科指跌近1%，AI大模型双雄再度爆发",
-      "summary": "<p>8月7日，A股震荡走高，沪指震荡于3900点左右，创业板涨超1%，算力硬件反弹，CPO、PCB等大幅拉升，创新药活跃，CRO概念股大涨，稀土永磁反弹，半导体、电子元器件、通气设备等板块走强。</p>\n<p>港股低开低走，恒指、恒科指双双下跌，恒科指跌近1%，科网股集体调整，芯片股小幅反弹，AI大模型双雄再度拉升，MINIMAX大涨超12%。债市方面，国债期货震荡盘整，商品方面，国内商品期货多数走高。核心市场走势：</p>\n<blockquote>\n<p><strong>A股</strong>：截至发稿，沪指涨0.22%，深成指涨1.08%，创业板指涨1.74%。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/2c94dd41-5d40-4c20-93ef-e420f44b637e.png\" /></p>\n<p><strong>港股</strong>：截至发稿，恒指跌0.49%，恒科指跌0.84%。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.a",
-      "link": "https://wallstreetcn.com/articles/3778909",
-      "published": "Fri, 07 Aug 2026 02:31:05 GMT"
+      "source": "第一财经",
+      "title": "方言、食物与神仙，潮汕人心中的故乡寄居何处？",
+      "summary": "<figure><img alt=\"方言、食物与神仙，潮汕人心中的故乡寄居何处？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/1d8d058a611ba03e52ce805c87510f1a.jpg\" /></figure><p>“潮州是被拜神的香火和食物的味道所统一的。”很多年后，李梓新发现，这就是故乡的味道。</p><p>最近，李梓新一直在留意潮汕方言中的俗语。无论是在跟家里人交流的时候，还是在全球各地与潮汕老乡对话的时候，听到一句能转译成普通话的俗语，他会马上记下来。</p>\n\n<p>“比如说‘吸神’，就是耗费眼神或者精力的意思，”他告诉第一财经记者，像我们现在整天看手机，就可以说“吸神”，“吸掉你的神。”</p>\n\n<p>他喜欢与朋友分享这些最新发现，也希望能在下一次写作时，把这些内容放进去。李梓新刚刚完成了一本关于潮汕的非虚构作品《出潮入海》，在书中，他从童年记忆开始娓娓道来，既有关于潮汕的方言习俗、日常饮食、神灵祭祀，也有整个家族参与其中的抽纱产业的起伏兴衰，以及一代代潮汕人的迁徙与离散。当作者离开潮汕，在更广阔",
+      "link": "https://www.yicai.com/news/103309183.html",
+      "published": "Fri, 07 Aug 2026 04:32:10 GMT"
     },
     {
       "source": "第一财经",
@@ -360,13 +346,6 @@
       "summary": "<figure><img alt=\"让全球百万人“花钱干农活”，拆解Hyrox爆火的逻辑\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/bb6ddc4592a62e54e8ec8589fcad9531.jpg\" /></figure><p>推雪橇、划船机、扛着沙袋走弓箭步，下班后“备战奥运”成为越来越多都市白领的生活日常。</p><p>最近一个多月，居住在上海的外企职员陈女士过上了下班“备赛”的生活，推雪橇、划船机、扛着沙袋走弓箭步……这些训练项目虽然像在“花钱干农活”，但每节课结束后，内啡肽与多巴胺的释放以及体能提升的成就感抵消了身体的疲劳。“从开始练到现在，是我最开心的一段日子。”陈女士告诉第一财经记者。</p><p>让陈女士每天打卡的是一项叫做Hyrox的健身竞赛。简单说，就是在8公里跑的过程中，穿插8项功能性训练——推雪橇、拉雪橇、波比跳、划船机、扔药球等，全程像一场“体能闯关游戏”。</p><p>自2017年在德国诞生以来，这项赛事的人气迅速飙升。今年3月的伦敦站，超7万人申请争夺1.6万个参赛名额。夏季纽约站的参赛",
       "link": "https://www.yicai.com/news/103309083.html",
       "published": "Fri, 07 Aug 2026 02:56:47 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "DeepSeek调用量达OpenAI三倍，打折无效后的OpenAI选择免费",
-      "summary": "<figure><img alt=\"DeepSeek调用量达OpenAI三倍，打折无效后的OpenAI选择免费\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/89AAAF3C-3801-4AD5-8E6C-9AEAA615EB0C.jpg\" /></figure><p>国产开源模型已对硅谷巨头的定价权构成了实质性威胁。</p><p>当地时间8月6日，OpenAI宣布免费用户默认模型升级为GPT-5.6 Luna，并开放无限量文本聊天，全球约十亿ChatGPT用户将直接受益。昨日，DeepSeek发布公告，宣布计划近期整体上调API服务定价，预计涨幅较大。</p><p>一放一收的差异，反映国产开源模型的崛起正在倒逼全球AI定价体系重构。</p><p>此次OpenAI选择免费，距离其7月30日宣布GPT-5.6 Luna降价80%仅过去一周。当时Luna输出价格从每百万Token 6美元直接砍至1.2美元，输入价格从1美元降至0.2美元。同日，DeepSeek V4 Flash正式版API上线。</p><p class=\"im",
-      "link": "https://www.yicai.com/news/103309056.html",
-      "published": "Fri, 07 Aug 2026 02:36:25 GMT"
     }
   ]
 }
