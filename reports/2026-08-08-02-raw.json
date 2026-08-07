@@ -1,9 +1,93 @@
 {
   "date": "2026-08-08",
   "hour": "02",
-  "total": 18,
-  "fetched_at": "2026-08-08T02:00:55.840516+08:00",
+  "total": 24,
+  "fetched_at": "2026-08-08T02:38:01.818695+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "科技赛道股大幅反弹 上证指数连续三周上涨 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4wX0RtekR0eUhIaDQxUTlsN3hSVDdPb1FUd2F4cC1DRmFiVUJHdGtma0thUjdqNmVsTlNfZV9nSmJfd1BxQVE2UWRFbDlnWlozYm8yUmo3aE5UYTZpU09ETUNvSElRQnFOQXJfWXptZUhGbW94Z0xtOQ?oc=5\" target=\"_blank\">科技赛道股大幅反弹 上证指数连续三周上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wX0RtekR0eUhIaDQxUTlsN3hSVDdPb1FUd2F4cC1DRmFiVUJHdGtma0thUjdqNmVsTlNfZV9nSmJfd1BxQVE2UWRFbDlnWlozYm8yUmo3aE5UYTZpU09ETUNvSElRQnFOQXJfWXptZUhGbW94Z0xtOQ?oc=5",
+      "published": "Fri, 07 Aug 2026 18:26:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中巨芯A股股东户数增加3.83万户增幅113.01%，流通A股户均持股8173.07股降幅53.05%，户均持股市值30.09万元增幅101.88% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnd6bTNTd2U3Y2E1SnlGR3UxQVBIeUhuNTNfQUhvZzVraUQ5aU5HSWRwZWJWaG5pdHhhdEtRV0pQMWExN2t0cWxBQ0s3Q0x4ZGdDcjJFY2dqck9VQ3Ntc0p4YXg5VWNUX3JxcENKNjlnWEJiUjFOTHJPbHAwb01CMGdCYjktbkJnUHM3ZA?oc=5\" target=\"_blank\">中巨芯A股股东户数增加3.83万户增幅113.01%，流通A股户均持股8173.07股降幅53.05%，户均持股市值30.09万元增幅101.88%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSnd6bTNTd2U3Y2E1SnlGR3UxQVBIeUhuNTNfQUhvZzVraUQ5aU5HSWRwZWJWaG5pdHhhdEtRV0pQMWExN2t0cWxBQ0s3Q0x4ZGdDcjJFY2dqck9VQ3Ntc0p4YXg5VWNUX3JxcENKNjlnWEJiUjFOTHJPbHAwb01CMGdCYjktbkJnUHM3ZA?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "五洲特纸A股股东户数减少3565户降幅19.54%，流通A股户均持股3.23万股增幅46.89%，户均持股市值43.29万元增幅49.57% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2ZRWG1WTXIwUWdWTzNFei0tLVgwWHYxbkdJREpGMzhJRmljWUpZVS1oXzM0UTludWNxUklvdHZJQ2NSM3pfeVoyc3BpTmVyWTVDSW1pd2tVX00wMk11Y3pYM3BqdzRlLVh6bnM2d1NoUTlSRjN5ZEdSZU1md0RMSkRKVnVUUFJnVk9pdw?oc=5\" target=\"_blank\">五洲特纸A股股东户数减少3565户降幅19.54%，流通A股户均持股3.23万股增幅46.89%，户均持股市值43.29万元增幅49.57%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2ZRWG1WTXIwUWdWTzNFei0tLVgwWHYxbkdJREpGMzhJRmljWUpZVS1oXzM0UTludWNxUklvdHZJQ2NSM3pfeVoyc3BpTmVyWTVDSW1pd2tVX00wMk11Y3pYM3BqdzRlLVh6bnM2d1NoUTlSRjN5ZEdSZU1md0RMSkRKVnVUUFJnVk9pdw?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "光华科技A股股东户数增加5.32万户增幅107.94%，流通A股户均持股4193.95股降幅51.50%，户均持股市值14.99万元降幅2.45% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUhBYlhDaDk3cHVaZHlUOTNHNjZ4WkVISFFEdjR6MWd1T0Q1YThNYmpIdjFNeExuMXE2SXNTcEI2TDQ2LXNjMkQwcTBVRUp5d2lpaHUwZkY4ZzFWWG5uVmJ5WHU1cmQ0ZXJGVmU2ZTViYURrQXFESUwyVDcwZXhDWjlCaklXOGI2cnNFcA?oc=5\" target=\"_blank\">光华科技A股股东户数增加5.32万户增幅107.94%，流通A股户均持股4193.95股降幅51.50%，户均持股市值14.99万元降幅2.45%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUhBYlhDaDk3cHVaZHlUOTNHNjZ4WkVISFFEdjR6MWd1T0Q1YThNYmpIdjFNeExuMXE2SXNTcEI2TDQ2LXNjMkQwcTBVRUp5d2lpaHUwZkY4ZzFWWG5uVmJ5WHU1cmQ0ZXJGVmU2ZTViYURrQXFESUwyVDcwZXhDWjlCaklXOGI2cnNFcA?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "东威科技A股股东户数增加1.03万户增幅69.81%，流通A股户均持股1.19万股降幅41.11%，户均持股市值106.4万元增幅7.77% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdl91UTJfZWdfZm9zNDdTZFB4RnRuNEVscF9iTjBPdENfdFd2LUZtYlRwYlVBOXkxM1ZQVDlEWVVnZUU2RjM0el9ydDU2TGxRalMyRERkX1BHSWVkQkFuakFCMFNxZUZ0UVBkTEllN3REU3RpU2k1S0M3WkJTMm1KZnMtY2VzOHEzbEpjLQ?oc=5\" target=\"_blank\">东威科技A股股东户数增加1.03万户增幅69.81%，流通A股户均持股1.19万股降幅41.11%，户均持股市值106.4万元增幅7.77%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdl91UTJfZWdfZm9zNDdTZFB4RnRuNEVscF9iTjBPdENfdFd2LUZtYlRwYlVBOXkxM1ZQVDlEWVVnZUU2RjM0el9ydDU2TGxRalMyRERkX1BHSWVkQkFuakFCMFNxZUZ0UVBkTEllN3REU3RpU2k1S0M3WkJTMm1KZnMtY2VzOHEzbEpjLQ?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "大中矿业A股股东户数增加2.22万户增幅56.45%，流通A股户均持股2.12万股降幅36.08%，户均持股市值63.61万元降幅51.82% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXZQbUkyR1BxTU10eExFdENfUmtacV9jTWtxZnpkbHluaTRBS1R4SUZTS2kwMUxnQkNIZ1Bra1I4RW1hQ2xEVnc4Rl9CYkJraFpkN0R1TFpZRHQ2ZllsSWxPdEg0RUlndWJZd0VDRnhkcG5SNEhESDhBcWd4Uk9qaUpOUnRhWm9TWHFLYw?oc=5\" target=\"_blank\">大中矿业A股股东户数增加2.22万户增幅56.45%，流通A股户均持股2.12万股降幅36.08%，户均持股市值63.61万元降幅51.82%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQXZQbUkyR1BxTU10eExFdENfUmtacV9jTWtxZnpkbHluaTRBS1R4SUZTS2kwMUxnQkNIZ1Bra1I4RW1hQ2xEVnc4Rl9CYkJraFpkN0R1TFpZRHQ2ZllsSWxPdEg0RUlndWJZd0VDRnhkcG5SNEhESDhBcWd4Uk9qaUpOUnRhWm9TWHFLYw?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "洪都航空A股股东户数增加1.35万户增幅31.48%，流通A股户均持股1.27万股降幅23.94%，户均持股市值46.46万元降幅29.65% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1kwcEF6MHZLN2NnRVFiYjZETHpaNlFXTHktNzZwLVRkRTdXRy00QU1LeXFnemVKdjl1NFMwQkltU0RPaUkwWmZIQWRKbHdZTkEybFNXUWsyR2trVXVKLU1MSDBiS0Q1bmhMZUM2ejNpbmlKQmN3OVZJNndxSjdHa0FkSmYxRXAxMjVVaA?oc=5\" target=\"_blank\">洪都航空A股股东户数增加1.35万户增幅31.48%，流通A股户均持股1.27万股降幅23.94%，户均持股市值46.46万元降幅29.65%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1kwcEF6MHZLN2NnRVFiYjZETHpaNlFXTHktNzZwLVRkRTdXRy00QU1LeXFnemVKdjl1NFMwQkltU0RPaUkwWmZIQWRKbHdZTkEybFNXUWsyR2trVXVKLU1MSDBiS0Q1bmhMZUM2ejNpbmlKQmN3OVZJNndxSjdHa0FkSmYxRXAxMjVVaA?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "聚灿光电A股股东户数减少500户降幅0.71%，流通A股户均持股1.03万股增幅0.72%，户均持股市值7.7万元增幅7.16% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2V3MU04N2hvVGxIQ1VjU0FEeHRGMGN2cGUtem9Mc3JsbElzNVZWSlA0MjJHYnZfX1RDWkRXQWJOdnpsMkE0cWd2QzBjY0xqeS1pUTROSS1XS2JxMGV6SS1WZ01hM0Q3MGhOa3FhMF91SUw5NU9UM0ZUZEVucjZaMm0xdWZOWDBvR012QQ?oc=5\" target=\"_blank\">聚灿光电A股股东户数减少500户降幅0.71%，流通A股户均持股1.03万股增幅0.72%，户均持股市值7.7万元增幅7.16%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2V3MU04N2hvVGxIQ1VjU0FEeHRGMGN2cGUtem9Mc3JsbElzNVZWSlA0MjJHYnZfX1RDWkRXQWJOdnpsMkE0cWd2QzBjY0xqeS1pUTROSS1XS2JxMGV6SS1WZ01hM0Q3MGhOa3FhMF91SUw5NU9UM0ZUZEVucjZaMm0xdWZOWDBvR012QQ?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "立昂微A股股东户数增加15.95万户增幅171.80%，流通A股户均持股3060.32股降幅57.68%，户均持股市值23.7万元增幅1.09% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2E1SFdEbVppVHJfQlJQVTdSQVAtWG1RcmxGczRlUWg1cjBkWWF2TmxHMkMyWHE0b3d0SU9NbFQ0cE1tbW9Na1lzdmVGY2JkeUxSQWZMSGRlTHlXUngzWS05eHpUbTYwcWo2MnFZclFFNWoyUWpmVDFodXNZZ3RsRmNlTk5SbU4xRm9ORQ?oc=5\" target=\"_blank\">立昂微A股股东户数增加15.95万户增幅171.80%，流通A股户均持股3060.32股降幅57.68%，户均持股市值23.7万元增幅1.09%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2E1SFdEbVppVHJfQlJQVTdSQVAtWG1RcmxGczRlUWg1cjBkWWF2TmxHMkMyWHE0b3d0SU9NbFQ0cE1tbW9Na1lzdmVGY2JkeUxSQWZMSGRlTHlXUngzWS05eHpUbTYwcWo2MnFZclFFNWoyUWpmVDFodXNZZ3RsRmNlTk5SbU4xRm9ORQ?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "炬光科技A股股东户数增加1.24万户增幅85.42%，流通A股户均持股4837.7股降幅21.89%，户均持股市值171.36万元增幅23.27% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWQxc2F4dk1rNjl2Z3FZU2hVTkVIcU4wei12TE9PQ2hxWGRUdmh4d0RVMktZWDZFZ1dMSXF0UUt0WlpUNnVGRnpyblBlbzB4ZmlKX3ZVdmVodUVXWXFYSkF1YXI5cXQwaUgtM1BUbmZiYVNaaVFuVURjN0tRV1NTV05feksweEhidGJUbQ?oc=5\" target=\"_blank\">炬光科技A股股东户数增加1.24万户增幅85.42%，流通A股户均持股4837.7股降幅21.89%，户均持股市值171.36万元增幅23.27%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWQxc2F4dk1rNjl2Z3FZU2hVTkVIcU4wei12TE9PQ2hxWGRUdmh4d0RVMktZWDZFZ1dMSXF0UUt0WlpUNnVGRnpyblBlbzB4ZmlKX3ZVdmVodUVXWXFYSkF1YXI5cXQwaUgtM1BUbmZiYVNaaVFuVURjN0tRV1NTV05feksweEhidGJUbQ?oc=5",
+      "published": "Fri, 07 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Anthropic：自 8月 14日起，Claude Code 将默认启用自动模式",
+      "summary": "Anthropic：自 8月 14日起，Claude Code 将默认启用自动模式。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260808/c678774376.shtml",
+      "published": "Fri, 07 Aug 2026 18:26:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "SpaceX ：回收团队仍在印度洋进行第13次飞行任务的星舰回收工作。",
+      "summary": "SpaceX ：回收团队仍在印度洋进行第13次飞行任务的星舰回收工作。(新浪财经)",
+      "link": "https://news.10jqka.com.cn/20260808/c678774351.shtml",
+      "published": "Fri, 07 Aug 2026 18:02:08 GMT"
+    },
     {
       "source": "同花顺",
       "title": "美国财长贝森特称，今天公布的就业报告低估了美国经济的潜在实力",
@@ -68,34 +152,6 @@
       "published": "Fri, 07 Aug 2026 16:50:15 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "OpenAI因Astra模型的网络安全能力而放缓其发布进程",
-      "summary": "据报道，OpenAI因Astra模型的网络安全能力而放缓其发布进程。（蓝鲸新闻）",
-      "link": "https://news.10jqka.com.cn/20260808/c678774225.shtml",
-      "published": "Fri, 07 Aug 2026 16:36:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "秘鲁新任经济部长预计秘鲁经济将在2026年增长3.5%",
-      "summary": "秘鲁新任经济部长预计秘鲁经济将在2026年增长3.5%。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260808/c678774223.shtml",
-      "published": "Fri, 07 Aug 2026 16:33:19 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询",
-      "summary": "苹果公司、亚马逊、耐克在特朗普政府关税退款问题上遭到美国参议院民主党成员Warren的质询。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260808/c678774198.shtml",
-      "published": "Fri, 07 Aug 2026 16:25:56 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
-      "summary": "当地时间8月7日，伊朗外交部副部长加里巴巴迪发表声明称，波斯湾地区的安全应由本地区国家共同维护，伊朗主张在没有外部势力干涉的情况下解决地区安全问题。加里巴巴迪指出，伊朗已向联合国安理会提交并记录了部分来自他国领土袭击伊朗的相关证据，其中包含少数直接袭击事件。他同时表示，基于目前掌握的信息，地区国家已深刻意识到冲突扩大和军事行动持续将严重威胁自身安全。目前，波斯湾国家间重启安全对话的条件已经成熟。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260808/c678774157.shtml",
-      "published": "Fri, 07 Aug 2026 16:06:58 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "非农重挫美元，日元盘中涨超1%！日本财相称与美保持密切沟通，必要时将采取行动",
       "summary": "<p>美国非农就业数据意外大幅走弱，叠加日本财务大臣发出干预警告，日元周五再度急升。</p>\n<p>据报道，日本财务大臣片山皋月在非农数据公布后不久表示，<strong>日美双方一直保持密切沟通，在必要时都不会犹豫采取干预行动。</strong>他还透露，已与美国财长贝森特达成共识，认为近期外汇市场受到非真实需求驱动的波动影响。</p>\n<p>相关表态令市场对日美可能采取汇市干预行动的预期进一步升温。</p>\n<p>受此影响，日元迅速拉升，美元兑日元一度跌1.1%至156.68，现跌幅收窄约0.5%。报道援引分析人士指出，<strong>此次日元走强主要受疲弱非农数据推动，美日利差收窄预期成为主要驱动因素，而潜在的官方干预风险仍对市场情绪形成支撑。</strong></p>\n<p style=\"text-align: left;\"><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/0e1751f4-63c8-4aab-af51-dce6bbf58e85.png\" /></p>\n<h2 style=\"text-align: lef",
@@ -115,20 +171,6 @@
       "summary": "<p style=\"text-align: left;\">人工智能基础设施投资热潮正持续推高科技巨头的融资需求，也令美国投资级债券市场出现罕见的“消化不良”。</p>\n<p style=\"text-align: left;\">今年以来，英伟达、SpaceX、亚马逊等科技巨头相继完成总额数百亿美元的债券融资，<strong>但新债几乎无一例外在发行首日便跌破发行价，二级市场持续走弱。</strong>面对需求降温，承销商开始调整发行策略，包括提前开展非交易路演、筛选长期投资者，并刻意拉开发行节奏，以缓解市场供给压力。</p>\n<p style=\"text-align: left;\">根据彭博汇编的数据，年初至今，亚马逊、Alphabet、英伟达、Meta、甲骨文和SpaceX已累计在美元投资级债券市场融资超过2000亿美元，而去年同期高评级科技公司的融资规模仅约130亿美元。</p>\n<p style=\"text-align: left;\">摩根大通投资级融资全球联席负责人John Servidea表示：<strong>银行和发行人面临的最大阻力，是二级市场表现持续疲弱。市场最终能够消化",
       "link": "https://wallstreetcn.com/articles/3778967",
       "published": "Fri, 07 Aug 2026 16:49:58 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
-      "summary": "<p>OpenAI：已对Astra所有智能代理应用中的风险行为与目标偏差实施全域监控。</p>\n\n<p>Astra是一款尚未发布的模型，并未参与攻击Hugging Face。</p>\n\n<p>暂停Astra相关尚未满足这些强化安全管控要求的内部活动。</p>\n\n<p>为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境。</p>\n\n<p>将向第三方测试合作方提供建议性安全管控措施，以安全开展高风险评估与相关任务。</p>\n\n<p>依据现有准备框架，我方得出结论，目前无法排除Astra模型具备关键网络攻击能力。</p>\n\n<p>将与相关政府机构及精选人工智能安全机构合作，对Astra的各项能力开展测试。</p>",
-      "link": "https://wallstreetcn.com/livenews/3146841",
-      "published": "Fri, 07 Aug 2026 16:37:21 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "AI电诈入侵华尔街，2000亿规模对冲基金遇袭！",
-      "summary": "<p style=\"text-align: left;\">华尔街巨头，也被AI黑客盯上了。</p>\n<p style=\"text-align: left;\">Point72、Citadel、Millennium，堪称华尔街对冲基金「御三家」，管理着数千亿美元的资金。</p>\n<p style=\"text-align: left;\">就在最近透露遭到「AI语音克隆」入侵。</p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/8aca8965-379b-437c-a726-8aff7d06fe37.png\" /></p>\n<p style=\"text-align: left;\">是的，就在刚刚，Jason亲手把自己号送走了。</p>\n<p style=\"text-align: left;\">据报道，这批入侵华尔街的黑客们通过监听电话通话来模仿通话者的声音、语调和措辞，从而诱使员工泄露账户信息或授予系统访问权限。</p>\n<h2 style=\"text-align: l",
-      "link": "https://wallstreetcn.com/articles/3778933",
-      "published": "Fri, 07 Aug 2026 16:21:34 GMT"
     }
   ]
 }
