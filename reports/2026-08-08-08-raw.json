@@ -1,9 +1,16 @@
 {
   "date": "2026-08-08",
   "hour": "08",
-  "total": 23,
-  "fetched_at": "2026-08-08T08:01:00.426221+08:00",
+  "total": 38,
+  "fetched_at": "2026-08-08T08:46:55.476037+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "国泰集团秩鼎ESG评级维持AA，位居A股同行业第35名，与万华化学等同级、高于华峰化学、低于亚香股份 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOYURDaW84OEFrOHA5eEJYcW9lWGJxU0dFbnZiODNvV3J4b09HLXlueFVnaVE2NTUyQXNTN3FtaTFsVTFCVzVFUWVTM2V2TUQzbTFvbjRWT3d6SXVNdE5wc0w3V3Q2XzFNOFBDRWtoOEN5bEpZdW03MkpZTm9OZDd5bndkVDVoWFJ2SERXUXJR?oc=5\" target=\"_blank\">国泰集团秩鼎ESG评级维持AA，位居A股同行业第35名，与万华化学等同级、高于华峰化学、低于亚香股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYURDaW84OEFrOHA5eEJYcW9lWGJxU0dFbnZiODNvV3J4b09HLXlueFVnaVE2NTUyQXNTN3FtaTFsVTFCVzVFUWVTM2V2TUQzbTFvbjRWT3d6SXVNdE5wc0w3V3Q2XzFNOFBDRWtoOEN5bEpZdW03MkpZTm9OZDd5bndkVDVoWFJ2SERXUXJR?oc=5",
+      "published": "Sat, 08 Aug 2026 00:20:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "陕西能源秩鼎ESG评级维持A，位居A股同行业48家公司第39名，与永泰能源等同级、高于宝新能源、低于银星能源等 - 新浪财经",
@@ -13,17 +20,17 @@
     },
     {
       "source": "新浪财经",
-      "title": "银座股份秩鼎ESG评级维持A，位居A股同行业43家公司第5名，与供销大集等同级、高于大商股份、低于武商集团等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnFIU3hNR1J0SWNJbVpwbnEyVm12T0lvWUZ1N2dzZ05TMnZRVVpPZ0lEUDVRRlJ1QldMSFhlQ1JiUlhlQUdKc05uQzdkZHJCdUJGM1VEeFI4b0xCeFEzdW05MlNRQUZLQ0NOQ2tHalhTdDBseDVCNjhVdjFJV3I0VmpIZ3hNYTJhblUzSU93?oc=5\" target=\"_blank\">银座股份秩鼎ESG评级维持A，位居A股同行业43家公司第5名，与供销大集等同级、高于大商股份、低于武商集团等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnFIU3hNR1J0SWNJbVpwbnEyVm12T0lvWUZ1N2dzZ05TMnZRVVpPZ0lEUDVRRlJ1QldMSFhlQ1JiUlhlQUdKc05uQzdkZHJCdUJGM1VEeFI4b0xCeFEzdW05MlNRQUZLQ0NOQ2tHalhTdDBseDVCNjhVdjFJV3I0VmpIZ3hNYTJhblUzSU93?oc=5",
-      "published": "Fri, 07 Aug 2026 23:17:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "南京医药秩鼎ESG评级维持AA，位居A股同行业30家公司排名第2名，与国药股份等同级、高于益丰药房等、低于华东医药 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWE1elFma2tpZTZPOUU5SUp4RXFRTW0tbDN6TU9RYXdiUTE5VWxuSnVlRnN2Y2x2NVhUN0JSSHZ0NXZPM2Ywa09LbFZwUDhCYVVzZnpJMmgwQWFoOTA4ZnN0UFZ2U2RURGJReXBOSFI3cGxZZUZ6dmNhcHcyQTNQZWp1NHdZbGtPTVlYRTF3?oc=5\" target=\"_blank\">南京医药秩鼎ESG评级维持AA，位居A股同行业30家公司排名第2名，与国药股份等同级、高于益丰药房等、低于华东医药</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYWE1elFma2tpZTZPOUU5SUp4RXFRTW0tbDN6TU9RYXdiUTE5VWxuSnVlRnN2Y2x2NVhUN0JSSHZ0NXZPM2Ywa09LbFZwUDhCYVVzZnpJMmgwQWFoOTA4ZnN0UFZ2U2RURGJReXBOSFI3cGxZZUZ6dmNhcHcyQTNQZWp1NHdZbGtPTVlYRTF3?oc=5",
       "published": "Fri, 07 Aug 2026 23:43:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "银座股份秩鼎ESG评级维持A，位居A股同行业43家公司第5名，与供销大集等同级、高于大商股份、低于武商集团等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnFIU3hNR1J0SWNJbVpwbnEyVm12T0lvWUZ1N2dzZ05TMnZRVVpPZ0lEUDVRRlJ1QldMSFhlQ1JiUlhlQUdKc05uQzdkZHJCdUJGM1VEeFI4b0xCeFEzdW05MlNRQUZLQ0NOQ2tHalhTdDBseDVCNjhVdjFJV3I0VmpIZ3hNYTJhblUzSU93?oc=5\" target=\"_blank\">银座股份秩鼎ESG评级维持A，位居A股同行业43家公司第5名，与供销大集等同级、高于大商股份、低于武商集团等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUnFIU3hNR1J0SWNJbVpwbnEyVm12T0lvWUZ1N2dzZ05TMnZRVVpPZ0lEUDVRRlJ1QldMSFhlQ1JiUlhlQUdKc05uQzdkZHJCdUJGM1VEeFI4b0xCeFEzdW05MlNRQUZLQ0NOQ2tHalhTdDBseDVCNjhVdjFJV3I0VmpIZ3hNYTJhblUzSU93?oc=5",
+      "published": "Fri, 07 Aug 2026 23:17:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -41,10 +48,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "招商轮船秩鼎ESG评级维持AA，位居A股同行业20家公司排名第3，与中远海能等同级、高于安通控股等、低于中远海发等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmplaDNfc3ZzUnJkWG1FSVpra3BLdzQyWGY4cDNQbVRycWNoeGVwZ1E4ZmFQd3R2ckNsbTZNNVZYMV85Ym9rV1F0QTZCaFZWSWNibjJkWG91VXQ5aHhVdV9lc3ByMnFBdWUwZVVfMzdDMU1ub1VyaUdkeFBNS1B6bVY0RFBNbjNldVFGX3l3?oc=5\" target=\"_blank\">招商轮船秩鼎ESG评级维持AA，位居A股同行业20家公司排名第3，与中远海能等同级、高于安通控股等、低于中远海发等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmplaDNfc3ZzUnJkWG1FSVpra3BLdzQyWGY4cDNQbVRycWNoeGVwZ1E4ZmFQd3R2ckNsbTZNNVZYMV85Ym9rV1F0QTZCaFZWSWNibjJkWG91VXQ5aHhVdV9lc3ByMnFBdWUwZVVfMzdDMU1ub1VyaUdkeFBNS1B6bVY0RFBNbjNldVFGX3l3?oc=5",
-      "published": "Fri, 07 Aug 2026 23:10:00 GMT"
+      "title": "ST路通秩鼎ESG评级上升至A，位居A股同行业91家公司第37名，与新易盛等同级、高于菲菱科思、低于三旺通信等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1BfMjkyOUw4Wk9RNkFBa0ZnNzZ6UDV6YXY1MFI4eGozdldxSHZoMEh3TlBwVW9kZHZwMzY2T19MRGRzZ0pwd2hYX2U1T0IzdWFydWpOUWRINlRaRmZEYlEzblVKNnhSZ3d2NGpXZkRrRnlnTnk1UjBlckhVNENnYmpjYV81MEZyZk1xUGV3?oc=5\" target=\"_blank\">ST路通秩鼎ESG评级上升至A，位居A股同行业91家公司第37名，与新易盛等同级、高于菲菱科思、低于三旺通信等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1BfMjkyOUw4Wk9RNkFBa0ZnNzZ6UDV6YXY1MFI4eGozdldxSHZoMEh3TlBwVW9kZHZwMzY2T19MRGRzZ0pwd2hYX2U1T0IzdWFydWpOUWRINlRaRmZEYlEzblVKNnhSZ3d2NGpXZkRrRnlnTnk1UjBlckhVNENnYmpjYV81MEZyZk1xUGV3?oc=5",
+      "published": "Sat, 08 Aug 2026 00:20:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -90,17 +97,24 @@
     },
     {
       "source": "新浪财经",
-      "title": "兴业证券秩鼎ESG评级维持AA，位居A股同行业61家公司第1名，与中信证券等同级、高于同花顺等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmR6RTVTeFU1VVRhTmRPZVlBcFFfV2s2LURra2NDVEcwRFFoUTlJR2NDUWNqVmVnU2FidUNnNlM2NUJXbTVFZlNLZlByd1JfR1k1OGl1SUFfTkZRSFBlS1lhTEhiSjd5cGNYS1llN1BiZlBpX2JGTVZEWjZfV1BmLWk0MDZPV2swR3NmOE5n?oc=5\" target=\"_blank\">兴业证券秩鼎ESG评级维持AA，位居A股同行业61家公司第1名，与中信证券等同级、高于同花顺等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNmR6RTVTeFU1VVRhTmRPZVlBcFFfV2s2LURra2NDVEcwRFFoUTlJR2NDUWNqVmVnU2FidUNnNlM2NUJXbTVFZlNLZlByd1JfR1k1OGl1SUFfTkZRSFBlS1lhTEhiSjd5cGNYS1llN1BiZlBpX2JGTVZEWjZfV1BmLWk0MDZPV2swR3NmOE5n?oc=5",
-      "published": "Fri, 07 Aug 2026 22:34:00 GMT"
+      "title": "百川股份秩鼎ESG评级维持A，位居A股同行业509家公司第210名，与华峰化学等同级、高于和邦生物、低于富恒新材等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQU5XLU5FSzdGc0ZlRmlUaHNoWE1IdmlkdEZBYUtOaG5XZUJpSF9KOUJkSFo1aGVLWXJDaGdaaTVlaU1yZmVJdE9kX3kxUDNwdDM1LUJpcU1WTFViN1hlZURQLWNXMHkyTmEyMjdDTzRhbmdHZVJ6MkJmeGZPREhDdDFIa2pGTWw2eDV3d2ln?oc=5\" target=\"_blank\">百川股份秩鼎ESG评级维持A，位居A股同行业509家公司第210名，与华峰化学等同级、高于和邦生物、低于富恒新材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQU5XLU5FSzdGc0ZlRmlUaHNoWE1IdmlkdEZBYUtOaG5XZUJpSF9KOUJkSFo1aGVLWXJDaGdaaTVlaU1yZmVJdE9kX3kxUDNwdDM1LUJpcU1WTFViN1hlZURQLWNXMHkyTmEyMjdDTzRhbmdHZVJ6MkJmeGZPREhDdDFIa2pGTWw2eDV3d2ln?oc=5",
+      "published": "Sat, 08 Aug 2026 00:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "奥拓电子秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUN2Q3YyU19TRnlQeDctZ2kxSEpmZWJNVmZEWmh5LUFCOGhTNFJrcjNUUDY0bDl0Y2ZydXFGTVhpMGdOaE1nTU0wUXptUEpBanh3V090MXRSSm1STmREMy1DMGZFNnVnaVFNUWgyWDlYRm1ZWTRVXzV6Y05sdHZiMm1LZ0xFVEdzV2huS3J3?oc=5\" target=\"_blank\">奥拓电子秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUN2Q3YyU19TRnlQeDctZ2kxSEpmZWJNVmZEWmh5LUFCOGhTNFJrcjNUUDY0bDl0Y2ZydXFGTVhpMGdOaE1nTU0wUXptUEpBanh3V090MXRSSm1STmREMy1DMGZFNnVnaVFNUWgyWDlYRm1ZWTRVXzV6Y05sdHZiMm1LZ0xFVEdzV2huS3J3?oc=5",
-      "published": "Fri, 07 Aug 2026 23:19:00 GMT"
+      "title": "大禹节水秩鼎ESG评级位居A股同行业22家公司第2名，与兴蓉环境等同级、高于顺控发展、低于重庆水务 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTUsyVTRxX0tWUlRXT1ByU1BTOVdidHpPQ0xjTU5vbndrVmRjZW13bU8zNjkzV1pLc2pyWm9IaDA5T0JtdzVvUVUtMEpaSnBMbGxtMl9CZWtYTFZYZFZndFlWOVVqZXh0WTRENEQ4QnJWTUFvZmNZNTF4OE9iUzB6bzdNS2REYWgtdmZGYWlB?oc=5\" target=\"_blank\">大禹节水秩鼎ESG评级位居A股同行业22家公司第2名，与兴蓉环境等同级、高于顺控发展、低于重庆水务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTUsyVTRxX0tWUlRXT1ByU1BTOVdidHpPQ0xjTU5vbndrVmRjZW13bU8zNjkzV1pLc2pyWm9IaDA5T0JtdzVvUVUtMEpaSnBMbGxtMl9CZWtYTFZYZFZndFlWOVVqZXh0WTRENEQ4QnJWTUFvZmNZNTF4OE9iUzB6bzdNS2REYWgtdmZGYWlB?oc=5",
+      "published": "Sat, 08 Aug 2026 00:34:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中信博秩鼎ESG评级维持AA，位居A股同行业576家公司第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNekUwXzNHZzlfYmFTZ2NrQzUxTDRMVDQxRDdkTVk3MTdiWFJtY2JnSVJtb0xPVEszSFpNM2RHWW9ta0lTb0htdkp0R2hIOWFzVVZmbmNsNHZpMEdIVU9naTlhR1lhNmtPXzFwRUNNaVc2UFJvR21KcjY0QmdaWTBobzI1U0JsSVdtT3h2Z0tB?oc=5\" target=\"_blank\">中信博秩鼎ESG评级维持AA，位居A股同行业576家公司第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNekUwXzNHZzlfYmFTZ2NrQzUxTDRMVDQxRDdkTVk3MTdiWFJtY2JnSVJtb0xPVEszSFpNM2RHWW9ta0lTb0htdkp0R2hIOWFzVVZmbmNsNHZpMEdIVU9naTlhR1lhNmtPXzFwRUNNaVc2UFJvR21KcjY0QmdaWTBobzI1U0JsSVdtT3h2Z0tB?oc=5",
+      "published": "Sat, 08 Aug 2026 00:34:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -111,10 +125,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "ST万邦秩鼎ESG评级较上年下降至BB，位居A股同行业242家公司第193名，与翰宇药业等同级、高于广生堂等、低于梓橦宫等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDZQQlI2V094azBPbUU4RFR4Ynp6dEV5N29maHJ1dU9sTG5NQ2hQQ0xTOXAtekllckVaV2U2eS1uVWw0WnljXzBOVFhra1lvajBReE1YVm1kWTdPVHo2WTU0eGJTUnNMZXNNdVlCblplckdGdmloRS0wNVlKS0hONVdHT3AwTkNfbHc2NnFB?oc=5\" target=\"_blank\">ST万邦秩鼎ESG评级较上年下降至BB，位居A股同行业242家公司第193名，与翰宇药业等同级、高于广生堂等、低于梓橦宫等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDZQQlI2V094azBPbUU4RFR4Ynp6dEV5N29maHJ1dU9sTG5NQ2hQQ0xTOXAtekllckVaV2U2eS1uVWw0WnljXzBOVFhra1lvajBReE1YVm1kWTdPVHo2WTU0eGJTUnNMZXNNdVlCblplckdGdmloRS0wNVlKS0hONVdHT3AwTkNfbHc2NnFB?oc=5",
-      "published": "Fri, 07 Aug 2026 22:30:00 GMT"
+      "title": "奥拓电子秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUN2Q3YyU19TRnlQeDctZ2kxSEpmZWJNVmZEWmh5LUFCOGhTNFJrcjNUUDY0bDl0Y2ZydXFGTVhpMGdOaE1nTU0wUXptUEpBanh3V090MXRSSm1STmREMy1DMGZFNnVnaVFNUWgyWDlYRm1ZWTRVXzV6Y05sdHZiMm1LZ0xFVEdzV2huS3J3?oc=5\" target=\"_blank\">奥拓电子秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUN2Q3YyU19TRnlQeDctZ2kxSEpmZWJNVmZEWmh5LUFCOGhTNFJrcjNUUDY0bDl0Y2ZydXFGTVhpMGdOaE1nTU0wUXptUEpBanh3V090MXRSSm1STmREMy1DMGZFNnVnaVFNUWgyWDlYRm1ZWTRVXzV6Y05sdHZiMm1LZ0xFVEdzV2huS3J3?oc=5",
+      "published": "Fri, 07 Aug 2026 23:19:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -125,31 +139,59 @@
     },
     {
       "source": "新浪财经",
-      "title": "恒合股份秩鼎ESG评级较上年上升至A，位居A股同行业576家公司第181名，与三环集团等同级、高于宏和科技等、低于灿能电力等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHFrdmNWdHJhQlRyb2d6SHBKdFZtZjZaX1BVMlYyYkwzUjN5cjdmeEJHMWNWTmVqU2xiaVJZRDZrRUNMdmJEQW45QnFYX2ZCWnNYaGFJeU8xdXFzTG50a2hqVG1YR2Y2NVZ1TDczanFYTVdlN0dfdUNhMTlQbEpCc0dtd056cHpPR2dwSG9B?oc=5\" target=\"_blank\">恒合股份秩鼎ESG评级较上年上升至A，位居A股同行业576家公司第181名，与三环集团等同级、高于宏和科技等、低于灿能电力等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHFrdmNWdHJhQlRyb2d6SHBKdFZtZjZaX1BVMlYyYkwzUjN5cjdmeEJHMWNWTmVqU2xiaVJZRDZrRUNMdmJEQW45QnFYX2ZCWnNYaGFJeU8xdXFzTG50a2hqVG1YR2Y2NVZ1TDczanFYTVdlN0dfdUNhMTlQbEpCc0dtd056cHpPR2dwSG9B?oc=5",
-      "published": "Fri, 07 Aug 2026 22:31:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "碧水源秩鼎ESG评级维持AA，位居A股同行业150家公司第6名，与小商品城等同级、高于富乐德、低于英科再生等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxORWMtc19PanhfYnc2NWtHazhyMUpkWnJrSUoyMzBLWVpQNzluZUVvdWJtcFJYdWtEeDNBbXp4WDItaWZLZjNMZzZnQ1hkekdpcFdoNkh5R1hjUzdqRllrYTlsLU9IdXJVUU5pOGJscnFIbzdHcml3aXhZdFZDTUZHNE9lcDMybVVhS3BTOVh3?oc=5\" target=\"_blank\">碧水源秩鼎ESG评级维持AA，位居A股同行业150家公司第6名，与小商品城等同级、高于富乐德、低于英科再生等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORWMtc19PanhfYnc2NWtHazhyMUpkWnJrSUoyMzBLWVpQNzluZUVvdWJtcFJYdWtEeDNBbXp4WDItaWZLZjNMZzZnQ1hkekdpcFdoNkh5R1hjUzdqRllrYTlsLU9IdXJVUU5pOGJscnFIbzdHcml3aXhZdFZDTUZHNE9lcDMybVVhS3BTOVh3?oc=5",
-      "published": "Fri, 07 Aug 2026 23:32:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "ST华扬秩鼎ESG评级较上年上升至AA，位居A股同行业67家公司第1名，与中国卫通等同级、高于分众传媒 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzZFaUp0elU3SlM5VHE5RHNkU2labVBfNEk5YkVhT1VjSm9oZFpyaHktVmF6R1Z6WXlIY1psWUhnczBBRXZZcllkYzY3UmNXTWN5eE9ZNFB6ZlNFRHBiSENOM0hRR1c4S21TeDhZR1RsaVV3eks2WDEwMFEtS0RkbGdHbmNTdXVydnZMdEVR?oc=5\" target=\"_blank\">ST华扬秩鼎ESG评级较上年上升至AA，位居A股同行业67家公司第1名，与中国卫通等同级、高于分众传媒</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMzZFaUp0elU3SlM5VHE5RHNkU2labVBfNEk5YkVhT1VjSm9oZFpyaHktVmF6R1Z6WXlIY1psWUhnczBBRXZZcllkYzY3UmNXTWN5eE9ZNFB6ZlNFRHBiSENOM0hRR1c4S21TeDhZR1RsaVV3eks2WDEwMFEtS0RkbGdHbmNTdXVydnZMdEVR?oc=5",
-      "published": "Fri, 07 Aug 2026 22:35:00 GMT"
+      "title": "华海清科秩鼎ESG评级较上年下降至AA，位居A股同行业513家公司第18名，与中国船舶等同级、高于松发股份、低于冠龙节能等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMWZjMmV4dXJWUWY2Y1BFTkNXbVRhQ3FQTmpmMzA2dzBGMGxUb21pOHhYRm5SQ2pYcVlpdk8yMnphMjd5cGdJaUZhQ1RtbzJpZTlFUmZFZkxTb01pWFN4RzhEcVNCb1V2bEpWellaeVJ3eWJuYXZYOGNadUZsTVhGUjdBTE54cjBncnFzSXpn?oc=5\" target=\"_blank\">华海清科秩鼎ESG评级较上年下降至AA，位居A股同行业513家公司第18名，与中国船舶等同级、高于松发股份、低于冠龙节能等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMWZjMmV4dXJWUWY2Y1BFTkNXbVRhQ3FQTmpmMzA2dzBGMGxUb21pOHhYRm5SQ2pYcVlpdk8yMnphMjd5cGdJaUZhQ1RtbzJpZTlFUmZFZkxTb01pWFN4RzhEcVNCb1V2bEpWellaeVJ3eWJuYXZYOGNadUZsTVhGUjdBTE54cjBncnFzSXpn?oc=5",
+      "published": "Sat, 08 Aug 2026 00:39:00 GMT"
     },
     {
       "source": "同花顺",
-      "title": "深圳前首富林立再出手！华林证券2.02亿元拟控股海航期货 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE94ajVpUGRXZEJQeHRYd1pTdHAwcjFkWEF1YTJjSHh0cVhkUmFaNUc4NEpEZW1MS3lqWS1lVTFUXzFsM2RRRWJSYjRFNWNjYUVIWGtVWUZIbW1MLUk2Rm5jS2ln?oc=5\" target=\"_blank\">深圳前首富林立再出手！华林证券2.02亿元拟控股海航期货</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94ajVpUGRXZEJQeHRYd1pTdHAwcjFkWEF1YTJjSHh0cVhkUmFaNUc4NEpEZW1MS3lqWS1lVTFUXzFsM2RRRWJSYjRFNWNjYUVIWGtVWUZIbW1MLUk2Rm5jS2ln?oc=5",
-      "published": "Fri, 07 Aug 2026 23:53:27 GMT"
+      "title": "昨日ETF资金整体净流出265.95亿元",
+      "summary": "据同花顺iFinD数据显示，2026年8月7日，ETF资金整体净流出265.95亿元，股票型净流出278.72亿元，宽基型净流出228.11亿元。当日ETF资金净流出榜单排名前3依次为：南方中证1000ETF（512100）净流出49.23亿元，华泰柏瑞沪深300ETF（510300）净流出27.36亿元，华夏中证1000ETF（159845）净流出23.09亿元。",
+      "link": "https://news.10jqka.com.cn/20260808/c678777285.shtml",
+      "published": "Sat, 08 Aug 2026 00:43:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普称向关键矿产投资30亿美元",
+      "summary": "美国总统特朗普当地时间8月7日宣布，联邦政府将向多个关键矿产和电池项目投资30亿美元，旨在增加美国国内产量，并以此推动国家安全与产业政策。 （CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20260808/c678775449.shtml",
+      "published": "Sat, 08 Aug 2026 00:05:38 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "7月我国线下消费持续升温 消费支付金额同比增长2.2%",
+      "summary": "国家发展改革委国家信息中心最新发布的先行指标显示，7月，我国线下消费持续升温，带动商品消费和服务消费协同向好。7月消费支付金额同比增长2.2%，增速较上月加快0.8个百分点。中小商户的经营活力稳步增强，反映中小商户经营状况的实体商业活力指数较上月提高3.1%。实体商户经营健康指数、线下消费者活力指数环比均有增长。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260808/c678775365.shtml",
+      "published": "Fri, 07 Aug 2026 23:53:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "部分中小银行逆势上调存款利率",
+      "summary": "在年内多数中小银行延续存款利率下调趋势的背景下，近日，广东、湖北等地部分农商行、村镇银行逆势上调存款利率，涉及一年期至五年期等多个期限的存款品种，调整幅度最高达33个基点。目前中小银行存款利率调整呈现两极分化态势。受访专家认为，在净息差压力之下，中小银行调降存款利率依旧是主流，部分中小银行阶段性调升存款利率，以缓解存款到期流失，但并不普遍。（证券日报）",
+      "link": "https://news.10jqka.com.cn/20260808/c678775341.shtml",
+      "published": "Fri, 07 Aug 2026 23:45:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "光伏多晶硅八巨头联署“反内卷”倡议书 多晶硅价格有望回升至成本线以上",
+      "summary": "8月6日晚，国内八大多晶硅企业在上海共同签署“反内卷”倡议书，承诺不得低于成本价销售。由于八家企业合计占据国内超过90%的多晶硅有效产能，此举为市场传递了拟修复价格的信号。多位受访人士认为，在有关部门监督下，多晶硅市场价格有望回升至成本线以上。不过，由于多晶硅价格低迷的根本原因是供过于求，真正的价格回暖尚需依靠真正的落后产能出清来实现。 (上证报)",
+      "link": "https://news.10jqka.com.cn/20260808/c678775323.shtml",
+      "published": "Fri, 07 Aug 2026 23:40:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "发力产品创新 持续增资扩容 外资公募加码布局中国资产",
+      "summary": "外资公募正加码布局中国资产。一批外资公募正密集发行权益类基金及“固收+”等含权类产品，同时积极投身产品创新。多家外资公募表示，当前推出新品，核心缘于对中国资本市场长期发展前景、权益资产配置价值的坚定看好，将持续深耕中国市场，把握投资机遇。 (上证报)",
+      "link": "https://news.10jqka.com.cn/20260808/c678775319.shtml",
+      "published": "Fri, 07 Aug 2026 23:39:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%",
+      "summary": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
+      "link": "https://news.10jqka.com.cn/20260808/c678775152.shtml",
+      "published": "Fri, 07 Aug 2026 22:50:09 GMT"
     },
     {
       "source": "财联社",
@@ -157,6 +199,69 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JSzFuaGVmTnFJemRINTU1eDVPZGNvT2p3NVNpNkxUNFlqd1B3dmRaQ1pPXzZQaVZobEIwa3I5Z0NtdWY2d2JTVQ?oc=5\" target=\"_blank\">亚洲科技股疲软只是短期干扰 摩根大通坚定看好人工智能扩张周期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JSzFuaGVmTnFJemRINTU1eDVPZGNvT2p3NVNpNkxUNFlqd1B3dmRaQ1pPXzZQaVZobEIwa3I5Z0NtdWY2d2JTVQ?oc=5",
       "published": "Fri, 07 Aug 2026 23:05:18 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
+      "summary": "<p>人工智能基础设施投资正以历史罕见的速度重塑全球资本支出格局，其潜在的宏观风险同样不容忽视。</p>\n<p>本周据Apollo Management首席经济学家Torsten Slok的分析，主要超大规模云计算企业的资本支出预计将从2025年占GDP的1.4%攀升至2027至2029年间的约3%，届时将超过1990年代末电信与光纤建设潮峰值的两倍以上。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/9d1acab4-836b-4042-b8d1-b40d7431176a.png\" /></p>\n<p><strong>这一轮投资热潮在绝对规模上虽仍低于2005年住房繁荣期的峰值，但在占GDP份额的累计涨幅及建设速度两项指标上，均已超越此前任何一轮资本支出周期。</strong></p>\n<p><strong>Slok警告，正是投资周期的速度决定了其逆转时的破坏力。</strong></p>\n<p>历史数据显示，住房投资占GDP份额骤降是导致那场严重衰退的核心因素。而规模相对有限的电信泡沫破裂，仅引发了战后最",
+      "link": "https://wallstreetcn.com/articles/3778982",
+      "published": "Sat, 08 Aug 2026 00:31:54 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
+      "summary": "<p style=\"text-align: left;\"><a href=\"https://wallstreetcn.com/articles/3778959?keyword=%E9%9D%9E%E5%86%9C\" rel=\"noopener\" target=\"_blank\">美国7月非农爆冷</a>，当市场将其解读为经济放缓信号时，贝莱德全球固定收益部门首席投资官里克·里德（Rick Rieder）给出不同解读：就业疲软反映的不是需求崩塌，而是AI驱动的生产率革命正在从根本上改变劳动力市场的运行逻辑。</p>\n<p style=\"text-align: left;\">里德曾是与沃什角逐美联储主席位置的热门候选人，其的核心论断直指传统宏观分析框架的软肋——\"不能再简单地把就业疲软与经济疲软划上等号\"。</p>\n<p style=\"text-align: left;\"><strong>他认为，在AI技术渗透、企业追求极致效率以及移民数量大幅下降三重力量的共同作用下，非农数据作为经济晴雨表的信号价值正在被系统性削弱。</strong></p>\n<p style=\"text-align: l",
+      "link": "https://wallstreetcn.com/articles/3778981",
+      "published": "Fri, 07 Aug 2026 23:20:54 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月8日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">美非农就业意外疲软打击加息预期</span>，三大<span style=\"color: #ff0000;\">美股</span>指<span style=\"color: #ff0000;\">反弹</span>、均创三个多月最大周涨幅，<span style=\"color: #ff0000;\">标普道指齐创收盘新高</span>，纳指收涨超1%；<span style=\"color: #ff0000;\">SpaceX收涨近16%</span>、限售股解禁后两日涨超20%；芯片指数两连阳、全周涨超9%，<span styl",
+      "link": "https://wallstreetcn.com/articles/3778980",
+      "published": "Fri, 07 Aug 2026 23:08:38 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
+      "summary": "<p>SpaceX股票连续第二个交易日大涨，距离重新站上135美元的IPO发行价仅一步之遥。<strong>周五，公司股价上涨约16%，推动两日累计涨幅达到约23%，期间市值增加超过3270亿美元。</strong></p>\n<p>这轮强势反弹发生在首批大规模限售股解禁之后。周四，约9.115亿股SpaceX股票解除出售限制，可流通股数量由此前的约6.39亿股增至15.5亿股，市场此前一度担心早期投资者集中抛售将给股价带来巨大压力，但实际情况却截然相反。</p>\n<p>SpaceX股价的快速反弹，也令此前押注股价下跌的投资者承受巨大压力。<strong>目前仍有超过2.5亿股SpaceX股票被卖空，相当于当前可交易股票的约16%。一旦股价快速上涨，空头被迫回补可能进一步推升股价，</strong></p>\n<p>与此同时，SpaceX期权市场交易也出现异常活跃。<strong>周五截至纽约时间下午1时50分，SpaceX期权成交量达到224万份合约，其中看涨期权成交量达到130万份，创历史新高，显示资金正在重新涌入。</strong></p>\n<p>不过，股价快速反弹并不意味着市场对S",
+      "link": "https://wallstreetcn.com/articles/3778979",
+      "published": "Fri, 07 Aug 2026 22:48:19 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "就业市场松动？非农爆冷下滑，美联储9月还会按下加息键吗",
+      "summary": "<figure><img alt=\"就业市场松动？非农爆冷下滑，美联储9月还会按下加息键吗\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/2f48819fe11d191d383bb589d3d0b4de.jpg\" /></figure><p>下周CPI数据或成为关键。</p><p>备受瞩目的非农报告意外爆冷，美国7月就业岗位出现减少，5、6月就业数据也被大幅下修，市场开始质疑美联储是否会在下月加息。对于美联储年底最终利率水平，机构的分歧也在加剧。</p>\n\n<p><strong>季节性波动</strong></p>\n\n<p><strong>美国劳工统计局周五发布的就业报告显示，7月非农就业人数减少2.3万人，</strong>市场推测一部分原因是世界杯赛事结束以及传统的季节性回落。<strong>6月数据向下修正，从原先公布的新增5.7万人，下调至仅新增2万人，5月与6月合计较初值少增10.3万个就业岗位。</strong></p>\n\n<p>劳动参与率进一步回落，推动<strong>失业率从6月的4.2%降至4.1%。</st",
+      "link": "https://www.yicai.com/news/103310486.html",
+      "published": "Sat, 08 Aug 2026 00:42:27 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "极端天气扰动7月外贸增速，芯片出口仍同比激增117%",
+      "summary": "<figure><img alt=\"极端天气扰动7月外贸增速，芯片出口仍同比激增117%\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/8493BF97-EB09-45D8-AE65-C6E23750BDEF.jpg\" /></figure><p>出口增速有所放缓符合市场预期</p><p>受极端天气影响，中国外贸在保持高位的同时增速有所回落。</p><p>根据8月7日海关总署公布的数据，以美元计价，2026年7月我国外贸进出口总值6832.1亿美元，较6月回落159.4亿美元；同比增长25.0%，增速较6月回落5.6个百分点。与此同时，7月出口和进口同比增速分别较6月回落3.1和8.5个百分点。</p><p><strong>出口高位波动符合市场预期</strong></p><p>上海财经大学公共政策与治理研究院首席专家杨畅表示，7月出口金额和增速较6月环比均有所下降，考虑到去年的基数相对平稳，同比增速回落表明短期波动。</p><p>他认为，出口在高基数基础上维持高增速本身就存在难度。从历史经验来看，每年7月开始，出口集装箱",
+      "link": "https://www.yicai.com/news/103310433.html",
+      "published": "Sat, 08 Aug 2026 00:23:24 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "黄金创1月以来最佳表现，瑞银喊出5000美元目标价",
+      "summary": "<figure><img alt=\"黄金创1月以来最佳表现，瑞银喊出5000美元目标价\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/08/a8077dc3689a3efa4e4185781f3a342b.jpeg\" /></figure><p>国际金价本周大涨超7%。</p><p>经历数月的沉寂之后，金价显现出复苏迹象。</p>\n\n<p>道琼斯市场数据显示，截至周五收盘，纽约商品交易所8月交割的COMEX黄金期货本周上涨291.60美元，涨幅7.20%，报4340.70美元/盎司，创下1月23日当周以来最大单周涨幅。</p>\n\n<p><strong>金价探底回升</strong></p>\n\n<p>最新数据显示，美国就业市场疲软，叠加美伊有望达成和平协议，市场对能源通胀的担忧有所缓和，美联储加息预期降温，黄金本周录得1月以来最大单周涨幅，机构重燃对金价的乐观预期。</p>\n\n<p>与此同时，受美伊有关霍尔木兹海峡通航谈判消息影响，国际油价本周大幅下挫。能源成本下行可以缓解通胀压力，进而让市场下调加息押注。黄金作为无息资产，在高利率环",
+      "link": "https://www.yicai.com/news/103310423.html",
+      "published": "Sat, 08 Aug 2026 00:03:00 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "深夜重磅！北京五环内购房门槛降低，楼市再迎政策暖风",
+      "summary": "<figure><img alt=\"深夜重磅！北京五环内购房门槛降低，楼市再迎政策暖风\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/72EF5A3A-F9D9-413A-8D4E-2F4E8346657A.jpg\" /></figure><p>优化限购、加大公积金支持力度......北京深夜祭出重磅楼市新政。</p><p>优化限购、加大公积金支持力度......北京深夜祭出重磅楼市新政。</p><p>8月7日晚间，北京多部门联合印发通知，明确自8月8日起，非京籍家庭购买五环内商品住房的社保或个税缴纳年限，由“2年”调减为“1年”，限购政策进一步优化。</p><p>限购放松的同时，北京对公积金政策作出重要调整，对购买绿色建筑、多子女家庭等情况给予上浮支持，在带押过户及公积金装修提取等方面也有调整。</p><p>业内专家认为，本次新政的出台，有望带动五环内新房及二手房成交量阶段性回升，刚需入市节奏可能进一步加快。</p><p><strong>北京楼市再迎“强心剂”</strong></p><p>8月7日，北京多部门联合印发《",
+      "link": "https://www.yicai.com/news/103310419.html",
+      "published": "Fri, 07 Aug 2026 23:37:49 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "标普创新高！光通信拉升存储芯片低迷，SpaceX顶住解禁大涨15%，贵金属爆发",
+      "summary": "<figure><img alt=\"标普创新高！光通信拉升存储芯片低迷，SpaceX顶住解禁大涨15%，贵金属爆发\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/08/87203306fde9d616cdf72473c4c04e1e.jpeg\" /></figure><p>中长期美债收益率回落，2年期美债重回4.20%。</p><p><strong>*三大股指走高，纳指涨1.3%；</strong></p>\n\n<p><strong>*美国7月非农不及预期；</strong></p>\n\n<p><strong>*中概股表现不俗，纳斯达克中国金龙指数涨0.77%。</strong></p>\n\n<p>周五美股全线上涨，7月非农下滑，市场下调美联储9月加息的预期。截至收盘，道琼斯工业平均指数上涨151.83点，涨幅0.28%，报54036.93 点，纳斯达克综合指数上涨1.30%，报26690.62点，标普500指数涨0.62%，报7757.64点，创下历史新高。</p>\n\n<p><strong>本周道指上涨3.0%，纳斯达克指数上涨5.2%",
+      "link": "https://www.yicai.com/news/103310420.html",
+      "published": "Fri, 07 Aug 2026 23:28:41 GMT"
     },
     {
       "source": "证券时报",
