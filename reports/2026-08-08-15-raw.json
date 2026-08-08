@@ -1,8 +1,8 @@
 {
   "date": "2026-08-08",
   "hour": "15",
-  "total": 29,
-  "fetched_at": "2026-08-08T15:00:55.338048+08:00",
+  "total": 24,
+  "fetched_at": "2026-08-08T15:39:33.261902+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -13,13 +13,6 @@
     },
     {
       "source": "新浪财经",
-      "title": "牛散赵建平加仓公司提前曝光！A股市场做多窗口已开启？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQamVkck5HM1Z4MHJCeXBnaWt6ZnhESkVpOGlYOHdXWFJPY0toTWtNc3NMRWliQUk3NzZDMEo1X3FwYUV5QVRjRGUyN2loWFdvdE5HYTJQVlZiUWVpRUczTXBlR2lPU1FGeFFRMHdJQXJyR1VROVdadHVDTUFBZDhQVGJSN1M?oc=5\" target=\"_blank\">牛散赵建平加仓公司提前曝光！A股市场做多窗口已开启？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQamVkck5HM1Z4MHJCeXBnaWt6ZnhESkVpOGlYOHdXWFJPY0toTWtNc3NMRWliQUk3NzZDMEo1X3FwYUV5QVRjRGUyN2loWFdvdE5HYTJQVlZiUWVpRUczTXBlR2lPU1FGeFFRMHdJQXJyR1VROVdadHVDTUFBZDhQVGJSN1M?oc=5",
-      "published": "Sat, 08 Aug 2026 05:22:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "“药不能停！”超130亿元资金早已埋伏，医药成为市场新主线？ - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5UdVota0ZKZnladXRCeG5EZDdHRzI0M0ViN0VReUlhN0VsRzd4SkJlMktSbkloV1lYWTlPNUFuRGJfMUg3NEJJVHpWTmQzQnBMWFh4dk1fSV9NUVpPWVNtdDV5cjJfbTlMNkdyNWFkSFRGTlFfRkVKVA?oc=5\" target=\"_blank\">“药不能停！”超130亿元资金早已埋伏，医药成为市场新主线？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5UdVota0ZKZnladXRCeG5EZDdHRzI0M0ViN0VReUlhN0VsRzd4SkJlMktSbkloV1lYWTlPNUFuRGJfMUg3NEJJVHpWTmQzQnBMWFh4dk1fSV9NUVpPWVNtdDV5cjJfbTlMNkdyNWFkSFRGTlFfRkVKVA?oc=5",
@@ -27,122 +20,45 @@
     },
     {
       "source": "新浪财经",
-      "title": "新安股份秩鼎ESG评级较上年上升至AAA，位居A股同行业509家公司排名第1名，与盐湖股份等同级、高于万华化学 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2VlMThZWl9kTVVtZlVwbXIyS3E4SG1EWVgyeXJNV1RYeF9YMXpDMXBvTlhIRXUzdlpHX3hLRS1Pd1lBX2R4MHJmM3l4S3ZaX2lQYlhNNl9wZVlIR3QyQVdTNEhkTzNFa1BvbUxMak00V3dzbzd5VXZFU2kwRi15cmN0aDlGLUVBSmxGbTh3?oc=5\" target=\"_blank\">新安股份秩鼎ESG评级较上年上升至AAA，位居A股同行业509家公司排名第1名，与盐湖股份等同级、高于万华化学</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX2VlMThZWl9kTVVtZlVwbXIyS3E4SG1EWVgyeXJNV1RYeF9YMXpDMXBvTlhIRXUzdlpHX3hLRS1Pd1lBX2R4MHJmM3l4S3ZaX2lQYlhNNl9wZVlIR3QyQVdTNEhkTzNFa1BvbUxMak00V3dzbzd5VXZFU2kwRi15cmN0aDlGLUVBSmxGbTh3?oc=5",
-      "published": "Sat, 08 Aug 2026 05:14:00 GMT"
+      "title": "凌钢股份秩鼎ESG评级较上年上升至AA，位居A股同行业217家公司第29名，与洛阳钼业等同级、高于兴业银锡等、低于广大特材等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXlwMlRUaXVTcGZwUTU5VzlmTFFXeTlKejVGMHNMRklDcDl4ZnI2SzlhTEdtMDhoMDBuUW1lamhaRVNTVmpidU81bnZtV2xSclJXeXJlQzNhM0Fva05jbGU2bVZnNjltVzl4UmtHVTkxd0pBNE5FbFcwTzJ4RElKM2dxbmNaT3dwTkRjT2ln?oc=5\" target=\"_blank\">凌钢股份秩鼎ESG评级较上年上升至AA，位居A股同行业217家公司第29名，与洛阳钼业等同级、高于兴业银锡等、低于广大特材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLXlwMlRUaXVTcGZwUTU5VzlmTFFXeTlKejVGMHNMRklDcDl4ZnI2SzlhTEdtMDhoMDBuUW1lamhaRVNTVmpidU81bnZtV2xSclJXeXJlQzNhM0Fva05jbGU2bVZnNjltVzl4UmtHVTkxd0pBNE5FbFcwTzJ4RElKM2dxbmNaT3dwTkRjT2ln?oc=5",
+      "published": "Sat, 08 Aug 2026 05:44:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "东方电气秩鼎ESG评级维持AAA，位居A股同行业262家公司第1名，与宁德时代等同级、高于亨通光电等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUVzbjNxbXFaX0JKNHVkNVF6blRCZkRNU3pOenNyR2tONGpFYUo2eTJlVkVYaTk4YmVieFRSYTlqb2dMQ21idTF0Z1BlRUVsbXRQS2Q2VlA0TEROOUJBMHYwSDBrQkc1Y3dTejFpM0RlcWVxb3JPT250RzhKdWloSEp1QXgwaXBoanRNWm1B?oc=5\" target=\"_blank\">东方电气秩鼎ESG评级维持AAA，位居A股同行业262家公司第1名，与宁德时代等同级、高于亨通光电等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUVzbjNxbXFaX0JKNHVkNVF6blRCZkRNU3pOenNyR2tONGpFYUo2eTJlVkVYaTk4YmVieFRSYTlqb2dMQ21idTF0Z1BlRUVsbXRQS2Q2VlA0TEROOUJBMHYwSDBrQkc1Y3dTejFpM0RlcWVxb3JPT250RzhKdWloSEp1QXgwaXBoanRNWm1B?oc=5",
-      "published": "Sat, 08 Aug 2026 05:20:00 GMT"
+      "title": "五方光电秩鼎ESG评级维持BBB，位居A股同行业576家公司第363名，与宏和科技等同级、高于大普微等、低于欧普泰等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTlWODdZQXBjVFpsdUlSalotX2FSTl9FR3NOMjhEa1p5SnNRUTdiemxrZE1Ia3dfaVRxc21JZ1piZFlLZlVBV3J6bjVRc1pZQVZ1ZW5kNEtQWFV6bXprbnRlS1JIbjF3NVFUZ0JDcEM4bnhPVFV4VVdqVFNtM0ZpaHoydW9JSWtmOUE4ZEFn?oc=5\" target=\"_blank\">五方光电秩鼎ESG评级维持BBB，位居A股同行业576家公司第363名，与宏和科技等同级、高于大普微等、低于欧普泰等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTlWODdZQXBjVFpsdUlSalotX2FSTl9FR3NOMjhEa1p5SnNRUTdiemxrZE1Ia3dfaVRxc21JZ1piZFlLZlVBV3J6bjVRc1pZQVZ1ZW5kNEtQWFV6bXprbnRlS1JIbjF3NVFUZ0JDcEM4bnhPVFV4VVdqVFNtM0ZpaHoydW9JSWtmOUE4ZEFn?oc=5",
+      "published": "Sat, 08 Aug 2026 05:43:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "山高环能秩鼎ESG评级位居A股同行业150家公司第43名，与富乐德等同级、高于实朴检测、低于国义招标等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGphQWY4WDNpanFCNDhUbV9KdWVCVWNuQjBCRC1wV0M0cGdPU2FGZEFXRWZpOVUyckJoZ1Zha2hMNWQxS05rOTNFRWIyRFRibWptLTdJMDNXUWZRRmpITmdYUTJQazBNcWNRczlQbFlFOHNNdkwyMy0tUXFlQmZib3FjVDNRX3RMVHN6MGJR?oc=5\" target=\"_blank\">山高环能秩鼎ESG评级位居A股同行业150家公司第43名，与富乐德等同级、高于实朴检测、低于国义招标等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGphQWY4WDNpanFCNDhUbV9KdWVCVWNuQjBCRC1wV0M0cGdPU2FGZEFXRWZpOVUyckJoZ1Zha2hMNWQxS05rOTNFRWIyRFRibWptLTdJMDNXUWZRRmpITmdYUTJQazBNcWNRczlQbFlFOHNNdkwyMy0tUXFlQmZib3FjVDNRX3RMVHN6MGJR?oc=5",
-      "published": "Sat, 08 Aug 2026 05:50:00 GMT"
+      "source": "同花顺",
+      "title": "受台风“白海豚”影响 上海轮渡全线停航",
+      "summary": "8月8日，记者从上海轮渡获悉，因受今年第13号台风“白海豚”影响，截至13时58分，上海轮渡已全线停航。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260808/c678788732.shtml",
+      "published": "Sat, 08 Aug 2026 07:38:52 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "长川科技秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNV2FIVWV0QmVUTmQyendiR21nUS1XM1YwOWh5dm9Cc25EdWpjUmUzSEdrYWNRXzBvUWxtY3RfYXRzRGtTNFdkdmtHcjF0NWhfeEFteWc5WFAwYnhla2tZZEpxRldXQm9lMlNTRXFCcm9CdHQ5enVMX0NrZERicUcxaVhqNHd1Q2paRlBRV0p3?oc=5\" target=\"_blank\">长川科技秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV2FIVWV0QmVUTmQyendiR21nUS1XM1YwOWh5dm9Cc25EdWpjUmUzSEdrYWNRXzBvUWxtY3RfYXRzRGtTNFdkdmtHcjF0NWhfeEFteWc5WFAwYnhla2tZZEpxRldXQm9lMlNTRXFCcm9CdHQ5enVMX0NrZERicUcxaVhqNHd1Q2paRlBRV0p3?oc=5",
-      "published": "Sat, 08 Aug 2026 05:21:00 GMT"
+      "source": "同花顺",
+      "title": "京昆高速广绵段扩容工程主线路面贯通过半",
+      "summary": "8月7日，随着最后一段沥青路面完成摊铺，由中铁五局承建的京昆高速广（元）绵（阳）段扩容工程主线路面63.88公里顺利贯通，标志着该段主线路面贯通过半。广绵高速扩容项目全长约124公里，是国家“十纵十横”综合运输大通道首都放射线G5京昆高速的关键段落，也是四川省北上出川的核心通道。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260808/c678788710.shtml",
+      "published": "Sat, 08 Aug 2026 07:32:15 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "建科院秩鼎ESG评级较上年维持A，位居A股同行业88家公司第26名，与数据港等同级、高于胜科纳米等、低于广咨国际等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnFoYzhVNzVEdjBVY3J0QkluRVNVeHAwTFNhNUlvb2I3NEMxRmFWTm9TWGc3NmV1QjM0Smg1NFkwU1FxSk9zMWJrdUQwMjl0VGRyUHF1dUlrM2FfeHlMRmtEZXBVM0hCY0lRYUtjUkpDODFQYUdIZ1VXb1c4TmMtWVpmVmtEWWcyTFg0cUtR?oc=5\" target=\"_blank\">建科院秩鼎ESG评级较上年维持A，位居A股同行业88家公司第26名，与数据港等同级、高于胜科纳米等、低于广咨国际等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnFoYzhVNzVEdjBVY3J0QkluRVNVeHAwTFNhNUlvb2I3NEMxRmFWTm9TWGc3NmV1QjM0Smg1NFkwU1FxSk9zMWJrdUQwMjl0VGRyUHF1dUlrM2FfeHlMRmtEZXBVM0hCY0lRYUtjUkpDODFQYUdIZ1VXb1c4TmMtWVpmVmtEWWcyTFg0cUtR?oc=5",
-      "published": "Sat, 08 Aug 2026 05:22:00 GMT"
+      "source": "同花顺",
+      "title": "海南东方市发布暴雨红色预警信号",
+      "summary": "记者从海南省东方市气象台获悉，8月8日11时29分，东方市变更暴雨橙色预警信号为暴雨红色预警信号：受对流云团影响，三家镇过去12小时降雨量已达186毫米，预计未来6小时，东方市各乡镇仍将有30—60毫米的降水，建议有关单位和人员做好防范工作。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260808/c678788674.shtml",
+      "published": "Sat, 08 Aug 2026 07:20:49 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "兴福电子秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdV92ZUVHeGtHQzZFcXpZRjdPaUFNdGRFWXB2aFBtT0VnMGRheWFFNVcxMGYzMTBSMHZUVkcyMU1FMkJ0RW9vdTFzaEJZRklTX0VGbnpBME1kMVpkZml0V2ZDMjhkWW1meDJpRklMQ2ttejhUU2JMM3FKcTlYZTdoX3J3eHd3SERiTmxOQTBn?oc=5\" target=\"_blank\">兴福电子秩鼎ESG评级较上年上升至AA，位居A股同行业576家公司排名第39名，与海光信息等同级、高于三环集团等、低于宇邦新材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdV92ZUVHeGtHQzZFcXpZRjdPaUFNdGRFWXB2aFBtT0VnMGRheWFFNVcxMGYzMTBSMHZUVkcyMU1FMkJ0RW9vdTFzaEJZRklTX0VGbnpBME1kMVpkZml0V2ZDMjhkWW1meDJpRklMQ2ttejhUU2JMM3FKcTlYZTdoX3J3eHd3SERiTmxOQTBn?oc=5",
-      "published": "Sat, 08 Aug 2026 05:23:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "福田汽车秩鼎ESG评级维持AAA，位居A股同行业26家公司第1名，与比亚迪等同级、高于宇通客车 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZW9KemRYYV9FV04xbmR4bjBnN094SWE0RjhRN3ZodVQxcWxHYkZuTTJfemh5dE1kVjhtVV9tOXcyZW1ta3c5V2ZDUnA1RGVkdkljcUJGcmt2UG5LZTE5M1lKU1pvWDNndDl3N3ZhSTVRV1p6X3ZDWEhBUUNxMWNua3BwVlg4bkpveUlEYlRR?oc=5\" target=\"_blank\">福田汽车秩鼎ESG评级维持AAA，位居A股同行业26家公司第1名，与比亚迪等同级、高于宇通客车</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZW9KemRYYV9FV04xbmR4bjBnN094SWE0RjhRN3ZodVQxcWxHYkZuTTJfemh5dE1kVjhtVV9tOXcyZW1ta3c5V2ZDUnA1RGVkdkljcUJGcmt2UG5LZTE5M1lKU1pvWDNndDl3N3ZhSTVRV1p6X3ZDWEhBUUNxMWNua3BwVlg4bkpveUlEYlRR?oc=5",
-      "published": "Sat, 08 Aug 2026 05:53:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "冰山冷热秩鼎ESG评级较上年下降至A，位居A股同行业513家公司第144名，与松发股份等同级、高于华曙高科等、低于铁拓机械等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlBnb0RXYXZKQ2VuUVJqOWttZjktQl9EQnY1Uk1BVnZPdWtxWFZldDhYRTVJUzNrV3ZhdmRrVU10M2RLei0tUVVqNy1vY054RWpSeGIwVHlxa0lPcWN2MkFhMklrb3ZuVGFQNFd5UWNNNU41TVZOU182b3J2dC1uS2NrMkdNNjRCLTBPVVNR?oc=5\" target=\"_blank\">冰山冷热秩鼎ESG评级较上年下降至A，位居A股同行业513家公司第144名，与松发股份等同级、高于华曙高科等、低于铁拓机械等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMlBnb0RXYXZKQ2VuUVJqOWttZjktQl9EQnY1Uk1BVnZPdWtxWFZldDhYRTVJUzNrV3ZhdmRrVU10M2RLei0tUVVqNy1vY054RWpSeGIwVHlxa0lPcWN2MkFhMklrb3ZuVGFQNFd5UWNNNU41TVZOU182b3J2dC1uS2NrMkdNNjRCLTBPVVNR?oc=5",
-      "published": "Sat, 08 Aug 2026 05:50:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "辉煌科技秩鼎ESG评级较上年维持A，位居A股同行业91家公司第37名，与新易盛等同级、高于菲菱科思、低于三旺通信等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTN3TVo3VG80LUhJdVNoTGNrSEZQYlBCRzNWamcyVk9PX2U1am1aNGY3dkF2QUh1QW9jZzNLeEpiSFZxYUV0WTFpbnRyWjFsenJkMk12MlFtdDJ5alVWeklCSmJ4ZmpDRWxaNWtIQ0NpNG55RVRqNkJHWWMxZERZdUhxejU2cmRzZ3pSbTJB?oc=5\" target=\"_blank\">辉煌科技秩鼎ESG评级较上年维持A，位居A股同行业91家公司第37名，与新易盛等同级、高于菲菱科思、低于三旺通信等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZTN3TVo3VG80LUhJdVNoTGNrSEZQYlBCRzNWamcyVk9PX2U1am1aNGY3dkF2QUh1QW9jZzNLeEpiSFZxYUV0WTFpbnRyWjFsenJkMk12MlFtdDJ5alVWeklCSmJ4ZmpDRWxaNWtIQ0NpNG55RVRqNkJHWWMxZERZdUhxejU2cmRzZ3pSbTJB?oc=5",
-      "published": "Sat, 08 Aug 2026 05:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "力合微秩鼎ESG评级维持A级，位居A股同行业198家公司第76名，与燕东微等同级、高于摩尔线程、低于同享科技等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPRXVuWDQ4aGFKaTRZOUNOaFduTHRsMm9JXzNtUUs2Y1J0SjdnRGJWb2xtcDFlUk5sZFF2Sk52UU9yTW5FVUl6bl9uSEZxRHBOb3NBcE1hY2YzR3l0M0NsbXprM3BrYjluV0hVUGVxSUtZRGNtR0ZYWWhzc0w4X0JFdlZvZmw1UDZjel9telJB?oc=5\" target=\"_blank\">力合微秩鼎ESG评级维持A级，位居A股同行业198家公司第76名，与燕东微等同级、高于摩尔线程、低于同享科技等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRXVuWDQ4aGFKaTRZOUNOaFduTHRsMm9JXzNtUUs2Y1J0SjdnRGJWb2xtcDFlUk5sZFF2Sk52UU9yTW5FVUl6bl9uSEZxRHBOb3NBcE1hY2YzR3l0M0NsbXprM3BrYjluV0hVUGVxSUtZRGNtR0ZYWWhzc0w4X0JFdlZvZmw1UDZjel9telJB?oc=5",
-      "published": "Sat, 08 Aug 2026 05:10:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "艾可蓝秩鼎ESG评级维持BBB，位居A股同行业513家公司第328名，与华曙高科等同级、高于江钨装备等、低于中寰股份等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGo0M1U4TUZaRzQ2UTZibi01cEhKUVJYZ1VReGRBc2RzeDYtTVhLSW9ha0RNMUp2czFlTXB6MkFXX25MYTJsMDhYLXMxZ1BvbGlQNHVZcW1QUWx6MzludGUxTndjeXlodk5UN2pzSkhSSVBfNXBJX2ctd0Z4MHVsZDRLN2hUNElFdmdxeU1R?oc=5\" target=\"_blank\">艾可蓝秩鼎ESG评级维持BBB，位居A股同行业513家公司第328名，与华曙高科等同级、高于江钨装备等、低于中寰股份等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGo0M1U4TUZaRzQ2UTZibi01cEhKUVJYZ1VReGRBc2RzeDYtTVhLSW9ha0RNMUp2czFlTXB6MkFXX25MYTJsMDhYLXMxZ1BvbGlQNHVZcW1QUWx6MzludGUxTndjeXlodk5UN2pzSkhSSVBfNXBJX2ctd0Z4MHVsZDRLN2hUNElFdmdxeU1R?oc=5",
-      "published": "Sat, 08 Aug 2026 05:52:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "盛科通信秩鼎ESG评级维持A，位居A股同行业576家公司第181名，与三环集团等同级、高于宏和科技等、低于灿能电力等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHFrTGhxX1Q2Q2FkcDZoZG9fN2h6WVFMdHJ0eG5CeW5nV2lMdnltd3FTajdOUXZveW1nVlVSSVVTblY0anVCenhVejluM0NldzRwNzMxU0lDLU1NeUZXZW1GQUxIRGpzUnBjWjl0aFdnS1JqZHJUUW9lVkFfU2RmWklvMzlfTEo4UGRvX01n?oc=5\" target=\"_blank\">盛科通信秩鼎ESG评级维持A，位居A股同行业576家公司第181名，与三环集团等同级、高于宏和科技等、低于灿能电力等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHFrTGhxX1Q2Q2FkcDZoZG9fN2h6WVFMdHJ0eG5CeW5nV2lMdnltd3FTajdOUXZveW1nVlVSSVVTblY0anVCenhVejluM0NldzRwNzMxU0lDLU1NeUZXZW1GQUxIRGpzUnBjWjl0aFdnS1JqZHJUUW9lVkFfU2RmWklvMzlfTEo4UGRvX01n?oc=5",
-      "published": "Sat, 08 Aug 2026 05:23:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "亚信安全秩鼎ESG评级较上年上升至AA，位居A股同行业143家公司第1名，与金山办公等同级、高于宝信软件 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOU3p6QTI3VHYwVkxPRUN5TG5kdzlNal9QdzRWSnJPSjB2UWdJa3oyWnJyeHNRQ0NTeENXMTJiSUx6VHYtX294TTRLU05wNjRwS1lYQTJIV1RWaTlmUXR3T1VOOWtYODNzbUVYWGlPV01uWTJHeTBha3ZjbktUWXVBWE1wUmxwakY4OHRXSzhR?oc=5\" target=\"_blank\">亚信安全秩鼎ESG评级较上年上升至AA，位居A股同行业143家公司第1名，与金山办公等同级、高于宝信软件</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU3p6QTI3VHYwVkxPRUN5TG5kdzlNal9QdzRWSnJPSjB2UWdJa3oyWnJyeHNRQ0NTeENXMTJiSUx6VHYtX294TTRLU05wNjRwS1lYQTJIV1RWaTlmUXR3T1VOOWtYODNzbUVYWGlPV01uWTJHeTBha3ZjbktUWXVBWE1wUmxwakY4OHRXSzhR?oc=5",
-      "published": "Sat, 08 Aug 2026 05:21:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "悦心健康秩鼎ESG评级维持A，位居A股同行业26家公司第9名，与旗滨集团等同级、高于东南网架、低于森鹰窗业等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPV1ZqbXBDUWU3UkFBLS05QTYwSGlibmNPWlQwa1FHc3c5NEg2Rjg5dk5KQ1ZETXByemRYaEEzV2FzMUk1NjhQaVpkNnFoek8zdjR2MEw2Q1dsR1A1WU8xNnVseVNHM1AtaVlZd20ySTZjRENVU2dOOFdDcnBHc2ZOb1pDM0FUenp3MWNUbTBR?oc=5\" target=\"_blank\">悦心健康秩鼎ESG评级维持A，位居A股同行业26家公司第9名，与旗滨集团等同级、高于东南网架、低于森鹰窗业等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV1ZqbXBDUWU3UkFBLS05QTYwSGlibmNPWlQwa1FHc3c5NEg2Rjg5dk5KQ1ZETXByemRYaEEzV2FzMUk1NjhQaVpkNnFoek8zdjR2MEw2Q1dsR1A1WU8xNnVseVNHM1AtaVlZd20ySTZjRENVU2dOOFdDcnBHc2ZOb1pDM0FUenp3MWNUbTBR?oc=5",
-      "published": "Sat, 08 Aug 2026 05:11:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "派特尔秩鼎ESG评级较上年上升至A，位居A股同行业509家公司第210名，与华峰化学等同级、高于和邦生物、低于富恒新材等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMk9JYjdMbnhhOWxnbXAtVzBRTWpaXzZLN05hR3VEeG5NV2MyUUtZVGlMcEsxOTY3bEY4aDhGclJKOE93eFVTQTlKdk5DaXBZRnNLMlV1OGk4MGE5OWsza0dldGxFQ0hRMWJnS2Zlc2xjazJxRnNFU1ExWnZ5WmpaSFZaaUxnYk5FYnhxTUxn?oc=5\" target=\"_blank\">派特尔秩鼎ESG评级较上年上升至A，位居A股同行业509家公司第210名，与华峰化学等同级、高于和邦生物、低于富恒新材等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMk9JYjdMbnhhOWxnbXAtVzBRTWpaXzZLN05hR3VEeG5NV2MyUUtZVGlMcEsxOTY3bEY4aDhGclJKOE93eFVTQTlKdk5DaXBZRnNLMlV1OGk4MGE5OWsza0dldGxFQ0hRMWJnS2Zlc2xjazJxRnNFU1ExWnZ5WmpaSFZaaUxnYk5FYnhxTUxn?oc=5",
-      "published": "Sat, 08 Aug 2026 05:10:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "上海钢联秩鼎ESG评级维持A，位居A股同行业200家公司第35名，与润泽科技等同级、高于宏景科技、低于派诺科技等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxObUx6bFh0Nmd3cFlNbTJhcjQwSXJQcjJjMXJlandUSUJCRkZOaXQzcEUtckJVTTZLZEU3NlFuamNhV2hicTIwNGtqc2NYNDVOQXVPWDBLMUFaaDVLUkV4Wlc0SjJxSXpjSzF3Y29xNldwbmVjMHFucERVN0dMYmRnNkwwM01McE1YanhXYkFR?oc=5\" target=\"_blank\">上海钢联秩鼎ESG评级维持A，位居A股同行业200家公司第35名，与润泽科技等同级、高于宏景科技、低于派诺科技等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUx6bFh0Nmd3cFlNbTJhcjQwSXJQcjJjMXJlandUSUJCRkZOaXQzcEUtckJVTTZLZEU3NlFuamNhV2hicTIwNGtqc2NYNDVOQXVPWDBLMUFaaDVLUkV4Wlc0SjJxSXpjSzF3Y29xNldwbmVjMHFucERVN0dMYmRnNkwwM01McE1YanhXYkFR?oc=5",
-      "published": "Sat, 08 Aug 2026 05:14:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "青木科技秩鼎ESG评级较上年上升至BBB，位居A股同行业200家公司第111名，与宏景科技等同级、高于天娱数科、低于*ST元道等 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTlVR0NDcFpCa0VYREJfSVNTY3JrZ25femdXRnJHNXFpRWkzZ1RkZmVIUWtoVnYyQlBNZjFQS3NkOEpNNWFtbmJXd1loek9zYkVMZ1lxRkNEZUlIeU44X3JOUkFyaFJuMjZuSm1ic240cWlrMFpJZmpXQm5qdm80Uk5LYkVaR2t6S2RkME5n?oc=5\" target=\"_blank\">青木科技秩鼎ESG评级较上年上升至BBB，位居A股同行业200家公司第111名，与宏景科技等同级、高于天娱数科、低于*ST元道等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWTlVR0NDcFpCa0VYREJfSVNTY3JrZ25femdXRnJHNXFpRWkzZ1RkZmVIUWtoVnYyQlBNZjFQS3NkOEpNNWFtbmJXd1loek9zYkVMZ1lxRkNEZUlIeU44X3JOUkFyaFJuMjZuSm1ic240cWlrMFpJZmpXQm5qdm80Uk5LYkVaR2t6S2RkME5n?oc=5",
-      "published": "Sat, 08 Aug 2026 05:19:00 GMT"
+      "source": "同花顺",
+      "title": "阳光电源：FCC政策主要限制新产品认证 公司目前在美销售的光伏逆变器、储能系统不受影响",
+      "summary": "阳光电源8月8日在互动平台表示，公司目前初步判断，FCC政策主要限制新产品认证，不影响已获认证产品的销售，公司目前在美销售的光伏逆变器、储能系统不受影响。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260808/c678788657.shtml",
+      "published": "Sat, 08 Aug 2026 07:12:10 GMT"
     },
     {
       "source": "同花顺",
@@ -166,11 +82,67 @@
       "published": "Sat, 08 Aug 2026 06:18:39 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "湖北首家宇树科技产业学院成立",
-      "summary": "据湖北日报，8月7日，湖北省首家宇树科技产业学院在长江工程职业技术学院成立。据悉，“宇树科技产业学院”由宇树科技股份有限公司与长江工程职业技术学院共建，实行“企业专家任院长、校内教授任执行副院长”双院长制管理架构，聚焦机器人调试、运维、技术支持等市场紧缺岗位，精准培育紧缺人才。",
-      "link": "https://news.10jqka.com.cn/20260808/c678788471.shtml",
-      "published": "Sat, 08 Aug 2026 05:22:29 GMT"
+      "source": "财联社",
+      "title": "俄罗斯：对基辅的军工企业和燃油库发动打击",
+      "summary": "【俄罗斯：对基辅的军工企业和燃油库发动打击】财联社8月8日电，俄罗斯国防部通报称，俄武装力量夜间对基辅的一处军工企业和燃油仓库发动了集群打击。",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 07:27:20 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "阳光电源：FCC政策主要限制新产品认证 不影响已获认证产品的销售",
+      "summary": "【阳光电源：FCC政策主要限制新产品认证 不影响已获认证产品的销售】财联社8月8日电，阳光电源在互动平台称，公司目前初步判断，FCC政策主要限制新产品认证，不影响已获认证产品的销售，公司目前在美销售的光伏逆变器、储能系统不受影响。",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 07:14:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "日本2027财年防卫预算申请额创新高",
+      "summary": "【日本2027财年防卫预算申请额创新高】财联社8月8日电，据日本共同社报道，多名相关人士7日透露，就日本政府2027财年预算编制工作，日本防卫省拟向财务省申请约8.9万亿日元（1日元约合0.043元人民币），创历史新高。报道称，由于其中包含大量未明确具体金额的申请项目，预计日本政府年底敲定的2027财年（2027年4月1日至2028年3月31日）防卫预算可能会进一步增加。一名日本政府高官表示，2027财年防卫预算的最终规模可能达到10万亿日元。 (新华社)",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 07:09:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "消息人士：美军高层寻找摆脱伊朗战事的途径",
+      "summary": "【消息人士：美军高层寻找摆脱伊朗战事的途径】财联社8月8日电，美国方面8月7日援引消息人士的话称，美军参谋长联席会议主席丹·凯恩在寻找摆脱伊朗战事的途径。消息称，三位知情人士透露，过去几周，美军参谋长联席会议主席丹·凯恩私下向特朗普的其他高级顾问明确表示，美国需要找到一条摆脱伊朗战事的途径，因为摆在桌面上的军事选项可能会适得其反，而且仅靠空中力量不太可能实现特朗普的目标。消息人士透露，丹·凯恩曾与其他政府要员，包括副总统万斯、国务卿鲁比奥和中央情报局局长拉特克利夫讨论过升级冲突的军事选项，并提出了寻求结束战事的途径。丹·凯恩最近还与几位理念相近的特朗普顾问私下会面，确保他们在与总统会晤前达成共识。此外，消息还提到，丹·凯恩在近期与特朗普的会晤中，对美国日益减少的军火储备表示担忧，双方还讨论了升级冲突的潜在选项。 (央视新闻)",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 07:00:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "台风“白海豚” 降雨进程表出炉 残余环流或将影响北方",
+      "summary": "【台风“白海豚” 降雨进程表出炉 残余环流或将影响北方】财联社8月8日电，从最新预报来看，台风“白海豚”将于9日晚上至10日早晨在浙江舟山到福建福鼎一带沿海登陆，受其影响，华东地区风雨将主要集中在8日至12日，降雨进程图看华东各地具体影响时段。未来三天，华东地区风雨将显著增强，浙江、上海、江苏、安徽、福建北部、江西北部、山东南部等地有暴雨到大暴雨，局地特大暴雨，部分地区累计降水量可达200至400毫米，浙江东部局地超过600毫米。后期“白海豚”是否会给北方也制造强降雨？中央气象台首席预报员王海平表示，“白海豚”登陆以后先西行，然后在安徽、江西、湖北的交界一带回旋，逐渐填塞。12日以后，“白海豚”减弱后的残余涡旋可能和北侧的西风带系统叠加，将会给河南、山东、北京、天津、河北等地带来影响。 (央视新闻)",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 06:57:42 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "今年上半年人形机器人领域新设企业11.6万户",
+      "summary": "【今年上半年人形机器人领域新设企业11.6万户】财联社8月8日电，市场监管总局公布数据显示，2026年上半年新产业新赛道相关企业持续增动能，人形机器人领域新设企业11.6万户，同比增长9.5%，服务业相关经营主体亮点突出，制造业企业转型加快，产业发展亮点纷呈。",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 06:55:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "乌称基辅等地遭袭 已有多人死伤",
+      "summary": "【乌称基辅等地遭袭 已有多人死伤】财联社8月8日电，乌克兰基辅市军政管理局8日通报称，当天凌晨基辅市遭俄军袭击，截至当地时间5时45分，袭击已造成4人受伤，基辅市两个地区发生火灾，相关部门正在开展救援工作。此外，乌克兰基辅州军政管理局通报称，当天基辅州遭俄军无人机袭击，截至目前已造成3人死亡，另有3人受伤。目前俄罗斯方面对此暂无回应。 (央视新闻)",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 06:34:38 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "我国首个预防急性高原病药物获批上市",
+      "summary": "【我国首个预防急性高原病药物获批上市】财联社8月8日电，近日，经国家药品监督管理局严格审评审批，由西藏自治区人民医院副院长、西藏高原医学研究所所长格桑罗布教授担任主要研究者的乙酰唑胺缓释胶囊正式获批上市，成为国内首个获批具有预防急性高原病适应症的药品。该药品的获批上市，结束了我国无专门预防急性高原病专用药的历史，进一步丰富了高原医学防治手段，为高原群众、广大进藏人群及高原重大项目建设提供了坚实的健康保障，同时有力提升了西藏在国际高原医学领域的科研影响力。 (西藏日报)",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 06:15:02 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国家防总对江苏安徽启动防汛防台风四级应急响应",
+      "summary": "【国家防总对江苏安徽启动防汛防台风四级应急响应】8月8日，国家防总办公室、应急管理部组织中国气象局、水利部、自然资源部、工业和信息化部、住房城乡建设部、交通运输部等部门以及浙江、福建、河北和其他可能受影响的省份联合会商，研判台风“白海豚”发展趋势，进一步研究部署台风防范应对工作。国家防总启动针对江苏、安徽的防汛防台风四级应急响应，维持针对浙江、福建的防汛防台风三级应急响应以及针对黑龙江的防汛四级应急响应，派出工作组正在浙江、福建协助指导防汛防台风工作。 (央视新闻)",
+      "link": "",
+      "published": "Sat, 08 Aug 2026 05:50:43 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -192,13 +164,6 @@
       "summary": "<p>当地时间8月7日，知名千亿级私募景林资产披露2026年二季度末最新美股持仓（13F）。二季度，景林资产清仓英伟达、META等热门科技股，大幅减持英特尔、网易、谷歌等标的；景林资产在二季度末的美股持仓市值从38.8亿美元大幅下降至21.9亿美元，降幅达43%。在大幅收缩多只原有持仓的同时，景林资产也对部分半导体产业链公司进行了布局，包括近期业绩超预期的美国光模块制造商AAOI（应用光电）。（中国证券报）</p>",
       "link": "https://wallstreetcn.com/livenews/3146968",
       "published": "Sat, 08 Aug 2026 05:46:17 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "空调业新冷年“开盘”惯例生变：美的退出，格力、海尔继续",
-      "summary": "<figure><img alt=\"空调业新冷年“开盘”惯例生变：美的退出，格力、海尔继续\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/31F40497-0EF4-489F-A7BF-7C8E463161E0.jpg\" /></figure><p>未来空调市场渠道扁平化是发展趋势。</p><p class=\"image-blot\"><img alt=\"拍摄/第一财经记者任玉明\" src=\"https://imgcdn.yicai.com/uppics/images/2026/08/89fce98ee428f8d3c0402b127f9bcf17.jpg\" /></p><p><span>8月1日启幕的空调行业2026新冷年，延续多年的“开盘”模式出现分化。</span></p><p>格力、海尔、海信等继续“开盘”，延续经销商淡季打款的策略；但美的没有再“开盘”，加码零售转型。</p><p>“开盘”是空调行业长期沿用的一种渠道模式，在新冷年开启时，通过销售政策，吸引经销商淡季打款、进货。</p><p>相关人士8月7日向第一财",
-      "link": "https://www.yicai.com/news/103310603.html",
-      "published": "Sat, 08 Aug 2026 05:34:50 GMT"
     },
     {
       "source": "中国证券报",
