@@ -1,9 +1,16 @@
 {
   "date": "2026-08-10",
   "hour": "06",
-  "total": 4,
-  "fetched_at": "2026-08-10T06:00:59.440280+08:00",
+  "total": 17,
+  "fetched_at": "2026-08-10T06:18:16.778768+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "宇树科技中一签或赚20万元，投资者社交平台“赛博许愿”求中签 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9MdHU3UFFPWUgwWnRWcmR0Wl9pb3RqNVlrR1czQzVHc29GU0xHRExEYzU3YTg5alFnNmlCbVA2YlhFelpSZS1GdzlaME9sbmlZcU1BVXpKVkRpd2VZc1dUUkwxb1U2ZkV3TmticHJuSThxQjFyNS12Uw?oc=5\" target=\"_blank\">宇树科技中一签或赚20万元，投资者社交平台“赛博许愿”求中签</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MdHU3UFFPWUgwWnRWcmR0Wl9pb3RqNVlrR1czQzVHc29GU0xHRExEYzU3YTg5alFnNmlCbVA2YlhFelpSZS1GdzlaME9sbmlZcU1BVXpKVkRpd2VZc1dUUkwxb1U2ZkV3TmticHJuSThxQjFyNS12Uw?oc=5",
+      "published": "Sun, 09 Aug 2026 22:03:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "A股-研报详情 - 新浪网",
@@ -20,10 +27,94 @@
     },
     {
       "source": "财联社",
-      "title": "A股时隔两年多再现配股 鸿特科技“10配4”启动：泰国基地成最大投向 |速读公告 - 富途牛牛",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnNBZjY3c0RtS1JHLXRsaHhwQlpzSDFPb0ROSC11MFJFMEh0NUFKNmlfYlFxZVVDNklBQUw0ODh4dl9xSmRZb1pwWFlKcUhDcVhKaXN0RGgxU21pQ0J5bEpiV0Y1ODg3NjVyZjE5d1pLRXRFQ0pXMWU0UUdfaGpON21tUGNabXdMQ1liTVkxMXVZYzNLZ2c?oc=5\" target=\"_blank\">A股时隔两年多再现配股 鸿特科技“10配4”启动：泰国基地成最大投向 |速读公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWnNBZjY3c0RtS1JHLXRsaHhwQlpzSDFPb0ROSC11MFJFMEh0NUFKNmlfYlFxZVVDNklBQUw0ODh4dl9xSmRZb1pwWFlKcUhDcVhKaXN0RGgxU21pQ0J5bEpiV0Y1ODg3NjVyZjE5d1pLRXRFQ0pXMWU0UUdfaGpON21tUGNabXdMQ1liTVkxMXVZYzNLZ2c?oc=5",
-      "published": "Sun, 09 Aug 2026 20:40:22 GMT"
+      "title": "财联社8月10日电，绿城中国在港交所公告称，预计2026年中期本公司股东应占利润较2025年同期的2.10亿元下降至约0.5-1亿元。",
+      "summary": "财联社8月10日电，绿城中国在港交所公告称，预计2026年中期本公司股东应占利润较2025年同期的2.10亿元下降至约0.5-1亿元。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 22:06:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月10日电，WTI原油期货涨幅扩大至1.3%，报79.22美元/桶。",
+      "summary": "财联社8月10日电，WTI原油期货涨幅扩大至1.3%，报79.22美元/桶。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 22:04:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月10日电，周一亚太早盘，WTI原油期货价格涨0.8%，报78.8美元/桶。",
+      "summary": "财联社8月10日电，周一亚太早盘，WTI原油期货价格涨0.8%，报78.8美元/桶。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 22:02:02 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美国芝加哥市发生多起枪击事件 致3死10伤",
+      "summary": "【美国芝加哥市发生多起枪击事件 致3死10伤】财联社8月10日电，据美国方面消息，芝加哥市本周末发生多起枪击事件，造成至少3人死亡、10人受伤。消息称，芝加哥市9日凌晨至早间共报告8起枪击事件，造成3人死亡、9人受伤，其中两人伤情严重。此外，还有一名男子8日凌晨在该市遭枪击，伤情严重。据悉，警方尚未逮捕到上述枪击事件的任何嫌疑人。 (央视新闻)",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:53:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月10日电，美国中央司令部表示，伊朗封锁行动中已有55艘商船改道。",
+      "summary": "财联社8月10日电，美国中央司令部表示，伊朗封锁行动中已有55艘商船改道。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:45:05 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月10日电，西太平洋银行第三季度普通股一级资本充足率12.1％，净息差1.89％。",
+      "summary": "财联社8月10日电，西太平洋银行第三季度普通股一级资本充足率12.1％，净息差1.89％。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:41:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月10日电，美国总统特朗普表示，威尔·沙尔夫将成为白宫法律顾问。",
+      "summary": "财联社8月10日电，美国总统特朗普表示，威尔·沙尔夫将成为白宫法律顾问。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:34:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
+      "summary": "【伊朗最高领袖任命佐勒加德尔为其政治顾问】财联社8月10日电，据伊朗方面9日消息，伊朗最高领袖穆杰塔巴·哈梅内伊任命穆罕默德·巴盖尔·佐勒加德尔为其政治顾问。佐勒加德尔此前担任伊朗最高国家安全委员会秘书。 (央视新闻)",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:33:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "“白海豚”已减弱为热带风暴",
+      "summary": "【“白海豚”已减弱为热带风暴】财联社8月10日电，据中央气象台消息，“白海豚”已减弱为热带风暴。8月10日1时，其中心位于浙江省温州市泰顺县境内（北纬27.5度、东经119.8度），最大风力9级。“白海豚”将以每小时15公里左右的速度向西北方向移动，强度逐渐减弱。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:23:51 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月10日电，杭州地铁发布公告，从8月10日6时起，地铁全线网正常运营（含高架段）。",
+      "summary": "财联社8月10日电，杭州地铁发布公告，从8月10日6时起，地铁全线网正常运营（含高架段）。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:13:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "周一（8月10日）重点关注财经事件和经济数据",
+      "summary": "【周一（8月10日）重点关注财经事件和经济数据】\n① 07:50 日本6月贸易帐\n② 07:50 日本央行公布审议委员意见摘要\n③ 16:30 欧元区8月Sentix投资者信心指数",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 21:08:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机",
+      "summary": "【北美防空司令部出动F-16拦截特朗普高尔夫俱乐部附近两架飞机】财联社8月10日电，北美防空司令部当地时间9日出动F-16战斗机，在美国新泽西州贝德明斯特上空拦截了两架违反临时飞行限制的通用航空飞机。事发时，美国总统特朗普正在当地一家高尔夫俱乐部出席活动。据悉，LIV高尔夫赛纽约站本周末在贝德明斯特的特朗普国家高尔夫俱乐部举行，特朗普出席，该地区上空因此实施临时飞行限制。 (央视新闻)",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 20:51:04 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月10日电，新西兰能源公司Contact Energy全财年净利润4.23亿新西兰元，同比增长28%。",
+      "summary": "财联社8月10日电，新西兰能源公司Contact Energy全财年净利润4.23亿新西兰元，同比增长28%。",
+      "link": "",
+      "published": "Sun, 09 Aug 2026 20:36:35 GMT"
     },
     {
       "source": "华尔街见闻",
