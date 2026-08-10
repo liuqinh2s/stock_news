@@ -1,9 +1,135 @@
 {
   "date": "2026-08-11",
   "hour": "07",
-  "total": 9,
-  "fetched_at": "2026-08-11T07:00:59.090149+08:00",
+  "total": 46,
+  "fetched_at": "2026-08-11T07:24:06.402083+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNc00tMkRVdklrOTQtRlItUnY3U0JhbE14WllfRWRfU3o1RGtXaVVZSGZ3NHJ6ZU1mUURZRXM3X3ZkVFA2TjBtVHJMd0F4eGxEQmM5TWNFTTc5OW9BZmhEQ1RCUlUyOV9KYWwyZGRhSEdydGNvNlJVM1VwNGQ5RDRtV0RvT2g1RHc5STh0aEVsX3d6ZklsTndxcUNpVlA1U0FuVWJZbA?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc00tMkRVdklrOTQtRlItUnY3U0JhbE14WllfRWRfU3o1RGtXaVVZSGZ3NHJ6ZU1mUURZRXM3X3ZkVFA2TjBtVHJMd0F4eGxEQmM5TWNFTTc5OW9BZmhEQ1RCUlUyOV9KYWwyZGRhSEdydGNvNlJVM1VwNGQ5RDRtV0RvT2g1RHc5STh0aEVsX3d6ZklsTndxcUNpVlA1U0FuVWJZbA?oc=5",
+      "published": "Mon, 10 Aug 2026 23:07:50 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华泰证券伦交所ESG评级较上年下降至B+，位居A股同行业50家公司第2名，与中金公司等同级、高于中信证券等、低于西南证券 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPSG1BLWVHOEdVNjZIQm9ZRUhTNjA2NE50VV9jeG84SUMzWmMyZGU5WDJlZ05nM0ZpQjdnWEFLUEtfTFBDWl9oNTlTNXlFRHFiQWlVVEJrUFRITzlqOERvbzdERUlHWXc2MlFpODVRRlMxamcwTjZHWFB0T2xIb0xHaEJyZlI2cmZUVXdreUVR?oc=5\" target=\"_blank\">华泰证券伦交所ESG评级较上年下降至B+，位居A股同行业50家公司第2名，与中金公司等同级、高于中信证券等、低于西南证券</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSG1BLWVHOEdVNjZIQm9ZRUhTNjA2NE50VV9jeG84SUMzWmMyZGU5WDJlZ05nM0ZpQjdnWEFLUEtfTFBDWl9oNTlTNXlFRHFiQWlVVEJrUFRITzlqOERvbzdERUlHWXc2MlFpODVRRlMxamcwTjZHWFB0T2xIb0xHaEJyZlI2cmZUVXdreUVR?oc=5",
+      "published": "Mon, 10 Aug 2026 23:09:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "完美世界伦交所ESG评级较上年上升至B+，位居A股同行业16家公司第1名，高于三七互娱等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHVyakNaZzV2WmhEc1J0UzBMaHdocm5nUHl4N1M5bVlMOWpmbzEwRkp5eEltWTBRYy1nSDNNa2NCd0x6VWlRQVZvaUhDdXpOcTRQN0hYLXlDTV9MZEFwM1hZOFQwZE5mUlRVS0VKY21pNGQwVzJveXRxSHdVaTRPYlRLLWYwTjdveGhQRFln?oc=5\" target=\"_blank\">完美世界伦交所ESG评级较上年上升至B+，位居A股同行业16家公司第1名，高于三七互娱等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHVyakNaZzV2WmhEc1J0UzBMaHdocm5nUHl4N1M5bVlMOWpmbzEwRkp5eEltWTBRYy1nSDNNa2NCd0x6VWlRQVZvaUhDdXpOcTRQN0hYLXlDTV9MZEFwM1hZOFQwZE5mUlRVS0VKY21pNGQwVzJveXRxSHdVaTRPYlRLLWYwTjdveGhQRFln?oc=5",
+      "published": "Mon, 10 Aug 2026 23:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "招商轮船伦交所ESG评级较上年上升至B，位居A股同行业6家公司排名第2，与中远海能等同级、高于中远海发、低于中远海控 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3l4VmFjUlBJdHFYVFhRLWtfbzZ1RkotUVYwbTlfMVkwdUhTQXpDdUdzQ083Z3FLVmJ4RXhWTXNCdFlwR2RuMTBuUzJNVkREcE1PVUV2dEtORV9oUlJteGJ6OFREY2p4a0hrTldSajNUYm42RjYyVmtnMWR4Y2pQUmV3S0RoR1EyaGVXd2ln?oc=5\" target=\"_blank\">招商轮船伦交所ESG评级较上年上升至B，位居A股同行业6家公司排名第2，与中远海能等同级、高于中远海发、低于中远海控</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3l4VmFjUlBJdHFYVFhRLWtfbzZ1RkotUVYwbTlfMVkwdUhTQXpDdUdzQ083Z3FLVmJ4RXhWTXNCdFlwR2RuMTBuUzJNVkREcE1PVUV2dEtORV9oUlJteGJ6OFREY2p4a0hrTldSajNUYm42RjYyVmtnMWR4Y2pQUmV3S0RoR1EyaGVXd2ln?oc=5",
+      "published": "Mon, 10 Aug 2026 23:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "山子高科伦交所ESG评级维持D，位居A股同行业23家公司第21名，与科博达同级、高于万向钱潮、低于万里扬等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGJ5MnV3Uy1nTXZsWXlETXYtVENDY2NpNmZScEtackdLT1NZbzd0b0EwdGVMbEhaMDdCVTVTWE1XSkl4T1RrNlAtWG9pNW13ekdOcjJQNmxSa2VnVk1YUmNkMTc5LUJ2UE5ldFhFa01pSHpnVFdWRnRBTWUyMk9ZdEY1RVQtUjE5XzlSN2NB?oc=5\" target=\"_blank\">山子高科伦交所ESG评级维持D，位居A股同行业23家公司第21名，与科博达同级、高于万向钱潮、低于万里扬等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGJ5MnV3Uy1nTXZsWXlETXYtVENDY2NpNmZScEtackdLT1NZbzd0b0EwdGVMbEhaMDdCVTVTWE1XSkl4T1RrNlAtWG9pNW13ekdOcjJQNmxSa2VnVk1YUmNkMTc5LUJ2UE5ldFhFa01pSHpnVFdWRnRBTWUyMk9ZdEY1RVQtUjE5XzlSN2NB?oc=5",
+      "published": "Mon, 10 Aug 2026 23:03:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "益丰药房伦交所ESG评级较上年上升至C+，位居A股同行业10家公司第4名，与国药股份同级、高于永辉超市、低于一心堂等 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXgwa3JRcnd1T0JFRS1ocDFRWjJCZ01lVm9QQTZwdTkzX1VydE5xZEI3U2Y2cGl6VXRzenhKNmZ4aEtCRV9QTGFjREpDTzZBcU5scHZtOW5zak5hendUT1VySjVTcDZpaFB2aC1uWFFXWUNMWkJ4cXNOdnJVa05qNG1mSEhqMDdtWjhscjB3?oc=5\" target=\"_blank\">益丰药房伦交所ESG评级较上年上升至C+，位居A股同行业10家公司第4名，与国药股份同级、高于永辉超市、低于一心堂等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXgwa3JRcnd1T0JFRS1ocDFRWjJCZ01lVm9QQTZwdTkzX1VydE5xZEI3U2Y2cGl6VXRzenhKNmZ4aEtCRV9QTGFjREpDTzZBcU5scHZtOW5zak5hendUT1VySjVTcDZpaFB2aC1uWFFXWUNMWkJ4cXNOdnJVa05qNG1mSEhqMDdtWjhscjB3?oc=5",
+      "published": "Mon, 10 Aug 2026 23:15:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "中国汽研伦交所ESG评级较上年下降至C+，位居A股同行业5家公司第3名，低于太极实业、高于中交设计 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmNQTEI3TEJTQWowTmQySGVKdEs1Ukh1QnVrdU9NNE00UmJOZ202V29HQUZRdHBmdkViY3M0WFNPYzctM2pPaUtRQnR5eGhEU3JLUlZhUEcyOTVaM0lyZDFFUWl1d24yLWZyR2c3YUY4QnRfU2VmS3hJb25vSkd6RUZENzRxU0FwUnJRQXVn?oc=5\" target=\"_blank\">中国汽研伦交所ESG评级较上年下降至C+，位居A股同行业5家公司第3名，低于太极实业、高于中交设计</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmNQTEI3TEJTQWowTmQySGVKdEs1Ukh1QnVrdU9NNE00UmJOZ202V29HQUZRdHBmdkViY3M0WFNPYzctM2pPaUtRQnR5eGhEU3JLUlZhUEcyOTVaM0lyZDFFUWl1d24yLWZyR2c3YUY4QnRfU2VmS3hJb25vSkd6RUZENzRxU0FwUnJRQXVn?oc=5",
+      "published": "Mon, 10 Aug 2026 23:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "西部建设伦交所ESG评级较上年维持C+，位居A股同行业10家公司第7名，与金隅集团等同级、高于塔牌集团等、低于南玻A - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUUzMHRTSDFfNk1xX3g1OWlhZDM1QmRUeWdxTm1sTTdpQl91MDBiRXlEc2FHVVhJWHMxZHF4U1hremtaeHc4dW9DS05uUHVVTXdSbGRtWElNamZxQkh5T1VfamQzcmZadDdELWRPQ1VVTzRzLU16UTFxSUtQQVAzNDFRNjYyLURjZGk2QmNR?oc=5\" target=\"_blank\">西部建设伦交所ESG评级较上年维持C+，位居A股同行业10家公司第7名，与金隅集团等同级、高于塔牌集团等、低于南玻A</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUUzMHRTSDFfNk1xX3g1OWlhZDM1QmRUeWdxTm1sTTdpQl91MDBiRXlEc2FHVVhJWHMxZHF4U1hremtaeHc4dW9DS05uUHVVTXdSbGRtWElNamZxQkh5T1VfamQzcmZadDdELWRPQ1VVTzRzLU16UTFxSUtQQVAzNDFRNjYyLURjZGk2QmNR?oc=5",
+      "published": "Mon, 10 Aug 2026 23:04:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "三安光电伦交所ESG评级较上年上升至C+，位居A股同行业38家公司第19名，与扬杰科技等同级、高于璞泰来等、低于通富微电 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUlEcEVmYS1wTkRtRDF2QmpDTVF5NlJpQjFBTkFKeGtUOG9NdHZNOEF2N1BnTzhBdFh6NVNfRk1COVNnMDlvb1NLdmRvenBDVDA5NzFTOVQ3ZU1NTEhwT2NpbEJpUWVfSzBRTF8wMUF5cHZrTzlkUGliOHdlVHozQlhyeF9wYV9BeTJZa293?oc=5\" target=\"_blank\">三安光电伦交所ESG评级较上年上升至C+，位居A股同行业38家公司第19名，与扬杰科技等同级、高于璞泰来等、低于通富微电</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOUlEcEVmYS1wTkRtRDF2QmpDTVF5NlJpQjFBTkFKeGtUOG9NdHZNOEF2N1BnTzhBdFh6NVNfRk1COVNnMDlvb1NLdmRvenBDVDA5NzFTOVQ3ZU1NTEhwT2NpbEJpUWVfSzBRTF8wMUF5cHZrTzlkUGliOHdlVHozQlhyeF9wYV9BeTJZa293?oc=5",
+      "published": "Mon, 10 Aug 2026 23:14:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "多家中小银行上调存款利率 业内人士称与五年期大额存单重启无直接关联",
+      "summary": "8月以来，湖北、广东等地多家中小银行纷纷上调存款利率，引发市场关注。进入8月，多地城商行、农商行及村镇银行发布公告，表示对挂牌存款利率或特色存款产品利率进行上调。总体来看，各家银行的上调幅度在10—33个基点（BP）不等。在宏观市场利率整体下行、银行业持续压降负债成本的背景下，中小银行针对存款利率“反其道而行之”的做法，实属不多见。业内人士认为，此举具有明显的阶段性揽储特征，不具备普适性，且与近期部分国有大行集体重启五年期大额存单并无直接关联。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260811/c678840439.shtml",
+      "published": "Mon, 10 Aug 2026 23:22:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "郭明錤：苹果今年硬件出货量确因内存短缺而下调",
+      "summary": "8月11日，跟踪苹果产业链多年的天风国际证券分析师郭明錤发布的产业调查显示，苹果今年的硬件出货量确实因内存短缺而下调，但苹果在台积电的处理器订单，会在至少约3个月前依可取得的内存数量规划生产，而不是让台积电提前大量生产半成品。这不代表台积电不会提前生产并囤积半成品；但若瓶颈不在台积电，这么做并无实益，因此，苹果也没有太大理由额外付钱要求台积电这样做。“内存供应紧张是真，但我的理解是，并没有出现‘台积电先囤积10亿美元半成品，再苦等内存到货封装’这种戏剧性变化。台积电与苹果都是全球执行力顶尖的企业，在供应链管理上，双方紧密合作下也很难出现这种戏剧性的发展。”（界面新闻）",
+      "link": "https://news.10jqka.com.cn/20260811/c678840433.shtml",
+      "published": "Mon, 10 Aug 2026 23:22:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "我国高能量密度一次电池功率获突破",
+      "summary": "据科技日报，从中国科学院大连化学物理研究所获悉，该所能源催化转化全国重点实验室陈忠伟团队成功研制出25安时级软包金属锂一次电池。经中国电子技术标准化研究院安全实验室检测，该电池低倍率下能量密度超过750Wh/kg和1285Wh/L，属于一次电池中的高能量密度区间，放电倍率可提高百倍，这一成果标志着我国在高功率一次电池领域迈入国际前列，为高端装备装上自主“电力心脏”。",
+      "link": "https://news.10jqka.com.cn/20260811/c678840412.shtml",
+      "published": "Mon, 10 Aug 2026 23:21:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英特尔据悉计划以至少每股95美元的价格发行200亿美元股票",
+      "summary": "英特尔据悉计划以至少每股95美元的价格发行200亿美元股票。",
+      "link": "https://news.10jqka.com.cn/20260811/c678840317.shtml",
+      "published": "Mon, 10 Aug 2026 23:16:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中报窗口期机构密集调研 创新药步入业绩与国际化兑现期",
+      "summary": "当前医药行业进入半年报密集披露期，机构调研热情明显升温。数据显示，截至8月10日，17家上市药企披露半年报，逾百家药企发布半年度业绩预告。7月1日至8月10日，百济神州、泽璟制药等74家药企接待机构调研，7家企业吸引超50家机构走访，百济神州接待调研机构数量超200家。业内人士认为，创新药板块正从估值驱动，转向业绩与全球化兑现共同驱动，已达成商务拓展（BD）合作的产品逐步进入海外关键临床、注册上市和商业化分成兑现阶段，而今年ESMO年会（2026年欧洲肿瘤内科学会年会）重要数据、重磅BD合作与技术突破，将持续成为板块重要利好催化。(中国证券报）",
+      "link": "https://news.10jqka.com.cn/20260811/c678840119.shtml",
+      "published": "Mon, 10 Aug 2026 23:08:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "破解小币种跨境结算繁难 银行组合拳赋能外贸企业出海",
+      "summary": "成本高、汇款难、中间环节繁琐……当前，国内外贸企业不断深耕全球市场，小币种跨境结算需求随之持续攀升。但此前“小币种先兑美元再折算人民币”的双重汇兑模式，叠加多币种结算手续繁琐，小币种汇率避险工具缺失，让一些外贸企业被汇兑损耗高、资金到账慢等问题困扰。记者走访多地外贸企业与商业银行发现，银行业正打出跨境金融服务组合拳。今年以来一些银行纷纷上线小币种直兑清算业务，省去美元中转环节，压降企业汇兑成本，部分银行结合企业需求，差异化定制汇率避险方案。多方赋能下，跨境金融的“毛细血管”正被重新疏通。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20260811/c678840057.shtml",
+      "published": "Mon, 10 Aug 2026 23:06:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "新型血氧仪能“读懂”肤色并实现精准测量",
+      "summary": "美国塔夫茨大学研究人员开发出一种能“读懂”肤色的新型血氧监测设备。这款血氧仪可自动识别使用者的皮肤反射特征，并动态调整测量参数，从而提高不同肤色人群血氧、心率和呼吸频率检测的准确性。实验显示，该设备在不同肤色受试者中测得的血氧饱和度结果与标准设备高度一致，且未发现明显肤色相关偏差。相关成果发表于最新一期《新英格兰医学杂志》。",
+      "link": "https://news.10jqka.com.cn/20260811/c678840023.shtml",
+      "published": "Mon, 10 Aug 2026 23:05:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "AI优化视觉皮层假体电刺激模式",
+      "summary": "包括美国加州大学圣巴巴拉分校在内的3家机构研究人员最新研究表明，人工智能（AI）有望让未来视觉假体（如“仿生眼”）更加精准、可预测并适应个体差异。研究人员利用深度学习模型优化植入大脑视觉皮层的“仿生眼”的电刺激模式，提高了对神经响应的控制和视觉感知预测能力。这标志着向开发能更有效与大脑沟通的视觉皮层假体迈出了重要一步。相关概念验证研究在线发表于最新一期《神经元》杂志。",
+      "link": "https://news.10jqka.com.cn/20260811/c678840014.shtml",
+      "published": "Mon, 10 Aug 2026 23:05:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "张拉整体机器人能承受更高的冲击力",
+      "summary": "美国科学家在10日的《自然·机器智能》杂志上发表一项研究成果：一款名为“Tribar”的滚动机器人能够在创纪录的高度坠落后，承受极高的冲击性着陆并继续在复杂地形上移动。这一工程学和机器人领域的双重突破，有望推动适用于行星表面、灾区等危险偏远环境的机器人开发。",
+      "link": "https://news.10jqka.com.cn/20260811/c678840005.shtml",
+      "published": "Mon, 10 Aug 2026 23:04:52 GMT"
+    },
     {
       "source": "同花顺",
       "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
@@ -19,11 +145,158 @@
       "published": "Mon, 10 Aug 2026 22:19:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "IBM在加拿大发行27.5亿美元票据",
-      "summary": "IBM在加拿大发行了27.5亿美元的票据。其中，17.5亿加元债券将于2030年到期，票面年利率为4.100%；10亿加元债券将于2034年到期，票面年利率为4.750%。（蓝鲸新闻）",
-      "link": "https://news.10jqka.com.cn/20260811/c678839130.shtml",
-      "published": "Mon, 10 Aug 2026 21:12:48 GMT"
+      "source": "财联社",
+      "title": "我国高能量密度一次电池功率获突破",
+      "summary": "【我国高能量密度一次电池功率获突破】财联社8月11日电，从中国科学院大连化学物理研究所获悉，该所能源催化转化全国重点实验室陈忠伟团队成功研制出25安时级软包金属锂一次电池。经中国电子技术标准化研究院安全实验室检测，该电池低倍率下能量密度超过750Wh/kg和1285Wh/L，属于一次电池中的高能量密度区间，放电倍率可提高百倍，这一成果标志着我国在高功率一次电池领域迈入国际前列，为高端装备装上自主“电力心脏”。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 23:20:29 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月11日电，英特尔据悉计划以至少每股95美元的价格发行200亿美元股票。",
+      "summary": "财联社8月11日电，英特尔据悉计划以至少每股95美元的价格发行200亿美元股票。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 23:15:59 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "暴雨橙色预警：山东、河南、安徽、湖北、河北、北京等地部分地区有大暴雨 河南局地特大暴雨",
+      "summary": "【暴雨橙色预警：山东、河南、安徽、湖北、河北、北京等地部分地区有大暴雨 河南局地特大暴雨】财联社8月11日电，中央气象台8月11日06时继续发布暴雨橙色预警：预计，8月11日08时至12日08时，浙江东部和北部、上海、江苏西部、安徽中北部、河南、湖北中西部、湖南北部、山东西南部、河北西部和南部、北京、天津及内蒙古中西部、山西北部、黑龙江西北部、云南西南部等地部分地区有大到暴雨，其中，山东西南部、河南中东部和西南部、安徽北部、湖北西北部、河北西部、北京南部等地部分地区有大暴雨，河南中部等地部分地区有特大暴雨(250-300毫米)。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 23:07:25 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "锂价止跌企稳 碳酸锂紧平衡格局仍稳固",
+      "summary": "【锂价止跌企稳 碳酸锂紧平衡格局仍稳固】财联社8月11日电，7月走出一轮“预期驱动回调”行情后，碳酸锂价格近日出现企稳迹象。8月10日，碳酸锂期货主力合约LC2609报收146360元/吨，6个交易日以来累计上涨6.24%。“这几天算是稳住了。”有熟悉碳酸锂期货人士评价。此前的7月，受远期供给过剩的悲观预期影响，碳酸锂期货价格下跌近20%。期货市场上的涨涨跌跌，并没有影响到产业端的火热。“碳酸锂生产、销售正常。”四川某锂盐企业负责人称，下游拿货热情不减，公司已没有多少库存。该企业的状态基本代表了行业整体——7月以来，天华新能、九岭锂业等陆续进入检修，锂电下游8月排产却超预期增长。券商分析称，碳酸锂去库存节奏加快，供需格局整体维持偏紧态势。 (上证报)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 23:01:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月11日电，现货黄金向上触及4400美元，日内上涨0.22%。",
+      "summary": "财联社8月11日电，现货黄金向上触及4400美元，日内上涨0.22%。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:58:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中报窗口期机构密集调研 创新药步入业绩与国际化兑现期",
+      "summary": "【中报窗口期机构密集调研 创新药步入业绩与国际化兑现期】财联社8月11日电，当前医药行业进入半年报密集披露期，机构调研热情明显升温。Wind数据显示，截至8月10日，17家上市药企披露半年报，逾百家药企发布半年度业绩预告。7月1日至8月10日，百济神州、泽璟制药等74家药企接待机构调研，7家企业吸引超50家机构走访，百济神州接待调研机构数量超200家。业内人士认为，创新药板块正从估值驱动，转向业绩与全球化兑现共同驱动，已达成商务拓展（BD）合作的产品逐步进入海外关键临床、注册上市和商业化分成兑现阶段，而今年ESMO年会（2026年欧洲肿瘤内科学会年会）重要数据、重磅BD合作与技术突破，将持续成为板块重要利好催化。 (中证报)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:47:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "银行理财机构短期限产品规模增长过快触发监管提示",
+      "summary": "【银行理财机构短期限产品规模增长过快触发监管提示】财联社8月11日电，银行理财机构追求规模增长的经营模式，正面临更加明确的约束。记者近日从业内获悉，长三角地区一家银行理财机构因上半年部分产品规模增长较快，收到监管部门提示函。该机构上半年整体规模增幅约为9%，位居行业前列。当前，银行理财存续规模已达33.6万亿元。在市场扩容过程中，部分机构借助短期限产品快速吸收资金，但投研能力、资产储备和流动性管理未必能够同步跟上。监管部门此次提示，意在推动银行理财机构合理把握扩张节奏，防范资金期限缩短与资产久期拉长可能形成的错配风险。 (上证报)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:39:32 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "多路资金买入黄金 机构热议新“击球区”出现",
+      "summary": "【多路资金买入黄金 机构热议新“击球区”出现】财联社8月11日电，黄金近期迎来了一波强势反攻。8月以来，COMEX黄金期货价格突破4400美元/盎司关口，黄金ETF被净申购近20亿份，部分FOF、基金投顾等资金也回流黄金。随着压制金价的政策、资金、地缘“三座大山”边际改善，多家机构判断黄金已迎来配置“击球区”，建议关注阶段性修复机会。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:35:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+      "summary": "【特朗普称美军已“100%控制”霍尔木兹海峡】财联社8月11日电，美国总统特朗普当地时间8月10日表示，美方已经对整个霍尔木兹海峡完成扫雷，目前美国海军对这一关键航道拥有“100%”的控制权。特朗普还称，霍尔木兹海峡“现在已经开放”，伊朗方面偶尔仍会布设水雷，但美军会将其清除。此外，特朗普重申，在伊朗要求美国就军事冲突进行赔偿后，他也要向伊朗提出索赔——这一说法与他几个小时前在社交媒体发帖的内容一致。 (央视新闻)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:28:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "周二你需要知道的隔夜全球要闻：英伟达拟与多家金融公司募资5000亿美元投向AI算力；国际油价大涨5%；美股光通信板块大幅回落",
+      "summary": "【周二你需要知道的隔夜全球要闻：英伟达拟与多家金融公司募资5000亿美元投向AI算力；国际油价大涨5%；美股光通信板块大幅回落】\n环球市场\n1、因有关重开霍尔木兹海峡的协议仍未达成，国际油价大幅走高，9月交割的WTI原油上涨5.1%，结算价报每桶82.13美元；10月交割的布伦特原油上涨5%，结算价报每桶87.72美元。\n2、美股三大指数集体收跌，道指跌0.13%，纳指跌0.32%，标普500指数跌0.06%。光通信板块高开低走，Coherent跌超14%，Lumentum跌超8%。存储板块涨跌不一，闪迪涨超2%，SK海力士、希捷科技跌超1%。\n3、国际金价升至接近每盎司4400美元。交易员一方面评估围绕霍尔木兹海峡的最新进展，另一方面等待本周晚些时候公布的一项关键美国通胀报告。截至收盘，现货黄金价格涨1.1%，报4389.29美元/盎司；现货白银价格涨3.57%，报65.75美元/盎司。\n4、日元兑美元周一下挫多达1%，触及159.35，抹去了日元近期因干预走出的一半行情。\n5、铜价延续六周涨势后的升幅，供应趋紧以及市场对美国加息的担忧缓解为价格提供支撑。LME期铜上涨0.6%，报1",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:22:55 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中国AI产业链凸显增长韧性 国际资本借道ETF加力布局",
+      "summary": "【中国AI产业链凸显增长韧性 国际资本借道ETF加力布局】财联社8月11日电，进入8月，多只在海外上市的中国科技类ETF资产规模呈现显著增长态势，释放出国际资本增配中国科技资产的积极信号。与此同时，外资机构对A股硬科技企业的调研密度持续攀升，算力基础设施、半导体、智能硬件等赛道成为其“摸底”重点。机构认为，在当前全球科技板块震荡调整的背景下，中国AI产业链展现出相对独立的增长韧性，估值回调后的科技资产正重新进入外资配置视野。 (上证报)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:18:42 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "金融产品网络营销新规9月底起实施 保险业提前摸排整治账号端乱象",
+      "summary": "【金融产品网络营销新规9月底起实施 保险业提前摸排整治账号端乱象】财联社8月11日电，金融产品网络营销最严监管规定——《金融产品网络营销管理办法》将于9月30日起实施。记者从相关渠道获悉，针对办法对保险机构网络营销划定的“硬杠杠”，监管部门正在主动摸排整治账号端乱象、厘清市场生态，为新规落地铺路。受访人士表示，随着监管部门整治深入和办法落地实施，“机构担责+人证合一+可回溯”将是保险网络营销的最终走向。从长期看，这有利于降低消费者的信任成本，激活真实保险需求，推动保险机构业务质量、续保率等长期指标提升。 (上证报)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:17:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "多重稳市信号释放 资本市场着力强韧性、提信心",
+      "summary": "【多重稳市信号释放 资本市场着力强韧性、提信心】财联社8月11日电，稳市信号持续释放，投融资两端同向发力。从中央政治局会议到监管部门密集座谈，从一揽子金融政策发布到央国企、上市公司增持行动……一套稳市场、强韧性、稳预期的“组合拳”持续发力。在业内人士看来，密集释放的稳市信号，勾勒出清晰的改革主线：以制度确定性对冲外部不确定性，让“韧性”成为市场承压底色，让“信心”沉淀为长期共识。在投资端，长钱持续流入、回报机制完善，让市场拥有抵御波动的“压舱石”；在融资端，优质供给增加、制度包容性提升，让市场具备价值发现的“底盘”。韧性与信心互为表里——当市场能以制度韧性消化外部冲击、以优质资产回报长期信任，“有信心”将成为市场运行的常态。 (上证报)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:15:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "基辅遭遇弹道导弹袭击 乌多地发布防空警报",
+      "summary": "【基辅遭遇弹道导弹袭击 乌多地发布防空警报】财联社8月11日电，乌克兰基辅市长克利奇科当地时间11日发布通报，基辅城区出现爆炸声响，该市正遭受弹道导弹袭击。目前，首都基辅及乌克兰多地已启动防空警戒。乌克兰空军提醒民众，切勿轻视防空警报，弹道导弹威胁仍未消除。 (央视新闻)",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:12:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美联储9月加息25个基点的概率为51.2%",
+      "summary": "【美联储9月加息25个基点的概率为51.2%】财联社8月11日电，据CME“美联储观察”：美联储到9月维持利率不变的概率为48.8%，累计加息25个基点的概率为51.2%。美联储到10月维持利率不变的概率为34.7%，累计加息25个基点的概率为50.5%，累计加息50个基点的概率为14.7%。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:08:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月11日电，周二亚太早盘，道琼斯指数期货跌0.01%，标普500指数期货涨0.03%，纳斯达克100指数期货涨0.14%。",
+      "summary": "财联社8月11日电，周二亚太早盘，道琼斯指数期货跌0.01%，标普500指数期货涨0.03%，纳斯达克100指数期货涨0.14%。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 22:00:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月11日电，当地时间11日零时30分至36分，基辅响起两轮强烈的持续爆炸声。",
+      "summary": "财联社8月11日电，当地时间11日零时30分至36分，基辅响起两轮强烈的持续爆炸声。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 21:53:57 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月11日电，Hims&Hers表示公司正在对BPC-157肽进行测试。",
+      "summary": "财联社8月11日电，Hims&amp;Hers表示公司正在对BPC-157肽进行测试。",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 21:49:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月11日电，中国地震台网正式测定：08月11日05时31分在四川宜宾市高县（北纬28.53度，东经104.66度）发生3.9级地震，震源深度5千米。",
+      "summary": "财联社8月11日电，中国地震台网正式测定：08月11日05时31分在四川宜宾市高县（北纬28.53度，东经104.66度）发生3.9级地震，震源深度5千米。<br /><img src=\"https://image.cls.cn/images/20260811/SmvCtYf830_690x518.jpg\" />",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 21:39:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "周二（8月11日）重点关注财经事件和经济数据",
+      "summary": "【周二（8月11日）重点关注财经事件和经济数据】\n① 12:30 澳洲联储公布利率决议和货币政策声明\n② 18:00 美国7月NFIB小型企业信心指数\n③ 20:15 美国至7月25日当周ADP就业人数周度变动\n④ 22:00 美国7月成屋销售总数年化\n⑤ 次日00:00 EIA公布月度短期能源展望报告\n⑥ 次日04:30 美国至8月7日当周API原油库存",
+      "link": "",
+      "published": "Mon, 10 Aug 2026 21:37:03 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "摩根士丹利启动美国创新基础设施计划，目标撬动1.5万亿美元资本",
+      "summary": "<p><strong>摩根士丹利宣布推出\"美国创新基础设施计划\"，承诺在未来十年内促成约1.5万亿美元的融资、资本募集及相关投资活动，聚焦人工智能、半导体、网络安全及能源基础设施等战略性行业。</strong></p>\n<p>8月10日，摩根士丹利发布公告称，<span dir=\"auto\">作为一项新举措，该行将在未来十年内协助企业进行资本募集、融资、咨询及其他相关活动</span><span dir=\"auto\">。</span>该计划围绕三大核心领域展开：</p>\n<blockquote>\n<ul>\n<li><strong>一是</strong>创新平台与战略产业，涵盖人工智能、半导体及网络安全等；</li>\n<li><strong>二是</strong>服务创新经济的基础设施建设；</li>\n<li><strong>三是</strong>面向创业者和高成长企业的资本供给。</li>\n</ul>\n</blockquote>\n<p>摩根士丹利联席总裁Dan Simkowitz在声明中指出，<strong>此举旨在支持那些对美国长期经济实力与国家安全至关重要的企业、技术与平台，而当前",
+      "link": "https://wallstreetcn.com/articles/3779122",
+      "published": "Mon, 10 Aug 2026 23:11:49 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月11日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">科技股拖累美股</span>，<span style=\"color: #ff0000;\">标普和道指跌落纪录高位</span>；“科技七巨头”中，仅英伟达和苹果收跌，微软和亚马逊涨超1%，被机构下调评级的<span style=\"color: #ff0000;\">苹果跌1.5%</span>，5000亿美元AI融资磋商消息后，<span style=\"color: #ff0000;\">英伟达收跌近3%</span>；宣布增发的<span style=\"color: #ff0000;\">英特尔收跌超4%</span>；<",
+      "link": "https://wallstreetcn.com/articles/3779117",
+      "published": "Mon, 10 Aug 2026 23:01:36 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -47,25 +320,11 @@
       "published": "Mon, 10 Aug 2026 22:10:19 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "哈马克释放鹰派信号：通胀不会自行回落，或需多次加息",
-      "summary": "<p>克利夫兰联储主席贝丝·哈马克（Beth Hammack）表示，为了将通胀率降至美联储2%的目标水平，<strong>可能需要多次加息</strong>，但她不希望预先判断最终需要加息多少次。</p>\n<p>哈马克周一接受采访时表示：</p>\n<blockquote>\n<p>“总体而言，我认为，单次加息25个基点可能不会对经济产生太大影响。因此，可能需要加息若干次。但我不想预先判断这个数字究竟是多少。”</p>\n</blockquote>\n<p>哈马克是上月美联储维持利率不变的决定中，支持加息的三名异议官员之一。克利夫兰联储主席在会后声明中表示，高通胀持续的时间越长，将其重新压低的难度就越大。</p>\n<p>哈马克在周一的采访中还表示，<strong>当前利率水平并未对经济形成“有意义的限制”</strong>，她也不认为通胀会自行回落至目标水平，没有看到劳动力市场出现问题。</p>\n<p>两周前，美联储宣布将联邦基金利率目标区间维持在3.5%至3.75%之间不变，当时包括哈马克在内的三位委员投下了反对票，三人倾向于在会议上加息25个基点。</p>\n<p>上周，<a href=\"h",
-      "link": "https://wallstreetcn.com/articles/3779119",
-      "published": "Mon, 10 Aug 2026 21:07:30 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美国离大规模战争或“认怂” 只剩不到两个月时间",
-      "summary": "<p>美国战略石油储备8月10日跌破3亿桶，降至2.987亿桶，1975年建库以来最低。</p> <p>跌破整数关口本身不重要。重要的是这个数字背后藏着一个时间窗口——大约两个月。两个月之后，美国用来顶住霍尔木兹海峡断供的石油缓冲就基本耗尽了。在那之前，华盛顿必须跟伊朗谈出一个结果，否则就只剩军事升级或者认怂两条路。</p>",
-      "link": "https://wallstreetcn.com/member/articles/3779118",
-      "published": "Mon, 10 Aug 2026 21:07:13 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普否认与沃什频繁通话：自从沃什接任以来，只谈过一次",
-      "summary": "<p>美国总统特朗普周一表示，几天前他曾与美联储主席沃什进行过交谈，自从沃什接任美联储主席以来，只和他谈过一次。</p>\n<p>特朗普当天在白宫表示，他与沃什只进行过一次简短交谈。“只是一次谈话，”特朗普说。</p>\n<p>特朗普补充称，沃什将负责领导美联储，并指出，美联储主席必须与理事会合作。</p>\n<p>“他会领导美联储。我知道他想做什么，但他必须负责运营美联储。他有一个理事会，美联储并不只是由他一个人说了算。如果由他一个人决定，情况会有所不同，但他还有一个理事会。”特朗普说。</p>\n<p>此前外媒报道，特朗普与沃什多次通话，打破历任总统与美联储主席交往惯例，特朗普此次表态否认了该报道。</p>\n<p><a href=\"https://wallstreetcn.com/articles/3778978?keyword=%E7%89%B9%E6%9C%97%E6%99%AE\" rel=\"noopener\" target=\"_blank\">此前华尔街见闻提及</a>，沃什不曾在6月份与特朗普有过任何通话。</p><div style=\"color: #666; margin-bot",
-      "link": "https://wallstreetcn.com/articles/3779116",
-      "published": "Mon, 10 Aug 2026 21:07:01 GMT"
+      "source": "第一财经",
+      "title": "芯片光通信低迷！英特尔增发股价跳水4%，SpaceX三天暴涨28%，特朗普要求伊朗赔偿",
+      "summary": "<figure><img alt=\"芯片光通信低迷！英特尔增发股价跳水4%，SpaceX三天暴涨28%，特朗普要求伊朗赔偿\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/12da7e81e705990cd8f0314f833629ed.jpg\" /></figure><p>白银飙升近3%，中国资产闪耀。</p><p><strong>*三大股指普跌，纳指下挫0.32%；</strong></p>\n\n<p><strong>*中长期美债收益率走高，10年期美债重返4.70%；</strong></p>\n\n<p><strong>*机构下调评级，苹果跌超1%。</strong></p>\n\n<p>周一美股全线下挫，英特尔等芯片企业普跌，市场对美伊能够达成协议、重新开放霍尔木兹海峡的信心下降。截至收盘，道琼斯工业平均指数下跌60.95点，跌幅0.11%，报53975.98点，纳斯达克综合指数下跌0.32%，报26605.36点，标普 500指数下跌0.06%，报7753.11点。</p>\n\n<p align=\"center\"><img al",
+      "link": "https://www.yicai.com/news/103312722.html",
+      "published": "Mon, 10 Aug 2026 23:14:47 GMT"
     }
   ]
 }
