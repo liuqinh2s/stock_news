@@ -1,8 +1,8 @@
 {
   "date": "2026-08-10",
   "hour": "13",
-  "total": 73,
-  "fetched_at": "2026-08-10T13:00:58.150390+08:00",
+  "total": 42,
+  "fetched_at": "2026-08-10T13:15:02.313775+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,6 +10,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1hOGpKVHZGb1JNNEQ0SjZIWW85c1l0blhSVUdjb3pFUXlGcTAzX1FvMnl6V1g3RE45YkM4RWNZbkFDQmxsN2pwTDJrd2VhdGVPVHQyY0pyalBMUnRhNkN6QWFKX1JFT01qZkpYc2xvQWNLUlhWMEIxSw?oc=5\" target=\"_blank\">70万手封单，2连板！A股人气第一</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hOGpKVHZGb1JNNEQ0SjZIWW85c1l0blhSVUdjb3pFUXlGcTAzX1FvMnl6V1g3RE45YkM4RWNZbkFDQmxsN2pwTDJrd2VhdGVPVHQyY0pyalBMUnRhNkN6QWFKX1JFT01qZkpYc2xvQWNLUlhWMEIxSw?oc=5",
       "published": "Mon, 10 Aug 2026 04:31:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股股指现分化，沪指上涨0.20% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE02N2FNRDdBLXdlWkw2R25pdURqQlQzY01oZXppeklkMG1pWDh6Z1JoaHNCc3NFcGNheEhNcFJXV0dQYXVZVVg1NlRPLVBmMEZWTXpxaElpcG1qalFRLVg5QWVuYjRhZFNOTnZOS2ptc2xhczBiUzF5VQ?oc=5\" target=\"_blank\">A股股指现分化，沪指上涨0.20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02N2FNRDdBLXdlWkw2R25pdURqQlQzY01oZXppeklkMG1pWDh6Z1JoaHNCc3NFcGNheEhNcFJXV0dQYXVZVVg1NlRPLVBmMEZWTXpxaElpcG1qalFRLVg5QWVuYjRhZFNOTnZOS2ptc2xhczBiUzF5VQ?oc=5",
+      "published": "Mon, 10 Aug 2026 04:20:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -83,20 +90,6 @@
     },
     {
       "source": "新浪财经",
-      "title": "A股午评：沪指微涨 创业板指跌超2% 科技股集体走弱 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ05mUlhvcDdHVHY0WVhCVHd4Zm5VNEF0cXFFOThyQXJTREVkbTVWV3Q3MnRnMy10b3BWNUJZUENzMjdHejZkOTRJMGljRVVaNnN4ZkNYR240UmNQSmNSLVBBNXZPeHNJclJfNWRjZ0R2Z0M3RUlwdmxjck1OT3RwZg?oc=5\" target=\"_blank\">A股午评：沪指微涨 创业板指跌超2% 科技股集体走弱</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ05mUlhvcDdHVHY0WVhCVHd4Zm5VNEF0cXFFOThyQXJTREVkbTVWV3Q3MnRnMy10b3BWNUJZUENzMjdHejZkOTRJMGljRVVaNnN4ZkNYR240UmNQSmNSLVBBNXZPeHNJclJfNWRjZ0R2Z0M3RUlwdmxjck1OT3RwZg?oc=5",
-      "published": "Mon, 10 Aug 2026 03:43:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "低PE+业绩高增长黄金概念股出炉 6股已回撤30%以上 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1tNXJiX05UOUxuY0h0ejZxU2FQbDNUeHdGVWdkclZ4S0pwMGJsZzI0ODc3YThRdmFvdS1tM19VWVpVd0RROXBYblhtbWhpb3M4TnZPenZIZm1wRm81SDNsbXdkWUpHOGZ3M2NoVU9hWTBFdUlxNG05LQ?oc=5\" target=\"_blank\">低PE+业绩高增长黄金概念股出炉 6股已回撤30%以上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tNXJiX05UOUxuY0h0ejZxU2FQbDNUeHdGVWdkclZ4S0pwMGJsZzI0ODc3YThRdmFvdS1tM19VWVpVd0RROXBYblhtbWhpb3M4TnZPenZIZm1wRm81SDNsbXdkWUpHOGZ3M2NoVU9hWTBFdUlxNG05LQ?oc=5",
-      "published": "Mon, 10 Aug 2026 04:44:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "MSCI中国A股ETF南方（512160）跌0.06%，半日成交额43.55万元 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmVVYUprcW96UnJfeU9BSGFPdThfQTBSU015dTFGSFNBMTZteC1GZkNMdlFTdEtaemJ3LVI4T1RrbHBPYTVDWVRqbUYwbU1JMXJranoyNFpLZjVzUHItZ0owc2toODN4X3h3NEx0WWtBeVFQcWpGNnhiX2lyX3psWjA2LWxMVWtKTXg2cEIxR0lMUGlCQ21qag?oc=5\" target=\"_blank\">MSCI中国A股ETF南方（512160）跌0.06%，半日成交额43.55万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWmVVYUprcW96UnJfeU9BSGFPdThfQTBSU015dTFGSFNBMTZteC1GZkNMdlFTdEtaemJ3LVI4T1RrbHBPYTVDWVRqbUYwbU1JMXJranoyNFpLZjVzUHItZ0owc2toODN4X3h3NEx0WWtBeVFQcWpGNnhiX2lyX3psWjA2LWxMVWtKTXg2cEIxR0lMUGlCQ21qag?oc=5",
@@ -115,13 +108,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcG4zckljLWhzZndBUlpLR3JvclBHdGtyWDlucWNPV0otLWlKOHRoUFlXc2VXcnFNS2d4QWpmVVF4dzYxYXZUVDMxajJOWHRXNUVMdTA3a3psTlF6WmUtQkdCQ21DSEpWRXNQb19CU3BwNUlPSHp1eTVwem9HQkdWOVpad2ZUakFmZTk1ZnRR?oc=5\" target=\"_blank\">A股异动| 华大智造(688114.SH)大涨超19% AI4S进入产业化阶段公司为AI制药提供基础工具测序仪</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcG4zckljLWhzZndBUlpLR3JvclBHdGtyWDlucWNPV0otLWlKOHRoUFlXc2VXcnFNS2d4QWpmVVF4dzYxYXZUVDMxajJOWHRXNUVMdTA3a3psTlF6WmUtQkdCQ21DSEpWRXNQb19CU3BwNUlPSHp1eTVwem9HQkdWOVpad2ZUakFmZTk1ZnRR?oc=5",
       "published": "Mon, 10 Aug 2026 04:00:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "港股“药王”盘中市值突破6000亿港元，股价创新高背后 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8xOWdCTzdVZE5fSE9RdmFhUklNMGM0RVF2M2dqVERMV2VObno3SjZqVDQzTGxrOF9Ca3ZaZ2VJbGtVTGx6S3FjUERoejh6ejdlcS0tYkg4NlItR1BjRlJEcVYxMEFIalVfN1ZnYUkxaUJySk1pQjVNRg?oc=5\" target=\"_blank\">港股“药王”盘中市值突破6000亿港元，股价创新高背后</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xOWdCTzdVZE5fSE9RdmFhUklNMGM0RVF2M2dqVERMV2VObno3SjZqVDQzTGxrOF9Ca3ZaZ2VJbGtVTGx6S3FjUERoejh6ejdlcS0tYkg4NlItR1BjRlJEcVYxMEFIalVfN1ZnYUkxaUJySk1pQjVNRg?oc=5",
-      "published": "Mon, 10 Aug 2026 04:19:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -146,290 +132,87 @@
     },
     {
       "source": "东方财富",
-      "title": "243276:华鑫证券有限责任公司关于重庆长寿开发投资(集团)有限公司三分之一以上董事发生变动之临时受托管理事务报告-20260810 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcGpvbzRvVkFDWFJ5UEdPUHc0LXowQnhJblUxRThDYWVjSzJxV0p3WUlTUTNodDVzV1JLWlRUSkM0SzBtOUZBN3h5ck1KM3RjZ0dpeUMxUll5c2s4LUVPckU1RjU2ejYwcF9MbVdTU2NDYzB6Y0FFbi1UUnpudw?oc=5\" target=\"_blank\">243276:华鑫证券有限责任公司关于重庆长寿开发投资(集团)有限公司三分之一以上董事发生变动之临时受托管理事务报告-20260810</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "title": "243276:华鑫证券有限责任公司关于重庆长寿开发投资(集团)有限公司三分之一以上董事发生变动之临时受托管理事务报告-20260810 - data.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcGpvbzRvVkFDWFJ5UEdPUHc0LXowQnhJblUxRThDYWVjSzJxV0p3WUlTUTNodDVzV1JLWlRUSkM0SzBtOUZBN3h5ck1KM3RjZ0dpeUMxUll5c2s4LUVPckU1RjU2ejYwcF9MbVdTU2NDYzB6Y0FFbi1UUnpudw?oc=5\" target=\"_blank\">243276:华鑫证券有限责任公司关于重庆长寿开发投资(集团)有限公司三分之一以上董事发生变动之临时受托管理事务报告-20260810</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">data.eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TcGpvbzRvVkFDWFJ5UEdPUHc0LXowQnhJblUxRThDYWVjSzJxV0p3WUlTUTNodDVzV1JLWlRUSkM0SzBtOUZBN3h5ck1KM3RjZ0dpeUMxUll5c2s4LUVPckU1RjU2ejYwcF9MbVdTU2NDYzB6Y0FFbi1UUnpudw?oc=5",
       "published": "Mon, 10 Aug 2026 03:22:29 GMT"
     },
     {
       "source": "同花顺",
-      "title": "汇天工厂第1000套电推进单元下线",
-      "summary": "8月10日，汇天飞行汽车量产工厂陆地航母飞行器第1000套电推进单元正式下线，创全球eVTOL行业800V电推进单元超大规模生产纪录。此次陆地航母飞行器第1000套电推进单元下线，标志着汇天已具备飞行器核心动力部件规模化、标准化生产能力。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260810/c678821291.shtml",
-      "published": "Mon, 10 Aug 2026 04:59:32 GMT"
+      "title": "中银证券基金经理罗雨清仓式离任 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LTUo4MnVNVW5OVmhQSnNqN1NuWDlWbEJUVURuczdIZnNOVVRyaXRMTjZGdjR4Z1hxdWdCaTk0TjhHZ0NfUEtZY0NDM0Y3ajd1NG9CSG91QzIwQmhHSVFiNF9n?oc=5\" target=\"_blank\">中银证券基金经理罗雨清仓式离任</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LTUo4MnVNVW5OVmhQSnNqN1NuWDlWbEJUVURuczdIZnNOVVRyaXRMTjZGdjR4Z1hxdWdCaTk0TjhHZ0NfUEtZY0NDM0Y3ajd1NG9CSG91QzIwQmhHSVFiNF9n?oc=5",
+      "published": "Mon, 10 Aug 2026 04:10:07 GMT"
     },
     {
       "source": "同花顺",
-      "title": "内塔尼亚胡拒绝加沙和平计划 反悔同意从加沙撤军",
-      "summary": "以总理内塔尼亚胡曾同意以军从加沙地带南部拉法附近的三个区域小范围撤军，但于当天“改变了主意”。以色列多家媒体9日报道，内塔尼亚胡当天在内阁会议上说，以色列拒绝美国发起的所谓“和平委员会”提出的加沙和平计划，并称在巴勒斯坦伊斯兰抵抗运动（哈马斯）真正解除武装之前，以军不会撤出加沙地带。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260810/c678821241.shtml",
-      "published": "Mon, 10 Aug 2026 04:55:27 GMT"
+      "title": "招商证券国际上调东方甄选评级至“买入” - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haE9QVG5DQjBTdXBNR05fVzVCbXN1N0lvU0JTWDdtQVl4SndLb1R2S2dNNFdFUnZ0WUo3YlRtXzlLUERFRjEtMXl1cWRBa3lJbjZzVEFOQTMyUHBHejlKWWZ3?oc=5\" target=\"_blank\">招商证券国际上调东方甄选评级至“买入”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5haE9QVG5DQjBTdXBNR05fVzVCbXN1N0lvU0JTWDdtQVl4SndLb1R2S2dNNFdFUnZ0WUo3YlRtXzlLUERFRjEtMXl1cWRBa3lJbjZzVEFOQTMyUHBHejlKWWZ3?oc=5",
+      "published": "Mon, 10 Aug 2026 03:34:26 GMT"
     },
     {
       "source": "同花顺",
-      "title": "通用汽车中国：雪佛兰未来将继续在中国生产，出口全球",
-      "summary": "8月10日，针对雪佛兰品牌未来发展，通用汽车中国方面向记者回应称：合资企业将继续在中国生产雪佛兰产品，并积极探索在美国以外的海外市场机遇。企业将为雪佛兰车主提供售后保障。企业方面表示：我们的合资企业将继续在中国生产雪佛兰产品，并积极探索在美国以外的海外市场机遇。雪佛兰也将继续保持通用汽车全球销量最大品牌的地位。通用汽车中国认为：在中国，凯迪拉克与别克在各自的细分市场中具备良好的竞争优势，能够支持业务的可持续增长；而合资企业旗下的雪佛兰产品线则最契合我们的出口市场需求。此前，有报道称，通用汽车在中国子品牌雪佛兰或将退出中国市场。（贝壳财经）",
-      "link": "https://news.10jqka.com.cn/20260810/c678821235.shtml",
-      "published": "Mon, 10 Aug 2026 04:55:05 GMT"
+      "title": "四方达：本次向特定对象发行股票方案已于2026年8月4日经公司2026年第一次临时股东会审议通过 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wUXF6LWpmT05iSzA4SDRnQ2hrRmplUmhnX3pYclppWFB0Ylp6blpLRjV6R0tidFZoSkE1QkdEM1A4aFlYYUtHMkNzSzVldV9wdHhEOFZfYWxlMFhBcEFWMklyQ1JkUzh0?oc=5\" target=\"_blank\">四方达：本次向特定对象发行股票方案已于2026年8月4日经公司2026年第一次临时股东会审议通过</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wUXF6LWpmT05iSzA4SDRnQ2hrRmplUmhnX3pYclppWFB0Ylp6blpLRjV6R0tidFZoSkE1QkdEM1A4aFlYYUtHMkNzSzVldV9wdHhEOFZfYWxlMFhBcEFWMklyQ1JkUzh0?oc=5",
+      "published": "Mon, 10 Aug 2026 03:39:01 GMT"
     },
     {
       "source": "同花顺",
-      "title": "航天电器：子公司苏州华旃高速模组及液冷互连产品处于小批量供货阶段",
-      "summary": "航天电器8月10日在互动平台表示，目前航天电器子公司苏州华旃的高速模组及液冷互连产品处于小批量供货阶段。",
-      "link": "https://news.10jqka.com.cn/20260810/c678821229.shtml",
-      "published": "Mon, 10 Aug 2026 04:54:14 GMT"
+      "title": "摩尔线程：拟发行H股股票并在香港联交所上市 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE96R0pCVExkQkV2S3A0WjBWdjVRUTFEYk43NUV3LW01Nk5iS2hXX1hSUkREYUdkNU5BMFVlbjJFZHdvelpWZ1QwNmtBS3MwZmNXeUFpSi1WbXlyNkpDREZFSDdn?oc=5\" target=\"_blank\">摩尔线程：拟发行H股股票并在香港联交所上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96R0pCVExkQkV2S3A0WjBWdjVRUTFEYk43NUV3LW01Nk5iS2hXX1hSUkREYUdkNU5BMFVlbjJFZHdvelpWZ1QwNmtBS3MwZmNXeUFpSi1WbXlyNkpDREZFSDdn?oc=5",
+      "published": "Mon, 10 Aug 2026 03:20:16 GMT"
     },
     {
       "source": "同花顺",
-      "title": "日本电价在假期来临前降至7月以来最低水平",
-      "summary": "受天气预报气温转凉、周二法定假日及本月晚些时候暑期假期带来用电需求回落影响，日本现货电力价格跌至7月初以来最低水平。日本电力交易所数据显示，该国次日期全国电力价格周一环比下跌41%，报11.37日元/千瓦时。日本气象厅与商业气象机构维萨拉预测，东京及整个关东 甲信地区本周末至下周初天气趋于温和，此间气温略低于常年均值。日本气象厅预报，截至周日，东京日间最高气温28 30摄氏度。关西地区未来数日也将迎来短暂降温时段。本田、日产等主要制造企业将暂停生产，一方面源于8月8日开启的暑期休假，另一方面熊本地震对零部件供应造成冲击。日本盂兰盆节暑期假期通常在8月中旬。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20260810/c678821224.shtml",
-      "published": "Mon, 10 Aug 2026 04:53:40 GMT"
+      "title": "赛微电子：公司将严格遵守深圳证券交易所各项业务规则 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFByS3N3OE9vX3FfOUhTRWdybWNlaDZCREs4VmtsX0d3OWJQSWRNZ0tCRGhURHpvb0VQTFpIdWFEQ09KdDVhSVA3MEx3TjE5Q2NHRHNQN3RySEZnQ01YZlhZeWRvbW5tM1Zj?oc=5\" target=\"_blank\">赛微电子：公司将严格遵守深圳证券交易所各项业务规则</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByS3N3OE9vX3FfOUhTRWdybWNlaDZCREs4VmtsX0d3OWJQSWRNZ0tCRGhURHpvb0VQTFpIdWFEQ09KdDVhSVA3MEx3TjE5Q2NHRHNQN3RySEZnQ01YZlhZeWRvbW5tM1Zj?oc=5",
+      "published": "Mon, 10 Aug 2026 03:39:01 GMT"
     },
     {
       "source": "同花顺",
-      "title": "ADNOC Gas上半年营收71.46亿美元，同比下降23.38%",
-      "summary": "8月10日，阿布扎比国家石油公司天然气业务子公司ADNOC Gas发布了截至2026年6月30日止的2026年上半年及第二季度财务业绩报告。在2026年第二季度，ADNOC Gas实现营业收入31.11亿美元，同比下降33.19%；实现净利润6.65亿美元，同比下降52.03%；每股收益为0.009美元。从整个上半年来看，公司累计实现营业收入71.46亿美元，同比下降23.38%；净利润为17.44亿美元，同比下降34.31%。",
-      "link": "https://news.10jqka.com.cn/20260810/c678821219.shtml",
-      "published": "Mon, 10 Aug 2026 04:51:02 GMT"
+      "title": "国君国际拟私有化退市，交易总价超98亿港元；华林证券拟2.02亿元收购海航期货94%股权 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xX2tQV3k3ZU1mYl9tZjlfSFZrdi0xcFlSSGpwTGVWUENkMmdhRC1iVXMwdXhMYm1seWhLcW13d3lGYWJObm56N2EweklNTGFObW9tS2Fya3JlZi1mMExiR3dB?oc=5\" target=\"_blank\">国君国际拟私有化退市，交易总价超98亿港元；华林证券拟2.02亿元收购海航期货94%股权</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xX2tQV3k3ZU1mYl9tZjlfSFZrdi0xcFlSSGpwTGVWUENkMmdhRC1iVXMwdXhMYm1seWhLcW13d3lGYWJObm56N2EweklNTGFObW9tS2Fya3JlZi1mMExiR3dB?oc=5",
+      "published": "Mon, 10 Aug 2026 04:55:51 GMT"
     },
     {
       "source": "同花顺",
-      "title": "恒工精密、智元机器人等成立新公司 含多项AI业务",
-      "summary": "企查查APP显示，近日，恒智科（苏州）科技有限公司成立，经营范围包含人工智能基础资源与技术平台；人工智能通用应用系统；人工智能公共服务平台技术咨询服务；服务消费机器人制造；智能机器人的研发等。企查查股权穿透显示，该公司由恒工精密全资子公司恒工伟创具身智能科技（上海）有限公司、智元机器人关联公司智元创新（上海）科技股份有限公司等共同持股。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260810/c678821118.shtml",
-      "published": "Mon, 10 Aug 2026 04:41:39 GMT"
+      "title": "消费ETF上周领涨，机构认为今年有望成为消费行业景气度拐点确立的关键之年 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YVm5pc05ycjlOOTdIMjZxN2I0U18xMUNaTUZsclNTbDBLYmM3dzJoeWdPMXM5SmUyRUpiZEdzTXJoYmw4STdSME16MF9qSGx1bHNMb3FSa19wZkdlcVZ2OXJR?oc=5\" target=\"_blank\">消费ETF上周领涨，机构认为今年有望成为消费行业景气度拐点确立的关键之年</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YVm5pc05ycjlOOTdIMjZxN2I0U18xMUNaTUZsclNTbDBLYmM3dzJoeWdPMXM5SmUyRUpiZEdzTXJoYmw4STdSME16MF9qSGx1bHNMb3FSa19wZkdlcVZ2OXJR?oc=5",
+      "published": "Mon, 10 Aug 2026 03:44:57 GMT"
     },
     {
       "source": "同花顺",
-      "title": "摩根大通将标普500指数2026年年底目标值从7800点上调至8000点",
-      "summary": "摩根大通将标普500指数2026年年底目标值从7800点上调至8000点。",
-      "link": "https://news.10jqka.com.cn/20260810/c678821106.shtml",
-      "published": "Mon, 10 Aug 2026 04:38:05 GMT"
+      "title": "7000亿AI芯片巨头，融资客大幅加仓，A股第一名 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzcEZsTmQ1c293ajFSOEJSeDBoVVNfTS1XRDRqOWhiVnNPczJndElEQVZrLUR5X1BDNlNHcTdFbzJ4QTlsM3Vyck54R2NPVWhHNzJrVXNzZ2hBMGZJSjJVTA?oc=5\" target=\"_blank\">7000亿AI芯片巨头，融资客大幅加仓，A股第一名</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzcEZsTmQ1c293ajFSOEJSeDBoVVNfTS1XRDRqOWhiVnNPczJndElEQVZrLUR5X1BDNlNHcTdFbzJ4QTlsM3Vyck54R2NPVWhHNzJrVXNzZ2hBMGZJSjJVTA?oc=5",
+      "published": "Mon, 10 Aug 2026 03:24:26 GMT"
     },
     {
       "source": "同花顺",
-      "title": "印度阿萨姆邦洪灾已致100人死亡",
-      "summary": "印度阿萨姆邦政府9日发布公告称，阿萨姆邦的洪灾形势依然严峻。截至9日当天，本轮洪灾已经导致100人死亡。报告称，有近14万人仍然受到灾情影响。阿萨姆邦灾害管理局称，受洪水影响，456个村庄被淹，11933公顷农田遭到破坏。洪水还损毁了多个地区的堤坝、道路、桥梁和其他基础设施。目前有近5万名受灾民众在避难所生活。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260810/c678820793.shtml",
-      "published": "Mon, 10 Aug 2026 04:16:46 GMT"
+      "title": "永清环保：公司目前生产经营一切正常，未触及《深圳证券交易所创业板股票上市规则》中规定的ST风险警示情形 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtNDE4TmgtYkh5OFZkd1ZDMW9vVnl1cF91YzlGZjdpbVZqVXFTcGhTZFgxNWlXd2tVS0lNYk4yQmRoRnJfTmU2NmFWTmE1dFQtVjFSanpUQlFhblNodmtnQmpEZ25DUWpt?oc=5\" target=\"_blank\">永清环保：公司目前生产经营一切正常，未触及《深圳证券交易所创业板股票上市规则》中规定的ST风险警示情形</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtNDE4TmgtYkh5OFZkd1ZDMW9vVnl1cF91YzlGZjdpbVZqVXFTcGhTZFgxNWlXd2tVS0lNYk4yQmRoRnJfTmU2NmFWTmE1dFQtVjFSanpUQlFhblNodmtnQmpEZ25DUWpt?oc=5",
+      "published": "Mon, 10 Aug 2026 04:35:40 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "国内多家金店金饰价格多数持稳，最高报1308元/克",
-      "summary": "据同花顺iFinD数据，今日国内黄金饰品价格对比显示，黄金珠宝品牌公布的境内足金首饰价格较昨日多数持稳，最高报1308元/克。",
-      "link": "https://news.10jqka.com.cn/20260810/c678820736.shtml",
-      "published": "Mon, 10 Aug 2026 04:10:56 GMT"
+      "source": "华尔街见闻",
+      "title": "伊朗打出美国最大软肋：打不起持久战",
+      "summary": "<p>美国中东问题专家Vali Nas指出，美国与以色列对伊朗战争的判断严重失误，低估了战争持续时间和伊朗的抵抗能力。</p>\n\n<p>美军大量消耗昂贵且难以快速补充的导弹弹药，最终面临库存压力。</p>\n\n<p>特朗普、赫格塞思及以色列内部开始相互甩锅，而战争也进一步暴露出美国长期作战和军工补充能力的局限，并可能影响乌克兰及亚洲局势。</p>",
+      "link": "https://wallstreetcn.com/charts/41959548",
+      "published": "Mon, 10 Aug 2026 05:03:30 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "中国神华在内蒙古成立煤炭技术研究院公司",
-      "summary": "企查查APP显示，近日，国能（内蒙古）煤炭技术研究院有限公司成立，注册资本10亿元，经营范围包含工程和技术研究和试验发展；规划设计管理；碳减排、碳转化、碳捕捉、碳封存技术研发等。企查查股权穿透显示，该公司由中国神华全资持股。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260810/c678820733.shtml",
-      "published": "Mon, 10 Aug 2026 04:10:40 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "海南：支持“投贷联动” 重点培育一批具有影响力的创业投资机构",
-      "summary": "海南省人民政府办公厅近日印发《海南省关于进一步深化投融资改革的若干举措》，其中提出，提升创业投资便利化。支持“投贷联动”，重点培育一批具有影响力的创业投资机构；鼓励银行机构加强与创业投资机构合作，为企业提供“股权+债权”全生命周期金融服务。符合条件的外商投资企业从事创业投资，依法依规享受相关税收优惠政策，吸引境内外知名创业投资机构落户。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260810/c678820731.shtml",
-      "published": "Mon, 10 Aug 2026 04:10:29 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海市药品监督管理局批准注册28项医疗器械产品",
-      "summary": "上海市药品监督管理局批准注册28项医疗器械产品。",
-      "link": "https://news.10jqka.com.cn/20260810/c678820669.shtml",
-      "published": "Mon, 10 Aug 2026 04:05:25 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "自然资源部对河北河南湖北启动地质灾害防御Ⅳ级响应",
-      "summary": "据气象部门预测和自然资源部地质灾害技术指导中心研判，受今年第13号台风“白海豚”影响，未来三天，河北、河南、湖北有强降雨过程，河北南部、河南西部和北部、湖北西部等部分地区发生地质灾害的风险较高。自然资源部于8月10日9时对河北、河南、湖北启动地质灾害防御Ⅳ级响应。自然资源部要求河北、河南、湖北省自然资源主管部门增强风险意识和忧患意识，强化底线思维和极限思维，高度重视强降雨引发地质灾害防范应对，及时组织开展巡查排查，切实做好监测预警、会商研判、灾情险情处置和值班值守、信息报送等工作；中国地质调查局、自然资源部地质灾害技术指导中心加强会商研判和专家调度，全力协助地方做好地质灾害防御工作。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260810/c678820656.shtml",
-      "published": "Mon, 10 Aug 2026 04:04:20 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "港股午评：恒生指数涨0.72%，恒生科技指数涨0.37%",
-      "summary": "港股午间收盘，恒生指数涨0.72%，恒生科技指数涨0.37%。恒指港股通ETF银华（159318）涨0.76%，港股通科技ETF鹏华（159751）涨0.55%。板块方面，焦炭加工Ⅲ、焦炭加工Ⅳ板块涨幅靠前；调查和咨询服务、环保设备板块跌幅靠前。个股方面，国泰君安国际涨36.3%，晶泰控股涨9.47%，礼邦医药-B涨9.18%，力量发展涨8.95%，老铺黄金涨8.52%；建滔积层板跌10.43%，深圳国际跌10.41%，伟禄科技股份跌10.19%，珞石机器人跌9.19%，天数智芯跌8.11%。",
-      "link": "https://news.10jqka.com.cn/20260810/c678820617.shtml",
-      "published": "Mon, 10 Aug 2026 04:01:13 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "葵花药业投资成立医药公司",
-      "summary": "企查查APP显示，近日，四川葵花医药有限公司成立，法定代表人为戴瑞全，注册资本为1000万元，经营范围包含：第一类医疗器械销售；第二类医疗器械销售；食品销售（仅销售预包装食品）；保健食品（预包装）销售等。企查查股权穿透显示，该公司由葵花药业全资持股。",
-      "link": "https://news.10jqka.com.cn/20260810/c678820614.shtml",
-      "published": "Mon, 10 Aug 2026 04:00:32 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "普洛斯上海多园区拓展半导体芯片产业客户",
-      "summary": "8月10日，据普洛斯消息，当前，上海正深入实施“人工智能+”行动，加快建设人工智能高地和世界级产业集群。近期，普洛斯上海浦东新区、奉贤区、临港新片区等地多处园区成功拓展半导体芯片产业客户，服务领域涵盖芯片设计、半导体设备及相关产业供应链运营。具体来看，普洛斯上海南汇园中物流园迎来国内领先的模拟芯片设计企业思瑞浦；普洛斯上海奉城物流园与半导体产业供应链服务商泓明供应链达成新的租赁合作；普洛斯上海合庆物流园引入一家国内半导体设备头部企业；普洛斯临港科创棱镜产业园迎来半导体设备头部企业盛美半导体入驻。（澎湃新闻）",
-      "link": "https://news.10jqka.com.cn/20260810/c678820556.shtml",
-      "published": "Mon, 10 Aug 2026 03:55:43 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上海发布中心城区暴雨橙色预警 多区发布大风橙色预警信号",
-      "summary": "上海市气象台2026年8月10日10时54分更新中心城区暴雨黄色预警信号为暴雨橙色预警信号：预计未来12小时内，中心城区大部6小时累计降水量将达150毫米以上，暴雨黄色预警信号更新为暴雨橙色预警信号，强降雨可能引发城市积涝、交通拥堵等情况，请特别加强防范极端强降雨。此外，金山、青浦、松江、浦东发布大风橙色预警信号。此前发布的台风、黄浦江高潮位、海浪预警信号依旧高挂。（上海发布）",
-      "link": "https://news.10jqka.com.cn/20260810/c678820543.shtml",
-      "published": "Mon, 10 Aug 2026 03:53:49 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "今年以来深圳各口岸出入境客流屡创新高",
-      "summary": "随着亚太经合组织（APEC）第三十三次领导人非正式会议进入倒计时，深圳口岸出入境客流持续攀升。据深圳边检总站统计，截至8月4日，经深圳口岸入出境外国人已突破500万人次，较2025年提前58天达成。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260810/c678820485.shtml",
-      "published": "Mon, 10 Aug 2026 03:49:15 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "科士达：逆变器销往美国规模较小 相关限制措施对整体业务基本无影响",
-      "summary": "科士达8月10日在互动平台表示，公司逆变器销往美国规模较小，相关限制措施对公司整体业务基本无影响。",
-      "link": "https://news.10jqka.com.cn/20260810/c678820428.shtml",
-      "published": "Mon, 10 Aug 2026 03:44:14 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "国家知识产权局核准176家企业使用地理标志专用标志",
-      "summary": "【国家知识产权局核准176家企业使用地理标志专用标志】财联社8月10日电，国家知识产权局日前发布公告，根据《地理标志产品保护办法》，生产祁县酥梨、山西老陈醋、神池胡油、赤峰羔羊肉、赤峰黄玉米、赤峰绿鸟鸡及其制品、牙克石野果系列酒、大连海参、辽中大米、汤原大米、依安大鹅、安吉白茶、金华火腿、宁波金柑、瓯柑、庆元甜桔（橘）柚、绍兴酒、黄岗柳编、政和白茶、乐陵金丝小枣、龙口粉丝、平阴玫瑰、微山湖四鼻鲤鱼、烟台苹果、大田柿花、封开杏花鸡、凤凰单丛（枞）茶、神湾菠萝、新丰佛手瓜、徐闻良姜、阳江豆豉、张溪香芋、中山脆肉鲩、八渡笋、博白空心菜、东津细米、都安野生山葡萄酒、灌阳红薯粉、横县茉莉花茶、乐业猕猴桃、六堡茶、三江茶、忻城金银花、泸州酒、蒙山茶、平昌青花椒、兴文山地乌骨鸡、彭阳红梅杏、哈密瓜、和田大枣、且末红枣、沁州黄小米、滁菊、六安瓜片、福鼎白茶等55个产品的176家企业，分别向产品所在地知识产权管理部门提出地理标志专用标志使用申请。经有关省级知识产权管理部门审核，并经国家知识产权局审查认定，现予注册登记。自即日起核准上述企业在其生产的地理标志产品上使用地理标志专用标志，获得地理标志产品保护",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:56:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "航天电器：子公司苏州华旃高速模组及液冷互连产品处于小批量供货阶段",
-      "summary": "【航天电器：子公司苏州华旃高速模组及液冷互连产品处于小批量供货阶段】财联社8月10日电，航天电器在互动平台表示，目前航天电器子公司苏州华旃的高速模组及液冷互连产品处于小批量供货阶段。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:54:50 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "ADNOC Gas上半年营收71.46亿美元 同比下降23.38%",
-      "summary": "【ADNOC Gas上半年营收71.46亿美元 同比下降23.38%】财联社8月10日电，阿布扎比国家石油公司天然气业务子公司ADNOC Gas发布了截至2026年6月30日止的2026年上半年及第二季度财务业绩报告。在2026年第二季度，ADNOC Gas实现营业收入31.11亿美元，同比下降33.19%；实现净利润6.65亿美元，同比下降52.03%；每股收益为0.009美元。从整个上半年来看，公司累计实现营业收入71.46亿美元，同比下降23.38%；净利润为17.44亿美元，同比下降34.31%。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:51:48 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月10日电，据马来西亚棕榈油局(MPOB)，马来西亚7月毛棕榈油产量为179万吨，较6月增长9.41%。",
-      "summary": "财联社8月10日电，据马来西亚棕榈油局(MPOB)，马来西亚7月毛棕榈油产量为179万吨，较6月增长9.41%。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:49:15 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月10日电，摩根大通将标普500指数2026年年底目标值从7800点上调至8000点。",
-      "summary": "财联社8月10日电，摩根大通将标普500指数2026年年底目标值从7800点上调至8000点。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:37:16 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "报道称英国监管机构正着手制定代币化黄金框架",
-      "summary": "【报道称英国监管机构正着手制定代币化黄金框架】财联社8月10日电，据媒体报道，英国监管机构正着手制定代币化黄金监管框架，作为推动金融市场数字化以及维护伦敦全球黄金交易中心地位计划的一部分。英国金融行为监管局已就代币化黄金的监管方式与行业机构展开讨论，其中包括多家大型银行。未来数月，监管部门预计将宣布制定这一领域监管标准的相关计划。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:19:31 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "印度阿萨姆邦洪灾已致100人死亡",
-      "summary": "【印度阿萨姆邦洪灾已致100人死亡】财联社8月10日电，印度阿萨姆邦政府9日发布公告称，阿萨姆邦的洪灾形势依然严峻。截至9日当天，本轮洪灾已经导致100人死亡。报告称，有近14万人仍然受到灾情影响。阿萨姆邦灾害管理局称，受洪水影响，456个村庄被淹，11933公顷农田遭到破坏。洪水还损毁了多个地区的堤坝、道路、桥梁和其他基础设施。目前有近5万名受灾民众在避难所生活。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:16:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "【研选•行业数据】制冷剂行业景气上行，供给削侧减配，额需求有望持续增长（附表）",
-      "summary": "",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:11:21 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "自然资源部对河北河南湖北启动地质灾害防御Ⅳ级响应",
-      "summary": "【自然资源部对河北河南湖北启动地质灾害防御Ⅳ级响应】财联社8月10日电，据气象部门预测和自然资源部地质灾害技术指导中心研判，受今年第13号台风“白海豚”影响，未来三天，河北、河南、湖北有强降雨过程，河北南部、河南西部和北部、湖北西部等部分地区发生地质灾害的风险较高。自然资源部于8月10日9时对河北、河南、湖北启动地质灾害防御IV级响应。自然资源部要求河北、河南、湖北省自然资源主管部门增强风险意识和忧患意识，强化底线思维和极限思维，高度重视强降雨引发地质灾害防范应对，及时组织开展巡查排查，切实做好监测预警、会商研判、灾情险情处置和值班值守、信息报送等工作；中国地质调查局、自然资源部地质灾害技术指导中心加强会商研判和专家调度，全力协助地方做好地质灾害防御工作。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:06:37 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月10日电，上海市药品监督管理局发布关于批准注册28项医疗器械产品的通告，2026年7月，上海市药品监督管理局共批准首次注册医疗器械产品28项。",
-      "summary": "财联社8月10日电，上海市药品监督管理局发布关于批准注册28项医疗器械产品的通告，2026年7月，上海市药品监督管理局共批准首次注册医疗器械产品28项。<br /><img src=\"https://image.cls.cn/images/20260810/rFz4oW2HBI_504x873.png\" /><img src=\"https://image.cls.cn/images/20260810/47aTf1Sn4O_507x684.png\" />",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:04:46 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月10日午间新闻精选",
-      "summary": "【财联社8月10日午间新闻精选】\n1、截至午间收盘，沪指涨0.2%，深证成指跌1.13%，创业板指跌2.18%。\n2、港股午间收盘，恒生指数涨0.72%，恒生科技指数涨0.37%。\n3、经历了连续5周的净流入后，股票ETF上周转为净流出。Wind数据显示，上周股票ETF合计净流出760.23亿元，其中宽基ETF净流出471.54亿元，主题ETF净流出175亿元。\n4、根据OpenRouter最新数据测算，上周，全球调用量排名前四均为中国AI大模型。其中，DeepSeek-V4-Flash-0731（即DeepSeek-V4-Flash正式版）位居第一，周调用量达8.83万亿Token，环比增长570%。\n5、据中央气象台消息，“白海豚”已减弱为热带风暴。8月10日1时，其中心位于浙江省温州市泰顺县境内（北纬27.5度、东经119.8度），最大风力9级。“白海豚”将以每小时15公里左右的速度向西北方向移动，强度逐渐减弱。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:03:28 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "港股午评：恒生指数涨0.72% 恒生科技指数涨0.37%",
-      "summary": "【港股午评：恒生指数涨0.72% 恒生科技指数涨0.37%】财联社8月10日电，港股午间收盘，恒生指数涨0.72%，恒生科技指数涨0.37%。光通信、PCB、半导体板块跌幅居前，建滔积层板跌超10%，剑桥科技跌逾7%，兆易创新、中际旭创跌超6%，澜起科技跌逾4%，华虹宏力跌逾3%，中芯国际跌超2%。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 04:00:14 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "海南：推动政策性银行、商业银行提前介入重大项目谋划 设置政府资金、信贷资金、自有资金合理配比",
-      "summary": "【海南：推动政策性银行、商业银行提前介入重大项目谋划 设置政府资金、信贷资金、自有资金合理配比】财联社8月10日电，海南省人民政府办公厅印发《海南省关于进一步深化投融资改革的若干举措》，其中提到，统筹政府资金与政策性金融工具、商业银行贷款投放节奏，推动政策性银行、商业银行提前介入重大项目谋划，设置政府资金、信贷资金、自有资金合理配比，探索建立“资金效率化、投资基金化、建设信贷化、运营证券化”的全周期资金循环体系，对于收益较好、融资渠道宽的项目，减少安排或不安排政府资金。制定科技系统‌财政资金“先投后股”操作指引，扩大“先投后股”范围，对生物医药、深海科技等成果转化项目，财政资金可先行投入，待企业成熟后转为股权，实现风险共担、利益共享。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:57:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月10日电，杰富瑞将特斯拉目标股价从400美元下调至350美元。",
-      "summary": "财联社8月10日电，杰富瑞将特斯拉目标股价从400美元下调至350美元。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:48:01 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月10日电，阿联酋阿布扎比国家石油公司ADNOC表示，将投资超过80亿美元以扩大生产能力。",
-      "summary": "财联社8月10日电，阿联酋阿布扎比国家石油公司ADNOC表示，将投资超过80亿美元以扩大生产能力。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:46:28 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "晓鸣股份：7月鸡产品销售收入8864.08万元 同比增长17.97%",
-      "summary": "【晓鸣股份：7月鸡产品销售收入8864.08万元 同比增长17.97%】财联社8月10日电，晓鸣股份发布7月鸡产品销售情况简报，公司2026年7月销售鸡产品2128.74万羽，销售收入8864.08万元，环比变动分别为9.44%、18.04%，同比变动分别为6.82%、17.97%。公司鸡产品销售数量和销售收入环比、同比均有所增长，主要系全国多地天气处于高温高湿状态，在产蛋鸡产蛋率下降，鸡蛋供应呈现阶段性偏紧，蛋价维持高位运行，养殖单位补栏积极性回升。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:46:00 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "科士达：逆变器销往美国规模较小 相关限制措施对整体业务基本无影响",
-      "summary": "【科士达：逆变器销往美国规模较小 相关限制措施对整体业务基本无影响】财联社8月10日电，科士达在互动平台表示，公司逆变器销往美国规模较小，相关限制措施对公司整体业务基本无影响。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:44:17 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "公募机构上周对医药生物行业调研次数突破100次 排名居首",
-      "summary": "【公募机构上周对医药生物行业调研次数突破100次 排名居首】财联社8月10日电，公募排排网数据显示，上周（8月3日—8月9日）共有112家公募机构参与到A股调研活动中，覆盖到16个申万行业中的41只个股，合计调研达384次。其中公募机构对医药生物行业调研热度明显攀升，调研次数突破100次，排名居首。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:42:23 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "8月10日午间涨停分析",
-      "summary": "【8月10日午间涨停分析】财联社8月10日电，今日午盘全市场共71股涨停，连板股总数9只，13股封板未遂，封板率为85%（不含ST股、退市股）。焦点股方面，PCB概念股宝鼎科技7天6板，控股股东变更的高争民爆9天6板，大消费板块一鸣食品10天6板，CXO概念股百花医药5连板。<br /><img src=\"https://image.cls.cn/images/20260810/S27lFlAK1r_1000x16783.jpg\" /><img src=\"https://image.cls.cn/images/20260810/vVJ7u72C22_1161x451.png\" />",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:42:17 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国卫通加入工信部6G推进组星地融合工作组",
-      "summary": "【中国卫通加入工信部6G推进组星地融合工作组】财联社8月10日电，据中国卫通消息，日前，在工业和信息化部信息通信发展司指导下，IMT-2030（6G）推进组星地融合（NTN）工作组（简称“NTN工作组”）在北京正式成立，中国卫通作为首批成员单位受邀加入工作组。NTN工作组主要职责是牵引支撑国内组织开展国际技术标准研制，统筹推进6G星地融合网络总体布局，培育6G卫星通信核心技术，推动产学研用各方协同联动。工作范围涵盖卫星空口接入技术、卫星终端技术、星地融合网络技术和运维与应用技术。",
-      "link": "",
-      "published": "Mon, 10 Aug 2026 03:40:34 GMT"
+      "source": "华尔街见闻",
+      "title": "伊朗要价暴涨：美国越打，谈判桌上的筹码越少",
+      "summary": "<p>美国国际关系学者约翰·米尔斯海默表示，伊朗已经掌握谈判主动权。</p>\n\n<p>相比6月17日，如今伊朗的要价大幅升级，甚至要求美国先解决制裁、赔偿和冻结资产问题，才愿意重新开放霍尔木兹海峡。</p>",
+      "link": "https://wallstreetcn.com/charts/41959547",
+      "published": "Mon, 10 Aug 2026 05:00:56 GMT"
     },
     {
       "source": "华尔街见闻",
