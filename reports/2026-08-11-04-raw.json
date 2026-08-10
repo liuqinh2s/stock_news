@@ -1,9 +1,30 @@
 {
   "date": "2026-08-11",
   "hour": "04",
-  "total": 13,
-  "fetched_at": "2026-08-11T04:00:53.041729+08:00",
+  "total": 21,
+  "fetched_at": "2026-08-11T04:29:57.391200+08:00",
   "news": [
+    {
+      "source": "同花顺",
+      "title": "黄仁勋：5000亿美元人工智能融资协议资金来自第三方",
+      "summary": "英伟达CEO黄仁勋表示，5000亿美元人工智能融资协议的资金完全是来自第三方的资本，相关交易将支持AI的大范围建设。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260811/c678839096.shtml",
+      "published": "Mon, 10 Aug 2026 20:23:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普媒体科技集团第二季度营收167万美元",
+      "summary": "特朗普媒体科技集团第二季度营收167万美元，第二季度运营亏损1.64亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260811/c678839092.shtml",
+      "published": "Mon, 10 Aug 2026 20:21:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收盘：三大指数集体收跌",
+      "summary": "美股收盘，三大指数集体收跌，标普500指数跌0.06%，道指跌0.11%，纳指跌0.32%。大型科技股方面，SpaceX涨4.23%，亚马逊涨1.32%，微软涨1.21%，苹果跌1.53%，美光科技跌1.89%，超威半导体跌2.85%，英伟达跌2.86%，高通跌3.39%，英特尔跌4.06%。中概股方面，阿里巴巴涨3.04%，携程涨2.12%，蔚来涨1.58%，京东涨1.52%，拼多多涨1.35%，哔哩哔哩涨1.33%，小鹏集团跌1.11%。",
+      "link": "https://news.10jqka.com.cn/20260811/c678839066.shtml",
+      "published": "Mon, 10 Aug 2026 20:02:14 GMT"
+    },
     {
       "source": "同花顺",
       "title": "英特尔股份的发售据悉受到了超额认购",
@@ -82,18 +103,53 @@
       "published": "Mon, 10 Aug 2026 18:37:51 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "WTI原油期货价格涨幅扩大至5%",
-      "summary": "WTI原油期货价格涨幅扩大至5%，报82.11美元/桶。",
-      "link": "https://news.10jqka.com.cn/20260811/c678838908.shtml",
-      "published": "Mon, 10 Aug 2026 18:17:56 GMT"
-    },
-    {
       "source": "财联社",
       "title": "韩股难现V型反弹？机构预判将迎来“平方根式”缓慢修复行情 - 财联社",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSeDR5VWFnbFIyZ2FQYldNQTNNanRNVEVHMlFxaWZ1a0YyNzdJRVZkYjhxWThHUW5MLWtlNU93c09IQXVCX1F3Yg?oc=5\" target=\"_blank\">韩股难现V型反弹？机构预判将迎来“平方根式”缓慢修复行情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBSeDR5VWFnbFIyZ2FQYldNQTNNanRNVEVHMlFxaWZ1a0YyNzdJRVZkYjhxWThHUW5MLWtlNU93c09IQXVCX1F3Yg?oc=5",
       "published": "Mon, 10 Aug 2026 19:58:18 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "英伟达联手华尔街六大巨头，筹5000亿美元押注AI基础设施，信用违约互换创两周最大涨幅",
+      "summary": "<p>英伟达正寻求与一批美国顶级金融机构联手，为人工智能基础设施项目筹集高达5000亿美元的资金。</p>\n<p>8月10日周一，据英国《金融时报》援引知情人士报道，Apollo、黑石集团、贝莱德旗下Global Infrastructure Partners、Brookfield资产管理公司、高盛集团及KKR等华尔街巨头，正<strong>与英伟达就一项总额5000亿美元的AI基础设施融资安排进行磋商，该交易最早可能于今日正式宣布。</strong></p>\n<p><strong>报道指出，各参与机构将以联合体形式组建专项投资基金，融资资金将专项用于AI芯片采购、电力生产及数据中心建设等领域。</strong></p>\n<p>若该交易最终落地，将跻身华尔街历史上规模最大的融资行动之列，进一步凸显主流金融资本大规模进入AI基础设施赛道的趋势。</p>\n<p>消息公布后，英伟达股价一度下跌3.2%，与此同时，衡量该公司信用风险的5年期信用违约互换（CDS）价格周一一度升至77.215个基点，较前一交易日上涨约5.3个基点，创两周来最大单日升幅。<img class=\" wscnph\" s",
+      "link": "https://wallstreetcn.com/articles/3779115",
+      "published": "Mon, 10 Aug 2026 20:15:15 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "8月11日会员早报：英特尔拟增发150亿美元新股 美国战略石油储备跌破3亿桶",
+      "summary": "<p>1、【英特尔拟增发150亿美元新股】美国芯片制造商英特尔（Intel）8月10日宣布，计划通过公开发行普通股募资150亿美元，为其在AI浪潮中的产能扩张与晶圆代工业务“补血”。英特尔表示，AI计算领域“史无前例”的投资热潮催生了对其产品的强劲需求。消息公布后，因市场担忧新股发行摊薄现有股东权益，英特尔股价盘中一度下跌约3%–5%。</p> <p>2、【美国战略石油储备跌破3亿桶】美国能源部最新数据显示，截至8月7日当周，美国战略石油储备（SPR）单周下降约610万桶至2.987亿桶，为1975年建库以来首次跌破3亿桶关口，刷新1983年1月以来的最低水平。</p> <p>3、【微策略持续减持比特币】微策略（Strategy，原名 MicroStrategy）8月10日（周一）披露，在截至8月9日的一周内，公司卖出价值1.086亿美元的比特币（约1,690枚，均价约每枚6.43万美元），并将这笔款项悉数用于回购其 STRC 优先股；与此同时，公司通过市价增发抛售了660万股普通股、套现约6.53亿美元，把美元储备提升至46.5亿美元。截至8月9日，公司仍持有840,447枚比特币，",
+      "link": "https://wallstreetcn.com/member/articles/3779114",
+      "published": "Mon, 10 Aug 2026 20:14:54 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "冷钱包遭攻击引发自托管担忧，资金转向机构化产品，比特币ETF周流入创4个月新高",
+      "summary": "<p>比特币冷钱包安全漏洞事件在加密货币市场引发连锁反应，投资者正将目光转向受监管的华尔街产品。</p>\n<p>上周，<strong>美国上市比特币交易所交易基金（ETF）录得逾8.5亿美元资金流入，为4月以来最强单周表现。</strong></p>\n<p>触发这波资金涌入的导火索，是加拿大Coinkite公司旗下Coldcard钱包遭到黑客攻击，约1.3亿美元比特币被盗。彭博行业研究分析师Eric Balchunas表示，<strong>此次攻击事件可能令比特币现货ETF对部分投资者，包括长期持有者而言，更具吸引力。</strong></p>\n<p>值得关注的是，此轮ETF资金流入并未伴随比特币价格的明显反弹。比特币周一跌超2%至63830美元，自6月以来持续在6万至6.7万美元区间窄幅震荡，较去年10月历史高点已累计下跌约50%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/0b03a647-9caa-4061-8856-23fde8b91021.png\" /></p>\n<div>\n<h2 id=\"str",
+      "link": "https://wallstreetcn.com/articles/3779111",
+      "published": "Mon, 10 Aug 2026 20:14:37 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "霍尔木兹重开仍无定论，欧洲天然气盘中飙涨超10%",
+      "summary": "<p>霍尔木兹海峡重开前景再度蒙上阴影，欧洲天然气市场率先感受到供应风险。</p>\n<p>伊朗与阿曼有关霍尔木兹海峡通航安排的讨论仍未能让市场相信全球液化天然气（LNG）运输能够迅速恢复。当地时间10日周一，欧洲天然气基准期货日内一度涨超10%，市场担忧即使伊朗与阿曼达成协议，霍尔木兹海峡也未必能立即恢复正常航运。</p>\n<p>对欧洲而言，时间压力正在加大。欧洲天然气库存目前仅略低于59%，明显低于同期五年均值约76%的水平；距离冬季供暖季开始已不足三个月。如果中东LNG供应恢复继续延迟，欧洲不仅需要在更短时间内补充库存，还可能与亚洲买家争夺有限的现货LNG资源。</p>\n<h2>“协议接近”并不等于霍尔木兹马上重开</h2>\n<p>市场此前曾押注伊朗与阿曼就霍尔木兹海峡新航道达成协议，推动能源价格大幅回落。</p>\n<p>但伊朗上周末表示，相关协议“非常接近”达成的同时，也释放出一个关键讯号：<strong>达成协议本身并不意味着霍尔木兹海峡会立即恢复正常通航。</strong></p>\n<p>这使交易员此前关于中东能源供应迅速恢复的乐观预期受到打击。</p>\n<p>霍尔木兹海峡不",
+      "link": "https://wallstreetcn.com/articles/3779110",
+      "published": "Mon, 10 Aug 2026 20:14:27 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Archer大涨！波音出售飞行出租车和无人机业务，换取Archer约20%股权",
+      "summary": "<p>波音公司正将旗下多个前沿航空技术部门打包出售，以换取专注核心业务所需的战略腾挪空间。</p>\n<p>据双方周一联合声明，<strong>波音将把旗下Wisk、SkyGrid和Insitu三个部门出售给加州飞行出租车开发商Archer Aviation，上述部门分别专注于无人驾驶飞机设计制造及空中交通管理系统开发。</strong></p>\n<p>作为交易的一部分，<strong>波音将获得Archer约20%的股权，并与后者达成技术共享协议，保留对Wisk核心自主飞行技术的使用权</strong>，用于其现有及下一代商用与国防飞机项目。</p>\n<p>消息刺激Archer股价盘中最高涨幅达23%，随后有所回落，截至发稿维持约11%的涨幅；波音股价则基本持平。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/f1e4d055-d76b-49d5-8e71-436af74a7d29.png\" /></p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.",
+      "link": "https://wallstreetcn.com/articles/3779112",
+      "published": "Mon, 10 Aug 2026 20:14:13 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美股收跌 - 第一财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jb0txZTJ6cGN0S1lneEZkcWNPa1VBVnhnZG9OQU5Kb1VKSzkwTFY2UkhnMEJOVm44Um4xM2Nqckh3elpodGd4Yko4eUlBVUNNNkx3?oc=5\" target=\"_blank\">美股收跌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jb0txZTJ6cGN0S1lneEZkcWNPa1VBVnhnZG9OQU5Kb1VKSzkwTFY2UkhnMEJOVm44Um4xM2Nqckh3elpodGd4Yko4eUlBVUNNNkx3?oc=5",
+      "published": "Mon, 10 Aug 2026 20:08:57 GMT"
     }
   ]
 }
