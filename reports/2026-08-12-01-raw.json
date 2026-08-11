@@ -1,9 +1,16 @@
 {
   "date": "2026-08-12",
   "hour": "01",
-  "total": 25,
-  "fetched_at": "2026-08-12T01:01:11.605749+08:00",
+  "total": 66,
+  "fetched_at": "2026-08-12T01:47:24.809240+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "年薪656万！A股最美女董秘再夺金牌 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1MODNpRXlJLVBtNDdITzZHbGxGMWE4dmhqX1JhSm1McmU2Umk3S1lZdTRJeTYtZHZ5N0V6TDgwckd2a1drRXQ4SXNCamJMS1JsZjdOUnRianVZbG5RbnBhX09OX3phdnpPYm9FVkhEZjYwdElSa3BXaktFRjdNUHc?oc=5\" target=\"_blank\">年薪656万！A股最美女董秘再夺金牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MODNpRXlJLVBtNDdITzZHbGxGMWE4dmhqX1JhSm1McmU2Umk3S1lZdTRJeTYtZHZ5N0V6TDgwckd2a1drRXQ4SXNCamJMS1JsZjdOUnRianVZbG5RbnBhX09OX3phdnpPYm9FVkhEZjYwdElSa3BXaktFRjdNUHc?oc=5",
+      "published": "Tue, 11 Aug 2026 16:51:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "长华集团A股股东户数增加114户增幅0.80%，流通A股户均持股3.26万股降幅0.79%，户均持股市值40.9万元增幅8.37% - 新浪网",
@@ -20,13 +27,6 @@
     },
     {
       "source": "新浪财经",
-      "title": "阳光照明A股股东户数增加19户增幅0.05%，流通A股户均持股3.33万股降幅0.05%，户均持股市值10.22万元增幅0.94% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVBWRUp2bWlOU3dOdDBxb0N4S2ZEQV9vREQyUmFDaE5QMDBCSHpGdEtFeVl5TXFVdl96WnE2NEF0Um8yVDhnYW9FbEpKWnVKLTFUcXpKM1RXeThrZEhReHgyYjVqUTBrRkdjN3ZtN2p3UmJqT0pZTUJSN2gwZ2x5ZHVlem45bFEzSVR0Uw?oc=5\" target=\"_blank\">阳光照明A股股东户数增加19户增幅0.05%，流通A股户均持股3.33万股降幅0.05%，户均持股市值10.22万元增幅0.94%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVBWRUp2bWlOU3dOdDBxb0N4S2ZEQV9vREQyUmFDaE5QMDBCSHpGdEtFeVl5TXFVdl96WnE2NEF0Um8yVDhnYW9FbEpKWnVKLTFUcXpKM1RXeThrZEhReHgyYjVqUTBrRkdjN3ZtN2p3UmJqT0pZTUJSN2gwZ2x5ZHVlem45bFEzSVR0Uw?oc=5",
-      "published": "Tue, 11 Aug 2026 16:40:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "圣元环保A股股东户数增加243户增幅1.18%，流通A股户均持股9221.74股降幅1.17%，户均持股市值15.46万元增幅1.87% - 新浪网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGhpQVZGTy0zYWNiWkdNaExxM0NmazhhU0tPdTNLSmp5NERSYTBCMXlfSXBsVEpuRkFmR0ttX0Z0SGl1cy05OHY4RmhRNm9nbzZmdlZRZ21FdDNJNGFsejlteHQ1UGxyVDBBVi1aRmpkSTRfTEZqSlpxTUlMOUlTNVltMnBsQUxILVBrRA?oc=5\" target=\"_blank\">圣元环保A股股东户数增加243户增幅1.18%，流通A股户均持股9221.74股降幅1.17%，户均持股市值15.46万元增幅1.87%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSGhpQVZGTy0zYWNiWkdNaExxM0NmazhhU0tPdTNLSmp5NERSYTBCMXlfSXBsVEpuRkFmR0ttX0Z0SGl1cy05OHY4RmhRNm9nbzZmdlZRZ21FdDNJNGFsejlteHQ1UGxyVDBBVi1aRmpkSTRfTEZqSlpxTUlMOUlTNVltMnBsQUxILVBrRA?oc=5",
@@ -34,23 +34,23 @@
     },
     {
       "source": "新浪财经",
-      "title": "招商轮船A股股东户数减少7818户降幅6.06%，流通A股户均持股6.66万股增幅6.45%，户均持股市值121.07万元增幅15.26% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONWUzVjB3T3E4N2h4NVJxbDlfc2xBTm1kLXB0bWs1MHNDaDdVdXZkMGFJdjRFZ1Zjb2UwTTlXdVhPYVZveFBmVE5oaXpUY0RIdGxmeXRYeW1CTTRURnB6Ri1xMjN3NG9XckFYY0RZcG92eU9JWTgyU21SMTBNdFNQYndocXVVcFpmQVU0VA?oc=5\" target=\"_blank\">招商轮船A股股东户数减少7818户降幅6.06%，流通A股户均持股6.66万股增幅6.45%，户均持股市值121.07万元增幅15.26%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWUzVjB3T3E4N2h4NVJxbDlfc2xBTm1kLXB0bWs1MHNDaDdVdXZkMGFJdjRFZ1Zjb2UwTTlXdVhPYVZveFBmVE5oaXpUY0RIdGxmeXRYeW1CTTRURnB6Ri1xMjN3NG9XckFYY0RZcG92eU9JWTgyU21SMTBNdFNQYndocXVVcFpmQVU0VA?oc=5",
+      "title": "伟时电子A股股东户数增加414户增幅2.37%，流通A股户均持股1.19万股降幅2.31%，户均持股市值17.1万元增幅11.49% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdfSjBuSzU4Y1VhV1lCT01Za0ltcVhBdEM3NGhqSjBnQWdCbXd6YnVKSXRJcS1yM3NVbmNDR21hSGJqUW1KR3kwV0o2QndRZjNhX0ducnRrUnp5SFkyWVNwaWV1ZmFtX2tNVXFiNWI0WUZCcHFfU09RT21ZV0JfSlpEbVVoWHVFWXlBQQ?oc=5\" target=\"_blank\">伟时电子A股股东户数增加414户增幅2.37%，流通A股户均持股1.19万股降幅2.31%，户均持股市值17.1万元增幅11.49%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdfSjBuSzU4Y1VhV1lCT01Za0ltcVhBdEM3NGhqSjBnQWdCbXd6YnVKSXRJcS1yM3NVbmNDR21hSGJqUW1KR3kwV0o2QndRZjNhX0ducnRrUnp5SFkyWVNwaWV1ZmFtX2tNVXFiNWI0WUZCcHFfU09RT21ZV0JfSlpEbVVoWHVFWXlBQQ?oc=5",
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股公司密集公告分红，海康威视分红超50亿元 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LWEdmZWtPMFdqcEJKbGFFTzdKRk9hODVDSnVlQVg2RUV6VThGRkxLUFFDbTVneTVjcU5PRFYwdDZ0UU82ckc2QVJ0VC15cl9xNksyajdoMTU0cjdLb0EteEgzR3BOY3hEMXRKMDl6MXpkOGtqcEYyTw?oc=5\" target=\"_blank\">A股公司密集公告分红，海康威视分红超50亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LWEdmZWtPMFdqcEJKbGFFTzdKRk9hODVDSnVlQVg2RUV6VThGRkxLUFFDbTVneTVjcU5PRFYwdDZ0UU82ckc2QVJ0VC15cl9xNksyajdoMTU0cjdLb0EteEgzR3BOY3hEMXRKMDl6MXpkOGtqcEYyTw?oc=5",
-      "published": "Tue, 11 Aug 2026 15:29:00 GMT"
+      "title": "阳光照明A股股东户数增加19户增幅0.05%，流通A股户均持股3.33万股降幅0.05%，户均持股市值10.22万元增幅0.94% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVBWRUp2bWlOU3dOdDBxb0N4S2ZEQV9vREQyUmFDaE5QMDBCSHpGdEtFeVl5TXFVdl96WnE2NEF0Um8yVDhnYW9FbEpKWnVKLTFUcXpKM1RXeThrZEhReHgyYjVqUTBrRkdjN3ZtN2p3UmJqT0pZTUJSN2gwZ2x5ZHVlem45bFEzSVR0Uw?oc=5\" target=\"_blank\">阳光照明A股股东户数增加19户增幅0.05%，流通A股户均持股3.33万股降幅0.05%，户均持股市值10.22万元增幅0.94%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVVBWRUp2bWlOU3dOdDBxb0N4S2ZEQV9vREQyUmFDaE5QMDBCSHpGdEtFeVl5TXFVdl96WnE2NEF0Um8yVDhnYW9FbEpKWnVKLTFUcXpKM1RXeThrZEhReHgyYjVqUTBrRkdjN3ZtN2p3UmJqT0pZTUJSN2gwZ2x5ZHVlem45bFEzSVR0Uw?oc=5",
+      "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "伟时电子A股股东户数增加414户增幅2.37%，流通A股户均持股1.19万股降幅2.31%，户均持股市值17.1万元增幅11.49% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdfSjBuSzU4Y1VhV1lCT01Za0ltcVhBdEM3NGhqSjBnQWdCbXd6YnVKSXRJcS1yM3NVbmNDR21hSGJqUW1KR3kwV0o2QndRZjNhX0ducnRrUnp5SFkyWVNwaWV1ZmFtX2tNVXFiNWI0WUZCcHFfU09RT21ZV0JfSlpEbVVoWHVFWXlBQQ?oc=5\" target=\"_blank\">伟时电子A股股东户数增加414户增幅2.37%，流通A股户均持股1.19万股降幅2.31%，户均持股市值17.1万元增幅11.49%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUdfSjBuSzU4Y1VhV1lCT01Za0ltcVhBdEM3NGhqSjBnQWdCbXd6YnVKSXRJcS1yM3NVbmNDR21hSGJqUW1KR3kwV0o2QndRZjNhX0ducnRrUnp5SFkyWVNwaWV1ZmFtX2tNVXFiNWI0WUZCcHFfU09RT21ZV0JfSlpEbVVoWHVFWXlBQQ?oc=5",
+      "title": "招商轮船A股股东户数减少7818户降幅6.06%，流通A股户均持股6.66万股增幅6.45%，户均持股市值121.07万元增幅15.26% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONWUzVjB3T3E4N2h4NVJxbDlfc2xBTm1kLXB0bWs1MHNDaDdVdXZkMGFJdjRFZ1Zjb2UwTTlXdVhPYVZveFBmVE5oaXpUY0RIdGxmeXRYeW1CTTRURnB6Ri1xMjN3NG9XckFYY0RZcG92eU9JWTgyU21SMTBNdFNQYndocXVVcFpmQVU0VA?oc=5\" target=\"_blank\">招商轮船A股股东户数减少7818户降幅6.06%，流通A股户均持股6.66万股增幅6.45%，户均持股市值121.07万元增幅15.26%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWUzVjB3T3E4N2h4NVJxbDlfc2xBTm1kLXB0bWs1MHNDaDdVdXZkMGFJdjRFZ1Zjb2UwTTlXdVhPYVZveFBmVE5oaXpUY0RIdGxmeXRYeW1CTTRURnB6Ri1xMjN3NG9XckFYY0RZcG92eU9JWTgyU21SMTBNdFNQYndocXVVcFpmQVU0VA?oc=5",
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
@@ -76,16 +76,16 @@
     },
     {
       "source": "新浪财经",
-      "title": "淮河能源A股股东户数增加644户增幅1.12%，流通A股户均持股6.69万股降幅1.11%，户均持股市值23.15万元降幅1.96% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnRSbnhXSGZ5WWZUWW5WbjRwQUpsSEtTd1ZDNEVxc2V2MTBLOWlkcjlJNEN2QnRUVmlueGJfZ2lkeFI0WXJOdVF2Z0RGaUMzeEg2WlJFeUZLTnVHVFdtV3UzU2ZwOUJ1MUp5OEd5aGl0enk4SG9Ta3VBRUNXdGQ1RXM5N1NaRzVyYkt2Yw?oc=5\" target=\"_blank\">淮河能源A股股东户数增加644户增幅1.12%，流通A股户均持股6.69万股降幅1.11%，户均持股市值23.15万元降幅1.96%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnRSbnhXSGZ5WWZUWW5WbjRwQUpsSEtTd1ZDNEVxc2V2MTBLOWlkcjlJNEN2QnRUVmlueGJfZ2lkeFI0WXJOdVF2Z0RGaUMzeEg2WlJFeUZLTnVHVFdtV3UzU2ZwOUJ1MUp5OEd5aGl0enk4SG9Ta3VBRUNXdGQ1RXM5N1NaRzVyYkt2Yw?oc=5",
+      "title": "淮北矿业A股股东户数减少230户降幅0.86%，流通A股户均持股10.21万股增幅0.87%，户均持股市值172.13万元增幅12.55% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFpS2JzRWIxVzVzMG9iMzlnOE1PVmFJS083Yl9KRU1DMWhiNjRLakhVeC0wS3czbUFlREt1SGZCNS1vME5fOGhaTFludXYwY0tWUmVfc01yU3NXNmo4TnMtWWdsODFuOV9US2laamdHWnVUQW83anZUTHVHWWFVdVhQMzlocERTSHNkYw?oc=5\" target=\"_blank\">淮北矿业A股股东户数减少230户降幅0.86%，流通A股户均持股10.21万股增幅0.87%，户均持股市值172.13万元增幅12.55%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFpS2JzRWIxVzVzMG9iMzlnOE1PVmFJS083Yl9KRU1DMWhiNjRLakhVeC0wS3czbUFlREt1SGZCNS1vME5fOGhaTFludXYwY0tWUmVfc01yU3NXNmo4TnMtWWdsODFuOV9US2laamdHWnVUQW83anZUTHVHWWFVdVhQMzlocERTSHNkYw?oc=5",
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "淮北矿业A股股东户数减少230户降幅0.86%，流通A股户均持股10.21万股增幅0.87%，户均持股市值172.13万元增幅12.55% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFpS2JzRWIxVzVzMG9iMzlnOE1PVmFJS083Yl9KRU1DMWhiNjRLakhVeC0wS3czbUFlREt1SGZCNS1vME5fOGhaTFludXYwY0tWUmVfc01yU3NXNmo4TnMtWWdsODFuOV9US2laamdHWnVUQW83anZUTHVHWWFVdVhQMzlocERTSHNkYw?oc=5\" target=\"_blank\">淮北矿业A股股东户数减少230户降幅0.86%，流通A股户均持股10.21万股增幅0.87%，户均持股市值172.13万元增幅12.55%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEFpS2JzRWIxVzVzMG9iMzlnOE1PVmFJS083Yl9KRU1DMWhiNjRLakhVeC0wS3czbUFlREt1SGZCNS1vME5fOGhaTFludXYwY0tWUmVfc01yU3NXNmo4TnMtWWdsODFuOV9US2laamdHWnVUQW83anZUTHVHWWFVdVhQMzlocERTSHNkYw?oc=5",
+      "title": "淮河能源A股股东户数增加644户增幅1.12%，流通A股户均持股6.69万股降幅1.11%，户均持股市值23.15万元降幅1.96% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnRSbnhXSGZ5WWZUWW5WbjRwQUpsSEtTd1ZDNEVxc2V2MTBLOWlkcjlJNEN2QnRUVmlueGJfZ2lkeFI0WXJOdVF2Z0RGaUMzeEg2WlJFeUZLTnVHVFdtV3UzU2ZwOUJ1MUp5OEd5aGl0enk4SG9Ta3VBRUNXdGQ1RXM5N1NaRzVyYkt2Yw?oc=5\" target=\"_blank\">淮河能源A股股东户数增加644户增幅1.12%，流通A股户均持股6.69万股降幅1.11%，户均持股市值23.15万元降幅1.96%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTnRSbnhXSGZ5WWZUWW5WbjRwQUpsSEtTd1ZDNEVxc2V2MTBLOWlkcjlJNEN2QnRUVmlueGJfZ2lkeFI0WXJOdVF2Z0RGaUMzeEg2WlJFeUZLTnVHVFdtV3UzU2ZwOUJ1MUp5OEd5aGl0enk4SG9Ta3VBRUNXdGQ1RXM5N1NaRzVyYkt2Yw?oc=5",
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
@@ -97,16 +97,16 @@
     },
     {
       "source": "新浪财经",
-      "title": "盛景微A股股东户数增加128户增幅1.11%，流通A股户均持股5451.83股降幅1.09%，户均持股市值20.38万元降幅1.28% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1p0M25rUm54cnMtM1lNVFVwM1EtOTFQUHRlbUNmenJCNENSZmthaVZOVEUtLU93RjhzUGY3UURhd3lNTEozc01nOVMxd2RGLTJ3NXZsdVBPcFFGc20xdXFlWHBPMWM1WEFaVzFKcjNqRHlVT3RwRklIaFlZTnBHSmV5YldUcnozTXF4QQ?oc=5\" target=\"_blank\">盛景微A股股东户数增加128户增幅1.11%，流通A股户均持股5451.83股降幅1.09%，户均持股市值20.38万元降幅1.28%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1p0M25rUm54cnMtM1lNVFVwM1EtOTFQUHRlbUNmenJCNENSZmthaVZOVEUtLU93RjhzUGY3UURhd3lNTEozc01nOVMxd2RGLTJ3NXZsdVBPcFFGc20xdXFlWHBPMWM1WEFaVzFKcjNqRHlVT3RwRklIaFlZTnBHSmV5YldUcnozTXF4QQ?oc=5",
+      "title": "金凯生科A股股东户数增加1792户增幅12.92%，流通A股户均持股3621.92股降幅11.44%，户均持股市值11.54万元增幅4.97% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXMtX0hhUEJlTXlMektsY0l5RjJtbm5LcU9JYlZXZ3VkU0szcTNrcHVwUDFBNzZlMnBCN1hyTmE1LXdKd0xVZ1Jhb3Z2aEdSQlBJM0VtTUFfQmtFaHRubWxHeXctR1BnMDUzRWhmUzliNFc0TG9DTnBkOVRCS29TLUtQU1o2a0Z1cmFYeg?oc=5\" target=\"_blank\">金凯生科A股股东户数增加1792户增幅12.92%，流通A股户均持股3621.92股降幅11.44%，户均持股市值11.54万元增幅4.97%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXMtX0hhUEJlTXlMektsY0l5RjJtbm5LcU9JYlZXZ3VkU0szcTNrcHVwUDFBNzZlMnBCN1hyTmE1LXdKd0xVZ1Jhb3Z2aEdSQlBJM0VtTUFfQmtFaHRubWxHeXctR1BnMDUzRWhmUzliNFc0TG9DTnBkOVRCS29TLUtQU1o2a0Z1cmFYeg?oc=5",
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "金凯生科A股股东户数增加1792户增幅12.92%，流通A股户均持股3621.92股降幅11.44%，户均持股市值11.54万元增幅4.97% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXMtX0hhUEJlTXlMektsY0l5RjJtbm5LcU9JYlZXZ3VkU0szcTNrcHVwUDFBNzZlMnBCN1hyTmE1LXdKd0xVZ1Jhb3Z2aEdSQlBJM0VtTUFfQmtFaHRubWxHeXctR1BnMDUzRWhmUzliNFc0TG9DTnBkOVRCS29TLUtQU1o2a0Z1cmFYeg?oc=5\" target=\"_blank\">金凯生科A股股东户数增加1792户增幅12.92%，流通A股户均持股3621.92股降幅11.44%，户均持股市值11.54万元增幅4.97%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXMtX0hhUEJlTXlMektsY0l5RjJtbm5LcU9JYlZXZ3VkU0szcTNrcHVwUDFBNzZlMnBCN1hyTmE1LXdKd0xVZ1Jhb3Z2aEdSQlBJM0VtTUFfQmtFaHRubWxHeXctR1BnMDUzRWhmUzliNFc0TG9DTnBkOVRCS29TLUtQU1o2a0Z1cmFYeg?oc=5",
+      "title": "盛景微A股股东户数增加128户增幅1.11%，流通A股户均持股5451.83股降幅1.09%，户均持股市值20.38万元降幅1.28% - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1p0M25rUm54cnMtM1lNVFVwM1EtOTFQUHRlbUNmenJCNENSZmthaVZOVEUtLU93RjhzUGY3UURhd3lNTEozc01nOVMxd2RGLTJ3NXZsdVBPcFFGc20xdXFlWHBPMWM1WEFaVzFKcjNqRHlVT3RwRklIaFlZTnBHSmV5YldUcnozTXF4QQ?oc=5\" target=\"_blank\">盛景微A股股东户数增加128户增幅1.11%，流通A股户均持股5451.83股降幅1.09%，户均持股市值20.38万元降幅1.28%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ1p0M25rUm54cnMtM1lNVFVwM1EtOTFQUHRlbUNmenJCNENSZmthaVZOVEUtLU93RjhzUGY3UURhd3lNTEozc01nOVMxd2RGLTJ3NXZsdVBPcFFGc20xdXFlWHBPMWM1WEFaVzFKcjNqRHlVT3RwRklIaFlZTnBHSmV5YldUcnozTXF4QQ?oc=5",
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
@@ -115,6 +115,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZdEpubURTVmdTV1Fsa3lONzFNeF8tWmxvbUhOYm90MzBDelpBYjRUN1MxMTE2TnJnTEN0Qm42cm1ubmdzUzRCemJ4OGdYRlF2eDJQelU4eUU5TlRqVEtrd2pLb2lSNjdXZ1NrcWdqUXZYRHB3MmVUNw?oc=5\" target=\"_blank\">高价股接踵 打新赚钱效应凸显</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZdEpubURTVmdTV1Fsa3lONzFNeF8tWmxvbUhOYm90MzBDelpBYjRUN1MxMTE2TnJnTEN0Qm42cm1ubmdzUzRCemJ4OGdYRlF2eDJQelU4eUU5TlRqVEtrd2pLb2lSNjdXZ1NrcWdqUXZYRHB3MmVUNw?oc=5",
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "但斌公开回应持有人质疑：产品未减仓跟随AI回调，坦承A股布局偏晚 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB5N3Y4bjgtdVc5dDhpdlRLMkNDQ1kzZDVFQ19VMXJfS0pLWFhvazZaTkJmYWhsbkdCaENXY3ZvQ19kMUIyME85YTViaHhkZUVRci1uZ21nT1pPTDRXUGFiQUV2VUloQ3ducVdpd0QyOU9CdWd3Zm43bw?oc=5\" target=\"_blank\">但斌公开回应持有人质疑：产品未减仓跟随AI回调，坦承A股布局偏晚</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5N3Y4bjgtdVc5dDhpdlRLMkNDQ1kzZDVFQ19VMXJfS0pLWFhvazZaTkJmYWhsbkdCaENXY3ZvQ19kMUIyME85YTViaHhkZUVRci1uZ21nT1pPTDRXUGFiQUV2VUloQ3ducVdpd0QyOU9CdWd3Zm43bw?oc=5",
+      "published": "Tue, 11 Aug 2026 15:54:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -138,18 +145,11 @@
       "published": "Tue, 11 Aug 2026 16:40:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "鸿合科技A股股东户数减少657户降幅4.57%，流通A股户均持股1.43万股增幅4.79%，户均持股市值50.11万元增幅16.50% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXZuWFNjc0p2UURnVzFzVVQwSGlXdVg2M290bUhmbkczOTdNbzlvUFVraDFHM2pwUGxhZjdzUzUxd0I1OVE1X0lUYVVFR0ZqUEpIQlNtcTZfYWxQS1I4cm1zb250Zklfb2dnS3I0RDRFQTlXd0U1NTBDUVRnbGRRX2dtY3FLQlkyRjJMYQ?oc=5\" target=\"_blank\">鸿合科技A股股东户数减少657户降幅4.57%，流通A股户均持股1.43万股增幅4.79%，户均持股市值50.11万元增幅16.50%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXZuWFNjc0p2UURnVzFzVVQwSGlXdVg2M290bUhmbkczOTdNbzlvUFVraDFHM2pwUGxhZjdzUzUxd0I1OVE1X0lUYVVFR0ZqUEpIQlNtcTZfYWxQS1I4cm1zb250Zklfb2dnS3I0RDRFQTlXd0U1NTBDUVRnbGRRX2dtY3FLQlkyRjJMYQ?oc=5",
-      "published": "Tue, 11 Aug 2026 16:40:00 GMT"
-    },
-    {
       "source": "东方财富",
-      "title": "【调研快报】盛弘股份接待天风证券等95家机构调研 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxSl8zOUZEd1Z1d3IwZVkyYTRDNnJDc1Ryem5jX3FWMXZmeVowQ0FiMTVscmk5eVVMb3g0djgzVXNFdFBtTVpleEhUeXhycmd2WEdHdnlLeUhMeU9hZDlqUg?oc=5\" target=\"_blank\">【调研快报】盛弘股份接待天风证券等95家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxSl8zOUZEd1Z1d3IwZVkyYTRDNnJDc1Ryem5jX3FWMXZmeVowQ0FiMTVscmk5eVVMb3g0djgzVXNFdFBtTVpleEhUeXhycmd2WEdHdnlLeUhMeU9hZDlqUg?oc=5",
-      "published": "Tue, 11 Aug 2026 15:15:20 GMT"
+      "title": "退市熊猫因信息披露违规等违规行为被上海证券交易所公开谴责 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBCVlF6N2RoMlZWSDliR3RaWVRwVGNtVW5laTRCS2U0ckk5RkpleGRvZVFVTjdBSFJrZnEyQUdOemdQWnJzTk9fc1Jzcjh2aS05dGpSWDMtSVEtRThUVms2bDBFVlJzMGpLdVpj?oc=5\" target=\"_blank\">退市熊猫因信息披露违规等违规行为被上海证券交易所公开谴责</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCVlF6N2RoMlZWSDliR3RaWVRwVGNtVW5laTRCS2U0ckk5RkpleGRvZVFVTjdBSFJrZnEyQUdOemdQWnJzTk9fc1Jzcjh2aS05dGpSWDMtSVEtRThUVms2bDBFVlJzMGpLdVpj?oc=5",
+      "published": "Tue, 11 Aug 2026 17:01:00 GMT"
     },
     {
       "source": "东方财富",
@@ -160,24 +160,311 @@
     },
     {
       "source": "同花顺",
-      "title": "操纵证券市场！300220实控人被判刑，并处罚金1200万元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haVJDMHYxcVFBMEZTOWRHUWRVZ01EZU4xZF91NEU5eG1USFdjV2M4MVM4VlQtbmx6eGtza3h6YlQzeUtncXBwZWJmbFRQUHc3ZGxYbW9TVU5OUl9YS3hzcC1B?oc=5\" target=\"_blank\">操纵证券市场！300220实控人被判刑，并处罚金1200万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1haVJDMHYxcVFBMEZTOWRHUWRVZ01EZU4xZF91NEU5eG1USFdjV2M4MVM4VlQtbmx6eGtza3h6YlQzeUtncXBwZWJmbFRQUHc3ZGxYbW9TVU5OUl9YS3hzcC1B?oc=5",
-      "published": "Tue, 11 Aug 2026 15:46:42 GMT"
+      "title": "谷歌：Gemini月活用户数超过10亿",
+      "summary": "谷歌表示，Gemini月活用户数超过10亿。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871453.shtml",
+      "published": "Tue, 11 Aug 2026 17:44:52 GMT"
     },
     {
       "source": "同花顺",
-      "title": "北水成交净卖出13.76亿 中信证券融资加码国际业务 北水全天加仓超5亿港元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BX0I0ODlCQU9zbmdjNmNEQzUwU3pyWVVhWHpGY3J1aVdBNlozQXhwV0x0N1ZCdVFVWVlkTWNNTTFqMjg2R3Z5REJ4Z2FyMXctb2w0cndLeFU1VGpPSGxMbHV3?oc=5\" target=\"_blank\">北水成交净卖出13.76亿 中信证券融资加码国际业务 北水全天加仓超5亿港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5BX0I0ODlCQU9zbmdjNmNEQzUwU3pyWVVhWHpGY3J1aVdBNlozQXhwV0x0N1ZCdVFVWVlkTWNNTTFqMjg2R3Z5REJ4Z2FyMXctb2w0cndLeFU1VGpPSGxMbHV3?oc=5",
-      "published": "Tue, 11 Aug 2026 16:01:44 GMT"
+      "title": "纳斯达克100指数跌0.5%",
+      "summary": "纳斯达克100指数跌幅扩大至0.5%。",
+      "link": "https://news.10jqka.com.cn/20260812/c678871423.shtml",
+      "published": "Tue, 11 Aug 2026 17:19:44 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "头部量化扎堆入围！宇树科技七成筹码倾斜网下，这些机构获配",
-      "summary": "<figure><img alt=\"头部量化扎堆入围！宇树科技七成筹码倾斜网下，这些机构获配\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/8B80EF8C-4610-4AA2-98DC-BA55C231261C.jpg\" /></figure><p>B类投资者中有敦和资产管理有限公司、国金证券、财信证券、东方财富证券、博时基金、广发基金、睿远基金等，以及世纪前沿、九坤投资、茂源量化、幻方、鸣石、平方和、明汯、正定、量派、黑翼等量化机构。</p><p>8月11日晚间，宇树科技网上网下中签结果出炉，网上中签号码共有19414个，平均5525个配号才能中一签，中签率为0.01809759%，网下投资者配售比例为0.03341824%。</p><p>相较年内上市的新股中签率，在已上市的93只新股中，宇树科技的网上中签率偏低；但网下中签率居前，在今年有网下打新的46只上市新股中，宇树科技的网下中签率位居第六位。</p><p>截至目前，年内网上中签率最高的新股为长鑫科技，达到0.47141739%，宇树科技的网上中签率为长鑫科技的3",
-      "link": "https://www.yicai.com/news/103314218.html",
-      "published": "Tue, 11 Aug 2026 15:22:28 GMT"
+      "source": "同花顺",
+      "title": "美联储隔夜逆回购协议（RRP）周二使用规模为12.5亿美元",
+      "summary": "美联储隔夜逆回购协议（RRP）周二使用规模为12.5亿美元（交易对手2家），上个交易日报9.75亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871421.shtml",
+      "published": "Tue, 11 Aug 2026 17:18:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达信用风险指标回落，CEO澄清5000亿美元融资计划",
+      "summary": "一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项5000亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资，而这类投资正推动对英伟达芯片的需求。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871408.shtml",
+      "published": "Tue, 11 Aug 2026 17:12:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴克莱：美债对价格敏感型买家的依赖显著上升 料使收益率维持高位",
+      "summary": "巴克莱表示，美国国债买家结构正在转向更注重价值的共同基金、家庭和其他私人投资者，这一变化帮助推动30年期美债收益率升至数十年来高位。策略师Demi Hu和Anshul Pradan在一份报告中写道，只要通胀持续存在，这些买家就会要求越来越高的补偿，才愿意持有长期债券。两位策略师表示：“美国国债的买家基础已经发生变化。”自2022年美联储开始缩减持仓以来，外国央行和美联储等官方部门的需求持续减弱，使得“私人投资者成为吸收新增供应的边际买家”。他们估计，私人投资者目前持有美国国债市场73%的份额，而大约10年前这一比例约为50%。巴克莱按持仓加权计算的综合弹性指数显示，“过去10年，美国国债市场对价格敏感型投资者的依赖程度已显著上升”。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871406.shtml",
+      "published": "Tue, 11 Aug 2026 17:11:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沪铝夜盘收涨0.58%",
+      "summary": "国际铜夜盘收涨0.21%，沪铜收涨0.04%，沪铝收涨0.58%，沪锌收跌0.08%，沪铅收平，沪镍收跌0.5%，沪锡收涨0.35%。氧化铝夜盘收涨0.35%，铝合金收涨0.93%。不锈钢夜盘收跌0.07%。",
+      "link": "https://news.10jqka.com.cn/20260812/c678871388.shtml",
+      "published": "Tue, 11 Aug 2026 17:03:22 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI高管Brad Lightcap将离职 开启“新项目”",
+      "summary": "OpenAI管理人士Brad Lightcap将离开这家人工智能公司，开启一个新项目。就在几个月前，他卸任首席运营官一职。Lightcap在一份与OpenAI员工分享的内部通知中写道，“过去几个月里，我一直在思考和探索下一个方向。随着我们进入下一个阶段，我认为有几件重要的事情是这个世界需要妥善解决的。我很快会分享更多信息。”Lightcap于2018年加入OpenAI，并在公司拓展企业业务的过程中发挥了关键作用。今年4月，OpenAI进行了一轮更广泛的领导层调整，他也随之卸任首席运营官。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871384.shtml",
+      "published": "Tue, 11 Aug 2026 17:01:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "加拿大和美国计划下周提出新贸易协议",
+      "summary": "加拿大和美国官员据悉计划下周提出新的贸易协议。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871367.shtml",
+      "published": "Tue, 11 Aug 2026 16:59:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "LME期铝收涨46美元",
+      "summary": "LME期铜收跌4美元，报14156美元/吨。LME期铝收涨46美元，报3364美元/吨。LME期锌收跌9美元，报3728美元/吨。LME期铅收涨4美元，报1907美元/吨。LME期镍收跌95美元，报16830美元/吨。LME期锡收涨160美元，报55912美元/吨。LME期钴收平，报56290美元/吨。",
+      "link": "https://news.10jqka.com.cn/20260812/c678871362.shtml",
+      "published": "Tue, 11 Aug 2026 16:54:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "趋势基金创纪录做空全球债券 美国CPI报告料成为盈亏关键",
+      "summary": "追逐趋势的投资者对全球债券的做空押注达到创纪录水平，本周美国将公布的通胀报告因此变得异常重要。瑞银集团的数据显示，旨在从各类资产价格走势中获利的商品交易顾问(CTA)在7月将低配债券的头寸较两周前增加两倍。此后，这些押注一直保持稳定，即将公布的美国消费者和生产者价格指数如果刺激国债价格走高，这些CTA交易将面临亏损风险。根据策略师Nicolas Le Roux的说法，在通胀数据公布前，10年期国债收益率每变动1个基点，CTA的盈亏规模约为3亿美元，敞口为瑞银自1990年开始编制相关数据以来最大。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871355.shtml",
+      "published": "Tue, 11 Aug 2026 16:47:25 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI在五国推出ChatGPT广告",
+      "summary": "OpenAI表示，ChatGPT广告现已在英国、墨西哥、巴西、日本和韩国上线（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871324.shtml",
+      "published": "Tue, 11 Aug 2026 16:34:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "SpaceX跌幅扩大至5%",
+      "summary": "SpaceX跌幅扩大至5%，报131.67美元。",
+      "link": "https://news.10jqka.com.cn/20260812/c678871310.shtml",
+      "published": "Tue, 11 Aug 2026 16:21:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "得州州长暂停新建数据中心后，美国能源信息署下调得州电力需求预期",
+      "summary": "美国得州州长宣布暂停新建数据中心后，美国能源信息署下调了得克萨斯州电力需求预期（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871301.shtml",
+      "published": "Tue, 11 Aug 2026 16:19:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "芝加哥联储行长：美国劳动力市场虽保持稳定但并不见起色",
+      "summary": "芝加哥联储行长奥斯坦·古尔斯比表示，各项指标显示美国劳动力市场虽保持稳定但并不见起色。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871286.shtml",
+      "published": "Tue, 11 Aug 2026 16:13:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "霍尔木兹海峡石油出口量达近900万桶/日",
+      "summary": "美国能源部长表示，目前通过霍尔木兹海峡的石油七天平均出口量已达近900万桶/日。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871276.shtml",
+      "published": "Tue, 11 Aug 2026 16:10:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
+      "summary": "当地时间11日，伊朗最高国家安全委员会秘书雷扎伊表示，美国是霍尔木兹海峡、波斯湾和阿曼湾不安全的根源，美国对伊朗发动非法战争，危及整个地区。“除非美国改变其行为并接受伊朗的条件，否则霍尔木兹海峡不会开放。”他表示，美国必须结束战争，支付伊朗被冻结的资金，此外美国还需满足通过中间人传达给他们的其他条件。他指出，如果伊朗和阿曼就霍尔木兹海峡的通行路线达成协议，该协议“将与霍尔木兹海峡的封锁问题分开处理”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260812/c678871262.shtml",
+      "published": "Tue, 11 Aug 2026 16:07:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国能源信息署预计2026年布伦特原油价格87美元/桶",
+      "summary": "美国能源信息署预计2026年布伦特原油价格87美元/桶（此前预计82美元/桶），预计2027年69美元/桶（此前预计65美元/桶）。",
+      "link": "https://news.10jqka.com.cn/20260812/c678871227.shtml",
+      "published": "Tue, 11 Aug 2026 16:03:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，谷歌表示，Gemini月活用户数超过10亿。",
+      "summary": "财联社8月12日电，谷歌表示，Gemini月活用户数超过10亿。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:42:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，利比亚国家石油公司（NOC）表示，消防人员已完全扑灭扎维耶炼油厂的火情。",
+      "summary": "财联社8月12日电，利比亚国家石油公司（NOC）表示，消防人员已完全扑灭扎维耶炼油厂的火情。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:37:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，哥伦比亚可能将于周二宣布进入经济紧急状态。",
+      "summary": "财联社8月12日电，哥伦比亚可能将于周二宣布进入经济紧急状态。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:24:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，纳斯达克100指数跌幅扩大至0.5%。",
+      "summary": "财联社8月12日电，纳斯达克100指数跌幅扩大至0.5%。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:18:53 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，美联储隔夜逆回购协议（RRP）周二使用规模为12.50亿美元（交易对手2家），上个交易日报9.75亿美元。",
+      "summary": "财联社8月12日电，美联储隔夜逆回购协议（RRP）周二使用规模为12.50亿美元（交易对手2家），上个交易日报9.75亿美元。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:16:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，根据哥伦比亚市政联合会当地时间11日通报，该国8月10日发生的强震死亡人数已上升为234人。",
+      "summary": "财联社8月12日电，根据哥伦比亚市政联合会当地时间11日通报，该国8月10日发生的强震死亡人数已上升为234人。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:12:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
+      "summary": "【英伟达信用风险指标回落 CEO澄清5000亿美元融资计划】财联社8月12日电，一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项5000亿美元融资计划中的风险敞口。该计划旨在为人工智能投资提供融资，而这类投资正推动对英伟达芯片的需求。英伟达票息5.625%、2056年到期债券的收益率较可比美国国债高113个基点，利差收窄2个基点。与此同时，根据ICE Data Services的数据，5年期信用违约掉期报价一度收窄5个基点，至72.11个基点。上述变动显示，华尔街对这项融资计划的担忧有所缓解。该计划凸显这家芯片巨头高度依赖科技公司举债支撑的投资支出，而这些公司正竞相争夺人工智能业务的主导地位。交易员和基金经理表示，有关该融资计划的报道以及周一晚间最初发布的公告，在实施时间和结构方面披露的细节甚少，令投资者急于厘清其对英伟达的潜在影响。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:11:55 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "巴克莱：美债对价格敏感型买家的依赖显著上升 料使收益率维持高位",
+      "summary": "【巴克莱：美债对价格敏感型买家的依赖显著上升 料使收益率维持高位】财联社8月12日电，巴克莱表示，美国国债买家结构正在转向更注重价值的共同基金、家庭和其他私人投资者，这一变化帮助推动30年期美债收益率升至数十年来高位。策略师Demi Hu和Anshul Pradan在一份报告中写道，只要通胀持续存在，这些买家就会要求越来越高的补偿，才愿意持有长期债券。两位策略师表示：\"美国国债的买家基础已经发生变化。\"自2022年美联储开始缩减持仓以来，外国央行和美联储等官方部门的需求持续减弱，使得\"私人投资者成为吸收新增供应的边际买家\"。他们估计，私人投资者目前持有美国国债市场73%的份额，而大约10年前这一比例约为50%。巴克莱按持仓加权计算的综合弹性指数显示，\"过去10年，美国国债市场对价格敏感型投资者的依赖程度已显著上升\"。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:10:53 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，优步退出Serve Robotics持股。",
+      "summary": "财联社8月12日电，优步退出Serve Robotics持股。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:10:23 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，美国财政部拍卖580亿美元三年期国债，得标利率4.291%（7月7日为4.179%），投标倍数2.71（前次为2.60）。",
+      "summary": "财联社8月12日电，美国财政部拍卖580亿美元三年期国债，得标利率4.291%（7月7日为4.179%），投标倍数2.71（前次为2.60）。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:02:51 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "沪铝夜盘收涨0.58%",
+      "summary": "【沪铝夜盘收涨0.58%】财联社8月12日电，国际铜夜盘收涨0.21%，沪铜收涨0.04%，沪铝收涨0.58%，沪锌收跌0.08%，沪铅收平，沪镍收跌0.5%，沪锡收涨0.35%。氧化铝夜盘收涨0.35%，铝合金收涨0.93%。不锈钢夜盘收跌0.07%。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 17:01:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "OpenAI高管Brad Lightcap将离职 开启“新项目”",
+      "summary": "【OpenAI高管Brad Lightcap将离职 开启“新项目”】财联社8月12日电，OpenAI管理人士Brad Lightcap将离开这家人工智能公司，开启一个新项目。就在几个月前，他卸任首席运营官一职。Lightcap在一份与OpenAI员工分享的内部通知中写道，“过去几个月里，我一直在思考和探索下一个方向。随着我们进入下一个阶段，我认为有几件重要的事情是这个世界需要妥善解决的。我很快会分享更多信息。”Lightcap于2018年加入OpenAI，并在公司拓展企业业务的过程中发挥了关键作用。今年4月，OpenAI进行了一轮更广泛的领导层调整，他也随之卸任首席运营官。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:59:04 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，加拿大和美国官员据悉计划下周提出新的贸易协议。",
+      "summary": "财联社8月12日电，加拿大和美国官员据悉计划下周提出新的贸易协议。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:57:59 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，SpaceXAI宣布，Grok Bot 目前处于内测阶段，即日起SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium 的订阅用户可在桌面端和iOS上使用。",
+      "summary": "财联社8月12日电，SpaceXAI宣布，Grok Bot 目前处于内测阶段，即日起SuperGrok Heavy、Cursor Ultra和Cursor Teams Premium 的订阅用户可在桌面端和iOS上使用。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:57:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "LME期铝收涨46美元",
+      "summary": "【LME期铝收涨46美元】财联社8月12日电，LME期铜收跌4美元，报14156美元/吨。LME期铝收涨46美元，报3364美元/吨。LME期锌收跌9美元，报3728美元/吨。LME期铅收涨4美元，报1907美元/吨。LME期镍收跌95美元，报16830美元/吨。LME期锡收涨160美元，报55912美元/吨。LME期钴收平，报56290美元/吨。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:53:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "趋势基金创纪录做空全球债券 美国CPI报告料成为盈亏关键",
+      "summary": "【趋势基金创纪录做空全球债券 美国CPI报告料成为盈亏关键】财联社8月12日电，追逐趋势的投资者对全球债券的做空押注达到创纪录水平，本周美国将公布的通胀报告因此变得异常重要。瑞银集团的数据显示，旨在从各类资产价格走势中获利的商品交易顾问(CTA)在7月将低配债券的头寸较两周前增加两倍。此后，这些押注一直保持稳定，即将公布的美国消费者和生产者价格指数如果刺激国债价格走高，这些CTA交易将面临亏损风险。根据策略师Nicolas Le Roux的说法，在通胀数据公布前，10年期国债收益率每变动1个基点，CTA的盈亏规模约为3亿美元，敞口为瑞银自1990年开始编制相关数据以来最大。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:46:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，秘鲁6月铜产量同比下降4.7%至218,232吨。",
+      "summary": "财联社8月12日电，秘鲁6月铜产量同比下降4.7%至218,232吨。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:43:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，OpenAI表示，ChatGPT广告现已在英国、墨西哥、巴西、日本和韩国上线。",
+      "summary": "财联社8月12日电，OpenAI表示，ChatGPT广告现已在英国、墨西哥、巴西、日本和韩国上线。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:33:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月12日电，以色列与委内瑞拉同意恢复领事关系。",
+      "summary": "财联社8月12日电，以色列与委内瑞拉同意恢复领事关系。",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:32:45 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "也门海岸警卫队称胡塞武装袭击商船致6人死亡",
+      "summary": "【也门海岸警卫队称胡塞武装袭击商船致6人死亡】财联社8月12日电，也门海岸警卫队当地时间11日发表声明说，胡塞武装当天上午在曼德海峡对一艘名为“塔哈马”号的商船发动导弹袭击，造成包括船员和也门武装人员在内的6人死亡、10人受伤。也门海岸警卫队说，6名遇难者中有4人为商船船员，包括3名巴基斯坦籍船员和1名印度尼西亚籍船员，另外2人为也门武装部队海军第二旅人员。10名伤者中，有7人为商船船员、2人为海岸警卫队人员、1人为海军第二旅人员。声明说，商船遭胡塞武装多次导弹袭击后起火并严重受损。救援行动展开期间，胡塞武装再次向商船发射导弹，袭击波及救援行动区域，导致参与救援的也门武装人员出现伤亡。胡塞武装尚未对此作出回应。 (央视新闻)",
+      "link": "",
+      "published": "Tue, 11 Aug 2026 16:26:24 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "谷歌：Gemini月活用户数超过10亿",
+      "summary": "<p>谷歌公司CEO Pichai称，AI模型Gemini的月活用户数已经突破10亿，成为公司“历史上成长最快的产品”。</p>",
+      "link": "https://wallstreetcn.com/livenews/3148199",
+      "published": "Tue, 11 Aug 2026 17:42:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "霍尔木兹仍难“重启”？伊朗称不满足条件不开放，美军据称向涉伊船只开火",
+      "summary": "<p>霍尔木兹海峡何时恢复正常通航，仍没有明确答案。</p>\n<p>美东时间11日周二，新华社援引伊朗官员的表态称，在伊方条件满足前霍尔木兹海峡不会开放。当天稍早，据新华社援引美媒报道，美官员称，美军向一艘与伊朗有关的船只开火，该船“试图突破美国对伊朗港口的封锁”，一架美国军用直升机向该船船舵开火。此后，该船“似乎试图将船员转移到另一艘民用船只上”。</p>\n<p>美伊海上对峙继续的同时，外交斡旋也在发力。新华社援引伊朗媒体周二的报道称，巴基斯坦内政部长穆赫辛·纳克维当天抵达伊朗首都德黑兰，将与伊朗官员举行会谈。</p>\n<p>以上消息意味着，尽管巴基斯坦方面周二释放了美伊接近达成某种协议的乐观信号，霍尔木兹海峡的实际重开仍面临明显障碍。伊朗此前已经明确提出多项前提，而美国目前不仅没有完全接受这些条件，甚至仍在执行针对伊朗港口的海上封锁。</p>\n<h2>伊朗强调重开海峡门槛</h2>\n<p>新华社援引伊朗方面消息称，伊朗最高领袖顾问穆赫贝尔8月11日在社交媒体表示，在伊朗的条件得到满足之前，霍尔木兹海峡不会开放。</p>\n<p>同日，据伊朗媒体Tasnim报道，前伊朗伊斯兰革命卫队总",
+      "link": "https://wallstreetcn.com/articles/3779209",
+      "published": "Tue, 11 Aug 2026 16:52:59 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "IPO前再套现：OpenAI完成70亿美元员工股权交易",
+      "summary": "<p style=\"text-align: left;\">OpenAI完成一轮约70亿美元的二级市场要约收购，允许现任及前任员工在8520亿美元估值下变现部分持股。这是公司上市前最新一轮流动性安排，也进一步巩固了其作为全球最具价值私营科技公司之一的地位。</p>\n<p style=\"text-align: left;\">据CNBC证实，本次要约收购早在今年3月OpenAI完成1220亿美元融资时便已筹划，具体规模由彭博率先披露。<strong>此次交易为员工提供了IPO前的退出渠道，也缓解了公司估值快速攀升后不断增加的股权流动性需求。</strong></p>\n<p style=\"text-align: left;\">OpenAI已于今年6月秘密向美国证券交易委员会（SEC）提交招股说明书，但尚未公布具体上市时间表。随着员工股份出售持续推进，市场也将此视为公司逐步完善IPO前资本市场安排的信号。</p>\n<h2 style=\"text-align: left;\">二级出售持续加码，IPO准备同步推进</h2>\n<p style=\"text-align: left;\"><strong>此",
+      "link": "https://wallstreetcn.com/articles/3779208",
+      "published": "Tue, 11 Aug 2026 16:52:41 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：苹果20周年iPhone大改款计划未变，2027年将推全新玻璃设计",
+      "summary": "<p style=\"text-align: left;\">苹果2027年iPhone重大设计升级计划并未取消。据彭博援引知情人士，<strong>苹果仍计划在iPhone问世20周年之际推出以玻璃为核心的新设计</strong>，2027年款iPhone Pro已进入后期测试阶段，整体方案基本敲定。这一说法直接反驳了Jefferies分析师Edison Lee本周发布的报告。</p>\n<p style=\"text-align: left;\">Lee此前援引供应链调查称，苹果已经取消“全玻璃iPhone”计划，并据此下调苹果股票评级，认为设计取消将削弱苹果推出更高价iPhone的能力。受该报告影响，苹果股价承压，而最新消息则为市场提供了相反信号。</p>\n<p style=\"text-align: left;\">iPhone贡献苹果约一半营收，上季度销售额同比增长22%，明显快于其他业务。<strong>对于苹果而言，20周年机型能否带来足够显著的设计创新，也关系到其旗舰产品的溢价能力。</strong></p>\n<h2 style=\"text-align: left;\">2027款iP",
+      "link": "https://wallstreetcn.com/articles/3779207",
+      "published": "Tue, 11 Aug 2026 16:52:25 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "日元逼近160关口，干预风险再度升温",
+      "summary": "<p>日元持续走弱，逼近每美元160的关键心理关口，市场对日本当局可能再次入市干预的警惕情绪明显升温。</p>\n<p>周一，日元录得逾两个月来最大单日跌幅，跌幅达1%，此前7月底日美联合干预带来的升值效应已近乎消耗殆尽。</p>\n<p>周二东京市场因假日休市，交投相对平静，日元日内最大跌幅0.1%，触及159.39，纽约时段小幅回稳至159.22附近。</p>\n<p><strong>160关口历史上曾多次遏制日元跌势，一旦有效突破，市场普遍预期将引发当局再次干预。</strong>日美两国官员此前已明确表示，必要时将再度采取行动，但分析师警告，若缺乏实质性政策跟进，干预效果将难以为继。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/931a65c1-1cbc-4c19-8f5c-ac323c4459e0.png\" /></p>\n<div>\n<h2 id=\"c1b83728\">干预效果消退，美日利差等结构性因素持续压制日元</h2>\n</div>\n<p>7月31日，日本与美国自1998年以来首度实施协调干预，将日",
+      "link": "https://wallstreetcn.com/articles/3779204",
+      "published": "Tue, 11 Aug 2026 15:55:10 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "比亚迪闪充开抢10万级市场",
+      "summary": "<div>\n<p>比亚迪把闪充车型的起售价压到了10.99万元。</p>\n<p>8月11日晚，比亚迪2027款海豹06上市，共推出EV和DM-i两套动力、12款车型，售价9.99万—15.59万元。其中，DM-i版9.99万元起，EV版10.99万元起。EV版搭载第二代刀片电池和闪充平台，最快5分钟可将电量从10%充至70%，最高续航达到630公里。</p>\n<p>这意味着，比亚迪闪充开始大举进军10万元级主流家轿。</p>\n<p>高配海豹06还加入了激光雷达辅助驾驶和云辇-C。过去更多用于中高端车型制造差异的补能、智驾和底盘配置，正在加速进入10万—15万元市场。</p>\n<p>比亚迪选择此时下放闪充，与纯电市场正在发生的结构变化有关。</p>\n<p>乘联分会2026年7月数据显示，7月B级电动车批发销量达到29.9万辆，同比增长35%，占纯电动车批发销量的31%；A00级电动车销量则同比下降50%，A级电动车下降2.1%。纯电市场的增长不再主要依靠低价微型车，需求正向空间更大、更接近家庭主力用车的产品集中。</p>\n<p>这也解释了为什么10万—15万元会成为新的争夺中心。这个价格",
+      "link": "https://wallstreetcn.com/articles/3779205",
+      "published": "Tue, 11 Aug 2026 15:55:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中东航运风险再升级：美国开火拦截“突围”商船，红海袭船致3人死亡",
+      "summary": "<p>美国对伊朗的海上封锁执法再度升级，中东海域航运风险同步升温。</p>\n<p>据新华社，美国《华尔街日报》8月11日援引一名美国官员的话报道称，<strong>美军当日向一艘悬挂巴拿马国旗、与伊朗有关的船只开火。</strong>报道称，这名官员表示，该船“试图突破美国对伊朗港口的封锁”，一架美国军用直升机向该船船舵开火。此后，该船“似乎试图将船员转移到另一艘民用船只上”。报道称，目前该事件尚无人员伤亡报告。</p>\n<p>与此同时，红海及曼德海峡再传商船遇袭，至少3名船员死亡。</p>\n<p><strong>就在海上冲突升级之际，市场却不断传出美伊谈判取得进展的信号。</strong>巴基斯坦国防部长称，美伊双方“接近达成某种安排”，消息推动油价快速回落。但美军持续强化封锁执法，显示谈判进展与地面局势仍存在明显落差。</p>\n<h2>中东航运命脉一日两险：美军开火拦截突围船只，胡塞红海再酿伤亡</h2>\n<p>据《华尔街日报》报道，巴拿马籍集装箱船“Vela Nova”周二在阿曼湾向西航行，距离巴基斯坦海岸约71海里。美国官员称，在船员无视美方警告后，美军直升机向该船船舵开火。<",
+      "link": "https://wallstreetcn.com/articles/3779201",
+      "published": "Tue, 11 Aug 2026 15:54:47 GMT"
     }
   ]
 }
