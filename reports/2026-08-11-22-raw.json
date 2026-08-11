@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
   "hour": "22",
-  "total": 30,
-  "fetched_at": "2026-08-11T22:01:01.346504+08:00",
+  "total": 45,
+  "fetched_at": "2026-08-11T22:11:00.875920+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -31,13 +31,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE81dUItUW5mSDRtYURDV3hkSEVVLVc4VzhZVUl5R2ExR3hxeXRrd1c5SUpYM1NETjdXY1JHNnp6SEJlYXZGd3ZmU0VPOHl5LTdSR2U1UUdqa29lQ0VzdTdmd0owaHJWYVVpR0JNbjVBMW1lYklTcXJsdw?oc=5\" target=\"_blank\">A股即将迎来“人形机器人第一股” 宇树科技早期投资人：账面回报已超百倍</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81dUItUW5mSDRtYURDV3hkSEVVLVc4VzhZVUl5R2ExR3hxeXRrd1c5SUpYM1NETjdXY1JHNnp6SEJlYXZGd3ZmU0VPOHl5LTdSR2U1UUdqa29lQ0VzdTdmd0owaHJWYVVpR0JNbjVBMW1lYklTcXJsdw?oc=5",
       "published": "Tue, 11 Aug 2026 13:02:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "浙商银行：股东浙江省海港集团累计增持A股股份2.71亿股 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFA2S2VyOGRCbzdEd3M2QzlPX0lWSGFQeDNrZWdIeDU0YUsxQlhneHVPY3B2M3NQUjN2R2Vqelo1RE5TVHlPMjUwWHdNS0lGUWhxaElMeVFHU3Z4d0NsdEtnMy1aWkg3akR1TmdtQ3F5bHB5MnA0eFlVYw?oc=5\" target=\"_blank\">浙商银行：股东浙江省海港集团累计增持A股股份2.71亿股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2S2VyOGRCbzdEd3M2QzlPX0lWSGFQeDNrZWdIeDU0YUsxQlhneHVPY3B2M3NQUjN2R2Vqelo1RE5TVHlPMjUwWHdNS0lGUWhxaElMeVFHU3Z4d0NsdEtnMy1aWkg3akR1TmdtQ3F5bHB5MnA0eFlVYw?oc=5",
-      "published": "Tue, 11 Aug 2026 12:22:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -125,24 +118,150 @@
     },
     {
       "source": "同花顺",
-      "title": "江波龙：取得金融机构股票回购专项贷款承诺函 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrLVlwUGJ0WUhSNHlPZnpnbkhFUGVsQUVOYTlHYW9wYXpKUW52V2pUeThTSUpoOTUxb1FlemNuaVY0ZzJjbWoxN0ZXWWhkMXNIdHZoNktqbkY3R3BkdDVLbTFR?oc=5\" target=\"_blank\">江波龙：取得金融机构股票回购专项贷款承诺函</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "title": "双创板今迎两家科技企业，华泰联合证券独家保荐 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE14b1dESGxoVFVEZEZXc0VNSkFCeDJpZ0JFa2FoLUtsNElDc1FVRFFnV3d3b0FxaEo2U0kycGVNdFBva1FEUmp4dTZFYUYyMEJUTkRsdDdYUzZWLWNxcU10QXln?oc=5\" target=\"_blank\">双创板今迎两家科技企业，华泰联合证券独家保荐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14b1dESGxoVFVEZEZXc0VNSkFCeDJpZ0JFa2FoLUtsNElDc1FVRFFnV3d3b0FxaEo2U0kycGVNdFBva1FEUmp4dTZFYUYyMEJUTkRsdDdYUzZWLWNxcU10QXln?oc=5",
+      "published": "Tue, 11 Aug 2026 14:01:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "江波龙：取得金融机构股票回购专项贷款承诺函 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrLVlwUGJ0WUhSNHlPZnpnbkhFUGVsQUVOYTlHYW9wYXpKUW52V2pUeThTSUpoOTUxb1FlemNuaVY0ZzJjbWoxN0ZXWWhkMXNIdHZoNktqbkY3R3BkdDVLbTFR?oc=5\" target=\"_blank\">江波龙：取得金融机构股票回购专项贷款承诺函</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBrLVlwUGJ0WUhSNHlPZnpnbkhFUGVsQUVOYTlHYW9wYXpKUW52V2pUeThTSUpoOTUxb1FlemNuaVY0ZzJjbWoxN0ZXWWhkMXNIdHZoNktqbkY3R3BkdDVLbTFR?oc=5",
       "published": "Tue, 11 Aug 2026 12:37:59 GMT"
     },
     {
       "source": "同花顺",
-      "title": "征和工业：向特定对象发行股票申请获深交所上市审核中心审核通过 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBadkdUdmZKM0FaVVllb3owak9VanVhekR1SVZYX2s1bDVhX0duMXlQczNkYTY2aUxJei1qdmxsNDhkZmt2TVBRNkw0bEJudmZwalpHdF84dnlEbVpVT0ttRTh3?oc=5\" target=\"_blank\">征和工业：向特定对象发行股票申请获深交所上市审核中心审核通过</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "title": "征和工业：向特定对象发行股票申请获深交所上市审核中心审核通过 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBadkdUdmZKM0FaVVllb3owak9VanVhekR1SVZYX2s1bDVhX0duMXlQczNkYTY2aUxJei1qdmxsNDhkZmt2TVBRNkw0bEJudmZwalpHdF84dnlEbVpVT0ttRTh3?oc=5\" target=\"_blank\">征和工业：向特定对象发行股票申请获深交所上市审核中心审核通过</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBadkdUdmZKM0FaVVllb3owak9VanVhekR1SVZYX2s1bDVhX0duMXlQczNkYTY2aUxJei1qdmxsNDhkZmt2TVBRNkw0bEJudmZwalpHdF84dnlEbVpVT0ttRTh3?oc=5",
       "published": "Tue, 11 Aug 2026 13:12:09 GMT"
     },
     {
       "source": "同花顺",
-      "title": "华智数媒：股票交易异常波动 不存在应披露未披露重大信息 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mOTNTV3hCbHlfQ1pKcXRLYXJGTHhURVRSTTVrNkNxbzNYYjJrWFhiNzVzZ0puNlM5LVR5YWYtY1NOc25kc3FybmtveUhJYVRKT3pUUHJrYkcxVUxNY1Y3eUd3?oc=5\" target=\"_blank\">华智数媒：股票交易异常波动 不存在应披露未披露重大信息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "title": "华智数媒：股票交易异常波动 不存在应披露未披露重大信息 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mOTNTV3hCbHlfQ1pKcXRLYXJGTHhURVRSTTVrNkNxbzNYYjJrWFhiNzVzZ0puNlM5LVR5YWYtY1NOc25kc3FybmtveUhJYVRKT3pUUHJrYkcxVUxNY1Y3eUd3?oc=5\" target=\"_blank\">华智数媒：股票交易异常波动 不存在应披露未披露重大信息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mOTNTV3hCbHlfQ1pKcXRLYXJGTHhURVRSTTVrNkNxbzNYYjJrWFhiNzVzZ0puNlM5LVR5YWYtY1NOc25kc3FybmtveUhJYVRKT3pUUHJrYkcxVUxNY1Y3eUd3?oc=5",
       "published": "Tue, 11 Aug 2026 12:16:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "CME官宣：黄金之后，白银期货将加入“全天候交易”",
+      "summary": "<p style=\"text-align: left;\">CME Group正在将贵金属交易进一步推向全天候。继1盎司黄金期货上线24/7交易并取得强劲开局后，<strong>CME宣布将100盎司白银期货的交易时段扩展至每周7天、每天24小时，计划于2026年9月11日启动，目前仍待监管审批。</strong></p>\n<p style=\"text-align: left;\">根据CME Group 8月11日公告，白银全天候交易的推出，是对黄金期货周末交易需求的进一步延伸。<strong>1盎司黄金期货自7月24日上线以来，周末累计成交逾5.3万张，名义价值约2.19亿美元，显示零售投资者对小规格、随时可交易的贵金属期货存在较强需求。</strong></p>\n<p style=\"text-align: left;\">白银紧随其后，也与自身交易活跃度持续上升有关。100盎司白银期货今年2月上线后，今年上半年日均成交量达到1.78万张；CME旗下白银期货同期日均名义成交额达到500亿美元，创历史新高。</p>\n<p style=\"text-align: left;\"><strong>",
+      "link": "https://wallstreetcn.com/articles/3779197",
+      "published": "Tue, 11 Aug 2026 13:58:08 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "但斌回应投资人质疑：长江东方港湾2号重仓AI，目前依旧保持满仓状态",
+      "summary": "<p style=\"text-align: justify;\">8月11日晚，东方港湾董事长但斌回应投资人质疑称，<strong>长江东方港湾2号目前依旧保持满仓状态，在7月本轮深度回调之前，该基金重仓AI产业链标的，一路坚持、未做大规模减仓，本轮跟随AI赛道出现了较大幅度回撤。</strong></p>\n<p style=\"text-align: justify;\">东方港湾在2023年把握了英伟达为代表的全球AI核心机会，对A股本土AI产业链的布局启动偏晚，直到2026年才全面全力以赴重仓。本轮7月大跌行情中，东方港湾没有恐慌割肉、没有大幅减仓，仅做了极小比例的结构性微调。</p>\n<p style=\"text-align: justify;\"><img alt=\"image\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/95a2893a-092f-4728-8a6c-b23d60614648.jpeg\" title=\"\" /></p>\n<p style=\"text-align: justify;\">但斌微博贴出的截图显示，此前",
+      "link": "https://wallstreetcn.com/articles/3779198",
+      "published": "Tue, 11 Aug 2026 13:47:06 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "腾讯音乐一度跌约17%，公司公布了二季度财报",
+      "summary": "<p>腾讯音乐第二季度总收入为人民币89.3亿元（13.2亿美元），同比增长5.8%。音乐相关服务收入同比增长11.0%至人民币76.1亿元（11.2亿美元），音乐相关会员服务收入同比增长8.1%至人民币47.9亿元（7.06亿美元）。</p>",
+      "link": "https://wallstreetcn.com/livenews/3148102",
+      "published": "Tue, 11 Aug 2026 13:35:55 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "杠杆资金正在绑架AI行情？相关ETF敞口已升至58%，再平衡或加剧科技股震荡",
+      "summary": "<p>杠杆ETF正在成为AI行情中一股不可忽视的隐性力量。</p>\n<p>彭博新闻的最新分析显示，<strong>看涨杠杆ETF对AI相关股票的敞口已从2022年的26%攀升至58%，其中仅10家公司便占据了该敞口的三分之二，高度集中于英伟达、SK海力士及美光科技等。</strong></p>\n<p>这一趋势的风险已不再局限于杠杆产品自身的投资者。韩国股市近期出现的剧烈震荡提供了一个警示案例——追踪SK海力士和三星电子的杠杆ETF在高峰期合并交易量一度占首尔市场全日成交的70%，基准指数Kospi的波动性甚至超过了比特币。摩根大通策略师Nikolaos Panigirtzoglou表示，鉴于这类产品对科技股的高度倾斜，\"杠杆股票ETF将持续产生大规模再平衡资金流，并推高科技股波动率。\"</p>\n<p>目前，全球杠杆ETF总资产约为2500亿美元，虽然仅占全球逾22万亿美元ETF资产的一小部分，但其日均交易量却占全部ETF日成交的16%，远超其1%的资产占比。日均换手的高倍数放大了这类产品对市场收盘时段的潜在冲击——由于每日再平衡须以收盘价为基准，相关调仓操作集中在交易日最后数分钟完成，",
+      "link": "https://wallstreetcn.com/articles/3779191",
+      "published": "Tue, 11 Aug 2026 13:31:13 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "米哈游AI陪伴产品上线29天即宣布停运，高好评为何没换来长期运营？",
+      "summary": "<p style=\"text-align: left;\">8月11日，米哈游宣布AI互动陪伴产品《BSide：Olivia Lin》将停止运营。距离其7月13日在Steam开启免费抢先体验，仅过去29天。</p>\n<p style=\"text-align: left;\">根据官方公告，产品将在8月27日上线离线版本，同时关闭写信、上传MIDI等依赖在线服务的功能；8月31日从Steam下架并关闭服务器。离线版将保留演奏和桌面动态壁纸等本地功能。</p>\n<p style=\"text-align: left;\">林离不是近期唯一退场的二次元AI陪伴实验。</p>\n<p style=\"text-align: left;\">7月29日，米哈游联合创始人蔡浩宇创办的AI公司Anuttacon永久关闭AnuNeko。官方对外表示，团队规模较小，决定将资源投入其他方向，产品关闭后用户对话不再可访问。</p>\n<p style=\"text-align: left;\">两款产品在短期内先后退场，提示出AI陪伴产品可能面临的一些共同难题。</p>\n<p style=\"text-align: left;\"",
+      "link": "https://wallstreetcn.com/articles/3779196",
+      "published": "Tue, 11 Aug 2026 13:09:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "瑞士央行的美股持仓创新高 前三大持股为英伟达、苹果和微软",
+      "summary": "<p>今年第二季度，瑞士央行以美国股票形式持有的外汇储备增长超过10%，并达到历史最高水平。根据周二公布的瑞士央行提交给美国证券交易委员会的所谓13F申报，截至6月30日，该行在2300多家在美国上市公司中的持股价值1914亿美元。瑞士央行略微超过四分之一的外汇储备以股票方式持有，其中一部分投资于在美国上市的股票。前三大持股分别是英伟达、苹果和微软。该央行还持有防务软件公司Palantir Technologies Inc.价值7.166亿美元的股份。（彭博）</p>",
+      "link": "https://wallstreetcn.com/livenews/3148091",
+      "published": "Tue, 11 Aug 2026 13:09:27 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "万亿参数！英伟达被曝正在开发新一代AI，目标直指全球顶尖开源模型",
+      "summary": "<p>英伟达正大力押注自研开源人工智能模型，试图以此扩大GPU需求——尽管这一策略同时将其推入与自身客户和投资对象正面竞争的微妙处境。</p>\n<p>The Information 11日报道称，英伟达目标是将Nemotron 4最大版本的性能打造至与全球顶尖开源模型比肩的水准。多名员工透露，<strong>该模型参数量预计至少达到一万亿——约为其现有最大模型Nemotron 3 Ultra的两倍。</strong>英伟达生成式AI副总裁Kari Briski在一封邮件中表示，\"英伟达投资Nemotron，是因为我们相信每家企业、每个国家都需要可及的前沿开源模型。\"</p>\n<p>英伟达当前的芯片需求高度集中于OpenAI、微软、SpaceX等少数前沿实验室和云服务商，而上述机构正日益布局自研AI芯片。Nemotron 4的推进旨在将需求基础拓展至更广泛的企业用户群体，从而降低英伟达对头部客户的依赖。AI模型评测机构Arena的首席执行官Anastasios Angelopoulos表示，\"无论哪家公司做出优秀的开源模型，英伟达都是赢家。\"</p>\n<p>英伟达美股盘前涨近2%。</p",
+      "link": "https://wallstreetcn.com/articles/3779195",
+      "published": "Tue, 11 Aug 2026 13:07:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "康师傅上半年收入微增1.1%，产品结构调整推高利润",
+      "summary": "<p style=\"text-align: left;\">收入低增长背景下，康师傅正在更加依赖产品结构调整增厚利润。</p>\n<p style=\"text-align: left;\">8月11日，康师傅控股发布截至2026年6月30日止六个月的未经审核中期业绩。上半年，公司收入405.45亿元，同比增长1.1%；毛利145.07亿元，增长5%；股东应占利润24.33亿元，增长7.1%。</p>\n<p style=\"text-align: left;\">若剔除去年同期资产活化计划产生的一次性收益，股东应占经调整利润同比增长15.2%至24.33亿元。利润增速明显快于收入，主要由整体毛利率提升1.3个百分点至35.8%带动。</p>\n<p style=\"text-align: left;\">这一表现基本兑现了市场对利润端的预期，但收入更弱。</p>\n<p style=\"text-align: left;\">大和在7月的业绩前瞻中预计，康师傅上半年收入增长2%，实际收入增速比其预测低0.9个百分点。</p>\n<p style=\"text-align: left;\">分业务看，方便面收入137",
+      "link": "https://wallstreetcn.com/articles/3779194",
+      "published": "Tue, 11 Aug 2026 13:05:02 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "张忆东：底部已到，但“夏日寒风”还有余波，港股现在性价比不错，但8月不宜追高",
+      "summary": "<div id=\"page-content\">\n<div>\n<div id=\"img-content\">\n<div id=\"js_content\">\n<p><span><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/3fff454e-ac1e-4ca4-af40-a5bb4e10dfcf.jpeg\" /></span></p>\n<p>张忆东对当下市场的判断，核心就八个字：<strong>“空间到了，时间没到。”</strong></p>\n<p>空间上，7月主跌浪已经完成，调整幅度已触及底部区域；但时间上，“夏日寒风”还有余波，8月不追高，耐心等待逆势布局。港股性价比不错，AI应用是下半场主线。</p>\n<p>以上是8月7日，知名经济学家张忆东在澎湃新闻“首席连线”节目中分享的核心观点。</p>\n<p>投资作业本课代表整理了本次讲话的要点如下：</p>\n<p>1、灰犀牛和黑天鹅的主要冲击已在7月完成，但余波依然会压制秋季行情的启动节奏——不是让大家“刚从急诊室出来就疯狂搞party”。8月不适合追高，适合战略看多、战术上选新逻",
+      "link": "https://wallstreetcn.com/articles/3779193",
+      "published": "Tue, 11 Aug 2026 13:01:42 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "LME现货铜溢价飙升至近10个月新高",
+      "summary": "<p>伦敦金属交易所（LME）的现货铜合约周二较三个月期铜合约出现近每吨200美元的溢价，创下近10个月以来的最高水平，突显出当前市场供应的严重紧张局面。</p>",
+      "link": "https://wallstreetcn.com/livenews/3148085",
+      "published": "Tue, 11 Aug 2026 12:56:42 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "继Seed、Flow后，字节又成立一个AI一级部门，直指「数据」",
+      "summary": "<p style=\"text-align: justify;\">“智能涌现”从多个独立信源处获悉，字节跳动近期成立了一个新的一级部门——<strong>AI数据与安全</strong>，与Seed、Flow、抖音等部门平行，负责人为王赢磊（Adam Wang）。</p>\n<p style=\"text-align: justify;\">这是继2023年底成立Seed和Flow两个AI一级部门后，字节围绕AI业务成立的又一个一级部门。负责人王赢磊此前为TikTok平台责任负责人和TikTok直播负责人。“王赢磊负责的直播业务曾是TikTok最主要的营收来源之一，在字节内部有过赫赫战功。”一位接近字节的人士表示。</p>\n<p style=\"text-align: justify;\">“智能涌现”就上述消息向字节求证，截止发稿，暂无回复。</p>\n<p style=\"text-align: justify;\"><strong>在模型、产品之后，字节这一次直指AI数据。</strong></p>\n<p style=\"text-align: justify;\">据“智能涌现”了解，这个新部门的前",
+      "link": "https://wallstreetcn.com/articles/3779192",
+      "published": "Tue, 11 Aug 2026 12:55:48 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "佰维存储：拟以2亿元-2.5亿元回购公司股份",
+      "summary": "<p>佰维存储公告，拟以不低于2亿元（含）且不超过2.5亿元（含）的自有资金及或自筹资金（含回购专项贷款资金）回购公司股份，回购价格不超过468.24元/股（含），回购股份将用于减少公司注册资本。本次回购方案尚需提交公司股东会审议。</p>",
+      "link": "https://wallstreetcn.com/livenews/3148078",
+      "published": "Tue, 11 Aug 2026 12:41:58 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "钛能化学：全资子公司拟投资54.62亿元建设年产60万吨磷酸铁项目",
+      "summary": "<p>钛能化学公告，公司于2026年8月11日召开董事会审议通过，全资子公司甘肃东方钛业有限公司拟投资建设年产60万吨【磷酸铁锂/磷酸铁钠】前驱体（磷酸铁）项目，项目分两期建设，总投资金额预计为54.62亿元。一期建设年产40万吨装置，二期建设年产20万吨装置，自开工建设起预计不超过18个月完成一期建设并投入使用。</p>",
+      "link": "https://wallstreetcn.com/livenews/3148077",
+      "published": "Tue, 11 Aug 2026 12:34:55 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "巴基斯坦防长：美伊当前接近达成某项和平安排或协议",
+      "summary": "<p>当地时间8月11日，巴基斯坦国防部长阿西夫表示，美国与伊朗已接近达成“某种安排”。阿西夫补充说，持久和平符合该地区利益。阿西夫在接受采访时称，局势再次朝着有利于达成和平安排或协议的方向发展。“过去两三天传来的信号表明，我们已接近达成某种安排。”（央视新闻）</p>",
+      "link": "https://wallstreetcn.com/livenews/3148076",
+      "published": "Tue, 11 Aug 2026 12:25:25 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Coding之后，AI下一块高价值市场在哪里？AI4S正在把科研变成一门“计算生意”",
+      "summary": "<p style=\"text-align: left;\">Coding之后，AI下一个能够承接大规模付费的场景在哪里？近期AI4S重新成为资本市场焦点。科学模型正在与科研Agent、自动化实验室连接，AI从预测结构、筛选分子走向设计实验和读取结果；与此同时，医药领域的平台公司收入开始放量，DNA合成、蛋白表达和早研服务也出现增量需求。当科研的瓶颈从“设计太慢”转向“验证不够快”，AI4S会不会成为下一个真正改变行业成本曲线的AI应用？</p><h2 style=\"text-align: left;\">一、发生了什么？——AI4S为何突然从科研概念走向资本市场主线</h2><p style=\"text-align: left;\"><strong>1. Coding之后，市场需要寻找第二个能够算清ROI的AI场景：</strong></p><p style=\"text-align: left;\">过去两年，生成式AI的应用故事很多，但真正率先跑通商业模式的是Coding。代码任务高频发生，结果容易校验，工程师的时间价值又足够高，因此模型能力提升可以迅速转化为调用量、订阅和企业支出。</p>",
+      "link": "https://wallstreetcn.com/member/articles/3779055",
+      "published": "Tue, 11 Aug 2026 12:16:08 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "明天美国CPI有“鸽派惊喜”？高盛称通胀或低于普遍预期 ，汇丰则押注“温和” 数据",
+      "summary": "<p>美国7月通胀数据将于周三公布，高盛预计核心CPI涨幅将略低于市场共识，能源价格下跌则将进一步压低整体通胀读数。若数据如期走软，市场对美联储的加息预期或将进一步降温。</p>\n<p><strong>据高盛最新报告，该行预计7月核心CPI环比上涨0.19%，低于市场共识的0.2%，对应同比涨幅为2.47%，同样低于市场预期的2.5%。</strong>整体CPI方面，受零售汽油价格下跌拖累，能源价格料环比下降2.0%，推动整体CPI环比仅上涨0.05%，低于市场共识的0.1%，同比涨幅预计为3.35%，低于6月的3.53%。</p>\n<p>汇丰银行多资产策略师Duncan Toms亦指出，6月通胀数据已呈现\"意外的鸽派走势\"，其即时预测模型显示7月数据或将再度温和。他表示，<strong>若数据如期走软，将成为推动美联储加息预期降温的催化剂，届时美国国债收益率曲线可能出现牛市陡峭化走势。上述情景将营造出\"强劲的金发姑娘行情背景，几乎所有资产类别都将迎来普涨局面\"。</strong></p>\n<div>\n<h2 id=\"ac9b876d\">三大分项：汽车、住房与出行价格走势分化</h2",
+      "link": "https://wallstreetcn.com/articles/3779188",
+      "published": "Tue, 11 Aug 2026 12:15:06 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "5000亿美元！英伟达和华尔街的“算力资产化实验”",
+      "summary": "<figure><img alt=\"5000亿美元！英伟达和华尔街的“算力资产化实验”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/484a97b15718b7f0e94adaf755e385a1.jpg\" /></figure><p>作为AI基础设施供应商，英伟达再次在融资层面介入AI产业链。</p><p>作为AI基础设施供应商，英伟达（NVDA.O）再次在融资层面介入AI产业链。</p>\n\n<p>当地时间8月10日，英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR等华尔街金融机构建立战略合作伙伴关系，以建立独立的融资平台，动员超过5000亿美元的第三方资本支持AI基础设施建设。英伟达10日当天下跌2.86%，11日开盘价上涨%。</p>\n\n<p>英伟达此次扮演合作牵头方而非出资方，六大机构设立专项资本池，以有竞争力的利率为英伟达生态内的前沿AI实验室、企业及云服务商提供融资，帮助其采购硬件、建设基于DSX（面向AI工厂的解决方案平台）架构的“AI工厂”。</p>\n\n<p>此前英伟达已参与过一些AI企业融资，支持",
+      "link": "https://www.yicai.com/news/103314189.html",
+      "published": "Tue, 11 Aug 2026 14:09:15 GMT"
     },
     {
       "source": "第一财经",
@@ -187,25 +306,11 @@
       "published": "Tue, 11 Aug 2026 12:42:11 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "染料价格飙涨、行业龙头大赚，对纺织供应链影响几何",
-      "summary": "<figure><img alt=\"染料价格飙涨、行业龙头大赚，对纺织供应链影响几何\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/08/bb85641646bd4bb787c78c801767b5c8.jpeg\" /></figure><p>成本飙升下，几家欢喜几家愁——和自给中间体的龙头不同，缺乏原料“护城河”的染料厂，在此轮涨价中颇为被动。</p><p>下游纺织服饰行业尚未回暖，上游染料价格已率先迎来超预期上涨势头。</p>\n\n<p>“有种中间体叫H酸，原来价格一吨是4.5万左右，现在要快12万。”绍兴一家印染公司负责人章建木告诉第一财经，中间体价格的翻倍增长让他们采购的染料成本急剧上涨，整体染料价格较7月上涨了近20%。</p>\n\n<p>他进一步举例说：“我们常用的一种活性染料GSPN黑原先的价格约20元/公斤，最新的价格是31元/公斤。”价格上涨50%左右，而他们每天的用量近2吨。这意味着，工厂单为这一种染料就要每天多付出2万元。</p>\n\n<p>进入2026年，染料行业就迎来了上涨行情，7月以来更是大幅飙升。</p>",
-      "link": "https://www.yicai.com/news/103313990.html",
-      "published": "Tue, 11 Aug 2026 12:08:15 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "今年近百项税收优惠政策调整，释放什么信号？",
-      "summary": "<figure><img alt=\"今年近百项税收优惠政策调整，释放什么信号？\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/08/951c9c3dc3d373b74533a795623738df.jpeg\" /></figure><p>当前规范税收优惠政策的一个重要特点是，回归其激励经济活动外部性、服务国家层面重大战略的本质功能，而不再是地方间进行竞争的政策工具。</p><p>中国正加速规范税收优惠政策，部分政策延续，但更多的不合时宜的优惠政策已逐步退出。</p>\n\n<p>第一财经记者根据官方公开文件发现，今年以来相关部门对近100项具体税收优惠政策进行了规范。其中跟民生关联密切的公租房、居民个人换房、养老托育等社区家庭服务业等税收优惠政策得以延续，但部分行业增值税优惠政策、节能汽车及部分新能源车、部分电池、能源资源行业相关税收优惠政策陆续退出。</p>\n\n<p>“自2024年中央提出‘规范税收优惠政策’以来，税收优惠政策清理力度明显加大，速度显著加快。比如今年以增值税法实施为契机，一揽子衔接规范80多项增值税优惠政策，为迄今单次",
-      "link": "https://www.yicai.com/news/103313986.html",
-      "published": "Tue, 11 Aug 2026 12:08:06 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "对城市积涝风险保持高度警觉，加力做好巡堤守堤！陈吉宁赴金山青浦检查调度防汛防台风工作",
-      "summary": "<figure><img alt=\"对城市积涝风险保持高度警觉，加力做好巡堤守堤！陈吉宁赴金山青浦检查调度防汛防台风工作\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/dbbc668e0a571323ae59f405fee8f98e.jpg\" /></figure><p>做好科学排班值守和轮班休整，加强关心关爱和服务保障，让防汛一线同志保持良好精神状态护好堤、守好闸，筑牢防汛坚实防线。</p><p>当前仍处于防汛防台风关键阶段，守护城市安全、群众平安容不得半点麻痹松懈，必须始终绷紧思想之弦、坚持在岗在职在责。今天（8月11日）下午，上海市委书记陈吉宁前往金山区、青浦区相关河堤水闸，检查调度防汛防台风工作。陈吉宁指出，要深入学习贯彻习近平总书记关于防汛救灾工作的重要指示精神，深刻认识防汛形势的复杂性严峻性，始终树牢底线思维和极限思维，坚决压实各级责任、加快优化防汛方案、抓实抓细防汛举措、加强高效指挥调度、加大力量配置保障、加力做好巡堤守堤，以连续作战的精神状态、未雨绸缪的警醒警惕、苦干实干的过硬作风，保障人民群众生命财产安全和超",
-      "link": "https://www.yicai.com/news/103313983.html",
-      "published": "Tue, 11 Aug 2026 12:06:36 GMT"
+      "source": "宏观经济",
+      "title": "深度分析：金博体育app官方网站如何重塑全球经济监测与政策响应机制 - 格隆汇",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QcXNDbWNlOXhDNzZmYVBJNVoxenZfVVlsMkotd0ZIOTJ5elROS0dhNFlycXhfSDJXaWNiendac1ZzREllRXl5NWRjNHBJQ0E?oc=5\" target=\"_blank\">深度分析：金博体育app官方网站如何重塑全球经济监测与政策响应机制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">格隆汇</font>",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QcXNDbWNlOXhDNzZmYVBJNVoxenZfVVlsMkotd0ZIOTJ5elROS0dhNFlycXhfSDJXaWNiendac1ZzREllRXl5NWRjNHBJQ0E?oc=5",
+      "published": "Tue, 11 Aug 2026 14:07:47 GMT"
     },
     {
       "source": "龙虎榜数据",
