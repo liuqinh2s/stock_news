@@ -1,8 +1,8 @@
 {
   "date": "2026-08-12",
   "hour": "15",
-  "total": 78,
-  "fetched_at": "2026-08-12T15:01:01.549329+08:00",
+  "total": 44,
+  "fetched_at": "2026-08-12T15:05:54.624462+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -24,13 +24,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGRkRVRiUTFxYmh6NFpWb3g5YnctOFM1MTRYVXYzMlVYaVN4OEFYSzhWXzFkNU1LWTlGem5zc3JxTnhWaDlIa2MxV2Y1bHdQX3doMUhTaVAtVHpHYnk3Qjd5RTF1SlZ3OVVjbWwxSUNncy03V3AyckJPZUktMlB2cUJnamJBVDZ1MFJiVnZGeW5zMWJvZ09Z?oc=5\" target=\"_blank\">A 股市场综述</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stock.finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdGRkRVRiUTFxYmh6NFpWb3g5YnctOFM1MTRYVXYzMlVYaVN4OEFYSzhWXzFkNU1LWTlGem5zc3JxTnhWaDlIa2MxV2Y1bHdQX3doMUhTaVAtVHpHYnk3Qjd5RTF1SlZ3OVVjbWwxSUNncy03V3AyckJPZUktMlB2cUJnamJBVDZ1MFJiVnZGeW5zMWJvZ09Z?oc=5",
       "published": "Wed, 12 Aug 2026 06:42:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "奥尼电子A股股东户数减少1387户降幅9.72%，流通A股户均持股8716.75股增幅11.34%，户均持股市值62.45万元增幅37.36% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHZfNmowUkVVM2x4VXZ2cWNmVDQ2YVJCTVk2ZUVWOEpUbEp6dkxnQ2JoeURrXzI2b2JhSGoyMnJleF9ZM2xLemdJcnZXN3JvSmVVNVVkS3EtLTMzeFFBODZHY1NoS2VnUG5HN3E3c29Sb0RQclhYd3BSOVBpQ0pEWTFFanpvendFT2UyYw?oc=5\" target=\"_blank\">奥尼电子A股股东户数减少1387户降幅9.72%，流通A股户均持股8716.75股增幅11.34%，户均持股市值62.45万元增幅37.36%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHZfNmowUkVVM2x4VXZ2cWNmVDQ2YVJCTVk2ZUVWOEpUbEp6dkxnQ2JoeURrXzI2b2JhSGoyMnJleF9ZM2xLemdJcnZXN3JvSmVVNVVkS3EtLTMzeFFBODZHY1NoS2VnUG5HN3E3c29Sb0RQclhYd3BSOVBpQ0pEWTFFanpvendFT2UyYw?oc=5",
-      "published": "Wed, 12 Aug 2026 06:50:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -97,17 +90,17 @@
     },
     {
       "source": "新浪财经",
-      "title": "A 股跟踪 - stock.finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPd242b3VEc3k5TXMtaGxLck1GLU5YZ19QUGNTbWhzRTdFckYtNGk4RlhSMGg1RWFoejJ2LUg1djdQbkJuV3lETEFiVlg4YWpGZmxLTGdRUVZ4VzRWRXJzN1VRRGRreEVHOVRCTFdPLVUxOHQ4R1lkZlNGLVJYMnl6RHZwYVpzWGc4Q2p1MWFlLUVuajBYTWgxM01kX2Fsa2lIcEYyag?oc=5\" target=\"_blank\">A 股跟踪</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stock.finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd242b3VEc3k5TXMtaGxLck1GLU5YZ19QUGNTbWhzRTdFckYtNGk4RlhSMGg1RWFoejJ2LUg1djdQbkJuV3lETEFiVlg4YWpGZmxLTGdRUVZ4VzRWRXJzN1VRRGRreEVHOVRCTFdPLVUxOHQ4R1lkZlNGLVJYMnl6RHZwYVpzWGc4Q2p1MWFlLUVuajBYTWgxM01kX2Fsa2lIcEYyag?oc=5",
-      "published": "Wed, 12 Aug 2026 06:15:53 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "万达信息A股股东户数减少916户降幅1.72%，流通A股户均持股2.75万股增幅1.75%，户均持股市值14.48万元增幅6.39% - 新浪网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkFFbXdQMmRPcm9OV1pBT2E3RFR4VnFYVXVyeVV3T1B6MnpWc2gyczVnNHhoRGFkRERpcjY0OEtqVGlMWEg5QnNnSWZBTUdrQkwtSEJpb0RqVWxRZ05nSXE1YjdEOHU5QkVUOFBta3RPelZyQ3VWdHc1Q1Exc2o0UE1tVm9Ec3dlY3Z5VA?oc=5\" target=\"_blank\">万达信息A股股东户数减少916户降幅1.72%，流通A股户均持股2.75万股增幅1.75%，户均持股市值14.48万元增幅6.39%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkFFbXdQMmRPcm9OV1pBT2E3RFR4VnFYVXVyeVV3T1B6MnpWc2gyczVnNHhoRGFkRERpcjY0OEtqVGlMWEg5QnNnSWZBTUdrQkwtSEJpb0RqVWxRZ05nSXE1YjdEOHU5QkVUOFBta3RPelZyQ3VWdHc1Q1Exc2o0UE1tVm9Ec3dlY3Z5VA?oc=5",
       "published": "Wed, 12 Aug 2026 06:50:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A 股跟踪 - stock.finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPd242b3VEc3k5TXMtaGxLck1GLU5YZ19QUGNTbWhzRTdFckYtNGk4RlhSMGg1RWFoejJ2LUg1djdQbkJuV3lETEFiVlg4YWpGZmxLTGdRUVZ4VzRWRXJzN1VRRGRreEVHOVRCTFdPLVUxOHQ4R1lkZlNGLVJYMnl6RHZwYVpzWGc4Q2p1MWFlLUVuajBYTWgxM01kX2Fsa2lIcEYyag?oc=5\" target=\"_blank\">A 股跟踪</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stock.finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd242b3VEc3k5TXMtaGxLck1GLU5YZ19QUGNTbWhzRTdFckYtNGk4RlhSMGg1RWFoejJ2LUg1djdQbkJuV3lETEFiVlg4YWpGZmxLTGdRUVZ4VzRWRXJzN1VRRGRreEVHOVRCTFdPLVUxOHQ4R1lkZlNGLVJYMnl6RHZwYVpzWGc4Q2p1MWFlLUVuajBYTWgxM01kX2Fsa2lIcEYyag?oc=5",
+      "published": "Wed, 12 Aug 2026 06:15:53 GMT"
     },
     {
       "source": "新浪财经",
@@ -132,17 +125,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "快讯：创业板指涨超2%，追光行情再现 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WDFGdzZNYVJZVUN5UnBrSkJnZTFyLVhwT3h3VmluRVhtY2x1X1BYNUhEUE1EUnFlWk9idlgwQ043eGZoUzh4bUlsOEZDYjJCMDNKZDJCYm4zanBhWUtBRy1SektJU3BuRF9NQXJENktfNVFLSDBB?oc=5\" target=\"_blank\">快讯：创业板指涨超2%，追光行情再现</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WDFGdzZNYVJZVUN5UnBrSkJnZTFyLVhwT3h3VmluRVhtY2x1X1BYNUhEUE1EUnFlWk9idlgwQ043eGZoUzh4bUlsOEZDYjJCMDNKZDJCYm4zanBhWUtBRy1SektJU3BuRF9NQXJENktfNVFLSDBB?oc=5",
-      "published": "Wed, 12 Aug 2026 05:02:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "沪市“百里挑一”：组合PE仅10.35倍、ROE达10.50%，上证增强ETF7月来跑赢大盘7.57% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBadnhsNTc0MGFGczZ1ZXdzc2dfY0Ytb0g4NTM0Q3pzSnU0Z2JBUTNHa3drUjBRamw0M2Fld2JlR2t1T2ROVDZ4U2pSc3ZTVGVtSGUyXy11ZUdWaE02bmprWmVyWTU3d2IwdjZNMmdxWlN5dnVNLXBucw?oc=5\" target=\"_blank\">沪市“百里挑一”：组合PE仅10.35倍、ROE达10.50%，上证增强ETF7月来跑赢大盘7.57%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBadnhsNTc0MGFGczZ1ZXdzc2dfY0Ytb0g4NTM0Q3pzSnU0Z2JBUTNHa3drUjBRamw0M2Fld2JlR2t1T2ROVDZ4U2pSc3ZTVGVtSGUyXy11ZUdWaE02bmprWmVyWTU3d2IwdjZNMmdxWlN5dnVNLXBucw?oc=5",
-      "published": "Wed, 12 Aug 2026 05:20:00 GMT"
+      "title": "A股-研报详情 - stock.finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXFrUHJuYjZmSkh0Yi1CSlZLZFhnVlJrbFJVNk1vZEVKRHhnbmVRa3JsblhmUXlsX2pua053ZkRKbGFWYXJ3SkJITC1CTldyNTdBTlNPeEVEckZfUVE3WjZrZTJOdzFnMmlPVFZ4cXBWMWFnTjBqWURfZXoyeHFwcWpsWFZqZlRmcThQRjRvWVJpR2NuSzNZOGNKX0lmTXdPdUwxYw?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stock.finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMXFrUHJuYjZmSkh0Yi1CSlZLZFhnVlJrbFJVNk1vZEVKRHhnbmVRa3JsblhmUXlsX2pua053ZkRKbGFWYXJ3SkJITC1CTldyNTdBTlNPeEVEckZfUVE3WjZrZTJOdzFnMmlPVFZ4cXBWMWFnTjBqWURfZXoyeHFwcWpsWFZqZlRmcThQRjRvWVJpR2NuSzNZOGNKX0lmTXdPdUwxYw?oc=5",
+      "published": "Wed, 12 Aug 2026 06:42:01 GMT"
     },
     {
       "source": "东方财富",
@@ -153,283 +139,59 @@
     },
     {
       "source": "同花顺",
-      "title": "A股收评：创业板指低开高走涨1.49%，大消费股午后活跃",
-      "summary": "A股三大指数今日集体上涨，截至收盘，上证指数涨0.32%，深证成指涨1.09%，创业板指涨1.49%，北证50涨0.23%，科创50指数涨1.61%。全市场成交额21672亿元，较上日缩量1684亿元，全市场超4100只个股上涨。板块题材上，房地产、光纤概念、CPO、通信设备、教育板块涨幅居前；油气开采及服务、可燃冰、芬太尼、煤炭开采加工板块跌幅居前。盘面上，房地产板块午后持续拉升，滨江集团、城建发展、荣盛发展、中交发展、首开股份等股涨停，特发服务、华远控股、招商蛇口涨幅居前。光纤概念全天强势，长进光子、炬光科技20cm涨停，至纯科技、通鼎互联、永鼎股份涨停，长盈通、致尚科技、光库科技涨幅居前。食品加工制造板块午后冲高，安吉视频、好想你、百合股份获涨停，盖世食品、莲花控股、一致魔芋、朱老六涨幅居前。油气开采及服务板块全天低迷，首华燃气、通源石油、科力股份跌幅居前。",
-      "link": "https://news.10jqka.com.cn/20260812/c678892448.shtml",
-      "published": "Wed, 12 Aug 2026 07:00:49 GMT"
+      "title": "机构评级|国盛证券给予甬金股份“增持”评级 未给出目标价 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rTlIyd1Q5N0dSbDk1Q1lHZTcwTUFmSllybnRINVpuU0VlMU8tS2p5YllOTjBjckVQNEN3NWJWLWhXMUNCb0dtV2xwNnFRbVdXdnVkZnlWYVJwanhZMjJFclpR?oc=5\" target=\"_blank\">机构评级|国盛证券给予甬金股份“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rTlIyd1Q5N0dSbDk1Q1lHZTcwTUFmSllybnRINVpuU0VlMU8tS2p5YllOTjBjckVQNEN3NWJWLWhXMUNCb0dtV2xwNnFRbVdXdnVkZnlWYVJwanhZMjJFclpR?oc=5",
+      "published": "Wed, 12 Aug 2026 05:57:31 GMT"
     },
     {
       "source": "同花顺",
-      "title": "股指期货午盘收盘 主力合约全线收涨",
-      "summary": "股指期货午盘收盘，主力合约全线收涨。沪深300股指期货(IF)主力合约涨0.30%，上证50股指期货(IH)主力合约涨0.05%，中证500股指期货(IC)主力合约涨0.53%，中证1000股指期货(IM)主力合约涨0.79%。",
-      "link": "https://news.10jqka.com.cn/20260812/c678892441.shtml",
-      "published": "Wed, 12 Aug 2026 07:00:18 GMT"
+      "title": "东海证券：首次覆盖富创精密给予增持评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yVFFLLU0xRG8xQnJZcnFzcHhud0xzQVZNN3FNdWtDSXJKN3ZRbXY5NHNjbnNMX1dYSXJTTDhnRGZqOHNkdXdPNHdDdzBZLU5wdnVVYWdkcU5iRTNHTE45ZVZ3?oc=5\" target=\"_blank\">东海证券：首次覆盖富创精密给予增持评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yVFFLLU0xRG8xQnJZcnFzcHhud0xzQVZNN3FNdWtDSXJKN3ZRbXY5NHNjbnNMX1dYSXJTTDhnRGZqOHNkdXdPNHdDdzBZLU5wdnVVYWdkcU5iRTNHTE45ZVZ3?oc=5",
+      "published": "Wed, 12 Aug 2026 06:33:45 GMT"
     },
     {
       "source": "同花顺",
-      "title": "半导体设备厂商泛林集团拟在新加坡增聘200人 涵盖高带宽内存、硅光子等领域",
-      "summary": "美国半导体设备供应商泛林集团8月12日发布声明称，计划今年在新加坡增聘约200人，其中近9成为专业工程和技术岗位，以加强下一代半导体技术研发能力。新增岗位将涵盖高带宽内存（HBM）、2.5D和3D集成、硅光子、共同封装光学、面板级封装，以及设备和服务智能技术等领域。",
-      "link": "https://news.10jqka.com.cn/20260812/c678892398.shtml",
-      "published": "Wed, 12 Aug 2026 06:57:42 GMT"
+      "title": "钾锂盈利弹性释放，东吴证券：维持藏格矿业“买入”评级 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiemRPbjl0S3BlZkdTczFoMVdNVmhsanpDUF9YVHp2UEJ0dDY0bE1YRzJTQzk5WTFKb1RYOXNubjQ2cEJfanlta09zaEVSbS12Z210S1RHcW9FNXpfSUZ3VVlR?oc=5\" target=\"_blank\">钾锂盈利弹性释放，东吴证券：维持藏格矿业“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiemRPbjl0S3BlZkdTczFoMVdNVmhsanpDUF9YVHp2UEJ0dDY0bE1YRzJTQzk5WTFKb1RYOXNubjQ2cEJfanlta09zaEVSbS12Z210S1RHcW9FNXpfSUZ3VVlR?oc=5",
+      "published": "Wed, 12 Aug 2026 06:58:13 GMT"
     },
     {
       "source": "同花顺",
-      "title": "野村上调东证指数、日经指数目标位 寄望企业盈利进一步增长",
-      "summary": "野村证券将日本基准股指东证指数年末目标位由4200点上调至4400点。上调原因在于，受产品提价、销量提升以及日元走弱推动，机构上调了企业每股收益预期。野村首席股票策略师北冈智亲周一在研报中表示：“我们依旧看好日本股市上行趋势，每股收益增长将来自产品涨价、股份缩减等多重因素的支撑。”将2026财年东证指数成分股每股收益同比增速预期，由13.4%上调至19.2%。机构测算，近期企业利润率的提升约一半来自汇率效应、关税退税等临时性因素；另一半则来自涨价与销量增长，该部分具备可持续性。在企业回购、个人投资者及海外资金买入的加持下，市场供需格局依旧偏紧。将日经225指数年末目标位由68000点上调至70000点。",
-      "link": "https://news.10jqka.com.cn/20260812/c678892271.shtml",
-      "published": "Wed, 12 Aug 2026 06:51:20 GMT"
+      "title": "下半年巨龙产量将继续增长，国盛证券：维持藏格矿业“买入”评级 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tNU5MbXVwbWV0NVdUUDdMejhSS3Ezc3B0dlVlbmREbmhQOTV1VEtKQnh5Z2h3WThZMnZiUGJXaU1yd2dDRlM0VXFDM3Q5REQ2Z1dtZzZoZVRDLV9tOUhTWVNB?oc=5\" target=\"_blank\">下半年巨龙产量将继续增长，国盛证券：维持藏格矿业“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tNU5MbXVwbWV0NVdUUDdMejhSS3Ezc3B0dlVlbmREbmhQOTV1VEtKQnh5Z2h3WThZMnZiUGJXaU1yd2dDRlM0VXFDM3Q5REQ2Z1dtZzZoZVRDLV9tOUhTWVNB?oc=5",
+      "published": "Wed, 12 Aug 2026 07:03:23 GMT"
     },
     {
       "source": "同花顺",
-      "title": "沪深京三市成交额超2万亿元，较上日此时缩量1793亿元",
-      "summary": "据同花顺iFinD数据，沪深京三市成交额超2万亿元，较上日此时缩量1793亿元，预计全天成交金额约2.1万亿元。截至目前，沪市成交额9121亿元，深市成交额10744亿元，北证50成交额135亿元。",
-      "link": "https://news.10jqka.com.cn/20260812/c678892165.shtml",
-      "published": "Wed, 12 Aug 2026 06:44:41 GMT"
+      "title": "大幅上调全年指引，东方证券：维持药明康德“买入”评级 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wMko4XzR4WlhuTlZmSXgzay1sVjQtMlJTaEZfWWdnNUNNeXZHckl5OHpPa216OFZlQ0w1dFpsMjBxNUZuTjE1YUZsNzVncHd4QXpydGMxRmhjMC11cnR2eFlR?oc=5\" target=\"_blank\">大幅上调全年指引，东方证券：维持药明康德“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wMko4XzR4WlhuTlZmSXgzay1sVjQtMlJTaEZfWWdnNUNNeXZHckl5OHpPa216OFZlQ0w1dFpsMjBxNUZuTjE1YUZsNzVncHd4QXpydGMxRmhjMC11cnR2eFlR?oc=5",
+      "published": "Wed, 12 Aug 2026 05:57:31 GMT"
     },
     {
       "source": "同花顺",
-      "title": "卡塔尔呼吁重新开放霍尔木兹海峡",
-      "summary": "卡塔尔外交部发言人安萨里11日在新闻发布会上表示，卡塔尔正在关注伊朗与阿曼之间谈判，最近几天已听到双方积极的表态，并正在等待新的进展。安萨里称，卡塔尔现在的主要优先事项是重新开放霍尔木兹海峡，维持停火，并确保谈判推进。卡塔尔支持一切促使局势缓和的努力，卡塔尔现阶段的最低要求是根据国际法恢复霍尔木兹海峡地区的海上航行自由。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260812/c678891999.shtml",
-      "published": "Wed, 12 Aug 2026 06:33:00 GMT"
+      "title": "核心产品持续拓展，国海证券：维持山推股份“买入”评级 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE51SGFXa3hMQlF5SklYNU9pT0FKcEJUT2lPWVdDbE0xUzVpRzZ3aHJNNjRsTnBXTHY2MXNoTkdMM1I1TnJZR25ndk96bG9jREpwQXdEY1AtUVhaSk9lVUJmTE5n?oc=5\" target=\"_blank\">核心产品持续拓展，国海证券：维持山推股份“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51SGFXa3hMQlF5SklYNU9pT0FKcEJUT2lPWVdDbE0xUzVpRzZ3aHJNNjRsTnBXTHY2MXNoTkdMM1I1TnJZR25ndk96bG9jREpwQXdEY1AtUVhaSk9lVUJmTE5n?oc=5",
+      "published": "Wed, 12 Aug 2026 05:52:30 GMT"
     },
     {
       "source": "同花顺",
-      "title": "日韩股市集体收涨",
-      "summary": "日经225指数收涨0.83%，报67524.06点。韩国综指收涨3.68%，报6579.04点。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891974.shtml",
-      "published": "Wed, 12 Aug 2026 06:31:51 GMT"
+      "title": "Q2收入、利润平稳增长，信达证券：维持行动教育“买入”评级 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xbVB2dmtOSUVJNXlkbE1nR0hEYVRPTHp3LWI4R2RoQU1ZbHlqVHVTWHNoUWR0Sy1nZjJ0SVVVZkVWbVRTZW5HVFk3LXRDZmFvRjdXMG9WY1dEamJTZ0owUTBB?oc=5\" target=\"_blank\">Q2收入、利润平稳增长，信达证券：维持行动教育“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xbVB2dmtOSUVJNXlkbE1nR0hEYVRPTHp3LWI4R2RoQU1ZbHlqVHVTWHNoUWR0Sy1nZjJ0SVVVZkVWbVRTZW5HVFk3LXRDZmFvRjdXMG9WY1dEamJTZ0owUTBB?oc=5",
+      "published": "Wed, 12 Aug 2026 05:47:30 GMT"
     },
     {
       "source": "同花顺",
-      "title": "达实智能：无参股宇树科技，无机器人业务",
-      "summary": "达实智能开盘后快速拉升封死涨停，截至13时22分，报3.88元/股，涨停板上封单资金达3.21亿元。推动本轮股价异动的导火索，或是市场流传的一则传闻。近期有市场传言称，达实智能间接持有宇树科技0.04%的股份。对此，记者以投资者身份致电达实智能证券部，工作人员明确表示，无论直接持股还是间接持股，达实智能均不持有宇树科技股份，同时公司现阶段不存在机器人相关研发、生产与制造业务。对于当日股价涨停，公司重申不存在应披露而尚未披露的重大事项。(21财经)",
-      "link": "https://news.10jqka.com.cn/20260812/c678891935.shtml",
-      "published": "Wed, 12 Aug 2026 06:29:35 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "全国农产品批发市场猪肉平均价格为15.85元/公斤，比昨天上升0.8%",
-      "summary": "据农业农村部监测，8月12日“农产品批发价格200指数”为114.43，比昨天上升0.16个点，“菜篮子”产品批发价格指数为114.75，比昨天上升0.20个点。截至今日14:00时，全国农产品批发市场猪肉平均价格为15.85元/公斤，比昨天上升0.8%；牛肉67.42元/公斤，与昨天持平；羊肉65.08元/公斤，比昨天上升0.5%；鸡蛋10.00元/公斤，比昨天上升0.6%；白条鸡17.25元/公斤，比昨天上升0.4%。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891909.shtml",
-      "published": "Wed, 12 Aug 2026 06:27:36 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "鸿海：第三季度人工智能服务器机架出货量环比增幅将达到两位数高位",
-      "summary": "鸿海表示，第三季度人工智能服务器机架出货量环比增幅将达到两位数高位，2026年AI服务器机架出货量将增长逾一倍。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260812/c678891886.shtml",
-      "published": "Wed, 12 Aug 2026 06:24:32 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "上期所欧线集运主力合约大涨5%",
-      "summary": "上期所欧线集运主力合约大涨5%，报1642点。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891866.shtml",
-      "published": "Wed, 12 Aug 2026 06:22:52 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "广期所多晶硅主力合约大涨5%",
-      "summary": "广期所多晶硅主力合约大涨5%，报38465元/吨。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891863.shtml",
-      "published": "Wed, 12 Aug 2026 06:22:27 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "鸿海第二季度净利润599.7亿元新台币，预估583.8亿元新台币",
-      "summary": "鸿海第二季度净利润599.7亿元新台币，预估583.8亿元新台币。公司预计第三季度营收同比将实现强劲增长，预计2026年营收将实现同比强劲增长。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891829.shtml",
-      "published": "Wed, 12 Aug 2026 06:18:59 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "大摩：上调紫金矿业H股目标价至61港元，列为行业首选",
-      "summary": "摩根士丹利发表报告，将紫金矿业H股目标价由55港元上调至61港元，A股目标价由52元上调至58元，并将紫金矿业H股列为行业首选，评级“增持”。该行认为，紫金在铜、金及锂矿的产量增长速度，在大型矿企中名列前茅，惟其估值尚未充分反映其增长规模、多元化及可见性。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891826.shtml",
-      "published": "Wed, 12 Aug 2026 06:18:45 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "河南、湖北等地遭遇强风雨天气 部分列车停运",
-      "summary": "受台风残余环流影响，河南、湖北等地目前仍处于强风雨天气当中，铁路部门启动应急响应，对部分列车采取停运措施。根据铁路部门公告，今天（12日），途经郑州局管内的多趟列车采取临时停运措施，主要涉及杭州至西安、西宁至杭州、大同至杭州、温州至西安、上海至石家庄、长春至昆明、北京西至襄阳、石家庄至上海、温州至郑州方向。郑州局管内始发的部分车次今天也相继停运，相关车次包括：南阳至上海淞江、洛阳至宁波、郑州至温州、许昌至日照、新乡至昆山方向。同时，今天武昌至海拉尔、西安至武昌、乌鲁木齐至武昌、武昌至乌鲁木齐、西安至武昌、深圳东至襄阳等方向52趟列车临时停运。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260812/c678891794.shtml",
-      "published": "Wed, 12 Aug 2026 06:15:44 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "受强降雨影响 天津滨海机场多架航班取消或延误",
-      "summary": "8月12日，天津多地迎来强降雨天气，受天气影响，截至12时30分，天津滨海机场航班已取消4架次，延误13架次，往西南方向，成都、贵阳、昆明航班受影响较大。同时，因天津市境内降雨，S2津宁高速全线收费站入口封闭。G25长深高速汉沽农场收费站、芦台收费站、汉沽收费站、清河农场收费站、中心桥收费站入口限行黄牌货车。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260812/c678891748.shtml",
-      "published": "Wed, 12 Aug 2026 06:11:48 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中汽协：7月新能源汽车出口环比增长5.7% 同比增长1.5倍",
-      "summary": "中汽协发布数据，7月，新能源汽车出口55.3万辆，环比增长5.7%，同比增长1.5倍；传统燃料汽车出口49万辆，环比下降4.6%，同比增长40%。1-7月，新能源汽车出口290.9万辆，同比增长1.2倍；传统燃料汽车出口323.1万辆，同比增长36.2%。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891738.shtml",
-      "published": "Wed, 12 Aug 2026 06:10:51 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "挪威主权财富基金1月至6月期间盈利17530亿挪威克朗",
-      "summary": "挪威主权财富基金1月至6月期间盈利17530亿挪威克朗，投资回报率较基准指数高出0.22个百分点，主要得益于股市的良好回报，尤其是亚洲科技股带来的收益。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891710.shtml",
-      "published": "Wed, 12 Aug 2026 06:08:17 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "多只地产ETF涨超4%",
-      "summary": "午后房地产板块持续拉升，地产ETF华宝（159707）、房地产ETF银华（159768）、房地产ETF华夏（515060）涨超4%，此前滨江集团涨停，招商蛇口、新城控股等大幅拉升。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891655.shtml",
-      "published": "Wed, 12 Aug 2026 06:06:10 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "德国7月CPI环比增长0.8%，预期0.8%",
-      "summary": "德国7月CPI环比增长0.8%，预期0.8%；7月CPI同比增长2.8%，预期2.8%。",
-      "link": "https://news.10jqka.com.cn/20260812/c678891584.shtml",
-      "published": "Wed, 12 Aug 2026 06:03:03 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "东方财富旗下西藏创新资本公司增资至10亿",
-      "summary": "【东方财富旗下西藏创新资本公司增资至10亿】财联社8月12日电，天眼查工商信息显示，近日，西藏东方财富创新资本有限公司发生工商变更，注册资本由5亿人民币增至10亿人民币。该公司成立于2019年5月，法定代表人为卞春山，经营范围为从事《证券公司证券自营投资品种清单》所列品种以外的金融产品、股权等另类投资业务。股东信息显示，该公司由东方财富证券股份有限公司全资持股。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:58:30 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，三菱日联分析师表示，美日表态保留再度干预权利，短暂压制美元兑日元汇价反弹。",
-      "summary": "财联社8月12日电，三菱日联分析师表示，美日表态保留再度干预权利，短暂压制美元兑日元汇价反弹。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:58:12 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-      "summary": "【中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税】财联社8月12日电，随着美国11月中期选举脚步渐近，近日民调支持率持续下跌的美国总统特朗普正酝酿新一轮税收刺激政策，以吸引选民支持，从而保住共和党在美国参、众两院的控制权。据媒体周二援引白宫高级经济顾问及前政府官员报道，特朗普目前正考虑呼吁国会削减资本利得税，并考虑对特定房产销售给予税务豁免。曾在特朗普第一任期内领导白宫国家经济委员会的库德洛表示，他近期曾与总统讨论资本利得税通胀指数化问题，特朗普对此持开放态度。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:57:15 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "半导体设备厂商泛林集团拟在新加坡增聘200人 涵盖高带宽内存、硅光子等领域",
-      "summary": "【半导体设备厂商泛林集团拟在新加坡增聘200人 涵盖高带宽内存、硅光子等领域】财联社8月12日电，美国半导体设备供应商泛林集团8月12日发布声明称，计划今年在新加坡增聘约200人，其中近9成为专业工程和技术岗位，以加强下一代半导体技术研发能力。新增岗位将涵盖高带宽内存（HBM）、2.5D和3D集成、硅光子、共同封装光学、面板级封装，以及设备和服务智能技术等领域。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:56:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，巴基斯坦方面表示，巴基斯坦陆军参谋长与海湾国家、伊朗和美国官员保持联系。",
-      "summary": "财联社8月12日电，巴基斯坦方面表示，巴基斯坦陆军参谋长与海湾国家、伊朗和美国官员保持联系。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:56:08 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美银：近年美股财富效应显现 更多55+人群选择“解甲归田”",
-      "summary": "【美银：近年美股财富效应显现 更多55+人群选择“解甲归田”】财联社8月12日电，美银近日的一份研究备忘录援引美国劳工统计局统计数据指出，2020年2月，美国55岁及以上人群劳动力参与率为40.3%；到2026年7月，该数值已经降至36.9%。美银全球研究部董事总经理、美国经济学家Aditya Bhave表示：“我们认为这和标普500指数过去两年累计超35%的涨幅有关。”在他看来，股市大幅上涨，让不少还在纠结何时退场的人，更容易做出退休的选择。Bhave并未将该现象全部归因于股市，他表示：“没有哪一个单一因果因素可以完整解释该现象。但很明显，过去两年股市表现亮眼，如果算上2020年以来的行情走势，标普500指数已经实现累计翻倍以上涨幅，这种财富增长会促使一部分人选择退休，他们会觉得‘我不必再继续工作了’。”",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:55:38 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "摩根士丹利对SpaceX惊人设想：股价能够冲击600美元",
-      "summary": "【摩根士丹利对SpaceX惊人设想：股价能够冲击600美元】财联社8月12日电，摩根士丹利分析师亚当·乔纳斯在对SpaceX的评级报告当中，给出了一个惊人的“牛市情景”：SpaceX股价有望达600美元，估值飙至8万亿美元，成全球第一。但要走到600美元，必须“一切以最完美的方式发展”——首先，SpaceX必须成功大规模部署轨道AI数据中心，并且成本只有目前的一半。这高度依赖公司正在研发的完全可复用重型火箭Starship实现高频、高效飞行。其次，Starlink必须远超当前的家用互联网业务，扩展到服务AI机器人。牛市情景假设到2040年，将有数亿甚至数十亿台AI驱动的机器人接入Starlink，平均每用户收入（ARPU）达到35美元。简单来说，从133美元到600美元的路径，主要依赖于目前尚不存在的技术和尚未规模化的业务，并假设一切都以最理想的方式发展。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:55:10 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "阿联酋经霍尔木兹海峡转运伊拉克石油出口",
-      "summary": "【阿联酋经霍尔木兹海峡转运伊拉克石油出口】财联社8月12日电，阿布扎比国家石油公司提出方案，经霍尔木兹海峡将伊拉克石油转运给亚洲炼油企业。阿布扎比国家石油公司采用过转运操作：船只关闭应答器执行短途航行，以此将原油运出波斯湾。伊拉克国家石油销售公司向愿意取道霍尔木兹海峡的企业给出大幅油价折扣，其巴士拉中质原油每桶折扣幅度介于 25‑27 美元。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:54:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，巴基斯坦内政部长表示，向伊朗领导人传递了“重要”信息。",
-      "summary": "财联社8月12日电，巴基斯坦内政部长表示，向伊朗领导人传递了“重要”信息。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:54:13 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，德国商业银行分析师表示，芝加哥、亚特兰大联储官员强调通胀仍是主要风险，通胀回落高度关联中东局势，即便非农数据疲软，抗通胀依旧是美联储...",
-      "summary": "财联社8月12日电，德国商业银行分析师表示，芝加哥、亚特兰大联储官员强调通胀仍是主要风险，通胀回落高度关联中东局势，即便非农数据疲软，抗通胀依旧是美联储政策重点。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:51:33 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，马来西亚将9月毛棕榈油参考价格定为每吨4392.32林吉特，对应出口税率为10%。",
-      "summary": "财联社8月12日电，马来西亚将9月毛棕榈油参考价格定为每吨4392.32林吉特，对应出口税率为10%。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:50:16 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，调查显示，马来西亚二季度GDP预计同比增长5.8%，较一季度5.4%加速，官方数据将于8月14日公布。",
-      "summary": "财联社8月12日电，调查显示，马来西亚二季度GDP预计同比增长5.8%，较一季度5.4%加速，官方数据将于8月14日公布。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:49:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，巴基斯坦方面表示，将继续推动美国与伊朗之间直接和间接的外交渠道。",
-      "summary": "财联社8月12日电，巴基斯坦方面表示，将继续推动美国与伊朗之间直接和间接的外交渠道。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:49:20 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "野村上调东证指数、日经指数目标位 寄望企业盈利进一步增长",
-      "summary": "【野村上调东证指数、日经指数目标位 寄望企业盈利进一步增长】财联社8月12日电，野村证券将日本基准股指东证指数年末目标位由4200点上调至4400点。上调原因在于，受产品提价、销量提升以及日元走弱推动，机构上调了企业每股收益预期。野村首席股票策略师北冈智亲周一在研报中表示：“我们依旧看好日本股市上行趋势，每股收益增长将来自产品涨价、股份缩减等多重因素的支撑。”将2026财年东证指数成分股每股收益同比增速预期，由13.4%上调至19.2%。机构测算，近期企业利润率的提升约一半来自汇率效应、关税退税等临时性因素；另一半则来自涨价与销量增长，该部分具备可持续性。在企业回购、个人投资者及海外资金买入的加持下，市场供需格局依旧偏紧。将日经225指数年末目标位由68000点上调至70000点。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:48:48 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "【盘中宝】全球产业资本加速投入，该领域或是AI下一站，未来全球市场规模或达数千亿欧元，这家企业与研究院展开深度合作",
-      "summary": "",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:46:31 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "沪深两市成交额突破2万亿 较上一日此时缩量超1800亿",
-      "summary": "【沪深两市成交额突破2万亿 较上一日此时缩量超1800亿】财联社8月12日电，财联社盯盘数据显示，沪深两市成交额连续第13个交易日突破2万亿，较上一日此时缩量超1800亿，预计全天成交金额超2.1万亿。<br /><img src=\"https://image.cls.cn/images/20260812/0h75e90m68_1206x1105.jpg\" />",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:46:23 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，现货黄金价格涨0.69%，报4398.11美元/盎司；现货白银价格涨2.03%，报65.96美元/盎司。",
-      "summary": "财联社8月12日电，现货黄金价格涨0.69%，报4398.11美元/盎司；现货白银价格涨2.03%，报65.96美元/盎司。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:46:15 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月12日电，纽约期银日内涨1.64%突破66美元/盎司。",
-      "summary": "财联社8月12日电，纽约期银日内涨1.64%突破66美元/盎司。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:45:59 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "PCB概念震荡拉升 景旺电子5天3板",
-      "summary": "【PCB概念震荡拉升 景旺电子5天3板】财联社8月12日电，PCB概念盘中震荡拉升，景旺电子5天3板，此前宝鼎科技7天6板，金禄电子、菲利华、生益科技、德福科技、鹏鼎控股等涨幅靠前。消息面上，臻鼎董事长沈庆芳表示，1.6T光模组板需求持续升温，客户已开始预订2027年产能；3.2T产品已进入打样阶段。公司未来三年新开出的高阶产能，均已与核心客户完成产能绑定，部分高阶产品甚至取得客户预付款及项目款，相关能见度已延伸至2029年。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:44:56 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "大和：苹果第三财季业绩胜预期 目标价升至335美元",
-      "summary": "【大和：苹果第三财季业绩胜预期 目标价升至335美元】财联社8月12日电，大和发布报告称，苹果截至2026年6月底止第三财季业绩胜预期，收入同比增长16%至1094亿美元，每股盈利2.02美元，分别较市场预期高出7.66亿美元及0.13美元；惟若扣除关税退款约0.11美元，经调整每股盈利约1.91美元，仅较预期高出0.02美元。该行维持对其“跑赢大市”评级，目标价由325美元上调至335美元，相当于2027财年预测市盈率35倍。期内，iPhone收入同比增长22%至540亿美元，Mac收入更大增29%至104亿美元，服务收入亦增长12%至307亿美元。管理层表示，iPhone、Mac及iPad需求强劲，公司未能获得足够的先进节点系统单晶片(SoC)以满足需求，内部团队更承认低估需求增长。不过，该行对2027财年前景转趋审慎，因2026财年iPhone增长21%属史无前例，参考过往超级周期后次年表现往往显著回落；同时，9月新iPhone加价及存储器成本上升，将对需求及盈利构成不确定性。",
-      "link": "",
-      "published": "Wed, 12 Aug 2026 06:42:39 GMT"
+      "title": "业绩步入高增通道，中邮证券：首予优彩资源“买入”评级 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNDJPZGo4cWlHVkE2Y0t5aFpEN1VTZmZncFplR3R3UXlzRzFUdVRmS2hKUFVUUE1SdHRLY09WX2NidXZlT0VLYWVXMzBOQkFQdVowZ3N3bW1qczJObXhCVVVR?oc=5\" target=\"_blank\">业绩步入高增通道，中邮证券：首予优彩资源“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FNDJPZGo4cWlHVkE2Y0t5aFpEN1VTZmZncFplR3R3UXlzRzFUdVRmS2hKUFVUUE1SdHRLY09WX2NidXZlT0VLYWVXMzBOQkFQdVowZ3N3bW1qczJObXhCVVVR?oc=5",
+      "published": "Wed, 12 Aug 2026 05:43:06 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -469,7 +231,7 @@
     {
       "source": "华尔街见闻",
       "title": "马斯克：SpaceX的AI收入，下个月就将超过其他所有业务",
-      "summary": "<p>马斯克在最新内部全员会议上表示SpaceX的人工智能收入预计下个月就将超过公司所有其他业务收入的总和。<br />\nAI已成为SpaceX未来极为重要的组成部分。SpaceX必须在AI硬件和软件两个方向上都取得成功，因为未来从根本上属于AI与机器人。<br />\n同时必须打造关爱人类、助人走向星际的AI，SpaceX优秀人才正孕育此AI，并将用全部信息训练。</p>",
+      "summary": "<p>马斯克在最新内部全员会议上表示paceX的人工智能收入预计下个月就将超过公司所有其他业务收入的总和。<br />\nAI已成为SpaceX未来极为重要的组成部分。SpaceX必须在AI硬件和软件两个方向上都取得成功，因为未来从根本上属于AI与机器人。<br />\n同时必须打造关爱人类、助人走向星际的AI，SpaceX优秀人才正孕育此AI，并将用全部信息训练。</p>",
       "link": "https://wallstreetcn.com/charts/41959567",
       "published": "Wed, 12 Aug 2026 06:09:46 GMT"
     },
@@ -497,7 +259,7 @@
     {
       "source": "华尔街见闻",
       "title": "首次直投韩股！韩媒称淡马锡拟“抄底”三星、海力士",
-      "summary": "<p>据媒体报道称，淡马锡计划通过内部投资团队直接投资SK海力士和三星电子，目前正在考虑入场时机。</p>\n<p>三星电子和SK海力士股价盘中均大涨逾8%。</p>\n<p>更多消息，持续更新中……</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "summary": "<p>新加坡主权财富基金淡马锡计划首次直接投资韩国股市，目标直指三星电子与SK海力士，将这两家全球内存芯片巨头视为AI价值链中被严重低估的标的。</p>\n<p>据韩国《亚洲经济》报道，淡马锡近期已就三星电子与SK海力士的投资事宜与韩国政府接触，正在评估入场时机。韩国金融监管部门一名官员表示，当前两家公司股价因韩国政府近期允许单一股票杠杆ETF上市而出现剧烈波动，淡马锡正是在此背景下寻求确认资金执行窗口。这将是淡马锡首次直接投资韩国证券市场。</p>\n<p>此次入市采用内部人员直接投资方式，而非委托外部资产管理公司运营。投行业界人士对此解读称，这一安排体现了淡马锡对相关判断的高度确信，其一贯风格是从长远视角向引领市场的产业投入大规模资本。</p>\n<p>三星电子和SK海力士股价盘中均大涨逾8%。</p>\n<div>\n<h2 id=\"ai\">看多内存芯片，瞄准AI低估洼地</h2>\n</div>\n<p>据报道，淡马锡认为，在AI整体价值链中，内存半导体板块估值最为低估。上述投行业界人士指出，三星电子和SK海力士的股价较去年低点最高已累计上涨逾880%，但淡马锡仍对其后续上行空间抱有坚定信心",
       "link": "https://wallstreetcn.com/articles/3779256",
       "published": "Wed, 12 Aug 2026 05:14:29 GMT"
     },
