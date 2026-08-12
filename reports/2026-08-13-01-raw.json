@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
   "hour": "01",
-  "total": 7,
-  "fetched_at": "2026-08-13T01:00:57.414713+08:00",
+  "total": 14,
+  "fetched_at": "2026-08-13T01:49:37.323667+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -12,18 +12,60 @@
       "published": "Wed, 12 Aug 2026 16:00:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "开开实业A股连续五日涨停累计涨幅超60% 公司提示非理性炒作风险 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOQmtiT3BzcUhhWnhrR2Y4cDVOcFp5czBKd1otZ2lmYy1HcElObGRJYjVnaUlyYWFuQlV1NTVVZUY4bi1WbS1YdG1KVmxXWW0xOU4xYmdHSHRFR045UDBtdXRvdmJwN2x5ZzVha0JKQk9rNFlDSW9EdmJaNU1VeU5uNTJfSFdGdUR2MFltNFY2djVvMEk?oc=5\" target=\"_blank\">开开实业A股连续五日涨停累计涨幅超60% 公司提示非理性炒作风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQmtiT3BzcUhhWnhrR2Y4cDVOcFp5czBKd1otZ2lmYy1HcElObGRJYjVnaUlyYWFuQlV1NTVVZUY4bi1WbS1YdG1KVmxXWW0xOU4xYmdHSHRFR045UDBtdXRvdmJwN2x5ZzVha0JKQk9rNFlDSW9EdmJaNU1VeU5uNTJfSFdGdUR2MFltNFY2djVvMEk?oc=5",
-      "published": "Wed, 12 Aug 2026 15:02:00 GMT"
+      "source": "东方财富",
+      "title": "股市必读：龙净环保新发布《关于完成公司全称变更暨完成工商登记的公告》 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE0xRmZPRS1DZVowM0FHOFBvc1BzdEpidERwZ3Jlc0Z6b2lOamtSeEItcU1IcnpIc3Z5NU9DYkJTbHM0Ujl1QjdycmNJTmMzRTRBYWdORmtrNWgxLTJNY2wtYW13Mm9mTW9paGpR?oc=5\" target=\"_blank\">股市必读：龙净环保新发布《关于完成公司全称变更暨完成工商登记的公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xRmZPRS1DZVowM0FHOFBvc1BzdEpidERwZ3Jlc0Z6b2lOamtSeEItcU1IcnpIc3Z5NU9DYkJTbHM0Ujl1QjdycmNJTmMzRTRBYWdORmtrNWgxLTJNY2wtYW13Mm9mTW9paGpR?oc=5",
+      "published": "Wed, 12 Aug 2026 17:34:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "江波龙最新公告：董事及高管持股比例因定增被动稀释 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1jaVlGd3hNX2d4Y2YtQUREeDNkX0lDamhYbGVta2VnRXc3TEpyX2V6b1A2X2hyTDVDb0J1Mm1hRlF3VXpQX3V5U055Y1ZEY2w1OW5zdkI4MjhFZE1pdDVqSnFVMEZmNzNjUWM4?oc=5\" target=\"_blank\">江波龙最新公告：董事及高管持股比例因定增被动稀释</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jaVlGd3hNX2d4Y2YtQUREeDNkX0lDamhYbGVta2VnRXc3TEpyX2V6b1A2X2hyTDVDb0J1Mm1hRlF3VXpQX3V5U055Y1ZEY2w1OW5zdkI4MjhFZE1pdDVqSnFVMEZmNzNjUWM4?oc=5",
-      "published": "Wed, 12 Aug 2026 15:43:00 GMT"
+      "title": "股市必读：京投发展新发布《京投发展股份有限公司关于股票交易异常波动的公告》 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBRdjFUWjNtaWQtMG0yRFhpZi0tc3VLNzVqVTEycXc5cnZSbm1BUXFRSGF2VlNLZURiNEwzSE1LSVpoVUFzeTNodlp2NERUVElldGpXQVdjUjktdzYta2NSXzZhZFVINDI1RzFR?oc=5\" target=\"_blank\">股市必读：京投发展新发布《京投发展股份有限公司关于股票交易异常波动的公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRdjFUWjNtaWQtMG0yRFhpZi0tc3VLNzVqVTEycXc5cnZSbm1BUXFRSGF2VlNLZURiNEwzSE1LSVpoVUFzeTNodlp2NERUVElldGpXQVdjUjktdzYta2NSXzZhZFVINDI1RzFR?oc=5",
+      "published": "Wed, 12 Aug 2026 17:34:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "谷歌高管据悉上周召开“全员”会议解决AI部门重组问题",
+      "summary": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260813/c678907703.shtml",
+      "published": "Wed, 12 Aug 2026 17:38:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上期所基本金属夜盘收盘涨跌不一，氧化铝涨1%",
+      "summary": "上期所基本金属夜盘收盘涨跌不一，氧化铝涨1%。国际铜涨0.21%，沪铜涨0.04%，沪铝涨0.58%，沪锌跌0.08%，沪铅跌0.09%，沪镍跌0.50%，沪锡涨0.35%；氧化铝涨1.00%，铝合金涨0.42%，不锈钢跌0.07%。",
+      "link": "https://news.10jqka.com.cn/20260813/c678907663.shtml",
+      "published": "Wed, 12 Aug 2026 17:18:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国10年期国债拍卖收益率创2007年以来新高",
+      "summary": "美国10年期国债标售创出2007年以来最高收益率。",
+      "link": "https://news.10jqka.com.cn/20260813/c678907646.shtml",
+      "published": "Wed, 12 Aug 2026 17:07:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "SpaceX涨幅扩大至8.5%",
+      "summary": "SpaceX(SPCX.O)升至盘中高点，涨幅扩大至8.5%。",
+      "link": "https://news.10jqka.com.cn/20260813/c678907627.shtml",
+      "published": "Wed, 12 Aug 2026 16:59:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "黑石考虑放弃30亿美元债务融资计划",
+      "summary": "黑石集团据悉正在考虑放弃一项约30亿美元的债务融资计划，该计划原本有助于公司向投资者返还部分资金。知情人士称，黑石数月来一直在为旗下一只较早设立的私募股权二级市场基金筹划所谓的基金抵押债务凭证（CFO），该基金约有700项底层投资。因相关信息非公开，这些人士要求匿名。其中一些人士称，黑石一直难以为这笔交易的权益档找到买家，而权益档通常是此类交易中风险最高的部分。知情人士称，黑石高管仍在权衡各种选择，公司可能决定继续推进这笔CFO交易，也可能寻求其他方式向现有投资者返还资金。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260813/c678907622.shtml",
+      "published": "Wed, 12 Aug 2026 16:56:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄罗斯7月CPI环比上涨0.54%，预估增幅为0.68%",
+      "summary": "俄罗斯7月CPI环比上涨0.54%，预估增幅为0.68%。俄罗斯7月CPI同比上涨5.98%；预估增幅为6.10%。",
+      "link": "https://news.10jqka.com.cn/20260813/c678907521.shtml",
+      "published": "Wed, 12 Aug 2026 16:06:47 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -47,11 +89,18 @@
       "published": "Wed, 12 Aug 2026 15:54:05 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "OPEC月报：下调2026年全球石油需求预测，沙特7月复产超百万桶/日",
-      "summary": "<p style=\"text-align: left;\">沙特7月原油产量大幅回升，但受地缘冲突重燃、出口通道受阻影响，新增产量并未完全转化为国际市场供应，部分增量转而进入国内库存。</p>\n<p style=\"text-align: left;\">OPEC最新月度报告显示，<strong>沙特7月原油日产量升至820万桶，较6月的710万桶增加约110万桶。</strong>与此同时，<strong>OPEC下调2026年全球石油需求增长预期，并上调2027年预测</strong>，显示需求复苏可能较此前预期进一步后移。</p>\n<p style=\"text-align: left;\">对油市而言，产量恢复与出口受限并存，意味着供应端的实际改善仍受到运输瓶颈制约，短期油价走势仍将高度依赖中东地缘局势及海湾航运安全。</p>\n<h2 style=\"text-align: left;\">沙特复产超百万桶/日</h2>\n<p style=\"text-align: left;\">OPEC月报显示，直接向该组织报告产量的7个成员国7月合计增产188万桶/日，<strong>增量主要来自沙特和伊",
-      "link": "https://wallstreetcn.com/articles/3779304",
-      "published": "Wed, 12 Aug 2026 15:20:19 GMT"
+      "source": "央行政策",
+      "title": "A股：突传重磅，央行释放强烈信号！8月13日周四，将迎来关键转折 - 网易新闻客户端",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDYzWVB6M05TU2dTV1V1N2pXODhDNkpveWl6X1hpVTBFVTBFZGJGOEpQRkVUb0NFdW9fVDk5eERLUVo4SDZRNldXYTZWVUZXTHdZRFk0YlB4dkQ3SE42U1JnTUN2ZC0zMUFMbk0zLWJSWXJxRTdLY3lLbEJqRjZsbEdB?oc=5\" target=\"_blank\">A股：突传重磅，央行释放强烈信号！8月13日周四，将迎来关键转折</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">网易新闻客户端</font>",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDYzWVB6M05TU2dTV1V1N2pXODhDNkpveWl6X1hpVTBFVTBFZGJGOEpQRkVUb0NFdW9fVDk5eERLUVo4SDZRNldXYTZWVUZXTHdZRFk0YlB4dkQ3SE42U1JnTUN2ZC0zMUFMbk0zLWJSWXJxRTdLY3lLbEJqRjZsbEdB?oc=5",
+      "published": "Wed, 12 Aug 2026 16:00:00 GMT"
+    },
+    {
+      "source": "宏观经济",
+      "title": "金价大涨近60美元！美国CPI降温、加息押注退潮，黄金剑指4500美元 - FX168财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE00cHQyQ3VEd0RjWTNubnVpQzhlSjZzMzBnakJ3WnRKUUFNSEpENTFWNUtwaXRPWUNQVnZYVlRuU0NXS2pZYzQ0WlA3YkpjaDIzeVc1cHU5N3VQRk9abG5qbXl5V3cyUWlKZWpLdw?oc=5\" target=\"_blank\">金价大涨近60美元！美国CPI降温、加息押注退潮，黄金剑指4500美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">FX168财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00cHQyQ3VEd0RjWTNubnVpQzhlSjZzMzBnakJ3WnRKUUFNSEpENTFWNUtwaXRPWUNQVnZYVlRuU0NXS2pZYzQ0WlA3YkpjaDIzeVc1cHU5N3VQRk9abG5qbXl5V3cyUWlKZWpLdw?oc=5",
+      "published": "Wed, 12 Aug 2026 16:26:32 GMT"
     }
   ]
 }
