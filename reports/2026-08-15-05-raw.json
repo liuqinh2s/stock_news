@@ -1,8 +1,8 @@
 {
   "date": "2026-08-15",
   "hour": "05",
-  "total": 40,
-  "fetched_at": "2026-08-15T05:01:08.383064+08:00",
+  "total": 43,
+  "fetched_at": "2026-08-15T05:14:37.677184+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -10,6 +10,20 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5KSUhVcGNZSXk1MTZsZml0YVZaSXR1R05pT09RaTdjT2NRbURjNmFGa2FJYlBVS2lSYUFTQXFjY1c3ek40LUhfcUpiNmwzWlV1M2hxU3VGWDIwRlRkYUJ4ZFk0VVhYN2pfMnlTTkdSMzZkQ25zZ0l1ZFBza0Zndw?oc=5\" target=\"_blank\">华发股份:华发股份关于向特定对象发行股票申请获上海证券交易所受理的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KSUhVcGNZSXk1MTZsZml0YVZaSXR1R05pT09RaTdjT2NRbURjNmFGa2FJYlBVS2lSYUFTQXFjY1c3ek40LUhfcUpiNmwzWlV1M2hxU3VGWDIwRlRkYUJ4ZFk0VVhYN2pfMnlTTkdSMzZkQ25zZ0l1ZFBza0Zndw?oc=5",
       "published": "Fri, 14 Aug 2026 20:47:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Anthropic2026年第二季度初步营收超115亿美元",
+      "summary": "Anthropic2026年第二季度初步营收超115亿美元。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978729.shtml",
+      "published": "Fri, 14 Aug 2026 21:09:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗副外长加里巴巴迪表示，霍尔木兹海峡的开放或关闭只能由伊朗决定",
+      "summary": "伊朗副外长加里巴巴迪表示，霍尔木兹海峡的开放或关闭只能由伊朗决定。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978725.shtml",
+      "published": "Fri, 14 Aug 2026 21:02:22 GMT"
     },
     {
       "source": "同花顺",
@@ -117,11 +131,25 @@
       "published": "Fri, 14 Aug 2026 19:16:18 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "恒生指数主日夜盘收涨0.61%，恒生科技指数主日夜盘收涨0.81%",
-      "summary": "恒生指数主日夜盘收涨0.61%，恒生科技指数主日夜盘收涨0.81%。",
-      "link": "https://news.10jqka.com.cn/20260815/c678978622.shtml",
-      "published": "Fri, 14 Aug 2026 19:03:41 GMT"
+      "source": "财联社",
+      "title": "财联社8月15日电，Anthropic2026年第二季度初步营收超115亿美元。",
+      "summary": "财联社8月15日电，Anthropic2026年第二季度初步营收超115亿美元。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 21:09:14 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，惠誉确认英国评级为“AA-”，展望稳定。",
+      "summary": "财联社8月15日电，惠誉确认英国评级为“AA-”，展望稳定。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 21:05:08 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，伊朗副外长加里巴巴迪表示，霍尔木兹海峡的开放或关闭只能由伊朗决定。",
+      "summary": "财联社8月15日电，伊朗副外长加里巴巴迪表示，霍尔木兹海峡的开放或关闭只能由伊朗决定。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 21:01:45 GMT"
     },
     {
       "source": "财联社",
@@ -243,25 +271,18 @@
       "published": "Fri, 14 Aug 2026 19:40:44 GMT"
     },
     {
-      "source": "财联社",
-      "title": "国际油价14日上涨",
-      "summary": "【国际油价14日上涨】财联社8月15日电，国际油价14日上涨。截至当天收盘，纽约商品交易所9月交货的轻质原油期货价格上涨1.15美元，收于每桶82.40美元，涨幅为1.42%；10月交货的伦敦布伦特原油期货价格上涨1.45美元，收于每桶88.52美元，涨幅为1.67%。",
-      "link": "",
-      "published": "Fri, 14 Aug 2026 19:21:11 GMT"
+      "source": "华尔街见闻",
+      "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌，A类股晋升前五重仓股，Q2加码航空和房产股",
+      "summary": "<p>“股神”巴菲特卸任CEO后的第二个季度，伯克希尔·哈撒韦的投资组合继续发生明显变化。</p>\n<p>据美东时间14日周五披露的递交美国证监会（SEC）13F文件，格雷格·阿贝尔正式掌舵后的二季度，伯克希尔大举增持谷歌母公司Alphabet，两类股票合计增持约4810万股；其中Alphabet A类股（GOOGL）持仓增加约2450万股，增幅超过45%，一举跃升至伯克希尔第四大重仓股。</p>\n<p>同时，伯克希尔继续加仓达美航空（DAL），持仓较一季度增加约1750万股，增幅约44%，意味着这笔在阿贝尔执掌首季建立的航空股仓位连续第二个季度获得增持。房地产板块同样成为伯克希尔二季度重点布局方向之一，除继续增持房屋建筑商Lennar（LEN）外，还重新买入D.R. Horton（DHI），延续了此前对美国住宅建筑行业的押注。</p>\n<p>另一方面，伯克希尔继续减持美国银行（BAC），二季度减持约3020万股，按季度末市值计算约17.2亿美元，为当季减持规模最大的个股；此外还大幅削减金融股Capital One Financial（COF）、零售股Kroger（KR）和美国最大钢铁",
+      "link": "https://wallstreetcn.com/articles/3779490",
+      "published": "Fri, 14 Aug 2026 21:05:41 GMT"
     },
     {
-      "source": "财联社",
-      "title": "特朗普称将在经济上对伊朗实施严厉打击",
-      "summary": "【特朗普称将在经济上对伊朗实施严厉打击】财联社8月15日电，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。此外，特朗普在谈及伊朗时表示，他“很快将宣布霍尔木兹海峡成为美国领土”。 (央视新闻)",
-      "link": "",
-      "published": "Fri, 14 Aug 2026 19:19:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美元指数14日下跌",
-      "summary": "【美元指数14日下跌】财联社8月15日电，衡量美元对六种主要货币的美元指数当天下跌0.3%，在汇市尾市收于99.667。截至纽约汇市尾市，1欧元兑换1.1566美元，高于前一交易日的1.1529美元；1英镑兑换1.3533美元，高于前一交易日的1.3485美元。1美元兑换159.38日元，低于前一交易日的159.51日元；1美元兑换0.8131瑞士法郎，低于前一交易日的0.8139瑞士法郎；1美元兑换1.3877加元，低于前一交易日的1.3936加元；1美元兑换9.5246瑞典克朗，低于前一交易日的9.5684瑞典克朗。",
-      "link": "",
-      "published": "Fri, 14 Aug 2026 19:15:35 GMT"
+      "source": "华尔街见闻",
+      "title": "特朗普声称将宣布霍尔木兹海峡为“美国领土”",
+      "summary": "<p>美国总统特朗普14日在白宫发表讲话谈及伊朗问题时，宣称“很快就会宣布霍尔木兹海峡成为美国的领土”。</p>\n<p><span style=\"color: #808080;\">本文来源：新华社</span></p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3779487",
+      "published": "Fri, 14 Aug 2026 21:04:00 GMT"
     },
     {
       "source": "华尔街见闻",
