@@ -1,23 +1,9 @@
 {
   "date": "2026-08-15",
   "hour": "04",
-  "total": 4,
-  "fetched_at": "2026-08-15T04:00:52.658891+08:00",
+  "total": 37,
+  "fetched_at": "2026-08-15T04:20:29.305632+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "长飞光纤光缆股份有限公司2025年年度A股权益分派实施公告 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9qRHN4WUw1MThiYm9FX1N0RDNBWXdhVHF1Y3Nqb2dyVmNCS1FraEMwRWtwbDByLTN4dEhSMVFuak1DbWtRTWhGUmVTdnVmLUdDTm9GUEh1UHIwODMxTXVxSW0wUXVtZHlUY1VlREdWcmRaRWJNcWQ5UQ?oc=5\" target=\"_blank\">长飞光纤光缆股份有限公司2025年年度A股权益分派实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qRHN4WUw1MThiYm9FX1N0RDNBWXdhVHF1Y3Nqb2dyVmNCS1FraEMwRWtwbDByLTN4dEhSMVFuak1DbWtRTWhGUmVTdnVmLUdDTm9GUEh1UHIwODMxTXVxSW0wUXVtZHlUY1VlREdWcmRaRWJNcWQ5UQ?oc=5",
-      "published": "Fri, 14 Aug 2026 18:01:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "中国国际金融股份有限公司2025年度 A股权益分派实施公告 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9UNFo3YlZoUmxGRVZiSVBJRno3cm51dlJuRnR6dk5iQVBMRVdQVnlyQU9ONVBDNHFOY05OS2dtMHNzdjBUeEZpWnBoejdjSko0RFBHTEZHemg3Wk1DVW9sSF9GdTFxWnVNcVE3WVI1dzFzZXlwaDlndA?oc=5\" target=\"_blank\">中国国际金融股份有限公司2025年度 A股权益分派实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UNFo3YlZoUmxGRVZiSVBJRno3cm51dlJuRnR6dk5iQVBMRVdQVnlyQU9ONVBDNHFOY05OS2dtMHNzdjBUeEZpWnBoejdjSko0RFBHTEZHemg3Wk1DVW9sSF9GdTFxWnVNcVE3WVI1dzFzZXlwaDlndA?oc=5",
-      "published": "Fri, 14 Aug 2026 18:01:00 GMT"
-    },
     {
       "source": "东方财富",
       "title": "国电南瑞新注册《电力设备点位标注与识别配置系统V1.00》项目的软件著作权 - 财富号",
@@ -26,11 +12,256 @@
       "published": "Fri, 14 Aug 2026 18:29:00 GMT"
     },
     {
+      "source": "同花顺",
+      "title": "伯克希尔·哈撒韦第二季度增持谷歌",
+      "summary": "伯克希尔·哈撒韦在第二季度清仓了星座品牌；减持了克罗格、第一资本金融、纽柯钢铁、Ally金融、达维塔。增持了谷歌A、谷歌、达美航空、莱纳房屋、梅西百货。",
+      "link": "https://news.10jqka.com.cn/20260815/c678978701.shtml",
+      "published": "Fri, 14 Aug 2026 20:18:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Viking Global第二季度减持特斯拉、迪士尼等",
+      "summary": "Viking Global在第二季度减持了特斯拉、迪士尼、洲际交易所、嘉信理财、麦当劳；清仓了苹果、CSX运输、谷歌、PNC金融、T-Mobile；新建了法拉利、明晟、联合太平洋铁路、数字房地产信托、CVS健康的头寸；增持了亚马逊、Meta平台、宣伟公司、盈透证券、Visa。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978700.shtml",
+      "published": "Fri, 14 Aug 2026 20:15:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普声称将宣布霍尔木兹海峡为“美国领土”",
+      "summary": "美国总统特朗普14日在白宫发表讲话谈及伊朗问题时，宣称“很快就会宣布霍尔木兹海峡成为美国的领土”。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978690.shtml",
+      "published": "Fri, 14 Aug 2026 20:03:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普称将在经济上对伊朗实施严厉打击",
+      "summary": "当地时间8月14日，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。（央视）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978689.shtml",
+      "published": "Fri, 14 Aug 2026 20:03:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收盘：三大指数集体下跌",
+      "summary": "美股收盘，三大指数集体下跌，标普500指数跌0.17%，道指跌0.2%，纳指跌0.28%。大型科技股方面，超威半导体涨6.50%，美光科技涨2.30%，英特尔跌1.97%。中概股方面，哔哩哔哩涨2.17%，网易涨2.01%，阿里巴巴涨1.30%。",
+      "link": "https://news.10jqka.com.cn/20260815/c678978688.shtml",
+      "published": "Fri, 14 Aug 2026 20:01:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Stripe和Advent洽谈收购PayPal",
+      "summary": "Stripe和Advent正在洽谈收购PayPal",
+      "link": "https://news.10jqka.com.cn/20260815/c678978666.shtml",
+      "published": "Fri, 14 Aug 2026 19:48:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "甲骨文表示：Jupiter项目仍按计划推进",
+      "summary": "甲骨文表示，Jupiter项目仍按计划推进，继续与合作伙伴密切合作。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978663.shtml",
+      "published": "Fri, 14 Aug 2026 19:41:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国际油价14日上涨",
+      "summary": "国际油价14日上涨。截至当天收盘，纽约商品交易所9月交货的轻质原油期货价格上涨1.15美元，收于每桶82.4美元，涨幅为1.42%；10月交货的伦敦布伦特原油期货价格上涨1.45美元，收于每桶88.52美元，涨幅为1.67%。",
+      "link": "https://news.10jqka.com.cn/20260815/c678978640.shtml",
+      "published": "Fri, 14 Aug 2026 19:22:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普：在涉及经济方面时，他将打击伊朗",
+      "summary": "特朗普表示，在涉及经济方面时，他将打击伊朗。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978639.shtml",
+      "published": "Fri, 14 Aug 2026 19:21:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美元指数14日下跌",
+      "summary": "美元指数14日下跌0.3%，在汇市尾市收于99.67。截至纽约汇市尾市，1欧元兑换1.16美元，高于前一交易日的1.15美元；1英镑兑换1.35美元，高于前一交易日的1.35美元。1美元兑换159.38日元，低于前一交易日的159.51日元；1美元兑换0.8131瑞士法郎，低于前一交易日的0.8139瑞士法郎；1美元兑换1.39加元，低于前一交易日的1.39加元；1美元兑换9.52瑞典克朗，低于前一交易日的9.57瑞典克朗。",
+      "link": "https://news.10jqka.com.cn/20260815/c678978624.shtml",
+      "published": "Fri, 14 Aug 2026 19:16:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "恒生指数主日夜盘收涨0.61%，恒生科技指数主日夜盘收涨0.81%",
+      "summary": "恒生指数主日夜盘收涨0.61%，恒生科技指数主日夜盘收涨0.81%。",
+      "link": "https://news.10jqka.com.cn/20260815/c678978622.shtml",
+      "published": "Fri, 14 Aug 2026 19:03:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
+      "summary": "老虎环球基金二季度大规模调仓。减持方面：博通削减51.1%至180万股，谷歌A削减45.4%至580万股A类股，台积电削减12.3%至490万份ADS，微软削减9.3%至230万股，Meta Platforms削减8.5%至280万股A类股，英伟达削减6.8%至1120万股，京东削减41.5%至20.15万份ADS。增持方面，英特尔增持至430万股。新建仓AMD67.4万股以及SpaceX37.5万股。清仓奈飞。",
+      "link": "https://news.10jqka.com.cn/20260815/c678978613.shtml",
+      "published": "Fri, 14 Aug 2026 18:55:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "摩根大通据称终止与Polymarket的银行业务",
+      "summary": "摩根大通据称终止与Polymarket的银行业务关系。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260815/c678978606.shtml",
+      "published": "Fri, 14 Aug 2026 18:44:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上期所原油期货主力合约夜盘收涨2.60%",
+      "summary": "上期所原油期货主力合约夜盘收涨2.60%，报569.3元人民币/桶。沪银2609合约夜盘收涨0.68%，报15820元/千克。沪金2609合约夜盘收涨0.63%，报949.66元/克。",
+      "link": "https://news.10jqka.com.cn/20260815/c678978605.shtml",
+      "published": "Fri, 14 Aug 2026 18:44:25 GMT"
+    },
+    {
       "source": "财联社",
-      "title": "时隔一个月 韩股有望重回牛市？ - cls.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVNmQyTXZqZUNaSHJhODAxc2xwUUEtM1VOdWc0WDRCWkpTZGhPLUF5S3VFckE0QnE5NWx3YXZMZXpGQ3otWGVVYg?oc=5\" target=\"_blank\">时隔一个月 韩股有望重回牛市？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cls.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVNmQyTXZqZUNaSHJhODAxc2xwUUEtM1VOdWc0WDRCWkpTZGhPLUF5S3VFckE0QnE5NWx3YXZMZXpGQ3otWGVVYg?oc=5",
-      "published": "Fri, 14 Aug 2026 19:44:03 GMT"
+      "title": "财联社8月15日电，据报道，美伊停火目前尚无延期安排。",
+      "summary": "财联社8月15日电，据报道，美伊停火目前尚无延期安排。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 20:18:48 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伯克希尔·哈撒韦第二季度增持谷歌",
+      "summary": "【伯克希尔·哈撒韦第二季度增持谷歌】财联社8月15日电，伯克希尔·哈撒韦在第二季度清仓了星座品牌（STZ）；减持了克罗格（KR）、第一资本金融（COF）、纽柯钢铁（NUE）、Ally金融（ALLY）、达维塔（DVA）；增持了谷歌A（GOOGL）、谷歌（GOOG）、达美航空（DAL）、莱纳房屋（LEN）、梅西百货（M）。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 20:17:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+      "summary": "财联社8月15日电，Appaloosa第二季度减持阿里巴巴、惠而浦、高通、Amd和美光科技，清仓闪迪、康宁、拼多多、L3HARRIS和RTX。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 20:15:05 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "Viking Global第二季度减持特斯拉、迪士尼等",
+      "summary": "【Viking Global第二季度减持特斯拉、迪士尼等】财联社8月15日电，Viking Global在第二季度减持了特斯拉、迪士尼、洲际交易所、嘉信理财、麦当劳；清仓了苹果、CSX运输、谷歌、PNC金融、T-Mobile；新建了法拉利、明晟、联合太平洋铁路、数字房地产信托、CVS健康的头寸；增持了亚马逊、Meta平台、宣伟公司、盈透证券、Visa。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 20:14:26 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "利弗莫尔中概股龙头指数收涨0.24%",
+      "summary": "【利弗莫尔中概股龙头指数收涨0.24%】财联社8月15日电，利弗莫尔中概股龙头指数收涨0.24%。成分股中，慧荣科技涨7.94%，麦思智能涨4.56%，脑再生科技涨4.01%，奇景光电涨3.75%，华住涨3.31%。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 20:01:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "纳指收跌0.3% 闪迪涨超7%",
+      "summary": "【纳指收跌0.3% 闪迪涨超7%】财联社8月15日电，美股三大指数集体收跌，道指跌0.2%，纳指跌0.28%，标普500指数跌0.17%。存储板块走强，闪迪涨超7%，希捷科技涨超5%，西部数据涨超4%，美光科技涨超2%。半导体设备股走弱，应用材料跌超5%，科磊跌超2%。光通信股走高，Applied Optoelectronics涨超15%，康宁涨超4%，Lumentum涨超5%。“科技七巨头”涨跌不一，特斯拉涨0.68%，苹果涨0.22%，英伟达跌0.06%，谷歌跌0.12%，微软跌0.30%，Meta Platforms跌0.86%，亚马逊跌0.94%。<br /><img src=\"https://image.cls.cn/images/20260815/73Kb3Iw0Hj_1548x597.png\" />",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 20:01:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，特朗普重申美国不能让伊朗拥有核武器。",
+      "summary": "财联社8月15日电，特朗普重申美国不能让伊朗拥有核武器。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:55:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，Stripe和Advent洽谈收购贝宝。",
+      "summary": "财联社8月15日电，Stripe和Advent洽谈收购贝宝。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:47:23 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，派拉蒙与华纳兄弟探索合并协议项下所有监管条件均已满足。",
+      "summary": "财联社8月15日电，派拉蒙与华纳兄弟探索合并协议项下所有监管条件均已满足。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:46:48 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，美国代理海军部长表示，“亚伯拉罕·林肯”号将按计划很快返航。",
+      "summary": "财联社8月15日电，美国代理海军部长表示，“亚伯拉罕·林肯”号将按计划很快返航。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:44:19 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，甲骨文表示，Jupiter项目仍按计划推进，继续与合作伙伴密切合作。",
+      "summary": "财联社8月15日电，甲骨文表示，Jupiter项目仍按计划推进，继续与合作伙伴密切合作。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:40:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国际油价14日上涨",
+      "summary": "【国际油价14日上涨】财联社8月15日电，国际油价14日上涨。截至当天收盘，纽约商品交易所9月交货的轻质原油期货价格上涨1.15美元，收于每桶82.40美元，涨幅为1.42%；10月交货的伦敦布伦特原油期货价格上涨1.45美元，收于每桶88.52美元，涨幅为1.67%。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:21:11 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "特朗普称将在经济上对伊朗实施严厉打击",
+      "summary": "【特朗普称将在经济上对伊朗实施严厉打击】财联社8月15日电，美国总统特朗普在接受媒体采访时表示，美国将在经济上对伊朗实施严厉打击。此外，特朗普在谈及伊朗时表示，他“很快将宣布霍尔木兹海峡成为美国领土”。 (央视新闻)",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:19:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美元指数14日下跌",
+      "summary": "【美元指数14日下跌】财联社8月15日电，衡量美元对六种主要货币的美元指数当天下跌0.3%，在汇市尾市收于99.667。截至纽约汇市尾市，1欧元兑换1.1566美元，高于前一交易日的1.1529美元；1英镑兑换1.3533美元，高于前一交易日的1.3485美元。1美元兑换159.38日元，低于前一交易日的159.51日元；1美元兑换0.8131瑞士法郎，低于前一交易日的0.8139瑞士法郎；1美元兑换1.3877加元，低于前一交易日的1.3936加元；1美元兑换9.5246瑞典克朗，低于前一交易日的9.5684瑞典克朗。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:15:35 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "也门政府军称胡塞武装发射6枚弹道导弹袭击摩卡港",
+      "summary": "【也门政府军称胡塞武装发射6枚弹道导弹袭击摩卡港】财联社8月15日电，也门政府军表示，也门胡塞武装向也门西南部摩卡港发射6枚弹道导弹，并以当地民用和国家设施为袭击目标，企图对民众实施封锁、加剧民众困境。当天，也门卫生部发表声明，强烈谴责也门胡塞武装袭击摩卡港，并警告此举将产生严重的卫生和人道主义后果。声明指出，西部沿海本就面临严峻的营养不良和流离失所问题，港口受损、物资受阻将直接危及食品、药品及卫生服务供应，增加儿童、妇女、流离失所者等脆弱群体的风险。也门卫生部呼吁联合国、国际组织、人道主义机构和国际社会谴责胡塞武装针对民用和重要基础设施的袭击，保护关系民众基本生活的基础设施，确保物资和人道主义援助持续运抵，并加强对也门西部沿海地区及其他受影响地区的紧急卫生和营养援助。 (央视新闻)",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:07:15 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，恒生指数主连夜盘收涨0.61%，恒生科技指数主连夜盘收涨0.81%。",
+      "summary": "财联社8月15日电，恒生指数主连夜盘收涨0.61%，恒生科技指数主连夜盘收涨0.81%。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 19:02:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
+      "summary": "【老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等】财联社8月15日电，老虎环球基金二季度大规模调仓。减持方面：博通削减51.1%至180万股，谷歌A削减45.4%至580万股A类股，台积电削减12.3%至490万份ADS，微软削减9.3%至230万股，Meta Platforms削减8.5%至280万股A类股，英伟达削减6.8%至1120万股，京东削减41.5%至20.15万份ADS。增持方面，英特尔增持至430万股。新建仓AMD67.4万股以及SpaceX37.5万股。清仓奈飞。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 18:54:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，摩根大通据称终止与Polymarket的银行业务关系。",
+      "summary": "财联社8月15日电，摩根大通据称终止与Polymarket的银行业务关系。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 18:39:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，香港天文台发布黄色暴雨警告。",
+      "summary": "财联社8月15日电，香港天文台发布黄色暴雨警告。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 18:37:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月15日电，上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。沪银2609合约夜盘收涨0.68%，报15820元/千克。沪金2609合约夜盘收涨0.63%，报949...",
+      "summary": "财联社8月15日电，上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。沪银2609合约夜盘收涨0.68%，报15820元/千克。沪金2609合约夜盘收涨0.63%，报949.66元/克。",
+      "link": "",
+      "published": "Fri, 14 Aug 2026 18:35:31 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "老虎环球Q2押注AI“二线选手”：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
+      "summary": "<p>最新提交美国证监会（SEC）的文件显示，今年第二季度，华尔街知名成长型对冲基金老虎环球管理公司（Tiger Global Management）大幅调整美股持仓：一边减持此前重仓的科技巨头和AI热门股，一边将资金转向AI芯片“二线选手”、存储芯片和支付等领域。</p>\n<p>老虎环球于8月14日周五提交的13F文件披露，截至6月30日，其股票持仓总市值约239.82亿美元，共持有46只个股。相比一季度，老虎环球二季度最引人注目的操作是，建仓两家英伟达的对手——AI芯片制造商Cerebras和AMD，同时建仓存储芯片公司希捷科技（Seagate Technology）以及支付巨头Visa，并继续加码英特尔。</p>\n<p>同时，老虎环球对此前重仓的蓝筹科技股“落袋为安”：亚马逊、Meta、英伟达、微软等十大重仓股二季度全部遭减持。其中，谷歌母公司Alphabet成为按减持股份价值计算抛售力度最大的个股，减持市值达到约17.2亿美元，博通、AppLovin和台积电紧随其后。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awt",
+      "link": "https://wallstreetcn.com/articles/3779485",
+      "published": "Fri, 14 Aug 2026 19:51:53 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "软银Q2猛砍逾七成台积电持仓，套现2.7亿美元，AI硬件押注再调整",
+      "summary": "<p>软银正在进一步调整其AI投资版图。</p>\n<p>递交美国证监会（SEC）的最新13F文件显示，软银集团在截至6月30日的2026年第二季度大幅减持台积电（TSM）美股持仓，减持幅度超过七成，套现约2.7亿美元。与此同时，软银新建仓美国信用卡巨头Capital One，并买入家庭安全App Life360的少量股份，显示其投资组合正在继续向不同AI及科技资产重新配置。</p>\n<p>值得注意的是，这并非软银第一次大举调整AI核心资产。2025年初，软银曾明显加码英伟达和台积电：截至2025年3月底，其英伟达持仓市值约30亿美元，同时新买入约3.3亿美元台积电股票。</p>\n<p>但到了2025年10月，软银又彻底清仓英伟达，出售约3210万股、套现约58亿美元，并将资金更多转向OpenAI等AI投资。如今再大幅削减台积电持仓，软银围绕AI产业链核心硬件资产的直接持股正在明显收缩。</p>\n<h2>二季度减持台积电持仓71.5% 建仓Capital One</h2>\n<p>根据软银最新提交的13F文件，截至2026年6月30日，软银持有的台积电美国存托股票（ADR）大幅减少。</p",
+      "link": "https://wallstreetcn.com/articles/3779484",
+      "published": "Fri, 14 Aug 2026 19:51:25 GMT"
     }
   ]
 }
