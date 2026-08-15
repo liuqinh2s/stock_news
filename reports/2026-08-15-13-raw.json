@@ -1,9 +1,16 @@
 {
   "date": "2026-08-15",
   "hour": "13",
-  "total": 30,
-  "fetched_at": "2026-08-15T13:00:56.614395+08:00",
+  "total": 20,
+  "fetched_at": "2026-08-15T13:14:49.905241+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "今年以来已有52家新三板公司登陆A股 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5kaEQ2NGY0QVYtRG1pLXNReEppallESUVDUjFMT0d0T2EwYmNXbHNpakFoVTA2LURhM3lORURiOE1CWmJ5WjlnQndsYS00RWdSSlVMY0dfa3BjWVZUZXdvS3FlSUFZLVNJSU0wdGZ0QzRqTUxQUGh2VA?oc=5\" target=\"_blank\">今年以来已有52家新三板公司登陆A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kaEQ2NGY0QVYtRG1pLXNReEppallESUVDUjFMT0d0T2EwYmNXbHNpakFoVTA2LURhM3lORURiOE1CWmJ5WjlnQndsYS00RWdSSlVMY0dfa3BjWVZUZXdvS3FlSUFZLVNJSU0wdGZ0QzRqTUxQUGh2VA?oc=5",
+      "published": "Sat, 15 Aug 2026 04:56:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "A股-研报详情 - 新浪网",
@@ -17,6 +24,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWo3QkJwUGkxcFhKdW4zeUo0Wl9mZXUwVFhQeEVyeTNKYkpCZmZPanhsTVl5ZXlaNDRpVGpVYWE4SGw0R1I1bGwtMlMtTUxnVXNtODFFa21pQmpUYktmZTZhZWxKLTFmZUVncDJFZWY5THNfR05PemVwTVRSQjk2UHNDVzl0TFZjLVowVU9XMHpHRk5MSEFoV0VRYVNHbjEzQ3EteA?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcWo3QkJwUGkxcFhKdW4zeUo0Wl9mZXUwVFhQeEVyeTNKYkpCZmZPanhsTVl5ZXlaNDRpVGpVYWE4SGw0R1I1bGwtMlMtTUxnVXNtODFFa21pQmpUYktmZTZhZWxKLTFmZUVncDJFZWY5THNfR05PemVwTVRSQjk2UHNDVzl0TFZjLVowVU9XMHpHRk5MSEFoV0VRYVNHbjEzQ3EteA?oc=5",
       "published": "Sat, 15 Aug 2026 04:54:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外长：无意延长停火协议未决定重启谈判",
+      "summary": "伊朗外交部长阿拉格齐15日接受伊朗媒体采访时表示，伊朗无意延长与美方的停火协议，且尚未决定是否重启与美国的谈判。 阿拉格齐说，美国已违反伊美谅解备忘录，战火已重燃，不存在所谓的“延长停火协议”。 他还说，卡塔尔和巴基斯坦作为调解方正开展交换信息的工作，并与伊朗保持联系，但这并不意味着伊美双方正在进行谈判。 美国和伊朗方面6月17日公布谅解备忘录正式文本。根据这份文件，美伊承诺在60天内进行谈判并达成最终协议。 美军7月7日和8日以回应伊朗近期袭击通过霍尔木兹海峡的商船为由，连续两天对伊朗发动军事打击，伊朗则向美方在巴林、科威特、卡塔尔和约旦等国的设施发动导弹和无人机袭击。美国总统特朗普7月8日在土耳其参加北约峰会时说，他认为美国和伊朗达成的谅解备忘录“已终结”。同一天，伊朗外交部发表声明，认为美军接连袭击伊朗严重违反伊美谅解备忘录。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260815/c678982646.shtml",
+      "published": "Sat, 15 Aug 2026 05:06:31 GMT"
     },
     {
       "source": "同花顺",
@@ -75,83 +89,6 @@
       "published": "Sat, 15 Aug 2026 03:15:24 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "澳研究人员利用干细胞培育出人类心脏瓣膜组织",
-      "summary": "澳大利亚研究人员日前利用干细胞在实验室培育出人类心脏瓣膜组织，可用于研究心脏瓣膜的发育和病变过程，并可用于测试相关疾病的治疗方法。研究成果已发表在美国《细胞－干细胞》杂志上。澳大利亚默多克儿童研究所发布消息说，由该机构牵头的研究团队培育出的组织能够再现人类心脏瓣膜的分子特征和复杂结构。研究团队成员霍莉·福格斯说，这项成果解决了心脏瓣膜生物学研究中的一项重要难题。此次培育出的组织有助于研究心脏瓣膜如何发育、成熟并发生病变，也可用于在实验室中测试潜在治疗方法。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260815/c678982159.shtml",
-      "published": "Sat, 15 Aug 2026 03:05:10 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
-      "summary": "伊朗副外长卡泽姆·加里布阿巴迪15日回应美国总统特朗普有关霍尔木兹海峡的言论，强调霍尔木兹海峡的开放与关闭都只能由伊朗掌控。 加里布阿巴迪在社交媒体上发文说，特朗普扬言伊朗战败后，他将很快宣布霍尔木兹海峡为美国领土。然而，霍尔木兹海峡并非靠一条推文、一艘航空母舰、一纸命令或一次演说就能被夺取。“霍尔木兹海峡过去是、现在是、将来也是伊朗的。这条海峡的开放与关闭都只能由伊朗掌控。” 加里布阿巴迪强调，伊朗既不畏惧威胁，也不会在武力炫耀面前屈服。美国必须接受现实，到目前为止，美国已遭受战略惨败。只要美国不接受现实、不停止幻想，伊朗就会继续（对霍尔木兹海峡）实施封锁。 特朗普14日声称，“击败伊朗后”他很快就会“宣布霍尔木兹海峡为美国领土”。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260815/c678982154.shtml",
-      "published": "Sat, 15 Aug 2026 03:04:55 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "印尼7.7级地震已造成至少20人死亡",
-      "summary": "【印尼7.7级地震已造成至少20人死亡】财联社8月15日电，印度尼西亚救援部门官员15日对媒体表示，印尼东部弗洛勒斯岛附近海域当天早上发生的7.7级地震及多次强余震已造成至少20人死亡。",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 04:56:10 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
-      "summary": "【伊外长：伊朗目前没有决定是否与美国重新开始谈判】财联社8月15日电，伊朗外长阿拉格齐在接受媒体采访时表示，目前调停方卡塔尔和巴基斯坦都在进行信息交流并与伊朗保持联系，但这并不意味着正在进行谈判。伊朗目前没有决定是否与美国重新开始谈判。阿拉格齐还表示，伊朗与阿曼的谈判正在进行，与确定霍尔木兹海峡的航线以便船舶通行有关，与霍尔木兹海峡的开放问题是两个完全不同的议题。阿拉格齐同时强调，只有在美国遵守某些条件的情况下，伊朗才会恢复霍尔木兹海峡通行。 (央视新闻)",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 04:36:03 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "电影《欢迎来龙餐馆》票房破6亿",
-      "summary": "【电影《欢迎来龙餐馆》票房破6亿】财联社8月15日电，据灯塔专业版实时数据，截至8月15日12时22分，影片《欢迎来龙餐馆》票房突破6亿。",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 04:27:28 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "印尼东努沙登加拉省发生5.0级地震",
-      "summary": "【印尼东努沙登加拉省发生5.0级地震】财联社8月15日电，据印尼气象、气候和地球物理局发布的报告，印尼中部当地时间8月15日11时54分，印尼东努沙登加拉省纳克县姆拜镇东北42公里处发生5.0级地震，震源深度10公里。",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 04:18:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "北京飞曼彻斯特航班发生机械故障备降俄罗斯 海南航空致歉",
-      "summary": "【北京飞曼彻斯特航班发生机械故障备降俄罗斯 海南航空致歉】财联社8月15日电，海南航空官方微博发文称，2026年8月15日，公司HU753（北京-曼彻斯特）航班因机械故障原因备降俄罗斯克拉斯诺亚尔斯克国际机场，该航班已于北京时间07:28安全落地。公司计划更换飞机执行后继航班，将妥善做好旅客服务保障工作，确保安全抵达目的地。由此给各位旅客造成的不便，公司深表歉意。",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 04:14:29 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月15日电，印度总理莫迪表示，印度计划在一年内对1000万青年进行人工智能（AI）技能培训。",
-      "summary": "财联社8月15日电，印度总理莫迪表示，印度计划在一年内对1000万青年进行人工智能（AI）技能培训。",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 03:53:52 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "澳研究人员利用干细胞培育出人类心脏瓣膜组织",
-      "summary": "【澳研究人员利用干细胞培育出人类心脏瓣膜组织】财联社8月15日电，澳大利亚研究人员日前利用干细胞在实验室培育出人类心脏瓣膜组织，可用于研究心脏瓣膜的发育和病变过程，并可用于测试相关疾病的治疗方法。研究成果已发表在美国《细胞－干细胞》杂志上。默多克儿童研究所教授恩佐·波雷洛说，这项技术未来有望用于开发利用干细胞培育的、能够随患者生长并适应身体变化的替代心脏瓣膜。",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 03:30:35 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "韩国总统李在明提出对朝“和平共处蓝图”",
-      "summary": "【韩国总统李在明提出对朝“和平共处蓝图”】财联社8月15日电，韩国总统李在明15日提出“包容稳定的对朝和平共处蓝图”，表示将开启把朝鲜半岛不稳定的停战体制转变为和平体制的进程。 (新华社)",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 03:20:29 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中欧北极快航开启季节性周班运营",
-      "summary": "【中欧北极快航开启季节性周班运营】财联社8月15日电，海杰航运“迪拜塔”号8月15日在宁波舟山港穿山港区集装箱码头进行装箱作业，意味着宁波舟山港中欧北极集装箱航线继去年成功首航后，今年正式迈入夏季通航季周班运营新阶段。",
-      "link": "",
-      "published": "Sat, 15 Aug 2026 03:01:30 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "A股牛市第三阶段的新叙事",
       "summary": "<p>核心结论：①24年924开启的牛市进入第三阶段，市场调整后的新一轮上涨往往出现新叙事。②新叙事1：科技从上游到下游，从出口逻辑到国产替代，关注算力国产替代、AI应用，以及创新药券商等科技延伸领域。③新叙事2：内需的政策刺激和股价低位共振，出口数据未来边际减弱，稳增长要内需接力，如白酒、地产等。</p> <p><strong>1.</strong><strong>本轮牛市步入第三阶段</strong></p> <p><strong>A股牛市三阶段驱动力和行业主线有差异。</strong>牛市有自身的周期规律，《荀玉根讲策略：少即是多》第5章通过对A股历史分析，提出牛市三段论概念，各阶段驱动力和主线行业均有差异，可以归纳为一阶段“投低”、二阶段“投强”、三阶段“投顺”。以2019-21年牛市为例，三个阶段划分见下图。</p> <p>牛市第一阶段是孕育期，对应波浪理论中的1浪上涨和2浪回调，政策宽松驱动估值修复；结构上，市场最看重的是位置而非基本面，当风险偏好自低位回升时，低估资产普遍受益。第二阶段是爆发期，即3浪上涨和4浪回调，盈利改善带来戴维斯双击；这时投资主线回归基本面，景气度最",
@@ -181,6 +118,13 @@
     },
     {
       "source": "第一财经",
+      "title": "詹青云提问珍妮特·温特森：爱是必需品吗",
+      "summary": "<figure><img alt=\"詹青云提问珍妮特·温特森：爱是必需品吗\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/1e5aeb1791c0a7322e20d076b2e40e19.jpg\" /></figure><p>用来形容温特森的话语中，最常见的是“当代最好也是最具争议性的作家之一”。8月13日晚，她在上海书城举办新书分享会，辩手詹青云以提问者的身份现身。</p><p>应新经典与2026上海国际文学周之邀，英国作家珍妮特·温特森携新书《爱是搬起一块重石而不知缘故》来到上海，在上海书展浓郁的阅读气息中与读者见面交流。8月12日晚，她在思南文学之家与作家、译者于是展开对谈。13日晚，她来到上海书城举办新书分享会，辩手、律师詹青云以提问者的身份现身。</p>\n\n<p>因为重量级嘉宾的到来，上海书城六楼早早聚集起大量读者，工作人员严阵以待。没有预约到活动席位的年轻人们，留在现场外碰运气，或者干脆做好了等待签名售书环节的准备。与前一天一样，温特森再次提议让被挡在门外的读者入场参加活动，她又“得逞”了。开场不久，一批读者进入现",
+      "link": "https://www.yicai.com/news/103319629.html",
+      "published": "Sat, 15 Aug 2026 05:08:42 GMT"
+    },
+    {
+      "source": "第一财经",
       "title": "乌镇戏剧节8月22日开票，风格多元的特邀剧目值得关注",
       "summary": "<figure><img alt=\"乌镇戏剧节8月22日开票，风格多元的特邀剧目值得关注\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/7ce0e8de8bfded93a2a91863cf0ed274.jpg\" /></figure><p>第十三届乌镇戏剧节将于10月15日至25日举办，来自德国、法国、意大利、希腊等10个国家的25部戏剧将在11天内呈现71场演出。</p><p>第十三届乌镇戏剧节将于10月15日至25日举办，德国、法国、意大利、希腊等10个国家的25部戏剧将在11天内呈现71场演出。特邀剧目将于8月22日和9月5日在大麦平台进行两轮开票，演出票均价控制在350元以内。本届主视觉由中国当代艺术家张晓刚创作，海报将于后续发布。</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/08/8e7a7feb215ed0164ec2b0b1ccce1479.jpg\" style=\"",
       "link": "https://www.yicai.com/news/103319619.html",
@@ -192,20 +136,6 @@
       "summary": "<figure><img alt=\"世界杯后西甲联赛烽烟再起，新赛季有何看点？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/a91fe4a7d133aee7c9cdcef88e5571eb.jpg\" /></figure><p>8月16日，新赛季西甲联赛将正式揭幕。西甲联盟在上海举办新赛季启幕交流会，介绍了新赛季的主要看点。</p><p>作为今年世界杯的冠军球队，西班牙队风光无限。8月16日，新赛季西甲联赛将正式揭幕，新赛季有哪些亮点？8月13日，西甲联盟在上海嘉禾中心举办新赛季启幕交流会，中国区代表陆山（Luca Sandron）介绍了新赛季的主要看点。</p>\n\n<p>2026世界杯决赛的52名参赛球员当中，有24人效力于西甲俱乐部，这一数据高于其他任何国家顶级联赛。世界杯也展现出西班牙足球青训体系的实力，西班牙国家队26名世界杯参赛球员中，有25人出自西甲俱乐部的青训学院。</p>\n\n<p style=\"text-align: center;\"><img alt=\"皇家马德里球员备战新赛季    图片来自皇家马德里俱乐",
       "link": "https://www.yicai.com/news/103319622.html",
       "published": "Sat, 15 Aug 2026 03:34:36 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "国产模型紧追，Anthropic IPO前“自曝”新模型与安全事故",
-      "summary": "<figure><img alt=\"国产模型紧追，Anthropic IPO前“自曝”新模型与安全事故\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/28bd2e45-2e76-41f4-a84a-3d7b501ff332.jpg\" /></figure><p>风险报告延续Anthropic一贯的AI安全叙事。</p><p>当地时间8月14日，Anthropic发布186页公司级风险报告，首次披露内部模型Model 2，称其能力超过已公开发布的旗舰模型Claude Mythos 5，但跃升幅度不及从Opus 4.6到Mythos Preview的变化。公司表示目前没有计划对外发布该模型。</p>\n\n<p>报告同时将高风险场景下模型误对齐导致灾难性危害的风险评级从非常低上调至低。</p>\n\n<p>Anthropic选择在IPO前夕披露更强但未发布的内部模型、上调风险评级、公开多起安全失败案例，本质上是其长期安全叙事的延续，用风险来佐证模型性能，向资本市场传递自身仍占据前沿位置的信号。</p>\n\n<p align=\"c",
-      "link": "https://www.yicai.com/news/103319615.html",
-      "published": "Sat, 15 Aug 2026 03:11:17 GMT"
-    },
-    {
-      "source": "澎湃新闻财经",
-      "title": "荐股骗局调查②丨一条炒股亏损帖发布之后！社交平台、股吧“同路人”设下陷阱 - thepaper.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1paGdiRklDZUpfM2d0bWVkSWozT0tDVndzMnpESmxLOVlDR3p6ajJyZEN6c3QtTm5LM0JBSVcxcG1ZWm43VzhMRkRENGlreWRjcy02bjd6VWZZbnRObGJXZA?oc=5\" target=\"_blank\">荐股骗局调查②丨一条炒股亏损帖发布之后！社交平台、股吧“同路人”设下陷阱</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1paGdiRklDZUpfM2d0bWVkSWozT0tDVndzMnpESmxLOVlDR3p6ajJyZEN6c3QtTm5LM0JBSVcxcG1ZWm43VzhMRkRENGlreWRjcy02bjd6VWZZbnRObGJXZA?oc=5",
-      "published": "Sat, 15 Aug 2026 03:06:00 GMT"
     },
     {
       "source": "沪深交易所公告",
