@@ -1,9 +1,16 @@
 {
   "date": "2026-08-16",
   "hour": "11",
-  "total": 15,
-  "fetched_at": "2026-08-16T11:00:55.917395+08:00",
+  "total": 30,
+  "fetched_at": "2026-08-16T11:38:27.139686+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股本周72家公司获机构调研 九号公司与鹏鼎控股最受关注 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTng5YTBsaDdhbTFTQ2JjdFhpR3pHcDc3dGtuSFcyeWFoWDNpdUlGZ0xqZWxlMVJiVEtpNTB6WnBRZ3dGa3RQRVpuY05qejlLeFRJWHFmZUxWUEZZYml1Z3RTMWdyS0hPUGR2dS1UNkZXTDVMQ0FPTw?oc=5\" target=\"_blank\">A股本周72家公司获机构调研 九号公司与鹏鼎控股最受关注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTng5YTBsaDdhbTFTQ2JjdFhpR3pHcDc3dGtuSFcyeWFoWDNpdUlGZ0xqZWxlMVJiVEtpNTB6WnBRZ3dGa3RQRVpuY05qejlLeFRJWHFmZUxWUEZZYml1Z3RTMWdyS0hPUGR2dS1UNkZXTDVMQ0FPTw?oc=5",
+      "published": "Sun, 16 Aug 2026 03:21:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "又一A股公司，加码AI - 新浪财经",
@@ -14,23 +21,135 @@
     {
       "source": "新浪财经",
       "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVNrQTJCME1JelJ6WUxuODQzSklqVnhQd29PbDdZY2hBRXkwcFg5YTdPdW05Wlo4eElQd0FIa0RaTmttZzRhM0VnRkxtbk9VZjJpYmE3MEZGSWs0OHdGSEZCSzhKRDg2eThHWlhoSWNZdjVEYmp3amY0UGhoeVR6VGM4S2FZNDM1TTVJN1p0M1h1ck5GdWZN?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMVNrQTJCME1JelJ6WUxuODQzSklqVnhQd29PbDdZY2hBRXkwcFg5YTdPdW05Wlo4eElQd0FIa0RaTmttZzRhM0VnRkxtbk9VZjJpYmE3MEZGSWs0OHdGSEZCSzhKRDg2eThHWlhoSWNZdjVEYmp3amY0UGhoeVR6VGM4S2FZNDM1TTVJN1p0M1h1ck5GdWZN?oc=5",
-      "published": "Sun, 16 Aug 2026 01:23:12 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEpDUlYwUkpaUVNqUGpqWGRNV2V5SWdSang4UGtKQ1FodGQwRjVQTXExZm5tN3VxTXlCc1hfVGk2U1JlSEEwbXJXZWZOQVBlM1BsbzlYZGg4NWo1cy0yQWpzeWZlY2xUVFh3TmQteUNZN1VsbHMwTkV1bEk4UmV0T0pJSUxIR29wdHdkeVFjYUZJZGdNT1p6czVEZzlXcXZuV0tRUw?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWEpDUlYwUkpaUVNqUGpqWGRNV2V5SWdSang4UGtKQ1FodGQwRjVQTXExZm5tN3VxTXlCc1hfVGk2U1JlSEEwbXJXZWZOQVBlM1BsbzlYZGg4NWo1cy0yQWpzeWZlY2xUVFh3TmQteUNZN1VsbHMwTkV1bEk4UmV0T0pJSUxIR29wdHdkeVFjYUZJZGdNT1p6czVEZzlXcXZuV0tRUw?oc=5",
-      "published": "Sun, 16 Aug 2026 01:23:12 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkZ2ZGR5cExaeER0MTB4VE1MZDdXQ3Y4ci15aGtHZEpwYTg5TEQyYkdVb3VCV2ZGcWF2a3RwaFZ3ZTN0alFBbVBCbkVtbVJQNzlMZjJ6VnZvR3lTR3E4RS1WSEg0RF9EMllFZnRESHhqRHM4c2FYVUVROGZjcWZYQTdZSV9ZaEl4ejZzc1FkaVlCRURWd2hV?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbkZ2ZGR5cExaeER0MTB4VE1MZDdXQ3Y4ci15aGtHZEpwYTg5TEQyYkdVb3VCV2ZGcWF2a3RwaFZ3ZTN0alFBbVBCbkVtbVJQNzlMZjJ6VnZvR3lTR3E4RS1WSEg0RF9EMllFZnRESHhqRHM4c2FYVUVROGZjcWZYQTdZSV9ZaEl4ejZzc1FkaVlCRURWd2hV?oc=5",
       "published": "Sun, 16 Aug 2026 02:51:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中国银幕数量世界第一 “龙餐馆”“奥德赛”特效厅一票难求",
+      "summary": "这个暑期，电影市场持续火热。截至目前，2026年度电影票房已突破255亿元，暑期档连续37天单日票房过亿；今年暑期档票房（含预售）已突破98亿元，观影人次超2.6亿。市场热度的背后，既有优质内容点燃的观影热潮，也离不开影院持续升级影厅、丰富观影体验的助力。根据国家电影局2026年1月发布的官方统计，2025年全国城市院线银幕总数达93187块，较2024年净增2219块，持续稳居全球银幕数量首位。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260816/c678985611.shtml",
+      "published": "Sun, 16 Aug 2026 03:35:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+      "summary": "阿里巴巴旗下Agent产品“千问办公”首发上线GLM-5.3和DeepSeek V4 Pro两款前沿模型。即日起，用户可在产品首页的“前沿模型”档位直接选用。加上此前首发上线的Qwen3.8-Max，千问办公目前已支持三款国产旗舰模型。（新浪科技）",
+      "link": "https://news.10jqka.com.cn/20260816/c678985602.shtml",
+      "published": "Sun, 16 Aug 2026 03:34:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩国首尔首次购房人数创四年多来新高",
+      "summary": "一份报告显示，韩国首尔首次购房人群数量创下四年八个月新高。 韩国法院不动产登记信息广场16日数据，上月首尔共有7552名购房者办理首套住宅（集合住宅）所有权转移登记。该数值为2021年11月楼市火热时期（7886人）之后，四年八个月以来的最高水平。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20260816/c678985581.shtml",
+      "published": "Sun, 16 Aug 2026 03:24:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗称三名飞行员被卡塔尔关押，卡塔尔“断然否认”",
+      "summary": "据法新社8月15日报道，伊朗方面15日表示，该国三名战机飞行员在3月对卡塔尔一处美军基地的袭击中被俘，伊朗要求卡塔尔政府释放这三名飞行员。 据伊朗法尔斯通讯社报道，伊朗负责失踪人员搜寻的穆罕默德·巴盖尔扎德将军表示：“3月2日，三名伊朗飞行员驾驶苏-24战机坠毁后，被卡塔尔军方活捉。” 巴盖尔扎德在致红十字国际委员会的一封信中表示：“贾瓦德·萨利希、阿卜杜勒马吉德·达什提扬和奥姆兰·贝赫拉韦希扬被卡塔尔军方关押……卡塔尔政府至今仍未允许他们与家人或伊朗当局会面或联系。” 巴盖尔扎德呼吁红十字国际委员会“尽快与这些伊朗飞行员会面，了解他们的健康状况，并为其获释提供便利”。 据报道，伊朗军方7月底表示已找到伊朗飞行员马吉德·卡齐米的遗体，他于3月初在对卡塔尔乌代德美军空军基地的袭击中丧生。伊朗当局此前表示，自那次袭击以来，另有三名飞行员下落不明，但并未说明他们已被俘。（参考消息）",
+      "link": "https://news.10jqka.com.cn/20260816/c678985528.shtml",
+      "published": "Sun, 16 Aug 2026 03:02:13 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "近期恶劣天气致菲律宾23人死亡 逾490万人受灾",
+      "summary": "菲律宾国家减灾委发布消息称，截至8月16日上午6时，受近期的台风“白海豚”和“鲸鱼”的影响，以及西南季风增强导致的降雨，菲律宾共有23人死亡，17人受伤，另有3人失踪。受灾人口超过490万。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260816/c678985503.shtml",
+      "published": "Sun, 16 Aug 2026 02:53:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "印尼7.7级地震死亡人数升至48人 另有64人受伤",
+      "summary": "据印尼救援部门消息，截至当地时间16日8时30分，印尼7.7级地震死亡人数升至48人，另有64人受伤。搜救部门官员表示，16日，联合搜救队继续扩大搜救范围，对受灾民众开展搜救和救助工作。搜救人员携带专业装备前往多个重点区域展开行动。随着此前因山体滑坡中断的部分道路逐步恢复通行，救援人员将进入相关受灾地区开展救援。有关部门同时加强协调，确保救援力量覆盖所有受灾地区。联合搜救队呼吁当地民众保持冷静，警惕余震，服从现场救援人员指挥，并通过官方和权威渠道获取最新信息。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260816/c678985482.shtml",
+      "published": "Sun, 16 Aug 2026 02:35:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "浙江发布地质灾害气象风险橙色预警及山洪灾害黄色预警",
+      "summary": "浙江省自然资源厅、浙江省气象局8月16日08时42分联合更新发布地质灾害气象风险橙色预警：16日08时至17日08时，温州市（永嘉县、平阳县、苍南县、瑞安市、乐清市）、湖州市（长兴县）、金华市（磐安县、东阳市）、台州市（天台县、仙居县）等4市10县部分地区地质灾害气象风险高（橙色预警）；杭州市（余杭区、富阳区）、温州市（鹿城区、瓯海区、文成县、泰顺县）、绍兴市（新昌县）、金华市（金东区、义乌市、永康市）、台州市（三门县、临海市）、丽水市（青田县、缙云县、云和县、景宁畲族自治县）等6市16县部分地区地质灾害气象风险较高（黄色预警）。浙江省水利厅、浙江省气象局8月16日07时56分联合发布山洪灾害黄色预警：永嘉县、景宁畲族自治县发生山洪灾害可能性较大（黄色预警）。",
+      "link": "https://news.10jqka.com.cn/20260816/c678985411.shtml",
+      "published": "Sun, 16 Aug 2026 02:14:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "重庆发布高温橙色预警信号",
+      "summary": "重庆市气象台8月16日9时50分发布“高温橙色预警信号”，预计16日13:00-19:00，两江新区、渝中、北碚、九龙坡、大渡口、高新区、南岸、沙坪坝、巴南、铜梁、合川、潼南、璧山、永川、荣昌、江津、綦江、奉节、云阳、巫溪、开州、忠县等22个区县海拔500米以下地区，日最高气温将升至37～39℃，请注意防范。",
+      "link": "https://news.10jqka.com.cn/20260816/c678985371.shtml",
+      "published": "Sun, 16 Aug 2026 02:02:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "利比亚一发电站附近爆炸 首都等多地停电",
+      "summary": "利比亚国家电力公司15日宣布，利比亚西部扎维亚发电站附近发生爆炸。爆炸导致多个发电厂停运，电网瘫痪，首都的黎波里和该国西部大片区域停电。该公司在一份声明中说，维护团队正在排除故障，已逐步恢复受影响地区电力供应。技术团队已开始调查爆炸原因和技术细节。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260816/c678985337.shtml",
+      "published": "Sun, 16 Aug 2026 01:42:55 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "韩国首尔首次购房人数创四年多来新高",
+      "summary": "【韩国首尔首次购房人数创四年多来新高】财联社8月16日电，一份报告显示，韩国首尔首次购房人群数量创下四年八个月新高。 韩国法院不动产登记信息广场16日数据，上月首尔共有7552名购房者办理首套住宅（集合住宅）所有权转移登记。该数值为2021年11月楼市火热时期（7886人）之后，四年八个月以来的最高水平。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 03:18:16 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "研究显示新型微生物光合系统有望高效生产化学品",
+      "summary": "【研究显示新型微生物光合系统有望高效生产化学品】财联社8月16日电，芬兰图尔库大学日前发布公报说，该校研究人员和同行开发出一种新型光合系统，这种系统将具有光合功能的微生物固定在纳米纤维素薄膜上，相比此前的微生物光合系统可更高效生产化学品。据介绍，一些微生物可利用光能生产化学品，此前常用悬浮培养方式利用这些微生物，这不仅需要大量培养液，耗水、耗能较高，靠近光源的细胞还会遮挡光线，使培养液深处细胞获得的光照减少，降低光能利用效率。在此项研究中，研究人员将蓝细菌固定在纳米纤维素薄膜上形成生物膜，这些蓝细菌经过改造，可通过光合作用利用空气中的二氧化碳生产工业原料乙烯。实验显示，生物膜保持活性超过4个月，乙烯产量可达用作对比的悬浮培养系统的约两倍。研究人员还评估了纳米纤维素材料的生物降解性，证明这些材料可在生产阶段结束后被回收利用。相关论文已发表于美国学术期刊《生物技术趋势》。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 02:56:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "水利部：全国52条河流仍维持超警",
+      "summary": "【水利部：全国52条河流仍维持超警】财联社8月16日电，今天（16日）上午，水利部举行会商，分析研判全国的防汛形势，截至今天9时，浙江、上海、江苏、安徽、河南、黑龙江、内蒙古等地52条河流仍维持超警，最大超警幅度4.27米，其中28条河流维持超保。据预报，8月16日至17日，受降雨及上游来水影响，太湖水位将维持缓涨，长江下游支流滁河、淮河中游支流沙颍河、黑龙江干流同江以下江段仍将维持超警；四川岷江、青衣江等河流将出现涨水过程；暴雨区内部分中小河流可能发生超警洪水。16日8时至17日8时，四川中北部发生山洪灾害的可能性大，发布山洪橙色预警。水利部维持洪水黄色预警，提醒暴雨洪水影响地区社会公众注意防范。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 02:48:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "印尼7.7级地震死亡人数升至48人 另有64人受伤",
+      "summary": "【印尼7.7级地震死亡人数升至48人 另有64人受伤】财联社8月16日电，据印尼救援部门消息，截至当地时间16日8时30分，印尼7.7级地震死亡人数升至48人，另有64人受伤。据中国地震台网正式测定，当地时间15日早上，印度尼西亚弗洛勒斯岛附近海域发生里氏7.7级地震，震源深度20公里，目前地震引发的海啸预警已解除。记者从中国驻登巴萨总领馆获悉，地震造成3名中国公民受轻伤。 (央视新闻)",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 02:38:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "预告：国新办将于8月17日举行新闻发布会 介绍2026年7月份国民经济运行情况",
+      "summary": "【预告：国新办将于8月17日举行新闻发布会 介绍2026年7月份国民经济运行情况】国务院新闻办公室将于2026年8月17日（星期一）下午3时举行新闻发布会，请国家统计局新闻发言人、总经济师、国民经济综合统计司司长付凌晖介绍2026年7月份国民经济运行情况，并答记者问。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 02:13:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "日本千叶县9人因强降雨死亡",
+      "summary": "【日本千叶县9人因强降雨死亡】财联社8月16日电，日本关东地区8月13日遭遇强降雨，导致大片区域内涝。据日本广播协会今天（8月16日）报道，千叶县已有9人死亡，数百辆车和超过1000栋房屋被淹。 (CCTV国际时讯)",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 02:08:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "利比亚一发电站附近爆炸 首都等多地停电",
+      "summary": "【利比亚一发电站附近爆炸 首都等多地停电】财联社8月16日电，利比亚国家电力公司8月15日宣布，利比亚西部扎维亚发电站附近发生爆炸。爆炸导致多个发电厂停运，电网瘫痪，首都的黎波里和该国西部大片区域停电。该公司在一份声明中说，维护团队正在排除故障，已逐步恢复受影响地区电力供应。技术团队已开始调查爆炸原因和技术细节。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 01:55:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国家发展改革委：抓紧制定风电光伏设备回收利用管理办法",
+      "summary": "【国家发展改革委：抓紧制定风电光伏设备回收利用管理办法】财联社8月16日电，2026年全国生态日主场活动昨天在内蒙古自治区呼伦贝尔市举办。国家发展改革委环资司司长王善成表示，抓紧制定风电光伏设备回收利用管理办法，到2030年建立健全“新三样”固废回收利用全链条闭环管理体系，严格实施新能源车“带电池报废”，严厉打击违法违规回收拆解行为。此外，国家将大力推进循环经济产业升级，支持资源循环利用领域全国重点实验室建设；加快废旧机电设备、汽车、电器电子等重点再生资源拆解能力改造升级；发挥骨干企业作用，优化回收网点布局，提高智能化精细化分拣水平。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 01:39:03 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "“千问办公”首发上线GLM-5.3、DeepSeek V4 Pro两款模型",
+      "summary": "<p>阿里巴巴旗下Agent产品“千问办公”首发上线GLM-5.3和DeepSeek V4 Pro两款前沿模型。即日起，用户可在产品首页的“前沿模型”档位直接选用。加上此前首发上线的Qwen3.8-Max，千问办公目前已支持三款国产旗舰模型。（新浪科技）</p>",
+      "link": "https://wallstreetcn.com/livenews/3150028",
+      "published": "Sun, 16 Aug 2026 03:35:45 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -55,7 +174,7 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就海峡通行方案达成协议",
+      "title": "特朗普刚放话“拿下”霍尔木兹，伊朗就称已与阿曼就海峡通行方案达成协议",
       "summary": "<p style=\"text-align: left;\">在美国总统特朗普扬言“很快将宣布霍尔木兹海峡为美国领土”后，伊朗就于15日宣布已与阿曼达成了霍尔木兹海峡航道通航的协议。</p>\n<p style=\"text-align: left;\">据央视新闻报道，当地时间8月15日，伊朗外交部发言人巴加埃宣布，尽管美国从中阻挠，伊朗和阿曼之间的会谈仍在积极推进，双方已就霍尔木兹海峡航道通行方案达成协议。</p>\n<p style=\"text-align: left;\">不过围绕海峡的控制权，美伊双方仍然在各说各话。与此同时，特朗普此前所说的，替换当前部署在中东地区的“林肯”号核动力航空母舰的“接班舰”也被曝光。</p>\n<h2 style=\"text-align: left;\">伊朗称与阿曼达成海峡通航协议，美从中作梗</h2>\n<p style=\"text-align: left;\">根据<a href=\"https://mp.weixin.qq.com/s/QgfQhk4ttkAVy8gXoXAqeg\" rel=\"noopener noreferrer nofollow\" targe",
       "link": "https://wallstreetcn.com/articles/3779521",
       "published": "Sun, 16 Aug 2026 02:00:46 GMT"
@@ -75,25 +194,11 @@
       "published": "Sun, 16 Aug 2026 01:44:40 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
-      "summary": "<p>据The Information，英伟达正在洽谈向软银集团旗下子公司SB Energy投资最多30亿美元。SB Energy目前正在为OpenAI开发一个位于俄亥俄州的大型数据中心项目。</p>",
-      "link": "https://wallstreetcn.com/livenews/3150021",
-      "published": "Sun, 16 Aug 2026 01:18:15 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-      "summary": "<p style=\"text-align: left;\">AI芯片融资热潮催生了一种新型表外担保结构，规模已达700亿美元，债券市场正在为如何给这笔隐性风险定价而苦恼。</p>\n<p style=\"text-align: left;\">据彭博8月15日报道，就在英伟达宣布5000亿美元融资合作之前，债券投资者已开始对主要AI公司资产负债表之外约700亿美元的\"幽灵负债\"感到不安。这些或有负债平时不显山露水，却可能在最糟糕的时刻突然兑现。</p>\n<p style=\"text-align: left;\">这些负债的载体，是一种名为\"<strong>剩余价值担保</strong>\"（Residual Value Guarantee，RVG）的结构性安排，金额可能高达数百亿美元。这一机制的本质是：英伟达用自身强大的信用评级为客户的融资背书，帮助客户压低借贷成本。</p>\n<h2 style=\"text-align: left;\">这套结构如何运作</h2>\n<p>典型结构分三层：一个特殊目的载体（SPV）借钱购买芯片，借款由使用该技术的公司所签合同现金流作为支撑；若该公司停止付款，资产将被再",
-      "link": "https://wallstreetcn.com/articles/3779518",
-      "published": "Sun, 16 Aug 2026 01:08:36 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "段永平、景林都卖了，高瓴却买了",
-      "summary": "<p><span style=\"text-align: justify;\">知名投资者和私募巨头近日密集披露美股持仓。</span></p>\n<section>\n<section>\n<section>\n<section>\n<p>近日，高瓴旗下专注二级市场投资的基金管理平台HHLR Advisors（简称“HHLR”）公布的最新美股持仓情况显示，截至二季度末，HHLR美股持仓总市值约为8.32亿美元，持仓数量为35只，生物科技继续占据组合重要位置。从加减仓动作来看，HHLR二季度增持了英伟达、Coherent、Corning及Lumentum等半导体和光通信相关标的。</p>\n<p>值得注意的是，据公开披露信息，景林资产、东方港湾等百亿级私募旗下海外基金，以及知名投资人段永平管理的基金，二季度均减持了英伟达。用业内人士的话来说，经过前期AI板块的极致演绎，机构对AI产业各环节投资机会的看法将逐步显现分歧。</p>\n<h2>重仓生物科技板块</h2>\n<p>公开披露信息显示，截至二季度末，HHLR前五大持仓依次为传奇生物、富途控股、ArriVent、迈威尔科技和唯品会。相较于一季度末，传奇",
-      "link": "https://wallstreetcn.com/articles/3779519",
-      "published": "Sun, 16 Aug 2026 01:07:06 GMT"
+      "source": "第一财经",
+      "title": "AI周报 | DeepSeek最高涨价11倍；马斯克的Grok一夜追平OpenAI",
+      "summary": "<figure><img alt=\"AI周报 | DeepSeek最高涨价11倍；马斯克的Grok一夜追平OpenAI\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/64965bc1200c7de112f968da5a76fd64.jpg\" /></figure><p>谷歌新模型降价；联想董事长杨元庆称AI不是泡沫</p><p><strong>DeepSeek 涨价，最高11倍</strong></p>\n\n<p>8月13日晚，DeepSeek正式发布公告介绍DeepSeek V4 Pro正式版上线，同时宣布API调价的消息。DeepSeek提到，DeepSeek API将采用峰谷定价，空闲时段价格为高峰时段价格的一半。按高峰时段的最高价格来算，DeepSeek V4 Pro未来每百万tokens输入的价格将变为原来的12倍（缓存命中）、3倍（缓存未命中），若计算涨幅则是11倍、2倍，输出价格则变为原来的4.5倍。即便选择空闲时段，三类价格也将分别是原来的6倍、1.5倍和2.25倍。DeepSeek表示这一峰谷定价是“为了更加合",
+      "link": "https://www.yicai.com/news/103319896.html",
+      "published": "Sun, 16 Aug 2026 02:57:56 GMT"
     },
     {
       "source": "第一财经",
@@ -103,11 +208,11 @@
       "published": "Sun, 16 Aug 2026 02:53:46 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "下周关注丨7月经济数据将公布，这些投资机会最靠谱",
-      "summary": "<figure><img alt=\"下周关注丨7月经济数据将公布，这些投资机会最靠谱\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/f9abd8b3e0fd4306758c4cf3c3afd586.jpg\" /></figure><p>8月LPR报价将公布；世界机器人大会、世界人形机器人运动会将举行；阿里、百度将披露财报。</p><p><span style=\"font-size: 16px;\"><span style=\"color: #FFFFFF;\"><strong><span style=\"background-color: #006699;\">【重磅新闻】</span></strong></span></span></p>\n\n<p><strong>国家统计局将公布7月国民经济数据</strong></p>\n\n<p>8月17日，国家统计局将公布7月工业增加值、固定资产投资、社零等经济数据。同日，国家统计局还将发布70个大中城市商品住宅销售价格指数月度报告。</p>\n\n<p><strong>8</strong><stron",
-      "link": "https://www.yicai.com/news/103319882.html",
-      "published": "Sun, 16 Aug 2026 01:01:39 GMT"
+      "source": "澎湃新闻财经",
+      "title": "荐股骗局调查③丨为何屡禁不绝：资金链、诈骗APP和投资者的弱点 - thepaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WnNCa2VCZk1ydlhwQlUxNWQwdnpLTVNzN1hRbXpZejVmQnRrYzJtS3lLdFJ0b01iVmJZbzFWUDBnUEpTZDQ0ZHlHZ2VDTURTOHBvdnFBWlNnWDFEbHM2TQ?oc=5\" target=\"_blank\">荐股骗局调查③丨为何屡禁不绝：资金链、诈骗APP和投资者的弱点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1WnNCa2VCZk1ydlhwQlUxNWQwdnpLTVNzN1hRbXpZejVmQnRrYzJtS3lLdFJ0b01iVmJZbzFWUDBnUEpTZDQ0ZHlHZ2VDTURTOHBvdnFBWlNnWDFEbHM2TQ?oc=5",
+      "published": "Sun, 16 Aug 2026 03:09:00 GMT"
     }
   ]
 }
