@@ -1,15 +1,64 @@
 {
   "date": "2026-08-17",
   "hour": "05",
-  "total": 1,
-  "fetched_at": "2026-08-17T05:00:56.497379+08:00",
+  "total": 8,
+  "fetched_at": "2026-08-17T05:09:40.805333+08:00",
   "news": [
     {
       "source": "东方财富",
-      "title": "美国证券交易委员会据悉也在调查马克·沃尔特的交易行为 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RNnhtVzBTdU9VYkNWUXphU05BWTFxemk4WElqSG45bGxoTWtqQ3MyTWFwVWhNdU42ZnJfcU54MnZ3T01ON2x5ckRRVXQwcGNuVW5QUGxob3RxdWt0alMwVQ?oc=5\" target=\"_blank\">美国证券交易委员会据悉也在调查马克·沃尔特的交易行为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "title": "美国证券交易委员会据悉也在调查马克·沃尔特的交易行为 - eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RNnhtVzBTdU9VYkNWUXphU05BWTFxemk4WElqSG45bGxoTWtqQ3MyTWFwVWhNdU42ZnJfcU54MnZ3T01ON2x5ckRRVXQwcGNuVW5QUGxob3RxdWt0alMwVQ?oc=5\" target=\"_blank\">美国证券交易委员会据悉也在调查马克·沃尔特的交易行为</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RNnhtVzBTdU9VYkNWUXphU05BWTFxemk4WElqSG45bGxoTWtqQ3MyTWFwVWhNdU42ZnJfcU54MnZ3T01ON2x5ckRRVXQwcGNuVW5QUGxob3RxdWt0alMwVQ?oc=5",
       "published": "Sun, 16 Aug 2026 20:20:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "逾两年来首次 传奇投资人Stanley Druckenmiller买入美国上市的中概股",
+      "summary": "【逾两年来首次 传奇投资人Stanley Druckenmiller买入美国上市的中概股】财联社8月17日电，华尔街传奇投资大亨、亿万富豪Stanley Druckenmiller几年来首次重返美国交易的中国股票。13F文件显示，其主要投资平台Duquesne Family Office LLC第二季建仓百度ADR，买入8.8万份，仅占其投资组合的0.2%。Duquesne自2023年第四季清仓阿里巴巴ADR后至本次披露期间再无持有中概股。此外，Duquesne增持9.4万份台积电ADR。增持后台积电占其投资组合的6.5%，成为第二大重仓股。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 21:02:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月17日电，摩根大通CEO戴蒙警告英国财政大臣切勿提高银行业税收。",
+      "summary": "财联社8月17日电，摩根大通CEO戴蒙警告英国财政大臣切勿提高银行业税收。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 20:45:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月17日电，美国证券交易委员会据悉也在调查马克·沃尔特的交易行为。马克·沃尔特是洛杉矶道奇队的老板，也刚以创纪录的125亿美元出售了洛杉矶湖人队。",
+      "summary": "财联社8月17日电，美国证券交易委员会据悉也在调查马克·沃尔特的交易行为。马克·沃尔特是洛杉矶道奇队的老板，也刚以创纪录的125亿美元出售了洛杉矶湖人队。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 20:18:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "埃及总统会见库什纳 呼吁各方落实加沙停火",
+      "summary": "【埃及总统会见库什纳 呼吁各方落实加沙停火】财联社8月17日电，埃及总统塞西16日在埃及阿拉曼会见美国总统特朗普的女婿库什纳，呼吁有关各方推动落实加沙停火协议。埃及总统府当天发表声明说，会见期间，双方就巴勒斯坦问题等中东局势发展交换意见，强调有关各方应履行去年10月在埃及举行的沙姆沙伊赫峰会成果，推动落实加沙停火协议。塞西还表示，埃美两国应协作推动解决地区危机，维护地区稳定。巴勒斯坦伊斯兰抵抗运动政治局主席哈利勒·哈亚当天在开罗与埃及情报总局局长哈桑·拉沙德举行会晤，双方就落实加沙停火事宜展开讨论。 (央视新闻)",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 19:46:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月17日电，Stripe据悉即将达成收购AI公司OpenRouter的交易，金额超过70亿美元。",
+      "summary": "财联社8月17日电，Stripe据悉即将达成收购AI公司OpenRouter的交易，金额超过70亿美元。",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 19:39:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "韩国将重启亲日反民族行为者财产追缴",
+      "summary": "【韩国将重启亲日反民族行为者财产追缴】财联社8月17日电，据韩国方面16日消息，法律界消息人士称，韩国《亲日反民族行为者财产的国家归属等相关特别法》将于12月正式施行。这是韩国时隔16年后，重启在国家层面上对亲日反民族行为者财产进行追缴的工作。据相关消息，负责追缴工作的“亲日反民族行为者财产调查委员会”已于今年6月开始筹备组建，并将于12月正式启动追缴工作。2005年，韩国国会曾通过相关法律，将反民族行为者在日本殖民统治时期通过亲日行为取得的财产纳入国家追缴范围。随后成立“亲日反民族行为者财产调查委员会”，但该委员会在2010年任期届满后被解散。 (央视新闻)",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 19:25:11 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "以军袭击已致黎巴嫩4346人死亡",
+      "summary": "【以军袭击已致黎巴嫩4346人死亡】财联社8月17日电，据黎巴嫩公共卫生部紧急行动中心16日消息，3月2日至8月16日期间，以色列在黎巴嫩发动的持续不断的空袭和袭击已造成4346人死亡，12301人受伤。 (央视新闻)",
+      "link": "",
+      "published": "Sun, 16 Aug 2026 19:24:46 GMT"
     }
   ]
 }
