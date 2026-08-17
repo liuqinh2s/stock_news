@@ -1,14 +1,21 @@
 {
   "date": "2026-08-18",
   "hour": "03",
-  "total": 10,
-  "fetched_at": "2026-08-18T03:00:59.334389+08:00",
+  "total": 6,
+  "fetched_at": "2026-08-18T03:19:26.971856+08:00",
   "news": [
     {
       "source": "新浪财经",
       "title": "成都旭光电子股份有限公司关于2026年度向特定对象发行A股股票申请获得上海证券交易所审核通过的公告 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZFUwa1NFLW44UGNnMUpiS2ZlcnNYcXhKMWFnWm5Ga2Vla0g3cU14dFAxMnlfcW55LTltMkRDazNSRVNDOGc4UVQ0NnJPNHQzYzM0N3hVSHluUElwckZVVXFrQjhSY2hhWVlkWE9rSy1tOU5OSmtVUg?oc=5\" target=\"_blank\">成都旭光电子股份有限公司关于2026年度向特定对象发行A股股票申请获得上海证券交易所审核通过的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZFUwa1NFLW44UGNnMUpiS2ZlcnNYcXhKMWFnWm5Ga2Vla0g3cU14dFAxMnlfcW55LTltMkRDazNSRVNDOGc4UVQ0NnJPNHQzYzM0N3hVSHluUElwckZVVXFrQjhSY2hhWVlkWE9rSy1tOU5OSmtVUg?oc=5",
+      "published": "Mon, 17 Aug 2026 18:16:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "北京海量数据技术股份有限公司关于2026年度向特定对象发行A股股票预案（修订稿）披露的提示性公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9oZ1NqV2p1bEIteW16dmx6X19xVWlmR0lzaTBuZ3dMVFFqT2l6bnhENVNlVTFxWHdyY1lsR0dRejZfbkpqS0VCWWdQN1BiQmZfbk41UjBweXNTN0t2TUFINFdRcFM0bnNPUkMwZGY2ZUd2UVc4ZkZRWQ?oc=5\" target=\"_blank\">北京海量数据技术股份有限公司关于2026年度向特定对象发行A股股票预案（修订稿）披露的提示性公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oZ1NqV2p1bEIteW16dmx6X19xVWlmR0lzaTBuZ3dMVFFqT2l6bnhENVNlVTFxWHdyY1lsR0dRejZfbkpqS0VCWWdQN1BiQmZfbk41UjBweXNTN0t2TUFINFdRcFM0bnNPUkMwZGY2ZUd2UVc4ZkZRWQ?oc=5",
       "published": "Mon, 17 Aug 2026 18:16:00 GMT"
     },
     {
@@ -27,52 +34,17 @@
     },
     {
       "source": "同花顺",
-      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
-      "summary": "当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。美国和伊朗6月17日公布谅解备忘录正式文本，其中第三条内容是：美国与伊朗承诺在最多60天内进行谈判并达成最终协议。8月17日，谅解备忘录所设定的60天谈判窗口期期满，由于在霍尔木兹海峡等问题上存在严重分歧，美伊谈判陷入僵局，没有取得实质性进展。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260818/c679025176.shtml",
-      "published": "Mon, 17 Aug 2026 18:30:15 GMT"
+      "title": "东莞证券股权转让收益不再加持 锦龙股份上半年净利骤降近九成 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oX2txNW1WNjF5YjZUc3VuN0tzUUxMTk53emxFSGxTRFpfTE9Ub2V3bFFWMEdxR19mNXlXLWc3aHhCWEhPbWhUVGd0ajViVTNmd0Y2a1RabGtsc2dhX0pvSWh3?oc=5\" target=\"_blank\">东莞证券股权转让收益不再加持 锦龙股份上半年净利骤降近九成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oX2txNW1WNjF5YjZUc3VuN0tzUUxMTk53emxFSGxTRFpfTE9Ub2V3bFFWMEdxR19mNXlXLWc3aHhCWEhPbWhUVGd0ajViVTNmd0Y2a1RabGtsc2dhX0pvSWh3?oc=5",
+      "published": "Mon, 17 Aug 2026 17:52:16 GMT"
     },
     {
       "source": "同花顺",
-      "title": "希腊一架私人直升机坠毁致3人死亡",
-      "summary": "据希腊国家广播电视公司报道，一架私人直升机17日在希腊爱琴海基克拉泽斯群岛的锡夫诺斯岛坠毁，造成3人死亡。报道说，失事直升机为贝尔206型，从雅典东部起飞，目的地为锡夫诺斯岛。直升机在准备降落时坠毁，坠落地点距离岛上直升机停机坪不远。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260818/c679025175.shtml",
-      "published": "Mon, 17 Aug 2026 18:27:09 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "一艘属于阿联酋公司的油轮在霍尔木兹海峡被拦截",
-      "summary": "当地时间17日获悉，海事数据显示，一艘属于阿联酋公司的油轮在穿越霍尔木兹海峡时，在格什姆岛附近被拦截。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260818/c679025172.shtml",
-      "published": "Mon, 17 Aug 2026 18:22:47 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "俄外长：日本企图借抨击俄罗斯掩盖自身军事动向",
-      "summary": "俄罗斯外交部长拉夫罗夫17日在评论日本方面针对俄总统普京登上伊图鲁普岛（日本称择捉岛）的表态时对俄媒表示，建议日本领导层集中精力处理国内事务，而非对俄进行“攻击”。拉夫罗夫说，如果日本企图通过抨击俄罗斯来转移国际社会对其“公然带有侵略性质的”军事路线的注意，那么“我建议他们管好自己的事，他们国内有很多问题需要解决”。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260818/c679025065.shtml",
-      "published": "Mon, 17 Aug 2026 17:51:28 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "WTI原油期货价格涨2.40%",
-      "summary": "国际油价持续走高，截至目前，WTI原油期货价格涨2.40%，报83.424美元/桶；布伦特原油期货价格涨2.32%，报90.575美元/桶。",
-      "link": "https://news.10jqka.com.cn/20260818/c679025053.shtml",
-      "published": "Mon, 17 Aug 2026 17:47:57 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "布油期货涨破90美元",
-      "summary": "布伦特原油期货价格涨1.80%，报90.113美元/桶。",
-      "link": "https://news.10jqka.com.cn/20260818/c679024999.shtml",
-      "published": "Mon, 17 Aug 2026 17:23:19 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "沪铜夜盘收跌0.84%",
-      "summary": "国际铜夜盘收跌0.97%，沪铜收跌0.84%，沪铝收跌0.19%，沪锌收跌0.46%，沪铅收涨0.06%，沪镍收跌0.06%，沪锡收跌1.47%。氧化铝夜盘收跌0.52%，铝合金收跌0.71%。不锈钢夜盘收涨0.32%。",
-      "link": "https://news.10jqka.com.cn/20260818/c679024982.shtml",
-      "published": "Mon, 17 Aug 2026 17:05:07 GMT"
+      "title": "股东追踪|南京证券股份有限公司等新进物产金轮前十大流通股东，虞志成增持 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBueWg0ZUxUUnIyUTJJNTdlTFpVTWpVWWczOWxub2xhYzJ2dUNkQ3ZZSGJhMFcwR2lMZlJmZTR6NXpHdzJEZDZUUzRxc3JNM3NWZDRSWE9xb2k4ckJPZG5WTHp3?oc=5\" target=\"_blank\">股东追踪|南京证券股份有限公司等新进物产金轮前十大流通股东，虞志成增持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBueWg0ZUxUUnIyUTJJNTdlTFpVTWpVWWczOWxub2xhYzJ2dUNkQ3ZZSGJhMFcwR2lMZlJmZTR6NXpHdzJEZDZUUzRxc3JNM3NWZDRSWE9xb2k4ckJPZG5WTHp3?oc=5",
+      "published": "Mon, 17 Aug 2026 17:36:34 GMT"
     }
   ]
 }
