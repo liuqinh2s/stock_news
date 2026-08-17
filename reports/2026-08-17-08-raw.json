@@ -1,393 +1,211 @@
 {
   "date": "2026-08-17",
   "hour": "08",
-  "total": 55,
-  "fetched_at": "2026-08-17T08:00:55.663395+08:00",
+  "total": 29,
+  "fetched_at": "2026-08-17T08:35:05.040568+08:00",
   "news": [
     {
-      "source": "新浪财经",
-      "title": "A股限售股解禁一览：316.57亿元市值限售股今日解禁 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMDRuTDBZbzAyWlExa3JXOGtJNW1ya053QVRlSDVCcTN3MnZMU0pRaGRfNTZoQS1GNGtkRWxmQXBMS05udHJoeVpTbTdXMlo2amtxcW5jUkNvcFYxd3RENmg4NTA1ZHI2a2FpOU1MZ3pPNWFJYXpKSw?oc=5\" target=\"_blank\">A股限售股解禁一览：316.57亿元市值限售股今日解禁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMDRuTDBZbzAyWlExa3JXOGtJNW1ya053QVRlSDVCcTN3MnZMU0pRaGRfNTZoQS1GNGtkRWxmQXBMS05udHJoeVpTbTdXMlo2amtxcW5jUkNvcFYxd3RENmg4NTA1ZHI2a2FpOU1MZ3pPNWFJYXpKSw?oc=5",
-      "published": "Sun, 16 Aug 2026 23:33:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股科技修复行情延续 机构：结构性轮动或成主旋律 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1yNzRsU0RSOUxyZU1Ec1JWNHVxMjFQbDI4ZTFHb2FNZGpLVFR3NzVqVjE3ZGg2NFppbm1ocV9TNmdhSHFNVnN6QlFBUUlSdkhicDVNR1AzRXFJb185Y2Zhc1k0T0IxRnQ5bVlkY05ibmFteWt5Y3Z6dA?oc=5\" target=\"_blank\">A股科技修复行情延续 机构：结构性轮动或成主旋律</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yNzRsU0RSOUxyZU1Ec1JWNHVxMjFQbDI4ZTFHb2FNZGpLVFR3NzVqVjE3ZGg2NFppbm1ocV9TNmdhSHFNVnN6QlFBUUlSdkhicDVNR1AzRXFJb185Y2Zhc1k0T0IxRnQ5bVlkY05ibmFteWt5Y3Z6dA?oc=5",
-      "published": "Sun, 16 Aug 2026 23:22:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "【一图看懂】本周A股最强股票涨逾140% 新易盛“吸金”近35亿元 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBCekxPeVpCTlhBekZndjlnVEtJekItSG5pWGJWRHB1cnRPVVBTWTRyNGNYTmREMWpCdTZHbHVzV0R2RFVocjg0N1NkZ1FwdXpjZl9namk2aUVxYzFLWmNSTndFMXoxaXlhT0NQRG1YMXBLV2xDYkNWZQ?oc=5\" target=\"_blank\">【一图看懂】本周A股最强股票涨逾140% 新易盛“吸金”近35亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCekxPeVpCTlhBekZndjlnVEtJekItSG5pWGJWRHB1cnRPVVBTWTRyNGNYTmREMWpCdTZHbHVzV0R2RFVocjg0N1NkZ1FwdXpjZl9namk2aUVxYzFLWmNSTndFMXoxaXlhT0NQRG1YMXBLV2xDYkNWZQ?oc=5",
-      "published": "Sun, 16 Aug 2026 22:49:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "利好来了！A股龙头，刚刚发布！业绩猛增109% - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE8tNlQ2bG5KVXI1RHVCN3Rmd09Ib0RyQ1BfUWNncl94aGMzVVFVY2RfOU52d1hWUnFyc0RDV1BTcUZOc09ZcWJxWnNwbXBIUWNoS01EOUFxd2t1dkJYTy0tcDM4ZDlIcUZqVXRmWFl3ZE5WYjZiNnJicA?oc=5\" target=\"_blank\">利好来了！A股龙头，刚刚发布！业绩猛增109%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tNlQ2bG5KVXI1RHVCN3Rmd09Ib0RyQ1BfUWNncl94aGMzVVFVY2RfOU52d1hWUnFyc0RDV1BTcUZOc09ZcWJxWnNwbXBIUWNoS01EOUFxd2t1dkJYTy0tcDM4ZDlIcUZqVXRmWFl3ZE5WYjZiNnJicA?oc=5",
-      "published": "Sun, 16 Aug 2026 22:52:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "今年A股再融资规模已超过4700亿元 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1uMy1GaEJTemVHS2MwTzJRQmR4RTIyNXFFbnZ3bk9nb0I1cmVYNHFUZXJEV1AxVjBKcVBLMk9JVmZrdlRRMEtpVC16VDVFUFNKa2k2TW95aWQxM21MS3RlZEhGdDZ2RXpvUG1aQ3BTRzU4NG9PUDZadQ?oc=5\" target=\"_blank\">今年A股再融资规模已超过4700亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uMy1GaEJTemVHS2MwTzJRQmR4RTIyNXFFbnZ3bk9nb0I1cmVYNHFUZXJEV1AxVjBKcVBLMk9JVmZrdlRRMEtpVC16VDVFUFNKa2k2TW95aWQxM21MS3RlZEhGdDZ2RXpvUG1aQ3BTRzU4NG9PUDZadQ?oc=5",
-      "published": "Sun, 16 Aug 2026 22:48:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "从A股到港股，跨境电商市值大分化 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE02eXFfWnNBUHVoTVlYeUhGVmdpLTNLY2lCN0ZZem9haFV2TExhaUxGaVl5V1JJb3NkWHI1ZVNKd2J1eHBBcko3a0hyWXpoMWJZdVk2RUtsTUhtX2JVZ3I2aWFhNU5SLS13T1VhTmM2eXJhR0xJa1lUYll3?oc=5\" target=\"_blank\">从A股到港股，跨境电商市值大分化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02eXFfWnNBUHVoTVlYeUhGVmdpLTNLY2lCN0ZZem9haFV2TExhaUxGaVl5V1JJb3NkWHI1ZVNKd2J1eHBBcko3a0hyWXpoMWJZdVk2RUtsTUhtX2JVZ3I2aWFhNU5SLS13T1VhTmM2eXJhR0xJa1lUYll3?oc=5",
-      "published": "Sun, 16 Aug 2026 22:06:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "兆易创新：披露回购A股股份前十大股东持股情况 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWk4dHlzTHppbzVCMVBncWFyVklMVDlzUzRVNFdsTE81UFp2b1NYRDNuRXVpcmpkZVJhcEZVX0dUR1BfVG4xOHBDY2ktdmNRZXhDWlp1ZGFGUkxiWGMxbG5nbmM3bWZsOVF3dC1RRmE3UTF4Y0JvclFDeTBmSmlmVlZ1WHF5UjQ?oc=5\" target=\"_blank\">兆易创新：披露回购A股股份前十大股东持股情况</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWk4dHlzTHppbzVCMVBncWFyVklMVDlzUzRVNFdsTE81UFp2b1NYRDNuRXVpcmpkZVJhcEZVX0dUR1BfVG4xOHBDY2ktdmNRZXhDWlp1ZGFGUkxiWGMxbG5nbmM3bWZsOVF3dC1RRmE3UTF4Y0JvclFDeTBmSmlmVlZ1WHF5UjQ?oc=5",
-      "published": "Sun, 16 Aug 2026 23:20:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "财通证券伦交所ESG评级较上年下降至B，位居A股同行业50家公司第11名，与中信证券等同级、高于东方财富等、低于第一创业等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1FIc2RjWFJLV25fZHJWRXpXN2JGV2Q3cmhISkNmak1vdGU0alJEODBQZnQ4eGxYMDRFN21qMXlmM2M4YllEenM2OGRhQzJndkQzOElscC1Yb1VNN3RYMDlQaXdPLWJLSUlVSllDajNXU1N6WExiWnl5YU5yb0MyalY4YjZBdFR5T2w4RjZn?oc=5\" target=\"_blank\">财通证券伦交所ESG评级较上年下降至B，位居A股同行业50家公司第11名，与中信证券等同级、高于东方财富等、低于第一创业等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1FIc2RjWFJLV25fZHJWRXpXN2JGV2Q3cmhISkNmak1vdGU0alJEODBQZnQ4eGxYMDRFN21qMXlmM2M4YllEenM2OGRhQzJndkQzOElscC1Yb1VNN3RYMDlQaXdPLWJLSUlVSllDajNXU1N6WExiWnl5YU5yb0MyalY4YjZBdFR5T2w4RjZn?oc=5",
-      "published": "Sun, 16 Aug 2026 23:48:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "中远海控伦交所ESG评级较上年下降至B+，位居A股同行业6家公司排名第1，高于招商轮船 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWItblpHcU1VTlhNLWdkdGpmYTI2cmxXbjZvaUdZTEV5UVZLUUowejRFX0o2ZEF0TDY1bmVnNVlLUlJ2QmtXNU9HLXNxZXJiVHJUVl9BMGVWSWttVFI4MVd1cWxMWHdGUWwweXp6cldvZ2M5VmZXbjB0czFUNk1XcE1EVDJtZjhZSXdzME1R?oc=5\" target=\"_blank\">中远海控伦交所ESG评级较上年下降至B+，位居A股同行业6家公司排名第1，高于招商轮船</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWItblpHcU1VTlhNLWdkdGpmYTI2cmxXbjZvaUdZTEV5UVZLUUowejRFX0o2ZEF0TDY1bmVnNVlLUlJ2QmtXNU9HLXNxZXJiVHJUVl9BMGVWSWttVFI4MVd1cWxMWHdGUWwweXp6cldvZ2M5VmZXbjB0czFUNk1XcE1EVDJtZjhZSXdzME1R?oc=5",
-      "published": "Sun, 16 Aug 2026 23:36:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "中油资本伦交所ESG评级较上年上升至B+，位居A股同行业5家公司排名第1，高于浙江东方 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmRFNmtyeHJCLTdOUTQzTW5WQk1jbHJ6YW80Qkt1ZnlZZExOZzFHbGszNk45TUxkUkpTYXd3am1sdnZTcHZheVdfcEVSTHAzUHB3enB6Q0luM0t5U1JaTnh6dHVxaDFwYllEaUQ4My1uenFfTnNVemxPWTJ3eUJtck5rTVp1U1lXNHBvRkx3?oc=5\" target=\"_blank\">中油资本伦交所ESG评级较上年上升至B+，位居A股同行业5家公司排名第1，高于浙江东方</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYmRFNmtyeHJCLTdOUTQzTW5WQk1jbHJ6YW80Qkt1ZnlZZExOZzFHbGszNk45TUxkUkpTYXd3am1sdnZTcHZheVdfcEVSTHAzUHB3enB6Q0luM0t5U1JaTnh6dHVxaDFwYllEaUQ4My1uenFfTnNVemxPWTJ3eUJtck5rTVp1U1lXNHBvRkx3?oc=5",
-      "published": "Sun, 16 Aug 2026 23:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "中国建筑伦交所ESG评级较上年上升至A-，位居A股同行业20家公司排名第1，高于中国中铁 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFIwMmlGUC1xbTRQUXNlV3FramRXSVRMc3czSVFaSXMzODBBWDhoQlB6YjlyXzluQnBWZXF4dHpvTDRidmNJTlFUMDFQVy1ubEk0WFh4VFBiUEZ0T1lqSDhNNWFxc212RF9rV0FkT2l0bDRCTGZYY3RQZUFWd3BlN0tNSldBRGlfSGF3T1dB?oc=5\" target=\"_blank\">中国建筑伦交所ESG评级较上年上升至A-，位居A股同行业20家公司排名第1，高于中国中铁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFIwMmlGUC1xbTRQUXNlV3FramRXSVRMc3czSVFaSXMzODBBWDhoQlB6YjlyXzluQnBWZXF4dHpvTDRidmNJTlFUMDFQVy1ubEk0WFh4VFBiUEZ0T1lqSDhNNWFxc212RF9rV0FkT2l0bDRCTGZYY3RQZUFWd3BlN0tNSldBRGlfSGF3T1dB?oc=5",
-      "published": "Sun, 16 Aug 2026 23:54:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "山东药玻伦交所ESG评级较上年维持D，位居A股同行业5家公司第5名，高于奥瑞金 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkJaSmVTeW5iYkNadHN4eEJORTFMRVNEQ0hSeWlJTGZYTko2N3pJUnNzdDRuYlNBM2JiOFNvYnd2VWpMR1lULUMxM3Q1MEpqVnRJbEFfazRNckVjdXN2VlZYTm9VdmNjSTV6bnN5V3lkTkFFYzNtSEJhSTBQcUo2YlM1NWhoUGhJQW5odzBB?oc=5\" target=\"_blank\">山东药玻伦交所ESG评级较上年维持D，位居A股同行业5家公司第5名，高于奥瑞金</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWkJaSmVTeW5iYkNadHN4eEJORTFMRVNEQ0hSeWlJTGZYTko2N3pJUnNzdDRuYlNBM2JiOFNvYnd2VWpMR1lULUMxM3Q1MEpqVnRJbEFfazRNckVjdXN2VlZYTm9VdmNjSTV6bnN5V3lkTkFFYzNtSEJhSTBQcUo2YlM1NWhoUGhJQW5odzBB?oc=5",
-      "published": "Sun, 16 Aug 2026 23:36:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "日照港伦交所ESG评级较上年上升至C+，位居A股同行业25家公司第12名，与山东高速等同级、高于京沪高铁等、低于东莞控股等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkVFcmpEd0ZKdnVaLS1JV2FMZmd3SUt4NmtYT1ZGLUVNNEtnbVJVSUtpc1R3UkFjdERoVmx3TEctQWZMbXVmYkt1UzZiVXgyMWlqTlhNcHcwdzc4dXRDQjRNWThjWDQtNWc0dFBXbnpLU3ZhVnJKUkhxR2lsWDRqREo2OWZqa0hMQzJzdy1n?oc=5\" target=\"_blank\">日照港伦交所ESG评级较上年上升至C+，位居A股同行业25家公司第12名，与山东高速等同级、高于京沪高铁等、低于东莞控股等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkVFcmpEd0ZKdnVaLS1JV2FMZmd3SUt4NmtYT1ZGLUVNNEtnbVJVSUtpc1R3UkFjdERoVmx3TEctQWZMbXVmYkt1UzZiVXgyMWlqTlhNcHcwdzc4dXRDQjRNWThjWDQtNWc0dFBXbnpLU3ZhVnJKUkhxR2lsWDRqREo2OWZqa0hMQzJzdy1n?oc=5",
-      "published": "Sun, 16 Aug 2026 23:30:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "安克创新伦交所ESG评级较上年下降至B+，位居A股同行业9家公司排名第1，高于深科技等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDEyS0pLSDFYSXVZaUxDcVcwSjdETTVQMEV6ekdBMS1LRUJINFdNdXJoLVA1RHlIMGdCZkppRkZPdnNKM0p5dlVHZldPTkx5dUt0M014bHgzb3pfT3FVNlRCMWFMN18yX3R2QWVSVGpkTW9sUDlaeW5lbTBHNzRNMXB4Y2c5dVJLZlhPU253?oc=5\" target=\"_blank\">安克创新伦交所ESG评级较上年下降至B+，位居A股同行业9家公司排名第1，高于深科技等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaDEyS0pLSDFYSXVZaUxDcVcwSjdETTVQMEV6ekdBMS1LRUJINFdNdXJoLVA1RHlIMGdCZkppRkZPdnNKM0p5dlVHZldPTkx5dUt0M014bHgzb3pfT3FVNlRCMWFMN18yX3R2QWVSVGpkTW9sUDlaeW5lbTBHNzRNMXB4Y2c5dVJLZlhPU253?oc=5",
-      "published": "Sun, 16 Aug 2026 23:53:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "浙能电力伦交所ESG评级较上年上升至C-，位居A股同行业25家公司第17名，与华能国际等同级、高于申能股份等、低于晋控电力等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3JSQXJFMDBuYzhTUDk4ZVJlX2NVUzI4QVJucUpsTU9BaUFDNmk0RFE1ek14RDg4V2c5WXJRTGs4VHNaLWk5RU9zS0JPdmZyRDg4eV9oTW9FUkEzNDZ1WEpPSTlZc1ZnNWlVd1NnbV9GRWcxZ2oyT0xrbHZ5VENfTngzenRlNTUyTkw5M0pB?oc=5\" target=\"_blank\">浙能电力伦交所ESG评级较上年上升至C-，位居A股同行业25家公司第17名，与华能国际等同级、高于申能股份等、低于晋控电力等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT3JSQXJFMDBuYzhTUDk4ZVJlX2NVUzI4QVJucUpsTU9BaUFDNmk0RFE1ek14RDg4V2c5WXJRTGs4VHNaLWk5RU9zS0JPdmZyRDg4eV9oTW9FUkEzNDZ1WEpPSTlZc1ZnNWlVd1NnbV9GRWcxZ2oyT0xrbHZ5VENfTngzenRlNTUyTkw5M0pB?oc=5",
-      "published": "Sun, 16 Aug 2026 23:54:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "上海电力伦交所ESG评级较上年上升至B-，位居A股同行业25家公司排名第3名，与国投电力等同级、高于龙源电力、低于华能蒙电等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjYzdFQ4VjNYRGsyVFF1ZlFDY0trN3pRWnd6QkVjYm5RcGN5bTBVUTNsbkdoMkpGVXpOYVBlTUxrM0wzalRlVG1PdEN1OFR3UXVGYlJQeHB6Y2toY0hnZE5YQzN6MktLV2d5b3ZLSlVZQTJqX1ktcDhnQ2Utc2U0Y0Ewd2R5NUdzanZMUm1n?oc=5\" target=\"_blank\">上海电力伦交所ESG评级较上年上升至B-，位居A股同行业25家公司排名第3名，与国投电力等同级、高于龙源电力、低于华能蒙电等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjYzdFQ4VjNYRGsyVFF1ZlFDY0trN3pRWnd6QkVjYm5RcGN5bTBVUTNsbkdoMkpGVXpOYVBlTUxrM0wzalRlVG1PdEN1OFR3UXVGYlJQeHB6Y2toY0hnZE5YQzN6MktLV2d5b3ZLSlVZQTJqX1ktcDhnQ2Utc2U0Y0Ewd2R5NUdzanZMUm1n?oc=5",
-      "published": "Sun, 16 Aug 2026 23:22:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "金科股份伦交所ESG评级较上年上升至D+，位居A股同行业29家公司第24名，与荣安地产等同级、高于苏宁环球等、低于衢州发展等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPanJqUG9xeGRmMnBXTUdwNjJ5U2dERWZRR2JBbUFSUHo0SVQtWUhrZ2Z1YWZ0ZkFMQUNZSUNGT3ExVlRiUmhyaFRMQk5tcmlja1ZPQWp1SGg5cXNNY21aVEI0OGtwWERzXzNxTWxmVDlpbDB4bXlJZDFFcGM5VjFadjYtOVBiNi1KU2txZktR?oc=5\" target=\"_blank\">金科股份伦交所ESG评级较上年上升至D+，位居A股同行业29家公司第24名，与荣安地产等同级、高于苏宁环球等、低于衢州发展等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPanJqUG9xeGRmMnBXTUdwNjJ5U2dERWZRR2JBbUFSUHo0SVQtWUhrZ2Z1YWZ0ZkFMQUNZSUNGT3ExVlRiUmhyaFRMQk5tcmlja1ZPQWp1SGg5cXNNY21aVEI0OGtwWERzXzNxTWxmVDlpbDB4bXlJZDFFcGM5VjFadjYtOVBiNi1KU2txZktR?oc=5",
-      "published": "Sun, 16 Aug 2026 23:23:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "宝新能源伦交所ESG评级较上年上升至D+，位居A股同行业25家公司第23名，与申能股份等同级、高于皖能电力等 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXlzc2hPTXN0TmFSalNqUWZob2ROcnpvcXA2RUhoNjhKZG13bTJ4VzFyd3FSVDdOTGdlZDk5a3ZqdjNxSEhOTTlQUi1KOXFxM0lpRFFaaGlCS2YyaW9yUEwxNDdGQ19NQTVod2dVMmhOT2s5ZE45aThOaV9hOGpqVG5nR3FleWY1SjRqYmhR?oc=5\" target=\"_blank\">宝新能源伦交所ESG评级较上年上升至D+，位居A股同行业25家公司第23名，与申能股份等同级、高于皖能电力等</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXlzc2hPTXN0TmFSalNqUWZob2ROcnpvcXA2RUhoNjhKZG13bTJ4VzFyd3FSVDdOTGdlZDk5a3ZqdjNxSEhOTTlQUi1KOXFxM0lpRFFaaGlCS2YyaW9yUEwxNDdGQ19NQTVod2dVMmhOT2s5ZE45aThOaV9hOGpqVG5nR3FleWY1SjRqYmhR?oc=5",
-      "published": "Sun, 16 Aug 2026 23:33:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "华大基因伦交所ESG评级较上年上升至B，位居A股同行业20家公司第3名，与上海莱士等同级、高于康希诺等、低于百济神州 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHljb1hKY2lyRFcwWE9UOVVSMVdtRzduTzNwSV9RWjQyN2c0cGJyaGdZTFY0OFE1dWd0QkhTTU10b3FiV0pBMmUxZDhUbUJhS2Y1R3lNNTU2N0tjZ0tKYzU4QWQ2UWZjMDlaVERwVm52WV9DQjdPQkN0ZzA0ZVMyeW1DQUIwczdEdlhVQTNR?oc=5\" target=\"_blank\">华大基因伦交所ESG评级较上年上升至B，位居A股同行业20家公司第3名，与上海莱士等同级、高于康希诺等、低于百济神州</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaHljb1hKY2lyRFcwWE9UOVVSMVdtRzduTzNwSV9RWjQyN2c0cGJyaGdZTFY0OFE1dWd0QkhTTU10b3FiV0pBMmUxZDhUbUJhS2Y1R3lNNTU2N0tjZ0tKYzU4QWQ2UWZjMDlaVERwVm52WV9DQjdPQkN0ZzA0ZVMyeW1DQUIwczdEdlhVQTNR?oc=5",
-      "published": "Sun, 16 Aug 2026 23:04:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "厦门国贸伦交所ESG评级较上年上升至B+，位居A股同行业5家公司排名第1，高于物产中大 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFpEd0xaY00tdjdmTWMtQzQtNXF1YWRkbWEtOTBPZDlIOTc3b25qMFpIUEZiZzFOSXlGcWJjd0FrU0ZlcHFZdFphSDIyQjdaYng2WExDRDhSMTIyZHUyRHYwYmpzZkFZektHZlZfTW1hTDQ3dGtaWVRvenpTS1pKdUlueGItR3hENHdEQXhR?oc=5\" target=\"_blank\">厦门国贸伦交所ESG评级较上年上升至B+，位居A股同行业5家公司排名第1，高于物产中大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcFpEd0xaY00tdjdmTWMtQzQtNXF1YWRkbWEtOTBPZDlIOTc3b25qMFpIUEZiZzFOSXlGcWJjd0FrU0ZlcHFZdFphSDIyQjdaYng2WExDRDhSMTIyZHUyRHYwYmpzZkFZektHZlZfTW1hTDQ3dGtaWVRvenpTS1pKdUlueGItR3hENHdEQXhR?oc=5",
-      "published": "Sun, 16 Aug 2026 23:16:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "245899:中国中金财富证券有限公司2026年面向专业投资者公开发行永续次级债券(第三期)发行公告 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1mVnBxQ2ZncVJiblJvcThBcGwzWDZueHdBRHI3WWtMTzF1TEE1b3dWTTFJd2JMdUQxUnItaWRkNnNmTkx4YjRYM1R2cmxBT0c5bzNPbEx6dk1LdTJCeW1KUm5RYTJwaDZnMF9UTnlJTEVIdXJHalNSejg0OUIzRDg?oc=5\" target=\"_blank\">245899:中国中金财富证券有限公司2026年面向专业投资者公开发行永续次级债券(第三期)发行公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mVnBxQ2ZncVJiblJvcThBcGwzWDZueHdBRHI3WWtMTzF1TEE1b3dWTTFJd2JMdUQxUnItaWRkNnNmTkx4YjRYM1R2cmxBT0c5bzNPbEx6dk1LdTJCeW1KUm5RYTJwaDZnMF9UTnlJTEVIdXJHalNSejg0OUIzRDg?oc=5",
-      "published": "Sun, 16 Aug 2026 23:56:25 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "Ta的粉丝还关注 - iguba.eastmoney.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vWVFUaGRTSW5aTUIwaHltYUNBRTdkSjd6TWxjVGMxZENmaERhU01XcG1Sb1RFRVhHX2V2S1VxZ1V4S09JVnZpcmROaGthd1BWc2pvczlB?oc=5\" target=\"_blank\">Ta的粉丝还关注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">iguba.eastmoney.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vWVFUaGRTSW5aTUIwaHltYUNBRTdkSjd6TWxjVGMxZENmaERhU01XcG1Sb1RFRVhHX2V2S1VxZ1V4S09JVnZpcmROaGthd1BWc2pvczlB?oc=5",
-      "published": "Sun, 16 Aug 2026 22:26:30 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "115844:中国中金财富证券有限公司2023年面向专业投资者公开发行公司债券(第二期)(品种二)2026年付息公告 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9VclRaZHhlcjkzWHFhTURHeTFYbTY0STZGY3NZWW5xOVpMWUlKQTJ2MXNNaVBvM3YyZlZtTWVwdFNYdUhQVDJFN0ZINzJDaFlRNTl1RlEtT042bTJiZFdnYWNIN1VSY2cyUWh6QmtaNGNlUFo3UG9TWUhCZ2NEZw?oc=5\" target=\"_blank\">115844:中国中金财富证券有限公司2023年面向专业投资者公开发行公司债券(第二期)(品种二)2026年付息公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VclRaZHhlcjkzWHFhTURHeTFYbTY0STZGY3NZWW5xOVpMWUlKQTJ2MXNNaVBvM3YyZlZtTWVwdFNYdUhQVDJFN0ZINzJDaFlRNTl1RlEtT042bTJiZFdnYWNIN1VSY2cyUWh6QmtaNGNlUFo3UG9TWUhCZ2NEZw?oc=5",
-      "published": "Sun, 16 Aug 2026 23:42:03 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "从中国制造到中国创造关注中国资产三大机会——专访未来资产证券（香港）投资和资本市场部主管黄莎莎 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE12R1hWSnRlMEU0VEFBRUJkc08wYzJnMVNSSi1DV0lPZmNSeGhmY3N1aFU2c19GVFNjdjZWbEJjb1pvak41empPWGFkcjlqcEdsSTd4TVVCZzcxUDU1dzE0OGZ1T3g5QQ?oc=5\" target=\"_blank\">从中国制造到中国创造关注中国资产三大机会——专访未来资产证券（香港）投资和资本市场部主管黄莎莎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12R1hWSnRlMEU0VEFBRUJkc08wYzJnMVNSSi1DV0lPZmNSeGhmY3N1aFU2c19GVFNjdjZWbEJjb1pvak41empPWGFkcjlqcEdsSTd4TVVCZzcxUDU1dzE0OGZ1T3g5QQ?oc=5",
-      "published": "Sun, 16 Aug 2026 23:14:56 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "245899:中国中金财富证券有限公司2026年面向专业投资者公开发行永续次级债券(第三期)募集说明书 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFBIdE50TVNrMWNJQndPamtMSmh6ZXU0SDRlYzdxaHgyU0prSXJneUVCRVVDd1BEbV9tcFlrTFJ5d3YwZDVMSTM4T21rejRQRWZCVUYwSHdpN0dnU05UREZqa3pCWUhuR0JTeXd0VHRaOS1rNXpubHlNWUY1aEZOZw?oc=5\" target=\"_blank\">245899:中国中金财富证券有限公司2026年面向专业投资者公开发行永续次级债券(第三期)募集说明书</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIdE50TVNrMWNJQndPamtMSmh6ZXU0SDRlYzdxaHgyU0prSXJneUVCRVVDd1BEbV9tcFlrTFJ5d3YwZDVMSTM4T21rejRQRWZCVUYwSHdpN0dnU05UREZqa3pCWUhuR0JTeXd0VHRaOS1rNXpubHlNWUY1aEZOZw?oc=5",
-      "published": "Sun, 16 Aug 2026 23:42:03 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "中泰证券：多数二三线城市或将继续加码需求端刺激和去库存措施 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPM1ZBNVpTU0VjZEdxSG1DWkt1Y0JwM2lwN3huZVJ2TGozcUUtWkRWWXlvajlBXzVsdlFZUDMzSkZTZFpUS1lfd1ByYUNkcS1PVWswZXNSX0toN250TmJkWg?oc=5\" target=\"_blank\">中泰证券：多数二三线城市或将继续加码需求端刺激和去库存措施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPM1ZBNVpTU0VjZEdxSG1DWkt1Y0JwM2lwN3huZVJ2TGozcUUtWkRWWXlvajlBXzVsdlFZUDMzSkZTZFpUS1lfd1ByYUNkcS1PVWswZXNSX0toN250TmJkWg?oc=5",
-      "published": "Sun, 16 Aug 2026 23:31:12 GMT"
+      "source": "同花顺",
+      "title": "考虑与金正恩关系，特朗普要求大幅缩减美韩军演规模",
+      "summary": "美国总统特朗普16日说，已要求国防部大幅缩减美国与韩国的联合军演规模。特朗普在社交媒体发文说，这些军演“耗资巨大”，其中很大一部分由美国负担，同时对朝鲜释放出“完全不恰当和敌对的信号”。特朗普表示，考虑到他与朝鲜领导人金正恩有着“非常良好的关系”，他对于“美国很久以前同意参加与韩国的联合军演感到不满”。他说，鉴于现在取消军演已经为时过晚，他已经指示国防部“大幅缩减”美韩联合军演规模。特朗普在帖文最后指出，他最近要求韩国与美国一起推动“伊朗无核化”，但遭到韩方拒绝。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260817/c678993612.shtml",
+      "published": "Mon, 17 Aug 2026 00:32:02 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中泰证券：多数二三线城市或将继续加码需求端刺激和去库存措施 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qNlpkaHZxckxfLWpMTWhCRm93MG5QWW11dDFJb2dHc0hFM2VfSDlVdnhJVWhlZS1fd3hhaGJ1VFB5YkF3QTZtR0lzZHRuUy1wT1labktlQmlseHRocEo4dEhB?oc=5\" target=\"_blank\">中泰证券：多数二三线城市或将继续加码需求端刺激和去库存措施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qNlpkaHZxckxfLWpMTWhCRm93MG5QWW11dDFJb2dHc0hFM2VfSDlVdnhJVWhlZS1fd3hhaGJ1VFB5YkF3QTZtR0lzZHRuUy1wT1labktlQmlseHRocEo4dEhB?oc=5",
-      "published": "Sun, 16 Aug 2026 23:21:49 GMT"
+      "title": "现货黄金站上4390美元/盎司",
+      "summary": "现货黄金站上4390美元/盎司，日内涨0.34%。",
+      "link": "https://news.10jqka.com.cn/20260817/c678993390.shtml",
+      "published": "Mon, 17 Aug 2026 00:29:09 GMT"
     },
     {
       "source": "同花顺",
-      "title": "线下网点收缩 线上布局提速 券商互联网分公司以差异化深耕替代规模竞赛 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsS0h1WkFXU010OVJBcDZpMTI0amtVLXFrbWFJQmdjb1AtbENudF9SWE1PN2FGWGt0TzdkbnJ0LWFjbUlySjNJNjBueHAtTWk1T2V3SkIzQ1V3U0dKaW9JVV9B?oc=5\" target=\"_blank\">线下网点收缩 线上布局提速 券商互联网分公司以差异化深耕替代规模竞赛</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsS0h1WkFXU010OVJBcDZpMTI0amtVLXFrbWFJQmdjb1AtbENudF9SWE1PN2FGWGt0TzdkbnJ0LWFjbUlySjNJNjBueHAtTWk1T2V3SkIzQ1V3U0dKaW9JVV9B?oc=5",
-      "published": "Sun, 16 Aug 2026 22:25:21 GMT"
+      "title": "中信建投：LME现货强升水，铜价直逼历史前高",
+      "summary": "中信建投表示，本周有色商品在各自关键阻力位遭遇部分获利了结，有色权益亦出现兑现的情形。但是，鉴于商品价格均还存在显著的上行驱动，建议对有色多一些耐心。金价暂时承压于4500美元关口，但就业及通胀数据均降低了中期选举前的加息可能性，金价仍处于顺风期。铜现货端出现了罕见的高升水情形，凸显了库存极度紧张的状态，铜价突破历史新高近在咫尺，且权益仅计价10w铜价10倍出头的PE提供了足够的安全边际，配置性价比凸显。（第一财经）",
+      "link": "https://news.10jqka.com.cn/20260817/c678993102.shtml",
+      "published": "Mon, 17 Aug 2026 00:21:12 GMT"
     },
     {
       "source": "同花顺",
-      "title": "理财节的“热度”应化作日常服务的“温度” - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHd05Ea1BaTXFNZVpTZEtKSUtSUk5kenV2NDBPc3MyT0tlWXJOUjh3a3lLbGhtSlI3T2ZkRmxLaDcwTVBLRWxRaEF5M1BPQlgzQ0xSUmlwUjk5endzcnNsZ0xB?oc=5\" target=\"_blank\">理财节的“热度”应化作日常服务的“温度”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHd05Ea1BaTXFNZVpTZEtKSUtSUk5kenV2NDBPc3MyT0tlWXJOUjh3a3lLbGhtSlI3T2ZkRmxLaDcwTVBLRWxRaEF5M1BPQlgzQ0xSUmlwUjk5endzcnNsZ0xB?oc=5",
-      "published": "Sun, 16 Aug 2026 22:20:21 GMT"
+      "title": "华泰证券港股策略：以均衡而非轮动应对高波动环境",
+      "summary": "华泰证券发布港股策略称，各风格重回同一起跑线，轮动加速，均衡配置或是最优解。7月底至今，全球市场经历了新老经济之间的平衡和硬件和软件之间的平衡。但观察到本轮再平衡中未有板块走出强主线，快速轮动下短线抓取难度大，投资取向更加分散。在高集中度回调时止损困难的经历后，当前市场并非再度抱团某一主线，而是选择各行业中强盈利龙头。对港股而言，外部环境企稳和红利股息率回落，资金流入最快阶段可能告一段落，但依然能够起到风险分散和平衡的作用，因此一是红利底仓依然重要，二是择股重要性上升。配置上建议：低波红利（如大金融）持有；关注中报或确认经营底部的乳品、部分零售；需求景气逻辑仍成立的AI链，如晶圆代工等，更多是进攻品种而非底仓。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678992262.shtml",
+      "published": "Mon, 17 Aug 2026 00:10:08 GMT"
     },
     {
       "source": "同花顺",
-      "title": "818理财节这十年：技术迭代加速 AI含量提升 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE40TmF4cFZZZ2toM1piMU9GVGVZcWV3bGhMdGkwTWpjaUJwdmFGanRKQm5JNW9pa0ZUTEhYazJtUHl3NUtDc1h4Z3V6M1lIOW0xQ0dyRzlzSWx6ZFJhS3lKX0lB?oc=5\" target=\"_blank\">818理财节这十年：技术迭代加速 AI含量提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40TmF4cFZZZ2toM1piMU9GVGVZcWV3bGhMdGkwTWpjaUJwdmFGanRKQm5JNW9pa0ZUTEhYazJtUHl3NUtDc1h4Z3V6M1lIOW0xQ0dyRzlzSWx6ZFJhS3lKX0lB?oc=5",
-      "published": "Sun, 16 Aug 2026 22:15:21 GMT"
+      "title": "中信建投：碳酸锂库存去化加速，基本面定价迎来反弹",
+      "summary": "中信建投证券研报认为，锂价计入过多明年过剩预期，当前基本面看原料紧张局面依旧、冶炼厂减产检修下锂盐产量尚未恢复，金九银十旺季临近，库存去化开始提速。消费旺季预期下下游备货有望边际增加，百川盈孚27家电池企业样本调研，2026年8月中国电池企业总排产311.85GWh，环比增加5.71%，后续有望继续加速。锂价或从此前的远期过剩定价逐步走向近期基本面定价，看好旺季下锂价表现。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678992154.shtml",
+      "published": "Mon, 17 Aug 2026 00:08:07 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月17日电，美元兑日元在日本GDP数据发布后变动不大，下跌0.08%报159.21日元。",
-      "summary": "财联社8月17日电，美元兑日元在日本GDP数据发布后变动不大，下跌0.08%报159.21日元。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:59:36 GMT"
+      "source": "同花顺",
+      "title": "连续2周净流出 上周ETF资金整体净流出451.22亿元",
+      "summary": "同花顺iFinD数据显示，8月10日-8月14日当周，ETF资金整体净流出451.22亿元，股票型净流出525.44亿元，宽基型净流出424.38亿元。当周ETF资金净流出榜单排名前3依次为：华泰柏瑞沪深300ETF（510300）净流出77.29亿元，南方中证1000ETF（512100）净流出71.80亿元，华夏中证1000ETF（159845）净流出43.08亿元。",
+      "link": "https://news.10jqka.com.cn/20260817/c678991802.shtml",
+      "published": "Mon, 17 Aug 2026 00:02:48 GMT"
     },
     {
-      "source": "财联社",
+      "source": "同花顺",
+      "title": "日经225指数高开0.24%",
+      "summary": "日经225指数高开0.24%，报68882.06点。韩国股市休市。",
+      "link": "https://news.10jqka.com.cn/20260817/c678991770.shtml",
+      "published": "Mon, 17 Aug 2026 00:01:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "检验检测行业半年报陆续披露 科技属性决定增长曲线",
+      "summary": "随着2026年半年报及业绩预告陆续披露，检验检测行业上半年经营图景逐渐清晰。华测检测、广电计量、苏试试验等公司聚焦科技创新与高端制造赛道的机构延续较快增长，营收、净利润双双实现增长；而以传统房建、基建检测为主业的国检集团则出现半年度亏损。检测行业正处于从规模扩张向质量效益转型的窗口期，“科技创新类”检测业务占比提升、下游客户结构优化，成为决定企业业绩的重要变量。检验检测机构在应收账款管理、精益化运营与国际化布局上的差异化选择，也将进一步拉开企业间的经营质效差距。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678991757.shtml",
+      "published": "Mon, 17 Aug 2026 00:01:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "全国首家AI家庭机器人体验中心落地青岛",
+      "summary": "8月16日，全国首家AI家庭机器人体验中心在青岛启幕。走进这家由海尔打造的AI家庭机器人全国首店，外骨骼机器人在坡道上稳稳助力银发老人迈步，家务机器人可以识别衣物材质自主完成衣物洗烘，烹饪机器人正在灶台前完成一道免动手佳肴——在这里，“无人家务”从概念落地为可触摸的现实。（青岛日报）",
+      "link": "https://news.10jqka.com.cn/20260817/c678991748.shtml",
+      "published": "Mon, 17 Aug 2026 00:01:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "全球最大的黄金ETF SPDR Gold Trust持仓较前日增加0.29吨",
+      "summary": "截至2026年08月14日，全球最大的黄金ETF SPDR Gold Trust持仓量为1023.53吨，较前一个交易日增加0.29吨。",
+      "link": "https://news.10jqka.com.cn/20260817/c678991712.shtml",
+      "published": "Mon, 17 Aug 2026 00:00:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "全球最大的白银ETF iShares Silver Trust持仓量较前日减少23.90吨",
+      "summary": "截至2026年08月14日，全球最大的白银ETF iShares Silver Trust持仓量为15312.13吨，较前一个交易日减少23.90吨。",
+      "link": "https://news.10jqka.com.cn/20260817/c678991333.shtml",
+      "published": "Sun, 16 Aug 2026 23:53:01 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "湖南裕能：向香港联交所递交H股发行上市申请",
+      "summary": "湖南裕能公告，公司已于2026年8月17日向香港联交所递交了发行境外上市外资股（H股）并在香港联交所主板挂牌上市的申请，并于同日在香港联交所网站刊登了本次发行并上市的申请资料。该申请资料为草拟版本，本次发行并上市尚需取得中国证监会、香港证监会和香港联交所等相关机构的备案、批准或核准，仍存在不确定性。",
+      "link": "https://news.10jqka.com.cn/20260817/c678991179.shtml",
+      "published": "Sun, 16 Aug 2026 23:49:36 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "复星医药：控股子公司签订合作框架协议并达成许可",
-      "summary": "【复星医药：控股子公司签订合作框架协议并达成许可】财联社8月17日电，复星医药公告，2026年8月16日，本公司控股子公司复宏汉霖与SandozAG签订《合作框架协议》，将可就复宏汉霖至多10款单克隆抗体（mAb）和/或抗体偶联药物（ADC）生物类似药产品或成分（即“合作产品”）与SandozAG开展海外相关区域的注册、商业化、开发、生产等许可合作，并已就首批3款合作产品（即HLX05-N、HLX16和贝利尤单抗生物类似药）达成具体商业条款、1款潜在合作产品（即HLXTE-HAase1001）向SandozAG授出选择权。其他后续合作产品及其具体合作安排，尚待双方进一步商定，且须以最终达成约定并以该（等）约定为准。就首批3款合作产品，复宏汉霖可收取的首付款、开发里程碑及开发预算里程碑、销售里程碑款项至多31,400万美元（实际须取决于相应研发、监管审批及销售进展）。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:54:52 GMT"
+      "summary": "复星医药公告，2026年8月16日，本公司控股子公司复宏汉霖与SandozAG签订《合作框架协议》，将可就复宏汉霖至多10款单克隆抗体（mAb）和/或抗体偶联药物（ADC）生物类似药产品或成分（即“合作产品”）与SandozAG开展海外相关区域的注册、商业化、开发、生产等许可合作，并已就首批3款合作产品（即HLX05-N、HLX16和贝利尤单抗生物类似药）达成具体商业条款、1款潜在合作产品（即HLXTE-HAase1001）向SandozAG授出选择权。其他后续合作产品及其具体合作安排，尚待双方进一步商定，且须以最终达成约定并以该（等）约定为准。就首批3款合作产品，复宏汉霖可收取的首付款、开发里程碑及开发预算里程碑、销售里程碑款项至多31,400万美元（实际须取决于相应研发、监管审批及销售进展）。",
+      "link": "https://news.10jqka.com.cn/20260817/c678991131.shtml",
+      "published": "Sun, 16 Aug 2026 23:48:21 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月17日电，日本第二季度名义GDP环比增长1.2%，预估为1.2%。日本二季度净出口对环比GDP贡献为正0.5个百分点，预估0.3个。",
-      "summary": "财联社8月17日电，日本第二季度名义GDP环比增长1.2%，预估为1.2%。日本二季度净出口对环比GDP贡献为正0.5个百分点，预估0.3个。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:52:03 GMT"
+      "source": "同花顺",
+      "title": "风语筑参与共建全国首个具身智能人才培养与考试认证中心",
+      "summary": "8月16日，杭州具身智能人才培养与考试认证中心及宇树科技机器人（具身智能）职业技能培训中心在杭州发布，风语筑作为共建单位参与。活动期间，杭州具身智能中试基地科技有限公司、宇树科技与杭州高新科创集团签署战略合作协议；风语筑与宇树科技、浙江大学控制学院等共建单位共同发布首期实践课程。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678990637.shtml",
+      "published": "Sun, 16 Aug 2026 23:37:32 GMT"
     },
     {
-      "source": "财联社",
-      "title": "投资日历：周一资本市场大事提醒",
-      "summary": "【投资日历：周一资本市场大事提醒】\n①今日共有1只新股申购，为北交所的华大海天（920288）；1只新股上市，为北交所的恒兴股份（920107）。\n②国新办就国民经济运行情况举行新闻发布会。\n③国家统计局公布70个大中城市住宅销售价格月度报告。\n④2026中国固态电池技术大会将于8月17日至19日举办。\n⑤DeepSeek发布API调价公告，新价格将于北京时间8月17日00:00开始生效。\n⑥2026江苏工程塑料产业峰会将于8月17日至19日举办。\n⑦2026SMM再生金属产业高峰论坛暨熔铸技术专场将于8月17日至18日举办。\n⑧2026（第七届）宠物食品技术创新论坛将于8月17日至18日举办。\n⑨韩国股市将于8月17日休市一日。\n⑩瑞芯微、传音控股、德赛电池等股将披露2026年中报。\n⑪今日有180亿元7天期逆回购到期。\n⑫今日将公布美国8月纽约联储制造业指数等数据。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:51:27 GMT"
+      "source": "同花顺",
+      "title": "最大亏损超30%，新秀基金经理复盘科技调整",
+      "summary": "在本轮极致的AI行情中，部分新秀基金经理的职业生涯开局可谓惊险。6月入场遭遇最大亏损已超过30%，早期入场者积累浮盈也已大幅缩水。新一代基金经理学习能力强，视野广反应也快，为何依然难逃“赛道”魔咒？极致赛道持仓背后，既有交易结构、考核机制带来的现实约束，也折射出新一代基金经理的时代局限。在接受记者采访的过程中，有基金经理复盘了回撤之痛，也表达了严格约束单一赛道仓位上限的决心。分析人士认为，基金经理的职业生涯很长，但黄金时间很短，挫折来得越早，应对空间越大。但基金业要跳出一轮行情一批明星的轮回，考核机制、投研体系、产品设计等生态配套，均要有所革新。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678990481.shtml",
+      "published": "Sun, 16 Aug 2026 23:34:37 GMT"
     },
     {
-      "source": "财联社",
-      "title": "今日申购指南及新股定位分析",
-      "summary": "【今日申购指南及新股定位分析】财联社8月17日电，今日有1只新股申购，为北交所的华大海天；1只新股上市，为北交所的恒兴股份。<br /><img src=\"https://image.cls.cn/images/20260817/3qx02iGe3k_1313x3151.png\" />",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:51:23 GMT"
+      "source": "同花顺",
+      "title": "清盘预警频现 风格“变形”求生 均衡型基金直面两难",
+      "summary": "一边是清盘预警频现，另一边是风格“变形”求生，主打“控回撤、分散配置”的均衡型基金，正陷入前所未有的生存两难。近日，证券时报记者采访多家公募及业内人士了解到，在资金围绕产业景气度快速轮动的极致结构化行情中，均衡策略的“平滑波动”优势反而成为资金流失的劣势，不少产品为存续压力被迫调整投资框架。不过随着市场逐步从“普涨”转向结构分化，多家公募认为，均衡策略的吸引力正在逐步回归，哑铃型配置等适配高波动环境的均衡思路，或将成为下一阶段资金的重要选择。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678990271.shtml",
+      "published": "Sun, 16 Aug 2026 23:30:43 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月17日电，日本第二季度GDP折合年率增长1.1%，预估为2.0%。",
-      "summary": "财联社8月17日电，日本第二季度GDP折合年率增长1.1%，预估为2.0%。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:50:35 GMT"
+      "source": "同花顺",
+      "title": "医药基金净值大幅攀升 资金面呈现明显分歧",
+      "summary": "近期A股市场风格迎来切换，前期强势的科技板块迎来调整，沉寂已久的医药板块开启强势反弹行情，多只主动医药基金净值大幅攀升，成为市场亮眼主线。据统计，截至8月14日，多只主动权益类医药基金区间涨幅突破30%，头部产品收益表现尤为突出。从领涨基金持仓结构来看，本轮医药基金净值修复核心驱动力来自创新药、医疗服务及创新产业链。不同于此前医药板块单纯的估值修复行情，本轮反弹具备扎实的基本面支撑，多个细分赛道叠加订单落地、业绩改善、产业政策等多重催化，板块上涨逻辑更稳固，行情热度逐步扩散。值得关注的是，医药板块净值大幅反弹的同时，市场资金并未同步大规模入场，资金面呈现明显分歧。数据显示，近两个月医药类ETF整体申赎净流出约44亿元，在全市场主要行业板块中净流出规模位居前列。不难看出，存量投资者操作分化显著，不少资金选择借反弹行情兑现收益。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678990266.shtml",
+      "published": "Sun, 16 Aug 2026 23:30:31 GMT"
     },
     {
-      "source": "财联社",
-      "title": "Stripe以逾70亿美元价格收购AI公司OpenRouter",
-      "summary": "【Stripe以逾70亿美元价格收购AI公司OpenRouter】财联社8月17日电，据报道，当地时间8月16日，知情人士透露，支付服务提供商Stripe已最终敲定协议，将以超过70亿美元的价格收购AI初创公司OpenRouter。此次收购的最终价格可能仍有变动。OpenRouter为开发者提供一个统一API聚合平台，能够通过单一接口访问全球数百种不同的开源和闭源AI大语言模型。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:48:40 GMT"
+      "source": "同花顺",
+      "title": "融资大涨，IPO提速，商业航天企业竞逐行业第一股",
+      "summary": "2026年上半年，中国商业航天市场热度维持在高位，融资逐步向头部企业集中。更多企业将IPO提上日程，“商业航天第一股”的争夺进入新阶段。对IPO进程较快的几家商业火箭企业而言，全力突破可回收复用技术，还是平衡商业和研发，是一个重要选择。在国家队已实现技术先行突破，行业普遍预期2026年民营火箭企业有望完成火箭回收的背景下，技术优势能否成为“商业航天第一股”的决胜手，备受市场关注。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678990203.shtml",
+      "published": "Sun, 16 Aug 2026 23:29:33 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月17日电，壁仞科技在港交所公告，预计2026年上半年收入约为11.50亿元 - 13.00亿元人民币，同比增长率约为1,852%-2,107%之间。预计2026年上半年亏损约3.2...",
-      "summary": "财联社8月17日电，壁仞科技在港交所公告，预计2026年上半年收入约为11.50亿元 - 13.00亿元人民币，同比增长率约为1,852%-2,107%之间。预计2026年上半年亏损约3.2亿至4亿元人民币，减亏75% - 80%；预计2026年上半年调整后亏损约2.9亿至3.6亿元人民币，减亏35% - 47%。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:39:50 GMT"
+      "source": "同花顺",
+      "title": "AI集群规模进一步扩张 光通信产业链企业在手订单饱满",
+      "summary": "近日，海内外多家光通信产业链公司透露在手订单充裕，且订单能见度不断拉长，部分企业订单已排产至2027年，甚至2028年。从国内光模块、光器件厂商到海外光通信龙头，光通信行业迎来产能紧俏、客户持续锁定产能的阶段。从驱动因素来看，下游云厂商持续上调资本开支指引，加码人工智能数据中心与算力集群建设，成为拉动高速光通信需求的核心动因。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678990198.shtml",
+      "published": "Sun, 16 Aug 2026 23:29:23 GMT"
     },
     {
-      "source": "财联社",
-      "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
-      "summary": "【伊朗总统：伊美谅解备忘录“维护尊严、展现实力”】财联社8月17日电，针对两个月前伊朗和美国签署的旨在结束冲突的谅解备忘录，伊朗总统佩泽希齐扬当地时间16日表示，谅解备忘录是伊方在“维护尊严、展现实力”的基础上达成的，“没有向敌人屈服”。据伊朗总统府网站发布的声明，佩泽希齐扬当天在首都德黑兰参加伊朗全国教育部门负责人会议时作上述表态。他强调，该谅解备忘录是经过深思熟虑和专家深入讨论后起草的。 (央视新闻)",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:36:20 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "【点金互动易】电感+数据中心，SST正配合部分客户需求进行测试验证，这家公司电感等产品供货光模块客户，TLVR电感与国内主流厂商合作，CPU/GPU电感及光模块电感...",
-      "summary": "",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:33:14 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "A股限售股解禁一览：316.57亿元市值限售股今日解禁",
-      "summary": "【A股限售股解禁一览：316.57亿元市值限售股今日解禁】财联社8月17日电，Wind数据显示，周一（8月17日），共有10家公司限售股解禁，合计解禁量为8.77亿股，按最新收盘价计算，合计解禁市值为316.57亿元。从解禁量来看，广钢气体、亚通精工、固高科技解禁量居前，解禁股数分别为6.28亿股、1.1亿股、1.01亿股。从解禁市值来看，广钢气体、固高科技、德福科技解禁市值居前，解禁市值分别为244.99亿元、26.89亿元、22.89亿元。从解禁股数占总股本比例来看，亚通精工、广钢气体、固高科技解禁比例居前，解禁比例分别为63.34%、47.61%、24.94%。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:32:41 GMT"
-    },
-    {
-      "source": "财联社",
+      "source": "同花顺",
       "title": "A股年内94只新股上市 首日平均涨幅279.22%",
-      "summary": "【A股年内94只新股上市 首日平均涨幅279.22%】财联社8月17日电，近期上市的创业板新股超纯应材，挂牌首日盘中一度大涨逾700%，中一签新股最大盈利超过20万元，这也是年内A股市场新股热潮的表现。据Wind数据，年内已上市的94只新股中，上市首日收盘悉数上涨，涨幅介于21.53%至1510.52%之间，平均涨幅为279.22%，略高于2025年的259.33%，以及2024年的252.76%，远高于2023年66.45%的上市首日收盘平均涨幅。 (证券时报)",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:30:08 GMT"
+      "summary": "近期上市的创业板新股超纯应材，挂牌首日盘中一度大涨逾700%，中一签新股最大盈利超过20万元，这也是年内A股市场新股热潮的表现。年内已上市的94只新股中，上市首日收盘悉数上涨，涨幅介于21.53%至1510.52%之间，平均涨幅为279.22%，略高于2025年的259.33%，以及2024年的252.76%，远高于2023年66.45%的上市首日收盘平均涨幅。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260817/c678990169.shtml",
+      "published": "Sun, 16 Aug 2026 23:28:58 GMT"
     },
     {
-      "source": "财联社",
-      "title": "俄称空袭乌港口 乌称打击俄物流枢纽",
-      "summary": "【俄称空袭乌港口 乌称打击俄物流枢纽】财联社8月17日电，俄罗斯方面16日称，俄军继续对乌克兰港口基础设施及用于乌军利益的海上船只实施打击，并对乌克兰军工企业和炼油厂实施了集群打击。乌克兰方面称，乌军袭击了俄罗斯大型物流枢纽，并打击了俄导弹系统。 (央视新闻)",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:23:39 GMT"
+      "source": "华尔街见闻",
+      "title": "特斯拉Roadster或本月亮相：搭载SpaceX推进器，能“飞行”的超级跑车",
+      "summary": "<p style=\"text-align: left;\">等了近十年，特斯拉最快本月将揭开新一代Roadster的面纱——这辆车不只是跑得快，还要能飞。</p>\n<p style=\"text-align: left;\">近日，据The Information报道，三位知情人士透露，特斯拉正在筹备新款Roadster的发布活动，最早可能在本月举行。发布现场将上演一场特技表演，展示限量版Roadster的“飞行”能力。演示地点预计设在SpaceX位于德克萨斯州麦格雷戈的测试基地。</p>\n<p style=\"text-align: left;\">这辆车的“飞行”能力来自冷气推进器——一种火箭常用技术，由特斯拉与SpaceX联合开发。由于推进器噪音极大，演示车辆将远程操控，车内无人，所有观众须站在数百码以外。</p>\n<p style=\"text-align: left;\">目前，特斯拉股价今年已累计下跌近四分之一，同期纳斯达克指数上涨15%。新Roadster的亮相，被外界视为特斯拉向市场发出的一个信号：在全力押注AI和机器人的同时，它仍然是一家造车公司。</p>\n<h2 style=\"t",
+      "link": "https://wallstreetcn.com/articles/3779554",
+      "published": "Mon, 17 Aug 2026 00:23:42 GMT"
     },
     {
-      "source": "财联社",
-      "title": "韩国庆尚南道泥石流致20余人被困",
-      "summary": "【韩国庆尚南道泥石流致20余人被困】财联社8月17日电，据韩国方面17日消息，韩国庆尚南道巨济市发生泥石流，20余人被困，现场搜救工作正在进行中。据悉，已有两人获救，其中一人“心脏骤停”。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:16:52 GMT"
+      "source": "华尔街见闻",
+      "title": "特朗普：考虑到与金正恩的“良好关系”，已指示“大幅缩减”美韩联合军演规模",
+      "summary": "<p style=\"text-align: left;\">据央视新闻报道，美国总统特朗普16日说，已要求国防部大幅缩减美国与韩国的联合军演规模。</p>\n<p style=\"text-align: justify;\">特朗普在社交媒体发文说，这些军演“耗资巨大”，其中很大一部分由美国负担，同时对朝鲜释放出“完全不恰当和敌对的信号”。</p>\n<p style=\"text-align: left;\">特朗普表示，考虑到他与朝鲜领导人金正恩之间“良好的关系”，他对于“美国很久以前同意参加与韩国的联合军演感到不满”。</p>\n<p style=\"text-align: left;\">他说，鉴于现在取消军演已经为时过晚，他已经指示国防部“大幅缩减”美韩联合军演规模。</p>\n<p style=\"text-align: left;\">特朗普在帖文最后指出，他最近要求韩国与美国一起推动“伊朗无核化”，但遭到韩方拒绝。</p>\n<p style=\"text-align: left;\">8月13日，朝鲜外务省发言人发表谈话说，美国和韩国宣布将于8月17日开始进行2026“乙支自由之盾”大规模联合军演，",
+      "link": "https://wallstreetcn.com/articles/3779557",
+      "published": "Mon, 17 Aug 2026 00:18:48 GMT"
     },
     {
-      "source": "财联社",
-      "title": "【研选•研报数据】7月机床行业景气度持续超预期，下游液冷、机器人、商业航天需求爆发；国内较早布局半导体硅片的厂商之一，随着12寸高毛利产品的占比提高以及...",
-      "summary": "",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:12:06 GMT"
+      "source": "华尔街见闻",
+      "title": "美元：从短逻辑走向长逻辑",
+      "summary": "<p style=\"text-align: left;\">仔细观察近期市场，有一点值得关注：<strong>美元汇率与原油的相关性明显下降了。</strong></p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/d90219f5-38b1-41cf-96d8-748b8fdfec0f.jpeg\" title=\"\" /></p>\n<p style=\"text-align: justify;\">众所周知，今年油价有两波冲高（美伊地缘冲突）。上半年那波冲高，美元与油价的正相关性达到60%左右。<strong>“油价暴涨→资金避险→美元上涨”的逻辑链非常清晰。</strong></p>\n<p style=\"text-align: justify;\">但下半年的行情则明显不同。美元与油价的相关系数降至不到20%。油价上涨并不代表美元上涨，甚至一些时候美元是走平回落的。<strong>换言之，美元的主导逻辑正在发生变化。</strong></p>\n<p st",
+      "link": "https://wallstreetcn.com/articles/3779555",
+      "published": "Mon, 17 Aug 2026 00:15:06 GMT"
     },
     {
-      "source": "财联社",
-      "title": "哥伦比亚强震已致289人死亡",
-      "summary": "【哥伦比亚强震已致289人死亡】财联社8月17日电，哥伦比亚国家灾害风险管理局8月16日更新的数据显示，截至当天7时30分，强震已造成该国289人死亡、4187人受伤。死亡人数较前一日公布的数据下调5人，该机构未说明原因。 (央视新闻)",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 23:04:16 GMT"
+      "source": "华尔街见闻",
+      "title": "锐捷网络财报点评：环比365%增长的交换机龙头，AI硬件率先新高的板块在交易什么？",
+      "summary": "<p style=\"text-align: left;\">国产交换机龙头锐捷网络2026年中报，营收88.32亿元（+32.8%）、归母净利6.94亿元（+53.5%），Q2单季净利5.71亿元、环比+365%。表面看是一次超预期的业绩兑现；更深一层，这是一次商业模式切换的确认——毛利率环比下降6.19个百分点，净利率却翻倍，背后是「互联网直销白盒 + JDM（联合研发制造）模式」对三费的极致摊薄。</p><p style=\"text-align: left;\">交换机这条赛道，过去一年被光模块的光芒遮蔽，如今芯片涨价的信号正在把它重新照亮。</p>",
+      "link": "https://wallstreetcn.com/member/articles/3779523",
+      "published": "Mon, 17 Aug 2026 00:14:51 GMT"
     },
     {
-      "source": "财联社",
-      "title": "爬楼梯可降低心血管疾病死亡率",
-      "summary": "【爬楼梯可降低心血管疾病死亡率】财联社8月17日电，英国东安格利亚大学和诺福克与诺里奇大学医院科学家开展的一项新研究表明，爬楼梯能显著降低人们死于心血管疾病的风险，有助延年益寿。相关论文发表于最新一期《美国心血管药物杂志》。团队重点探讨了爬楼梯能否降低心血管疾病死亡及过早死亡的风险。在梳理近1900项研究后，他们聚焦分析了9项高质量研究中48万多名参与者的数据，中位随访期为14年。研究人群既包括健康者，也涵盖有心脏病史的人。年龄跨度从35岁到84岁，其中53%为女性。结果显示，与不常爬楼梯者相比，经常爬楼梯的人死于心脏相关疾病的风险降低39%，全因死亡风险降低24%。同时，他们罹患心脏病发作、中风和心力衰竭等严重心血管疾病的几率也更低。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 22:57:51 GMT"
+      "source": "华尔街见闻",
+      "title": "20年期美债拍卖成本周焦点，收益率或创2020年重启以来新高",
+      "summary": "<p>美国国债市场本周迎来新考验。在30年期和10年期国债相继以多年高位收益率完成拍卖后，20年期国债将于周三登场，市场将借此检验投资者对长期债务的需求是否依然稳健。</p>\n<p>据彭博报道，美国财政部计划于周三出售160亿美元20年期国债。<strong>截至上周五，该债券在预发行市场的指示收益率约为5.27%。若最终成交收益率达到这一水平，将创下该期限债券自2020年重启发行以来的最高纪录，</strong>折射出投资者在通胀与政府支出双重忧虑下，要求更高回报方愿持有长期债务的市场心态。</p>\n<p>上周五，20年期美债收益率交投于5.25%附近，收益率曲线持续陡峭化。与此同时，上周公布的CPI数据与PPI数据均符合市场预期，促使交易员下调了对美联储9月加息的押注，短端收益率随之回落，而长端收益率则逆势走高，进一步加剧曲线陡峭化态势。</p>\n<h2>长端收益率走高，曲线陡峭化加剧</h2>\n<p>短端与长端利率的分化走势，折射出当前市场对货币政策与财政前景的不同判断。</p>\n<p>上周通胀数据落在预期区间内，令市场对美联储近期进一步收紧政策的预期有所降温。对货币政策最为敏感",
+      "link": "https://wallstreetcn.com/articles/3779552",
+      "published": "Mon, 17 Aug 2026 00:05:31 GMT"
     },
     {
-      "source": "财联社",
-      "title": "AI“组织时钟”能预测人体器官生物学年龄",
-      "summary": "【AI“组织时钟”能预测人体器官生物学年龄】财联社8月17日电，奥地利科学院分子医学研究中心和维也纳大学路德维希·博尔兹曼网络医学研究所研究团队开发出一种基于人工智能（AI）的“组织时钟”，能从组织学图像中预测人体器官的生物学年龄，而且组织的衰老信息还可以通过血液样本检测出来。这为理解衰老过程提供了新的框架，并为疾病监测和早期诊断开辟新路径。相关论文14日发表于《自然·医学》杂志。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 22:57:24 GMT"
+      "source": "华尔街见闻",
+      "title": "短约还是长约？新兴云厂商与AWS走向两条路",
+      "summary": "<h2 style=\"text-align: left;\">短约还是长约？新兴云厂商与AWS走向两条路</h2>\n<p style=\"text-align: left;\">云计算市场正在出现一场关于合同期限的战略分歧。以Nebius和CoreWeave为代表的新兴云厂商（neocloud）正向投资者力推短期合同的高溢价逻辑，而云计算巨头亚马逊AWS则坚守长期合同策略，以锁定未来收入。两种路径各有其商业逻辑，但哪条路最终能带来更优的业务回报，目前仍是未解之题。</p>\n<p style=\"text-align: left;\">8月16日，据科技媒体The Informaiton报道，刚刚过去的一周，Nebius和CoreWeave相继向投资者推介短期合同业务，称<strong>在GPU算力供应紧张、AI计算需求激增的背景下，短期合同可带来显著更高的定价溢价。</strong>两家公司股价随即大幅上涨。</p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/0c3583",
+      "link": "https://wallstreetcn.com/articles/3779553",
+      "published": "Sun, 16 Aug 2026 23:57:18 GMT"
     },
     {
-      "source": "财联社",
-      "title": "北交所40份半年报出炉 超七成净利增长",
-      "summary": "【北交所40份半年报出炉 超七成净利增长】财联社8月17日电，根据统计，截至8月15日，北交所共有40家上市公司披露了2026年半年报。整体来看，目前已披露半年报的企业中，30家企业实现净利润同比增长或扭亏为盈，占比75%；营业收入超1亿元的企业37家，其中超10亿元的企业共6家，分别为一诺威、安达科技、颖泰生物、欧伦电气、吉林碳谷和雷神科技。",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 22:56:16 GMT"
+      "source": "华尔街见闻",
+      "title": "伊朗称与阿曼敲定霍尔木兹海峡航运航线方案",
+      "summary": "<p>据伊朗国防通讯社报道，当地时间15日，伊朗外交部发言人巴加埃表示，历经数周技术磋商，伊朗已与阿曼敲定霍尔木兹海峡航运航线方案。</p>\n<p>巴加埃在接受伊朗国防通讯社采访时表示，作为扼守这条战略航道的两个沿岸国家，伊阿两国在6月18日签署安全通航路线谅解备忘录后，已于3个月前启动密集谈判。巴加埃称：“尽管遭到美方阻挠，过去3周谈判仍取得积极进展，双方已就航线划定方案达成一致。”</p>\n<p>报道称，据巴加埃介绍，该方案由伊朗外交部牵头协调，国防、安全、环境部门共同参与制定。伊阿两国仍在协商剩余未尽事宜，包括拟由伊朗、阿曼共同发布的联合声明，后续双边沟通将持续至全部流程敲定为止。巴加埃强调，伊阿此次共识属于两个沿岸主权国家之间的独立协议，初衷是保障船舶安全通行海峡，同时维护两国各自主权。巴加埃还表示，海峡安全态势彻底恢复、商业航运重回常态，前提是美方停止其非法行动、军事威慑与海上封锁，且美方需为过去两个月违背承诺的行为作出赔偿。</p>\n<p>本次磋商是伊美谅解备忘录框架下启动的专项技术谈判内容，备忘录指定由伊朗与阿曼共同制定霍尔木兹海峡全新通航规则。尽管伊阿持续推进航线磋商，",
+      "link": "https://wallstreetcn.com/articles/3779551",
+      "published": "Sun, 16 Aug 2026 23:53:54 GMT"
     },
     {
-      "source": "财联社",
-      "title": "高频数据传递经济平稳运行积极信号",
-      "summary": "【高频数据传递经济平稳运行积极信号】财联社8月17日电，7月国民经济运行情况即将发布，作为研判三季度及下半年经济走势的重要观测窗口，市场对7月经济表现高度关注。从多项高频数据与先行指标来看，线下消费、基建、先进制造等领域释放积极信号，经济总体保持平稳运行，但稳增长压力依然存在，宏观政策仍需加力提效，着力扩内需稳增长。 (中证报)",
-      "link": "",
-      "published": "Sun, 16 Aug 2026 22:54:47 GMT"
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月17日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p>上周五，<span style=\"color: #ff0000;\">美经济数据逊色</span>，<span style=\"color: #ff0000;\">美股回落</span>，标普跌落纪录高位，和纳指结束两连涨，但均连涨三周，道指刷新逾一周低位；芯片指数止步三连涨，<span style=\"color: #ff0000;\">AI融资担忧击垮博通</span>、博通收跌近6%，但<span style=\"color: #ff0000;\">存储芯片股继续走高、全周大涨</span>，闪迪收涨超7%、全周累涨35%，SK海力士一周涨超20%；<span style=\"color",
+      "link": "https://wallstreetcn.com/articles/3779504",
+      "published": "Sun, 16 Aug 2026 23:00:11 GMT"
     },
     {
-      "source": "证券时报",
-      "title": "A股科技修复行情延续 机构：结构性轮动或成主旋律 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnRDN4R2w4M3Vlcm9hb01DcWloaktxSmpnbXdjR3ZKT1o3Z05JSXowVjFaclpIaHFJTFI3LUk0bFN0YmlvOTVzbERRbmtWQTVSS3oway1mQQ?oc=5\" target=\"_blank\">A股科技修复行情延续 机构：结构性轮动或成主旋律</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnRDN4R2w4M3Vlcm9hb01DcWloaktxSmpnbXdjR3ZKT1o3Z05JSXowVjFaclpIaHFJTFI3LUk0bFN0YmlvOTVzbERRbmtWQTVSS3oway1mQQ?oc=5",
-      "published": "Sun, 16 Aug 2026 23:07:00 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "A股科技修复行情延续 机构：结构性轮动或成主旋律 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE11WEZIcFFTWW1uUk1Ub2tRalNPVEVoY0ZBcVhPY3NNZDR3MmVCWW1DMko5OTBtaXNaZG5uQzctSGhiWTNkUEN6ZHNYamVqTDJrUVhZNGxoOA?oc=5\" target=\"_blank\">A股科技修复行情延续 机构：结构性轮动或成主旋律</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11WEZIcFFTWW1uUk1Ub2tRalNPVEVoY0ZBcVhPY3NNZDR3MmVCWW1DMko5OTBtaXNaZG5uQzctSGhiWTNkUEN6ZHNYamVqTDJrUVhZNGxoOA?oc=5",
-      "published": "Sun, 16 Aug 2026 23:22:00 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "A股年内94只新股上市 首日平均涨幅279.22% - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWmtEZWY3MGhHcmVIbEw5blg1STZxUC0wY1NEU0E5bXRrUkwtR1BlakJQUVJoTG9kcXlNdTk2N0k4eDFLNnJEa2liMEI2UTNCOHZOV3dhQy1weWtK?oc=5\" target=\"_blank\">A股年内94只新股上市 首日平均涨幅279.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWmtEZWY3MGhHcmVIbEw5blg1STZxUC0wY1NEU0E5bXRrUkwtR1BlakJQUVJoTG9kcXlNdTk2N0k4eDFLNnJEa2liMEI2UTNCOHZOV3dhQy1weWtK?oc=5",
-      "published": "Sun, 16 Aug 2026 23:24:00 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "A股年内94只新股上市 首日平均涨幅279.22% - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSFNVMU1fMXpSUm5VRUZOaXdBbEIyUmpMRHlNLWdUbk9JNElWSHFpdDFkMUp0dUNDb0lWWklhTC05SlI5UDhUQzRqSFQ1V3hxWEVnQ1pONldHMkpv?oc=5\" target=\"_blank\">A股年内94只新股上市 首日平均涨幅279.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nSFNVMU1fMXpSUm5VRUZOaXdBbEIyUmpMRHlNLWdUbk9JNElWSHFpdDFkMUp0dUNDb0lWWklhTC05SlI5UDhUQzRqSFQ1V3hxWEVnQ1pONldHMkpv?oc=5",
-      "published": "Sun, 16 Aug 2026 23:07:00 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "积极因素持续汇聚 A股稳市场信号密集释放 - 证券时报",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KWjRWM0JvV2F6NTFlbk5ZQjVNWDY0WGk4TWV6ZjBaM1RqWGFUSTgwRkttV3pGc2gxSGYyT3Mzb3NsMFJQSHR3TGxfUFN6OUExRk1qR0txRDZwdTRo?oc=5\" target=\"_blank\">积极因素持续汇聚 A股稳市场信号密集释放</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KWjRWM0JvV2F6NTFlbk5ZQjVNWDY0WGk4TWV6ZjBaM1RqWGFUSTgwRkttV3pGc2gxSGYyT3Mzb3NsMFJQSHR3TGxfUFN6OUExRk1qR0txRDZwdTRo?oc=5",
-      "published": "Sun, 16 Aug 2026 23:27:00 GMT"
+      "source": "第一财经",
+      "title": "盘前必读丨“年内最贵新股”明日上市；贵州茅台上半年业绩出炉",
+      "summary": "<figure><img alt=\"盘前必读丨“年内最贵新股”明日上市；贵州茅台上半年业绩出炉\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/8092e56bbf47bdc4b60ea8529180d658.jpg\" /></figure><p>机构认为，资金博弈与分歧状态下，行情运行过程中仍将伴随节奏波动与反复，板块轮动与结构性分化或将延续。</p><p><strong>【财经日历】</strong></p>\n\n<p>国家统计局公布7月国民经济数据</p>\n\n<p>国家统计局公布70城住宅销售价格月度报告</p>\n\n<p>DeepSeek-V4 API定价调整生效</p>\n\n<p>2026第四届固态电池技术产业发展大会(苏州，8/17-8/19)</p>\n\n<p>新股申购：华大海天</p>\n\n<p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" height=\"87\" src=\"https://imgcdn.yicai.com/uppics/images/",
+      "link": "https://www.yicai.com/news/103320108.html",
+      "published": "Mon, 17 Aug 2026 00:05:17 GMT"
     }
   ]
 }
