@@ -1,8 +1,8 @@
 {
   "date": "2026-08-19",
   "hour": "01",
-  "total": 16,
-  "fetched_at": "2026-08-19T01:00:57.035376+08:00",
+  "total": 26,
+  "fetched_at": "2026-08-19T01:17:22.260684+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -47,11 +47,88 @@
       "published": "Tue, 18 Aug 2026 15:50:00 GMT"
     },
     {
+      "source": "新浪财经",
+      "title": "盛航股份股东万达控股增持226.04万股耗资3092.17万元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk5ES2pfUXhIbm9aYkZuNzAyUWJ0X2t6MXV6Z2pQMEkzcE9lOXh6VWJ1QnVYMlQ4MlAzUzRSRlVweENncDBsOTcxc01XZmoxQzhmbzlnX1pJWnVHQWtYQ2g0QnNaWGpTaUpjdWJFRDg0TkFnTklUZVk1cDhhTnMzZ1V3R1dpbDhOMWQ4U3VB?oc=5\" target=\"_blank\">盛航股份股东万达控股增持226.04万股耗资3092.17万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWk5ES2pfUXhIbm9aYkZuNzAyUWJ0X2t6MXV6Z2pQMEkzcE9lOXh6VWJ1QnVYMlQ4MlAzUzRSRlVweENncDBsOTcxc01XZmoxQzhmbzlnX1pJWnVHQWtYQ2g0QnNaWGpTaUpjdWJFRDg0TkFnTklUZVk1cDhhTnMzZ1V3R1dpbDhOMWQ4U3VB?oc=5",
+      "published": "Tue, 18 Aug 2026 15:40:00 GMT"
+    },
+    {
       "source": "同花顺",
-      "title": "美银调查：基金经理股票配置升至近五年最高 空头几乎绝迹 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xQTVfQVQxcjN3UllfRHNCRUh5ZE9aSEdRZ1Rpcmp4cURxVlZFT1NNX1BMdHYzZXBPV2RGSURkT2c5dW96SXIxSmpvR19DWlZOWnNiOXI2VnBoM2JDVnc?oc=5\" target=\"_blank\">美银调查：基金经理股票配置升至近五年最高 空头几乎绝迹</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xQTVfQVQxcjN3UllfRHNCRUh5ZE9aSEdRZ1Rpcmp4cURxVlZFT1NNX1BMdHYzZXBPV2RGSURkT2c5dW96SXIxSmpvR19DWlZOWnNiOXI2VnBoM2JDVnc?oc=5",
-      "published": "Tue, 18 Aug 2026 15:55:05 GMT"
+      "title": "阿联酋与美国两国总统通电话 讨论双边合作及地区局势",
+      "summary": "阿联酋总统穆罕默德与美国总统特朗普通电话，就两国合作及加强双边关系等议题进行了讨论。当前，美国与伊朗的冲突仍在持续，为期两个月的和平谈判窗口期已于近日结束，未能就解决冲突取得任何进展。美方表示，伊朗在间接谈判中拒绝做出让步。此外，当地时间17日，阿联酋总统穆罕默德在阿布扎比会见了阿曼苏丹海赛姆，双方就地区安全及加强两国经济合作等议题展开会谈。双方一致同意继续就共同面临的地区挑战保持合作，并强调加强伙伴关系对维护安全与稳定的重要性。双方还回顾了两国长期的双边关系。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260819/c679061378.shtml",
+      "published": "Tue, 18 Aug 2026 17:16:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沪铜夜盘收跌0.89%",
+      "summary": "国际铜夜盘收跌1.06%，沪铜收跌0.89%，沪铝收跌0.75%，沪锌收跌1.07%，沪铅收涨0.47%，沪镍收跌0.25%，沪锡收跌1.21%。氧化铝夜盘收跌0.07%，铝合金收跌0.46%。不锈钢夜盘收涨0.25%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679061374.shtml",
+      "published": "Tue, 18 Aug 2026 17:12:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "LME期铜收跌171美元",
+      "summary": "LME期铜收跌171美元，报13986美元/吨。LME期铝收跌46美元，报3220美元/吨。LME期锌收跌76美元，报3693美元/吨。LME期铅收跌1美元，报1887美元/吨。LME期镍收跌83美元，报16751美元/吨。LME期锡收跌951美元，报54819美元/吨。LME期钴收平，报56290美元/吨。",
+      "link": "https://news.10jqka.com.cn/20260819/c679061361.shtml",
+      "published": "Tue, 18 Aug 2026 16:57:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "津巴布韦船只倾覆事故死亡人数升至93人",
+      "summary": "当地时间18日，津巴布韦地方政府和公共工程部部长表示，该国北部卡里巴湖11日发生的船只倾覆事故死亡人数已升至93人。津巴布韦政府方面在事故发生后表示，船上载有119名成人，另有数量不明的儿童，事发后已有77人获救。随着搜救工作的推进，更多遇难者遗体被打捞上来。据悉，船上乘客实际数量远超登记人数。幸存者表示，船上大量物品、行李在船只倾覆后阻碍了乘客逃生。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260819/c679061352.shtml",
+      "published": "Tue, 18 Aug 2026 16:53:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平",
+      "summary": "随着美国与伊朗之间紧张局势升温，油价和债券收益率上涨，欧洲股市录得今年以来的最长连跌。欧洲斯托克600指数周二收跌0.7%，连续第五个交易日走低。上一次出现这样的连跌是在2025年11月。科技股表现最差，其中Soitec和Austria Technologie &amp; Systemtechnik AG等硬件股领跌。能源股则上涨，布伦特原油升破每桶90美元，此前美国总统特朗普表示，目前没有与伊朗进行谈判。此轮下跌之前，强劲的财报季曾推动该指数创下纪录高位。随着企业财报发布节奏放缓，投资者正在评估油价上涨带来的通胀影响，以及人工智能支出增加的影响。欧洲股市成交量目前接近年内最低水平，夏季流动性清淡可能进一步放大市场波动。",
+      "link": "https://news.10jqka.com.cn/20260819/c679061345.shtml",
+      "published": "Tue, 18 Aug 2026 16:36:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄方：瑞典扣留涉俄货船出于政治动机",
+      "summary": "俄罗斯驻瑞典大使谢尔盖·别利亚耶夫18日表示，瑞典2025年年底至今扣留过多艘为俄罗斯利益服务的货船，此类举动是出于政治动机，违反国际海事法。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260819/c679061284.shtml",
+      "published": "Tue, 18 Aug 2026 16:09:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+      "summary": "据韩国方面消息，在美国总统特朗普要求大幅缩减韩美联合军演规模后，韩美军方18日举行紧急会晤，决定大幅压缩正在进行的“乙支自由护盾”联合军演日程，原计划持续至27日的演习将提前至本周结束，第二阶段反击演练被取消。“乙支自由护盾”联合军演于17日启动，原计划分为两个阶段进行：第一阶段为17日至21日，以应对攻击和防御为主要演练内容；第二阶段原定于23日至27日举行，重点内容为反击作战演练。韩国军方消息人士透露，韩美军方18日在紧急协商后决定，本次演习仅进行第一阶段的防御作战部分，结束后美军人员将撤离；原计划中未能实施的训练项目将另行寻找替代方案。这一调整意味着“乙支自由护盾”演习的整体训练时间比原计划缩短了约一半。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260819/c679061268.shtml",
+      "published": "Tue, 18 Aug 2026 16:04:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "哥伦比亚强震遇难人数已达304人 逾29万人受灾",
+      "summary": "哥伦比亚国家灾害风险管理局18日公布最新数据显示，截至当地时间18日6时30分，该国西部10日发生的强震已造成304人死亡、4548人受伤、426人失踪。数据显示，哥伦比亚全国有15个省的472个市镇受到此次地震影响，受灾人数达29.2万人。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260818/c679061209.shtml",
+      "published": "Tue, 18 Aug 2026 15:48:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧洲四大股指收盘涨跌不一",
+      "summary": "欧洲四大股指收盘涨跌不一，英国富时100指数涨0.07%，法国CAC40指数跌0.75%，德国DAX30指数跌0.71%，富时意大利MIB指数跌1.06%。",
+      "link": "https://news.10jqka.com.cn/20260818/c679061203.shtml",
+      "published": "Tue, 18 Aug 2026 15:43:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗称美国曾考虑对伊使用“委内瑞拉”模式但未得逞",
+      "summary": "伊朗伊斯兰革命卫队副总司令穆斯塔法·伊扎迪日前表示，美国曾考虑将“委内瑞拉”模式用于伊朗，但最终未能得逞。据伊朗方面18日消息，伊扎迪说，美国曾制定推翻伊朗政权和“肢解”伊朗的方案，甚至考虑将“委内瑞拉”模式用于伊朗，但最终未能实现其目标，并在多个领域遭到失败。他还表示，美方空中力量遭受重大损失，包括无人机和载人飞机在内的200余架美国飞行器坠毁。此外，根据公布的数据，大多数美国年轻人不赞成对伊朗发动战争。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260818/c679061184.shtml",
+      "published": "Tue, 18 Aug 2026 15:31:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美银调查：基金经理股票配置升至近五年最高 空头几乎绝迹",
+      "summary": "美国银行的Michael Hartnett表示，全球投资者进一步提高股票持仓，股票配置升至近五年来最高水平，市场几乎没有给悲观者留下空间。Hartnett为首的美银策略师团队在报告中写道，美银最新行业调查显示，净56%的基金经理超配股票，占比为2021年11月以来最高。现金配置则降至“极低”的3.5%。报告称，市场共识是经济不会出现明显“着陆”、美联储不会加息、AI资本开支不会削减、民主党不会在中期选举中大胜。他们认为当前仓位仍意味着投资者更应在风险资产内部撤退或轮动，而不是进一步加仓，报告重申了近期转向更防御性市场板块的观点。",
+      "link": "https://news.10jqka.com.cn/20260818/c679061183.shtml",
+      "published": "Tue, 18 Aug 2026 15:31:07 GMT"
     },
     {
       "source": "财联社",
@@ -103,16 +180,9 @@
       "published": "Tue, 18 Aug 2026 15:20:04 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "GPT-5.6 Sol独家限时半价，SemiAnalysis解读：意在“操纵”大模型市占率数据！",
-      "summary": "<p style=\"text-align: left;\">OpenAI旗舰模型GPT-5.6 Sol在两个第三方平台迎来大幅折扣，但这场看似实惠的促销背后，正引发业界对其真实动机的质疑。</p>\n<p style=\"text-align: left;\">8月17至18日，<strong>OpenAI与OpenRouter及Vercel AI Gateway合作，在两个平台上对GPT-5.6 Sol提供50%限时折扣，有效期至2026年9月18日。折扣自动生效，开发者无需修改代码即可享受。</strong></p>\n<p style=\"text-align: left;\">OpenAI官方API定价维持不变，Azure、Bedrock等其他渠道亦未跟进调整。</p>\n<p style=\"text-align: left;\">行业分析机构SemiAnalysis随即在X平台提出一种引人关注的解读：<strong>OpenRouter与Vercel在OpenAI总用量中占比极小，但二者恰恰是业界估算AI模型市场份额所依赖的主要公开数据源。</strong></p>\n<p style=\"tex",
-      "link": "https://wallstreetcn.com/articles/3779727",
-      "published": "Tue, 18 Aug 2026 15:01:14 GMT"
-    },
-    {
       "source": "第一财经",
-      "title": "欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JaHdqbVRpOGc1aXBqUHBJQjNUWC1KR3lvMDVNZ3hka3phWm53bTF6T3lVR0ZodTBjb3lkS0hHS1pnS1o3TmprUFZQbURtV2pkdFRj?oc=5\" target=\"_blank\">欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "title": "欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平 - yicai.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JaHdqbVRpOGc1aXBqUHBJQjNUWC1KR3lvMDVNZ3hka3phWm53bTF6T3lVR0ZodTBjb3lkS0hHS1pnS1o3TmprUFZQbURtV2pkdFRj?oc=5\" target=\"_blank\">欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yicai.com</font>",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JaHdqbVRpOGc1aXBqUHBJQjNUWC1KR3lvMDVNZ3hka3phWm53bTF6T3lVR0ZodTBjb3lkS0hHS1pnS1o3TmprUFZQbURtV2pkdFRj?oc=5",
       "published": "Tue, 18 Aug 2026 16:48:18 GMT"
     }
