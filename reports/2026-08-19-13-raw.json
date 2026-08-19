@@ -1,55 +1,76 @@
 {
   "date": "2026-08-19",
   "hour": "13",
-  "total": 23,
-  "fetched_at": "2026-08-19T13:00:55.295240+08:00",
+  "total": 52,
+  "fetched_at": "2026-08-19T13:19:32.313953+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "宇树科技首日飙涨486%，A股港股机器人概念集体“跪迎”，多股跌超10% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMGtlS245dDVCaWN5UDdRUjNPZklwM3NJSXA4Yy1XNU9GWm1jdWZEdE9ROGpyd1hnUlI0YlU1WlhiQjdabTgtTXViTjhnUXdickJkT2Vtb09yUGRnZ3pkRmR5QnJHRVU3SzR6NEdxY0ZDYXJkWVE?oc=5\" target=\"_blank\">宇树科技首日飙涨486%，A股港股机器人概念集体“跪迎”，多股跌超10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股早盘集体重挫 宇树科技科创板上市首日大涨 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBQbnJyYk53SF9BTXNjbTY5QzF1aURmLVBMeTkwOEhRenVKRGVlT3NkcTlhcnlQUDJBWFZvUzNwQzVVVloyaVFRSDEtVFc0Y3NsZ0NzSEF1bFlZMW1ETnZyN0tjQUpBYWtaN2UxbUV1ZjBidzd2S0Z6MA?oc=5\" target=\"_blank\">A股早盘集体重挫 宇树科技科创板上市首日大涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQbnJyYk53SF9BTXNjbTY5QzF1aURmLVBMeTkwOEhRenVKRGVlT3NkcTlhcnlQUDJBWFZvUzNwQzVVVloyaVFRSDEtVFc0Y3NsZ0NzSEF1bFlZMW1ETnZyN0tjQUpBYWtaN2UxbUV1ZjBidzd2S0Z6MA?oc=5",
+      "published": "Wed, 19 Aug 2026 05:13:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股大幅回调，沪指半日下跌1.96% - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE16UEdKaG1TM0ZIWDZabmRRLTVWSTZTM0VvOW8wS2tudkM1anhOZ21vRjN2SXhCeUZFSmtSX25KOEJyemZZc2RmVnJYY2ZLM05CVENWYXk3TG9VREtFWVE5X0hCcWhBMzNUNUc5TXZjY1B2SE1kYnpscA?oc=5\" target=\"_blank\">A股大幅回调，沪指半日下跌1.96%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16UEdKaG1TM0ZIWDZabmRRLTVWSTZTM0VvOW8wS2tudkM1anhOZ21vRjN2SXhCeUZFSmtSX25KOEJyemZZc2RmVnJYY2ZLM05CVENWYXk3TG9VREtFWVE5X0hCcWhBMzNUNUc5TXZjY1B2SE1kYnpscA?oc=5",
+      "published": "Wed, 19 Aug 2026 05:06:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "宇树科技首日飙涨486%，A股港股机器人概念集体“跪迎”，多股跌超10% - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMGtlS245dDVCaWN5UDdRUjNPZklwM3NJSXA4Yy1XNU9GWm1jdWZEdE9ROGpyd1hnUlI0YlU1WlhiQjdabTgtTXViTjhnUXdickJkT2Vtb09yUGRnZ3pkRmR5QnJHRVU3SzR6NEdxY0ZDYXJkWVE?oc=5\" target=\"_blank\">宇树科技首日飙涨486%，A股港股机器人概念集体“跪迎”，多股跌超10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMGtlS245dDVCaWN5UDdRUjNPZklwM3NJSXA4Yy1XNU9GWm1jdWZEdE9ROGpyd1hnUlI0YlU1WlhiQjdabTgtTXViTjhnUXdickJkT2Vtb09yUGRnZ3pkRmR5QnJHRVU3SzR6NEdxY0ZDYXJkWVE?oc=5",
       "published": "Wed, 19 Aug 2026 04:49:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "“易中天”集体大跌，科创50跌超6%，A股半导体、CPO、机器人概念跳水，兆易创新、寒武纪跌超8%，上纬新材重挫超18% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE43N21WemVlWkFLeVJzay1vLW01WU1ZOG1HNk55NWZkdFJuclI4b21QSkpTb1NLYVNkVmZWMmZLbVdmVjZvVWhVWklLWVd6elk0M29zY1hCTWhnSFFFMWVOMzhBQmxudVgyZVV0Wm1KaV9iV3J6bkE?oc=5\" target=\"_blank\">“易中天”集体大跌，科创50跌超6%，A股半导体、CPO、机器人概念跳水，兆易创新、寒武纪跌超8%，上纬新材重挫超18%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股市场投资逻辑加速转向 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5XeS1ZcmFTZVBxajIzUkJLUUg1cUVpSkliT0VycUx3ZGJUa045UU5rekUzMVJ3Y09FTHBjMHZxN1ZHY2ZyWE93bERGa1dCaUNVVEpLclVtN1NWTnRYS0drTkU5WndyWGJwTGtabGczeTZqb2pBOFlCRQ?oc=5\" target=\"_blank\">A股市场投资逻辑加速转向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XeS1ZcmFTZVBxajIzUkJLUUg1cUVpSkliT0VycUx3ZGJUa045UU5rekUzMVJ3Y09FTHBjMHZxN1ZHY2ZyWE93bERGa1dCaUNVVEpLclVtN1NWTnRYS0drTkU5WndyWGJwTGtabGczeTZqb2pBOFlCRQ?oc=5",
+      "published": "Wed, 19 Aug 2026 04:53:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "“易中天”集体大跌，科创50跌超6%，A股半导体、CPO、机器人概念跳水，兆易创新、寒武纪跌超8%，上纬新材重挫超18% - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE43N21WemVlWkFLeVJzay1vLW01WU1ZOG1HNk55NWZkdFJuclI4b21QSkpTb1NLYVNkVmZWMmZLbVdmVjZvVWhVWklLWVd6elk0M29zY1hCTWhnSFFFMWVOMzhBQmxudVgyZVV0Wm1KaV9iV3J6bkE?oc=5\" target=\"_blank\">“易中天”集体大跌，科创50跌超6%，A股半导体、CPO、机器人概念跳水，兆易创新、寒武纪跌超8%，上纬新材重挫超18%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43N21WemVlWkFLeVJzay1vLW01WU1ZOG1HNk55NWZkdFJuclI4b21QSkpTb1NLYVNkVmZWMmZLbVdmVjZvVWhVWklLWVd6elk0M29zY1hCTWhnSFFFMWVOMzhBQmxudVgyZVV0Wm1KaV9iV3J6bkE?oc=5",
       "published": "Wed, 19 Aug 2026 04:02:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "3只煤炭股涨停！A股两大板块走强！ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE84dk9kV3pDOEVkMjlxaVFzWE8wNk5JZFZnX0JVT25OdWt1Sl9XMHdWOVBlQ3BDclFOYlZjN3FEUHdhZmt0RE0tWmVtTF9KcXViT0hGVmdsMVRyR1c5UHIycHZwaXBoZHZQQWh5cUJmajQtZ2VYY1E?oc=5\" target=\"_blank\">3只煤炭股涨停！A股两大板块走强！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "3只煤炭股涨停！A股两大板块走强！ - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE84dk9kV3pDOEVkMjlxaVFzWE8wNk5JZFZnX0JVT25OdWt1Sl9XMHdWOVBlQ3BDclFOYlZjN3FEUHdhZmt0RE0tWmVtTF9KcXViT0hGVmdsMVRyR1c5UHIycHZwaXBoZHZQQWh5cUJmajQtZ2VYY1E?oc=5\" target=\"_blank\">3只煤炭股涨停！A股两大板块走强！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84dk9kV3pDOEVkMjlxaVFzWE8wNk5JZFZnX0JVT25OdWt1Sl9XMHdWOVBlQ3BDclFOYlZjN3FEUHdhZmt0RE0tWmVtTF9KcXViT0hGVmdsMVRyR1c5UHIycHZwaXBoZHZQQWh5cUJmajQtZ2VYY1E?oc=5",
       "published": "Wed, 19 Aug 2026 04:10:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股中期分红加速落地，130余家公司派现超千亿 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00S1FmcHMwZmI0VnM0QXJiazRoVFJ3bjBWSnNPOEM5bDh4SDctMWhzSzF3NlY0NERrejR0R0lNclA2WW5LNTFIUWVTQ1lLMWJBdzRZSU1DWnZuUE9BbGdxMGxLUjZTR0pYUEVkb2kySDU3Z1AwVDFWdQ?oc=5\" target=\"_blank\">A股中期分红加速落地，130余家公司派现超千亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股中期分红加速落地，130余家公司派现超千亿 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00S1FmcHMwZmI0VnM0QXJiazRoVFJ3bjBWSnNPOEM5bDh4SDctMWhzSzF3NlY0NERrejR0R0lNclA2WW5LNTFIUWVTQ1lLMWJBdzRZSU1DWnZuUE9BbGdxMGxLUjZTR0pYUEVkb2kySDU3Z1AwVDFWdQ?oc=5\" target=\"_blank\">A股中期分红加速落地，130余家公司派现超千亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00S1FmcHMwZmI0VnM0QXJiazRoVFJ3bjBWSnNPOEM5bDh4SDctMWhzSzF3NlY0NERrejR0R0lNclA2WW5LNTFIUWVTQ1lLMWJBdzRZSU1DWnZuUE9BbGdxMGxLUjZTR0pYUEVkb2kySDU3Z1AwVDFWdQ?oc=5",
       "published": "Wed, 19 Aug 2026 03:46:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股午盘｜上证指数跌1.96% 存储芯片板块跌幅居前 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9DUEpoNjVEWE52dGJDelZ4bFlFc3BsX05EcUctcC02OWEwSFhMd2I3M0RuUU8yWExHUGtzQllwWnZVMDdIMS1GWWlHemJMSkZnZUpWWHk2UU5OV2hpaGIxc2RfaUlPYkg4QkNVQndPZTF0eTJKZ1k0WA?oc=5\" target=\"_blank\">A股午盘｜上证指数跌1.96% 存储芯片板块跌幅居前</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股午盘｜上证指数跌1.96% 存储芯片板块跌幅居前 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9DUEpoNjVEWE52dGJDelZ4bFlFc3BsX05EcUctcC02OWEwSFhMd2I3M0RuUU8yWExHUGtzQllwWnZVMDdIMS1GWWlHemJMSkZnZUpWWHk2UU5OV2hpaGIxc2RfaUlPYkg4QkNVQndPZTF0eTJKZ1k0WA?oc=5\" target=\"_blank\">A股午盘｜上证指数跌1.96% 存储芯片板块跌幅居前</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DUEpoNjVEWE52dGJDelZ4bFlFc3BsX05EcUctcC02OWEwSFhMd2I3M0RuUU8yWExHUGtzQllwWnZVMDdIMS1GWWlHemJMSkZnZUpWWHk2UU5OV2hpaGIxc2RfaUlPYkg4QkNVQndPZTF0eTJKZ1k0WA?oc=5",
       "published": "Wed, 19 Aug 2026 03:38:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "美银上调兆易创新A股目标价至663元 评级“买入” - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTgwNjFmWkM5bTVhV0N4VElieFlxVEtMUU5DRlJNaGJIVExEMEdkYVVJdnlHTy02OXhWM2FLNWFaeFo0eUxxV2cyekpXaFVmcVFtYzdmRy1SeG5rclpSOXd0UkRCUThjWEs3WU1nQlRTWnkzajM4VUN6TXJZZ0IxR3pzYjZabUMtNG50VUNwYjViUkE?oc=5\" target=\"_blank\">美银上调兆易创新A股目标价至663元 评级“买入”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "美银上调兆易创新A股目标价至663元 评级“买入” - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTgwNjFmWkM5bTVhV0N4VElieFlxVEtMUU5DRlJNaGJIVExEMEdkYVVJdnlHTy02OXhWM2FLNWFaeFo0eUxxV2cyekpXaFVmcVFtYzdmRy1SeG5rclpSOXd0UkRCUThjWEs3WU1nQlRTWnkzajM4VUN6TXJZZ0IxR3pzYjZabUMtNG50VUNwYjViUkE?oc=5\" target=\"_blank\">美银上调兆易创新A股目标价至663元 评级“买入”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTgwNjFmWkM5bTVhV0N4VElieFlxVEtMUU5DRlJNaGJIVExEMEdkYVVJdnlHTy02OXhWM2FLNWFaeFo0eUxxV2cyekpXaFVmcVFtYzdmRy1SeG5rclpSOXd0UkRCUThjWEs3WU1nQlRTWnkzajM4VUN6TXJZZ0IxR3pzYjZabUMtNG50VUNwYjViUkE?oc=5",
       "published": "Wed, 19 Aug 2026 04:33:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股异动丨中科蓝讯大跌12.6%，上半年归母净利暴增265%扣非反降8% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQU14bnpNV1hzZXBBWEFTNzh0aFVuNWMyNEU1N1N5emtpNGFEcUV2UnRrX2dmVkNJTWw3ZVgweEdkX0tKMkd5aGVXVVpMVUhlVmpKem5ydzk4cjlWWHpmWU45eWNhWTdLcXE3c05abGp5bHRqV1hLQ0lpM3hMTTdYTA?oc=5\" target=\"_blank\">A股异动丨中科蓝讯大跌12.6%，上半年归母净利暴增265%扣非反降8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股异动丨中科蓝讯大跌12.6%，上半年归母净利暴增265%扣非反降8% - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPQU14bnpNV1hzZXBBWEFTNzh0aFVuNWMyNEU1N1N5emtpNGFEcUV2UnRrX2dmVkNJTWw3ZVgweEdkX0tKMkd5aGVXVVpMVUhlVmpKem5ydzk4cjlWWHpmWU45eWNhWTdLcXE3c05abGp5bHRqV1hLQ0lpM3hMTTdYTA?oc=5\" target=\"_blank\">A股异动丨中科蓝讯大跌12.6%，上半年归母净利暴增265%扣非反降8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQU14bnpNV1hzZXBBWEFTNzh0aFVuNWMyNEU1N1N5emtpNGFEcUV2UnRrX2dmVkNJTWw3ZVgweEdkX0tKMkd5aGVXVVpMVUhlVmpKem5ydzk4cjlWWHpmWU45eWNhWTdLcXE3c05abGp5bHRqV1hLQ0lpM3hMTTdYTA?oc=5",
       "published": "Wed, 19 Aug 2026 03:50:00 GMT"
     },
@@ -62,10 +83,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "A股-研报详情 - 手机新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWl9DdzZPSk0xRkxOUGx3eEE3ZkpIYTNsZUVnSXFnRXExdTNrcFpUTTRmS0FZUWFlMUJncXVfUmdpOFRRWnYyWHh6c0FybXNVNGVGVVRqU24xc0h1WXV3LUlaekEwcWtDZUhEcTNtMU82c1RpeUVsX0J1cG12d19vNnJQcUFvakUtM21QeDRLQ2E4Q3Vzel9R?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWl9DdzZPSk0xRkxOUGx3eEE3ZkpIYTNsZUVnSXFnRXExdTNrcFpUTTRmS0FZUWFlMUJncXVfUmdpOFRRWnYyWHh6c0FybXNVNGVGVVRqU24xc0h1WXV3LUlaekEwcWtDZUhEcTNtMU82c1RpeUVsX0J1cG12d19vNnJQcUFvakUtM21QeDRLQ2E4Q3Vzel9R?oc=5",
-      "published": "Wed, 19 Aug 2026 03:18:02 GMT"
+      "title": "美团-W午前涨近3%宇树科技首挂暴涨 美团系持股浮盈超300亿元 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0VtLXB6SWpzcW84NkNLWk1ueVZvRVl1VTduc0czRGh2TGFUMjRjSE41Y19la19zaUNKVXdQZm1FQ1JVWDRoVHFoc1VzQzlxR3hkY0xfTGZMMFJ6cXNYLXlSazc3TDNJWlNWUFJnMGU1NkhxcE5OdXZDMURTeUpnMExqbU5mMTdLZW9yS002dzRTY0tkMHlQaDFCR0NqZmZ3RmJpNC1CRFRDMDJLbDI3VVM4TFRYcWtqd2htVERDTFhRVjd4bzRGTExOSWs5Vl9lV2FuTkNRNjlYUC1leDdjR2VMLXBWeWxVakp3WQ?oc=5\" target=\"_blank\">美团-W午前涨近3%宇树科技首挂暴涨 美团系持股浮盈超300亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0VtLXB6SWpzcW84NkNLWk1ueVZvRVl1VTduc0czRGh2TGFUMjRjSE41Y19la19zaUNKVXdQZm1FQ1JVWDRoVHFoc1VzQzlxR3hkY0xfTGZMMFJ6cXNYLXlSazc3TDNJWlNWUFJnMGU1NkhxcE5OdXZDMURTeUpnMExqbU5mMTdLZW9yS002dzRTY0tkMHlQaDFCR0NqZmZ3RmJpNC1CRFRDMDJLbDI3VVM4TFRYcWtqd2htVERDTFhRVjd4bzRGTExOSWs5Vl9lV2FuTkNRNjlYUC1leDdjR2VMLXBWeWxVakp3WQ?oc=5",
+      "published": "Wed, 19 Aug 2026 03:58:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -83,31 +104,150 @@
     },
     {
       "source": "东方财富",
-      "title": "中信证券：算力新技术、微盘跨界、供电新架构、锂电的主题热情有望升温 - finance.eastmoney.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jYWJRWG9LVHIwZ2g5TlBFTVBvdkdMeG5kUDZMS1FhZzVmbUtwc20wbTExTktHSmN0NlF1bXdqX3VpVE1yZE5nNmJrZm9nOHFuTHdmcG9Sd3M5eHRYYzRyeUlRLVl4dw?oc=5\" target=\"_blank\">中信证券：算力新技术、微盘跨界、供电新架构、锂电的主题热情有望升温</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.eastmoney.com</font>",
+      "title": "中信证券：算力新技术、微盘跨界、供电新架构、锂电的主题热情有望升温 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jYWJRWG9LVHIwZ2g5TlBFTVBvdkdMeG5kUDZMS1FhZzVmbUtwc20wbTExTktHSmN0NlF1bXdqX3VpVE1yZE5nNmJrZm9nOHFuTHdmcG9Sd3M5eHRYYzRyeUlRLVl4dw?oc=5\" target=\"_blank\">中信证券：算力新技术、微盘跨界、供电新架构、锂电的主题热情有望升温</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jYWJRWG9LVHIwZ2g5TlBFTVBvdkdMeG5kUDZMS1FhZzVmbUtwc20wbTExTktHSmN0NlF1bXdqX3VpVE1yZE5nNmJrZm9nOHFuTHdmcG9Sd3M5eHRYYzRyeUlRLVl4dw?oc=5",
       "published": "Wed, 19 Aug 2026 04:41:02 GMT"
     },
     {
       "source": "同花顺",
-      "title": "美好医疗：8月18日接受机构调研，华创证券研究所、华金证券等多家机构参与 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OX0lUVGJONGVLbExsVE5CZDZBSWYxZkpObF9UcU9uZFhqSjJfNnNYTG1uNDZnTlFuNlhFS3J3Qm1QcDBHWmc2bkF4TVE0aTdkckx5M0xQcUs5X216U0ZoelZB?oc=5\" target=\"_blank\">美好医疗：8月18日接受机构调研，华创证券研究所、华金证券等多家机构参与</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OX0lUVGJONGVLbExsVE5CZDZBSWYxZkpObF9UcU9uZFhqSjJfNnNYTG1uNDZnTlFuNlhFS3J3Qm1QcDBHWmc2bkF4TVE0aTdkckx5M0xQcUs5X216U0ZoelZB?oc=5",
-      "published": "Wed, 19 Aug 2026 04:28:21 GMT"
+      "title": "伊拉克政府批准新原油出口机制",
+      "summary": "伊拉克政府18日宣布，已批准新机制允许通过国际和本地公司经多个口岸出口原油。新机制下的合同自9月1日起生效，期限为3个月。政府尚未公布入选公司、出口原油数量及具体口岸等细节。今年2月底伊朗战事爆发前，伊拉克日均原油产量约400万桶，月均出口约1.05亿桶，其中大部分从南部巴士拉石油终端经霍尔木兹海峡外运。霍尔木兹海峡通行受阻后，伊拉克加大开发替代出口路线。伊拉克国家石油销售局局长阿里·尼扎尔表示，伊拉克7月经霍尔木兹海峡出口3550万至3700万桶原油，另有700万桶经北部基尔库克输油管道运往土耳其杰伊汉港出口。5月和6月通过多条渠道合计出口原油约3211万桶，其中超过2000万桶从南部港口城市巴士拉出口。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260819/c679080628.shtml",
+      "published": "Wed, 19 Aug 2026 05:17:38 GMT"
     },
     {
       "source": "同花顺",
-      "title": "深化上市公司治理改革 财达证券联合中证投服中心提名独董 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CUDdRTmVYZUpPWW51aks3WDlrOWp4anczamdfUDBsQ2loMlNob2JIcWtoMzJaUlRObkJlU083RUNDUlBkemhXYmtHLTY2bUtuVS14bU12ZlpnV3VpcENlTVFn?oc=5\" target=\"_blank\">深化上市公司治理改革 财达证券联合中证投服中心提名独董</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CUDdRTmVYZUpPWW51aks3WDlrOWp4anczamdfUDBsQ2loMlNob2JIcWtoMzJaUlRObkJlU083RUNDUlBkemhXYmtHLTY2bUtuVS14bU12ZlpnV3VpcENlTVFn?oc=5",
-      "published": "Wed, 19 Aug 2026 04:28:23 GMT"
+      "title": "科创50指数跌幅扩大至7%，成分股中仅5只个股红盘",
+      "summary": "科创50指数跌幅扩大至7%，成分股中仅5只个股红盘，盛美上海、芯原股份、盛科通信、华虹宏力跌超10%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679080622.shtml",
+      "published": "Wed, 19 Aug 2026 05:17:08 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|2家机构更新蔚蓝锂芯评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE12T3BPM2JkS1NDeEpWRDE4cXVZMG5hNzRNdTFGamRLODdMTXNPTG9CRm1XR2h4NlV1WlpCOGhNTVhZRXFibmU5dHdPZnNjY3MySDlIcWsxSkdmOFRLVlF3X0hn?oc=5\" target=\"_blank\">机构评级|2家机构更新蔚蓝锂芯评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12T3BPM2JkS1NDeEpWRDE4cXVZMG5hNzRNdTFGamRLODdMTXNPTG9CRm1XR2h4NlV1WlpCOGhNTVhZRXFibmU5dHdPZnNjY3MySDlIcWsxSkdmOFRLVlF3X0hn?oc=5",
-      "published": "Wed, 19 Aug 2026 03:13:16 GMT"
+      "title": "人形机器人板块重挫，绿的谐波跌超15%",
+      "summary": "人形机器人板块重挫，巨轮智能、五洲新春、秦川机床、美湖股份等10余股触及跌停，绿的谐波、江苏北人、丰光精密、上纬新材跌超15%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679080588.shtml",
+      "published": "Wed, 19 Aug 2026 05:15:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "北京火箭大街商业航天智能测运控中心正式启用",
+      "summary": "8月19日，朱雀三号重复使用运载火箭在东风商业航天创新试验区成功将“鸿鹄03星”送入预定轨道，并完成我国首次运载火箭一子级陆地支腿回收。在距离发射场1000多公里的北京亦庄，全国首个开放式商业航天测运控共享平台——北京火箭大街商业航天智能测运控中心于当天正式启用，并开展了此次历史性发射任务的全过程星、箭测控，实现了“亦庄箭、亦庄星、亦庄测”。北京火箭大街商业航天智能测运控中心由北京亦庄企业航天长征火箭技术有限公司建设，是北京经开区重点打造的北京火箭大街六大共性服务平台之一。中心面向全球提供商业航天测运控服务，覆盖低轨、高轨、地月空间，具备每年不低于200次商业火箭发射/回收测控、不低于5000颗商业卫星的测运控服务能力。（北京亦庄）",
+      "link": "https://news.10jqka.com.cn/20260819/c679080573.shtml",
+      "published": "Wed, 19 Aug 2026 05:13:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "多只半导体、芯片ETF跌超7%",
+      "summary": "午后科创芯片设计ETF（589170）、芯片ETF（159995）、半导体ETF（512480）、通信ETF（515880）等多只ETF跌超7%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679080492.shtml",
+      "published": "Wed, 19 Aug 2026 05:07:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "半导体板块跌幅扩大",
+      "summary": "半导体板块跌幅扩大，通富微电、雅克科技触及跌停，超纯应材跌超15%，国科微、神工股份、芯朋微、芯原股份、盛美上海、长光华芯、中科蓝讯、联动科技、甬矽电子、杰华特、颀中科技、华虹宏力、盛科通信、京仪装备、大普微、托伦斯跌超10%，晶升股份、汇成股份、臻宝科技、恒烁股份、君正股份跟跌。",
+      "link": "https://news.10jqka.com.cn/20260819/c679080447.shtml",
+      "published": "Wed, 19 Aug 2026 05:01:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上证指数跌2%",
+      "summary": "上证指数跌幅扩大至2%，深证成指跌4.1%，创业板指跌5.13%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679080435.shtml",
+      "published": "Wed, 19 Aug 2026 05:00:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "印尼弗洛勒斯岛7.7级地震已记录到2768次余震",
+      "summary": "当地时间19日，印尼气象、气候和地球物理局表示，截至当天5时，弗洛勒斯岛7.7级地震发生后已记录到2768次余震，震级在1.1至6.2级之间，其中5级以上余震24次，有震感的余震81次。印尼气象、气候和地球物理局表示，余震预计还将持续3至4周，提醒民众保持警惕，远离因地震受损或出现裂缝的建筑物。目前，此次地震已造成70人死亡。19日是震后第五天，联合搜救队继续对受灾群众开展医疗转运，同时在东芒加莱等受灾地区对倒塌建筑进行搜寻，以排查可能的受困人员。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260819/c679080357.shtml",
+      "published": "Wed, 19 Aug 2026 04:47:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗议会议长率团访问伊拉克 旨在加强两国战略合作",
+      "summary": "当地时间8月19日，伊朗议会议长卡利巴夫率领代表团启程前往伊拉克。此次访问旨在就地区局势进行对话，加强德黑兰与巴格达之间的战略合作，并探讨共同的解决方案，以帮助维护西亚地区的稳定和安全。出发前，卡利巴夫在社交媒体表示，在这次访问中，两国将采取切实有效的措施，加强两国共同的安全和福祉，并促进两国的繁荣。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260819/c679080267.shtml",
+      "published": "Wed, 19 Aug 2026 04:38:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美欧宇航员太空行走完成部分更换通信天线工作",
+      "summary": "美国航空航天局18日表示，国际空间站两名宇航员当天完成历时6个多小时的太空行走任务，旨在为空间站更换地空通信天线。由于作业耗时超出预期，替换天线在此次太空行走中未被安装。两名出舱宇航员分别为美航空航天局的阿尼尔·梅农和欧洲航天局的索菲·阿德诺。两人于美国东部时间18日8时29分（北京时间18日20时29分）开始此次太空行走，持续6小时23分钟。据介绍，梅农和阿德诺拆除了一副发生故障的地空通信天线，并将其长期固定在国际空间站桁架结构上。由于断开电缆和松开螺栓所需时间超出预期，宇航员未能按原计划安装替换天线。相关安装工作预计将在下一次太空行走中完成，目前计划于本月25日进行。此外，两名宇航员还完成了空间站清理工作，并对“探索”号实验舱附近的一套便携式固定装置进行了检查和更换。美航空航天局表示，目前空间站仍有一副地空通信天线正常运行。这是阿德诺的首次太空行走，也是梅农的第二次太空行走。阿德诺成为首位进行太空行走的法国女性宇航员。阿德诺于今年2月搭乘美太空探索技术公司“龙”飞船抵达国际空间站，梅农于今年7月搭乘俄“联盟MS-29”载人飞船抵达国际空间站。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260819/c679080126.shtml",
+      "published": "Wed, 19 Aug 2026 04:24:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "8月19日午间公告一览：旺能环境公司大股东股份解除质押",
+      "summary": "旺能环境公告，公司于2026年8月19日接到大股东美欣达集团有限公司函告，获悉其在中国工商银行股份有限公司湖州分行质押的本公司900万股股份已解除质押，占其所持股份比例6.06%，占公司总股本比例1.74%，解除日期为2026年8月18日。截至公告披露日，美欣达集团持股1.49亿股，累计质押股份450万股，占其所持股份比例3.03%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679079868.shtml",
+      "published": "Wed, 19 Aug 2026 04:06:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "拓竹科技组建团队，进军消费级UV打印机赛道",
+      "summary": "据悉，拓竹已启动消费级UV打印机（紫外线光固化喷墨打印机）项目，已规划十余个岗位方向，覆盖从喷头驱动、波形与墨路，到材料验证和软件协同的完整研发链路。首批招聘岗位已上线官网。8月13日，拓竹已预热激光产品R1。此次UV打印机项目的正式启动，意味着拓竹将同时推动3D打印、激光加工、UV打印三大技术路线的发展，向个人智造版图进发。（科创板日报）",
+      "link": "https://news.10jqka.com.cn/20260819/c679079840.shtml",
+      "published": "Wed, 19 Aug 2026 04:03:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港股午评：恒生指数涨0.24%，恒生科技指数跌0.82%",
+      "summary": "港股午间收盘，恒生指数涨0.24%，恒生科技指数跌0.82%。恒指港股通ETF银华（159318）涨0.23%，港股通科技ETF鹏华（159751）跌0.77%。板块方面，环保设备、手机板块涨幅靠前；航空货运、仪器仪表板块跌幅靠前。个股方面，香港中华煤气涨7.22%，小米集团-W涨6.95%，再鼎医药涨5.03%，珞石机器人涨5.01%，新东方-S涨4.27%；嘉耀控股跌21.69%，天数智芯跌12.85%，真健康医疗-B跌12.77%，华虹宏力跌12.72%，剑桥科技跌12.18%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679079816.shtml",
+      "published": "Wed, 19 Aug 2026 04:01:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "赵乐际会见厄瓜多尔总统诺沃亚",
+      "summary": "全国人大常委会委员长赵乐际8月19日上午在北京会见厄瓜多尔总统诺沃亚。 赵乐际表示，昨天，习近平主席同总统先生举行会谈，共同擘画双边关系发展新蓝图。今年是中厄建立全面战略伙伴关系10周年。中方愿同厄方一道，落实好两国元首达成的重要共识，赓续传统友谊，深化务实合作，不断提升双边关系水平，给两国人民带来更多福祉。中国全国人大愿同厄瓜多尔国会加强多层级、多领域友好交往，深化立法、监督和治国理政经验交流，为两国务实合作提供法律保障。 诺沃亚表示，厄瓜多尔视中国为好朋友、好伙伴，支持中方维护主权和领土完整，愿同中方深化贸易、投资等领域合作，加强立法机构互学互鉴。 肖捷参加会见。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260819/c679079812.shtml",
+      "published": "Wed, 19 Aug 2026 04:00:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "《全民医疗保障“十五五”规划》发布",
+      "summary": "国家医保局今天（19日）发布《全民医疗保障“十五五”规划》。“十五五”期间基本医疗保险参保率每年保持在95%左右；长期护理保险制度覆盖所有统筹地区；基本医疗保险目录内住院费用基金支付比例职工基本医疗保险稳定在80%左右，城乡居民基本医疗保险稳定在70%左右；即时结算基本医疗保险基金支出覆盖率从2025年的70%左右提高到80%以上；所有统筹地区将实现生育津贴直接发放到个人。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260819/c679079747.shtml",
+      "published": "Wed, 19 Aug 2026 03:54:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "五角大楼官员证实美韩联合军演将提前结束",
+      "summary": "美国国防部一名官员证实，美韩“乙支自由之盾”联合军演将于21日结束，比原定计划提前近一周。这名国防部官员说，根据美国总统特朗普和国防部长赫格塞思的指示，此次联合演习的规模已“大幅缩减”，“相关实兵演练活动有所减少，部分项目被取消或改为模拟演练”。韩国联合参谋本部当地时间19日发表声明说，原定于17日至27日举行的韩美“乙支自由之盾”联合军演将提前6天于21日结束，日程缩短过半。声明说，根据美方提议，韩美双方决定对演习的时间和规模等部分内容进行调整。双方决定缩减部分联合野外机动训练，具体调整内容目前仍在协商。特朗普16日在社交媒体发文说，他已要求美国防部大幅缩减美韩联合军演规模。他称，这些军演“耗资巨大”，其中很大一部分由美国负担，同时对朝鲜释放出“完全不恰当和敌对的信号”。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260819/c679079588.shtml",
+      "published": "Wed, 19 Aug 2026 03:39:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国台办：民进党当局媚日恋殖 背叛历史 背叛民族",
+      "summary": "8月19日，国务院台办举行例行新闻发布会。有记者问：今年815日本战败纪念日，面对日本防卫大臣小泉进次郎等阁员参拜靖国神社之举，台湾方面声称“尊重”，对此国台办有何回应？ 发言人朱凤莲表示，对于日本政要参拜战犯神社，有关部门已经表明严正立场，日本作为在台湾问题上有历史罪责的国家，应深刻反省历史，切实反思纠错，恪守一个中国原则和中日四个政治文件精神，在台湾问题上谨言慎行。民进党当局媚日恋殖，让世人再度看清其背叛历史、背叛民族的丑恶嘴脸。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260819/c679079492.shtml",
+      "published": "Wed, 19 Aug 2026 03:37:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ETF两市成交额报2783.22亿元，较昨日此时缩量29.14亿元",
+      "summary": "截至目前，ETF两市成交额报2783.22亿元，较昨日此时缩量29.14亿元，分类型来看，股票型ETF成交额1200.73亿元，债券型ETF成交额1028.48亿元，货币型ETF成交额120.42亿元，商品型ETF成交额42.97亿元，QDII型ETF成交额390.61亿元。",
+      "link": "https://news.10jqka.com.cn/20260819/c679079358.shtml",
+      "published": "Wed, 19 Aug 2026 03:32:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上港能源、达飞集团、上海电气携手刷新单次生物质甲醇加注量世界纪录",
+      "summary": "上港能源、达飞集团与上海电气三方通力协作，在上海港为“达飞欧斯米姆”轮成功加注8016吨国产生物质甲醇。此次作业刷新了单次船舶生物质甲醇加注量的世界纪录，超越了2026年3月上港能源为达飞集团全球首船生物质甲醇3643吨的加注纪录。（上海临港）",
+      "link": "https://news.10jqka.com.cn/20260819/c679079357.shtml",
+      "published": "Wed, 19 Aug 2026 03:32:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "期货午评：美伊暂停谈判！燃油暴涨近6% 沪银崩跌超4%",
+      "summary": "期货午评：早盘收盘，国内期货主力合约涨多跌少，燃料油涨超5%，甲醇、淀粉涨近3%，合成橡胶、沥青、低硫燃料油、焦炭、焦煤、SC原油涨超2%。跌幅方面，沪银跌超4%，钯、碳酸锂、铂、纯碱、集运欧线跌超2%。",
+      "link": "https://news.10jqka.com.cn/20260819/c679079355.shtml",
+      "published": "Wed, 19 Aug 2026 03:32:05 GMT"
     },
     {
       "source": "财联社",
@@ -118,31 +258,101 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "为什么不买存储股？这是两位大佬的回答 - wallstreetcn.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zaHNWV3VGNFR6ME1xcjFZLWxHandXWnJBc203WXVOWmxaRlNkOGlHYXROTTBSd3lJTjMtVTFPeWt5WGFiSnNycWVEZk5nVUdvbGE0?oc=5\" target=\"_blank\">为什么不买存储股？这是两位大佬的回答</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wallstreetcn.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zaHNWV3VGNFR6ME1xcjFZLWxHandXWnJBc203WXVOWmxaRlNkOGlHYXROTTBSd3lJTjMtVTFPeWt5WGFiSnNycWVEZk5nVUdvbGE0?oc=5",
+      "title": "从全球股市大涨、黄金坚挺到新兴市场套利，今年跨资产行情的基础假设是“实际利率走低”，但这对吗？",
+      "summary": "<p>隔夜，美股明显回落，长端美债收益率继续走高，不只是美国，德国、日本、英国等主要经济体债券收益率近期也都处于上行趋势。全球资金正在重新定价\"更高利率、更高资本成本\"。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/2150d4e8-c445-46fc-9f11-66376cebdd46.png\" /></p>\n<p>问题在于，这与过去几个月市场交易的主线其实并不一致。当前市场的共识一直是：<strong>经济放缓、通胀回落、美联储最终降息，因此实际利率应该逐步下行，风险资产能够继续享受Carry行情。</strong></p>\n<p>然而现实<strong>债券市场并没有相信这套逻辑。</strong>追风交易台消息，8月18日，高盛Vitali Meschoulam团队报告认为目前真正决定市场方向的，是<strong>实际利率（Real Yield）</strong>。</p>\n<p>风险资产实际上已经提前交易了未来宽松：股票、信用债、EM Carry、黄金，都在定价实际利率最终会下降；但债券市场却依然",
+      "link": "https://wallstreetcn.com/articles/3779760",
+      "published": "Wed, 19 Aug 2026 05:03:14 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI最大的瓶颈，是全世界没钱了",
+      "summary": "<p>知名科技商业战略分析师Ben Thompson以19世纪铁路史类比，指出AI当下瓶颈非算力电力，而是资金。<br />\n铁路曾缺钱却持续贡献GDP，伯克希尔用低利润高绝对收益的铁路替代高利润小规模糖果。<br />\n谷歌搜索如糖果，AI烧钱但市场巨大，绝对收益远超搜索，故发股融资是向伯克希尔模式转型，核心难题仍是钱从哪来？</p>",
+      "link": "https://wallstreetcn.com/charts/41959622",
+      "published": "Wed, 19 Aug 2026 04:56:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街开始觉得：微软比美国政府更靠谱",
+      "summary": "<p>DoubleLine Capital 副首席投资官Jeffrey Sherman认为投资者开始比较”借钱给微软五年”与”借钱给美国政府三十年”哪个更划算。多数人选择微软，理由是其营收可预期、财务更透明。</p>",
+      "link": "https://wallstreetcn.com/charts/41959621",
+      "published": "Wed, 19 Aug 2026 04:48:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "阿里砸钱搞AI，多久能回本？大摩：三年",
+      "summary": "<p>阿里砸这么多钱搞AI，到底能不能赚回来？</p>\n\n<p>摩根士丹利刚刚算完了这笔账：</p>\n\n<p>能，大概3年回本。</p>\n\n<p>大摩测算，中国云厂商做AI的ROIC可以达到13%到20%。</p>\n\n<p>什么意思？</p>\n\n<p>就是今天砸100块钱进去，成熟之后，每年可能产生13到20块钱的资本回报。</p>\n\n<p>不过和美国一比，差距还是很明显：</p>\n\n<p>同样是自己买GPU再出租，中国ROIC大约13%，美国能做到31%。</p>\n\n<p>但真正有意思的是：</p>\n\n<p>阿里还有办法把这个13%继续往上抬。</p>\n\n<p>怎么抬？</p>\n\n<p>不只卖算力，开始卖Token。</p>\n\n<p>如果只是买GPU，再把算力租出去，ROIC大约13%。</p>\n\n<p>但如果再往上走一层，把通义千问做成MaaS，直接卖Token，ROIC可以做到19%左右。</p>\n\n<p>所以大摩算完之后发现：</p>\n\n<p>阿里现在看起来是在疯狂烧钱买GPU，但如果这些GPU最后都变成了生产Token的机器，这笔AI投资的账，可能完全不一样。</p>\n\n<p",
+      "link": "https://wallstreetcn.com/charts/41959620",
+      "published": "Wed, 19 Aug 2026 04:24:40 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "为什么不买存储股？这是两位大佬的回答",
+      "summary": "<p>在AI基础设施投资热潮中，存储芯片股看似受益于算力需求爆发，但两位知名投资人和科技分析师却对此保持谨慎。他们的理由不约而同地指向同一个核心判断：存储的高价格和高利润，正在催生消灭自身的力量。</p>\n<p>方舟投资（ARK Invest）创始人Cathie Wood在近期播客节目中公开解释了她不持有存储股的原因。她认为，存储是半导体产业链中商品化程度最高、周期性最强的环节，而当前价格的大幅上涨并非科技行业的正常状态，本质上是一个负面信号。</p>\n<p>与此同时，科技战略分析师Ben Thompson则以更为犀利的比喻警告，存储厂商正在重蹈伊朗封锁霍尔木兹海峡的覆辙——短期奏效，长期却将推动整个行业绕道而行。</p>\n<p>两人的判断对当前追捧存储股的市场情绪构成直接挑战。在AI推理需求快速扩张的背景下，高带宽内存（HBM）供应商股价持续受到追捧，但这两位投资人的逻辑提示投资者，需警惕技术路线切换和需求侧主动规避所带来的结构性风险。</p>\n<h2>Cathie Wood：高价格是警示，而非利好</h2>\n<p>Cathie Wood在近期视频中直接回应了外界对她不持有存储股的疑",
+      "link": "https://wallstreetcn.com/articles/3779771",
       "published": "Wed, 19 Aug 2026 03:56:43 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "日经225指数跌超3% - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydF9fUVJVUlAzU0pVOFAxWGs4SUd0SmRCeGN2WnM2d2o1anNocWxXZU41MlUxTjk5a29HMXpSX2tkMkhFRXpLYzg4MFMtMDRLQXhF?oc=5\" target=\"_blank\">日经225指数跌超3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAydF9fUVJVUlAzU0pVOFAxWGs4SUd0SmRCeGN2WnM2d2o1anNocWxXZU41MlUxTjk5a29HMXpSX2tkMkhFRXpLYzg4MFMtMDRLQXhF?oc=5",
-      "published": "Wed, 19 Aug 2026 04:47:20 GMT"
+      "source": "华尔街见闻",
+      "title": "台积电疯狂扩产，风险让科技巨头扛了",
+      "summary": "<p>知名科技商业战略分析师Ben Thompso采访中谈到，台积电如何通过保守的产能策略，将部分风险转移给大型科技公司。</p>\n\n<p>台积电担心晶圆厂建设过度，因为一座晶圆厂可能运行30年。</p>\n\n<p>表面上风险没有消失，实际上转化为科技公司的“算力不足”和收入损失。</p>\n\n<p>与此同时，张忠谋曾在经济低迷期坚持逆势投资，为台积电成为先进制程龙头奠定基础。</p>\n\n<p>如今AI需求爆发，也让台积电重新看到巨大的增长机会。</p>",
+      "link": "https://wallstreetcn.com/charts/41959619",
+      "published": "Wed, 19 Aug 2026 03:42:09 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "英伟达GPU没降价，但已经在偷偷“打折”",
+      "summary": "<p>知名科技商业战略分析师Ben Thompson深度剖析英伟达暗门：</p>\n\n<p>你以为它暴利不减？其实它在偷偷“变相降价”！</p>\n\n<p>英伟达看似守住了惊人的高利润率，实则全靠“循环融资”玩法在硬撑。</p>\n\n<p>为了让客户有钱买 GPU，英伟达亲自出资兜底、承担坏账风险，帮助客户降融资成本。</p>\n\n<p>这种隐性让利虽然没体现在账面折扣上，本质上却是不折不扣的降价。</p>\n\n<p>一旦算力需求退潮，这些替客户承担的巨大风险，将直接反噬英伟达自己的资产负债表。</p>",
+      "link": "https://wallstreetcn.com/charts/41959618",
+      "published": "Wed, 19 Aug 2026 03:36:32 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "“避税Alpha”--华尔街最火的“对冲基金新策略”，帮超级富豪获取“零税率”",
+      "summary": "<p style=\"text-align: left;\"><strong>美国人常说：“世上唯有死亡与纳税不可避免。”</strong>但在如今的华尔街，顶级富豪们正试图打破这一铁律。</p>\n<p style=\"text-align: left;\">近来，一种被称为“避税Alpha”（Tax Alpha）的量化投资策略风靡华尔街。美股持续走高之下，手握巨额浮盈的富豪与科技新贵们最焦虑的，便是套现时如何向美国国税局（IRS）交代这笔高昂的资本利得税。</p>\n<p style=\"text-align: left;\">顺势之下，一个由量化对冲基金主导的新物种——“税务感知型多空策略”（Tax-Aware Long-Short）全面爆发。据彭博援引行业数据最新显示，<strong>当前每周约有10亿美元资金流入此类策略，总规模已突破1500亿美元；若算上广义的税务优化工具，整个“避税Alpha”赛道的资金体量已超过1万亿美元。</strong></p>\n<p style=\"text-align: left;\">美国亿万富豪正在把<strong>“少缴税”甚至“零缴税”</strong>，变",
+      "link": "https://wallstreetcn.com/articles/3779765",
+      "published": "Wed, 19 Aug 2026 03:35:17 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI热潮的终局，是19世纪铁路泡沫？",
+      "summary": "<p style=\"text-align: left;\">近日，科技分析师、Stratechery创始人Ben Thompson在《Invest Like the Best》播客中说道，“我相信AI，我也担心我们能否撑到它真正产生足够回报的那一天。”</p>\n<p style=\"text-align: left;\">Thompson在播客中警告，AI基础设施投资存在严重的资本时序错配：<strong>收入尚未到来，融资链条已从自由现金流耗尽至债务市场，再到股权融资。他以19世纪铁路泡沫类比当前AI热潮——泡沫可能破裂，但技术本身不会消失。他同时指出，英伟达的高利润率存在隐性侵蚀，谷歌和亚马逊才是其真正的长期竞争对手，而若泡沫破裂，最持久的遗产将是电力基础设施。</strong></p>\n<p style=\"text-align: left;\"><strong><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/8472f4c4-cd1a-435d-a971-507d9e3989d0.png\" /></strong></p>\n<h",
+      "link": "https://wallstreetcn.com/articles/3779770",
+      "published": "Wed, 19 Aug 2026 03:34:15 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "对话付鹏：AI生产力叙事进入证伪空档期？市场正迎来关键窗口期！",
+      "summary": "<p style=\"text-align: center;\">“ 交易桌前看天下，付鹏说来评财经 ”<br /><a href=\"https://wallstreetcn.com/premium/topics/1003822\" rel=\"noopener\" target=\"_blank\"><span style=\"color: #1482f0;\"><strong><sup>《付鹏说·第七季》全新升级！</sup><sup>立即订阅</sup></strong></span></a></p>\n<p style=\"text-align: center;\"><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/07aeb3e7-f4ca-4207-befb-c987b3dc7011\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://wallstreetcn.com/premium/topics/1003822\" rel=\"noopener\" t",
+      "link": "https://wallstreetcn.com/premium/articles/3779686?layout=wscn-layout",
+      "published": "Wed, 19 Aug 2026 03:33:22 GMT"
     },
     {
       "source": "第一财经",
-      "title": "美、日、欧，全球债市抛售风暴加剧，发生了什么 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wcVkwRmZZTnRObEhnQTNSNjNicHFHbzlNQkNIaTRKYWdFZC01LWJZMGJYWHNUbmpFOUNHYW0tSm9DYXMyX3dGTE9zNzFLR3RlaHNn?oc=5\" target=\"_blank\">美、日、欧，全球债市抛售风暴加剧，发生了什么</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wcVkwRmZZTnRObEhnQTNSNjNicHFHbzlNQkNIaTRKYWdFZC01LWJZMGJYWHNUbmpFOUNHYW0tSm9DYXMyX3dGTE9zNzFLR3RlaHNn?oc=5",
-      "published": "Wed, 19 Aug 2026 03:43:58 GMT"
+      "title": "宇树上市首日，人形机器人板块超百家下跌",
+      "summary": "<figure><img alt=\"宇树上市首日，人形机器人板块超百家下跌\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/c4f679567d58e0ecda503faebe00d235.jpg\" /></figure><p>人形机器人概念板块遭遇震荡，多只个股下挫。</p><p>8月19日早盘，人形机器人概念板块遭遇震荡，多只个股下挫。截至午盘，机器人ETF广发（159050.SZ）跌超7%，人形机器人指数（8841699.WI）跌超6%，超百家概念股下跌。其中，秦安股份（603758.SH）、中大力德（002896.SZ）、巨轮智能（002031.SZ）均跌停；上纬新材（688585.SH）跌超18%，丰光精密（430510.BJ）跌超14%，绿的谐波（688017.SH）、昊志机电（300503.SZ）均跌超12%；埃斯顿（002747.SZ）、金博股份（688598.SH）跌超9%，德迈仕（301007.SZ）跌超8%。</p>\n\n<p>消息面上，今日宇树科技（688836.SH）正式登陆科创板，引发市场高度关注，开盘",
+      "link": "https://www.yicai.com/news/103324238.html",
+      "published": "Wed, 19 Aug 2026 04:44:19 GMT"
     },
     {
       "source": "第一财经",
-      "title": "香港交易所：上半年净利润105.7亿港元 同比增长24% - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE01OXpDRlZMU0h0THllREQ3al9mZXhqdkVjZVQtdFl0N0ZOTUVGbVZocW9rYmp6TEhBSGlZTkNLQjRlQ1lWTW9iNFFfNzNpdmZ6aWpR?oc=5\" target=\"_blank\">香港交易所：上半年净利润105.7亿港元 同比增长24%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01OXpDRlZMU0h0THllREQ3al9mZXhqdkVjZVQtdFl0N0ZOTUVGbVZocW9rYmp6TEhBSGlZTkNLQjRlQ1lWTW9iNFFfNzNpdmZ6aWpR?oc=5",
-      "published": "Wed, 19 Aug 2026 04:23:59 GMT"
+      "title": "有车企实测仅20%，80%靠仿真！揭秘汽车“速成”灰色地带",
+      "summary": "<figure><img alt=\"有车企实测仅20%，80%靠仿真！揭秘汽车“速成”灰色地带\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/787572b03eb8ac250a2f656063a6bb02.jpg\" /></figure><p>谁在拿消费者当小白鼠？</p><p style=\"text-align: justify;\">“我算了一组很有意思的数据，国内新车大概推出了3780个SKU（最小存货单元，汽车行业代指车系下不同的配置版本），同期手机行业才1240个SKU，快消的饮料行业全品类加起来也就4000个SKU。”日前，东风日产销售公司市场部部长孙豪用一组夸张的数据锐评汽车行业上新速度，他称，别人说汽车干成了手机，简直是太看不起汽车行业。汽车的上新速度，已经和饮料行业一样了。</p>\n\n<p style=\"text-align: justify;\">当新车迭代周期加快、研发周期缩短成为全球汽车行业面临的课题，“速成车”再次引发争议。一组对比数据显示，2026年上半年国内全新车型约165款，而10年前的2016年",
+      "link": "https://www.yicai.com/news/103324202.html",
+      "published": "Wed, 19 Aug 2026 03:46:42 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美、日、欧，全球债市抛售风暴加剧，发生了什么",
+      "summary": "<figure><img alt=\"美、日、欧，全球债市抛售风暴加剧，发生了什么\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/acf390021d263bcca3ce3f0c3b9cf2f4.jpg\" /></figure><p>美国财政部将于当地时间19日发行新债。   </p><p>本周全球债市掀起抛售潮，美国30年期国债收益率刷新2007年以来新高。此外，德国基准30年期国债收益率升至15年新高3.763%；法国同期限国债收益率创下2008年以来最高；日本30年期国债收益率刷新今年春季创出的30年高点。</p>\n\n<p>受此影响，权重科技股全线下挫拖累美股连续第三天下挫。恐慌情绪随后蔓延至亚太市场，周三早盘韩国综合指数一度大跌近6%，日经225指数下跌逾3%。</p>\n\n<div style=\"text-align: center;\"><img alt=\"资料图\" src=\"https://imgcdn.yicai.com/uppics/images/2026/08/d6423137ac9f17dd2e285ea83f",
+      "link": "https://www.yicai.com/news/103324187.html",
+      "published": "Wed, 19 Aug 2026 03:41:51 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "盘点宇树背后的“赢家”：部分早期投资者百亿浮盈只是起步",
+      "summary": "<figure><img alt=\"盘点宇树背后的“赢家”：部分早期投资者百亿浮盈只是起步\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/3b9e8c3b999433d3bf7eb57638f43a5c.jpg\" /></figure><p>十年间，宇树科技从小公司成长为A股“人形机器人第一股”。</p><p>“那个时候宇树团队差不多有十几个人，办公场地还有生产零部件的机床。”赵楠回忆起六年前第一次探访宇树科技的场景。他当时在祥峰投资工作，正在研究机器人赛道。</p>\n\n<p>如今，宇树科技从小公司成长为A股“人形机器人第一股”，在8月19日首日上市时盘中股价超900元/股、市值超3500亿元。</p>\n\n<p>赵楠在接受第一财经记者采访时透露称，宇树科技早期融资时曾四处碰壁，部分知名投资机构在当时并不看好这家公司。“一场创业的成功离不开天时地利人和。”他认为，宇树科技过去十年的发展，不仅是抓住了科技创新时代的机遇，也离不开创始人王兴兴和团队的技术积淀、坚守务实风格等因素。</p>\n\n<p>等到此次上市，宇树科技已有超40名股",
+      "link": "https://www.yicai.com/news/103324143.html",
+      "published": "Wed, 19 Aug 2026 03:33:16 GMT"
     },
     {
       "source": "证券时报",
@@ -152,16 +362,9 @@
       "published": "Wed, 19 Aug 2026 04:38:14 GMT"
     },
     {
-      "source": "中国证券报",
-      "title": "港股半导体板块走低 多股跌超7% - finance.eastmoney.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzRE0wVG5tVlAzRU4xNTVvekYwMENnek82aHhxRW5mNmFLOUlJb1k1blFwcVdtdVBMbW8yTWYybTVBUWNEVUVVSV82aWtfa1dHN3hmRUZ2SHlyU2YyYmpBbHZyX1E1QQ?oc=5\" target=\"_blank\">港股半导体板块走低 多股跌超7%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.eastmoney.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzRE0wVG5tVlAzRU4xNTVvekYwMENnek82aHhxRW5mNmFLOUlJb1k1blFwcVdtdVBMbW8yTWYybTVBUWNEVUVVSV82aWtfa1dHN3hmRUZ2SHlyU2YyYmpBbHZyX1E1QQ?oc=5",
-      "published": "Wed, 19 Aug 2026 03:18:16 GMT"
-    },
-    {
       "source": "行业研报",
-      "title": "开源证券：给予江苏金租买入评级_券商研报_数据解析 - 证券之星",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1McG9KcTV3TkxQckpJWlJFVmxBbFZ0V2R3Qm9MSWJqUXNPalhET19hOC0yN29FRE5YY2dsQ01KUzRLbGVIcDd5ZFhtNlp5NjBnbnBFVklmeHB0YTc2V09TeGxR?oc=5\" target=\"_blank\">开源证券：给予江苏金租买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "title": "开源证券：给予江苏金租买入评级_券商研报_数据解析 - stock.stockstar.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1McG9KcTV3TkxQckpJWlJFVmxBbFZ0V2R3Qm9MSWJqUXNPalhET19hOC0yN29FRE5YY2dsQ01KUzRLbGVIcDd5ZFhtNlp5NjBnbnBFVklmeHB0YTc2V09TeGxR?oc=5\" target=\"_blank\">开源证券：给予江苏金租买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">stock.stockstar.com</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1McG9KcTV3TkxQckpJWlJFVmxBbFZ0V2R3Qm9MSWJqUXNPalhET19hOC0yN29FRE5YY2dsQ01KUzRLbGVIcDd5ZFhtNlp5NjBnbnBFVklmeHB0YTc2V09TeGxR?oc=5",
       "published": "Wed, 19 Aug 2026 04:25:20 GMT"
     }
