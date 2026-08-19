@@ -1,43 +1,15 @@
 {
   "date": "2026-08-20",
   "hour": "01",
-  "total": 22,
-  "fetched_at": "2026-08-20T01:00:55.890606+08:00",
+  "total": 30,
+  "fetched_at": "2026-08-20T01:17:08.453290+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "暴涨460%！宇树科技登陆A股，多家券商斩获浮盈，5家错失盛宴 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1SZXpybWNtcVJOcFF5VnR0U1pPdVhYZjZJTFcwSEZwTm1Ja1RMMDB1aXl4QUd6czlob2VXY1psaF9xOVJtSUFGVDdKamNsZk9kSFpJR2FITWtOWVJ1bmM1NF92dVJRWElQV3kwMzBtZklISmhKaDRrVA?oc=5\" target=\"_blank\">暴涨460%！宇树科技登陆A股，多家券商斩获浮盈，5家错失盛宴</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SZXpybWNtcVJOcFF5VnR0U1pPdVhYZjZJTFcwSEZwTm1Ja1RMMDB1aXl4QUd6czlob2VXY1psaF9xOVJtSUFGVDdKamNsZk9kSFpJR2FITWtOWVJ1bmM1NF92dVJRWElQV3kwMzBtZklISmhKaDRrVA?oc=5",
-      "published": "Wed, 19 Aug 2026 15:02:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "【20260820早评】一鼓作气、再而衰、三而竭 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE43ZVhOdnd5a2FDMVJZdGJ5YURROENMU3lWSmZkQ0FScWRUYWt4UnNjcmk4YUtYcjJjcTNsdHdreWRZbGxPQUxYbE1VS1A2TXg2R2lCVzUybHZ4SEFsdmZqSWtkM1lRZE81TjM1UG9sNkUtS0NNUWpqOHRLek82Tnc?oc=5\" target=\"_blank\">【20260820早评】一鼓作气、再而衰、三而竭</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43ZVhOdnd5a2FDMVJZdGJ5YURROENMU3lWSmZkQ0FScWRUYWt4UnNjcmk4YUtYcjJjcTNsdHdreWRZbGxPQUxYbE1VS1A2TXg2R2lCVzUybHZ4SEFsdmZqSWtkM1lRZE81TjM1UG9sNkUtS0NNUWpqOHRLek82Tnc?oc=5",
-      "published": "Wed, 19 Aug 2026 16:33:06 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "宏盛股份A股股东户数增加99户增幅0.57%，流通A股户均持股5710.37股降幅0.57%，户均持股市值22.78万元增幅11.42% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlQ1cGtSYno1eGlFdnd5bVRrLTBXSW9maUlZX0Z0SVR1RGhCOFVMQ2RWQUJpYXprUzl1eFZmMERrLW96anV6UlNRVHFoSWZpU2hSSjA0Q2FsUVgyZ3Mxb3BUdW5IbDhrYno2aWZCdTZhY3BKN2ZEd29OMV8tUzduWW4xNW5QMHRtLWFVNw?oc=5\" target=\"_blank\">宏盛股份A股股东户数增加99户增幅0.57%，流通A股户均持股5710.37股降幅0.57%，户均持股市值22.78万元增幅11.42%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMlQ1cGtSYno1eGlFdnd5bVRrLTBXSW9maUlZX0Z0SVR1RGhCOFVMQ2RWQUJpYXprUzl1eFZmMERrLW96anV6UlNRVHFoSWZpU2hSSjA0Q2FsUVgyZ3Mxb3BUdW5IbDhrYno2aWZCdTZhY3BKN2ZEd29OMV8tUzduWW4xNW5QMHRtLWFVNw?oc=5",
-      "published": "Wed, 19 Aug 2026 15:40:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "ST洲际A股股东户数减少9553户降幅3.49%，流通A股户均持股1.57万股增幅3.62%，户均持股市值3.66万元增幅1.02% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1o0OXhpdGl0dTBFN2lsY0U4Vm5Dd3k1VmhsZlJsVEpsamJ3eXdDXzdZbUJCdHRIcWhKUXJIZTZxZGdsN3QzOEpDWWxqNkxvNGR3emxRVmF0M256LUZ2N01zb1J1R0lvUUNhcUJielEtaDJjN3AyaC1yblJQcWtTM3NOU1o4bVF5MTQzTA?oc=5\" target=\"_blank\">ST洲际A股股东户数减少9553户降幅3.49%，流通A股户均持股1.57万股增幅3.62%，户均持股市值3.66万元增幅1.02%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV1o0OXhpdGl0dTBFN2lsY0U4Vm5Dd3k1VmhsZlJsVEpsamJ3eXdDXzdZbUJCdHRIcWhKUXJIZTZxZGdsN3QzOEpDWWxqNkxvNGR3emxRVmF0M256LUZ2N01zb1J1R0lvUUNhcUJielEtaDJjN3AyaC1yblJQcWtTM3NOU1o4bVF5MTQzTA?oc=5",
-      "published": "Wed, 19 Aug 2026 15:40:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "华塑股份A股股东户数减少2045户降幅3.56%，流通A股户均持股6.33万股增幅3.69%，户均持股市值14.76万元增幅5.05% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmt5VURqWHhLWTFQaGs2aGI0LUFocEV1ekF2MlJQLXotdHNvTDNZclk1T3ppZE82MzM3LWRYXy1OeTNzN1poM19yV0hfV0ViTXNaMGhoUmhHd05ZVXByUUFNLWs5TDRQY2lPN05sVnJZRVlNYjhUZmZFVk5FcG0xcGJldGo3UGxqZGhwSA?oc=5\" target=\"_blank\">华塑股份A股股东户数减少2045户降幅3.56%，流通A股户均持股6.33万股增幅3.69%，户均持股市值14.76万元增幅5.05%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYmt5VURqWHhLWTFQaGs2aGI0LUFocEV1ekF2MlJQLXotdHNvTDNZclk1T3ppZE82MzM3LWRYXy1OeTNzN1poM19yV0hfV0ViTXNaMGhoUmhHd05ZVXByUUFNLWs5TDRQY2lPN05sVnJZRVlNYjhUZmZFVk5FcG0xcGJldGo3UGxqZGhwSA?oc=5",
-      "published": "Wed, 19 Aug 2026 15:40:00 GMT"
+      "title": "宇树科技3418亿元市值背后 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5ucGoyUEEyZUFqangyajVRNFRDS3VjU2UtQ0pRTVQ1clQ3WWJIdnZTaFdYRGllV2JoQV9yQWpZdlVnVWhTdUFCYi1TTUdaMU9ReFd6eExIYVUtQVBNcHBYM1BDeHptcmtXalBrSW4wSXdFdUpkQ3c?oc=5\" target=\"_blank\">宇树科技3418亿元市值背后</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ucGoyUEEyZUFqangyajVRNFRDS3VjU2UtQ0pRTVQ1clQ3WWJIdnZTaFdYRGllV2JoQV9yQWpZdlVnVWhTdUFCYi1TTUdaMU9ReFd6eExIYVUtQVBNcHBYM1BDeHptcmtXalBrSW4wSXdFdUpkQ3c?oc=5",
+      "published": "Wed, 19 Aug 2026 17:00:00 GMT"
     },
     {
       "source": "东方财富",
@@ -48,66 +20,157 @@
     },
     {
       "source": "东方财富",
-      "title": "圣泉集团:圣泉集团关于部分限制性股票回购注销实施公告 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE05bkNNR2lzUFVCc0tyUGRrUnYtTk5EQTIycGFJMUxFcDV0aVBMUHhUOUpBeXA0WDZxMU83Vkl5Nl9wczZTTVp5U3RCU2pvMEZpVnVKSzdmZWt0ZnZ5SFVOMVJOUTdkS2ZFOGNoNjI3V3lTdzNEOW5XMUI0V2lvdw?oc=5\" target=\"_blank\">圣泉集团:圣泉集团关于部分限制性股票回购注销实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05bkNNR2lzUFVCc0tyUGRrUnYtTk5EQTIycGFJMUxFcDV0aVBMUHhUOUpBeXA0WDZxMU83Vkl5Nl9wczZTTVp5U3RCU2pvMEZpVnVKSzdmZWt0ZnZ5SFVOMVJOUTdkS2ZFOGNoNjI3V3lTdzNEOW5XMUI0V2lvdw?oc=5",
-      "published": "Wed, 19 Aug 2026 15:08:45 GMT"
+      "title": "【调研快报】帝尔激光接待国金证券等54家机构调研 - emwap.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qWmlQVlZzdnhUMlZVemU3UXFQckJoQjZEYmhheGQwNmtjbl9uTW9qMDdIZ0tuOXgxVHFyV0U3XzdWeUNGaVluZWd5bFZlYklIcmdGMDJnblBONFk4aGI4NVIzcw?oc=5\" target=\"_blank\">【调研快报】帝尔激光接待国金证券等54家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">emwap.eastmoney.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qWmlQVlZzdnhUMlZVemU3UXFQckJoQjZEYmhheGQwNmtjbl9uTW9qMDdIZ0tuOXgxVHFyV0U3XzdWeUNGaVluZWd5bFZlYklIcmdGMDJnblBONFk4aGI4NVIzcw?oc=5",
+      "published": "Wed, 19 Aug 2026 17:09:53 GMT"
     },
     {
       "source": "同花顺",
+      "title": "股东追踪|平安沪深300指数增强股票型养老金产品-中国工商银行股份有限公司新进嘉泽新能前十大流通股东 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wbzlLcXpUV21UMTJnRzZ6Z0FVN1prd283QWVFdDlIVFNOdEQ2dUZZOEV5cjBuOWVTQU1fNmEyUmE2blR5YVpRMTJmUU9JZ2I5SVNzYXpHb0pyR0Z0UlYzVGl3?oc=5\" target=\"_blank\">股东追踪|平安沪深300指数增强股票型养老金产品-中国工商银行股份有限公司新进嘉泽新能前十大流通股东</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wbzlLcXpUV21UMTJnRzZ6Z0FVN1prd283QWVFdDlIVFNOdEQ2dUZZOEV5cjBuOWVTQU1fNmEyUmE2blR5YVpRMTJmUU9JZ2I5SVNzYXpHb0pyR0Z0UlYzVGl3?oc=5",
+      "published": "Wed, 19 Aug 2026 17:08:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，美国财政部20年期国债拍卖得标利率为5.204%，高于前值5.16%；投标倍数降至2.53，前值为2.64。得标利率配置比例升至65.58%，远高于前值15.13%。",
+      "summary": "财联社8月20日电，美国财政部20年期国债拍卖得标利率为5.204%，高于前值5.16%；投标倍数降至2.53，前值为2.64。得标利率配置比例升至65.58%，远高于前值15.13%。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 17:12:35 GMT"
+    },
+    {
+      "source": "财联社",
       "title": "特朗普预计今年晚些时候会见金正恩",
-      "summary": "美国总统特朗普19日在白宫对媒体表示，他预计今年晚些时候将会见朝鲜领导人金正恩。特朗普当天视察了正在白宫南草坪新建的直升机停机坪工地。被问及今秋是否会与金正恩会晤时，特朗普作出肯定回答，并称“非常了解金正恩”，“同他相处得很好”。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260820/c679108776.shtml",
-      "published": "Wed, 19 Aug 2026 16:57:55 GMT"
+      "summary": "【特朗普预计今年晚些时候会见金正恩】财联社8月20日电，美国总统特朗普19日在白宫对媒体表示，他预计今年晚些时候将会见朝鲜领导人金正恩。特朗普当天视察了正在白宫南草坪新建的直升机停机坪工地。被问及今秋是否会与金正恩会晤时，特朗普作出肯定回答，并称“非常了解金正恩”，“同他相处得很好”。据美国《华尔街日报》18日报道，特朗普正敦促助手推动最早在今年秋季与金正恩举行会晤，时间可能选在11月。 (央视新闻)",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 17:10:49 GMT"
     },
     {
-      "source": "同花顺",
+      "source": "财联社",
+      "title": "资金流向显示亿万富豪Ken Fisher旗下机构以40亿美元逆势抄底长期美债",
+      "summary": "【资金流向显示亿万富豪Ken Fisher旗下机构以40亿美元逆势抄底长期美债】财联社8月20日电，亿万富豪Ken Fisher旗下同名公司似乎正在押注期限最长的美国国债将会上涨，以逆势操作寻求从收益率接近20年高位所带来的机会中获利。本月早些时候，Fisher Investments是贝莱德一只投资于20年期及以上美国国债的交易所交易基金(ETF)创纪录吸金40亿美元背后的主要推手。与此同时，贝莱德另一只平均期限较短的美国国债基金出现了规模类似的资金流出，显示相关资金转向收益率曲线的更长端。Fisher Investments一名发言人表示，出于对客户的受托责任，公司无法评论个别证券。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 17:08:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，支付巨头Stripe同意收购AI路由公司OpenRouter。",
+      "summary": "财联社8月20日电，支付巨头Stripe同意收购AI路由公司OpenRouter。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 17:06:29 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "阿根廷首都一机场因可疑包裹紧急疏散部分区域",
+      "summary": "【阿根廷首都一机场因可疑包裹紧急疏散部分区域】财联社8月20日电，阿根廷首都布宜诺斯艾利斯一座机场大厅19日发现一件可疑包裹，警方一度紧急疏散航站楼部分区域。当地时间19日9时30分左右，布宜诺斯艾利斯豪尔赫纽伯里机场大厅发现一件可疑包裹，机场警方紧急疏散机场中央大厅和餐饮区，并对该包裹进行查验。据机场警方消息，经初步调查，该包裹对乘客和机场安全不构成威胁，目前机场已恢复正常运营。豪尔赫纽伯里机场距离布宜诺斯艾利斯市中心不到10公里，主要承担阿根廷国内航班和南美地区国际航班起降。 (央视新闻)",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 17:06:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "委内瑞拉启动新一轮石油合作招标 拟以产量分成合同吸引外资重返重油带",
+      "summary": "【委内瑞拉启动新一轮石油合作招标 拟以产量分成合同吸引外资重返重油带】财联社8月20日电，委内瑞拉石油部长Paula Henao在休斯敦向投资者表示，委内瑞拉热切希望签署产量分成合同，并提高其全球最大原油储量的产量。Henao在周三的一场会议上表示，委内瑞拉有916个区块可供勘探和开发。她指出，该国以重油著称，但也存在轻质原油、中质原油以及天然气的机会。“我们需要达成这些协议，才能进入这些新的区块，”她说，“那里有整整一个世界等待你们去发现。”委内瑞拉本周已与油田服务巨头SLB Ltd.和独立生产商Hunt Oil Co.签署了协议，但希望吸引更多私人投资来重振产量——该国的石油产量在过去二十年中持续下降。约有140家公司出席了本次会议。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 17:04:34 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美国商品期货交易委员会就算力衍生品合约上市征求意见",
+      "summary": "【美国商品期货交易委员会就算力衍生品合约上市征求意见】财联社8月20日电，美国商品期货交易委员会（CFTC）正就算力市场规模、流动性及其他考量因素、市场监督与操纵担忧、客户保护以及永续计算期货等方面征求意见。“此次征求意见是为美国算力市场建立清晰规则迈出的第一步，”CFTC主席Michael Selig表示。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:51:22 GMT"
+    },
+    {
+      "source": "财联社",
       "title": "受热带低压影响 广东徐闻港、海安新港客滚船将于今日停运",
-      "summary": "受南海热带低压影响，广东湛江徐闻港、海安新港客滚船将于8月20日16时起停运，复运时间将视气象情况而定。交通部门提醒，受本次停航影响及需要过海的司机、旅客朋友们，请合理安排好行程，停运期间请勿前往港口。停运期间所购船票顺延有效。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260820/c679108749.shtml",
-      "published": "Wed, 19 Aug 2026 16:41:03 GMT"
+      "summary": "【受热带低压影响 广东徐闻港、海安新港客滚船将于今日停运】财联社8月20日电，受南海热带低压影响，广东湛江徐闻港、海安新港客滚船将于8月20日16时起停运，复运时间将视气象情况而定。交通部门提醒，受本次停航影响及需要过海的司机、旅客朋友们，请合理安排好行程，停运期间请勿前往港口。停运期间所购船票顺延有效。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:40:24 GMT"
     },
     {
-      "source": "同花顺",
+      "source": "财联社",
       "title": "印尼东努沙登加拉省区域发生5.7级地震",
-      "summary": "据印尼气象、气候和地球物理局发布的报告，印尼当地（西部）时间8月19日23时17分，印尼东努沙登加拉省芒加莱县鲁滕镇东北43公里处发生5.7级地震，震源深度10公里。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260820/c679108748.shtml",
-      "published": "Wed, 19 Aug 2026 16:40:33 GMT"
+      "summary": "【印尼东努沙登加拉省区域发生5.7级地震】财联社8月20日电，据印尼气象、气候和地球物理局发布的报告，印尼当地（西部）时间8月19日23时17分，印尼东努沙登加拉省芒加莱县鲁滕镇东北43公里处发生5.7级地震，震源深度10公里。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:32:48 GMT"
     },
     {
-      "source": "同花顺",
+      "source": "财联社",
+      "title": "财联社8月20日电，墨西哥主要股指涨幅扩大至1%。",
+      "summary": "财联社8月20日电，墨西哥主要股指涨幅扩大至1%。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:26:18 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，加拿大总理卡尼表示，加拿大正朝着与美国达成贸易协议迈进，谈判已取得显著进展。",
+      "summary": "财联社8月20日电，加拿大总理卡尼表示，加拿大正朝着与美国达成贸易协议迈进，谈判已取得显著进展。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:20:13 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
+      "summary": "财联社8月20日电，特朗普提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:14:28 GMT"
+    },
+    {
+      "source": "财联社",
       "title": "利弗莫尔中概股龙头指数涨幅扩大至1%",
-      "summary": "利弗莫尔中概股龙头指数涨幅扩大至1%，报9505.2点。成分股中，金山云涨11.35%，希尔威金属矿业涨8.54%，脑再生科技涨8.42%，AMC院线涨8.41%，华住涨5.92%。",
-      "link": "https://news.10jqka.com.cn/20260820/c679108656.shtml",
-      "published": "Wed, 19 Aug 2026 16:13:40 GMT"
+      "summary": "【利弗莫尔中概股龙头指数涨幅扩大至1%】财联社8月20日电，利弗莫尔中概股龙头指数涨幅扩大至1%，报9505.2点。成分股中，金山云涨11.35%，希尔威金属矿业涨8.54%，脑再生科技涨8.42%，AMC院线涨8.41%，华住涨5.92%。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:11:20 GMT"
     },
     {
-      "source": "同花顺",
+      "source": "财联社",
+      "title": "财联社8月20日电，现货铂金扩大涨幅至5.31%，现报1799.19美元/盎司。",
+      "summary": "财联社8月20日电，现货铂金扩大涨幅至5.31%，现报1799.19美元/盎司。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:10:13 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，国际贵金属涨幅持续扩大，截至目前，现货黄金价格涨3.72%，报4495.29美元/盎司；现货白银价格涨4.15%，报65.93美元/盎司。",
+      "summary": "财联社8月20日电，国际贵金属涨幅持续扩大，截至目前，现货黄金价格涨3.72%，报4495.29美元/盎司；现货白银价格涨4.15%，报65.93美元/盎司。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 16:03:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "比特币暴涨引发全网超13亿美元爆仓 多数为空头仓位被强平",
+      "summary": "【比特币暴涨引发全网超13亿美元爆仓 多数为空头仓位被强平】财联社8月19日电，数据显示近24小时加密市场总爆仓金额达约13.45亿美元，涉及105,370名交易者，其中约11.91亿美元为空单爆仓，多头爆仓约1.53亿美元。Binance、Bybit、Gate、Bitget爆仓金额居前，分别约5.59亿、3.11亿、1.11亿和1.01亿美元，多为空头被强制平仓。本轮行情中，BTC与ETH爆仓规模最大，BTC合约空头24小时爆仓约6.62亿美元，ETH空头约3.66亿美元，显示高杠杆做空在价格上行中集中被清算。其中过去1小时加密市场总爆仓约11.94亿美元，其中空单爆仓约11.16亿美元，多单约7751万美元，空头占比约93.51%。<br /><img src=\"https://image.cls.cn/images/20260820/71fh62ysvp_1782x1082.png\" />",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 15:57:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月19日电，Strategy涨超14%。消息面上，比特币一度突破6.9万美元。",
+      "summary": "财联社8月19日电，Strategy涨超14%。消息面上，比特币一度突破6.9万美元。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 15:56:25 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "欧洲四大股指收盘涨跌不一",
+      "summary": "【欧洲四大股指收盘涨跌不一】财联社8月19日电，欧洲股市收盘，英国富时100指数涨0.14%，法国CAC40指数涨0.00%，德国DAX30指数涨0.01%，富时意大利MIB指数跌0.75%。",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 15:45:14 GMT"
+    },
+    {
+      "source": "财联社",
       "title": "我国首次实现火箭陆地回收有何重要意义？专家解读：中国航天发射的成本有望降低70%以上",
-      "summary": "央视新闻晚间发布《我国首次实现火箭陆地回收有何重要意义？专家解读》一文，文章引用北京航空航天大学航空专家王亚男的话提到，朱雀三号遥二运载火箭首次成功完成着陆腿陆上可控一子级回收。这次发射对于中国航天意义重大。这意味着中国航天发射的成本有望降低70%以上。在短短一个多月的时间里，中国的火箭回收技术在两个方向上分别实现了突破，分别是海上的网系回收和陆上的着陆腿缓冲回收。\n更深层次的意义在于两个方面，中国未来大规模的空间设施的建设，需要火箭能够以低成本、高效率的方式运作。这些技术的突破，为中国大规模空间设施的建设提供了能力保障。另外一方面，在未来全球的商业航天发射市场上，随着中国火箭可回收技术以及重复使用技术的相继突破和发展，中国航天将在未来的商业航天市场上获得长足的竞争力。",
-      "link": "https://news.10jqka.com.cn/20260819/c679108503.shtml",
-      "published": "Wed, 19 Aug 2026 15:43:09 GMT"
+      "summary": "【我国首次实现火箭陆地回收有何重要意义？专家解读：中国航天发射的成本有望降低70%以上】财联社8月19日电，央视新闻晚间发布《我国首次实现火箭陆地回收有何重要意义？专家解读》一文，文章引用北京航空航天大学航空专家王亚男的话提到，朱雀三号遥二运载火箭首次成功完成着陆腿陆上可控一子级回收。这次发射对于中国航天意义重大。这意味着中国航天发射的成本有望降低70%以上。在短短一个多月的时间里，中国的火箭回收技术在两个方向上分别实现了突破，分别是海上的网系回收和陆上的着陆腿缓冲回收。\n\n更深层次的意义在于两个方面，中国未来大规模的空间设施的建设，需要火箭能够以低成本、高效率的方式运作。这些技术的突破，为中国大规模空间设施的建设提供了能力保障。另外一方面，在未来全球的商业航天发射市场上，随着中国火箭可回收技术以及重复使用技术的相继突破和发展，中国航天将在未来的商业航天市场上获得长足的竞争力。<br /><img src=\"https://image.cls.cn/images/20260819/lEe2V16GGM_710x1178.png\" />",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 15:42:29 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "以军空袭加沙造成9人死亡",
-      "summary": "巴勒斯坦伊斯兰抵抗运动（哈马斯）19日发表声明称，以军当天中午对加沙城市政警察总部发动的空袭造成9人死亡。以色列国防军发表声明说，以军打击针对的是哈马斯军事指挥官。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260819/c679108452.shtml",
-      "published": "Wed, 19 Aug 2026 15:31:00 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "王毅同韩国外长赵显会谈",
-      "summary": "中共中央政治局委员、外交部长王毅19日在首尔同韩国外长赵显举行会谈。 (央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260819/c679108411.shtml",
-      "published": "Wed, 19 Aug 2026 15:22:47 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "以太坊近3个月以来首次涨至2000美元",
-      "summary": "行情显示，以太坊涨至2000.44美元，过去24小时内涨4.45%，创6月1日以来新高。比特币涨至66384.2美元，过去24小时内涨2.57%。",
-      "link": "https://news.10jqka.com.cn/20260819/c679108356.shtml",
-      "published": "Wed, 19 Aug 2026 15:10:21 GMT"
+      "source": "财联社",
+      "title": "特朗普：与伊朗谈判或适时进行",
+      "summary": "【特朗普：与伊朗谈判或适时进行】财联社8月19日电，美国总统特朗普就伊朗问题表示，或许在某个时候会进行谈判。特朗普18日在社交媒体上称，目前和未来不会与伊朗进行任何会谈或对话。此前，特朗普一直坚称美国同伊朗正在进行谈判，但遭到伊朗官员多次否认。 (央视新闻)",
+      "link": "",
+      "published": "Wed, 19 Aug 2026 15:35:27 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -136,13 +199,6 @@
       "summary": "<figure><img alt=\"数据跨境2.0，临港定下新目标：词元出海的全球运营枢纽\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/08/b86e8a61ebf99275e61892ff506f8166.jpeg\" /></figure><p>临港在词元出海产业链中的角色，被精准划定。</p><p>当前，词元出海已成为中国数字贸易的一个重要赛道。临港新片区7周年之际，伴随着数据跨境探索从1.0阶段向2.0阶段跃升，临港新片区提出了一个全新的定位——具有全球影响力的词元出海服务贸易枢纽。</p>\n\n<p>8月19日举行的人工智能生态出海服务体系推介会上，临港新片区管委会数据处副处长陈黄超表示，临港在词元出海产业链中的角色，不是算力生产基地，也不是物理传输通道，而是连接国内生产端与全球市场的运营枢纽——规则制定者、结算中心、合规认证地与高端服务集聚地。</p>\n\n<p>这也就意味着，临港要整合跨境数据、离岸金融、离岸科创等特殊功能优势，打造词元出海的服务体系，进而推动临港国际数据经济产业发展，进一步强化“国际数据加工枢纽”功能。<",
       "link": "https://www.yicai.com/news/103325448.html",
       "published": "Wed, 19 Aug 2026 15:23:20 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "上海地铁票价拟调整，有何考虑？",
-      "summary": "<figure><img alt=\"上海地铁票价拟调整，有何考虑？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/781a242d893388ad8e9eb07a4cdb6736.jpg\" /></figure><p>本次公布的两种方案并非最终方案，还将广泛吸收社会意见以进一步优化完善。</p><p>8月19日，上海市发改委发布有关优化上海市轨道交通票价机制听证会的第二次公告，并同步公开了票价优化方案。</p>\n\n<p>公告显示，本次票价优化适用于全市范围内轨道交通，但不含磁浮线、金山铁路、市域机场线及以后开通的市域线。</p>\n\n<p><strong>两种方案+动态调整</strong></p>\n\n<p>票价优化方案包括两种：方案一是起乘价不变，缩短起乘间距和中短距离加价间距，拉大长距离加价间距，即起乘价仍保持3元不变，起乘间距由0-6公里缩短为0-4公里；后续4、4、4、7、7、7、10、10、10公里，以及67公里以上每15公里加1元。</p>\n\n<p>方案二是提高起乘价，起乘间距不变，缩短中短距离加价间距，拉大长距离加",
-      "link": "https://www.yicai.com/news/103325337.html",
-      "published": "Wed, 19 Aug 2026 15:05:51 GMT"
     },
     {
       "source": "上海证券报",
