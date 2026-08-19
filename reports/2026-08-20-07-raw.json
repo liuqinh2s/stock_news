@@ -1,8 +1,8 @@
 {
   "date": "2026-08-20",
   "hour": "07",
-  "total": 9,
-  "fetched_at": "2026-08-20T07:00:49.570266+08:00",
+  "total": 15,
+  "fetched_at": "2026-08-20T07:12:46.416429+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -20,13 +20,6 @@
     },
     {
       "source": "新浪财经",
-      "title": "富国MSCI中国A股国际通指数增强A净值下跌3.40% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3JaS2lEMUFFNUxyMTRVNFkzRVEtNlE5a3gyTkE3MXA1aXFGMW9Xd3VTekQ1SE1YcG44SV9MUDRiZjUtSno2SS04eThMWFNWRXF6VHlMczZ0VHNncHNUdDJKdEJSOFJYQTBxS0dhODVvNFQ1RERZaXM2d1JJSmpJTHZpR29VNEw5emRCWnhpdlpkNmZsMUtB?oc=5\" target=\"_blank\">富国MSCI中国A股国际通指数增强A净值下跌3.40%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3JaS2lEMUFFNUxyMTRVNFkzRVEtNlE5a3gyTkE3MXA1aXFGMW9Xd3VTekQ1SE1YcG44SV9MUDRiZjUtSno2SS04eThMWFNWRXF6VHlMczZ0VHNncHNUdDJKdEJSOFJYQTBxS0dhODVvNFQ1RERZaXM2d1JJSmpJTHZpR29VNEw5emRCWnhpdlpkNmZsMUtB?oc=5",
-      "published": "Wed, 19 Aug 2026 21:18:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "南方MSCI中国A股国际通ETF净值下跌3.05% - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUF3RGtvRGVwRFhwOG1pdGVOLUNRNWRLWHBIM3dWOEdTRV9XY1g1Z2U4WmFiN0VLcFpqRGJrdzNyajlzTVNvbUlhY3BCVFM4LWRva0d6dTA3TjdsWmFLbzdxQm1EUXY5TlVaMkdRUGJBQmtoMk5XakNlMW05RWMxUHdCV2ZZWjdvdHVsVkJmUjhvU1JtMXdr?oc=5\" target=\"_blank\">南方MSCI中国A股国际通ETF净值下跌3.05%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSUF3RGtvRGVwRFhwOG1pdGVOLUNRNWRLWHBIM3dWOEdTRV9XY1g1Z2U4WmFiN0VLcFpqRGJrdzNyajlzTVNvbUlhY3BCVFM4LWRva0d6dTA3TjdsWmFLbzdxQm1EUXY5TlVaMkdRUGJBQmtoMk5XakNlMW05RWMxUHdCV2ZZWjdvdHVsVkJmUjhvU1JtMXdr?oc=5",
@@ -34,31 +27,80 @@
     },
     {
       "source": "新浪财经",
-      "title": "智通ADR统计 | 8月20日 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkNkY0RQSFNiQWtkWjBGa3NxSXVGeld3VG92WEZUNm0yOGFyVk1BTEhvQTRacTZXYzdkZ3lsbmFLMTQwdzFmd1Y5ZThkcTBWaEhhNTRPclFzVkpDb3N6NlNTTUZFaDFubmJmNDhfUWppYlQyUzFCOGd1N1I3ZjZfV2N5Q0lyWV9CRVF1eW9pUk8zdkN1?oc=5\" target=\"_blank\">智通ADR统计 | 8月20日</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYkNkY0RQSFNiQWtkWjBGa3NxSXVGeld3VG92WEZUNm0yOGFyVk1BTEhvQTRacTZXYzdkZ3lsbmFLMTQwdzFmd1Y5ZThkcTBWaEhhNTRPclFzVkpDb3N6NlNTTUZFaDFubmJmNDhfUWppYlQyUzFCOGd1N1I3ZjZfV2N5Q0lyWV9CRVF1eW9pUk8zdkN1?oc=5",
-      "published": "Wed, 19 Aug 2026 22:20:00 GMT"
+      "title": "富国MSCI中国A股国际通指数增强A净值下跌3.40% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3JaS2lEMUFFNUxyMTRVNFkzRVEtNlE5a3gyTkE3MXA1aXFGMW9Xd3VTekQ1SE1YcG44SV9MUDRiZjUtSno2SS04eThMWFNWRXF6VHlMczZ0VHNncHNUdDJKdEJSOFJYQTBxS0dhODVvNFQ1RERZaXM2d1JJSmpJTHZpR29VNEw5emRCWnhpdlpkNmZsMUtB?oc=5\" target=\"_blank\">富国MSCI中国A股国际通指数增强A净值下跌3.40%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc3JaS2lEMUFFNUxyMTRVNFkzRVEtNlE5a3gyTkE3MXA1aXFGMW9Xd3VTekQ1SE1YcG44SV9MUDRiZjUtSno2SS04eThMWFNWRXF6VHlMczZ0VHNncHNUdDJKdEJSOFJYQTBxS0dhODVvNFQ1RERZaXM2d1JJSmpJTHZpR29VNEw5emRCWnhpdlpkNmZsMUtB?oc=5",
+      "published": "Wed, 19 Aug 2026 21:18:00 GMT"
     },
     {
       "source": "同花顺",
-      "title": "一批公司宣布回购增持 截至6月末,股票增持回购贷款已发放超2100亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QLVUtX2N3OEdSc04tQzZfazB0cVVmaE1iMGZSY3ZWMmdpVlgtQ3FDV2NLTjg2SEY3N3lLTXZDMVliZ09LZUNNdDlEZkUzMHN1M08tQUg2Z1YyeHhTOFhIcw?oc=5\" target=\"_blank\">一批公司宣布回购增持 截至6月末,股票增持回购贷款已发放超2100亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QLVUtX2N3OEdSc04tQzZfazB0cVVmaE1iMGZSY3ZWMmdpVlgtQ3FDV2NLTjg2SEY3N3lLTXZDMVliZ09LZUNNdDlEZkUzMHN1M08tQUg2Z1YyeHhTOFhIcw?oc=5",
-      "published": "Wed, 19 Aug 2026 21:19:21 GMT"
+      "title": "沪市化工企业交亮眼“成绩单”，行业景气度有望延续",
+      "summary": "2026年半年报正在密集披露，沪市化工企业交出了一份份亮眼“成绩单”。数据显示，截至目前，74家预告或已披露业绩的沪市化工企业中，净利润增加的公司为51家，占比68.92%。其中，净利润增幅上限超过100%的为34家。在已披露业绩的公司中，主营业务盈利能力明显改善。多位受访人士认为，化工行业景气度回升，是需求端韧性提升和供给侧“反内卷”政策约束叠加的结果，预计下半年行业景气度将延续。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260820/c679110677.shtml",
+      "published": "Wed, 19 Aug 2026 23:12:42 GMT"
     },
     {
       "source": "同花顺",
-      "title": "山西证券党委书记、董事长侯巍: 深耕实体守初心 守正致远开新篇 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TUVZwWERmX1FiRTJwazZVVVc4NzZKTUU1bURyMDZ0U0NYeTliUXl3dUdjNHZ3dFhZRzFabzM4V19RcUU4Z2liNGt0dDZoWDBGLTVDOTRlY25EUjlMS2g4eXh3?oc=5\" target=\"_blank\">山西证券党委书记、董事长侯巍: 深耕实体守初心 守正致远开新篇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TUVZwWERmX1FiRTJwazZVVVc4NzZKTUU1bURyMDZ0U0NYeTliUXl3dUdjNHZ3dFhZRzFabzM4V19RcUU4Z2liNGt0dDZoWDBGLTVDOTRlY25EUjlMS2g4eXh3?oc=5",
-      "published": "Wed, 19 Aug 2026 21:35:23 GMT"
+      "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+      "summary": "当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”发文称，伊朗未能抓住达成协议的机会，因此他宣布对伊朗采取“针对任何国家实施过的最严厉经济行动”，称这将是一场规模空前的“经济战和经济孤立”。特朗普表示，任何允许其金融机构、企业、机场或政府实体向伊朗提供支持的国家，都将面临“巨大的经济后果”。他要求立即停止石油走私、货币互换、现金转移、船舶注册和利用空壳公司等活动，并呼吁美国盟友与美国一道孤立伊朗。特朗普再次表示，“伊朗永远不会拥有核武器”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260820/c679110637.shtml",
+      "published": "Wed, 19 Aug 2026 23:11:50 GMT"
     },
     {
-      "source": "澎湃新闻财经",
-      "title": "纽约股市三大股指19日上涨 - thepaper.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fekJXdV9mdEZ0R3dFRVFxSy1yaXpPRWZfdHpRYTZlX2IwbE4tWTcwZ1pQVGNZZDhES2hhcmNPWTJGdmc1UHF3aWJyQ1QtREhfU1NBTlhNVDFjZUNJN1E?oc=5\" target=\"_blank\">纽约股市三大股指19日上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fekJXdV9mdEZ0R3dFRVFxSy1yaXpPRWZfdHpRYTZlX2IwbE4tWTcwZ1pQVGNZZDhES2hhcmNPWTJGdmc1UHF3aWJyQ1QtREhfU1NBTlhNVDFjZUNJN1E?oc=5",
-      "published": "Wed, 19 Aug 2026 21:04:00 GMT"
+      "source": "同花顺",
+      "title": "受热带低压影响，广东徐闻港、海安新港客滚船将于今日停运",
+      "summary": "受南海热带低压影响，广东湛江徐闻港、海安新港客滚船将于8月20日16时起停运，复运时间将视气象情况而定。交通部门提醒，受本次停航影响及需要过海的司机、旅客朋友们，请合理安排好行程，停运期间请勿前往港口。停运期间所购船票顺延有效。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260820/c679110448.shtml",
+      "published": "Wed, 19 Aug 2026 23:07:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "乌克兰基辅市长称该市遭袭已致1死4伤",
+      "summary": "乌克兰基辅市市长克利奇科20日表示，基辅市遭俄军袭击，截至目前已造成1人死亡，4人受伤。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260820/c679109948.shtml",
+      "published": "Wed, 19 Aug 2026 22:37:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "激活民间投资 财政金融一揽子政策将发力",
+      "summary": "近期央地密集部署促进民间投资，一批务实管用的增量政策正谋划出台：加快落实“六张网”建设实施方案，创新投融资机制吸引社会资本；包括新型政策性金融工具在内的多路资金有望加快下达使用，加大对民间投资项目支持力度……多位专家表示，随着政策加快落地，民间投资下行压力有望缓解，逐步止跌回稳。从长期来看，投资结构将持续优化，民间投资将更多体现为“高质量、高技术”的结构性增长。 (上证报)",
+      "link": "https://news.10jqka.com.cn/20260820/c679109890.shtml",
+      "published": "Wed, 19 Aug 2026 22:17:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "联合国警告：以色列定居点计划威胁“两国方案”",
+      "summary": "联合国秘书长发言人迪雅里克表示，联合国秘书长古特雷斯对有关以色列在约旦河西岸地区新建非法定居点前哨等行为深感震惊。古特雷斯表示，这一进展将实际上切断约旦河西岸地区北部与南部之间的联系，呼吁以色列不要在这一问题上采取任何进一步行动，相关进展将严重影响被占领巴勒斯坦领土的领土完整，并对“两国方案”构成生存性威胁。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260820/c679109865.shtml",
+      "published": "Wed, 19 Aug 2026 22:09:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "哥伦比亚强震已致314人死亡",
+      "summary": "哥伦比亚总统德拉埃斯普列亚宣布，哥伦比亚强震已造成314人死亡，仍有262人失踪。据中国地震台网正式测定，北京时间10日晚上（哥伦比亚当地时间10日上午），哥伦比亚西北部发生里氏7.5级强震，震源深度80公里。哥伦比亚全国有32个城市严重受灾。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260820/c679109509.shtml",
+      "published": "Wed, 19 Aug 2026 22:06:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美媒：美军开展秘密行动在霍尔木兹海峡打通运油航道",
+      "summary": "据美国阿克西奥斯新闻网站19日报道，美军已悄悄建立一条进出霍尔木兹海峡的航运通道，确保每天有“数百万桶”石油运出霍尔木兹海峡。报道援引两名美国官员的话称，这项行动已持续数周。过去两周，每天有15到20艘油轮经由阿曼沿海一条南部航道进出该海峡。美官员称，石油日均运输量持续增长，目前已接近1000万桶，某些夜晚从海湾运出的石油总量甚至达到1500万至2000万桶。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260820/c679109501.shtml",
+      "published": "Wed, 19 Aug 2026 22:03:13 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+      "summary": "<p dir=\"auto\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/ce16ab81-87ba-4e28-80e3-2efbce8406ff.png\" /></p>\n<p>美国财政部出人意料地扩大长期国债回购规模，在债市承压之际释放出干预信号，引发华尔街广泛讨论——这究竟是技术性流动性管理，还是政府主动压制长端收益率的开端？</p>\n<p>周三，财政部宣布将10至30年期国债流动性回购上限翻倍，单次规模提升至至少40亿美元。消息发出，10年期国债收益率下跌6个基点，30年期收益率盘中曾降约10个基点——后者此前刚刚触及19年来最高水平。</p>\n<p>多位分析师指出，<strong>此次公告的时机选择本身即传递出强烈信号：官员们对当前局面感到不安。</strong></p>\n<p>然而，市场对这一操作的实质效果普遍持谨慎态度。多位分析师强调，<strong>回购并未改变财政赤字与供给压力等基本面。</strong>同时有观点指出，<strong>此举可能令美联储主席沃什将通胀压回2%目标的任务更加复杂。</stron",
+      "link": "https://wallstreetcn.com/articles/3779827",
+      "published": "Wed, 19 Aug 2026 21:39:07 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美股终结三连阴！美国财政部加倍回购长债回落，存储光通信续跌，黄金大涨",
+      "summary": "<figure><img alt=\"美股终结三连阴！美国财政部加倍回购长债回落，存储光通信续跌，黄金大涨\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/1feec49d9b053b8c3514a503778a381b.jpg\" /></figure><p>美国财政部宣布将长端国债流动性支持回购上限至少翻倍，30年期美债收益率自19年高位回落。</p><p>周三（19日）美股结束三连跌。美国财政部宣布将长端国债流动性支持回购上限至少翻倍，30年期美债收益率自19年高位回落，三大指数高开后涨幅收窄，仍全部收涨。</p>\n\n<p>截至收盘，道指涨119.65点，涨幅0.22%，报53463.05点；纳指涨41.38点，涨幅0.16%，报26331.09点；标普500指数涨16.22点，涨幅0.21%，报7707.98点。</p>\n\n<p><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/08/d4d9cc468ae669c61720ec3b1db4ed6a.jp",
+      "link": "https://www.yicai.com/news/103325537.html",
+      "published": "Wed, 19 Aug 2026 23:05:37 GMT"
     },
     {
       "source": "雪球热帖",
