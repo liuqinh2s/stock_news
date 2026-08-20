@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
   "hour": "03",
-  "total": 15,
-  "fetched_at": "2026-08-21T03:00:51.298341+08:00",
+  "total": 17,
+  "fetched_at": "2026-08-21T03:22:38.745441+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,6 +10,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9MT2hMXzFia01HWFRXVzR2ZHJWanVMczl5ZHp3eWVDbkkyZTA1ak9CeGdLQ1BZNHJkWU01VFkyR0tCdVBEcy1PRTV4OFkzOTM0cGdiX2ktdFBpMzhwU1F3aFp5SEtyck9uSnhCS3k3V2Z3bjdPRzhQWg?oc=5\" target=\"_blank\">绿色动力环保集团股份有限公司关于本次A股限制性股票回购注销不调整“绿动转债”转股价格的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MT2hMXzFia01HWFRXVzR2ZHJWanVMczl5ZHp3eWVDbkkyZTA1ak9CeGdLQ1BZNHJkWU01VFkyR0tCdVBEcy1PRTV4OFkzOTM0cGdiX2ktdFBpMzhwU1F3aFp5SEtyck9uSnhCS3k3V2Z3bjdPRzhQWg?oc=5",
       "published": "Thu, 20 Aug 2026 18:16:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美联邦调查局称挫败针对纽约州议会大厦袭击图谋",
+      "summary": "美国联邦调查局（FBI）当地时间8月20日逮捕一名女子，指控其策划袭击位于纽约州首府城市奥尔巴尼的纽约州议会大厦。FBI在刑事诉状中称，35岁的杰西卡·鲍伊（Jessica Bowie）曾在网络交流中宣誓效忠“伊斯兰国”，并于今年7月开始策划相关袭击。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260821/c679148436.shtml",
+      "published": "Thu, 20 Aug 2026 19:05:58 GMT"
     },
     {
       "source": "同花顺",
@@ -40,18 +47,25 @@
       "published": "Thu, 20 Aug 2026 17:36:53 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "沪铅夜盘收涨1.10%",
-      "summary": "国际铜夜盘收涨0.19%，沪铜收涨0.01%，沪铝收跌0.47%，沪锌收涨0.79%，沪铅收涨1.10%，沪镍收跌0.96%，沪锡收涨0.75%。氧化铝夜盘收涨0.45%，铝合金收跌0.33%。不锈钢夜盘收跌1.39%。",
-      "link": "https://news.10jqka.com.cn/20260821/c679148179.shtml",
-      "published": "Thu, 20 Aug 2026 17:02:26 GMT"
+      "source": "财联社",
+      "title": "欧洲股市小幅收低 延续2023年以来最长连跌走势 - 手机网易网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YzE5eksyeEpSU3BlTUJLbFJnNDkwSTdqVFl6TzFKMzJ0T0t4cUE4OFVpajBFSHF6RHFxd21Mc1IwZ0s2VXpEMFNoQmJUSkFwUFRJRmJ1NFp5VVB2dGt5RVFR?oc=5\" target=\"_blank\">欧洲股市小幅收低 延续2023年以来最长连跌走势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机网易网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YzE5eksyeEpSU3BlTUJLbFJnNDkwSTdqVFl6TzFKMzJ0T0t4cUE4OFVpajBFSHF6RHFxd21Mc1IwZ0s2VXpEMFNoQmJUSkFwUFRJRmJ1NFp5VVB2dGt5RVFR?oc=5",
+      "published": "Thu, 20 Aug 2026 19:04:22 GMT"
     },
     {
-      "source": "财联社",
-      "title": "Waymo官宣自研芯片上车 剑指Robotaxi性能与成本双提升 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4zLXlHVlhNV1pEblU2NzNic29EZGJRX3pUZTFoc3h4cWFYWkdvdkZhall1RjJkNl9TMGNwWEczV3NfNEYtYkM5cnVNM293SzUwZHgwV2hWWVlwbE15NHlqRWZVejcxVks5NkRTMld2TjFuWDV3YjA3ZQ?oc=5\" target=\"_blank\">Waymo官宣自研芯片上车 剑指Robotaxi性能与成本双提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zLXlHVlhNV1pEblU2NzNic29EZGJRX3pUZTFoc3h4cWFYWkdvdkZhall1RjJkNl9TMGNwWEczV3NfNEYtYkM5cnVNM293SzUwZHgwV2hWWVlwbE15NHlqRWZVejcxVks5NkRTMld2TjFuWDV3YjA3ZQ?oc=5",
-      "published": "Thu, 20 Aug 2026 17:15:00 GMT"
+      "source": "华尔街见闻",
+      "title": "阿里AI云进入利润释放期：AI业务利润翻倍激增、利润率升至12%，自研芯片覆盖650家客户",
+      "summary": "<p style=\"text-align: left;\">阿里AI业务上一财季取得“增收又增利”的成绩：阿里云外部商业化收入同比增长45%、创22个季度增速新高，AI云和算力业务的利润率同步升至12%，自研芯片规模化商用与数据中心交付提速双线推进。这份成绩单显示，AI投入正从规模扩张阶段转入利润释放阶段。</p>\n<p style=\"text-align: left;\">财报显示，在截至自然年2026年6月末的公司第一财季，阿里云AI相关产品收入达123.76亿元，连续第12个季度保持三位数同比增长；衡量盈利能力的指标显示，AI云与及计算服务业务息税折旧摊销前利润（EBITDA）同比增长133%，经调整EBITDA利润率升至12%。</p>\n<p style=\"text-align: left;\">在业绩电话会上，阿里管理层进一步披露，AI相关产品年化收入（ARR）突破495亿元，占阿里云外部商业化收入的35%。</p>\n<p style=\"text-align: left;\">利润率抬升的关键在于，AI相关产品毛利率显著高于云产品平均水平。这意味着AI收入的高增长开始转化为利润增量，",
+      "link": "https://wallstreetcn.com/articles/3779939",
+      "published": "Thu, 20 Aug 2026 19:17:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美债为何遭抛售？圣路易斯联储主席：AI争夺资金，非美联储信誉问题",
+      "summary": "<p>美国圣路易斯联储主席阿尔贝托·穆萨勒姆表示，近期债券市场的抛售主要由政府借款增加以及人工智能建设带来的融资需求上升所推动，而不是市场对美联储信誉产生质疑。</p>\n<p>穆萨勒姆周四接受CNBC采访时表示：<strong>“美国政府融资与人工智能建设之间正在发生资本竞争。如今，人工智能建设正在美国以及全球范围内获得融资。”</strong></p>\n<p>他表示：<strong>“有趣的是，通胀预期仍然稳定，美联储的信誉并没有受到质疑。”</strong></p>\n<p>当投资者怀疑美联储遏制通胀的决心时，债券收益率同样可能上升。</p>\n<p>穆萨勒姆今年没有货币政策投票权。他重申，自己原本更倾向于在美联储7月会议上加息，以压低目前仍处于高位的通胀。他表示，他认为在未来18个月内，如果不进一步提高利率，通胀无法回到美联储2%的目标水平的概率更高。</p>\n<p>美联储官员在7月会议上连续第五次维持利率不变，也没有释放近期加息的信号。三名政策制定者则持异议，支持加息。一些没有投票权的地区联储官员，包括穆萨勒姆，也曾表示他们会支持加息。</p>\n<p>近几周，投资者持续抛售美国国债",
+      "link": "https://wallstreetcn.com/articles/3779940",
+      "published": "Thu, 20 Aug 2026 19:16:42 GMT"
     },
     {
       "source": "华尔街见闻",
