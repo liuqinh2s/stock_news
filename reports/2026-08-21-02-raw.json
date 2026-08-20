@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
   "hour": "02",
-  "total": 6,
-  "fetched_at": "2026-08-21T02:01:04.241226+08:00",
+  "total": 11,
+  "fetched_at": "2026-08-21T02:21:27.587268+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -12,11 +12,53 @@
       "published": "Thu, 20 Aug 2026 16:38:00 GMT"
     },
     {
+      "source": "同花顺",
+      "title": "Anthropic据悉准备最早于8月底提交IPO申请",
+      "summary": "Anthropic据悉准备最早于8月底提交IPO申请，预计将追平或超越SpaceX的创纪录IPO规模。",
+      "link": "https://news.10jqka.com.cn/20260821/c679148298.shtml",
+      "published": "Thu, 20 Aug 2026 18:00:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股道琼斯指数期货跌超1%",
+      "summary": "美股道琼斯指数期货跌超1%，纳斯达克100指数期货跌0.78%，标普500指数期货跌0.6%。",
+      "link": "https://news.10jqka.com.cn/20260821/c679148266.shtml",
+      "published": "Thu, 20 Aug 2026 17:36:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沪铅夜盘收涨1.10%",
+      "summary": "国际铜夜盘收涨0.19%，沪铜收涨0.01%，沪铝收跌0.47%，沪锌收涨0.79%，沪铅收涨1.10%，沪镍收跌0.96%，沪锡收涨0.75%。氧化铝夜盘收涨0.45%，铝合金收跌0.33%。不锈钢夜盘收跌1.39%。",
+      "link": "https://news.10jqka.com.cn/20260821/c679148179.shtml",
+      "published": "Thu, 20 Aug 2026 17:02:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "尼日利亚发生沉船事故 造成至少40人死亡",
+      "summary": "尼日利亚西北部索科托州发生一起严重沉船事故。一艘载有70余人的木船在渡河时倾覆，目前已造成至少40人遇难。尼日利亚国家内河航道管理局区域经理阿卜杜勒卡迪尔·优素福证实，事故发生在索科托州戈罗尼奥地方政府区的戈劳镇。据了解，船上乘客主要是附近前往稻田干活的农户和受雇收割水稻的工人，事发时船只处于严重超载状态。目前，当地政府对失踪乘客的搜寻工作仍在进行中，预计伤亡人数还可能上升。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260821/c679148150.shtml",
+      "published": "Thu, 20 Aug 2026 16:50:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "乌基辅一商务中心因无人机残骸坠落起火 致1死2伤",
+      "summary": "乌克兰基辅市长克利奇科20日表示，当天基辅市一栋商务中心因无人机残骸坠落起火，造成1人死亡、2人受伤。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20260821/c679148115.shtml",
+      "published": "Thu, 20 Aug 2026 16:37:33 GMT"
+    },
+    {
       "source": "财联社",
       "title": "Waymo官宣自研芯片上车 剑指Robotaxi性能与成本双提升 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE4zLXlHVlhNV1pEblU2NzNic29EZGJRX3pUZTFoc3h4cWFYWkdvdkZhall1RjJkNl9TMGNwWEczV3NfNEYtYkM5cnVNM293SzUwZHgwV2hWWVlwbE15NHlqRWZVejcxVks5NkRTMld2TjFuWDV3YjA3ZQ?oc=5\" target=\"_blank\">Waymo官宣自研芯片上车 剑指Robotaxi性能与成本双提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4zLXlHVlhNV1pEblU2NzNic29EZGJRX3pUZTFoc3h4cWFYWkdvdkZhall1RjJkNl9TMGNwWEczV3NfNEYtYkM5cnVNM293SzUwZHgwV2hWWVlwbE15NHlqRWZVejcxVks5NkRTMld2TjFuWDV3YjA3ZQ?oc=5",
       "published": "Thu, 20 Aug 2026 17:15:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：Anthropic的IPO规模料将追平SpaceX，甚至超越它",
+      "summary": "<p>据知情人士透露，Anthropic准备最快8月末递交美国IPO申请。</p>\n\n<p>该公司CFO Rao近期牵头向投资者介绍相关情况。</p>\n\n<p>Anthropic的IPO规模料将追平马斯克旗下太空探索公司SpaceX所创历史纪录，甚至超越后者。（彭博）</p>",
+      "link": "https://wallstreetcn.com/livenews/3152545",
+      "published": "Thu, 20 Aug 2026 17:56:14 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -38,13 +80,6 @@
       "summary": "<p>8月20日，美国财政部长贝森特表示，他将于24日举行新闻发布会，具体阐述美国针对伊朗的行动计划。贝森特称，“我们掌握非对称信息，我不确定为什么石油问题会成为关注焦点，如果我们施加最大程度的经济压力，那就意味着不太可能爆发大规模的军事冲突。”美国总统特朗普19日警告称，任何向伊朗提供“任何形式生命线”的国家都将面临经济后果。（央视）</p>",
       "link": "https://wallstreetcn.com/livenews/3152510",
       "published": "Thu, 20 Aug 2026 16:24:26 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "贝森特放话美债回购还能加码、单次或超40亿，对伊朗经济战或取代军事行动",
-      "summary": "<p>美东时间20日周四，美国财政部长贝森特密集释放政策信号：在美国长期国债收益率重新走高之际，他表示财政部单次长债回购规模可能超过40亿美元，并强调财政部拥有强大的工具箱；另一方面，在伊朗问题上，他透露美国将于下周一举行新闻发布会讨论针对伊朗的行动，并称暗示加大经济施压可能成为避免重启大规模军事行动的重要手段。</p>\n<p>贝森特还表示，当前美债收益率并没有充分反映美国经济基本面，尤其是30年期美债的流动性“非常匮乏”；对于美元，他重申将继续维持强势美元政策。在企业融资方面，他认为AI投资预期正在令企业发行公司债时对收益率“近乎不敏感”，而企业投资最终有望推动生产率增长。</p>\n<p>贝森特上述表态之际，美国财政部扩大长债回购规模仅过去一天。财政部周三宣布，将10年至20年期、20年至30年期美债的流动性支持回购操作规模至少提高一倍，单次操作上限由20亿美元提高至至少40亿美元。</p>\n<h2>贝森特：长端收益率没有反映基本面，30年期流动性尤其不足</h2>\n<p>在被问及财政部是否还会进一步干预美债市场时，贝森特释放了相当明确的信号。</p>\n<p>他表示，当前国债市场属于",
-      "link": "https://wallstreetcn.com/articles/3779933",
-      "published": "Thu, 20 Aug 2026 16:18:29 GMT"
     }
   ]
 }
