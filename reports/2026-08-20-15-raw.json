@@ -1,20 +1,41 @@
 {
   "date": "2026-08-20",
   "hour": "15",
-  "total": 44,
-  "fetched_at": "2026-08-20T15:00:51.929870+08:00",
+  "total": 69,
+  "fetched_at": "2026-08-20T15:31:57.591473+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股大爆发，三大指数集体高开！美联储加息预期突变，国际油价继续涨 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1icW50S0ZMN25rMFgwal9RZXpHVXlEREJkMkNZckVORVIxdGtQTklqNnBxcHBub3NkNHRsVnhOWG5YeEltY0ozSEROd3lsV19tWjN5ajVDTUttbG4xUGdOa2pfZXhFT2Voa1JFUjlLaHNMOFR3X1RLbQ?oc=5\" target=\"_blank\">A股大爆发，三大指数集体高开！美联储加息预期突变，国际油价继续涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "A股高开低走，震荡收涨：医药生物板块掀涨停潮 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9UbnpDWG1oRjh2ZjZhby1hVHU5M2VBTFlsT2hvbHR3d1EtcFpWQjQ5b1ZhVTRUVkNiVnRrSHFodkpXM280OFBxQ19xbFRkbkZhSkY1Nk1RWThCQmJjV1diYkt4ZTJyM3pQTmlwZFhfaTJ0bGh6M0Z6ag?oc=5\" target=\"_blank\">A股高开低走，震荡收涨：医药生物板块掀涨停潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UbnpDWG1oRjh2ZjZhby1hVHU5M2VBTFlsT2hvbHR3d1EtcFpWQjQ5b1ZhVTRUVkNiVnRrSHFodkpXM280OFBxQ19xbFRkbkZhSkY1Nk1RWThCQmJjV1diYkt4ZTJyM3pQTmlwZFhfaTJ0bGh6M0Z6ag?oc=5",
+      "published": "Thu, 20 Aug 2026 07:24:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股收盘，上证指数涨0.24%，深证成指涨0.59%，创业板指涨0.64%。 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE14VEFwdklBYnd1dmdqY2lQUFRQTGp4YUlGV0hEMkhVRnl1eWdZcVlWZF9fSnhNWTlHYlZBSGt0Qi01dWJNZTBvb3RXR3ZDOVp0c2s1d3RnQ1VGVkF6aE1zVDBNd2tKYTh3ZWhfU0JGbnVlaGE2aV9zNw?oc=5\" target=\"_blank\">A股收盘，上证指数涨0.24%，深证成指涨0.59%，创业板指涨0.64%。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14VEFwdklBYnd1dmdqY2lQUFRQTGp4YUlGV0hEMkhVRnl1eWdZcVlWZF9fSnhNWTlHYlZBSGt0Qi01dWJNZTBvb3RXR3ZDOVp0c2s1d3RnQ1VGVkF6aE1zVDBNd2tKYTh3ZWhfU0JGbnVlaGE2aV9zNw?oc=5",
+      "published": "Thu, 20 Aug 2026 07:01:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股大爆发，三大指数集体高开！美联储加息预期突变，国际油价继续涨 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1icW50S0ZMN25rMFgwal9RZXpHVXlEREJkMkNZckVORVIxdGtQTklqNnBxcHBub3NkNHRsVnhOWG5YeEltY0ozSEROd3lsV19tWjN5ajVDTUttbG4xUGdOa2pfZXhFT2Voa1JFUjlLaHNMOFR3X1RLbQ?oc=5\" target=\"_blank\">A股大爆发，三大指数集体高开！美联储加息预期突变，国际油价继续涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1icW50S0ZMN25rMFgwal9RZXpHVXlEREJkMkNZckVORVIxdGtQTklqNnBxcHBub3NkNHRsVnhOWG5YeEltY0ozSEROd3lsV19tWjN5ajVDTUttbG4xUGdOa2pfZXhFT2Voa1JFUjlLaHNMOFR3X1RLbQ?oc=5",
       "published": "Thu, 20 Aug 2026 05:55:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "沪深300贵不贵？值得买吗？四组数据重新审视TA - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9fYTFOWUtJT3FFYTRncFNiR21XY3p5NXhaQ1RDOEhyTTM4Q1hGanFKMm82QU1TT0RKWFJOZm03cGphSFpMSkNXSmdaODZMZFMxbGFsZDg3enJBUktqeElOZ0VBREFCd0hRS0hNOThYVlQ3ajZGbTlUbw?oc=5\" target=\"_blank\">沪深300贵不贵？值得买吗？四组数据重新审视TA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "title": "8月20日沪深两市涨停分析：金健米业4连板 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1aWTAtclZZNmlKQnpnZTBpbGxlSW05aV90UTVDRWtRaVpualFVWVFaYTI0NC1WSUp4ME9VbzA4M3NYMzZKVlhfYmVYNW8tMG5QcFpHMmdRdDRhemgxTlNJTVNHNUcyZFh6VkRNRm5JMFNpNkNvTVNB?oc=5\" target=\"_blank\">8月20日沪深两市涨停分析：金健米业4连板</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aWTAtclZZNmlKQnpnZTBpbGxlSW05aV90UTVDRWtRaVpualFVWVFaYTI0NC1WSUp4ME9VbzA4M3NYMzZKVlhfYmVYNW8tMG5QcFpHMmdRdDRhemgxTlNJTVNHNUcyZFh6VkRNRm5JMFNpNkNvTVNB?oc=5",
+      "published": "Thu, 20 Aug 2026 07:21:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "沪深300贵不贵？值得买吗？四组数据重新审视TA - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9fYTFOWUtJT3FFYTRncFNiR21XY3p5NXhaQ1RDOEhyTTM4Q1hGanFKMm82QU1TT0RKWFJOZm03cGphSFpMSkNXSmdaODZMZFMxbGFsZDg3enJBUktqeElOZ0VBREFCd0hRS0hNOThYVlQ3ajZGbTlUbw?oc=5\" target=\"_blank\">沪深300贵不贵？值得买吗？四组数据重新审视TA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fYTFOWUtJT3FFYTRncFNiR21XY3p5NXhaQ1RDOEhyTTM4Q1hGanFKMm82QU1TT0RKWFJOZm03cGphSFpMSkNXSmdaODZMZFMxbGFsZDg3enJBUktqeElOZ0VBREFCd0hRS0hNOThYVlQ3ajZGbTlUbw?oc=5",
       "published": "Thu, 20 Aug 2026 05:58:00 GMT"
     },
@@ -26,25 +47,95 @@
       "published": "Thu, 20 Aug 2026 06:43:38 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFR1WmtMMFVzTU5BZFB1cFp4XzMteHBRNnB2d1VJdkdnUVVFNzFBd2NUSHpQemdWelV1eURWVnFYTlhhWGd1akhUZXRFNzNUODdOSlFzYndrX3JIZmltYmhmSnhhSVRNZUFsZDc0LVc5TDlnX0RMamJtTnZYV0VMTndObk9Eb0IzSndGb0xpWjh5VmtrZThj?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFR1WmtMMFVzTU5BZFB1cFp4XzMteHBRNnB2d1VJdkdnUVVFNzFBd2NUSHpQemdWelV1eURWVnFYTlhhWGd1akhUZXRFNzNUODdOSlFzYndrX3JIZmltYmhmSnhhSVRNZUFsZDc0LVc5TDlnX0RMamJtTnZYV0VMTndObk9Eb0IzSndGb0xpWjh5VmtrZThj?oc=5",
-      "published": "Thu, 20 Aug 2026 05:05:07 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "多只ETF再放量 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1ESzVVYld5aXFvc0RzRlc0UXBZdGZRcDltU3RzY1l6V3FyWlFOTldVbTYxSWdFNWVGaGthM0hYQjZ5eGdIaE9oS2hIenhJbXF2V2hBekZhRWM5SDdCZG1icHNUNmRuRnBMYzR2VzdybjNNdWlLQnc?oc=5\" target=\"_blank\">多只ETF再放量</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ESzVVYld5aXFvc0RzRlc0UXBZdGZRcDltU3RzY1l6V3FyWlFOTldVbTYxSWdFNWVGaGthM0hYQjZ5eGdIaE9oS2hIenhJbXF2V2hBekZhRWM5SDdCZG1icHNUNmRuRnBMYzR2VzdybjNNdWlLQnc?oc=5",
-      "published": "Thu, 20 Aug 2026 05:09:00 GMT"
-    },
-    {
       "source": "东方财富",
       "title": "137736:中国中金财富证券有限公司2022年面向专业投资者公开发行公司债券(第三期)(品种二)2026年付息公告 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE05VHRfdjNQRHlTaEEyRXl5UDFLamhrN0g5ai1OMWhXVzJndmtaNXVuaUVFNUVlYTByU3dRbFJyZzdrbEZ4NlU1NUNZWjNiR3Z1TlhkSVctNkRDeUVyc1pQbHlWNGNsVE1TckthamdnY2toVmdjaUREZS1DemJmdw?oc=5\" target=\"_blank\">137736:中国中金财富证券有限公司2022年面向专业投资者公开发行公司债券(第三期)(品种二)2026年付息公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05VHRfdjNQRHlTaEEyRXl5UDFLamhrN0g5ai1OMWhXVzJndmtaNXVuaUVFNUVlYTByU3dRbFJyZzdrbEZ4NlU1NUNZWjNiR3Z1TlhkSVctNkRDeUVyc1pQbHlWNGNsVE1TckthamdnY2toVmdjaUREZS1DemJmdw?oc=5",
       "published": "Thu, 20 Aug 2026 05:44:44 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "南向资金净卖出额超20亿港元 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TjhOaEg5MkJFNTZfQlM1S28tNGczUy1aQTR2RlVaYlhBV0h6dmg0VFdhZk5oTmNweVg3Q3lCOFcyTGFfV0sxYmp0ZlpBR1B5bVBRVTA4MU9sRjhEclg3OGV2TWZkUQ?oc=5\" target=\"_blank\">南向资金净卖出额超20亿港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TjhOaEg5MkJFNTZfQlM1S28tNGczUy1aQTR2RlVaYlhBV0h6dmg0VFdhZk5oTmNweVg3Q3lCOFcyTGFfV0sxYmp0ZlpBR1B5bVBRVTA4MU9sRjhEclg3OGV2TWZkUQ?oc=5",
+      "published": "Thu, 20 Aug 2026 06:59:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "朝美领导人接触？外交部：不做评论",
+      "summary": "8月20日，外交部发言人林剑主持例行记者会。有记者就朝美领导人接触提问。林剑表示，我不掌握具体信息，对此不做评论。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260820/c679131451.shtml",
+      "published": "Thu, 20 Aug 2026 07:28:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "外交部：中国愿为各国提供更多市场红利、创新红利、发展红利",
+      "summary": "8月20日，外交部发言人林剑主持例行记者会。有记者提问，我们注意到，近期美国哈佛大学肯尼迪学院教授达尼·罗德里克、美国企业研究所经济政策研究主任迈克尔·斯特雷恩等经济学家撰文批驳所谓“中国冲击”“中国挤压”论调，认为中国的贸易政策并非“以邻为壑”，而是“惠邻利邻”；中国不光卖成品，还大量出口生产设备、零部件、中间品，帮不少国家降低工业化成本；要求中国主动牺牲本国产业给别国让路，这种论调没有经济学道理。发言人对此有何评论？林剑表示，我们注意到，国际上越来越多有识之士发表了类似见解。事实证明，中国发展带给世界的不是“冲击”而是机遇，不是“挤压”而是赋能。物美价优的中国制造，降低了发展中国家的工业化门槛；开源普惠的中国创新，让更多国家用得上、用得起前沿技术；稳定可靠的中国供应，提升了全球产供链的韧性，助推全球南方国家更快走上现代化道路。面对当前世界经济不确定、不稳定性因素增多，中国愿继续以自身高质量发展，为各国提供更多市场红利、创新红利、发展红利。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260820/c679131428.shtml",
+      "published": "Thu, 20 Aug 2026 07:27:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗伊斯兰革命卫队：若爆发新战争将使用破坏力更强武器",
+      "summary": "当地时间20日，伊朗伊斯兰革命卫队发言人穆赫比表示，伊朗伊斯兰革命卫队导弹所使用弹头的破坏力，远高于此前战争中使用的型号。穆赫比称，如果爆发新的战争，伊方所使用的武器装备将在各方面与过去明显不同。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260820/c679131379.shtml",
+      "published": "Thu, 20 Aug 2026 07:25:08 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普称将于11月同金正恩会晤，外交部回应",
+      "summary": "8月20日，外交部发言人林剑主持例行记者会。\n\n法新社记者提问，美国总统特朗普19日表示，他将于今年晚些时候同朝鲜领导人金正恩会晤。据《华尔街日报》报道，特朗普正考虑借11月在深圳举办的亚太经合组织（APEC）峰会举行此次会面。请问发言人，作为与有关各方关系密切的国家，中方对美方相关表态有何评论？\n\n对此，林剑表示：“关于你提到的朝美接触的事宜，我不掌握具体信息，对此不做评论。”",
+      "link": "https://news.10jqka.com.cn/20260820/c679131313.shtml",
+      "published": "Thu, 20 Aug 2026 07:22:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中韩领导人是否将在11月APEC峰会期间会晤？外交部回应",
+      "summary": "8月20日，外交部发言人林剑主持例行记者会。彭博社记者提问，关于王毅外长和韩国外长在韩国举行会谈，韩方消息称，王毅表示中方正积极考虑推动中韩领导人在11月APEC峰会期间会晤。中方能否证实，能否提供更多详细信息？林剑表示，中方愿以今年主办亚太经合组织领导人非正式会议为契机，同包括韩国在内的各方携手构建亚太共同体，为亚太乃至世界的和平与发展注入新动力。“关于你提到的具体问题，我们会适时发布消息。”（澎湃新闻）",
+      "link": "https://news.10jqka.com.cn/20260820/c679131194.shtml",
+      "published": "Thu, 20 Aug 2026 07:19:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "外交部回应美国宣布对伊朗实施“毁灭性经济行动”",
+      "summary": "据报道，美国总统特朗普19日宣布对伊朗实施“毁灭性经济行动”。外交部发言人林剑20日在例行记者会上答问时表示，制裁、施压无助于问题的解决。中方呼吁相关各方采取负责任举措，通过政治外交途径解决问题。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260820/c679131111.shtml",
+      "published": "Thu, 20 Aug 2026 07:16:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "商务部：反对欧方滥用单边工具打压中国企业",
+      "summary": "商务部新闻发言人何亚东在20日举行的例行新闻发布会上说，中方一贯反对欧方滥用《外国补贴条例》（FSR）等单边工具打压中国企业。希望欧方与中方相向而行，迅速纠正在FSR调查中的错误做法，通过政府间对话加强沟通。中方将密切关注欧方动向，并将采取必要措施坚决维护国家安全和企业合法权益。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260820/c679131086.shtml",
+      "published": "Thu, 20 Aug 2026 07:14:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "太初元碁发布预制化集装箱算力单元",
+      "summary": "记者获悉，国产AI芯片企业太初（杭州）集成电路有限公司（“太初元碁”）正式对外发布分布式算力解决方案，包含风冷智算集装箱、液冷超节点集装箱、超节点集装箱集群三类产品，该系列产品工厂预制率超90%，现场接入水电即可24小时内投运，可快速满足产业集群算力建设、企业应急扩容等。（21世纪经济报道）",
+      "link": "https://news.10jqka.com.cn/20260820/c679131049.shtml",
+      "published": "Thu, 20 Aug 2026 07:11:13 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "商务部回应美征收无人机关税问题",
+      "summary": "商务部新闻发言人何亚东在20日举行的例行新闻发布会上回应有关美征收无人机关税的提问时说，我们注意到美方对无人机及零部件征收232关税的决定。中方一贯认为，美方232措施是以“国家安全”为名实施单边主义、保护主义。事实上，中国对美出口无人机主要应用于农业、设备巡检、影视娱乐等民用场景。何亚东表示，美方232措施泛化国家安全概念，对贸易伙伴实施差异化关税税率，歧视性对待中国相关产品，严重损害中国企业利益，扰乱全球无人机产供链合作秩序，进一步破坏公平竞争的市场环境，中方对此坚决反对。我们敦促美方立即撤销232相关关税措施。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260820/c679130933.shtml",
+      "published": "Thu, 20 Aug 2026 07:07:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ETF两市成交额报4276.16亿元，较昨日此时缩量691.57亿元",
+      "summary": "截至目前，ETF两市成交额报4276.16亿元，较昨日此时缩量691.57亿元，分类型来看，股票型ETF成交额1539.3亿元，债券型ETF成交额1617.75亿元，货币型ETF成交额236.69亿元，商品型ETF成交额103.25亿元，QDII型ETF成交额779.17亿元。",
+      "link": "https://news.10jqka.com.cn/20260820/c679130836.shtml",
+      "published": "Thu, 20 Aug 2026 07:01:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ETF收评：疫苗ETF领涨10.02%，中证2000ETF跌3.31%",
+      "summary": "ETF收盘涨跌不一，疫苗ETF（561920）领涨10.02%，疫苗ETF（562860）涨9.97%，疫苗ETF（159645）涨8.95%，杭州湾区ETF（512870）领跌9.98%，中证2000ETF（159536）跌3.31%，卫星ETF（159218）跌2.37%。",
+      "link": "https://news.10jqka.com.cn/20260820/c679130819.shtml",
+      "published": "Thu, 20 Aug 2026 07:01:10 GMT"
     },
     {
       "source": "同花顺",
@@ -55,8 +146,8 @@
     },
     {
       "source": "同花顺",
-      "title": "期货收评：美财政部回购国债救市！沪银暴涨超4%领涨贵金属",
-      "summary": "期货收评：截至收盘，大宗商品以上涨为主，沪银、铂涨超4%，沪金、沥青、菜油、钯涨超2%；跌幅方面，低硫燃油、PTA跌超1%。",
+      "title": "期货收评：美财政部回购国债救市引爆贵金属！沪银涨超4%",
+      "summary": "期货收评：大宗商品以上涨为主，沪银、铂涨超4%，沪金、沥青、菜油、钯涨超2%；跌幅方面，低硫燃油、铁矿跌超1%。",
       "link": "https://news.10jqka.com.cn/20260820/c679130816.shtml",
       "published": "Thu, 20 Aug 2026 07:00:53 GMT"
     },
@@ -110,81 +201,165 @@
       "published": "Thu, 20 Aug 2026 06:41:28 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "余承东：鸿蒙智行累计交付150万台",
-      "summary": "8月20日，华为常务董事、终端BG董事长余承东在鸿蒙智行全场景发布会上表示，截至目前，鸿蒙智行累计交付150万台车。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260820/c679130491.shtml",
-      "published": "Thu, 20 Aug 2026 06:40:27 GMT"
+      "source": "财联社",
+      "title": "萝卜快跑在迪拜实现自主与合作双模式运营无人驾驶出行服务",
+      "summary": "【萝卜快跑在迪拜实现自主与合作双模式运营无人驾驶出行服务】财联社8月20日电，Uber当地时间8月20日宣布，其平台已正式在阿联酋迪拜上线百度萝卜快跑无人驾驶车辆，供该平台乘客使用，阿联酋公司New Horizon Luxury Transport将负责车队运营。声明称，当日起，迪拜乘客在使用UberX或Uber Comfort时，有机会匹配到萝卜快跑车辆。为提高匹配到无人驾驶车辆的几率，乘客还可直接在Uber应用中选择“无人驾驶”选项。这项服务初期将在迪拜乌姆苏盖姆和朱美拉的部分地区推出，未来计划扩大服务范围。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:29:11 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "韩国二季度外国投资者金融持仓创历史最大增幅",
-      "summary": "韩国央行周四公布数据显示，受本土股市上涨推动，二季度外国投资者在韩国的金融持仓规模创下有史以来最大增幅，达到历史新高。韩国央行初步数据显示，截至6月末，外国投资存量规模达3.02万亿美元，较三个月前增加8912亿美元。这是该数值首次突破3万亿美元关口，也是韩国央行自1994年开始统计该项数据以来最大的季度环比增幅。非居民证券投资增加8593亿美元，达到2.33万亿美元；直接投资增加4亿美元，至3211亿美元。(21财经)",
-      "link": "https://news.10jqka.com.cn/20260820/c679130410.shtml",
-      "published": "Thu, 20 Aug 2026 06:35:21 GMT"
+      "source": "财联社",
+      "title": "财联社8月20日电，广期所品种仓单及变化如下：碳酸锂期货仓单39333手，环比上个交易日增加725手；多晶硅期货仓单22830手，环比上个交易日增加250手；工业硅期货...",
+      "summary": "财联社8月20日电，广期所品种仓单及变化如下：碳酸锂期货仓单39333手，环比上个交易日增加725手；多晶硅期货仓单22830手，环比上个交易日增加250手；工业硅期货仓单33535手，环比上个交易日增加24手。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:28:56 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "日韩股市集体收涨",
-      "summary": "日经225指数收涨1.36%，报66216.79点。韩国综指收涨5.89%，报6852.58点。",
-      "link": "https://news.10jqka.com.cn/20260820/c679130374.shtml",
-      "published": "Thu, 20 Aug 2026 06:31:56 GMT"
+      "source": "财联社",
+      "title": "财联社8月20日电，据称印度国家证券交易所计划在孟买证券交易所之后，允许其股票在自己的平台上交易。",
+      "summary": "财联社8月20日电，据称印度国家证券交易所计划在孟买证券交易所之后，允许其股票在自己的平台上交易。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:27:52 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "南网能源数字服务公司与正泰新能源签署战略合作协议",
-      "summary": "据南网能源公司消息，8月18日，南网能源旗下南网综能数字服务（广州）有限公司（简称“南网能源数字服务公司”）与浙江正泰新能源开发有限公司(简称“正泰新能源”)签署战略合作协议，双方正式建立长期、稳定、共赢的战略合作伙伴关系。双方将围绕新能源运营效率提升、技术创新等方面开展全面务实合作，建立深化合作机制，联合拓展新能源运营服务市场。(人民财讯)",
-      "link": "https://news.10jqka.com.cn/20260820/c679130348.shtml",
-      "published": "Thu, 20 Aug 2026 06:30:28 GMT"
+      "source": "财联社",
+      "title": "财联社8月20日电，据乌克兰铁路公司，8月以来乌克兰用于出口的谷物运输量环比下降68%至34.2万吨。",
+      "summary": "财联社8月20日电，据乌克兰铁路公司，8月以来乌克兰用于出口的谷物运输量环比下降68%至34.2万吨。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:27:52 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "山东：鼓励医药企业通过兼并重组实现规模化发展",
-      "summary": "《山东省医药工业“十五五”发展行动方案（征求意见稿）》公开征求意见。其中提到，着力培育10家以上省级现代医药标志性产业链链主企业，构建“创新药龙头引领、细分赛道优势互补”的产业生态。鼓励链主企业做大做强，鼓励企业通过兼并重组、战略合作实现规模化、集约化发展，提升生态主导力与核心竞争力。发挥链主企业在技术、资本、品牌、市场等方面的优势，牵头组建创新联合体，梳理产业链关键共性技术目录，引领上下游企业协同攻关。推动链主企业开放供应链、创新链资源，带动中小企业融通发展，形成龙头引领、链条协同、集群共进的发展格局，巩固医药产业规模领先优势。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260820/c679130263.shtml",
-      "published": "Thu, 20 Aug 2026 06:24:19 GMT"
+      "source": "财联社",
+      "title": "伊朗伊斯兰革命卫队：若爆发新战争将使用破坏力更强武器",
+      "summary": "【伊朗伊斯兰革命卫队：若爆发新战争将使用破坏力更强武器】财联社8月20日电，伊朗伊斯兰革命卫队发言人穆赫比当地时间20日表示，伊朗伊斯兰革命卫队导弹所使用弹头的破坏力，远高于此前战争中使用的型号。穆赫比称，如果爆发新的战争，伊方所使用的武器装备将在各方面与过去明显不同。 (央视新闻)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:25:39 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "山东：重点发展针对治疗恶性肿瘤、血液病等的抗体药物",
-      "summary": "山东省公开征求意见的《医药工业“十五五”发展行动方案》提出，聚焦重大传染病、呼吸道感染、恶性肿瘤、耐药感染、自身免疫、代谢系统、中枢神经系统等疾病，加快发展单克隆抗体药物、双特异性抗体、三特异性抗体、抗体偶联药物、重组蛋白、细胞与基因治疗药物、创新疫苗以及海洋生物药等重点领域，推动核心技术攻关，加速产业化进程。其中，重点发展针对治疗恶性肿瘤、血液病、自身免疫疾病、代谢性疾病、眼科疾病、神经系统用药、心血管疾病和抗感染性疾病等的抗体药物。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20260820/c679130242.shtml",
-      "published": "Thu, 20 Aug 2026 06:22:59 GMT"
+      "source": "财联社",
+      "title": "美国学者撰文批驳所谓“中国冲击”“中国挤压”论调 外交部回应",
+      "summary": "【美国学者撰文批驳所谓“中国冲击”“中国挤压”论调 外交部回应】财联社8月20日电，外交部发言人林剑主持例行记者会。有记者提问，我们注意到，近期美国哈佛大学肯尼迪学院教授达尼·罗德里克、美国企业研究所经济政策研究主任迈克尔·斯特雷恩等经济学家撰文批驳所谓“中国冲击”“中国挤压”论调，认为中国的贸易政策并非“以邻为壑”，而是“惠邻利邻”；中国不光卖成品，还大量出口生产设备、零部件、中间品，帮不少国家降低工业化成本；要求中国主动牺牲本国产业给别国让路，这种论调没有经济学道理。发言人对此有何评论？\n\n林剑表示，我们注意到，越来越多有识之士发表了类似见解。事实证明，中国发展带给世界的不是“冲击”而是机遇，不是“挤压”而是赋能。物美价优的中国制造，降低了发展中国家的工业化门槛；开源普惠的中国创新，让更多国家用得上、用得起前沿技术；稳定可靠的中国供应，提升了全球产供链的韧性，助推全球南方国家更快走上现代化道路。林剑说，面对当前世界经济不确定、不稳定性因素增多，中国愿继续以自身高质量发展，为各国提供更多市场红利、创新红利、发展红利。 (北京日报)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:24:17 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "基辅拉响防空警报 乌称袭击已致12人死亡",
-      "summary": "当地时间20日，乌克兰首都基辅市拉响防空警报。基辅市长克利奇科20日通报，截至目前基辅市遭袭已造成12人死亡，遭袭现场救援工作仍在继续。他同时宣布，8月21日为哀悼日，以悼念俄罗斯对基辅市发动大规模袭击的遇难者。基辅市所有市属建筑将降半旗，当天基辅市将禁止举行任何娱乐活动。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260820/c679130201.shtml",
-      "published": "Thu, 20 Aug 2026 06:20:20 GMT"
+      "source": "财联社",
+      "title": "海特高新回应组织百人“抢夺公章”：系海威华芯五股东联合“取章”",
+      "summary": "【海特高新回应组织百人“抢夺公章”：系海威华芯五股东联合“取章”】财联社8月20日电，针对旗下参股公司成都海威华芯科技有限公司微信公众号发布文章，称公司“公章、合同章、党委印章被海特高新抢走”一事，海特高新董秘办在接受蓝鲸新闻采访时表示：8月18日行动系除大股东青岛海岳外，其余五家股东协商一致所为，并非“抢夺”。采访中，海特高新同时指控海威华芯第一大股东青岛海岳控股有限公司方面存在伪造文件、拒不执行生效裁决等问题。 (蓝鲸新闻 徐甘甘)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:21:25 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "《牛来》票房破3000万",
-      "summary": "据灯塔专业版实时数据，截至8月20日14时6分，影片《牛来》票房破3000万。",
-      "link": "https://news.10jqka.com.cn/20260820/c679130128.shtml",
-      "published": "Thu, 20 Aug 2026 06:17:57 GMT"
+      "source": "财联社",
+      "title": "财联社8月20日电，截至目前，南向资金净卖出额达40亿港元。",
+      "summary": "财联社8月20日电，截至目前，南向资金净卖出额达40亿港元。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:21:21 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "伊朗外长：美为转移自身财政问题而对伊进行新一轮经济威胁",
-      "summary": "当地时间20日，伊朗外交部长阿拉格齐在社交媒体就美国针对伊朗的新一轮经济威胁作出回应。阿拉格齐表示，有关对伊朗“启动经济行动”的威胁，意在转移美国国内对财政问题的关注，包括高额债务和利息支出上升等。他称，继续坚持此前针对伊朗的相关政策，只会带来更多失败，并加剧伊朗民众对美方的不满。当地时间8月19日，美国总统特朗普在其社交媒体平台“真实社交”发文称，伊朗未能抓住达成协议的机会，因此他宣布对伊朗采取“针对任何国家实施过的最严厉经济行动”，称这将是一场规模空前的“经济战和经济孤立”。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260820/c679130099.shtml",
-      "published": "Thu, 20 Aug 2026 06:15:48 GMT"
+      "source": "财联社",
+      "title": "中韩领导人是否将在11月APEC峰会期间会晤？外交部回应",
+      "summary": "【中韩领导人是否将在11月APEC峰会期间会晤？外交部回应】财联社8月20日电，外交部发言人林剑主持例行记者会。彭博社记者提问，关于王毅外长和韩国外长在韩国举行会谈，韩方消息称，王毅表示中方正积极考虑推动中韩领导人在11月APEC峰会期间会晤。中方能否证实，能否提供更多详细信息？林剑表示，中方愿以今年主办亚太经合组织领导人非正式会议为契机，同包括韩国在内的各方携手构建亚太共同体，为亚太乃至世界的和平与发展注入新动力。“关于你提到的具体问题，我们会适时发布消息。” (澎湃新闻)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:19:19 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "俄太平洋舰队进行导弹射击演习",
-      "summary": "8月20日，俄罗斯国防部发布消息称，俄太平洋舰队在计划内演习中对南千岛群岛（日本称“北方四岛”）沿岸附近的靶标实施了导弹打击。演习中，靶标模拟了距离超过300公里的假想敌舰艇。近卫巡洋舰“瓦良格”号发射了两枚“火山”反舰导弹，核动力潜艇“鄂木斯克”号发射了“花岗岩”巡航导弹。与此同时，来自千岛群岛的“堡垒”岸防系统用“缟玛瑙”导弹进行了打击。(央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260820/c679130097.shtml",
-      "published": "Thu, 20 Aug 2026 06:15:42 GMT"
+      "source": "财联社",
+      "title": "财联社8月20日电，WTI原油期货涨幅扩大至1%，报85.241美元/桶。",
+      "summary": "财联社8月20日电，WTI原油期货涨幅扩大至1%，报85.241美元/桶。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:18:10 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "海力士发布下一代CPO路线图：CPO将延伸至内存接口",
-      "summary": "8月20日，SK海力士与弗吉尼亚大学等机构的研究人员在顶级科学期刊《自然·电子学》（Nature Electronics）联合发表论文，系统阐述了共封装光学（CPO）技术在高性能计算与AI领域的发展路线图。这是SK海力士首次在该级别期刊公开其AI互联架构的技术蓝图。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20260820/c679130085.shtml",
-      "published": "Thu, 20 Aug 2026 06:14:49 GMT"
+      "source": "财联社",
+      "title": "国债期货收盘全线下跌 30年期主力合约跌0.24%",
+      "summary": "【国债期货收盘全线下跌 30年期主力合约跌0.24%】财联社8月20日电，国债期货收盘全线下跌，30年期主力合约跌0.24%报115.940元，10年期主力合约跌0.07%报109.500元，5年期主力合约跌0.04%报106.595元，2年期主力合约跌0.01%报102.640元。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:17:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "特朗普称将于11月同金正恩会晤 外交部回应",
+      "summary": "【特朗普称将于11月同金正恩会晤 外交部回应】财联社8月20日电，外交部发言人林剑主持例行记者会。法新社记者提问，美国总统特朗普19日表示，他将于今年晚些时候同朝鲜领导人金正恩会晤。据《华尔街日报》报道，特朗普正考虑借11月在深圳举办的亚太经合组织（APEC）峰会举行此次会面。请问发言人，中国作为峰会主办方，同时与有关各方关系密切，对美方表态有何评论？对此，林剑表示：“关于你提到的朝美接触的事宜，我不掌握具体信息，对此不做评论。”",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:17:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "外交部：对伊朗制裁施压无助于问题的解决 中方呼吁通过政治外交途径解决问题",
+      "summary": "【外交部：对伊朗制裁施压无助于问题的解决 中方呼吁通过政治外交途径解决问题】财联社8月20日电，外交部发言人林剑主持例行记者会。有记者就特朗普宣布对伊朗实施经济施压一事提问。对此，林剑表示，制裁施压无助于问题的解决。中方呼吁相关各方采取负责任的举措，通过政治外交途径解决问题。 (央视新闻)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:16:57 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "河南以旧换新再增7类补贴产品 每件最高补1500元",
+      "summary": "【河南以旧换新再增7类补贴产品 每件最高补1500元】财联社8月20日电，河南省商务厅、河南省发展和改革委员会、河南省财政厅发布公告，实施2026年消费品以旧换新地方自主品类补贴活动。补贴品类包括家用灶具（含集成灶）、吸油烟机、净水器（含直饮机、管线机）、洗碗机、干衣机、智能清洁机器人（含扫洗地机、擦窗机器人）、数码相机（含运动相机）等7类。参与补贴活动的产品须有69码、SN码；如有能效、水效标准的产品须为1级能效或水效标准。补贴标准方面，按产品最终销售价格（剔除所有折扣优惠后）的15%给予补贴，每件补贴不超过1500元。每位消费者每类产品省内可补贴1件。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:15:58 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，布伦特原油期货涨幅扩大至1%，报92.542美元/桶。",
+      "summary": "财联社8月20日电，布伦特原油期货涨幅扩大至1%，报92.542美元/桶。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:14:18 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，据马来西亚独立检验机构AmSpec，马来西亚8月1日至20日棕榈油出口量预计为807592吨，此前7月1日至20日为854823吨。",
+      "summary": "财联社8月20日电，据马来西亚独立检验机构AmSpec，马来西亚8月1日至20日棕榈油出口量预计为807592吨，此前7月1日至20日为854823吨。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:13:01 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "商务部：反对欧方滥用单边工具打压中国企业",
+      "summary": "【商务部：反对欧方滥用单边工具打压中国企业】财联社8月20日电，商务部新闻发言人何亚东在20日举行的例行新闻发布会上说，中方一贯反对欧方滥用《外国补贴条例》（FSR）等单边工具打压中国企业。希望欧方与中方相向而行，迅速纠正在FSR调查中的错误做法，通过政府间对话加强沟通。中方将密切关注欧方动向，并将采取必要措施坚决维护国家安全和企业合法权益。在当天的发布会上，有记者问：8月19日，中方就欧盟利用《外国补贴条例》对中国相关实体的跨境调查做法再次发布禁执令。请问商务部对此有何评论？何亚东说，今年5月，在同方威视案中，中方首次发布禁执令。近期，欧方又在京东案中肆意向中国境内相关银行机构不合理索要广泛的、与调查无关的大量中国境内信息。对此，中国政府有关部门在充分调查的基础上，根据《中华人民共和国反外国不当域外管辖条例》，认定欧方在对京东的FSR调查中，对有关中国实体采取的相关跨境调查做法构成不当域外管辖措施，要求任何组织、个人不得执行或者协助执行该措施。 (央视新闻)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:12:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "8月20日涨停分析",
+      "summary": "【8月20日涨停分析】财联社8月20日电，今日全市场共78股涨停，连板股总数4只，47股封板未遂，封板率为62%（不含ST股、退市股）。焦点股方面，医药医疗板块誉衡药业10天6板、神奇制药6天5板、澳洋健康7天5板，农业股金健米业4连板。<br /><img src=\"https://image.cls.cn/images/20260820/yQ8f3N8HQ5_1000x15851.jpg\" /><img src=\"https://image.cls.cn/images/20260820/u20wYv7jEZ_1740x682.png\" />",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:12:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "商务部回应美炮制所谓“影子转运网络”虚假叙事",
+      "summary": "【商务部回应美炮制所谓“影子转运网络”虚假叙事】财联社8月20日电，商务部新闻发言人何亚东在20日举行的例行新闻发布会上表示，美方《大规模转运骗局：兴起、规模与成本》罔顾事实、颠倒黑白，将正常的国际贸易投资诬称为“骗局”，炮制所谓“影子转运网络”的虚假叙事，这是典型的单边主义和保护主义做法，旨在打压封堵中国产品。中方对此强烈不满、坚决反对。\n\n何亚东说，事实上，美方高额差异化关税才是威胁全球供应链安全的根本原因。美方将国内经济问题归因于外部因素，解决不了美国自身的深层次问题。中方要求美方立即停止不负责任的指责，停止对中美经贸关系的冲击，切实维护全球产供链的安全稳定。何亚东表示，中方一贯遵守国际经贸规则，将继续在平等互利基础上与各方开展经贸合作，共同构建“互利共赢的贸易网络”，为全球发展和繁荣做出积极贡献。 (央视新闻)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:09:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，斯泰兰蒂斯米兰上市股价早盘上涨2%。",
+      "summary": "财联社8月20日电，斯泰兰蒂斯米兰上市股价早盘上涨2%。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 07:07:47 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伊朗伊斯兰革命卫队：若爆发新战争将使用破坏力更强武器",
+      "summary": "<p>当地时间20日，伊朗伊斯兰革命卫队发言人穆赫比表示，伊朗伊斯兰革命卫队导弹所使用弹头的破坏力，远高于此前战争中使用的型号。穆赫比称，如果爆发新的战争，伊方所使用的武器装备将在各方面与过去明显不同。（央视新闻）</p>",
+      "link": "https://wallstreetcn.com/livenews/3152173",
+      "published": "Thu, 20 Aug 2026 07:27:50 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "过去40年从未“在选举年下半年转鹰”，美联储“这一次不一样”？",
+      "summary": "<p>美联储最新出炉的<a href=\"https://wallstreetcn.com/articles/3779834?keyword=%E5%8A%A0%E6%81%AF\" rel=\"noopener\" target=\"_blank\">7月会议纪要偏鹰</a>显示加息阵营不止三人，<a href=\"https://wallstreetcn.com/articles/3779754?keyword=%E5%8A%A0%E6%81%AF\" rel=\"noopener\" target=\"_blank\">债市风暴更逼出“被动加息”的猜想</a>——美联储会在选举年下半年打破40年历史规律、逆势转鹰吗？</p>\n<p>市场目前定价显示，美联储在2026年10月FOMC会议前加息25个基点的概率约为55%，折射出通胀高企及7月议息会议后市场对美联储抗通胀公信力的担忧。然而，据野村证券（Nomura）最新研究报告，近期通胀数据已明显降温——6月核心PCE环比仅增0.132%，7月CPI及PPI数据亦指向另一温和读数——这在客观上赋予了美联储\"等待的余裕\"。<strong>野村维持美联储按兵不动",
+      "link": "https://wallstreetcn.com/articles/3779880",
+      "published": "Thu, 20 Aug 2026 07:11:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美财政部出手救美债，美联储反而被逼到了墙角",
+      "summary": "<p>资深交易员Dan Nathan和Guy Adami表示：财政部今天早上的突发行动，</p>\n\n<p>直接改变了市场的游戏规则！在美债市场的剧烈波动下，</p>\n\n<p>央行官员恐怕很难再继续维持鹰派立场。</p>\n\n<p>从 30 年期国债收益率单日变动 9 个基点，到几周前暴涨 13 个基点，</p>\n\n<p>债券市场的巨大波动已经全面拉开序幕，并且不会轻易结束。</p>",
+      "link": "https://wallstreetcn.com/charts/41959638",
+      "published": "Thu, 20 Aug 2026 07:09:39 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -258,6 +433,13 @@
     },
     {
       "source": "第一财经",
+      "title": "收盘｜创业板指涨0.64% 医药生物板块集体爆发",
+      "summary": "<figure><img alt=\"收盘｜创业板指涨0.64% 医药生物板块集体爆发\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/9c4c93a6dca297320a1a29ced9b9d7be.jpg\" /></figure><p>全市场近4100只个股上涨。</p><p>8月20日，四大股指集体收涨，沪指报收3903.72点，涨0.24%，深成指报收13972.78点，涨0.59%，创业板指报收3495.59点，涨0.64%，科创综指报收1957.92点，涨0.2%。</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/08/c9705b48d16ef93ce87c287b977c78bc.jpg\" style=\"width: 511px; height: 255px;\" /></p>\n\n<p>盘面上，生物板块集体爆发，房地产板块走高，贵金属、光纤概念、旅游、消费电子、AI应用板块",
+      "link": "https://www.yicai.com/news/103326562.html",
+      "published": "Thu, 20 Aug 2026 07:13:22 GMT"
+    },
+    {
+      "source": "第一财经",
       "title": "中国动力电池装车量五年增长超十倍",
       "summary": "<figure><img alt=\"中国动力电池装车量五年增长超十倍\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/2adb8d074e12a5c9c8e1477f28ca58aa.jpg\" /></figure><p>四川是中国动力电池核心产区，产量占全国的五分之一。</p><p>动力电池是新能源汽车的核心部件，也是新一轮产业变革的关键支撑。随着新能源汽车产业的快速发展，我国动力电池产业综合实力和国际竞争力也在持续提升。</p>\n\n<p>工业和信息化部装备工业发展中心副主任姚振智20日在四川省政府新闻办举行的世界动力电池大会新闻发布会上介绍，<strong>我国动力电池装车量从2020年的63.6GWh，增长至2025年的769.7GWh，几年间增长了十多倍。</strong>今年1—7月，产业继续保持良好增长态势，累计销量达到790.4GWh，同比增长37.1%，累计出口达到146.7GWh，同比增长52.1%。</p>\n\n<p>姚振智还表示，我国已构建起涵盖上游矿产资源、正负极材料、电解液、隔膜、电芯制造、成套装备直至回",
       "link": "https://www.yicai.com/news/103326433.html",
@@ -285,20 +467,6 @@
       "published": "Thu, 20 Aug 2026 05:32:55 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "国产电动Jeep要来了",
-      "summary": "<figure><img alt=\"国产电动Jeep要来了\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/b0256248-108b-43b2-8c75-95cf5bf806e8.jpg\" /></figure><p>挑战与机会并存。</p><p style=\"text-align: justify;\">8月20日，神龙汽车科技（武汉）有限公司（下称“神龙科技”）举行成立大会。第一财经了解到，神龙科技将专注新能源汽车业务，首批车型涵盖Jeep品牌和标致的电动化车型，并销往全球。</p><p style=\"text-align: justify;\">此前，Jeep品牌在国内只能购买进口新能源车型，而神龙科技成立后，Jeep品牌的电动化车型将在国内生产、销售和出口。</p><p style=\"text-align: justify;\">根据注册信息，神龙科技注册资本约82亿元，共有6家公司持股。其中，神龙汽车注册资本占比约24.1%，东风汽车和Stellantis集团各自占比约13.5%，长江产业集团占比9.8%，武汉",
-      "link": "https://www.yicai.com/news/103326333.html",
-      "published": "Thu, 20 Aug 2026 05:31:43 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "谷歌牵手Marvell扩军TPU，北美AI芯片股权网愈织愈密",
-      "summary": "<figure><img alt=\"谷歌牵手Marvell扩军TPU，北美AI芯片股权网愈织愈密\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/E31CF3DF-F5CC-4049-9E9F-84CEB44E5A96.jpg\" /></figure><p>北美AI芯片公司与AI公司之间的合作关系变得更多元，与合作相关的股权绑定也更加错综复杂。</p><p>谷歌（GOOGL.O）找到了新的TPU（张量处理器，一种专用集成电路）合作伙伴。</p><p>据Marvell（MRVL.O）当地时间8月19日披露的一份文件，该公司与谷歌就合作开发定制芯片签署了一系列协议。双方的合作包括与TPU相关的定制芯片项目，涵盖AI推理加速器、存储控制器、网络接口控制器、内存接口控制器等。</p><p>这一合作是在谷歌推进AI芯片TPU自研的背景下进行的。随着最新合作签署，北美AI芯片公司与AI公司之间的合作关系变得更加多元，与合作相关的股权绑定也变得更加错综复杂。签署新的合作后，谷歌TPU是否将扩大部署，成为市场关注的下一个话题。</p><p",
-      "link": "https://www.yicai.com/news/103326296.html",
-      "published": "Thu, 20 Aug 2026 05:26:52 GMT"
-    },
-    {
       "source": "上海证券报",
       "title": "日韩股市集体收涨 韩国综合指数涨5.89% - 搜狐网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSUl4STRmRXFlOVZTSzYtTmxYaFhHQldDbkRoV0oyTFlrU0EtVElNbTU2bThxdGp1WWNYZzExSGM0VjNLS2h3Mm5mc0VOLVBQZ1N1NVFWUzdQc01pbWFLQXJjUE1DMUxxZjFMOUM2Uk54YkJUNVlIdm1tY1g0UjktUmNSOGtINlFWeDBFVQ?oc=5\" target=\"_blank\">日韩股市集体收涨 韩国综合指数涨5.89%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
@@ -306,11 +474,18 @@
       "published": "Thu, 20 Aug 2026 06:52:08 GMT"
     },
     {
-      "source": "行业研报",
-      "title": "中邮证券：给予兔宝宝买入评级_券商研报_数据解析 - 证券之星",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jQVlMRlVTa3Y5aF8wVE1VWDBCRUZKRGdXc3FTaTREdGVYbUFrN2N1WXdCRzVDR3VPcjVaaFgyMHNleUJOdWpjcGx1VDJPRjVTdlBPYks0Vmo0cVl4QXAwZnh3?oc=5\" target=\"_blank\">中邮证券：给予兔宝宝买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jQVlMRlVTa3Y5aF8wVE1VWDBCRUZKRGdXc3FTaTREdGVYbUFrN2N1WXdCRzVDR3VPcjVaaFgyMHNleUJOdWpjcGx1VDJPRjVTdlBPYks0Vmo0cVl4QXAwZnh3?oc=5",
-      "published": "Thu, 20 Aug 2026 05:30:36 GMT"
+      "source": "雪球热帖",
+      "title": "创业板指(SZ399006)股票股价_行情_走势图_资讯 - 雪球",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCU0p3V1hnVzFMQk0xcGhQTWtVX0NJNi1hczlvV0FMc1B3NlkyTjQwWVpIZ3JMeE5aam84YkQ2UDVfS1k?oc=5\" target=\"_blank\">创业板指(SZ399006)股票股价_行情_走势图_资讯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCU0p3V1hnVzFMQk0xcGhQTWtVX0NJNi1hczlvV0FMc1B3NlkyTjQwWVpIZ3JMeE5aam84YkQ2UDVfS1k?oc=5",
+      "published": "Thu, 20 Aug 2026 07:20:03 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "兆易创新(SH603986)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xXzE4dXVYdW9mWlBEM0tCWjd3b1g0a0Nucm1MZnlGY3VQT0xYbEh3NGthSXEzMnpoeFBvaDdTcmFRWWs?oc=5\" target=\"_blank\">兆易创新(SH603986)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xXzE4dXVYdW9mWlBEM0tCWjd3b1g0a0Nucm1MZnlGY3VQT0xYbEh3NGthSXEzMnpoeFBvaDdTcmFRWWs?oc=5",
+      "published": "Thu, 20 Aug 2026 07:20:02 GMT"
     }
   ]
 }
