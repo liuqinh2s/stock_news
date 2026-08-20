@@ -1,0 +1,603 @@
+{
+  "date": "2026-08-20",
+  "hour": "20",
+  "total": 85,
+  "fetched_at": "2026-08-20T20:00:53.559290+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "当下，最强的主线竟是它！ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGh1VlFSaHg2Vms0ekNOS21PLXJFN1NMVFVxeC1nM0V6Smxoa2NKcklUdzlWTzRhVkppbElacUlJN0x3c25JN3NVOTE1emhTOFBualdPVUttelpqWUtMVkgybVpmY2NfS21uNVpmU1c4WDhpVG1pc3llZloxNjRtTGp3VmpLSnpabjM2ZEo1dDJ4anJVSlVqNGs4S1NxU2dEOTlHbzdLdnFEcFowOGdhNkozNnJZUHhhZS1GVm93dG9xMkxVeFF2OVdWVEk0V09UT0p2NFhvdTg?oc=5\" target=\"_blank\">当下，最强的主线竟是它！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWGh1VlFSaHg2Vms0ekNOS21PLXJFN1NMVFVxeC1nM0V6Smxoa2NKcklUdzlWTzRhVkppbElacUlJN0x3c25JN3NVOTE1emhTOFBualdPVUttelpqWUtMVkgybVpmY2NfS21uNVpmU1c4WDhpVG1pc3llZloxNjRtTGp3VmpLSnpabjM2ZEo1dDJ4anJVSlVqNGs4S1NxU2dEOTlHbzdLdnFEcFowOGdhNkozNnJZUHhhZS1GVm93dG9xMkxVeFF2OVdWVEk0V09UT0p2NFhvdTg?oc=5",
+      "published": "Thu, 20 Aug 2026 10:21:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYW45NWY1NXZVSE93Ulc2UXNuaHppTHBZRk1HSm5oeU8xcXNZMWd2M0MyaUlQcmlST1piWEZUemw4N0ZFN240MERHZGY5eS1XRzZrTzVBTy1rdGEyWEZJXzh6TlhoSXZZQTYwdG0xLTJKTDV6clctVzdRR0N5NG9EaUwyeVNkT2Jra1R6eElITEJnci1Wc2xv?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYW45NWY1NXZVSE93Ulc2UXNuaHppTHBZRk1HSm5oeU8xcXNZMWd2M0MyaUlQcmlST1piWEZUemw4N0ZFN240MERHZGY5eS1XRzZrTzVBTy1rdGEyWEZJXzh6TlhoSXZZQTYwdG0xLTJKTDV6clctVzdRR0N5NG9EaUwyeVNkT2Jra1R6eElITEJnci1Wc2xv?oc=5",
+      "published": "Thu, 20 Aug 2026 11:38:02 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnVaZmlWS3lpdnRtOEFmV00tVUJFYkREczg3UkZVQkFTM2lUZjRqYlo0MTJxd05HcElPdWxoTGQzMGVhRk1FMVd0VG8yY2pybXdUb3B0QzN1OHNSaGIxTU5VeHdRZUF6WHpkUlJfM0lsRWhZV0w0VFNWaEoyeXk4YlFzb0Rqcl9BZ0lvV1FnNjR1VXJvNkJN?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnVaZmlWS3lpdnRtOEFmV00tVUJFYkREczg3UkZVQkFTM2lUZjRqYlo0MTJxd05HcElPdWxoTGQzMGVhRk1FMVd0VG8yY2pybXdUb3B0QzN1OHNSaGIxTU5VeHdRZUF6WHpkUlJfM0lsRWhZV0w0VFNWaEoyeXk4YlFzb0Rqcl9BZ0lvV1FnNjR1VXJvNkJN?oc=5",
+      "published": "Thu, 20 Aug 2026 10:09:33 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFFYc1MySDVOS3l3VmtTVW5wdHkxZkdXNEYxX1BpVE1VMndvcHN3WHVnVjZESHNuNzFpMElob1lDM3E5dUlHWDMwanlqd0E0WUoxcHpGdVJjOHVZbU1GZ1k0NlhNOU9Edy11VnZZa01TbWlTckFnTmRHYzFvSFJDcnhFN2U0ZG10RTU1aUt2OVd2NnYwOHZITVdXSEZ5elp0VG9TVQ?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFFYc1MySDVOS3l3VmtTVW5wdHkxZkdXNEYxX1BpVE1VMndvcHN3WHVnVjZESHNuNzFpMElob1lDM3E5dUlHWDMwanlqd0E0WUoxcHpGdVJjOHVZbU1GZ1k0NlhNOU9Edy11VnZZa01TbWlTckFnTmRHYzFvSFJDcnhFN2U0ZG10RTU1aUt2OVd2NnYwOHZITVdXSEZ5elp0VG9TVQ?oc=5",
+      "published": "Thu, 20 Aug 2026 11:38:03 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "林园回应净值大幅波动：我从未紧张焦虑，很多传统行业股票处于“几十年低位”|投资人说 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4tdmJKODNPZ00xQWZXRk1YcGNKQ2J2ajdIeDBpNWZRN2hBRUlWQWpya3Y5eEN3NXdkalk4X2xLdnZqYVZyckpNMGpON3ZidmFLM3ByeXA4Y2RaWEwza2stRTgwTVpTd3VMODZv?oc=5\" target=\"_blank\">林园回应净值大幅波动：我从未紧张焦虑，很多传统行业股票处于“几十年低位”|投资人说</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tdmJKODNPZ00xQWZXRk1YcGNKQ2J2ajdIeDBpNWZRN2hBRUlWQWpya3Y5eEN3NXdkalk4X2xLdnZqYVZyckpNMGpON3ZidmFLM3ByeXA4Y2RaWEwza2stRTgwTVpTd3VMODZv?oc=5",
+      "published": "Thu, 20 Aug 2026 10:34:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "关于为“中信证券-越秀租赁鲲鹏第37期碳中和绿色资产支持专项计划(气候主题)”提供转让服务的公告 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNDI1clVoTDZMYlFMNU1jN3BLSkVPY2kyQ2w4eGh2ZkVZY2tSVmhHOUNDYV8tNkkxTVowel9hVGRWZmVpVkI0V1hWMXNCdWRlcUI5TVVwckp6bXFSVGhkSGUxVEY0VnVWV0NEWFN4YzRTcnhvMnRaa1JMTXNBNm8?oc=5\" target=\"_blank\">关于为“中信证券-越秀租赁鲲鹏第37期碳中和绿色资产支持专项计划(气候主题)”提供转让服务的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNDI1clVoTDZMYlFMNU1jN3BLSkVPY2kyQ2w4eGh2ZkVZY2tSVmhHOUNDYV8tNkkxTVowel9hVGRWZmVpVkI0V1hWMXNCdWRlcUI5TVVwckp6bXFSVGhkSGUxVEY0VnVWV0NEWFN4YzRTcnhvMnRaa1JMTXNBNm8?oc=5",
+      "published": "Thu, 20 Aug 2026 10:13:13 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "中金公司： 换股吸并东兴证券、信达证券事项将于8月27日上会审核 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Xc21BUGNxUG93QTEzVGpIYmhnczA0dkQ1NkdmSkpMSklxZFkyWEJRUTJkZ3pzaTltaUJZVlJZUHE4Rnlfb1lDTVRVemFPd05vWEtzQXlGOGhqd3N0ZFBZVVJXSUZIZw?oc=5\" target=\"_blank\">中金公司： 换股吸并东兴证券、信达证券事项将于8月27日上会审核</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Xc21BUGNxUG93QTEzVGpIYmhnczA0dkQ1NkdmSkpMSklxZFkyWEJRUTJkZ3pzaTltaUJZVlJZUHE4Rnlfb1lDTVRVemFPd05vWEtzQXlGOGhqd3N0ZFBZVVJXSUZIZw?oc=5",
+      "published": "Thu, 20 Aug 2026 11:32:37 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "【调研快报】兴通股份接待华源证券等45家机构调研 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GZnlxV1BNNkdOMnB5VVdkN05fN2ZRQmZOd2pFdHFNVzF3RjZTQVFyVi0xUnpEaXVuXzMtcll0MXczajdZQzQ3YkFqTzhrdUNJUkQ0WThHTElmZ0Job2lBMF9fRQ?oc=5\" target=\"_blank\">【调研快报】兴通股份接待华源证券等45家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GZnlxV1BNNkdOMnB5VVdkN05fN2ZRQmZOd2pFdHFNVzF3RjZTQVFyVi0xUnpEaXVuXzMtcll0MXczajdZQzQ3YkFqTzhrdUNJUkQ0WThHTElmZ0Job2lBMF9fRQ?oc=5",
+      "published": "Thu, 20 Aug 2026 10:50:02 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "8.20周四 涨停板股票+人气排行榜！ - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1nTzZyQkd1T0dDdnBpRi02WktMOWhQQmdid245LURTZmlXRklEanlaNGNyR2dIS1dvcy1uakMwRFJ6RGtWdlJiaFJWU0JWRXNmU1pLLXdBREJBV3p1cTlWN2JwWmltWU85MkpF?oc=5\" target=\"_blank\">8.20周四 涨停板股票+人气排行榜！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nTzZyQkd1T0dDdnBpRi02WktMOWhQQmdid245LURTZmlXRklEanlaNGNyR2dIS1dvcy1uakMwRFJ6RGtWdlJiaFJWU0JWRXNmU1pLLXdBREJBV3p1cTlWN2JwWmltWU85MkpF?oc=5",
+      "published": "Thu, 20 Aug 2026 10:42:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "选举临近 内塔尼亚胡打起“反土耳其”牌",
+      "summary": "以色列总理内塔尼亚胡近期将土耳其纳入其安全议题。以军日前空袭叙利亚一处军事设施后，内塔尼亚胡指责土耳其试图在叙境内扩大军事存在。分析人士认为，随着10月27日议会选举临近，内塔尼亚胡政府对土耳其采取强硬姿态，既反映地区安全矛盾，也有争取以国内支持的考量。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260820/c679142900.shtml",
+      "published": "Thu, 20 Aug 2026 12:00:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "闽东电力：2026年上半年净利润2941.47万元，同比下降58.68%",
+      "summary": "闽东电力公告，2026年上半年营业收入2.37亿元，同比下降17.65%。归属于上市公司股东的净利润2941.47万元，同比下降58.68%。归属于上市公司股东的扣除非经常性损益的净利润2242.29万元，同比下降64.48%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142458.shtml",
+      "published": "Thu, 20 Aug 2026 11:52:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "海特高新：2026年上半年净利润5124.43万元，同比降19.56%",
+      "summary": "海特高新公告，2026年上半年营业收入7.51亿元，同比增长6.56%。归属于上市公司股东的净利润5124.43万元，同比下降19.56%。扣非净利润5918.57万元，同比增长25.66%。公司拟以7.37亿股为基数，每10股派发现金红利0.65元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142370.shtml",
+      "published": "Thu, 20 Aug 2026 11:50:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "瑞联新材：2026年上半年净利润1.29亿元，同比下降22.30%",
+      "summary": "瑞联新材公告，2026年上半年营业收入8.25亿元，同比增长2.27%。归属于上市公司股东的净利润1.29亿元，同比下降22.30%。归属于上市公司股东的扣除非经常性损益的净利润1.21亿元，同比下降25.66%。公司拟向全体股东每10股派发现金红利1.2元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142206.shtml",
+      "published": "Thu, 20 Aug 2026 11:50:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "炼石航空：2026年上半年净利润亏损5080.83万元",
+      "summary": "炼石航空公告，2026年上半年营业收入11.18亿元，同比增长24.15%。归属于上市公司股东的净利润亏损5080.83万元，上年同期亏损1.01亿元。归属于上市公司股东的扣除非经常性损益的净利润亏损5355.73万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142204.shtml",
+      "published": "Thu, 20 Aug 2026 11:50:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "晓鸣股份：拟投资1.06亿元建设北方种业中心项目",
+      "summary": "晓鸣股份公告，公司拟与喀喇沁左翼蒙古族自治县人民政府签署《项目投资合同》，在辽宁省朝阳市投资建设“晓鸣股份北方（朝阳）种业中心项目”，项目计划总投资1.06亿元，规划占地约42亩，拟建设年产5000万羽健母雏的智能孵化基地，建设期限为2年。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142198.shtml",
+      "published": "Thu, 20 Aug 2026 11:49:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "纽约期金失守4530美元/盎司",
+      "summary": "纽约期金失守4530美元/盎司，日内跌0.39%。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142197.shtml",
+      "published": "Thu, 20 Aug 2026 11:49:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "燕京啤酒：2026年上半年净利润13.99亿元，同比增26.86%",
+      "summary": "燕京啤酒公告，2026年上半年营业收入90.31亿元，同比增长5.53%。归属于上市公司股东的净利润13.99亿元，同比增长26.86%。扣非净利润13.8亿元，同比增长33.16%。公司拟以28.19亿股为基数，向全体股东每10股派发现金红利1元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142188.shtml",
+      "published": "Thu, 20 Aug 2026 11:48:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "机构：通胀仍为美联储政策首要关切",
+      "summary": "爱马仕投资管理固定收益策略师兼投资组合经理凯伦·曼纳在一份报告中表示，美国通胀仍是政策制定者的主导关切。美联储官员在这一信息上保持了显著的一致性。政策制定者还多次表示，当前美国劳动力市场不再被视为通胀压力的主要来源。相反，就业状况日益被视为更接近平衡。结果就是政策框架已从劳动力市场担忧转向通胀作为主要变量。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142014.shtml",
+      "published": "Thu, 20 Aug 2026 11:43:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "海南华铁：2026年上半年净利润2.38亿元，同比降30.27%",
+      "summary": "海南华铁公告，2026年上半年营业收入31.79亿元，同比增长13.32%。归属于上市公司股东的净利润2.38亿元，同比下降30.27%。归属于上市公司股东的扣除非经常性损益的净利润2.36亿元，同比下降20.57%。本报告期利润分配预案或公积金转增股本预案为无。",
+      "link": "https://news.10jqka.com.cn/20260820/c679142004.shtml",
+      "published": "Thu, 20 Aug 2026 11:42:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "成飞集成：2026年上半年净利润亏损5891.11万元，同比增亏294.83%",
+      "summary": "成飞集成公告，2026年上半年营业收入10.99亿元，同比增长10.80%。归属于上市公司股东的净利润亏损5891.11万元，上年同期亏损1492.08万元，亏损同比扩大294.83%。归属于上市公司股东的扣除非经常性损益的净利润亏损5990.41万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141999.shtml",
+      "published": "Thu, 20 Aug 2026 11:42:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "青岛食品：2026年半年度净利润6560.93万元，同比增长1.37%",
+      "summary": "青岛食品公告，2026年半年度营业收入2.91亿元，同比增长5.39%；归属于上市公司股东的净利润6560.93万元，同比增长1.37%；扣非净利润6225.46万元，同比增长1.21%。公司拟向全体股东每10股派发现金红利1.1元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141981.shtml",
+      "published": "Thu, 20 Aug 2026 11:41:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中顺洁柔：2026年上半年净利润2.25亿元，同比增长50.13%",
+      "summary": "中顺洁柔公告，2026年上半年营业收入44.1亿元，同比增长1.85%。归属于上市公司股东的净利润2.25亿元，同比增长50.13%；扣非净利润2.24亿元，同比增长52.77%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141978.shtml",
+      "published": "Thu, 20 Aug 2026 11:41:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阿里吴泳铭：平头哥AI芯片下半年将持续放量",
+      "summary": "在分析师电话会上，阿里集团CEO吴泳铭表示，平头哥已建立覆盖GPU、CPU、网络芯片的全栈自研芯片组合。真武芯片到8月初已经服务了超过650家客户。基于新一代平头哥芯片真武M890的超节点实例，近日已上线阿里云进行规模化销售，下半年将持续放量以满足客户的旺盛需求。 (科创板日报)",
+      "link": "https://news.10jqka.com.cn/20260820/c679141975.shtml",
+      "published": "Thu, 20 Aug 2026 11:41:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "商务部回应美征收无人机关税等热点问题",
+      "summary": "在商务部20日举行的例行新闻发布会上，商务部新闻发言人何亚东就美征收无人机关税、中方就欧盟利用《外国补贴条例》（FSR）对中国相关实体的跨境调查做法再次发布禁执令等热点问题进行回应。谈及美国白宫贸易与制造业政策办公室近日发布的《大规模转运骗局：兴起、规模与成本》报告，何亚东说，报告罔顾事实、颠倒黑白，将正常的国际贸易投资诬称为“骗局”，炮制所谓“影子转运网络”的虚假叙事，这是典型的单边主义和保护主义做法，旨在打压封堵中国产品。中方对此强烈不满、坚决反对。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260820/c679141858.shtml",
+      "published": "Thu, 20 Aug 2026 11:39:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "兆驰股份：2026年上半年净利润3.91亿元，同比下降40.86%",
+      "summary": "兆驰股份公告，2026年上半年营业收入91.8亿元，同比增长8.22%。归属于上市公司股东的净利润3.91亿元，同比下降40.86%。扣非净利润3.51亿元，同比下降39.34%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141856.shtml",
+      "published": "Thu, 20 Aug 2026 11:39:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "江阴银行：2026年上半年净利润8.66亿元，同比增长2.34%",
+      "summary": "江阴银行公告，2026年上半年营业总收入24.49亿元，同比增长1.98%；归属于上市公司股东的净利润8.66亿元，同比增长2.34%；归属于上市公司股东的扣除非经常性损益的净利润8.62亿元，同比增长4.25%。2026年中期利润分配方案为：向全体股东每10股派发现金红利人民币1元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141846.shtml",
+      "published": "Thu, 20 Aug 2026 11:38:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "东岳硅材：2026年上半年净利润4.29亿元，同比增长916.22%",
+      "summary": "东岳硅材公告，2026年上半年营业收入26.65亿元，同比增长14.50%。归属于上市公司股东的净利润4.29亿元，同比增长916.22%。归属于上市公司股东的扣除非经常性损益的净利润4.69亿元，同比增长943.70%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141843.shtml",
+      "published": "Thu, 20 Aug 2026 11:38:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "新宙邦：2026年上半年净利润9.84亿元，同比增103.33%",
+      "summary": "新宙邦公告，2026年上半年营业收入74.63亿元，同比增长75.66%。归属于上市公司股东的净利润9.84亿元，同比增长103.33%；扣非净利润9.69亿元，同比增长107.93%。上年同期净利润4.84亿元。公司拟向全体股东每10股派发现金红利3元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141839.shtml",
+      "published": "Thu, 20 Aug 2026 11:38:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "华强科技：2026年上半年净利润952.79万元，同比增长130.52%",
+      "summary": "华强科技公告，2026年上半年营业收入2.19亿元，同比增长23.21%。归属于上市公司股东的净利润952.79万元，同比增长130.52%，上年同期净利润413.32万元。扣非净利润亏损1591.17万元。公司拟向全体股东每10股派发现金红利0.125元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679141821.shtml",
+      "published": "Thu, 20 Aug 2026 11:37:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "成都1宗宅地8.41亿元底价成交",
+      "summary": "【成都1宗宅地8.41亿元底价成交】财联社8月20日电，成都出让1宗金牛区国宾板块62.44亩宅地，规划建筑面积83258.08平方米，容积率2，起拍楼面价10100元/平方米，折合起始总价8.41亿元。最终中铁八局以楼面价10100元/平方米竞得该地块，成交总价8.41亿元。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:57:49 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "8月20日周四《新闻联播》要闻23条",
+      "summary": "【8月20日周四《新闻联播》要闻23条】财联社8月20日电，今天《新闻联播》主要内容有：\n1、习近平致电祝贺希奇莱马当选连任赞比亚总统； \n2、【新思想引领新征程】优质医疗资源下沉惠民 绘就健康中国新图景； \n3、中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定； \n4、赵乐际同萨尔瓦多立法大会主席举行会谈； \n5、各地重大工程稳步推进； \n6、我国工业经济新动能贡献持续增强； \n7、丰收时节 特色农产品助农增收； \n8、全国总工会发布“十五五”规划 明确产业工人队伍建设改革目标； \n9、“十五五”期间基本医保参保率保持在95%左右； \n10、我国启动“人工智能+交通运输”典型应用场景创新行动； \n11、最高法修改审理著作权案件的司法解释；\n12、两部门部署发展服务类社会救助； \n13、中国240小时过境免签“朋友圈”扩展至57国； \n14、第七届中非媒体合作论坛开幕； \n15、四川石渠记录到百余头白唇鹿渡过雅砻江；\n16、日本民众抗议高市政权危险动向将国家引向战争边缘； \n17、美总统称对伊朗实施毁灭",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:55:14 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "富士康紧急招工冲刺iPhone18量产",
+      "summary": "【富士康紧急招工冲刺iPhone18量产】财联社8月20日电，苹果秋季发布会在即，代工厂富士康正大规模紧急招工，入职最高返费7800元，多家招聘平台的招聘信息后打上了“急聘”“急招”标签。8月20日，从深圳富士康招聘主管处获悉，苹果新品即将上市，工厂正处于招聘旺季。另一名深圳富士康人事部工作人员朋友圈发布的招聘信息显示，小时工工价从7月24日的25元/小时，上涨至今日的26元/小时。今年激励力度偏保守，或与苹果秋季发布节奏变化有关。据闽南网援引公开信息，苹果预计9月9日举行秋季特别活动，打破近20年“全系齐发”惯例，仅推出iPhone18 Pro、iPhone18 Pro Max及首款折叠屏iPhone三款高端机型，标准版iPhone18推迟至2027年春季发布。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:53:47 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，布伦特原油期货涨幅扩大至3%，报94.382美元/桶。",
+      "summary": "财联社8月20日电，布伦特原油期货涨幅扩大至3%，报94.382美元/桶。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:53:41 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中基协：7月新备案私募证券投资基金1763只 新备案规模728.09亿元",
+      "summary": "【中基协：7月新备案私募证券投资基金1763只 新备案规模728.09亿元】财联社8月20日电，中基协发布数据，2026年7月，新备案私募基金数量2,601只，新备案规模1,221.75亿元。其中，私募证券投资基金1,763只，新备案规模728.09亿元；私募股权投资基金152只，新备案规模188.48亿元；创业投资基金686只，新备案规模305.19亿元。截至2026年7月末，存续私募基金144,727只，存续基金规模25.73万亿元。其中，存续私募证券投资基金83,992只，存续规模9.10万亿元；存续私募股权投资基金29,662只，存续规模11.93万亿元；存续创业投资基金30,423只，存续规模4.45万亿元。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:52:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "燕京啤酒：上半年净利润13.99亿元 同比增长26.86%",
+      "summary": "【燕京啤酒：上半年净利润13.99亿元 同比增长26.86%】财联社8月20日电，燕京啤酒(000729.SZ)公告称，公司发布2026年半年度报告，实现营业收入90.31亿元，同比增长5.53%；归属于上市公司股东的净利润13.99亿元，同比增长26.86%。公司拟向全体股东每10股派发现金红利1.0元(含税)，不送红股，不以公积金转增股本。小财注：公司Q2净利润11.34亿，Q1净利润2.65亿，据此计算，Q2净利润环比增长328%。<br /><img src=\"https://img.cls.cn/fad/yeji/20260820/sz000729773940_info.png\" />",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:50:08 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "伊朗官员：美方任何“错误行动”都可能带来严重后果",
+      "summary": "【伊朗官员：美方任何“错误行动”都可能带来严重后果】财联社8月20日电，据伊朗方面当地时间20日消息，伊朗议会国家安全与外交政策委员会主席易卜拉欣·阿齐兹表示，美方任何误判或错误行动都可能带来严重后果。阿齐兹同时敦促美国结束在该地区的军事存在，并称美方应接受地区安全格局正在发生的变化。 (央视新闻)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:49:55 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，现货白银日内跌幅扩大至1%，报66.31美元/盎司。纽约期银日内跌幅达1%，现报66.45美元/盎司。",
+      "summary": "财联社8月20日电，现货白银日内跌幅扩大至1%，报66.31美元/盎司。纽约期银日内跌幅达1%，现报66.45美元/盎司。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:48:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【电报解读】阿里财报显示云增速45%创22个季度新高！机构称AI产业正逐步由“技术叙事”迈向“商业叙事”，Token开始回归真实供需关系下的商业价值，这家公司运营...",
+      "summary": "",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:46:48 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【机构调研】这家光通信企业800G相干模块在DCI领域预计将逐步上量",
+      "summary": "",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:45:17 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "皖维高新：拟投建年产10万吨VAE乳液、5万吨可再分散性胶粉项目",
+      "summary": "【皖维高新：拟投建年产10万吨VAE乳液、5万吨可再分散性胶粉项目】财联社8月20日电，皖维高新(600063.SH)公告，拟投资建设年产10万吨VAE乳液、5万吨可再分散性胶粉项目，项目总投资约5.76亿元。项目有助于公司优化资源配置、资本结构与产业结构，延伸VAC、PVA产业链，生产高端新材料产品，提高产品附加值与盈利能力，对公司未来经营发展具有积极意义。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:43:11 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "新宙邦：上半年净利润同比增长103.33% 锂电池电解液市场需求增长",
+      "summary": "【新宙邦：上半年净利润同比增长103.33% 锂电池电解液市场需求增长】财联社8月20日电，新宙邦(300037.SZ)公告称，公司发布2026年半年度报告，实现营业收入74.63亿元，同比增长75.66%；归属于上市公司股东的净利润9.84亿元，同比增长103.33%。报告期内，受新能源汽车需求增长、储能市场逐步由政策驱动向市场驱动转变，以及消费电子类产品持续发展的影响，全球锂电池市场需求扩张，带动锂离子电池电解液市场需求同步增长。公司拟向全体股东每10股派发现金红利3元(含税)。小财注：公司Q2净利润5.03亿，Q1净利润4.8亿，据此计算，Q2净利润环比增长4%。<br /><img src=\"https://img.cls.cn/fad/yeji/20260820/sz300037773882_info.png\" />",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:42:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，现货黄金日内跌幅扩大至1%，报4477.33美元/盎司。",
+      "summary": "财联社8月20日电，现货黄金日内跌幅扩大至1%，报4477.33美元/盎司。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:41:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "吴泳铭：阿里AI年化收入突破495亿元",
+      "summary": "【吴泳铭：阿里AI年化收入突破495亿元】《科创板日报》20日讯，在分析师电话会上，阿里集团CEO吴泳铭表示，AI已成为阿里云加速增长的核心引擎。本季度，阿里AI相关产品年化收入（ARR）突破495亿元人民币（73亿美元），在阿里云外部商业化收入中的占比升至35%。AI相关产品毛利率显著高于云产品平均水平。 (科创板日报记者 黄心怡)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:41:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "阿里吴泳铭：平头哥AI芯片下半年将持续放量",
+      "summary": "【阿里吴泳铭：平头哥AI芯片下半年将持续放量】《科创板日报》20日讯，在分析师电话会上，阿里集团CEO吴泳铭表示，平头哥已建立覆盖GPU、CPU、网络芯片的全栈自研芯片组合。真武芯片到8月初已经服务了超过650家客户。基于新一代平头哥芯片真武M890的超节点实例，近日已上线阿里云进行规模化销售，下半年将持续放量以满足客户的旺盛需求。 (科创板日报记者 黄心怡)",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:41:01 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，阿里巴巴高管表示，未来几个季度AI+云的收入增长还将持续加速。",
+      "summary": "财联社8月20日电，阿里巴巴高管表示，未来几个季度AI+云的收入增长还将持续加速。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:40:03 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，阿里巴巴预计生产力智能体将成为年度经常性收入（ARR）增长的又一引擎。",
+      "summary": "财联社8月20日电，阿里巴巴预计生产力智能体将成为年度经常性收入（ARR）增长的又一引擎。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:39:48 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中金公司：换股吸并东兴证券、信达证券事项将于8月27日上会审核",
+      "summary": "【中金公司：换股吸并东兴证券、信达证券事项将于8月27日上会审核】财联社8月20日电，中金公司(601995.SH)公告，公司拟通过向东兴证券全体A股换股股东发行A股股票、向信达证券全体A股换股股东发行A股股票的方式，换股吸收合并东兴证券、信达证券。上交所并购重组审核委员会定于8月27日召开审议会议，审核此次交易。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:36:45 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "华智数媒：电影《空枪》上映2天 票房收入对公司营收暂无影响",
+      "summary": "【华智数媒：电影《空枪》上映2天 票房收入对公司营收暂无影响】财联社8月20日电，华智数媒(300426.SZ)公告称，公司参与投资的电影《空枪》已于8月19日起在中国大陆地区公映。截至8月20日17时，该影片在中国大陆地区上映2天，累计票房收入（含服务费）约为7280.54万元，超过公司最近一个会计年度经审计的合并财务报表营业收入的50%。截至8月19日，按照约定的分账规则，该影片票房收入金额对公司营业收入暂无影响。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:36:19 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月20日电，德国5年期国债收益率上涨1个基点，自2008年以来首次触及3%。",
+      "summary": "财联社8月20日电，德国5年期国债收益率上涨1个基点，自2008年以来首次触及3%。",
+      "link": "",
+      "published": "Thu, 20 Aug 2026 11:32:11 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "歌尔股份半年营收超400亿元，收入恢复增长后加码AI硬件",
+      "summary": "<div>\n<p>8月20日晚，歌尔股份披露2026年半年度业绩。</p>\n<p>上半年公司实现营业收入400.46亿元，同比增长6.65%；归母净利润14.66亿元，同比增长3.46%；扣非净利润11.16亿元，同比增长7.96%。</p>\n<p>公司计划不派发现金红利，不送红股，也不以公积金转增股本。半年报核心营收、归母净利润数据与公开披露信息一致。</p>\n<p>这是歌尔收入端在经历去年同期下滑后的重新增长。2025年上半年，公司营收375.49亿元，同比下降7.02%，归母净利润14.17亿元，同比增长15.65%。</p>\n<p>今年上半年，收入增速重新转正，但利润增速低于收入增速，归母净利率由上年同期约3.77%降至约3.66%。</p>\n<p>从季度节奏看，增长并不均匀。歌尔股份今年一季度营收186.59亿元，同比增长14.44%，归母净利润5.03亿元，同比增长7.28%。</p>\n<p>据半年累计数据倒算，二季度营收约213.87亿元、归母净利润约9.63亿元，同比分别增长约0.7%和1.6%。上半年的同比增长主要由一季度拉动，二季度增速明显收窄。</p>\n<p>歌尔",
+      "link": "https://wallstreetcn.com/articles/3779911",
+      "published": "Thu, 20 Aug 2026 11:46:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "阿里电话会：AI年化收入突破495亿元，云业务收入增速加快至45%",
+      "summary": "<p>8月20日，阿里巴巴集团发布2027财年第一季度财报。在分析师电话会上，集团CEO吴泳铭表示，AI已成为阿里云加速增长的核心引擎。本季度，阿里AI相关产品年化收入（ARR）突破495亿元人民币（73亿美元），占阿里云外部商业化收入的比例升至35%。同时，AI相关产品毛利率显著高于云业务平均水平。</p>\n<p>最新季度业绩显示，阿里云增长明显提速，AI商业化持续深化。管理层将AI视为集团“最确定性的增长引擎”。</p>\n<p>截至6月的财季，阿里云收入同比增长45%，增速创近年新高；EBITA利润率进一步提升至12%。AI相关产品收入连续第12个季度实现三位数同比增长，占阿里云外部收入的比例达到35%。</p>\n<p>吴泳铭在业绩电话会上表示，继上季度AI商业化“跨越拐点”后，本季度AI业务进一步呈现“增长提速、利润率攀升”的趋势，自身造血能力持续增强，也让公司对进一步加大AI投入更有信心。</p>\n<p>电商业务则保持稳健。淘宝闪购在维持市场份额的同时，盈利能力持续改善，整体电商业务EBITA同比基本保持稳定。与此同时，阿里巴巴从本季度起调整业务分部披露结构，重新划分为阿里巴巴",
+      "link": "https://wallstreetcn.com/articles/3779910",
+      "published": "Thu, 20 Aug 2026 11:39:13 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "英伟达、SK海力士：必须拿下CPO！",
+      "summary": "<p>最近，半导体行业被一个词搅得发热——CPO。英伟达和SK海力士，一个掐着算力的命门，一个攥着存储的咽喉，这次罕见地同时坐不住了。</p>\n<section>\n<section>\n<section>\n<section>\n<section>\n<h2>SK海力士、英伟达，加注CPO</h2>\n</section>\n</section>\n</section>\n</section>\n</section>\n<p>近日，SK海力士及其全球研究团队在《自然·电子学》杂志上发表了一篇论文。该论文探讨了用于高性能计算和人工智能的共封装光学器件（CPO）的开发，指出了关键的技术挑战，并概述了下一代光互连技术的发展轨迹。</p>\n<p>SK 海力士人工智能基础设施团队负责人洪承勋和弗吉尼亚大学（UVA）电气与计算机工程系李奎相教授担任通讯作者，领导了一项与伊利诺伊大学厄巴纳-香槟分校（UIUC）、南洋理工大学（NTU）、麻省理工学院（MIT）和延世大学的研究人员合作的研究。</p>\n<p>从更广泛的层面来看，该论文提出了一个全面的技术路线图，阐述了存储器、先进封装和光计算互连（OCI）应如何协同演进以支",
+      "link": "https://wallstreetcn.com/articles/3779909",
+      "published": "Thu, 20 Aug 2026 11:33:23 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "德国5年期国债收益率上涨1个基点，2008年以来首次触及3%。",
+      "summary": "<p>德国5年期国债收益率上涨1个基点，2008年以来首次触及3%。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152366",
+      "published": "Thu, 20 Aug 2026 11:32:03 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "盘前下跌7%！沃尔玛Q2同店销售增速创六年新低，全年盈利指引低于预期 | 财报见闻",
+      "summary": "<p>沃尔玛公布的第二季度业绩喜忧参半——营收和调整后每股收益均超出市场预期，但美国本土同店销售增速创下逾六年最低水平，全年盈利指引亦不及预期，引发市场对这家全球最大零售商增长势头放缓的担忧。</p>\n<p>周四美股盘前，沃尔玛公布第二季度业绩显示，<strong>第二季度营收1879.4亿美元，超过预估的1868.7亿美元。</strong>调整后每股收益0.81美元，预估0.74美元。业绩公布后，沃尔玛美股盘前股价一度重挫逾7%。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/b1cb6e35-820e-4681-80f6-8e1c08c6a999.png\" /></p>\n<p>美国地区（不含燃油）同店销售额同比仅增长2.6%，不仅低于彭博汇编的最低分析师预期，亦连续第二个季度出现增速下滑，部分原因在于联邦药品价格谈判压低了药房业务收入。</p>\n<p>在全年展望方面，<strong>沃尔玛将调整后每股收益指引区间设为2.80至2.87美元，低于市场预估的2.90美元。</strong>与此同时，公司上调",
+      "link": "https://wallstreetcn.com/articles/3779908",
+      "published": "Thu, 20 Aug 2026 11:27:53 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "欧洲天然气价格突破每兆瓦时65欧元，为今年3月以来首次。",
+      "summary": "<p>欧洲天然气价格突破每兆瓦时65欧元，为今年3月以来首次。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152364",
+      "published": "Thu, 20 Aug 2026 11:27:22 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "牧原上半年亏超60亿，猪价磨底对成本的考验还没结束",
+      "summary": "<p style=\"text-align: left;\">猪价持续低位，牧原股份重新陷入亏损。</p><p style=\"text-align: left;\">8月20日，牧原股份发布半年报。上半年，公司实现营业收入594.10亿元，同比下降22.3%；归母净利润亏损60.78亿元，上年同期盈利105.30亿元；经营活动现金流净额由173.51亿元转为-22.24亿元。</p><p style=\"text-align: left;\">业绩转弱主要来自猪价下跌。</p><p style=\"text-align: left;\">国家统计局数据显示，上半年全国生猪价格同比下降23.1%。同期猪肉产量仍增长3.3%，生猪出栏增长1.7%，供给压力尚未明显缓解。</p><p style=\"text-align: left;\">到二季度末，全国能繁母猪存栏降至3780万头，同比下降6.5%，已接近3750万头的正常保有量，基础产能开始进一步调减。</p><p style=\"text-align: left;\">在猪价低位运行的背景下，成本成为牧原更重要的经营变量。</p><p style=\"tex",
+      "link": "https://wallstreetcn.com/articles/3779907",
+      "published": "Thu, 20 Aug 2026 11:23:44 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "只是暂时喘息？华尔街警告：长端债券的结构性压力远非一次回购能够化解",
+      "summary": "<p>全球债市因美国财政部扩大长期国债回购计划而短暂反弹，但市场的乐观情绪正迅速降温。</p>\n<p>富兰克林邓普顿、野村控股及Barrenjoey Markets等机构相继发出警告，认为此番回购计划对全球债市的正面溢出效应十分有限。<strong>财政赤字持续膨胀、通胀顽固不退，加之人工智能行业大举举债带来的供给压力，令长端收益率的结构性上行压力远未消散。</strong>美国30年期国债收益率在反弹后于周四再度回升四个基点至5.23%，显示市场信心难以为继。</p>\n<p>受美债领涨带动，亚太债市周四全面跟进：日本30年期国债收益率单日下行近9个基点，为7月14日以来最大单日跌幅，逼近4%关口；澳大利亚同期限国债收益率亦下行4个基点。欧洲债市则率先反应，但周三的涨势至周四已明显退潮。</p>\n<div>\n<h2 id=\"54f4d314\">回购计划点燃短暂行情</h2>\n</div>\n<p>美国财政部本周宣布，将长期国债回购规模至少扩大一倍。这一罕见干预举措被市场解读为华盛顿对高企借贷成本日益加深的忧虑，随即在全球债市引发联动反弹。</p>\n<p>在美债30年期和10年期收益率从数",
+      "link": "https://wallstreetcn.com/articles/3779906",
+      "published": "Thu, 20 Aug 2026 11:18:51 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：Meta每年向Azure服务投入数亿美元，公司已悄然成为微软最大的AI客户之一",
+      "summary": "<p>据报道，Meta Platforms Inc. 已成为微软公司（Microsoft Corp.）最大的AI客户之一，突显出新兴技术需求仍然集中在科技行业内部。据知情人士透露，这家社交媒体公司每年通过微软的Azure云服务花费数亿美元，以获取人工智能模型。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3779905",
+      "published": "Thu, 20 Aug 2026 11:05:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中国中免上半年净利润31.06亿元，同比增长19.49%",
+      "summary": "<p>中国中免：上半年净利润31.06亿元，同比增长19.49%。</p>\n<p>更多消息，持续更新中……</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3779904",
+      "published": "Thu, 20 Aug 2026 11:00:26 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "万物新生二季度营收增长超过三成，自营业务占比提高",
+      "summary": "<div>\n<p>8月20日，万物新生（爱回收）发布2026年第二季度未经审计财报。</p>\n<p>报告期内，公司总收入66.09亿元，同比增长32.4%，高于此前62.4亿至63.4亿元的收入指引；经营利润1.78亿元，同比增长95.7%；净利润1.29亿元，同比增长78.6%。</p>\n<p>按公司调整口径，non-GAAP经营利润为2.06亿元，同比增长70.1%，non-GAAP净利润为1.57亿元，同比增长57.3%。</p>\n<p>这是万物新生延续去年以来盈利改善的又一个季度。</p>\n<p>2025年，公司收入210.48亿元，同比增长28.9%，并首次实现全年美国通用会计准则（GAAP）下盈利。进入2026年，一季度收入同比增长32.4%至61.60亿元，二季度增速保持在相同水平。</p>\n<p>拆分收入结构看，本季度增长仍主要来自自营业务。产品销售收入61.95亿元，同比增长35.9%，占总收入接近94%；服务收入4.15亿元，同比下降4.2%。</p>\n<p>公司解释，产品收入增长主要来自线上渠道二手消费电子产品销售增加；服务收入下降，则主要由于延长后的“618”促",
+      "link": "https://wallstreetcn.com/articles/3779902",
+      "published": "Thu, 20 Aug 2026 10:51:39 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "猪价低迷拖累业绩，牧原股份上半年净亏损60.8亿元，经营现金流转负 | 财报见闻",
+      "summary": "<p>中国最大生猪养殖企业牧原股份2026年上半年业绩大幅逆转，由盈转亏，折射出国内猪价周期下行对养殖行业的深度冲击。</p>\n<p>据公司8月20日披露的半年度报告，<strong>牧原股份上半年营业收入为594.1亿元，同比下降22.3%；归属于上市公司股东的净利润为亏损60.8亿元，而上年同期盈利105.3亿元，同比转亏幅度达157.7%。</strong>基本每股收益由上年同期的1.96元降至亏损1.10元。</p>\n<p>与此同时，公司经营活动产生的现金流量净额转为负值，报告期内为-22.2亿元，上年同期则为净流入173.5亿元，资金状况明显承压。公司表示，本报告期不派发现金红利，不送红股，亦不以公积金转增股本。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/b08e524d-25e7-49d1-8859-60d2ba0cbdf1.png\" /></p>\n<div>\n<div>\n<h2 id=\"4803f50f\">猪价低位运行是核心压力来源</h2>\n</div>\n<p><strong>今年以来，牧",
+      "link": "https://wallstreetcn.com/articles/3779901",
+      "published": "Thu, 20 Aug 2026 10:49:06 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "金力永磁：上半年净利润同比增长51.58%，拟10派2.5元",
+      "summary": "<p>金力永磁披露半年报，2026年上半年，公司实现营业收入46.49亿元，同比增长32.57%；归属于上市公司股东的净利润4.62亿元，同比增长51.58%。公司拟每10股派发现金红利2.5元(含税)。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152319",
+      "published": "Thu, 20 Aug 2026 10:42:08 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "拓荆科技：2026年上半年净利润13.43亿元，同比增1,324.10%",
+      "summary": "<p>拓荆科技公告，2026年上半年营业收入29.13亿元，同比增长49.06%。归属于上市公司股东的净利润13.43亿元，同比增长1,324.10%。公司拟向全体股东每10股派发现金红利3.5元（含税）。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152312",
+      "published": "Thu, 20 Aug 2026 10:30:10 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "极兔速递：2026年上半年经调整EBITDA 7.302亿美元，同比增长67.6%",
+      "summary": "<p>极兔速递：2026年上半年收入76.724亿美元，同比增长39.5%；经调整EBITDA 7.302亿美元，同比增长67.6%。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152309",
+      "published": "Thu, 20 Aug 2026 10:25:07 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "泡泡玛特王宁：下半年经营压力较大",
+      "summary": "<p>界面新闻获悉，泡泡玛特CEO王宁在8月20日的中期业绩发布会上表示，虽然公司营收上半年完成超过20%以上的增长，但可预见的是下半年压力比上半年还会更大一些，今年大概率完不成年初既定的20%增长的目标。</p>\n<p><span style=\"color: #808080;\">来源：<a href=\"https://www.jiemian.com/article/14956619.html\" rel=\"noopener\" target=\"_blank\">界面新闻</a></span></p>\n<p>&nbsp;</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3779899",
+      "published": "Thu, 20 Aug 2026 10:10:02 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "牧原股份：上半年净亏损60.8亿元，同比转亏",
+      "summary": "<p>牧原股份：上半年营收594.1亿元人民币，同比下降22.3%；净亏损60.8亿元人民币，同比转亏，上年同期盈利105.3亿元。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152286",
+      "published": "Thu, 20 Aug 2026 10:04:20 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "人形机器人进入生产力验证期，离ChatGPT时刻还有多远？",
+      "summary": "<figure><img alt=\"人形机器人进入生产力验证期，离ChatGPT时刻还有多远？\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/5002C91C-DB17-45D8-976D-28AF7708FE19.jpg\" /></figure><p>从“会表演”到“能干活”，走到哪一步了？</p><p>机器人正在被要求证明一件比跑得快、跳得高更难的事情：能不能真正干活？</p><p>在8月20日的2026世界机器人大会上，宇树科技创始人王兴兴展示的一个场景并不起眼——机器人收拾会议室。</p><p>物品被任意打乱后，机器人需要自己判断并把会议室恢复到整洁状态。整个场景包含约7至8个不同任务，由一个模型完成任务切换，还需要应对外部干扰。</p><p>和人形机器人跑步、打拳甚至打网球相比，整理会议室一点儿也不酷。但王兴兴认为，这类场景“相对有实用价值，并且难度不是特别大”，恰恰可能成为机器人真正进入现实生活的开始，比如宇树公司自己的会议室有时候也是乱糟糟的。</p><p class=\"image-blot\"><img al",
+      "link": "https://www.yicai.com/news/103327027.html",
+      "published": "Thu, 20 Aug 2026 11:43:28 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "“投资者为本”如何落地？陆家嘴金融沙龙第二十八期聚焦理性投资与资本市场生态优化",
+      "summary": "<figure><img alt=\"“投资者为本”如何落地？陆家嘴金融沙龙第二十八期聚焦理性投资与资本市场生态优化\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/9ee2d04007018471934bfde31c7ba6b8.jpg\" /></figure><p>活动将汇聚监管视角、市场机构专业研判与广大投资者共识，切实推动“投资者为本”理念从顶层要求转化为市场实操。</p><p>近年来，随着境内外市场联动性增强，各类资产价格波动明显加大。面对市场波动，部分投资者非理性跟风炒作、过度杠杆交易、风险认知偏差等问题有所显现，反映出当前投资者教育仍存在短板，理性投资文化仍待培育，风险防控意识需要强化。持续加强投资者引导、夯实市场发展根基、深入践行投资者为本理念，已成为当下资本市场高质量发展的重要课题。</p>\n\n<p>在这一背景下，陆家嘴金融沙龙2026年第二十八期将于8月22日举行。本期以《践行投资者为本理念 引导资本市场理性投资》为主题，立足当下资本市场热点，聚焦投资者权益保护、培育理性投资理念、持续优化资本市场生态等核心议题",
+      "link": "https://www.yicai.com/news/103327035.html",
+      "published": "Thu, 20 Aug 2026 11:37:24 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "中国平安上半年净利大增36%，AI日均Token消耗量飙升至1200亿",
+      "summary": "<figure><img alt=\"中国平安上半年净利大增36%，AI日均Token消耗量飙升至1200亿\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/71e721da67ba8a563a848b5ede12df71.jpg\" /></figure><p>中国平安持提出“AI in ALL”的战略目标。</p><p>8月20日，中国平安发布2026年中期业绩。上半年实现营业收入5751.38亿元，同比增长15.0%；归母净利润925.85亿元，同比大幅增长36.1%；归母营运利润841.96亿元，同比增长8.3%。中期股息每股0.98元，同比增长3.2%。</p>\n\n<p>寿险及健康险业务方面，营运利润558.72亿元，同比增长2.3%；新业务价值248.47亿元，同比增长11.2%。分红险转型持续推进，新业务中分红险占比超九成。代理人渠道人均新业务价值同比增长14.1%，银保渠道新业务价值同比增长18.0%，银保、社区金融及其他渠道对新业务价值贡献占比近四成，同比提升3.8个百分点。</p>\n\n<p>财产保险业务方面，原保",
+      "link": "https://www.yicai.com/news/103326969.html",
+      "published": "Thu, 20 Aug 2026 11:13:51 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "友邦保险上半年新业务价值增10%，中国内地市场增速最快",
+      "summary": "<figure><img alt=\"友邦保险上半年新业务价值增10%，中国内地市场增速最快\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/0096b073b66a205254e19400b26ca3c6.jpg\" /></figure><p>中国内地9家新机构上半年新业务价值增速超过40%。</p><p>延续去年的迅猛势头，2026年上半年友邦保险新业务价值再度增长10%。</p>\n\n<p>友邦保险（01299.HK）8月20日发布的半年报显示，上半年其新业务价值增加10%至32.12亿美元，年化新保费增加12%至56.55亿美元，新业务价值利润率为57.1%，同比微降0.9个百分点。</p>\n\n<p>不过，今年友邦保险上半年的新业务价值增速低于去年同期14%的增幅。高盛发布研报表示，友邦保险上半年业绩略低于预期，主要受第二季度中国香港市场贡献疲软的影响。</p>\n\n<p>尽管如此，友邦保险多个股东回报类指标上半年实现了历史新高，例如其年化股东分配权益营运回报及内涵价值营运回报取得新高，分别达到17.5%及18.0%。董事会已",
+      "link": "https://www.yicai.com/news/103326946.html",
+      "published": "Thu, 20 Aug 2026 11:13:14 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "淘汰赛中的新变量：新神龙落地武汉，地方国资深度入局",
+      "summary": "<figure><img alt=\"淘汰赛中的新变量：新神龙落地武汉，地方国资深度入局\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/066c14b58063512937439633029965cd.jpg\" /></figure><p>新车型的市场表现，中外股东技术协同效率，将决定产业链红利释放的实际效果。</p><p>8月20日，神龙汽车科技（武汉）有限公司（下称“神龙科技”）在武汉经开区正式成立。</p>\n\n<p>这家由东风汽车、斯泰兰蒂斯集团、长江产业集团、武汉金控集团、经开产投集团、神龙汽车六方合计出资约82亿元打造的全新主体，打破传统合资车企“外方技术、中方市场”的旧范式，构建起央企、跨国车企、地方产业资本协同的新型合资样本。</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/08/d7b890d37c545b805a1646bf7ecac66c.jpg\" style=\"w",
+      "link": "https://www.yicai.com/news/103326945.html",
+      "published": "Thu, 20 Aug 2026 11:12:11 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美财政部与美联储同日“反向操作”，全球资产定价逻辑生变",
+      "summary": "<figure><img alt=\"美财政部与美联储同日“反向操作”，全球资产定价逻辑生变\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/8adfffdfb4d57cce239ca1d213c97bd3.jpg\" /></figure><p>美债收益率失控飙升之际，全球金融市场被两股反向政策力量拉扯。\n\n</p><p>美债收益率失控飙升之际，美国财政部与美联储同日释放反向信号：财政部“踩刹车”扩大长债回购，美联储“留后门”暗示加息。两股力量拉扯下，全球资产定价逻辑面临重构，黄金暴涨、美股反弹，但业内警告：这只是阶段性修复，而非趋势逆转。</p>\n\n<p><strong>财政部\"踩刹车\"，美联储\"留后门\"</strong></p>\n\n<p>美东时间8月19日，美国财政部宣布将长期国债回购操作规模扩大一倍，直接压低长端利率；同日公布的美联储7月会议纪要则释放更多加息信号，为政策收紧“留门”。一压长端、一挺短端，两股力量同日落地，全球资产定价逻辑面临重新审视。</p>\n\n<p>市场迅速反应：30年期美债收益率从5.28%暴跌至5.1",
+      "link": "https://www.yicai.com/news/103326938.html",
+      "published": "Thu, 20 Aug 2026 11:06:31 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "上市险企首份中报：四个关键词，剖析平安2026年半年考",
+      "summary": "<figure><img alt=\"上市险企首份中报：四个关键词，剖析平安2026年半年考\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/826a9464fb1d9ecb21519ed3286a63e7.jpg\" /></figure><p>8月20日，中国平安公布2026年中期业绩。作为第一家披露业绩的内地险企，平安在本次“期中考试”中表现优异，整体呈现出四大特点。</p>\n\n<p><strong>高值增长</strong>，各项核心经营指标稳增长，归母营运利润同比增长8.3%；净利润同比大增36.1%；营业收入同比增长15.0%。<strong>分红稳健，</strong>中期每股派息0.98元，同比增长3.2%，创下近四年最高增速。<strong>服务创新，</strong>2026年是平安的服务年，报告中平安详细披露了快捷服务、全球急难救援等创新服务的实际落地情况及半年进展。<strong>科技领先</strong>，平安首次披露了日均Token消耗量，从2025年12月日均300亿跃升至2026年6月日均1200亿，",
+      "link": "https://www.yicai.com/news/103326947.html",
+      "published": "Thu, 20 Aug 2026 10:33:34 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "晚间公告｜8月20日这些公告有看头",
+      "summary": "<figure><img alt=\"晚间公告｜8月20日这些公告有看头\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/1e7b86393008caf4f7d89aea76cd288f.jpg\" /></figure><p>以下是第一财经对一些重要公告的汇总，供投资者参考。</p><p style=\"text-align: center;\"><strong>【品大事】</strong></p>\n\n<p><strong>海泰科：终止购买旭域股份98.21%股份事项</strong></p>\n\n<p>海泰科公告，公司原拟通过发行股份及支付现金的方式，向青岛旭域土工材料股份有限公司（简称“旭域股份”）的88名股东购买旭域股份98.21%的股份，同时募集配套资金。主要交易各方针对交易方案进行了多轮商讨，最终未能就此次交易的关键事项达成一致意见，经公司董事会审慎研究，并经与主要交易各方协商，决定终止此次交易事项。</p>\n\n<p><strong>厦门钨业：拟5.93亿元收购江西巨通30.17%股权</strong></p>\n\n<p>厦门钨",
+      "link": "https://www.yicai.com/news/103326927.html",
+      "published": "Thu, 20 Aug 2026 10:22:56 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "龙虎榜丨机构今日买入这16股，卖出恒逸石化4.37亿元",
+      "summary": "<figure><img alt=\"龙虎榜丨机构今日买入这16股，卖出恒逸石化4.37亿元\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/d4689bc15d86824b1ff26f50d751dec0.jpg\" /></figure><p>共41只个股出现了机构的身影。</p><p>盘后数据显示，8月20日龙虎榜中，共41只个股出现了机构的身影，有16只股票呈现机构净买入，25只股票呈现机构净卖出。</p>\n\n<p>当天机构净买入前三的股票分别是哈药股份、惠泰医疗、神农种业，净买入金额分别是10.65亿元、2.61亿元、7874万元。</p>\n\n<p>当天机构净卖出前三的股票分别是恒逸石化、石药创新、博济医药，净卖出金额分别是4.37亿元、3.54亿元、7430万元。</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/08/840356be8cf236624e98e6ef9c49a1",
+      "link": "https://www.yicai.com/news/103326913.html",
+      "published": "Thu, 20 Aug 2026 10:16:06 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "独家专访|标普全球前副主席谢尔德：美日联手干预汇市仅是“买时间”，料日央行9月加息",
+      "summary": "<figure><img alt=\"独家专访|标普全球前副主席谢尔德：美日联手干预汇市仅是“买时间”，料日央行9月加息\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/54800e3eb0c1619d984df8477fab2a77.jpg\" /></figure><p>谢尔德表示，经济学界普遍的共识是，在中长期视角下，外汇干预通常收效甚微。 </p><p>近期，美日罕见联手干预汇市，引发全球市场瞩目。然而，自7月末干预推动日元汇率触及155后，到8月20日，日元兑美元汇率再度逼近159。摩根士丹利的统计数据显示，目前日元汇率比上世纪80年代中期以来的长期平均水平低约40%。</p>\n\n<p>对此，标普全球前副主席、知名经济学家保罗·谢尔德（Paul Sheard）在接受第一财经记者专访时表示，外汇干预仅能在短期内“买时间”，日元的长线走势最终仍取决于美日货币政策的基本面与经济增长预期。</p>\n\n<p>谢尔德预计，日本央行将在9月的会议上加息25个基点，而日本经济的长远发展仍面临人口萎缩、错失AI红利及地缘政治摩擦等多重结构性",
+      "link": "https://www.yicai.com/news/103326907.html",
+      "published": "Thu, 20 Aug 2026 10:12:58 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "5年5万亿砸向电网：国网南网此次联手有何不同？",
+      "summary": "<figure><img alt=\"5年5万亿砸向电网：国网南网此次联手有何不同？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/de75ee4c82aea905e7b8ec4d07564d13.jpg\" /></figure><p>全国统一电力市场正在从规则建设走向电网和市场的深度融合。</p><p>一个服务超11亿人口，一个服务2.73亿人口，国家电网与南方电网，共同构成全球规模最大的电力系统。在5万亿电网投资蓄势待发、新能源大规模并网、全国统一电力市场加速构建的时代背景下，两大电网开启深度联动，将给各行业带来怎样的改变？</p>\n\n<p>8月18日，在广州南方电网总部，南方电网董事长钱朝阳、总经理季明彬与国家电网董事长张智刚、总经理张文峰举行会谈。双方表示，要深入落实党中央、国务院关于加快建设新型能源体系、新型电力系统、新型电网的决策部署，进一步加强战略协同、发展联动，携手加强新型电网建设、加快“六网”协同落地、加速重大工程攻坚、加力国际交流合作，共同高质量推动“十五五”规划实施，更好服务支撑能源强国建设。</p>\n\n<",
+      "link": "https://www.yicai.com/news/103326904.html",
+      "published": "Thu, 20 Aug 2026 10:10:17 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "上海市体育发展“十五五”规划来了，2035年体育综合发展实力迈入全球前列",
+      "summary": "<figure><img alt=\"上海市体育发展“十五五”规划来了，2035年体育综合发展实力迈入全球前列\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/a9f40590fb133c1efec81872fa2161e2.jpg\" /></figure><p>上海发布《上海市体育发展“十五五”规划》，明确到2030年持续深化全球著名体育城市建设、到2035年全面建成更高水平的全球著名体育城市。</p><p>上海市政府新闻办8月20日举行“开局起步‘十五五’”系列主题市政府新闻发布会，《上海市体育发展“十五五”规划》有关内容发布，到2030年，上海将持续深化全球著名体育城市建设，推动体育事业深度融入城市发展，实现市民体育参与度、赛事综合能级、科技赋能水平全面提升，到2035年，全面建成更高水平的全球著名体育城市，体育综合发展实力迈入全球前列。</p>\n\n<p>新的五年，上海体育将深入践行“人民城市”理念，以改革创新为核心、融合发展为路径，重点推进四大方面工作。</p>\n\n<p><strong>聚焦普惠均等，打造更高水平全民健身公",
+      "link": "https://www.yicai.com/news/103326888.html",
+      "published": "Thu, 20 Aug 2026 10:04:29 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "资金逆势借道ETF入市 沪市A股ETF昨日单日净流入358亿元 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zOU9mV21WNXpmMXllNldPVWU5ZFR0d3Q3MU9LUmhxaDYtbHBuaVJmMVduNDNTU3NWeUY5bHZQc0tPSjdZckhaQXF2M2M5M05WMVh4a25DOTk1N1R6?oc=5\" target=\"_blank\">资金逆势借道ETF入市 沪市A股ETF昨日单日净流入358亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zOU9mV21WNXpmMXllNldPVWU5ZFR0d3Q3MU9LUmhxaDYtbHBuaVJmMVduNDNTU3NWeUY5bHZQc0tPSjdZckhaQXF2M2M5M05WMVh4a25DOTk1N1R6?oc=5",
+      "published": "Thu, 20 Aug 2026 10:06:00 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "揭秘涨停 | 利好来袭，医药股掀涨停潮 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE03R0xDY01Xd1hjTjVSWDczYnRpZUljeTFucFZTRUZudmNndlFXMGpWcWZFRk1heEd3QktqOXJyRXlpS2ZJUV9Za0ZkQ0NNRXgtNjJLVFRrV2U1cEw4?oc=5\" target=\"_blank\">揭秘涨停 | 利好来袭，医药股掀涨停潮</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03R0xDY01Xd1hjTjVSWDczYnRpZUljeTFucFZTRUZudmNndlFXMGpWcWZFRk1heEd3QktqOXJyRXlpS2ZJUV9Za0ZkQ0NNRXgtNjJLVFRrV2U1cEw4?oc=5",
+      "published": "Thu, 20 Aug 2026 10:34:00 GMT"
+    },
+    {
+      "source": "澎湃新闻财经",
+      "title": "每日看盘｜全球资本回流权益资产，在分歧中寻找新共识 - thepaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE14UDBKc0p4Z0haU0FmT3BzTm1BN1ZRb1VwMXI0YXVxcHpFRVNwOVRUeU9vY1M2SC1iYlRPUXp6ZE1ILTR1THR0bWh4TkxEUQ?oc=5\" target=\"_blank\">每日看盘｜全球资本回流权益资产，在分歧中寻找新共识</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14UDBKc0p4Z0haU0FmT3BzTm1BN1ZRb1VwMXI0YXVxcHpFRVNwOVRUeU9vY1M2SC1iYlRPUXp6ZE1ILTR1THR0bWh4TkxEUQ?oc=5",
+      "published": "Thu, 20 Aug 2026 10:31:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "创业板指(SZ399006)股票股价_行情_走势图_资讯 - 雪球",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCU0p3V1hnVzFMQk0xcGhQTWtVX0NJNi1hczlvV0FMc1B3NlkyTjQwWVpIZ3JMeE5aam84YkQ2UDVfS1k?oc=5\" target=\"_blank\">创业板指(SZ399006)股票股价_行情_走势图_资讯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCU0p3V1hnVzFMQk0xcGhQTWtVX0NJNi1hczlvV0FMc1B3NlkyTjQwWVpIZ3JMeE5aam84YkQ2UDVfS1k?oc=5",
+      "published": "Thu, 20 Aug 2026 10:22:30 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "开源证券：给予张江高科买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xbXBNMjRqb3p0MGhrU1dkVi1VcHRmWHh5UXVSeV9sM05ja0cyOEg3ZE4zZU05N3JPZFhBLUFDS0RhUTZtRUx6WFRBRmdBSXI0QlpmdkVrTFdWOGdsSFVLYUdn?oc=5\" target=\"_blank\">开源证券：给予张江高科买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xbXBNMjRqb3p0MGhrU1dkVi1VcHRmWHh5UXVSeV9sM05ja0cyOEg3ZE4zZU05N3JPZFhBLUFDS0RhUTZtRUx6WFRBRmdBSXI0QlpmdkVrTFdWOGdsSFVLYUdn?oc=5",
+      "published": "Thu, 20 Aug 2026 10:27:29 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "中邮证券：给予安琪酵母买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE93TW0xT1hOVTRxYlduaEItczFVZmNFR0RFYl82VDJEMDJyNXdEOE9YcnlQTTFEYndydEVNaHFmQTFvRURUYUlLdFpqMWlkNlNpMGJqQmwxNTROaDhNOExGQ2tB?oc=5\" target=\"_blank\">中邮证券：给予安琪酵母买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93TW0xT1hOVTRxYlduaEItczFVZmNFR0RFYl82VDJEMDJyNXdEOE9YcnlQTTFEYndydEVNaHFmQTFvRURUYUlLdFpqMWlkNlNpMGJqQmwxNTROaDhNOExGQ2tB?oc=5",
+      "published": "Thu, 20 Aug 2026 10:42:45 GMT"
+    },
+    {
+      "source": "大宗交易",
+      "title": "8月20日中曼石油现1笔折价11.04%的大宗交易 合计成交275.72万元 - 搜狐网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMW13Zk5DczZUR1ZHaS0teEdGNEh4RUZBYTNQZTFwckpXR2I4NHJjYm8tcXVXNjBReGo5UzNLYWdIVUJTYno4ek94d3BUVDFtaWhJWEpfRzhFa3VxOE9FMWJHLTl5ODRMbThEWEQxa1V3WXcyZ1RTbkNDa3poWmU0VDg0bWMtUmpu?oc=5\" target=\"_blank\">8月20日中曼石油现1笔折价11.04%的大宗交易 合计成交275.72万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMW13Zk5DczZUR1ZHaS0teEdGNEh4RUZBYTNQZTFwckpXR2I4NHJjYm8tcXVXNjBReGo5UzNLYWdIVUJTYno4ek94d3BUVDFtaWhJWEpfRzhFa3VxOE9FMWJHLTl5ODRMbThEWEQxa1V3WXcyZ1RTbkNDa3poWmU0VDg0bWMtUmpu?oc=5",
+      "published": "Thu, 20 Aug 2026 10:08:56 GMT"
+    }
+  ]
+}
