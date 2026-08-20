@@ -1,9 +1,16 @@
 {
   "date": "2026-08-20",
   "hour": "16",
-  "total": 83,
-  "fetched_at": "2026-08-20T16:00:53.197137+08:00",
+  "total": 70,
+  "fetched_at": "2026-08-20T16:23:38.653975+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股78股涨停，半导体板块午后翻绿，2300亿巨头跌超8%，宇树科技股价跌破700元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1vUk9jVk5wdEUydXVlQVE3S2FqZHZKNGU0M0w5V21DWndWYnZGV1NVa1EtTUUtc0ZFZGUwZlU5VHBnMURwYVc4OVFPR19yb0d0QUdIRnlmTHlfeExjNUdmRks2UldBR1RlSVZfdzhBUk8wbVAxZ1E?oc=5\" target=\"_blank\">A股78股涨停，半导体板块午后翻绿，2300亿巨头跌超8%，宇树科技股价跌破700元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vUk9jVk5wdEUydXVlQVE3S2FqZHZKNGU0M0w5V21DWndWYnZGV1NVa1EtTUUtc0ZFZGUwZlU5VHBnMURwYVc4OVFPR19yb0d0QUdIRnlmTHlfeExjNUdmRks2UldBR1RlSVZfdzhBUk8wbVAxZ1E?oc=5",
+      "published": "Thu, 20 Aug 2026 07:54:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "A股高开低走，震荡收涨：医药生物板块掀涨停潮 - 新浪财经",
@@ -27,10 +34,24 @@
     },
     {
       "source": "新浪财经",
-      "title": "美湖股份：向特定对象发行A股股票申请获上交所受理 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBuWlNWMGthNmRQVmNlbjdsVTMwb3MxY2QzYkgwY011NXdTTnJZT1ZWeVRxbGNhNGVjNlMwWTRuSmtfNGZJMXR5RkFqUlVUMVc2cnEteXU5STJoMy1NX0VFYWF2dnRhSC1Xb194U1NoNXpUTmEtUXFwdA?oc=5\" target=\"_blank\">美湖股份：向特定对象发行A股股票申请获上交所受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuWlNWMGthNmRQVmNlbjdsVTMwb3MxY2QzYkgwY011NXdTTnJZT1ZWeVRxbGNhNGVjNlMwWTRuSmtfNGZJMXR5RkFqUlVUMVc2cnEteXU5STJoMy1NX0VFYWF2dnRhSC1Xb194U1NoNXpUTmEtUXFwdA?oc=5",
-      "published": "Thu, 20 Aug 2026 07:51:00 GMT"
+      "title": "杭齿前进A股股东户数减少3259户降幅6.71%，流通A股户均持股8888.27股增幅7.83%，户均持股市值11.03万元降幅6.62% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNakRuS2JUb1NuY3FYZWlTNXNpenhBaGVpWkZMc2lwWkxGV1N4ZldXZmt4bm9fUkoyUjNLUG1XZGlhTXMzYUhYYTdDOElzRldRdEE5MXdzN2M2a0NaZTZKT2dqb050c0Jlb3hPbEdPN0FuazY5b3RQNkZkUnFnNGpMUUk0dFRDTk9tcHdYbQ?oc=5\" target=\"_blank\">杭齿前进A股股东户数减少3259户降幅6.71%，流通A股户均持股8888.27股增幅7.83%，户均持股市值11.03万元降幅6.62%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakRuS2JUb1NuY3FYZWlTNXNpenhBaGVpWkZMc2lwWkxGV1N4ZldXZmt4bm9fUkoyUjNLUG1XZGlhTXMzYUhYYTdDOElzRldRdEE5MXdzN2M2a0NaZTZKT2dqb050c0Jlb3hPbEdPN0FuazY5b3RQNkZkUnFnNGpMUUk0dFRDTk9tcHdYbQ?oc=5",
+      "published": "Thu, 20 Aug 2026 08:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "新宏泰A股股东户数减少3603户降幅21.71%，流通A股户均持股1.14万股增幅27.73%，户均持股市值38.5万元降幅9.77% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNcG5oUmZienJhTDVTb010RUg1RkR1aEl6bVVVYVl1bUNjX3JpREhKa296Q0daSXgwTTJRVUhDZUowWHk5dzBjejhCVWI4M0l4WDRDYWdEZ29Hamo3dllHMVVIVVNYdnN4eUlmamlHRk83bWN5MGh5NmR0NUU3TldqZWxxLUdaQjdZeDlmaQ?oc=5\" target=\"_blank\">新宏泰A股股东户数减少3603户降幅21.71%，流通A股户均持股1.14万股增幅27.73%，户均持股市值38.5万元降幅9.77%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcG5oUmZienJhTDVTb010RUg1RkR1aEl6bVVVYVl1bUNjX3JpREhKa296Q0daSXgwTTJRVUhDZUowWHk5dzBjejhCVWI4M0l4WDRDYWdEZ29Hamo3dllHMVVIVVNYdnN4eUlmamlHRk83bWN5MGh5NmR0NUU3TldqZWxxLUdaQjdZeDlmaQ?oc=5",
+      "published": "Thu, 20 Aug 2026 08:10:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华昌化工A股股东户数减少3208户降幅6.40%，流通A股户均持股2万股增幅6.84%，户均持股市值9.25万元降幅20.22% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0pmQ0R1cEZ2RkZfWXJqdnlISms3bVN4b0N0VDdOcmhsUzNlNDRKemY3NlMyYlRZTXJZb3RiUnJGOU5wQlAxY3p0Rll6d2lIUFF6cDh3Yk1SanN2N0JydjhtanBJTl82RGdmNGVUdldsRm4zYk12Rk9tcVhUZy1NOEhlbUpVVi10eUJYMQ?oc=5\" target=\"_blank\">华昌化工A股股东户数减少3208户降幅6.40%，流通A股户均持股2万股增幅6.84%，户均持股市值9.25万元降幅20.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc0pmQ0R1cEZ2RkZfWXJqdnlISms3bVN4b0N0VDdOcmhsUzNlNDRKemY3NlMyYlRZTXJZb3RiUnJGOU5wQlAxY3p0Rll6d2lIUFF6cDh3Yk1SanN2N0JydjhtanBJTl82RGdmNGVUdldsRm4zYk12Rk9tcVhUZy1NOEhlbUpVVi10eUJYMQ?oc=5",
+      "published": "Thu, 20 Aug 2026 08:10:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -83,20 +104,6 @@
     },
     {
       "source": "新浪财经",
-      "title": "深圳瑞捷A股股东户数增加277户增幅3.80%，流通A股户均持股1.25万股降幅3.66%，户均持股市值20.35万元增幅3.27% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJzRWN0NDJBZTdBU1ZNaWI1a0FqcHo0bUdWbk53UHpxRi1kY2MwQ0czS0NKNXV1ZWIzYVZJT2EyVHFrLVJzdnFSd2Fvekprckl1UzNwOElEbFRodGNpTlY1TWZzS1RzcG1oOGl1WFQzZlBialZVZTZBdmZmTjJIelFpNzJCbnRTT2NfbA?oc=5\" target=\"_blank\">深圳瑞捷A股股东户数增加277户增幅3.80%，流通A股户均持股1.25万股降幅3.66%，户均持股市值20.35万元增幅3.27%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdTJzRWN0NDJBZTdBU1ZNaWI1a0FqcHo0bUdWbk53UHpxRi1kY2MwQ0czS0NKNXV1ZWIzYVZJT2EyVHFrLVJzdnFSd2Fvekprckl1UzNwOElEbFRodGNpTlY1TWZzS1RzcG1oOGl1WFQzZlBialZVZTZBdmZmTjJIelFpNzJCbnRTT2NfbA?oc=5",
-      "published": "Thu, 20 Aug 2026 07:50:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "8月20日沪深两市涨停分析：金健米业4连板 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1aWTAtclZZNmlKQnpnZTBpbGxlSW05aV90UTVDRWtRaVpualFVWVFaYTI0NC1WSUp4ME9VbzA4M3NYMzZKVlhfYmVYNW8tMG5QcFpHMmdRdDRhemgxTlNJTVNHNUcyZFh6VkRNRm5JMFNpNkNvTVNB?oc=5\" target=\"_blank\">8月20日沪深两市涨停分析：金健米业4连板</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aWTAtclZZNmlKQnpnZTBpbGxlSW05aV90UTVDRWtRaVpualFVWVFaYTI0NC1WSUp4ME9VbzA4M3NYMzZKVlhfYmVYNW8tMG5QcFpHMmdRdDRhemgxTlNJTVNHNUcyZFh6VkRNRm5JMFNpNkNvTVNB?oc=5",
-      "published": "Thu, 20 Aug 2026 07:21:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "摩根大通警告全球粮食危机或2027年爆发 A股粮食股异动 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFNjUnN1bEFmdDUyUnJjZi1wM1lsWmM1UGxEYURmd1pBUXIxR0VqUG51Q1N3X2MzR0p6b3huek1vRnNVLVY0MzhCZGlVM2NwZ0lZamNqMEtfdlRteVdHRWE4QUg0RkVKVE0wME84TW03alFMTC1YNUc4ZkE4dmJTQWZuRENjMklyMnh4WHlJTU9lS0k?oc=5\" target=\"_blank\">摩根大通警告全球粮食危机或2027年爆发 A股粮食股异动</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaFNjUnN1bEFmdDUyUnJjZi1wM1lsWmM1UGxEYURmd1pBUXIxR0VqUG51Q1N3X2MzR0p6b3huek1vRnNVLVY0MzhCZGlVM2NwZ0lZamNqMEtfdlRteVdHRWE4QUg0RkVKVE0wME84TW03alFMTC1YNUc4ZkE4dmJTQWZuRENjMklyMnh4WHlJTU9lS0k?oc=5",
@@ -108,13 +115,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOTG5jOFJ3Rlg3Q09JdERDRU0xa2sxQmdUb0ZPcHlNZ1E2QnJIdzhEbXJDcFBoWG1nS0pvdnh3bFF4c2dMc3FGSnNpQWNjUS14OGxibDVObWxKQ290WW1Wa2dWWFc4R3dDenNCZVFuY2lacEZoa2FQcjZLdWE4MkJYOTVGWXJTRGJRZE5nUUVxT25ydmQ2QnlfQ25SdjBXd0VOZVFF?oc=5\" target=\"_blank\">国泰海通(601211)2026年半年报点评：2Q26净利润创历史新高 股权投资表现亮眼</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTG5jOFJ3Rlg3Q09JdERDRU0xa2sxQmdUb0ZPcHlNZ1E2QnJIdzhEbXJDcFBoWG1nS0pvdnh3bFF4c2dMc3FGSnNpQWNjUS14OGxibDVObWxKQ290WW1Wa2dWWFc4R3dDenNCZVFuY2lacEZoa2FQcjZLdWE4MkJYOTVGWXJTRGJRZE5nUUVxT25ydmQ2QnlfQ25SdjBXd0VOZVFF?oc=5",
       "published": "Thu, 20 Aug 2026 06:43:38 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "交银国际：科伦博泰生物维持“买入”评级 目标价上调至642港元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHIyTlhTQ0dpTnJCUTNGeUQ0bXlzald2c3FIeFRyQVF2UkxkaDA1ZThRQ0l0cXVCWlFXLXBPVHVWeHZXTVpLT3dsUnYtdUNkNjBlUC1hWHJQbXhpM1dSMlJhTHpld05qZm5nOUFBUHl3QjZwdHo3LXhtUnhqZnFJMEp0YzRXMURvbTg3WmVZckNRakVmY3diWTZtNm1ZVEdQU3FEbVRuaUtrYVI3N3hJdTZubWVOTnEyNFByS0tYakpDZS1zNlN2dkxncHBiRGtPNmlHWGdpb18tYm9EQjJwTnVnQQ?oc=5\" target=\"_blank\">交银国际：科伦博泰生物维持“买入”评级 目标价上调至642港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHIyTlhTQ0dpTnJCUTNGeUQ0bXlzald2c3FIeFRyQVF2UkxkaDA1ZThRQ0l0cXVCWlFXLXBPVHVWeHZXTVpLT3dsUnYtdUNkNjBlUC1hWHJQbXhpM1dSMlJhTHpld05qZm5nOUFBUHl3QjZwdHo3LXhtUnhqZnFJMEp0YzRXMURvbTg3WmVZckNRakVmY3diWTZtNm1ZVEdQU3FEbVRuaUtrYVI3N3hJdTZubWVOTnEyNFByS0tYakpDZS1zNlN2dkxncHBiRGtPNmlHWGdpb18tYm9EQjJwTnVnQQ?oc=5",
-      "published": "Thu, 20 Aug 2026 06:02:00 GMT"
     },
     {
       "source": "东方财富",
@@ -139,297 +139,213 @@
     },
     {
       "source": "东方财富",
+      "title": "SK海力士(SKHY.US)40万亿回购“炸场” 小摩：2027年或再派1300亿美元“大礼包” - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5MS2NlT0p1NXZwdm53WW9WVm1RcWZKRFdKY1BLVm5XZ2lSaWoybjFqZng2VUVJXzczTjF6Z3JrZ1ZuR0s0dnVrRXlfTmNUbms2RHg3eC1hVUdOMzJZVExEQ1ZqMkV4SWJ5aWNJ?oc=5\" target=\"_blank\">SK海力士(SKHY.US)40万亿回购“炸场” 小摩：2027年或再派1300亿美元“大礼包”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MS2NlT0p1NXZwdm53WW9WVm1RcWZKRFdKY1BLVm5XZ2lSaWoybjFqZng2VUVJXzczTjF6Z3JrZ1ZuR0s0dnVrRXlfTmNUbms2RHg3eC1hVUdOMzJZVExEQ1ZqMkV4SWJ5aWNJ?oc=5",
+      "published": "Thu, 20 Aug 2026 08:16:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "铂科新材(300811.SZ)：取得金融机构股票回购专项贷款承诺函 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBCT0hpd0I0YlhWSlBYY2dva05rMXpZdW1wT2Y4RWxMVm52Y1dhTFFKMUdwT1hNQTNNb1Vld3dTVUt2S1RQNlNzbzljNlhGdDh4WWhwc2ptVVh2bnI2QzlJSlZfU1haZ1M2OUxV?oc=5\" target=\"_blank\">铂科新材(300811.SZ)：取得金融机构股票回购专项贷款承诺函</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCT0hpd0I0YlhWSlBYY2dva05rMXpZdW1wT2Y4RWxMVm52Y1dhTFFKMUdwT1hNQTNNb1Vld3dTVUt2S1RQNlNzbzljNlhGdDh4WWhwc2ptVVh2bnI2QzlJSlZfU1haZ1M2OUxV?oc=5",
+      "published": "Thu, 20 Aug 2026 08:10:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "东方通信：主要为相关客户在卫星通信地面站提供网络维护服务 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE80Qm5NWUc1NVhiSUllZjgwT19LYmRYdnVaUlhkdTVRVzlxM2FFZEJUcVdldmNNUm1JRUJkNzgxT1lWXzluQ19FUjdSQjUxLWRPSmY3QkVvZGx0clBVeTZqdHJndVN0eTlmWXpZ?oc=5\" target=\"_blank\">东方通信：主要为相关客户在卫星通信地面站提供网络维护服务</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80Qm5NWUc1NVhiSUllZjgwT19LYmRYdnVaUlhkdTVRVzlxM2FFZEJUcVdldmNNUm1JRUJkNzgxT1lWXzluQ19FUjdSQjUxLWRPSmY3QkVvZGx0clBVeTZqdHJndVN0eTlmWXpZ?oc=5",
+      "published": "Thu, 20 Aug 2026 08:15:00 GMT"
+    },
+    {
+      "source": "东方财富",
       "title": "据称印度国家证券交易所计划在孟买证券交易所之后，允许其股票在自己的平台上交易 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbUtrUzkyQlZ1bEJaQ2xKNUUzRG1nZ01iVXljRV9NVVo5UURnRW45OEtpTHVEN2lqSEI0OUxoeXN4NTBBajZidDdGYk9NVzZvX2ZKa1RJZnFYWlFFaFJqdThn?oc=5\" target=\"_blank\">据称印度国家证券交易所计划在孟买证券交易所之后，允许其股票在自己的平台上交易</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1kbUtrUzkyQlZ1bEJaQ2xKNUUzRG1nZ01iVXljRV9NVVo5UURnRW45OEtpTHVEN2lqSEI0OUxoeXN4NTBBajZidDdGYk9NVzZvX2ZKa1RJZnFYWlFFaFJqdThn?oc=5",
       "published": "Thu, 20 Aug 2026 07:49:38 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "南向资金净卖出额超20亿港元 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TjhOaEg5MkJFNTZfQlM1S28tNGczUy1aQTR2RlVaYlhBV0h6dmg0VFdhZk5oTmNweVg3Q3lCOFcyTGFfV0sxYmp0ZlpBR1B5bVBRVTA4MU9sRjhEclg3OGV2TWZkUQ?oc=5\" target=\"_blank\">南向资金净卖出额超20亿港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85TjhOaEg5MkJFNTZfQlM1S28tNGczUy1aQTR2RlVaYlhBV0h6dmg0VFdhZk5oTmNweVg3Q3lCOFcyTGFfV0sxYmp0ZlpBR1B5bVBRVTA4MU9sRjhEclg3OGV2TWZkUQ?oc=5",
-      "published": "Thu, 20 Aug 2026 06:59:43 GMT"
+      "source": "同花顺",
+      "title": "三德科技：2026年上半年净利润8761.35万元，同比增42.80%",
+      "summary": "三德科技公告，2026年上半年营业收入2.98亿元，同比增长19.60%。归属于上市公司股东的净利润8761.35万元，同比增长42.80%；扣非净利润7723.34万元，同比增长32.83%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134747.shtml",
+      "published": "Thu, 20 Aug 2026 08:22:11 GMT"
     },
     {
       "source": "同花顺",
-      "title": "巴基斯坦谴责美驻印大使涉争议地区的失实言论",
-      "summary": "巴基斯坦外交部19日发表声明说，巴外交部当天召见美国驻巴基斯坦临时代办，就美国驻印度大使在访问查谟和克什米尔地区期间发表的关于该争议地区地位的失实言论，向美方提出严正交涉。声明说，巴方强烈谴责并坚决拒绝将查谟和克什米尔地区称为“印度的一部分”。声明强调，美国驻印度大使不负责任的言论否定了美方在查谟和克什米尔争端问题上的立场，同时也违背了美方对于遵循国际法和《联合国宪章》的承诺。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260820/c679132200.shtml",
-      "published": "Thu, 20 Aug 2026 07:56:37 GMT"
+      "title": "刘海星会见智利外长佩雷斯",
+      "summary": "8月20日，中共中央对外联络部部长刘海星在北京会见智利外长佩雷斯。双方就加强党际交流对话、促进各领域务实合作、推动中智全面战略伙伴关系发展等交换意见。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260820/c679134745.shtml",
+      "published": "Thu, 20 Aug 2026 08:22:11 GMT"
     },
     {
       "source": "同花顺",
-      "title": "工信部批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验",
-      "summary": "工信部网站消息，工业和信息化部近日批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验，试验期为两年。在此期间，时空道宇可依法试点经营卫星物联网业务，依托“吉利未来出行星座（一期）”为用户提供广覆盖、低功耗、高可靠的物联网连接服务，在智慧交通、海洋渔业、能源水利等领域实现全天候、智能化的数据采集与远程交互。（工信部网站）",
-      "link": "https://news.10jqka.com.cn/20260820/c679132199.shtml",
-      "published": "Thu, 20 Aug 2026 07:56:32 GMT"
+      "title": "商务部：1—7月全国网上商品和服务零售额对社会商品和服务零售额增长贡献率超5成",
+      "summary": "商务部电子商务司负责人介绍2026年1—7月我国电子商务发展情况。2026年1—7月，我国电子商务稳定创新发展，线上线下融合激发消费潜能，数智化赋能产业转型升级，拓展国际经贸合作广度深度，助力做强做优做大实体经济。据国家统计局数据，1—7月全国网上商品和服务零售额增长4.8%，据商务部测算，对社会商品和服务零售额增长贡献率超5成。线上渠道拓展商品消费范围，提升服务消费便利性，据国家统计局数据，1—7月限额以上单位通过互联网实现的商品零售额占比28.7%，比上年同期提高2.5个百分点；商务部重点监测电商平台上，1—7月在线旅游、在线生活服务销售额分别增长24.9%和16.3%。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134728.shtml",
+      "published": "Thu, 20 Aug 2026 08:21:59 GMT"
     },
     {
       "source": "同花顺",
-      "title": "深交所首单酒店REITs落地：华住安住REIT正式获批",
-      "summary": "2026年8月17日，华泰紫金华住安住封闭式商业不动产证券投资基金（下称“华住安住REIT”）正式获批，成为深交所首单酒店型商业不动产REITs，也是国内首单由民营酒店集团主导的酒店公募REITs。该产品的基金管理人为华泰证券（上海）资产管理有限公司，品牌方为华住集团，原始权益人为华住集团牵头设立的酒店和公寓投资资产管理平台上海安住此间商务信息咨询有限公司。据了解，华住安住REIT的底层资产为华住集团旗下的三家成熟酒店：广州天河体育中心美居酒店与全季酒店项目、上海江桥万达桔子水晶酒店项目。业内人士表示，目前国内公募REITs市场中，酒店类REITs属于稀缺品类，华住安住REIT获批进一步丰富了投资选择。（澎湃新闻）",
-      "link": "https://news.10jqka.com.cn/20260820/c679132183.shtml",
-      "published": "Thu, 20 Aug 2026 07:55:08 GMT"
+      "title": "维远股份：2026年上半年净利润亏损2240.03万元",
+      "summary": "维远股份公告，2026年上半年营业收入56.01亿元，同比增长21.75%。归属于上市公司股东的净利润亏损2240.03万元，上年同期净利润亏损1.68亿元。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134702.shtml",
+      "published": "Thu, 20 Aug 2026 08:21:06 GMT"
     },
     {
       "source": "同花顺",
-      "title": "杭齿前进：2026年上半年净利润1.59亿元，同比增24.60%",
-      "summary": "杭齿前进公告，2026年上半年营业收入11.95亿元，同比增长11.30%。归属于上市公司股东的净利润1.59亿元，同比增长24.60%。扣非净利润1.5亿元，同比增长28.66%。本报告期无利润分配预案。",
-      "link": "https://news.10jqka.com.cn/20260820/c679132120.shtml",
-      "published": "Thu, 20 Aug 2026 07:52:29 GMT"
+      "title": "华康股份：2026年半年度净利润4196.4万元，同比下降68.61%",
+      "summary": "华康股份公告，2026年上半年营业收入24.81亿元，同比增长32.98%；归属于上市公司股东的净利润4196.4万元，同比下降68.61%；扣非净利润3308.09万元，同比下降72.78%。上年同期净利润1.34亿元。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134697.shtml",
+      "published": "Thu, 20 Aug 2026 08:21:01 GMT"
     },
     {
       "source": "同花顺",
-      "title": "美湖股份：向特定对象发行A股股票申请获上交所受理",
-      "summary": "美湖股份公告，公司于2026年8月19日收到上海证券交易所出具的《关于受理湖南美湖智造股份有限公司沪市主板上市公司发行证券申请的通知》，上交所认为公司报送的申请文件齐备，符合法定形式，决定予以受理并依法进行审核。本次发行事项尚需通过上交所审核及获得中国证监会同意注册的决定。",
-      "link": "https://news.10jqka.com.cn/20260820/c679132089.shtml",
-      "published": "Thu, 20 Aug 2026 07:50:55 GMT"
+      "title": "品茗科技：2026年上半年净利润181.76万元，同比降94.18%",
+      "summary": "品茗科技公告，2026年上半年营业收入1.59亿元，同比下降15.38%。归属于上市公司股东的净利润181.76万元，上年同期净利润3123.34万元，同比降94.18%。扣非净利润亏损588.26万元，上年同期盈利2659.42万元。本报告期无利润分配预案。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134684.shtml",
+      "published": "Thu, 20 Aug 2026 08:20:20 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中国巨石：2026年上半年净利润29.33亿元，同比增73.87%",
-      "summary": "中国巨石公告，2026年上半年营业收入111.59亿元，同比增长22.50%；归属于上市公司股东的净利润29.33亿元，同比增长73.87%；扣非净利润29.08亿元，同比增长70.93%。公司拟每10股派发现金红利3.3元（含税）。",
-      "link": "https://news.10jqka.com.cn/20260820/c679132076.shtml",
-      "published": "Thu, 20 Aug 2026 07:50:43 GMT"
+      "title": "市场监管总局等八部门开展检验检测机构监督抽查",
+      "summary": "记者20日从市场监管总局了解到，市场监管总局联合公安部、自然资源部、生态环境部、交通运输部、水利部、海关总署、国家药监局目前正在全国范围开展2026年度检验检测机构“双随机、一公开”监督抽查，强化检验检测活动监管，规范检验检测市场秩序，提升行业公信力。根据《市场监管总局等八部门关于组织开展2026年度检验检测机构监督抽查工作的通知》，今年检验检测机构国家监督抽查工作从7月持续至10月，计划检查120家机构，包括100家获市场监管总局资质认定的检验检测机构和20家获省级资质认定的检验检测机构。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260820/c679134649.shtml",
+      "published": "Thu, 20 Aug 2026 08:19:30 GMT"
     },
     {
       "source": "同花顺",
-      "title": "艾布鲁：出售控股子公司70%股权已完成，收到768.2万元",
-      "summary": "艾布鲁公告，公司此前披露拟将持有的控股子公司汉宇新能（杭州）科技发展有限公司70%股权转让给灵犀智造(南京)科技有限公司。截至本公告披露日，该股权已完成交割，公司已收到全部股权转让款人民币768.2万元，汉宇新能已完成股东变更登记手续，公司将不再持有其股权并不再纳入合并报表范围。",
-      "link": "https://news.10jqka.com.cn/20260820/c679132018.shtml",
-      "published": "Thu, 20 Aug 2026 07:48:29 GMT"
+      "title": "联德股份：2026年上半年净利润1.39亿元，同比增27.60%",
+      "summary": "联德股份公告，2026年上半年营业收入7.31亿元，同比增长24.57%。归属于上市公司股东的净利润1.39亿元，同比增长27.60%。扣除非经常性损益的净利润1.37亿元，同比增长28.46%。本报告期无利润分配预案。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134515.shtml",
+      "published": "Thu, 20 Aug 2026 08:15:41 GMT"
     },
     {
       "source": "同花顺",
-      "title": "外服控股：2026年上半年净利润3.98亿元，同比增长3.68%",
-      "summary": "外服控股公告，2026年上半年营业收入130.43亿元，同比增长6.52%。归属于上市公司股东的净利润3.98亿元，同比增长3.68%。归属于上市公司股东的扣除非经常性损益的净利润2.51亿元，同比下降0.24%。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131927.shtml",
-      "published": "Thu, 20 Aug 2026 07:47:10 GMT"
+      "title": "南网储能：2026年上半年发电行业主营业务收入同比增长25.10%",
+      "summary": "南网储能公告，公司2026年上半年发电行业主营业务收入合计40.6亿元，同比增长25.10%。其中抽水蓄能收入27.92亿元，同比增长27.76%；调峰水电收入10.54亿元，同比增长19.45%；新型储能收入2.14亿元，同比增长20.33%。调峰水电站合计发电量52.48亿千瓦时，同比增长20.65%。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134487.shtml",
+      "published": "Thu, 20 Aug 2026 08:14:20 GMT"
     },
     {
       "source": "同花顺",
-      "title": "西点药业：氯化钾颗粒注册申请获国家药监局受理",
-      "summary": "西点药业公告，公司于近日收到国家药品监督管理局签发的氯化钾颗粒《受理通知书》，国家药监局经审查决定予以受理。该药品分类为化学药品，规格为每袋含氯化钾1.5g，申请事项为境内生产药品补充申请及药品上市许可持有人主体变更。截至公告披露日，国内已有43家企业获得氯化钾颗粒注册批件。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131926.shtml",
-      "published": "Thu, 20 Aug 2026 07:47:03 GMT"
+      "title": "南网储能：2026年上半年净利润11.12亿元，同比增33.61%",
+      "summary": "南网储能公告，2026年上半年营业收入41.2亿元，同比增长24.83%；归属于上市公司股东的净利润11.12亿元，同比增长33.61%；归属于上市公司股东的扣除非经常性损益的净利润11.05亿元，同比增长31.85%。上年同期净利润8.32亿元。公司2026年半年度利润分配方案为每10股派发现金红利0.6959元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134484.shtml",
+      "published": "Thu, 20 Aug 2026 08:14:16 GMT"
     },
     {
       "source": "同花顺",
-      "title": "汇洁股份：2026年上半年净利润1.38亿元，同比增长15.06%",
-      "summary": "汇洁股份公告，2026年上半年营业收入15.27亿元，同比下降2.64%。归属于上市公司股东的净利润1.38亿元，同比增长15.06%。归属于上市公司股东的扣除非经常性损益的净利润1.33亿元，同比增长16.34%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131915.shtml",
-      "published": "Thu, 20 Aug 2026 07:46:38 GMT"
+      "title": "镇海股份：2026年上半年净利润2095.17万元，同比减少19.28%",
+      "summary": "镇海股份公告，2026年上半年营业收入1.84亿元，同比增长7.79%。归属于上市公司股东的净利润2095.17万元，上年同期净利润2595.61万元，同比减少19.28%。归属于上市公司股东的扣除非经常性损益的净利润1227.44万元，上年同期为2225.32万元，同比减少44.84%。本报告期未进行利润分配或公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134479.shtml",
+      "published": "Thu, 20 Aug 2026 08:14:12 GMT"
     },
     {
       "source": "同花顺",
-      "title": "飞天诚信：2026年上半年净利润亏损6067.38万元，由盈转亏",
-      "summary": "飞天诚信公告，2026年上半年营业收入2.65亿元，同比下降26.85%。归属于上市公司股东的净利润亏损6067.38万元，上年同期净利润606.13万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131912.shtml",
-      "published": "Thu, 20 Aug 2026 07:46:33 GMT"
+      "title": "无锡振华：2026年半年度净利润2.05亿元，同比增1.93%",
+      "summary": "无锡振华公告，2026年上半年营业收入14.04亿元，同比增长9.11%。归属于上市公司股东的净利润2.05亿元，同比增长1.93%。归属于上市公司股东的扣除非经常性损益的净利润2.04亿元，同比增长2.98%。公司拟向全体股东每10股派发现金红利2元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134465.shtml",
+      "published": "Thu, 20 Aug 2026 08:13:24 GMT"
     },
     {
       "source": "同花顺",
-      "title": "伊朗副外长回应美国“经济战”言论：为掩盖此前政策失败",
-      "summary": "当地时间20日，伊朗外交部副部长加里巴巴迪就美国针对伊朗的“经济战”相关言论作出回应。加里巴巴迪表示，美方一方面声称伊朗“濒临失败”，另一方面却不断寻求其盟友支持。他称，美方的问题在于持续做出错误判断，并试图通过进一步施压掩盖此前政策失败。他还表示，此前军事手段未能达到预期效果，美方如今又将下一阶段对伊朗施压称为“经济战”。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260820/c679131898.shtml",
-      "published": "Thu, 20 Aug 2026 07:45:43 GMT"
+      "title": "奇精机械：2026年上半年净利润538.46万元，同比降86.70%",
+      "summary": "奇精机械公告，2026年上半年营业收入10.3亿元，同比下降2.52%。归属于上市公司股东的净利润538.46万元，同比下降86.70%，上年同期净利润4049.7万元。扣非净利润334.43万元，同比下降91.21%。本报告期无利润分配预案。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134445.shtml",
+      "published": "Thu, 20 Aug 2026 08:12:27 GMT"
     },
     {
       "source": "同花顺",
-      "title": "华昌化工：2026年上半年净利润1.23亿元，同比增长1026.90%",
-      "summary": "华昌化工公告，2026年上半年营业收入40.16亿元，同比增长24.85%。归属于上市公司股东的净利润1.23亿元，同比增长1,026.90%。归属于上市公司股东的扣除非经常性损益的净利润1.2亿元，同比增长2,667.54%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131897.shtml",
-      "published": "Thu, 20 Aug 2026 07:45:41 GMT"
+      "title": "税友股份：2026年上半年净利润9400.46万元，同比增32.38%",
+      "summary": "税友股份公告，2026年上半年营业收入10.12亿元，同比增长9.72%。归属于上市公司股东的净利润9400.46万元，同比增长32.38%。归属于上市公司股东的扣除非经常性损益的净利润8943.43万元，同比增长44.04%。上年同期净利润7101.36万元。本报告期利润分配预案或公积金转增股本预案为无。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134395.shtml",
+      "published": "Thu, 20 Aug 2026 08:10:36 GMT"
     },
     {
       "source": "同花顺",
-      "title": "韩国总统李在明会见王毅",
-      "summary": "韩国总统李在明20日在首尔青瓦台会见中共中央政治局委员、外交部长王毅。王毅表示，中国是世界上维护和平的重要力量，一贯主张国际地区冲突通过对话政治解决；中国也是世界上突出的稳定因素，为世界提供了宝贵的确定性；中国更将成为世界上的最大市场，愿同各国尤其是邻国分享发展机遇。拥抱中国就是拥抱未来，和中国同行就是和机遇同行。希望韩方坚定奉行对华友好政策，以明年中韩建交35周年为契机，推动中韩战略合作伙伴关系取得更大进展，为促进两国发展和地区和平繁荣作出贡献。当前全球经济碎片化加剧，贸易保护主义抬头，中韩应发挥表率作用，尽快完成自由贸易协定第二阶段谈判，以实际行动促进地区经济一体化，推动普惠包容的经济全球化。（新华社）",
-      "link": "https://news.10jqka.com.cn/20260820/c679131891.shtml",
-      "published": "Thu, 20 Aug 2026 07:45:36 GMT"
+      "title": "港股收评：恒生指数涨0.8%，恒生科技指数涨0.39%",
+      "summary": "港股收盘，恒生指数涨0.8%，恒生科技指数涨0.39%。恒指港股通ETF银华（159318）涨0.83%，港股通科技ETF鹏华（159751）涨1.34%。板块方面，休闲设施、数据处理和外包服务板块涨幅靠前；造纸、造纸与林业板块跌幅靠前。个股方面，云顶新耀涨41.43%，剂泰科技-P涨27.99%，德适-B涨27.05%，怡俊集团控股涨21.36%，海致科技集团涨15.19%；玖龙纸业跌16.8%，快手-W跌11.01%，恒瑞医药跌9.63%，平安好医生跌7.71%，乐动机器人跌6.7%。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134377.shtml",
+      "published": "Thu, 20 Aug 2026 08:10:06 GMT"
     },
     {
       "source": "同花顺",
-      "title": "日科化学：2026年上半年净利润3027.27万元，同比增长2518.58%",
-      "summary": "日科化学公告，2026年上半年营业收入19.06亿元，同比下降2.63%。归属于上市公司股东的净利润3027.27万元，同比增长2,518.58%；扣非净利润2525.65万元，上年同期为-12.36万元。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131893.shtml",
-      "published": "Thu, 20 Aug 2026 07:45:36 GMT"
+      "title": "比特币突破7万美元，创6月2日以来新高",
+      "summary": "比特币突破7万美元，创6月2日以来新高。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134232.shtml",
+      "published": "Thu, 20 Aug 2026 08:09:27 GMT"
     },
     {
       "source": "同花顺",
-      "title": "力聚热能：2026年半年度净利润3279.14万元，同比下降37.60%",
-      "summary": "力聚热能公告，2026年半年度营业收入3.4亿元，同比下降15.84%；归属于上市公司股东的净利润3279.14万元，同比下降37.60%；归属于上市公司股东的扣除非经常性损益的净利润2129.46万元，同比下降46.13%。本报告期利润分配预案不适用。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131871.shtml",
-      "published": "Thu, 20 Aug 2026 07:44:58 GMT"
+      "title": "恒源煤电：2026年上半年净利润1.61亿元，上年同期亏损1.29亿元",
+      "summary": "恒源煤电公告，2026年上半年营业收入34.43亿元，同比增长44.82%。归属于上市公司股东的净利润1.61亿元，上年同期为-1.29亿元。归属于上市公司股东的扣除非经常性损益的净利润7593.43万元，上年同期为-1.42亿元。本报告期利润分配预案为无。",
+      "link": "https://news.10jqka.com.cn/20260820/c679134116.shtml",
+      "published": "Thu, 20 Aug 2026 08:08:58 GMT"
     },
     {
       "source": "同花顺",
-      "title": "通化金马：2026年上半年净利润710.46万元，同比下降57.72%",
-      "summary": "通化金马公告，2026年上半年营业收入5.57亿元，同比下降14.28%；归属于上市公司股东的净利润710.46万元，同比下降57.72%；归属于上市公司股东的扣除非经常性损益的净利润611.71万元，同比下降57.54%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131869.shtml",
-      "published": "Thu, 20 Aug 2026 07:44:53 GMT"
+      "title": "新化股份：2026年上半年脂肪胺销售收入8.13亿元",
+      "summary": "新化股份公告，公司2026年上半年主要经营数据显示，脂肪胺产量73019.77吨，销量74737.81吨，销售金额8.13亿元；有机溶剂产量28229.48吨，销量28117.41吨，销售金额2.04亿元；合成香料产量15678.4吨，销量14720.19吨，销售金额4.78亿元。价格方面，脂肪胺平均价格10883.22元/吨，同比下降3.45%；有机溶剂平均价格7251.4元/吨，同比上涨9.04%；合成香料平均价格32496.03元/吨，同比下降1.76%。",
+      "link": "https://news.10jqka.com.cn/20260820/c679133742.shtml",
+      "published": "Thu, 20 Aug 2026 08:07:32 GMT"
     },
     {
       "source": "同花顺",
-      "title": "上海：到2030年底 力争基本完成不成套职工住宅改造",
-      "summary": "上海市人民政府办公厅印发《上海市城市更新和住房发展“十五五”规划》。其中指出，城中村和旧住房成套改造提速攻坚。加快城中村改造，用足用好城中村改造专项借款、地方政府专项债等，加大财政资金投入。加快动迁腾地，积极推进实施房票等多元化安置。到2026年底，全面启动城中村整体改造项目，全面完成整治提升。到2027年底，全面完成整体改造项目的前期改造。同步推进实施规划拔点。\n加快旧住房成套改造，通过拆除重建、旧城区改建、功能置换等方式实施不成套职工住宅改造，积极完善公房承租权归集、腾退更新路径。到2026年底，力争全面完成剩余约2万平方米小梁薄板房屋改造。到2030年底，力争基本完成不成套职工住宅改造，不成套里弄、公寓、花园住宅更新取得积极成效，推动实施一批兼具民生改善、保护发展的城市更新项目。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131776.shtml",
-      "published": "Thu, 20 Aug 2026 07:41:01 GMT"
+      "title": "新化股份：2026年半年度净利润1.62亿元，同比增长9.49%",
+      "summary": "新化股份公告，2026年上半年营业收入16.98亿元，同比增长14.60%。归属于上市公司股东的净利润1.62亿元，同比增长9.49%。归属于上市公司股东的扣除非经常性损益的净利润1.57亿元，同比增长10.77%。公司拟向全体股东每10股派发现金红利2元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260820/c679133682.shtml",
+      "published": "Thu, 20 Aug 2026 08:07:17 GMT"
     },
     {
       "source": "同花顺",
-      "title": "百度文心助手升级任务引擎2.0 日活用户同比增长83%",
-      "summary": "8月20日，百度在AI Day开放日上宣布，百度APP文心助手升级至任务引擎2.0，可针对用户目标自主规划与执行任务，覆盖金融、教育、办公等场景。数据显示，今年6月文心助手日活跃用户同比增长83%，日均对话轮次增长超过两倍。据介绍，升级后的任务引擎可完成信息收集、加工处理、创作表达及成品交付等环节。同日，百度APP推出搜索结果“GUI通识卡片”功能，将知识卡片、步骤图解及交互动画整合为结构化页面，目前覆盖数理化高频考点。",
-      "link": "https://news.10jqka.com.cn/20260820/c679131643.shtml",
-      "published": "Thu, 20 Aug 2026 07:36:28 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗与阿曼就霍尔木兹海峡船舶通行机制谈判接近尾声",
-      "summary": "当地时间20日，伊朗与阿曼就建立霍尔木兹海峡船舶通行共同机制的谈判已接近最后阶段。眼下，伊朗和阿曼正在商讨关于霍尔木兹海峡的谅解协议，制定通航新机制。有消息称，这令特朗普感到沮丧。他17日威胁称，如果阿曼“阻碍”美国重新开放霍尔木兹海峡，美国就会轰炸这一海湾盟友。消息称，船只持续遇袭以及远低于战前水平的石油流量表明，美国和伊朗都未能如其所称“完全控制”霍尔木兹海峡。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260820/c679131598.shtml",
-      "published": "Thu, 20 Aug 2026 07:33:54 GMT"
+      "title": "南京建宁路长江隧道通车运营",
+      "summary": "由南京市公共工程建设中心负责建设、中铁十四局参建的南京建宁路长江隧道通车运营。此隧道为穿越长江的超大直径盾构隧道，是串联南京江南主城与江北新区核心区的关键交通纽带，标志着南京跨江融合发展再添一条重要动脉。建宁路长江隧道是南京市跨江交通体系的组成部分，位于南京长江大桥和定淮门长江隧道之间，是距离南京长江大桥最近的过江隧道。工程全长约6.8公里，以盾构隧道形式穿越长江，其中盾构段长约2.4公里，最大埋深达55米，采用两台开挖直径达15.07米的超大直径泥水平衡盾构机施工。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260820/c679133495.shtml",
+      "published": "Thu, 20 Aug 2026 08:05:38 GMT"
     },
     {
       "source": "财联社",
-      "title": "工信部批复时空道宇开展卫星物联网业务商用试验",
-      "summary": "【工信部批复时空道宇开展卫星物联网业务商用试验】财联社8月20日电，工业和信息化部近日批复浙江时空道宇科技有限公司开展卫星物联网业务商用试验，试验期为两年。在此期间，时空道宇可依法试点经营卫星物联网业务，依托“吉利未来出行星座（一期）”为用户提供广覆盖、低功耗、高可靠的物联网连接服务，在智慧交通、海洋渔业、能源水利等领域实现全天候、智能化的数据采集与远程交互。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:54:39 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月20日电，截至目前，南向资金净卖出额达90亿港元。",
-      "summary": "财联社8月20日电，截至目前，南向资金净卖出额达90亿港元。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:54:35 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月20日电，摩根士丹利将默克公司评级从“持股观望”上调至“增持”；目标价从116美元上调至179美元。",
-      "summary": "财联社8月20日电，摩根士丹利将默克公司评级从“持股观望”上调至“增持”；目标价从116美元上调至179美元。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:53:15 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国巨石：拟投资9.6亿元实施年产20万吨玻璃纤维生产线冷修技改项目",
-      "summary": "【中国巨石：拟投资9.6亿元实施年产20万吨玻璃纤维生产线冷修技改项目】财联社8月20日电，中国巨石(600176.SH)公告称，公司全资子公司巨石集团拟对桐乡生产基地年产18万吨无碱池窑拉丝生产线实施冷修技改，项目总投资9.6亿元，资金来源为自有及银行贷款。冷修完成后，生产线产能将由18万吨提升至20万吨，项目建设周期1年。项目改造完成后，预计总投资收益率为14.19%。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:52:02 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "中国巨石：上半年净利润同比增长73.87% 拟每10股派3.30元",
-      "summary": "【中国巨石：上半年净利润同比增长73.87% 拟每10股派3.30元】财联社8月20日电，中国巨石(600176.SH)公告称，公司发布2026年半年度报告，实现营业收入111.59亿元，同比增长22.5%；归属于上市公司股东的净利润29.33亿元，同比增长73.87%。业绩增长主要系报告期产品销量增长、价格上升所致。公司拟每10股派发现金红利3.30元(含税)。小财注：公司Q2净利润16.66亿，Q1净利润12.67亿，据此计算，Q2净利润环比增长31%。<br /><img src=\"https://img.cls.cn/fad/yeji/20260820/sh600176772429_info.png\" />",
-      "link": "",
+      "title": "15:51:45【中国巨石：上半年净利润同比增长73.87% 拟每10股派3.30元】 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE82SkJwcUxwVkJQcjJTbV9xTkxMdW1FTUxEdDE3WWF4bDBQU0dUWVNuRkV3Qi0tNkoweVhLQ3p6QUlfRzJSVXdEYg?oc=5\" target=\"_blank\">15:51:45【中国巨石：上半年净利润同比增长73.87% 拟每10股派3.30元】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE82SkJwcUxwVkJQcjJTbV9xTkxMdW1FTUxEdDE3WWF4bDBQU0dUWVNuRkV3Qi0tNkoweVhLQ3p6QUlfRzJSVXdEYg?oc=5",
       "published": "Thu, 20 Aug 2026 07:51:45 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社8月20日电，截至目前，南向资金净卖出额达80亿港元。",
-      "summary": "财联社8月20日电，截至目前，南向资金净卖出额达80亿港元。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:51:42 GMT"
+      "title": "14:53:49【医药生物板块爆发，A股三大指数集体飘红，沪深300ETF易方达（510310）等获资金关注】 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xeS13RXdnU0xReGFHYTFzUGNRTlJVa25SU1hyYWRrN0h0bmdXOTRreU81MnRER2xXX2tSVDU2S2ZsdkNLRC1jbw?oc=5\" target=\"_blank\">14:53:49【医药生物板块爆发，A股三大指数集体飘红，沪深300ETF易方达（510310）等获资金关注】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xeS13RXdnU0xReGFHYTFzUGNRTlJVa25SU1hyYWRrN0h0bmdXOTRreU81MnRER2xXX2tSVDU2S2ZsdkNLRC1jbw?oc=5",
+      "published": "Thu, 20 Aug 2026 06:53:49 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月20日电，摩根士丹利将莫德纳目标价从39美元上调至89美元。",
-      "summary": "财联社8月20日电，摩根士丹利将莫德纳目标价从39美元上调至89美元。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:50:58 GMT"
+      "source": "华尔街见闻",
+      "title": "比特币突破7万美元，创6月2日以来新高。",
+      "summary": "<p>比特币突破7万美元，创6月2日以来新高。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152205",
+      "published": "Thu, 20 Aug 2026 08:09:21 GMT"
     },
     {
-      "source": "财联社",
-      "title": "王毅与韩国国家安保室长魏圣洛举行战略对话",
-      "summary": "【王毅与韩国国家安保室长魏圣洛举行战略对话】财联社8月20日电，中共中央政治局委员、中央外办主任王毅20日在首尔与韩国国家安保室长魏圣洛举行战略对话。\n\n王毅表示，去年以来，李在明总统和习近平主席实现互访，引领中韩关系进入改善发展的新阶段。中国对韩政策保持一贯性稳定性，始终将韩国置于周边外交重要位置。中国是韩最大邻国，是国际上重要的和平力量，从不发起或参与战争，始终为推动和平解决国际和地区争端发挥建设性作用。中方赞赏李在明政府推动中韩关系重回战略合作伙伴关系轨道，双方应加强沟通，增进互信，减少不必要猜忌，在政治、经贸、安全等各领域开展战略合作，不仅造福两国人民，也为地区和平安全作出贡献。希望韩方实现真正战略自主，不搞阵营对抗，不搞选边站队，并行不悖发展同中国、美国等大国关系。\n\n魏圣洛表示，韩中是近邻，两国关系源远流长。去年以来韩中元首成功互访，进一步巩固两国关系全面恢复势头。韩方愿同中方一道，落实两国元首共识，打造实实在在成果，增进各自人民福祉，推动韩中战略合作伙伴关系迈上新台阶。韩方致力于并行发展对外关系，愿同中方密切高层战略对话，为维护地区和平稳定凝聚力量。\n\n双方就地区安全问题",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:50:56 GMT"
+      "source": "华尔街见闻",
+      "title": "工业和信息化部再次批复民营卫星物联网业务商用试验",
+      "summary": "<p>工业和信息化部近日再次批复民营卫星物联网业务商用试验。本次批复的浙江时空道宇科技有限公司将开展为期两年的商用试验，这是卫星物联网业务进一步扩大向民营开放的重要举措。</p>\n<p>在商用试验期间，时空道宇可依法试点经营卫星物联网业务，依托“吉利未来出行星座（一期）”为用户提供广覆盖、低功耗、高可靠的物联网连接服务，在智慧交通、海洋渔业、能源水利等领域实现全天候、智能化的数据采集与远程交互。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3152203",
+      "published": "Thu, 20 Aug 2026 08:07:23 GMT"
     },
     {
-      "source": "财联社",
-      "title": "伊朗副外长回应美国“经济战”言论：为掩盖此前政策失败",
-      "summary": "【伊朗副外长回应美国“经济战”言论：为掩盖此前政策失败】财联社8月20日电，伊朗外交部副部长加里巴巴迪就美国针对伊朗的“经济战”相关言论作出回应。加里巴巴迪表示，美方一方面声称伊朗“濒临失败”，另一方面却不断寻求其盟友支持。他称，美方的问题在于持续做出错误判断，并试图通过进一步施压掩盖此前政策失败。他还表示，此前军事手段未能达到预期效果，美方如今又将下一阶段对伊朗施压称为“经济战”。 (央视新闻)",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:46:31 GMT"
+      "source": "华尔街见闻",
+      "title": "“AI股神”崩盘记：闻到“血腥味”后，华尔街“秃鹫”开启围猎",
+      "summary": "<p>一个基金经理突然打电话给华尔街：我手里有50亿美元Anthropic股权，八折卖。</p>\n\n<p>只有一个要求：12小时内，必须成交。</p>\n\n<p>华尔街一听就明白了：这是急着要钱啊。</p>\n\n<p>而这位，几周前还是华尔街最火的“AI股神”。基金规模一度450亿美元，回报超过1000%。</p>\n\n<p>但现在，他开始四处找钱。</p>\n\n<p>于是所有人都扑了上来：有人做空他的重仓股，有人拼命压价，还有人就等着他爆仓。</p>\n\n<p>大家都知道，他越缺钱，就越得卖，别人就越敢压价。</p>\n\n<p>一场针对“AI股神”的围猎，就这么开始了。</p>",
+      "link": "https://wallstreetcn.com/charts/41959640",
+      "published": "Thu, 20 Aug 2026 07:59:43 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月20日电，截至目前，南向资金净卖出额达70亿港元。",
-      "summary": "财联社8月20日电，截至目前，南向资金净卖出额达70亿港元。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:46:24 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "今日投资舆情热点",
-      "summary": "【今日投资舆情热点】\n1）mRNA：Moderna联合默沙东研发的个体化mRNA肿瘤疫苗III期临床试验成功，全球mRNA肿瘤疫苗研发管线的商业化预期大幅抬升。\n2）贵金属：美国将较长期限国债回购操作规模至少提高一倍，美债收益率回落，以黄金为首的有色金属走强。\n3）AI硬件：英伟达宣布Spectrum-X以太网硅光交换机已进入全面量产阶段；南亚塑料宣布CCL及半固化片调涨20～25％，自2026年9月1日起生效。\n4）HPV疫苗：国家疾控局18日发文称，部分地区已将适龄女孩HPV疫苗接种情况纳入预防接种证查验内容，今秋入学新增HPV预防接种证查验。<br /><img src=\"https://image.cls.cn/images/20260820/73h270mRv0_1565x3357.png\" />",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:46:19 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "8月20日连板股分析：连板股晋级率仅14% 医药股全线爆发",
-      "summary": "【8月20日连板股分析：连板股晋级率仅14% 医药股全线爆发】今日共79股涨停，连板股总数4只，其中三连板及以上个股1只，上一交易日共7只连板股，连板股晋级率14.28%（不含ST股、退市股）。个股方面，市场反弹力度有限，午后三大指数一度全部翻绿，涨停股炸板率逼近40%。虽然全市场近4100只个股上涨，但短线情绪未能明显改善，人气股天洋新材、桂发祥2连跌停，传智教育跌停。连板方面，全市场连板股仅4只，其中金健米业晋级4连板，成为市场高度板。板块方面，医药股全线爆发，逾50股涨停或涨超10%， 誉衡药业10天6板，神奇制药6天5板，汉森制药2连板，永安药业3天2板，莱美药业、沃森生物、康希诺等十余股20cm涨停；午后市场回落之际，玄学炒作卷土重来，澳洋健康反包涨停走出7天5板，三羊马一度触及涨停，水羊股份一度涨超12%。<br /><img src=\"https://image.cls.cn/images/20260820/3306t5NybU_1869x1167.png\" />",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:45:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月20日电，瑞典央行表示，如果夏季出乎意料的高通胀预示着更大规模、更持久的通胀上升趋势，将收紧货币政策；基本通胀仍存在受供应冲击影响而过高的风险...",
-      "summary": "财联社8月20日电，瑞典央行表示，如果夏季出乎意料的高通胀预示着更大规模、更持久的通胀上升趋势，将收紧货币政策；基本通胀仍存在受供应冲击影响而过高的风险。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:45:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月20日电，本田8月20日表示，将于下周一起恢复日本熊本工厂的汽车组装业务，此前该工厂因地震而停产。本田位于日本埼玉和三重县的工厂已于20日当日按计划...",
-      "summary": "财联社8月20日电，本田8月20日表示，将于下周一起恢复日本熊本工厂的汽车组装业务，此前该工厂因地震而停产。本田位于日本埼玉和三重县的工厂已于20日当日按计划恢复运营。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:44:50 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "韩国总统李在明会见王毅",
-      "summary": "【韩国总统李在明会见王毅】财联社8月20日电，韩国总统李在明20日在首尔青瓦台会见中共中央政治局委员、外交部长王毅。\n\n李在明表示，我今年1月访华时得到习近平主席热情接待，请转达对习近平主席的感谢和诚挚问候。很高兴看到当前韩中关系正在快速改善和发展。两国经贸合作增长势头强劲，今年国民互访有望突破1千万人次，韩国民众对华认知不断改善，对同中国加强全面合作充满期待。当前国际形势下，韩中两国在经贸、安全等领域都相互需要，韩中加强战略合作，符合两国根本利益，对维护地区和平稳定也很重要。韩中应该成为相互依赖、互惠互补的伙伴。我期待今年11月赴深圳参加亚太经合组织领导人非正式会议，以此为重要契机，同中方一道推动韩中战略合作伙伴关系向更高水平发展。\n\n王毅转达习近平主席对李在明总统的问候，表示李在明总统就任后作出正确抉择，推动中韩关系回到正常轨道。中韩元首在两个多月内实现互访，为两国关系改善发展提供了重要政治保障，也为未来前景作出战略指引。今年以来中韩关系全面恢复并取得积极进展的事实证明，理性务实积极的对华政策完全符合韩国的利益和时代发展的潮流。中国是世界上维护和平的重要力量，一贯主张国际地区冲突通",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:44:26 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "上海：支持企业自主更新 推进存量商业设施改造升级",
-      "summary": "【上海：支持企业自主更新 推进存量商业设施改造升级】财联社8月20日电，上海市人民政府办公厅印发《上海市城市更新和住房发展“十五五”规划》。其中指出，商业商办更新提升。推进商办楼宇功能拓展和融合发展，支持存量商办楼宇因地制宜兼容符合地区发展导向和人民群众生产生活需求的功能业态，分类引导低效商办楼宇更新提升。加强招商引资，促进业态升级。依托上海市存量商办楼宇一站式服务平台，优化营商服务和管理流程。完善商办楼宇监测机制，加强监测平台建设，实现数据互联互通。做好宣传发布，引导和稳定市场预期。推进小陆家嘴、虹桥国际中央商务区、漕河泾、五角场等商务单元更新。\n\n促进商业街区活力焕新，推动商业设施布局与消费功能要素相适应，优化重塑街区空间与功能业态。推动南京路、徐家汇等重点商圈能级提升，加强国际级消费集聚区建设。加强文商旅体展融合，加大智慧商圈和新型消费基础设施等建设力度，完善商业空间布局体系。支持企业自主更新，推进存量商业设施改造升级。\n\n推动老旧街区功能转换、业态升级、活力提升，结合“美丽街区”建设，统筹道路设施、建筑立面、沿街绿化、路面保洁等进行全要素、一体化建设提升，打造“美丽街区+文旅”",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:42:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月20日电，截至目前，南向资金净卖出额达60亿港元。",
-      "summary": "财联社8月20日电，截至目前，南向资金净卖出额达60亿港元。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:40:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "上海：到2030年底 力争基本完成不成套职工住宅改造",
-      "summary": "【上海：到2030年底 力争基本完成不成套职工住宅改造】财联社8月20日电，上海市人民政府办公厅印发《上海市城市更新和住房发展“十五五”规划》。其中指出，城中村和旧住房成套改造提速攻坚。加快城中村改造，用足用好城中村改造专项借款、地方政府专项债等，加大财政资金投入。加快动迁腾地，积极推进实施房票等多元化安置。到2026年底，全面启动城中村整体改造项目，全面完成整治提升。到2027年底，全面完成整体改造项目的前期改造。同步推进实施规划拔点。\n\n加快旧住房成套改造，通过拆除重建、旧城区改建、功能置换等方式实施不成套职工住宅改造，积极完善公房承租权归集、腾退更新路径。到2026年底，力争全面完成剩余约2万平方米小梁薄板房屋改造。到2030年底，力争基本完成不成套职工住宅改造，不成套里弄、公寓、花园住宅更新取得积极成效，推动实施一批兼具民生改善、保护发展的城市更新项目。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:40:27 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "上海：进一步扩大老旧小区改造覆盖面 逐步扩展至混合类、早期商品房小区",
-      "summary": "【上海：进一步扩大老旧小区改造覆盖面 逐步扩展至混合类、早期商品房小区】财联社8月20日电，上海市人民政府办公厅印发《上海市城市更新和住房发展“十五五”规划》。其中指出，老旧小区改造接续实施。进一步扩大老旧小区改造覆盖面，同步解决房屋安全隐患问题，实现公房、售后公房类小区全覆盖修缮，逐步扩展至混合类、早期商品房小区，按照“先体检、后改造”的原则，分批纳入改造计划。提升改造水平，丰富改造内容，引导居民参与和自治，共同维护改造成果。支持老旧住房自主更新。有序推进老旧电梯更新和既有多层住宅加装电梯。持续推进既有居住建筑节能改造。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:39:54 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "上海：根据需求确定配售型保障性住房、征收安置住房建设规模",
-      "summary": "【上海：根据需求确定配售型保障性住房、征收安置住房建设规模】财联社8月20日电，上海市人民政府办公厅印发《上海市城市更新和住房发展“十五五”规划》。其中指出，住房保障扩容提质。强化公共租赁住房兜底保障，做到应保尽保。持续扩大保障性租赁住房供给，着力优化空间布局和供应结构，强化供需匹配。加强新时代城市建设者管理者之家筹措供应，丰富点位规划布局，提高中心城区床位占比。根据需求确定配售型保障性住房、征收安置住房建设规模。加强各类人才安居服务，面向新就业大学生等青年群体，强化普惠性青年安居专项支持，面向重点单位急需紧缺人才，用好人才安居平台，实施“房补联动”。有序推进住房保障轮候库建设，加强保障房供后管理服务。",
-      "link": "",
-      "published": "Thu, 20 Aug 2026 07:39:00 GMT"
+      "source": "华尔街见闻",
+      "title": "中国巨石：巨石集团有限公司拟建设年产20万吨玻璃纤维池窑拉丝生产线冷修技改项目，项目总投资估算9.6亿元。",
+      "summary": "<p>中国巨石：巨石集团有限公司拟建设年产20万吨玻璃纤维池窑拉丝生产线冷修技改项目，项目总投资估算9.6亿元。</p>",
+      "link": "https://wallstreetcn.com/livenews/3152195",
+      "published": "Thu, 20 Aug 2026 07:57:02 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -530,11 +446,11 @@
       "published": "Thu, 20 Aug 2026 06:26:23 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "SK海力士劳资达成初步薪资协议：涨薪6.3%，六成绩效奖改为股票发放",
-      "summary": "<p>韩国内存芯片巨头SK海力士与工会就2026年薪资及集体协议达成初步共识，核心变化在于绩效奖金发放方式的重大调整。</p>\n<p>据韩联社20日报道，<strong>双方拟定的初步协议包含6.3%的薪资涨幅，并对现行超额利润分配金（Profit Sharing，简称 PS）制度进行了修订——40%以现金当年发放，另外60%改以公司股票形式支付。</strong>若协议最终获得批准，这将是SK海力士绩效奖金体系自去年重组以来的又一次重要调整。</p>\n<p>工会已于8月20日召开紧急临时代表大会，向成员说明上述初步协议内容，并计划近期举行代表投票，以完成协议的最终确认程序。然而，绩效奖金支付方式的转变意味着员工实际所得将与公司股价挂钩，可能引发部分员工不满。</p>\n<div>\n<h2 id=\"25dfb58a\">绩效奖金结构调整：现金比例收窄，股票支付占主导</h2>\n</div>\n<p>此次协议对PS奖金支付结构作出实质性改变。<strong>根据新方案，PS总额的40%于当年以现金支付，剩余60%以公司自有股票形式发放。在股票部分中，40%可于当年变现，另有20%采取递延支付安",
-      "link": "https://wallstreetcn.com/articles/3779876",
-      "published": "Thu, 20 Aug 2026 06:09:54 GMT"
+      "source": "第一财经",
+      "title": "创新药收入占比超六成、全球化价值多元兑现，恒瑞医药增长支点不断拓宽",
+      "summary": "<figure><img alt=\"创新药收入占比超六成、全球化价值多元兑现，恒瑞医药增长支点不断拓宽\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/a3fd623b868f9b0d009186e68497de38.jpg\" /></figure><p>创新药收入占比超六成、增长支点拓宽，全球化价值多元兑现，恒瑞医药多维业绩支撑逻辑日渐清晰。</p>\n\n<p>8月19日晚间，恒瑞医药发布2026中报，上半年，该公司实现营业收入154.56亿元，其中药品销售收入139.48亿元，同比增长1.87%；归母净利润44.65亿元，同比增长0.34%。</p>\n\n<p>业绩增速平稳之下，恒瑞医药的业绩增长结构已发生较大变化：创新药销售收入达到88.09亿元，同比增长16.38%，占药品销售收入的比重达到63.16%，其中非肿瘤创新药销售收入同比增长73.97%；持续高研发下，多款潜在大品种进入后期开发阶段；国际化路径从单一授权到多元合作，两家NewCo上市。</p>\n\n<p>在发布中报的同时，恒瑞医药还披露了回购计划，拟以自有资金10亿",
+      "link": "https://www.yicai.com/news/103326727.html",
+      "published": "Thu, 20 Aug 2026 08:13:23 GMT"
     },
     {
       "source": "第一财经",
@@ -577,13 +493,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCU0p3V1hnVzFMQk0xcGhQTWtVX0NJNi1hczlvV0FMc1B3NlkyTjQwWVpIZ3JMeE5aam84YkQ2UDVfS1k?oc=5\" target=\"_blank\">创业板指(SZ399006)股票股价_行情_走势图_资讯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBCU0p3V1hnVzFMQk0xcGhQTWtVX0NJNi1hczlvV0FMc1B3NlkyTjQwWVpIZ3JMeE5aam84YkQ2UDVfS1k?oc=5",
       "published": "Thu, 20 Aug 2026 07:20:03 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "兆易创新(SH603986)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xXzE4dXVYdW9mWlBEM0tCWjd3b1g0a0Nucm1MZnlGY3VQT0xYbEh3NGthSXEzMnpoeFBvaDdTcmFRWWs?oc=5\" target=\"_blank\">兆易创新(SH603986)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xXzE4dXVYdW9mWlBEM0tCWjd3b1g0a0Nucm1MZnlGY3VQT0xYbEh3NGthSXEzMnpoeFBvaDdTcmFRWWs?oc=5",
-      "published": "Thu, 20 Aug 2026 07:20:02 GMT"
     }
   ]
 }
