@@ -1,8 +1,8 @@
 {
   "date": "2026-08-21",
   "hour": "04",
-  "total": 17,
-  "fetched_at": "2026-08-21T04:00:52.877886+08:00",
+  "total": 19,
+  "fetched_at": "2026-08-21T04:16:13.045400+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,6 +10,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9nTGczTFh1NlF0aWJ5VEFoMDQ0ZllLN0tZU1VVNVRTaDVIRzBMTVlBcTlmV2prY09TYXFEVUk1UHdjeDZyYk55ZzJZM1hSUDRqckE3VEdVQnk3Y2xxdkhDOHV4NnBYUkVjRnFNcnI3MjVoM1lfeEFKTA?oc=5\" target=\"_blank\">8月20日增减持汇总：英诺激光等4股拟减持，当日暂无A股公司拟增持（表）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nTGczTFh1NlF0aWJ5VEFoMDQ0ZllLN0tZU1VVNVRTaDVIRzBMTVlBcTlmV2prY09TYXFEVUk1UHdjeDZyYk55ZzJZM1hSUDRqckE3VEdVQnk3Y2xxdkhDOHV4NnBYUkVjRnFNcnI3MjVoM1lfeEFKTA?oc=5",
       "published": "Thu, 20 Aug 2026 18:50:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收评：美股三大指数集体收跌",
+      "summary": "美股三大指数集体收跌，标普500指数跌0.86%，道指跌1.31%，纳指跌1.0%。大型科技股方面，美光科技涨3.97%，谷歌A跌1.17%，特斯拉跌1.71%，苹果跌1.75%，亚马逊跌2.16%，SpaceX跌4.05%。中概股方面，理想汽车涨1.65%，阿里巴巴涨1.30%，哔哩哔哩跌3.76%，网易跌5.85%。",
+      "link": "https://news.10jqka.com.cn/20260821/c679148545.shtml",
+      "published": "Thu, 20 Aug 2026 20:01:00 GMT"
     },
     {
       "source": "同花顺",
@@ -66,6 +73,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YzE5eksyeEpSU3BlTUJLbFJnNDkwSTdqVFl6TzFKMzJ0T0t4cUE4OFVpajBFSHF6RHFxd21Mc1IwZ0s2VXpEMFNoQmJUSkFwUFRJRmJ1NFp5VVB2dGt5RVFR?oc=5\" target=\"_blank\">欧洲股市小幅收低 延续2023年以来最长连跌走势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机网易网</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96YzE5eksyeEpSU3BlTUJLbFJnNDkwSTdqVFl6TzFKMzJ0T0t4cUE4OFVpajBFSHF6RHFxd21Mc1IwZ0s2VXpEMFNoQmJUSkFwUFRJRmJ1NFp5VVB2dGt5RVFR?oc=5",
       "published": "Thu, 20 Aug 2026 19:04:22 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：博通在最新AI债务交易中寻求超600亿美元融资",
+      "summary": "<p>据知情人士透露，博通公司正与一组贷款方洽谈，为一项AI芯片融资交易筹集超过600亿美元债务，该交易将使Anthropic PBC及其他公司受益。该融资方案仍在完善中，还可能包括约300亿美元的次级债务档。根据拟议方案，博通将为优先担保债务档的一部分提供担保，该档规模可能在约600亿-700亿美元之间。正在讨论的金额可能使总规模达到高达1000亿美元。（彭博）</p>",
+      "link": "https://wallstreetcn.com/livenews/3152582",
+      "published": "Thu, 20 Aug 2026 20:09:12 GMT"
     },
     {
       "source": "华尔街见闻",
