@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
   "hour": "05",
-  "total": 31,
-  "fetched_at": "2026-08-22T05:01:05.884229+08:00",
+  "total": 17,
+  "fetched_at": "2026-08-22T05:12:52.101180+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -10,13 +10,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONVJKXzk5c1I3MEJWcmtSOC1YZ2NpTUFFbV9GaFZtRGo4NF9paFVhRW1lbkNhRFZ3VmtKcV95UFV2R1JqMF9GYTZkem1mTm9uc1poZGxrQ1VNSVNDWHZJZVhn?oc=5\" target=\"_blank\">大型私募仓位维持高水平运行 科技板块仍受宠</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONVJKXzk5c1I3MEJWcmtSOC1YZ2NpTUFFbV9GaFZtRGo4NF9paFVhRW1lbkNhRFZ3VmtKcV95UFV2R1JqMF9GYTZkem1mTm9uc1poZGxrQ1VNSVNDWHZJZVhn?oc=5",
       "published": "Fri, 21 Aug 2026 19:17:25 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "Allspring股票投资主管：杰克逊霍尔会议比英伟达业绩风险更大 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xMXR0aXJPblcyTUotdHZSa0lqY1NLTUx1bnFyR21HNXBQSm05aHFnWkpCN2I3d2NBenVpZHdGNWlxVHZWMjNEdnd3SFp3ZDYySEZtMlY2N3VUVTdZZmQzNHgxbw?oc=5\" target=\"_blank\">Allspring股票投资主管：杰克逊霍尔会议比英伟达业绩风险更大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xMXR0aXJPblcyTUotdHZSa0lqY1NLTUx1bnFyR21HNXBQSm05aHFnWkpCN2I3d2NBenVpZHdGNWlxVHZWMjNEdnd3SFp3ZDYySEZtMlY2N3VUVTdZZmQzNHgxbw?oc=5",
-      "published": "Fri, 21 Aug 2026 19:06:31 GMT"
     },
     {
       "source": "同花顺",
@@ -68,109 +61,18 @@
       "published": "Fri, 21 Aug 2026 19:18:50 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月22日电，特朗普表示，他并未指示贝森特干预债券市场。",
-      "summary": "财联社8月22日电，特朗普表示，他并未指示贝森特干预债券市场。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:54:24 GMT"
+      "source": "华尔街见闻",
+      "title": "城堡证券：Situational组合敞口已削减超80%，旗舰基金7月回报创4年最佳",
+      "summary": "<p>城堡证券（Citadel）创始人Ken Griffin向客户披露，公司已大幅削减从对冲基金Situational Awareness收购的资产组合中的风险敞口，同时确认旗舰基金7月份表现强劲。</p>\n<p>据CNBC，Griffin在周五致客户的信中表示，<strong>城堡证券已通过逾100笔大宗交易（市值合计超过40亿美元）将上述收购组合的整体风险敞口削减逾80%。这是Griffin首次就收购Situational Awareness资产一事公开表态。</strong></p>\n<p>Griffin在信中同时确认，<strong>旗舰多策略基金Wellington 7月份回报率达5.94%，为2022年以来最佳单月表现。</strong></p>\n<p>城堡证券介入Situational Awareness的时机正值AI相关交易遭遇剧烈震荡。此后，AI板块出现反弹，<strong>市场普遍认为Situational Awareness的被迫清仓标志着本轮自6月开始的抛售触及阶段性底部。</strong></p>\n<div>\n<h2 id=\"ai\">AI交易失利引爆连锁平仓<",
+      "link": "https://wallstreetcn.com/articles/3780034",
+      "published": "Fri, 21 Aug 2026 21:08:05 GMT"
     },
     {
-      "source": "财联社",
-      "title": "财联社8月22日电，美国陆军部长德里斯科尔预计年底前辞职。",
-      "summary": "财联社8月22日电，美国陆军部长德里斯科尔预计年底前辞职。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:46:01 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月22日电，穆迪将爱尔兰评级上调至AA2，并维持积极展望。",
-      "summary": "财联社8月22日电，穆迪将爱尔兰评级上调至AA2，并维持积极展望。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:41:24 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月22日电，美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
-      "summary": "财联社8月22日电，美联储数据显示，美国上周银行存款19.532万亿美元，之前一周19.496万亿美元。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:18:05 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月22日电，Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
-      "summary": "财联社8月22日电，Applied Optoelectronics签署了6亿美元的ATM（按市价发行）股权分销协议。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:12:45 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
-      "summary": "【Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备】财联社8月22日电，Anthropic已聘请谷歌定制芯片项目创始人Amir Salek，为这家AI实验室进军自研半导体领域做准备。Anthropic周五表示，Salek将加入Anthropic的算力团队，并向James Bradbury汇报。Salek曾负责谷歌的张量处理单元(TPU)业务直至2022年，并参与推出了前七代TPU芯片。Anthropic目前从英伟达、谷歌和亚马逊等多个供应商采购芯片，但近期已释放出建立自有芯片业务的意愿。这家总部位于旧金山的公司已开始为相关项目招聘，并发布职位信息。与其他AI巨头一样，Anthropic正加紧获得足够的数据中心基础设施，以支撑其发展目标。自研芯片有望帮助公司应对供应短缺，同时根据自身需求定制芯片设计。竞争对手OpenAI也在采取类似行动。这家ChatGPT开发商已发布与博通共同开发的Jalapeno芯片，并计划今年晚些时候开始使用。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:02:26 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "利弗莫尔中概股龙头指数收跌0.83%",
-      "summary": "【利弗莫尔中概股龙头指数收跌0.83%】财联社8月22日电，利弗莫尔中概股龙头指数收跌0.83%。成分股中，大全新能源跌9.21%，阿里巴巴跌8.51%，脑再生科技跌2.67%，美华创富跌2.35%，SL Science Holding Ltd跌2.21%。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:01:35 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "道指收涨近1% 银行、矿业股走强",
-      "summary": "【道指收涨近1% 银行、矿业股走强】财联社8月22日电，美股三大指数集体收涨，道指涨0.98%，纳指涨0.43%，标普500指数涨0.43%。纳斯达克100指数收涨0.33%，结束五连跌。“科技七巨头”涨跌不一，特斯拉涨5.14%，谷歌涨1.05%，Meta Platforms涨0.75%，微软涨0.43%，亚马逊跌0.57%，苹果跌0.63%，英伟达跌0.98%。银行股走强，高盛、摩根士丹利涨超2%。矿业股上涨，哈莫尼黄金涨超6%，埃氏金业涨超7%，南方铜业公司涨8.7%创收盘历史新高。芯片股涨跌不一，博通、恩智浦涨超1%，ARM、英特尔跌超2%。<br /><img src=\"https://image.cls.cn/images/20260822/7pWC6Olio9_1104x411.png\" />",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 20:00:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "国际油价21日微涨",
-      "summary": "【国际油价21日微涨】财联社8月22日电，国际油价21日微涨。截至当天收盘，纽约商品交易所10月交货的轻质原油期货价格上涨23美分，收于每桶87.06美元，涨幅为0.26%；10月交货的伦敦布伦特原油期货价格上涨61美分，收于每桶94.39美元，涨幅为0.65%。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 19:52:51 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美国务院批准对韩出售1.25亿美元“响尾蛇”导弹",
-      "summary": "【美国务院批准对韩出售1.25亿美元“响尾蛇”导弹】财联社8月22日电，美国国务院当地时间21日发表声明称，已批准向韩国出售价值1.25亿美元的“响尾蛇”空对空导弹及相关设备服务。声明说，韩国政府提出购买103枚AIM-9X“响尾蛇”Block II战术导弹和10套该型导弹战术制导组件，以及相关配件和服务。这项拟议军售“将提升韩国的防空、威慑能力”，“确保与美军的协同作战能力”，帮助韩国提高“应对当前及未来威胁的能力”。据美国海军航空系统司令部官网介绍，AIM-9X“响尾蛇”Block II导弹是美军现役最先进的短程空对空导弹，还可用于打击地面目标。此外，美国国务院当天还分别发表声明，宣布批准对挪威和意大利的对外军售案。美国将向挪威政府出售21架UH-60M“黑鹰”直升机及相关发动机等设备，总价值约23亿美元；将向意大利政府出售5031套“先进精确杀伤武器系统-II”空对空型制导组件及相关设备，总价值约3.64亿美元。 (央视新闻)",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 19:44:08 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月22日电，OpenAI表示，未来三个月将把GPT‑5.6 Sol的API及积分定价下调20%以上。",
-      "summary": "财联社8月22日电，OpenAI表示，未来三个月将把GPT‑5.6 Sol的API及积分定价下调20%以上。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 19:39:47 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
-      "summary": "【英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工】财联社8月22日电，英伟达据悉已同意支付60亿美元，以获得Poolside人工智能(AI)模型的使用许可，并将向100多名员工发出聘用邀请。因相关讨论非公开而要求匿名的知情人士称，这家初创企业还获得英伟达额外10亿美元投资，投前估值为120亿美元。知情人士称，Poolside将继续独立运营。知情人士称，现有投资者将从英伟达提供的资金中获得一笔款项。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 19:26:32 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "乍得中部部族冲突致至少10人死亡",
-      "summary": "【乍得中部部族冲突致至少10人死亡】财联社8月22日电，据乍得方面21日消息，乍中部巴塔省20日发生部族冲突，造成至少10人死亡、逾10人受伤。据悉，这起暴力事件发生于乌姆哈杰尔市以东约20公里处。部族间因农田纠纷发生冲突，已造成至少10人死亡，包括一名女性。据披露，乍得政府驻巴塔省总代表艾哈迈德·古库尼·穆拉利已赶往冲突地点，旨在推动当地局势恢复平静与安全，防止事态进一步升级，并通过和平方式化解冲突。巴塔省议会主席21日发表声明，呼吁当地居民通过对话实现和解。乍得境内不同部族间冲突较为常见，多因争夺水源或土地等资源引发。 (央视新闻)",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 19:23:37 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美元指数21日下跌",
-      "summary": "【美元指数21日下跌】财联社8月22日电，衡量美元对六种主要货币的美元指数当天下跌0.09%，在汇市尾市收于98.801。截至纽约汇市尾市，1欧元兑换1.1683美元，高于前一交易日的1.1676美元；1英镑兑换1.3652美元，高于前一交易日的1.3628美元。1美元兑换159.02日元，低于前一交易日的159.14日元；1美元兑换0.8008瑞士法郎，高于前一交易日的0.8007瑞士法郎；1美元兑换1.3761加元，低于前一交易日的1.3790加元；1美元兑换9.4626瑞典克朗，低于前一交易日的9.4908瑞典克朗。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 19:17:37 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "财联社8月22日电，恒生指数主连夜盘收跌0.5%。恒生科技指数主连夜盘收跌0.78%。",
-      "summary": "财联社8月22日电，恒生指数主连夜盘收跌0.5%。恒生科技指数主连夜盘收跌0.78%。",
-      "link": "",
-      "published": "Fri, 21 Aug 2026 19:03:32 GMT"
+      "source": "华尔街见闻",
+      "title": "房利美12名高管突遭解雇，美国房贷市场稳定性担忧升温",
+      "summary": "<p>美国住房抵押贷款市场核心机构房利美（Fannie Mae）本周经历高层动荡，约12名高级管理人员遭到解雇，引发业界对这一抵押贷款市场支柱机构稳定性的担忧。</p>\n<p>据媒体援引知情人士透露，<strong>被裁撤职位涵盖多家庭贷款、低收入住房税收抵免、财务、监管及传播等多个核心业务部门。</strong></p>\n<p><strong>此次离职消息于周五在行业内迅速扩散，外界担忧房利美维护抵押贷款市场价格与活跃度的能力可能因此受损。</strong></p>\n<p>此次高管出走发生在美国住房市场本已脆弱的当口。本周全球债券市场大规模抛售引发通胀与借贷成本上升的担忧，迫使美国财政部采取罕见干预措施，住房市场前景愈发充满变数。</p>\n<div>\n<h2 id=\"7d0191f2\">裁员范围涵盖多个核心职能部门</h2>\n</div>\n<p>据知情人士透露，此次被裁员人员包括公司多个顶层管理岗位，多名高管于周三接到通知，被告知其职位已遭撤销。</p>\n<p>具体涉及多家庭贷款部门、低收入住房税收抵免业务单元，以及财务、监管和传播等职能部门的管理人员。</p>\n<p>对于上述裁员，",
+      "link": "https://wallstreetcn.com/articles/3780036",
+      "published": "Fri, 21 Aug 2026 21:07:25 GMT"
     },
     {
       "source": "华尔街见闻",
