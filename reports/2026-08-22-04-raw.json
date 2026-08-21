@@ -1,8 +1,8 @@
 {
   "date": "2026-08-22",
   "hour": "04",
-  "total": 13,
-  "fetched_at": "2026-08-22T04:00:54.059481+08:00",
+  "total": 14,
+  "fetched_at": "2026-08-22T04:13:18.948949+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -31,6 +31,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xMXR0aXJPblcyTUotdHZSa0lqY1NLTUx1bnFyR21HNXBQSm05aHFnWkpCN2I3d2NBenVpZHdGNWlxVHZWMjNEdnd3SFp3ZDYySEZtMlY2N3VUVTdZZmQzNHgxbw?oc=5\" target=\"_blank\">Allspring股票投资主管：杰克逊霍尔会议比英伟达业绩风险更大</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xMXR0aXJPblcyTUotdHZSa0lqY1NLTUx1bnFyR21HNXBQSm05aHFnWkpCN2I3d2NBenVpZHdGNWlxVHZWMjNEdnd3SFp3ZDYySEZtMlY2N3VUVTdZZmQzNHgxbw?oc=5",
       "published": "Fri, 21 Aug 2026 19:06:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收评：美股三大指数集体收涨",
+      "summary": "美股三大指数集体收涨，标普500指数涨0.43%，道指涨0.98%，纳指涨0.43%。大型科技股方面，特斯拉涨5.14%，SpaceX涨2.22%，谷歌A涨1.22%，英特尔跌2.24%。中概股方面，网易涨6.98%，哔哩哔哩涨2.40%，蔚来涨2.10%，小鹏集团涨1.58%，理想汽车涨1.01%，拼多多跌1.27%，阿里巴巴跌8.59%。",
+      "link": "https://news.10jqka.com.cn/20260822/c679188430.shtml",
+      "published": "Fri, 21 Aug 2026 20:01:53 GMT"
     },
     {
       "source": "同花顺",
@@ -93,7 +100,7 @@
       "title": "创业板指涨逾1% 算力产业链持续回暖 - 上海证券报电子版",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBOSTIxbmJGREhhSk5IMXlSM2RQZEprU3hKSnQ4c19qWUgxUlBmemQ1ZzJMWUgweVg1LU5sZHdjTHpSLUV0Skxsc192OXl5X2tHUmFVUGVqZ2xUSW1CV3VaemZ2NGp3N3k4NHExdUFR?oc=5\" target=\"_blank\">创业板指涨逾1% 算力产业链持续回暖</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOSTIxbmJGREhhSk5IMXlSM2RQZEprU3hKSnQ4c19qWUgxUlBmemQ1ZzJMWUgweVg1LU5sZHdjTHpSLUV0Skxsc192OXl5X2tHUmFVUGVqZ2xUSW1CV3VaemZ2NGp3N3k4NHExdUFR?oc=5",
-      "published": "Fri, 21 Aug 2026 18:43:07 GMT"
+      "published": "Fri, 21 Aug 2026 18:42:37 GMT"
     }
   ]
 }
