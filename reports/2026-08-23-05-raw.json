@@ -1,7 +1,92 @@
 {
   "date": "2026-08-23",
   "hour": "05",
-  "total": 0,
-  "fetched_at": "2026-08-23T05:00:54.661638+08:00",
-  "news": []
+  "total": 12,
+  "fetched_at": "2026-08-23T05:10:53.201385+08:00",
+  "news": [
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：宁沪高速（600377）拟73.41亿收购苏锡常南部高速100%股权 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5tbTZyTVo1U01ueF9kZWoxbFVSUmRveTFyWWVnQ2xVSUY1eHEwUDlUQWc1eG9ZYS0tZjJvVGdlSUxuWlVCZ0h4bldxVmsxb1ppT1VUSDJFSTV6clFIYzVFM05BcXdndjlQRHYw?oc=5\" target=\"_blank\">每周股票复盘：宁沪高速（600377）拟73.41亿收购苏锡常南部高速100%股权</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tbTZyTVo1U01ueF9kZWoxbFVSUmRveTFyWWVnQ2xVSUY1eHEwUDlUQWc1eG9ZYS0tZjJvVGdlSUxuWlVCZ0h4bldxVmsxb1ppT1VUSDJFSTV6clFIYzVFM05BcXdndjlQRHYw?oc=5",
+      "published": "Sat, 22 Aug 2026 20:04:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：华数传媒（000156）修订章程并实施分红 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNkNMb0ZJTi01Q2tnbjNIcnc1MXY4ZmZ2dmxiRVFXWklTMzY2VFRXQktINjFxTDF6WjhSVmhhM254RUt6dTAxU2FqaDV6cmFFYjlJdjgxajV6RHdBRmdfYzRiNW1Bbnd6eW9r?oc=5\" target=\"_blank\">每周股票复盘：华数传媒（000156）修订章程并实施分红</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNkNMb0ZJTi01Q2tnbjNIcnc1MXY4ZmZ2dmxiRVFXWklTMzY2VFRXQktINjFxTDF6WjhSVmhhM254RUt6dTAxU2FqaDV6cmFFYjlJdjgxajV6RHdBRmdfYzRiNW1Bbnd6eW9r?oc=5",
+      "published": "Sat, 22 Aug 2026 20:37:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：百龙创园（605016）推进可转债发行 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5CdUVTN1B3a0xTTC1IY1QtbzdoLUc4bS1uSlRNbjV3clhFcHQtenVyOUZlS09vUWlJMVloU3BraG1kaldlV1RGXzlVNVVVN21oRXpzQm5ENlJWVlJDQnFFRWJ5bUE5azNyZWtB?oc=5\" target=\"_blank\">每周股票复盘：百龙创园（605016）推进可转债发行</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CdUVTN1B3a0xTTC1IY1QtbzdoLUc4bS1uSlRNbjV3clhFcHQtenVyOUZlS09vUWlJMVloU3BraG1kaldlV1RGXzlVNVVVN21oRXpzQm5ENlJWVlJDQnFFRWJ5bUE5azNyZWtB?oc=5",
+      "published": "Sat, 22 Aug 2026 20:37:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：财达证券（600906）Q2净利同比增100.01% - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE04NUdybGRsUGNsaU5Xbnp0cnZjODVJWW5qdWZKT1gxLUQ2QS1veFBBQ09OaDRxRFRMUnB3dTlCcHdBQmF0cmJaMzJEclBZTGNBMzdZOXlVc1E4XzZ1VERJVzVhd0ZMbGNxazlR?oc=5\" target=\"_blank\">每周股票复盘：财达证券（600906）Q2净利同比增100.01%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04NUdybGRsUGNsaU5Xbnp0cnZjODVJWW5qdWZKT1gxLUQ2QS1veFBBQ09OaDRxRFRMUnB3dTlCcHdBQmF0cmJaMzJEclBZTGNBMzdZOXlVc1E4XzZ1VERJVzVhd0ZMbGNxazlR?oc=5",
+      "published": "Sat, 22 Aug 2026 20:37:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：爱建集团（600643）为子公司提供合计3.8亿元担保 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBINHJCQkRuNlRyY3BHSmxORFJfcnRkVTlpdDZBSDlMaFdDSWdqLUNQbGZrMzhOa1hJdDFPTm1KVnYwRERPV2xwRmZXNUNuM210YlloMFNYeXZzeG0wVlJvcE1DUzRGc0sycDI4?oc=5\" target=\"_blank\">每周股票复盘：爱建集团（600643）为子公司提供合计3.8亿元担保</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINHJCQkRuNlRyY3BHSmxORFJfcnRkVTlpdDZBSDlMaFdDSWdqLUNQbGZrMzhOa1hJdDFPTm1KVnYwRERPV2xwRmZXNUNuM210YlloMFNYeXZzeG0wVlJvcE1DUzRGc0sycDI4?oc=5",
+      "published": "Sat, 22 Aug 2026 20:37:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：元琛科技（688659）涉220万货款诉讼 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE81cVBKVFF1bXdleWNiSmZxWEl0WWdIWWNSUU9SdW9GdVF1LUwzX200dWlFV05lTXpLSFljeExrbDUweUxyRHRRNzN5REx3b0FKdlpyUE1vMGNBZVZHVThJT1lHT3hfTWsxTXI4?oc=5\" target=\"_blank\">每周股票复盘：元琛科技（688659）涉220万货款诉讼</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81cVBKVFF1bXdleWNiSmZxWEl0WWdIWWNSUU9SdW9GdVF1LUwzX200dWlFV05lTXpLSFljeExrbDUweUxyRHRRNzN5REx3b0FKdlpyUE1vMGNBZVZHVThJT1lHT3hfTWsxTXI4?oc=5",
+      "published": "Sat, 22 Aug 2026 20:34:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：法兰泰克（603966）为全资子公司续担6000万元 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE93aU5OY1JKdi1VdWtJaUlOdnBwWl9RVmh5bWhEOFhPSFY3WFp3V3pUQXVsVzZ1VGlSWFE1MkVxdmlkX0hmVWVfd1lQVTY1Q1pqT0N4eUs5T2xKd3BWN1luZEY3QkNkeUdhSUlv?oc=5\" target=\"_blank\">每周股票复盘：法兰泰克（603966）为全资子公司续担6000万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93aU5OY1JKdi1VdWtJaUlOdnBwWl9RVmh5bWhEOFhPSFY3WFp3V3pUQXVsVzZ1VGlSWFE1MkVxdmlkX0hmVWVfd1lQVTY1Q1pqT0N4eUs5T2xKd3BWN1luZEY3QkNkeUdhSUlv?oc=5",
+      "published": "Sat, 22 Aug 2026 20:31:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：阿科力（603722）60.6万股限制性股票将上市 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBjQlF5RzNDZmNHbGppU3RKWFNKMjJSWFIzWGY0VUNybFhYenFGenJEY0pEeVh0MDBFNWMwcElFNGVfcFp4dXFoNWpia095dzh1VWJ1TWNjU3BPZUtackFDT2N1Vm0ySFFnNVhr?oc=5\" target=\"_blank\">每周股票复盘：阿科力（603722）60.6万股限制性股票将上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjQlF5RzNDZmNHbGppU3RKWFNKMjJSWFIzWGY0VUNybFhYenFGenJEY0pEeVh0MDBFNWMwcElFNGVfcFp4dXFoNWpia095dzh1VWJ1TWNjU3BPZUtackFDT2N1Vm0ySFFnNVhr?oc=5",
+      "published": "Sat, 22 Aug 2026 20:07:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "每周股票复盘：振华新材（688707）股东户数降13.83% - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBBVndVQ3NCSTdmN253TU11WG16bUdpTUt3X1Qza2ZDQzRZM2FWSllDNE5MVF9XZm9uUE4xZjR1a2RHWk40MEJPNVVhazdKZlYwZmpjbFIwazhLaWhtdXVDYWFFbkhvOUNzeGZr?oc=5\" target=\"_blank\">每周股票复盘：振华新材（688707）股东户数降13.83%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBVndVQ3NCSTdmN253TU11WG16bUdpTUt3X1Qza2ZDQzRZM2FWSllDNE5MVF9XZm9uUE4xZjR1a2RHWk40MEJPNVVhazdKZlYwZmpjbFIwazhLaWhtdXVDYWFFbkhvOUNzeGZr?oc=5",
+      "published": "Sat, 22 Aug 2026 20:37:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "首创证券：8月21日获融资买入340.06万元 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVDRPaFVKR3hPMzljdzJlejZ1X2Vjck5qV2pZTTBMNGtTNG5mZmRRbGQzWmMxdXppcVdobE5SWkVRNFljVGgyUXNHQ2poQVBNRW1DQmtOVVQtLVZBYnlESFVn?oc=5\" target=\"_blank\">首创证券：8月21日获融资买入340.06万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVDRPaFVKR3hPMzljdzJlejZ1X2Vjck5qV2pZTTBMNGtTNG5mZmRRbGQzWmMxdXppcVdobE5SWkVRNFljVGgyUXNHQ2poQVBNRW1DQmtOVVQtLVZBYnlESFVn?oc=5",
+      "published": "Sat, 22 Aug 2026 19:14:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "财达证券：8月21日获融资买入1638.81万元 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TUFFYWtDQmpISXUzVFNRSFhQOTQtR2JpVVB0TTlSbkNZektGWHRuak1aQUdjc1dfUzBzY1JlWXNUTzMtUUl0MXk3MnExRlM0NGxnVXctREVtZGZxck41dXBR?oc=5\" target=\"_blank\">财达证券：8月21日获融资买入1638.81万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TUFFYWtDQmpISXUzVFNRSFhQOTQtR2JpVVB0TTlSbkNZektGWHRuak1aQUdjc1dfUzBzY1JlWXNUTzMtUUl0MXk3MnExRlM0NGxnVXctREVtZGZxck41dXBR?oc=5",
+      "published": "Sat, 22 Aug 2026 19:14:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "盈透证券8月21日成交额为5.38亿美元 成交额较上个交易日增加71.33%。 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SU51bHlQNUhyZV9wUnp1RktzVjdkcWliUUdGcmFFbHRkSWt6TjFOdTNhSzJDcFpTZ0Jzb1pCMndTc2FfbGp1eDVkS2dudWlsVG9wZ3Y0WEhGY0VXdFhSdUpR?oc=5\" target=\"_blank\">盈透证券8月21日成交额为5.38亿美元 成交额较上个交易日增加71.33%。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SU51bHlQNUhyZV9wUnp1RktzVjdkcWliUUdGcmFFbHRkSWt6TjFOdTNhSzJDcFpTZ0Jzb1pCMndTc2FfbGp1eDVkS2dudWlsVG9wZ3Y0WEhGY0VXdFhSdUpR?oc=5",
+      "published": "Sat, 22 Aug 2026 19:14:33 GMT"
+    }
+  ]
 }
