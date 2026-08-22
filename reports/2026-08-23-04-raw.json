@@ -1,7 +1,29 @@
 {
   "date": "2026-08-23",
   "hour": "04",
-  "total": 0,
-  "fetched_at": "2026-08-23T04:00:53.421313+08:00",
-  "news": []
+  "total": 3,
+  "fetched_at": "2026-08-23T04:10:25.244913+08:00",
+  "news": [
+    {
+      "source": "同花顺",
+      "title": "首创证券：8月21日获融资买入340.06万元 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVDRPaFVKR3hPMzljdzJlejZ1X2Vjck5qV2pZTTBMNGtTNG5mZmRRbGQzWmMxdXppcVdobE5SWkVRNFljVGgyUXNHQ2poQVBNRW1DQmtOVVQtLVZBYnlESFVn?oc=5\" target=\"_blank\">首创证券：8月21日获融资买入340.06万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tVDRPaFVKR3hPMzljdzJlejZ1X2Vjck5qV2pZTTBMNGtTNG5mZmRRbGQzWmMxdXppcVdobE5SWkVRNFljVGgyUXNHQ2poQVBNRW1DQmtOVVQtLVZBYnlESFVn?oc=5",
+      "published": "Sat, 22 Aug 2026 19:14:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "财达证券：8月21日获融资买入1638.81万元 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TUFFYWtDQmpISXUzVFNRSFhQOTQtR2JpVVB0TTlSbkNZektGWHRuak1aQUdjc1dfUzBzY1JlWXNUTzMtUUl0MXk3MnExRlM0NGxnVXctREVtZGZxck41dXBR?oc=5\" target=\"_blank\">财达证券：8月21日获融资买入1638.81万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4TUFFYWtDQmpISXUzVFNRSFhQOTQtR2JpVVB0TTlSbkNZektGWHRuak1aQUdjc1dfUzBzY1JlWXNUTzMtUUl0MXk3MnExRlM0NGxnVXctREVtZGZxck41dXBR?oc=5",
+      "published": "Sat, 22 Aug 2026 19:14:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "盈透证券8月21日成交额为5.38亿美元 成交额较上个交易日增加71.33%。 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SU51bHlQNUhyZV9wUnp1RktzVjdkcWliUUdGcmFFbHRkSWt6TjFOdTNhSzJDcFpTZ0Jzb1pCMndTc2FfbGp1eDVkS2dudWlsVG9wZ3Y0WEhGY0VXdFhSdUpR?oc=5\" target=\"_blank\">盈透证券8月21日成交额为5.38亿美元 成交额较上个交易日增加71.33%。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83SU51bHlQNUhyZV9wUnp1RktzVjdkcWliUUdGcmFFbHRkSWt6TjFOdTNhSzJDcFpTZ0Jzb1pCMndTc2FfbGp1eDVkS2dudWlsVG9wZ3Y0WEhGY0VXdFhSdUpR?oc=5",
+      "published": "Sat, 22 Aug 2026 19:14:33 GMT"
+    }
+  ]
 }
