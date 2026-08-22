@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "hour": "03",
-  "total": 5,
-  "fetched_at": "2026-08-23T03:00:51.457728+08:00",
+  "total": 7,
+  "fetched_at": "2026-08-23T03:14:34.391105+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -20,13 +20,6 @@
     },
     {
       "source": "东方财富",
-      "title": "每周股票复盘：聚和材料（688503）周内两登龙虎榜 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBIU1R4QUhlbGljRFhnbGQtRkQ1cnB1cDhvZmI5NTZaWXNuR1hlRlJNNHRKSks1NldpcHBxVUFDRkN3ZDl0LUw1WkVfT0tnVVRDTzRwZzZVdGE1T1RIQXkyQlJucnJDQjdVQzVB?oc=5\" target=\"_blank\">每周股票复盘：聚和材料（688503）周内两登龙虎榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIU1R4QUhlbGljRFhnbGQtRkQ1cnB1cDhvZmI5NTZaWXNuR1hlRlJNNHRKSks1NldpcHBxVUFDRkN3ZDl0LUw1WkVfT0tnVVRDTzRwZzZVdGE1T1RIQXkyQlJucnJDQjdVQzVB?oc=5",
-      "published": "Sat, 22 Aug 2026 17:13:00 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "每周股票复盘：鼎通科技（688668）鼎通转债2026年12月30日起可转股 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBYY3BXM1NocHFUdkdiMmhuQ1NxZU8zRldkVEthTW12UFV0c2trZGp2WHR0OF92ZGlfZUNwMG96SWNkMEhBT2NXOWREM0ktX0FsSDdzN3d5LUJDaXZ6YjJIRmI2dElhSDl1V01r?oc=5\" target=\"_blank\">每周股票复盘：鼎通科技（688668）鼎通转债2026年12月30日起可转股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYY3BXM1NocHFUdkdiMmhuQ1NxZU8zRldkVEthTW12UFV0c2trZGp2WHR0OF92ZGlfZUNwMG96SWNkMEhBT2NXOWREM0ktX0FsSDdzN3d5LUJDaXZ6YjJIRmI2dElhSDl1V01r?oc=5",
@@ -38,6 +31,27 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9RVjNsZFdxS0psM1YzMkItUW1HQ3pxbFl1bklwV2lyTzZZcGEweng5aGtKNTVOZFU1cE90bnpTbEhsWmlsUUFtUHc1elBGWVZPeF80dmdzdmt1Sk1SWnlGZUdKYlQ1SVc4WHM0?oc=5\" target=\"_blank\">每周股票复盘：峰岹科技（688279）大宗交易成交额超8700万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RVjNsZFdxS0psM1YzMkItUW1HQ3pxbFl1bklwV2lyTzZZcGEweng5aGtKNTVOZFU1cE90bnpTbEhsWmlsUUFtUHc1elBGWVZPeF80dmdzdmt1Sk1SWnlGZUdKYlQ1SVc4WHM0?oc=5",
       "published": "Sat, 22 Aug 2026 17:37:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "以色列称无意与土耳其升级冲突 绝不接受土在叙驻军",
+      "summary": "【以色列称无意与土耳其升级冲突 绝不接受土在叙驻军】财联社8月23日电，当地时间22日，以色列外交部长萨尔在接受采访时表示，尽管因叙利亚问题导致以土两国关系高度紧张，但以色列“无意与土耳其升级冲突”。\n\n萨尔称，以色列“始终优先考虑”外交解决方案，并重申以色列并不打算激化与土耳其的对抗。他表示：“我们致力于维持现状。”\n\n萨尔同时明确表示，以色列绝不接受土耳其在叙利亚建立基地。（央视新闻）",
+      "link": "",
+      "published": "Sat, 22 Aug 2026 18:06:44 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "泰国南部三府发生爆炸纵火事件 至少两人受伤",
+      "summary": "【泰国南部三府发生爆炸纵火事件 至少两人受伤】财联社8月23日电，据泰国方面消息，当地时间22日20时起，泰国南部三府那拉提瓦、也拉、北大年相继发生爆炸、纵火等恶性事件，已造成至少两人受伤。\n\n那拉提瓦军方特遣队宣布全府从当天22时15分至23日6时实施宵禁。（央视新闻）",
+      "link": "",
+      "published": "Sat, 22 Aug 2026 17:23:21 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "加拿大宣布9月8日起对美国商品征收报复性关税",
+      "summary": "【加拿大宣布9月8日起对美国商品征收报复性关税】财联社8月23日电，当地时间8月22日，加拿大总理卡尼表示，从9月8日起，加拿大将对来自美国的多个行业的进口商品征收关税，以报复美国新关税。\n\n卡尼表示，这些报复性关税将涉及钢铁、乳制品、家电、农业设备、纸浆和造纸以及电子产品等行业，还将包括目前受到232条款和338条款关税影响的产品。\n\n卡尼称，“我们不能接受他们提出的条件，也不会满足他们的要求”，为了保护加拿大工人、农民、家庭和企业，加拿大将对美国的新关税采取对等措施。（央视新闻）",
+      "link": "",
+      "published": "Sat, 22 Aug 2026 17:16:47 GMT"
     }
   ]
 }
