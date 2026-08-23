@@ -1,8 +1,8 @@
 {
   "date": "2026-08-23",
   "hour": "08",
-  "total": 15,
-  "fetched_at": "2026-08-23T08:06:00.397299+08:00",
+  "total": 18,
+  "fetched_at": "2026-08-23T08:38:21.126134+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -31,6 +31,27 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBNdjdBLUQ1ZklpRFExYWVaaUVnNkFOUHNMVGV2MnIxWDZRNFRmT1cwQ0F0YmJablZ4S2pjRW9hNG1MbkJEcm1KWXVUVWpXSk0wU3I2b1BweUhjbmxzbVhnSEFLOW9QV2x3VnVz?oc=5\" target=\"_blank\">特朗普6月调整投资组合 频繁买卖股票、债券和ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNdjdBLUQ1ZklpRFExYWVaaUVnNkFOUHNMVGV2MnIxWDZRNFRmT1cwQ0F0YmJablZ4S2pjRW9hNG1MbkJEcm1KWXVUVWpXSk0wU3I2b1BweUhjbmxzbVhnSEFLOW9QV2x3VnVz?oc=5",
       "published": "Sat, 22 Aug 2026 23:20:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "航行警告！南海海域实弹射击",
+      "summary": "湛江海事局发布航行警告，8月24日至28日，每天8时至18时，南海部分海域进行实弹射击，禁止驶入。（中国海事局网站）",
+      "link": "https://news.10jqka.com.cn/20260823/c679195641.shtml",
+      "published": "Sun, 23 Aug 2026 00:16:56 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "受台风“紫檀”影响 国铁广州局部分列车停运",
+      "summary": "受今年第19号台风“紫檀”和西南季风共同影响，广东局地有大暴雨到特大暴雨。为确保旅客列车运行安全，国铁广州局动态调整旅客列车开行方案。预计今天（23日）20时至明天8时，甬广高铁部分列车停运；明天8时至25日2时，海南高铁西环段部分列车停运。由于天气原因，部分列车可能出现晚点情况。铁路部门将持续根据台风影响范围和降雨情况，动态调整列车运行方案。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260823/c679195630.shtml",
+      "published": "Sun, 23 Aug 2026 00:11:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "百家机构扎堆调研股曝光，2股市盈率低至个位数",
+      "summary": "近一周（8月15日至21日）共有180多只个股获得机构调研，华测检测获调研机构数量居首。华测检测获得167家机构调研，包含20家基金公司、38家证券公司、59家私募、4家保险公司等。国际复材、洁美科技、传音控股等个股均获得100家以上机构调研。其中，云天化和天山铝业动态市盈率均低至个位数。（证券时报）",
+      "link": "https://news.10jqka.com.cn/20260823/c679195624.shtml",
+      "published": "Sun, 23 Aug 2026 00:08:38 GMT"
     },
     {
       "source": "同花顺",
