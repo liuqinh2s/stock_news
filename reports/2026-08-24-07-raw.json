@@ -1,23 +1,9 @@
 {
   "date": "2026-08-24",
   "hour": "07",
-  "total": 4,
-  "fetched_at": "2026-08-24T07:00:58.573026+08:00",
+  "total": 5,
+  "fetched_at": "2026-08-24T07:10:16.568554+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "年内A股新上市企业达百家 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZTU2dW15cTcyUngyODY4RGlsVzVYSjN4bGRYeFQwanRaUjlXRDFPMVJld00ycnVYVU5VdUlQakdzVTRDSllia0pwaFUzZjVZenoyZkxlbHNKd2UySnRfSDVjVlRWOTJGQ3JGVmQ5eWVoclJqbllzZg?oc=5\" target=\"_blank\">年内A股新上市企业达百家</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oZTU2dW15cTcyUngyODY4RGlsVzVYSjN4bGRYeFQwanRaUjlXRDFPMVJld00ycnVYVU5VdUlQakdzVTRDSllia0pwaFUzZjVZenoyZkxlbHNKd2UySnRfSDVjVlRWOTJGQ3JGVmQ5eWVoclJqbllzZg?oc=5",
-      "published": "Sun, 23 Aug 2026 22:54:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股业绩利好，密集发布 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94UmZOUTdEb1JmMjBMYm5XZFE2X085YWc5TU5MV3RCQ09vUm9DYkJ1cEZmYnhpUEpvMVk5ZjZ3ZDU1ekxKQzgwSGkybzdCRDlVRi1rRGI4empmRFFDV090M2F3UFR1bTlpQk9sNHgyQ1R2aWIzS3hkeg?oc=5\" target=\"_blank\">A股业绩利好，密集发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94UmZOUTdEb1JmMjBMYm5XZFE2X085YWc5TU5MV3RCQ09vUm9DYkJ1cEZmYnhpUEpvMVk5ZjZ3ZDU1ekxKQzgwSGkybzdCRDlVRi1rRGI4empmRFFDV090M2F3UFR1bTlpQk9sNHgyQ1R2aWIzS3hkeg?oc=5",
-      "published": "Sun, 23 Aug 2026 22:50:00 GMT"
-    },
     {
       "source": "东方财富",
       "title": "股市必读：博通股份新发布《博通股份关于收到中国证券监督管理委员会陕西监管局《行政监管措施决定书》的公告》 - 财富号",
@@ -31,6 +17,27 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9vTDVPSXJQaWVsTDBvZ0RydC00dzFZVGNiOFU4dU1GeWNvUzlwRFBXM0R3VlI4emdGMzRkb2g5dG1OSjIwS3FBcEotc0ZVUGU3R2t1TlJmaEREMy05Sl9ONy1DZGczVGpVMlBB?oc=5\" target=\"_blank\">股市必读：中泰证券中报 - 第二季度单季净利润同比增长275.91%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vTDVPSXJQaWVsTDBvZ0RydC00dzFZVGNiOFU4dU1GeWNvUzlwRFBXM0R3VlI4emdGMzRkb2g5dG1OSjIwS3FBcEotc0ZVUGU3R2t1TlJmaEREMy05Sl9ONy1DZGczVGpVMlBB?oc=5",
       "published": "Sun, 23 Aug 2026 21:52:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "机器人性能持续提升 专家：但离走进生活还有距离",
+      "summary": "第二届世界人形机器人运动会正在北京国家速滑馆“冰丝带”举行。与上届运动会相比，本届运动会上的参赛机器人变化不小。清华大学互联网治理研究中心主任李晓东表示：我最直观的感受是，这个机器人确实跑得更快了，动作衔接也更自然了。很多人好奇，机器人在赛场上表现如此亮眼，距离真正大规模走进工厂和家庭，还有多远呢？专家表示，当前，机器人对物理世界的认知和反馈能力存在不足，要想走进我们的日常生活，还有较长距离。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679200586.shtml",
+      "published": "Sun, 23 Aug 2026 23:07:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "WTI原油跌超1%",
+      "summary": "WTI原油跌超1%，现报86.16美元/桶。",
+      "link": "https://news.10jqka.com.cn/20260824/c679200566.shtml",
+      "published": "Sun, 23 Aug 2026 23:06:52 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">美PMI意外强劲</span>，<span style=\"color: #ff0000;\">美股反弹</span>、<span style=\"color: #ff0000;\">纳斯达克100终结五连跌</span>，标普和纳指四周内首次周跌，道指连跌两周；芯片指数回落，英伟达六连跌、全周累跌4.6%；获准在拉斯维加斯提供Robobtaxi服务后，特斯拉涨超5%；<span style=\"color: #ff0000;\">公布个性化mRNA癌症疫苗重大突破当周</span>，<span style=\"color: #ff",
+      "link": "https://wallstreetcn.com/articles/3780045",
+      "published": "Sun, 23 Aug 2026 23:00:08 GMT"
     }
   ]
 }
