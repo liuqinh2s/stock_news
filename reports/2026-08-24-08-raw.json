@@ -1,0 +1,400 @@
+{
+  "date": "2026-08-24",
+  "hour": "08",
+  "total": 56,
+  "fetched_at": "2026-08-24T08:01:00.186354+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "年内A股新上市企业达百家 有96家属于战略性新兴产业 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNaLVJXQkZLNjdNUUVlUUI0Y3A3dWt4WjdpNWg4dWhPR05acEV5NXRkLWN0Q2hNQ3lzNWpLMkFrQ1Q2NnhycFVvZmVEbGlOYjJLbDVYLXljRUlfMzZoUEhrREo1N3ZrWEpJRjRIRWp6TDVzOTdmQU5UTXFSVXpIaENwbnJhelJlbF91SUxIZ2ZFcTFtaXZiN3Rkd2x2WW8zZ3BkQkVCVkFuRVpBUGpXczhZcXc3N2Y4eWdsVjdBV3A0cXV1QTRFUkd4QWlDRjQ?oc=5\" target=\"_blank\">年内A股新上市企业达百家 有96家属于战略性新兴产业</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTNaLVJXQkZLNjdNUUVlUUI0Y3A3dWt4WjdpNWg4dWhPR05acEV5NXRkLWN0Q2hNQ3lzNWpLMkFrQ1Q2NnhycFVvZmVEbGlOYjJLbDVYLXljRUlfMzZoUEhrREo1N3ZrWEpJRjRIRWp6TDVzOTdmQU5UTXFSVXpIaENwbnJhelJlbF91SUxIZ2ZFcTFtaXZiN3Rkd2x2WW8zZ3BkQkVCVkFuRVpBUGpXczhZcXc3N2Y4eWdsVjdBV3A0cXV1QTRFUkd4QWlDRjQ?oc=5",
+      "published": "Sun, 23 Aug 2026 22:52:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股限售股解禁一览：69.39亿元市值限售股今日解禁 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUGppbjg4SVhpeUc5QWg1UDBvQzJwd3JOMUVVMUFYRUJjTlo5QVpCaFJVaGxYV2ZDNUdfX25pVXg5TV9kSlpaQ1I3X3l1N3V0YjZRSFVsSWdRNF8xbGFrTjhyM1MzbkdqMllDREVtdFNqQmlyaVdRMw?oc=5\" target=\"_blank\">A股限售股解禁一览：69.39亿元市值限售股今日解禁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZUGppbjg4SVhpeUc5QWg1UDBvQzJwd3JOMUVVMUFYRUJjTlo5QVpCaFJVaGxYV2ZDNUdfX25pVXg5TV9kSlpaQ1I3X3l1N3V0YjZRSFVsSWdRNF8xbGFrTjhyM1MzbkdqMllDREVtdFNqQmlyaVdRMw?oc=5",
+      "published": "Sun, 23 Aug 2026 23:33:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "美债扰动不改A股中期运行逻辑 券商建议锚定盈利修复主线 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1zMzZPc0FhVXQxc0RwNENtZlBncENzd1IwNjdJQ2pmeVJnMlB6QTlNMjVVWHlCSHp2WVpwblpxUHBtSGU4eEVQdFMxdFYyYUVMa1dvQ2duUXAtVDZxbURPTlY2RXgxZ2MwNVNFZ2pwazllTUpiTl9uZg?oc=5\" target=\"_blank\">美债扰动不改A股中期运行逻辑 券商建议锚定盈利修复主线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zMzZPc0FhVXQxc0RwNENtZlBncENzd1IwNjdJQ2pmeVJnMlB6QTlNMjVVWHlCSHp2WVpwblpxUHBtSGU4eEVQdFMxdFYyYUVMa1dvQ2duUXAtVDZxbURPTlY2RXgxZ2MwNVNFZ2pwazllTUpiTl9uZg?oc=5",
+      "published": "Sun, 23 Aug 2026 23:36:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股限售股解禁一览：69.39亿元市值限售股今日解禁 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9BMXpJM05MbWxRenh4ZEhKRWlzSTZERERMTDY1eGdOa0hRZ1ljOEdlTnAwcURpWU9pRGRyNUNOWmxuMFZKc3BEc09oU1htQVB6c28zaGlaOFhHV1V4NmFYaVNMakdUTk50S2tJUWR4aG1raC11b202ZQ?oc=5\" target=\"_blank\">A股限售股解禁一览：69.39亿元市值限售股今日解禁</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BMXpJM05MbWxRenh4ZEhKRWlzSTZERERMTDY1eGdOa0hRZ1ljOEdlTnAwcURpWU9pRGRyNUNOWmxuMFZKc3BEc09oU1htQVB6c28zaGlaOFhHV1V4NmFYaVNMakdUTk50S2tJUWR4aG1raC11b202ZQ?oc=5",
+      "published": "Sun, 23 Aug 2026 23:33:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1JMkdRQ3ZlMVNxbmREeEtKeVpoQzJFX3RPSXRjcXJkdnRYS3ZtUEp0YzRIOXN2X0I2R0FzNWlydzMxT09kYUd3UnRSX2Z3RmVoajVraFlIWTBhT2FmQTBsN3NjMHJMSHVEejgzNHN3ZjE2RmlFS0JaRA?oc=5\" target=\"_blank\">美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JMkdRQ3ZlMVNxbmREeEtKeVpoQzJFX3RPSXRjcXJkdnRYS3ZtUEp0YzRIOXN2X0I2R0FzNWlydzMxT09kYUd3UnRSX2Z3RmVoajVraFlIWTBhT2FmQTBsN3NjMHJMSHVEejgzNHN3ZjE2RmlFS0JaRA?oc=5",
+      "published": "Sun, 23 Aug 2026 23:01:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "年内A股新上市企业达百家 有96家属于战略性新兴产业 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1TWFZqVXNQNVBpaklRTV9YZjZpdHFQS19YOHctWk9PUmRyUFE3aFdxV1oydzdrZUpST0JkOWFKTWo3ZUN3dFNDVGFNejlQdDRHdGc2amJ5MHl6OTNEQ0VheldIeUl1amlLUmJDLWNnZFNiTXpmVWhyeg?oc=5\" target=\"_blank\">年内A股新上市企业达百家 有96家属于战略性新兴产业</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TWFZqVXNQNVBpaklRTV9YZjZpdHFQS19YOHctWk9PUmRyUFE3aFdxV1oydzdrZUpST0JkOWFKTWo3ZUN3dFNDVGFNejlQdDRHdGc2amJ5MHl6OTNEQ0VheldIeUl1amlLUmJDLWNnZFNiTXpmVWhyeg?oc=5",
+      "published": "Sun, 23 Aug 2026 23:23:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股业绩利好，密集发布 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94UmZOUTdEb1JmMjBMYm5XZFE2X085YWc5TU5MV3RCQ09vUm9DYkJ1cEZmYnhpUEpvMVk5ZjZ3ZDU1ekxKQzgwSGkybzdCRDlVRi1rRGI4empmRFFDV090M2F3UFR1bTlpQk9sNHgyQ1R2aWIzS3hkeg?oc=5\" target=\"_blank\">A股业绩利好，密集发布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94UmZOUTdEb1JmMjBMYm5XZFE2X085YWc5TU5MV3RCQ09vUm9DYkJ1cEZmYnhpUEpvMVk5ZjZ3ZDU1ekxKQzgwSGkybzdCRDlVRi1rRGI4empmRFFDV090M2F3UFR1bTlpQk9sNHgyQ1R2aWIzS3hkeg?oc=5",
+      "published": "Sun, 23 Aug 2026 22:50:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华泰A股策略：布局盈利与筹码的“配置差” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWpoNHZjU2JhMDUweDdkZFJDTXBOTzhNYkk5M0Y2S3Y0SG1FUVlsUDZCd05NdUJsTFFGWFJTeGpoWFlYT0QwbWdmanp4dWd1eG9oOEt3RHgzVTdYNHM4d3h6cGNMQWFyUnRzZElWZ25qd0M4OGNJLWM3bXZ1YlY0eGxLeUtnUnlKVXkyX2tn?oc=5\" target=\"_blank\">华泰A股策略：布局盈利与筹码的“配置差”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdWpoNHZjU2JhMDUweDdkZFJDTXBOTzhNYkk5M0Y2S3Y0SG1FUVlsUDZCd05NdUJsTFFGWFJTeGpoWFlYT0QwbWdmanp4dWd1eG9oOEt3RHgzVTdYNHM4d3h6cGNMQWFyUnRzZElWZ25qd0M4OGNJLWM3bXZ1YlY0eGxLeUtnUnlKVXkyX2tn?oc=5",
+      "published": "Sun, 23 Aug 2026 23:41:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "广发金工 | 最新AI识图关注物流、交通运输、消费：A股量化择时研究报告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWNyakttdXlQMUtyX2MySUlldUZyVEZSYzJYNFRDZUtiQkI3YjBSQUtmeTNXZ1pmemJTV0Jma3pJM2hab2RESFVXT2NmQ2F6RVZiRWVhRUZ5TC1MdDFzb3JiS0tma0FOZ1VINTJmU2RRdmdVUlhJZUJKWHEzT2tCTjFnZmNEUQ?oc=5\" target=\"_blank\">广发金工 | 最新AI识图关注物流、交通运输、消费：A股量化择时研究报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWNyakttdXlQMUtyX2MySUlldUZyVEZSYzJYNFRDZUtiQkI3YjBSQUtmeTNXZ1pmemJTV0Jma3pJM2hab2RESFVXT2NmQ2F6RVZiRWVhRUZ5TC1MdDFzb3JiS0tma0FOZ1VINTJmU2RRdmdVUlhJZUJKWHEzT2tCTjFnZmNEUQ?oc=5",
+      "published": "Sun, 23 Aug 2026 23:05:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华泰证券A股策略：布局盈利与筹码的“配置差” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0FMU2pMVzZ6Q0tWZm9SYTZaRVJwTThBVkZVenlRaHNxeUVheUYwcUc4Slhic1JkRjN5M1FYV1I3RGVUYjNPRGJ1dFNtbjRMVHhkbkd1NUVvMGFxdHNtY0RtNUdOZG81RnBiM3d6OU1Tc2toQlUwT19UVjZacXJneg?oc=5\" target=\"_blank\">华泰证券A股策略：布局盈利与筹码的“配置差”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0FMU2pMVzZ6Q0tWZm9SYTZaRVJwTThBVkZVenlRaHNxeUVheUYwcUc4Slhic1JkRjN5M1FYV1I3RGVUYjNPRGJ1dFNtbjRMVHhkbkd1NUVvMGFxdHNtY0RtNUdOZG81RnBiM3d6OU1Tc2toQlUwT19UVjZacXJneg?oc=5",
+      "published": "Sun, 23 Aug 2026 23:48:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "半年报业绩成调研“发令枪” 券商锚定主线布局下半场 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRW51aG9yU1FUc0xQakt0Y3ZEeHZvTVIyaWcwYVA1TFZiVUozX2JOeUt2UnZGQm5PWHpEclVLdDc0NUVLVnFCbHhwT1hKOTRLekM4aGtJVERDUGFFdXFtNGNIcDJDVFRvcnRfSFdobUdmWVhzWVdlZw?oc=5\" target=\"_blank\">半年报业绩成调研“发令枪” 券商锚定主线布局下半场</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SRW51aG9yU1FUc0xQakt0Y3ZEeHZvTVIyaWcwYVA1TFZiVUozX2JOeUt2UnZGQm5PWHpEclVLdDc0NUVLVnFCbHhwT1hKOTRLekM4aGtJVERDUGFFdXFtNGNIcDJDVFRvcnRfSFdobUdmWVhzWVdlZw?oc=5",
+      "published": "Sun, 23 Aug 2026 23:35:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONUg5dDB5Z1JjYnBrT1NOTERMRElwdXRXeFM3dWtDenpoSnZiQlNVaGRXazNQWTFRN0NDdWVQRENOc2J2bUNqRTJDN296Z2JrVEdISWtlaG0zZGt3ZFZvTEJ2WG5NS2oycGZwSTRTeXVMX3VvbXA1SllvMl9MdnRyVnFfOEdOeTctZ1kwaFAyVGhTMFVEajhBVUpQbFpMZ3llRFZSdA?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUg5dDB5Z1JjYnBrT1NOTERMRElwdXRXeFM3dWtDenpoSnZiQlNVaGRXazNQWTFRN0NDdWVQRENOc2J2bUNqRTJDN296Z2JrVEdISWtlaG0zZGt3ZFZvTEJ2WG5NS2oycGZwSTRTeXVMX3VvbXA1SllvMl9MdnRyVnFfOEdOeTctZ1kwaFAyVGhTMFVEajhBVUpQbFpMZ3llRFZSdA?oc=5",
+      "published": "Sun, 23 Aug 2026 23:49:30 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGQyc0d0dWpiRF9JSmxsTWxWSGJPU2xUWG16a3pYWDdFMmZVbWtWbE42cmFmQ0FWTmtMdmxKOFJSaXdKTkQwRTllWkpjTE84c08wc2RneXJRcnNFeFhGa1VqZmE2T1Q0emVUcUpTYTc3SGJiZmlCNVYySjZ2c2dBTEJlMThiek5ObUIzWVlPZEFGazA2TFlV?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGQyc0d0dWpiRF9JSmxsTWxWSGJPU2xUWG16a3pYWDdFMmZVbWtWbE42cmFmQ0FWTmtMdmxKOFJSaXdKTkQwRTllWkpjTE84c08wc2RneXJRcnNFeFhGa1VqZmE2T1Q0emVUcUpTYTc3SGJiZmlCNVYySjZ2c2dBTEJlMThiek5ObUIzWVlPZEFGazA2TFlV?oc=5",
+      "published": "Sun, 23 Aug 2026 23:35:31 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "华泰证券：继续关注摊余成本债基重启带来的结构机会 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTajJGZjY5VGtub0FqU0JwMUNZZEJyMDFtVEdWbGZmUk9XTUVZWEhVLTdHZ3IzNC1WUXlwRGRvX2p0clRSb1N6eGhtdjJvVlRKbnFvQ1lZOTFnYm1MYll4Rg?oc=5\" target=\"_blank\">华泰证券：继续关注摊余成本债基重启带来的结构机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTajJGZjY5VGtub0FqU0JwMUNZZEJyMDFtVEdWbGZmUk9XTUVZWEhVLTdHZ3IzNC1WUXlwRGRvX2p0clRSb1N6eGhtdjJvVlRKbnFvQ1lZOTFnYm1MYll4Rg?oc=5",
+      "published": "Sun, 23 Aug 2026 23:51:25 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "245468:关于适用简化程序召开民生证券股份有限公司2026年面向专业投资者公开发行公司债券(第二期)2026年第一次债券持有人会议的通知 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9YcWxiN3RlTnJWMHdENGxEaXQzRUNBODhvMmlJam45c2h0U3ppUWxKNlgzd2d4OEdDZnVCR3F2VTVVTXdUM3lmZnJqUF9fR1JmdGVFaTY3clRCRFAwdFgtalk1RlBHYWd6MEFZUzRHX2g4U2lINHlKMUZaMWd6dw?oc=5\" target=\"_blank\">245468:关于适用简化程序召开民生证券股份有限公司2026年面向专业投资者公开发行公司债券(第二期)2026年第一次债券持有人会议的通知</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YcWxiN3RlTnJWMHdENGxEaXQzRUNBODhvMmlJam45c2h0U3ppUWxKNlgzd2d4OEdDZnVCR3F2VTVVTXdUM3lmZnJqUF9fR1JmdGVFaTY3clRCRFAwdFgtalk1RlBHYWd6MEFZUzRHX2g4U2lINHlKMUZaMWd6dw?oc=5",
+      "published": "Sun, 23 Aug 2026 23:42:24 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股市必读：博通股份新发布《博通股份关于收到中国证券监督管理委员会陕西监管局《行政监管措施决定书》的公告》 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9EX0VjMXdqUkhSRDRJYWhDNGdob05ycGNQdUQ4M29mcDZaUC1hblB3Y2VOa3lqNlV5RDVrQUJ3aWc2bEZvbXZDdFdrLUZGZUJCdTFhZUJSUEJHbEZubmNOZURsaU1uUGtMR19F?oc=5\" target=\"_blank\">股市必读：博通股份新发布《博通股份关于收到中国证券监督管理委员会陕西监管局《行政监管措施决定书》的公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EX0VjMXdqUkhSRDRJYWhDNGdob05ycGNQdUQ4M29mcDZaUC1hblB3Y2VOa3lqNlV5RDVrQUJ3aWc2bEZvbXZDdFdrLUZGZUJCdTFhZUJSUEJHbEZubmNOZURsaU1uUGtMR19F?oc=5",
+      "published": "Sun, 23 Aug 2026 22:46:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "期货早报： 美对加突征50%关税 黄金一周涨5%创阶段新高",
+      "summary": "期货早报：又搞事情！美对部分加拿大商品加征50%关税即日生效；特朗普称不放弃对伊朗军事选项，万斯称战事“进入新阶段”；金油一起飙升，COMEX黄金、美油周涨5%；上期所发布风险控制通知；详情&gt;&gt;&gt;",
+      "link": "https://news.10jqka.com.cn/20260824/c679203034.shtml",
+      "published": "Sun, 23 Aug 2026 23:58:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国内市场潜力巨大出海空间广 生物医药估值还有提升空间",
+      "summary": "“三五年内，沪市生物医药行业的估值还有提升空间。”在近日举行的一场沪市生物医药行业沙龙中，富国基金权益研究部行业研究员杨波说。近两个月来，医药股迎来一波行情。以全指医药(000991)为例，该指数自6月22日以来累计涨幅达15.64%。创新药当前估值是否充分反映未来三五年预期？杨波认为答案是否定的。在杨波看来，国内市场潜力巨大，未来不排除大单品涌现；出海方面，市场也显著低估了BD（商务拓展）带来的确定性现金流。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679202907.shtml",
+      "published": "Sun, 23 Aug 2026 23:55:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "公募基金上半年经营数据陆续揭晓：头部公司利润领先 中型公司剧烈洗牌",
+      "summary": "随着上市公司2026年半年报陆续披露，部分基金公司的经营业绩相继揭晓。据统计，已披露经营数据的21家基金公司（包括有公募牌照的券商资管机构）中，20家实现盈利。整体来看，在公募行业费率改革深入推进、权益市场结构性行情延续等背景下，头部公司凭借多元产品线和规模优势保持利润领先，彼此间的差距极为有限，竞争仍然激烈。中型公司方面，部分机构凭借股东资源或特色策略实现弯道超车，排名剧烈洗牌。中小公募则业绩分化显著，部分机构存在亏损情况。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679202826.shtml",
+      "published": "Sun, 23 Aug 2026 23:53:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "多家头部公募上半年净利超过10亿元 行业格局持续分化",
+      "summary": "随着上市公司半年报的陆续披露，其控股参股的基金公司的最新经营情况随之浮出水面。截至8月23日，从被动披露的19家基金公司来看，今年上半年营收全部实现增长，净利润有18家实现增长，剩余1家也实现了减亏。就发展情况而言，行业“马太效应”凸显，头部公募强者恒强，凭借多元化打法发展势头迅猛，多家公司上半年净利润超过10亿元。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679202504.shtml",
+      "published": "Sun, 23 Aug 2026 23:47:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "百亿级私募持仓新动向曝光：电子板块不再“一枝独秀” 均衡布局成为共识",
+      "summary": "在上市公司半年度业绩密集披露下，百亿级私募下半年“打法”曝光。据私募排排网数据，截至8月21日，共有27家百亿级私募出现在已披露半年报的上市公司前十大流通股股东名单中，相较于一季度末新进和增持超过30只标的。值得注意的是，百亿级私募持仓呈现两大趋势：一方面，绩优股获得诸多知名基金经理加仓；另一方面，机构持仓不再集中于电子板块，而是分布在有色、生物医药、机械制造等行业。业内人士表示，市场抱团资金瓦解后，企业盈利将成为后续市场重要的投资线索。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679202018.shtml",
+      "published": "Sun, 23 Aug 2026 23:37:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "半年报业绩成调研“发令枪” 券商锚定主线布局下半场",
+      "summary": "随着A股半年报进入集中披露窗口期，上市公司经营成绩单成为券商机构调研的“发令枪”。数据显示，近一个月内（7月23日至8月23日），137家券商累计调研402家A股上市公司。记者梳理发现，获调研企业大多具备扎实基本面与清晰的技术落地场景，调研过程中券商围绕业绩持续性、产能扩张、成果转化等关键问题深挖企业长期价值。调研热潮背后，新一轮投资主线或逐步明晰。机构认为，A股部分行业估值依然具备配置吸引力，财报季或将是下半年最好的配置窗口。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679201953.shtml",
+      "published": "Sun, 23 Aug 2026 23:35:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“精准滴灌”提振消费 多家银行积极响应信用卡分期贴息",
+      "summary": "为深入贯彻落实扩内需、促消费的国家战略，财政部、中国人民银行、金融监管总局近日联合印发《关于进一步做好财政金融协同促内需政策有关工作的通知》，将单人在同家银行累计年贴息上限提至5000元，贴息范围扩展至“信用卡专项分期、消费分期、预借现金分期等新发生信用卡各类分期业务”。政策发布后，各家银行迅速响应，第一时间发布操作细则与客户问答。业内人士分析认为，信用卡凭借其庞大的持卡用户基础、覆盖全国的合作商户网络以及便捷的线上办理体验，正成为财政贴息政策“精准滴灌”消费端的关键金融工具，有望对家电家装、汽车消费、文旅出行等大宗消费领域产生提振效应。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679201893.shtml",
+      "published": "Sun, 23 Aug 2026 23:34:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中际旭创：2027年公司整体毛利率有望迎来更大提升空间",
+      "summary": "中际旭创8月23日在电话会议上表示，2027年2.4T、NPO、XPO等新产品有望逐步上量，这些产品具有高带宽、定制化的特点，毛利率有望优于现有产品，公司整体毛利率有望迎来更大的提升空间。公司的毛利率提升一方面靠BOM成本和良率的改善，另一方面更重要的是靠新产品对整体产品结构的改善和毛利率的拉动，有望在2027年看到相应变化。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679201714.shtml",
+      "published": "Sun, 23 Aug 2026 23:30:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中际旭创：预计NPO将成为行业客户普遍接受的光互连方案",
+      "summary": "中际旭创8月23日在电话会议上表示，预计NPO将成为行业客户普遍接受的光互连方案，主要用于scale-up场景，具有易维护、低成本、稳定性和可靠性强等方面的优势，且能充分发挥光模块的成熟工艺优势。现阶段很多客户在积极交流NPO方案，部分客户已给到明确需求指引和订单，2027年有望实现出货，预计更多客户会在2028年上NPO。公司正在与客户积极沟通，并根据客户要求进行定制化开发。随着带宽的不断提升，NPO有望成为scale-up的光互连解决方案之一。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679201677.shtml",
+      "published": "Sun, 23 Aug 2026 23:30:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中际旭创：公司产品价格降幅相对理性 并非市场传言的剧烈下降",
+      "summary": "中际旭创8月23日在电话会议上表示，物料供给目前比较紧张，主要由于下游需求增长太快，上游扩产速度偏慢。部分物料确实出现涨价，但公司供应量较大的产品涨价幅度并不大，主要是因为公司已锁定较强合约，订单量也较大，拿到的价格较有优势。在后续客户交付上，公司的产品价格降幅相对理性，并非市场传言的剧烈下降。整体而言，公司通过技术手段（包括硅光比例和良率提升）、2027年新产品放量等方式，均有利于把控成本，进一步提高整体毛利率水平。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679201577.shtml",
+      "published": "Sun, 23 Aug 2026 23:28:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中际旭创：2027年1.6T和800G的订单需求相较2026年仍保持快速增长",
+      "summary": "中际旭创8月23日在电话会议上表示，目前主要客户已给出2027年的指引和订单，2027年1.6T和800G的订单需求相较2026年仍保持快速增长。新产品如2.4T、NPO、XPO等将适用于scale-out、scale-up等应用场景。根据大客户定制要求，公司正在积极开发或送样，新产品有望于2027年下半年量产，2028年有望实现更大规模出货。公司也在积极建设新产能，做好光芯片、电芯片、PCB等核心物料的准备，为2027年更大规模上量做好准备。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679201554.shtml",
+      "published": "Sun, 23 Aug 2026 23:27:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "挪威国王哈拉尔五世因病住院 王储哈康代行元首职责",
+      "summary": "挪威王室23日发表声明说，挪威国王哈拉尔五世近日因病住院，在其病休期间，王储哈康临时摄政，代行国家元首职责。声明说，现年89岁的哈拉尔五世17日健康情况恶化，因血液细菌感染住院接受抗生素治疗，目前病情稳定。哈拉尔五世于1991年1月继承王位。近年来，他曾因健康问题多次住院。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260824/c679201238.shtml",
+      "published": "Sun, 23 Aug 2026 23:21:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "阿里巴巴：按配售价112.70港元每股配售7.1亿股新股份 预计配售所得款项总额为800亿港元",
+      "summary": "阿里巴巴在港交所公告，董事会欣然宣布，于2026年8月23日，公司与联席整体协调人（为其自身并代表共同簿记管理人）订立配售协议，据此，公司同意委任联席整体协调人及共同簿记管理人处理有关配售事宜，而联席整体协调人已同意担任公司代理，以促使不少于六名承配人（为美国境外之非美国人士的专业、机构或其他投资者），按配售价112.70港元每股配售股份认购710,000,000股新股份。预计配售将于2026年8月26日完成，唯须符合惯常完成条件。假设配售股份总数已全部配售予承配人，预计配售所得款项总额将为800亿港元，而配售所得款项净额（扣除配售佣金及预计开支后）约为797亿港元。",
+      "link": "https://news.10jqka.com.cn/20260824/c679201063.shtml",
+      "published": "Sun, 23 Aug 2026 23:17:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "机器人性能持续提升 专家：但离走进生活还有距离",
+      "summary": "第二届世界人形机器人运动会正在北京国家速滑馆“冰丝带”举行。与上届运动会相比，本届运动会上的参赛机器人变化不小。清华大学互联网治理研究中心主任李晓东表示：我最直观的感受是，这个机器人确实跑得更快了，动作衔接也更自然了。很多人好奇，机器人在赛场上表现如此亮眼，距离真正大规模走进工厂和家庭，还有多远呢？专家表示，当前，机器人对物理世界的认知和反馈能力存在不足，要想走进我们的日常生活，还有较长距离。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260824/c679200586.shtml",
+      "published": "Sun, 23 Aug 2026 23:07:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "WTI原油跌超1%",
+      "summary": "WTI原油跌超1%，现报86.16美元/桶。",
+      "link": "https://news.10jqka.com.cn/20260824/c679200566.shtml",
+      "published": "Sun, 23 Aug 2026 23:06:52 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "郑州拟出台公积金新政 可用于支付物业费、取暖费、车位费",
+      "summary": "【郑州拟出台公积金新政 可用于支付物业费、取暖费、车位费】财联社8月24日电，郑州住房公积金管理中心日前发布《关于优化调整住房公积金提取政策的通知（征求意见稿）》，向社会公开征求意见。记者了解到，本次政策优化主要包含两大核心内容，一是拓宽住房公积金提取适用范围，新增多项居住配套费用提取事项；二是优化自住住房购房提取规则，放宽提取限制性条件。具体内容提到，明确缴存职工本人及配偶，可依规提取住房公积金，用于支付郑州市行政区域内自住住房的物业费、取暖费及车位管理费。政策限定职工家庭仅可选定一套自住住房作为提取依据，每年仅可办理一次提取业务，年度提取额度不累计、不结转。其中，物业费、取暖费根据住房不动产权登记建筑面积分档设定年度提取限额，车位管理费实行全市统一家庭年度提取限额标准。 (大河财立方)",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:52:26 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国药控股：上半年归母净利润34.04亿元 同比下降1.80%",
+      "summary": "【国药控股：上半年归母净利润34.04亿元 同比下降1.80%】财联社8月24日电，国药控股在港交所公告，2026年上半年营收2828亿元，同比下降1.10%；归属于母公司持有者的溢利34.04亿元，同比下降1.80%；基本每股盈利1.09元。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:46:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "梅卡曼德：拟在香港IPO中筹集至多23.5亿港元",
+      "summary": "【梅卡曼德：拟在香港IPO中筹集至多23.5亿港元】财联社8月24日电，根据香港交易所公告，梅卡曼德（雄安）机器人科技股份有限公司将在香港上市中发售2300万股股票，发行价格区间为每股95.30港元至101.70港元。梅卡曼德计划筹集至多23.5亿港元（3亿美元）；预计将于9月1日开始挂牌交易。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:44:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "今日申购指南及新股定位分析",
+      "summary": "【今日申购指南及新股定位分析】财联社8月24日电，今日有1只新股申购，为北交所的华汇智能；无新股上市。华汇智能是一家专业从事纳米砂磨机等智能装备及其关键部件的研发、设计、生产和销售的高新技术企业。<br /><img src=\"https://image.cls.cn/images/20260824/Ll9x0Y10dX_1313x1788.png\" />",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:40:40 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "人民日报钟才文：我国经济长期向好的支撑条件和基本趋势没有改变，宏观政策工具箱充足，逆周期调节空间依然较大",
+      "summary": "【人民日报钟才文：我国经济长期向好的支撑条件和基本趋势没有改变，宏观政策工具箱充足，逆周期调节空间依然较大】财联社8月24日电，人民日报钟才文文章指出，展望未来，4.7%是富有后劲的经济增速。我国经济发展具有广阔回旋空间、巨大市场潜力和强大韧性活力。增长有潜力。随着研发投入持续加码，我国原始创新能力日益增强，科技创新和产业创新深度融合，创新驱动正在成为中国经济增长的强大引擎。我国人才存量规模全球领先，人力资本稳步从数量红利转向质量红利，数据、算力等新生产要素持续赋能传统要素，共同支撑经济高质量发展。改革有红利。我们注重用改革办法破解发展难题，经济内生动力在不断增强。全国统一大市场建设向纵深推进，地方违规招商引资、市场准入壁垒、招标投标等领域突出问题正在得到整治，将拓展我国市场广度和深度，进一步释放超大规模市场潜力。继续综合整治“内卷式”竞争，将塑造更加良性的市场环境，倒逼企业摆脱对价格单一维度的竞争，加快从规模扩张、价格竞争转向质量提升、价值竞争。政策有空间。相比于部分经济体依靠高债务、高赤字刺激经济，我国没有走过度依赖政策强刺激的路子，总量政策保持积极有为，结构政策“点穴”发力，避免",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:39:24 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "投资日历：周一资本市场大事提醒",
+      "summary": "【投资日历：周一资本市场大事提醒】\n①今日共有1只新股申购，为华汇智能。\n②2026文昌国际航空航天论坛将于8月24日至26日在海南文昌举办。\n③首届“钙钛矿+X”叠层光伏产业发展大会将于8月24日至25日举办。\n④新能源汽车电池安全风险与保障机制将于8月24日召开。\n⑤2026铜复合材料开发者论坛将于8月24日举办。\n⑥美国农业部：自8月24日起，美国农业部将开放亚利桑那州道格拉斯入境口岸，用于牛只贸易。\n⑦新易盛、立讯精密、万华化学等股将披露2026年中报。\n⑧今日将公布美国7月芝加哥联储全国活动指数等数据。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:39:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【点金互动易】磷化铟+CPO，这家公司深耕Ⅲ-Ⅴ族半导体全链条，参股公司磷化铟衬底已稳定量产，且自研MicroLED器件可用于CPO短距光互联",
+      "summary": "",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:38:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "A股限售股解禁一览：69.39亿元市值限售股今日解禁",
+      "summary": "【A股限售股解禁一览：69.39亿元市值限售股今日解禁】财联社8月24日电，Wind数据显示，周一（8月24日），共有8家公司限售股解禁，合计解禁量为3.15亿股，按最新收盘价计算，合计解禁市值为69.39亿元。从解禁量来看，真兰仪表、和泰机电、乔路铭解禁量居前，解禁股数分别为2.12亿股、4324.55万股、2760.11万股。从解禁市值来看，真兰仪表、和泰机电、波长光电解禁市值居前，解禁市值分别为29.76亿元、20.29亿元、11.07亿元。从解禁股数占总股本比例来看，和泰机电、真兰仪表、波长光电解禁比例居前，解禁比例分别为65.95%、51.96%、12.46%。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:32:41 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月24日电，WTI原油期货跌幅扩大至1%，报86.19美元/桶。",
+      "summary": "财联社8月24日电，WTI原油期货跌幅扩大至1%，报86.19美元/桶。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:05:32 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【研选•研报数据】折叠屏与高端化是当前消费电子最明确的增量方向；公司依托桌面终端、会议产品及云办公终端三大主业，通过高端新品放量、渠道深耕和全球化布局...",
+      "summary": "",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:04:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中央气象台继续发布台风蓝色预警",
+      "summary": "【中央气象台继续发布台风蓝色预警】财联社8月24日电，中央气象台8月24日06时继续发布台风蓝色预警：今年第19号台风“紫檀”（热带风暴级）的中心今天（24日）早晨5点钟位于广西北海市西偏南方向约185公里的北部湾海面上，就是北纬20.5度、东经107.7度，中心附近最大风力有9级（23米/秒），中心最低气压为990百帕，七级风圈半径100-150公里。预计，“紫檀”将先在北部湾海面回旋少动，强度还将有所加强，最强可达强热带风暴级（10级，25-28米/秒），24日夜间起，将以每小时5-10公里的速度向偏东转向偏北方向移动，逐渐向广西沿海至广东雷州半岛西侧一带沿海靠近。另外，今年第20号台风“简拉维”已于昨天（23日）晚上11点钟在台湾海峡内减弱为热带低压，有可能于今天白天在福建近海减弱消散。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:02:16 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月24日电，希音的香港IPO定价区间为47.6港元-49.5港元，预计将于9月1日开始交易。",
+      "summary": "财联社8月24日电，希音的香港IPO定价区间为47.6港元-49.5港元，预计将于9月1日开始交易。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:01:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "中央气象台继续发布暴雨黄色预警",
+      "summary": "【中央气象台继续发布暴雨黄色预警】财联社8月24日电，中央气象台8月24日06时继续发布暴雨黄色预警：预计，8月24日08时至25日08时，浙江东南部、福建东部和中南部、广东东部和北部、台湾岛、海南岛西部、江西东部和西南部、湖南中部、湖北西部、云南西部以及辽宁东部、吉林东南部、黑龙江西部等地部分地区有大到暴雨，其中，浙江东南部、福建东部沿海、广东北部、台湾岛大部及辽宁东部等地部分地区有大暴雨，台湾岛局地有特大暴雨(250～300毫米）。上述部分地区伴有短时强降水（最大小时降雨量20～50毫米，局地可超过80毫米），局地有雷暴大风等强对流天气。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 23:00:57 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "新型电子皮肤大幅提升温度与压力感知能力",
+      "summary": "【新型电子皮肤大幅提升温度与压力感知能力】财联社8月24日电，美国华盛顿州立大学科学家研制出一款配备传感系统的电子皮肤，其感知压力和温度的精细度比现有商业手套传感器高出10倍。这项成果有望帮助安装义肢的人获得更真实的触感，从而显著提升完成精细任务的能力。相关论文发表于新一期《细胞报告物理科学》杂志。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 22:59:21 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "AI智能体能自主生成并运行量子计算代码",
+      "summary": "【AI智能体能自主生成并运行量子计算代码】财联社8月24日电，氛围编程（Vibe Coding）正从传统软件开发进入量子计算领域。据英国《自然》杂志日前消息，法国量子计算初创企业Pasqal研究人员开发出一种人工智能（AI）智能体，能根据英文自然语言指令生成量子计算代码，并自动在真实量子计算机上运行。研究人员表示，这种量子氛围编程有望降低量子计算实验的技术门槛，让更多人能够开展量子计算研究。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 22:58:42 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "真空在极端磁场中会改变光传播方式据",
+      "summary": "【真空在极端磁场中会改变光传播方式据】财联社8月24日电，最新一期英国《自然》杂志报道，天文学家首次利用天然极端磁场，即对磁星信号的观测研究，为90年前德国物理学家海森堡作出的量子电动力学预言提供了迄今最有力的证据：看似空无一物的真空，在极端磁场中会改变光的传播方式，产生“真空双折射”效应。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 22:58:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "英伟达客户已收到AI相关产品会涨价超过15%的通知",
+      "summary": "【英伟达客户已收到AI相关产品会涨价超过15%的通知】财联社8月24日电，据报道，英伟达最大客户中的一些已被告知，由于内存芯片成本飙升，搭载英伟达AI芯片的服务器很多会涨价逾15%。据知情人士透露，此轮涨价适用于明年年初交付的系统，受影响的包括搭载旗舰级Vera Rubin和Grace Blackwell芯片的系统。他们表示，具体涨幅将取决于英伟达芯片是哪一代产品以及内存配置。他们称，为微软、Alphabet旗下谷歌和甲骨文等大型数据中心运营商代工组装服务器的厂商，近期已通知客户上述涨价事宜。",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 22:56:56 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "百亿级私募持仓新动向曝光：电子板块不再“一枝独秀” 均衡布局成为共识",
+      "summary": "【百亿级私募持仓新动向曝光：电子板块不再“一枝独秀” 均衡布局成为共识】财联社8月24日电，在上市公司半年度业绩密集披露下，百亿级私募下半年“打法”曝光。据私募排排网数据，截至8月21日，共有27家百亿级私募出现在已披露半年报的上市公司前十大流通股股东名单中，相较于一季度末新进和增持超过30只标的。值得注意的是，百亿级私募持仓呈现两大趋势：一方面，绩优股获得诸多知名基金经理加仓；另一方面，机构持仓不再集中于电子板块，而是分布在有色、生物医药、机械制造等行业。业内人士表示，市场抱团资金瓦解后，企业盈利将成为后续市场重要的投资线索。 (上证报)",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 22:43:48 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "半年报业绩成调研“发令枪” 券商锚定主线布局下半场",
+      "summary": "【半年报业绩成调研“发令枪” 券商锚定主线布局下半场】财联社8月24日电，随着A股半年报进入集中披露窗口期，上市公司经营成绩单成为券商机构调研的“发令枪”。数据显示，近一个月内（7月23日至8月23日），137家券商累计调研402家A股上市公司。上海证券报记者梳理发现，获调研企业大多具备扎实基本面与清晰的技术落地场景，调研过程中券商围绕业绩持续性、产能扩张、成果转化等关键问题深挖企业长期价值。 (上证报)",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 22:41:50 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美债扰动不改A股中期运行逻辑 券商建议锚定盈利修复主线",
+      "summary": "【美债扰动不改A股中期运行逻辑 券商建议锚定盈利修复主线】财联社8月24日电，过去一周，美债长端利率快速上行，成为压制市场风险偏好的核心变量。其中，成长风格受到的影响尤为显著。券商策略展望报告认为，短期来看，市场或仍受海外波动、筹码结构扰动而出现震荡反复，但外部冲击并未改变A股中期运行的核心逻辑，后续随着国内政策效果逐步显现、企业盈利持续修复，反弹行情有望延续。 (上证报)",
+      "link": "",
+      "published": "Sun, 23 Aug 2026 22:40:59 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "人民日报钟才文：我国宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策",
+      "summary": "<p>文章指出，相比于部分经济体依靠高债务、高赤字刺激经济，我国没有走过度依赖政策强刺激的路子，总量政策保持积极有为，结构政策“点穴”发力，避免形成政策“依赖症”。总的看，我国经济长期向好的支撑条件和基本趋势没有改变，宏观政策工具箱充足，逆周期调节空间依然较大，有条件根据形势变化出台务实管用的增量政策，有能力实现全年经济社会发展目标任务。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3780104",
+      "published": "Sun, 23 Aug 2026 23:47:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "8月24日会员早报：美加贸易战全面升级 周一特朗普将对伊朗打响“经济诺曼底”",
+      "summary": "<p style=\"text-align: left;\">1、【美加贸易战全面升级】周五深夜，美加两国长达数日的密集谈判以破裂收场，一道酝酿了一个多月的关税随之在午夜准时落地。当地时间8月22日凌晨零点刚过，美国对约200亿美元加拿大输美商品加征的50%关税正式生效，覆盖葡萄酒、家具、乳制品、水泥、服装、鱼竿乃至冰球装备——几乎清一色是辨识度高、政治意味浓的消费品。卡尼给出的回应是“美元对美元”——美国加征多少，加拿大就对等还击多少。反制关税定于9月8日生效，锁定钢铁、乳制品、家电、农业机械、纸浆造纸和电子产品等美国出口部门，具体清单将在未来几天公布。他把这称为一次“聚焦式回应”。</p><p style=\"text-align: left;\">2、【周一特朗普将对伊朗打响“经济诺曼底”】特朗普在Truth Social上用一连串大写字母，宣布要对伊朗发动“史上最具毁灭性的经济行动”，还给它起了个名字——“经济诺曼底”（Economic D-Day）。真正扎人的不是又一轮制裁本身，而是他这次把矛头对准了第三国：任何国家，只要允许本国金融机构、企业、机场或政府部门给伊朗“提供任何形式的输",
+      "link": "https://wallstreetcn.com/member/articles/3780100",
+      "published": "Sun, 23 Aug 2026 23:10:17 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年8月24日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>市场概述</h2>\n<p><span style=\"color: #ff0000;\">美PMI意外强劲</span>，<span style=\"color: #ff0000;\">美股反弹</span>、<span style=\"color: #ff0000;\">纳斯达克100终结五连跌</span>，标普和纳指四周内首次周跌，道指连跌两周；芯片指数回落，英伟达六连跌、全周累跌4.6%；获准在拉斯维加斯提供Robobtaxi服务后，特斯拉涨超5%；<span style=\"color: #ff0000;\">公布个性化mRNA癌症疫苗重大突破当周</span>，<span style=\"color: #ff",
+      "link": "https://wallstreetcn.com/articles/3780045",
+      "published": "Sun, 23 Aug 2026 23:00:08 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "四大证券报头版头条内容精华摘要_2026年8月24日_财经新闻 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE1MVl9YV1VjWXZzelpCaTI1RzloM0txdVVsZ1NtYUVaRFVkSGxyUWhQek9RTDVWU01LZ3J2TlBLUjBtNXhpaXNHeDBUNmdwVDBycDRIREozaVpGMUwzUk5oT09aeElManZicncxNHZmUHFrODNkT0RrSk4yMDQ0cndJZlJaSVU?oc=5\" target=\"_blank\">四大证券报头版头条内容精华摘要_2026年8月24日_财经新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE1MVl9YV1VjWXZzelpCaTI1RzloM0txdVVsZ1NtYUVaRFVkSGxyUWhQek9RTDVWU01LZ3J2TlBLUjBtNXhpaXNHeDBUNmdwVDBycDRIREozaVpGMUwzUk5oT09aeElManZicncxNHZmUHFrODNkT0RrSk4yMDQ0cndJZlJaSVU?oc=5",
+      "published": "Sun, 23 Aug 2026 23:42:51 GMT"
+    },
+    {
+      "source": "新股IPO",
+      "title": "年内A股新上市企业达百家 有96家属于战略性新兴产业 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5fWjRwWW1Lc0pyNWNtYkQzZEZJQlNNNlRmQ2tfem5wTHY0djd3dTItbWZBSXh4M0dIUERMWHU0UlI2SlJLSE9senM5VGd1NXBXUkZROVhLRkgyZGNZMXhLb2U4RzZCek1ucDYtcC1Cdk0xNUdNcWZ1LQ?oc=5\" target=\"_blank\">年内A股新上市企业达百家 有96家属于战略性新兴产业</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fWjRwWW1Lc0pyNWNtYkQzZEZJQlNNNlRmQ2tfem5wTHY0djd3dTItbWZBSXh4M0dIUERMWHU0UlI2SlJLSE9senM5VGd1NXBXUkZROVhLRkgyZGNZMXhLb2U4RzZCek1ucDYtcC1Cdk0xNUdNcWZ1LQ?oc=5",
+      "published": "Sun, 23 Aug 2026 23:37:30 GMT"
+    }
+  ]
+}
