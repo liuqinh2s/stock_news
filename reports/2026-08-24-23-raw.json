@@ -1,15 +1,78 @@
 {
   "date": "2026-08-24",
   "hour": "23",
-  "total": 42,
-  "fetched_at": "2026-08-24T23:01:06.223583+08:00",
+  "total": 69,
+  "fetched_at": "2026-08-24T23:27:54.079559+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "A股2只银行股，今日创历史新高 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5HWXpOVk5PdnFHZ1RxdzNMSXNvbGNzQXZfZlpPWGFhaHdrbjRXMm5ma0tFNll1V3FFU3E3b0s5eEdNQjFlNmFHendBR0hLTjA3SWZRUlpLWk8yS3VWc0xydDhod09JVW5YVENiQ1JWd3VoeWNpTHY3SA?oc=5\" target=\"_blank\">A股2只银行股，今日创历史新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HWXpOVk5PdnFHZ1RxdzNMSXNvbGNzQXZfZlpPWGFhaHdrbjRXMm5ma0tFNll1V3FFU3E3b0s5eEdNQjFlNmFHendBR0hLTjA3SWZRUlpLWk8yS3VWc0xydDhod09JVW5YVENiQ1JWd3VoeWNpTHY3SA?oc=5",
-      "published": "Mon, 24 Aug 2026 13:06:00 GMT"
+      "title": "美力科技A股股东户数减少85户降幅0.50%，流通A股户均持股8694.04股增幅0.50%，户均持股市值19.7万元降幅5.90% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNV296cVFPY0MyQnljNmQxaFJWUGdyUTRfbE5tUnlLUjFfWkc1OGYyNGNRR0UtUHVkMFlYTmJtZjV2MzNCSGxwM3NaMHp4NjFmei1ybEJidUVhMElRM29VcVBVcE1pX0pWcUlyRm43cVhZdjVvYWY4TFZqbEVRNkdBS1U4WjlQVVpiYmd5OA?oc=5\" target=\"_blank\">美力科技A股股东户数减少85户降幅0.50%，流通A股户均持股8694.04股增幅0.50%，户均持股市值19.7万元降幅5.90%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV296cVFPY0MyQnljNmQxaFJWUGdyUTRfbE5tUnlLUjFfWkc1OGYyNGNRR0UtUHVkMFlYTmJtZjV2MzNCSGxwM3NaMHp4NjFmei1ybEJidUVhMElRM29VcVBVcE1pX0pWcUlyRm43cVhZdjVvYWY4TFZqbEVRNkdBS1U4WjlQVVpiYmd5OA?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "博硕科技A股股东户数增加720户增幅7.46%，流通A股户均持股1.46万股降幅6.94%，户均持股市值103.21万元增幅20.72% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNNV9mMXVwNkduSHJ4Qk5mS0NNdk4ySVVIZXl0bWQ5R0V2bnNtelFlQWFmRkFFYkxiUTR6ZHdyV3pPaVk0VVM0bnpBMDE1bzAybzA3RFRtR0N2MVQtVmxXVWw4di1hWUZtWHl6NDI2MVg0QWxWUlAyNFAxbFBSdEptUkJHVkdrVVFqSEJtWQ?oc=5\" target=\"_blank\">博硕科技A股股东户数增加720户增幅7.46%，流通A股户均持股1.46万股降幅6.94%，户均持股市值103.21万元增幅20.72%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNV9mMXVwNkduSHJ4Qk5mS0NNdk4ySVVIZXl0bWQ5R0V2bnNtelFlQWFmRkFFYkxiUTR6ZHdyV3pPaVk0VVM0bnpBMDE1bzAybzA3RFRtR0N2MVQtVmxXVWw4di1hWUZtWHl6NDI2MVg0QWxWUlAyNFAxbFBSdEptUkJHVkdrVVFqSEJtWQ?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "东利机械A股股东户数增加57户增幅0.54%，流通A股户均持股1.03万股降幅0.54%，户均持股市值13.11万元降幅0.85% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX19UMW0yREVCNlV4VGdFZlp2THpmdWg0RlNyWTRYOU8xbVVQaWIzNXVLcmNZZk1hWjN0MW5Ya0JEeGd1b1NfbV9XQ015MUUzd0N4eTgzWXRTTDk1eUJ4T25oUmY3Vnd4N09zUlJ6Sl9sLTFOaEptbmRuckFJMjJyV3RTUE1TdnhuWURfdQ?oc=5\" target=\"_blank\">东利机械A股股东户数增加57户增幅0.54%，流通A股户均持股1.03万股降幅0.54%，户均持股市值13.11万元降幅0.85%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX19UMW0yREVCNlV4VGdFZlp2THpmdWg0RlNyWTRYOU8xbVVQaWIzNXVLcmNZZk1hWjN0MW5Ya0JEeGd1b1NfbV9XQ015MUUzd0N4eTgzWXRTTDk1eUJ4T25oUmY3Vnd4N09zUlJ6Sl9sLTFOaEptbmRuckFJMjJyV3RTUE1TdnhuWURfdQ?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "泽润新能A股股东户数减少130户降幅1.29%，流通A股户均持股3806.82股增幅1.31%，户均持股市值14.9万元降幅4.22% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVdfaWxmSW9LZkxta3AzLURqQTFlMlFYMXJEUGN3MHcxWW1GZkpFelU3OHpKdXRYQWJobzcyOHhucXVNT1psczVZWFV6WHpselp2ZjM4RTllY2hfVll0bmRXbHFobmJqT2pzSlMtSUJiY1hYX3UwMDd0d0l1UlN0SXdzalpGYnoybjR6Ug?oc=5\" target=\"_blank\">泽润新能A股股东户数减少130户降幅1.29%，流通A股户均持股3806.82股增幅1.31%，户均持股市值14.9万元降幅4.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVdfaWxmSW9LZkxta3AzLURqQTFlMlFYMXJEUGN3MHcxWW1GZkpFelU3OHpKdXRYQWJobzcyOHhucXVNT1psczVZWFV6WHpselp2ZjM4RTllY2hfVll0bmRXbHFobmJqT2pzSlMtSUJiY1hYX3UwMDd0d0l1UlN0SXdzalpGYnoybjR6Ug?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "新媒股份A股股东户数减少114户降幅0.45%，流通A股户均持股9032.25股增幅0.45%，户均持股市值31.05万元增幅0.07% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVjJDVXAzWEl1bG42QTFJeUJLU3I3SlNPTDl6eXU3X0NkMnlTd2RtZmJMSEFEbEVSRXpEcWVaN05yNkk3R0xmMWlHWjhZQm1vbFFNbU81THBrOVlFRHJlUzdDNHNKWjdnNXh5UDBiYnBWTGRRVTBJUnpRNTFyQnRZNHdDMi1ONHdFTjdiRg?oc=5\" target=\"_blank\">新媒股份A股股东户数减少114户降幅0.45%，流通A股户均持股9032.25股增幅0.45%，户均持股市值31.05万元增幅0.07%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVjJDVXAzWEl1bG42QTFJeUJLU3I3SlNPTDl6eXU3X0NkMnlTd2RtZmJMSEFEbEVSRXpEcWVaN05yNkk3R0xmMWlHWjhZQm1vbFFNbU81THBrOVlFRHJlUzdDNHNKWjdnNXh5UDBiYnBWTGRRVTBJUnpRNTFyQnRZNHdDMi1ONHdFTjdiRg?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "ST派瑞A股股东户数减少432户降幅1.96%，流通A股户均持股8544.89股增幅2.00%，户均持股市值12.24万元降幅4.46% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWN5Sl9Yd29YOWE5bEV6Q3lZQjRDYVVJc0dkNEFWeHhrdTlxYXFSckpLUmZSQzVYMkhVVmdZd3cyWDRWQzhDSXZ3WDBoR2k1bXF1b1ZJVkNYb3IzREwtcFcxU2k0N3N3LW5qZWpnYlVCdmRZd2dtbzJtZ0VuQ0xRU3NtTnZiU3pJWnN0UQ?oc=5\" target=\"_blank\">ST派瑞A股股东户数减少432户降幅1.96%，流通A股户均持股8544.89股增幅2.00%，户均持股市值12.24万元降幅4.46%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWN5Sl9Yd29YOWE5bEV6Q3lZQjRDYVVJc0dkNEFWeHhrdTlxYXFSckpLUmZSQzVYMkhVVmdZd3cyWDRWQzhDSXZ3WDBoR2k1bXF1b1ZJVkNYb3IzREwtcFcxU2k0N3N3LW5qZWpnYlVCdmRZd2dtbzJtZ0VuQ0xRU3NtTnZiU3pJWnN0UQ?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "迦南智能A股股东户数减少741户降幅4.53%，流通A股户均持股1.25万股增幅4.74%，户均持股市值24.22万元增幅0.20% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHdQeWp6blEzaExjRzZObXROUzRSM3JybUR2TmRFMk1rQmNxTkhFZWE0Yi1hS294TG52cmxUaFl6YkhoOTdXYWRpSXh3aUdsTEdWREtHZ0lIMnBhOVJkMkNJRFdxRWNGOHNiZlBRUlV4bEJwNUhMRXJDZ1RKVlMwU3FiblBRMkRENExBbQ?oc=5\" target=\"_blank\">迦南智能A股股东户数减少741户降幅4.53%，流通A股户均持股1.25万股增幅4.74%，户均持股市值24.22万元增幅0.20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHdQeWp6blEzaExjRzZObXROUzRSM3JybUR2TmRFMk1rQmNxTkhFZWE0Yi1hS294TG52cmxUaFl6YkhoOTdXYWRpSXh3aUdsTEdWREtHZ0lIMnBhOVJkMkNJRFdxRWNGOHNiZlBRUlV4bEJwNUhMRXJDZ1RKVlMwU3FiblBRMkRENExBbQ?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "安图生物A股股东户数减少2655户降幅7.09%，流通A股户均持股1.64万股增幅7.63%，户均持股市值47.67万元降幅2.82% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU4tREdUQzhrUVNxSDZMbGdsV21BeEliQnRzYkdEZDBCR2pnSDhNZkhHM3ZQWU5HdWR5S1Z3aDdHT0pIeUpiT0xVVU4wbkpfRnFCaHNmcm41WUQzUjJ0dkpNS1Nlb090em1qb3pYTE9GUzNuMHBULVczSU5LUW1TOU52YVVON2JlUE1oNQ?oc=5\" target=\"_blank\">安图生物A股股东户数减少2655户降幅7.09%，流通A股户均持股1.64万股增幅7.63%，户均持股市值47.67万元降幅2.82%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdU4tREdUQzhrUVNxSDZMbGdsV21BeEliQnRzYkdEZDBCR2pnSDhNZkhHM3ZQWU5HdWR5S1Z3aDdHT0pIeUpiT0xVVU4wbkpfRnFCaHNmcm41WUQzUjJ0dkpNS1Nlb090em1qb3pYTE9GUzNuMHBULVczSU5LUW1TOU52YVVON2JlUE1oNQ?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "国光连锁A股股东户数减少1578户降幅5.81%，流通A股户均持股1.99万股增幅6.17%，户均持股市值24.75万元增幅1.22% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkVNTkxmaUthQ1UzcjIzMjBKV1pUZzFSNDZkZWdQNTRfcFR4Wk91QnFuUkJ5MjJlZ1V4b3kyaE4yaFJWSkw2dFA0R0N5U1RDVUpqWWpYemwxeUZEWW1aSUprVzI0NFliN1FwMzN3X3FUdGFBZjVVTnRMUUFSa1FjNklBSEhrSHQwR0NGWQ?oc=5\" target=\"_blank\">国光连锁A股股东户数减少1578户降幅5.81%，流通A股户均持股1.99万股增幅6.17%，户均持股市值24.75万元增幅1.22%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkVNTkxmaUthQ1UzcjIzMjBKV1pUZzFSNDZkZWdQNTRfcFR4Wk91QnFuUkJ5MjJlZ1V4b3kyaE4yaFJWSkw2dFA0R0N5U1RDVUpqWWpYemwxeUZEWW1aSUprVzI0NFliN1FwMzN3X3FUdGFBZjVVTnRMUUFSa1FjNklBSEhrSHQwR0NGWQ?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "哈焊华通A股股东户数减少3546户降幅12.66%，流通A股户均持股7430.05股增幅14.49%，户均持股市值23.43万元降幅1.07% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFIxR3Z6YnBmZWlOTV9nSmZxQVhTUVFBRkRFbEU5MW93ZEpoYWt0NjhQcV9rSGJZczlmc3V4YklyUmI4b2Y0MTFJemU5NVphemg3MVNiXzdfbEVzZnFHdjBMWlRoTUthN3lmYWtVcFB2eEN1STBBRTlCYUgtQWVld1NHVGluVDZiVHV0UQ?oc=5\" target=\"_blank\">哈焊华通A股股东户数减少3546户降幅12.66%，流通A股户均持股7430.05股增幅14.49%，户均持股市值23.43万元降幅1.07%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFIxR3Z6YnBmZWlOTV9nSmZxQVhTUVFBRkRFbEU5MW93ZEpoYWt0NjhQcV9rSGJZczlmc3V4YklyUmI4b2Y0MTFJemU5NVphemg3MVNiXzdfbEVzZnFHdjBMWlRoTUthN3lmYWtVcFB2eEN1STBBRTlCYUgtQWVld1NHVGluVDZiVHV0UQ?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -37,6 +100,13 @@
       "title": "罗欣药业A股股东户数增加8288户增幅18.23%，流通A股户均持股2.02万股降幅15.42%，户均持股市值10.71万元降幅2.97% - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWRicGY0RnVJdW00SnlDX05MN1gyMFFIZFhtcTE4bE9hSEZJbDYyV2pNZURWdlVqWncwMl9vaWFZZi1HS09OdnFpYm1GNF9RUXpRRWczWlFIN2Z5SWNOLUxWTWN5NTJzUHZYYzVNRHY0czBUaWNIYTV3eW5MVTc2cnAxTEI3anlvS1hGcw?oc=5\" target=\"_blank\">罗欣药业A股股东户数增加8288户增幅18.23%，流通A股户均持股2.02万股降幅15.42%，户均持股市值10.71万元降幅2.97%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWRicGY0RnVJdW00SnlDX05MN1gyMFFIZFhtcTE4bE9hSEZJbDYyV2pNZURWdlVqWncwMl9vaWFZZi1HS09OdnFpYm1GNF9RUXpRRWczWlFIN2Z5SWNOLUxWTWN5NTJzUHZYYzVNRHY0czBUaWNIYTV3eW5MVTc2cnAxTEI3anlvS1hGcw?oc=5",
+      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "严牌股份A股股东户数增加1012户增幅12.52%，流通A股户均持股2.47万股降幅11.13%，户均持股市值33.25万元降幅2.75% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1U3MDRxSndqVmdONkpQdkxaQ2NGNDZ0N0N0VURLcDZYNlFmaFNsU3R6LUJ1NVhINXRWRHlzbXl6a0cwblU2YmlPLXlJc0NXRjU5T1ctWmJ2UVRSb3NvQlpuRWU4VU5ubHJ1aTRIZEpDOVgtOTN4SURXLV9SY0Fxb3Y1SzllYi10QVY0TA?oc=5\" target=\"_blank\">严牌股份A股股东户数增加1012户增幅12.52%，流通A股户均持股2.47万股降幅11.13%，户均持股市值33.25万元降幅2.75%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOX1U3MDRxSndqVmdONkpQdkxaQ2NGNDZ0N0N0VURLcDZYNlFmaFNsU3R6LUJ1NVhINXRWRHlzbXl6a0cwblU2YmlPLXlJc0NXRjU5T1ctWmJ2UVRSb3NvQlpuRWU4VU5ubHJ1aTRIZEpDOVgtOTN4SURXLV9SY0Fxb3Y1SzllYi10QVY0TA?oc=5",
       "published": "Mon, 24 Aug 2026 14:51:00 GMT"
     },
     {
@@ -75,76 +145,6 @@
       "published": "Mon, 24 Aug 2026 13:50:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "千里科技A股股东户数增加3378户增幅4.94%，流通A股户均持股6.3万股降幅4.70%，户均持股市值51.38万元降幅21.21% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQclBqWHNtMnJ1VXJkM09NVmtWWHhDSndEbm1Ca0xoOFpFWVgyWTVuLUFvMFFMUS02SUxXZDdsN1FTYklEcnZSdnh1d2ItS09rX2gybE05a0VnelF1Vml2ODhBRVRtazR6QW51YXJtSGkzVS1SYUJ4MWNTcUlpWnd1Z1FQT0pkb2IzY0lJRg?oc=5\" target=\"_blank\">千里科技A股股东户数增加3378户增幅4.94%，流通A股户均持股6.3万股降幅4.70%，户均持股市值51.38万元降幅21.21%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQclBqWHNtMnJ1VXJkM09NVmtWWHhDSndEbm1Ca0xoOFpFWVgyWTVuLUFvMFFMUS02SUxXZDdsN1FTYklEcnZSdnh1d2ItS09rX2gybE05a0VnelF1Vml2ODhBRVRtazR6QW51YXJtSGkzVS1SYUJ4MWNTcUlpWnd1Z1FQT0pkb2IzY0lJRg?oc=5",
-      "published": "Mon, 24 Aug 2026 13:50:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "联建光电A股股东户数减少1.22万户降幅21.22%，流通A股户均持股1.16万股增幅26.94%，户均持股市值6.41万元降幅3.53% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjBhZC1kczhYMkowTWxicWVkTjdFbFRBTGtoQndwdmp1UHV4TEJ1NFYtN0UycmdMOEJWc2FBWHpzSzNicjBXdVhsdFl2YTJrN2g3Ui1xTm0taVVZRGs3aDB5ODdEMVJZNEFqc3NlUkN3ZlBxeFU3cmpxQVZsbFAteGhrSjREOEVXR291Zg?oc=5\" target=\"_blank\">联建光电A股股东户数减少1.22万户降幅21.22%，流通A股户均持股1.16万股增幅26.94%，户均持股市值6.41万元降幅3.53%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjBhZC1kczhYMkowTWxicWVkTjdFbFRBTGtoQndwdmp1UHV4TEJ1NFYtN0UycmdMOEJWc2FBWHpzSzNicjBXdVhsdFl2YTJrN2g3Ui1xTm0taVVZRGs3aDB5ODdEMVJZNEFqc3NlUkN3ZlBxeFU3cmpxQVZsbFAteGhrSjREOEVXR291Zg?oc=5",
-      "published": "Mon, 24 Aug 2026 13:50:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "酷特智能A股股东户数增加594户增幅3.22%，流通A股户均持股9330.64股降幅3.12%，户均持股市值17.75万元降幅11.41% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPajZhSEZhdjNBclhIX1h3VkE3RFQ5M1dPMlBFeXhxaERZRFpfTEhtVFJiYnh1YUJPQnVyZ0FJNDhpeFAzLW11SUhvdElYSTFWbzFaMkt6MHF3aC1RaEtaRUJocTROclBSRGMzaTFGcDYxUDItQW50Q0JSaVdhTTJEQzYydXNhRG1lcGU2OA?oc=5\" target=\"_blank\">酷特智能A股股东户数增加594户增幅3.22%，流通A股户均持股9330.64股降幅3.12%，户均持股市值17.75万元降幅11.41%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPajZhSEZhdjNBclhIX1h3VkE3RFQ5M1dPMlBFeXhxaERZRFpfTEhtVFJiYnh1YUJPQnVyZ0FJNDhpeFAzLW11SUhvdElYSTFWbzFaMkt6MHF3aC1RaEtaRUJocTROclBSRGMzaTFGcDYxUDItQW50Q0JSaVdhTTJEQzYydXNhRG1lcGU2OA?oc=5",
-      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "高争民爆A股股东户数增加4475户增幅14.89%，流通A股户均持股7991.4股降幅12.96%，户均持股市值46.17万元降幅15.59% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONjgxYWlLNkh5bVhTSm1ZT2c1dXRhQlVTcUZ3Nk5HaW50X1VQOGRwN3JaaFN0ZEJHcnJjT29MLXRnb2l6YkFYaHJJS1BmekU3NjVsdHVDcmRwYVZoWnJTazI3N2daY3ZoODcweUwxZFRxT2xuSUFfQzB3ZDBtTjRUQUFHb2hUZWhLY3dOWg?oc=5\" target=\"_blank\">高争民爆A股股东户数增加4475户增幅14.89%，流通A股户均持股7991.4股降幅12.96%，户均持股市值46.17万元降幅15.59%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONjgxYWlLNkh5bVhTSm1ZT2c1dXRhQlVTcUZ3Nk5HaW50X1VQOGRwN3JaaFN0ZEJHcnJjT29MLXRnb2l6YkFYaHJJS1BmekU3NjVsdHVDcmRwYVZoWnJTazI3N2daY3ZoODcweUwxZFRxT2xuSUFfQzB3ZDBtTjRUQUFHb2hUZWhLY3dOWg?oc=5",
-      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "天益医疗A股股东户数增加50户增幅1.04%，流通A股户均持股8126.1股降幅1.03%，户均持股市值29.19万元增幅2.45% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQT24ydUJlU2JlYV94S0duWXJXNHBTYmFGc1BCUnRaX0NFYzcwMmhaR2RUVkEzUWpReXpVYlJvRENLbG5ZX0pHXzFMMzM4RWVBOUVGUDNHTnc3elZRY1FGbnpMUUJjOVk2NDY3UC1WUzE2em1tUEU1ZnV0Q3dLLUh6a1N6bjRfckZFQXlqQw?oc=5\" target=\"_blank\">天益医疗A股股东户数增加50户增幅1.04%，流通A股户均持股8126.1股降幅1.03%，户均持股市值29.19万元增幅2.45%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT24ydUJlU2JlYV94S0duWXJXNHBTYmFGc1BCUnRaX0NFYzcwMmhaR2RUVkEzUWpReXpVYlJvRENLbG5ZX0pHXzFMMzM4RWVBOUVGUDNHTnc3elZRY1FGbnpMUUJjOVk2NDY3UC1WUzE2em1tUEU1ZnV0Q3dLLUh6a1N6bjRfckZFQXlqQw?oc=5",
-      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "海看股份A股股东户数减少314户降幅1.57%，流通A股户均持股6212.17股增幅1.60%，户均持股市值11.76万元降幅4.41% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVItRDV5Zy1lVkpoU1FVTVZTT0FJLU41MXg1VDNzVk8zUGxScFNTc1NZU2QzNTM0NllNczlwZ2pqQnNjb2VjbHAyc3lnQkdXNEhfRWIxLXBWZENrSW1lNTFZNUt6M1FrYmhjT2RMMTJEejFPd2o3WTRlcnY2bUV5RWNraGg4b0R1WTQxag?oc=5\" target=\"_blank\">海看股份A股股东户数减少314户降幅1.57%，流通A股户均持股6212.17股增幅1.60%，户均持股市值11.76万元降幅4.41%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVItRDV5Zy1lVkpoU1FVTVZTT0FJLU41MXg1VDNzVk8zUGxScFNTc1NZU2QzNTM0NllNczlwZ2pqQnNjb2VjbHAyc3lnQkdXNEhfRWIxLXBWZENrSW1lNTFZNUt6M1FrYmhjT2RMMTJEejFPd2o3WTRlcnY2bUV5RWNraGg4b0R1WTQxag?oc=5",
-      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "丰茂股份A股股东户数增加425户增幅5.64%，流通A股户均持股3279.59股降幅5.34%，户均持股市值11.85万元增幅6.08% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmF0Vi0tdUFxT2M2bE5NTmZuSFB4bFFod3FOWkprLU5zOGE4eUhuTHJUeXBWYXhzQXVWbl9neGVWM3dSTndaeXhsZlBYX0d2bXFzTjhfRWJmSGxOaVlXLVBjNnY0ZVZTSHA1TkVuLUpqUmpRWElteFVnMW9aOERTMG50WGtsdUpZS0h3Qg?oc=5\" target=\"_blank\">丰茂股份A股股东户数增加425户增幅5.64%，流通A股户均持股3279.59股降幅5.34%，户均持股市值11.85万元增幅6.08%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmF0Vi0tdUFxT2M2bE5NTmZuSFB4bFFod3FOWkprLU5zOGE4eUhuTHJUeXBWYXhzQXVWbl9neGVWM3dSTndaeXhsZlBYX0d2bXFzTjhfRWJmSGxOaVlXLVBjNnY0ZVZTSHA1TkVuLUpqUmpRWElteFVnMW9aOERTMG50WGtsdUpZS0h3Qg?oc=5",
-      "published": "Mon, 24 Aug 2026 14:51:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "拟10派8.1元，大手笔分红又现！多家A股公司业绩大增 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9nQy0yTl9WdlJVODRma2pNdmo5dl92VmI2UlRocG1WZEFNcEJyalRwTVM3ZlBBWEVXazRsTGtkUUlCNnUyc3QyZy11X1Z0ZXQteTdVR2YyWXlJbmRFR3ZidjNWSXUyN3FRdEpzSTVWUkMxbGNyVlhseg?oc=5\" target=\"_blank\">拟10派8.1元，大手笔分红又现！多家A股公司业绩大增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9nQy0yTl9WdlJVODRma2pNdmo5dl92VmI2UlRocG1WZEFNcEJyalRwTVM3ZlBBWEVXazRsTGtkUUlCNnUyc3QyZy11X1Z0ZXQteTdVR2YyWXlJbmRFR3ZidjNWSXUyN3FRdEpzSTVWUkMxbGNyVlhseg?oc=5",
-      "published": "Mon, 24 Aug 2026 14:02:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "净利猛增超1600%！两大赛道，多家A股业绩爆发！ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1mREhLTjBERV92cTF3QlJtNVY4TElFMm56ckl5eTFNSE93cGJaSnVuRjd3aWx6eEdMMWZYMzhZWENrS2pLLWdvRk5BalRPV0lrNzlJX1hnZzVjOERPR0JhYUZfdlBmMFdSc0E3OUR4T21hM3dSRmc?oc=5\" target=\"_blank\">净利猛增超1600%！两大赛道，多家A股业绩爆发！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mREhLTjBERV92cTF3QlJtNVY4TElFMm56ckl5eTFNSE93cGJaSnVuRjd3aWx6eEdMMWZYMzhZWENrS2pLLWdvRk5BalRPV0lrNzlJX1hnZzVjOERPR0JhYUZfdlBmMFdSc0E3OUR4T21hM3dSRmc?oc=5",
-      "published": "Mon, 24 Aug 2026 14:42:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "*ST尼雅A股股东户数减少5319户降幅22.16%，流通A股户均持股6.02万股增幅28.48%，户均持股市值22.86万元降幅29.96% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTBBTkpOeU12R2wzc0ZZTERDV29hYnJIOVFiVHRoYVliZ0Qxa3FYQlNCWVYxdEpuN3Qwa3I5TXNDYXhYbEl4MHI4OU5rMEtnb1plU2hpS3dSbDlUWkF4MHZkYzhWa0VXWW9tc2ZWa3hpN2xUVnlBU2NIZ2FkemdEZkF4cUdvLTd4ZFp4ZA?oc=5\" target=\"_blank\">*ST尼雅A股股东户数减少5319户降幅22.16%，流通A股户均持股6.02万股增幅28.48%，户均持股市值22.86万元降幅29.96%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSTBBTkpOeU12R2wzc0ZZTERDV29hYnJIOVFiVHRoYVliZ0Qxa3FYQlNCWVYxdEpuN3Qwa3I5TXNDYXhYbEl4MHI4OU5rMEtnb1plU2hpS3dSbDlUWkF4MHZkYzhWa0VXWW9tc2ZWa3hpN2xUVnlBU2NIZ2FkemdEZkF4cUdvLTd4ZFp4ZA?oc=5",
-      "published": "Mon, 24 Aug 2026 14:50:00 GMT"
-    },
-    {
       "source": "东方财富",
       "title": "华安证券上半年实现归母净利润20.97亿元 同比增长102.55% - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFTlJRVHRqa0pCREx3dzJnX1EzZVM5Vlh6amV0Q2dPTXJONkZwckhJTnhiSHhNMklOWl9udTBkWWF6OU1OWXp0Ukw3VWg2WHc3ZzZ2eXctSFF5c0xPc3NFbWdiaw?oc=5\" target=\"_blank\">华安证券上半年实现归母净利润20.97亿元 同比增长102.55%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
@@ -152,67 +152,291 @@
       "published": "Mon, 24 Aug 2026 14:48:39 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "中航西飞(000768.SZ)：筹划向特定对象发行A股股票 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1yV3pZTnFMUE9IeGxOWFNpWWFyY0RoS1lMZU90TjJvalk2OHIyUEpCSVgydzdCaGhZSE1Lcm1laUNtQzg0TU10RmxWenpXamZ2dTFDTnVlLW9FbHU1RWQtcG1JOVpldWdNc2l3?oc=5\" target=\"_blank\">中航西飞(000768.SZ)：筹划向特定对象发行A股股票</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1yV3pZTnFMUE9IeGxOWFNpWWFyY0RoS1lMZU90TjJvalk2OHIyUEpCSVgydzdCaGhZSE1Lcm1laUNtQzg0TU10RmxWenpXamZ2dTFDTnVlLW9FbHU1RWQtcG1JOVpldWdNc2l3?oc=5",
-      "published": "Mon, 24 Aug 2026 13:23:00 GMT"
+      "source": "同花顺",
+      "title": "美国战略石油储备原油库存降至1982年以来最低水平",
+      "summary": "美国战略石油储备的原油库存上周减少约370万桶，降至2.9亿桶，为1982年以来最低水平。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260824/c679238181.shtml",
+      "published": "Mon, 24 Aug 2026 15:27:39 GMT"
     },
     {
       "source": "同花顺",
-      "title": "新兴市场主动基金，超配中国股票！ - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lanhlX09lOFRmUElDbFRHa0dva1FjaDQyTlNJRnJDMkswNUFudkVIR1NJQ0VyMk9uZVRTcGdWajZ5ajh0TWhoWDkzRXZ0eDN5OXNYVkZ0S290MU5JR2dZQQ?oc=5\" target=\"_blank\">新兴市场主动基金，超配中国股票！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lanhlX09lOFRmUElDbFRHa0dva1FjaDQyTlNJRnJDMkswNUFudkVIR1NJQ0VyMk9uZVRTcGdWajZ5ajh0TWhoWDkzRXZ0eDN5OXNYVkZ0S290MU5JR2dZQQ?oc=5",
-      "published": "Mon, 24 Aug 2026 13:16:33 GMT"
+      "title": "肇民科技：2026年半年度净利润6081.42万元 同比下降14.21%",
+      "summary": "肇民科技发布2026年半年度报告，实现营业收入4亿元，同比增长5.24%；归属于上市公司股东的净利润6081.42万元，同比下降14.21%。业绩变动主要系汽车行业价格竞争加剧，国内汽车产销量出现一定下滑，原材料成本涨幅较大等不利影响所致。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
+      "link": "https://news.10jqka.com.cn/20260824/c679238092.shtml",
+      "published": "Mon, 24 Aug 2026 15:20:47 GMT"
     },
     {
       "source": "同花顺",
-      "title": "财报速递：西南证券2026年半年度净利润6.05亿元 - yuanchuang.10jqka.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwUUZaazJVM0stQ1BKc1VjNmkyb2VKT0RkbGhtMkZCem1VNEI5c1owbW5sMnBCcGFpdHpGcEFnT2E2eVcyY0pyaXZhdmdoX2hpeHVnLS1kbm1xOWczM2M3RnVNRHBMM3hf?oc=5\" target=\"_blank\">财报速递：西南证券2026年半年度净利润6.05亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">yuanchuang.10jqka.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwUUZaazJVM0stQ1BKc1VjNmkyb2VKT0RkbGhtMkZCem1VNEI5c1owbW5sMnBCcGFpdHpGcEFnT2E2eVcyY0pyaXZhdmdoX2hpeHVnLS1kbm1xOWczM2M3RnVNRHBMM3hf?oc=5",
-      "published": "Mon, 24 Aug 2026 13:16:20 GMT"
+      "title": "联合国成立工作组应对霍尔木兹海峡危机",
+      "summary": "当地时间8月24日，联合国秘书长古特雷斯在记者会上表示，当前中东冲突及俄乌冲突正通过扰乱海上航运，对全球贸易、能源和粮食供应造成严重影响。霍尔木兹海峡、红海及黑海的航运受阻，导致石油、化肥、粮食等重要物资运输受限，油价、集装箱运费和化肥成本大幅上涨，进一步加剧全球饥饿和弱势群体的困难。古特雷斯强调，航行权利和自由是国际法确立的基本原则，也是维护国际和平、安全及全球经济稳定的重要基础。他呼吁各方尊重国际法、国际海洋法和国际人道法，保护民用船舶、基础设施和海员，并立即停止针对商业航运的袭击。古特雷斯介绍，为应对霍尔木兹海峡危机，联合国已成立工作组，计划建立由联合国协调的登记、核查、监测和冲突降级机制，初期重点保障化肥及相关原材料运输。秘书长指出，该机制不会改变任何国家的主权权利，也不会取代恢复航行自由及解决冲突所需的政治努力，但可作为降低风险、保障必需品运输和重建信任的务实第一步。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260824/c679238037.shtml",
+      "published": "Mon, 24 Aug 2026 15:12:51 GMT"
     },
     {
       "source": "同花顺",
-      "title": "ST京蓝向深交所提交撤销股票交易其他风险警示申请 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvQWJJWTVnQkJMd2phY290YWdkcWVGVW9mZThHdTlhTHdHODc0blZ6MTRYREdTb3kxU3h3OGJJM3ZjN1c5dlhiR0U2alQwbmZFTV9lR3lwcDJNWDVFSTNBcXhn?oc=5\" target=\"_blank\">ST京蓝向深交所提交撤销股票交易其他风险警示申请</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvQWJJWTVnQkJMd2phY290YWdkcWVGVW9mZThHdTlhTHdHODc0blZ6MTRYREdTb3kxU3h3OGJJM3ZjN1c5dlhiR0U2alQwbmZFTV9lR3lwcDJNWDVFSTNBcXhn?oc=5",
-      "published": "Mon, 24 Aug 2026 14:26:25 GMT"
+      "title": "央企联合体推进6G技术加快突破",
+      "summary": "国务院国资委日前召开中央企业6G未来产业推进会，相关负责人表示，中央企业正积极推进6G产业发展，建设更多6G领域科技领军企业、国家级创新平台、中试平台，持续强化对6G全链条投入。自2023年实施未来产业启航行动以来，中央企业组建联合体，合力推进关键技术攻关、核心设备研制、国际标准制定和应用场景培育，助力我国在全球6G竞赛中抢占主动。目前，中央企业围绕技术图谱系统布局技术任务71项、公开6G专利5300多件。6G卫星终端与基站的芯片器件、原型样机、试验装置等核心设备研发不断取得新突破，应用场景覆盖轨道交通、电力系统等多领域。下一步，国资央企将结合主责主业，补齐技术短板，推动关键技术器件底层突破，构建安全稳定的6G产业链供应链，加强创新平台建设，筑牢6G高质量发展基础，全方位提升国际话语权。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260824/c679238017.shtml",
+      "published": "Mon, 24 Aug 2026 15:10:18 GMT"
     },
     {
       "source": "同花顺",
-      "title": "业绩观和风险观｜中金公司党委书记、董事长陈亮：锚定一流投行目标 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZaUx5OW5UeW1kOUh1SGFQYnFSOGsxMld2YTFHaVlOWFl3Y0tQc1otUFViYkdOSDVGclZSTURRY01OY1JfenNTLVUyazZGV1VkMDY0cENQM0lYYTJUa29tcWJ3?oc=5\" target=\"_blank\">业绩观和风险观｜中金公司党委书记、董事长陈亮：锚定一流投行目标</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZaUx5OW5UeW1kOUh1SGFQYnFSOGsxMld2YTFHaVlOWFl3Y0tQc1otUFViYkdOSDVGclZSTURRY01OY1JfenNTLVUyazZGV1VkMDY0cENQM0lYYTJUa29tcWJ3?oc=5",
-      "published": "Mon, 24 Aug 2026 13:03:19 GMT"
+      "title": "SpaceX AI采用英伟达Vera CPU来加速Agentic AI",
+      "summary": "英伟达称，SpaceX AI 将借助英伟达 Vera Rubin NVL72 系统发射Starmind人工智能卫星。英伟达旗下AI推理加速器Groq 3 LPX已全面投入生产。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260824/c679237973.shtml",
+      "published": "Mon, 24 Aug 2026 15:05:48 GMT"
     },
     {
       "source": "同花顺",
-      "title": "日久光电：华鑫证券、东财电子等多家机构于8月24日调研我司 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGWHRGUWx4QUtnNGp3UDFISVJpRm54YTdHQWV5d1Vsc3o1bTNfZ21fbHA2TW4tSk5ESVJOT3pjdldsMGhaMjlrMzVmSi00cDM4ZUwtX3lxNklqVjdHemc2TU5R?oc=5\" target=\"_blank\">日久光电：华鑫证券、东财电子等多家机构于8月24日调研我司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGWHRGUWx4QUtnNGp3UDFISVJpRm54YTdHQWV5d1Vsc3o1bTNfZ21fbHA2TW4tSk5ESVJOT3pjdldsMGhaMjlrMzVmSi00cDM4ZUwtX3lxNklqVjdHemc2TU5R?oc=5",
-      "published": "Mon, 24 Aug 2026 13:05:44 GMT"
+      "title": "期市夜盘收盘，国内期货主力合约多数上涨，乙二醇涨超3%",
+      "summary": "期市夜盘收盘，国内期货主力合约多数上涨。涨幅方面，乙二醇、沥青涨超3%，燃油涨超2%，短纤、对二甲苯、20号胶、瓶片、橡胶等涨超1%。跌幅方面，PVC跌超2%，菜油、豆二跌超1%。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237849.shtml",
+      "published": "Mon, 24 Aug 2026 15:00:33 GMT"
     },
     {
       "source": "同花顺",
-      "title": "白银有色：股票交易异常波动 无应披露未披露事项 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OUlRtT3dDMjBqaEg0Y3ViYXQxMWVfUDgzN0FXUVRkcHlSMjFwdXpWS3ZMVGRHUUhnX05Kb0tGcnlfSEg3ZlhIbUw2TldpdG1NT1ZuZ1BVUXBFOGtfdlp3aFBn?oc=5\" target=\"_blank\">白银有色：股票交易异常波动 无应披露未披露事项</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OUlRtT3dDMjBqaEg0Y3ViYXQxMWVfUDgzN0FXUVRkcHlSMjFwdXpWS3ZMVGRHUUhnX05Kb0tGcnlfSEg3ZlhIbUw2TldpdG1NT1ZuZ1BVUXBFOGtfdlp3aFBn?oc=5",
-      "published": "Mon, 24 Aug 2026 13:05:44 GMT"
+      "title": "阿里巴巴美股翻红，此前蔡崇信、吴泳铭出手增持1.2亿港元阿里股票",
+      "summary": "阿里巴巴美股翻红。此前阿里巴巴夜盘一度下跌逾5%，受管理层增持利好提振，开盘后转涨报119.36美元。据港交所信息，今天，阿里巴巴集团主席蔡崇信、CEO吴泳铭出手增持合计约1.2亿港元阿里股票，对公司AI战略投下信心票。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237722.shtml",
+      "published": "Mon, 24 Aug 2026 14:49:17 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国金证券：给予爱美客买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xc1ZwbGRuaUJwd3pfVDEzcG5GdGczQ3V0RjhHMW1JSEZBVVhKbG5la0k4d3hQYkdFX2g0cGRQbWJVUWt2YmhkeE85ZHY3MjVtLS1xcEZtejVma3Frc0FPcGxB?oc=5\" target=\"_blank\">国金证券：给予爱美客买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xc1ZwbGRuaUJwd3pfVDEzcG5GdGczQ3V0RjhHMW1JSEZBVVhKbG5la0k4d3hQYkdFX2g0cGRQbWJVUWt2YmhkeE85ZHY3MjVtLS1xcEZtejVma3Frc0FPcGxB?oc=5",
-      "published": "Mon, 24 Aug 2026 14:04:26 GMT"
+      "title": "应急管理部针对福建启动国家地质灾害四级应急响应",
+      "summary": "据“应急管理部”公众号消息，据气象部门预测，受台风“紫檀”、“简拉维”残余环流影响，8月25日至27日，福建东部部分地区有大暴雨，局地特大暴雨。经与自然资源部联合会商研判，福建东部部分地区发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月24日针对福建启动地质灾害四级应急响应，派出工作组指导地方做好台风暴雨期间地质灾害防范应对工作。（应急管理部）",
+      "link": "https://news.10jqka.com.cn/20260824/c679237673.shtml",
+      "published": "Mon, 24 Aug 2026 14:44:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "也门胡塞武装称再次袭击沙特油轮等多个目标",
+      "summary": "胡塞武装8月24日发表声明称，对沙特“安赞”号油轮实施袭击。声明称，目标位于红海北部、沙特延布沿岸附近，胡塞武装使用弹道导弹实施打击并命中目标，导致船上起火，附近其他船只逃离袭击区域。声明称，此次行动是针对沙特的敌对行为，“以封锁应对封锁”的行动方针。声明还称，也门胡塞武装还实施另外两次军事行动。其中一次使用弹道导弹和无人机袭击位于瓦迪阿地区的沙特相关军事力量集结点，目标包括一支装载军事装备的大型车队，并称有10多辆装载武器的卡车被烧毁或摧毁。另一次行动则针对卡奈斯地区的沙特相关军事力量集结点，胡塞武装称导弹和无人机袭击造成数十人死伤，其中包括指挥官和军官，并摧毁、焚毁多处武器库。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260824/c679237436.shtml",
+      "published": "Mon, 24 Aug 2026 14:20:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "药明康德：DEL平台遭遇网络安全事件 目前运营一切正常",
+      "summary": "药明康德公告，公司生物学业务板块DEL平台近期遭遇网络安全事件，已启动应急回应机制并聘请外部网络安全专家及法律顾问展开全面调查。目前公司信息技术系统运作正常，DEL平台安全性受控，尚未发现资料被公开、滥用或不当利用，运营及服务能力未受影响。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237292.shtml",
+      "published": "Mon, 24 Aug 2026 14:09:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "康希通信：拟现金收购知融科技50.3616%股权",
+      "summary": "康希通信公告，公司于2026年8月24日与知融芯言、万通发展、海南权淇等签署《股权转让协议》，拟以1.51亿元现金收购成都知融科技有限公司50.3616%股权。本次交易已经公司第二届董事会第十六次会议审议通过，无需提交股东会审议；交易完成后，知融科技将成为公司控股子公司，纳入公司合并报表范围内。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237265.shtml",
+      "published": "Mon, 24 Aug 2026 14:06:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "康希通信：2026年上半年净利润2751.67万元，同比扭亏为盈",
+      "summary": "康希通信公告，2026年上半年营业收入3.95亿元，同比增长20.58%；归属于上市公司股东的净利润2751.67万元，2025年上半年亏损2473.34万元，同比扭亏为盈；归属于上市公司股东的扣除非经常性损益的净利润1764.26万元，2025年上半年亏损4194.66万元。2026年4月，Skyworks无条件撤回337调查和专利诉讼，相关事项全部终止。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237262.shtml",
+      "published": "Mon, 24 Aug 2026 14:06:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "瑞松科技：定增申请获上交所受理",
+      "summary": "瑞松科技公告，公司拟向特定对象发行A股股票。2026年8月24日，公司收到上交所通知，上交所决定受理该发行证券申请并依法进行审核；该事项尚需通过上交所审核，并获得中国证监会同意注册后方可实施。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237250.shtml",
+      "published": "Mon, 24 Aug 2026 14:05:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "*ST尼雅：2026年上半年净利润769.54万元",
+      "summary": "*ST尼雅公告，2026年上半年营业收入8293.65万元，同比增长19.10%；归属于上市公司股东的净利润769.54万元，同比增长1,045.98%，2025年同期为67.15万元；归属于上市公司股东的扣除非经常性损益的净利润376.11万元，2025年同期亏损216.2万元，同比扭亏为盈。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237207.shtml",
+      "published": "Mon, 24 Aug 2026 14:02:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "人形机器人举重冠军诞生",
+      "summary": "今晚（8月24日），第二届世界人形机器人运动会举重项目完赛。北京人形-华科联队的机器人在15公斤基础重量上连续加码，最终成功举起16公斤，夺得本赛事首个人形机器人举重冠军。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260824/c679237139.shtml",
+      "published": "Mon, 24 Aug 2026 13:56:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "费城半导体指数跌4%",
+      "summary": "费城半导体指数跌4%，报11265.94点。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237124.shtml",
+      "published": "Mon, 24 Aug 2026 13:54:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+      "summary": "当地时间8月24日，美国总统特朗普在其社交媒体平台“真实社交”发文称，加拿大多年来通过对美国农民和农产品征收高额关税“占美国便宜”，并称两国之间长期存在600亿美元贸易逆差，“这种情况不可持续，也不会再继续”。特朗普宣布，自2027年1月1日起，美国将把对加拿大所有汽车、卡车、汽车零部件和钢铁征收的关税提高至50%。他同时表示，在美国生产相关产品则“零关税”。特朗普还称，美国“不需要加拿大，加拿大需要美国”，并表示加拿大95%的生意都与美国有关，而美国的情况“恰恰相反”。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260824/c679237121.shtml",
+      "published": "Mon, 24 Aug 2026 13:53:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ST椰岛：2026年上半年净利润亏损753.8万元",
+      "summary": "ST椰岛公告，2026年上半年营业收入1.73亿元，同比增长94.00%；归属于上市公司股东的净利润亏损753.8万元，2025年上半年亏损1576.5万元；归属于上市公司股东的扣除非经常性损益的净利润亏损488.39万元，2025年上半年亏损1455.87万元。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237118.shtml",
+      "published": "Mon, 24 Aug 2026 13:53:25 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "标普500指数、纳斯达克综合指数短线走低",
+      "summary": "标普500指数、纳斯达克综合指数短线走低，现分别跌0.34%和0.9%。",
+      "link": "https://news.10jqka.com.cn/20260824/c679237071.shtml",
+      "published": "Mon, 24 Aug 2026 13:47:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "铂力特：2026年上半年净利润5113.9万元，同比下降32.99%",
+      "summary": "铂力特公告，2026年上半年营业收入7.7亿元，同比增长15.46%；归属于上市公司股东的净利润5113.9万元，同比下降32.99%，2025年同期7631.43万元；归属于上市公司股东的扣除非经常性损益的净利润1616.61万元，同比下降62.72%，2025年同期4335.93万元。公司拟每10股派发现金红利0.288元（含税），拟派发现金红利790.05万元（含税）。",
+      "link": "https://news.10jqka.com.cn/20260824/c679236955.shtml",
+      "published": "Mon, 24 Aug 2026 13:38:58 GMT"
     },
     {
       "source": "财联社",
-      "title": "财联社早知道 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE02MWpwNUpkbDh4X1E5VTBfTU5ueWdOcGh4SWpfYTBOTUxoajc5TER5U0hVckluTjFoY0E4MFNQM3V6RW9jRktCdA?oc=5\" target=\"_blank\">财联社早知道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02MWpwNUpkbDh4X1E5VTBfTU5ueWdOcGh4SWpfYTBOTUxoajc5TER5U0hVckluTjFoY0E4MFNQM3V6RW9jRktCdA?oc=5",
-      "published": "Mon, 24 Aug 2026 13:07:00 GMT"
+      "title": "英国将向乌克兰提供“风暴之影”导弹生产技术",
+      "summary": "【英国将向乌克兰提供“风暴之影”导弹生产技术】财联社8月24日电，英国首相伯纳姆24日在基辅举行的“意愿联盟”峰会上表示，他已批准向乌克兰提供生产“风暴之影”巡航导弹所需的技术，以帮助乌克兰自行发展远程打击能力。伯纳姆说，英国曾于2023年率先向乌克兰提供远程武器。乌克兰总统泽连斯基此次要求英国分享“风暴之影”技术，以便乌方自行发展相关能力。 (央视新闻)",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 15:21:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "联合国成立工作组应对霍尔木兹海峡危机",
+      "summary": "【联合国成立工作组应对霍尔木兹海峡危机】财联社8月24日电，联合国秘书长古特雷斯在记者会上表示，当前中东冲突及俄乌冲突正通过扰乱海上航运，对全球贸易、能源和粮食供应造成严重影响。霍尔木兹海峡、红海及黑海的航运受阻，导致石油、化肥、粮食等重要物资运输受限，油价、集装箱运费和化肥成本大幅上涨，进一步加剧全球饥饿和弱势群体的困难。古特雷斯介绍，为应对霍尔木兹海峡危机，联合国已成立工作组，计划建立由联合国协调的登记、核查、监测和冲突降级机制，初期重点保障化肥及相关原材料运输。秘书长指出，该机制不会改变任何国家的主权权利，也不会取代恢复航行自由及解决冲突所需的政治努力，但可作为降低风险、保障必需品运输和重建信任的务实第一步。 (央视新闻)",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 15:20:45 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【电报解读】美债规模破40万亿，强化美元信用风险，机构称美财政部扩大长期国债回购操作规模或推动实际利率下行，增强黄金避险配置价值，这家公司项目投产后预计...",
+      "summary": "",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 15:12:56 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国内商品期市夜盘收盘涨跌参半 化工品涨幅居前表现突出",
+      "summary": "【国内商品期市夜盘收盘涨跌参半 化工品涨幅居前表现突出】财联社8月24日电，国内商品期市夜盘收盘涨跌参半，化工品涨幅居前表现突出，国内商品期市夜盘收盘涨跌参半，化工品涨幅居前，DCE乙二醇涨3.17%；能源品全部上涨，SHFE燃油涨2.46%；黑色系多数上涨，SHFE热轧卷板涨0.84%；非金属建材跌幅居前，DCE PVC跌2.63%；油脂油料全部下跌，DCE豆二跌1.17%；农副产品多数下跌，CZCE白糖跌0.45%。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 15:02:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "SpaceXAI采用英伟达Vera CPU来加速Agentic AI",
+      "summary": "【SpaceXAI采用英伟达Vera CPU来加速Agentic AI】财联社8月24日电，SpaceXAI采用英伟达Vera CPU来加速Agentic AI。英伟达称，SpaceXAI 将借助英伟达 Vera Rubin NVL72 系统发射Starmind人工智能卫星。英伟达旗下AI推理加速器Groq 3 LPX已全面投入生产。NVIDIA Vera是首款专为AI代理打造的CPU，旨在加速模型推理中对CPU密集型的工作——从工具使用、代码执行到数据处理、编排和仿真。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 15:02:30 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "港股IPO：上海移芯通信递表港交所",
+      "summary": "【港股IPO：上海移芯通信递表港交所】财联社8月24日电，利弗莫尔证券显示，上海移芯通信科技股份有限公司向港交所提交上市申请书，独家保荐人为中信建投国际。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:56:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "2026年8月票房破50亿",
+      "summary": "【2026年8月票房破50亿】财联社8月24日电，据网络平台数据，截至8月24日，2026年8月总票房（含预售）突破50亿，《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《八仙！》《奥德赛》《空枪》暂列8月票房榜前五。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:46:26 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月24日电，纳斯达克100指数削减跌幅至1%，此前一度下跌1.5%。",
+      "summary": "财联社8月24日电，纳斯达克100指数削减跌幅至1%，此前一度下跌1.5%。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:45:39 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "应急管理部针对福建启动国家地质灾害四级应急响应",
+      "summary": "【应急管理部针对福建启动国家地质灾害四级应急响应】财联社8月24日电，据“应急管理部”公众号消息，据气象部门预测，受台风“紫檀”、“简拉维”残余环流影响，8月25日至27日，福建东部部分地区有大暴雨，局地特大暴雨。经与自然资源部联合会商研判，福建东部部分地区发生地质灾害的风险高。根据《国家突发地质灾害应急预案》及有关规定，应急管理部于8月24日针对福建启动地质灾害四级应急响应，派出工作组指导地方做好台风暴雨期间地质灾害防范应对工作。\n\n应急管理部要求，受台风影响的相关地区要增强风险意识、强化底线思维，全面抓实抓细地质灾害防范应对工作，压紧压实责任，强化多部门会商研判和协同联动，密切监视雨情汛情和地质灾害风险变化趋势，严格落实“灾害点+风险区”双控管理，对山区沟口、临崖陡坡、施工工地、旅游景区等重点部位加强排查，强化预警叫应，坚决果断实施转移避险，做到应转尽转、应转早转。同时要前置预置抢险救援力量和救灾物资，下沉力量加强对基层的指导帮扶，全力开展救援救灾，确保人民群众生命财产安全。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:42:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "印尼班达海发生5.9级地震 震源深度10千米",
+      "summary": "【印尼班达海发生5.9级地震 震源深度10千米】财联社8月24日电，中国地震台网正式测定：08月24日22时10分在印尼班达海（南纬6.74度，东经127.44度）发生5.9级地震，震源深度10千米。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:31:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月24日电，俄罗斯彼尔姆炼油厂在8月21日遭遇无人机袭击后停止了加工生产。",
+      "summary": "财联社8月24日电，俄罗斯彼尔姆炼油厂在8月21日遭遇无人机袭击后停止了加工生产。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:31:07 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "康希通信：拟1.51亿元收购知融科技50.36%股权",
+      "summary": "【康希通信：拟1.51亿元收购知融科技50.36%股权】财联社8月24日电，康希通信(688653.SH)公告称，公司拟向知融芯言（上海）信息有限公司、北京万通新发展集团股份有限公司和海南权淇投资合伙企业（有限合伙）收购其持有的成都知融科技有限公司（简称“知融科技”“标的公司”）50.36%股权，交易金额为1.51亿元。标的公司是一家专注于微波毫米波相控阵T/R芯片（简称“相控阵T/R芯片”）设计、开发、生产与销售的高新技术企业，致力于为客户提供相控阵T/R芯片全套解决方案。若本次收购资产交易成功，公司芯片产品的覆盖领域将在现有Wi-Fi射频前端等短距离无线通信业务基础上，进一步延伸至以相控阵T/R芯片为代表的长距离微波毫米波无线通信领域。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:26:04 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "港股IPO：浙江荣泰递表港交所",
+      "summary": "【港股IPO：浙江荣泰递表港交所】财联社8月24日电，利弗莫尔证券显示，浙江荣泰电工器材股份有限公司向港交所提交上市申请书，独家保荐人为中信证券。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:22:55 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "法国高中于今年秋季新学年起实施手机禁令",
+      "summary": "【法国高中于今年秋季新学年起实施手机禁令】财联社8月24日电，法国总统马克龙表示，他已颁布有关法律，从今年秋季新学年起禁止高中生在校使用手机。马克龙表示，保护儿童免受电子屏幕带来的负面影响已刻不容缓，“没有手机的学校意味着重新找回安宁的学习环境”。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:21:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "也门胡塞武装称再次袭击沙特油轮等多个目标",
+      "summary": "【也门胡塞武装称再次袭击沙特油轮等多个目标】财联社8月24日电，胡塞武装8月24日发表声明称，对沙特“安赞”号油轮实施袭击。声明称，目标位于红海北部、沙特延布沿岸附近，胡塞武装使用弹道导弹实施打击并命中目标，导致船上起火，附近其他船只逃离袭击区域。声明称，此次行动是针对沙特的敌对行为，“以封锁应对封锁”的行动方针。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:16:36 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "摩根资管：投资级债券发行井喷不足为惧 市场企稳料吸引大量买家回归",
+      "summary": "【摩根资管：投资级债券发行井喷不足为惧 市场企稳料吸引大量买家回归】财联社8月24日电，摩根资产管理投资组合经理Kelsey Berro表示，投资级债券市场9月将迎来繁忙的发行期，但企业债需求依然强劲，市场对大量供给的担忧可能过度了。Berro周一表示，市场对9月发行规模的预期区间很宽，在1,750亿至2,500亿美元之间。她称，信用债投资组合经理认为，即便供给达到2,500亿美元，“也不是什么问题”，不过最终发行规模存在不确定性，令市场参与者更难提前做好准备。Berro警告称，如果9月的大量供给能够平稳被市场吸收，目前仍在场外观望的投资者可能会迅速入场。她说：“资金会蜂拥进入市场。”任何市场趋稳的迹象，都可能吸引买盘大举回归。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:16:31 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月24日电，英国首相伯纳姆表示，需要采取更多措施来压缩俄罗斯的石油和液化天然气出口。",
+      "summary": "财联社8月24日电，英国首相伯纳姆表示，需要采取更多措施来压缩俄罗斯的石油和液化天然气出口。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:13:51 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月24日电，据报道，美国将向美国SIIE LLC投资7.5亿美元，用于稀土计划。",
+      "summary": "财联社8月24日电，据报道，美国将向美国SIIE LLC投资7.5亿美元，用于稀土计划。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:12:46 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "药明康德：DEL平台遭遇网络安全事件 目前公司运营一切正常",
+      "summary": "【药明康德：DEL平台遭遇网络安全事件 目前公司运营一切正常】财联社8月24日电，药明康德(603259.SH)公告称，公司生物学业务板块的DEL平台近期遭遇一起网络安全事件。公司已启动应急回应机制，聘请外部网络安全专家及法律顾问展开调查。截至目前，公司信息技术系统运作正常，DEL平台安全性受控。截至目前，尚未发现任何证据显示有资料被公开、滥用或以其他方式被不当利用。公司已主动联系受影响客户进行沟通，目前运营一切正常，服务能力未受影响。",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:12:14 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "【公告全知道】军工+大飞机+低空经济+商业航天！这家C919最大机体结构供应商筹划定增事项用于军民用飞机研制等项目",
+      "summary": "",
+      "link": "",
+      "published": "Mon, 24 Aug 2026 14:08:04 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "SpaceXAI采用英伟达Vera CPU来加速Agentic AI。英伟达称，SpaceXAI 将借助英伟达 Vera Rubin NVL72 系统发射Starmind人工智能卫星。英伟达旗下AI推理加速器Groq ...",
+      "summary": "<p>SpaceXAI采用英伟达Vera CPU来加速Agentic AI。英伟达称，SpaceXAI 将借助英伟达 Vera Rubin NVL72 系统发射Starmind人工智能卫星。英伟达旗下AI推理加速器Groq 3 LPX已全面投入生产。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3780177",
+      "published": "Mon, 24 Aug 2026 15:02:06 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -243,20 +467,6 @@
       "published": "Mon, 24 Aug 2026 13:50:38 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "立讯精密：2026年半年度净利润78.43亿元，同比增长18.04%",
-      "summary": "<p>立讯精密公告，2026年上半年营业收入1745.04亿元，同比增长40.16%；归属于上市公司股东的净利润78.43亿元，同比增长18.04%，2025年同期为66.44亿元。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3780172",
-      "published": "Mon, 24 Aug 2026 13:26:23 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美债问题的实质是什么？",
-      "summary": "<p style=\"text-align: justify;\"><strong>第一，美债问题的实质是什么？</strong>近期长端美债收益率上升明显。至8月21日10年期美债收益率上行至4.74%、30年美债收益率上行至5.27%，形成一定意义上的流动性风险。美债收益率为什么上行？在报告《如何理解海外主要经济体国债收益率新高》中，我们从地缘政治升温、厄尔尼诺影响担忧、财政风险溢价、AI企业长债供给等四个角度做出过解析。</p>\n<p style=\"text-align: justify;\">简单来说就是，决定美债收益率的，除实际增长预期这一基本面之外，还有通胀预期、期限溢价、财政风险溢价。当前三个线索叠加——地缘政治和厄尔尼诺影响推高通胀预期，AI企业发长债和美联储公信力下降推高期限溢价，财政赤字规模上升和债务可持续性担忧推高财政风险溢价——于是三重溢价同时推高长端利率。</p>\n<p style=\"text-align: justify;\">这背后实际上是三组深层次矛盾：</p>\n<p style=\"text-align: justify;\">一是财政规模扩张与低融资成本之间的冲",
-      "link": "https://wallstreetcn.com/articles/3780171",
-      "published": "Mon, 24 Aug 2026 13:15:12 GMT"
-    },
-    {
       "source": "第一财经",
       "title": "越秀服务收入与利润双降，新增合约近七成来自非住项目",
       "summary": "<figure><img alt=\"越秀服务收入与利润双降，新增合约近七成来自非住项目\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/2C5E6F72-55AE-48E8-BF54-661860DC8019.jpg\" /></figure><p>运营亏损和回款的风险是主动撤场的原因。 </p><p>8月24日，越秀服务（06626.HK）披露，2026年上半年，实现总收入19.15亿元，同比下降2.4%，公司拥有人应占盈利为2.24亿元，同比下降6.6%。</p><p>在主要围绕住宅项目展开的各项业务中，作为越秀服务基本盘的基础物管收入实现8.4亿元，同比增长超17%，在总收入中的占比扩大至44%，较上年同期大幅增长8个百分点；非业主增值服务实现收入3.3亿元，同比增长3.8%；而由于房屋装修合同此前已陆续完成结算，报告期内的社区增值服务收入出现了超27%的下滑，实现约5.59亿元。</p><p>在围绕非住宅类的商业物业展开的业务中，来自商业运营及管理服务的收入实现2.91亿元，同比下降超6%；市场定位及租户招揽的收入也实",
@@ -264,39 +474,18 @@
       "published": "Mon, 24 Aug 2026 13:44:00 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "股东大会高票通过，东方证券合并重组迈出关键性一步",
-      "summary": "<figure><img alt=\"股东大会高票通过，东方证券合并重组迈出关键性一步\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/187fc8f4333110419b332aa86d364a6c.jpg\" /></figure><p>8月24日，东方证券股份有限公司（简称“东方证券”，600958.SH，03958.HK）召开2026年第二次临时股东会及2026年第一次A/H股类别股东会。晚间，公司同步发布股东会决议公告，本次东方证券合并重组交易方案等系列议案经股东大会审议，均获高票通过。</p>\n\n<p>本次股东大会备受市场关注，参会股东投票参与热情高涨。其中，东方证券2026年第二次临时股东会参会率达到66.43%，A股类别股东会参会率达到67.68%,H股类别股东会参会率达到55.53%。从投票表决结果来看，合并重组所有议案的通过率达到99%以上，表明东方证券与上海证券的合并重组，受到了投资者的高度支持。本次会议关联股东按规定对本次交易相关议案实施回避表决，全部议案同时完成中小投资者单独计票，充分保障中小股东合法权益。",
-      "link": "https://www.yicai.com/news/103331593.html",
-      "published": "Mon, 24 Aug 2026 13:27:54 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "机器人“国家队”加速进场，多场景规模化商业落地",
-      "summary": "<figure><img alt=\"机器人“国家队”加速进场，多场景规模化商业落地\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/79fcfe0efaf418574e5443255b66eed4.jpg\" /></figure><p>当前央企机器人产业已从单点突破迈入体系化推进新阶段。</p><p>机器人在店里给顾客取货，化身电力巡检卫士对输电线路开展检测、除冰与带电作业，在生产车间分拣、装配、搬运，在月球建设基地、深海水下测绘清淤，向着人类难以抵达的深空、深海空间拓展能力边界……</p>\n\n<p>这些场景出现在刚刚闭幕的世界机器人大会上。此次，48家中央企业的263件优质展品参展。与以往翻跟头、跳舞的炫技不同，机器人更多展现了“会干活、能落地”的创新图景。</p>\n\n<p>在国务院国资委指导下，中国兵器工业集团牵头，联合中央企业、高校及科研院所、民营企业、行业学会等百余家单位组建中央企业机器人创新联合体，并发布央企机器人十大创新成果和十大高价值应用场景。</p>\n\n<p>中国企业改革与发展研究会研究员吴刚梁对第一财经记者表示",
-      "link": "https://www.yicai.com/news/103331579.html",
-      "published": "Mon, 24 Aug 2026 13:22:11 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "新加坡为“情书”打破惯例，黄循财：不可成单语社会",
-      "summary": "<figure><img alt=\"新加坡为“情书”打破惯例，黄循财：不可成单语社会\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/f1dfc8f85ba9efed1bd3fccb39df797d.jpg\" /></figure><p>新加坡改变了对华语方言的限制措施。</p><p>《给阿嬷的情书》风靡中国和东南亚，甚至还在某种意义上推动了新加坡语言政策的改革。</p>\n\n<p>新加坡总理黄循财8月23日在国庆群众大会华语（在新加坡指汉语普通话）演讲中，用潮州话说出了《给阿嬷的情书》中的台词，“做人要有情有义”，获得了在场新加坡人的热烈掌声，他还透露自己看的是潮州话版本的《给阿嬷的情书》，虽然需要看字幕，但感觉看起来更加亲切。</p>\n\n<p>在华语演讲中，黄循财花了很大篇幅继续鼓励华人家庭学习和使用华语，强调“我们要保留我们亚洲社会的本质，绝对不可以成为一个单语社会”，即不能让英语成为新加坡的唯一语言。同时，他还借《给阿嬷的情书》的热映，宣布新加坡将为华语方言的使用腾出更大的空间。</p>\n\n<p><img alt=\"6月1",
-      "link": "https://www.yicai.com/news/103331572.html",
-      "published": "Mon, 24 Aug 2026 13:18:00 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "2026成都车展：自主品牌换道，方盒子求增量",
-      "summary": "<figure><img alt=\"2026成都车展：自主品牌换道，方盒子求增量\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/c5470b8ea4403a8bc2af48a111473880.jpg\" /></figure><p>打出大车的差异化竞争牌。</p><p>2026成都国际车展如约而至，当20个汽车品牌缺席车展，不少自主品牌仍在猛发力，比亚迪、奇瑞、长安各自“包馆”，大车唱主角，尤其是方盒子造型的新车打头阵，鸿蒙智行推出享界G9、比亚迪旗下方程豹钛9、中国一汽旗下的红旗G919、长安汽车旗下的深蓝G318、广汽集团旗下的传祺越7等超过10款方盒子或硬派越野SUV新车集中展出，有业内人士称，这届成都车展是方盒子最多的一届，大车的竞争正卷入另一个赛道。</p>\n\n<p>上险数据显示，2024年越野车市场总量冲至88万辆，创下新高；2025年这一数据再次飙升，突破130万辆。连续2年销量的激增，让陷入国内车市激烈竞争的车企似乎看到了“新蓝海”。但长期以来，越野车往往给消费者留下空间大且质量重的印象，适用于山地、泥泞等非城",
-      "link": "https://www.yicai.com/news/103331547.html",
-      "published": "Mon, 24 Aug 2026 13:03:46 GMT"
-    },
-    {
       "source": "证券时报",
       "title": "拟10派8.1元，大手笔分红又现！多家A股公司业绩大增 - 证券时报",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSHZKLUZ3MDFMbUlXeXMtSFZJWjE3cXQ2R1dGbTE0Wkl0bmdpRDRSeVJJMnZnNndSWkEzU1duR2J1ZG8yS0NteDYxRDBCRWI4WHk5Q1pOaUs4bWc?oc=5\" target=\"_blank\">拟10派8.1元，大手笔分红又现！多家A股公司业绩大增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSHZKLUZ3MDFMbUlXeXMtSFZJWjE3cXQ2R1dGbTE0Wkl0bmdpRDRSeVJJMnZnNndSWkEzU1duR2J1ZG8yS0NteDYxRDBCRWI4WHk5Q1pOaUs4bWc?oc=5",
       "published": "Mon, 24 Aug 2026 13:58:00 GMT"
+    },
+    {
+      "source": "证券时报",
+      "title": "净利猛增超1600%！两大赛道，多家A股业绩爆发 - 证券时报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE43NUFCYWRzbDZ6S0NFam9OZjR6OXZnck53MHl2cURlNU1IdEVNdzhiOTJSODBYRG5qcVdmS0dUN2ZiYldXMHhBZHlFTlBhT2ZKcERMNGRYbXY1OVlO?oc=5\" target=\"_blank\">净利猛增超1600%！两大赛道，多家A股业绩爆发</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43NUFCYWRzbDZ6S0NFam9OZjR6OXZnck53MHl2cURlNU1IdEVNdzhiOTJSODBYRG5qcVdmS0dUN2ZiYldXMHhBZHlFTlBhT2ZKcERMNGRYbXY1OVlO?oc=5",
+      "published": "Mon, 24 Aug 2026 14:13:00 GMT"
     }
   ]
 }
