@@ -1,9 +1,23 @@
 {
   "date": "2026-08-26",
   "hour": "05",
-  "total": 22,
-  "fetched_at": "2026-08-26T05:01:13.829858+08:00",
+  "total": 38,
+  "fetched_at": "2026-08-26T05:16:38.573541+08:00",
   "news": [
+    {
+      "source": "同花顺",
+      "title": "富时中国A50指数期货夜盘收涨0.21%",
+      "summary": "富时中国A50指数期货夜盘收涨0.21%。",
+      "link": "https://news.10jqka.com.cn/20260826/c679280388.shtml",
+      "published": "Tue, 25 Aug 2026 21:16:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "里士满联储主席巴尔金：美国债务问题终将面临清算",
+      "summary": "里士满联储主席巴尔金表示，美国债务问题终将面临清算。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260826/c679280359.shtml",
+      "published": "Tue, 25 Aug 2026 21:04:55 GMT"
+    },
     {
       "source": "同花顺",
       "title": "美国API原油库存增加420万桶，之前一周减少32.8万桶",
@@ -55,17 +69,122 @@
     },
     {
       "source": "财联社",
-      "title": "暴涨时代远去？英伟达财报前夕，期权市场给出了“冷静”预判 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GMm11eDFBLVNvYTB4eGlxS2hCb0J3UkVJRDJsODNlWkhqMTBOVFAzcTUyRU95czZrMmJDYzNLdVh4ZXBLR2xkWA?oc=5\" target=\"_blank\">暴涨时代远去？英伟达财报前夕，期权市场给出了“冷静”预判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GMm11eDFBLVNvYTB4eGlxS2hCb0J3UkVJRDJsODNlWkhqMTBOVFAzcTUyRU95czZrMmJDYzNLdVh4ZXBLR2xkWA?oc=5",
-      "published": "Tue, 25 Aug 2026 20:04:20 GMT"
+      "title": "财联社8月26日电，里士满联储主席巴尔金表示，美国债务问题终将面临清算。",
+      "summary": "财联社8月26日电，里士满联储主席巴尔金表示，美国债务问题终将面临清算。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:00:15 GMT"
     },
     {
       "source": "财联社",
-      "title": "比特币三个月来首次突破8万美元 8月迄今累计涨幅高达28%！ - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ajRZRDRNczN2ank1cmE5OFBBRjhFcU1seGU5b25RSEtjakh4Ukp2V2NraXZMU1dTUjVFOE12OFR1YnFLVk1SRA?oc=5\" target=\"_blank\">比特币三个月来首次突破8万美元 8月迄今累计涨幅高达28%！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ajRZRDRNczN2ank1cmE5OFBBRjhFcU1seGU5b25RSEtjakh4Ukp2V2NraXZMU1dTUjVFOE12OFR1YnFLVk1SRA?oc=5",
-      "published": "Tue, 25 Aug 2026 20:44:40 GMT"
+      "title": "财联社8月26日电，美国API原油库存增加420万桶，之前一周减少32.8万桶。",
+      "summary": "财联社8月26日电，美国API原油库存增加420万桶，之前一周减少32.8万桶。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:53:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，美国疾控中心（CDC）表示，5月1日至8月24日期间，美国共报告17,180例实验室确诊的圆孢子虫病病例。",
+      "summary": "财联社8月26日电，美国疾控中心（CDC）表示，5月1日至8月24日期间，美国共报告17,180例实验室确诊的圆孢子虫病病例。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:50:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，伊朗外交部副部长加里巴巴迪表示，如果美国继续对伊朗实施新制裁，伊朗将公布针对美国利益的新措施。",
+      "summary": "财联社8月26日电，伊朗外交部副部长加里巴巴迪表示，如果美国继续对伊朗实施新制裁，伊朗将公布针对美国利益的新措施。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:34:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，美国国家飓风中心（NHC）表示，预计拉拉（Lala）将在数日内减弱为后热带气旋。",
+      "summary": "财联社8月26日电，美国国家飓风中心（NHC）表示，预计拉拉（Lala）将在数日内减弱为后热带气旋。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:33:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "布油期货跌幅扩大至5.75%",
+      "summary": "【布油期货跌幅扩大至5.75%】财联社8月26日电，国际油价跌幅持续扩大，截至目前，WTI原油期货价格跌5.24%，报80.558美元/桶；布伦特原油期货价格跌5.75%，报85.330美元/桶。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:17:05 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，据伊朗方面消息，伊朗与阿曼力争在60天内达成霍尔木兹海峡永久通道方案。",
+      "summary": "财联社8月26日电，据伊朗方面消息，伊朗与阿曼力争在60天内达成霍尔木兹海峡永久通道方案。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:13:38 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，ZOOM第二财季营收12.8亿美元，市场预估12.7亿美元。",
+      "summary": "财联社8月26日电，ZOOM第二财季营收12.8亿美元，市场预估12.7亿美元。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:06:54 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "台风“紫檀”在广东省徐闻县沿海再次登陆",
+      "summary": "【台风“紫檀”在广东省徐闻县沿海再次登陆】财联社8月26日电，今年第19号台风“紫檀”（热带风暴级）的中心已于26日3时25分前后在广东省徐闻县沿海再次登陆，登陆时中心附近最大风力有8级（18米/秒），中心最低气压998百帕。登陆后将向北偏东方向移动，强度逐渐减弱。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:03:35 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，财捷第四财季净营收为43.5亿美元，市场预估为42.7亿美元。财捷预计第一财季营收为42.9亿美元至43.1亿美元，市场预估为43.7亿美元。",
+      "summary": "财联社8月26日电，财捷第四财季净营收为43.5亿美元，市场预估为42.7亿美元。财捷预计第一财季营收为42.9亿美元至43.1亿美元，市场预估为43.7亿美元。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:03:16 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "利弗莫尔中概股龙头指数收涨1.53%",
+      "summary": "【利弗莫尔中概股龙头指数收涨1.53%】财联社8月26日电，利弗莫尔中概股龙头指数收涨1.53%。成分股中，富途涨8.55%，世纪互联涨6.41%，BOSS直聘涨5.47%，网易涨4.74%，奇富科技涨4.64%。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:02:13 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "纳指收涨0.66% 光通信、存储板块走强",
+      "summary": "【纳指收涨0.66% 光通信、存储板块走强】财联社8月26日电，美股三大指数集体收涨，道指涨0.3%，标普500指数涨0.32%，纳指涨0.66%。“科技七巨头”涨跌不一，英伟达涨2.19%，Meta涨1.97%，微软涨0.90%，特斯拉涨0.37%，苹果跌0.14%，谷歌跌0.36%，亚马逊跌0.39%。光通信、存储板块多数上涨，Lumentum涨超6%，Applied Optoelectronics涨超5%，Coherent涨超4%；希捷科技、西部数据涨超3%，SK海力士、美光科技涨超2%。加密货币概念股走强，Hut 8 mining涨超7%，Figure、IREN涨超6%，Circle、Coinbase涨超4%，Strategy涨超3%。石油股走弱，埃克森美孚跌超2%，雪佛龙、康菲石油、斯伦贝谢跌超1%。矿业股走强，埃氏金业、科尔黛伦矿业、金田涨超3%。<br /><img src=\"https://image.cls.cn/images/20260826/OQWZWg5X6u_732x279.png\" />",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:01:08 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，国际油价跌幅扩大，截至目前，WTI原油期货价格跌4.12%，报81.508美元/桶；布伦特原油期货价格跌4.46%，报86.499美元/桶。",
+      "summary": "财联社8月26日电，国际油价跌幅扩大，截至目前，WTI原油期货价格跌4.12%，报81.508美元/桶；布伦特原油期货价格跌4.46%，报86.499美元/桶。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 19:56:02 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，贡沃尔（Gunvor）据悉正在洽谈以超过10亿美元收购海恩斯维尔（Haynesville）页岩资产。",
+      "summary": "财联社8月26日电，贡沃尔（Gunvor）据悉正在洽谈以超过10亿美元收购海恩斯维尔（Haynesville）页岩资产。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 19:40:26 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "国际油价25日显著下跌",
+      "summary": "【国际油价25日显著下跌】财联社8月26日电，国际油价25日显著下跌。截至当天收盘，纽约商品交易所10月交货的轻质原油期货价格下跌2.65美元，收于每桶82.36美元，跌幅为3.12%；10月交货的伦敦布伦特原油期货价格下跌3.59美元，收于每桶88.58美元，跌幅为3.89%。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 19:29:43 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美元指数25日下跌",
+      "summary": "【美元指数25日下跌】财联社8月26日电，衡量美元对六种主要货币的美元指数当天下跌0.09%，在汇市尾市收于98.915。截至纽约汇市尾市，1欧元兑换1.1674美元，高于前一交易日的1.1663美元；1英镑兑换1.3646美元，高于前一交易日的1.3631美元。1美元兑换159.22日元，高于前一交易日的159.19日元；1美元兑换0.8020瑞士法郎，低于前一交易日的0.8026瑞士法郎；1美元兑换1.3830加元，低于前一交易日的1.3850加元；1美元兑换9.4659瑞典克朗，低于前一交易日的9.4973瑞典克朗。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 19:19:57 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，OpenAI数据中心负责人Chris Malone据悉已离职。",
+      "summary": "财联社8月26日电，OpenAI数据中心负责人Chris Malone据悉已离职。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 19:17:35 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -136,13 +255,6 @@
       "summary": "<p>“人类正处于AGI的前夜。加入DeepSeek，可亲历AGI的发展进程，坐在时代前排，见证一个新纪元的诞生。”DeepSeek招聘启事中这样写道。</p>\n<p>正值第二轮融资启动之际，对那些想要上桌的投资人们，此番愿景之言同样受用且撩拨心弦。</p>\n<p>今年6月，DeepSeek首轮融资完成，参与方除了国资、市场化机构和互联网企业，还有一出手就是50亿的宁德时代。进一步穿透，九安医疗、汤臣倍健、七匹狼等实业资本同样在列。</p>\n<p>然而少有人注意到，那位独来独往的中国首富钟睒睒，也通过旗下私募基金间接投了DeepSeek，投资规模约在3.5亿左右。</p>\n<p>同样在杭州起家，钟睒睒和DeepSeek梁文锋历来低调，鲜少站在聚光灯下。这一次，他们罕见地走到一起。</p>\n<h2><strong>罕见出手，</strong><strong>钟睒睒与DeepSeek</strong></h2>\n<p>难得在AI圈看到钟睒睒身影。</p>\n<p>回到DeepSeek首轮融资，参与者除了国家人工智能基金外，其他包括腾讯、宁德时代、网易、京东、IDG资本、正心谷、Monolit",
       "link": "https://wallstreetcn.com/articles/3780281",
       "published": "Tue, 25 Aug 2026 19:21:24 GMT"
-    },
-    {
-      "source": "上海证券报",
-      "title": "沪指探底回升收红 算力基建与内需板块共振 - 上海证券报电子版",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE53R1dITllVZkItT2FhLXp1UnN0czhJZzJLZVpFWXE3MFYxWm1xV2JkYlFzTkNPN2NqMUlXRXk4MUw4VUc0QW1JMlVURXhwY2hUNTU3aFA4bXd6eXh1aktFWHM5N25Cb3dxRXJ2S0RR?oc=5\" target=\"_blank\">沪指探底回升收红 算力基建与内需板块共振</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53R1dITllVZkItT2FhLXp1UnN0czhJZzJLZVpFWXE3MFYxWm1xV2JkYlFzTkNPN2NqMUlXRXk4MUw4VUc0QW1JMlVURXhwY2hUNTU3aFA4bXd6eXh1aktFWHM5N25Cb3dxRXJ2S0RR?oc=5",
-      "published": "Tue, 25 Aug 2026 19:03:06 GMT"
     },
     {
       "source": "雪球热帖",
