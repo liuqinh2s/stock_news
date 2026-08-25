@@ -1,9 +1,16 @@
 {
   "date": "2026-08-26",
   "hour": "06",
-  "total": 24,
-  "fetched_at": "2026-08-26T06:01:01.134293+08:00",
+  "total": 34,
+  "fetched_at": "2026-08-26T06:14:26.699747+08:00",
   "news": [
+    {
+      "source": "同花顺",
+      "title": "美联储9月维持利率不变的概率为60.4%",
+      "summary": "据CME“美联储观察”：美联储到9月维持利率不变的概率为60.4%，累计加息25个基点的概率为39.6%。美联储到10月维持利率不变的概率为45.7%，累计加息25个基点的概率为44.7%，累计加息50个基点的概率为9.7%。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260826/c679280605.shtml",
+      "published": "Tue, 25 Aug 2026 22:03:03 GMT"
+    },
     {
       "source": "同花顺",
       "title": "特朗普将美沙核协议提交国会审议",
@@ -68,46 +75,109 @@
       "published": "Tue, 25 Aug 2026 20:17:42 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "ZOOM第二财季营收12.8亿美元，市场预估12.7亿美元",
-      "summary": "ZOOM第二财季营收12.8亿美元，市场预估12.7亿美元。",
-      "link": "https://news.10jqka.com.cn/20260826/c679280309.shtml",
-      "published": "Tue, 25 Aug 2026 20:08:35 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "纳指收涨0.66% 光通信、存储板块走强",
-      "summary": "美股三大指数集体收涨，道指涨0.3%，标普500指数涨0.32%，纳指涨0.66%。光通信、存储板块多数上涨，Lumentum涨超6%，Applied Optoelectronics涨超5%，Coherent涨超4%；希捷科技、西部数据涨超3%，SK海力士、美光科技涨超2%。加密货币概念股走强，Hut 8 mining涨超7%，Figure、IREN涨超6%，Circle、Coinbase涨超4%，Strategy涨超3%。石油股走弱，埃克森美孚跌超2%，雪佛龙、康菲石油、斯伦贝谢跌超1%。",
-      "link": "https://news.10jqka.com.cn/20260826/c679280305.shtml",
-      "published": "Tue, 25 Aug 2026 20:01:58 GMT"
+      "source": "财联社",
+      "title": "财联社8月26日电，调查显示，略过半分析师认为日本央行在2027年第一季将利率上调至至少1.50%，先前调查结果为1.25%。",
+      "summary": "财联社8月26日电，调查显示，略过半分析师认为日本央行在2027年第一季将利率上调至至少1.50%，先前调查结果为1.25%。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 22:10:14 GMT"
     },
     {
       "source": "财联社",
-      "title": "摩根大通瞄准AI造富潮 放宽新上市股票质押贷款时间限制 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ycHZ4bUNhZUpuMkNKdHRET01zVG1SZWJ5MVdJRzF4dkNoU2RzZkVMWkRjR19iNUR4NFJtSEJJNXVNNTloX0p5eQ?oc=5\" target=\"_blank\">摩根大通瞄准AI造富潮 放宽新上市股票质押贷款时间限制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ycHZ4bUNhZUpuMkNKdHRET01zVG1SZWJ5MVdJRzF4dkNoU2RzZkVMWkRjR19iNUR4NFJtSEJJNXVNNTloX0p5eQ?oc=5",
-      "published": "Tue, 25 Aug 2026 21:59:10 GMT"
+      "title": "美联储9月维持利率不变的概率为60.4%",
+      "summary": "【美联储9月维持利率不变的概率为60.4%】财联社8月26日电，据CME“美联储观察”：美联储到9月维持利率不变的概率为60.4%，累计加息25个基点的概率为39.6%。美联储到10月维持利率不变的概率为45.7%，累计加息25个基点的概率为44.7%，累计加息50个基点的概率为9.7%。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 22:02:29 GMT"
     },
     {
       "source": "财联社",
-      "title": "暴涨时代远去？英伟达财报前夕，期权市场给出了“冷静”预判 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GMm11eDFBLVNvYTB4eGlxS2hCb0J3UkVJRDJsODNlWkhqMTBOVFAzcTUyRU95czZrMmJDYzNLdVh4ZXBLR2xkWA?oc=5\" target=\"_blank\">暴涨时代远去？英伟达财报前夕，期权市场给出了“冷静”预判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9GMm11eDFBLVNvYTB4eGlxS2hCb0J3UkVJRDJsODNlWkhqMTBOVFAzcTUyRU95czZrMmJDYzNLdVh4ZXBLR2xkWA?oc=5",
-      "published": "Tue, 25 Aug 2026 20:04:20 GMT"
+      "title": "财联社8月26日电，周三亚太早盘，WTI原油期货价格跌1.49%，报81.136美元/桶。道琼斯指数期货跌0.01%，标普500指数期货涨0.01%，纳斯达克100指数期货涨0.08%。",
+      "summary": "财联社8月26日电，周三亚太早盘，WTI原油期货价格跌1.49%，报81.136美元/桶。道琼斯指数期货跌0.01%，标普500指数期货涨0.01%，纳斯达克100指数期货涨0.08%。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 22:00:50 GMT"
     },
     {
       "source": "财联社",
-      "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE41Y0ZVcG0xWWc0VkNWeXFEM2FTSFBQbkpzdUU5azhHUTU4N0RJTmtRekhaOGNXdWg2dTJnUmZzMnZMal9kdmh4Z1JxOHV1anFNTVIyTUt5RlIzWXFZRExDYktUa3BsWGlKYVR4Z2hXOXBVTmpfOTh2MA?oc=5\" target=\"_blank\">美股收盘：三大指数集体收涨 市场静待英伟达财报</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41Y0ZVcG0xWWc0VkNWeXFEM2FTSFBQbkpzdUU5azhHUTU4N0RJTmtRekhaOGNXdWg2dTJnUmZzMnZMal9kdmh4Z1JxOHV1anFNTVIyTUt5RlIzWXFZRExDYktUa3BsWGlKYVR4Z2hXOXBVTmpfOTh2MA?oc=5",
-      "published": "Tue, 25 Aug 2026 21:19:00 GMT"
+      "title": "消息人士：美中东情报设施遭伊朗重创 修复或需数十亿美元",
+      "summary": "【消息人士：美中东情报设施遭伊朗重创 修复或需数十亿美元】财联社8月26日电，据美国方面当地时间8月25日消息，4名知情人士表示，伊朗的导弹和无人机袭击对美国在中东的情报站点和监控设备造成严重破坏，损毁程度超过美国情报机构以往遭受的任何类似打击，修复费用预计将达到数十亿美元。其中两名知情人士称，伊朗的袭击已迫使美国国会寻找资金，用于修复受损设施。同时，美方官员也在重新评估如何在伊朗无人机和导弹威胁上升的背景下，部署相关人员和情报资源。 (央视新闻)",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:54:04 GMT"
     },
     {
       "source": "财联社",
-      "title": "纳指收涨0.66% 光通信、存储板块走强 - 手机网易网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pZnF2QzdmdlE1T1VJeW44MU52RzR5UW1uQlF5YWVDbWJIOUJYb3lJaVhpZTNwQWJSbDM2MFB5THZEWGtzbFhaWHNROXB6TnU0YWY2b25LZEpIUmx1U0tkZGdn?oc=5\" target=\"_blank\">纳指收涨0.66% 光通信、存储板块走强</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机网易网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pZnF2QzdmdlE1T1VJeW44MU52RzR5UW1uQlF5YWVDbWJIOUJYb3lJaVhpZTNwQWJSbDM2MFB5THZEWGtzbFhaWHNROXB6TnU0YWY2b25LZEpIUmx1U0tkZGdn?oc=5",
-      "published": "Tue, 25 Aug 2026 20:14:02 GMT"
+      "title": "财联社8月26日电，特朗普将美沙核协议提交国会审议。",
+      "summary": "财联社8月26日电，特朗普将美沙核协议提交国会审议。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:53:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，美国国务卿鲁比奥据悉于近日告知多位外国对口官员，“目前”预计美国不会对伊朗发起新的打击，美国对伊朗从打击转向制裁。",
+      "summary": "财联社8月26日电，美国国务卿鲁比奥据悉于近日告知多位外国对口官员，“目前”预计美国不会对伊朗发起新的打击，美国对伊朗从打击转向制裁。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:33:23 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，德勤因涉嫌就业歧视将支付2150万美元和解金。",
+      "summary": "财联社8月26日电，德勤因涉嫌就业歧视将支付2150万美元和解金。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:30:14 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "周三（8月26日）重点关注财经事件和经济数据",
+      "summary": "【周三（8月26日）重点关注财经事件和经济数据】\n① 09:30 澳大利亚7月未季调CPI\n② 16:00 瑞士8月ZEW投资者信心指数\n③ 20:30 美国7月核心PCE物价指数；美国7月个人支出；美国第二季度实际GDP\n④ 22:30 美国上周EIA原油库存\n⑤ 英伟达于美股盘后公布财报",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:29:06 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，富时中国A50指数期货夜盘收涨0.21%。",
+      "summary": "财联社8月26日电，富时中国A50指数期货夜盘收涨0.21%。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:15:33 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，里士满联储主席巴尔金表示，美国债务问题终将面临清算。",
+      "summary": "财联社8月26日电，里士满联储主席巴尔金表示，美国债务问题终将面临清算。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 21:00:15 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，美国API原油库存增加420万桶，之前一周减少32.8万桶。",
+      "summary": "财联社8月26日电，美国API原油库存增加420万桶，之前一周减少32.8万桶。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:53:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，美国疾控中心（CDC）表示，5月1日至8月24日期间，美国共报告17,180例实验室确诊的圆孢子虫病病例。",
+      "summary": "财联社8月26日电，美国疾控中心（CDC）表示，5月1日至8月24日期间，美国共报告17,180例实验室确诊的圆孢子虫病病例。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:50:10 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，伊朗外交部副部长加里巴巴迪表示，如果美国继续对伊朗实施新制裁，伊朗将公布针对美国利益的新措施。",
+      "summary": "财联社8月26日电，伊朗外交部副部长加里巴巴迪表示，如果美国继续对伊朗实施新制裁，伊朗将公布针对美国利益的新措施。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:34:28 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "财联社8月26日电，美国国家飓风中心（NHC）表示，预计拉拉（Lala）将在数日内减弱为后热带气旋。",
+      "summary": "财联社8月26日电，美国国家飓风中心（NHC）表示，预计拉拉（Lala）将在数日内减弱为后热带气旋。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:33:12 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "布油期货跌幅扩大至5.75%",
+      "summary": "【布油期货跌幅扩大至5.75%】财联社8月26日电，国际油价跌幅持续扩大，截至目前，WTI原油期货价格跌5.24%，报80.558美元/桶；布伦特原油期货价格跌5.75%，报85.330美元/桶。",
+      "link": "",
+      "published": "Tue, 25 Aug 2026 20:17:05 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -125,17 +195,17 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "美伊停火谈判传重大进展！据称双方就霍尔木兹自由通航达成共识，布油一度跌6%",
-      "summary": "<p>美伊停火谈判传出重大进展。</p>\n<p>俄罗斯媒体Sputnik援引巴基斯坦军方和伊朗安全部门消息人士称，美国与伊朗已就停火协议条款达成共识，其中包括霍尔木兹海峡自由通航。消息人士称，美伊双方预计将在未来几天公布相关消息，并根据此前由巴基斯坦斡旋达成的伊斯兰堡谅解备忘录（MoU），启动谈判及技术性会议。</p>\n<p>Sputnik称，上述消息人士透露，美伊双方已就停火协议达成共识，其中明确纳入霍尔木兹海峡自由航行条款。消息人士没有透露协议其他具体内容，仅表示双方预计将在未来几天公布相关消息。按照前述伊斯兰堡MoU，下一步将启动谈判，并举行一轮技术性会议。</p>\n<p>美东时间25日周二美股临近收盘时，传出上述俄媒消息传出后，国际原油期货跌幅迅速扩大。美国WTI原油期货盘中跌幅扩大至5%以上，布伦特原油期货一度较周一收盘下跌6%。</p>\n<p>市场正在迅速交易美伊局势缓和以及霍尔木兹海峡航运恢复的预期：如果停火最终落地、海峡实现自由通航，当前原油价格中包含的中东地缘政治风险溢价以及海运供应中断风险都可能进一步消退。</p>\n<p>不过，当前消息仍主要来自俄罗斯卫星通讯社援引",
-      "link": "https://wallstreetcn.com/articles/3780290",
-      "published": "Tue, 25 Aug 2026 20:37:49 GMT"
-    },
-    {
-      "source": "华尔街见闻",
       "title": "Anthropic上市前抛出30万亿的豪言 这个数字究竟意味着什么？",
       "summary": "<p style=\"text-align: left;\">8月25日，《华尔街日报》援引知情人士报道了一个数字：Anthropic准备在IPO路演中告诉投资者，它面对的潜在市场规模（TAM）超过30万亿美元。</p><p style=\"text-align: left;\">这个数字引发了大量讨论，但其中很多讨论一上来就搞错了一件事——把TAM当成了Anthropic对自己营收的预期。不是的。30万亿美元和“Anthropic打算赚多少钱”是两回事，厘清这一点，才能看见这个数字真正令人不安的地方。</p>",
       "link": "https://wallstreetcn.com/member/articles/3780288",
       "published": "Tue, 25 Aug 2026 20:37:19 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美伊停火谈判传重大进展！据称就霍尔木兹自由通航达成共识，布油一度跌6%",
+      "summary": "<p>美伊停火谈判传出重大进展。</p>\n<p>俄罗斯媒体Sputnik援引巴基斯坦军方和伊朗安全部门消息人士称，美国与伊朗已就停火协议条款达成共识，其中包括霍尔木兹海峡自由通航。消息人士称，美伊双方预计将在未来几天公布相关消息，并根据此前由巴基斯坦斡旋达成的伊斯兰堡谅解备忘录（MoU），启动谈判及技术性会议。</p>\n<p>Sputnik称，上述消息人士透露，美伊双方已就停火协议达成共识，其中明确纳入霍尔木兹海峡自由航行条款。消息人士没有透露协议其他具体内容，仅表示双方预计将在未来几天公布相关消息。按照前述伊斯兰堡MoU，下一步将启动谈判，并举行一轮技术性会议。</p>\n<p>美东时间25日周二美股临近收盘时，传出上述俄媒消息传出后，国际原油期货跌幅迅速扩大。美国WTI原油期货盘中跌幅扩大至5%以上，布伦特原油期货一度较周一收盘跌去约6%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/ddc4f1a5-8a34-402e-a2d1-8ecc457b8ed7.jpeg\" /></p>\n<p>市场正在迅速交易美",
+      "link": "https://wallstreetcn.com/articles/3780290",
+      "published": "Tue, 25 Aug 2026 20:34:20 GMT"
     },
     {
       "source": "华尔街见闻",
