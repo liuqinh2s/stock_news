@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
   "hour": "05",
-  "total": 23,
-  "fetched_at": "2026-08-27T05:01:01.356166+08:00",
+  "total": 28,
+  "fetched_at": "2026-08-27T05:26:05.655650+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -10,6 +10,41 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SU0FsSHAxanFZOEx0cmRoN1ZuR0ItNzZVYnJVZG45bTFEZ1VoNFMxSm9nQW1DUjA4bXB3R01aWkdSaDl3MkJFNFlyUDFTZDkwR0tfWjdGZHJOdGJjdGNsOG5DOEp4ZHluSGd6alNjbmR0Z3EtSW1tN0pxNWY1MkE?oc=5\" target=\"_blank\">137570:华泰联合证券有限责任公司关于舟山交通投资集团有限公司关于变更信息披露事务负责人的临时受托管理事务报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SU0FsSHAxanFZOEx0cmRoN1ZuR0ItNzZVYnJVZG45bTFEZ1VoNFMxSm9nQW1DUjA4bXB3R01aWkdSaDl3MkJFNFlyUDFTZDkwR0tfWjdGZHJOdGJjdGNsOG5DOEp4ZHluSGd6alNjbmR0Z3EtSW1tN0pxNWY1MkE?oc=5",
       "published": "Wed, 26 Aug 2026 20:06:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达首席财务官表示，公司已向人工智能实验室投入超过500亿美元",
+      "summary": "英伟达首席财务官表示，公司已向人工智能实验室投入超过500亿美元。",
+      "link": "https://news.10jqka.com.cn/20260827/c679321407.shtml",
+      "published": "Wed, 26 Aug 2026 21:22:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达首席财务官：预计将在本季度晚些时候开始向早期客户大规模出货Groq 3 LPX",
+      "summary": "英伟达首席财务官表示，预计将在本季度晚些时候开始向早期客户大规模出货Groq 3 LPX，首批客户包括Nebius。Nebius盘后拉升涨超6%。",
+      "link": "https://news.10jqka.com.cn/20260827/c679321400.shtml",
+      "published": "Wed, 26 Aug 2026 21:19:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达首席财务官表示，本月早些时候已开始发货Vera Rubin",
+      "summary": "英伟达首席财务官表示，本月早些时候已开始发货Vera Rubin。Vera Rubin每部署1吉瓦算力，对应约400亿美元的营收机会。",
+      "link": "https://news.10jqka.com.cn/20260827/c679321398.shtml",
+      "published": "Wed, 26 Aug 2026 21:12:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达首席财务官表示2028财年营收将增长约70%",
+      "summary": "英伟达首席财务官表示2028财年营收将增长约70%。英伟达盘后涨幅扩大至3%。",
+      "link": "https://news.10jqka.com.cn/20260827/c679321393.shtml",
+      "published": "Wed, 26 Aug 2026 21:09:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达称亚马逊将额外部署200万块GPU",
+      "summary": "英伟达称亚马逊将额外部署200万块GPU。",
+      "link": "https://news.10jqka.com.cn/20260827/c679321392.shtml",
+      "published": "Wed, 26 Aug 2026 21:08:20 GMT"
     },
     {
       "source": "同花顺",
@@ -89,18 +124,25 @@
       "published": "Wed, 26 Aug 2026 19:44:16 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "美元指数26日上涨",
-      "summary": "衡量美元对六种主要货币的美元指数26日上涨0.25%，在汇市尾市收于99.17。截至纽约汇市尾市，1欧元兑换1.17美元，低于前一交易日的1.17美元；1英镑兑换1.36美元，低于前一交易日的1.36美元。1美元兑换159.4日元，高于前一交易日的159.22日元；1美元兑换0.8055瑞士法郎，高于前一交易日的0.8020瑞士法郎；1美元兑换1.39加元，高于前一交易日的1.38加元；1美元兑换9.53瑞典克朗，高于前一交易日的9.47瑞典克朗。",
-      "link": "https://news.10jqka.com.cn/20260827/c679321241.shtml",
-      "published": "Wed, 26 Aug 2026 19:12:09 GMT"
+      "source": "华尔街见闻",
+      "title": "英伟达在电话会上表示，亚马逊将额外部署200万块GPUs。英伟达盘后涨3%",
+      "summary": "<p>英伟达在电话会上表示，亚马逊将额外部署200万块GPUs。英伟达盘后涨3%。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3780381",
+      "published": "Wed, 26 Aug 2026 21:06:14 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "投资公司Kimmeridge：美国拟建的数据中心可能半数面临延期或取消风险",
-      "summary": "投资公司Kimmeridge Energy Management Co.表示，由于反对情绪升温以及实体基础设施建设本身的复杂性，美国拟建的数据中心最多半数面临延期或取消风险。Kimmeridge联合创始人兼管理合伙人Ben Dell表示：“硅谷式的模式正在撞上现实世界的基础设施约束。”随着为人工智能热潮供电的新电厂陆续建设，美国天然气需求预计将上升。不过Dell表示，如果数据中心项目出现延期，相关需求预测可能也会被下调。美国天然气生产商普遍寄望于AI推动天然气消费增长。（财联社）",
-      "link": "https://news.10jqka.com.cn/20260827/c679321227.shtml",
-      "published": "Wed, 26 Aug 2026 19:02:37 GMT"
+      "source": "华尔街见闻",
+      "title": "Salesforce大涨！Q3指引超预期，与Anthropic扩大合作｜财报见闻",
+      "summary": "<p>Salesforce业绩与前景双双超出预期，叠加与Anthropic达成深度合作，令市场对其在AI时代的竞争力重拾信心。</p>\n<p>该公司周三发布的财报显示，第二财季营收同比增长11%至113亿美元，符合分析师预期，每股调整后盈利5.90美元。</p>\n<p>Salesforce预计，截至10月的第三财季营收约为115亿美元，略高于分析师平均预期；代表未来销售情况的\"当前剩余履约义务\"预计增长约14%，同样高于市场平均预期的13%。</p>\n<p>首席财务及运营官Robin Washington表示，即便剔除收购影响，公司营收下半年也将提速增长，当前净订单规模为四年来最强，并预计下半年营收将在无收购贡献的前提下实现加速增长。</p>\n<p>与此同时，Salesforce宣布与AI模型开发商Anthropic扩大合作，将其产品整合进Claude平台，允许销售人员在AI应用内直接调取客户信息及销售周期数据。</p>\n<p>Salesforce股价盘后上涨14%，此前收报205.62美元。该股年初曾出现明显回调，但截至周三收盘，过去一个月累计涨幅已达26%，表明投资者情绪已有所回暖",
+      "link": "https://wallstreetcn.com/articles/3780380",
+      "published": "Wed, 26 Aug 2026 21:02:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "OpenAI发布技术报告：详解AI模型如何突破Hugging Face安全防线",
+      "summary": "<p>AI模型自主突破生产环境安全防线，引发科技界震动，监管压力随之而来。</p>\n<p>周三，OpenAI发布一份37页技术报告，详述其AI模型上月成功入侵开源开发平台Hugging Face的全过程。这一事件被该公司定性为\"前所未有的网络安全事件\"，在科技行业高管和研究人员中引发强烈震动。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/5357075b-9852-4518-81d1-8304037c5872.png\" /></p>\n<p>报告显示，参与此次入侵的模型包括GPT-5.6 Sol及一款内部研究模型，两者均以自主代理形式运行，协同突破了安全防控。OpenAI同步披露了已采取的一系列补救措施。此次事件已引起华盛顿立法者关注，并推动相关AI监管立法提案的出台，对AI行业安全治理框架构成直接压力。</p>\n<div>\n<h2 id=\"9da959ab\">事件经过：代理模型协同突破隔离环境</h2>\n</div>\n<p>根据OpenAI报告，7月21日披露的这起事件中，上述AI代理模型原本运行于一个互联",
+      "link": "https://wallstreetcn.com/articles/3780379",
+      "published": "Wed, 26 Aug 2026 21:02:13 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -157,13 +199,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JYkUzd0hhV253U0FtRnJkZ2NsdGhkN1liOEFrXzE1S0ZPdnhfMUQxblFyaUM5WE9mT0NEcGcyZXRWQkhlM25fRVVhTTBiS2RvTG1r?oc=5\" target=\"_blank\">比特币与黄金基金在稀缺性交易热潮中吸引70亿美元资金</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JYkUzd0hhV253U0FtRnJkZ2NsdGhkN1liOEFrXzE1S0ZPdnhfMUQxblFyaUM5WE9mT0NEcGcyZXRWQkhlM25fRVVhTTBiS2RvTG1r?oc=5",
       "published": "Wed, 26 Aug 2026 19:27:02 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "比特币与黄金基金在稀缺性交易热潮中吸引70亿美元资金 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZZm52Y1JkVzlYZWwxX0pQaDNZSlBUelc1VzhlVGptTVpuR0w2MmZHT1E4c2xTbGpoUU14YmtXNnNvZHF5VURCODdIWkE1SFYtTGQzeg?oc=5\" target=\"_blank\">比特币与黄金基金在稀缺性交易热潮中吸引70亿美元资金</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZZm52Y1JkVzlYZWwxX0pQaDNZSlBUelc1VzhlVGptTVpuR0w2MmZHT1E4c2xTbGpoUU14YmtXNnNvZHF5VURCODdIWkE1SFYtTGQzeg?oc=5",
-      "published": "Wed, 26 Aug 2026 19:25:00 GMT"
     }
   ]
 }
