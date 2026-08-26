@@ -1,8 +1,8 @@
 {
   "date": "2026-08-27",
   "hour": "00",
-  "total": 59,
-  "fetched_at": "2026-08-27T00:00:56.735495+08:00",
+  "total": 55,
+  "fetched_at": "2026-08-27T00:08:35.865337+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -56,28 +56,21 @@
     {
       "source": "新浪财经",
       "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNREoxOEozQUF2T0tGaUdPVURHVE5NNkxUU2JyS1ZiWkJvVlVGeFpISlQzTzRXcFFqdDl3SXc1eFYxUUFmbmxrblBlT2I0dWg3Y0dOWEkxVnR1T3FmX1lNV3lIcWNNelRTWUU2ZEtaaGRkVEg3OGNBT1Z3ZExzNk8zcHhoTFNidEIwTkFoSXpFQzJldFlRbzhIQzBTWVpybWhNd3QyWQ?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREoxOEozQUF2T0tGaUdPVURHVE5NNkxUU2JyS1ZiWkJvVlVGeFpISlQzTzRXcFFqdDl3SXc1eFYxUUFmbmxrblBlT2I0dWg3Y0dOWEkxVnR1T3FmX1lNV3lIcWNNelRTWUU2ZEtaaGRkVEg3OGNBT1Z3ZExzNk8zcHhoTFNidEIwTkFoSXpFQzJldFlRbzhIQzBTWVpybWhNd3QyWQ?oc=5",
-      "published": "Wed, 26 Aug 2026 14:02:51 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3dfNGJUMzNLV3ZDSEJLWTVGR3BiRGxUSXBpNjJ4LWxkSkl4aWpWTzNTWTZTRWlQNzJOUWpOczJBaV9HWjlNMFVoRkc5REJ2Y2FjZHFPdVhVN2F6UVRwd05rZVZScmJwX0FWbHpveGh1ck91VW9WYnJieXBvNGcxMzN1Zk1HWkN0cEw3LVVlVVFzaU93QWQw?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ3dfNGJUMzNLV3ZDSEJLWTVGR3BiRGxUSXBpNjJ4LWxkSkl4aWpWTzNTWTZTRWlQNzJOUWpOczJBaV9HWjlNMFVoRkc5REJ2Y2FjZHFPdVhVN2F6UVRwd05rZVZScmJwX0FWbHpveGh1ck91VW9WYnJieXBvNGcxMzN1Zk1HWkN0cEw3LVVlVVFzaU93QWQw?oc=5",
-      "published": "Wed, 26 Aug 2026 14:02:50 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3diM3RCeWxrV0xIdURvdnFsZ0hQbVJwX2NqcHJSamsxbzQ2SnJkY3dIZ0R5dUYxRjlsYmU1V0xiR2ZFZk53ak5GVGVFWFlfejltLWxfUVdPZHBOV1NRMWRTb0RGT25IY0xhaHlneVg5SVNERHQzYW9ab2R1NGN3VVZaT0taOXRnTEdzSWRqLWJKSktBRXJsNGhSdjl5ZEdRNTBF?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3diM3RCeWxrV0xIdURvdnFsZ0hQbVJwX2NqcHJSamsxbzQ2SnJkY3dIZ0R5dUYxRjlsYmU1V0xiR2ZFZk53ak5GVGVFWFlfejltLWxfUVdPZHBOV1NRMWRTb0RGT25IY0xhaHlneVg5SVNERHQzYW9ab2R1NGN3VVZaT0taOXRnTEdzSWRqLWJKSktBRXJsNGhSdjl5ZEdRNTBF?oc=5",
       "published": "Wed, 26 Aug 2026 14:44:40 GMT"
     },
     {
       "source": "同花顺",
+      "title": "苹果将于9月9日举行新款iPhone发布会",
+      "summary": "苹果将于9月9日举行新款iPhone发布会。（财联社）",
+      "link": "https://news.10jqka.com.cn/20260827/c679320478.shtml",
+      "published": "Wed, 26 Aug 2026 16:04:32 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "欧洲债券跌幅扩大",
-      "summary": "欧洲债券跌幅扩大，意大利10年期国债收益率上涨6个基点至4.06%。（财联社）",
+      "summary": "欧洲债券跌幅扩大，意大利10年期国债收益率上涨6个基点至4.06%。",
       "link": "https://news.10jqka.com.cn/20260826/c679320443.shtml",
       "published": "Wed, 26 Aug 2026 15:58:38 GMT"
     },
@@ -208,11 +201,11 @@
       "published": "Wed, 26 Aug 2026 14:17:27 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "中央农办等部署持续推动农村高额彩礼整治提质增效",
-      "summary": "农村高额彩礼综合整治是牵动农民群众利益的“大民生”。中央农村工作领导小组办公室、中央精神文明建设办公室将加强工作部署，全面落实农村高额彩礼整治的重点任务，持续推动农村高额彩礼整治提质增效。 这是记者26日在江西赣州召开的部分省份农村高额彩礼问题综合整治经验交流会上了解到的。 据了解，经过持续整治，农村高额彩礼水平呈现持续下降趋势，“零彩礼”“低彩礼”家庭占比大幅提升，婚事简办、节俭办婚成为农村婚恋新潮流。尽管农村高额彩礼整治取得了积极进展，但整治进展还不平衡、整治成果还没有得到充分巩固，一些地方农村高额彩礼问题仍然突出。 “农村高额彩礼涉及一些深层次社会经济问题，必须深化规律性认识，以钉钉子精神狠抓落实，推动整治工作往深里走、往实里落。”中央农村工作领导小组办公室有关负责人说，必须逐步完善工作体系，持续迭代整治措施，有效应对新情况新问题，不断巩固拓展治理成效，促进文明婚俗从外力推动一步步转为群众自觉。 他表示，要聚焦重点区域、重点人群、突出问题，创新思路举措，加大工作力度，确保各项整治任务落地落细、见行见效。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260826/c679319243.shtml",
-      "published": "Wed, 26 Aug 2026 14:02:35 GMT"
+      "source": "财联社",
+      "title": "财联社8月27日电，苹果将于9月9日举行新款iPhone发布会。",
+      "summary": "财联社8月27日电，苹果将于9月9日举行新款iPhone发布会。",
+      "link": "",
+      "published": "Wed, 26 Aug 2026 16:03:50 GMT"
     },
     {
       "source": "财联社",
@@ -348,13 +341,6 @@
       "published": "Wed, 26 Aug 2026 14:32:51 GMT"
     },
     {
-      "source": "财联社",
-      "title": "美国上周原油库存增加9.5万桶 低于市场预期",
-      "summary": "【美国上周原油库存增加9.5万桶 低于市场预期】财联社8月26日电，EIA数据显示，美国上周原油库存增加9.5万桶，市场预估为增加59.7万桶。美国上周汽油库存减少253.6万桶，市场预估为减少67.0万桶。美国上周馏分油库存减少222.8万桶，市场预估为减少157.0万桶。美国上周炼厂产能利用率上升0.2个百分点。",
-      "link": "",
-      "published": "Wed, 26 Aug 2026 14:30:49 GMT"
-    },
-    {
       "source": "华尔街见闻",
       "title": "从预算执行报告看更加积极的财政政策精准发力",
       "summary": "<p>受国务院委托，财政部副部长林泽昌8月25日向十四届全国人大常委会第二十四次会议报告了今年以来预算执行情况。报告指出，今年以来，财政政策更加积极、精准发力，预算执行和财政运行总体平稳。</p>\n<p>财政收入方面，报告显示，今年以来，一般公共预算收入平稳增长。前7个月，全国一般公共预算收入143696亿元，同比增长5.8%。其中，中央一般公共预算收入63857亿元，同比增长9.1%；地方一般公共预算本级收入79839亿元，同比增长3.3%。</p>\n<p>财政支出方面，报告显示，各级财政部门落实党政机关过紧日子要求，及时批复预算，强化预算执行监督，重点领域支出得到较好保障。前7个月，全国一般公共预算支出162889亿元，同比增长1.3%。</p>\n<p>今年我国继续实施更加积极的财政政策。具体实施情况如何？</p>\n<p>优化个人消费贷款和服务业经营主体贷款贴息政策，实施中小微企业贷款贴息、民间投资专项担保、民营企业债券风险分担等增量举措，惠及企业622万家、居民1.13亿人次；下达支持消费品以旧换新的超长期特别国债资金1875亿元，带动相关商品销售额1.32万亿元，惠及1.78亿",
@@ -402,20 +388,6 @@
       "summary": "<figure><img alt=\"上半年收入超去年全年，MiniMax创始人：下一阶段拼速度和决策\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/1540658A-2888-4D59-AF82-A523F5A97549.jpg\" /></figure><p>大模型商业化的接力棒交给B端。</p><p>8月26日，MiniMax发布了2026年半年度业绩报告。上半年MiniMax总收入约为1.2亿美元（约合人民币8.1亿元），同比增长283.1%，增幅近3倍。与此同时，MiniMax报告期内的净亏损为3.58亿美元（约合人民币24.1亿元），同比收窄11%。</p><p>2025年MiniMax总收入是7900万美元，今年上半年的收入是2025年全年收入的1.5倍。在业绩交流会上，MiniMax创始人、CEO闫俊杰还提到，公司8月年度经常性收入（ARR）已超过8亿美元（约合人民币53.8亿元）。</p><p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\"",
       "link": "https://www.yicai.com/news/103335505.html",
       "published": "Wed, 26 Aug 2026 14:42:44 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "财政贴息大升级！六大行集体公告明确政策细节",
-      "summary": "<figure><img alt=\"财政贴息大升级！六大行集体公告明确政策细节\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/08/d61ed285e1be5eb06b8c641a982dc3ff.jpg\" /></figure><p>下半年有望继续加码。</p><p>自今年8月1日起，流动资金贷款也能享受财政贴息了。近两日，国有六大行陆续针对中小微企业贷款和服务业经营主体贷款贴息政策的热点问题发布答疑文章，明确自8月1日起执行最新贴息政策。</p>\n\n<p>此前，各行已针对个人消费贷最新贴息政策进行新一轮热门问题解答。二者的共同背景在于，财政部、央行、金融监管总局于近日联合发布了《关于进一步做好财政金融协同促内需政策有关工作的通知》（下称《通知》），对中小微企业贷款和个人消费贷款贴息政策进行优化。</p>\n\n<p>这被视为7月30日中共中央政治局会议召开后，政策支持由“促投资”进一步向企业经营和居民消费延伸的信号。受访人士普遍认为，在信贷需求持续不振、贷款利率行至低位背景下，通过财政资金撬动信贷需求，进而带动居民和企业部门的支出与",
-      "link": "https://www.yicai.com/news/103335491.html",
-      "published": "Wed, 26 Aug 2026 14:03:22 GMT"
-    },
-    {
-      "source": "中国证券报",
-      "title": "8月26日增减持汇总：利扬芯片等6股拟减持，当日暂无A股公司拟增持（表） - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAtblRVdlU4cXkydjdRckN4Y3JKZG9GTnRIdHBCSmwzZk16ajRrdVN5YUhzalBnVnpmS1J3Qmk5LUZoRmlYTE53enI4a2FfbXRmZGJoVUJ6RlowUDgyOFc5OEpNT1IzV3g0REs3ZnBveTdPeFZRWDRtNA?oc=5\" target=\"_blank\">8月26日增减持汇总：利扬芯片等6股拟减持，当日暂无A股公司拟增持（表）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtblRVdlU4cXkydjdRckN4Y3JKZG9GTnRIdHBCSmwzZk16ajRrdVN5YUhzalBnVnpmS1J3Qmk5LUZoRmlYTE53enI4a2FfbXRmZGJoVUJ6RlowUDgyOFc5OEpNT1IzV3g0REs3ZnBveTdPeFZRWDRtNA?oc=5",
-      "published": "Wed, 26 Aug 2026 14:27:00 GMT"
     }
   ]
 }
