@@ -1,15 +1,50 @@
 {
   "date": "2026-09-05",
   "hour": "05",
-  "total": 22,
-  "fetched_at": "2026-09-05T05:01:02.771253+08:00",
+  "total": 27,
+  "fetched_at": "2026-09-05T05:08:07.115125+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "中创智领（郑州）工业技术集团股份有限公司关于以集中竞价交易方式回购A股股份的回购报告书 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE10Y0lnWVFWQml2amhyZ21nS0NUcVVreGxXOWFPc1VQLVJib1U1WE1NdkJGd0tVaGNvMnBlbzhKQURrRHVHalN3clp2N3Vfci1fYmRCd2NqbUtyQ3hZWmx6VUpZa2U2TlZMVEtNejV5SXlrS3lCUW1tZA?oc=5\" target=\"_blank\">中创智领（郑州）工业技术集团股份有限公司关于以集中竞价交易方式回购A股股份的回购报告书</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10Y0lnWVFWQml2amhyZ21nS0NUcVVreGxXOWFPc1VQLVJib1U1WE1NdkJGd0tVaGNvMnBlbzhKQURrRHVHalN3clp2N3Vfci1fYmRCd2NqbUtyQ3hZWmx6VUpZa2U2TlZMVEtNejV5SXlrS3lCUW1tZA?oc=5",
+      "published": "Fri, 04 Sep 2026 19:16:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "沧州明珠塑料股份有限公司关于向特定对象发行A股股票提交募集说明书（注册稿）及有关申请文件更新的提示性公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9mUHhOQzRTQkJfbTd3TXJhZldBZWJmQ2ExQi1IUjlQM1AtTTJ3OGV5VlJ6TklUWWFLRmFkZWtCT0Fwb1ZLam53SEdGMnNabkQ3dlNZS29QcTZYRklRckktOEk3WGNwdWkzclRhRUpYSG9PNFpXTGFfUg?oc=5\" target=\"_blank\">沧州明珠塑料股份有限公司关于向特定对象发行A股股票提交募集说明书（注册稿）及有关申请文件更新的提示性公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9mUHhOQzRTQkJfbTd3TXJhZldBZWJmQ2ExQi1IUjlQM1AtTTJ3OGV5VlJ6TklUWWFLRmFkZWtCT0Fwb1ZLam53SEdGMnNabkQ3dlNZS29QcTZYRklRckktOEk3WGNwdWkzclRhRUpYSG9PNFpXTGFfUg?oc=5",
+      "published": "Fri, 04 Sep 2026 19:16:00 GMT"
+    },
     {
       "source": "东方财富",
       "title": "今天股市高开震荡，幸好有债基稳稳收蛋，股债搭配的意义就在于，股票决定你飞多高，债券决定你摔下来时疼不疼。 - 股吧",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nWS05ZmxkZ01jMXFSX0tfLVVRTVFHNXowSGNCNUZ3clNlREFuV2pybUZtb2lYN3JJV085Z3VxQnRXTjk1MkhxRmdTWV9CeEZ2b3ZqUzdGdTA4NDlTRGZTaUwzTFpvYVk?oc=5\" target=\"_blank\">今天股市高开震荡，幸好有债基稳稳收蛋，股债搭配的意义就在于，股票决定你飞多高，债券决定你摔下来时疼不疼。</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">股吧</font>",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nWS05ZmxkZ01jMXFSX0tfLVVRTVFHNXowSGNCNUZ3clNlREFuV2pybUZtb2lYN3JJV085Z3VxQnRXTjk1MkhxRmdTWV9CeEZ2b3ZqUzdGdTA4NDlTRGZTaUwzTFpvYVk?oc=5",
       "published": "Fri, 04 Sep 2026 19:41:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货黄金周五纽约尾盘跌0.98%，报4429.07美元/盎司",
+      "summary": "周五（9月4日）纽约尾盘，现货黄金跌0.98%，报4429.07美元/盎司，本周累计下跌0.57%。现货白银跌1.22%，报66.165美元/盎司，本周累跌0.27%。",
+      "link": "https://news.10jqka.com.cn/20260905/c679622638.shtml",
+      "published": "Fri, 04 Sep 2026 21:05:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国际金价在非农就业报告出炉时跳水将近80美元，打破本周稍早出现的V形反转",
+      "summary": "周五（9月4日）纽约尾盘，现货黄金跌0.98%，报4429.07美元/盎司，美国非农就业报告出炉时从4470美元上方跳水、北京时间21:01刷新日低至4365.73美元，本周累计下跌0.57%，非农就业报告发布前呈现出V形反转。现货白银跌1.22%，报66.165美元/盎司，本周累跌0.27%。COMEX铜期货涨0.05%，报6.6675美元/磅，本周累涨0.14%。在美股时段交易的费城金银指数收跌1.66%，报408.92点，本周累跌1.03%。在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌1.4%，报2861.78点，本周累跌0.94%。在美股时段交易的原材料指数收跌0.52%，报252.37点，本周累跌1.16%。在美股时段交易的金属与矿业指数收涨0.25%，报287.39点，本周累涨0.37%。State Street金属与矿业ETF收涨0.20%，报118.62美元，本周累跌0.10%。",
+      "link": "https://news.10jqka.com.cn/20260905/c679622637.shtml",
+      "published": "Fri, 04 Sep 2026 21:03:25 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以军称对黎巴嫩南部实施空袭",
+      "summary": "当地时间4日晚，以色列国防军发表声明称，作为对黎巴嫩真主党违反停火协议的回应，以军对黎巴嫩南部实施了空袭。以军表示，当天早些时候，真主党武装人员向正在黎南部“安全区”内执行任务的以军部队发射了一架无人机。以军开火击落了该架无人机，没有以军人员在此次事件中受伤。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260905/c679622636.shtml",
+      "published": "Fri, 04 Sep 2026 21:02:24 GMT"
     },
     {
       "source": "同花顺",
@@ -103,18 +138,11 @@
       "published": "Fri, 04 Sep 2026 19:10:28 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
-      "summary": "美国总统特朗普当地时间9月4日表示，美国特使威特科夫与库什纳将向俄罗斯提交结束俄乌冲突的方案。此前有消息人士称，威特科夫和库什纳计划在近期访问俄罗斯和乌克兰。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260905/c679622539.shtml",
-      "published": "Fri, 04 Sep 2026 19:05:15 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "恒指期货夜盘收涨0.05%",
-      "summary": "恒指期货夜盘收涨0.05%，报25671点，高水20.13点。",
-      "link": "https://news.10jqka.com.cn/20260905/c679622538.shtml",
-      "published": "Fri, 04 Sep 2026 19:02:19 GMT"
+      "source": "华尔街见闻",
+      "title": "标普罕见拉响AI基建信用警报：7万亿美元资本开支黑洞逼近，科技巨头债务可持续性遭拷问",
+      "summary": "<p>当股权投资者还在争论AI资本开支是否过度时，债务市场已率先对科技巨头的“烧钱”游戏进行风险定价。</p>\n<p>在最新发布的信用展望报告中，标普罕见地对超大规模云服务商发出系统性信用警告。<strong>该机构预计，前六大超大规模企业至2030年的资本支出总额将突破7万亿美元，这一庞大体量已使美国私营部门近半数的经济增长与AI活动深度绑定。</strong></p>\n<p>报告直指两大核心隐患：<strong>AI投资回报率（ROI）未被量化</strong>，以及<strong>日益复杂的循环融资结构</strong>。标普更明确点名<strong>亚马逊面临失去AA评级的风险，而甲骨文若遭降级将直接跌入垃圾级。</strong></p>\n<p>这一来自核心评级机构的“入场”信号，打破了此前仅由卖方分析师和股权投资者主导的质疑。随着科技巨头在债券市场的融资规模不断膨胀，信用视角的切换意味着债务市场已开始对AI基建的隐性风险进行重新定价。</p>\n<h2>投资回报数据缺失，评级机构被迫依赖假设</h2>\n<p>评级过程通常赋予分析师获取大量非公开信息的权限，但标普在报告中直言：尽",
+      "link": "https://wallstreetcn.com/articles/3781119",
+      "published": "Fri, 04 Sep 2026 20:58:36 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -157,6 +185,13 @@
       "summary": "<p style=\"text-align: left;\">9月4日上午8点半，劳工统计局亮出8月非农：新增就业16.2万，约为道琼斯一致预期的三倍。数据一出，债市闪崩、美元拉升、黄金跳水。不到一个半小时，特朗普就在Truth Social上贴大字报：威胁不降息就切断跟所有对美顺差国家的贸易，还冲着沃什喊“做一回爱国者吧”。</p><p style=\"text-align: left;\">而再过11天，沃什就要主持上任以来最关键的一次FOMC会议。</p><p style=\"text-align: left;\">好戏已经开场了。</p>",
       "link": "https://wallstreetcn.com/member/articles/3781115",
       "published": "Fri, 04 Sep 2026 19:19:01 GMT"
+    },
+    {
+      "source": "上海证券报",
+      "title": "A股成交额重上2万亿元 AI应用赛道反复活跃 - 上海证券报电子版",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9RT2xMREFOOEw0M3BSUi14VmhTNFdZTm1lR1FmX1BLZWFKQzhvbEJCcFFSWTlBeVFCM2RQZ1l2bUtxTTloNU0wSUZiSzdSWUJXMExBR2IycHhnRzM5bGx6OFpKai0zT19Xb3ZtcEhB?oc=5\" target=\"_blank\">A股成交额重上2万亿元 AI应用赛道反复活跃</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RT2xMREFOOEw0M3BSUi14VmhTNFdZTm1lR1FmX1BLZWFKQzhvbEJCcFFSWTlBeVFCM2RQZ1l2bUtxTTloNU0wSUZiSzdSWUJXMExBR2IycHhnRzM5bGx6OFpKai0zT19Xb3ZtcEhB?oc=5",
+      "published": "Fri, 04 Sep 2026 19:22:03 GMT"
     }
   ]
 }
