@@ -1,22 +1,22 @@
 {
   "date": "2026-09-06",
   "hour": "13",
-  "total": 22,
-  "fetched_at": "2026-09-06T13:01:01.377226+08:00",
+  "total": 17,
+  "fetched_at": "2026-09-06T13:16:20.780415+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVczdWxSMWxHUG5pWnhTRHJpaHhLSnQtcE9jUUt2X0plbmRRVVhWci1DbjVqN2RpOHVjZ296aWRGNlh6OFVMQXdGcHpBeXl2aFA1THlWN0ZuWkF3cURodVdvdWtFamsxeXVOMTB0VUFMTTZUSGpIVE5QM2dfSzQ5Q3FiWlFVdDBGbGI1OW9CZjdqRE5NZWxqc0tOWFJfZGJyUGZR?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVczdWxSMWxHUG5pWnhTRHJpaHhLSnQtcE9jUUt2X0plbmRRVVhWci1DbjVqN2RpOHVjZ296aWRGNlh6OFVMQXdGcHpBeXl2aFA1THlWN0ZuWkF3cURodVdvdWtFamsxeXVOMTB0VUFMTTZUSGpIVE5QM2dfSzQ5Q3FiWlFVdDBGbGI1OW9CZjdqRE5NZWxqc0tOWFJfZGJyUGZR?oc=5",
-      "published": "Sun, 06 Sep 2026 03:01:30 GMT"
-    },
     {
       "source": "东方财富",
       "title": "ST易联众，申请“摘帽”！违规担保、违规借款事项已消除 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTa1VlTXg3RWV6aU9ERndJbV9PSHNDY3U0NGZwVVJFNFByMFI1OWw2M0tmdVlXSmhlV2JyRGdDc1N1ZjBDMndmVm1mb1RIc2xEMDUtUk9SakpjLTRXWGdpNw?oc=5\" target=\"_blank\">ST易联众，申请“摘帽”！违规担保、违规借款事项已消除</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTa1VlTXg3RWV6aU9ERndJbV9PSHNDY3U0NGZwVVJFNFByMFI1OWw2M0tmdVlXSmhlV2JyRGdDc1N1ZjBDMndmVm1mb1RIc2xEMDUtUk9SakpjLTRXWGdpNw?oc=5",
       "published": "Sun, 06 Sep 2026 04:43:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "研究：激素动态监测或有助识别一种常见高血压病因",
+      "summary": "英国曼彻斯特大学近日发布的一项研究显示，通过可穿戴设备对人体激素水平进行24小时连续监测，可发现常规检测可能遗漏的异常激素波动，这或许有助更早诊断一种常见但容易被忽视的高血压病因——原发性醛固酮增多症。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260906/c679629779.shtml",
+      "published": "Sun, 06 Sep 2026 05:11:49 GMT"
     },
     {
       "source": "同花顺",
@@ -75,34 +75,6 @@
       "published": "Sun, 06 Sep 2026 03:33:16 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "下周苹果折叠屏iPhone将亮相",
-      "summary": "苹果将在当地时间9月9日（北京时间9月10日凌晨1点）举行秋季新品发布会，这也是约翰·特努斯接任CEO后的首场产品发布会。最大的悬念自然是苹果传闻已久的首款折叠屏iPhone，同时iPhone 18 Pro、iPhone 18 Pro Max等高端机型也将同步亮相，不过后者的关注焦点更偏向于“定价涨多少”。知名科技爆料人、折叠屏爱好者马克·古尔曼周日在社交媒体上分享称，他已经豪掷20美元，早早地买好了苹果折叠屏的保护壳。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20260906/c679629537.shtml",
-      "published": "Sun, 06 Sep 2026 03:15:17 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "国内首款 长沙造具身智能机器人拿下欧盟CE“护照”",
-      "summary": "长沙长泰机器人有限公司近日收到一份来自欧洲的“硬核快递”，其自主研发的具身智能绕线机器人通过欧盟CE认证，成为国内首款获此认证的工业具身智能机器人产品。CE认证是产品进入欧盟市场的安全准入“护照”。（湖南日报）",
-      "link": "https://news.10jqka.com.cn/20260906/c679629524.shtml",
-      "published": "Sun, 06 Sep 2026 03:11:11 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中哈粮食交易平台正式上线运行",
-      "summary": "9月5日，中哈粮食企业见面交流会在湖南省长沙市举行。会上，中哈粮食交易平台正式上线运行。中哈粮食交易平台由国家粮食和物资储备局粮食交易协调中心和哈萨克斯坦国家粮食贸易集团共同建设，依托中国国家粮食交易平台共同打造，具有社会公信力强、资源集聚度高、综合服务完善等诸多优势，将为两国企业提供规范、高效、便捷的线上粮食贸易新渠道。（国家粮食和物资储备局）",
-      "link": "https://news.10jqka.com.cn/20260906/c679629522.shtml",
-      "published": "Sun, 06 Sep 2026 03:09:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "教育部明确校服购买遵循自愿 严禁未经集体决策选购校服",
-      "summary": "近段时间，各地中小学校服采购工作陆续启动。校服质量关系学生健康，家长们十分关注。 今年，教育部会同相关部门持续推进中小学校园餐、教辅、校服“三项整治”。3月，新版基础教育规范管理负面清单发布，严禁强制购买校服，利用购买校服牟利、侵害群众利益。 该负责人介绍，学校应当深入论证，并与家长委员会充分沟通，以确定是否选用校服。严禁未经集体决策选购校服，不得以校园活动、仪容仪表等为由设置穿着门槛。一般来说，校服采购每3年一个时段，即小学一至三年级、四至六年级、初中阶段、高中阶段，分时段在起始年级采购。毕业年级不组织采购校服。（人民日报）",
-      "link": "https://news.10jqka.com.cn/20260906/c679629502.shtml",
-      "published": "Sun, 06 Sep 2026 03:02:30 GMT"
-    },
-    {
       "source": "财联社",
       "title": "南向资金追踪｜净买入近34亿港元 加仓长飞光纤及Minimax抛售阿里 - 富途牛牛",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVMwMEdVWk1INTRxMmFvTVVKelAtMTdJUGdEejRSU2RDZkI5cjUxSlZuZFlZeElBR2FCSUFaODRTOTlwSWtPQ0R6UXFaN2wwWnM2eVplNzVqWWNSM05VVFpjbVF6VjNoQUhlOVhHSmR0cG0xbVVyLXc5bE9XNEdCSThkT0lkQUphWmJoQk1UMk5kOU9nbkEycw?oc=5\" target=\"_blank\">南向资金追踪｜净买入近34亿港元 加仓长飞光纤及Minimax抛售阿里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">富途牛牛</font>",
@@ -150,13 +122,6 @@
       "summary": "<figure><img alt=\"OpenAI再曝安全事故，旗下智能体“劫持”冷门网站\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/09/281ca836095b9a48a5e5137e035515ba.jpg\" /></figure><p>即使没有漏洞，多个Agent也可能通过第三方服务建立自己的通信渠道。</p><p>就在OpenAI刚披露7月入侵Hugging Face安全事件不久，另一宗Agent安全事故浮出水面。</p>\n\n<p>近日，多名独立AI安全研究人员披露，今年5月至7月间，一批疑似由OpenAI部署的自主Agent进入德国程序员社区网站DseWiki，并留下超过1.5万条编辑记录。</p>\n\n<p>Wiki是一套支持任何人在网页上直接编辑修改网页内容的网站技术。不用注册复杂后台，普通访问者就可以增删、改写页面文字，保存立刻生效。DseWiki则是一个运营二十余年、面向程序员的德语协作Wiki站点，近年来已十分冷清。</p>\n\n<p>9月4日，该事件首次被研究人员披露时，OpenAI表示无法对尚未审阅的报告具体",
       "link": "https://www.yicai.com/news/103352686.html",
       "published": "Sun, 06 Sep 2026 03:49:21 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "下周外盘看点丨美国CPI如何影响美联储，苹果秋季发布会来了",
-      "summary": "<figure><img alt=\"下周外盘看点丨美国CPI如何影响美联储，苹果秋季发布会来了\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/09/b83936cd89c38768a6a1678eb855aa6c.jpg\" /></figure><p>下周最大焦点锁定在美国通胀数据；外界预计苹果届时将发布首款折叠屏iPhone；甲骨文、梅西百货等将发布财报。</p><p>本周国际市场风云变幻，中东局势大幅推高油气价格，美国非农重燃加息前景。美股涨跌互现，道指周跌0.27%，纳指周涨0.40%，标普500指数周涨0.09%，欧洲三大股指分化，英国富时100指数周涨0.06%，德国DAX 30指数周跌1.97%，法国CAC 40指数周跌1.46%。</p>\n\n<p>下周看点颇多，最大焦点锁定在美国通胀数据，投资者将据此研判美联储未来数月是否加息，甚至评估本月就启动加息的可能性。欧洲方面，受能源价格高企推动，市场预期欧洲央行将再度加息。亚洲市场，投资者重点关注日本央行利率路径信号。</p>\n\n<div style=\"text-align:",
-      "link": "https://www.yicai.com/news/103352644.html",
-      "published": "Sun, 06 Sep 2026 03:05:57 GMT"
     }
   ]
 }
