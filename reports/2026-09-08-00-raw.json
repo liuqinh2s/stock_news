@@ -1,9 +1,16 @@
 {
   "date": "2026-09-08",
   "hour": "00",
-  "total": 34,
-  "fetched_at": "2026-09-08T00:01:04.676460+08:00",
+  "total": 47,
+  "fetched_at": "2026-09-08T00:15:01.104442+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "1.96万亿元缩量背后 A股磨底进入倒计时 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9xbURTaXdpT0R2WDJ1N0Y0QlV2NVpRRG50SUJjU1EzMkxmZUQ1Qkc5MXFUXy1RYlZGUzU5UkxvbldORC0tOXVQbVZMT3M5cnFmcE1WSDYtMC1yVlZJdXdDT0R3c1BhZFRQRjM1elk1aDJVVkpOU2M1bQ?oc=5\" target=\"_blank\">1.96万亿元缩量背后 A股磨底进入倒计时</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xbURTaXdpT0R2WDJ1N0Y0QlV2NVpRRG50SUJjU1EzMkxmZUQ1Qkc5MXFUXy1RYlZGUzU5UkxvbldORC0tOXVQbVZMT3M5cnFmcE1WSDYtMC1yVlZJdXdDT0R3c1BhZFRQRjM1elk1aDJVVkpOU2M1bQ?oc=5",
+      "published": "Mon, 07 Sep 2026 16:00:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "A股再现主动退市 多元化退市格局持续完善 - 新浪财经",
@@ -41,13 +48,6 @@
     },
     {
       "source": "新浪财经",
-      "title": "佳创视讯A股股东户数增加172户增幅0.70%，流通A股户均持股1.5万股降幅0.70%，户均持股市值9.72万元降幅6.33% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUxTb1RqeVllZV9zTG5Vd0pDNlhhZ1N4MFFZbWpTcXVYUGc3LXN4N3VvaDJtSG1SMWpDZ0liUUhpMVN4ZW56UDdVSXRBTmJfWV9zdFlKSjRYZ0VCcm01Q1NTWXktREV2RGVWSmVoWkhJZXZfNGM4MklFbC1YakZTeWUyRWE3SHU2UVFBZg?oc=5\" target=\"_blank\">佳创视讯A股股东户数增加172户增幅0.70%，流通A股户均持股1.5万股降幅0.70%，户均持股市值9.72万元降幅6.33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUxTb1RqeVllZV9zTG5Vd0pDNlhhZ1N4MFFZbWpTcXVYUGc3LXN4N3VvaDJtSG1SMWpDZ0liUUhpMVN4ZW56UDdVSXRBTmJfWV9zdFlKSjRYZ0VCcm01Q1NTWXktREV2RGVWSmVoWkhJZXZfNGM4MklFbC1YakZTeWUyRWE3SHU2UVFBZg?oc=5",
-      "published": "Mon, 07 Sep 2026 15:40:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "上海新阳A股股东户数减少386户降幅0.86%，流通A股户均持股6252.36股增幅0.87%，户均持股市值55.23万元增幅5.56% - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQdHFYMGJwNDRvb0g5Mnp6ZElBQWZGRUZuaUlqMnplNzdSdUFUR1lkRkMwMlZsSVBPd3Frb1VuaUlMZVJORmlTQ3BndzdNcW5SelllcTEyOFN4UG9OVkt1WWFMMFJzNUtkblJOdmpKTHRzYkNmMVA1clcyNDF1emNDUFVvVGxFY1NlSEdvYQ?oc=5\" target=\"_blank\">上海新阳A股股东户数减少386户降幅0.86%，流通A股户均持股6252.36股增幅0.87%，户均持股市值55.23万元增幅5.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdHFYMGJwNDRvb0g5Mnp6ZElBQWZGRUZuaUlqMnplNzdSdUFUR1lkRkMwMlZsSVBPd3Frb1VuaUlMZVJORmlTQ3BndzdNcW5SelllcTEyOFN4UG9OVkt1WWFMMFJzNUtkblJOdmpKTHRzYkNmMVA1clcyNDF1emNDUFVvVGxFY1NlSEdvYQ?oc=5",
@@ -55,9 +55,9 @@
     },
     {
       "source": "新浪财经",
-      "title": "永泰运A股股东户数增加945户增幅11.21%，流通A股户均持股8517.98股降幅10.08%，户均持股市值24.88万元降幅3.29% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTjRMY0Z5cHlsYkhMRUZGYVBVV2s0amxieUlGbWhlR0JaaVRua3g2Qk5HUWh6cUtMV1FmZ3NuMGlpandEU09JNzByVDRYMlJUaFdZbFpxVF93YVFSYlVFdFdGTkFESEtZcmtKRkFsUjdjWWFjUEtiUVY4R0lCUjJ1RF95ellFbWo0Q2U2Zw?oc=5\" target=\"_blank\">永泰运A股股东户数增加945户增幅11.21%，流通A股户均持股8517.98股降幅10.08%，户均持股市值24.88万元降幅3.29%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTjRMY0Z5cHlsYkhMRUZGYVBVV2s0amxieUlGbWhlR0JaaVRua3g2Qk5HUWh6cUtMV1FmZ3NuMGlpandEU09JNzByVDRYMlJUaFdZbFpxVF93YVFSYlVFdFdGTkFESEtZcmtKRkFsUjdjWWFjUEtiUVY4R0lCUjJ1RF95ellFbWo0Q2U2Zw?oc=5",
+      "title": "佳创视讯A股股东户数增加172户增幅0.70%，流通A股户均持股1.5万股降幅0.70%，户均持股市值9.72万元降幅6.33% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUxTb1RqeVllZV9zTG5Vd0pDNlhhZ1N4MFFZbWpTcXVYUGc3LXN4N3VvaDJtSG1SMWpDZ0liUUhpMVN4ZW56UDdVSXRBTmJfWV9zdFlKSjRYZ0VCcm01Q1NTWXktREV2RGVWSmVoWkhJZXZfNGM4MklFbC1YakZTeWUyRWE3SHU2UVFBZg?oc=5\" target=\"_blank\">佳创视讯A股股东户数增加172户增幅0.70%，流通A股户均持股1.5万股降幅0.70%，户均持股市值9.72万元降幅6.33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRUxTb1RqeVllZV9zTG5Vd0pDNlhhZ1N4MFFZbWpTcXVYUGc3LXN4N3VvaDJtSG1SMWpDZ0liUUhpMVN4ZW56UDdVSXRBTmJfWV9zdFlKSjRYZ0VCcm01Q1NTWXktREV2RGVWSmVoWkhJZXZfNGM4MklFbC1YakZTeWUyRWE3SHU2UVFBZg?oc=5",
       "published": "Mon, 07 Sep 2026 15:40:00 GMT"
     },
     {
@@ -69,16 +69,16 @@
     },
     {
       "source": "新浪财经",
-      "title": "华平股份A股股东户数增加71户增幅0.27%，流通A股户均持股2.1万股降幅0.26%，户均持股市值8.04万元增幅1.33% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDFRRjJ3VTBuWmNpRVY3RUNjSlp6d2lUemUzdVU3XzUyLUVhcXNJZ1NVei0zMWNnYXF5Rlh1TEZLUmt4ZW1WdkZOSFJPRTFvc0xEQzdUdkcwX3ZndDNFQXdRNkpyNlphT3ZYWTlfU29WVGVTdmZiVTRyT2hoZ0t4WHJIU3NCdDlVLWQ0Rw?oc=5\" target=\"_blank\">华平股份A股股东户数增加71户增幅0.27%，流通A股户均持股2.1万股降幅0.26%，户均持股市值8.04万元增幅1.33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDFRRjJ3VTBuWmNpRVY3RUNjSlp6d2lUemUzdVU3XzUyLUVhcXNJZ1NVei0zMWNnYXF5Rlh1TEZLUmt4ZW1WdkZOSFJPRTFvc0xEQzdUdkcwX3ZndDNFQXdRNkpyNlphT3ZYWTlfU29WVGVTdmZiVTRyT2hoZ0t4WHJIU3NCdDlVLWQ0Rw?oc=5",
+      "title": "天禄科技A股股东户数减少2132户降幅16.46%，流通A股户均持股8384.44股增幅19.71%，户均持股市值57.06万元增幅22.96% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzZPSlg4UGdtbWg4aW5ycnRsSDZxelNOb0VVbXdabDNlVDF5VDZfQmJjMHI4MTBBR2JIb3lMZzFrNUdVQlhmb3NoUEFQR3F2TjZaN2tfaHVoZFZGWXgxSVdTVHVRZl9CRjFUZUV3S0QxNFhZWEFfVUhkYk5nOEZYUE1CMVZkX28xQWt1Uw?oc=5\" target=\"_blank\">天禄科技A股股东户数减少2132户降幅16.46%，流通A股户均持股8384.44股增幅19.71%，户均持股市值57.06万元增幅22.96%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzZPSlg4UGdtbWg4aW5ycnRsSDZxelNOb0VVbXdabDNlVDF5VDZfQmJjMHI4MTBBR2JIb3lMZzFrNUdVQlhmb3NoUEFQR3F2TjZaN2tfaHVoZFZGWXgxSVdTVHVRZl9CRjFUZUV3S0QxNFhZWEFfVUhkYk5nOEZYUE1CMVZkX28xQWt1Uw?oc=5",
       "published": "Mon, 07 Sep 2026 15:40:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "天禄科技A股股东户数减少2132户降幅16.46%，流通A股户均持股8384.44股增幅19.71%，户均持股市值57.06万元增幅22.96% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzZPSlg4UGdtbWg4aW5ycnRsSDZxelNOb0VVbXdabDNlVDF5VDZfQmJjMHI4MTBBR2JIb3lMZzFrNUdVQlhmb3NoUEFQR3F2TjZaN2tfaHVoZFZGWXgxSVdTVHVRZl9CRjFUZUV3S0QxNFhZWEFfVUhkYk5nOEZYUE1CMVZkX28xQWt1Uw?oc=5\" target=\"_blank\">天禄科技A股股东户数减少2132户降幅16.46%，流通A股户均持股8384.44股增幅19.71%，户均持股市值57.06万元增幅22.96%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzZPSlg4UGdtbWg4aW5ycnRsSDZxelNOb0VVbXdabDNlVDF5VDZfQmJjMHI4MTBBR2JIb3lMZzFrNUdVQlhmb3NoUEFQR3F2TjZaN2tfaHVoZFZGWXgxSVdTVHVRZl9CRjFUZUV3S0QxNFhZWEFfVUhkYk5nOEZYUE1CMVZkX28xQWt1Uw?oc=5",
+      "title": "华平股份A股股东户数增加71户增幅0.27%，流通A股户均持股2.1万股降幅0.26%，户均持股市值8.04万元增幅1.33% - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDFRRjJ3VTBuWmNpRVY3RUNjSlp6d2lUemUzdVU3XzUyLUVhcXNJZ1NVei0zMWNnYXF5Rlh1TEZLUmt4ZW1WdkZOSFJPRTFvc0xEQzdUdkcwX3ZndDNFQXdRNkpyNlphT3ZYWTlfU29WVGVTdmZiVTRyT2hoZ0t4WHJIU3NCdDlVLWQ0Rw?oc=5\" target=\"_blank\">华平股份A股股东户数增加71户增幅0.27%，流通A股户均持股2.1万股降幅0.26%，户均持股市值8.04万元增幅1.33%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWDFRRjJ3VTBuWmNpRVY3RUNjSlp6d2lUemUzdVU3XzUyLUVhcXNJZ1NVei0zMWNnYXF5Rlh1TEZLUmt4ZW1WdkZOSFJPRTFvc0xEQzdUdkcwX3ZndDNFQXdRNkpyNlphT3ZYWTlfU29WVGVTdmZiVTRyT2hoZ0t4WHJIU3NCdDlVLWQ0Rw?oc=5",
       "published": "Mon, 07 Sep 2026 15:40:00 GMT"
     },
     {
@@ -153,10 +153,10 @@
     },
     {
       "source": "同花顺",
-      "title": "麦科医药-B获纳入股票互联互通机制(沪港通及深港通)股票名单 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtYk01MTVQOEJCdWNxdlJqNnJQQW1sZ0dfU2ZmR2EtQWpkbndtT0Y5cGtmdVRZMzB6TXRGRzhJcW1IOTZBTWZlR0FYSUFFOVZ0VFN3bVJ0VTdYN3FnQ3c?oc=5\" target=\"_blank\">麦科医药-B获纳入股票互联互通机制(沪港通及深港通)股票名单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtYk01MTVQOEJCdWNxdlJqNnJQQW1sZ0dfU2ZmR2EtQWpkbndtT0Y5cGtmdVRZMzB6TXRGRzhJcW1IOTZBTWZlR0FYSUFFOVZ0VFN3bVJ0VTdYN3FnQ3c?oc=5",
-      "published": "Mon, 07 Sep 2026 14:06:28 GMT"
+      "title": "中金公司“三合一”重大资产重组获批 9月14日为东兴证券、信达证券A股股票最后一个交易日 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wWWdhQVFXSmo0T24waVlJeUdnT2VFT2UwUXNNSnAzVjRqZG1yYzgtemNEYl94VFh5eHFwaG80VkJRU2JjbnRQLWl5bWNPOVBoUnFXRGpaRnFXaXBFMUE?oc=5\" target=\"_blank\">中金公司“三合一”重大资产重组获批 9月14日为东兴证券、信达证券A股股票最后一个交易日</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wWWdhQVFXSmo0T24waVlJeUdnT2VFT2UwUXNNSnAzVjRqZG1yYzgtemNEYl94VFh5eHFwaG80VkJRU2JjbnRQLWl5bWNPOVBoUnFXRGpaRnFXaXBFMUE?oc=5",
+      "published": "Mon, 07 Sep 2026 16:05:02 GMT"
     },
     {
       "source": "同花顺",
@@ -188,6 +188,20 @@
     },
     {
       "source": "同花顺",
+      "title": "ST绝味：公司拟回购不超过1272.26万股公司股份 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xTTl6aXdkY0NCMl80TVU4NHpkRm51MFEwcnBZdGt1R3ZoWlY5eUdGS1phdVFWaHAtQUxjMEotRWc2V1hIQzROTElPMGRPbFVMMVV1V3lkU2ttM0ZwX1BUV293Qk9FbktF?oc=5\" target=\"_blank\">ST绝味：公司拟回购不超过1272.26万股公司股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xTTl6aXdkY0NCMl80TVU4NHpkRm51MFEwcnBZdGt1R3ZoWlY5eUdGS1phdVFWaHAtQUxjMEotRWc2V1hIQzROTElPMGRPbFVMMVV1V3lkU2ttM0ZwX1BUV293Qk9FbktF?oc=5",
+      "published": "Mon, 07 Sep 2026 16:05:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中复神鹰：9月2日接受机构调研，东吴证券、上海师正投资等多家机构参与 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QcTNFSm9uWkJaNURxWjRJVVRzcEFsaDY3dC1zZFM2dVdhR3NnQlVJQm4tdUtFSjNvLWhjbi12cFh4Rld5S3Y3dEhVZG53djFPa05FVDVlaDJMS3pzQ3NqVlFB?oc=5\" target=\"_blank\">中复神鹰：9月2日接受机构调研，东吴证券、上海师正投资等多家机构参与</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QcTNFSm9uWkJaNURxWjRJVVRzcEFsaDY3dC1zZFM2dVdhR3NnQlVJQm4tdUtFSjNvLWhjbi12cFh4Rld5S3Y3dEhVZG53djFPa05FVDVlaDJMS3pzQ3NqVlFB?oc=5",
+      "published": "Mon, 07 Sep 2026 16:04:31 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "两大利空，来袭！美国富豪，疯狂套现！发生了什么？ - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjWGE2cjF6ZUxQWjlUb3JsMlVRN3Qzc1Qzc0Q2VnR1bnhaWERUSmNwYnB0WDdzQ1Nob01PVkRBTWw2MDhSTGh4SzByRUl0ZzVJUFNzMXFTaDNyVVNqNnc?oc=5\" target=\"_blank\">两大利空，来袭！美国富豪，疯狂套现！发生了什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjWGE2cjF6ZUxQWjlUb3JsMlVRN3Qzc1Qzc0Q2VnR1bnhaWERUSmNwYnB0WDdzQ1Nob01PVkRBTWw2MDhSTGh4SzByRUl0ZzVJUFNzMXFTaDNyVVNqNnc?oc=5",
@@ -209,10 +223,17 @@
     },
     {
       "source": "同花顺",
-      "title": "天辰生物-B获纳入沪港通及深港通股票名单 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4RXhYcG05OGJHRkVtaEhBOWluVFhzb2tkU0E3RGhET1h1ZnJDTXptUTNJa19Xek50REJQTENKSzJBMnFXdHlFR0lZdGRiVUo5VmdJRFQxQUtfQmtCWnc?oc=5\" target=\"_blank\">天辰生物-B获纳入沪港通及深港通股票名单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4RXhYcG05OGJHRkVtaEhBOWluVFhzb2tkU0E3RGhET1h1ZnJDTXptUTNJa19Xek50REJQTENKSzJBMnFXdHlFR0lZdGRiVUo5VmdJRFQxQUtfQmtCWnc?oc=5",
-      "published": "Mon, 07 Sep 2026 14:06:29 GMT"
+      "title": "中金公司大事，证监会批复！ - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZRnY3X1RtSmN4LVBRNkRZSXBKTUdFeHdMcUw4c0JhSmJEREJ0ZWlaMVRDcVBtakYzbTRzMHZ3amYtMmhhTklmTmdac3RFNXhnVzI1bm1qMlhFSENUU1E?oc=5\" target=\"_blank\">中金公司大事，证监会批复！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZRnY3X1RtSmN4LVBRNkRZSXBKTUdFeHdMcUw4c0JhSmJEREJ0ZWlaMVRDcVBtakYzbTRzMHZ3amYtMmhhTklmTmdac3RFNXhnVzI1bm1qMlhFSENUU1E?oc=5",
+      "published": "Mon, 07 Sep 2026 16:05:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“H回A”案例持续涌现 人工智能赛道相关企业正成为“回A”队伍中新的增长极 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UX1NvVnBOcjNCWmdxajBsbjAwQUhXWUZIdjZYd2ZOcFU3clZzcHRFbzE2V2RQS09xQXY4SDFveDFDVHg0d2MyVVBuOVlxNjd2Qmx6UEE5ZkRJbnlQdXhLRU9R?oc=5\" target=\"_blank\">“H回A”案例持续涌现 人工智能赛道相关企业正成为“回A”队伍中新的增长极</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UX1NvVnBOcjNCWmdxajBsbjAwQUhXWUZIdjZYd2ZOcFU3clZzcHRFbzE2V2RQS09xQXY4SDFveDFDVHg0d2MyVVBuOVlxNjd2Qmx6UEE5ZkRJbnlQdXhLRU9R?oc=5",
+      "published": "Mon, 07 Sep 2026 16:07:03 GMT"
     },
     {
       "source": "同花顺",
@@ -227,6 +248,76 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPVklDbi1mRnhkSlNrbHltWmFieV84TC1oMGRNTEJtV3JSVmNKVG9DeWE5a3JiN0owYmh3RGllWUdVRmk2bnVEUUxxYTYwdU1FNEllaGx0ZXJHUUdsOUZValJNaEpNQ2lKckt4a1RfU0xGb2VYOXpfb2YwQ2IzMzhnYTlyZHhHSGhYbFctTw?oc=5\" target=\"_blank\">新华传媒拟购买界面财联社控股权；亚康股份签下11.88亿元算力大单丨公告精选</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVklDbi1mRnhkSlNrbHltWmFieV84TC1oMGRNTEJtV3JSVmNKVG9DeWE5a3JiN0owYmh3RGllWUdVRmk2bnVEUUxxYTYwdU1FNEllaGx0ZXJHUUdsOUZValJNaEpNQ2lKckt4a1RfU0xGb2VYOXpfb2YwQ2IzMzhnYTlyZHhHSGhYbFctTw?oc=5",
       "published": "Mon, 07 Sep 2026 14:20:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "OPEC+维持10月产量配额不变，焦点转向2027年产能上限",
+      "summary": "<p>随着2023年自愿减产协议逐步退出，OPEC+将战略重心从月度供应调整转向后战争时代的市场管理框架。</p>\n<p>OPEC+于9月6日决定维持10月产量配额不变，<a href=\"https://wallstreetcn.com/articles/3780945?keyword=opec\" rel=\"noopener\" target=\"_blank\">符合此前市场预期</a>，完成了2023年4月自愿减产协议的逐步退出。此举将市场注意力从短期产量增减转向更具战略意义的议题——2027年成员国产量上限的分配。</p>\n<p>当前中东地缘局势持续扰动伊朗实物出货，使现有配额与实际供应之间存在明显脱节。</p>\n<p>分析师指出，一旦霍尔木兹海峡局势趋于正常化，受阻原油恢复流通所带来的供应冲击，将远比名义配额的小幅调整更具市场影响力。与此同时，联盟仍有约每日200万桶的早期减产尚未解除，供应端的潜在松动令市场前景趋于复杂。</p>\n<div>\n<h2 id=\"7ff48782\">配额与实物供应持续脱节</h2>\n</div>\n<p>自中东地区冲突持续制约实物出口以来，OPEC+产量配",
+      "link": "https://wallstreetcn.com/articles/3781251",
+      "published": "Mon, 07 Sep 2026 15:49:10 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "长鑫LPDDR6率先实现旗舰手机端首发量产",
+      "summary": "<p>长鑫存储自主研发的LPDDR6芯片已实现量产商用，首发搭载于小米18 Fold 折叠旗舰手机，这是全球范围内LPDDR6产品首次在旗舰手机端落地商用。该款产品芯片容量为16GB，最高传输速率可达12800Mbps，与SoC搭配速率为10667Mbps，可为SoC提供充裕的数据带宽，满足旗舰级智能手机及高性能终端设备对计算能力的严苛需求。</p>\n<p>此次长鑫量产的LPDDR6单颗粒容量为16Gb，封装芯片容量达16GB，遵循JEDEC LPDDR6标准，采用1295 Ball FBGA全新封装。该芯片最高传输速率可达12800Mbps，与速率10667Mbps的LPDDR5X相比，带宽提升60%*。该产品的功耗相比上一代的LPDDR5X降低了20%*，能够有效延长移动设备的续航。</p>\n<p><img alt=\"图片\" src=\"https://wpimg-wscn.awtmt.com/82d355e0-e230-40ec-a841-f60c666b2808.jpeg\" title=\"\" /></p>\n<p>*性能对比源自内部测试数据，其中60%带宽提升基于产品的峰值带宽对比",
+      "link": "https://wallstreetcn.com/articles/3781253",
+      "published": "Mon, 07 Sep 2026 15:42:23 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "10年期美债收益率升至5.5%将“攻击”美股？法兴警告：这可能是估值临界点",
+      "summary": "<p style=\"text-align: left;\">美债收益率持续攀升的背景下，市场对股票估值的承压临界点愈发关注。</p>\n<p style=\"text-align: left;\">法国兴业银行全球资产配置主管Alain Bokobza给出了一个明确警戒位——5.5%。他认为，一旦10年期美债收益率升至这一水平，企业盈利增长将不足以抵消借贷成本上升对估值的冲击，股市将面临实质性压力。</p>\n<p style=\"text-align: left;\">Bokobza周一在接受采访时表示，今年全球盈利预期经历了大幅上调，这使得即便在收益率上行的环境下，股票风险溢价也未出现明显崩塌。\"股票目前的估值并不比年初更贵，\"他说。</p>\n<p style=\"text-align: left;\">但他警告，5.5%将是盈利上调无法再为估值提供支撑的临界点——届时\"股票将开始承压\"。目前，10年期美债收益率报4.8%（劳工节假日现金市场休市）。</p>\n<p style=\"text-align: left;\"><img class=\"wscnph\" src=\"https://wpimg-wsc",
+      "link": "https://wallstreetcn.com/articles/3781248",
+      "published": "Mon, 07 Sep 2026 15:25:38 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "霍尔木兹海峡阴影下，美国劳动节油价创历史新高",
+      "summary": "<p style=\"text-align: left;\">随着9月7日美国劳动节到来，美国消费者正面临该节日有史以来最高的汽油价格。</p>\n<p style=\"text-align: left;\">美国汽车协会（AAA）数据显示，<strong>截至9月5日，全国普通汽油均价约为4.15美元/加仑，较去年同期高出近1美元，也明显高于2012年劳动节创下的3.82美元纪录。</strong></p>\n<p style=\"text-align: left;\">这轮油价上涨背后，供应端正承受双重压力。中东局势持续扰动原油运输预期，俄罗斯炼油产能受损则进一步收紧成品油供应。即使美国政府紧急出台供应侧措施，汽油库存仍处于偏低水平，市场供应压力尚未明显缓解。</p>\n<p style=\"text-align: left;\">高油价也正在向更广泛的出行成本传导。<strong>AAA预订数据显示，劳动节期间美国国内往返机票均价约750美元，同比上涨2%；热门国内航线均价约800美元，涨幅接近20%。从加油站到机场，能源供应趋紧正在逐步推高美国消费者的假期出行成本。</strong></p>\n<p",
+      "link": "https://wallstreetcn.com/articles/3781250",
+      "published": "Mon, 07 Sep 2026 15:09:57 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伦铜突破14530美元，创盘中历史新高",
+      "summary": "<p>在持续数周的涨势推动下，LME期铜涨穿14530美元/吨，突破1月份所创历史最高位，涨幅0.8%。2026年迄今，铜价已涨17%，其背后是长期的供需错配。此轮涨势的主要驱动力是市场预期美国总统唐纳德·特朗普将把关税范围扩大至精炼金属进口。全球日益老化的大型矿山产能正艰难跟上数据中心、可再生能源和电网建设的用铜需求——这一基本面已被铜多头连续数年反复强调。</p>\n<p>但短期因素正成为市场焦点——尤其是今年以来，交易商为在美国市场更高价格中获利，已将数十万吨铜运往美国。尽管美国商务部向白宫提交建议的截止日期已过去约两个月，市场仍在对关税落地的可能性进行定价。</p>",
+      "link": "https://wallstreetcn.com/livenews/3161423",
+      "published": "Mon, 07 Sep 2026 15:03:21 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "德国政坛地震，选择党大胜，欧洲政治或再右移",
+      "summary": "<p>当地时间9月6日，在一场备受瞩目的选举中，德国极右翼政党德国选择党（AfD）赢得胜利。在位于德国东部的萨克森—安哈尔特州（萨安州）当天举行的州议会选举中，初步官方结果显示，德国选择党的得票率为43.8%，创下该党在德国地方选举中的最好成绩。</p>\n<p>值得注意的是，在5年前的该州州议会选举中，德国选择党的得票率仅为20.8%。许多媒体称，德国选择党的胜利是德国政坛的一场“地震”。</p>\n<p>德国选择党为何能取得突破？</p>\n<p>这场选举对德国和欧洲政治意味着什么？</p>\n<p>总台环球资讯《闪评》邀请中国社会科学院中德合作研究中心主任、研究员<span>杨解朴</span>带来详细解读。</p>\n<div>\n<div>\n<div>\n<h2>观点速览</h2>\n</div>\n</div>\n</div>\n<p>此次选举结果既是萨安州地方政局的变动，也是德国政治格局、施政成效、经济社会压力及国际形势等多重因素传导的结果。选择党正从抗议型政党转变为稳定的政治力量，传统主流政党吸引力下降，东部政党格局出现结构性变化。</p>\n<p>基民盟的惨败与德国东部政党格局的结构性变化有",
+      "link": "https://wallstreetcn.com/articles/3781249",
+      "published": "Mon, 07 Sep 2026 14:57:52 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "债市耐心正被慢慢消耗，10年期美债收益率逼近5%关口",
+      "summary": "<p style=\"text-align: left;\">美国10年期国债收益率逼近5%关口，长端利率上行压力持续加大，市场对美国财政和货币政策风险的担忧进一步升温。</p>\n<p style=\"text-align: left;\">周一盘中，10年期美债收益率报4.791%，上周五收于4.78%。自去年11月美联储在通胀压力仍高的情况下启动降息以来，10年期收益率已累计上行约80个基点。与此同时，30年期美债收益率已率先突破5%，上周五升至5.24%，创近20年新高。</p>\n<p style=\"text-align: left;\">财政部长贝森特此前多次试图压低长端利率，但效果有限。<strong>随着美国国债供给持续增加，市场需要更高收益率吸引边际买家，而长端利率持续走高，也将进一步抬升政府融资成本，并对股票、信贷等风险资产估值形成压力。</strong></p>\n<p style=\"text-align: left;\">从驱动因素看，<strong>当前长端利率面临通胀黏性、货币政策偏软和财政赤字扩张三重压力</strong>。真正值得关注的已不只是10年期收益率能否突破5%，",
+      "link": "https://wallstreetcn.com/articles/3781247",
+      "published": "Mon, 07 Sep 2026 14:47:40 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "从无人驾驶到无人运营，Robotaxi开始重算商业账",
+      "summary": "<div><!--StartFragment-->\n<p>Robotaxi行业的竞争坐标正在变化。</p>\n<p>前不久小马智行、文远知行和百度的财报会上，Robotaxi车队扩张背后的运营账，成了这一轮财报季分析师追问的话题，他们所关心的，是车队扩张背后的成本和商业回报。</p>\n<p>“到目前为止，L4的单车智能在限定场景下已基本具备持续运营能力。现在各家要做的，是从单车进化到车队，解决车队运营和商业化。”曹操出行RoboX事业部CTO赵宸辉在与华尔街见闻独家对话时表示。</p>\n<p>在他看来，车辆能在限定区域完成自动驾驶，只是L4规模化的起点；安全冗余、远程保障、补能整备、订单调度和单车经济性，正在成为同等重要的能力。</p>\n<p>RoboX是曹操针对这一变化给出的方案。它将业务从Robotaxi扩展至Robovan，并通过CaoCao Robo OS连接不同类型的智能运力。</p>\n<p>截至6月底，曹操已部署140辆第二代Robotaxi。公司计划2027年量产原生开发Robotaxi车型Eva Cab。</p>\n<p>现阶段更关键的是，这套体系能否把无人车转化为安全、稳",
+      "link": "https://wallstreetcn.com/articles/3781246",
+      "published": "Mon, 07 Sep 2026 14:47:27 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美国可控衰退与紧缩交易尾声，荷兰黄金转移与英债收益率新高，海湾国家向自主防卫转型---0907宏观脱水",
+      "summary": "<ul><li><p style=\"text-align: left;\">沃什与贝森特政策协同目标在于引导市场预期，将不可控衰退转化为可控衰退。滞胀交易正从胀主导转向滞主导，非农数据后长端利率上行由实际利率贡献、通胀预期不变，紧缩交易或已行至最后一程。</p></li><li><p style=\"text-align: left;\">荷兰央行将约86吨黄金储备从美加转移至英国伦敦，反映荷兰央行对欧美关系紧张下降低对美依赖的担忧。英国30年期国债收益率升至5.9%，全球债券抛售与国内通胀财政双重压力叠加推升长端利率。</p></li><li><p style=\"text-align: left;\">停火协议破裂后伊朗仍精准打击至少9处美军基地或相关设施。美军中东基地在地理、弹药库存、装备维度均暴露脆弱性。美国中东战略布局面临合法性、有效性、可持续性三重质疑，或加速海湾国家向自主防卫转型。</p></li></ul>",
+      "link": "https://wallstreetcn.com/member/articles/3781185",
+      "published": "Mon, 07 Sep 2026 14:47:14 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "获得开云投资后，之禾牵手古驰前任创意总监",
+      "summary": "<figure><img alt=\"获得开云投资后，之禾牵手古驰前任创意总监\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/09/9bc6e2486bf0f361eb653d2edff258e9.jpg\" /></figure><p>这是国内服饰品牌首次与国际大牌创意总监实现深度绑定。</p><p>9月7日，中国时装品牌之禾（ICICLE）宣布任命沙诺（Sabato De Sarno）为创意总监，后者曾在2023年至2025年掌舵奢侈品牌古驰的创意工作。</p><p>履新后，沙诺将执掌之禾的男女成衣、配饰与眼镜系列的创意方向，首个系列将于2027～2028秋冬季发布。</p><p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"摄影/Alessio Bolzoni    图/之禾微博\" src=\"https://imgcdn.yicai.com/uppics/images/2026/09/a287c05c5752ffe776b4304478dc91bf.jpg\" />",
+      "link": "https://www.yicai.com/news/103355077.html",
+      "published": "Mon, 07 Sep 2026 15:05:11 GMT"
     },
     {
       "source": "证券时报",
