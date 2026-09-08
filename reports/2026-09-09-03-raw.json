@@ -1,8 +1,8 @@
 {
   "date": "2026-09-09",
   "hour": "03",
-  "total": 14,
-  "fetched_at": "2026-09-09T03:01:05.613046+08:00",
+  "total": 10,
+  "fetched_at": "2026-09-09T03:06:13.772573+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -73,34 +73,6 @@
       "summary": "谷歌正与Nevoya及绿色市场激活中心（Center for Green Market Activation）合作，在美国得克萨斯州部署电动半挂卡车及充电基础设施。计划部署25辆电动卡车，整体项目共计63辆卡车。",
       "link": "https://news.10jqka.com.cn/20260909/c679715669.shtml",
       "published": "Tue, 08 Sep 2026 17:27:52 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "夜盘期货收盘 工业金属普涨",
-      "summary": "国际铜夜盘收涨1.05%，沪铜收涨0.94%，沪铝收涨0.80%，沪锌收涨0.36%，沪铅收涨0.72%，沪镍收涨0.52%，沪锡收跌0.24%。氧化铝夜盘收涨1.41%，铝合金收涨0.76%。不锈钢夜盘收涨0.07%。",
-      "link": "https://news.10jqka.com.cn/20260909/c679715625.shtml",
-      "published": "Tue, 08 Sep 2026 17:01:43 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "OpenAI发布ChatGPT Images 2.5",
-      "summary": "<p>OpenAI发布ChatGPT Images 2.5。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3781351",
-      "published": "Tue, 08 Sep 2026 18:37:35 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "性能追平却逆势提价2.5倍：OpenAI“按效果收费”能否打破企业付费天花板？",
-      "summary": "<p style=\"text-align: left;\">9月3日，OpenAI发布GPT-6 Astra。据Artificial Analysis最新综合榜单，在独立评测中，Astra与Anthropic的Claude Fable 5.1并列第一，重新追平技术叙事。</p>\n<p style=\"text-align: left;\"><strong>Astra与Fable 5.1性能不分伯仲，定价策略却走向两极。</strong></p>\n<p style=\"text-align: left;\">OpenAI没有延续此前旗舰模型的降价路线，<strong>而是把Astra的API单价定为前代GPT-5.6 Sol的2.5倍</strong>，并开始探索\"按任务效果收费\"——在性能仅追平而非碾压对手的节点，这更像一场对市场付费底线的大胆试探。</p>\n<p style=\"text-align: left;\">官方称在部分评测中Astra能用更少输出token取得更好结果，估算每项任务的API成本反而更低。</p>\n<p style=\"text-align: left;\">Anthropi",
-      "link": "https://wallstreetcn.com/articles/3781344",
-      "published": "Tue, 08 Sep 2026 18:02:03 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "加拿大200亿反制美国关税生效，卡尼称不寻求贸易战升级但要加速摆脱对美依赖",
-      "summary": "<p>美加贸易战继续升温。</p>\n<p>当地时间9月8日周二，加拿大对约200亿美元美国商品加征15%至50%的反制关税正式生效，涉及钢铝、家具、服装、家电、电子产品等数百种商品，其中部分此前税率为25%的美国钢铝产品关税提高至50%。这是加拿大针对美国8月22日开始实施的50%关税采取的“逐美元”反制措施。</p>\n<p>就在反制关税生效当天，加拿大总理卡尼发表全国讲话，强调加拿大“不寻求升级”与美国的贸易冲突，但必须采取行动保护本国工人和企业。他同时表示，加拿大将加快基础设施建设、扩大对外贸易关系，降低经济对美国的依赖，并称过去数十年形成的高度依赖美国市场的模式正在结束。</p>\n<p>美加官员目前仍保持沟通，但距离恢复正式贸易谈判还有明显距离。据报道，加拿大贸易部长勒布朗与美国贸易代表格里尔周二安排通话，加方预计，双方此次通话主要将讨论美国准备如何回应加拿大当天生效的反制关税，而不是直接解决引发本轮贸易战升级的核心贸易分歧。加拿大官员透露，两人周末有过数次非正式沟通，周二的通话还将讨论“下一步行动”。</p>\n<p>与此同时，美国总统特朗普近期继续对加拿大施压。特朗普威胁将限制",
-      "link": "https://wallstreetcn.com/articles/3781348",
-      "published": "Tue, 08 Sep 2026 18:01:51 GMT"
     }
   ]
 }
