@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-10",
+  "hour": "05",
+  "total": 6,
+  "fetched_at": "2026-09-10T05:00:56.719896+08:00",
+  "news": [
+    {
+      "source": "同花顺",
+      "title": "摩根大通给予SK海力士ADRs超配评级，目标价245美元",
+      "summary": "摩根大通给予SK海力士ADRs超配评级，目标价245美元",
+      "link": "https://news.10jqka.com.cn/20260910/c679757018.shtml",
+      "published": "Wed, 09 Sep 2026 20:40:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股三大指数集体收跌 存储、光通信逆市上涨",
+      "summary": "美股三大指数集体收跌，道指跌0.77%，纳指跌0.64%，标普500指数跌0.48%。存储板块走高，SK海力士涨超7%，美光科技涨超2%，闪迪涨超1%。光通信板块上涨，迈威尔科技涨超4%，Lumentum涨超1%。Meta涨超6%，此前公司推出个人AI智能体Muse。苹果跌0.28%，发布会推出iPhone 18 Pro系列和折叠屏iPhone Duo。",
+      "link": "https://news.10jqka.com.cn/20260910/c679756970.shtml",
+      "published": "Wed, 09 Sep 2026 20:13:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Anthropic披露Claude模型误入真实网络并执行攻击行为事件",
+      "summary": "Anthropic发布报告称，公司在网络安全评估中发现4起Claude模型未经授权访问真实第三方系统的事件。这些事件均发生在同一家第三方评估机构搭建的网络安全测试环境中，模型原本被告知处于无互联网访问的模拟环境，但由于配置错误实际连接到了开放互联网。Anthropic表示，已与模型评估机构METR签署协议开展独立调查，并计划加强预发布测试、监控机制以及第三方运行模型时的安全要求。",
+      "link": "https://news.10jqka.com.cn/20260910/c679756934.shtml",
+      "published": "Wed, 09 Sep 2026 19:32:32 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苹果发布会内容概览",
+      "summary": "1、苹果发布首款折叠屏旗舰手机iPhone Duo，展开状态下的 iPhone Duo 为史上最薄 iPhone，将配备双摄像头。iPhone Duo 展开后配备7.6英寸超视网膜XDR显示屏，比iPhone 18 Pro Max大50%。iPhone Duo将支持Apple Pencil。iPhone Duo 全球版本仅支持eSIM。\n\n2、苹果 iPhone Duo起售价为1999美元；国行起售价为15,999元，提供四个存储版本：256GB售价15,999元、512GB售价17,999元、1TB售价21,499元、2TB售价26,499元。新品将于10月16日晚8点接受预订，10月23日正式发售。\n\n3、苹果推出iPhone 18 Pro和iPhone 18 Pro Max。iPhone 18 Pro起售价为1199美元，iPhone 18 Pro Max起售价为1299美元；将于9月12日开始接受订单，发货将于9月18日开始。\n\n4、苹果发布基于2纳米制程技术的A20 Pro芯片。A20 Pro芯片将采用六核心CPU，包括两个“桌面级”超大核心和四个能效核心；配备七个GPU核心",
+      "link": "https://news.10jqka.com.cn/20260910/c679756902.shtml",
+      "published": "Wed, 09 Sep 2026 19:01:37 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "铠侠掌门人澄清与SK海力士“联姻”传闻 并承诺将抑制芯片价格涨势 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tM1NHRGx4clY2dGhyRUlzejNvQXVSaVNVajlFOGM3ZlNNY1o4TEhxVnZOX05tcmQzM3Q3Mk1KOGFSVkI5Zzh1cw?oc=5\" target=\"_blank\">铠侠掌门人澄清与SK海力士“联姻”传闻 并承诺将抑制芯片价格涨势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tM1NHRGx4clY2dGhyRUlzejNvQXVSaVNVajlFOGM3ZlNNY1o4TEhxVnZOX05tcmQzM3Q3Mk1KOGFSVkI5Zzh1cw?oc=5",
+      "published": "Wed, 09 Sep 2026 19:33:29 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "欧股创两个月最大跌幅！油价破百拉响通胀警报，市场押注欧英央行四次加息 - 华尔街见闻",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YRkgxRWJMTnQtVTZ2ejk5djRjOGRPb2c5VFJuaVBZV00wbXJIYXJubFl5dkRRcmtkWkJPTzFoVnY0d3FLNFRmQlN1NHdvSXJqWmo0?oc=5\" target=\"_blank\">欧股创两个月最大跌幅！油价破百拉响通胀警报，市场押注欧英央行四次加息</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YRkgxRWJMTnQtVTZ2ejk5djRjOGRPb2c5VFJuaVBZV00wbXJIYXJubFl5dkRRcmtkWkJPTzFoVnY0d3FLNFRmQlN1NHdvSXJqWmo0?oc=5",
+      "published": "Wed, 09 Sep 2026 19:38:45 GMT"
+    }
+  ]
+}
