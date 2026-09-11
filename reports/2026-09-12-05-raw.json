@@ -1,30 +1,9 @@
 {
   "date": "2026-09-12",
   "hour": "05",
-  "total": 6,
-  "fetched_at": "2026-09-12T05:01:01.241805+08:00",
+  "total": 2,
+  "fetched_at": "2026-09-12T05:25:43.356759+08:00",
   "news": [
-    {
-      "source": "同花顺",
-      "title": "沙特东西输油管道遭袭后预防性关闭",
-      "summary": "沙特阿拉伯能源部11日发表声明说，该国东西输油管道的利雅得段及麦地那地区段10日上午多次遭袭，现已对该管道采取预防性关闭措施。袭击造成一些人员受伤。声明还说，袭击发生后，应急和专业技术团队立即展开处置，并按照相关安全程序和应急预案采取必要措施，以确保管道安全并评估其状况。声明未说明袭击方式、袭击者身份以及管道恢复运营时间。 (央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260912/c679844299.shtml",
-      "published": "Fri, 11 Sep 2026 20:12:16 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美股三大指数集体收涨 戴尔科技大涨11%",
-      "summary": "美股三大指数周五集体收涨，但全周收跌。道指涨0.98%，本周累跌1.57%；纳指涨0.96%，本周累跌0.66%；标普500指数涨0.86%，本周累跌0.8%。光通信板块上涨，迈威尔科技涨超4%，Coherent涨超4%。存储板块普跌，希捷科技跌超3%，闪迪跌超3%，西部数据跌近3%，SK海力士涨近1%。大型科技股多数上涨，戴尔科技大涨超11%，超微电脑涨超7%，高通涨近3%，英特尔、SpaceX涨超2%，苹果、谷歌涨超1%。",
-      "link": "https://news.10jqka.com.cn/20260912/c679844296.shtml",
-      "published": "Fri, 11 Sep 2026 20:11:03 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美军称对伊海上封锁已使99艘商船改变航向",
-      "summary": "美军中央司令部当地时间9月11日称，美军持续执行针对伊朗的海上封锁行动。截至9月11日，美军已使99艘商船改变航向。 (央视新闻)",
-      "link": "https://news.10jqka.com.cn/20260912/c679844279.shtml",
-      "published": "Fri, 11 Sep 2026 19:47:16 GMT"
-    },
     {
       "source": "财联社",
       "title": "美股三大指数集体收涨 戴尔科技大涨11% - 163.com",
@@ -38,13 +17,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE11TWRFTXNWWDFNdVNHT1luUnk0bGdTUnVLNFZYdVFZUXB6UXZ6d2NJUXVsd2tSTFBkWTNvZlFfMzNCQjl3Mk9OWnJuemZLd1VzYldJ?oc=5\" target=\"_blank\">国际油价11日下跌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11TWRFTXNWWDFNdVNHT1luUnk0bGdTUnVLNFZYdVFZUXB6UXZ6d2NJUXVsd2tSTFBkWTNvZlFfMzNCQjl3Mk9OWnJuemZLd1VzYldJ?oc=5",
       "published": "Fri, 11 Sep 2026 20:31:57 GMT"
-    },
-    {
-      "source": "澎湃新闻财经",
-      "title": "纽约股市三大股指11日上涨 - thepaper.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdzVUMWtxUnZKLWtzY2RzVG5yV1BpcjZ0d1kxbjBoSS1JN3lxT1FXcHluVnNkT29KaXZpTlI4N3k3aTBJMGVLRlkzdi1IQWdscXM0OXRVM0xlTTE4eE1WSg?oc=5\" target=\"_blank\">纽约股市三大股指11日上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdzVUMWtxUnZKLWtzY2RzVG5yV1BpcjZ0d1kxbjBoSS1JN3lxT1FXcHluVnNkT29KaXZpTlI4N3k3aTBJMGVLRlkzdi1IQWdscXM0OXRVM0xlTTE4eE1WSg?oc=5",
-      "published": "Fri, 11 Sep 2026 20:52:00 GMT"
     }
   ]
 }
