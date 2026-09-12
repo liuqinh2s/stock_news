@@ -1,9 +1,16 @@
 {
   "date": "2026-09-13",
   "hour": "01",
-  "total": 3,
-  "fetched_at": "2026-09-13T01:01:02.091267+08:00",
+  "total": 4,
+  "fetched_at": "2026-09-13T01:31:00.143308+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "拉里·埃里森撤销甲骨文股票出售计划 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZmdRZm11aXpKWFNFZlg4clpFSVdHVmlGeDhFMEFrQm9BTHUydVEwbmZKSElSdkJVMVk2NDR5UWs1NVZWZGxSaW5yYWsyMFVUZ25mNzEycEZjQ1FjNDZ4VjBoZDJhZk5MYk1EcmxjZU9kWlhqZWZ3bQ?oc=5\" target=\"_blank\">拉里·埃里森撤销甲骨文股票出售计划</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZmdRZm11aXpKWFNFZlg4clpFSVdHVmlGeDhFMEFrQm9BTHUydVEwbmZKSElSdkJVMVk2NDR5UWs1NVZWZGxSaW5yYWsyMFVUZ25mNzEycEZjQ1FjNDZ4VjBoZDJhZk5MYk1EcmxjZU9kWlhqZWZ3bQ?oc=5",
+      "published": "Sat, 12 Sep 2026 16:20:00 GMT"
+    },
     {
       "source": "东方财富",
       "title": "杨老板至少有70多家体外公司 - 财富号",
