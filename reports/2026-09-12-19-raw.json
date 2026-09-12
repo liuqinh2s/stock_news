@@ -1,9 +1,30 @@
 {
   "date": "2026-09-12",
   "hour": "19",
-  "total": 3,
-  "fetched_at": "2026-09-12T19:01:01.184848+08:00",
+  "total": 13,
+  "fetched_at": "2026-09-12T19:23:02.097989+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVVYNmlISldVbldzcl9LMS1kM2ZNQ0Q2dVpETjNMUXdkeVJQazFnMU5xX3AteXIwc0Z3cVY5X1k5T3VBOEZXT2huYVdVRVdCVXBvaWdCOTRuY2JRNXFybFFkbDJSMmJ4SXZQb3EtbUFQeHdMWEUySjRFWk10d3hBMXd2UmVfTy00N1JocFROemF0M2Y3UkRRQWpfTHFINV9jX0cxMQ?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVVYNmlISldVbldzcl9LMS1kM2ZNQ0Q2dVpETjNMUXdkeVJQazFnMU5xX3AteXIwc0Z3cVY5X1k5T3VBOEZXT2huYVdVRVdCVXBvaWdCOTRuY2JRNXFybFFkbDJSMmJ4SXZQb3EtbUFQeHdMWEUySjRFWk10d3hBMXd2UmVfTy00N1JocFROemF0M2Y3UkRRQWpfTHFINV9jX0cxMQ?oc=5",
+      "published": "Sat, 12 Sep 2026 11:06:46 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2FXMzVwcURiWjZXTlZGOWg2ZTUtMi1vWk9nNko1ZjNjSXJJaklhV1hhcVJ2dVRSek1MOG9Id0UtbFpGbmVpVVpLSm8wS1ZWaXlBSGY2aklWRk43ZlFUbFZwY0Y3bFl0cnlHbmpqWEE4alNiZFVlUGJZcGRETmN5aVhIdGFjZ0psUmE1dVlxUWYxcmhQQVZRQzI0bUhOM2tiUi1yZg?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2FXMzVwcURiWjZXTlZGOWg2ZTUtMi1vWk9nNko1ZjNjSXJJaklhV1hhcVJ2dVRSek1MOG9Id0UtbFpGbmVpVVpLSm8wS1ZWaXlBSGY2aklWRk43ZlFUbFZwY0Y3bFl0cnlHbmpqWEE4alNiZFVlUGJZcGRETmN5aVhIdGFjZ0psUmE1dVlxUWYxcmhQQVZRQzI0bUhOM2tiUi1yZg?oc=5",
+      "published": "Sat, 12 Sep 2026 11:06:46 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "印度在市场强烈反对后拟全面改革股票收盘竞价机制 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5obDVFd1dTdmxaZVhPYnVEV0cyT2dGN05zOERsSW5QTDRUbnBnMGU3NGZvYVZFSWNtRjE4Uno4Vm53LW5fS1F5WnlqVmRCTnhrMGpzS0RHeGVBTXpvbHV5aw?oc=5\" target=\"_blank\">印度在市场强烈反对后拟全面改革股票收盘竞价机制</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5obDVFd1dTdmxaZVhPYnVEV0cyT2dGN05zOERsSW5QTDRUbnBnMGU3NGZvYVZFSWNtRjE4Uno4Vm53LW5fS1F5WnlqVmRCTnhrMGpzS0RHeGVBTXpvbHV5aw?oc=5",
+      "published": "Sat, 12 Sep 2026 10:06:56 GMT"
+    },
     {
       "source": "同花顺",
       "title": "“翻倍股”603002，拟定增募资不超18亿元投建高端覆铜板等项目 - 同花顺",
@@ -19,11 +40,60 @@
       "published": "Sat, 12 Sep 2026 10:41:22 GMT"
     },
     {
-      "source": "财联社",
-      "title": "港股IPO市场火热 今年以来募资超3600亿港元 - 新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9QYnB6cU5UR2t6VDNJZzZpRTlBSmZhT21NVmFpZ1d3aGdTamFLUjBhT3I1RUNSN2JIQ3o5OE1zQ0RQXzg2aW5TS21CNVlyQVdFd3VKMHRiY1pqOVo5OXg3Z1hHRmJ1VmI2c3RDX1BpTUpGLVFPRnB2NA?oc=5\" target=\"_blank\">港股IPO市场火热 今年以来募资超3600亿港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QYnB6cU5UR2t6VDNJZzZpRTlBSmZhT21NVmFpZ1d3aGdTamFLUjBhT3I1RUNSN2JIQ3o5OE1zQ0RQXzg2aW5TS21CNVlyQVdFd3VKMHRiY1pqOVo5OXg3Z1hHRmJ1VmI2c3RDX1BpTUpGLVFPRnB2NA?oc=5",
-      "published": "Sat, 12 Sep 2026 09:05:40 GMT"
+      "source": "华尔街见闻",
+      "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
+      "summary": "<p style=\"text-align: left;\">华尔街正被“高息恐慌”笼罩，30年期美债收益率飙升至5.3%的近20年高点，10年期逼近5%。但高盛给出了截然不同的冷酷现实：<strong>利率上升绝不等于美股崩盘，盈利才是驱动股市的真正核心。</strong></p>\n<p style=\"text-align: left;\">据追风交易台消息，高盛9月11日最新研报的核心判断是：高利率是股市的逆风，但不是终结牛市的力量。只要<strong>盈利增长保持强劲、企业资产负债表维持健康，美股牛市就有坚实的基础继续延续。</strong></p>\n<p style=\"text-align: left;\">报告认为，尽管标普500远期市盈率已从年初的22倍降至19倍，但<strong>股市相对于债券的估值依然稳定，股票风险溢价维持在3%</strong>。不要被美联储加息初期的阵痛（历史平均回撤2%）洗盘，<strong>加息后12个月美股平均回报率高达+9%</strong>。高盛经济学家预计美联储将在下周再度加息25个基点。</p>\n<p style=\"text-align: l",
+      "link": "https://wallstreetcn.com/articles/3781632",
+      "published": "Sat, 12 Sep 2026 10:50:11 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话。（新华社）",
+      "summary": "<p>习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话。（新华社）</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3781635",
+      "published": "Sat, 12 Sep 2026 10:24:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伊朗：与阿曼的霍尔木兹海峡航运协议很快就会宣布",
+      "summary": "<p>伊朗议员兼议会国家安全和外交政策委员会秘书Behnam Saeedi在官方电视台表示，伊朗和阿曼将很快宣布有关霍尔木兹海峡航线的谅解书。Saeedi称将“当着地区各国的面”公布，但未提供具体细节。该协议指定了一条“临时路线”，但“并不等于海峡重新开放”。海峡的重新开放将“取决于多种因素，包括美国结束对伊朗的海上封锁”。“指定这条航线是前进了一步，但只有当美国履行其承诺时，海峡才会开放”。</p>",
+      "link": "https://wallstreetcn.com/livenews/3164322",
+      "published": "Sat, 12 Sep 2026 09:58:22 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华境拿出“保交付”Plan B",
+      "summary": "<div>\n<p>因缺芯致歉后，华境的保交付有了新动作。</p> <p>9月12日，华境S宣布新增四款“鸿蒙+”版本，较对应原版贵3000元。这是为保证交付给出的最新解决方案，接近华境人士表示，在原本配置暂时缺货的情况下，通过用上储备的成熟技术，增加配置，加快交付速度。</p> <p>华境开始尝试通过增加产品版本，缓解供应压力。对于这家首款车型上市刚满四个月的品牌来说，当下需要争取的是时间：订单已经拿到，交付不能长期卡在一颗芯片上。</p> <p>此次新增版本的变化集中在鸿蒙座舱，包括搭载MoLA 2.0混合大模型架构、支持方言交流识别、更新车机UI，以及支持外接拓展屏。四款配置覆盖原有不同续航及驱动版本，价差均为3000元。</p> <p>这张新配置表同时承担着保交付任务。新增功能为价差提供了产品上的解释，华境则希望借此推进车辆交付。一次供应端的应急调整，被放进了产品变化的节奏里。</p> <p>这也是这套Plan B最值得关注的地方：面对关键零部件短缺，华境已经开始调整可供用户选择的产品组合。</p> <p>此前，华境在交付周期调整说明中承认，鸿蒙座舱配套车机芯片出现阶段性供货紧缺",
+      "link": "https://wallstreetcn.com/articles/3781633",
+      "published": "Sat, 12 Sep 2026 09:53:12 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中国将于2027年接任金砖主席国",
+      "summary": "<p>当地时间9月12日下午，在金砖国家领导人第十八次会晤第一阶段会议上，国家主席习近平宣布，中国将于2027年接任金砖主席国，主办金砖国家领导人第十九次会晤。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3164317",
+      "published": "Sat, 12 Sep 2026 09:42:43 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "从“看天吃饭”到“按天交易”，气象预测成新能源的交易基础设施",
+      "summary": "<figure><img alt=\"从“看天吃饭”到“按天交易”，气象预测成新能源的交易基础设施\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/D616B304-B69F-4488-A5F1-0892511FF903.jpg\" /></figure><p>中国气象学会能源气象专业委员会秘书长叶冬表示，气象与电力跨界融合仍存在数据单向流通、电力气象观测短板、气象产品缺少电力业务适配“翻译”等堵点。</p><p>随着国内电力现货市场持续推进及风光储能大规模并网，新能源正从“看天吃饭”转向“按天交易”，气象预测也从电力系统的辅助性保障升级为新能源交易与调度的重要基础设施。</p>\n\n<p>在2026 Inclusion·外滩大会（下称“大会”）“储能AI创新论坛”现场，世界气象组织（WMO）气候能源负责人Roberta Boscolo（罗伯塔·博斯科洛）表示，人类无法掌控天气，但气候服务可通过减少价格不确定性、保护资产安全及精准调度清洁电力来直接指导电网运行。</p>\n\n<p>她认为，必须建立一套涵盖“气候韧性与供电安全”的系统",
+      "link": "https://www.yicai.com/news/103362101.html",
+      "published": "Sat, 12 Sep 2026 10:28:31 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "中国太保产险携手化险集团 筑牢中资企业出海人员安全防线",
+      "summary": "<p>9月10日，2026年服贸会期间，中国太保旗下中国太保产险与化险集团的战略合作正式启动，双方将围绕中国企业海外人员安全保障与风险管理需求，整合保险保障、风险咨询和危机响应等专业能力，共同打造“保险+海外风险服务”一体化方案，守护中资企业出海人员安全。</p>\n\n<p>当前，中资企业海外布局不断拓展，地缘冲突、社会治安等各类风险渐趋复杂多变，人员与资产安全、事前预警、危机处置、人员撤离成为出海企业现实痛点。传统的海外保险产品侧重事后赔付，亟需专业机构补齐全链条风险管理能力。</p>\n\n<p>中国太保产险深耕中资企业出海保障，围绕海外人员安全风险，搭建全流程风险管理体系。化险集团深耕全球风险管理领域五十余年，在地缘风险分析、特殊风险响应、安全风险评估、运营安保支持、投资商业调研、危机管理与响应等方面具备成熟的全球化服务能力，拥有全球领先的专业能力和丰富的实战经验。</p>\n\n<p>基于本次合作，双方将充分发挥各自优势，推动保险保障与专业风险服务的深度融合，共同探索建立从事前风险预警、事中应急处置到事后保险赔付的闭环服务机制。合作内容将涵盖为出海企业提供国别风险提示、安全风险咨询、海外",
+      "link": "https://www.yicai.com/news/103362090.html",
+      "published": "Sat, 12 Sep 2026 10:10:24 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "众筹托举的电影《上海女儿》，从云南边境一路游牧到柏林",
+      "summary": "<figure><img alt=\"众筹托举的电影《上海女儿》，从云南边境一路游牧到柏林\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/09/98de4f409f02c2bde3c4f30feeaed0ba.jpg\" /></figure><p>《上海女儿》先后入围第76届柏林国际电影节全景单元，以及第50届香港国际电影节新秀电影竞赛（华语）。这是一部很难定义的电影。</p><p>这个秋天，导演Ag（原名沈仲旻）将带着她的第一部剧情长片《上海女儿》开启一场游牧式全国放映。</p><p>没有全国发行铺排，没有惯常的路演马拉松，只有一张看似随意的地图，跟随她在全国各地流动放映。9月到12月，《上海女儿》将从江浙沪启航，去往北京、广州、云南，以及计划中的东北。每一站，都将与那些力图深耕文艺片的电影院及院线、优质观影团，以及同频的艺术机构合作，进行小而精的放映，并配合深度映后交流，以及跨学科公教活动的联动。</p><p>“我一个人游牧，计划很灵活，也能够深度连结每块银幕和每一批观众。”导演Ag告诉第一财经，这种宣发模式之前几乎没有。</p>",
+      "link": "https://www.yicai.com/news/103362086.html",
+      "published": "Sat, 12 Sep 2026 10:04:08 GMT"
     }
   ]
 }
