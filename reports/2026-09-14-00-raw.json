@@ -1,8 +1,8 @@
 {
   "date": "2026-09-14",
   "hour": "00",
-  "total": 18,
-  "fetched_at": "2026-09-14T00:00:59.601563+08:00",
+  "total": 11,
+  "fetched_at": "2026-09-14T00:43:44.685378+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -12,18 +12,18 @@
       "published": "Sun, 13 Sep 2026 14:53:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "“央行超级周”来袭，A股怎么走 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPYzBLQUF5X0ttU2R1bThpdlRTNWhVYmQzU1RLRWJNVFo0V3BWenc5eWFoM0tXS3EtOU8yRlBZTnQwRkktVVRVb19Cank3VlFQdE0xMS1YNzAtLTJEX20tQ2xEQnNuZ29tWHlBRlNCSWZNVGdpa0hIbng3Q2hvUl9iWW9ZbUV4eWVhbnhOQllR?oc=5\" target=\"_blank\">“央行超级周”来袭，A股怎么走</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYzBLQUF5X0ttU2R1bThpdlRTNWhVYmQzU1RLRWJNVFo0V3BWenc5eWFoM0tXS3EtOU8yRlBZTnQwRkktVVRVb19Cank3VlFQdE0xMS1YNzAtLTJEX20tQ2xEQnNuZ29tWHlBRlNCSWZNVGdpa0hIbng3Q2hvUl9iWW9ZbUV4eWVhbnhOQllR?oc=5",
-      "published": "Sun, 13 Sep 2026 14:13:00 GMT"
+      "source": "东方财富",
+      "title": "AI赛道升温，产业资本加速布局 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5rcFZBa1NmNFlQMlNURzBEcDBaNTJ3aFFaa2JMRWtmOTFDb2pSUXNXWGFlNDJ0LUVubkg3X0lwTmF2M1lfRUlVWmxKaHRaWHk0UmdfSE5URE55TVA0TG11aDJlSURKUVRKM1FV?oc=5\" target=\"_blank\">AI赛道升温，产业资本加速布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rcFZBa1NmNFlQMlNURzBEcDBaNTJ3aFFaa2JMRWtmOTFDb2pSUXNXWGFlNDJ0LUVubkg3X0lwTmF2M1lfRUlVWmxKaHRaWHk0UmdfSE5URE55TVA0TG11aDJlSURKUVRKM1FV?oc=5",
+      "published": "Sun, 13 Sep 2026 16:12:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "如果海外持续高利率，对A股意味着什么？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSHVubG9hbnlrZjJYQ3NPZ3NhNUFicnpXVlBOS2h4dnBNeXdsWFRESnRPSFZ2ZXFFVGl1d1lsWmQwcFgwNGxGc0htc2lmVk5YdF90ZmhKWHdEYjlzN09aV1dNM3R3NnRmS1BCaExFcnUwMXBpMkU3TTVBcTQ?oc=5\" target=\"_blank\">如果海外持续高利率，对A股意味着什么？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TSHVubG9hbnlrZjJYQ3NPZ3NhNUFicnpXVlBOS2h4dnBNeXdsWFRESnRPSFZ2ZXFFVGl1d1lsWmQwcFgwNGxGc0htc2lmVk5YdF90ZmhKWHdEYjlzN09aV1dNM3R3NnRmS1BCaExFcnUwMXBpMkU3TTVBcTQ?oc=5",
-      "published": "Sun, 13 Sep 2026 14:02:00 GMT"
+      "source": "东方财富",
+      "title": "公募打新燧原科技浮盈丰厚 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE50VldNU29qZHUtNHRrZmRpOXZXUkdkWWEzWUo5MnlYWFRnMzhsODdUYWRiRWhHUUF6d3BVdkozQnNCczNqMWVodngwRThfczBOMXI0VTQ5RnRGbkxhc2tiSA?oc=5\" target=\"_blank\">公募打新燧原科技浮盈丰厚</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50VldNU29qZHUtNHRrZmRpOXZXUkdkWWEzWUo5MnlYWFRnMzhsODdUYWRiRWhHUUF6d3BVdkozQnNCczNqMWVodngwRThfczBOMXI0VTQ5RnRGbkxhc2tiSA?oc=5",
+      "published": "Sun, 13 Sep 2026 16:41:43 GMT"
     },
     {
       "source": "东方财富",
@@ -31,20 +31,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE14b0dqN0ljd3A5S2RGWl9MdEJGc2dkWDgwWENWS1NsS0IzdE9hX1YyVE85ZWhOSGR5aEpJSG43Nm42WmV3VEoyYVdJR2xsa2ROUm8wR0x6M0tmSTZqaWpoY2hUM25LQUN4bW9R?oc=5\" target=\"_blank\">《9月14日盘前预测+操盘必读》，</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14b0dqN0ljd3A5S2RGWl9MdEJGc2dkWDgwWENWS1NsS0IzdE9hX1YyVE85ZWhOSGR5aEpJSG43Nm42WmV3VEoyYVdJR2xsa2ROUm8wR0x6M0tmSTZqaWpoY2hUM25LQUN4bW9R?oc=5",
       "published": "Sun, 13 Sep 2026 14:57:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "105条，包头美科“被执行人”信息记录爆增 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFA0WHNGdkhseHd6YjltNnNEZjhYaFRvUW80Zm5XT2hGMGlib0FkVzJSbk1ITVdWU2ZEdVU2RkhvNWhDYVBRWnJyNV9lVlhZaGViQ1hDallzaDZLUDVvZ3FOSUpMeXVCc0k4MGdB?oc=5\" target=\"_blank\">105条，包头美科“被执行人”信息记录爆增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0WHNGdkhseHd6YjltNnNEZjhYaFRvUW80Zm5XT2hGMGlib0FkVzJSbk1ITVdWU2ZEdVU2RkhvNWhDYVBRWnJyNV9lVlhZaGViQ1hDallzaDZLUDVvZ3FOSUpMeXVCc0k4MGdB?oc=5",
-      "published": "Sun, 13 Sep 2026 14:36:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "第二只脚伸出来了! - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5MWXd6MXBkTXoxMndFdkFLcEdCYXhxZ1lPWHBuc1lHMlpFVXFEZEd0aDF3aEY3Zzg1bnZCOHQ0cEFUTy1MSlZUcm1salNEUS00eHh4VmNIQ0FpcFBwS1JHMFVyZjlmaWNYNldz?oc=5\" target=\"_blank\">第二只脚伸出来了!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MWXd6MXBkTXoxMndFdkFLcEdCYXhxZ1lPWHBuc1lHMlpFVXFEZEd0aDF3aEY3Zzg1bnZCOHQ0cEFUTy1MSlZUcm1salNEUS00eHh4VmNIQ0FpcFBwS1JHMFVyZjlmaWNYNldz?oc=5",
-      "published": "Sun, 13 Sep 2026 14:11:00 GMT"
     },
     {
       "source": "东方财富",
@@ -69,59 +55,24 @@
     },
     {
       "source": "同花顺",
-      "title": "年内大涨近400%，金安国纪：未与英伟达、华为接触 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wYzM4aGtsLXIwY0ZZWGJlU2FOT1F1cXk1Z0NWeUVMR3c4Sk9qMDJOdm82WGp1M09wRjhDMk9ZUldBN2RVUlVWOXEzNjMzTnM3V3dRUW1IYVV1Y1ItcW96Vnd3?oc=5\" target=\"_blank\">年内大涨近400%，金安国纪：未与英伟达、华为接触</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wYzM4aGtsLXIwY0ZZWGJlU2FOT1F1cXk1Z0NWeUVMR3c4Sk9qMDJOdm82WGp1M09wRjhDMk9ZUldBN2RVUlVWOXEzNjMzTnM3V3dRUW1IYVV1Y1ItcW96Vnd3?oc=5",
-      "published": "Sun, 13 Sep 2026 15:23:54 GMT"
+      "title": "特朗普重申伊朗战事将在中期选举后结束",
+      "summary": "据外媒报道，美国总统特朗普13日在访问爱尔兰时重申，伊朗战事将在中期选举后结束。特朗普当天接受采访时称，伊朗战事将在11月美国国会中期选举后立即结束，届时“汽油价格将会快速下跌”。他还称，伊朗方面“非常希望达成协议”，并一直在联系美国。特朗普9日就曾表示，他认为美国同伊朗的战事将在11月美国国会中期选举完成后“立即结束”。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260913/c679854312.shtml",
+      "published": "Sun, 13 Sep 2026 14:45:17 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "深交所：终止对久易股份首次公开发行股票并在创业板上市审核 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMm5udXRWb0V4WE5IV2MwVTA1YWRHOGk0d09GWnZ2c1Y5RGRhN1N6Q20tejlRTlI1VktoU1NhSFVxcjBFNnA1bFl4VEdIZHdJRFo2bnJSSlN3SjFDdF8yUG1n?oc=5\" target=\"_blank\">深交所：终止对久易股份首次公开发行股票并在创业板上市审核</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMm5udXRWb0V4WE5IV2MwVTA1YWRHOGk0d09GWnZ2c1Y5RGRhN1N6Q20tejlRTlI1VktoU1NhSFVxcjBFNnA1bFl4VEdIZHdJRFo2bnJSSlN3SjFDdF8yUG1n?oc=5",
-      "published": "Sun, 13 Sep 2026 15:14:10 GMT"
+      "source": "财联社",
+      "title": "【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qTkRGbWpIakVneEEzalBKYTN0T0s4WXVyMVZaQ19HTXdjNEZjYzlCdWQtZGdtMDlHNjZMOFNxLS1NMmtSTl9tUQ?oc=5\" target=\"_blank\">【早报】美联储下周加息概率，飙至90%；美股、黄金齐涨；国常会最新部署！进一步完善算力基础设施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qTkRGbWpIakVneEEzalBKYTN0T0s4WXVyMVZaQ19HTXdjNEZjYzlCdWQtZGdtMDlHNjZMOFNxLS1NMmtSTl9tUQ?oc=5",
+      "published": "Sun, 13 Sep 2026 16:23:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "银行股走强，谁在大手笔买入 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRk1DbUY2LVJrbzBjSnVaRUNHZU9tb0poYWxwamNnNWwwRFZXWUJfaWV5UzB6QU9zS1AwY3VHc0JqTWpHU3VrZ0FLVDd2UjFGUl91Z3h5RWdEQTk1T0E?oc=5\" target=\"_blank\">银行股走强，谁在大手笔买入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WRk1DbUY2LVJrbzBjSnVaRUNHZU9tb0poYWxwamNnNWwwRFZXWUJfaWV5UzB6QU9zS1AwY3VHc0JqTWpHU3VrZ0FLVDd2UjFGUl91Z3h5RWdEQTk1T0E?oc=5",
-      "published": "Sun, 13 Sep 2026 15:10:07 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "600929，重大资产重组预案更正！ - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oUlZTYWJzZ05YdEtXSXdrN295ZEh6bEYwaThsbzJDYmpmMXRfaWNxdlUyY2M2d29yN0NvOUVmOGtTbDR4YWVHQ2lNWEpwOXNCZ2V0ZllMT29pb01NNEw0bzFn?oc=5\" target=\"_blank\">600929，重大资产重组预案更正！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oUlZTYWJzZ05YdEtXSXdrN295ZEh6bEYwaThsbzJDYmpmMXRfaWNxdlUyY2M2d29yN0NvOUVmOGtTbDR4YWVHQ2lNWEpwOXNCZ2V0ZllMT29pb01NNEw0bzFn?oc=5",
-      "published": "Sun, 13 Sep 2026 14:08:16 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "贵州前首富，被罚没超3亿元！他在公司业绩爆雷公开之前“抢跑”，规避损失超过1.5亿元 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Yk5jSW15Z3FvMnFRa3pNSFpQai03V2RQb3RYOFN2MUhnbnMycjdVaU5XS1YxYldDMDM1X1o4TXBLNW5ENUFVT3BmVzZuMURkUFBWTVd0ZWFwNV9OeGNVVEx3?oc=5\" target=\"_blank\">贵州前首富，被罚没超3亿元！他在公司业绩爆雷公开之前“抢跑”，规避损失超过1.5亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16Yk5jSW15Z3FvMnFRa3pNSFpQai03V2RQb3RYOFN2MUhnbnMycjdVaU5XS1YxYldDMDM1X1o4TXBLNW5ENUFVT3BmVzZuMURkUFBWTVd0ZWFwNV9OeGNVVEx3?oc=5",
-      "published": "Sun, 13 Sep 2026 15:22:30 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "开源证券：给予天工股份增持评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lUTNxei0xVU02TXQzSGVCQm16STFUS1ZGZml4eDBCQ3hZb3NGb0d4d1hwZTRuV1ZLaHlNZXduNi1iTnllV0pUZW5Cd01ISDJNTjN2VXIzUzBabG9NV053QTZ3?oc=5\" target=\"_blank\">开源证券：给予天工股份增持评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lUTNxei0xVU02TXQzSGVCQm16STFUS1ZGZml4eDBCQ3hZb3NGb0d4d1hwZTRuV1ZLaHlNZXduNi1iTnllV0pUZW5Cd01ISDJNTjN2VXIzUzBabG9NV053QTZ3?oc=5",
-      "published": "Sun, 13 Sep 2026 14:24:13 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "太平洋：给予民生银行增持评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rRUY5VVl3UDNQVFFlQ190d3VlWUJOMHRRaHV2NHdJZnBpbVFZSmUxcUpxMzd6eHlzakk0cHI4cVE4alR1akJFX3Z0OEFyc3JPcS10bkRRY0FIanZBa0V2MGx3?oc=5\" target=\"_blank\">太平洋：给予民生银行增持评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rRUY5VVl3UDNQVFFlQ190d3VlWUJOMHRRaHV2NHdJZnBpbVFZSmUxcUpxMzd6eHlzakk0cHI4cVE4alR1akJFX3Z0OEFyc3JPcS10bkRRY0FIanZBa0V2MGx3?oc=5",
-      "published": "Sun, 13 Sep 2026 14:03:41 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "优美利投资董事长贺金龙：以多资产策略在市场中长跑 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXZWcxM3k5TGpNRDdNdDVsSlhZZFpsQnN0cXZGYTd1X1Y2Y001aDlERWt6WlJFM0Nha19EZS1HcS1WenpaVmZwM3QzT2xpZGFVSmxfQ2lGUk1XbndYS2NLNjZB?oc=5\" target=\"_blank\">优美利投资董事长贺金龙：以多资产策略在市场中长跑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXZWcxM3k5TGpNRDdNdDVsSlhZZFpsQnN0cXZGYTd1X1Y2Y001aDlERWt6WlJFM0Nha19EZS1HcS1WenpaVmZwM3QzT2xpZGFVSmxfQ2lGUk1XbndYS2NLNjZB?oc=5",
-      "published": "Sun, 13 Sep 2026 14:03:45 GMT"
+      "source": "华尔街见闻",
+      "title": "报道：Anthropic选择在纳斯达克IPO",
+      "summary": "<p>据知情人士透露，Anthropic已选择纳斯达克作为其潜在IPO的上市地点，这意味着后者又赢得了一场重要的交易所竞争。今年早些时候，纳斯达克成功争取到SpaceX上市。SpaceX估值达到1.75万亿美元，而一些估算认为Anthropic的估值可能达到2万亿美元，不过这一数字目前尚未最终确定。此前，OpenAI首席执行官萨姆·奥特曼表示，鉴于围绕AI可能对人类构成生存威胁的争议，OpenAI目前不会上市。（Business Insider）</p>",
+      "link": "https://wallstreetcn.com/livenews/3164442",
+      "published": "Sun, 13 Sep 2026 16:16:39 GMT"
     },
     {
       "source": "上海证券报",
