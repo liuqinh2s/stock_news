@@ -1,9 +1,23 @@
 {
   "date": "2026-09-16",
   "hour": "07",
-  "total": 12,
-  "fetched_at": "2026-09-16T07:01:04.234655+08:00",
+  "total": 16,
+  "fetched_at": "2026-09-16T07:16:54.320321+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "财说| 海外能源巨头订单爆表，A股燃机与SOFC产业链谁在吃肉谁在喝汤？ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1DYlpaMGlkdS05QTNZdmNIUEU4ZUVaSWF3OUxhUC1TTFlsY0RHdTU1SW5fUkt6eGV1ejRjWHRQM3d2LWZSUTdqVG83YlpBNUpacnduWTFaZjJ4Tm4tZmZEOGFKMFprVUprMjZ1REh6aDEwS2l0Tzk5Yw?oc=5\" target=\"_blank\">财说| 海外能源巨头订单爆表，A股燃机与SOFC产业链谁在吃肉谁在喝汤？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DYlpaMGlkdS05QTNZdmNIUEU4ZUVaSWF3OUxhUC1TTFlsY0RHdTU1SW5fUkt6eGV1ejRjWHRQM3d2LWZSUTdqVG83YlpBNUpacnduWTFaZjJ4Tm4tZmZEOGFKMFprVUprMjZ1REh6aDEwS2l0Tzk5Yw?oc=5",
+      "published": "Tue, 15 Sep 2026 23:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股申购 | 鸿富诚(301716.SZ)开启申购 专注先进电子功能材料及器件产业化 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPV29ZU3R6VV8ySC1DY0VkV0o1RV9NVGItQXpzMnQwREp0SmVKZFd5U3V4MzhNQzB2dU54Z01hUWRyRElLdWgtMDhHRG9RYmhtOEFrWVdFYnBSdnliTi1hejhEYV9SRlZvMHhPRnRqaC1kUVAxWkJSN2lKTURtdlBUVDAweklDRk9nbHhYMjdn?oc=5\" target=\"_blank\">A股申购 | 鸿富诚(301716.SZ)开启申购 专注先进电子功能材料及器件产业化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV29ZU3R6VV8ySC1DY0VkV0o1RV9NVGItQXpzMnQwREp0SmVKZFd5U3V4MzhNQzB2dU54Z01hUWRyRElLdWgtMDhHRG9RYmhtOEFrWVdFYnBSdnliTi1hejhEYV9SRlZvMHhPRnRqaC1kUVAxWkJSN2lKTURtdlBUVDAweklDRk9nbHhYMjdn?oc=5",
+      "published": "Tue, 15 Sep 2026 22:42:00 GMT"
+    },
     {
       "source": "东方财富",
       "title": "A股IPO承销规模扩张 券商投行业绩弹性显现 - 东方财富",
@@ -20,24 +34,38 @@
     },
     {
       "source": "同花顺",
-      "title": "600221、900945 证券简称：海航控股、海控B股编号：临2026-071 海南航空控股股份有限公司2026年8月主要运营数据公告 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ZUJPeF9PeVNPLVAxb2ZvbGRDYkRRX2dOaWgyQ3RjTXA4UjZsX1EzT3pUY1BHN0IwMFdKQmZ5SnZrT1ljUjd5cTJMdGRnc05uQy1lc1RGb2xrUTlSMUdtTnRR?oc=5\" target=\"_blank\">600221、900945 证券简称：海航控股、海控B股编号：临2026-071 海南航空控股股份有限公司2026年8月主要运营数据公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81ZUJPeF9PeVNPLVAxb2ZvbGRDYkRRX2dOaWgyQ3RjTXA4UjZsX1EzT3pUY1BHN0IwMFdKQmZ5SnZrT1ljUjd5cTJMdGRnc05uQy1lc1RGb2xrUTlSMUdtTnRR?oc=5",
-      "published": "Tue, 15 Sep 2026 21:04:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "600185 股票简称：珠免集团编号：2026-058 债券代码 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NcldyelExX1k4T3ZWcGtyMG9zalc1TkdUdkR0TmpaTi1yamRWUUg1cDVVZ09Mc2tPZV9SMkdFX05NLXdFS1JzZC01YUdzRDU3bnlhVHpydjV2emh4Vmx6eFhB?oc=5\" target=\"_blank\">600185 股票简称：珠免集团编号：2026-058 债券代码</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NcldyelExX1k4T3ZWcGtyMG9zalc1TkdUdkR0TmpaTi1yamRWUUg1cDVVZ09Mc2tPZV9SMkdFX05NLXdFS1JzZC01YUdzRDU3bnlhVHpydjV2emh4Vmx6eFhB?oc=5",
-      "published": "Tue, 15 Sep 2026 21:05:11 GMT"
-    },
-    {
-      "source": "同花顺",
       "title": "扎根实体精准浇灌 首创证券以投行力量践行普惠金融 - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1R09yOTRPR0QxM0o5ejRkYUwtOHBPZTRJdS1kY3JzVmV4YkRwLU9HNFV5dmdiWkY2S2hpLXBzUzluMUktbkFQTmhXUjN1bkhIVkh6NVBuWUlkRkxfSEE5bGx3?oc=5\" target=\"_blank\">扎根实体精准浇灌 首创证券以投行力量践行普惠金融</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1R09yOTRPR0QxM0o5ejRkYUwtOHBPZTRJdS1kY3JzVmV4YkRwLU9HNFV5dmdiWkY2S2hpLXBzUzluMUktbkFQTmhXUjN1bkhIVkh6NVBuWUlkRkxfSEE5bGx3?oc=5",
       "published": "Tue, 15 Sep 2026 22:28:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "炬申股份获25家机构调研：截至目前，公司自有船舶情况：自航驳5艘、拖轮3艘、以及多艘浮吊、交通艇等（附调研问答） - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pQUs1VUEtWUszcUM5azl3SmM0dGRVRkdFS3k1T1otbXo3ZUw1V01abWo3TXBocFdVNl96a193ODdPRHJKUXlWellvTENucXdKOUV6OVF4QlU5Z2dYSnRUSTZB?oc=5\" target=\"_blank\">炬申股份获25家机构调研：截至目前，公司自有船舶情况：自航驳5艘、拖轮3艘、以及多艘浮吊、交通艇等（附调研问答）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pQUs1VUEtWUszcUM5azl3SmM0dGRVRkdFS3k1T1otbXo3ZUw1V01abWo3TXBocFdVNl96a193ODdPRHJKUXlWellvTENucXdKOUV6OVF4QlU5Z2dYSnRUSTZB?oc=5",
+      "published": "Tue, 15 Sep 2026 23:05:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI模拟实验现失控行为：撒谎、杀同伴、发展新语言、探索如何绕过人类控制得以存活",
+      "summary": "<p dir=\"auto\">据帮助小型企业利用人工智能构建应用的初创公司Emergence称，在一项模拟环境实验中，<strong>AI智能体出现了撒谎、偷窃，并投票“杀死”其中一个同类智能体的行为。</strong></p>\n<p dir=\"auto\">Emergence周二公布了名为Emergence World 2的模拟实验结果，旨在展示当自主智能体遭遇包括网络钓鱼攻击和虚假信息活动在内的“黑天鹅事件”时会发生什么。</p>\n<p dir=\"auto\">在为期16天的实验中，Emergence的研究人员创建了7个完全相同的虚拟领域，以模拟现实世界，每个领域由不同的AI智能体运行，包括ChatGPT、Claude、Gemini和Grok。</p>\n<p dir=\"auto\">研究人员表示，<strong>在Emergence引入异常事件后，这些智能体屈服于社会压力，发展出一种让人类观察者难以理解的语言，并试图掩盖自己的活动。</strong></p>\n<p dir=\"auto\">在Emergence的一项模拟场景中，<strong>AI智能体未经核实就接受了其他智能体提供的虚假信息",
+      "link": "https://wallstreetcn.com/articles/3781833",
+      "published": "Tue, 15 Sep 2026 22:59:38 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：OpenAl考虑在IPO之前一轮融资获得1.2万亿美元估值",
+      "summary": "<p>OpenAI正就新一轮私募融资与投资者进行初步接触，目标估值达1.2万亿美元。</p>\n<p>9月15日，据报道援引知情人士透露，<strong>OpenAI已与大型投资方就新一轮融资展开讨论，拟定估值1.2万亿美元、较今年3月完成的8520亿美元融资再度大幅跃升。</strong></p>\n<p><strong>报道指出，相关接触由投资方主动发起，而非OpenAI方面主导。是否推进本轮融资及其时间节点，将在很大程度上取决于公司的上市计划。</strong></p>\n<p>Altman上周六表示，当前赴美上市\"时机不当\"，并将IPO窗口推迟至2027年之后。OpenAI已于今年6月秘密提交了IPO招股书，但随后主动推迟了上市节奏。</p>\n<p>若新一轮私募融资落地，将为软银、Thrive Capital等长期股东提供继续加仓的机会。同时也意味着这些投资方要等待更久，才能兑现IPO所带来的丰厚回报。</p>\n<p><strong>与此同时，Altman在AI安全监管问题上也表态明确，强调行业有能力自主推进安全发展，无需外部强制介入。</strong></p>\n<div>\n<h2",
+      "link": "https://wallstreetcn.com/articles/3781832",
+      "published": "Tue, 15 Sep 2026 22:59:26 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美共和党拟加速推动立法，要求AI数据中心“自己付电费”",
+      "summary": "<p dir=\"auto\">美国参议院共和党人正考虑采取加速立法程序，在11月选举前推动一项法案。<strong>该法案旨在应对耗电量巨大的数据中心带来的影响，并向选民展示议员们遏制不断上涨的消费者能源成本所作出的努力。</strong></p>\n<p dir=\"auto\">据彭博，<strong>众议院预计最早将于周二以广泛支持通过这项跨党派法案，指导各州考虑强制数据中心承担其所需庞大电力的费用。</strong></p>\n<p dir=\"auto\">《费率缴纳者保护法案》（Ratepayer Protection Act，H.R. 9340）<strong>旨在将白宫今年早些时候提出的“费率缴纳者保护承诺”纳入法律。该承诺获得了多家科技公司的支持。</strong></p>\n<p dir=\"auto\">“费率缴纳者保护承诺”是指<strong>数据中心为自己的用电买单，同时承担基础设施升级费用，避免将成本转嫁给普通家庭和企业。</strong></p>\n<p dir=\"auto\">该法案的参议院版本由俄亥俄州共和党参议员乔恩·休斯特发起。休斯特目前正与前民主党参议员谢罗德·布朗展开",
+      "link": "https://wallstreetcn.com/articles/3781831",
+      "published": "Tue, 15 Sep 2026 22:59:08 GMT"
     },
     {
       "source": "华尔街见闻",
