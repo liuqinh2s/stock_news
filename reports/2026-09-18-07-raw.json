@@ -1,8 +1,8 @@
 {
   "date": "2026-09-18",
   "hour": "07",
-  "total": 34,
-  "fetched_at": "2026-09-18T07:01:00.327987+08:00",
+  "total": 33,
+  "fetched_at": "2026-09-18T07:13:18.976210+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -12,6 +12,20 @@
       "published": "Thu, 17 Sep 2026 22:14:00 GMT"
     },
     {
+      "source": "新浪财经",
+      "title": "美联储加息后，A股不走寻常路 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBUQmk2RVdiV0RHVWZtZGRpakVJMl9xTDZvRWhFbDVtVEdXaEIteXlPSVM4QURGVURaYWkyUkxPRWZDem5PaU9VZFZFV0F5bWZCLW8zeG1VaDRCWmlHbVVMNTVCRm53RHJmbVBVQllMQUVxNXluMW1wTjNDZjQ?oc=5\" target=\"_blank\">美联储加息后，A股不走寻常路</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUQmk2RVdiV0RHVWZtZGRpakVJMl9xTDZvRWhFbDVtVEdXaEIteXlPSVM4QURGVURaYWkyUkxPRWZDem5PaU9VZFZFV0F5bWZCLW8zeG1VaDRCWmlHbVVMNTVCRm53RHJmbVBVQllMQUVxNXluMW1wTjNDZjQ?oc=5",
+      "published": "Thu, 17 Sep 2026 22:30:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "券商注销式回购稳定市值 国金证券拟再注销减资1.5亿元股份 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1tMkRnd3BzMG1fekUwWDRoYXQ2c0I4bFhwZDhFbVROMGQ3dlc4NGpvQTRISjZ5WWJsU0liRFhnOVR2TEpyNHluTEF6MjJkb3lkMkExZlNrMkhabDlSMmJyMTkyOEZwQ1drdzd4b0NjRTN3WDZEbkI1Rg?oc=5\" target=\"_blank\">券商注销式回购稳定市值 国金证券拟再注销减资1.5亿元股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tMkRnd3BzMG1fekUwWDRoYXQ2c0I4bFhwZDhFbVROMGQ3dlc4NGpvQTRISjZ5WWJsU0liRFhnOVR2TEpyNHluTEF6MjJkb3lkMkExZlNrMkhabDlSMmJyMTkyOEZwQ1drdzd4b0NjRTN3WDZEbkI1Rg?oc=5",
+      "published": "Thu, 17 Sep 2026 23:00:00 GMT"
+    },
+    {
       "source": "东方财富",
       "title": "基本面逐步修复 A股上行趋势有望延续 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YQ2pxbC1VU21lVUo1clVkdDg1YmZBNnpkMlNpdHkxamxPZUZzLVZpVzlWMzlZQ1pGVVhYc1laM2RWQlpYMUNLMy1aU2pjaVhQaDlqT0UzRnBtMlJ0b2hMaA?oc=5\" target=\"_blank\">基本面逐步修复 A股上行趋势有望延续</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
@@ -19,11 +33,25 @@
       "published": "Thu, 17 Sep 2026 22:52:33 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "晚间科技四大利好，构造“黄金坑” - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWjhnOTdycGxHOVhNeFZFX1FQcExkbUJaMC0xTXdCRDRyZlBOREhYaERUUzhTUThVa3hicmthcHA2b182WmVjcE82N3VTNUk2dlFpMW5INkQ1eUlMZzFWZE84aUFTME1GUnRj?oc=5\" target=\"_blank\">晚间科技四大利好，构造“黄金坑”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vWjhnOTdycGxHOVhNeFZFX1FQcExkbUJaMC0xTXdCRDRyZlBOREhYaERUUzhTUThVa3hicmthcHA2b182WmVjcE82N3VTNUk2dlFpMW5INkQ1eUlMZzFWZE84aUFTME1GUnRj?oc=5",
-      "published": "Thu, 17 Sep 2026 21:58:00 GMT"
+      "source": "同花顺",
+      "title": "古菌红素氧还蛋白结构得到解析",
+      "summary": "德国马克斯·普朗克多学科科学研究所、波兰华沙大学、欧洲分子生物学实验室等机构科学家携手，以迄今最高分辨率——0.43埃（1埃等于0.1纳米）解析了古菌红素氧还蛋白的结构。这一进展是X射线晶体学的重要跨越，有助科学家更深入揭示蛋白质的结构与功能。相关论文发表于最新一期《晶体学学报D辑：结构生物学》杂志。",
+      "link": "https://news.10jqka.com.cn/20260918/c680032969.shtml",
+      "published": "Thu, 17 Sep 2026 23:05:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "AI系统可让3D打印实现同步质检",
+      "summary": "美国劳伦斯利弗莫尔国家实验室研究人员开发出一种利用摄像头和人工智能（AI）检测3D打印质量的系统，在打印过程中，3D打印机可逐层“检查”自己制造的零部件，并及时发现断丝、尺寸异常等细微缺陷。研究人员表示，这有望在零部件完成打印前发现问题，减少后续检测时间和成本。该方法也可应用于其他先进制造技术、传统减材制造工艺和实验系统。相关研究发表于最新一期《npj先进制造》杂志。",
+      "link": "https://news.10jqka.com.cn/20260918/c680032956.shtml",
+      "published": "Thu, 17 Sep 2026 23:05:22 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧核中心首获两个Z玻色子间量子纠缠证据",
+      "summary": "欧洲核子研究中心大型强子对撞机上的ATLAS实验，首次获得希格斯玻色子衰变产生的两个Z玻色子之间存在量子纠缠的有力证据。这项研究表明，量子纠缠不仅存在于光子、电子等粒子构成的量子系统中，也能出现在高能碰撞产生的质量较大、寿命极短的基本粒子之间，为探索极端条件下量子力学的基本规律提供了新的实验窗口。相关研究发表于最新一期《物理评论快报》。",
+      "link": "https://news.10jqka.com.cn/20260918/c680032946.shtml",
+      "published": "Thu, 17 Sep 2026 23:05:04 GMT"
     },
     {
       "source": "同花顺",
@@ -145,32 +173,11 @@
       "published": "Thu, 17 Sep 2026 22:19:52 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "美联储10月加息的概率为55.4%",
-      "summary": "据CME“美联储观察”：美联储10月会议维持利率在3.75%-4.00%不变的概率为44.6%，加息25个基点的概率为55.4%。美联储到12月维持利率在3.75%-4.00%不变的概率为12.6%，累计加息25个基点的概率为47.7%，累计加息50个基点的概率为39.8%。",
-      "link": "https://news.10jqka.com.cn/20260918/c680032513.shtml",
-      "published": "Thu, 17 Sep 2026 22:14:44 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美媒：伊朗领导人将出席在纽约举行的联合国大会",
-      "summary": "据美国多家媒体17日报道，尽管美国和伊朗仍处于交战状态，但美国政府已同意伊朗领导人参加下周在纽约举行的联合国大会高级别会议。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260918/c680032119.shtml",
-      "published": "Thu, 17 Sep 2026 22:00:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "富时中国A50指数期货夜盘收涨0.36%，报14371点",
-      "summary": "富时中国A50指数期货夜盘收涨0.36%，报14371点。",
-      "link": "https://news.10jqka.com.cn/20260918/c680031842.shtml",
-      "published": "Thu, 17 Sep 2026 21:16:16 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "被iPhone Duo激出紧迫感？三星可能加快推出第二代三折叠手机 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LUXo5NXZ2LTU0UENFZWpCUW5nZk9uTWtaU2t1cUkyeXNrTkY5RTk3b203RktMOG5EUnJaeXpRUjlzM0t4aGdCNg?oc=5\" target=\"_blank\">被iPhone Duo激出紧迫感？三星可能加快推出第二代三折叠手机</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LUXo5NXZ2LTU0UENFZWpCUW5nZk9uTWtaU2t1cUkyeXNrTkY5RTk3b203RktMOG5EUnJaeXpRUjlzM0t4aGdCNg?oc=5",
-      "published": "Thu, 17 Sep 2026 21:09:03 GMT"
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年9月18日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>要闻精选</h2>\n<div>\n<div>\n<blockquote>\n<p>中国国家主席就发展先进制造业作出重要指示强调，持续做大做强先进制造业，为推进中国式现代化提供有力支撑。</p>\n<p>王毅同美国国务卿鲁比奥通电话。</p>\n<p>中国商务部：中美经贸团队正就降税等议题保持密切交流；商务部回应欧委会公共采购法草案设置“欧洲优先”条款：密切关注欧方立法进程，及时评估相关影响。</p>\n<p>报道：沙特向胡塞武装提议两周停火；有大国要求伊朗帮助约束胡塞。布油一度跌超4%。</p>\n<p>特朗普：加息前与沃什交谈过，支持沃什的决定。特朗普威胁欧盟：若接纳加拿大为“准成员国”，就准备承受关税。</p>",
+      "link": "https://wallstreetcn.com/articles/3782028",
+      "published": "Thu, 17 Sep 2026 23:05:31 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -215,32 +222,18 @@
       "published": "Thu, 17 Sep 2026 21:13:25 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "算力已成不可或缺的基础资源，桥水：应对AI算力巨头进行监管",
-      "summary": "<p>随着人工智能产业加速向少数头部企业集中，AI监管的焦点正从模型安全、数据使用等问题，进一步延伸至支撑AI发展的核心基础设施——算力。</p>\n<p>据The Information，<strong>桥水基金联席首席投资官Greg Jensen表示，全球头部AI算力持有者需要接受类似大型金融机构的额外监管。</strong></p>\n<p><strong>如果一家企业控制了美国或全球5%以上的算力资源，就可以考虑将其认定为“系统重要性机构”，并实施更严格的监管。</strong></p>\n<p>Jensen在接受采访时表示，可以对这类企业采取类似系统重要性银行的监管框架，即一旦一家机构掌握了超过一定比例的关键资源，就需要接受额外监管。</p>\n<p>此外，<strong>他提出，任何进入美国生态系统的AI模型都应受到监管标准的约束。</strong></p>\n<h2>Jensen：AI算力高度集中，可以考虑设置“算力持有上限”</h2>\n<p>Jensen认为，AI产业正在形成高度集中的算力结构，而算力已经成为AI模型训练和运行不可或缺的基础资源。</p>\n<p>他表示表示，这些企",
-      "link": "https://wallstreetcn.com/articles/3782026",
-      "published": "Thu, 17 Sep 2026 21:05:02 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "9月18日会员早报：美国10年期通胀保值国债收益率连创新高 美国就业数据创近年新低",
-      "summary": "<p>1、【美国10年期通胀保值国债收益率连创新高】美国财政部周四标售190亿美元10年期通胀保值国债（TIPS），中标实际收益率升至2.653%。这已是TIPS实际收益率连续第二次刷新危机后的纪录。就在7月23日，同一期国债的首场标售还只有2.438%，当时便已是2008年10月以来最高，票面利率定在2.375%；不到两个月，这个数字又跳升了约21.5个基点。拉长看，过去二十年的114次同期限标售中，实际收益率能站上2%的屈指可数。</p> <p>2、【美国就业数据创近年新低】美国劳工部周四公布的数据显示，截至9月12日当周，初请失业金人数减少1万至19.6万，低于市场预期的20.8万，为7月以来的最低水平；更能反映存量失业状况的续请失业金人数降至173万，创下两年多以来新低。波动更小的四周移动均值也回落至约20.3万。</p> <p>3、【特朗普威胁对欧盟加征关税】当欧盟和加拿大互相表示愿意“结盟”之后，特朗普表示加拿大加入欧盟的前景“很可笑”，并抨击“加拿大一直是个糟糕的贸易伙伴”。他把威胁与欧洲领导人的“意图”直接挂钩：“如果出于善意，那没问题；如果出于恶意，我们就会对欧洲加征",
-      "link": "https://wallstreetcn.com/member/articles/3782024",
-      "published": "Thu, 17 Sep 2026 21:04:14 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "SpaceX考虑从倒闭初创公司购买数据，为Grok AI模型扩充训练资源",
-      "summary": "<p>SpaceX正在探索从陷入困境或已倒闭的初创企业购买数据，以更低成本扩充其人工智能模型的训练资源。这一策略标志着该公司在AI数据获取方式上的重要转变，也折射出其在AI军备竞赛中加速追赶的迫切态势。</p>\n<p>据彭博援引知情人士透露，<strong>SpaceX旗下AI部门SpaceXAI内部已就此展开讨论，目标是收购问题初创企业的客户信息及运营数据。相关讨论目前仍属非正式性质，尚未确定是否会达成实际交易。</strong></p>\n<p>SpaceXAI的上述做法与谷歌此前的操作如出一辙——谷歌曾在廉价航空公司Spirit Airlines停止运营后，出价1000万美元购买其业务数据用于AI训练，尽管此举引发了部分前机组人员的数据隐私质疑。</p>\n<p>马斯克在近期一次内部会议上向SpaceX员工表示，<strong>\"我们将用SpaceX所有信息的总和来训练Grok，它将以你们为师。\"</strong>这番表态表明，外部数据采购与内部数据挖掘将并行推进，共同服务于Grok模型的迭代升级。</p>\n<p>周四，SpaceX收涨2.6%。</p>\n<p><img class=",
-      "link": "https://wallstreetcn.com/articles/3782023",
-      "published": "Thu, 17 Sep 2026 21:03:56 GMT"
-    },
-    {
       "source": "澎湃新闻财经",
       "title": "纽约股市三大股指17日上涨 - thepaper.cn",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE40YVAtNDl3TTBIMmhIZXhKVk9OUGM4ZlBTUzB5VVJ4TEdSbkZ4TVZaeXByTmxtbTZxY2pWck1QTndaNnZqeklBZElOcEExMS1Lc3N1NDNiV2J1WS1nZ192ag?oc=5\" target=\"_blank\">纽约股市三大股指17日上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thepaper.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40YVAtNDl3TTBIMmhIZXhKVk9OUGM4ZlBTUzB5VVJ4TEdSbkZ4TVZaeXByTmxtbTZxY2pWck1QTndaNnZqeklBZElOcEExMS1Lc3N1NDNiV2J1WS1nZ192ag?oc=5",
       "published": "Thu, 17 Sep 2026 21:43:00 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "新奥能源(02688) - 最新资讯 - 雪球",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSHZoNlNBeVFjaHkxbmJyY3ppUGlTcWxva0ZCeVFBbFhlek5HcTdEUUxyTkVscFRGYUVpeDlRdWZJOFA5dWZ3YTdiV1lFM3AzbnZYZw?oc=5\" target=\"_blank\">新奥能源(02688) - 最新资讯</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPSHZoNlNBeVFjaHkxbmJyY3ppUGlTcWxva0ZCeVFBbFhlek5HcTdEUUxyTkVscFRGYUVpeDlRdWZJOFA5dWZ3YTdiV1lFM3AzbnZYZw?oc=5",
+      "published": "Thu, 17 Sep 2026 21:46:15 GMT"
     }
   ]
 }
