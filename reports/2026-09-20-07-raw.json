@@ -1,9 +1,23 @@
 {
   "date": "2026-09-20",
   "hour": "07",
-  "total": 2,
-  "fetched_at": "2026-09-20T07:00:56.905516+08:00",
+  "total": 11,
+  "fetched_at": "2026-09-20T07:45:26.176728+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnV5ZGptSWYwVEd2UkQ2dXpvZWk4U0hiNnB3djE0ejlobXp0YWw3TURYUEREdk1DaUZadHpybDFDTzBqUWVZN1p5c01STV8zS2VJcm1FNFBHczFSN1NkZXhCRnIxaUdoVWpDaEQxWUNVdmQxb0MtYUNqYmwxTFRrWWpuSGg1SUwwTXlWcERvTzc2ZW1tS1FZ?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnV5ZGptSWYwVEd2UkQ2dXpvZWk4U0hiNnB3djE0ejlobXp0YWw3TURYUEREdk1DaUZadHpybDFDTzBqUWVZN1p5c01STV8zS2VJcm1FNFBHczFSN1NkZXhCRnIxaUdoVWpDaEQxWUNVdmQxb0MtYUNqYmwxTFRrWWpuSGg1SUwwTXlWcERvTzc2ZW1tS1FZ?oc=5",
+      "published": "Sat, 19 Sep 2026 23:30:38 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "宏华数科(688789)2026年半年报点评：短期业绩承压 墨水与新业务保持增长态势 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWFHRkRjUU9hQ3k0Z283V0hHa1JiOUpCNWZpSWg0aGxHanNlRlE1Mm9MU05Ic081RFRWTndVZnpQYmF3cGRJU1J1cHc1eEVkVG1zZVZKc1p6UjZNVDdBbDBMVG5LdDZ5RlhiTThXQi15ZUdyVlhUajBsSVZFY1p4X3duOThmRy1YbTFrMjdTX0hmRklnZE13?oc=5\" target=\"_blank\">宏华数科(688789)2026年半年报点评：短期业绩承压 墨水与新业务保持增长态势</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTWFHRkRjUU9hQ3k0Z283V0hHa1JiOUpCNWZpSWg0aGxHanNlRlE1Mm9MU05Ic081RFRWTndVZnpQYmF3cGRJU1J1cHc1eEVkVG1zZVZKc1p6UjZNVDdBbDBMVG5LdDZ5RlhiTThXQi15ZUdyVlhUajBsSVZFY1p4X3duOThmRy1YbTFrMjdTX0hmRklnZE13?oc=5",
+      "published": "Sat, 19 Sep 2026 23:34:22 GMT"
+    },
     {
       "source": "东方财富",
       "title": "争取九月盈利向八月靠拢！ - 财富号",
@@ -12,11 +26,60 @@
       "published": "Sat, 19 Sep 2026 22:01:00 GMT"
     },
     {
-      "source": "华尔街见闻",
+      "source": "东方财富",
+      "title": "东北证券：加息落地，资产后续如何演绎？ - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE4zUk9oVVlpOHlJX3A1ZVhQT280VzhTTWs1MkRSM3ZMelNRZFQ0UzlXUzV5cmRFUTBUZk5sSU1Ca29qSXpVakVjUGF3TUdJRjB2MTM2M09SOXNodU5WbTFHSjZydzVxY0xucVpj?oc=5\" target=\"_blank\">东北证券：加息落地，资产后续如何演绎？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zUk9oVVlpOHlJX3A1ZVhQT280VzhTTWs1MkRSM3ZMelNRZFQ0UzlXUzV5cmRFUTBUZk5sSU1Ca29qSXpVakVjUGF3TUdJRjB2MTM2M09SOXNodU5WbTFHSjZydzVxY0xucVpj?oc=5",
+      "published": "Sat, 19 Sep 2026 23:28:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗内政部：无需担忧必需品供应问题",
+      "summary": "伊朗内政部负责政治事务的副部长泽尼万德19日在新闻发布会上表示，由于必需品进口量庞大，伊朗目前面临仓储设施不足，他已呼吁私营部门予以协助。伊朗民众不必担心必需品的供应，也不应被敌人的虚假报道所影响，政府在这方面的工作正以最佳状态推进。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260920/c680086331.shtml",
+      "published": "Sat, 19 Sep 2026 23:42:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普：将组建一支“人工智能部队”",
+      "summary": "美国总统特朗普19日在社交媒体发文称，他将组建一支“人工智能部队”。特朗普说，为组建“人工智能部队”，他将在不久后任命一名人工智能事务“总管”。他称，人工智能代表着下一场工业革命或互联网浪潮，其规模和影响力将更大，甚至可能占到美国国内生产总值的25%。特朗普还在帖文中抨击激进的民主党人“企图摧毁人工智能”，称“我们绝不会以任何方式阻碍或扼杀这个令人瞩目的产业发展。相反，我们要珍视它、扶持它，并守护它的成长”。他同时表示，美国将借现有的刑事与民事司法体系，严惩人工智能相关不法行为。 （新华社）",
+      "link": "https://news.10jqka.com.cn/20260920/c680086323.shtml",
+      "published": "Sat, 19 Sep 2026 23:39:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沙特主导联军称拦截胡塞武装射向利雅得的弹道导弹",
+      "summary": "当地时间9月19日，沙特主导的多国联军发言人图尔基·马利基发表声明称，沙特皇家防空部队当天凌晨成功拦截并摧毁一枚由也门胡塞武装向沙特首都利雅得发射的弹道导弹。马利基表示，胡塞武装持续企图袭击利雅得的平民和民用设施。此外，胡塞武装还企图袭击比什、塔伊夫、费尔桑和延布的平民及民用设施，相关袭击均被防空部队挫败。利雅得19日两次传出爆炸声，一次在当天凌晨，另一次在当天上午。位于利雅得东北部的哈立德国王国际机场附近一度升起浓烟。近期，也门胡塞武装多次对沙特发动导弹和无人机袭击，但利雅得发布防空警报还是第一次。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260920/c680086313.shtml",
+      "published": "Sat, 19 Sep 2026 23:37:06 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "胜宏科技：mSAP车间当前订单饱满，产能用于满足1.6T光模块生产需求",
+      "summary": "近日，胜宏科技在接待4家机构及40位个人投资者现场参观时表示，公司在惠州配置了mSAP车间，该产能目前用于满足1.6T光模块的生产需求，当前在手订单饱满，产能利用率处于良好水平。目前mSAP产能需求旺盛，公司与相关客户保持密切沟通，将围绕客户需求进行产能布局。",
+      "link": "https://news.10jqka.com.cn/20260920/c680086237.shtml",
+      "published": "Sat, 19 Sep 2026 23:18:01 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "伊朗向美国开出7项谈判条件",
-      "summary": "<p>当地时间9月19日晚，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊表示，伊朗已向美国政府列出了开启任何谈判所需的7项条件。伊朗发出的信息明确，即“如果美国希望摆脱其一手造成的困境，并避免越陷越深，那么除了接受伊朗的条件外，别无他途”。雷扎伊当天接受采访时证实，卡塔尔作为调解方已向美国方面转达伊朗的谈判条件，正等待美国总统特朗普的回应。雷扎伊说，伊朗提出的谈判条件是美国结束所有针对伊朗的战事、解冻被冻结的伊朗资产并结束海上封锁等。（CCTV国际时讯）</p>",
-      "link": "https://wallstreetcn.com/livenews/3167742",
-      "published": "Sat, 19 Sep 2026 21:33:32 GMT"
+      "summary": "据央视新闻，当地时间9月19日晚，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊表示，伊朗已向美国政府列出了开启任何谈判所需的7项条件。伊朗发出的信息明确，即“如果美国希望摆脱其一手造成的困境，并避免越陷越深，那么除了接受伊朗的条件外，别无他途”。雷扎伊当天接受采访时证实，卡塔尔作为调解方已向美国方面转达伊朗的谈判条件，正等待美国总统特朗普的回应。雷扎伊说，伊朗提出的谈判条件是美国结束所有针对伊朗的战事、解冻被冻结的伊朗资产并结束海上封锁等。",
+      "link": "https://news.10jqka.com.cn/20260920/c680086204.shtml",
+      "published": "Sat, 19 Sep 2026 23:10:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "“先导组装”可精准实现长DNA片段的缝合",
+      "summary": "美国波士顿儿童医院研究团队在最新一期《自然》杂志发表一项名为“先导组装”（prime assembly）的基因组编辑新方法。该技术能够将长DNA片段，精准“缝合”到活细胞基因组的精确可编程位点，并在一轮操作中同时修复多个突变。这一进展可能促成通用基因疗法的开发，适用于多数患者。",
+      "link": "https://news.10jqka.com.cn/20260920/c680086196.shtml",
+      "published": "Sat, 19 Sep 2026 23:08:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "最复杂、速度最快的分子计算机诞生",
+      "summary": "据最新一期《自然》杂志报道，爱尔兰梅努斯大学的研究人员研制出一种新型DNA分子计算机，可利用DNA分子相互作用完成加法、乘法和除法等数学运算。这是目前已报道的最复杂、速度最快的分子计算机，已实现100比特计算，并可连续完成多达25次不同运算。这项研究有望为低能耗计算和长期数据存储提供新的技术路径。",
+      "link": "https://news.10jqka.com.cn/20260920/c680086192.shtml",
+      "published": "Sat, 19 Sep 2026 23:08:27 GMT"
     }
   ]
 }
