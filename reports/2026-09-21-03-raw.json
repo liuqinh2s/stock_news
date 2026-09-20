@@ -1,43 +1,15 @@
 {
   "date": "2026-09-21",
   "hour": "03",
-  "total": 14,
-  "fetched_at": "2026-09-21T03:01:02.180614+08:00",
+  "total": 4,
+  "fetched_at": "2026-09-21T03:55:39.910323+08:00",
   "news": [
     {
       "source": "新浪财经",
-      "title": "中国移动有限公司2026年中期利润分派A股实施公告 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBrU2tYa3B2cGJ3aEZ2el9JYzZpS3JFMFhGaVJVV29KT1FIcmJsbHJBMUlwa2NacTV3MG5Eb3pGN1BQSEFsLUptQVFmSU1KSllEUHVnV24zcGVKSVRjbDFyTWZ4R3lMZVdoUHRqMW5YbDJKSUQwNjAyTw?oc=5\" target=\"_blank\">中国移动有限公司2026年中期利润分派A股实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrU2tYa3B2cGJ3aEZ2el9JYzZpS3JFMFhGaVJVV29KT1FIcmJsbHJBMUlwa2NacTV3MG5Eb3pGN1BQSEFsLUptQVFmSU1KSllEUHVnV24zcGVKSVRjbDFyTWZ4R3lMZVdoUHRqMW5YbDJKSUQwNjAyTw?oc=5",
-      "published": "Sun, 20 Sep 2026 17:31:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "折价定增也难言“躺赢” 基金经理莫硬着头皮跟进 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBYeWFGWVlyMHJneFlfUW1SZ0E3MXJaVlpEcHB2LVBIWEFXcDlreWZaMWRMcTJfdnQ3RXVFQ3ZKZ2xGQm9rRXdBWFAxVzRXczBOcExkUURRU3NhWkJqOExFNkZ6TTZrVjFMZXVYREc2cUR1dzRQU3hSMA?oc=5\" target=\"_blank\">折价定增也难言“躺赢” 基金经理莫硬着头皮跟进</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYeWFGWVlyMHJneFlfUW1SZ0E3MXJaVlpEcHB2LVBIWEFXcDlreWZaMWRMcTJfdnQ3RXVFQ3ZKZ2xGQm9rRXdBWFAxVzRXczBOcExkUURRU3NhWkJqOExFNkZ6TTZrVjFMZXVYREc2cUR1dzRQU3hSMA?oc=5",
-      "published": "Sun, 20 Sep 2026 17:35:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：雷科防务(002413)股东户数29.85万户，较上期减少0.5% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9LWGxOVmpkdkdWUlFYN01HTjAxUUc2WFpkT0NBZ3FFaFoxLUJtZEdwTjR2eno1NlVuNXVTNEhEaFZsaGJoUWIxTmFVLVFMMDc5WTV3V3FzaTNKQm9Sa2lOdHJRTlc0eVBXZE9N?oc=5\" target=\"_blank\">股市必读：雷科防务(002413)股东户数29.85万户，较上期减少0.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LWGxOVmpkdkdWUlFYN01HTjAxUUc2WFpkT0NBZ3FFaFoxLUJtZEdwTjR2eno1NlVuNXVTNEhEaFZsaGJoUWIxTmFVLVFMMDc5WTV3V3FzaTNKQm9Sa2lOdHJRTlc0eVBXZE9N?oc=5",
-      "published": "Sun, 20 Sep 2026 17:12:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：9月18日惠通科技发生1笔大宗交易 成交金额207.48万元 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBodE85ZE1Ka21nVFAxWndZcC0yU21WZjRCQzZXdEVqTGZHWTdaOEhQZXpvWlFSNXcxNXVsYjVqcVRqOUYwOENITml5MndnbDBKRnYySXQtOXZ4ZDJaaGg2cTZkWEk5Q215ZFdj?oc=5\" target=\"_blank\">股市必读：9月18日惠通科技发生1笔大宗交易 成交金额207.48万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBodE85ZE1Ka21nVFAxWndZcC0yU21WZjRCQzZXdEVqTGZHWTdaOEhQZXpvWlFSNXcxNXVsYjVqcVRqOUYwOENITml5MndnbDBKRnYySXQtOXZ4ZDJaaGg2cTZkWEk5Q215ZFdj?oc=5",
-      "published": "Sun, 20 Sep 2026 17:12:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "锚定中国硬科技 外资寻找AI时代“第二战场” - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zYTh4WUJOaFBTbC1WMm5MY2VIbHBNaHVfT0Q3YndOMnU5QWZXdEhkVHNyQ1VYT3NaUXpyVTRFWmVEb2hCdEp2TWV0ZXJjNU9VbVUyTWJESUNEOGhsQVN1U19vYw?oc=5\" target=\"_blank\">锚定中国硬科技 外资寻找AI时代“第二战场”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zYTh4WUJOaFBTbC1WMm5MY2VIbHBNaHVfT0Q3YndOMnU5QWZXdEhkVHNyQ1VYT3NaUXpyVTRFWmVEb2hCdEp2TWV0ZXJjNU9VbVUyTWJESUNEOGhsQVN1U19vYw?oc=5",
-      "published": "Sun, 20 Sep 2026 17:26:53 GMT"
+      "title": "市场风格变了 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fa05KRHdFbmhQMUZLU2UxalVtVTJzYWY2V1VReUktQkhOSldlYmUyWVRRbEhERmVKSXJORURWbGFISUlnMzFPWkg2VzZkMllkeDFtQVE0RkV6N2htMk90Smg2U0dLeHhSckdZaTRmczZqN0JQa0o5Wg?oc=5\" target=\"_blank\">市场风格变了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fa05KRHdFbmhQMUZLU2UxalVtVTJzYWY2V1VReUktQkhOSldlYmUyWVRRbEhERmVKSXJORURWbGFISUlnMzFPWkg2VzZkMllkeDFtQVE0RkV6N2htMk90Smg2U0dLeHhSckdZaTRmczZqN0JQa0o5Wg?oc=5",
+      "published": "Sun, 20 Sep 2026 18:19:00 GMT"
     },
     {
       "source": "东方财富",
@@ -48,59 +20,17 @@
     },
     {
       "source": "东方财富",
-      "title": "风险定价逻辑获系统性重估 国际评级机构上调中国券业评级 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1mWUlJVFJYd2lpbGlMWGdNTUpRTWh2S2xsZGJBNlM4UElOdEhFR0FXWjNDVVl4dzB5bS1uSXBaNlltOTMyeUg1OTJoZDhKU2VITzA1Znc1ODBQczNnb01GTXNtVHZNOVNRcUhWVQ?oc=5\" target=\"_blank\">风险定价逻辑获系统性重估 国际评级机构上调中国券业评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mWUlJVFJYd2lpbGlMWGdNTUpRTWh2S2xsZGJBNlM4UElOdEhFR0FXWjNDVVl4dzB5bS1uSXBaNlltOTMyeUg1OTJoZDhKU2VITzA1Znc1ODBQczNnb01GTXNtVHZNOVNRcUhWVQ?oc=5",
-      "published": "Sun, 20 Sep 2026 17:45:17 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：新瀚新材(301076)股东户数2.61万户，较上期减少5.78% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1wWFZRa0xnekRoNVBKWjc0dFNJNHZLTVJyelNxN1E4TFc2dzdPSjREeFRlM0dCWC1FOHdQU2NENFlrbUFUVTJFMmFORTRwU0FET0FvbS1IeC1DSVF1NF93X2tib2wyVXlwcldZ?oc=5\" target=\"_blank\">股市必读：新瀚新材(301076)股东户数2.61万户，较上期减少5.78%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wWFZRa0xnekRoNVBKWjc0dFNJNHZLTVJyelNxN1E4TFc2dzdPSjREeFRlM0dCWC1FOHdQU2NENFlrbUFUVTJFMmFORTRwU0FET0FvbS1IeC1DSVF1NF93X2tib2wyVXlwcldZ?oc=5",
-      "published": "Sun, 20 Sep 2026 17:12:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：国统股份(002205)股东户数1.48万户，较上期增加3.84% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBtWThmazJkbWRkSlpLc1JFOEIyLVdqMmJnbXYzV2JhRGZMSlV1eTZRWU9SY2FIYnMtcnEzQ2VJeTVCdTFjNEZ1dlpzMkUySGJCYTgteHFaRkV2VEVIWXc2Y25CeFNuOVM5bkM4?oc=5\" target=\"_blank\">股市必读：国统股份(002205)股东户数1.48万户，较上期增加3.84%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtWThmazJkbWRkSlpLc1JFOEIyLVdqMmJnbXYzV2JhRGZMSlV1eTZRWU9SY2FIYnMtcnEzQ2VJeTVCdTFjNEZ1dlpzMkUySGJCYTgteHFaRkV2VEVIWXc2Y25CeFNuOVM5bkM4?oc=5",
-      "published": "Sun, 20 Sep 2026 17:12:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：太阳能（000591）9月18日董秘有最新回复 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8wNzRPY1ZaQnVzclZDRlBoQnJwMUg4cXlJMzJmTWVBMFBVQU1iUExqcS12djZKNUhQeXdCN0NqM0VZY3lpRmRQVVFiOTZFZ2tsa19jWGk1bHhTTmYtbzNjbUtHdGxxRDRSZ3BJ?oc=5\" target=\"_blank\">股市必读：太阳能（000591）9月18日董秘有最新回复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wNzRPY1ZaQnVzclZDRlBoQnJwMUg4cXlJMzJmTWVBMFBVQU1iUExqcS12djZKNUhQeXdCN0NqM0VZY3lpRmRQVVFiOTZFZ2tsa19jWGk1bHhTTmYtbzNjbUtHdGxxRDRSZ3BJ?oc=5",
-      "published": "Sun, 20 Sep 2026 17:12:00 GMT"
+      "title": "大牛市！美联储靴子落地，半导体狂飙！周一大分化不接最后一棒！ - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE85SWExRXFJNXlSVGF0MVJXYklXRVRYaTM2cHhFWHRzdjRhMXY5N0ZEeWJMLVhXbTE4UnlBTmFSTEQtcm1EQ3pPZTFlb2kxTXB3NktHWDJZVjNCbnlCZWc1OHJVdTRpb1VrUzU0?oc=5\" target=\"_blank\">大牛市！美联储靴子落地，半导体狂飙！周一大分化不接最后一棒！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85SWExRXFJNXlSVGF0MVJXYklXRVRYaTM2cHhFWHRzdjRhMXY5N0ZEeWJMLVhXbTE4UnlBTmFSTEQtcm1EQ3pPZTFlb2kxTXB3NktHWDJZVjNCbnlCZWc1OHJVdTRpb1VrUzU0?oc=5",
+      "published": "Sun, 20 Sep 2026 19:12:00 GMT"
     },
     {
       "source": "同花顺",
-      "title": "权益类基金明显反弹 公募规模再度逼近40万亿 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXQzBwZVF5NGNGLVY0dXFwUUN4NjZPQW9PUFRfNnpKd2VlWmdPSjRLSGZFZEo5N1N4SjRYb2NBbGpDNlYzb21kd2tlOVFER18zWlJxWUVKU3J3Y2o4VWc?oc=5\" target=\"_blank\">权益类基金明显反弹 公募规模再度逼近40万亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "title": "权益类基金明显反弹 公募规模再度逼近40万亿 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXQzBwZVF5NGNGLVY0dXFwUUN4NjZPQW9PUFRfNnpKd2VlWmdPSjRLSGZFZEo5N1N4SjRYb2NBbGpDNlYzb21kd2tlOVFER18zWlJxWUVKU3J3Y2o4VWc?oc=5\" target=\"_blank\">权益类基金明显反弹 公募规模再度逼近40万亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXQzBwZVF5NGNGLVY0dXFwUUN4NjZPQW9PUFRfNnpKd2VlWmdPSjRLSGZFZEo5N1N4SjRYb2NBbGpDNlYzb21kd2tlOVFER18zWlJxWUVKU3J3Y2o4VWc?oc=5",
       "published": "Sun, 20 Sep 2026 18:30:05 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "建设现代化金融市场 以多元融资助力经济转型升级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUaE05MHRlVlN4b3VJV2pya21hTmN3eGJDTkg3cllNcWNITC0zVW13Q1d3bF9CdlEyS0c3UGZkVU1zbkhKbmtnSElseE9mc2xCSzIwU2NoVWhzSVA0a2R0QQ?oc=5\" target=\"_blank\">建设现代化金融市场 以多元融资助力经济转型升级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUaE05MHRlVlN4b3VJV2pya21hTmN3eGJDTkg3cllNcWNITC0zVW13Q1d3bF9CdlEyS0c3UGZkVU1zbkhKbmtnSElseE9mc2xCSzIwU2NoVWhzSVA0a2R0QQ?oc=5",
-      "published": "Sun, 20 Sep 2026 17:36:22 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "往早走 往长走 往快走——国金证券构筑科技金融“轻舟”模式 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tS1FIREIzYmQzZTdFbUhuN2FLcTNpSGR2TFhhT0ZidGFWY2kyZkJCeWQ3T1dGUU1XaG1NTDR1YmVYWWgyZ25uZFRieGd5MXpERUhPaGt4MFlCWlBud3c?oc=5\" target=\"_blank\">往早走 往长走 往快走——国金证券构筑科技金融“轻舟”模式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tS1FIREIzYmQzZTdFbUhuN2FLcTNpSGR2TFhhT0ZidGFWY2kyZkJCeWQ3T1dGUU1XaG1NTDR1YmVYWWgyZ25uZFRieGd5MXpERUhPaGt4MFlCWlBud3c?oc=5",
-      "published": "Sun, 20 Sep 2026 17:36:30 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "权益市场回暖助推 8月公募规模增长超5000亿元 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE00eEZvcnRneG8tMEo3NThndVljcTk4bzNqc1BaeXQwRTRBZ29INVpZUzRVRnZBX0JQM2ZMYjgyMFZSV3hYUzVCa0pycmJWVXhnaU9BQ0NHTFVJWkRDSFE?oc=5\" target=\"_blank\">权益市场回暖助推 8月公募规模增长超5000亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00eEZvcnRneG8tMEo3NThndVljcTk4bzNqc1BaeXQwRTRBZ29INVpZUzRVRnZBX0JQM2ZMYjgyMFZSV3hYUzVCa0pycmJWVXhnaU9BQ0NHTFVJWkRDSFE?oc=5",
-      "published": "Sun, 20 Sep 2026 17:26:58 GMT"
     }
   ]
 }
