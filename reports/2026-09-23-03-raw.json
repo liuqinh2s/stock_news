@@ -1,9 +1,16 @@
 {
   "date": "2026-09-23",
   "hour": "03",
-  "total": 21,
-  "fetched_at": "2026-09-23T03:01:03.746386+08:00",
+  "total": 22,
+  "fetched_at": "2026-09-23T03:21:05.617015+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "新华制药关于A股股票交易异常波动的公告 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE42SGNvQUxRU01Zd0hyamxvemdiYjhFU05uQl9OMElXNEdGZzljTnRSWGZKSTlaZjhNOGRPX0NQNzQ1OWJxQ0lPRkxEMnNhX3k3STAxd192VXFqR2cyN3dPd0hGRmRySGdDYTNTTmNkaUN4TkY5ZFhLUw?oc=5\" target=\"_blank\">新华制药关于A股股票交易异常波动的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42SGNvQUxRU01Zd0hyamxvemdiYjhFU05uQl9OMElXNEdGZzljTnRSWGZKSTlaZjhNOGRPX0NQNzQ1OWJxQ0lPRkxEMnNhX3k3STAxd192VXFqR2cyN3dPd0hGRmRySGdDYTNTTmNkaUN4TkY5ZFhLUw?oc=5",
+      "published": "Tue, 22 Sep 2026 19:00:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "中国国际金融股份有限公司关于公司A股股票复牌的提示性公告 - 新浪财经",
@@ -20,45 +27,59 @@
     },
     {
       "source": "东方财富",
-      "title": "上市公司抢抓房车产业链发展机遇 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMzcyUEgtN1BMLXB6cWdtUldObURHMGdhaGZlOXdBMmtvUUhPVTc5MnRGdWN2MHcwYVM4QzhTQmxjWExCbEFkVXFDNzB4YXZjWTl1dFQwaEdxOEFhRHB4WHlqWWNyQQ?oc=5\" target=\"_blank\">上市公司抢抓房车产业链发展机遇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "title": "上市公司抢抓房车产业链发展机遇 - finance.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMzcyUEgtN1BMLXB6cWdtUldObURHMGdhaGZlOXdBMmtvUUhPVTc5MnRGdWN2MHcwYVM4QzhTQmxjWExCbEFkVXFDNzB4YXZjWTl1dFQwaEdxOEFhRHB4WHlqWWNyQQ?oc=5\" target=\"_blank\">上市公司抢抓房车产业链发展机遇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kMzcyUEgtN1BMLXB6cWdtUldObURHMGdhaGZlOXdBMmtvUUhPVTc5MnRGdWN2MHcwYVM4QzhTQmxjWExCbEFkVXFDNzB4YXZjWTl1dFQwaEdxOEFhRHB4WHlqWWNyQQ?oc=5",
       "published": "Tue, 22 Sep 2026 17:39:09 GMT"
     },
     {
       "source": "东方财富",
-      "title": "股市必读：新时达(002527)股东户数5.39万户，较上期减少0.71% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5vWkoteVd2QVo4bnpxdVNTYUF4a3JLWTdlUC10NkNVelA0alUtMDd6Vzl3dEVNdHVOZmE1RUE4S3N3RjN6eEhpZkFfNVUwVk5BY0s4NDdCUzNlUWFrVmZsd1lMODBfTEM3YmpF?oc=5\" target=\"_blank\">股市必读：新时达(002527)股东户数5.39万户，较上期减少0.71%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "title": "股市必读：新时达(002527)股东户数5.39万户，较上期减少0.71% - caifuhao.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5vWkoteVd2QVo4bnpxdVNTYUF4a3JLWTdlUC10NkNVelA0alUtMDd6Vzl3dEVNdHVOZmE1RUE4S3N3RjN6eEhpZkFfNVUwVk5BY0s4NDdCUzNlUWFrVmZsd1lMODBfTEM3YmpF?oc=5\" target=\"_blank\">股市必读：新时达(002527)股东户数5.39万户，较上期减少0.71%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caifuhao.eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vWkoteVd2QVo4bnpxdVNTYUF4a3JLWTdlUC10NkNVelA0alUtMDd6Vzl3dEVNdHVOZmE1RUE4S3N3RjN6eEhpZkFfNVUwVk5BY0s4NDdCUzNlUWFrVmZsd1lMODBfTEM3YmpF?oc=5",
       "published": "Tue, 22 Sep 2026 18:30:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "股市必读：亚辉龙生物新发布《关于2023年限制性股票激励计划第二个归属期（第二批）归属结果暨股票上市公告》 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNGJuWW15bmM1bGp2SEVYS0RLeG0tLW9lNThicEpoTHhLX08teHM5R2hlREZHWUxfWE5mbzMtclBQTmVXY3ZDZFdSX2swZHo1YmtVUUdQdktkU2ViM3NvOUFnd3FKbjRIRDA4?oc=5\" target=\"_blank\">股市必读：亚辉龙生物新发布《关于2023年限制性股票激励计划第二个归属期（第二批）归属结果暨股票上市公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "title": "股市必读：亚辉龙生物新发布《关于2023年限制性股票激励计划第二个归属期（第二批）归属结果暨股票上市公告》 - caifuhao.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNGJuWW15bmM1bGp2SEVYS0RLeG0tLW9lNThicEpoTHhLX08teHM5R2hlREZHWUxfWE5mbzMtclBQTmVXY3ZDZFdSX2swZHo1YmtVUUdQdktkU2ViM3NvOUFnd3FKbjRIRDA4?oc=5\" target=\"_blank\">股市必读：亚辉龙生物新发布《关于2023年限制性股票激励计划第二个归属期（第二批）归属结果暨股票上市公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caifuhao.eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwNGJuWW15bmM1bGp2SEVYS0RLeG0tLW9lNThicEpoTHhLX08teHM5R2hlREZHWUxfWE5mbzMtclBQTmVXY3ZDZFdSX2swZHo1YmtVUUdQdktkU2ViM3NvOUFnd3FKbjRIRDA4?oc=5",
       "published": "Tue, 22 Sep 2026 18:30:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "股市必读：快意电梯（002774）9月22日董秘有最新回复 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySTQyNGpKRnlGLW1CUUkxQjZYYXJYU1ViQl9BN24xZ2l2VjhZc1lLZmRNR0JiS3dROWxfc0w3M2RlR0pramJMdlFBbTNEZUNsUnJlVmZ6M3BwaWd1QjdpWUcyUzNZUUYxZ2FR?oc=5\" target=\"_blank\">股市必读：快意电梯（002774）9月22日董秘有最新回复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "title": "股市必读：快意电梯（002774）9月22日董秘有最新回复 - caifuhao.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySTQyNGpKRnlGLW1CUUkxQjZYYXJYU1ViQl9BN24xZ2l2VjhZc1lLZmRNR0JiS3dROWxfc0w3M2RlR0pramJMdlFBbTNEZUNsUnJlVmZ6M3BwaWd1QjdpWUcyUzNZUUYxZ2FR?oc=5\" target=\"_blank\">股市必读：快意电梯（002774）9月22日董秘有最新回复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caifuhao.eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySTQyNGpKRnlGLW1CUUkxQjZYYXJYU1ViQl9BN24xZ2l2VjhZc1lLZmRNR0JiS3dROWxfc0w3M2RlR0pramJMdlFBbTNEZUNsUnJlVmZ6M3BwaWd1QjdpWUcyUzNZUUYxZ2FR?oc=5",
       "published": "Tue, 22 Sep 2026 17:45:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "股市必读：亚信安全新发布《2026年第三次临时股东会决议公告》 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBmNXo0YzBJN04wS3A3RjNuTkZTZi1GTEtMYTAwdXJTWlRYOUJWVERnTzFuZ25aZUtlM3ZpMDQ3MzBUaWhDNU45ZkRtaXp4Q1Q2NVNwb20zejdVczJaZ2hoamsyZi1UV2tNOEg4?oc=5\" target=\"_blank\">股市必读：亚信安全新发布《2026年第三次临时股东会决议公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "title": "股市必读：亚信安全新发布《2026年第三次临时股东会决议公告》 - caifuhao.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBmNXo0YzBJN04wS3A3RjNuTkZTZi1GTEtMYTAwdXJTWlRYOUJWVERnTzFuZ25aZUtlM3ZpMDQ3MzBUaWhDNU45ZkRtaXp4Q1Q2NVNwb20zejdVczJaZ2hoamsyZi1UV2tNOEg4?oc=5\" target=\"_blank\">股市必读：亚信安全新发布《2026年第三次临时股东会决议公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caifuhao.eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmNXo0YzBJN04wS3A3RjNuTkZTZi1GTEtMYTAwdXJTWlRYOUJWVERnTzFuZ25aZUtlM3ZpMDQ3MzBUaWhDNU45ZkRtaXp4Q1Q2NVNwb20zejdVczJaZ2hoamsyZi1UV2tNOEg4?oc=5",
       "published": "Tue, 22 Sep 2026 17:30:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "股市必读：*ST西旅（000610）登9月22日交易所龙虎榜 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUjRTVHNiWGJXNDJ5X0pQZjk3MWJxcmE0Q0dnckUtdlB2LXpBWENJNDdfUDZ6V2tpcEVOOXpoX0huY3JCQkxlckpTQ3hfdGtEVVYxN1hFcW5HaHlrN3R3MmZRcE9JQzU3T004?oc=5\" target=\"_blank\">股市必读：*ST西旅（000610）登9月22日交易所龙虎榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "title": "股市必读：安通控股（600179）9月22日董秘有最新回复 - caifuhao.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5GNS1YUmRXN3MtcnpPMnRkTV9qTWU2VzlseGdaZGxSWlBWYUZwbDlSQms0ZzhiSFluamV6c25YWUE2UlJOekhOYXVPYV9GWUlUdEItQjZjNFlnRS1GOWJSRFhWTlkzdGEwejZ3?oc=5\" target=\"_blank\">股市必读：安通控股（600179）9月22日董秘有最新回复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caifuhao.eastmoney.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GNS1YUmRXN3MtcnpPMnRkTV9qTWU2VzlseGdaZGxSWlBWYUZwbDlSQms0ZzhiSFluamV6c25YWUE2UlJOekhOYXVPYV9GWUlUdEItQjZjNFlnRS1GOWJSRFhWTlkzdGEwejZ3?oc=5",
+      "published": "Tue, 22 Sep 2026 18:54:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股市必读：*ST西旅（000610）登9月22日交易所龙虎榜 - caifuhao.eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUjRTVHNiWGJXNDJ5X0pQZjk3MWJxcmE0Q0dnckUtdlB2LXpBWENJNDdfUDZ6V2tpcEVOOXpoX0huY3JCQkxlckpTQ3hfdGtEVVYxN1hFcW5HaHlrN3R3MmZRcE9JQzU3T004?oc=5\" target=\"_blank\">股市必读：*ST西旅（000610）登9月22日交易所龙虎榜</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">caifuhao.eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtUjRTVHNiWGJXNDJ5X0pQZjk3MWJxcmE0Q0dnckUtdlB2LXpBWENJNDdfUDZ6V2tpcEVOOXpoX0huY3JCQkxlckpTQ3hfdGtEVVYxN1hFcW5HaHlrN3R3MmZRcE9JQzU3T004?oc=5",
       "published": "Tue, 22 Sep 2026 18:30:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "也门政府军称打死打伤数十名胡塞武装人员",
+      "summary": "亚丁消息：也门政府地方官员22日说，也门政府军与胡塞武装当天在西南部塔伊兹省再次发生激烈交战，造成至少16人死亡、数十人受伤。 也门塔伊兹省西部沙马亚塔因区区长阿卜杜勒阿齐兹·谢巴尼告诉新华社记者，政府军当天在该地区击退胡塞武装的一次进攻，打死12名胡塞武装人员，另外打伤数十人。交战期间，政府军还俘获两名胡塞武装人员。 谢巴尼说，政府军方面有4名士兵在交战中身亡，另有数人受伤。交战后，政府军将胡塞武装逐出沙马亚塔因的一处关键区域。 此外，也门政府军发言人马吉德·努扎伊利当天在社交媒体发表声明说，政府军空袭了塔伊兹省红海港口城市穆哈以及也门中部贝达省的胡塞武装军事装备和人员。 另据胡塞武装当天在该组织控制的马西拉电视台发表声明说，该组织近期在也门西部沿海地区，特别是塔伊兹省西南部和荷台达省西部开展的军事行动，已造成超过600名政府军人员死伤、数百名政府军人员被俘。胡塞武装缴获大量轻型、中型和重型武器。(新华社)",
+      "link": "https://news.10jqka.com.cn/20260923/c680186594.shtml",
+      "published": "Tue, 22 Sep 2026 19:15:15 GMT"
     },
     {
       "source": "同花顺",
@@ -122,20 +143,6 @@
       "summary": "周二（9月22日），美联储隔夜逆回购协议（RRP）使用规模为4.53亿美元。",
       "link": "https://news.10jqka.com.cn/20260923/c680186425.shtml",
       "published": "Tue, 22 Sep 2026 17:28:00 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "联大主席：要建设能主动塑造变化的联合国",
-      "summary": "当地时间9月22日，第81届联合国大会一般性辩论在纽约联合国总部开幕。本届联大主席卡利勒·拉赫曼在开幕致辞中表示，面对持续的地区冲突、发展挑战以及人工智能等新兴技术带来的变革，联合国需要正视自身不足、推进改革，以重新赢得国际社会的信任。拉赫曼表示，联合国成立80多年来，在防止全球性战争、开展维和行动、人道主义援助和推动发展等方面发挥了重要作用。但仅仅维持联合国的存在不能成为衡量其成功的标准，重建信任是本届联大核心任务之一。拉赫曼强调，安理会承担维护国际和平与安全的首要责任。当安理会无法就重大问题采取行动时，联合国的有效性都会受到质疑。他呼吁推进安理会改革，提升代表性与透明度，尤其要解决非洲在安理会代表不足的问题。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20260923/c680186410.shtml",
-      "published": "Tue, 22 Sep 2026 17:13:16 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "巴西总统呼吁维护国家主权与多边主义",
-      "summary": "巴西总统卢拉22日在第81届联合国大会一般性辩论开幕式上发表讲话，呼吁维护国家主权与多边主义，重申不干涉别国内政原则。 卢拉在讲话中表示，联合国安理会必须深入探讨关乎人类未来的决定性议题，要在多边主义与单边主义之间做出选择，“是选择主权，还是选择服从”。 卢拉表示，巴西需要致力于积极议程、促进共同发展的合作伙伴，并重申巴西将坚定走自主发展道路，独立决定国家前途。 针对当前复杂的国际地缘政治局势，卢拉强调，意识形态差异不应成为区域一体化、同邻国合作的障碍。他同时对外部势力干预内部事务表示高度警惕。(新华社)",
-      "link": "https://news.10jqka.com.cn/20260923/c680186374.shtml",
-      "published": "Tue, 22 Sep 2026 17:04:40 GMT"
     },
     {
       "source": "华尔街见闻",
