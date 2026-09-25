@@ -1,9 +1,16 @@
 {
   "date": "2026-09-25",
   "hour": "16",
-  "total": 13,
-  "fetched_at": "2026-09-25T16:01:02.468290+08:00",
+  "total": 15,
+  "fetched_at": "2026-09-25T16:17:37.494631+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "近一月A股定增图谱：12家公司定增募资超200亿元，3家向控股方定增的公司涨幅居前 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00UWNfLXlWRnN0ak0wOXJFbWpNTm05TDJMM0ViV0t5MWNxNTdjRS1nQmhLVkJFWUdONWNVSHIweVluMmFrRlgwZ0VPS3hHcDF0bGNnSHdhSk02aUJ5cFd0M2h4eHhoeVk1Qy1LTlhhYVRuOW1aRWxWTA?oc=5\" target=\"_blank\">近一月A股定增图谱：12家公司定增募资超200亿元，3家向控股方定增的公司涨幅居前</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00UWNfLXlWRnN0ak0wOXJFbWpNTm05TDJMM0ViV0t5MWNxNTdjRS1nQmhLVkJFWUdONWNVSHIweVluMmFrRlgwZ0VPS3hHcDF0bGNnSHdhSk02aUJ5cFd0M2h4eHhoeVk1Qy1LTlhhYVRuOW1aRWxWTA?oc=5",
+      "published": "Fri, 25 Sep 2026 07:59:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "伯恩斯坦：澜起科技维持“跑赢大市”评级 H股目标价520港元 - finance.sina.com.cn",
@@ -12,16 +19,9 @@
       "published": "Fri, 25 Sep 2026 06:18:00 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "小摩：重申中远海能(01138)“增持”评级 建议趁回调买入 - finance.sina.com.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3R6RFNEbFRFSk9Pc19OR24yMFFWTk9WQ1lwMUd6NElEV19ZcUNESDA5WFQ0MFJGTzR4czRQQTBmQnpsY0Q5S3pPUlYxUVZscVhQRlQyelRrUVQ5NEZtM1RhaHNTT1NhZHVXcjdkT0RnbTVCMjFzZC13VDAwVHI0YVFlNC05QkNVSG0w?oc=5\" target=\"_blank\">小摩：重申中远海能(01138)“增持”评级 建议趁回调买入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS3R6RFNEbFRFSk9Pc19OR24yMFFWTk9WQ1lwMUd6NElEV19ZcUNESDA5WFQ0MFJGTzR4czRQQTBmQnpsY0Q5S3pPUlYxUVZscVhQRlQyelRrUVQ5NEZtM1RhaHNTT1NhZHVXcjdkT0RnbTVCMjFzZC13VDAwVHI0YVFlNC05QkNVSG0w?oc=5",
-      "published": "Fri, 25 Sep 2026 07:26:00 GMT"
-    },
-    {
       "source": "东方财富",
-      "title": "搜索结果 - so.eastmoney.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE93a3NiZHJsR2hGRzFDUFJUUFY3YzJQVXVFR29kUDdnWlZVNUVVZ1FRcGhLMzViVWFKU01DZmVVYms3OFZDa1lQWEVPTUZfQ1RhclM0ZDYycXE0YzFS?oc=5\" target=\"_blank\">搜索结果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">so.eastmoney.com</font>",
+      "title": "搜索结果 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE93a3NiZHJsR2hGRzFDUFJUUFY3YzJQVXVFR29kUDdnWlZVNUVVZ1FRcGhLMzViVWFKU01DZmVVYms3OFZDa1lQWEVPTUZfQ1RhclM0ZDYycXE0YzFS?oc=5\" target=\"_blank\">搜索结果</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93a3NiZHJsR2hGRzFDUFJUUFY3YzJQVXVFR29kUDdnWlZVNUVVZ1FRcGhLMzViVWFKU01DZmVVYms3OFZDa1lQWEVPTUZfQ1RhclM0ZDYycXE0YzFS?oc=5",
       "published": "Fri, 25 Sep 2026 07:59:37 GMT"
     },
@@ -31,13 +31,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE84cGxDUkFCaXRxQlZXWlRLOTJSazdyWTNuNXFjUms3bldJV3ozaXJ4cmUxeWo0X2o0cFB1cU1LMTJqOHpXOFlkWEhmS3Z2Y04tNWEyS3g4ZU1tbmszdkhScmI2X2lvRHlxbHpr?oc=5\" target=\"_blank\">7.045/19.458-1=-0.6379【下跌-63.8%】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE84cGxDUkFCaXRxQlZXWlRLOTJSazdyWTNuNXFjUms3bldJV3ozaXJ4cmUxeWo0X2o0cFB1cU1LMTJqOHpXOFlkWEhmS3Z2Y04tNWEyS3g4ZU1tbmszdkhScmI2X2lvRHlxbHpr?oc=5",
       "published": "Fri, 25 Sep 2026 06:31:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "估值5.16*0.30=1.55元 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBqR1ZMWDZOd3NMdUdoRHJ0b3pjZ2hqVDczbTl3ckFpaHlpeU9uYVRoNWoyNldWRHZ6QjVlTzY4S0lZenBqejd4Tk1qNS1fLVRaOVBOOFpTUHFuejVuMmJPb2lEZE96TWdmZ09v?oc=5\" target=\"_blank\">估值5.16*0.30=1.55元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqR1ZMWDZOd3NMdUdoRHJ0b3pjZ2hqVDczbTl3ckFpaHlpeU9uYVRoNWoyNldWRHZ6QjVlTzY4S0lZenBqejd4Tk1qNS1fLVRaOVBOOFpTUHFuejVuMmJPb2lEZE96TWdmZ09v?oc=5",
-      "published": "Fri, 25 Sep 2026 06:09:00 GMT"
     },
     {
       "source": "东方财富",
@@ -62,10 +55,31 @@
     },
     {
       "source": "同花顺",
+      "title": "美股盘前AI硬件股票几乎全线上涨 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GLUpUd3dvRjlTWlp3elhkbk9fQTB6TUJla0djdzBNU216ZGtnbWVDVDNYZnJkWlNrajU2aG1JOTZYVGI2OVhzb3pnODJjeTFpanctZU9CUmxjV19WeC1BTXJ3?oc=5\" target=\"_blank\">美股盘前AI硬件股票几乎全线上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GLUpUd3dvRjlTWlp3elhkbk9fQTB6TUJla0djdzBNU216ZGtnbWVDVDNYZnJkWlNrajU2aG1JOTZYVGI2OVhzb3pnODJjeTFpanctZU9CUmxjV19WeC1BTXJ3?oc=5",
+      "published": "Fri, 25 Sep 2026 08:10:46 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "Piper Sandler将META股票目标价从785美元上调至875美元 - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE12T21CYkF6cXN2dHFqOURFQlV2UGhVeFZpQl9kUTBzSFFHbGQxRVVBLVY2VUEtcFdOcmdhZ25UUmtFOE1LNm5IUV90d2JyeW5vWHJpQm9FOGV5Mm1UWmc?oc=5\" target=\"_blank\">Piper Sandler将META股票目标价从785美元上调至875美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12T21CYkF6cXN2dHFqOURFQlV2UGhVeFZpQl9kUTBzSFFHbGQxRVVBLVY2VUEtcFdOcmdhZ25UUmtFOE1LNm5IUV90d2JyeW5vWHJpQm9FOGV5Mm1UWmc?oc=5",
       "published": "Fri, 25 Sep 2026 07:50:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "高管因“旧账”拟被监管谈话！华林证券回应 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MSlhEMmtwUE94RGtSZGE4YlJjdlVwV0djVFNSckI1SFVDeXpVSGRDT1ZUZWJ6Q2tlZUF4eFhVejNKWTcxVm5aT3U3TlZRMmZpOElYaFJBUExia0IweG4wSlVR?oc=5\" target=\"_blank\">高管因“旧账”拟被监管谈话！华林证券回应</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MSlhEMmtwUE94RGtSZGE4YlJjdlVwV0djVFNSckI1SFVDeXpVSGRDT1ZUZWJ6Q2tlZUF4eFhVejNKWTcxVm5aT3U3TlZRMmZpOElYaFJBUExia0IweG4wSlVR?oc=5",
+      "published": "Fri, 25 Sep 2026 08:11:20 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "机构：全球能源需求到2060年或增逾60%，油气仍将长期占据一席之地",
+      "summary": "<p style=\"text-align: left;\">全球能源需求仍将大幅增长，而能源转型并不意味着传统能源会快速退出，未来数十年油气仍将是全球能源体系的重要组成部分。</p>\n<p style=\"text-align: left;\">标普全球（S&amp;P Global）最新报告显示，<strong>以巴西、印度、尼日利亚和印度尼西亚等新兴经济体为代表，全球总能源需求到2060年或较当前水平增长逾60%。</strong>这轮增长主要来自工业化、城镇化和收入提升带来的新增能源需求。</p>\n<p style=\"text-align: left;\">与此同时，可再生能源正在加速扩张，但煤炭、石油和天然气并不会快速退出。标普全球副董事长Dan Yergin表示，<strong>多种能源将在未来能源体系中共同承担新增需求，油气的存在时间将长于许多人的预期。</strong></p>\n<h2 style=\"text-align: left;\">新兴经济体推动全球能源需求持续增长</h2>\n<p style=\"text-align: left;\">标普全球指出，巴西、印度、尼日利亚、印度",
+      "link": "https://wallstreetcn.com/articles/3782538",
+      "published": "Fri, 25 Sep 2026 08:01:07 GMT"
     },
     {
       "source": "华尔街见闻",
