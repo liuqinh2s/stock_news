@@ -1,9 +1,30 @@
 {
   "date": "2026-09-26",
   "hour": "06",
-  "total": 2,
-  "fetched_at": "2026-09-26T06:01:05.767753+08:00",
+  "total": 11,
+  "fetched_at": "2026-09-26T06:55:17.222255+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "你还相信A股的慢牛吗？ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVElSWWtFZGlScVpUQTU1amR0UkFMUkNveDIwOFV5cEJHbW5jN2tKWG1jTEVQY1dUanhmaHE3RWhjV3M1b1lrRmh6SkRtZ1VtNTFhM3RjaVU5RXJnY1ZISG0yS0xwc3VPLThWU1FCM0Fpd0xuc2owc21KTUw?oc=5\" target=\"_blank\">你还相信A股的慢牛吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVElSWWtFZGlScVpUQTU1amR0UkFMUkNveDIwOFV5cEJHbW5jN2tKWG1jTEVQY1dUanhmaHE3RWhjV3M1b1lrRmh6SkRtZ1VtNTFhM3RjaVU5RXJnY1ZISG0yS0xwc3VPLThWU1FCM0Fpd0xuc2owc21KTUw?oc=5",
+      "published": "Fri, 25 Sep 2026 22:30:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "美股成交额前20：Meta重挫3% 微软戴尔强势领涨 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XLW5zb2Q5RG1aRHhLUXZEYWhCZHhhTnI4bUsyYk9pcTRxNkhYNHlDdGtYODIzZ2thWFhfSHE5VTJOc2pLVkhzU2NVemlfR3J6ZVlHaDVndmpjdnRxb3h5UWlVMA?oc=5\" target=\"_blank\">美股成交额前20：Meta重挫3% 微软戴尔强势领涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XLW5zb2Q5RG1aRHhLUXZEYWhCZHhhTnI4bUsyYk9pcTRxNkhYNHlDdGtYODIzZ2thWFhfSHE5VTJOc2pLVkhzU2NVemlfR3J6ZVlHaDVndmpjdnRxb3h5UWlVMA?oc=5",
+      "published": "Fri, 25 Sep 2026 21:58:22 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndGtDMWdjWlh0NmNVTE9sdzA0RTRvX3ZZOG51MldOSXdrOG91QUhodnZhUXR0Tl9NVy1qUk9nMDQ5VUxCX0o5aUh6MmMzc3JoSWpsQkFoQXg0dXZnV1Z6V2xuRnc3bjhOUEhpZUczR05PbXBrd191bg?oc=5\" target=\"_blank\">美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndGtDMWdjWlh0NmNVTE9sdzA0RTRvX3ZZOG51MldOSXdrOG91QUhodnZhUXR0Tl9NVy1qUk9nMDQ5VUxCX0o5aUh6MmMzc3JoSWpsQkFoQXg0dXZnV1Z6V2xuRnc3bjhOUEhpZUczR05PbXBrd191bg?oc=5",
+      "published": "Fri, 25 Sep 2026 21:40:00 GMT"
+    },
     {
       "source": "财联社",
       "title": "Meta Muse用户规模十天冲上70万 但已出现算力不足导致的故障 - 财联社",
@@ -12,11 +33,53 @@
       "published": "Fri, 25 Sep 2026 21:04:28 GMT"
     },
     {
-      "source": "财联社",
-      "title": "美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndGtDMWdjWlh0NmNVTE9sdzA0RTRvX3ZZOG51MldOSXdrOG91QUhodnZhUXR0Tl9NVy1qUk9nMDQ5VUxCX0o5aUh6MmMzc3JoSWpsQkFoQXg0dXZnV1Z6V2xuRnc3bjhOUEhpZUczR05PbXBrd191bg?oc=5\" target=\"_blank\">美股收盘：美伊谈判消息缓和“美债风暴” 三大指数携手走高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ndGtDMWdjWlh0NmNVTE9sdzA0RTRvX3ZZOG51MldOSXdrOG91QUhodnZhUXR0Tl9NVy1qUk9nMDQ5VUxCX0o5aUh6MmMzc3JoSWpsQkFoQXg0dXZnV1Z6V2xuRnc3bjhOUEhpZUczR05PbXBrd191bg?oc=5",
-      "published": "Fri, 25 Sep 2026 21:40:00 GMT"
+      "source": "华尔街见闻",
+      "title": "拖了近10年，特斯拉Semi终于量产！",
+      "summary": "<p style=\"text-align: left;\">特斯拉迟到近十年的重型电动卡车Semi正式进入量产阶段，并于本周启动首批客户交付。在销量下滑、品牌形象承压的背景下，这款产品能否兑现当初的承诺，对特斯拉而言意义重大。</p>\n<p style=\"text-align: left;\">当地时间本周四晚，<strong>特斯拉在内华达州Sparks的Semi专属工厂举办交付活动，宣布PepsiCo、DHL、US Foods、WattEV、ABF、Einride、IMC及OK Produce等一批新老客户加入订单名单。</strong></p>\n<p style=\"text-align: left;\"><strong>马斯克表示，Semi的\"候补名单相当可观\"，并鼓励更多客户下单。并称\"我们非常激动\"。</strong></p>\n<p style=\"text-align: left;\"><strong>特斯拉称，该工厂年产能达5万辆，即每周1,000辆。</strong>在技术层面，特斯拉给出了若干超出原定目标的数据：满载状态下续航500英里，较轻载荷下可达600英里；能耗较原设计目",
+      "link": "https://wallstreetcn.com/articles/3782552",
+      "published": "Fri, 25 Sep 2026 22:48:17 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "OpenAI披露：旗下AI模型可能干扰了包括政府、高校在内的数十个机构网站",
+      "summary": "<p>OpenAI披露，<strong>其人工智能模型在公司内部测试期间，可能对包括政府部门、大学及公共机构在内的\"数十个\"组织的网站造成干扰</strong>，引发外界对AI网络安全风险的广泛关注。</p>\n<p>此次披露源于OpenAI数月前发现旗下AI意外入侵Hugging Face后启动的调查。</p>\n<p>该公司在周五发布的博客文章中表示，<strong>已就相关事件通知受影响方，涉及情形包括：软件绕过网站安全控制、影响服务可用性，以及\"失控\"AI模型对外部网站或服务造成负面影响。</strong></p>\n<p>就在数日前，OpenAI刚刚承认其AI模型于今年早些时候入侵了一家澳大利亚政府网站，此举被视为已知的首批AI对政府数据库发动网络攻击案例之一。</p>\n<p>澳大利亚总理Anthony Albanese本周证实，该网站用于报告医疗健康统计数据，遭入侵时间为6月18日，目前没有证据显示澳大利亚公民个人信息受到泄露。</p>\n<div>\n<h2 id=\"72705eaf\">调查仍在进行，多数事件影响有限</h2>\n</div>\n<p>OpenAI在X平台的帖子中表示，",
+      "link": "https://wallstreetcn.com/articles/3782566",
+      "published": "Fri, 25 Sep 2026 22:32:16 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "日本财务大臣：高市早苗并非\"再通胀主义者，非常尊重央行独立性\"",
+      "summary": "<p>日本政府正集中火力，试图扭转市场对高市早苗政府施压日本央行、奉行宽松政策的固有印象。</p>\n<p>日本财务大臣片山皋月（Satsuki Katayama）周五表示，<strong>高市早苗首相并非\"再通胀主义者，非常尊重央行独立性\"，并称高市本人一再要求她向海外投资者澄清这一立场，\"我们希望确保在这一点上不存在任何误解。\"</strong></p>\n<p><strong>片山同时重申干预汇市、支撑日元的意愿，并淡化了近期日本国债收益率上行所引发的市场担忧。</strong></p>\n<p>上述表态发生在日本央行上周三度加息之后。然而，高市政府提名的两位央行委员均投票反对这一决定，进一步强化了市场对日本政府倾向于延缓加息步伐的判断。</p>\n<p>与此同时，日元兑美元汇率已跌破央行加息前水平，日本国债收益率也攀升至1990年代中期以来最高水平，市场压力持续升温。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/dc6e5b86-7549-4b5b-846a-b996a7d35886.png\" /></p>",
+      "link": "https://wallstreetcn.com/articles/3782563",
+      "published": "Fri, 25 Sep 2026 22:19:34 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
+      "summary": "<p>9月25日，记者获悉，一位美国官员透露，继伊朗方面提出开放霍尔木兹海峡并在提议获接纳后重启谈判的计划以来，美国正与伊朗进行“积极且富有建设性”的讨论。该官员表示，美方并不急于求成，因为美国目前处于有利地位；他指出，在过去48小时内，已有近4000万桶石油在美国的护航下通过了霍尔木兹海峡。伊朗外交部长阿拉格齐早些时候表示，伊朗本周已向美国调停人通报了一项为期七天的计划。如果该提议中的特定条件得到满足，霍尔木兹海峡将在七天期满后开放，双方也将重启谈判以争取达成最终协议。（央视）</p>",
+      "link": "https://wallstreetcn.com/livenews/3170934",
+      "published": "Fri, 25 Sep 2026 22:12:23 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "习近平向全球发展倡议5周年高级别对话会致贺信",
+      "summary": "<p>9月25日，全球发展倡议5周年高级别对话会在纽约联合国总部举行，国家主席习近平向对话会致贺信。</p>\n<p>习近平指出，发展是人类社会的永恒主题，也是实现人民幸福的关键所在。5年前，我在联合国大会上提出全球发展倡议，就是为了推动国际发展合作，重振全球发展事业，助力加快落实联合国2030年可持续发展议程。</p>\n<p>习近平强调，5年来，在各方共同努力下，全球发展倡议广泛践行，倡议合作项目在120多个国家落地生根、开花结果，书写了共促发展、合作共赢的新篇章。</p>\n<p>习近平指出，当前，世界百年变局加速演进，各国人民对实现发展的愿望更加强烈。作为最大发展中国家和全球南方一员，中国愿同各方一道，秉持以人民为中心的发展理念，携手推动全球发展倡议走深走实，将可持续发展目标的美好愿景转化为可感可及的现实图景，为推动构建人类命运共同体作出新的更大贡献。</p>\n<p><span style=\"color: #808080;\">本文来源：<a href=\"https://www.news.cn/politics/leaders/20260926/8ccabd862ddc42d59617",
+      "link": "https://wallstreetcn.com/articles/3782565",
+      "published": "Fri, 25 Sep 2026 22:11:29 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "伊朗提“七天方案”但划核红线：霍尔木兹可谈、浓缩铀不让步",
+      "summary": "<p>美伊谈判释放缓和信号之际，伊朗同时划出核问题“红线”。</p>\n<p>当地时间9月25日，伊朗外长阿拉格齐表示，伊朗已向美国提出一份具体的“七天方案”，只要美方满足相关条件，霍尔木兹海峡最快可在7天内恢复正常通航；但一名伊朗高级官员随后向路透社表示，即使美国接受重开霍尔木兹海峡的方案，伊朗也不会在核计划上作出让步。</p>\n<p>这意味着，霍尔木兹海峡可以成为美伊谈判的交换筹码，但伊朗并未将核计划纳入同等程度的让步空间。伊朗方面称，只有在美国满足伊方全部条件后，海峡才会重新开放。</p>\n<h2>“七天方案”摆上桌：霍尔木兹最快一周重开</h2>\n<p>阿拉格齐周五在联合国表示，伊朗已经向美国提交一份“具体”的七天方案，若必要条件得到满足，霍尔木兹海峡可以在第七天重新开放，恢复正常海上通航。</p>\n<p>他说，“现在选择权在美国”，而美方需要采取的行动并非新要求，而是此前美伊6月达成的谅解备忘录（MOU）中已经涉及的内容。</p>\n<p>按照此前披露的信息，伊朗提出的条件包括停止各条战线的敌对行动、美国解除对伊朗港口的海上封锁、释放伊朗被冻结资产以及豁免对伊朗石油出口的制裁等。",
+      "link": "https://wallstreetcn.com/articles/3782564",
+      "published": "Fri, 25 Sep 2026 21:59:59 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Meta在美国新墨西哥州败诉，或面临高达2190亿美元罚款",
+      "summary": "<p>美国新墨西哥州总检察长劳尔·托雷斯表示，在陪审团裁定Meta Platforms Inc.违反州法律后，他将寻求对该公司处以最高达2190亿美元的罚款。陪审团认定，Meta在言论政策和数据隐私政策方面误导公众，从而违反了新墨西哥州法律。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3782562",
+      "published": "Fri, 25 Sep 2026 20:55:57 GMT"
     }
   ]
 }
