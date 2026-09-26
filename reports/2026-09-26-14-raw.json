@@ -1,16 +1,9 @@
 {
   "date": "2026-09-26",
   "hour": "14",
-  "total": 7,
-  "fetched_at": "2026-09-26T14:01:00.627021+08:00",
+  "total": 13,
+  "fetched_at": "2026-09-26T14:48:01.417015+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 手机新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzgwR1RpUTIwR0dxVy02MUJfRXMxQlBTNWVZVE5kV0ZjOTAtbm1qZG4zVWNOcmV4N240bXZpeGFpdGtfZC1wb21fa2h6blpIQXZSUEFxRjF3QmJwcDZ4MjJHS2lXc3pER1JLZ2xnbmFaakZCTktNQzFjenNGZmQwZUYzcUllVmE2OUN1LUNBVVdUc3VpTDR3?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdzgwR1RpUTIwR0dxVy02MUJfRXMxQlBTNWVZVE5kV0ZjOTAtbm1qZG4zVWNOcmV4N240bXZpeGFpdGtfZC1wb21fa2h6blpIQXZSUEFxRjF3QmJwcDZ4MjJHS2lXc3pER1JLZ2xnbmFaakZCTktNQzFjenNGZmQwZUYzcUllVmE2OUN1LUNBVVdUc3VpTDR3?oc=5",
-      "published": "Sat, 26 Sep 2026 04:22:30 GMT"
-    },
     {
       "source": "新浪财经",
       "title": "A股市场运行周报第111期：保持对中级反弹的信心 - 手机新浪网",
@@ -19,39 +12,88 @@
       "published": "Sat, 26 Sep 2026 05:58:49 GMT"
     },
     {
-      "source": "新浪财经",
-      "title": "A股TTM&全动态估值全景扫描：A股估值收缩 房地产行业领涨 - 手机新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFEtcXlacE5saGMydzN4bDEzcEJncFo0ZHJzMFZUZDhiYWhmOUxWSkF3MHgtak5idTFnT3Z1d01tRHZHSExqZk5CU3lld2FUTWw1TkFwM01UUG4wd242MlhaMmc5dE1xcVZzSVhCQ0dYaHdsZlAyeXMyYjFFUjYzandaTGN3U0pSUW0xd0FqdDR1enpVYnFpc2pwSDF5WVhRZjlCTQ?oc=5\" target=\"_blank\">A股TTM&全动态估值全景扫描：A股估值收缩 房地产行业领涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdFEtcXlacE5saGMydzN4bDEzcEJncFo0ZHJzMFZUZDhiYWhmOUxWSkF3MHgtak5idTFnT3Z1d01tRHZHSExqZk5CU3lld2FUTWw1TkFwM01UUG4wd242MlhaMmc5dE1xcVZzSVhCQ0dYaHdsZlAyeXMyYjFFUjYzandaTGN3U0pSUW0xd0FqdDR1enpVYnFpc2pwSDF5WVhRZjlCTQ?oc=5",
-      "published": "Sat, 26 Sep 2026 04:22:30 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "吉峰科技入局低空科技、秦川物联中标千万元项目……节后市场看什么？丨周观川股 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTURFQmYxb3pHbEpweFJoNFBxRl9LRVFTR2ctQmFaajBOa1lMZ1RzaXhqcjJYVVN6SVcxUy1QYlBueVdYazkzRVBBMkQzX2doZUdyS1BRZFhObUFzM2xLRVR5c3Z2QzZvMm12dnFkc2xiZWE4c3QtTQ?oc=5\" target=\"_blank\">吉峰科技入局低空科技、秦川物联中标千万元项目……节后市场看什么？丨周观川股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTURFQmYxb3pHbEpweFJoNFBxRl9LRVFTR2ctQmFaajBOa1lMZ1RzaXhqcjJYVVN6SVcxUy1QYlBueVdYazkzRVBBMkQzX2doZUdyS1BRZFhObUFzM2xLRVR5c3Z2QzZvMm12dnFkc2xiZWE4c3QtTQ?oc=5",
-      "published": "Sat, 26 Sep 2026 04:46:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股-研报详情 - 手机新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWxDaURJcnNMd3BhYjVQRm1kZ2V2X3JSdDl2UlJVOEVfTG1GREVfVklvRkZHTlNaeGVtMGpsRmJzdEhMeHZ2Zmo1OVZiNXcwNTZVNG01N2NRNkl6UzRic0tGMGs1ZXRlZ2tCT3lKQnhXTDFMWEQ4YUJTaDluZXFDYWpRZi1JMXIxdWQ5WElXdDdyV21sN3A4?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdWxDaURJcnNMd3BhYjVQRm1kZ2V2X3JSdDl2UlJVOEVfTG1GREVfVklvRkZHTlNaeGVtMGpsRmJzdEhMeHZ2Zmo1OVZiNXcwNTZVNG01N2NRNkl6UzRic0tGMGs1ZXRlZ2tCT3lKQnhXTDFMWEQ4YUJTaDluZXFDYWpRZi1JMXIxdWQ5WElXdDdyV21sN3A4?oc=5",
-      "published": "Sat, 26 Sep 2026 04:22:30 GMT"
+      "source": "同花顺",
+      "title": "山西省商务厅推出双节促消费系列惠民举措",
+      "summary": "紧扣中秋、国庆“双节”消费旺季，近日，山西省商务厅印发通知，坚持“政策+活动”双轮驱动，统筹重点商贸领域，推动线上线下融合促消费，促进商文旅体健联动消费，营造安全有序、惠民便民的节日消费环境。通知要求，要组织汽车、家电等企业开展中秋国庆专场，围绕消费品以旧换新品类，推出“以旧换新+中秋礼遇+国庆返场”组合优惠。同时，开展“晋情消费·汽车焕新消费季”活动，组织全省重点汽车经销商开展“以旧换新政策五进”，组织二手车经销企业、报废机动车回收企业推出“一站式置换”服务，并联合银行及汽车金融机构推出双节专属购车金融方案。（山西日报）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285960.shtml",
+      "published": "Sat, 26 Sep 2026 06:19:46 GMT"
     },
     {
       "source": "同花顺",
-      "title": "605100，拟清仓所持MLCC龙头公司H股 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lTjdaTGdKWXBxUHRuTWNWX28tbll5Vm03cWFVU0c0cXZJLVJYM3ZGUzI2d1NubVhtSWhtZ0VNX1FjdHZ3Vl9RaHhYdkxFcFNSVEoybkk0bV9DSEI4NnowdVpR?oc=5\" target=\"_blank\">605100，拟清仓所持MLCC龙头公司H股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lTjdaTGdKWXBxUHRuTWNWX28tbll5Vm03cWFVU0c0cXZJLVJYM3ZGUzI2d1NubVhtSWhtZ0VNX1FjdHZ3Vl9RaHhYdkxFcFNSVEoybkk0bV9DSEI4NnowdVpR?oc=5",
-      "published": "Sat, 26 Sep 2026 05:16:41 GMT"
+      "title": "纽约原油暗盘突破94美元",
+      "summary": "纽约原油暗盘突破94美元，日内涨超2%。",
+      "link": "https://news.10jqka.com.cn/20260926/c680285959.shtml",
+      "published": "Sat, 26 Sep 2026 06:19:37 GMT"
     },
     {
       "source": "同花顺",
-      "title": "000503，逾百家机构调研！这些业绩暴增股被盯上 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IM1BqcTJYOEpUWkZhRXAzWU5LZWh0Ym01REphenV3MEJ1LV8zX2hiTmlJME1xM0NrcEFPaVN0SGhNRi1tU2d4R2R6NVQ2V25ZRnloTjVwTV9HVm16Ry1iMU1B?oc=5\" target=\"_blank\">000503，逾百家机构调研！这些业绩暴增股被盯上</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IM1BqcTJYOEpUWkZhRXAzWU5LZWh0Ym01REphenV3MEJ1LV8zX2hiTmlJME1xM0NrcEFPaVN0SGhNRi1tU2d4R2R6NVQ2V25ZRnloTjVwTV9HVm16Ry1iMU1B?oc=5",
-      "published": "Sat, 26 Sep 2026 05:06:58 GMT"
+      "title": "韩正会见基里巴斯总统马茂",
+      "summary": "当地时间9月25日，国家副主席韩正在纽约出席联合国大会期间会见基里巴斯总统马茂。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285955.shtml",
+      "published": "Sat, 26 Sep 2026 06:18:47 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄远东一煤矿矿区爆炸 有人员伤亡",
+      "summary": "俄罗斯远东地区萨哈（雅库特）共和国一处煤矿矿区发生爆炸，有人员伤亡。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285947.shtml",
+      "published": "Sat, 26 Sep 2026 06:15:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴基斯坦总理：巴方反对将水资源“武器化”",
+      "summary": "当地时间25日，巴基斯坦总理夏巴兹·谢里夫在第81届联合国大会一般性辩论中表示，反对将水资源“武器化”，称印度河水系是巴基斯坦及整个地区的“生命线”。夏巴兹表示，印度单方面决定暂停履行《印度河用水条约》没有法律依据，并称相关国际法律机制的立场支持巴基斯坦关于该条约持续有效的主张。他警告说，任何试图停止、阻碍或改变巴基斯坦应得河流水资源份额的行为，都将被巴基斯坦视为“战争行为”。他说：“水绝不能被武器化，河流应该滋养国家，而不是分裂国家。”（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285940.shtml",
+      "published": "Sat, 26 Sep 2026 06:08:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "2026民洽会集中签约 项目总金额达269.29亿元",
+      "summary": "9月23日，2026中国民营企业投融资洽谈会举行集中签约仪式，现场共完成81组项目签约，总金额达269.29亿元。签约项目分为产业合作、融资合作两大类别，其中产业合作类项目63组、金额77.6亿元，融资合作类项目18组、金额191.69亿元。项目精准对接天津12条重点产业链，覆盖机器人、智能制造、生物医药、高端装备、新能源新材料等重点领域。（天津日报）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285939.shtml",
+      "published": "Sat, 26 Sep 2026 06:06:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩正会见联合国秘书长古特雷斯",
+      "summary": "当地时间9月25日，国家副主席韩正在纽约出席联合国大会期间会见联合国秘书长古特雷斯。韩正指出，维护多边主义、改革完善全球治理体系是国际社会的普遍呼声。广大会员国特别是发展中国家对联合国始终充满期待。中方愿同联合国一道努力，汇聚促进可持续发展的全球合力，推动落实联合国2030年可持续发展议程。支持联合国继续动员国际社会应对气候变化等重大挑战，积极推进人工智能等新兴领域的全球治理，并将继续支持安理会履行好维护国际和平安全的首要责任。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285924.shtml",
+      "published": "Sat, 26 Sep 2026 06:00:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "山西发布冰雹橙色、雷暴大风蓝色预警",
+      "summary": "9月26日，山西省气象台发布冰雹橙色预警，预警区域为大同市、朔州市、忻州市、阳泉市东部，预计未来6小时预警区域可能出现冰雹天气，并可能造成雹灾；雷暴大风蓝色预警区域为大同市、朔州市、忻州市、阳泉市、晋中市东北部，预计未来6小时预警区域将出现雷暴大风天气，阵风风力达7级以上或有较强雷电，局地伴有短时强降水、冰雹。气象部门提示，防范冰雹，户外行人立即到安全的地方暂避，驱赶家禽、牲畜进入有顶棚的场所，妥善保护易受冰雹袭击的汽车等室外物品或者设备；公众关好门窗，加固围板、棚架、广告牌等易被风吹动的搭建物，妥善安置易受大风影响的室外物品，遮盖建筑物资。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285921.shtml",
+      "published": "Sat, 26 Sep 2026 05:56:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苏丹中部两地遭无人机袭击 造成数十人伤亡",
+      "summary": "当地时间9月25日，苏丹中部北科尔多凡州两个地区先后遭遇无人机袭击，造成数十名平民伤亡。北科尔多凡州政府发布声明称，该州首府欧拜伊德市当天清晨遭遇无人机袭击，造成2名平民死亡，另有20人受伤。声明谴责苏丹快速支援部队发动此次袭击，称相关袭击违反国际人道主义法，袭击目标包括流离失所者营地、加油站、住宅等民用设施。对于该声明，快速支援部队暂无回应。同一天，快速支援部队领导的政治联盟“苏丹创始联盟”发布声明称，北科尔多凡州西部马兹拉布地区当天遭遇无人机袭击，造成至少9名平民死亡，另有24人受伤。声明谴责苏丹武装部队发动此次袭击，称袭击击中一处居民区，造成人员伤亡。对于该声明，苏丹武装部队未予回应。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285898.shtml",
+      "published": "Sat, 26 Sep 2026 05:37:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "滴滴与杭州余杭达成战略合作，探索落地自动驾驶产业应用",
+      "summary": "9月26日，记者从第五届全球数字贸易博览会现场获悉，滴滴与浙江余杭区达成战略合作，探索在杭州落地自动驾驶产业应用。此次数贸会上，滴滴自动驾驶携新一代Robotaxi车型R2亮相，该车由滴滴自动驾驶和广汽埃安联合打造，搭载了滴滴自动驾驶全栈自研的L4级软硬件方案，构建多重安全冗余体系，具备全场景感知识别、全天候工况适配的无人驾驶能力。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285878.shtml",
+      "published": "Sat, 26 Sep 2026 05:24:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩正出席全球发展倡议5周年高级别对话会并致辞",
+      "summary": "当地时间9月25日，国家副主席韩正在纽约联合国总部出席由中方主办的全球发展倡议5周年高级别对话会，宣读习近平主席贺信并致辞。（新华社）",
+      "link": "https://news.10jqka.com.cn/20260926/c680285861.shtml",
+      "published": "Sat, 26 Sep 2026 05:17:26 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI基础设施撞上“墙”！Marvell：铜连接、内存瓶颈成下一阶段算力扩张关键",
+      "summary": "<p>AI算力竞赛正从单纯的芯片之争，演变为一场涵盖互连、内存与网络的系统级博弈。</p>\n<p>Marvell高管近日在Six Five Summit 2026上指出，随着推理模型驱动内存需求急剧膨胀、数据中心规模突破物理极限，铜连接已逼近性能天花板，光学互连与内存扩展技术正成为下一阶段算力扩张的核心变量。Marvell定制云解决方案业务执行副总裁Will Chu表示，<strong>市场长期聚焦于XPU本身，却忽视了围绕XPU的\"附着层\"——包括网络、内存、存储与安全。</strong>\"每一颗XPU背后，存在三到四个甚至更多的配套定制机会，\"他说，\"AI基础设施正在全面走向定制化。\"</p>\n<p>数据中心网络业务集团执行副总裁Dave Lazovsky则指出，<strong>推理时计算（inference time compute）的兴起使KV缓存需求在过去九个月内膨胀约10倍，内存容量已无法在单一机架内满足，规模化部署必须突破至更大的互连域。</strong></p>\n<p>上述判断对市场具有直接投资含义：内存厂商、光学互连供应商及定制硅片设计公司将持续受益于这一结构性需求。",
+      "link": "https://wallstreetcn.com/articles/3782579",
+      "published": "Sat, 26 Sep 2026 06:21:52 GMT"
     }
   ]
 }
