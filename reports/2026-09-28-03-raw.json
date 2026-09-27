@@ -1,8 +1,8 @@
 {
   "date": "2026-09-28",
   "hour": "03",
-  "total": 19,
-  "fetched_at": "2026-09-28T03:01:05.475140+08:00",
+  "total": 20,
+  "fetched_at": "2026-09-28T03:23:44.302375+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -17,13 +17,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9CbW1rMXpzUVQ1MjFpdjB0UjlSUmd1Zm8yV3RCSDNZQWtqZjBPNG40cWlVZlJqNG1zTlcwc2FKUkwzTENWSUl0eU94SzNkYUpFc2h0UHBDcTVKNlV0QUI0ZzhDLWlWMjB5YXQ5SjRmbHRQb3UyX2dmRA?oc=5\" target=\"_blank\">成都旭光电子股份有限公司关于2026年度向特定对象发行A股股票募集说明书(注册稿)更新的提示性公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CbW1rMXpzUVQ1MjFpdjB0UjlSUmd1Zm8yV3RCSDNZQWtqZjBPNG40cWlVZlJqNG1zTlcwc2FKUkwzTENWSUl0eU94SzNkYUpFc2h0UHBDcTVKNlV0QUI0ZzhDLWlWMjB5YXQ5SjRmbHRQb3UyX2dmRA?oc=5",
       "published": "Sun, 27 Sep 2026 17:46:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "股市必读：新广益(301687)股东户数1.54万户，较上期减少1.39% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5iTXJpanRfMGF5YVdXam9ERXg1ZkJid3ZRZmJraVJIWEVaSjZLY09zTGxDVTd2V01OSV9KbXJlbVNETW1IRHVUUzhXMXgyTkN0VWJuV3M3c2R0NzFTYURTbVFMbmtCUi1XeHkw?oc=5\" target=\"_blank\">股市必读：新广益(301687)股东户数1.54万户，较上期减少1.39%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iTXJpanRfMGF5YVdXam9ERXg1ZkJid3ZRZmJraVJIWEVaSjZLY09zTGxDVTd2V01OSV9KbXJlbVNETW1IRHVUUzhXMXgyTkN0VWJuV3M3c2R0NzFTYURTbVFMbmtCUi1XeHkw?oc=5",
-      "published": "Sun, 27 Sep 2026 17:22:00 GMT"
     },
     {
       "source": "东方财富",
@@ -62,6 +55,13 @@
     },
     {
       "source": "东方财富",
+      "title": "智能体浪潮席卷证券业 券商AI转型从单点增效迈向体系重构 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE8xX0g2U1doRGlVRnFPNUxpQ21WT25xTDlhRUhvTUwxVXFqS0JOZVNJWVYzTzhpdVQyNExwajU4OEdwX3FzX0VEUUxtQVJlbU53ZVNwZ2dZbnlwa3NIZENRLVlpaWIzQVZKTjU0eQ?oc=5\" target=\"_blank\">智能体浪潮席卷证券业 券商AI转型从单点增效迈向体系重构</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xX0g2U1doRGlVRnFPNUxpQ21WT25xTDlhRUhvTUwxVXFqS0JOZVNJWVYzTzhpdVQyNExwajU4OEdwX3FzX0VEUUxtQVJlbU53ZVNwZ2dZbnlwa3NIZENRLVlpaWIzQVZKTjU0eQ?oc=5",
+      "published": "Sun, 27 Sep 2026 19:03:39 GMT"
+    },
+    {
+      "source": "东方财富",
       "title": "股市必读：天邑股份（300504）9月24日董秘有最新回复 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE14SUZrYlo3UTRKXzdsQnBWQTNEX0VtMV9zeWV4ejBKdDc3bWRzWHo3WTdOV0k5cGd5ZDFOSVZVX0RNMEh0UGs3QTBVZmlfd3ZwQTlpMkxqWmhneWRmeVpHOHRKWnRxWTM2Y1Bv?oc=5\" target=\"_blank\">股市必读：天邑股份（300504）9月24日董秘有最新回复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14SUZrYlo3UTRKXzdsQnBWQTNEX0VtMV9zeWV4ejBKdDc3bWRzWHo3WTdOV0k5cGd5ZDFOSVZVX0RNMEh0UGs3QTBVZmlfd3ZwQTlpMkxqWmhneWRmeVpHOHRKWnRxWTM2Y1Bv?oc=5",
@@ -69,17 +69,31 @@
     },
     {
       "source": "东方财富",
+      "title": "从“支撑保障”到“价值创造” 中邮证券探索数智化特色路径 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLMnJDWlBrMEduMC1GOWpad2MtYzdtaFBvSHJRRGF4WkNDQS16MVVTQVIwOGdzSVRmcHJPV0prXzIwVHhSNDVXLWh0OXRya2dpX0k0UHhfTzlfbENkbjlWNWc1bw?oc=5\" target=\"_blank\">从“支撑保障”到“价值创造” 中邮证券探索数智化特色路径</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBLMnJDWlBrMEduMC1GOWpad2MtYzdtaFBvSHJRRGF4WkNDQS16MVVTQVIwOGdzSVRmcHJPV0prXzIwVHhSNDVXLWh0OXRya2dpX0k0UHhfTzlfbENkbjlWNWc1bw?oc=5",
+      "published": "Sun, 27 Sep 2026 19:00:49 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股市必读：晨丰科技新发布《晨丰科技关于召开2026年半年度业绩说明会的公告》 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBOMDNMRE1oZVI3RE1lNUFpQWUwY2NxdzFSZGFMUGJHVUIxS3A1VnBjejdMVERQMGx4bzkxdlUxUTZYVWZoMHVsU0dEWjVUa1JYWjF5YWVfbE1iWkdWdUo3WTloUWtQWk1ES1dj?oc=5\" target=\"_blank\">股市必读：晨丰科技新发布《晨丰科技关于召开2026年半年度业绩说明会的公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOMDNMRE1oZVI3RE1lNUFpQWUwY2NxdzFSZGFMUGJHVUIxS3A1VnBjejdMVERQMGx4bzkxdlUxUTZYVWZoMHVsU0dEWjVUa1JYWjF5YWVfbE1iWkdWdUo3WTloUWtQWk1ES1dj?oc=5",
+      "published": "Sun, 27 Sep 2026 19:07:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股票ETF成立容易做大难 逾八成新发规模不足4亿 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDTXBaODRhc1RUMlF6V3NvN1JRM05CVEJnWFBrZjUxLW9jNFlZc0Q5NkVwMVRiZEptX1M5N19oWXVmLWRwMmVrdDcxMXRvZy1YYnpKMzNNNjNTM2d4b2hfUkNWNA?oc=5\" target=\"_blank\">股票ETF成立容易做大难 逾八成新发规模不足4亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDTXBaODRhc1RUMlF6V3NvN1JRM05CVEJnWFBrZjUxLW9jNFlZc0Q5NkVwMVRiZEptX1M5N19oWXVmLWRwMmVrdDcxMXRvZy1YYnpKMzNNNjNTM2d4b2hfUkNWNA?oc=5",
+      "published": "Sun, 27 Sep 2026 19:03:31 GMT"
+    },
+    {
+      "source": "东方财富",
       "title": "股市必读：登海种业(002041)股东户数7.56万户，较上期减少12.54% - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5KNWJBLTU5T1pWZ2RzTloyYWFaQjJPRnpXUW4zdm5Ha19TdEhjZDYtTDctSmh1c1hhVEhGWXZpUXRrdkRLWkhLb1lULU1VNjdFRjByWEJ0NWFlUUlhc2c3TlJiNlUyUkZ3VXF3?oc=5\" target=\"_blank\">股市必读：登海种业(002041)股东户数7.56万户，较上期减少12.54%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KNWJBLTU5T1pWZ2RzTloyYWFaQjJPRnpXUW4zdm5Ha19TdEhjZDYtTDctSmh1c1hhVEhGWXZpUXRrdkRLWkhLb1lULU1VNjdFRjByWEJ0NWFlUUlhc2c3TlJiNlUyUkZ3VXF3?oc=5",
       "published": "Sun, 27 Sep 2026 17:43:00 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "股票ETF成立容易做大难 逾八成新发规模不足4亿 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1X2ZVbW9BVVYzZHNPUVBaQmwtY2JwZENXSWJwRnM2TVVjbDhsaEJsdmN5dDEtSGhGX1JSYVpBYUJQTGlOUnVlUk5RZnlacTZtcEhpaVROWGdtd2pyUkpyeFBR?oc=5\" target=\"_blank\">股票ETF成立容易做大难 逾八成新发规模不足4亿</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1X2ZVbW9BVVYzZHNPUVBaQmwtY2JwZENXSWJwRnM2TVVjbDhsaEJsdmN5dDEtSGhGX1JSYVpBYUJQTGlOUnVlUk5RZnlacTZtcEhpaVROWGdtd2pyUkpyeFBR?oc=5",
-      "published": "Sun, 27 Sep 2026 18:50:03 GMT"
     },
     {
       "source": "同花顺",
@@ -97,13 +111,6 @@
     },
     {
       "source": "同花顺",
-      "title": "逐鹿科技赛道多只基金“松绑”限购 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UcXFTWHhNeGJreVBMUzVVMm1EdVpJOHFpX29FZGJQY1ZhWXB3dVc3b1J4X1A3Sl9MZDVsc3hBME1XOUJDLTkyWnBqR2ZldTZiUWV3NHBiSXpTX0xoWktmY1pn?oc=5\" target=\"_blank\">逐鹿科技赛道多只基金“松绑”限购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UcXFTWHhNeGJreVBMUzVVMm1EdVpJOHFpX29FZGJQY1ZhWXB3dVc3b1J4X1A3Sl9MZDVsc3hBME1XOUJDLTkyWnBqR2ZldTZiUWV3NHBiSXpTX0xoWktmY1pn?oc=5",
-      "published": "Sun, 27 Sep 2026 17:06:23 GMT"
-    },
-    {
-      "source": "同花顺",
       "title": "年内外资调研A股公司近6000次 外资机构调研路径呈现科技为主，消费、医药为辅的格局 - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fMTRqcVlkYWltVjJ0d3Y5a0ttc1A5UGNTaHBhM2JOUEdKNm5VbU5rNUZkOXdoTl9rT2d5d0c2d3dhZmJ4aVRpdlJUT09OSEpGRUZOUE1yMDdnNDV5VW01ZVZB?oc=5\" target=\"_blank\">年内外资调研A股公司近6000次 外资机构调研路径呈现科技为主，消费、医药为辅的格局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fMTRqcVlkYWltVjJ0d3Y5a0ttc1A5UGNTaHBhM2JOUEdKNm5VbU5rNUZkOXdoTl9rT2d5d0c2d3dhZmJ4aVRpdlJUT09OSEpGRUZOUE1yMDdnNDV5VW01ZVZB?oc=5",
@@ -118,24 +125,24 @@
     },
     {
       "source": "同花顺",
+      "title": "华茂股份：股票交易异常波动公告 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE15QnZ1OEhKb0ZWRzNPUVNSWHI2ZWVLZ1J5OHJKUGFMbWhqbkM1ZDhaM24tNTVMRVhrVTZSM3QzVGpFTm5NZVhraUtfTjM1cXZnTFVuUzJ1OU5nWWNFcDBjUg?oc=5\" target=\"_blank\">华茂股份：股票交易异常波动公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15QnZ1OEhKb0ZWRzNPUVNSWHI2ZWVLZ1J5OHJKUGFMbWhqbkM1ZDhaM24tNTVMRVhrVTZSM3QzVGpFTm5NZVhraUtfTjM1cXZnTFVuUzJ1OU5nWWNFcDBjUg?oc=5",
+      "published": "Sun, 27 Sep 2026 18:51:18 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "广发证券副总经理、首席信息官辛治运： 券商转型挑战不在技术 而是组织认知与协同模式 - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTER2Z2xkRzRLd2xzOG1tMzJCMXhjY2tWYnBfcXUwOU54OUFUU3NpaVZHYUtzcVNuNVpjbTVJT0Z1dDNBREtmZXVpc3M5SV9yajF3c2tYV0dFZ1N0OUdpRjJ3?oc=5\" target=\"_blank\">广发证券副总经理、首席信息官辛治运： 券商转型挑战不在技术 而是组织认知与协同模式</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yTER2Z2xkRzRLd2xzOG1tMzJCMXhjY2tWYnBfcXUwOU54OUFUU3NpaVZHYUtzcVNuNVpjbTVJT0Z1dDNBREtmZXVpc3M5SV9yajF3c2tYV0dFZ1N0OUdpRjJ3?oc=5",
       "published": "Sun, 27 Sep 2026 18:50:03 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "美股点金丨三个月新高！抄底资金回流AI交易，10月行情开局如何 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PUkE3ZEdzUkZFaGNld1RicUNDNGRxbkhxNEVBMWc1R2x1c1U0R0ttVHNlWjhqa3RxdmkxTFZWb0h3M0h5RmdVLXBmWTFCdG5ZTno0?oc=5\" target=\"_blank\">美股点金丨三个月新高！抄底资金回流AI交易，10月行情开局如何</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PUkE3ZEdzUkZFaGNld1RicUNDNGRxbkhxNEVBMWc1R2x1c1U0R0ttVHNlWjhqa3RxdmkxTFZWb0h3M0h5RmdVLXBmWTFCdG5ZTno0?oc=5",
-      "published": "Sun, 27 Sep 2026 17:05:44 GMT"
-    },
-    {
       "source": "上海证券报",
       "title": "投资不是追逐每个热点的博弈——读《巴菲特投资思维24讲》 - 上海证券报电子版",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE93MVdvc1kwd2pCY2pNWkJvcU5FN09pcGtHTGZ0LXJmWkliOWloR0F3X1FBcGFkQ00wckMtNS1sWlE0R0VSV3JfbXc5eVNvUmhPQWFGZmZFY3FYQkp1VEg3MFJsclRmcEtuY2RhS29R?oc=5\" target=\"_blank\">投资不是追逐每个热点的博弈——读《巴菲特投资思维24讲》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93MVdvc1kwd2pCY2pNWkJvcU5FN09pcGtHTGZ0LXJmWkliOWloR0F3X1FBcGFkQ00wckMtNS1sWlE0R0VSV3JfbXc5eVNvUmhPQWFGZmZFY3FYQkp1VEg3MFJsclRmcEtuY2RhS29R?oc=5",
-      "published": "Sun, 27 Sep 2026 17:35:07 GMT"
+      "published": "Sun, 27 Sep 2026 18:56:15 GMT"
     }
   ]
 }
