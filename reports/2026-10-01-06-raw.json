@@ -1,85 +1,15 @@
 {
   "date": "2026-10-01",
   "hour": "06",
-  "total": 13,
-  "fetched_at": "2026-10-01T06:01:01.833225+08:00",
+  "total": 3,
+  "fetched_at": "2026-10-01T06:42:00.011413+08:00",
   "news": [
     {
       "source": "同花顺",
-      "title": "标普道琼斯指数公司预计将把秘鲁、哈萨克斯坦纳入iBoxx政府指数",
-      "summary": "标普道琼斯指数公司预计将把秘鲁、哈萨克斯坦纳入iBoxx政府指数。",
-      "link": "https://news.10jqka.com.cn/20261001/c680425142.shtml",
-      "published": "Wed, 30 Sep 2026 21:51:38 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "叙利亚一客车遭袭致7死4伤",
-      "summary": "9月30日，一辆客车在叙中西部哈马省的迈斯亚夫桥上遭到不明身份人员袭击，造成7死4伤。叙过渡政府内政部安全部队和民防队伍已抵达现场进行安全管控，并转运死伤者。安全部队正在调查袭击者身份。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261001/c680425133.shtml",
-      "published": "Wed, 30 Sep 2026 21:41:45 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "富时中国A50指数期货夜盘收跌0.17%，报13939点",
-      "summary": "富时中国A50指数期货夜盘收跌0.17%，报13939点。",
-      "link": "https://news.10jqka.com.cn/20261001/c680425117.shtml",
-      "published": "Wed, 30 Sep 2026 21:20:41 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国总统特朗普：美联储主席沃什会按自己的判断行事",
-      "summary": "美国总统特朗普：美联储主席沃什会按自己的判断行事。",
-      "link": "https://news.10jqka.com.cn/20261001/c680425116.shtml",
-      "published": "Wed, 30 Sep 2026 21:20:12 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美光科技CFO称，财年一季度业绩披露后，预计财年内剩余时间的毛利润率将会更高",
-      "summary": "美光科技CFO称，财年一季度业绩披露后，预计财年内剩余时间的毛利润率将会更高。",
-      "link": "https://news.10jqka.com.cn/20261001/c680425114.shtml",
-      "published": "Wed, 30 Sep 2026 21:11:08 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "韩国政府：韩国将投资1200亿美元在美国建设8座核反应堆",
-      "summary": "韩国政府消息，韩国将投资1200亿美元在美国建设8座核反应堆。（韩国政府）",
-      "link": "https://news.10jqka.com.cn/20261001/c680425111.shtml",
-      "published": "Wed, 30 Sep 2026 21:00:51 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美光科技预计2027财年的运营费用将增加约25亿美元",
-      "summary": "美光科技预计2027财年的运营费用将增加约25亿美元，预计2027财年和2028财年的内存及存储供需状况将比2026年紧张得多。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261001/c680425097.shtml",
-      "published": "Wed, 30 Sep 2026 20:21:02 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "新思科技预计全年营收110亿-112亿美元 未来数月将回购大约10亿美元股票",
-      "summary": "新思科技预计全年营收110亿-112亿美元，公司原本预计96.9亿-97.4亿美元；预计2027财年营收将较之前一年增长大约15%；预计全年调整后每股收益（EPS）为19.04-19.12美元，公司原本预计15.04-15.1美元；预计通过回购恢复高达50%的自由现金流。未来数月将回购大约10亿美元股票。",
-      "link": "https://news.10jqka.com.cn/20261001/c680425096.shtml",
-      "published": "Wed, 30 Sep 2026 20:20:48 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "谷歌CEO皮查伊称公司推出Gemini 4 Argon",
-      "summary": "谷歌CEO 皮查伊称公司推出Gemini 4 Argon，将Argon定价为每百万输入令牌2美元，每百万输出令牌10美元。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261001/c680425092.shtml",
-      "published": "Wed, 30 Sep 2026 20:11:56 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美光科技第四季度经调整营收542.3亿美元 高于市场预期",
-      "summary": "美光科技第四季度经调整营收542.3亿美元，预估514.9亿美元；第四季度营业现金流439.7亿美元，预估338.7亿美元；第四季度调整后运营收益446.4亿美元，预估427.5亿美元；第四季度经调整毛利率87％，预估86.2％；第四季度调整后每股收益33.42美元，预估31.83美元。公司预计第一季度经调整营收600亿美元至630亿美元，预计第一季度调整后每股收益37.15美元至39.15美元，预计第一季度经调整毛利率大约86.3％，预估86.7％。",
-      "link": "https://news.10jqka.com.cn/20261001/c680425088.shtml",
-      "published": "Wed, 30 Sep 2026 20:07:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美股收评：美股三大指数收盘涨跌不一",
-      "summary": "美股三大指数收盘涨跌不一，标普500指数跌0.25%，道指跌0.86%，纳指涨0.24%。大型科技股方面，英特尔涨3.71%，苹果涨1.10%，SpaceX涨1.09%，亚马逊涨1.01%，阿斯麦跌1.24%，Meta跌1.84%。中概股方面，哔哩哔哩涨1.21%，携程涨1.19%，理想汽车涨1.16%，京东涨1.14%，蔚来涨1.03%。",
-      "link": "https://news.10jqka.com.cn/20261001/c680425087.shtml",
-      "published": "Wed, 30 Sep 2026 20:07:38 GMT"
+      "title": "中文在线：拟定增募资不超28.33亿元 投向数字版权及AI大模型等项目 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UjVwMHpFMFFSb2NzeDBwWjNMSWhFV3RJOS0tdWxQaUI2WTRTYlFxejRQU3dpNzdMemxtYS13TmZkWDRGT0hEMlQyQlB5Z1cyQW9HbzRJdnhUTHpWcUVYLXZR?oc=5\" target=\"_blank\">中文在线：拟定增募资不超28.33亿元 投向数字版权及AI大模型等项目</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UjVwMHpFMFFSb2NzeDBwWjNMSWhFV3RJOS0tdWxQaUI2WTRTYlFxejRQU3dpNzdMemxtYS13TmZkWDRGT0hEMlQyQlB5Z1cyQW9HbzRJdnhUTHpWcUVYLXZR?oc=5",
+      "published": "Wed, 30 Sep 2026 22:33:23 GMT"
     },
     {
       "source": "财联社",
