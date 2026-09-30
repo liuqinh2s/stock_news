@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-01",
+  "hour": "03",
+  "total": 2,
+  "fetched_at": "2026-10-01T03:01:04.866230+08:00",
+  "news": [
+    {
+      "source": "华尔街见闻",
+      "title": "新思科技与OpenAI达成多年期芯片设计模型框架合作",
+      "summary": "<p>新思科技（Synopsys）与OpenAI签署了一份多年期具有法律约束力的协议，将联合开发 GPT-Synopsys，这是一款将OpenAI的前沿AI技术与新思科技的电子设计自动化（EDA）工具相结合的专业半导体设计模型。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3782849",
+      "published": "Wed, 30 Sep 2026 18:34:35 GMT"
+    },
+    {
+      "source": "央行政策",
+      "title": "PSL利率降至1.5％，“六张网”首获支持，央行结构性工具量价齐调 - finance.sina.com.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQODVsdldBOEV2M29Del9kcnVpcVFKV2RWSHI5VVBQbVpFX2hHVEwtekhBVXlBWVJlWVY1Yk4zbktEY3hMc25fbE1GWElucHFWSm9qRUs3NVpHbkNHZ3ptY2U1U0d3aFhCcnpUc09MUGFldjV0OHM1YVlnX3J2S0d1UXoySExpU0Fjb1pUMHAybExwVkU3S2txRA?oc=5\" target=\"_blank\">PSL利率降至1.5％，“六张网”首获支持，央行结构性工具量价齐调</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.sina.com.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODVsdldBOEV2M29Del9kcnVpcVFKV2RWSHI5VVBQbVpFX2hHVEwtekhBVXlBWVJlWVY1Yk4zbktEY3hMc25fbE1GWElucHFWSm9qRUs3NVpHbkNHZ3ptY2U1U0d3aFhCcnpUc09MUGFldjV0OHM1YVlnX3J2S0d1UXoySExpU0Fjb1pUMHAybExwVkU3S2txRA?oc=5",
+      "published": "Wed, 30 Sep 2026 17:24:55 GMT"
+    }
+  ]
+}
