@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-02",
+  "hour": "03",
+  "total": 5,
+  "fetched_at": "2026-10-02T03:01:06.327751+08:00",
+  "news": [
+    {
+      "source": "华尔街见闻",
+      "title": "微软上新三款语音AI模型：实时转文字准确率登测评榜首，MAI-Voice 2.1覆盖23种语言",
+      "summary": "<p dir=\"auto\">微软加速补齐语音AI能力。当地时间10月1日，微软发布三款新的语音模型，包括实时语音转文字模型 <strong>MAI-Transcribe-2-Streaming</strong>，以及文本转语音模型 <strong>MAI-Voice-2.1</strong> 和更低延迟的 <strong>MAI-Voice-2.1-Flash</strong>。其中，MAI-Transcribe-2-Streaming在AI基准测试平台Artificial Analysis的流式语音识别测试中拿下准确率第一。</p>\n<p dir=\"auto\">AI基准测试与分析平台Artificial Analysis公布数据显示，MAI-Transcribe-2-Streaming的最终转录词错误率（WER）为<strong>2.5%</strong>，在38款模型中排名第一；从说话结束到返回最终文本仅需约<strong>0.13秒</strong>。在更强调实时性的“首次部分转录”测试中，其WER同样为2.5%，延迟约0.12秒。相比之下，此前排名第一的SpaceXAI Gro",
+      "link": "https://wallstreetcn.com/articles/3782897",
+      "published": "Thu, 01 Oct 2026 18:33:32 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美债收益率高企施压，银行股指深陷调整区间，花旗盘中跌近5%",
+      "summary": "<p>美债收益率持续攀升之际，美国银行股承压进一步加剧。</p>\n<p>美东时间10月1日周四美股盘中，基准KBW银行指数一度跌2.4%，创5月底以来盘中新低。该指数所有成分股均走低，其中领跌的花旗集团（C）一度跌4.6%，创7月以来最大盘中跌幅。投资者正重新评估持续走高的美债收益率对美国经济以及银行业务的影响。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/c1a2789c-1d2d-4990-82e4-0390b2da1041.jpeg\" /></p>\n<p>截至周四盘中，KBW银行指数较8月中旬高点已经回落约14%。按照通常以较近期高点下跌10%作为进入技术性调整区间的定义，该指数不仅已经跌入调整区间，而且14%的回撤幅度意味着调整进一步加深。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/e5ad20f8-3259-46db-8ef8-3c6f2e1b2beb.jpeg\" /></p>\n<p>今年以来，KBW银行指数累计涨幅目前",
+      "link": "https://wallstreetcn.com/articles/3782896",
+      "published": "Thu, 01 Oct 2026 18:33:11 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美联储副主席杰斐逊：可能需要更多时间决定下一步行动",
+      "summary": "<p>美联储副主席菲利普·杰斐逊表示，政策制定者可能需要更多时间才能判断是否需要进一步加息以抑制通胀。杰斐逊警告称，通胀高企时间过长，并认为通胀可能持续处于高位，在决定下一步行动前需要仔细评估未来的数据。杰斐逊表示，任何未来的政策调整都应通过仔细审视数据趋势、不断变化的前景以及风险平衡来确定。\n近日，美联储三把手威廉姆斯预计今年还将加息一次，但不急。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3782895",
+      "published": "Thu, 01 Oct 2026 17:33:16 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：Anthropic瞄准感恩节前完成大规模IPO",
+      "summary": "<p>Anthropic PBC 正寻求最早于11月中旬上市，IPO正式路演可能从11月9日当周启动。尽管内部仍在讨论、时间表可能调整，公司仍预计不晚于年底前完成上市。潜在投资者认为Anthropic的合理估值区间在1.8万亿至2万亿美元，公司预期募资规模将匹敌或超过SpaceX的IPO纪录。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3782894",
+      "published": "Thu, 01 Oct 2026 17:29:07 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI“砸饭碗”担忧暂缓！埃森哲845亿订单创纪录、指引超预期，股价盘中暴涨超20%｜财报见闻",
+      "summary": "<p dir=\"auto\">在交出超预期的季度业绩、创纪录订单以及高于市场预期的全年营收指引后，全球咨询与IT服务巨头埃森哲股价暴涨。</p>\n<p dir=\"auto\">美东时间10月1日周四，埃森哲（ACN）股价跳空高开近18%，盘中涨幅曾超过20%、达到23%，势将收创公司上市以来最大单日涨幅。埃森哲大涨不仅带动IBM、印孚瑟斯、威普罗、Cognizant等同业公司股价走高，也成为近期市场重新审视“AI是否会削弱传统咨询需求”的一个重要信号。</p>\n<p dir=\"auto\"><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/d0ceb9fa-f6c7-4f1e-b6c3-fa67f041fed0.jpeg\" /></p>\n<p dir=\"auto\">埃森哲财报显示，截至8月31日的公司2026财年第四财季，营收同比增长6%至186.8亿美元，高于公司自身指引上限，较市场预期高逾3.5%。当季调整后每股收益（EPS）为3.29美元，较分析师预期高逾3.1%。</p>\n<p dir=\"auto\">更受市场关注的是订单。埃森",
+      "link": "https://wallstreetcn.com/articles/3782893",
+      "published": "Thu, 01 Oct 2026 17:22:00 GMT"
+    }
+  ]
+}
