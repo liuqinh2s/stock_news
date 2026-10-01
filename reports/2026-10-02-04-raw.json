@@ -1,22 +1,7 @@
 {
   "date": "2026-10-02",
   "hour": "04",
-  "total": 2,
-  "fetched_at": "2026-10-02T04:01:00.780842+08:00",
-  "news": [
-    {
-      "source": "华尔街见闻",
-      "title": "微软上新三款语音AI模型：实时转文字准确率登测评榜首，MAI-Voice 2.1覆盖23种语言",
-      "summary": "<p dir=\"auto\">微软加速补齐语音AI能力。当地时间10月1日，微软发布三款新的语音模型，包括实时语音转文字模型 <strong>MAI-Transcribe-2-Streaming</strong>，以及文本转语音模型 <strong>MAI-Voice-2.1</strong> 和更低延迟的 <strong>MAI-Voice-2.1-Flash</strong>。其中，MAI-Transcribe-2-Streaming在AI基准测试平台Artificial Analysis的流式语音识别测试中拿下准确率第一。</p>\n<p dir=\"auto\">AI基准测试与分析平台Artificial Analysis公布数据显示，MAI-Transcribe-2-Streaming的最终转录词错误率（WER）为<strong>2.5%</strong>，在38款模型中排名第一；从说话结束到返回最终文本仅需约<strong>0.13秒</strong>。在更强调实时性的“首次部分转录”测试中，其WER同样为2.5%，延迟约0.12秒。相比之下，此前排名第一的SpaceXAI Gro",
-      "link": "https://wallstreetcn.com/articles/3782897",
-      "published": "Thu, 01 Oct 2026 18:33:32 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美债收益率高企施压，银行股指深陷调整区间，花旗盘中跌近5%",
-      "summary": "<p>美债收益率持续攀升之际，美国银行股承压进一步加剧。</p>\n<p>美东时间10月1日周四美股盘中，基准KBW银行指数一度跌2.4%，创5月底以来盘中新低。该指数所有成分股均走低，其中领跌的花旗集团（C）一度跌4.6%，创7月以来最大盘中跌幅。投资者正重新评估持续走高的美债收益率对美国经济以及银行业务的影响。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/c1a2789c-1d2d-4990-82e4-0390b2da1041.jpeg\" /></p>\n<p>截至周四盘中，KBW银行指数较8月中旬高点已经回落约14%。按照通常以较近期高点下跌10%作为进入技术性调整区间的定义，该指数不仅已经跌入调整区间，而且14%的回撤幅度意味着调整进一步加深。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/e5ad20f8-3259-46db-8ef8-3c6f2e1b2beb.jpeg\" /></p>\n<p>今年以来，KBW银行指数累计涨幅目前",
-      "link": "https://wallstreetcn.com/articles/3782896",
-      "published": "Thu, 01 Oct 2026 18:33:11 GMT"
-    }
-  ]
+  "total": 0,
+  "fetched_at": "2026-10-02T04:38:32.291119+08:00",
+  "news": []
 }
