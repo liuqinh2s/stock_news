@@ -1,7 +1,15 @@
 {
   "date": "2026-10-04",
   "hour": "06",
-  "total": 0,
-  "fetched_at": "2026-10-04T06:01:10.678397+08:00",
-  "news": []
+  "total": 1,
+  "fetched_at": "2026-10-04T06:30:51.254687+08:00",
+  "news": [
+    {
+      "source": "东方财富",
+      "title": "10月8日，A股惊天逆转！我预判错了，但市场给了惊喜！ - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZZDZEQXZ0UzdOaE5yMTNCV0dGd2NLSU53ZDlVajFpbk90eVpPN1lOVXVQd3VxQUNucUFHNG9vbGVvYkVoYU55QjR4V2Y2V0gwTDN1MEMzVHhSY0Y5NFVLNkJKN2EwbUtock9N?oc=5\" target=\"_blank\">10月8日，A股惊天逆转！我预判错了，但市场给了惊喜！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZZDZEQXZ0UzdOaE5yMTNCV0dGd2NLSU53ZDlVajFpbk90eVpPN1lOVXVQd3VxQUNucUFHNG9vbGVvYkVoYU55QjR4V2Y2V0gwTDN1MEMzVHhSY0Y5NFVLNkJKN2EwbUtock9N?oc=5",
+      "published": "Sat, 03 Oct 2026 22:03:00 GMT"
+    }
+  ]
 }
