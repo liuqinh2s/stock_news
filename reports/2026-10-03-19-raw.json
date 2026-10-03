@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-03",
+  "hour": "19",
+  "total": 10,
+  "fetched_at": "2026-10-03T19:01:00.080629+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "4家A股公司，筹划重要收购 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1pVDZnR3dlMlRkNWR0LURkVkJTV2F6WU5iUVNSSkhEeGJyVldTRlJ3VlFrNE94TXFkYkhJZEhGdk9QMHd5VDNPZU9jUjZqRTRnVlpqTlhLazkzZXFEY0dJNmdmMXdwQnNSVXdxQ0VkSWNEaEhMUDZrVg?oc=5\" target=\"_blank\">4家A股公司，筹划重要收购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pVDZnR3dlMlRkNWR0LURkVkJTV2F6WU5iUVNSSkhEeGJyVldTRlJ3VlFrNE94TXFkYkhJZEhGdk9QMHd5VDNPZU9jUjZqRTRnVlpqTlhLazkzZXFEY0dJNmdmMXdwQnNSVXdxQ0VkSWNEaEhMUDZrVg?oc=5",
+      "published": "Sat, 03 Oct 2026 09:33:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄罗斯对敖德萨港一艘悬挂外国国旗的船只发动袭击",
+      "summary": "乌克兰港口当局表示，俄罗斯对敖德萨港一艘悬挂外国国旗的船只发动袭击，造成一名船员死亡、三人受伤。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261003/c680436810.shtml",
+      "published": "Sat, 03 Oct 2026 10:51:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "印度财政部长：印度银行体系的总不良资产率已降至数十年来的最低水平",
+      "summary": "印度财政部长Sitharaman表示，印度银行体系的总不良资产率（Gross NPAs）已降至数十年来的最低水平。（蓝鲸新闻）",
+      "link": "https://news.10jqka.com.cn/20261003/c680436790.shtml",
+      "published": "Sat, 03 Oct 2026 10:30:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "也门萨那传出爆炸声",
+      "summary": "当地时间今天（10月3日）中午，在也门胡塞武装控制的首都萨那传出多次巨大爆炸声，疑似再次遭遇空袭。（CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20261003/c680436777.shtml",
+      "published": "Sat, 03 Oct 2026 10:22:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以军空袭致5人死亡 袭击目标据称为哈马斯高官",
+      "summary": "以色列方面3日援引消息人士的话称，以军2日对加沙城西部发动的一次空袭，目的是试图打死阿里·阿穆迪。阿里·阿穆迪被视为已故哈马斯领导人叶海亚·辛瓦尔的继任者，但以军目前无法确认这次空袭是否达到目的。消息称，阿穆迪是目前仍留在加沙地带的哈马斯高级官员之一，曾负责哈马斯的媒体通讯工作，并且是辛瓦尔的亲信。据巴勒斯坦方面消息，这次空袭导致5人死亡，其中包括妇女和儿童。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261003/c680436753.shtml",
+      "published": "Sat, 03 Oct 2026 10:09:43 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "财联社10月3日电，马来西亚将从11月起取消部分黄金产品的10%关税。",
+      "summary": "财联社10月3日电，马来西亚将从11月起取消部分黄金产品的10%关税。",
+      "link": "https://news.10jqka.com.cn/20261003/c680436725.shtml",
+      "published": "Sat, 03 Oct 2026 09:48:08 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美俄谈判或含石油协议",
+      "summary": "据报道，美国与俄罗斯之间关于结束乌克兰战争的谈判中，包含了潜在的石油及能源协议。（蓝鲸新闻）",
+      "link": "https://news.10jqka.com.cn/20261003/c680436678.shtml",
+      "published": "Sat, 03 Oct 2026 09:16:39 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI正在让美债崩溃 即便最后成功也将被征收重税",
+      "summary": "<p style=\"text-align: left;\">9月24日，美国长债全线崩跌。30年期国债收益率升至5.48%，创二十年新高；10年期突破5.2%，创金融危机以来新高。长端收益率过去两个月几乎是直线拉升，财政部长贝森特两次加码回购干预，每次只换来一天的喘息，第二天就被市场打回原形。</p>\n<p style=\"text-align: left;\">赤字太大、油价太高、美联储重新加息——这些都是真实的背后推力，但都不是这一轮的新变量。真正让这一轮不同以往的，是需求端杀出了一个根本不问价格的对手。</p>",
+      "link": "https://wallstreetcn.com/member/articles/3782772",
+      "published": "Sat, 03 Oct 2026 09:51:38 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Anthropic研究员：2030年代，普通人或比今天的富豪过得更好",
+      "summary": "<p>Anthropic强化学习团队的技术负责人Sholto Douglas表示，AI可能把原本需要几百年的技术进步压缩到未来几十年，最终把人类带入“后稀缺社会”。 AI和机器人将大幅提升生产力，让住房、商品等成本逐渐接近能源成本，普通人的生活水平甚至可能超过今天的富豪。如果AI算力投入继续高速增长，到2030年代初，AI带来的生产能力甚至可能相当于再造一个全球GDP。</p>",
+      "link": "https://wallstreetcn.com/charts/41959972",
+      "published": "Sat, 03 Oct 2026 09:45:18 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI大神Karpathy最新洞察：未来我们更该“理解”大模型输出，而不是被它淹没",
+      "summary": "<p>最近，AI领域的传奇人物Andrej Karpathy（前OpenAI联合创始人、特斯拉AI总监）在X上发了一条极具前瞻性的帖子，迅速引发广泛讨论。</p>\n<p>他开门见山地说：“我们将花越来越多的时间去理解语言模型的输出。”</p>\n<p>这句话看似简单，却精准点出了当前AI使用的核心痛点：大模型越来越强，生成内容越来越长、越来越复杂，人类反而容易陷入“信息过载”。 真正的价值，不再是“让它生成”，而是“如何高效、清晰地理解它生成的东西”。</p>\n<p>Karpathy分享了几个他亲自验证过的实用技巧，从文字到图表，再到交互网页和解释视频，层层递进。今天我们就来了解一下这些方法，并补充相关背景知识，希望帮助大家在实际工作中真正落地。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/c6e90b35-e7a2-4801-99ab-06b2024ff23c.png\" /></p>\n<h2>写作层面：用ASD-STE100“控制语言”逼出清晰表达</h2>\n<p>Karpathy最推荐的方法之一是：直接要",
+      "link": "https://wallstreetcn.com/articles/3782967",
+      "published": "Sat, 03 Oct 2026 09:28:37 GMT"
+    }
+  ]
+}
