@@ -1,9 +1,16 @@
 {
   "date": "2026-10-04",
   "hour": "10",
-  "total": 15,
-  "fetched_at": "2026-10-04T10:01:01.996198+08:00",
+  "total": 18,
+  "fetched_at": "2026-10-04T10:13:14.385524+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "前三季度A股IPO募资超2163亿元 北交所上市数量占比达五成 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5fTlVQTEtlOEIwanRqNVR2NVpsem5sdXVYcEZlQjlkUTUzaFF1dkh5ck9USGFMeUNHaFQ1VDRTUG1uX0FDZXc5MjZyMzgtQmF2TGdDU3ZHR2xlQ1hhdnRzNkgzcHlUbVdJeU1mbFFYaEZObnd0UUxSdg?oc=5\" target=\"_blank\">前三季度A股IPO募资超2163亿元 北交所上市数量占比达五成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fTlVQTEtlOEIwanRqNVR2NVpsem5sdXVYcEZlQjlkUTUzaFF1dkh5ck9USGFMeUNHaFQ1VDRTUG1uX0FDZXc5MjZyMzgtQmF2TGdDU3ZHR2xlQ1hhdnRzNkgzcHlUbVdJeU1mbFFYaEZObnd0UUxSdg?oc=5",
+      "published": "Sun, 04 Oct 2026 01:51:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "机构研判A股节后大概率回暖 - 新浪财经",
@@ -34,8 +41,8 @@
     },
     {
       "source": "东方财富",
-      "title": "9月机构调研股票数量超600只 朱少醒、邓晓峰等明星基金经理盯上这些股 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VZWRZaWw1V1h1bEV2ZFZMTHdESmhERzZIb1hVazRfSnprQlowaUxQdTZSV1lLSUNiZjF0aFFxNnJPSzRaamJVWmJscEZ2QVVBSkJGeE5RaWswbDZmRWxURw?oc=5\" target=\"_blank\">9月机构调研股票数量超600只 朱少醒、邓晓峰等明星基金经理盯上这些股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "title": "9月机构调研股票数量超600只 朱少醒、邓晓峰等明星基金经理盯上这些股 - eastmoney.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VZWRZaWw1V1h1bEV2ZFZMTHdESmhERzZIb1hVazRfSnprQlowaUxQdTZSV1lLSUNiZjF0aFFxNnJPSzRaamJVWmJscEZ2QVVBSkJGeE5RaWswbDZmRWxURw?oc=5\" target=\"_blank\">9月机构调研股票数量超600只 朱少醒、邓晓峰等明星基金经理盯上这些股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eastmoney.com</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VZWRZaWw1V1h1bEV2ZFZMTHdESmhERzZIb1hVazRfSnprQlowaUxQdTZSV1lLSUNiZjF0aFFxNnJPSzRaamJVWmJscEZ2QVVBSkJGeE5RaWswbDZmRWxURw?oc=5",
       "published": "Sun, 04 Oct 2026 00:34:49 GMT"
     },
@@ -89,18 +96,11 @@
       "published": "Sun, 04 Oct 2026 00:35:36 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "印尼亚齐特区附近发生5.9级地震",
-      "summary": "据印尼气象、气候和地球物理局报告，当地时间10月4日6时37分，印尼亚齐特区亚齐再也县扎朗镇西南68公里处发生5.9级地震，震源深度为26公里。本次地震暂无海啸风险。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261004/c680437347.shtml",
-      "published": "Sun, 04 Oct 2026 00:10:53 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "到2035年湖南将全面建立自然资源资产管理全链条制度体系",
-      "summary": "湖南省自然资源厅3日透露，该厅近日印发贯彻落实《中共中央办公厅、国务院办公厅关于完善自然资源资产管理制度体系的意见》的工作方案，明确以健全自然资源资产产权制度为主线，构建“1+8+13”工作体系(即：出台“1”个实施意见、制定“8”项配套制度、实施“13”项重点工作)，进一步强化自然资源整体保护，促进自然资源资产高效配置，维护自然资源资产所有者权益，健全自然资源资产管理体制机制，加快构建具有湖南特色的省级自然资源资产管理制度体系。 (中新网)",
-      "link": "https://news.10jqka.com.cn/20261004/c680437304.shtml",
-      "published": "Sun, 04 Oct 2026 00:01:46 GMT"
+      "source": "华尔街见闻",
+      "title": "美银Hartnett：2000年3月“科网泡沫”峰值前6个月，只有科技和通信板块在涨，和当下“如出一辙”",
+      "summary": "<p style=\"text-align: left;\">美银证券首席投资策略师Michael Hartnett发出警示：当前市场结构与2000年科网泡沫破裂前夕高度吻合，同时他建议投资者开始逢低买入债券。</p>\n<p style=\"text-align: left;\">在最新一期《Flow Show》报告中，Hartnett指出，在2000年3月科网泡沫峰值前的六个月里，科技板块涨幅超过40%，而必需消费品板块下跌30%，除科技和电信以外的所有板块均告下跌。他表示，<strong>这一格局与当下市场走势\"如出一辙\"</strong>。与此同时，标普500指数中有400只成分股跌破50日均线，300只跌破200日均线，<strong>市场涨势高度集中于以\"Mag7\"为代表的人工智能相关板块。</strong></p>\n<p style=\"text-align: left;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/40ac6e08-7f17-4045-81fc-0d6e4a4bb556.png\" /></p>\n<p",
+      "link": "https://wallstreetcn.com/articles/3782974",
+      "published": "Sun, 04 Oct 2026 01:57:46 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -108,6 +108,27 @@
       "summary": "<p>巴西1.6亿选民周日走进投票站，在这场被外界视为南美洲当前最重要选举中，<strong>现任总统卢拉</strong>与<strong>右翼挑战者弗拉维奥·博索纳罗</strong>（Flávio Bolsonaro）之间的对决，将直接决定这个拉美最大经济体的政治路线走向。</p>\n<p><strong>最新民调显示两人势均力敌。</strong>Datafolha周六公布的调查显示，在有效票口径下，卢拉以45%对42%微弱领先；Quaest的数据则更为接近，两人分别为46%与45%，均在误差范围之内。</p>\n<p><strong>市场普遍预期首轮投票难以产生绝对多数，选情将大概率拖入10月25日的第二轮决选。</strong>选情胶着之下，华尔街正通过大规模衍生品交易押注选后波动，<strong>预测市场目前给予弗拉维奥约60%的胜选概率。</strong></p>\n<p>选举前夕，外交风波骤然升温。<a href=\"https://www.news.cn/world/20261004/3e27dd7739624fbe92abab0661476a73/c.html\">据新华社",
       "link": "https://wallstreetcn.com/articles/3782970",
       "published": "Sun, 04 Oct 2026 01:30:18 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "孟加拉国将从“最不发达国家”毕业，投资窗口打开了吗？|问海",
+      "summary": "<figure><img alt=\"孟加拉国将从“最不发达国家”毕业，投资窗口打开了吗？|问海\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/10e08706-72eb-485a-92a9-0c53be8c02cb.jpg\" /></figure><p>孟加拉国组建了直属总理办公室的\"新版\"最高投资促进机构。</p><p>孟加拉国有望于2026年11月从最不发达国家行列“毕业”。</p><p>随着今年2月孟加拉国新总理塔里克就职，该国结束了几年来的政治动荡，越来越多的国际投资者开始思考南亚第二大经济体的投资前景。</p><p>以往孟加拉国投资中的繁文缛节，是国际投资者“吐槽”最多的问题。有投资者告诉第一财经记者，企业落地的过程中，他一直在跑各个职能部门收集“图章”，身心俱疲。</p><p>好在塔里克政府听取了投资者的呼声。今年8月，孟加拉国政府将原先多个职能部门合并进入“投资孟加拉国”（Invest Bangladesh），新版的“投资孟加拉国”是直接隶属于总理办公室的最高投资促进机构。</p><p><strong",
+      "link": "https://www.yicai.com/news/103384205.html",
+      "published": "Sun, 04 Oct 2026 01:56:42 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "管涛：浅谈“贸易顺差、资本外流”的经济与政策涵义｜国庆大咖谈",
+      "summary": "<figure><img alt=\"管涛：浅谈“贸易顺差、资本外流”的经济与政策涵义｜国庆大咖谈\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/10/04c91864bcb912afa58b2f6272c18f82.jpeg\" /></figure><p>中国是结构性的“贸易顺差、资本外流”，故贸易顺差不意味着人民币必然升值，资本流出也不意味着人民币必然贬值。</p><p>当前中国经济运行延续总体平稳、向新向优发展态势，但国内供强需弱矛盾突出，经济稳中向好的基础还需巩固。</p>\n\n<p>有观点认为，现在中国企业外贸顺差过万亿美元，但货物出去钱没回来，国家外汇储备没有相应增加。这表明市场主体对经济缺乏信心，是导致国内投资和消费需求疲软，物价低位运行的重要原因。有人建议，要么恢复强制结汇，要求企业把出口收入调回境内兑换成人民币，要么限制企业对外投资，让企业更多在境内投资。对此，笔者不敢苟同。</p>\n\n<p>当年“强制结汇”体现了“集中外汇供给、保障外汇需求”的改革思路。1994年初，汇率并轨，实行银行结售汇制度，实现经常项目有条件可",
+      "link": "https://www.yicai.com/news/103384204.html",
+      "published": "Sun, 04 Oct 2026 01:55:39 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "下周外盘看点丨美联储最新会议纪要暗藏玄机，欧洲债市下一个引爆点是法国？",
+      "summary": "<figure><img alt=\"下周外盘看点丨美联储最新会议纪要暗藏玄机，欧洲债市下一个引爆点是法国？\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/ba3f0f2e-24c6-402d-85ff-aa944c5f967b.jpg\" /></figure><p>霍尔木兹海峡局势能否降温。</p><p>本周国际市场风云变幻，非农爆冷美联储加息预期骤降。</p><p>市场方面，美股涨跌互现，道指周跌1.26%，纳指周涨0.45%，标普500指数周跌0.27%。欧股全线下挫，英国富时100指数周跌2.18%，德国DAX 30指数周跌0.70%，法国CAC 40指数周跌2.24%。</p><p><strong>下周看点颇多，市场将重点关注美联储会议纪要。美国就业数据走弱，削弱了本月就再度加息的可能性，投资者借此研判美联储下一次加息的时点。法国财政与政治困境引发担忧，导致法国国债收益率利差大幅走阔，欧元区最新经济数据备受关注。</strong>同时，市场将持续关注全球债券抛售潮与能源价格波动，中东冲突正在推高全球物价风险",
+      "link": "https://www.yicai.com/news/103384192.html",
+      "published": "Sun, 04 Oct 2026 00:24:38 GMT"
     }
   ]
 }
