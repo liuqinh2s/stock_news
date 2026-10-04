@@ -1,9 +1,16 @@
 {
   "date": "2026-10-04",
   "hour": "16",
-  "total": 10,
-  "fetched_at": "2026-10-04T16:01:03.450097+08:00",
+  "total": 17,
+  "fetched_at": "2026-10-04T16:56:11.997160+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "外资巨头，盯上这些A股 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5MMUlCc0FBOE5JN0g4Zzk3bWYzcFo2MGpUdEpxSzJzNV9MU0lFVEcyTGRvSkItTVcySTJxUDNSZGhPSmFaNjhOMUYxTklPVnV0dGRJWloyc2x3SzA4SUpiRTVFRmVPTEJYaV9hQmZiSElYMVpEQ1JoU19B?oc=5\" target=\"_blank\">外资巨头，盯上这些A股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MMUlCc0FBOE5JN0g4Zzk3bWYzcFo2MGpUdEpxSzJzNV9MU0lFVEcyTGRvSkItTVcySTJxUDNSZGhPSmFaNjhOMUYxTklPVnV0dGRJWloyc2x3SzA4SUpiRTVFRmVPTEJYaV9hQmZiSElYMVpEQ1JoU19B?oc=5",
+      "published": "Sun, 04 Oct 2026 08:13:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "港股IPO市场热度居高不下 - 新浪财经",
@@ -12,25 +19,95 @@
       "published": "Sun, 04 Oct 2026 07:39:00 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "券商热衷拿哪些新牌照？年内全梳理，业务逻辑是第一驱动力 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wNjR4SlY1azhvMWNOV2tnNHlOX3pMOWFEM1hYVHBnQ0RwbW9DOGZPd3RIY19jNXhOY3N2Ql9XSDg4WTlENTRqaENCaGxLaUZGbV83NlVvS1VmYldtOGVlcQ?oc=5\" target=\"_blank\">券商热衷拿哪些新牌照？年内全梳理，业务逻辑是第一驱动力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wNjR4SlY1azhvMWNOV2tnNHlOX3pMOWFEM1hYVHBnQ0RwbW9DOGZPd3RIY19jNXhOY3N2Ql9XSDg4WTlENTRqaENCaGxLaUZGbV83NlVvS1VmYldtOGVlcQ?oc=5",
-      "published": "Sun, 04 Oct 2026 06:03:50 GMT"
+      "source": "新浪财经",
+      "title": "刘涛离任鹏华尊悦定开债券基金 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5tSG1BU3pJNG5FbXpnMHlBRDZIOXNseThzUkFVS2NsTVNhazkzTXItUDlGbUg5c1IxUTBROEVoa3Q5SFZfU3NXMk1DYWRDWm9QTnROb05oZUJyVXNjQXZjRjVzclZzcFFqbk9wcWJEWkItaHVKR1Q0aA?oc=5\" target=\"_blank\">刘涛离任鹏华尊悦定开债券基金</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tSG1BU3pJNG5FbXpnMHlBRDZIOXNseThzUkFVS2NsTVNhazkzTXItUDlGbUg5c1IxUTBROEVoa3Q5SFZfU3NXMk1DYWRDWm9QTnROb05oZUJyVXNjQXZjRjVzclZzcFFqbk9wcWJEWkItaHVKR1Q0aA?oc=5",
+      "published": "Sun, 04 Oct 2026 08:02:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "俄官员警告美方勿封锁俄版“星链”系统 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB5eW51ZWlYcldXVnNPdGNXV2R3QWVXbWxZX3Z3WW9ESy02czNTNTJzLUVPcFhaMm54eFU4THBaaWN1ZFloR2l4N3l4dkU4T3hnZlhFSnE5NlJCU0RxU0xMSC11ZkV1cmhmMVZ4UkJKWC1MbGNyZHVsSw?oc=5\" target=\"_blank\">俄官员警告美方勿封锁俄版“星链”系统</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5eW51ZWlYcldXVnNPdGNXV2R3QWVXbWxZX3Z3WW9ESy02czNTNTJzLUVPcFhaMm54eFU4THBaaWN1ZFloR2l4N3l4dkU4T3hnZlhFSnE5NlJCU0RxU0xMSC11ZkV1cmhmMVZ4UkJKWC1MbGNyZHVsSw?oc=5",
+      "published": "Sun, 04 Oct 2026 08:15:00 GMT"
     },
     {
       "source": "同花顺",
-      "title": "华之杰跨界半导体“自救”：支柱业务收入滑坡，H1净利跌超四成 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPTl8tZDd5QzR4MGtjaFhOU3A5XzA3ckRwTDVnUXVoUkphYTdYSFJxWVNGMF85TWJzMGRzLTJCV0RKRjlyYzN0U0hfeHpneGlMMmN1bzdBSi1Ob1ZYQWt0WjFn?oc=5\" target=\"_blank\">华之杰跨界半导体“自救”：支柱业务收入滑坡，H1净利跌超四成</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPTl8tZDd5QzR4MGtjaFhOU3A5XzA3ckRwTDVnUXVoUkphYTdYSFJxWVNGMF85TWJzMGRzLTJCV0RKRjlyYzN0U0hfeHpneGlMMmN1bzdBSi1Ob1ZYQWt0WjFn?oc=5",
-      "published": "Sun, 04 Oct 2026 07:10:53 GMT"
+      "title": "伊朗外交部发言人：伊朗不会放弃核权利与国家主权，但已在讨论是否继续留在《不扩散核武器条约》框架内",
+      "summary": "伊朗外交部发言人巴加埃表示，伊朗自1970年起加入《不扩散核武器条约》（NPT）并履行国际义务，但长期遭遇背约、军事袭击、核科学家遇刺以及对和平核设施的打击。 他指出，这种“残酷做法”已在伊朗政治与精英层引发严肃讨论：如何在承担国际义务与真正享有合法核权利之间取得平衡。伊朗外交系统称将遵循国家安全机构的重大决策，并强调会坚决维护伊朗的主权、安全与核心利益。",
+      "link": "https://news.10jqka.com.cn/20261004/c680438080.shtml",
+      "published": "Sun, 04 Oct 2026 08:18:20 GMT"
     },
     {
       "source": "同花顺",
-      "title": "佳华科技董事、高管陈京南辞任副董事长等职位 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WbVpKcjdFeUtUanJ1Zmc1MVpLUWVrTTFqRTVrdGVPV0drV0dfT2VtRnJKY1lWTWdYdWJuaU9iT3JjNDM1aEVWRTdYaW1Jd2dvMk1zYlU0akJ1NDI1VzhVS3J3?oc=5\" target=\"_blank\">佳华科技董事、高管陈京南辞任副董事长等职位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WbVpKcjdFeUtUanJ1Zmc1MVpLUWVrTTFqRTVrdGVPV0drV0dfT2VtRnJKY1lWTWdYdWJuaU9iT3JjNDM1aEVWRTdYaW1Jd2dvMk1zYlU0akJ1NDI1VzhVS3J3?oc=5",
-      "published": "Sun, 04 Oct 2026 06:30:11 GMT"
+      "title": "伊朗已就美国提案作出回复",
+      "summary": "伊朗外交部发言人表示，伊朗已就美国提案作出回复，并指出该提案与此前几轮提案类似，聚焦于核问题，而伊朗希望将讨论重点放在霍尔木兹海峡上。",
+      "link": "https://news.10jqka.com.cn/20261004/c680438054.shtml",
+      "published": "Sun, 04 Oct 2026 07:59:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以色列对所有航班提升安保等级 飞行员须接受安全审查",
+      "summary": "据以色列方面10月3日消息，以色列总理内塔尼亚胡已下令主管部门，对所有飞往以色列的航班，无论运营方是以色列航司还是外国航司，一律提升安保等级。以色列总理办公室发言人表示，所有执飞以色列航线的飞行员，都要掌握身份信息，查清背景，并开展相应安全审查。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261004/c680438051.shtml",
+      "published": "Sun, 04 Oct 2026 07:57:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "交通运输部：10月3日全社会跨区域人员流动量30356.8万人次",
+      "summary": "交通运输部数据显示，2026年10月3日（国庆假期第3日），全社会跨区域人员流动量30356.8万人次，环比下降0.6%，比2025年同期（10月3日，中秋国庆假期第3日，下同）下降0.4%。其中：铁路客运量1927.3万人次，环比下降7.2%，同比增长6.1%；公路人员流动量27999万人次，环比下降0.2%，同比下降0.8%（其中公路营业性客运量3787万人次，环比下降2.4%，同比增长5.9%；高速公路及普通国省道非营业性小客车人员出行量24212万人次，环比增长0.2%，同比下降1.7%）；水路客运量204.6万人次，环比增长12.6%，同比增长6.3%；民航客运量225.9万人次，环比下降5.9%，同比下降5.8%。",
+      "link": "https://news.10jqka.com.cn/20261004/c680438033.shtml",
+      "published": "Sun, 04 Oct 2026 07:46:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩国个人信息泄露跨行业蔓延 总统李在明下令彻查",
+      "summary": "韩国总统李在明4日下令，对近期金融机构和公共机构发生的个人资料泄露事件展开彻底调查，并制定相应的应对措施。最新一起个人资料泄露事件就发生在今天。韩国金融部门当天通报，新韩银行约2万5000名客户的信息泄露，KB国民银行119名客户个人信用信息外泄。报道称，调查显示，新韩银行一名贷款招募人员使用的查询服务遭到攻击，导致客户姓名、联系方式、年收入、贷款额度等个人和金融信息一并外泄。金融部门已决定召集银行业相关人员，听取意见，检查信息安全情况并讨论应对方案。去年，韩国通信公司、银行卡公司、电子商务平台均发生大规模用户信息泄露事故。今年以来，本土视频流媒体平台TVING、医美信息平台“江南姐姐”、电子支付结算平台“toss支付”、音视频资源网站Mewpot等企业也发生用户个人信息泄露事件。",
+      "link": "https://news.10jqka.com.cn/20261004/c680438024.shtml",
+      "published": "Sun, 04 Oct 2026 07:36:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗议长：在条件满足之前 霍尔木兹海峡不会重新开放",
+      "summary": "伊朗议会议长卡利巴夫表示，面对伊朗的坚定立场与顽强抵抗，美国陷入绝望境地。卡利巴夫表示，尽管美国有另一套说辞，但近期美方已通过中间人提出了一些建议。美国必须意识到，通过消耗战强加单方面要求的时代已经一去不复返。伊朗的立场明确坚定，即在满足伊朗基于伊斯兰堡谅解备忘录提出的七项条件之前，霍尔木兹海峡绝不会开放。美国总统特朗普2日称，与伊朗的战事将“很快结束，伊朗永远不会拥有核武器”。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261004/c680437998.shtml",
+      "published": "Sun, 04 Oct 2026 07:11:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "青海华电格尔木一期煤电项目1号机组并网试运行",
+      "summary": "国庆期间，位于青海省海西蒙古族藏族自治州格尔木市昆仑经济开发区的华电格尔木一期2×660MW煤电项目1号机组顺利并网，进入带负荷试运行阶段。这个项目是国内在建海拔最高的超超临界燃煤发电项目，也是青海省能源发展规划重点工程。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261004/c680437996.shtml",
+      "published": "Sun, 04 Oct 2026 07:08:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国国家情报总监出任白宫AI事务主管",
+      "summary": "据美国方面10月3日消息，美国总统特朗普已任命国家情报总监杰伊·克莱顿为白宫人工智能事务主管。据悉，克莱顿将领导“超级智能工作组”，在120天内提交一份有关人工智能风险和机遇的报告。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261004/c680437994.shtml",
+      "published": "Sun, 04 Oct 2026 07:06:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "假期过半，多地景区发布客流预警",
+      "summary": "假期过半，四川、河南、浙江、江西、湖南、山西、新疆等地多个景区已发布客流预警，部分景区门票售罄、预约已满或接近最大承载量，启动限流管控。九寨沟、稻城亚丁、都江堰、峨眉山等景区均发布限流公告，建议游客合理规划行程，错峰出行。此外，全国高速公路有33个路段易发拥堵，主要集中在江苏、四川、广东、湖南、浙江等省份。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261004/c680437974.shtml",
+      "published": "Sun, 04 Oct 2026 06:57:44 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "a16z对话：企业级软件都将被AI Agent重做一遍",
+      "summary": "<p>企业采购正在成为AI原生创业公司攻克传统软件巨头的关键战场。</p>\n<p>10月2日知名风投a16z播客访谈节目中，主持人Elena Burger与a16z合伙人Seema Amble，以及企业AI采购智能体初创公司Lio的联合创始人兼CEO Vladimir Keil，就AI应用公司<strong>如何对抗传统软件巨头</strong>、<strong>AI智能体在真实商业环境中的渗透路径</strong>及<strong>财务回报</strong>等市场核心关注点展开了深度对话。</p>\n<p style=\"text-align: center;\"><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/19365f40-9b67-4221-9ba8-e16fe1762745.png\" />（<strong>左</strong>：a16z Fintech团队合伙人Seema Amble；<strong>中</strong>：a16z Enterprise团队投资人Elena Burger；<strong>右</stron",
+      "link": "https://wallstreetcn.com/articles/3782982",
+      "published": "Sun, 04 Oct 2026 08:06:02 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "黄仁勋拍卖“原味皮衣”",
+      "summary": "<p>AI时代，英伟达CEO穿过的皮衣，也成了“奢侈品”。</p>\n\n<p>9月28日，黄仁勋在纽约出席美韩协会晚宴并获颁奖项，现场换上一件全新的Tom Ford皮衣并签名拍卖，还笑称这件皮衣“值500万美元”，并点名三星、SK集团“一把手”李在镕、崔泰源等在场富豪。</p>\n\n<p>据报道，这件皮衣最终以13.2万美元，约合人民币88.5万元成交。</p>\n\n<p>而就在今年7月，黄仁勋另一件亲穿签名皮衣曾在苏富比拍出96万美元，约合650万元人民币。</p>",
+      "link": "https://wallstreetcn.com/charts/41959976",
+      "published": "Sun, 04 Oct 2026 08:01:45 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -45,34 +122,6 @@
       "summary": "<p>售楼处售罄的捷报接连传来，上海楼市正上演一场激烈的抢房行情。</p>\n<p>9月28日，绿城・悦海棠正式选房，距离开盘还有一个多小时，现场队伍早已排成长龙。281套房源，吸引1364组客户认购，认购率冲到485%。摇号结束，房源一扫而空，这是2026年上海诞生的又一个“千人摇”新盘。</p>\n<p>这并非孤例。9月25日中秋当天，嘉定象屿金茂满嘉二批次推出135套房源，开盘即全部售罄，认购率361%，认购仅一小时便触发积分，入围分数线定格 66.15分。仅仅隔一日，浦东森兰越秀天屿147套房源同样日光，成交金额突破 12.36亿元，累计370余组客户争抢，认购率252%。</p>\n<p><strong>火热行情之下，房企迅速调转定价策略，折扣快速收回、房价悄然上调，一房难求的场景重回上海楼市。</strong>保利在上海3个项目的新取证楼栋，售价统一上调 1%；越秀、金茂、建发等房企跟进，或是收回优惠，或是小幅抬价，卖方市场的信号清晰释放。</p>\n<p>来自上海中原地产的数据显示，9月21日~9月27日，上海新建商品住宅成交面积8.91万平方米，环比上涨3.13%，中端改善房源",
       "link": "https://wallstreetcn.com/articles/3782980",
       "published": "Sun, 04 Oct 2026 07:10:06 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "OpenAI「12朝元老」辞职死谏：试错的时代已崩坏！",
-      "summary": "<p style=\"text-align: justify;\">就在刚刚，OpenAI的安全元老David Robinson辞职了。</p>\n<p style=\"text-align: justify;\">他在The Atlantic上悲愤地发表长文，向全人类发出警告——</p>\n<p style=\"text-align: left;\">试错的时代已经结束了。OpenAI的企业文化已经崩坏。犯错之后，我们可能再也没有迭代的机会！</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/a7a20915-ef77-478e-b8c3-1b44da6c8438.png\" title=\"\" /></p>\n<p style=\"text-align: justify;\">在OpenAI工作三年半后，我已是公司资历最深的员工之一。我牵头起草了现行的《准备框架》，并监督撰写了12次前沿模型发布的安全报告。</p>\n<p style=\"text-align: left",
-      "link": "https://wallstreetcn.com/articles/3782981",
-      "published": "Sun, 04 Oct 2026 06:47:36 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "白宫成立“超级智能”工作组，计划120天拿出AI监管方案",
-      "summary": "<p>美国白宫成立\"超级智能\"工作组，确立美国政府在人工智能监管中的角色定位，标志着特朗普政府在AI治理上迈出实质性一步。</p>\n<p>10月3日，据《华尔街日报》报道，<strong>美国国家情报总监Jay Clayton将出任\"超级智能\"工作组负责人，实际上担任特朗普的AI事务总协调人。</strong></p>\n<p><strong>报道指出，工作组须在120天内就AI风险与机遇提交报告，并就联邦政府的职责边界提出建议。</strong>Clayton表示，若美国在AI领域落后于其他国家，将加剧已知及潜在风险。</p>\n<p>工作组的工作或在报告完成后延续，或移交至相关政府机构执行。</p>\n<div>\n<h2 id=\"fd1312c2\">高层配置：副总统、多位部长悉数加入</h2>\n</div>\n<p>工作组成员阵容显示出白宫对这一议题的高度重视。</p>\n<p>美国副总统万斯、国防部长Pete Hegseth、财政部长贝森特、白宫幕僚长Susie Wiles及副幕僚长Richard Walters均列其中。</p>\n<p>工作组设三位副主席，分工明确：</p>\n<block",
-      "link": "https://wallstreetcn.com/articles/3782979",
-      "published": "Sun, 04 Oct 2026 06:37:54 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "老黄：没人比我更能吃苦",
-      "summary": "<p>9月28日在纽约举办的韩国协会晚宴上，黄仁勋说没人比他更能吃苦，只有韩国人比他强，他强调想做成了不起的事就得吃苦，不辛苦的事谁都能做。英伟达三十三年，早期的苦是不懂自己在干什么，后来的苦是挫折与不被信任，靠的是韧性，是继续相信自己。</p>",
-      "link": "https://wallstreetcn.com/charts/41959975",
-      "published": "Sun, 04 Oct 2026 06:03:17 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "雪球 - 聪明的投资者都在这里 - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiNkFVX3lxTFBWRmQ2LWI2d1BzMG9jX2M3Mm1yMDl0S1Q4dlNXaG1qVWFtaTd6QXlqS0UtTEJUdw?oc=5\" target=\"_blank\">雪球 - 聪明的投资者都在这里</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTFBWRmQ2LWI2d1BzMG9jX2M3Mm1yMDl0S1Q4dlNXaG1qVWFtaTd6QXlqS0UtTEJUdw?oc=5",
-      "published": "Sun, 04 Oct 2026 07:44:19 GMT"
     }
   ]
 }
