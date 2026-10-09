@@ -1,29 +1,43 @@
 {
   "date": "2026-10-09",
   "hour": "08",
-  "total": 31,
-  "fetched_at": "2026-10-09T08:01:02.996093+08:00",
+  "total": 39,
+  "fetched_at": "2026-10-09T08:46:58.398833+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "今年A股的钱都让谁赚了 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5GVExRdDJDVnNlTlVwYk9DQS1VdFFUenU4NnZ0ZzdhQUpYTHBad0Z6NVlEdHdzQUl4Vll3RmlBWF9lRW1Nb0FodFVjcmNNMGhES1BVZ1pVNWN3MkJzU29zalBXenUzUU53b0drVHF6RXp3U1JSa2J1WA?oc=5\" target=\"_blank\">今年A股的钱都让谁赚了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GVExRdDJDVnNlTlVwYk9DQS1VdFFUenU4NnZ0ZzdhQUpYTHBad0Z6NVlEdHdzQUl4Vll3RmlBWF9lRW1Nb0FodFVjcmNNMGhES1BVZ1pVNWN3MkJzU29zalBXenUzUU53b0drVHF6RXp3U1JSa2J1WA?oc=5",
+      "published": "Thu, 08 Oct 2026 23:58:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "今日A股市场重要快讯汇总｜2026年10月9日 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5jMkVoeXdLMFFoZlRRZ04wd2otck5wR1hUU0p1R2ZFeEt0Y1BVMDVnYmN5MGRoNWpVMV9qSVJoeGpLVGdlaDc0bmgzY0dPVUFkLVFRX3JNR01QSGZuczR0S1NjVEgtVGFQTVZ3MVFGdFQtLUQzcUxzMWp4OF9OZw?oc=5\" target=\"_blank\">今日A股市场重要快讯汇总｜2026年10月9日</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jMkVoeXdLMFFoZlRRZ04wd2otck5wR1hUU0p1R2ZFeEt0Y1BVMDVnYmN5MGRoNWpVMV9qSVJoeGpLVGdlaDc0bmgzY0dPVUFkLVFRX3JNR01QSGZuczR0S1NjVEgtVGFQTVZ3MVFGdFQtLUQzcUxzMWp4OF9OZw?oc=5",
+      "published": "Fri, 09 Oct 2026 00:00:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "10月首个交易日A股调整 资金情绪表现谨慎 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFB5dmlSbkhHOC1KREJfb2hVRnVMcXRlZWw2T0tld1ZZVFFPTURGaGI0N3FyaFltWXNCa2FoQjFzcV95X0J4WkU1blBEMUdBWUlOa2lVOVNrV19pY1JSNG90Mmp4ZVNYd1VrUGp0SWRKYkZ3LWxveXhZRw?oc=5\" target=\"_blank\">10月首个交易日A股调整 资金情绪表现谨慎</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5dmlSbkhHOC1KREJfb2hVRnVMcXRlZWw2T0tld1ZZVFFPTURGaGI0N3FyaFltWXNCa2FoQjFzcV95X0J4WkU1blBEMUdBWUlOa2lVOVNrV19pY1JSNG90Mmp4ZVNYd1VrUGp0SWRKYkZ3LWxveXhZRw?oc=5",
+      "published": "Fri, 09 Oct 2026 00:25:00 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股三季报披露将启幕 业绩预告勾勒盈利图景 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9TYzMydkFDZjlBbXBEa2l6OW1FRHJ3dUU1a1dfVk1oRlB5djk1VWpqYTk4S09vRWRWckJOMC1VU2hrMVluOGJfZHNLZkxOcmNMSjhOQVhEYk1JekpiVGYwaXY2cHB5SG0zcXJNWGcxel8tY0lGTEVkWg?oc=5\" target=\"_blank\">A股三季报披露将启幕 业绩预告勾勒盈利图景</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TYzMydkFDZjlBbXBEa2l6OW1FRHJ3dUU1a1dfVk1oRlB5djk1VWpqYTk4S09vRWRWckJOMC1VU2hrMVluOGJfZHNLZkxOcmNMSjhOQVhEYk1JekpiVGYwaXY2cHB5SG0zcXJNWGcxel8tY0lGTEVkWg?oc=5",
+      "published": "Thu, 08 Oct 2026 23:42:00 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "A股“嘉兴板块”跑出高质量增长曲线 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1HeENTTlN6ZVhxd2RmTmtpX21PN2E0UDFQOEFvODA4OUFlUTZCUTN1aE45YV9IelVpSGk2T2pYcDJzZGt5cDJtU0ZHaUhNWTRqakZQQ1RJN3ZHVGpaVDFBVFdVaTYteDJaRVJhdHZRVThIczBVS0toTg?oc=5\" target=\"_blank\">A股“嘉兴板块”跑出高质量增长曲线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HeENTTlN6ZVhxd2RmTmtpX21PN2E0UDFQOEFvODA4OUFlUTZCUTN1aE45YV9IelVpSGk2T2pYcDJzZGt5cDJtU0ZHaUhNWTRqakZQQ1RJN3ZHVGpaVDFBVFdVaTYteDJaRVJhdHZRVThIczBVS0toTg?oc=5",
       "published": "Thu, 08 Oct 2026 23:35:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "机构预测A股半导体公司2026年营收有望突破1万亿元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE94T0szZ29HZnNvRVpEQzNFaUc2SlBiemgybGRvYlhhZnhhU3hqUWFiVzZibTRPRzlGc05TUFB1OWpnLXkzdndTMm1leWgwNVRqODhSWVZkRFlxLUpWUFd1SFMxUzJQbUtrcUJjZzNuSlRPaTVqd1FtbA?oc=5\" target=\"_blank\">机构预测A股半导体公司2026年营收有望突破1万亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94T0szZ29HZnNvRVpEQzNFaUc2SlBiemgybGRvYlhhZnhhU3hqUWFiVzZibTRPRzlGc05TUFB1OWpnLXkzdndTMm1leWgwNVRqODhSWVZkRFlxLUpWUFd1SFMxUzJQbUtrcUJjZzNuSlRPaTVqd1FtbA?oc=5",
-      "published": "Thu, 08 Oct 2026 23:41:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股定增一览：9家公司披露定增进展 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9SLXFhMXlSZ1BHWFZrdE9VMC1uLUFhMGVYZzNnaEdIQUl0MUxZRUtGYlhMcHYtdFZHOHliTzJpVE9JRGo1S295blNjckIzTjlrelNLTDJkZWpXQi1YcFJkTDZwdWdpSXI2TDlkX2FSaWJ4cDEzTXJYOQ?oc=5\" target=\"_blank\">A股定增一览：9家公司披露定增进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SLXFhMXlSZ1BHWFZrdE9VMC1uLUFhMGVYZzNnaEdIQUl0MUxZRUtGYlhMcHYtdFZHOHliTzJpVE9JRGo1S295blNjckIzTjlrelNLTDJkZWpXQi1YcFJkTDZwdWdpSXI2TDlkX2FSaWJ4cDEzTXJYOQ?oc=5",
-      "published": "Thu, 08 Oct 2026 23:48:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -62,13 +76,6 @@
     },
     {
       "source": "新浪财经",
-      "title": "外资机构看好A股长期价值 关注人工智能等赛道 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9NV2ZmZ0tCbGdzaDlBZzdoX19MTTFtaUc4SE9VUmxvUldlRTFmX3FFQU5CUTV6Tmd4bzJ3bU1BcmFvc3RJd21vblY3ZnU5cDNCdF9jSFNZT1pYSzJrcnlGZ2VhTkgweUZ1T2MtcFc3T25yMzRqdURSSw?oc=5\" target=\"_blank\">外资机构看好A股长期价值 关注人工智能等赛道</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NV2ZmZ0tCbGdzaDlBZzdoX19MTTFtaUc4SE9VUmxvUldlRTFmX3FFQU5CUTV6Tmd4bzJ3bU1BcmFvc3RJd21vblY3ZnU5cDNCdF9jSFNZT1pYSzJrcnlGZ2VhTkgweUZ1T2MtcFc3T25yMzRqdURSSw?oc=5",
-      "published": "Thu, 08 Oct 2026 22:39:00 GMT"
-    },
-    {
-      "source": "新浪财经",
       "title": "A股股票回购一览：149家公司披露回购进展 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9pVnY3X0pxdE1EQlh0aXFoZmtmMVpkRUl6SkJqT0VIRWFkaE1DVGwwaUVWY25XUF9Ob2NUNWpYSmVRVUsySEtXVnhtUVZYVVdqN3BLYlQ1ckVmNi1sVGxDWW5BNFJDeGJqX1B2SUhyRUVrRDFFYl9CQQ?oc=5\" target=\"_blank\">A股股票回购一览：149家公司披露回购进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pVnY3X0pxdE1EQlh0aXFoZmtmMVpkRUl6SkJqT0VIRWFkaE1DVGwwaUVWY25XUF9Ob2NUNWpYSmVRVUsySEtXVnhtUVZYVVdqN3BLYlQ1ckVmNi1sVGxDWW5BNFJDeGJqX1B2SUhyRUVrRDFFYl9CQQ?oc=5",
@@ -76,17 +83,17 @@
     },
     {
       "source": "新浪财经",
-      "title": "A股6家公司10月9日解禁51亿元 湖南裕能居首 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUNtdmpDU3NQbUZhQS1LZWVXa0xiQUhRaGh2Rk9DRHVaV3JGX2dsellpOVJTQTBDN0FXaFdZZ0tibFZvUTV0TUVLWEFwbFVGRzNHMVBlT01kaURwWFB3MVpyQUE5aGdSSUxuTVczVmtIVEhVTFY4ZXk5ZG9YMC1peVhYbzltSjExcHBuMDVka0R0S0U?oc=5\" target=\"_blank\">A股6家公司10月9日解禁51亿元 湖南裕能居首</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQUNtdmpDU3NQbUZhQS1LZWVXa0xiQUhRaGh2Rk9DRHVaV3JGX2dsellpOVJTQTBDN0FXaFdZZ0tibFZvUTV0TUVLWEFwbFVGRzNHMVBlT01kaURwWFB3MVpyQUE5aGdSSUxuTVczVmtIVEhVTFY4ZXk5ZG9YMC1peVhYbzltSjExcHBuMDVka0R0S0U?oc=5",
-      "published": "Thu, 08 Oct 2026 23:43:00 GMT"
+      "title": "机构预测A股半导体公司2026年营收总额突破1万亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNME15dEpDVDF0YnFMUWhXRlREVGN2Qmk5RThDWms5Sk9Gd0xWTDFhc0xTelFkb3lObXBGNVQxeG1nT2tBdE5YbFNrdkNvWUtuUXpjZEh2VmJqYmJTcGZmMVltNVhaM0p2WFFLbUxmZnB0SHBGMHNrZG9SS3dvRFY3RThHUWZDOWNiU3Q2N0tfN3ZuZms?oc=5\" target=\"_blank\">机构预测A股半导体公司2026年营收总额突破1万亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNME15dEpDVDF0YnFMUWhXRlREVGN2Qmk5RThDWms5Sk9Gd0xWTDFhc0xTelFkb3lObXBGNVQxeG1nT2tBdE5YbFNrdkNvWUtuUXpjZEh2VmJqYmJTcGZmMVltNVhaM0p2WFFLbUxmZnB0SHBGMHNrZG9SS3dvRFY3RThHUWZDOWNiU3Q2N0tfN3ZuZms?oc=5",
+      "published": "Fri, 09 Oct 2026 00:10:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "上蹿下跳考验3800点，腾挪自救中 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWnFpZVFwTEtEZ0c5enpVcWtuUC03NF9QbG5GTWYzMnFQR0poNlZXQTRfeXdMd2ROeTluZ2pkdDlZX21RMlEtUXhMSUpIWVFvLXYtZDhta1FHOWVMc1lQSDJ5ZGpQNDZ4LUViMEo0c25vZ1M3RTMwOQ?oc=5\" target=\"_blank\">上蹿下跳考验3800点，腾挪自救中</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWnFpZVFwTEtEZ0c5enpVcWtuUC03NF9QbG5GTWYzMnFQR0poNlZXQTRfeXdMd2ROeTluZ2pkdDlZX21RMlEtUXhMSUpIWVFvLXYtZDhta1FHOWVMc1lQSDJ5ZGpQNDZ4LUViMEo0c25vZ1M3RTMwOQ?oc=5",
-      "published": "Thu, 08 Oct 2026 23:03:00 GMT"
+      "title": "三家A股公司公告，独董肖作平被查，涉嫌严重违纪违法 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAwcXp4QnA3NDBQbXVLeG5HbXN0SWRnbEk0QkRnVlBGQS1GbHJMQWJNbEdFWG5YVU8xMTVSYjBKVGNNYmxaT3hMQVJXd1JWUTQ0Q2hxbU5MS1BXNXUwMk95d2d3ODExNElIMXNjUTFQT3ZhTjFKS0JVSA?oc=5\" target=\"_blank\">三家A股公司公告，独董肖作平被查，涉嫌严重违纪违法</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwcXp4QnA3NDBQbXVLeG5HbXN0SWRnbEk0QkRnVlBGQS1GbHJMQWJNbEdFWG5YVU8xMTVSYjBKVGNNYmxaT3hMQVJXd1JWUTQ0Q2hxbU5MS1BXNXUwMk95d2d3ODExNElIMXNjUTFQT3ZhTjFKS0JVSA?oc=5",
+      "published": "Thu, 08 Oct 2026 22:52:00 GMT"
     },
     {
       "source": "东方财富",
@@ -104,10 +111,17 @@
     },
     {
       "source": "东方财富",
-      "title": "涨跌是市场轮回之规律，无需纠结与郁闷 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9QbC1Td1QwSjN6UzJVV214THVRVmZOVjMyVmdUaXpCamJiaWExckRmOFZBSTNwYUJTUjRJWkY1bml2VlZoUVdHeHA4SnVsTUp0cmRWQjFJdnBmZWdoYzFSeHB2YmYxREVtdmQ0?oc=5\" target=\"_blank\">涨跌是市场轮回之规律，无需纠结与郁闷</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QbC1Td1QwSjN6UzJVV214THVRVmZOVjMyVmdUaXpCamJiaWExckRmOFZBSTNwYUJTUjRJWkY1bml2VlZoUVdHeHA4SnVsTUp0cmRWQjFJdnBmZWdoYzFSeHB2YmYxREVtdmQ0?oc=5",
-      "published": "Thu, 08 Oct 2026 22:42:00 GMT"
+      "title": "10月9日新股提示：宇特光电上市 通则康威申购 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zQXpFbHQ0Y2tLc3BadFY5Mk5kWGNWSHRPOE5EeWhKU3Zua1pYSXhINGZlS005ZjlKbjRfZ19XbGVsTXdsNjB0WFpNazBieHpXTlI4RmdhVDVTcTcxR0pXTTQ0dWlxZw?oc=5\" target=\"_blank\">10月9日新股提示：宇特光电上市 通则康威申购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zQXpFbHQ0Y2tLc3BadFY5Mk5kWGNWSHRPOE5EeWhKU3Zua1pYSXhINGZlS005ZjlKbjRfZ19XbGVsTXdsNjB0WFpNazBieHpXTlI4RmdhVDVTcTcxR0pXTTQ0dWlxZw?oc=5",
+      "published": "Fri, 09 Oct 2026 00:42:42 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "新泉股份（603179）10月8日主力资金净卖出2387.16万元 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9TMWZzVzk1VFZ4S2p3XzFWRjJhaGZqWWd0TlF5VnFHZXQ2R0M4YTZTRVFUaFJybEk2eFR1TFN2TjBDUkRVRkJSOUhKVFV0Y2ZpZ0tXU0Q4YTgwZnVuZV9UdW9MQmlrQjByNWZv?oc=5\" target=\"_blank\">新泉股份（603179）10月8日主力资金净卖出2387.16万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TMWZzVzk1VFZ4S2p3XzFWRjJhaGZqWWd0TlF5VnFHZXQ2R0M4YTZTRVFUaFJybEk2eFR1TFN2TjBDUkRVRkJSOUhKVFV0Y2ZpZ0tXU0Q4YTgwZnVuZV9UdW9MQmlrQjByNWZv?oc=5",
+      "published": "Fri, 09 Oct 2026 00:30:00 GMT"
     },
     {
       "source": "东方财富",
@@ -118,6 +132,13 @@
     },
     {
       "source": "东方财富",
+      "title": "日经225指数盘中跌超1% - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BblFMbTYyWG5oWl9mcmZjZ2NpcGhWS1lYQTkyeURqMUc2NGUtUHhlNXc3Mjh5OEdCZDRYTEdpMWQ4c3piV3h3SS1ocGVDc1Ziclh5dlZJY3pMeWJmZUFLalVLRHJzdw?oc=5\" target=\"_blank\">日经225指数盘中跌超1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BblFMbTYyWG5oWl9mcmZjZ2NpcGhWS1lYQTkyeURqMUc2NGUtUHhlNXc3Mjh5OEdCZDRYTEdpMWQ4c3piV3h3SS1ocGVDc1Ziclh5dlZJY3pMeWJmZUFLalVLRHJzdw?oc=5",
+      "published": "Fri, 09 Oct 2026 00:42:26 GMT"
+    },
+    {
+      "source": "东方财富",
       "title": "华泰证券：对地产板块转向积极 重点关注更能适应新模式的房企 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmRWZraG9NN2ZJY3UyclFUdnVxWEs4R2dCRE9KYVE5b0RKUWwtTHRZM2lZNG5DZmlwWnJra3p2MlB4ZFl5dHFLRUxlWUFqdzJ1N1VRaDNQYkZMT2FxcVloei1pSGVZQQ?oc=5\" target=\"_blank\">华泰证券：对地产板块转向积极 重点关注更能适应新模式的房企</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmRWZraG9NN2ZJY3UyclFUdnVxWEs4R2dCRE9KYVE5b0RKUWwtTHRZM2lZNG5DZmlwWnJra3p2MlB4ZFl5dHFLRUxlWUFqdzJ1N1VRaDNQYkZMT2FxcVloei1pSGVZQQ?oc=5",
@@ -125,10 +146,10 @@
     },
     {
       "source": "同花顺",
-      "title": "9天飙涨119%！A股市场，又一只牛股诞生！ - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWVVmdEdHd3lBNlFfNjQxOXN5SEgtOWg2ZGVIcWhMSHVZVXlWOVk5N2VKZWNieTZBV0JVSm1xdXRfZ09oZTVCSGFjajZZT0dmbjB4UHF1ZWVJWm03WE5PSw?oc=5\" target=\"_blank\">9天飙涨119%！A股市场，又一只牛股诞生！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWVVmdEdHd3lBNlFfNjQxOXN5SEgtOWg2ZGVIcWhMSHVZVXlWOVk5N2VKZWNieTZBV0JVSm1xdXRfZ09oZTVCSGFjajZZT0dmbjB4UHF1ZWVJWm03WE5PSw?oc=5",
-      "published": "Thu, 08 Oct 2026 23:33:28 GMT"
+      "title": "华鑫证券：首次覆盖沐曦股份给予买入评级 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UaE52TTdON045UnpjTnJEd1VYMDFya0xGNXB1LWhXMVFDaFZyVGIwMnVDVkhlODZ0R1NfWmoxRGY5a1BQRl8tY2pNaENMNk5femxyWnJZYi1WZTUtRTNOQTlR?oc=5\" target=\"_blank\">华鑫证券：首次覆盖沐曦股份给予买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UaE52TTdON045UnpjTnJEd1VYMDFya0xGNXB1LWhXMVFDaFZyVGIwMnVDVkhlODZ0R1NfWmoxRGY5a1BQRl8tY2pNaENMNk5femxyWnJZYi1WZTUtRTNOQTlR?oc=5",
+      "published": "Fri, 09 Oct 2026 00:03:58 GMT"
     },
     {
       "source": "同花顺",
@@ -139,10 +160,17 @@
     },
     {
       "source": "同花顺",
-      "title": "600741子公司，拟3.2亿元摘牌增持联创汽车电子 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwTkR6TjNDdE01TWxialVhOXdLZy00emU4UDc0RzR4VnlkZFZPZ2MxVjVPcmNuYm1DX0padHFQd25QOHFlSVplektNN1NvN2FpUnBkRWM0b1R6T251d1NfMHN3?oc=5\" target=\"_blank\">600741子公司，拟3.2亿元摘牌增持联创汽车电子</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwTkR6TjNDdE01TWxialVhOXdLZy00emU4UDc0RzR4VnlkZFZPZ2MxVjVPcmNuYm1DX0padHFQd25QOHFlSVplektNN1NvN2FpUnBkRWM0b1R6T251d1NfMHN3?oc=5",
-      "published": "Thu, 08 Oct 2026 22:04:33 GMT"
+      "title": "绑定核心人才 安德利拟最高1.8亿元回购股份 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tR0ZPSm42ci1CZlBISGxpNHB6c3BKMkFwSHJrVkN3NW9qM0R1TFdZMTEyTENkLXRJSFlaeVBTSFItZS1Ua0JULXppLXgtd1ZxY1dnZXVjcVlfRmY2QnBKVkx3?oc=5\" target=\"_blank\">绑定核心人才 安德利拟最高1.8亿元回购股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1tR0ZPSm42ci1CZlBISGxpNHB6c3BKMkFwSHJrVkN3NW9qM0R1TFdZMTEyTENkLXRJSFlaeVBTSFItZS1Ua0JULXppLXgtd1ZxY1dnZXVjcVlfRmY2QnBKVkx3?oc=5",
+      "published": "Fri, 09 Oct 2026 00:13:08 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "探索“金融+绿色+产业”产融路径，长城证券打造特色化券商样本 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE05S2NmeGJZVG9ma1FmMURoN2Z1UVNnaHF4eHZodTFfb28tV3BrYzVfUU5zMi1uZUdsTS0xbjZMTFhYU2pwV3F0VFJMNWNoNWlhSEZCR2ZRS3hBR0g5SnNiWTZR?oc=5\" target=\"_blank\">探索“金融+绿色+产业”产融路径，长城证券打造特色化券商样本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05S2NmeGJZVG9ma1FmMURoN2Z1UVNnaHF4eHZodTFfb28tV3BrYzVfUU5zMi1uZUdsTS0xbjZMTFhYU2pwV3F0VFJMNWNoNWlhSEZCR2ZRS3hBR0g5SnNiWTZR?oc=5",
+      "published": "Fri, 09 Oct 2026 00:39:25 GMT"
     },
     {
       "source": "同花顺",
@@ -153,10 +181,10 @@
     },
     {
       "source": "同花顺",
-      "title": "探索“金融+绿色+产业”产融路径，长城证券打造特色化券商样本 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PV2NDVGVZd0RRNXM5Qk1ObGJMNW1haGNtQi1MZHNGbGNDN0E2VXhveVptTHA2Nm82ODFWSlhiakNBSzV0N2VfTTZzYjAwUDJ1VEFNNWIxMkc2SmNSR0xCMFhR?oc=5\" target=\"_blank\">探索“金融+绿色+产业”产融路径，长城证券打造特色化券商样本</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PV2NDVGVZd0RRNXM5Qk1ObGJMNW1haGNtQi1MZHNGbGNDN0E2VXhveVptTHA2Nm82ODFWSlhiakNBSzV0N2VfTTZzYjAwUDJ1VEFNNWIxMkc2SmNSR0xCMFhR?oc=5",
-      "published": "Thu, 08 Oct 2026 23:48:07 GMT"
+      "title": "四连板，集体大涨！002882、600241，紧急公告！ - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwNWZaUWxnbVA4Tkh4dGhGZXdVWDkzOWs3bGkyT0tNWVpLR3FmTVR2WFM3M1hQcEJuVmRTS3pyNFJtMzNLWVA0ZzQ3N0dwUWxyWEtxNlNzbUV1cVRQNUp5UQ?oc=5\" target=\"_blank\">四连板，集体大涨！002882、600241，紧急公告！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwNWZaUWxnbVA4Tkh4dGhGZXdVWDkzOWs3bGkyT0tNWVpLR3FmTVR2WFM3M1hQcEJuVmRTS3pyNFJtMzNLWVA0ZzQ3N0dwUWxyWEtxNlNzbUV1cVRQNUp5UQ?oc=5",
+      "published": "Fri, 09 Oct 2026 00:34:06 GMT"
     },
     {
       "source": "同花顺",
@@ -166,11 +194,18 @@
       "published": "Thu, 08 Oct 2026 23:41:57 GMT"
     },
     {
-      "source": "财联社",
-      "title": "【早报】美股存储、半导体板块，全线重挫；原油飙升、黄金收涨；多家A股公司三季报预增 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JT2RsRktmMlVEbnhET0xpak1yRWYxYThUUUFFMGVaT18tTmV3NHVmeExhVmVEVG16RTROelR0QVZsYTRJdFVfbA?oc=5\" target=\"_blank\">【早报】美股存储、半导体板块，全线重挫；原油飙升、黄金收涨；多家A股公司三季报预增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JT2RsRktmMlVEbnhET0xpak1yRWYxYThUUUFFMGVaT18tTmV3NHVmeExhVmVEVG16RTROelR0QVZsYTRJdFVfbA?oc=5",
-      "published": "Thu, 08 Oct 2026 22:59:00 GMT"
+      "source": "华尔街见闻",
+      "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5% - 华尔街见闻",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKQ0NjaXNVb1hscVd2X1ZsVlFnUVhrM3RReU5uRVVtTzhOOHlMZGxvcDVtRWR3c0R1a1ZRZXFpMl9Kd2ViUS0xU25KLWpDczQwSjdV?oc=5\" target=\"_blank\">OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKQ0NjaXNVb1hscVd2X1ZsVlFnUVhrM3RReU5uRVVtTzhOOHlMZGxvcDVtRWR3c0R1a1ZRZXFpMl9Kd2ViUS0xU25KLWpDczQwSjdV?oc=5",
+      "published": "Thu, 08 Oct 2026 23:32:28 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "费城半导体 vs 韩股：谁错了？ - 华尔街见闻",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVVRubnVjX3hrSzhscGkxc3ZJc0JhMUZLdnlrY3M5YUdtZTNFelVjYjRTeUNpOUxEVTViVkFuaTk4NlRuVHBGVWNCTUhVSG01UkE?oc=5\" target=\"_blank\">费城半导体 vs 韩股：谁错了？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVVRubnVjX3hrSzhscGkxc3ZJc0JhMUZLdnlrY3M5YUdtZTNFelVjYjRTeUNpOUxEVTViVkFuaTk4NlRuVHBGVWNCTUhVSG01UkE?oc=5",
+      "published": "Fri, 09 Oct 2026 00:17:11 GMT"
     },
     {
       "source": "第一财经",
@@ -181,10 +216,10 @@
     },
     {
       "source": "第一财经",
-      "title": "2026-10-08 中国财经60分 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5acnFrR3BFTDMtQzZUdmVFcHlSUXNTelZCSFg3dUNNU0hYQ1dGdE5KRUFTSzN3Wng4M0lNaEp0ZjJqdS1Dby1LVXRHZFc1ajk2TFUzTg?oc=5\" target=\"_blank\">2026-10-08 中国财经60分</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5acnFrR3BFTDMtQzZUdmVFcHlSUXNTelZCSFg3dUNNU0hYQ1dGdE5KRUFTSzN3Wng4M0lNaEp0ZjJqdS1Dby1LVXRHZFc1ajk2TFUzTg?oc=5",
-      "published": "Thu, 08 Oct 2026 22:22:17 GMT"
+      "title": "日经225指数低开0.57% - 第一财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wYmFhdEdSaHAtLWk5ZmI1bmsyeGxia1kzelN1UExqOFBNTFdUV0h3SmRKejVHd0ZCTnUtYjdwSGhsQzlMSUFESTdhVFJvdlRpYjFQQg?oc=5\" target=\"_blank\">日经225指数低开0.57%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wYmFhdEdSaHAtLWk5ZmI1bmsyeGxia1kzelN1UExqOFBNTFdUV0h3SmRKejVHd0ZCTnUtYjdwSGhsQzlMSUFESTdhVFJvdlRpYjFQQg?oc=5",
+      "published": "Fri, 09 Oct 2026 00:02:00 GMT"
     },
     {
       "source": "证券时报",
@@ -220,6 +255,27 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZFVMeHBnbTFnazVfMEktRXRDRDBKdEhPX2gyWUl2aFlkNjgwbHl5bGZNSEhUYmN2VU84aEQ5cjV5bUxCTUUtTlBwcU9jSkR4aUoxZlM5cTEtNzFa?oc=5\" target=\"_blank\">价值与防御再平衡 险资看好四季度市场修复行情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9aZFVMeHBnbTFnazVfMEktRXRDRDBKdEhPX2gyWUl2aFlkNjgwbHl5bGZNSEhUYmN2VU84aEQ5cjV5bUxCTUUtTlBwcU9jSkR4aUoxZlM5cTEtNzFa?oc=5",
       "published": "Thu, 08 Oct 2026 23:25:00 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "广州通则康威科技股份有限公司首次公开发行股票并在创业板上市今日网上申购 - 中国证券报",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9RRDR0WVdacS1FWlR2cHlmTUdQTzM4YV9COHdSNjRMeFhBX1hzNm1sMmIyOGFIb0tkTE5vanZYSDFhbklQM3llbUtKdUhmTVJzQUFWalJ2aVRVV2Zoblc5RmxWVWVEaVpwUEdoNkdvVW5xOEFqMUJB?oc=5\" target=\"_blank\">广州通则康威科技股份有限公司首次公开发行股票并在创业板上市今日网上申购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中国证券报</font>",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RRDR0WVdacS1FWlR2cHlmTUdQTzM4YV9COHdSNjRMeFhBX1hzNm1sMmIyOGFIb0tkTE5vanZYSDFhbklQM3llbUtKdUhmTVJzQUFWalJ2aVRVV2Zoblc5RmxWVWVEaVpwUEdoNkdvVW5xOEFqMUJB?oc=5",
+      "published": "Fri, 09 Oct 2026 00:26:00 GMT"
+    },
+    {
+      "source": "澎湃新闻财经",
+      "title": "牛市早报｜央行阐明人民币汇率政策立场，尊界回应制动踏板支架断裂质疑 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUXzMzbVpPYklqTXY2TkZQRU50TUV3NG5ZVnM4QS1oZGN3U3VzTkR3bVl0VGNqZXR6NTJXWmE5WU5EYXQxOWYxbzB2aFdDcENHenlTOE9TT2ZlenpGcGFGag?oc=5\" target=\"_blank\">牛市早报｜央行阐明人民币汇率政策立场，尊界回应制动踏板支架断裂质疑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUXzMzbVpPYklqTXY2TkZQRU50TUV3NG5ZVnM4QS1oZGN3U3VzTkR3bVl0VGNqZXR6NTJXWmE5WU5EYXQxOWYxbzB2aFdDcENHenlTOE9TT2ZlenpGcGFGag?oc=5",
+      "published": "Fri, 09 Oct 2026 00:40:00 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "华鑫证券：首次覆盖翔港科技给予买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CcFRJUVBDS3A3bkRlbEdHYXFhMVlFWkpvLVgxV0Y4aTZWbHZ5OWxkZk9SVmVDbHFQT181aHNBdC11bkhQdFZyMHo3QTdjZF96UGxtaFgzNW84anYwMVFuTlNn?oc=5\" target=\"_blank\">华鑫证券：首次覆盖翔港科技给予买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CcFRJUVBDS3A3bkRlbEdHYXFhMVlFWkpvLVgxV0Y4aTZWbHZ5OWxkZk9SVmVDbHFQT181aHNBdC11bkhQdFZyMHo3QTdjZF96UGxtaFgzNW84anYwMVFuTlNn?oc=5",
+      "published": "Thu, 08 Oct 2026 23:55:21 GMT"
     }
   ]
 }
