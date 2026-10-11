@@ -1,29 +1,36 @@
 {
   "date": "2026-10-11",
   "hour": "10",
-  "total": 5,
-  "fetched_at": "2026-10-11T10:00:57.670259+08:00",
+  "total": 6,
+  "fetched_at": "2026-10-11T10:43:25.403865+08:00",
   "news": [
     {
       "source": "新浪财经",
+      "title": "A股一周牛股出炉：力王股份涨超61%，领湃科技20cm两连板 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5vR2xzMzE3enJCbm5YQl9iS2t2eWhFRjJadElDMDZueW5pSC00dHFES2ZlTkpRc0x4dHRfU0FhdmxWQWNJQ2JDS1ZTUXpqUjctZkpqdGU5M1paaktCbFByNWg5MVVkak0tcXhuWFlkQVBmZUQzWjFPZA?oc=5\" target=\"_blank\">A股一周牛股出炉：力王股份涨超61%，领湃科技20cm两连板</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vR2xzMzE3enJCbm5YQl9iS2t2eWhFRjJadElDMDZueW5pSC00dHFES2ZlTkpRc0x4dHRfU0FhdmxWQWNJQ2JDS1ZTUXpqUjctZkpqdGU5M1paaktCbFByNWg5MVVkak0tcXhuWFlkQVBmZUQzWjFPZA?oc=5",
+      "published": "Sun, 11 Oct 2026 02:22:00 GMT"
+    },
+    {
+      "source": "新浪财经",
       "title": "A股“尖底”已出现，下周会反弹吗？分析来了 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9FQVByZDZocTB2UWdWT1JVaHNPNGZzSUVTNWxQd0J4a0hITTlLelU3MG15NGROaUNDSXBab1FBbWZpV2Y2N04xTU4wM3N3dGI5eDBXRWdTV2RxeGFpdTNqNEtUSG1jRnozdndCa1Y2U041NGlxSDlWMQ?oc=5\" target=\"_blank\">A股“尖底”已出现，下周会反弹吗？分析来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FQVByZDZocTB2UWdWT1JVaHNPNGZzSUVTNWxQd0J4a0hITTlLelU3MG15NGROaUNDSXBab1FBbWZpV2Y2N04xTU4wM3N3dGI5eDBXRWdTV2RxeGFpdTNqNEtUSG1jRnozdndCa1Y2U041NGlxSDlWMQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYWpaUFYxem1uVEQ5VUw0eGJEOVhHNmtBem51ekhFWFhGYzFUREZuMlVTLU44d256TnRNS0g1NmJhYlpRQXMyN1dBWERjNzgxQWNKNTlad2tfSjRrTVR1YUVlN0d3a3JNNXhXME45MWhIQWtGcnoxemtJZFR1Z3VCM2JITzRpQVdPZWlGRzY1ano0QnJpeFEtX09MSm9BVU1JblVCQkRVdElJaEFtdmdPR3AycXB0OTRTSGdxV0VFNU9aT0dWQzlONUJfdy1SamtR?oc=5\" target=\"_blank\">A股“尖底”已出现，下周会反弹吗？分析来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYWpaUFYxem1uVEQ5VUw0eGJEOVhHNmtBem51ekhFWFhGYzFUREZuMlVTLU44d256TnRNS0g1NmJhYlpRQXMyN1dBWERjNzgxQWNKNTlad2tfSjRrTVR1YUVlN0d3a3JNNXhXME45MWhIQWtGcnoxemtJZFR1Z3VCM2JITzRpQVdPZWlGRzY1ano0QnJpeFEtX09MSm9BVU1JblVCQkRVdElJaEFtdmdPR3AycXB0OTRTSGdxV0VFNU9aT0dWQzlONUJfdy1SamtR?oc=5",
       "published": "Sun, 11 Oct 2026 01:45:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "长鑫科技登顶！ETF成加仓主渠道，前三季度韩国投资者A股、港股“扫货”名单来了 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaDU2bnpyaXRDQ3BxM2ZPeFhjQTBkNW1mUVNpN1NUTFpLZVFmLTVtTWE1ZnBzcWpnVG9PT3dFb1ZsRXZGWU12c2gwbU5tRlloZFFkek5TUHNJZG9NYmNldzd5cGR5YkxzU29vRGlvYjJvYnJYRDlDUkdFdTdqRnY4S1g3ZUhEOUJQQVpHbXRJOC1yWFVjSFVXZzNxVk43UVlOUFZSd2M4RER6R245ZUplaE9iSlNBeWlHYUtWckl2RHZfMmd4WG1feXpYRnRqRy0z?oc=5\" target=\"_blank\">长鑫科技登顶！ETF成加仓主渠道，前三季度韩国投资者A股、港股“扫货”名单来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaDU2bnpyaXRDQ3BxM2ZPeFhjQTBkNW1mUVNpN1NUTFpLZVFmLTVtTWE1ZnBzcWpnVG9PT3dFb1ZsRXZGWU12c2gwbU5tRlloZFFkek5TUHNJZG9NYmNldzd5cGR5YkxzU29vRGlvYjJvYnJYRDlDUkdFdTdqRnY4S1g3ZUhEOUJQQVpHbXRJOC1yWFVjSFVXZzNxVk43UVlOUFZSd2M4RER6R245ZUplaE9iSlNBeWlHYUtWckl2RHZfMmd4WG1feXpYRnRqRy0z?oc=5",
-      "published": "Sun, 11 Oct 2026 00:09:00 GMT"
+      "title": "A股市场风格将如何演绎？券商热议新型电池产业、物理AI等领域投资机会 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2FnS1JqZ29ZVEF4R3d3UDZYMHRkOVJ2WDZRcWY0d1FvTkxGWmZ3MHlCcTd2amEyYTR6TG1EeDNpVjBna0hvbTNEdGp0cW5yRXJPbmtGc1g3d1JCTVFwZ21TaGg3S0pBazVJaHJBV3VUemJ3VXJEalFZN25BUnBLallacE1La2t6c1J6Q3pXVnJob1VCT2hSakJONVZySVI4ekY0WnZpallKdmR5VGZTakFwUkN2R3hOYnVVMGdtWWJnOGFScGRHZW8zSElrU2Yt?oc=5\" target=\"_blank\">A股市场风格将如何演绎？券商热议新型电池产业、物理AI等领域投资机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2FnS1JqZ29ZVEF4R3d3UDZYMHRkOVJ2WDZRcWY0d1FvTkxGWmZ3MHlCcTd2amEyYTR6TG1EeDNpVjBna0hvbTNEdGp0cW5yRXJPbmtGc1g3d1JCTVFwZ21TaGg3S0pBazVJaHJBV3VUemJ3VXJEalFZN25BUnBLallacE1La2t6c1J6Q3pXVnJob1VCT2hSakJONVZySVI4ekY0WnZpallKdmR5VGZTakFwUkN2R3hOYnVVMGdtWWJnOGFScGRHZW8zSElrU2Yt?oc=5",
+      "published": "Sun, 11 Oct 2026 01:32:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股银行“红包”来袭 15家银行中期分红比例较去年提升 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQm5JNnF1MG9temVOelBJYjB2QTEzQkU2TUVJUVNWQjNuUEF4SW9fZ19ZLWtfV3JsMkdHNWVWZVdmVFRIdkRpUEZEVmg1dC1qTnloRklLWUk3bmFQM3gxeVcweWVLZUlIenZKTDRJVGo1aGJjcWcxVGd6c1diWHUwek9wLWp1b252UGFLUlRQbmxHQWtUTjRaVjZnZm9hLVhvOG82aUphZHQ3OTJSc182Q05ack1fclRZVmNIbG5McjFGWDZlTW5YVUZYYUtpbThi?oc=5\" target=\"_blank\">A股银行“红包”来袭 15家银行中期分红比例较去年提升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQm5JNnF1MG9temVOelBJYjB2QTEzQkU2TUVJUVNWQjNuUEF4SW9fZ19ZLWtfV3JsMkdHNWVWZVdmVFRIdkRpUEZEVmg1dC1qTnloRklLWUk3bmFQM3gxeVcweWVLZUlIenZKTDRJVGo1aGJjcWcxVGd6c1diWHUwek9wLWp1b252UGFLUlRQbmxHQWtUTjRaVjZnZm9hLVhvOG82aUphZHQ3OTJSc182Q05ack1fclRZVmNIbG5McjFGWDZlTW5YVUZYYUtpbThi?oc=5",
-      "published": "Sun, 11 Oct 2026 00:12:00 GMT"
+      "title": "韩国投资者前三季度加仓港A股名单出炉 长鑫科技登顶 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5iNDVTNGtORXUyQnVXcDRZX0JaRXNDeHBQYzBPXzEyclphbHZrRE9QR0JiSVdDUW9LcFZQaG5LX3RTdVJZQlM4eXNaWUVySUZSVzRFQVFwcnRVanBrWllSSDFSZFBCTE9fRm5KRGhMUnRzUXZXbHdWbA?oc=5\" target=\"_blank\">韩国投资者前三季度加仓港A股名单出炉 长鑫科技登顶</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iNDVTNGtORXUyQnVXcDRZX0JaRXNDeHBQYzBPXzEyclphbHZrRE9QR0JiSVdDUW9LcFZQaG5LX3RTdVJZQlM4eXNaWUVySUZSVzRFQVFwcnRVanBrWllSSDFSZFBCTE9fRm5KRGhMUnRzUXZXbHdWbA?oc=5",
+      "published": "Sun, 11 Oct 2026 00:55:00 GMT"
     },
     {
       "source": "新浪财经",
