@@ -1,8 +1,8 @@
 {
   "date": "2026-10-13",
   "hour": "07",
-  "total": 12,
-  "fetched_at": "2026-10-13T07:01:01.820910+08:00",
+  "total": 16,
+  "fetched_at": "2026-10-13T07:19:50.125272+08:00",
   "news": [
     {
       "source": "新浪财经",
@@ -10,13 +10,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5nS24yeVNMTldxYUl4cVVTUkNqN0EtX2Z1ZDFJQk5taVBGaHNILWtEUG16dXR6WDlIZGdfb2N4cm1yQkt0QVYyMG9DQTc4bFdteldpN3hnZ1d4X0xTa094a2lPVElZZFNZdFBZM3pKLXBiRFlpSVZQeA?oc=5\" target=\"_blank\">市场积极信号逐渐累积 把握四季度做多窗口期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nS24yeVNMTldxYUl4cVVTUkNqN0EtX2Z1ZDFJQk5taVBGaHNILWtEUG16dXR6WDlIZGdfb2N4cm1yQkt0QVYyMG9DQTc4bFdteldpN3hnZ1d4X0xTa094a2lPVElZZFNZdFBZM3pKLXBiRFlpSVZQeA?oc=5",
       "published": "Mon, 12 Oct 2026 22:10:00 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "传音控股(02636)：发售价为每股H股35.30港元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRl9JR3MxMlE3b1JJZUxJeW1wRXpDM1U3T1BQc3VlcXZFYkhkVTdvTGFMSkx0cGtpVGVQaUxsemY4SWdGZXk1QVYtV3dzc2hlLWdRUUZoMFhlRWd1elVqTjdtWFRpczZCQmhCZTdyTzN1NDB1bVhCbHF2b3dOQVRQQzVwRl9EMU1YU3M3c0hn?oc=5\" target=\"_blank\">传音控股(02636)：发售价为每股H股35.30港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRl9JR3MxMlE3b1JJZUxJeW1wRXpDM1U3T1BQc3VlcXZFYkhkVTdvTGFMSkx0cGtpVGVQaUxsemY4SWdGZXk1QVYtV3dzc2hlLWdRUUZoMFhlRWd1elVqTjdtWFRpczZCQmhCZTdyTzN1NDB1bVhCbHF2b3dOQVRQQzVwRl9EMU1YU3M3c0hn?oc=5",
-      "published": "Mon, 12 Oct 2026 22:12:00 GMT"
     },
     {
       "source": "同花顺",
@@ -31,6 +24,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hNmJFNjhkMGdQaS1wQ0lYS2pobDdCeFdEbi1fRkJSeW0yUWJUcFMwNi0tTlNBVTI4T01VMFd5elZHVHg2c2pzYVlHMHZFeTdZY1VEeTlUclJ0M3R6bktoVQ?oc=5\" target=\"_blank\">远程股份：关于股票交易异常波动的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hNmJFNjhkMGdQaS1wQ0lYS2pobDdCeFdEbi1fRkJSeW0yUWJUcFMwNi0tTlNBVTI4T01VMFd5elZHVHg2c2pzYVlHMHZFeTdZY1VEeTlUclJ0M3R6bktoVQ?oc=5",
       "published": "Mon, 12 Oct 2026 21:30:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "光纤概念股，年内收到11.1亿元订单 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2UEdoeUJONkhPcl93SnBHWXl6UjIyY1dub19XUWs3bVZkU3l1Q3RGZHNCVldtc3JMb29uUWNsT2hOUXB4M0FsVDJ5bjMxSmQ1WFJBSWRodTJiZUZLbmp0bExB?oc=5\" target=\"_blank\">光纤概念股，年内收到11.1亿元订单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2UEdoeUJONkhPcl93SnBHWXl6UjIyY1dub19XUWs3bVZkU3l1Q3RGZHNCVldtc3JMb29uUWNsT2hOUXB4M0FsVDJ5bjMxSmQ1WFJBSWRodTJiZUZLbmp0bExB?oc=5",
+      "published": "Mon, 12 Oct 2026 23:12:24 GMT"
     },
     {
       "source": "同花顺",
@@ -62,17 +62,45 @@
     },
     {
       "source": "华尔街见闻",
+      "title": "美两党参议员联手叫板俄柴油协议，特朗普宣布能源停火数小时后乌电厂和采气设施遭袭",
+      "summary": "<p>美国总统特朗普试图通过放宽俄罗斯柴油进口限制压低美国燃料成本、推动俄乌重返谈判桌，却在华盛顿和战场上同时遭遇阻力。</p>\n<p>上周末，美国两党7名参议员质疑协议违反2022年国会通过的法律，要求特朗普政府撤回决定。与此同时，在特朗普上周日宣布俄乌进入“能源停火”状态后，乌克兰能源设施仍遭袭击，乌方称事先并未获知相关安排。</p>\n<p>据媒体美东时间12日周一的报道，特朗普政府希望将俄罗斯柴油输美作为推动俄方重返和平谈判的筹码，向乌方传递美方愿意与俄罗斯开展合作的信号。但这项安排已引发美国国会两党议员反对，乌克兰方面也对协议能否真正约束俄方行动表示质疑。</p>\n<p>围绕这项协议的争议，已从能源价格和对俄政策延伸至法律授权与停火执行问题。一方面，特朗普政府希望通过能源贸易释放缓和信号；另一方面，国会反对者认为，在俄罗斯继续对乌克兰发动袭击的情况下放松限制，可能削弱美国对莫斯科的施压。能源停火能否落实，也仍缺乏俄乌双方一致确认的安排。</p>\n<h2>两党7名参议员质疑协议违法，2022年禁令成新战线</h2>\n<p>这场争议的核心，是特朗普政府能否在现行法律框架下放行俄罗斯",
+      "link": "https://wallstreetcn.com/articles/3783480",
+      "published": "Mon, 12 Oct 2026 23:06:48 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "出货量暴跌20%！全球手机市场创十四年来最惨第三季度",
+      "summary": "<p>全球智能手机市场正经历2012年以来最严峻的第三季度。</p>\n<p>10月12日周一，据Counterpoint Research发布的初步数据，<strong>2026年第三季度全球智能手机出货量同比下滑20%，创下十四年来同期最低水平。</strong></p>\n<p>具体份额来看，三星以23%的份额稳居首位，苹果份额升至22%并首次在第三季度突破20%，而<strong>小米出货量骤降逾30%、份额降至10%，OPPO和vivo份额亦分别收窄至9%和8%。</strong></p>\n<p>Counterpoint指出，2026年剩余时间市场前景依然充满挑战。该机构预计，减产、精简产品线、聚焦高端的趋势将延续，而价格敏感型细分市场将承受更大的售价上行与供应紧张压力。</p>\n<p>这是存储芯片危机连续第二个季度对手机市场造成全面冲击，AI基础设施建设持续挤占内存供应、推高元件成本，成为此轮下滑的核心驱动力。</p>\n<p>在成本与供应的双重压力下，各大厂商纷纷转变策略，将保护盈利能力置于维持销量之上，普遍上调终端售价、削减低端产品出货。</p>\n<div>\n<h2 id=\"",
+      "link": "https://wallstreetcn.com/articles/3783481",
+      "published": "Mon, 12 Oct 2026 23:05:52 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年10月13日",
+      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>要闻精选</h2>\n<blockquote>\n<p><span style=\"color: #1482f0;\">中国财政部</span>宣布，<span style=\"color: #ff0000;\">自2027年4月1日起新能源汽车增值税出口退税率由13%下调至9%，同步取消电子烟设备装置等产品出口退税。</span></p>\n<p><span style=\"color: #1482f0;\">中国商务部</span>称，中欧混动汽车贸易安排不会专门针对中国产品，<span style=\"color: #ff0000;\">中方配额不低于欧方其他任何进口来源地。</span></p>\n<p><span s",
+      "link": "https://wallstreetcn.com/articles/3783479",
+      "published": "Mon, 12 Oct 2026 23:00:11 GMT"
+    },
+    {
+      "source": "华尔街见闻",
       "title": "诺奖掌掴沃什：谁说前瞻指引没有用！？",
       "summary": "<p style=\"text-align: left;\">美联储主席沃什6月上任头一场议息会就宣布“前瞻指引我们已经放弃了”，9月再次拒绝往点阵图里交自己的预测，理由是市场该学着“盯球，别盯裁判”。</p><p style=\"text-align: left;\">四个月后的10月12日，瑞典皇家科学院把今年的诺贝尔经济学奖颁给了斯坦福大学的 Robert E. Hall 和哥伦比亚大学的 Michael Woodford——后者恰恰是前瞻指引的理论源头，他毕生最核心的主张就一句：央行管理预期的能力，比利率本身更重要。</p><p style=\"text-align: left;\">评选委员会给出的获奖理由是：家庭花钱也好，企业定价也好，盘算的都是明天——央行想稳住经济，就得管住大家对明天的预期，而管预期最核心的手段，就是沟通。</p><p style=\"text-align: left;\">这话听上去像常识，可经济学家为了把它从直觉变成一套能算、能用的模型，前后折腾了几十年——起因是上一代凯恩斯的模型出了一个致命的bug。</p>",
       "link": "https://wallstreetcn.com/member/articles/3783478",
       "published": "Mon, 12 Oct 2026 21:59:48 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "零跑欧洲成绩单亮眼，纯电动车占销量九成",
-      "summary": "<p>零跑欧洲拓展超预期，纯电动车占比九成。</p>\n<p>10月12日周一，零跑国际首席执行官Danilo Annese在巴黎车展上表示，<strong>纯电动汽车在零跑欧洲销量中的占比高达90%，整体销量表现也超出公司一年前的预期。</strong></p>\n<p>在欧盟就限制混动车进口展开谈判的背景下，<strong>Annese将相关协议定性为\"关税之外一个有意思的替代方案\"，并表示零跑国际将遵守最终达成的任何贸易协议。</strong></p>\n<p>与此同时，零跑在巴黎车展上发布了配备增程器的D19 SUV，并正在评估如何进一步利用其在欧洲的现有产能。</p>\n<h2>需求超预期，传统低渗透市场亦现转机</h2>\n<p>Annese表示，欧洲电动车市场的实际需求超出了公司约一年前的判断。<strong>他特别指出，意大利和西班牙等电动车渗透率历来偏低的市场，目前需求也在明显回升，这为零跑提供了额外的增长空间。</strong></p>\n<p>零跑国际是Stellantis NV与中国浙江零跑科技共同设立的合资企业，Stellantis持有该合资公司51%的股权，零跑国际负责",
-      "link": "https://wallstreetcn.com/articles/3783477",
-      "published": "Mon, 12 Oct 2026 21:17:04 GMT"
+      "source": "第一财经",
+      "title": "民主党或拿下参众两院？美银警告：蓝色浪潮恐令美股暴跌10%",
+      "summary": "<figure><img alt=\"民主党或拿下参众两院？美银警告：蓝色浪潮恐令美股暴跌10%\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/10/52888e57ff632a2fc25e7cb1c9e38d42.jpeg\" /></figure><p>中期选举天平正倒向民主党。</p><p>数月以来，市场普遍预期民主党将在今年11月中期选举中夺回众议院；如今，外界越来越认为民主党还有机会拿下参议院。<strong>两大预测市场 Polymarket和Kalshi最新数据显示，民主党拿下国会参众两院的概率稳定在60%以上。</strong></p>\n\n<p>美银认为，民主党大获全胜的蓝色浪潮（Blue Wave）将让美股面临一轮抛售。</p>\n\n<p><strong>民调天平彻底偏移</strong></p>\n\n<p>分析师预计，美国总统特朗普所属共和党将在中期选举遭遇失利，很大原因在于选民对高生活成本感到不满。益普索上月民调显示，生活成本是本届中期选举中选民最关心的议题，47%受访者将其列为首要问题。选民切身感受到财务压力，尤其在",
+      "link": "https://www.yicai.com/news/103390687.html",
+      "published": "Mon, 12 Oct 2026 23:09:52 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "半导体指数创三个月新低，光通信重挫，沙特再遇袭原油大涨，宜人智科暴跌44%",
+      "summary": "<figure><img alt=\"半导体指数创三个月新低，光通信重挫，沙特再遇袭原油大涨，宜人智科暴跌44%\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/6be4a3b0c7212f14c24afc9392b666c2.jpg\" /></figure><p>微软市值再破4万亿美元。</p><p><strong>*三大股指分化，道指涨近200点；</strong></p>\n\n<p><strong>*克利夫兰联储主席哈马克再次呼吁尽快加息；</strong></p>\n\n<p><strong>*金银承压走低。</strong></p>\n\n<p>周一美股涨跌互现，俄乌相互打击能源设施相关消息刺激原油价格大涨，科技股承压。投资者静待银行板块拉开三季度财报季序幕，同时等待本周一系列经济数据落地。</p>\n\n<p>截至收盘，道琼斯工业平均指数上涨195.60点，涨幅0.38%，报51850.55点，纳斯达克综合指数下跌0.44%，报 27245.90点，标普500指数下跌0.06%，报7807.24点。</p>\n\n<p align=\"c",
+      "link": "https://www.yicai.com/news/103390672.html",
+      "published": "Mon, 12 Oct 2026 23:03:17 GMT"
     },
     {
       "source": "证券时报",
