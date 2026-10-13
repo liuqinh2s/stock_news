@@ -1,16 +1,9 @@
 {
   "date": "2026-10-13",
   "hour": "20",
-  "total": 32,
-  "fetched_at": "2026-10-13T20:00:57.836422+08:00",
+  "total": 50,
+  "fetched_at": "2026-10-13T20:17:27.647894+08:00",
   "news": [
-    {
-      "source": "东方财富",
-      "title": "【调研快报】众生药业接待中信证券股份有限公司等3家机构调研 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ma3Z6dEkxYV83SXIwdkg3elozNXBjTnlHVnZ3TWNhTmxhenQ4d3lZajEwQkxUeGVxN1FLU0xqTlozYk5hcVUzaGpQRERQbkdkbC10NFBNcXVPRS1OMzliT3Q4RQ?oc=5\" target=\"_blank\">【调研快报】众生药业接待中信证券股份有限公司等3家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ma3Z6dEkxYV83SXIwdkg3elozNXBjTnlHVnZ3TWNhTmxhenQ4d3lZajEwQkxUeGVxN1FLU0xqTlozYk5hcVUzaGpQRERQbkdkbC10NFBNcXVPRS1OMzliT3Q4RQ?oc=5",
-      "published": "Tue, 13 Oct 2026 10:05:17 GMT"
-    },
     {
       "source": "东方财富",
       "title": "极米科技：2026年第一次临时股东会决议公告 - 东方财富",
@@ -40,6 +33,13 @@
       "published": "Tue, 13 Oct 2026 10:51:22 GMT"
     },
     {
+      "source": "东方财富",
+      "title": "齐鲁银行：副董事长、行长胡金良任职资格获核准 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKbXZPeEctTzNVV3phYjJVOUxFT1UyU2ZCbGNUMmgyVTFFSENVeWZ0d3l3S2NBWm5wYko4T2xFOUxZTnJ3cnBVOExnUWJ4a2VEVVZJMUppam1zZGM3b1ZMaQ?oc=5\" target=\"_blank\">齐鲁银行：副董事长、行长胡金良任职资格获核准</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKbXZPeEctTzNVV3phYjJVOUxFT1UyU2ZCbGNUMmgyVTFFSENVeWZ0d3l3S2NBWm5wYko4T2xFOUxZTnJ3cnBVOExnUWJ4a2VEVVZJMUppam1zZGM3b1ZMaQ?oc=5",
+      "published": "Tue, 13 Oct 2026 11:55:22 GMT"
+    },
+    {
       "source": "同花顺",
       "title": "广电网络：3个交易日涨幅偏离值累计20%触发异动，重整存在不确定性，存在退市风险 - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6Xzhfc1JSdXFydFdjemFxNEFRakFlMllEWnNXUHlOQVcwN1EtaVlXTjllam9xb3l2Z1JLa1J3YWNCaXE1WDlaeXpNTHppZGhCQ0s0WG9maGc3cTNfUVg1S3BR?oc=5\" target=\"_blank\">广电网络：3个交易日涨幅偏离值累计20%触发异动，重整存在不确定性，存在退市风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
@@ -62,10 +62,10 @@
     },
     {
       "source": "同花顺",
-      "title": "*ST威领：股票交易异常波动 控制权存变更不确定性 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtX0pxNXBwVFNqWkZKVHZXaGNNOHBQSkN4VGJJby03eXY2SzZ4VVBJTTFNaDFFTm9mVTZmUl85QWhiTnQyM1hQY2lQVkZBWmpmU2RxSElSVnFBY2w3emUySHhn?oc=5\" target=\"_blank\">*ST威领：股票交易异常波动 控制权存变更不确定性</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtX0pxNXBwVFNqWkZKVHZXaGNNOHBQSkN4VGJJby03eXY2SzZ4VVBJTTFNaDFFTm9mVTZmUl85QWhiTnQyM1hQY2lQVkZBWmpmU2RxSElSVnFBY2w3emUySHhn?oc=5",
-      "published": "Tue, 13 Oct 2026 10:09:03 GMT"
+      "title": "鹏鼎控股：265.94万股限售股10月16日解禁，占总股本0.11% - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WUVFrcXdMQ2xmTDZFVlBDRGdBQkhmNTdRQkF5cWlYSDJ1NlRaTzlKOGpQOHg2TnRNMVVzQnctdW1fWkktbTZkZ2ViTk1iQ25rWUhiN1VkTDZ1d2R5bjY4NUJB?oc=5\" target=\"_blank\">鹏鼎控股：265.94万股限售股10月16日解禁，占总股本0.11%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WUVFrcXdMQ2xmTDZFVlBDRGdBQkhmNTdRQkF5cWlYSDJ1NlRaTzlKOGpQOHg2TnRNMVVzQnctdW1fWkktbTZkZ2ViTk1iQ25rWUhiN1VkTDZ1d2R5bjY4NUJB?oc=5",
+      "published": "Tue, 13 Oct 2026 12:08:32 GMT"
     },
     {
       "source": "同花顺",
@@ -83,17 +83,17 @@
     },
     {
       "source": "同花顺",
+      "title": "天准科技：10月13日董事蔡雄飞增持股份合计190万股 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZMEM2ZDVJVW11eUlFcW1wTmdGbzgyaXpHQlE2RG0wTlFyeWZWbTF2RFVyWTJJLXVlSm93ZWs4c3Z5TXNiUEVrUnFaczE4TUhYdmpRQW1CVFRzelhCYWVBNDRR?oc=5\" target=\"_blank\">天准科技：10月13日董事蔡雄飞增持股份合计190万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZMEM2ZDVJVW11eUlFcW1wTmdGbzgyaXpHQlE2RG0wTlFyeWZWbTF2RFVyWTJJLXVlSm93ZWs4c3Z5TXNiUEVrUnFaczE4TUhYdmpRQW1CVFRzelhCYWVBNDRR?oc=5",
+      "published": "Tue, 13 Oct 2026 12:14:34 GMT"
+    },
+    {
+      "source": "同花顺",
       "title": "渣打集团10月12日於伦敦及CBOE回购391,912股，涉资约845万英镑 - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hYXlYeWF3ZVU2S05HS0g4bDYzWFNuQmlYcFlhdzJHUFhZbWQ3em9EazdKQnl1eG9jZW9KOVJobjdCNjFQaUdWSHBjNy1GbWljMnI0bU9xbGFzSHJtdlNBeg?oc=5\" target=\"_blank\">渣打集团10月12日於伦敦及CBOE回购391,912股，涉资约845万英镑</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hYXlYeWF3ZVU2S05HS0g4bDYzWFNuQmlYcFlhdzJHUFhZbWQ3em9EazdKQnl1eG9jZW9KOVJobjdCNjFQaUdWSHBjNy1GbWljMnI0bU9xbGFzSHJtdlNBeg?oc=5",
       "published": "Tue, 13 Oct 2026 11:01:36 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "机构评级|东北证券给予美迪西“增持”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VcTZHLW5ITE03VFFTTkp3N1BpVjdaVGhyaXpEWGExbXFSeEZhSDZYRXpZYkcyVUo3aEwxUDU2ZnJ6Wl9sZlFzYTZScThFUThmbHc2UFNobnUwRTZlM3ZST3hB?oc=5\" target=\"_blank\">机构评级|东北证券给予美迪西“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VcTZHLW5ITE03VFFTTkp3N1BpVjdaVGhyaXpEWGExbXFSeEZhSDZYRXpZYkcyVUo3aEwxUDU2ZnJ6Wl9sZlFzYTZScThFUThmbHc2UFNobnUwRTZlM3ZST3hB?oc=5",
-      "published": "Tue, 13 Oct 2026 10:09:12 GMT"
     },
     {
       "source": "同花顺",
@@ -111,17 +111,10 @@
     },
     {
       "source": "同花顺",
-      "title": "深 赛 格：截至2026年10月12日，公司股东人数为55,429户 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTMkZ0ZUZWMUFmTTFMU2dkc043UkxtMmJRV0tkV0kyQ2ZBeWp5OUprT01ubllyWFNKLTdHVHlnTlVadWRvLUZ4R0xXRlk3Y2JlVk5DU3R4VFR0aDAwd1dfenRn?oc=5\" target=\"_blank\">深 赛 格：截至2026年10月12日，公司股东人数为55,429户</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTMkZ0ZUZWMUFmTTFMU2dkc043UkxtMmJRV0tkV0kyQ2ZBeWp5OUprT01ubllyWFNKLTdHVHlnTlVadWRvLUZ4R0xXRlk3Y2JlVk5DU3R4VFR0aDAwd1dfenRn?oc=5",
-      "published": "Tue, 13 Oct 2026 10:16:47 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "最新！葛卫东、魏巍等曲线建仓股，“法拍牛散”押注6股，有人浮亏近52%（附名单） - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qM0Z2THV6WmRtVkhkS251UE1ZcUlSOFlMYXJ0dXlxYTlOSDkxZlhUZ0VPLThMTURfQ0Q1MS1tcklMNFh2Y0lEQTZaRkFZbmQ1cHJxT1haSnNhNm5wS3laQ1JB?oc=5\" target=\"_blank\">最新！葛卫东、魏巍等曲线建仓股，“法拍牛散”押注6股，有人浮亏近52%（附名单）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qM0Z2THV6WmRtVkhkS251UE1ZcUlSOFlMYXJ0dXlxYTlOSDkxZlhUZ0VPLThMTURfQ0Q1MS1tcklMNFh2Y0lEQTZaRkFZbmQ1cHJxT1haSnNhNm5wS3laQ1JB?oc=5",
-      "published": "Tue, 13 Oct 2026 10:13:58 GMT"
+      "title": "精进电动：10月13日召开业绩说明会，投资者参与 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tM1d5bjYzbkl0QmJNMFRqbDRwdmJoTUUyaUgyc040czBXeENGOTAxWERzSUNzNU16Q21rRE85LU16a3hhN3VJY2pvN2YwQmp4c0NmM3A2UmJqc3JZWmJiTXhR?oc=5\" target=\"_blank\">精进电动：10月13日召开业绩说明会，投资者参与</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tM1d5bjYzbkl0QmJNMFRqbDRwdmJoTUUyaUgyc040czBXeENGOTAxWERzSUNzNU16Q21rRE85LU16a3hhN3VJY2pvN2YwQmp4c0NmM3A2UmJqc3JZWmJiTXhR?oc=5",
+      "published": "Tue, 13 Oct 2026 12:14:32 GMT"
     },
     {
       "source": "同花顺",
@@ -136,13 +129,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE53ZllXQjNhb2xOSDdIY0pscFpGMlR4aU44OGNGeWVZSVVsVUI1UDk0RTFCR20xVnBIYTBObVlKa2RIaTNDSmN4cFlaWGJwcW9qcFZxaUFrTWxMaWtXLTFtcFpB?oc=5\" target=\"_blank\">江丰电子：关于完成工商变更登记并换发营业执照的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53ZllXQjNhb2xOSDdIY0pscFpGMlR4aU44OGNGeWVZSVVsVUI1UDk0RTFCR20xVnBIYTBObVlKa2RIaTNDSmN4cFlaWGJwcW9qcFZxaUFrTWxMaWtXLTFtcFpB?oc=5",
       "published": "Tue, 13 Oct 2026 11:18:56 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "机构评级|中国银河给予甘肃能源“推荐”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBneFd0ak4xeWJRVDhBRmJ4ZzVnMUtzWmlqdWJoSy02ZXRIeVVWLVZscEt5X24yNHdEVmpoMVJQT3hxS1gwQ21fdmd6b2F6SFZBWlg5NDBCS29UU2F2bmgxVENR?oc=5\" target=\"_blank\">机构评级|中国银河给予甘肃能源“推荐”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBneFd0ak4xeWJRVDhBRmJ4ZzVnMUtzWmlqdWJoSy02ZXRIeVVWLVZscEt5X24yNHdEVmpoMVJQT3hxS1gwQ21fdmd6b2F6SFZBWlg5NDBCS29UU2F2bmgxVENR?oc=5",
-      "published": "Tue, 13 Oct 2026 10:08:23 GMT"
     },
     {
       "source": "同花顺",
@@ -167,17 +153,17 @@
     },
     {
       "source": "同花顺",
-      "title": "机构评级|华源证券给予鸿路钢构“买入”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kcUdxRnBoQzI0b1NvZHQ1aGN2RG1nVnlneXkxTWJPSzhWd1JoYTR0YkltZmlrbDlmeGNieDhUdGpWMVUyZjlEbWphVnVacjFuVjM5Z3I2dGVPNmp0ZU8xb25R?oc=5\" target=\"_blank\">机构评级|华源证券给予鸿路钢构“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kcUdxRnBoQzI0b1NvZHQ1aGN2RG1nVnlneXkxTWJPSzhWd1JoYTR0YkltZmlrbDlmeGNieDhUdGpWMVUyZjlEbWphVnVacjFuVjM5Z3I2dGVPNmp0ZU8xb25R?oc=5",
-      "published": "Tue, 13 Oct 2026 10:08:58 GMT"
-    },
-    {
-      "source": "同花顺",
       "title": "芯瑞达：关于变更持续督导保荐代表人的公告 - 同花顺财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EeDNuNUhqNWxBTS1xdXBWdVlhS3FwbktMMHRzbXkyZ1o1MDBQWURzcTlXbzdyQW9SYWZtWlVOMG8tbjY2YXh6b2hTdWhROWN2UGR2QmRIUnpkWWJTQVFFRUVR?oc=5\" target=\"_blank\">芯瑞达：关于变更持续督导保荐代表人的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EeDNuNUhqNWxBTS1xdXBWdVlhS3FwbktMMHRzbXkyZ1o1MDBQWURzcTlXbzdyQW9SYWZtWlVOMG8tbjY2YXh6b2hTdWhROWN2UGR2QmRIUnpkWWJTQVFFRUVR?oc=5",
       "published": "Tue, 13 Oct 2026 11:14:08 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "极米科技：2026年第一次临时股东会决议公告 - 同花顺财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DLUdBMHJ6X1YxeVJlNUNMN0FFRVVxdlc0bF9nSUwwMjBpZlRVMEtQSlY0M3I1dVBPREQ2VC0tdE1wZWJKQ3BrS0FmTldKOWhUcDl0Z0lCRnZvUW9GQ2JyYQ?oc=5\" target=\"_blank\">极米科技：2026年第一次临时股东会决议公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DLUdBMHJ6X1YxeVJlNUNMN0FFRVVxdlc0bF9nSUwwMjBpZlRVMEtQSlY0M3I1dVBPREQ2VC0tdE1wZWJKQ3BrS0FmTldKOWhUcDl0Z0lCRnZvUW9GQ2JyYQ?oc=5",
+      "published": "Tue, 13 Oct 2026 10:47:09 GMT"
     },
     {
       "source": "财联社",
@@ -187,25 +173,165 @@
       "published": "Tue, 13 Oct 2026 10:23:00 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "今日股市1013丨沪指低开回升收复3800点 短期能继续反弹吗？ - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE50SjdWdmZyOTJVX2gwOXlPWDBGLVQ2aVgxR2YtWDFPTkxPdEVWUnF1MFlsZEotWEpnaHR4SXJlbGxyUVl3Y1RLQ1JwNXllMVJvbllGcQ?oc=5\" target=\"_blank\">今日股市1013丨沪指低开回升收复3800点 短期能继续反弹吗？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50SjdWdmZyOTJVX2gwOXlPWDBGLVQ2aVgxR2YtWDFPTkxPdEVWUnF1MFlsZEotWEpnaHR4SXJlbGxyUVl3Y1RLQ1JwNXllMVJvbllGcQ?oc=5",
-      "published": "Tue, 13 Oct 2026 12:00:12 GMT"
+      "source": "华尔街见闻",
+      "title": "最新硅谷内幕：三大巨头正集体冲刺RSI！",
+      "summary": "<p>最近，全球AI圈彻底疯了。</p>\n<p>所有核心研究员都在通宵讨论三个致命的英文字母——<strong>RSI（递归自我改进）</strong>。</p>\n<p>换句话说，<strong>AI不再需要人类敲代码了，它已经开始自己给自己「动手术」、自己创造下一代更强的AI了！</strong></p>\n<p>这一串实锤让人头皮发麻：</p>\n<p>谷歌前沿模型的发布周期，从125天被硬生生压缩到了44天，内部员工直接承认：「这是RSI的早期迹象」。</p>\n<p>OpenAI神秘模型凭借单条指令、深度思考3小时，直接刷穿4000道世界级数学难题，用的是<strong>人类科学家甚至看不懂的「异星逻辑」</strong>，而这套逻辑正被用来升级它自己。</p>\n<p>Anthropic代码库超八成已由AI自己编写，对齐主管公开把「AI消灭人类的概率」押注在10%以上，罪魁祸首直指RSI！</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/d00f0f5b-ddd3-44a7-9e88-fff3b6410e5d",
+      "link": "https://wallstreetcn.com/articles/3783545",
+      "published": "Tue, 13 Oct 2026 12:02:38 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "花旗集团第三季度营收为238.5亿美元，市场预期为237.2亿美元。 第三季度每股收益为2.85美元。 第三财季FICC销售和交易收入43.9亿美元，预估42.6亿美元。 第三财...",
+      "summary": "<p>花旗集团第三季度营收为238.5亿美元，市场预期为237.2亿美元。</p>\n\n<p>第三季度每股收益为2.85美元。</p>\n\n<p>第三财季FICC销售和交易收入43.9亿美元，预估42.6亿美元。</p>\n\n<p>第三财季股票销售及交易收入17.3亿美元，预估17.8亿美元。</p>\n\n<p>花旗集团美股盘前微跌。</p>",
+      "link": "https://wallstreetcn.com/livenews/3177960",
+      "published": "Tue, 13 Oct 2026 12:00:35 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "高盛Q3股票交易收入64.4亿美元超预期，固收业务意外下滑近1%｜财报见闻",
+      "summary": "<p>高盛第三季度净营收为186.8亿美元，每股收益17.01美元。第三季度净利息收入37.7亿美元，高于预估的36.1亿美元；股票销售和交易收入64.4亿美元，远超预估的50.9亿美元。投资银行业务营收为32.3亿美元，同样高于市场预估的28.6亿美元。</p>\n<p>第三季度业绩要点：</p>\n<ul>\n<li>\n<p>净营收：186.8亿美元</p>\n</li>\n<li>\n<p>投资银行业务营收：32.3亿美元（预估：28.6亿美元，彭博综合预期）</p>\n</li>\n<li>\n<p>咨询收入：16.5亿美元（预估：14亿美元）</p>\n</li>\n<li>\n<p>股票承销收入：6.66亿美元（预估：6.455亿美元）</p>\n</li>\n<li>\n<p>债券承销收入：9.04亿美元（预估：8.244亿美元）</p>\n</li>\n<li>\n<p>每股收益：17.01美元</p>\n</li>\n<li>\n<p>净利息收入：37.7亿美元（预估：36.1亿美元）</p>\n</li>\n<li>\n<p>坏账拨备：3.68亿美元</p>\n</li>\n<li>\n<p>薪酬费用：51.2亿美元（",
+      "link": "https://wallstreetcn.com/articles/3783543",
+      "published": "Tue, 13 Oct 2026 11:26:32 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "存储“崩了”，韩国散户再陷“爆仓恐惧”",
+      "summary": "<p>10月12日，韩国股市大幅回调。韩国综合股价指数（KOSPI）收盘下跌3.65%，报6384.25点。半导体板块表现偏弱，三星电子收盘下跌4.39%，报250500韩元；SK海力士下跌4.52%，报1605000韩元。随后10月13日的交易日，韩股继续下跌，盘中一度暂停程序化卖盘。</p>\n<p>时间往回倒退，自6月22日触及9385.59点高位以来，KOSPI在约四个月内累计回落近32%。</p>\n<p>这轮下跌可以被解释为高位获利了结引发的技术性调整。然而，当视线从这场宏大的资本盛宴转向AI产业链的微观节点时，市场面临的压力可能不止于短期资金撤离。</p>\n<p>这其中包含了三重隐忧：其一，AI基础设施投资的持续扩张能否顺畅转化为实际收入与利润；其二，上游设备及零部件的涨价挤压，正在重新改写芯片产业链的投资回报预期；其三，前沿大模型实验室收入的高增速能否保持可持续性。</p>\n<p><strong>一旦盈利预期开始松动，高位估值的调整便可能与外资资金流出相互强化。再加上融资交易与杠杆资金在下跌行情中放大市场波动，极易触发追加保证金要求并引发被动减仓，散户的“爆仓警报”也随之再",
+      "link": "https://wallstreetcn.com/articles/3783542",
+      "published": "Tue, 13 Oct 2026 11:19:13 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "千问三款AI硬件开售，眼镜、耳机“物理助攻”Personal Agent",
+      "summary": "<p style=\"text-align: left;\">10月13日，阿里巴巴旗下千问（以下简称：千问）发布AI眼镜N1、N1 Pro和AI耳夹式耳机，三款产品已在淘宝、天猫、京东、抖音等平台现货开售。其中，叠加国补及限时优惠后，AI眼镜N1标准套装到手价2218元起，超级续航套装2446元起；N1 Pro标准套装2600元起，超级续航套装2827元起；AI耳夹式耳机首销价1099元。</p><p style=\"text-align: left;\">阿里巴巴集团千问事业部副总裁宋刚在发布会上表示：\"千问的目标是成为每个人的Personal Agent，我们认为AI穿戴是千问在物理世界的延伸，也是Personal Agent的重要组成部分。无论你从哪里发起需求，背后都是同一个千问，理解同一个人，延续同一个目标。\"</p><p style=\"text-align: left;\">N1系列主打影像与感知。公司介绍，眼镜搭载5000万像素传感器与1G5P镜头，支持4K录像；开启相关功能并关联行程后，可在高铁站、机场主动提示检票口、发车时间。官方标称，N1综合续航9小时，N1 Pro为8小时。",
+      "link": "https://wallstreetcn.com/articles/3783541",
+      "published": "Tue, 13 Oct 2026 10:45:49 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "删除“到货8000张英伟达GPU”相关文章，软通动力回应",
+      "summary": "<p>软通动力近日在微信公众号发布的一篇文章中提到，软通动力订购的8000张英伟达6000D（Blackwell架构）GPU卡近期到货。这篇文章已被删除，但网络上还能看到相关内容的转载和媒体引用。</p>\n\n<p>记者以投资者身份致电软通动力证券事务代表，工作人员表示，对此事不太清楚，公司将结合业务情况对达到披露标准的事项进行公告，不以绝对的金额为披露标准，不同收入体量的公司披露标准的绝对金额也可能略有不同。该工作人员还称，新闻与公告不同，对于这类经营相关的日常新闻，建议投资者不要当作唯一的投资依据。（一财）</p>",
+      "link": "https://wallstreetcn.com/livenews/3177908",
+      "published": "Tue, 13 Oct 2026 10:44:27 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "盐湖股份：预计2026年前三季度净利润88.4亿元—90.5亿元，同比增长87.96%—92.42%",
+      "summary": "<p>盐湖股份公告，预计2026年前三季度归属于上市公司股东的净利润为88.4亿元—90.5亿元，较2025年同期增长87.96%—92.42%；扣除非经常性损益后的净利润为86.7亿元—88.8亿元，较2025年同期增长86.12%—90.63%。公司氯化钾产销稳定、产品价格上涨，碳酸锂产能提升且产品价格回暖，推动业绩增长；本次业绩预告相关财务数据未经注册会计师审计。</p>",
+      "link": "https://wallstreetcn.com/livenews/3177902",
+      "published": "Tue, 13 Oct 2026 10:35:48 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "摩根大通Q3调整后营收509亿美元，不及市场预期513.7亿美元｜财报见闻",
+      "summary": "<p>摩根大通第三季度调整后营收为509.1亿美元，市场预期为513.7亿美元。</p>\n<p>第三季度每股收益为5.57美元。</p>\n<p>更多消息，持续更新中</p>\n<p>&nbsp;</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3783540",
+      "published": "Tue, 13 Oct 2026 10:34:46 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "电脑卖不动，但联想们更赚钱了",
+      "summary": "<p>电脑更难卖了。第三季度，全球PC出货量减少了两成。</p>\n<p>IDC最新公布的数据显示，2026年第三季度，全球PC出货量为6270万台，同比下降20.1%。联想、惠普、戴尔、苹果、华硕，排名前五的厂商无一增长。连一向坚挺的苹果，Mac出货量也跌了11.3%。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/a6c96fcd-8389-4976-adfb-b04a367e44c9.png\" /></p>\n<p>按理说，这样的数据出来，行业应该一片哀嚎。但翻开几家厂商截止到6月底或7月底的财报，业绩并不差。联想的经调整净利润涨了近两倍，苹果的Mac收入创了同期纪录，戴尔股价年内涨了三倍。华硕则是在这轮暴跌里抢到了更多市场份额。只有惠普，收入创了新高，利润却在下滑。</p>\n<p><strong>同样是内存涨价，结果却两样，原因是AI正在放大厂商之间的差异。</strong>数据中心抢走存储产能，内存价格暴涨，整机厂跟着提价。有高端用户买单的，价格涨得上去；没有的，只能硬扛。与此同时，科技巨头砸向AI的钱",
+      "link": "https://wallstreetcn.com/articles/3783539",
+      "published": "Tue, 13 Oct 2026 10:33:12 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：日本央行拟在10月“按兵不动”，12月加息仍在考虑之中",
+      "summary": "<div>\n<p>日本央行本月或暂歇加息步伐，年内下一次行动仍有望落在12月。</p>\n</div>\n<p style=\"text-align: left;\">10月13日，据彭博援引知情人士，<strong>日本央行官员认为，在通胀上行风险尚未明显加剧的情况下，没有必要连续加息。官员们将根据最新经济数据，评估是否有必要在12月再次加息。</strong>不过，知情人士强调，央行尚未作出最终决定，不排除本月会议上调整政策的可能。</p>\n<p style=\"text-align: left;\">市场定价显示，交易员预计日本央行本月加息的概率约为10%，而到12月时加息的概率已升至88%。上月接受彭博调查的经济学家中，约三分之一预计日本央行将在12月加息，超过半数预计加息将推迟至明年1月。</p>\n<p style=\"text-align: left;\"><strong>加息预期降温之际，日元继续承压。</strong>截至发稿，美元兑日元报158.13，较日本央行9月18日宣布加息前的约155.8走高，日元在加息后仍未扭转弱势。</p>\n<p style=\"text-align: le",
+      "link": "https://wallstreetcn.com/articles/3783538",
+      "published": "Tue, 13 Oct 2026 10:24:12 GMT"
     },
     {
       "source": "第一财经",
-      "title": "1013股市大家谈 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TeHRIYTlFem5lbVhPdEpJMmZ0dmIwaU4yUUlMY2xqXzZHQ201bVZVOENLa01fSjVKbFRMcXBETmwwMVZqZGpzcVZYOWFfa1lVU3pINg?oc=5\" target=\"_blank\">1013股市大家谈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TeHRIYTlFem5lbVhPdEpJMmZ0dmIwaU4yUUlMY2xqXzZHQ201bVZVOENLa01fSjVKbFRMcXBETmwwMVZqZGpzcVZYOWFfa1lVU3pINg?oc=5",
-      "published": "Tue, 13 Oct 2026 10:12:04 GMT"
+      "title": "一财首席经济学家调研：经济进入政策观察期",
+      "summary": "<figure><img alt=\"一财首席经济学家调研：经济进入政策观察期\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/abd58d2a2c886ad6b72ed9ccd6c3c23b.jpg\" /></figure><p>随着新增专项债等政策逐步落地，未来一个月经济将进入政策观察期，有望维持平稳修复。</p><p>2026年10月，第一财经研究院发布的“第一财经首席经济学家信心指数”为50.3，在50荣枯线以上继续回升。本次调研中，首席经济学家们对第三季度GDP同比增速预测均值为4.4%，对2026年GDP同比增速预测均值为4.6%，高于年初制定的目标下限4.5%。他们认为，随着新增专项债等政策逐步落地，未来一个月经济将进入政策观察期，有望维持平稳修复。</p>\n\n<p>经济学家们对9月CPI同比预测均值为1%，PPI同比预测均值为4.5%，固定资产投资累计增速预测均值为-7.3%，社会消费品零售总额同比增速预测均值为0.7%，工业增加值同比增速预测均值为5.6%，预计9月进出口将维持保增长态势，实现贸易顺差1100.9",
+      "link": "https://www.yicai.com/news/103392048.html",
+      "published": "Tue, 13 Oct 2026 12:08:10 GMT"
     },
     {
       "source": "第一财经",
-      "title": "2026-10-13 中国财经60分 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaNlE0NnJmR09PbGZzX0h2TjN5eXZPVENSSmRNYmkwOTFoSURwSmdwVVlxV0w4eXVvazBBZFg3a0dTME1iNHZnTWJDQU03Q0VYeTQ1dA?oc=5\" target=\"_blank\">2026-10-13 中国财经60分</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaNlE0NnJmR09PbGZzX0h2TjN5eXZPVENSSmRNYmkwOTFoSURwSmdwVVlxV0w4eXVvazBBZFg3a0dTME1iNHZnTWJDQU03Q0VYeTQ1dA?oc=5",
-      "published": "Tue, 13 Oct 2026 11:01:23 GMT"
+      "title": "“预防为主”再获高层重申，中国卫生投入结构或迎优化",
+      "summary": "<figure><img alt=\"“预防为主”再获高层重申，中国卫生投入结构或迎优化\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/f71c81f2d8dd89d5f24474a0e3efe0e1.jpg\" /></figure><p>预防是最经济最有效的健康策略。</p><p>“预防是最经济最有效的健康策略”，这一理念在近日召开的一场全国性重要会议上再次被重申。</p>\n\n<p>10月12日至13日，全国卫生与健康大会（下称“大会”）在北京召开。<strong>大会强调，预防是最经济最有效的健康策略，要抓细抓好卫生与健康各项基础性、源头性工作，夯实全民健康根基。会议还提到，卫生与健康事业具有全局性、基础性作用，必须坚定实施健康优先发展战略。要把保障人民健康融入各项政策，体现到各方面工作之中，规划制定、政策设计、项目论证、工程建设等都优先考虑对人民健康的影响。</strong></p>\n\n<p>业界普遍认为，为真正实现预防关口前移，既需系统推进医防融合，聚焦重点人群，提升基层对慢性非传染性疾病与重点传染病的多病共防能力；也需",
+      "link": "https://www.yicai.com/news/103392001.html",
+      "published": "Tue, 13 Oct 2026 11:46:10 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "跨境金融赋能高水平开放，上海银行业这样做",
+      "summary": "<figure><img alt=\"跨境金融赋能高水平开放，上海银行业这样做\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/dbe4b848e8d7632160a7e2fc64ca3b70.jpg\" /></figure><p>上海银行业通过推动离岸金融创新、加速人民币跨境结算及丰富汇率避险工具，全面提升了跨境金融服务质效以助力上海国际金融中心能级提升。</p><p>近年来，市场主体对便利化跨境结算、多元化跨境投融资、专业化汇率风险管理的需求随之攀升。</p>\n\n<p>10月13日，上海市银行同业公会（以下简称“公会”）在中国银行上海市分行举办“跨境金融赋能高水平对外开放 助力上海国际金融中心能级提升”新闻通气会。</p>\n\n<p>会上，各家银行围绕离岸金融创新、跨境结算提效、综合金融服务、汇率避险保障等议题，分享了具体实践与创新。</p>\n\n<p><strong>离岸金融首创首单频出</strong></p>\n\n<p>中行上海市分行聚焦企业出海、人民币国际使用、离岸金融等重点领域，提供跨境金融一揽子方案。以自贸离岸债为例，该",
+      "link": "https://www.yicai.com/news/103392009.html",
+      "published": "Tue, 13 Oct 2026 11:44:58 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "回看宜信20年，如何从P2P探索者，走向立案侦查、资不抵债",
+      "summary": "<figure><img alt=\"回看宜信20年，如何从P2P探索者，走向立案侦查、资不抵债\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/3efb3d8569822a27a275250bf8cc2262.jpg\" /></figure><p>宜信实控人唐宁等嫌疑人因涉嫌非法吸收公众存款或集资诈骗被依法采取刑事强制措施，导致其关联上市公司宜人智科股价暴跌，且其核心业务模式因长期存在期限错配、资金池及底层资产不透明等结构性矛盾而最终崩塌。</p><p>10月12日，北京市朝阳公开分局发布的警情通报，宜信实控人唐某、赵某等多名嫌疑人已被依法采取刑事强制措施。目前，投资人正通过警情通报中所列的三种方式进行报案登记。</p>\n\n<p>“从第一次购买产品到现在快十年了，APP都换了几轮，很多材料都找不到了。”一位投资者说。</p>\n\n<p>从2006年成立，到2026年变为立案侦查对象，整整20年。20年里，宜信踩中了信用消费、小微企业融资和金融科技创新的时代红利，也最终被自身模式的结构性矛盾所吞噬。</p>\n\n<p>10月12日，美",
+      "link": "https://www.yicai.com/news/103391917.html",
+      "published": "Tue, 13 Oct 2026 11:43:46 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "中欧就混动汽车、电动汽车达成多项共识，英国怎么看｜问海",
+      "summary": "<figure><img alt=\"中欧就混动汽车、电动汽车达成多项共识，英国怎么看｜问海\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/fe526acfd63d09a713a431210cdcbdf2.jpg\" /></figure><p>英国汽车行业眼下更关心的，是能否被纳入欧盟的“欧洲制造”体系。</p><p>中国和欧盟近日就混动汽车、电动汽车磋商达成多项共识。</p>\n\n<p>商务部新闻发言人10月12日表示，关于混动汽车，双方强调并确认了三项基本原则。一是尊重事实。二是非歧视。三是合规。中欧在贸易投资磋商机制下持续对话，达成多项成果共识，有利于维护稳定、平衡的中欧关键贸易伙伴关系。双方本着相互尊重、平等协商的原则，就混动汽车、电动汽车贸易进行了密集磋商，平衡处理经贸分歧和彼此关切。</p>\n\n<p>同日，中国汽车工业协会最新数据显示，9月中国汽车出口‌105.3万辆‌，同比增长61.4%，连续第4个月单月出口突破百万辆大关。就海外市场而言，阿联酋、澳大利亚、英国、阿尔及利亚等国进口中国汽车增速普遍超过50%，部分国家",
+      "link": "https://www.yicai.com/news/103391995.html",
+      "published": "Tue, 13 Oct 2026 11:42:09 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "IMF答一财：AI概念股若遭抛售恐殃及实体经济，宏观政策“救市”空间严重受限",
+      "summary": "<figure><img alt=\"IMF答一财：AI概念股若遭抛售恐殃及实体经济，宏观政策“救市”空间严重受限\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/7407CE03-0C42-498D-A568-3C0F1DAD254C.jpg\" /></figure><p>国际货币基金组织警告称，人工智能概念股若遭遇抛售恐将波及实体经济，且当前全球宏观政策应对危机的空间已严重受限。</p><p>当地时间13日，国际货币基金组织（IMF）货币与资本市场部副主任阿塔纳西奥斯·瓦姆瓦基迪斯（Athanasios Vamvakidis）在10月《全球金融稳定报告》新闻发布会上回答第一财经记者提问时表示，一旦发生AI驱动的市场调整，尽管其初步回调可能暂时局限于科技板块，但其引发的连锁反应恐将波及更广泛的资产价格，并对实体经济造成打击。更为严峻的是，当前全球宏观政策的救市空间已大不如前。</p><p><img alt=\"图源：IMF\" height=\"366\" src=\"https://imgcdn.yicai.com/uppics/i",
+      "link": "https://www.yicai.com/news/103392000.html",
+      "published": "Tue, 13 Oct 2026 11:39:04 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "从规模竞赛转向投资者回报 陆家嘴金融沙龙2026年第三十五期热议公募改革",
+      "summary": "<figure><img alt=\"从规模竞赛转向投资者回报 陆家嘴金融沙龙2026年第三十五期热议公募改革\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/b2bd738285806b4224582309ba222572.jpg\" /></figure><p>国泰基金、嘉实基金、浦银基金、富国基金、华安基金等头部公募机构嘉宾齐聚探讨。</p><p>在公募基金管理规模站上39.6万亿元台阶的背景下，行业正从重规模向重持有人回报转型。建设中国特色一流投资机构已成为公募行业的时代课题。</p>\n\n<p>10月10日，陆家嘴金融沙龙2026年第三十五期圆满举行，活动以“加快建设一流投资机构 共促公募行业高质量发展”为主题。国泰基金、嘉实基金、浦银基金、富国基金、华安基金等头部公募机构嘉宾齐聚探讨。</p>\n\n<p>嘉宾们指出，规模只是发展的结果而非目标，资管机构应以投资者利益为锚，搭建平台化投研体系，推进产品、费率机制创新，依托集团协同、数字化赋能，推动行业从“卖产品”向提供财富解决方案转型，引导长期资本服务实体经济，助力浦东打造全球",
+      "link": "https://www.yicai.com/news/103391976.html",
+      "published": "Tue, 13 Oct 2026 11:24:34 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "阿里千问发布新一代AI眼镜、AI耳机，AI硬件加入智能体竞争下半场",
+      "summary": "<figure><img alt=\"阿里千问发布新一代AI眼镜、AI耳机，AI硬件加入智能体竞争下半场\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/4DEABB34-58A1-4541-855E-B3BB98A41581.jpg\" /></figure><p>“千问的目标是成为每个人的Personal Agent。我们认为AI穿戴是千问在物理世界的延伸。”</p><p>10月13日，阿里千问发布AI眼镜N1、N1 Pro及AI耳夹式耳机三款AI硬件新品，相关产品正式在淘宝、天猫、京东、抖音等电商平台现货开售。</p><p>据悉，千问眼镜N1搭载5000万像素影像系统，支持全天候环境感知、翻译、会议纪要和语音办事；N1 Pro新增体征实时监测、眼动交互和虹膜核身；AI耳夹式耳机由千问与Bose共同推出，支持多语言翻译、AI实时听记和任务交办。</p><p class=\"image-blot\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/10/fe",
+      "link": "https://www.yicai.com/news/103391908.html",
+      "published": "Tue, 13 Oct 2026 10:48:01 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "今年国考明起报名，将严防“公考围岗”舞弊行为",
+      "summary": "<figure><img alt=\"今年国考明起报名，将严防“公考围岗”舞弊行为\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/68e0873e96e35d1a2156d4f480e94e79.jpg\" /></figure><p>报考者需通过电子社保卡等进行实名实人认证。</p><p>今年国考报名将启，将重点打击防范“公考围岗”舞弊行为。</p>\n\n<p>10月13日，国家公务员局发布公告显示，中央机关及其直属机构2027年度考试录用公务员报名即将开始，考生可于10月14日8:00至10月24日18:00期间进行网上报名，公共科目笔试将于11月29日举行。</p>\n\n<p>本次计划招录3.57万人，较2026年的3.81万人减少2400人，降幅达6.3%，招录规模连续第二年回落。</p>\n\n<p>第一财经记者注意到，公告强调，为打击防范“公考围岗”舞弊行为，报考者需登录专题网站在规定时间内完成注册后，通过电子社保卡等进行实名实人认证，才能报名和提交报考申请。</p>\n\n<p>所谓“公考围岗”，本质上是将国考职位当作“围猎”对",
+      "link": "https://www.yicai.com/news/103391903.html",
+      "published": "Tue, 13 Oct 2026 10:47:29 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "围绕推进城市更新和宜居安居工作，陈吉宁在基层一线调研，听取群众意见建议",
+      "summary": "<figure><img alt=\"围绕推进城市更新和宜居安居工作，陈吉宁在基层一线调研，听取群众意见建议\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/8e9c4c8dc587e7240bb6176224108121.jpg\" /></figure><p>把事关人民宜居安居的基础工作做深做细做实，不断增强居民群众的获得感、幸福感、安全感。</p><p>上海市委书记陈吉宁今天（10月13日）上午围绕推进城市更新和宜居安居工作，在基层一线调研，听取群众意见建议，并开展下访活动。陈吉宁指出，<strong>要深入学习贯彻习近平总书记考察上海重要讲话精神和对上海工作重要指示要求，认真践行人民城市理念，坚持问需于民、问计于民、问效于民，把事关人民宜居安居的基础工作做深做细做实，不断增强居民群众的获得感、幸福感、安全感。</strong></p>\n\n<p>陈吉宁来到长宁区一处建于上世纪60年代的老公房，由于房龄偏长、结构老化，加之配套生活设施欠缺，群众居住存在安全隐患，期待尽快解决安全问题。陈吉宁实地察看房屋状况，详细了解问题症结，在接",
+      "link": "https://www.yicai.com/news/103391909.html",
+      "published": "Tue, 13 Oct 2026 10:47:27 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "删除“到货8000张英伟达GPU”相关文章，软通动力回应",
+      "summary": "<figure><img alt=\"删除“到货8000张英伟达GPU”相关文章，软通动力回应\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/069333F9-A981-4681-B9D4-16FEB87B35B7.jpg\" /></figure><p>若按7万元一张计算，软通动力这笔8000张GPU的采购金额可达5.6亿元。</p><p>天阳科技（300872.SZ）宣布将采购2万张英伟达RTX PRO 5500 Blackwell GPU后，又有另一家公司传出采购英伟达RTX PRO系列GPU的消息。</p><p>软通动力（301236.SZ）近日在微信公众号发布的一篇文章中提到，软通动力订购的8000张英伟达6000D（Blackwell架构）GPU卡近期到货。这篇文章已被删除，但网络上还能看到相关内容的转载和媒体引用。</p><p>有相关文章称，10月10日，超级智算（北京）电子制造有限公司董事长一行在软通动力董事长的陪同下参观了软通华方通州智能共享工厂。媒体文章和对软通动力文章转载的内容中，都提到这批入库的8000",
+      "link": "https://www.yicai.com/news/103391880.html",
+      "published": "Tue, 13 Oct 2026 10:31:57 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "2030年上海旅游收入力争突破9000亿元，年入境游客超1000万人次",
+      "summary": "<figure><img alt=\"2030年上海旅游收入力争突破9000亿元，年入境游客超1000万人次\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/6A8C795F-0DCF-4BE3-B2CC-91C8485735E1.jpg\" /></figure><p>面向“十五五”，上海旅游业锚定建设中国入境旅游第一站、中国都市旅游首选地。</p><p style=\"text-align: justify;\"><span style=\"font-size: 18px; color: rgb(0, 0, 0);\"><span class=\"s2\" style=\"color: rgb(0, 0, 0);\">上海市政府新闻办10月13日举行“开局起步‘十五五’”系列主题市政府新闻发布会，介绍《上海市都市旅游创新发展“十五五”规划》有关情况，至2030年，上海旅游收入力争突破9000亿元，年入境游客达1000万人次以上，旅游产业增加值占全市GDP比重达到5%，市级以上乡村旅游重点村达100个、社区景点达100处。</span></s",
+      "link": "https://www.yicai.com/news/103391837.html",
+      "published": "Tue, 13 Oct 2026 10:24:44 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "晚间公告｜10月13日这些公告有看头",
+      "summary": "<figure><img alt=\"晚间公告｜10月13日这些公告有看头\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/5d0103c239870ebb1e5a79fe669552a9.jpg\" /></figure><p>以下是第一财经对一些重要公告的汇总，供投资者参考。</p><p style=\"text-align: center;\"><strong>【品大事】</strong></p>\n\n<p><strong>有研粉材：拟对全资子公司增资1.86亿元</strong></p>\n\n<p>有研粉材公告称，公司拟以自有资金对全资子公司有研泰国增资1.86亿元，增资价格为1元/元注册资本。增资完成后，有研泰国注册资本将由4.95亿泰铢增至14.2亿泰铢，资金用于雾化粉体产线建设及补充流动资金。本次增资旨在缓解有研泰国流动资金压力、优化资本结构，保障核心业务稳健运行。项目涉及中国境内ODI备案及泰国BOI投资优惠申请，可能存在审批滞后或不通过风险。</p>\n\n<p><strong>星网宇达：被暂停全军范围采购资格 短期内将对经营",
+      "link": "https://www.yicai.com/news/103391842.html",
+      "published": "Tue, 13 Oct 2026 10:24:41 GMT"
     },
     {
       "source": "证券时报",
