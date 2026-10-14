@@ -1,36 +1,127 @@
 {
   "date": "2026-10-15",
   "hour": "06",
-  "total": 13,
-  "fetched_at": "2026-10-15T06:01:01.728847+08:00",
+  "total": 22,
+  "fetched_at": "2026-10-15T06:48:15.555470+08:00",
   "news": [
     {
       "source": "同花顺",
-      "title": "富春股份：关于股票交易异常波动的公告 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YbWRiZGp4MUtLNXZGXzNUalNMMUM2cTBZVkJJLXJBbG1Ldy1Bd29lSnpMWjVwU3NrbWFQVWhwcm9Oejc0bDBHckNwSmRqcGd5eEE1aVQ3eXpPTm9HdWE2Sg?oc=5\" target=\"_blank\">富春股份：关于股票交易异常波动的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YbWRiZGp4MUtLNXZGXzNUalNMMUM2cTBZVkJJLXJBbG1Ldy1Bd29lSnpMWjVwU3NrbWFQVWhwcm9Oejc0bDBHckNwSmRqcGd5eEE1aVQ3eXpPTm9HdWE2Sg?oc=5",
-      "published": "Wed, 14 Oct 2026 21:26:56 GMT"
+      "title": "美国10年期国债期货上涨4个点",
+      "summary": "美国10年期国债期货上涨4个点，30年期上涨7个点。",
+      "link": "https://news.10jqka.com.cn/20261015/c680703772.shtml",
+      "published": "Wed, 14 Oct 2026 22:26:19 GMT"
     },
     {
       "source": "同花顺",
-      "title": "证券代码：601375 证券简称：中原证券公告编号：2026-032 中原证券股份有限公司2026年半年度权益分派实施公告 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nb0x0MWF1Rm5tYjAtMlFPVkdzN3dTR2JkTUdmMk5oQzE4YV9OWVprM3RzeEwxUWQ5M1RuMDQ5NnRxM19JbzFOS2lGWGFsS0hFc0R3NEw3a2tDVlFwWHFJc3d3?oc=5\" target=\"_blank\">证券代码：601375 证券简称：中原证券公告编号：2026-032 中原证券股份有限公司2026年半年度权益分派实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nb0x0MWF1Rm5tYjAtMlFPVkdzN3dTR2JkTUdmMk5oQzE4YV9OWVprM3RzeEwxUWQ5M1RuMDQ5NnRxM19JbzFOS2lGWGFsS0hFc0R3NEw3a2tDVlFwWHFJc3d3?oc=5",
-      "published": "Wed, 14 Oct 2026 20:46:50 GMT"
+      "title": "朝鲜试射两种潜射战略巡航导弹",
+      "summary": "据朝中社15日报道，朝鲜导弹总局14日在朝鲜东部海域进行两种潜射战略巡航导弹试射。据报道，试射旨在检查朝鲜水下战斗系统的常态化动员状态，提升海军执行战略任务能力，并有效展示战争遏制手段的可靠性和能力。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703739.shtml",
+      "published": "Wed, 14 Oct 2026 22:16:54 GMT"
     },
     {
       "source": "同花顺",
-      "title": "证券代码：600720 证券简称：中交设计公告编号：2026-043 中交设计咨询集团股份有限公司2026年半年度权益分派实施公告 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNjRXeUdybzFJcFNTUHhSbUhKdlNzNlRNQTNQejNYbjg3OEw5MWF3WWFxdE9VbUxjR1VBTWFaTEw2X1BXeEh0VWcwMkR4N0NmdVBQX2pGRWhWaFJydk1IWQ?oc=5\" target=\"_blank\">证券代码：600720 证券简称：中交设计公告编号：2026-043 中交设计咨询集团股份有限公司2026年半年度权益分派实施公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZNjRXeUdybzFJcFNTUHhSbUhKdlNzNlRNQTNQejNYbjg3OEw5MWF3WWFxdE9VbUxjR1VBTWFaTEw2X1BXeEh0VWcwMkR4N0NmdVBQX2pGRWhWaFJydk1IWQ?oc=5",
-      "published": "Wed, 14 Oct 2026 20:46:50 GMT"
+      "title": "9月份中国公路物流运价指数环比回升",
+      "summary": "中国物流与采购联合会今天公布9月份中国公路物流运价指数，指数环比回升，季节性影响因素逐步减弱，公路物流市场更趋活跃，运价温和上行。9月份，中国公路物流运价指数为105.1点，环比回升0.14%，同比回升0.06%。分车型指数看，以大宗商品及区域运输为主的整车运价指数为105.7点，环比回升0.15%，同比回升0.06%。综合来看，各车型指数环比均有所回升，同比稳中趋升。分区域看，市场呈现结构性变化，月末部分区域出现运力紧张。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703311.shtml",
+      "published": "Wed, 14 Oct 2026 22:00:26 GMT"
     },
     {
       "source": "同花顺",
-      "title": "证券代码：000973 证券简称：佛塑科技公告编号：2026-81 佛山佛塑科技集团股份有限公司2026年前三季度业绩预告 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tM2hwSXdybUYtOHNfa3ZvU1JfY01rWnJDcTB2dEFFVkdmV2IzQ2VxdnpvX0Uwb2lPb21kUmp1b1VLNWgwZWJkTzIwSUlveV8tZ3gxQm1VVjdPZkVod0tJOU9B?oc=5\" target=\"_blank\">证券代码：000973 证券简称：佛塑科技公告编号：2026-81 佛山佛塑科技集团股份有限公司2026年前三季度业绩预告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tM2hwSXdybUYtOHNfa3ZvU1JfY01rWnJDcTB2dEFFVkdmV2IzQ2VxdnpvX0Uwb2lPb21kUmp1b1VLNWgwZWJkTzIwSUlveV8tZ3gxQm1VVjdPZkVod0tJOU9B?oc=5",
-      "published": "Wed, 14 Oct 2026 20:46:50 GMT"
+      "title": "也门胡塞武装称再次袭击沙特首都机场",
+      "summary": "也门胡塞武装14日晚说，该组织向沙特阿拉伯首都利雅得的哈立德国王国际机场再次发射一枚弹道导弹，并向也门南部的政府军目标发射三枚弹道导弹。胡塞武装发言人叶海亚·萨雷亚在社交媒体发表声明说，胡塞武装使用一枚弹道导弹袭击了利雅得哈立德国王国际机场，并称导弹“精准、直接”命中目标。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703232.shtml",
+      "published": "Wed, 14 Oct 2026 21:57:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美联储戴利：通胀高于目标水平的风险依旧偏高",
+      "summary": "美联储戴利表示，通胀高于目标水平的风险依旧偏高，劳动力市场保持稳定，这让我们能够专注于维护物价稳定。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703177.shtml",
+      "published": "Wed, 14 Oct 2026 21:41:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美军称在阿曼湾摧毁一艘与伊朗有关联的帆船",
+      "summary": "美军中央司令部14日在社交媒体发布消息说，美军6日在阿曼湾摧毁了一艘与伊朗有关联的帆船。消息称，该船当时正在对美海军舰艇进行监视并定位目标。在该船被摧毁前，船上人员已被安全转移。目前，遣返工作正在进行中。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703165.shtml",
+      "published": "Wed, 14 Oct 2026 21:38:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日本计划在2030年代初实现每年30次火箭发射",
+      "summary": "日本计划在2030年代初实现每年30次火箭发射。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703159.shtml",
+      "published": "Wed, 14 Oct 2026 21:35:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "胡塞武装称击中一架沙特“台风”战斗机",
+      "summary": "当地时间15日凌晨，也门胡塞武装称击中一架沙特“台风”战斗机。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703154.shtml",
+      "published": "Wed, 14 Oct 2026 21:27:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "马自达通过改造线束产品适配机器人，将线束生产迁回本土",
+      "summary": "马自达通过改造线束产品适配机器人，将线束生产迁回本土。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703147.shtml",
+      "published": "Wed, 14 Oct 2026 21:24:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄副总理：今年俄将向全球市场供应10%—15%的柴油需求",
+      "summary": "俄罗斯副总理诺瓦克向记者表示，俄罗斯以前向全球市场供应了10%—15%的柴油需求，今年年底时也将达到大约相同的水平。诺瓦克还表示：“我们能够在年底时达到300万至350万吨的水平。这是俄罗斯以前就向全球市场供应过的水平，也就是全球需求的10%以上。”（财联社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703101.shtml",
+      "published": "Wed, 14 Oct 2026 21:19:02 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时A50期指连续夜盘收跌0.86%",
+      "summary": "富时A50期指连续夜盘收跌0.86%，报13397点。",
+      "link": "https://news.10jqka.com.cn/20261015/c680703098.shtml",
+      "published": "Wed, 14 Oct 2026 21:17:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苹果成为第二家市值突破5万亿美元的上市公司",
+      "summary": "苹果公司首次以5万亿美元的市值收盘，这一最新表现反映出市场对其全新产品线、尤其是折叠屏iPhone的乐观预期。当日苹果股价上涨0.5%，报收于342.96美元，收盘市值刚好突破5万亿美元关口。这是苹果首次实现收盘市值站稳5万亿美元，今年7月它曾在盘中短暂突破该阈值后回落。自8月的阶段低点以来，苹果股价累计涨幅已超13%。苹果是继英伟达之后，全球第二家达成这一市值里程碑的企业。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703089.shtml",
+      "published": "Wed, 14 Oct 2026 21:10:46 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "特朗普谈及伊朗：他们要求我承诺不再清除更多伊朗领导人，我向他们做出了承诺",
+      "summary": "特朗普谈及伊朗：他们要求我承诺不再清除更多伊朗领导人，我向他们做出了承诺。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703088.shtml",
+      "published": "Wed, 14 Oct 2026 21:09:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "COMEX黄金期货收跌1.2%，报4127.3美元/盎司",
+      "summary": "COMEX黄金期货收跌1.2%，报4127.3美元/盎司；COMEX白银期货跌6.26%，报55.8美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20261015/c680703080.shtml",
+      "published": "Wed, 14 Oct 2026 21:05:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国9月通胀意外升温，重新点燃了市场对美联储可能在本月加息的预期",
+      "summary": "美国9月通胀意外升温，重新点燃了市场对美联储可能在本月加息的预期。此前数周，由于美国央行官员释放出他们有时间等待的信号，一度令本月加息看起来可能性不大。美联储主席沃什曾誓言不会以自己对近期货币政策前景的看法来引导市场。但这次通胀数据意外走高令外界更加关注纽约时间周四晚间他在曼谷的发言。届时，他将与国际货币基金组织(IMF)总裁格奥尔基耶娃进行炉边谈话。由于议息会议即将到来，美联储将在本周六进入所谓的静默期。这意味着如果央行要就本次会议可能作出的利率决定释放信号，或许只能由主席沃什来传递。美银的美国利率策略师Meghan Swiber表示，投资者“等待沃什周四为美联储继续加息开绿灯”。当谈到通胀数据时，Swiber表示：“这次物价上涨的范围相当广，美联储难以对此置之不理。”（财联社）",
+      "link": "https://news.10jqka.com.cn/20261015/c680703072.shtml",
+      "published": "Wed, 14 Oct 2026 20:54:57 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "报道：Anthropic三季度收入增长至168亿美元",
+      "summary": "<p>报道：Anthropic三季度收入增长至168亿美元。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3783652",
+      "published": "Wed, 14 Oct 2026 22:11:31 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "标普500终结逾六年来最长平静期，53个交易日来首次跌超1%，AI交易退潮",
+      "summary": "<p>美股最长平静期落幕，科技巨头领跌，市场同时承压于通胀与信用风险。</p>\n<p>标普500指数周三下跌1.1%，终结了自2020年1月以来持续53个交易日无单日跌幅超1%的最长平静纪录。此次下跌由两大因素共同驱动：<strong><a href=\"https://wallstreetcn.com/articles/3783634?keyword=cpi\">美国9月CPI涨幅超预期</a>，以及市场对AI交易可持续性的疑虑持续升温。</strong></p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/6da42571-6634-4f5c-87a5-8d84f45dcbc9.png\" /></p>\n<p>科技板块首当其冲。纳斯达克100指数单日重挫2%，创7月以来最大单日跌幅；追踪\"科技七巨头\"的Magnificent Seven指数跌幅相近。半导体股指连跌第六日，累计跌幅扩大至近12%。</p>\n<p>与此同时，AI云计算服务商<a href=\"https://wallstreetcn.com/articles",
+      "link": "https://wallstreetcn.com/articles/3783648",
+      "published": "Wed, 14 Oct 2026 22:08:11 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -59,34 +150,6 @@
       "summary": "<p>富时A50期指连续夜盘收跌0.86%，报13397点。</p>",
       "link": "https://wallstreetcn.com/livenews/3178920",
       "published": "Wed, 14 Oct 2026 21:15:22 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "9月新增信贷社融双双超预期，政府债券发行提速，居民融资需求仍偏弱",
-      "summary": "<p><strong>事件：</strong>2026年9月新增人民币贷款1.08万亿，前值600亿，预期9880亿，去年同期1.29万亿；新增社融3.55万亿，前值1.66万亿，预期3.13万亿，去年同期3.53万亿；存量社融增速7.1%，前值7.2%；M2同比7.2%，预期7.5%，前值7.5%；M1同比3.2%，预期3.9%，前值4.1%。</p>\n<p><strong>核心观点：</strong>9月新增信贷社融规模双双超预期，政府债券发行加快是主要支撑；企业短期融资延续偏弱，财政相关配套融资改善拉动企业中长期贷款好转；居民短贷、中长贷均延续少增，指向地产、消费等经济内生动能仍然偏弱。此外，虽然政府债券发行加快，但从M2增速回落、财政存款同比少减来看，财政资金落地仍有待加快，政策性金融工具投放也未有明显提速。往后看，继续提示：政策短期重心应会强化抓落实、“用好用足”存量政策，包括加快政府债券、重大项目和贴息政策落地等，后续更多增量政策也应会“及时谋划”。具体到货币端，“加大逆周期调节力度”定调下，宽松还是大方向，降准降息仍有可能。短期重点关注9.28以来一揽子稳增长政策落地效果",
-      "link": "https://wallstreetcn.com/articles/3783646",
-      "published": "Wed, 14 Oct 2026 20:47:32 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "CoreWeave股债双杀！股价暴跌15%债券入困境，马斯克惊呼“吓人”",
-      "summary": "<p>AI基础设施融资模式的裂缝正在加速扩大。</p>\n<p>在通胀数据意外走热、美债收益率上行的双重压力下，数据中心运营商CoreWeave股价周三重挫逾15%，创下历史第三大单日跌幅，距历史低点仅一步之遥。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/49c55382-e54a-4730-9e4d-e5be33e48714.png\" /></p>\n<p>与此同时，该公司2032年到期债券收益率突破15%，正式进入困境区间。这场暴跌使包括CoreWeave在内的多只AI基础设施股票单日合计蒸发市值约800亿美元。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/7702eaf8-32cf-4f5d-b5c6-547b762e620c.png\" /></p>\n<p>D.A. Davidson分析师Gil Luria在播客中发出警告，称若CoreWeave无力偿还高成本债务，公司\"股权价值将归零\"。</p>\n<p>据彭博报道，Core",
-      "link": "https://wallstreetcn.com/articles/3783644",
-      "published": "Wed, 14 Oct 2026 20:47:22 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "黑石AirTrunk推迟15亿美元REIT IPO：收益率让到6%仍无人接盘，AI基建融资撞上5.2%美债利率",
-      "summary": "<p>一周之内，亚太地区三宗数据中心上市计划相继折戟，揭示出一个更深层的结构性矛盾：AI基础设施的扩张热潮建立在2024年的低利率假设之上，而当前的融资成本已回到2007年水平。</p>\n<p>据媒体报道，因<strong>\"利率走高与市场波动压制了投资者需求\"</strong>，黑石集团旗下数据中心运营商AirTrunk已决定推迟其新加坡房地产投资信托（REIT）上市计划至2027年第一或第二季度，具体视市场条件而定。原定规模约15亿美元（约合20亿新加坡元）。</p>\n<p>此次推迟的影响不仅限于一家发行人。上周英伟达支持的澳大利亚数据中心企业Firmus刚刚撤回ASX上市计划，菲律宾电信运营商PLDT旗下数据中心业务Vitro亦将其菲律宾REIT IPO推后至2027年。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/cfbdff0d-2e2f-4418-9c9e-48c7e2b9eb21.png\" /></p>\n<p>高盛分析师在最新报告中预测澳新地区数字基础设施将迎来500亿至650亿澳元的资本支出",
-      "link": "https://wallstreetcn.com/articles/3783645",
-      "published": "Wed, 14 Oct 2026 20:47:11 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "行业周报：美国上周API原油库存锐减超1100万桶",
-      "summary": "<p>美国石油协会（API）数据显示，上周，<strong>美国API原油库存 -1112.3万桶</strong>，之前一周 -210万桶。</p>\n\n<p>上周API库欣原油库存 +182.3万桶，前值 +86.6万桶。</p>\n\n<p>上周API成品油汽油库存 +109.1万桶（前值 -140万桶）、馏分油库存 -145.8万桶（前值 +46.1万桶）。</p>",
-      "link": "https://wallstreetcn.com/livenews/3178908",
-      "published": "Wed, 14 Oct 2026 20:33:08 GMT"
     },
     {
       "source": "中国证券报",
