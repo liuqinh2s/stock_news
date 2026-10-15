@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
   "hour": "20",
-  "total": 57,
-  "fetched_at": "2026-10-15T20:01:08.370765+08:00",
+  "total": 69,
+  "fetched_at": "2026-10-15T20:15:07.633592+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -31,6 +31,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GT2wtb0dxZFBSY0tBTjZaOXh3TU9OOFd4U0tCRDlReUl6anRMckx5eDdydHlNSGIyUm9pUmt4bGMwVFdycmttelFYMmNsMm1pS0dZYjRnLUt6aS1mVjlsSTUySVpGdw?oc=5\" target=\"_blank\">建龙微纳：公司累计回购股份1441426股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GT2wtb0dxZFBSY0tBTjZaOXh3TU9OOFd4U0tCRDlReUl6anRMckx5eDdydHlNSGIyUm9pUmt4bGMwVFdycmttelFYMmNsMm1pS0dZYjRnLUt6aS1mVjlsSTUySVpGdw?oc=5",
       "published": "Thu, 15 Oct 2026 11:48:45 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "激智科技：2026年第二次临时股东会决议公告 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BSTYwdGNoaHYwenJEbEp2cjNNOEgxVkN4YjZoUC1leW1ha19aSFZTa21JTjVQRzQ4ZHhhTWlxREUxODl3X29PdURCUkNpZlV2ai1NVElqWHh0S1NfOXVvNVhUSS1idw?oc=5\" target=\"_blank\">激智科技：2026年第二次临时股东会决议公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BSTYwdGNoaHYwenJEbEp2cjNNOEgxVkN4YjZoUC1leW1ha19aSFZTa21JTjVQRzQ4ZHhhTWlxREUxODl3X29PdURCUkNpZlV2ai1NVElqWHh0S1NfOXVvNVhUSS1idw?oc=5",
+      "published": "Thu, 15 Oct 2026 12:13:22 GMT"
     },
     {
       "source": "东方财富",
@@ -69,13 +76,6 @@
     },
     {
       "source": "东方财富",
-      "title": "49只A股筹码大换手（10月15日） - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ycEdIUE1YN3EwZXBMQl9GeE8tMWFtSzFyWVY5amViTmxrUTdTSVY0YnFSaVFoTjZpTnBhSDNibG91eXl1NkhJRUM4UUdOakhKOTJxa2VJQnIxYjNFMzVpZEFZTHAtUQ?oc=5\" target=\"_blank\">49只A股筹码大换手（10月15日）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ycEdIUE1YN3EwZXBMQl9GeE8tMWFtSzFyWVY5amViTmxrUTdTSVY0YnFSaVFoTjZpTnBhSDNibG91eXl1NkhJRUM4UUdOakhKOTJxa2VJQnIxYjNFMzVpZEFZTHAtUQ?oc=5",
-      "published": "Thu, 15 Oct 2026 10:07:35 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "力王股份换手率26.73%，龙虎榜上机构买入914.61万元，卖出157.92万元 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xbWlGMEFFTHBkOS1LMlhJSWlLQUVlUkZNRlRCdEt2TjRQVk5NWDZOLW1rYW9KLWFCSW5DYWpkMFYtT1FqaUFyYkVWSHpPWHhHYy16NXY0d01EVFpjZW82bnIyQVBFZw?oc=5\" target=\"_blank\">力王股份换手率26.73%，龙虎榜上机构买入914.61万元，卖出157.92万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xbWlGMEFFTHBkOS1LMlhJSWlLQUVlUkZNRlRCdEt2TjRQVk5NWDZOLW1rYW9KLWFCSW5DYWpkMFYtT1FqaUFyYkVWSHpPWHhHYy16NXY0d01EVFpjZW82bnIyQVBFZw?oc=5",
@@ -90,143 +90,143 @@
     },
     {
       "source": "同花顺",
-      "title": "*ST春兴：公司签署重整投资协议，受让价1.23元/股",
-      "summary": "*ST春兴公告，公司此前启动庭外重组并公开招募重整投资人。近期，公司分别与产业投资人及财务投资人签署《重整投资协议》，产业投资人受让转增股票价格为1.23元/股，财务投资人为1.28元/股，协议需经股东会审议通过后生效。",
-      "link": "https://news.10jqka.com.cn/20261015/c680745119.shtml",
-      "published": "Thu, 15 Oct 2026 11:48:38 GMT"
+      "title": "瓦轴B：股票终止上市，2026年10月16日摘牌 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LZ3J6WFVPaC1YOHVfdFI5c1Y3LUdkcnI0bkNWanBIdFBpc2hua2llUUdRa1hWSzVLY1pwSzUtY09JbUQzOUdWVDBXM1N1a3QxRXhtTFB0XzZONXU0V1JYNjdn?oc=5\" target=\"_blank\">瓦轴B：股票终止上市，2026年10月16日摘牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LZ3J6WFVPaC1YOHVfdFI5c1Y3LUdkcnI0bkNWanBIdFBpc2hua2llUUdRa1hWSzVLY1pwSzUtY09JbUQzOUdWVDBXM1N1a3QxRXhtTFB0XzZONXU0V1JYNjdn?oc=5",
+      "published": "Thu, 15 Oct 2026 11:49:54 GMT"
     },
     {
       "source": "同花顺",
-      "title": "乌海军称袭击俄军用机场 致6架战机受损",
-      "summary": "乌克兰海军15日在社交媒体上发文称，乌海军当天凌晨使用“海王星”岸基导弹系统对俄沃罗涅日州鲍里索格列布斯克军用机场发动袭击，导致机场停放的6架俄军苏－34M战机受损。乌海军称，袭击还摧毁了俄军用于保障飞行任务的技术设备。俄国防部当天发布通报称，过去一夜，俄军继续打击乌克兰港口基础设施和船只。在对乌克兰敖德萨州的行动中，俄军打击一处用于装卸和储存乌军物资的港口，以及两艘运送军用物资的干货船。此外，过去一夜，俄防空部队在布良斯克州、别尔哥罗德州、库尔斯克州等多地拦截并击落166架乌克兰无人机。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261015/c680745080.shtml",
-      "published": "Thu, 15 Oct 2026 11:45:47 GMT"
+      "title": "富春染织：股票交易异常波动公告 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE12bHp3WmVheDQ5Sm5OQlJnRVBpMUplMXFUZ2FVTmtuMVRCQm5OODlyeFJpMUVqWXBDRW1hbVRxU1cxVUdSekRuZUEzUGZqd09DNzllSUhnYU5RWFd5cjRBZg?oc=5\" target=\"_blank\">富春染织：股票交易异常波动公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12bHp3WmVheDQ5Sm5OQlJnRVBpMUplMXFUZ2FVTmtuMVRCQm5OODlyeFJpMUVqWXBDRW1hbVRxU1cxVUdSekRuZUEzUGZqd09DNzllSUhnYU5RWFd5cjRBZg?oc=5",
+      "published": "Thu, 15 Oct 2026 12:05:16 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中华人民共和国政府和多哥共和国政府关于构建新时代中多命运共同体的联合声明",
-      "summary": "应中华人民共和国国务院总理李强邀请，多哥共和国部长会议主席福雷·埃索齐姆纳·纳辛贝于2026年10月9日至16日对中国进行正式访问。\n\n访问期间，中华人民共和国主席习近平会见福雷主席，国务院总理李强、全国人民代表大会常务委员会委员长赵乐际分别同福雷主席会谈会见。\n\n双方认为无论国际形势如何变化，中国和多哥始终保持积极稳定的友好合作关系，两国始终团结协作、聚力发展、和衷共济、互利共赢，堪称中非友好和南南合作的卓越范例。(新华社)",
-      "link": "https://news.10jqka.com.cn/20261015/c680745041.shtml",
-      "published": "Thu, 15 Oct 2026 11:42:12 GMT"
+      "title": "骏亚科技：股票交易异常波动公告 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pREQzTTVrZmliUDBOYVA1ZkVTRkljZlE5T3RTTFVNUU81WmFpbC1VQ2EyVnFOeDRrbE1NTU5JcFlTOGEwdTNwekp3V2RZYWJhM3dOT2V6TG1ZZ1V1MHJySlh3?oc=5\" target=\"_blank\">骏亚科技：股票交易异常波动公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pREQzTTVrZmliUDBOYVA1ZkVTRkljZlE5T3RTTFVNUU81WmFpbC1VQ2EyVnFOeDRrbE1NTU5JcFlTOGEwdTNwekp3V2RZYWJhM3dOT2V6TG1ZZ1V1MHJySlh3?oc=5",
+      "published": "Thu, 15 Oct 2026 11:15:03 GMT"
     },
     {
       "source": "同花顺",
-      "title": "瓦轴B：股票终止上市，2026年10月16日摘牌",
-      "summary": "瓦轴B公告，公司于2026年10月9日收到深交所终止上市决定。瓦房店轴承集团有限责任公司全面要约实施完毕后，社会公众持有的公司股份低于公司股份总数的10%，公司股权分布不再具备上市条件。公司股票将于2026年10月16日摘牌，终止上市不适用退市整理期，摘牌后将转入退市板块挂牌转让。",
-      "link": "https://news.10jqka.com.cn/20261015/c680745036.shtml",
-      "published": "Thu, 15 Oct 2026 11:42:01 GMT"
+      "title": "方正证券：2026年半年度权益分派实施，每股派现0.062元 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE95Y09kemxBZjB1czZvbnlic05Eb1RXRXNyZG9JakRhLWNreWJYcnZORW1xM1BvY2EzbkNQVWx3ZXF1UTBZMHZPdVBiM3NWakl4SjdQTHBpWW1JSk1NVWdwSkRR?oc=5\" target=\"_blank\">方正证券：2026年半年度权益分派实施，每股派现0.062元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95Y09kemxBZjB1czZvbnlic05Eb1RXRXNyZG9JakRhLWNreWJYcnZORW1xM1BvY2EzbkNQVWx3ZXF1UTBZMHZPdVBiM3NWakl4SjdQTHBpWW1JSk1NVWdwSkRR?oc=5",
+      "published": "Thu, 15 Oct 2026 12:05:32 GMT"
     },
     {
       "source": "同花顺",
-      "title": "鹏鼎控股：董事长提议以不低于人民币3亿元且不高于人民币5亿元回购公司股份",
-      "summary": "鹏鼎控股公告，公司董事长提议通过集中竞价交易方式回购公司股份，用于股权激励或员工持股计划，回购价格不高于80元/股，资金总额不低于人民币3亿元且不高于人民币5亿元，资金来源为自有资金或自筹资金。公司将根据提议制定回购方案并履行审议程序。",
-      "link": "https://news.10jqka.com.cn/20261015/c680745021.shtml",
-      "published": "Thu, 15 Oct 2026 11:40:15 GMT"
+      "title": "金禄电子：股票交易异常波动 前三季度业绩预增 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jWklRTXFicEI5ZE9fd2dSYk5SeTJvQk5UdExBcW9TVHplLTYtMWRxM0lIcHRiRFpCRWt1c0Z2ZGlNOHR3NkctRVF1bFYzaUFMRlpRcDQ1SUduRXRaSnhLaTl3?oc=5\" target=\"_blank\">金禄电子：股票交易异常波动 前三季度业绩预增</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jWklRTXFicEI5ZE9fd2dSYk5SeTJvQk5UdExBcW9TVHplLTYtMWRxM0lIcHRiRFpCRWt1c0Z2ZGlNOHR3NkctRVF1bFYzaUFMRlpRcDQ1SUduRXRaSnhLaTl3?oc=5",
+      "published": "Thu, 15 Oct 2026 11:15:08 GMT"
     },
     {
       "source": "同花顺",
-      "title": "我国航运业加快智能化绿色化转型",
-      "summary": "记者从今天（15日）在上海举行的2026北外滩国际航运论坛新闻发布会上了解到，由上海市人民政府、交通运输部共同主办的论坛将于10月20日至21日举办。本届论坛以“共同的挑战，共同的使命——共促全球航运韧性发展”为主题，将集中发布一批重磅成果，来自全球50多个国家和地区的嘉宾将围绕海上交通安全、金融保险、数字智能、绿色低碳等内容进行讨论。交通运输部介绍，我国航运领域人工智能落地应用与绿色低碳转型持续提速。自动化码头规模和技术水平保持全球领先，绿色燃料加注、零碳码头建设不断取得新突破。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261015/c680745016.shtml",
-      "published": "Thu, 15 Oct 2026 11:39:43 GMT"
+      "title": "中邮证券：给予德业股份买入评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zcnF0cjB1UW9IYTVPTU5yUTNtR2VwNG1GQl9YWURfdUFlQnhNbzUwYmEyMTFIa21mRW9Ja1NYWEk2b2E3OGdJbjVHZV9kZVdMdHpRZHR6cVBxX0l1RTRuQWZR?oc=5\" target=\"_blank\">中邮证券：给予德业股份买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zcnF0cjB1UW9IYTVPTU5yUTNtR2VwNG1GQl9YWURfdUFlQnhNbzUwYmEyMTFIa21mRW9Ja1NYWEk2b2E3OGdJbjVHZV9kZVdMdHpRZHR6cVBxX0l1RTRuQWZR?oc=5",
+      "published": "Thu, 15 Oct 2026 10:55:21 GMT"
     },
     {
       "source": "同花顺",
-      "title": "华峰化学：预计2026年前三季度净利润同比增长98.42%-118.95%",
-      "summary": "华峰化学公告，预计2026年前三季度归属于上市公司股东的净利润为29亿元～32亿元，上年同期为14.62亿元，同比增长98.42%～118.95%；扣除非经常性损益后的净利润为28.2亿元～31.2亿元，上年同期为13.43亿元，同比增长110.01%～132.35%。受产品价格上升、相关产品毛利率提升等因素影响，公司盈利能力增长。",
-      "link": "https://news.10jqka.com.cn/20261015/c680745000.shtml",
-      "published": "Thu, 15 Oct 2026 11:38:25 GMT"
+      "title": "苏州固锝：股权激励相关人员买卖股票自查无内幕交易 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QZkNOeTdmLXBRbHlicm1kUTgtSWtJdzFtcHppTDNVLU1uekFmN2Nta3V0bjd1aVRPa29CbkFpaTk2dlZqdnRNaS1jRzhtUTd6cEtqWTFqbWFKVklWVVZxM1F3?oc=5\" target=\"_blank\">苏州固锝：股权激励相关人员买卖股票自查无内幕交易</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QZkNOeTdmLXBRbHlicm1kUTgtSWtJdzFtcHppTDNVLU1uekFmN2Nta3V0bjd1aVRPa29CbkFpaTk2dlZqdnRNaS1jRzhtUTd6cEtqWTFqbWFKVklWVVZxM1F3?oc=5",
+      "published": "Thu, 15 Oct 2026 10:59:29 GMT"
     },
     {
       "source": "同花顺",
-      "title": "胡塞武装称15日未对沙特发动任何袭击",
-      "summary": "也门胡塞武装当地时间15日下午表示，当天胡塞武装未对沙特发动任何袭击。当日稍早前，沙特阿拉伯主导的多国联军发言人表示，在沙特麦地那地区拦截并摧毁一枚巡航导弹。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261015/c680744992.shtml",
-      "published": "Thu, 15 Oct 2026 11:37:52 GMT"
+      "title": "金银河：2026年第一次临时股东会决议公告 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE00RTJqdEpSQ213cFpTdHMzQWJEZEhYN05qQ3BqTF9SVHJLb1lwdUN0bXlRUXJWclBKWEJFWHViTDQ5cDZPSkpxQ2U2aUpzdnMtYlJka2tMNjQyZlo5Wkx1Mmln?oc=5\" target=\"_blank\">金银河：2026年第一次临时股东会决议公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00RTJqdEpSQ213cFpTdHMzQWJEZEhYN05qQ3BqTF9SVHJLb1lwdUN0bXlRUXJWclBKWEJFWHViTDQ5cDZPSkpxQ2U2aUpzdnMtYlJka2tMNjQyZlo5Wkx1Mmln?oc=5",
+      "published": "Thu, 15 Oct 2026 12:04:55 GMT"
     },
     {
       "source": "同花顺",
-      "title": "高盛上调Meta目标价至860美元，预计明年资本开支超2200亿美元",
-      "summary": "高盛10月14日将Meta目标价从725美元上调至860美元，维持“买入”评级。该行预计，Meta第三季度营收同比增长24.3%，2027年营收达3126.23亿美元。2027年资本开支预计达到2202.15亿美元，同比增长54.1%，较市场共识高13.1%。高盛认为，AI将继续推动Meta广告收入增长，但巨额投资也将带来成本压力。",
-      "link": "https://news.10jqka.com.cn/20261015/c680744921.shtml",
-      "published": "Thu, 15 Oct 2026 11:34:34 GMT"
+      "title": "利好！新易盛、天孚通信、佰维存储等A股公司密集公告 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yc0JkOVA2aVg2RTlWUnNFU3ZOZHljekxmaDQzMDRrNzF1MzhfeDBhTHdaZTUyQjBFM0ppRm94d0JpY0M1ak9wa2Rfa1VqcUVNQVRJb2V1TjBSTExMWVByZy1B?oc=5\" target=\"_blank\">利好！新易盛、天孚通信、佰维存储等A股公司密集公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yc0JkOVA2aVg2RTlWUnNFU3ZOZHljekxmaDQzMDRrNzF1MzhfeDBhTHdaZTUyQjBFM0ppRm94d0JpY0M1ak9wa2Rfa1VqcUVNQVRJb2V1TjBSTExMWVByZy1B?oc=5",
+      "published": "Thu, 15 Oct 2026 12:05:26 GMT"
     },
     {
       "source": "同花顺",
-      "title": "通信感知网开通运行，渤海海域5G网络覆盖率超80%",
-      "summary": "10月15日，我国自主研发建设的渤海海域通信感知网正式开通运行，综合信号覆盖率达95%，5G网络覆盖率超80%，将为各类涉海活动提供高速、稳定、可靠的宽带通信和实时感知服务，保障水上安全。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261015/c680744503.shtml",
-      "published": "Thu, 15 Oct 2026 11:29:57 GMT"
+      "title": "新易盛，拟最高10亿元回购！一批A股公司，集体宣布 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zSldRMkItZHZLUEM1bGRFREszOWpyT2NOTldTa2NSc1Vob09kRlQ5NVVWNEtjN3NvZVRWZWprb0M3VDVVY1J1LWxETkhHX09ROE8yOEx1SS1wd1FNM2NfbkRB?oc=5\" target=\"_blank\">新易盛，拟最高10亿元回购！一批A股公司，集体宣布</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zSldRMkItZHZLUEM1bGRFREszOWpyT2NOTldTa2NSc1Vob09kRlQ5NVVWNEtjN3NvZVRWZWprb0M3VDVVY1J1LWxETkhHX09ROE8yOEx1SS1wd1FNM2NfbkRB?oc=5",
+      "published": "Thu, 15 Oct 2026 11:55:18 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构：存储器价格飙升挤压其它组件成本 智能手机面临屏幕降级",
-      "summary": "韩国显示研究机构UBI Research提到，在存储器价格飙升的背景下，智能手机为其它组件留出的成本空间已显著缩小，屏幕降级成为制造商的被迫选择。对于旗舰级设备来说，存储器与显示屏幕两方面的物料成本在2025年早期时接近；而到2026年下半年，存储器的成本已占到整机的40%左右，大致是屏幕的6倍。这是存储器涨价与OLED产线折旧带来的出货价格下行两方面共同作用的结果。（科创板日报）",
-      "link": "https://news.10jqka.com.cn/20261015/c680744499.shtml",
-      "published": "Thu, 15 Oct 2026 11:29:34 GMT"
+      "title": "中邮证券：给予泰凌微买入评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wMDFJdEdyb2JjalFucElaWEZpbjNFUXZQdVIzaVo0d25iTUJIdjFYdUpYeDVkT0tHVVAzc1FSQVA1TTdHY051anF2UWlDai1fYmJDWXpkN1JTN2VidWZNODlB?oc=5\" target=\"_blank\">中邮证券：给予泰凌微买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wMDFJdEdyb2JjalFucElaWEZpbjNFUXZQdVIzaVo0d25iTUJIdjFYdUpYeDVkT0tHVVAzc1FSQVA1TTdHY051anF2UWlDai1fYmJDWXpkN1JTN2VidWZNODlB?oc=5",
+      "published": "Thu, 15 Oct 2026 10:44:28 GMT"
     },
     {
       "source": "同花顺",
-      "title": "长川科技：拟以人民币5000万元-人民币1亿元回购公司股份",
-      "summary": "长川科技公告，公司实际控制人、董事长兼总经理赵轶提议公司以自有或自筹资金回购股份，资金总额不低于人民币5000万元（含）且不超过人民币1亿元（含），回购价格不高于董事会审议通过回购方案决议前30个交易日股票交易均价的150%，拟用于股权激励或员工持股计划。",
-      "link": "https://news.10jqka.com.cn/20261015/c680744175.shtml",
-      "published": "Thu, 15 Oct 2026 11:23:50 GMT"
+      "title": "兴发集团：公司发行股份价格不得低于发行日最近一期经审计的每股净资产 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yUTh3eVYtNHFNUk1KUWlLdmh5MXFxTy1IbzNQVXFXUWZCdGlSbEpvM1hXS2FINkRSR25yYmdfbnBqYmI3MldfYjhPU1hKWXQ2WDZkQncyNnRRYllaYTEwcHNR?oc=5\" target=\"_blank\">兴发集团：公司发行股份价格不得低于发行日最近一期经审计的每股净资产</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yUTh3eVYtNHFNUk1KUWlLdmh5MXFxTy1IbzNQVXFXUWZCdGlSbEpvM1hXS2FINkRSR25yYmdfbnBqYmI3MldfYjhPU1hKWXQ2WDZkQncyNnRRYllaYTEwcHNR?oc=5",
+      "published": "Thu, 15 Oct 2026 11:15:19 GMT"
     },
     {
       "source": "同花顺",
-      "title": "美年健康：预计2026年前三季度净利润同比增长75.47%–92.83%",
-      "summary": "美年健康公告，预计2026年前三季度营业收入65.1亿元–66.5亿元，同比下降3.98%–6.00%；归母净利润盈利9100万元–1亿元，较上年同期盈利5185.99万元增长75.47%–92.83%；扣非净利润盈利8000万元–8900万元，较上年同期盈利1222.89万元增长554.19%–627.78%。本次业绩预告相关财务数据未经注册会计师审计。",
-      "link": "https://news.10jqka.com.cn/20261015/c680743977.shtml",
-      "published": "Thu, 15 Oct 2026 11:20:03 GMT"
+      "title": "影石创新：公司认为市值管理的根本在于扎实的经营业绩、核心技术壁垒与可持续的增长能力 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KR2JVRHNqWVpLckt6VENfbGJqZnlzRHRmRVJhZjh1UzdDZzN4MHpjMFU2Q2Zhc09IbHZwOTN2a0gzSDRfajhSZlRLVkR0ZVN5SFB1RnVVbjZyYzROVEtoeUh3?oc=5\" target=\"_blank\">影石创新：公司认为市值管理的根本在于扎实的经营业绩、核心技术壁垒与可持续的增长能力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KR2JVRHNqWVpLckt6VENfbGJqZnlzRHRmRVJhZjh1UzdDZzN4MHpjMFU2Q2Zhc09IbHZwOTN2a0gzSDRfajhSZlRLVkR0ZVN5SFB1RnVVbjZyYzROVEtoeUh3?oc=5",
+      "published": "Thu, 15 Oct 2026 11:55:10 GMT"
     },
     {
       "source": "同花顺",
-      "title": "俄罗斯一炼油厂遭乌大规模袭击起火",
-      "summary": "俄罗斯国防部15日说，乌克兰当天凌晨对俄梁赞州一家炼油厂发动大规模袭击，引发炼油厂火灾。俄罗斯国防部在社交媒体上发布通报说，袭击发生在当天凌晨4时至7时之间，俄防空导弹部队、歼击航空兵、陆军航空兵以及机动火力小组拦截并摧毁4枚“火烈鸟”远程巡航导弹和69架固定翼无人机。无人机残骸坠落引发炼油厂火灾。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261015/c680743933.shtml",
-      "published": "Thu, 15 Oct 2026 11:15:45 GMT"
+      "title": "苏州固锝：第九届董事会第三次临时会议决议公告 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WWDZGYy1wMUtjUGVYWHNaOHJNa0ttZk92UnF6akdTWDFrVFlDRzE3cENNNEhOM2ZLR3d5Rk5QdjdXbzJnWFdrRWFFVnNHWmRrSzJGb24zeF9tdmg1Qll2VlN3?oc=5\" target=\"_blank\">苏州固锝：第九届董事会第三次临时会议决议公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WWDZGYy1wMUtjUGVYWHNaOHJNa0ttZk92UnF6akdTWDFrVFlDRzE3cENNNEhOM2ZLR3d5Rk5QdjdXbzJnWFdrRWFFVnNHWmRrSzJGb24zeF9tdmg1Qll2VlN3?oc=5",
+      "published": "Thu, 15 Oct 2026 12:04:55 GMT"
     },
     {
       "source": "同花顺",
-      "title": "深圳发布APEC交通保障措施倡导绿色出行灵活上班",
-      "summary": "深圳15日举行新闻发布会推出一揽子APEC交通保障措施：将分区域、分时段、分路段实施临时交通管控，倡导绿色出行、居家办公、带薪休假，同时加大公共交通运力供给和调配，努力实现高标准会议服务和生产生活“双保障”。会议期间，深圳将对部分区域、道路实施临时交通管控。交通管控政策将根据会议日程梯次性发布。届时，部分主干道、高架桥、隧道及交叉路口将视情况采取交通组织调整，如单向通行、临时封闭等。除承担保障任务单位的车辆外，其余公务车和国企公车按90%比例暂停使用。同时，倡导市民自愿申报并停驶机动车，为停驶私家车的市民发放有APEC纪念意义并带一定面值的深圳通纪念卡、APEC专属纪念车贴；倡导企业在11月16日至20日会议当周，实行居家办公、带薪休假、错峰上班等灵活安排，缓解通勤压力。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261015/c680743927.shtml",
-      "published": "Thu, 15 Oct 2026 11:15:37 GMT"
+      "title": "璞泰来：关于控股股东股份质押的公告 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTVlqV3J5czhTQ0ZVSXJGc1FNd2pXTk1lbUJfNUR5MC1DUkhmZ0J0bkcyNFk0WFd5UEQ0TW5mY0pvV3p5akdxdHJDaU56M2ZCRkpnY1A2QVdENkVzbGp2YQ?oc=5\" target=\"_blank\">璞泰来：关于控股股东股份质押的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoTVlqV3J5czhTQ0ZVSXJGc1FNd2pXTk1lbUJfNUR5MC1DUkhmZ0J0bkcyNFk0WFd5UEQ0TW5mY0pvV3p5akdxdHJDaU56M2ZCRkpnY1A2QVdENkVzbGp2YQ?oc=5",
+      "published": "Thu, 15 Oct 2026 11:09:14 GMT"
     },
     {
       "source": "同花顺",
-      "title": "摩尔线程全栈算力支撑 无锡（惠山）国产智算中心一期满载运行",
-      "summary": "摩尔线程消息，由摩尔线程落地建设的无锡（惠山）国产智算中心，是无锡云边端协同生态的核心枢纽。今年6月，无锡（惠山）国产智算中心正式点亮运行，这座全新落地的本土化“AI工厂”迅速释放强大算力价值，市场需求迎来爆发式增长。仅两个月时间，中心一期部署的2000张摩尔线程MTT S5000高端GPU算力资源便实现满载运行，刷新了国内国产商用智算集群的落地提速纪录。",
-      "link": "https://news.10jqka.com.cn/20261015/c680743664.shtml",
-      "published": "Thu, 15 Oct 2026 11:07:07 GMT"
+      "title": "中信海直：每10股派0.65元，股权登记日为10月22日 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yRUpWVkVCbkxrNVY0TE5XcVdVNDNSWFlCd19pRGVEQ3lPVWVUTnV5ajJhR3JOdEZ3N1lwVGZIazZ0X2c2ZXpPaTJIZXdVamdZRWhQR1RMeTNFdktEQmNQVERR?oc=5\" target=\"_blank\">中信海直：每10股派0.65元，股权登记日为10月22日</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yRUpWVkVCbkxrNVY0TE5XcVdVNDNSWFlCd19pRGVEQ3lPVWVUTnV5ajJhR3JOdEZ3N1lwVGZIazZ0X2c2ZXpPaTJIZXdVamdZRWhQR1RMeTNFdktEQmNQVERR?oc=5",
+      "published": "Thu, 15 Oct 2026 10:16:33 GMT"
     },
     {
       "source": "同花顺",
-      "title": "存储芯片美股盘前走低 SK海力士跌近8%",
-      "summary": "美股存储芯片概念股盘前集体走低，其中SK海力士跌超7.8%，西部数据、希捷科技、闪迪及美光科技跌幅均超5%。",
-      "link": "https://news.10jqka.com.cn/20261015/c680743660.shtml",
-      "published": "Thu, 15 Oct 2026 11:06:52 GMT"
+      "title": "潍柴重机：将实施中期10派1.13元 股权登记日为10月22日 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oM1ZIVThnWU9VYlQ4anZGUWFxVU1tYVBwLXRMcUpYUHFnNTZCenB2YUNfb2tleWRGNUppWGs2elJxQzUzUzJNQWtpZ2R4WFFkZkhOQ082OEdRRDQ5VUZ4RlFn?oc=5\" target=\"_blank\">潍柴重机：将实施中期10派1.13元 股权登记日为10月22日</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oM1ZIVThnWU9VYlQ4anZGUWFxVU1tYVBwLXRMcUpYUHFnNTZCenB2YUNfb2tleWRGNUppWGs2elJxQzUzUzJNQWtpZ2R4WFFkZkhOQ082OEdRRDQ5VUZ4RlFn?oc=5",
+      "published": "Thu, 15 Oct 2026 10:16:31 GMT"
     },
     {
       "source": "同花顺",
-      "title": "亿纬锂能：预计2026年前三季度净利润50.68亿元-53.5亿元，同比增长80.00%-90.00%",
-      "summary": "亿纬锂能公告，预计2026年前三季度归属于上市公司股东的净利润为50.68亿元-53.5亿元，同比增长80.00%-90.00%；扣除非经常性损益后的净利润为38.75亿元-42.62亿元，同比增长100.00%-120.00%。预计营业收入同比增长约60%。本次业绩预告相关数据未经审计，业绩增长主要受产品迭代、服务升级、流程优化、新产能释放及新产品交付等因素推动。",
-      "link": "https://news.10jqka.com.cn/20261015/c680743654.shtml",
-      "published": "Thu, 15 Oct 2026 11:06:34 GMT"
+      "title": "经纬恒润：回购计划届满 累计5423.66万元回购占总0.7102%公司股份 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vbE8ybGMtTnZ5MDZfLWh6LVFzYzFqczRod1c1enZEU21qOS1YakFjX21Vems4S2oyYms5WDFsdzRLbjFDVjRJUXIxMWZxNDJaVV9IVjJldGpKNEdtUUJjRW9B?oc=5\" target=\"_blank\">经纬恒润：回购计划届满 累计5423.66万元回购占总0.7102%公司股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vbE8ybGMtTnZ5MDZfLWh6LVFzYzFqczRod1c1enZEU21qOS1YakFjX21Vems4S2oyYms5WDFsdzRLbjFDVjRJUXIxMWZxNDJaVV9IVjJldGpKNEdtUUJjRW9B?oc=5",
+      "published": "Thu, 15 Oct 2026 10:16:34 GMT"
     },
     {
       "source": "同花顺",
-      "title": "特斯拉上架儿童车 售价1399元",
-      "summary": "特斯拉中国官网商店上架了一款为2–6岁儿童设计的特斯拉儿童平衡车，售价为1399元。特斯拉客服人员告诉记者，目前，这款双轮平衡车已经开放预订，目前下单预计10月28日前发货。（界面新闻）",
-      "link": "https://news.10jqka.com.cn/20261015/c680743639.shtml",
-      "published": "Thu, 15 Oct 2026 11:05:48 GMT"
+      "title": "建龙微纳：已累计回购占总1.44%公司股份 支付总金额3738.96万元 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXWEw5Q0M1WnFLSDBHSmRjdzdOcUJnZUwzOU9EU3NZdjdBTTk0WkRKelFQbEhON1hvaWZVcm9sNzB5Y3N2eE9IS1NJNnZiTnZVMlV1ODgyUlN0SnM0RnRLQmdR?oc=5\" target=\"_blank\">建龙微纳：已累计回购占总1.44%公司股份 支付总金额3738.96万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXWEw5Q0M1WnFLSDBHSmRjdzdOcUJnZUwzOU9EU3NZdjdBTTk0WkRKelFQbEhON1hvaWZVcm9sNzB5Y3N2eE9IS1NJNnZiTnZVMlV1ODgyUlN0SnM0RnRLQmdR?oc=5",
+      "published": "Thu, 15 Oct 2026 10:16:34 GMT"
     },
     {
       "source": "同花顺",
-      "title": "海光信息：预计2026年前三季度净利润同比增长38.16%到51.93%",
-      "summary": "海光信息公告，预计2026年前三季度营业收入142.8亿元到155.8亿元，同比增长50.47%到64.17%；归属于母公司所有者的净利润27.1亿元到29.8亿元，同比增长38.16%到51.93%；扣非净利润24.5亿元到27.1亿元，同比增长34.86%到49.17%。公司称，国内高端芯片需求持续攀升，公司持续优化“CPU+DCU”业务布局并加大研发投入。",
-      "link": "https://news.10jqka.com.cn/20261015/c680743628.shtml",
-      "published": "Thu, 15 Oct 2026 11:05:25 GMT"
+      "title": "新易盛董事长高光荣提议8亿元至10亿元回购股份 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZN1JuTVhMWmJDdXBiY1QwT0oyUXA0VHkwMkVvUjZ4c01fb3NTX3dfOE44cnVOX3h6MlB2MWNGOG9xSGgtanlVRTRHOWZteUVZdUlTNnJsM3hLOFBUVnJKZGlB?oc=5\" target=\"_blank\">新易盛董事长高光荣提议8亿元至10亿元回购股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZN1JuTVhMWmJDdXBiY1QwT0oyUXA0VHkwMkVvUjZ4c01fb3NTX3dfOE44cnVOX3h6MlB2MWNGOG9xSGgtanlVRTRHOWZteUVZdUlTNnJsM3hLOFBUVnJKZGlB?oc=5",
+      "published": "Thu, 15 Oct 2026 11:19:29 GMT"
     },
     {
       "source": "财联社",
@@ -286,8 +286,8 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "中国人民银行行长潘功胜出席二十国集团财长和央行行长会议",
-      "summary": "<p>2026年10月15日，二十国集团（G20）在泰国曼谷召开今年第三次G20财长和央行行长会议。会议讨论了全球经济形势与展望、金融部门改革等议题。中国人民银行行长潘功胜出席会议并发言，中国人民银行副行长宣昌能参加会议。</p>\n\n<p>与会各方认为世界经济总体保持韧性，但仍面临多重风险挑战。贸易摩擦和保护主义通过影响供应链、推升通胀、扰乱市场预期等因素拖累全球经济。金融部门是实现资源有效配置和经济稳健增长的重要基础，各方支持完善金融监管框架，维护金融稳定。各方呼吁G20加强政策协调，促进全球经济增长。</p>\n<p>潘功胜指出，地缘政治冲突加剧仍是全球经济的最大不确定性。一些国家国债市场大幅波动、人工智能相关资产估值回调风险加剧了金融脆弱性。促进金融监管现代化不等于放松监管，不应损害金融体系稳定和风险抵御水平。各方应充分用好G20财金合作平台，强化宏观经济政策协同，携手应对全球性风险挑战。关于全球失衡，各方应有更全面的分析视角。不能只看经常账户，也要关注金融渠道，特别是随着全球金融一体化加深，应更加重视资本流动等金融因素对失衡的影响。全球失衡不能依靠汇率调节。汇率受经济增长、货币政",
+      "title": "潘功胜：全球失衡不能依靠汇率调节，中国人民银行将继续实施好适度宽松的货币政策",
+      "summary": "<p>二十国集团（G20）在泰国曼谷召开今年第三次G20财长和央行行长会议。会议讨论了全球经济形势与展望、金融部门改革等议题。中国人民银行行长潘功胜出席会议并发言，中国人民银行副行长宣昌能参加会议。</p>\n\n<p>潘功胜指出，地缘政治冲突加剧仍是全球经济的最大不确定性。一些国家国债市场大幅波动、人工智能相关资产估值回调风险加剧了金融脆弱性。促进金融监管现代化不等于放松监管，不应损害金融体系稳定和风险抵御水平。各方应充分用好G20财金合作平台，强化宏观经济政策协同，携手应对全球性风险挑战。关于全球失衡，各方应有更全面的分析视角。不能只看经常账户，也要关注金融渠道，特别是随着全球金融一体化加深，应更加重视资本流动等金融因素对失衡的影响。全球失衡不能依靠汇率调节。汇率受经济增长、货币政策、金融市场、地缘政治、突发风险事件等多种因素影响，与经常账户不存在简单线性关系。逆差国与顺差国应共同努力，实现全球经济动态平衡。</p>\n<p>潘功胜表示，中国经济高质量发展延续向好态势，金融市场平稳运行，经济长期向好的基本面与支撑条件没有改变。中国人民银行将继续实施好适度宽松的货币政策，为中国经济稳定增长",
       "link": "https://wallstreetcn.com/livenews/3179449",
       "published": "Thu, 15 Oct 2026 11:03:22 GMT"
     },
@@ -328,7 +328,7 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "新易盛：控股股东、实际控制人、董事长提议以人民币8亿元至人民币10亿元回购股份",
+      "title": "新易盛：控股股东、实际控制人、董事长高光荣提议以人民币8亿元至人民币10亿元回购股份",
       "summary": "<p>新易盛：控股股东、实际控制人、董事长高光荣提议公司以集中竞价交易方式回购股份，回购资金总额不低于8亿元（含）且不超过10亿元（含），价格不高于董事会审议通过回购方案决议前30个交易日公司股票交易均价的150%，用于股权激励计划或员工持股计划，回购期限为自董事会审议通过回购方案之日起十二个月内。</p>",
       "link": "https://wallstreetcn.com/livenews/3179403",
       "published": "Thu, 15 Oct 2026 10:20:30 GMT"
@@ -348,25 +348,116 @@
       "published": "Thu, 15 Oct 2026 10:15:38 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "是时候抄底美债了吗？",
-      "summary": "<p style=\"text-align: left;\">AI泡沫破裂的隐忧正在重塑美债的避险逻辑。尽管美国CPI数据持续超预期，美债收益率却在本周随科技股暴跌而逆势下行，债券与股票的传统相关性出现罕见断裂。这一反常信号，正促使华尔街重新审视美债的配置价值。</p>\n<p style=\"text-align: left;\">10年期美债收益率周四下行逾10个基点至5.081%，触及三周低点，此前一日在通胀数据超预期出炉后同样未见上行，反而收平。与此同时，CoreWeave债务危机引发的AI产业链信用裂缝持续扩散——该公司2032年到期债券收益率飙升至15%以上，五年期CDS走阔135个基点，市场隐含五年期违约概率已达63%。<strong>多位分析师和投资人正重新评估AI板块整体融资风险敞口。</strong></p>\n<p style=\"text-align: left;\"><strong><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/af3c1790-5a98-458b-9096-0daa23e00d7c.png\" /",
-      "link": "https://wallstreetcn.com/articles/3783703",
-      "published": "Thu, 15 Oct 2026 10:11:49 GMT"
+      "source": "第一财经",
+      "title": "地方审计披露“两重”项目问题，资金闲置、挪用等如何解",
+      "summary": "<figure><img alt=\"地方审计披露“两重”项目问题，资金闲置、挪用等如何解\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/cbedf6b4f8de068955bd8057516f1f82.jpg\" /></figure><p>2024年、2025年和2026年用于“两重”项目建设的超长期特别国债资金分别为7000亿、8000亿、8000亿元。</p><p>中国连续三年发行超长期特别国债支持“两重”（即国家重大战略实施和重点领域安全能力建设）项目建设，对稳定经济运行、保障国家安全和增进民生福祉发挥关键作用。为了用好这笔巨额资金，多个省份审计部门对“两重”项目建设进行审计，发现一些问题。</p>\n\n<p>第一财经记者梳理发现，近期多省份审计部门披露当地2025年度预算执行和其他财政收支的审计工作报告（下称“审计报告”）中，8个省份指出“两重”项目建设存在的一些问题，包括一些地方“两重”项目谋划、储备不足，项目申报不合规，项目质量不高，审核不严；一些“两重”项目在招标、设计施工等方面不合规；有的项目建设进度滞后，存在资",
+      "link": "https://www.yicai.com/news/103395468.html",
+      "published": "Thu, 15 Oct 2026 11:59:46 GMT"
     },
     {
       "source": "第一财经",
-      "title": "今日股市1015丨沪指盘中跌穿3700点 短期是否有超跌反抽？ - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nQ1p4eXZLWkRWVHl1RGlHZ3RCWjVkMk10NzRBM1FGb1ZybUF5dmRzMXNoTTNSUF9KWFNkM3FrTlpQcEhSQzNFQXdLNnlEZVhUWWFn?oc=5\" target=\"_blank\">今日股市1015丨沪指盘中跌穿3700点 短期是否有超跌反抽？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nQ1p4eXZLWkRWVHl1RGlHZ3RCWjVkMk10NzRBM1FGb1ZybUF5dmRzMXNoTTNSUF9KWFNkM3FrTlpQcEhSQzNFQXdLNnlEZVhUWWFn?oc=5",
-      "published": "Thu, 15 Oct 2026 11:13:57 GMT"
+      "title": "食安法再大修：聚焦校园、网络食品，直面“小过重罚”争议",
+      "summary": "<figure><img alt=\"食安法再大修：聚焦校园、网络食品，直面“小过重罚”争议\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/6471bf1ae16059a84595499b728676b2.jpg\" /></figure><p>此次征求意见稿在现行法律基础上，条款从154条扩充至191条，新增37条、修订93条，从修改幅度来看是一次“大修”。</p><p>食品安全法启动又一次修订，聚焦校园食品安全、网络食品安全、“小过重罚”执法争议等民生关切，还顺应技术发展趋势，拟推动智慧监管，让数智赋能食品安全治理。</p>\n\n<p>近日，市场监管总局公布《中华人民共和国食品安全法（修订草案征求意见稿）》（下称“征求意见稿”），向社会公开征求意见。</p>\n\n<p>现行的食品安全法于2009年颁布，2015年进行了全面修订。2025年，食品安全法曾进行一次小切口修正，补齐了液态食品道路散装运输和婴幼儿配方液态乳这两方面法律上的短板缺项。</p>\n\n<p>此次征求意见稿在现行法律基础上，条款从154条扩充至191条，新增37条、",
+      "link": "https://www.yicai.com/news/103395466.html",
+      "published": "Thu, 15 Oct 2026 11:59:32 GMT"
     },
     {
       "source": "第一财经",
-      "title": "1015股市大家谈 - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LU0Y5U3RoRWRSS3FieUlMSDlqSEJXemtVZG5nVlVaRHcwMGJDMXlyUWgybEg5VFJKQV9WZFVjRFVKOXNIQlctR0NxdEpRMDJnbUdsSA?oc=5\" target=\"_blank\">1015股市大家谈</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LU0Y5U3RoRWRSS3FieUlMSDlqSEJXemtVZG5nVlVaRHcwMGJDMXlyUWgybEg5VFJKQV9WZFVjRFVKOXNIQlctR0NxdEpRMDJnbUdsSA?oc=5",
-      "published": "Thu, 15 Oct 2026 10:07:04 GMT"
+      "title": "台积电季度净利润创新高，AI需求旺盛、加速全球扩产",
+      "summary": "<figure><img alt=\"台积电季度净利润创新高，AI需求旺盛、加速全球扩产\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/1C725C03-2ACA-42E5-A6A6-8BB1E9649062.jpg\" /></figure><p>台积电董事长魏哲家表示，半导体在全球供应链中的价值将持续提升，几乎所有AI厂商都在与台积电合作。</p><p>晶圆代工厂台积电（TSM.N）交出一份高速增长的第三季度业绩。</p><p>据10月15日发布的财报，台积电今年第三季度合并收入1.49万亿新台币，同比增长50.9%，净利润7630.6亿新台币，同比增长68.7%。以美元计，该季度台积电营收467.2亿美元，同比增长41.2%，超过了此前的指引上限。</p><p>此外，台积电第三季度净利润创历史新高，营业利润率58.7%，则超过了此前56%~58%的指引上限。</p><p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" height=\"831\" src=",
+      "link": "https://www.yicai.com/news/103395458.html",
+      "published": "Thu, 15 Oct 2026 11:53:29 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "我国生成式AI用户突破7亿人，超7成用户让AI“回答问题”",
+      "summary": "<figure><img alt=\"我国生成式AI用户突破7亿人，超7成用户让AI“回答问题”\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/10/f67069ef0dddffd30e061129c1056819.jpeg\" /></figure><p>过去一年来，生成式AI从“生成信息与对话”过渡到“直接交付工作成果”。</p><p>提出一个问题或输入一段文字描述，人工智能（AI）便快速生成解答、文章、图表、图像、音乐、视频等，这种AI应用场景，对很多人来说已经不再陌生。</p>\n\n<p>中国互联网络信息中心近日发布的《生成式人工智能应用发展报告（2026）》（下称“报告”）显示，截至2026年上半年，我国生成式AI用户规模突破7亿人。截至6月，累计有988款生成式AI服务在国家网信办完成备案。</p>\n\n<p>从AI快速发展大背景看，报告称，经过收集整理已披露的企业工商信息，截至今年6月，我国AI大模型、智能体、机器人等相关企业共10740家。</p>\n\n<p>“随着AI成为全球投资热点，成立时间在三年内的初创企业占比明显提升。",
+      "link": "https://www.yicai.com/news/103395442.html",
+      "published": "Thu, 15 Oct 2026 11:49:56 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "全球经济复苏悄然“踩刹车”，AI撑起半壁贸易增量",
+      "summary": "<figure><img alt=\"全球经济复苏悄然“踩刹车”，AI撑起半壁贸易增量\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/06c3c2adcbf492fa5f0f9166c3f5543d.jpg\" /></figure><p>矛盾相互交织，使得未来一段时期全球经济增长仍将持续处于脆弱的复苏阶段，也对各国宏观政策的制定提出了更高要求。</p><p>近日，多家国际机构更新经济展望，显示全球经济复苏的脚步悄然“踩刹车”。</p>\n\n<p>10月13日，国际货币基金组织（IMF）在10月最新《全球经济展望》中，预测今年全球经济增长率为3.1%，虽然较7月时的预测略微上调0.1个百分点，但相较去年的3.5%还是显著下滑。</p>\n\n<p>无独有偶，联合国贸发会议（UNCTAD）9日发布的2026年度《贸易与发展报告》预计，2026年全球GDP增长2.6%，低于2025年2.9%的增速；其中，2026年发展中经济体经济增速预计由去年的4.7%放缓至4%。</p>\n\n<p>尽管上述机构的统计口径不一，但对于当前全球经济发展重点的风",
+      "link": "https://www.yicai.com/news/103395441.html",
+      "published": "Thu, 15 Oct 2026 11:49:37 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "英伟达撑腰，利率拆台：CoreWeave股债双杀，高杠杆算力遇考",
+      "summary": "<p>CoreWeave五年期信用违约互换利差扩大135个基点至历史新高1117个基点，市场定价隐含五年内违约概率约为63%。</p><p>与英伟达深度绑定的 AI 算力云服务商 CoreWeave 遭遇股债双杀。10月14日该股单日大跌15.46%；其2032年期无担保债券价格跌破80美分，落入困境债区间。</p><p>个股的走弱进一步拖累市场情绪，美股AI基础设施板块集体回调。截至记者最新发稿，CoreWeave盘前跌近6%。</p><p>此次市场惊慌失措的抛售，缘于美国通胀数据超预期带来的连锁反应。对于CoreWeave这类依靠持续举债、尚未盈利的企业来说，利率上行会直接抬升新增债务的利息成本。</p><p>眼下，加息预期升温、长端美债收益率走高，市场担忧，这家依靠持续举债扩张、尚未实现盈利的算力企业，后续再融资难度是否会加大？</p><p><strong>CoreWeave股债双杀，板块集体承压</strong></p><p>周三美股交易时段，CoreWeave（CRWV）股债同步遭到抛售。该股盘中大幅下挫，收盘大跌15.46%，报65.78美元；其2032年到期无担保债券同步",
+      "link": "https://www.yicai.com/news/103395415.html",
+      "published": "Thu, 15 Oct 2026 11:41:52 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "农村养老经营之困：有县城超半数机构撤并，老人需求如何匹配",
+      "summary": "<figure><img alt=\"农村养老经营之困：有县城超半数机构撤并，老人需求如何匹配\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/a476c2a8230032938cb29459b0a97691.jpg\" /></figure><p>农村养老要想可持续，轻资产、重资产都可以走通，关键在于因地制宜。</p><p>“我们还没开始合作，就已经结束了。”时至今日，云南保山中医药高等专科学校护理学院副教授周俊燕仍对去年4月的一通电话记忆犹新。电话那头，是当地县城唯一一家敬老院的负责人——她带来一个意外的消息：该市39家养老机构中有22家因入住率低、运营成本高被撤并，这家敬老院也在其列。</p>\n\n<p>这场夭折的校企合作，反映了偏远地区和农村基层普惠型养老机构的共同困境：养老机构的实际入住率偏低。</p>\n\n<p>《民政事业发展“十五五”规划》提出，到“十五五”末，养老机构护理型床位占比达到73%、养老机构中取得职业技能等级证书的养老护理员占比达到65%。</p>\n\n<p>与此同时，民政部要求省级民政部门要根据“十五五”养老服",
+      "link": "https://www.yicai.com/news/103395425.html",
+      "published": "Thu, 15 Oct 2026 11:30:09 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "零跑持续深化欧洲布局，乐道汽车两年完成20万台交付|一周车闻",
+      "summary": "<figure><img alt=\"零跑持续深化欧洲布局，乐道汽车两年完成20万台交付|一周车闻\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/90399960de3fb632534cca9752de2927.jpg\" /></figure><p>中国车企正在加速欧洲布局。</p><p><strong>【一周新事件】</strong></p>\n\n<p><strong>1</strong><strong>、零跑汽车亮相巴黎车展</strong></p>\n\n<p>10月12日，零跑汽车亮相2026巴黎国际车展，带来其迄今最全面的欧洲产品阵容，智能灵动精品轿车A05完成欧洲首秀，科技豪华旗舰SUV D19同台展出。零跑方面称，这是其品牌在欧洲规模最大的一次参展。车展现场，零跑宣布B10已在西班牙萨拉戈萨工厂正式投产，该工厂由Stellantis集团与零跑合作共建，面向欧洲市场生产整车。</p>\n\n<p><strong>一财点评：</strong>本次正式投产是零跑践行“在欧洲为欧洲”本地化战略的关键里程碑。在欧洲本土造车、服务欧洲消",
+      "link": "https://www.yicai.com/news/103395388.html",
+      "published": "Thu, 15 Oct 2026 11:18:13 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "躺着赚钱的时代结束，合资新能源还缺新的溢价故事|有点逸思",
+      "summary": "<figure><img alt=\"躺着赚钱的时代结束，合资新能源还缺新的溢价故事|有点逸思\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/9136a0e0697c5b5f3c2fd3666899f954.jpg\" /></figure><p>合资车企拼价格和配置只在20万元以下的新能源车生效。</p><p>近日，继ID.ERA 9X之后，上汽大众再次向高端新能源市场发起冲击，推出ID.ERA 8X，限时权益价20.68万元起，瞄准20万元级大五座增程SUV赛道。</p>\n\n<p>上汽大众销售与市场执行副总经理陈峰在发布会后接受媒体采访时表示，这一价格段“以新势力产品为主”，此番定价，“就是希望在这个市场里拼刺刀”。这款新车比理想L6低4.3万元，和小米澎程N70入门价格基本持平。</p>\n\n<p>为何要主动“拼刺刀”？上汽大众已经在此举措中尝到过甜头。</p>\n\n<p>今年上汽大众最走量的新能源车型，是8月成都车展上市的ID.ERA 5S。该车限时权益价8.99万元起，定价低于比亚迪秦L DM-i，配置也更有优势，市场效果立",
+      "link": "https://www.yicai.com/news/103395387.html",
+      "published": "Thu, 15 Oct 2026 11:14:50 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "第十二届上海国际自然保护周即将于10月17日启幕",
+      "summary": "<figure><img alt=\"第十二届上海国际自然保护周即将于10月17日启幕\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/ed08356b9c6f845b96e0771e10d99fba.jpg\" /></figure><p>国际交流板块为本届活动重磅内容。</p><p>第一财经今日获悉，第十二届上海国际自然保护周将于10月17日至23日举办。本届活动立足“十五五”规划开局、长江大保护实施十周年重要节点，以“科技赋能长江大保护、建设生态宜居人民城市”为主线，汇聚多方力量推出超千场科普活动，打造全龄可参与、国际化的生态科普矩阵。</p>\n\n<p>本届活动锚定两大核心主线，立足上海长江入海口区位优势，力求讲好长江大保护十年实践故事，展现江海交汇之地生态治理成效；同时发挥科技创新支撑作用，将生态保护理念融入超大城市发展，推动人与自然和谐共生的宜居城市建设。通过场景化呈现、全民化参与、国际化联动，把生态领域科技成果转化为市民可感可知的科普实践。</p>\n\n<p>国际交流板块为本届活动重磅内容。该板块围绕“科技引领绿色发展，共",
+      "link": "https://www.yicai.com/news/103395390.html",
+      "published": "Thu, 15 Oct 2026 10:58:18 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "宕机近5小时，DeepSeek发放补偿，有人领到上千元",
+      "summary": "<figure><img alt=\"宕机近5小时，DeepSeek发放补偿，有人领到上千元\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/BFF08C5D-F858-47EF-9937-F392B018A458.jpg\" /></figure><p>用户表示“补偿有诚意”。</p><p>10月15日下午，DeepSeek在官方开放平台发布通知，针对今天出现的API服务故障道歉，并给API用户发放补偿。</p><p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/10/4b00ec9e004dc49c87dfed39c84843f9.jpg\" /></p><p>从补偿方式来看，DeepSeek并未采用固定金额或统一额度，而是以用户过去一周（10.8-10.14）的实际API消费为基准进行全额返还。这意味着，不同用户获得的补偿金额将取决于各自的调用量和消费情况。",
+      "link": "https://www.yicai.com/news/103395363.html",
+      "published": "Thu, 15 Oct 2026 10:52:33 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "楼市新政，四大一线城市已全部落地",
+      "summary": "<figure><img alt=\"楼市新政，四大一线城市已全部落地\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/A9907EC6-B6E9-42D3-8B09-6C9B67CEA220.jpg\" /></figure><p>北上广深已“集齐”实施细则，商品房销售改革进入全面落地阶段。</p><p>10月15日，深圳、杭州同日发布新规，8·28新政“地方版”再落两城。</p><p>从加强预售管理、推进现房销售，到推行主办银行制、优化土地供应，一日之内，两座核心城市同步落地新政，意味着商品房销售制度变革的地方路径，正变得越来越清晰。</p><p>一线城市方面，目前北上广深已“集齐”实施细则，商品房销售改革进入全面落地阶段。</p><p><strong>一线城市补齐政策“拼图”</strong></p><p>北上广之后，深圳补齐了一线城市楼市改革的“政策拼图”。</p><p>10月15日，深圳市发布《关于贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》，从加强预售管理、推进现房销售、优化土地供应等方面落实新制度。</p",
+      "link": "https://www.yicai.com/news/103395361.html",
+      "published": "Thu, 15 Oct 2026 10:49:49 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "茶百道回应停牌调查，两年多前公开发售仅获0.5倍认购",
+      "summary": "<figure><img alt=\"茶百道回应停牌调查，两年多前公开发售仅获0.5倍认购\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/3ADFAAF1-3631-420C-ACF0-14E78D95AF6C.jpg\" /></figure><p>茶百道停盘事件还在调查之中。</p><p>茶百道（02555.HK）IPO涉嫌被人为操控一事仍在发酵。10月14日深夜，茶百道公告回应被暂停股份买卖一事，称正全力配合调查，生产经营正常。业内认为，如果调查结果认定存在造假行为，茶百道可能面临罚款、除牌甚至诉讼风险。</p>\n\n<p><strong>回应紧急停牌</strong></p>\n\n<p>10月8日，茶百道才刚刚发布H股股权激励计划，但13日却突然发布公告称，香港联交所应香港证券及期货事务监察委员会（下称香港证监会）指令，于10月13日上午起暂停股份买卖，直至另行通知为止。原因是《证券及期货（在证券市场上市）规则》第8（1）条。该条允许香港证监会在招股文件存在虚假、不完整或具误导性资料，或为维护市场秩序和投资者利益所需时，指",
+      "link": "https://www.yicai.com/news/103395336.html",
+      "published": "Thu, 15 Oct 2026 10:45:22 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "晚间公告｜10月15日这些公告有看头",
+      "summary": "<figure><img alt=\"晚间公告｜10月15日这些公告有看头\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/06198789591369f7c0caec0593c24803.jpg\" /></figure><p>以下是第一财经对一些重要公告的汇总，供投资者参考。</p><p style=\"text-align: center;\"><strong>【品大事】</strong></p>\n\n<p><strong>新亚强：董事长祁伟太辞职</strong></p>\n\n<p>新亚强公告，公司董事会于近日收到董事长祁伟太提交的书面辞职报告。祁伟太因工作调动原因，申请辞去公司董事长及董事会战略委员会委员职务，辞职后不再担任公司任何职务，其辞职报告自送达董事会之日起生效。截至公告披露日，祁伟太未持有公司股份，不存在未履行完毕的公开承诺，并已按照相关规定做好交接工作。</p>\n\n<p><strong>北汽蓝谷：控股子公司拟增资扩股引入外部投资者</strong></p>\n\n<p>北汽蓝谷公告称，公司控股子公司北汽新能源拟通过公开挂牌",
+      "link": "https://www.yicai.com/news/103395322.html",
+      "published": "Thu, 15 Oct 2026 10:35:11 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "赴港开户背后：收益、门槛与合规红线",
+      "summary": "<figure><img alt=\"赴港开户背后：收益、门槛与合规红线\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/5359c6bf-4f2b-42e2-abb8-1aac51d47f4f.jpg\" /></figure><p>一旦优惠结束，存款就回落至银行基础低利率。香港银行港元活期利率低至0.001%，收益几乎可以忽略不计。</p><p>滑动各类社交平台App可以发现，曾经刷屏的“高收益港元定存”相关内容如今已经大幅减少，只剩少量帖子还在平台留存。</p><p>这些尚存的帖子主推港元高息定存，4.8%至6%的年化收益率，还是会打动有资产保值需求的投资者。尽管不再是大规模跟风的行情，仍有部分游客借着国庆赴港的机会，咨询境外账户与高息存款相关业务。</p><p>开立港卡暗藏多重业务约束，却常常在社交平台的内容中被淡化。相关帖子着重展示存款收益，较少提及新客活动限制、资金认定要求与不断收紧的开户尽调。有香港外资银行从业人员向记者透露，目前银行新户审核门槛明显抬升，内地居民申请开立投资证券账户，必须签署声明，承诺用于",
+      "link": "https://www.yicai.com/news/103395261.html",
+      "published": "Thu, 15 Oct 2026 10:16:39 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "盛松成：美联储利率路径仍有不确定性",
+      "summary": "<figure><img alt=\"盛松成：美联储利率路径仍有不确定性\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/cd6d82f27b65ac2807acb4fa6a66aca5.jpg\" /></figure><p>可考虑抓住10-12月窗口期前置发力逆周期调控。</p><p>自2026年9月16日美联储全票通过加息25个基点至3.75%-4.00%以来，市场对美联储未来加息预期变动较大。受能源价格影响，市场对<strong>10</strong>月加息概率的定价一度接近<strong>65%</strong>左右（9月下旬），而随着最新公布的<strong>9</strong>月新增非农就业数据回落，加息预期又出现明显降温。10月14日美国9月物价数据公布后，CME“美联储观察”工具数据显示，美联储10月加息25个基点的概率从此前的20%左右提高至50%左右。</p>\n\n<p>我们认为，后续美联储利率路径仍有不确定性，考虑到就业市场降温和中期选举等对美联储激进加息的制约因素，<strong>10</strong>月或为",
+      "link": "https://www.yicai.com/news/103395303.html",
+      "published": "Thu, 15 Oct 2026 10:15:42 GMT"
     },
     {
       "source": "证券时报",
@@ -395,13 +486,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UUhPUzYxTGRNTnRxcy00Nldaa2EyUFFqQ1ZkZXI2NGp3ejFVYWtWWE0yd2xRc1hjM0FhaWJiYW1OdlVoZ29aN29LZjlCX2ZFaGpMWlhlQWhPMnJNYUpVdw?oc=5\" target=\"_blank\">每日看盘｜急跌中渐现抄底资金身影，A股已迎来企稳契机</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UUhPUzYxTGRNTnRxcy00Nldaa2EyUFFqQ1ZkZXI2NGp3ejFVYWtWWE0yd2xRc1hjM0FhaWJiYW1OdlVoZ29aN29LZjlCX2ZFaGpMWlhlQWhPMnJNYUpVdw?oc=5",
       "published": "Thu, 15 Oct 2026 10:50:00 GMT"
-    },
-    {
-      "source": "行业研报",
-      "title": "中邮证券：给予德业股份买入评级_券商研报_数据解析 - 证券之星",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE12VkMwWnBJRVcyeG9uRDM1UTVkMWhEWEhRVTJ0RFl6TlBrM1RSd3VpVmM3eFFlOWJZZWF1Q20tNElLTHRIV296aVM3Nm5Ya3QtSXZvcFNzcjVmRTJ0Q3BJWUtn?oc=5\" target=\"_blank\">中邮证券：给予德业股份买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12VkMwWnBJRVcyeG9uRDM1UTVkMWhEWEhRVTJ0RFl6TlBrM1RSd3VpVmM3eFFlOWJZZWF1Q20tNElLTHRIV296aVM3Nm5Ya3QtSXZvcFNzcjVmRTJ0Q3BJWUtn?oc=5",
-      "published": "Thu, 15 Oct 2026 10:14:00 GMT"
     }
   ]
 }
