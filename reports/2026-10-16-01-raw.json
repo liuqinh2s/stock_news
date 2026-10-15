@@ -1,9 +1,79 @@
 {
   "date": "2026-10-16",
   "hour": "01",
-  "total": 24,
-  "fetched_at": "2026-10-16T01:01:06.154453+08:00",
+  "total": 22,
+  "fetched_at": "2026-10-16T01:27:35.571710+08:00",
   "news": [
+    {
+      "source": "东方财富",
+      "title": "亚太股市集体调整 沪指盘中考验3700点 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRZGdrZnhHZ3VXLTRxdVdGa0FSS1FEbUw1SVh0UGFkSVFHLVVzaXpuTDk5TWV0T2U0R00tbkREVEw4V1hIQXhseE5KYjFZWUhDUXRlUlZMNEJYTnBPMXhPZU8xbmxZUQ?oc=5\" target=\"_blank\">亚太股市集体调整 沪指盘中考验3700点</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRZGdrZnhHZ3VXLTRxdVdGa0FSS1FEbUw1SVh0UGFkSVFHLVVzaXpuTDk5TWV0T2U0R00tbkREVEw4V1hIQXhseE5KYjFZWUhDUXRlUlZMNEJYTnBPMXhPZU8xbmxZUQ?oc=5",
+      "published": "Thu, 15 Oct 2026 17:12:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "CoreWeave股价转账，此前一度跌9.5%",
+      "summary": "CoreWeave股价转账，此前一度跌9.5%。",
+      "link": "https://news.10jqka.com.cn/20261016/c680750185.shtml",
+      "published": "Thu, 15 Oct 2026 17:22:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ANTHROPIC：METR将发布Anthropic AI模型的风险评估结果。",
+      "summary": "ANTHROPIC：METR将发布Anthropic AI模型的风险评估结果。",
+      "link": "https://news.10jqka.com.cn/20261016/c680750183.shtml",
+      "published": "Thu, 15 Oct 2026 17:21:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伦敦股市15日上涨",
+      "summary": "英国伦敦股市《金融时报》100种股票平均价格指数15日报收于10840.35点，较前一交易日上涨115.49点，涨幅为1.08%。欧洲三大股指当天全线上涨。当天伦敦股市成分股中位于涨幅前五位的个股分别为：市场征信服务商益博睿股价上涨5.90%，软件公司赛奇股价上涨5.64%，餐饮服务公司金巴斯集团股价上涨4.40%，约翰-戴维运动时装公司股价上涨4.32%，英国电信集团股价上涨4.26%。当天伦敦股市成分股中位于跌幅前五位的个股分别为：信息技术服务公司康普塔森特股价下跌5.58%，极地资本科技信托公司股价下跌4.65%，矿业公司安托法加斯塔股价下跌4.09%，工程公司韦尔集团股价下跌3.97%，伊萨卡能源公司股价下跌2.41%。欧洲其他两大主要股指方面，法国巴黎股市CAC40指数报收于7934.7点，较前一交易日上涨61.59点，涨幅为0.78%；德国法兰克福股市DAX指数报收于25382.62点，较前一交易日上涨84.01点，涨幅为0.33%。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261016/c680750181.shtml",
+      "published": "Thu, 15 Oct 2026 17:18:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Perplexity AI的安全软件现已开源",
+      "summary": "Perplexity AI的安全软件现已开源。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20261016/c680750177.shtml",
+      "published": "Thu, 15 Oct 2026 17:13:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美货运“龙”飞船与国际空间站对接",
+      "summary": "美国太空探索技术公司的货运“龙”飞船15日抵达国际空间站，为空间站运送约2860公斤科研设备和补给物资。据美航空航天局介绍，美国东部时间15日10时27分（北京时间15日22时27分），“龙”飞船与空间站完成自动对接。飞船计划在空间站停留至11月中旬，随后携科研成果和其他货物返回地球。“龙”飞船于美国东部时间13日6时33分（北京时间13日18时33分）左右，搭乘“猎鹰9”火箭从佛罗里达州卡纳维拉尔角太空军基地发射升空。这是太空探索技术公司为美航空航天局执行的第35次国际空间站补给任务。据介绍，此次任务运送的货物包括太阳能电池阵列、以及用于在微重力环境下制造人工视网膜的设备和三维心脏组织模型等科研载荷。这些科研设备旨在推进相关疾病治疗研究、药物测试及其他生物医学研究。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261016/c680750176.shtml",
+      "published": "Thu, 15 Oct 2026 17:11:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Meta发布开源AI模型",
+      "summary": "Meta平台公司正开放其Muse Spark开源模型的权重文件，供开发者下载和二次修改，同时保留自身最先进的AI技术不予公开。Meta首席AI官Alexandr Wang表示，公司原则上不会对最强性能的模型进行开源，但会持续向开发者社区开放性能稍低的模型版本。本次Muse Spark Open的发布，是Meta将AI领域投入转化为实际营收的举措之一，目前该模型已在亚马逊SageMaker AI、谷歌云Model Garden等多个平台向开发者开放。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261016/c680750170.shtml",
+      "published": "Thu, 15 Oct 2026 17:05:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苹果与Meta合作，使MuseAI模型可在Mac电脑上运行",
+      "summary": "苹果与Meta合作，使MuseAI模型可在Mac电脑上运行。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261016/c680750169.shtml",
+      "published": "Thu, 15 Oct 2026 17:05:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Adobe与英伟达扩大合作协议，加速智能体驱动的创作",
+      "summary": "Adobe与英伟达扩大合作协议，加速智能体驱动的创作。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261016/c680750163.shtml",
+      "published": "Thu, 15 Oct 2026 17:02:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "LME金属期货收盘普跌",
+      "summary": "LME金属期货收盘普跌，LME期铜收跌144美元，报14347美元/吨。LME期铝收平，报2987美元/吨。LME期锌收跌54美元，报3664美元/吨。LME期铅收跌16美元，报1881美元/吨。LME期镍收跌289美元，报15221美元/吨。LME期锡收跌321美元，报50125美元/吨。LME期钴收跌2530美元，报36815美元/吨。",
+      "link": "https://news.10jqka.com.cn/20261016/c680750146.shtml",
+      "published": "Thu, 15 Oct 2026 16:58:00 GMT"
+    },
     {
       "source": "同花顺",
       "title": "乌克兰军队“星链”服务已恢复",
@@ -82,95 +152,11 @@
       "published": "Thu, 15 Oct 2026 16:09:47 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "也门胡塞武装再次警告沙特领空和机场“不安全”",
-      "summary": "也门胡塞武装发言人叶海亚·萨雷亚15日再次警告称，沙特阿拉伯领空和机场“不安全”，但麦加与麦地那除外。萨雷亚当天在社交媒体发表声明称，胡塞武装此前已多次向各航空公司发出类似警告，并有能力对沙特针对胡塞武装控制区的军事行动采取“对等回应”。他还称，胡塞武装的军事行动属于防御性质，在沙特停止对也门胡塞武装控制区的袭击和封锁前，相关行动将持续。当天早些时候，萨雷亚在另一份声明中说，该组织当天没有对沙特境内发动任何袭击，沙特有关麦地那遭袭的说法不实。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261016/c680749885.shtml",
-      "published": "Thu, 15 Oct 2026 16:03:01 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "房地美称，美国房贷利率持稳于7.4%",
-      "summary": "房地美称，美国房贷利率持稳于7.4%。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20261016/c680749861.shtml",
-      "published": "Thu, 15 Oct 2026 16:00:48 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国至10月9日当周EIA俄克拉荷马州库欣原油库存 186.2万桶，前值44.4万桶",
-      "summary": "美国至10月9日当周EIA俄克拉荷马州库欣原油库存 186.2万桶，前值44.4万桶。",
-      "link": "https://news.10jqka.com.cn/20261016/c680749858.shtml",
-      "published": "Thu, 15 Oct 2026 16:00:37 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "也门官员称胡塞武装袭击亚丁总统府致3人死亡",
-      "summary": "亚丁消息：一名也门政府官员15日告诉新华社记者，胡塞武装当天向也门南部临时首都亚丁的总统府发射6枚弹道导弹，造成至少3名安保人员死亡、6人受伤。这名官员说，袭击发生时，也门总理沙亚·穆赫辛·津达尼正在总统府主持政府会议，大多数内阁成员和其他官员出席。亚丁当地居民告诉新华社记者，他们听到总统府周边传出6次剧烈爆炸声，随后该地区升起浓烟。胡塞武装发言人叶海亚·萨雷亚随后发表声明称，对亚丁“沙特敌方军事行动指挥部”的袭击“属于既定范畴，是合法打击”。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261016/c680749855.shtml",
-      "published": "Thu, 15 Oct 2026 16:00:25 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "因凡蒂诺在国际足联理事会会议道歉 仍面临下台压力",
-      "summary": "当地时间15日，国际足联理事会会议在苏黎世举行，这是国际足联主席因凡蒂诺推动的世界杯商业计划曝光后的首次理事会会议。在会议中，向私人资本出售世界杯权益的商业计划、美国前锋巴洛贡的红牌禁赛被缓期执行以及国际足联成员协会的资金分配等焦点问题都被提及。据与会的欧洲代表透露，因凡蒂诺就其世界杯出售计划道歉，他对未能早些向理事会通报该计划表示遗憾，但因凡蒂诺并未提供欧洲方面要求公开的相关文件、通信和决策记录等。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261015/c680749846.shtml",
-      "published": "Thu, 15 Oct 2026 15:58:04 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "沙特领导的联盟称在哈米斯穆沙伊特拦截了一架无人机",
-      "summary": "沙特领导的联盟称在哈米斯穆沙伊特拦截了一架无人机。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20261015/c680749843.shtml",
-      "published": "Thu, 15 Oct 2026 15:55:55 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "罗马尼亚：北约将在未来几天讨论黑海局势",
-      "summary": "罗马尼亚：北约将在未来几天讨论黑海局势。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20261015/c680749840.shtml",
-      "published": "Thu, 15 Oct 2026 15:55:29 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "马杜罗在纽约出庭受审",
-      "summary": "马杜罗在纽约出庭受审。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261015/c680749824.shtml",
-      "published": "Thu, 15 Oct 2026 15:47:20 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "普京：近期炼油厂袭击未造成重大损失",
-      "summary": "普京：近期炼油厂袭击未造成重大损失。（新浪财经）",
-      "link": "https://news.10jqka.com.cn/20261015/c680749814.shtml",
-      "published": "Thu, 15 Oct 2026 15:45:04 GMT"
-    },
-    {
       "source": "财联社",
       "title": "道琼斯指数涨幅扩大至1% 30只成分股中24只上涨 - 手机网易网",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXM3RKRnFYamRPQXY0UzV5amlqaFMwTUdtUVBsdHVNc3c0Q3F0Wl9wbDhnYlVnQjJfVEVyXzltcXl2R2dMcWV3RHAtR3pZT2RjemNyRk93SUpsSmdWSHluYTB3?oc=5\" target=\"_blank\">道琼斯指数涨幅扩大至1% 30只成分股中24只上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机网易网</font>",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXM3RKRnFYamRPQXY0UzV5amlqaFMwTUdtUVBsdHVNc3c0Q3F0Wl9wbDhnYlVnQjJfVEVyXzltcXl2R2dMcWV3RHAtR3pZT2RjemNyRk93SUpsSmdWSHluYTB3?oc=5",
       "published": "Thu, 15 Oct 2026 15:34:17 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "普京：将对乌攻击俄能源和物流设施作出回应",
-      "summary": "<p>10月15日，俄罗斯总统普京在与本国工商界人士交流时表示，俄方将对乌克兰发起的、针对俄炼油厂及其他物流、能源设施的攻击作出回应。他说，乌克兰一直在破坏俄罗斯的能源设施，对系列炼油厂的袭击虽未造成实质损失，但袭击未曾停止。针对电商平台的相关设施，也是乌方首先发起攻击的。俄方将对上述攻击进行回应。普京指出，乌克兰当局在做出打击俄方电商平台和其他设施之前，应该考虑到此举将造成的后果。（央视）</p>",
-      "link": "https://wallstreetcn.com/livenews/3179620",
-      "published": "Thu, 15 Oct 2026 16:20:55 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "纳斯达克警告：网络中断正在影响股市",
-      "summary": "<p>纳斯达克公司周四向客户发出警告称，由于遭遇网络中断，客户可能会在股票市场数据方面出现缺失。</p>\n\n<p>根据其官网发布的系统状态消息，该公司旗下所有美国股票市场——包括纳斯达克、纳斯达克得克萨斯和纳斯达克PSX——均受到各数据源影响。</p>\n\n<p>纳斯达克在更新中表示：“建议客户使用芝加哥数据源作为备用，因为芝加哥目前未受影响。遇到数据缺失的客户还应提交缺失数据的恢复请求。”</p>\n\n<p>该更新称，此次问题源于新泽西州卡特雷特的一处设施。</p>",
-      "link": "https://wallstreetcn.com/livenews/3179589",
-      "published": "Thu, 15 Oct 2026 15:30:08 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "黄仁勋称，CoreWeave的实力每天都在增强，资本成本“实际上在降低”。 周四，CoreWeave信用风险指标创纪录，隐含违约概率达60%",
-      "summary": "<p>黄仁勋称，CoreWeave的实力每天都在增强，资本成本“实际上在降低”。\n周四，CoreWeave信用风险指标创纪录，隐含违约概率达60%</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3783724",
-      "published": "Thu, 15 Oct 2026 15:10:40 GMT"
     }
   ]
 }
