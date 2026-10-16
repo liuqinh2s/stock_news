@@ -1,9 +1,16 @@
 {
   "date": "2026-10-16",
   "hour": "15",
-  "total": 27,
-  "fetched_at": "2026-10-16T15:00:59.667730+08:00",
+  "total": 17,
+  "fetched_at": "2026-10-16T15:37:20.507269+08:00",
   "news": [
+    {
+      "source": "东方财富",
+      "title": "湾芯展批量新品集中亮相，国产半导体设备竞逐高端化，半导体ETF博时(159582)跟踪指数盘中最高涨超2% - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE93N3FBNkQ3UXBkLXBNXzZEQ0JjVDB2WUJxbTVzVHpkc0VSNWtFMGpsWmFDOElyX0Q3eXh1aFFNY3VieWhBdFpVMGlKODY0c2NxRHI0SWNwWl9pdzctWEVYQ1ZQZ2IwQQ?oc=5\" target=\"_blank\">湾芯展批量新品集中亮相，国产半导体设备竞逐高端化，半导体ETF博时(159582)跟踪指数盘中最高涨超2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93N3FBNkQ3UXBkLXBNXzZEQ0JjVDB2WUJxbTVzVHpkc0VSNWtFMGpsWmFDOElyX0Q3eXh1aFFNY3VieWhBdFpVMGlKODY0c2NxRHI0SWNwWl9pdzctWEVYQ1ZQZ2IwQQ?oc=5",
+      "published": "Fri, 16 Oct 2026 06:03:52 GMT"
+    },
     {
       "source": "东方财富",
       "title": "614只股短线走稳 站上五日均线 - 东方财富",
@@ -20,10 +27,24 @@
     },
     {
       "source": "同花顺",
-      "title": "机构评级|东吴证券给予光迅科技“买入”评级 未给出目标价 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JYlpOd1ZhYmVjQlgtU3VzbTk0MTFNdkF4YzNQdVJ4LXZ6YUpuczhpZEppTm8zNFdaRzF5bnhWX1diVEhITlhOVm1YLW91NUR0dDNHc2lUano0UTNYR2hjVWln?oc=5\" target=\"_blank\">机构评级|东吴证券给予光迅科技“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1JYlpOd1ZhYmVjQlgtU3VzbTk0MTFNdkF4YzNQdVJ4LXZ6YUpuczhpZEppTm8zNFdaRzF5bnhWX1diVEhITlhOVm1YLW91NUR0dDNHc2lUano0UTNYR2hjVWln?oc=5",
-      "published": "Fri, 16 Oct 2026 05:28:31 GMT"
+      "title": "银华专精特新量化优选股票发起式A持仓股澳弘电子跌6.61% - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UZ1ZnbHM5N05sREZySDgzbGpUQlljTXNNZXV6YXNJRS1pV1plbEJ4TUFGdTg0Si1yaEtNTkR6Nm5JV0Z5MDNJamVKM2VsdWlPLVBPS1Z4b3FhSFI2Slp0ZA?oc=5\" target=\"_blank\">银华专精特新量化优选股票发起式A持仓股澳弘电子跌6.61%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UZ1ZnbHM5N05sREZySDgzbGpUQlljTXNNZXV6YXNJRS1pV1plbEJ4TUFGdTg0Si1yaEtNTkR6Nm5JV0Z5MDNJamVKM2VsdWlPLVBPS1Z4b3FhSFI2Slp0ZA?oc=5",
+      "published": "Fri, 16 Oct 2026 07:28:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "未来有望持续受益于下游需求扩张，华龙证券：维持浪潮信息“增持”评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONEQ1QXZwZkNsNTJxb3VLWkJSYkh4Zm5QTnhUZnlocDhYLXFTMV83SFRRWDRPRWptT1djZnE1RGdpbkhncHRYWmJZQWJFN0ZrRFZESC1WcTB1TmJkOTFodld3?oc=5\" target=\"_blank\">未来有望持续受益于下游需求扩张，华龙证券：维持浪潮信息“增持”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ONEQ1QXZwZkNsNTJxb3VLWkJSYkh4Zm5QTnhUZnlocDhYLXFTMV83SFRRWDRPRWptT1djZnE1RGdpbkhncHRYWmJZQWJFN0ZrRFZESC1WcTB1TmJkOTFodld3?oc=5",
+      "published": "Fri, 16 Oct 2026 07:33:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "尾盘抄底资金涌入 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBCN3A3Z3VSZWZqa2hvRFdqRXAxMUdJajFRQ0hrZFJiZl9OdmlKeFJraVJSdU5KUzVjMEpEREZVc3hzTUVDcFZ1TG0yVFd0bGhwNFRyMmZDQ2RFcV9RNzdoNzZpSzNuLVduX3pJeDdR?oc=5\" target=\"_blank\">尾盘抄底资金涌入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCN3A3Z3VSZWZqa2hvRFdqRXAxMUdJajFRQ0hrZFJiZl9OdmlKeFJraVJSdU5KUzVjMEpEREZVc3hzTUVDcFZ1TG0yVFd0bGhwNFRyMmZDQ2RFcV9RNzdoNzZpSzNuLVduX3pJeDdR?oc=5",
+      "published": "Fri, 16 Oct 2026 07:16:01 GMT"
     },
     {
       "source": "同花顺",
@@ -34,10 +55,10 @@
     },
     {
       "source": "同花顺",
-      "title": "300492拟更名，一度“20cm”涨停！ - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vM1g0TVdKbk41dUwwUkJsT3pyUzF6eVloZWxsWE01Z016aVJwS1d3UU1QdHBXS0JkcGRQaUFiNFlaSllqaUs4eHI1RVJxYmVySE5IVUQxU2owWjlvczJuS3VB?oc=5\" target=\"_blank\">300492拟更名，一度“20cm”涨停！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vM1g0TVdKbk41dUwwUkJsT3pyUzF6eVloZWxsWE01Z016aVJwS1d3UU1QdHBXS0JkcGRQaUFiNFlaSllqaUs4eHI1RVJxYmVySE5IVUQxU2owWjlvczJuS3VB?oc=5",
-      "published": "Fri, 16 Oct 2026 05:18:29 GMT"
+      "title": "来水改善参股资产贡献明显回升，长江证券维持川投能源“买入”评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSjFucHlpaW52U3RiMThibE9TT0NkTVQ3NUxlLVFERjlhNHYtbE8zUi16RHUyalZVUjlfRE1KUFNfOFk2Q1ZRZUQxUlFJUzQ1cUdrMHl1SHFyeVc5dlp6WXd3?oc=5\" target=\"_blank\">来水改善参股资产贡献明显回升，长江证券维持川投能源“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSjFucHlpaW52U3RiMThibE9TT0NkTVQ3NUxlLVFERjlhNHYtbE8zUi16RHUyalZVUjlfRE1KUFNfOFk2Q1ZRZUQxUlFJUzQ1cUdrMHl1SHFyeVc5dlp6WXd3?oc=5",
+      "published": "Fri, 16 Oct 2026 07:19:12 GMT"
     },
     {
       "source": "同花顺",
@@ -55,17 +76,24 @@
     },
     {
       "source": "同花顺",
-      "title": "完备产品体系彰显成长动力，东吴证券维持光迅科技“买入”评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QdTBCRm1NMHozOGhpODhFLW5YcTJLdS1ISkF6bzVkdHpKSG5tanNvckNGSlN0SW5PcmwtTko0MFNjOVhPRnVmMkx5cm1CRnpJZ3UxQ2NCUE00WXFRNE10NjJn?oc=5\" target=\"_blank\">完备产品体系彰显成长动力，东吴证券维持光迅科技“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QdTBCRm1NMHozOGhpODhFLW5YcTJLdS1ISkF6bzVkdHpKSG5tanNvckNGSlN0SW5PcmwtTko0MFNjOVhPRnVmMkx5cm1CRnpJZ3UxQ2NCUE00WXFRNE10NjJn?oc=5",
-      "published": "Fri, 16 Oct 2026 05:33:32 GMT"
+      "title": "地产股，批量涨停！ - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE52LTJsamVnUE10SElzWlk5c0ZlNG5IU182TmxzeXdYUnRESmthVldnOTRuODFFY3pQV1pPMXZxQWU1V2x5eDY2XzJtWEI2QlBUSy1WMnVsYXlGM2pWcjdYVVNB?oc=5\" target=\"_blank\">地产股，批量涨停！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE52LTJsamVnUE10SElzWlk5c0ZlNG5IU182TmxzeXdYUnRESmthVldnOTRuODFFY3pQV1pPMXZxQWU1V2x5eDY2XzJtWEI2QlBUSy1WMnVsYXlGM2pWcjdYVVNB?oc=5",
+      "published": "Fri, 16 Oct 2026 07:31:36 GMT"
     },
     {
       "source": "同花顺",
-      "title": "地产股，批量涨停！ - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HUkNoN2IxX0Jxd3h0aUZ4WktBbTJCMWg2dnBMWm56NXhTb3A3YS1VbFNLeV81SzdzWFhTNVRGVEhKOW83OWJDa1JyandnLTQtLWJCRjU3ODZHUlQ0RnNsRzh3?oc=5\" target=\"_blank\">地产股，批量涨停！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HUkNoN2IxX0Jxd3h0aUZ4WktBbTJCMWg2dnBMWm56NXhTb3A3YS1VbFNLeV81SzdzWFhTNVRGVEhKOW83OWJDa1JyandnLTQtLWJCRjU3ODZHUlQ0RnNsRzh3?oc=5",
-      "published": "Fri, 16 Oct 2026 06:01:26 GMT"
+      "title": "AI全链平台价值重估，华创证券：首予东阳光“推荐”评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaOTBHVkhxaG5rZG15ZnFhMm52MEZXUUFudFhudFkyRkUyYjJTZkhXODRCazV5VHZWM1J2bkVxVmdUV00zX1dpdnBHaGtMdnl1X0VHYnFmaDRDX3JTZ0xpcmJB?oc=5\" target=\"_blank\">AI全链平台价值重估，华创证券：首予东阳光“推荐”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaOTBHVkhxaG5rZG15ZnFhMm52MEZXUUFudFhudFkyRkUyYjJTZkhXODRCazV5VHZWM1J2bkVxVmdUV00zX1dpdnBHaGtMdnl1X0VHYnFmaDRDX3JTZ0xpcmJB?oc=5",
+      "published": "Fri, 16 Oct 2026 07:33:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "莫森泰克上市第2日跌3成领跌A股 募2.95亿国投证券保荐 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3NXFBSjF1Mk1mU0d3YllxWXdrckg3cXhSUjIyNDBSVThSakRqUzVEX3dpa3RrS3JTYnZxX2ZyZmZfUjdDQWdXVzVyTzZxQm82eUFfQUhvbEtEVlpPYmZLTmVn?oc=5\" target=\"_blank\">莫森泰克上市第2日跌3成领跌A股 募2.95亿国投证券保荐</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3NXFBSjF1Mk1mU0d3YllxWXdrckg3cXhSUjIyNDBSVThSakRqUzVEX3dpa3RrS3JTYnZxX2ZyZmZfUjdDQWdXVzVyTzZxQm82eUFfQUhvbEtEVlpPYmZLTmVn?oc=5",
+      "published": "Fri, 16 Oct 2026 07:31:49 GMT"
     },
     {
       "source": "同花顺",
@@ -83,115 +111,17 @@
     },
     {
       "source": "华尔街见闻",
-      "title": "Anthropic信用评级曝光：BB+，最高级别的垃圾级信用评级",
-      "summary": "<p>AI独角兽Anthropic的信用评级首次浮出水面。</p>\n<p>据英国《金融时报》获得的文件显示，信用评级机构Kroll Bond Rating Agency（KBRA）于今年6月授予Anthropic BB+发行人评级——即最高级别的投机级（垃圾级）评分，仅比投资级低一档。该评级在Anthropic完成一笔由Apollo主导、规模达350亿美元的芯片融资交易之前获得，此前从未公开披露。</p>\n<p>这一评级对Anthropic的融资前景具有直接影响。华尔街各大银行正在筹备一笔600亿美元的新债务方案，以帮助Anthropic收购更多由谷歌和博通联合开发的定制AI芯片，其中包括180亿美元的次级债务。<strong>能否跨越投资级门槛，将决定Anthropic能否以更低成本接触寿险公司、养老基金等更广泛的机构投资者群体。</strong></p>\n<div>\n<h2 id=\"2ad4a7a\">评级细节：有限信披下的\"风险评分\"</h2>\n</div>\n<p>KBRA授予的BB+评级附有稳定展望，针对的是350亿美元融资包中约44亿美元的次级债务——这部分债务将投资者直接暴露",
-      "link": "https://wallstreetcn.com/articles/3783771",
-      "published": "Fri, 16 Oct 2026 06:47:27 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "三部门：进一步完善价格形成机制 推动普惠养老服务提质扩面",
-      "summary": "<p>国家发展改革委、民政部、国家卫生健康委发布《关于进一步完善价格形成机制 推动普惠养老服务提质扩面的指导意见》。其中提出，省级民政部门会同相关部门统筹推进养老机构分类改革，清晰划定各类机构范围，制定普惠支持型养老机构的具体认定办法。地级及以上地方人民政府民政部门会同相关部门负责认定具体工作，加大对普惠养老服务设施建设和场地供给等支持力度，推动将闲置公共服务设施改建为养老服务设施，以公建公营、公建民营等方式扩大普惠养老服务。</p>\n<p>指导兜底保障型养老机构积极向社会开放空余床位，提供普惠服务，建立健全收入管理和绩效激励制度；鼓励完全市场型养老机构提供普惠服务，并结合地方实际给予相应政策支持；指导各类养老服务机构保障普惠服务质量，严格遵守相关政策规定和强制性标准，不断提高生活照料、康复护理等基础服务水平，提升安全管理、风险防控、纠纷解决的能力。加强国有经济在养老服务领域布局，中央企业、地方国有企业新设立举办的养老机构应扩大普惠养老服务供给。</p>",
-      "link": "https://wallstreetcn.com/livenews/3179950",
-      "published": "Fri, 16 Oct 2026 06:35:48 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美债回购扩容常态化？长债发行会削减？今夜，美财政部将释放关键信号",
-      "summary": "<p style=\"text-align: left;\">美国财政部将于北京时间17日凌晨（美东时间16日中午）启动新一轮再融资周期，向一级交易商发放季度问卷。在长端收益率持续攀升、市场对财政部债务管理策略高度敏感的背景下，此次问卷的措辞与问题设计本身，将成为市场解读财政部政策意图的重要窗口。</p>\n<p style=\"text-align: left;\">据德意志银行策略师Steven Zeng、Matthew Raskin及Andrew Fu 10月15日的研究报告，<strong>此次问卷的关注度异常之高，根源在于财政部于8月中旬出人意料地扩大了长端国债回购规模。</strong>市场普遍预期，财政部将在11月再融资会议上将扩大后的长端回购规模永久化，而今日问卷或将提前释放这一方向的信号。与此同时，围绕长端国债发行削减乃至取消20年期国债的讨论日趋升温，若问卷中出现任何明确指向上述议题的措辞，将对利率市场产生直接且显著的冲击。</p>\n<p style=\"text-align: left;\">德意志银行在报告中梳理了五大潜在问题方向，涵盖<strong>长端回购规模优化、票息发",
-      "link": "https://wallstreetcn.com/articles/3783770",
-      "published": "Fri, 16 Oct 2026 06:20:21 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "今年第三次！对冲基金重现“疫情以来罕见同步暴跌”，量化基金遭遇8月以来最惨一日",
-      "summary": "<p>AI信贷担忧引发的去杠杆浪潮，正在以前所未有的频率反复冲击对冲基金行业。</p>\n<p>本周四，对冲基金再度经历\"疫情以来罕见的多策略同步大跌\"——这是2026年以来的第三次。高盛Prime经纪业务数据显示，量化基金当日遭受-3.7个标准差的重创，创下8月19日以来最惨单日跌幅。亚洲区对冲基金月度跌幅扩大至-6.8%，韩国、中国台湾AI相关仓位成为重灾区。高盛数据显示，基本面多空策略当日收跌0.5%，而系统性多空基金则大幅落后，未能在尾盘随股市反弹而收复失地。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/b386bade-c3bb-405e-a091-c09fb13a88c7.png\" /></p>\n<p>高盛Prime的Marco Laicini在盘中更新中直接点明了这一格局的结构性含义：<strong>十个月内发生三次\"五年一遇\"事件，意味着对冲基金行业现行的VaR模型对极端风险的评估存在系统性低估，相关风险管理框架或需从根本上重构。</strong>市场层面，高盛Prime账簿整体杠杆率仍高达3",
-      "link": "https://wallstreetcn.com/articles/3783766",
-      "published": "Fri, 16 Oct 2026 05:59:15 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "存量时代的双11：淘天把“找新增量”的重任交给了AI",
-      "summary": "<p style=\"text-align: left;\">双11走到第十八年，天猫开始重新思考增长空间。</p><p style=\"text-align: left;\">“对于淘天这样一个大的集团，我一年服务将近10亿消费者，我还有怎样的用户总量空间？”</p><p style=\"text-align: left;\">在2026年天猫双11媒体沟通会上，天猫总裁家洛提出了这个问题。紧接着，他给出的答案是：“单个人的消费边界能够获得很大的空间。”</p><p style=\"text-align: left;\">今年双11，家洛将消费者体验和增长列为最重要的两个指标。他明确表示，平台对全年及双11期间的增长仍有预期，既包括消费者数量，也包括购买金额。</p><p style=\"text-align: left;\">商家对增长同样抱有期待。据家洛介绍，今年参与双11的品牌商家数量创下历年新高，商家的核心诉求是获得“有力有质的增长”。</p><p style=\"text-align: left;\"><strong>但在用户规模扩张空间有限的情况下，增长不仅取决于折扣打得有多狠、iPhone 1",
-      "link": "https://wallstreetcn.com/articles/3783769",
-      "published": "Fri, 16 Oct 2026 05:59:14 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "百余部漫剧播放破亿，阅文将IP改编起点前移至连载期",
-      "summary": "<p style=\"text-align: left;\">网络文学IP的商业开发，正在突破少数头部作品的限制。</p><p style=\"text-align: left;\">10月16日，2026阅文创作大会在杭州举行。阅文集团CEO兼总裁侯晓楠宣布，公司将深化“IP+AI”战略，围绕AI精品视频矩阵、OPC一站式平台及IP全链路运营展开新一轮布局。</p><p style=\"text-align: left;\">这次调整背后，是网文IP开发成本和商业模式的变化。</p><p style=\"text-align: left;\">过去，网文IP的商业开发高度依赖影视、动画和游戏等重投入项目，只有少数头部作品能够获得大规模改编，大量中腰部IP的商业价值长期停留在文字订阅和版权交易层面。</p><p style=\"text-align: left;\">AI视频技术与漫剧的兴起已显著降低了IP视觉化开发的成本。</p><p style=\"text-align: left;\">阅文披露，今年上半年，其短剧及漫剧业务收入突破4.3亿元，同比增长230%。截至目前，已有超过660部漫剧播放量破千万",
-      "link": "https://wallstreetcn.com/articles/3783768",
-      "published": "Fri, 16 Oct 2026 05:50:05 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "澳大利亚数据中心IPO连环折戟——全球数据中心债务危机的核心引线",
-      "summary": "<p>上周五，由英伟达和黑石联合支持的澳大利亚数据中心运营商Firmus，宣布撤回原本将成为澳大利亚史上第二大IPO的上市计划。该公司寻求的估值高达440亿澳元（约305亿美元）——是三个月前一轮融资估值的整整两倍，远超拥有近5亿澳元营收和8200万澳元净利润的成熟同业NextDC的市值。数日后，另一家澳大利亚数据中心公司AirTrunk亦以\"市场条件\"为由，取消了在新加坡上市REIT载体的计划。</p>\n<p>两宗折戟迅速在全球市场激起涟漪。CoreWeave首席执行官Mike Intrator周四在一份内部备忘录中，将公司股价本周累计下跌17%的部分原因归咎于此：\"Firmus、AirTrunk、Lambda Labs和Nscale等公司的IPO受挫及债务融资困难，正在渗入围绕CoreWeave的市场叙事。\"他强调，这些公司试图在缺乏\"执行力、营收和规模\"的情况下募集巨额资本，与CoreWeave的情况截然不同。</p>\n<p>然而，这番辩白并未平息市场疑虑——CoreWeave债券收益率周四仍逼近15%，债券价格跌破80美分困境区间。</p>\n<h2>Firmus折戟解剖：贪婪、",
-      "link": "https://wallstreetcn.com/articles/3783767",
-      "published": "Fri, 16 Oct 2026 05:48:15 GMT"
+      "title": "A股三大指数午后集体翻绿，军工爆发，药明康德触及跌停，恒科指涨1%，科网股、半导体上涨 - 华尔街见闻",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE01NlVMQkdOMEJpMnlKYkZHSjZyaDFJNjJrNTBsM1ZUdnFXUjVxMEpwbkhjQ0ZYaVlrbEI2S1JOQWhMMTlId2o1dkhxVDZqSkpZWnZJ?oc=5\" target=\"_blank\">A股三大指数午后集体翻绿，军工爆发，药明康德触及跌停，恒科指涨1%，科网股、半导体上涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01NlVMQkdOMEJpMnlKYkZHSjZyaDFJNjJrNTBsM1ZUdnFXUjVxMEpwbkhjQ0ZYaVlrbEI2S1JOQWhMMTlId2o1dkhxVDZqSkpZWnZJ?oc=5",
+      "published": "Fri, 16 Oct 2026 06:45:23 GMT"
     },
     {
       "source": "第一财经",
-      "title": "“排队王”来上海开店，低价连锁业态有这些挑战｜乐言商业",
-      "summary": "<figure><img alt=\"“排队王”来上海开店，低价连锁业态有这些挑战｜乐言商业\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/F6C9638D-D275-4C5B-BC14-E3E99469A789.jpg\" /></figure><p>零售企业要从研发、生产、物流、门店、人员和制度等环节全面管理，才能巩固市场地位，长期发展。</p><p>从做炒栗子起家到如今在全国开设了50多家门店，在业内被誉为“排队王”的金粒门零食连锁店日前在上海开设了首店，2027年拟在全国拓店至100家以上。</p><p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/1213BEBC-F014-4A1C-86E5-358C5A27AE62.jpg\" /></p><p>金粒门的特点是商品单价极低，主流单品定价集中在10元至25元，多个爆款单品价格甚至在10元以下",
-      "link": "https://www.yicai.com/news/103396590.html",
-      "published": "Fri, 16 Oct 2026 06:22:38 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "人机共演走进乌镇戏剧节：巨星传奇携手宇树科技打造机器人舞台剧《第二指令：恰逢良机》",
-      "summary": "<p>2026年10月15日，第十三届乌镇戏剧节正式开幕。由巨星传奇与宇树科技出品、江湖文投联合出品的机器人舞台剧《第二指令：恰逢良机》，作为本届乌镇戏剧节古镇嘉年华特别联动之一亮相。该剧将真人演员、机器人及四足机器狗带到同一舞台，以全新的人机共演舞台剧形式，带来一场科技与戏剧、传统与未来的奇妙碰撞，开启娱乐科技新篇章。</p>\n\n<p><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/10/86f462f8a276b7b2145a95fcb07ea051.jpg\" style=\"width: 277px; height: 369px;\" /></p>\n\n<p>乌镇戏剧节的舞台，见证着戏剧在一次次探索中生长，也见证着舞台形式不断突破想象的边界。2026年第十三届乌镇戏剧节，科技将以一种全新的方式走上舞台——以机器人的身体进入故事，成为表演的一部分。</p>\n\n<p>不同于单纯的机器人动作展示，《第二指令：恰逢良机》将机器人真正放进故事之中，让机器人成为角色。游客可以驻足于台前，看看在这个充满欢乐与博弈的故事中，机器",
-      "link": "https://www.yicai.com/news/103396585.html",
-      "published": "Fri, 16 Oct 2026 06:19:29 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "零部件先行变现，机器人产业进入配套落地新周期",
-      "summary": "<figure><img alt=\"零部件先行变现，机器人产业进入配套落地新周期\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/3f8ae4cd-a67f-4039-acf8-edd89297c240.jpg\" /></figure><p>工博会显示，机器人产业正从整机概念竞赛转向全产业链配套加工与真实商业化落地，呈现出零部件先行变现、厂商聚焦系统解决方案与 AI 硬件化的显著特征。</p><p>2026年的工博会现场，不少观展人士反馈，东欧、俄罗斯、东南亚买家显著增多，日韩企业代表到场不少，西欧大国客商反而少见。海康威视的一位工作人员甚至在用餐时被紧急召回，因为来了一位中东籍客户上门询价。</p><p>这些海外访客的注意力高度集中——他们围着关节、灵巧手、上下料工作站和检测设备询问价格和技术路线，快速判断是否存在商业合作机会并留下名片，对整机的演示更多是观摩。</p><p>机器人依然是全场最热的话题，但今年的厂商明显更愿意谈用户案例、整体解决方案、交付，以及怎么把AI装进硬件。</p><p><strong>产业链",
-      "link": "https://www.yicai.com/news/103396563.html",
-      "published": "Fri, 16 Oct 2026 06:10:08 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "汇率是表象！日本GDP排名或提前2年被英国印度赶超，缘何？",
-      "summary": "<figure><img alt=\"汇率是表象！日本GDP排名或提前2年被英国印度赶超，缘何？\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/7eaf4f26-f563-40f4-8f97-400ffd58e2d5.jpg\" /></figure><p>IMF今年4月预测时，日本的排名被英国超越的时间节点为2029年，但仅仅半年后，日本被赶超的时间节点提前了两年。</p><p>日本在全球的GDP排名又将进一步下滑。</p><p>近日，国际货币基金组织（IMF）最新一期《世界经济展望报告》的测算引发关注。数据显示，日本2026年名义国内生产总值（GDP）预计为4.3419万亿美元，排名全球第四位。2027年，尽管日本国内生产总值的预计略有上升，为4.4676万亿美元，但低于印度的4.5211万亿美元和英国的4.4889万亿美元，排名将滑落至第六位。</p><p><strong>在今年4月的预测中，IMF彼时的数据显示，日本的排名被英国超越的时间节点为2029年，但仅仅半年后，日本被赶超的时间节点提前了两年。</str",
-      "link": "https://www.yicai.com/news/103396488.html",
-      "published": "Fri, 16 Oct 2026 06:02:42 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "非洲咖啡落地进博会，这些国家享受到了零关税红利",
-      "summary": "<figure><img alt=\"非洲咖啡落地进博会，这些国家享受到了零关税红利\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/68418259-2CE9-4C29-ABF9-FC299EB8804C.jpg\" /></figure><p>越来越多的非洲咖啡进入中国市场。</p><p>第九届中国国际进口博览会将于11月5日至10日在上海举行。记者从国务院新闻办公室新闻发布会上获悉，本届进博会将继续为最不发达国家提供免费展位，并升级亚非产品专区，帮助非洲建交国把握“零关税”红利。咖啡作为非洲对华出口的核心农产品之一，将在本届进博会上获得更多关注。</p>\n\n<p>记者注意到，今年进博会上，科特迪瓦官方代表团将首次参展，主要展出可可、咖啡、腰果和可乐果等产品；肯尼亚等非洲国家将重点展示咖啡、牛油果等高附加值农产品。这一参展热潮的背后，是中国对非洲建交国全面实施零关税政策的正式落地。自2026年5月1日起，中国对53个非洲建交国实施100%税目产品零关税待遇，成为全球首个对所有非洲建交国实现全覆盖零关税的主要经济体。</p>",
-      "link": "https://www.yicai.com/news/103396508.html",
-      "published": "Fri, 16 Oct 2026 06:02:15 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "1.3万亿“国家长钱”到位！超长期特别国债今年发行收官",
-      "summary": "<figure><img alt=\"1.3万亿“国家长钱”到位！超长期特别国债今年发行收官\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/6cee2233-567d-48eb-bac5-b6d7dd0b0207.jpg\" /></figure><p>后续还有1.45万亿元新增地方政府债券待发行</p><p>根据财政部公开的信息，10月16日上午发行今年最后一只超长期特别国债，金额200亿元。至此，2026年全年总额1.3万亿元超长期特别国债发行收官。</p><p>与普通国债不同，超长期特别国债是在特定时期阶段性发行的具有特定用途的期限较长的国债。针对国内需求不足等问题，为了扩大有效投资、提振消费等，2024年以来中国连续三年发行了超长期特别国债，2024年至2026年发行规模分别为1万亿、1.3万亿元和1.3万亿元，资金主要用于支持“两重”（国家重大战略实施和重点领域安全能力建设）建设、“两新”（设备更新和消费品以旧换新）工作等。</p><p>那么今年1.3万亿元超长期特别国债资金具体花在了哪儿？</p><p>根据",
-      "link": "https://www.yicai.com/news/103396532.html",
-      "published": "Fri, 16 Oct 2026 06:00:10 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "乌镇戏剧节开幕，26部中外剧目将上演",
-      "summary": "<figure><img alt=\"乌镇戏剧节开幕，26部中外剧目将上演\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/0354407e19c64809536fefd902ddc067.jpg\" /></figure><p>第十三届乌镇戏剧节10月15日至25日在乌镇举行，26部中外剧目、2000余场街头演出亮相。</p><p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/10/47dbbb3275002dcfb8dd5b43a5143311.jpg\" /></p><p>10月15日晚，德国导演托马斯·奥斯特玛雅执导、柏林邵宾纳剧院演出的话剧《野鸭》在第十三届乌镇戏剧节登场，完成中国首演。</p><p>本届乌镇戏剧节于10月15日至25日在乌镇举行，为期11天，主题为“澹远”。本届特邀剧目来自11个国家，共26部、74场，分布在乌镇12个剧场。其中国际前沿作品",
-      "link": "https://www.yicai.com/news/103396473.html",
-      "published": "Fri, 16 Oct 2026 05:26:08 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "报告：武汉科技创新辐射引领力增长16.9%",
-      "summary": "<figure><img alt=\"报告：武汉科技创新辐射引领力增长16.9%\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/164968f7-317b-4ebf-a462-556342d982da.jpg\" /></figure><p>武汉科技创新还需补资源汇聚力短板。</p><p>中部地区的科创能力持续提升。</p><p>在近日举行的2026东湖论坛上，工信部总经济师高东升在大会开幕式致辞指出，湖北是长江经济带高质量发展和中部地区崛起两大区域重要交汇地，产业基础雄厚，东湖高新区已成为中部地区科技创新和产业创新融合发展的重要展示窗口。</p><p class=\"image-blot\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/10/85eda2e9249bcd3cada9fb9a9545180a.jpg\" /></p><p>湖北省副省长陈平表示，近年来，湖北科技、产业、人才等比较优势日益彰显，综合科技创新水平指数升至全国第7、中部第1",
-      "link": "https://www.yicai.com/news/103396455.html",
-      "published": "Fri, 16 Oct 2026 05:25:54 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "超4800只个股飘红！长鑫科技，重回3万亿元上方！ - 证券时报网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZcVNWYXB0eXZrbEJiaVpGMS01OUdTQ01ROUhGclRKWEEtaW1HX3JSMEoyTzh5NnVsX19nMXluWjVqRHctb2Z3RHJHdVdJSTlCdkZQMl91dGlReXM2?oc=5\" target=\"_blank\">超4800只个股飘红！长鑫科技，重回3万亿元上方！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZcVNWYXB0eXZrbEJiaVpGMS01OUdTQ01ROUhGclRKWEEtaW1HX3JSMEoyTzh5NnVsX19nMXluWjVqRHctb2Z3RHJHdVdJSTlCdkZQMl91dGlReXM2?oc=5",
-      "published": "Fri, 16 Oct 2026 05:04:32 GMT"
+      "title": "日韩股市集体收涨 - 第一财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE82clV0NkpHc0hlZUhybmdBN0ZWVTBrUExUZ1RVc0VtX1RtLXFGU2J6dWoyY3RzbWhJa1k2TlNKSlVMVktOdy1kc3JaVjIxQmI5c18xZg?oc=5\" target=\"_blank\">日韩股市集体收涨</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82clV0NkpHc0hlZUhybmdBN0ZWVTBrUExUZ1RVc0VtX1RtLXFGU2J6dWoyY3RzbWhJa1k2TlNKSlVMVktOdy1kc3JaVjIxQmI5c18xZg?oc=5",
+      "published": "Fri, 16 Oct 2026 06:33:00 GMT"
     }
   ]
 }
