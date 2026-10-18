@@ -1,9 +1,44 @@
 {
   "date": "2026-10-18",
   "hour": "19",
-  "total": 22,
-  "fetched_at": "2026-10-18T19:01:01.753066+08:00",
+  "total": 30,
+  "fetched_at": "2026-10-18T19:52:37.179544+08:00",
   "news": [
+    {
+      "source": "东方财富",
+      "title": "两只A股，明日停牌一天！有一只年内涨超70% - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9NOFdDb21MM3RBZzdnOG8tV0VlS1FXUGRiVlo2T2d5TlpzRGNGZmZ0ZDNCUEh4LVVxT051Q0lBaE9GSTYwaE42V1hzSDhSejhXMGtKRl9rekFfQWF3d1ZaT3lWZ0VkNlRlWXBraQ?oc=5\" target=\"_blank\">两只A股，明日停牌一天！有一只年内涨超70%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NOFdDb21MM3RBZzdnOG8tV0VlS1FXUGRiVlo2T2d5TlpzRGNGZmZ0ZDNCUEh4LVVxT051Q0lBaE9GSTYwaE42V1hzSDhSejhXMGtKRl9rekFfQWF3d1ZaT3lWZ0VkNlRlWXBraQ?oc=5",
+      "published": "Sun, 18 Oct 2026 11:50:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗：已针对可能的新“冒险行径”制定应对方案",
+      "summary": "伊朗最高国家安全委员会秘书穆赫辛·雷扎伊18日说，伊朗武装力量已针对任何新的“冒险行径”制定了应对方案。\n\n雷扎伊当天在社交媒体上说，连日来，美国和以色列官员所散布的狂热言论与反复威胁，丝毫改变不了战场上的现实。面对可能出现的任何新的“冒险行径”，伊朗武装力量已制定了应对方案，其破坏力将远超此前。伊朗全新的作战计划将不再遵循对方所熟悉的规则。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680806885.shtml",
+      "published": "Sun, 18 Oct 2026 11:45:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗外长说“七日内重开霍尔木兹海峡”提议依然有效",
+      "summary": "伊朗外长阿拉格齐在伊斯兰合作组织外长理事会第52次会议期间表示，伊朗提出的“七日内重开霍尔木兹海峡”计划依然有效。他强调，伊朗对于停止敌对行动和重开霍尔木兹海峡的条件非常明确，并已向美国转达。美方已提出意见，伊朗正在评估回应。阿拉格齐表示，如果美方满足条件，霍尔木兹海峡将在第六天重新开放，谈判将在第七天恢复。伊朗愿通过外交途径解决问题，但必须建立在尊严与荣誉的基础之上。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680806870.shtml",
+      "published": "Sun, 18 Oct 2026 11:38:49 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "今年上海劳力士大师赛总收入5亿元，观众人数24.8万",
+      "summary": "总收入5亿元，观众总人数24.8万，覆盖超160个国家、每年达2万小时的电视转播量……10月17日下午，在上海劳力士大师赛接近尾声之际，上海久事动娱文旅集团有限公司董事长杨亦斌接受媒体群访，给出了今年赛事运营的各项相关数据。5亿元的总收入中，赞助收入约占50%，票房收入约20%，电视版权分红约20%。“还有5%来自于现场的纪念品销售，5%来自于其他的一些ATP相关收入”。杨亦斌表示，上海劳力士大师赛是全国范围内商业体育赛事中盈利能力最强的，“没有之一”。（第一财经）",
+      "link": "https://news.10jqka.com.cn/20261018/c680806867.shtml",
+      "published": "Sun, 18 Oct 2026 11:36:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "泽连斯基：俄军袭击乌克兰多地变电站，数万家庭断电",
+      "summary": "泽连斯基18日在社交媒体发文称，俄军17日晚对文尼察州、日托米尔州、赫梅利尼茨基州和敖德萨州等地的变电站发动袭击，导致数以万计家庭断电。此外，俄军当晚对乌空袭已造成2人死亡、12人受伤。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261018/c680806831.shtml",
+      "published": "Sun, 18 Oct 2026 11:29:54 GMT"
+    },
     {
       "source": "同花顺",
       "title": "中信证券：银行业绩稳定性有望进一步夯实稳定回报属性",
@@ -68,39 +103,25 @@
       "published": "Sun, 18 Oct 2026 09:53:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "伊朗德黑兰至阿曼马斯喀特恢复直航",
-      "summary": "在中断数月后，今天（10月18日），阿曼萨拉姆航空公司恢复阿曼马斯喀特至德黑兰的直航。受美国制裁影响，目前仅有少数国家与伊朗有往返航班往来。伊朗多次谴责称，美国针对伊朗航空业的制裁剥夺了伊朗人民享受航空服务的权利，是非法且违反人道主义的行径。（CCTV国际时讯）",
-      "link": "https://news.10jqka.com.cn/20261018/c680806492.shtml",
-      "published": "Sun, 18 Oct 2026 09:35:07 GMT"
+      "source": "华尔街见闻",
+      "title": "伊朗：已针对可能的新“冒险行径”制定应对方案",
+      "summary": "<p>伊朗最高国家安全委员会秘书穆赫辛·雷扎伊18日说，伊朗武装力量已针对任何新的“冒险行径”制定了应对方案。</p>\n\n<p>雷扎伊当天在社交媒体上说，连日来，美国和以色列官员所散布的狂热言论与反复威胁，丝毫改变不了战场上的现实。面对可能出现的任何新的“冒险行径”，伊朗武装力量已制定了应对方案，其破坏力将远超此前。伊朗全新的作战计划将不再遵循对方所熟悉的规则。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3180654",
+      "published": "Sun, 18 Oct 2026 11:43:13 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "泽连斯基称“能源停火”以来乌油气等行业遭76次打击",
-      "summary": "乌克兰总统泽连斯基当地时间18日表示，自美国总统宣布以来，俄罗斯已对乌克兰能源和油气行业实施76次打击。18日凌晨，乌文尼察州、日托米尔州、赫梅利尼茨基州和敖德萨州的变电站遭袭，导致数万家庭断电。俄军当天还袭击居民住宅，造成12人受伤、2人死亡。泽连斯基还称，俄军过去一周发射近2700架无人机、1700枚航空炸弹和66枚导弹，其中大部分为弹道导弹。他表示俄军这些袭击的主要目标是乌能源设施。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261018/c680806490.shtml",
-      "published": "Sun, 18 Oct 2026 09:33:32 GMT"
+      "source": "华尔街见闻",
+      "title": "AI 的借贷潮要破了吗？Coreweave大跌15%背后的警报拉响",
+      "summary": "<p style=\"text-align: left;\">2026年10月14日，CoreWeave股价单日暴跌15.5%，其2032年到期无担保债价格跌破面值的80%、收益率逼近15%，利差跨过1,000个基点的违约警示线。同一天，甲骨文、戴尔、Nebius 同步下挫，AI 基础设施板块合计蒸发约 800 亿美元市值。</p> <p style=\"text-align: left;\"><strong>这可能不是崩盘的开始，而是信用分层的中段，</strong>市场正把「AI 基建」从一个整体，拆成两种资产：可被投资级资金承接的，和必须自己承担风险的。AI借贷潮的<strong>破裂可能不会以全行业违约的形式出现，而会以资质较差的边际借款人被逐出融资市场的形式发生</strong>。真正需要投资人盯住的不只有1.37万亿美元的债务总量，更重要的还有三个开关：电力、认购倍数和模型公司的收入曲线。</p>",
+      "link": "https://wallstreetcn.com/member/articles/3783678",
+      "published": "Sun, 18 Oct 2026 11:22:02 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "恒力石化：预计前三季度归母净利润同比增长104.2%",
-      "summary": "恒力石化10月18日公告，预计前三季度归母净利润102.56亿元左右，同比增长104.2%左右。业绩变动主要系行业供需格局改善、景气度回升，炼化、芳烃、PTA及聚酯新材料产业链运行持续向好，公司发挥“油、煤、化”深度融合的“大化工”平台优势，核心装置运行平稳，产业链协同效应释放，炼化、PTA板块加工价差显著修复，有效增厚经营业绩。",
-      "link": "https://news.10jqka.com.cn/20261018/c680806466.shtml",
-      "published": "Sun, 18 Oct 2026 09:25:08 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "最高法：2026年前三季度受理各类案件3271.25万件",
-      "summary": "今天，最高人民法院公布2026年前三季度司法审判工作主要数据。司法审判工作总体情况。人民法院紧紧围绕“努力让人民群众在每一个司法案件中感受到公平正义”目标，坚持“质量优先、兼顾效率、注重效果”，依法公正审理各类案件。受理各类案件3271.25万件，同比上升1.48%。其中，刑事案件112.32万件，同比下降5.64%；民商事案件2094.85万件，同比下降0.94%；行政案件63.24万件，同比上升10.05%；执行案件941.42万件，同比上升10.12%。做优做实符合司法规律的审判管理，反映审判质量、效率、效果的多数关键指标同比持续趋优，其中二审开庭率同比上升2.6个百分点，民事调解率同比上升0.54个百分点，案-访比同比下降0.0002。截至2026年9月底，全国法院三年以上未结诉讼案件数量同比下降31.34%，长期未结诉讼案件清理工作成效明显。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261018/c680806457.shtml",
-      "published": "Sun, 18 Oct 2026 09:15:02 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "中国制造网发布SourcingAI 3.0",
-      "summary": "第140届广交会上，焦点科技旗下中国制造网发布SourcingAI 3.0，推动“AI+外贸”从辅助买家决策走向选品、匹配、洽谈、交易与履约全流程。(人民财讯)",
-      "link": "https://news.10jqka.com.cn/20261018/c680806421.shtml",
-      "published": "Sun, 18 Oct 2026 09:03:04 GMT"
+      "source": "华尔街见闻",
+      "title": "国内政策处于定向、渐进式宽松周期，中国国常会推AI落地与价格法修正---W42国内宏观脱水",
+      "summary": "<ul>\n<li>年内出口与AI投资支撑总量账面增速，政策保持相对定力。四季度出口有望延续韧性，但内需不足与K型分化仍存，若明年出口与AI拉动放缓，政策或转向更全面逆周期调节。</li> <li>国务院常务会议听取“人工智能+”行动进展汇报，原则通过《价格法（修正草案）》并提请全国人大常委会审议。AI行动强调落地应用与安全并重，价格治理推动低价无序竞争治理向法治化深化。</li> </ul>",
+      "link": "https://wallstreetcn.com/member/articles/3783861",
+      "published": "Sun, 18 Oct 2026 11:11:26 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -108,6 +129,13 @@
       "summary": "<p>本轮剧烈调整主要由机构重仓股诱发，逐步传导至高融资占比板块。从国债ETF的净流入速度来看，当下资金避险意愿仍然偏高；从历史经验来看，由机构减仓所致的市场调整，结束的信号通常是机构票相对非机构票的超额收益率回升，本周部分宽基ETF的放量是一个积极信号。这一轮AI核心票的调整幅度和时间已经接近新能源核心票在2021年底到2022年4月底的幅度，超级产业周期增长二阶导下修过程中的第一轮硬件估值调整接近尾声。但对于看重AI增长“一阶导”而非“二阶导”的长线资金，当下的调整不足以改变趋势，内存价格、算卡租赁价格以及CSP的利润率才是反映“一阶导”方向的核心变量，就如同碳酸锂价格在2022年对于新能源产业链的信号作用。事实上，在“二阶导”下修、“一阶导”仍然向上的阶段，机构权重票趋弱，而围绕新技术的交易反复升温，就如同2022年5~8月的情形。当下也有类似的情况。从更长的时间维度来看，海外高利率和AI投资是硬币的两面，AI投资预期的下修可能反而导致利率的回落，持续的利率回落可能会缓解市场焦虑，甚至带来非AI领域的修复，不宜简单趋势外推负面预期。</p>\n<section>\n<section>",
       "link": "https://wallstreetcn.com/articles/3783866",
       "published": "Sun, 18 Oct 2026 10:47:44 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "高盛抛出“惊悚图表”：要么债市“悲观过度”，要么股市“过于乐观”，云大厂还要跌15%！",
+      "summary": "<p>美国股市与信贷市场的分歧正在走向临界点。高盛最新报告显示，AI超大规模云计算商（hyperscaler）的信贷利差已扩张至年内最高水平，而对应股价尚未充分反映这一压力。<strong>分析师直言：要么债市\"悲观过度\"，要么股市还有约15%的下行空间未被消化。</strong></p>\n<p>高盛策略师Louis Miller在最新的周报中指出，高盛AI超大规模云计算商信贷利差指数（GSUCHS30）已扩张至年内最宽水平，而上一次利差接近当前水平时，相关股票的价格较现在低约15%。与此同时，高盛更广泛的AI受益股篮子相对于剔除AI成分的标普500指数，已较6月高点累计下跌约25%。</p>\n<div>\n<h2 id=\"e1c4bfca\">信贷先于股票发出警报</h2>\n</div>\n<p>高盛警告，AI超大规模云计算商信贷利差指数（蓝线，倒序展示）已升至年内最宽，而对应的股票篮子（黑线）仅刚刚开始回落。<strong>7月上一次信贷利差扩张至接近当前水平时，相关股票价格较现在约低15%</strong>。</p>\n<p><img class=\" wscnph\" src=\"https",
+      "link": "https://wallstreetcn.com/articles/3783865",
+      "published": "Sun, 18 Oct 2026 10:39:46 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -124,25 +152,46 @@
       "published": "Sun, 18 Oct 2026 09:55:18 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "若是反弹还没来",
-      "summary": "<section>\n<section>\n<section></section>\n</section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<p>摘要</p>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section></section>\n</section>\n</section>\n</section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section>\n<section></section>\n</section>\n</section>\n</section>\n</section>\n</section>\n<section>\n<section>\n<section>\n<p>1&nbsp;AI产业趋势放缓，利率先于通胀开始回落</p>\n</section>\n</sect",
-      "link": "https://wallstreetcn.com/articles/3783860",
-      "published": "Sun, 18 Oct 2026 09:41:53 GMT"
+      "source": "第一财经",
+      "title": "直击广交会：中国机器人出海面临机遇，需做好合规和服务落地",
+      "summary": "<figure><img alt=\"直击广交会：中国机器人出海面临机遇，需做好合规和服务落地\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/6605c3620c46e0d92310c2e3f70ef304.jpg\" /></figure><p>机器人海外合规要求满足需“三个前置”：产品设计环节植入、供应商提前满足要求、员工提前培训。</p><p><img alt=\"拍摄/第一财经记者王珍\" src=\"https://imgcdn.yicai.com/uppics/images/2026/10/bcedaa3c60793e32578037f618c8dc0d.jpg\" style=\"width: 600px; height: 301px;\" /></p>\n\n<p>10月17日在第140届广交会期间举办的人工智能与机器人产业领航未来新赛道论坛上，与会者热议机器人出海。做大出海规模是中国机器人产业的重要机会之一，出口不只是卖硬件，而是需要与当地伙伴合作、做好本土化服务落地，而且需要把合规要求在产品设计等环节前置植入。</p>\n\n<p",
+      "link": "https://www.yicai.com/news/103397970.html",
+      "published": "Sun, 18 Oct 2026 11:45:37 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "全球主要央行政策信号分化，若民主党胜利或加剧科技股压力---W42海外宏观脱水",
-      "summary": "<ul>\n<li>沃什在IMF年会发言偏鸽，拒绝预判年内剩余利率决议并重申放弃前瞻指引，弱化市场对10月加息押注。欧央行官员释放分化信号，市场主流预期12月或迎最后一次加息。日央行倾向渐进加息，市场基准预期10月底维持利率不变。</li>\n<li>美股AI叙事松动和美伊局势失控的风险在民主党中期选举大胜情景下更高，对科技股压力更大。若共和党至少保持参议院多数，科技股压力可能暂时缓解。</li>\n</ul>",
-      "link": "https://wallstreetcn.com/member/articles/3783862",
-      "published": "Sun, 18 Oct 2026 09:30:39 GMT"
+      "source": "第一财经",
+      "title": "今年上海劳力士大师赛总收入5亿元，观众人数24.8万",
+      "summary": "<figure><img alt=\"今年上海劳力士大师赛总收入5亿元，观众人数24.8万\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/ba3737e5a41bbb41cc5afaf63edc7b0d.jpg\" /></figure><p>国际网球市场的传统赞助商如劳力士、JP摩根、阿联酋航空、喜力等，均赞助了上海大师赛。10月初，阿布扎比主权投资机构穆巴达拉宣布成为上海劳力士大师赛赞助商。</p><p>总收入5亿元，观众总人数24.8万，覆盖超160个国家、每年达2万小时的电视转播量……10月17日下午，在上海劳力士大师赛接近尾声之际，上海久事动娱文旅集团有限公司董事长杨亦斌接受媒体群访，给出了今年赛事运营的各项相关数据。</p><p>5亿元的总收入中，赞助收入约占50%，票房收入约20%，电视版权分红约20%。“还有5%来自于现场的纪念品销售，5%来自于其他的一些ATP相关收入”。杨亦斌表示，上海劳力士大师赛是全国范围内商业体育赛事中盈利能力最强的，“没有之一”。</p><p>上海职业网球赛事的起点是1998年的喜力网球公",
+      "link": "https://www.yicai.com/news/103397956.html",
+      "published": "Sun, 18 Oct 2026 11:29:08 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "恒力石化：预计前三季度净利润为102.56亿元左右，同比增加104.20%左右",
-      "summary": "<p>报告期内，受行业供需格局改善、景气度回升等影响，炼化、芳烃、PTA及聚酯新材料产业链运行持续向好。公司充分发挥“油、煤、化”深度融合的“大化工”平台优势，2000万吨/年炼化、600万吨/年煤化工、450万吨/年芳烃、150万吨/年乙烯及1660万吨/年PTA等核心装置运行平稳、供产销顺畅，产业链协同效应持续释放，炼化、PTA板块加工价差显著修复，有效增厚经营业绩，提升产业链整体盈利水平。</p>",
-      "link": "https://wallstreetcn.com/livenews/3180642",
-      "published": "Sun, 18 Oct 2026 09:19:24 GMT"
+      "source": "第一财经",
+      "title": "晚间公告｜10月18日这些公告有看头",
+      "summary": "<figure><img alt=\" 晚间公告｜10月18日这些公告有看头\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/d1f549f2a4b9fe63c1aa6773c14ee484.jpg\" /></figure><p>以下是第一财经对一些重要公告的汇总，供投资者参考。</p><p style=\"text-align: center;\"><strong>【品大事】</strong></p>\n\n<p><strong>新华传媒：11个交易日累涨185.5% 提示交易风险</strong></p>\n\n<p>新华传媒公告，公司股票2026年9月21日至10月16日连续11个交易日涨停，累计上涨185.50%，多次出现交易异常波动，两次触及严重异常波动指标。截至2026年10月15日，公司滚动市盈率337.40，远高于所属新闻和出版业20.03的行业滚动市盈率，股价严重偏离基本面，存在非理性炒作风险。公司正在推进发行股份购买上海界面财联社科技股份有限公司100%股权的重大资产重组，目前审计、评估工作尚未完成，尚需履行必要的内部决策",
+      "link": "https://www.yicai.com/news/103397955.html",
+      "published": "Sun, 18 Oct 2026 10:58:09 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "机构论后市丨A股短期可能见底，关注科技成长短期超跌后的修复机会",
+      "summary": "<figure><img alt=\"机构论后市丨A股短期可能见底，关注科技成长短期超跌后的修复机会\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/d285fae2e137bf9b55ae5fbdb5387972.jpg\" /></figure><p>A股后市怎么走？看看机构怎么说。</p><p>沪指本周累计跌2.56%，深成指跌6.64%，创业板指跌8.9%，科创综指跌8.26%。A股后市怎么走？看看机构怎么说：</p>\n\n<p><strong>①中国银河证券：关注科技成长短期超跌后的修复机会</strong></p>\n\n<p>中国银河证券研报认为，节后A股市场连续调整，科技成长板块承压。本轮调整本质上并非源自基本面的变化，而是海外无风险利率高企、能源价格中枢上移、全球权益市场情绪传导共同导致的分母端扰动。10月下旬A股进入三季报密集披露窗口，基本面延续K型分化格局，重点关注K型上沿板块的业绩验证与修复机会。</p>\n\n<p>研报提出，配置机会方面，一是科技成长短期超跌后的修复机会，重点关注通信设备、PCB、存储、服务器等方向",
+      "link": "https://www.yicai.com/news/103397939.html",
+      "published": "Sun, 18 Oct 2026 10:23:21 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "壹快评︱《教师法》修订需要回应哪些现实问题？",
+      "summary": "<figure><img alt=\"壹快评︱《教师法》修订需要回应哪些现实问题？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/5a4c0765656081a0254749a0aad90eb7.jpg\" /></figure><p>教育需要一个尊重专业、尊重规律的工作环境，不能让“尊师重教”流于形式。</p><p>10月16日，国务院常务会议讨论并原则通过《中华人民共和国教师法（修订草案）》，决定将草案提请全国人大常委会审议。会议明确提出，要强化教师待遇权益保障，减轻教师非教育教学任务负担，维护教师职业尊严和合法权益。</p>\n\n<p>这部颁布于1993年、已陪伴中国教育走过30多年历程的法律即将迎来制度完善与更新。此次修订不只是对教师权益的再次强调，更是对现有长期存在的教师减负、责任转嫁等问题和弊端的制度性巡视。粗浅看来，修订工作需要回应以下数方面的现实关切。</p>\n\n<p><strong>首先，新法应该进一步明确职责边界，真正为教师减负。</strong>教师承担教书育人的职责，并不意味着所有的校园事务都应由教师完成。对",
+      "link": "https://www.yicai.com/news/103397938.html",
+      "published": "Sun, 18 Oct 2026 10:02:10 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "广交会上的AI算力生意：中国供应商从连接器做到终端｜70载广交会",
+      "summary": "<figure><img alt=\"广交会上的AI算力生意：中国供应商从连接器做到终端｜70载广交会\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/79c8ec95-cee5-41e3-a8a3-e116691bcce9.jpg\" /></figure><p>前三季度，我国出口集成电路增长99.1%，中国供应链深度嵌入全球算力版图。</p><p>随着全球人工智能（AI）投资热潮持续升温，算力基础设施建设正进入大规模扩张新阶段。数据中心建设、服务器和芯片采购明显提速，中国供应商在其中扮演着关键角色。</p><p>10月15日至19日，以“先进制造”为主题的第140届广交会一期正在广州举行。在被誉为中国外贸“风向标”的广交会上，从服务器内部的高速连接件，到机房的温控散热模块，再到高精度定位芯片与终端智能硬件，中国制造正全面对接全球算力建设的需求。</p><p>这一微观动向与宏观外贸数据高度吻合。海关总署新闻发言人、副署长王军在14日介绍今年三季度外贸数据时表示，人工智能蓬勃发展，推动全球算力投资建设提速，对算力终端设备",
+      "link": "https://www.yicai.com/news/103397932.html",
+      "published": "Sun, 18 Oct 2026 09:55:21 GMT"
     },
     {
       "source": "证券时报",
@@ -152,11 +201,18 @@
       "published": "Sun, 18 Oct 2026 10:13:00 GMT"
     },
     {
-      "source": "新股IPO",
-      "title": "南方财经全媒体集团 - 南方财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VUjUtQlFYeVVtcTN6YlE3enUzWGJOZWxJV19aNllzcjFwNUItRFFhU1RFWG5fcmtiREZ0LWZjekhLUTFYU2NoTzlWT0J2d0JPbjJLZmZxQUowM25IRGZYOURfX25JOFU?oc=5\" target=\"_blank\">南方财经全媒体集团</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">南方财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VUjUtQlFYeVVtcTN6YlE3enUzWGJOZWxJV19aNllzcjFwNUItRFFhU1RFWG5fcmtiREZ0LWZjekhLUTFYU2NoTzlWT0J2d0JPbjJLZmZxQUowM25IRGZYOURfX25JOFU?oc=5",
-      "published": "Sun, 18 Oct 2026 09:13:04 GMT"
+      "source": "中国证券报",
+      "title": "2家A股公司，明日停牌 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGOGVWQjNHZUNPb1BfZ3NURXQzMjFmLVh0cXkyNjhERDVFNkZoaldiUUR2d0FDSnRDOUcyVkxQdkRWSlVaSW9NR29rZ3dBNTEtSTNacTN5MkdHWF9WVm1MMmdHRQ?oc=5\" target=\"_blank\">2家A股公司，明日停牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGOGVWQjNHZUNPb1BfZ3NURXQzMjFmLVh0cXkyNjhERDVFNkZoaldiUUR2d0FDSnRDOUcyVkxQdkRWSlVaSW9NR29rZ3dBNTEtSTNacTN5MkdHWF9WVm1MMmdHRQ?oc=5",
+      "published": "Sun, 18 Oct 2026 11:05:05 GMT"
+    },
+    {
+      "source": "沪深交易所公告",
+      "title": "两只A股，明日停牌一天！有一只年内涨超70% - www.mrjjxw.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tWlFjMHNEUnphYkQ5SlBGN1d0cndNbEpxRUxRS3lhcm8tN0tPZE1Fa0hheTlaV3lBY3FRM05PUHlLN0k5Vkp1T1k5Z0RyWEFWRUFNR2otMUhGVnFuX0pwWmlsbWRRZw?oc=5\" target=\"_blank\">两只A股，明日停牌一天！有一只年内涨超70%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.mrjjxw.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tWlFjMHNEUnphYkQ5SlBGN1d0cndNbEpxRUxRS3lhcm8tN0tPZE1Fa0hheTlaV3lBY3FRM05PUHlLN0k5Vkp1T1k5Z0RyWEFWRUFNR2otMUhGVnFuX0pwWmlsbWRRZw?oc=5",
+      "published": "Sun, 18 Oct 2026 11:29:30 GMT"
     }
   ]
 }
