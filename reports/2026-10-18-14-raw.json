@@ -1,99 +1,162 @@
 {
   "date": "2026-10-18",
   "hour": "14",
-  "total": 13,
-  "fetched_at": "2026-10-18T14:00:59.159579+08:00",
+  "total": 22,
+  "fetched_at": "2026-10-18T14:55:57.384028+08:00",
   "news": [
     {
-      "source": "东方财富",
-      "title": "浙商证券：底部重构迎来曙光 确立多头思维、切勿盲目杀跌 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kZmU4ZzNyUWhNLU1QdEpxeml1dVZxZWNoMHBmYnhTcWNEU3Z5Rk9MVHEyMmNBQ2E2MkdwNlQ2TEhoRGgyVGg2VzZVZXZiamVwSDMxMW14QS1vUHhiNnZRT0lCQQ?oc=5\" target=\"_blank\">浙商证券：底部重构迎来曙光 确立多头思维、切勿盲目杀跌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kZmU4ZzNyUWhNLU1QdEpxeml1dVZxZWNoMHBmYnhTcWNEU3Z5Rk9MVHEyMmNBQ2E2MkdwNlQ2TEhoRGgyVGg2VzZVZXZiamVwSDMxMW14QS1vUHhiNnZRT0lCQQ?oc=5",
-      "published": "Sun, 18 Oct 2026 04:20:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "长鑫科技：预计前三季度扭亏为盈 净利润1310亿至1325亿元 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE90ODkzaXZVODBDYUVnNWxldTBITmFVUndtNmtvejFiSjBNU19OUHhmSXhFWnZnOXIzYVZUV2J3U2RiV01vUVZsMlBOdmZoajJtM2RhQzJ2N0gyaVAtUEFxZ0xxMA?oc=5\" target=\"_blank\">长鑫科技：预计前三季度扭亏为盈 净利润1310亿至1325亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90ODkzaXZVODBDYUVnNWxldTBITmFVUndtNmtvejFiSjBNU19OUHhmSXhFWnZnOXIzYVZUV2J3U2RiV01vUVZsMlBOdmZoajJtM2RhQzJ2N0gyaVAtUEFxZ0xxMA?oc=5",
-      "published": "Sun, 18 Oct 2026 05:15:15 GMT"
+      "source": "同花顺",
+      "title": "美国中期选举将于11月3日举行",
+      "summary": "美国中期选举将于11月3日举行，民主党和共和党将角逐国会众议院全部435个议席和参议院100个议席中的35个。此外，美国多个州将选举州长、州议员及部分地方官员。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805900.shtml",
+      "published": "Sun, 18 Oct 2026 06:45:03 GMT"
     },
     {
       "source": "同花顺",
-      "title": "长鑫科技：董事长提议公司10亿元至20亿元回购公司股份 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mYUxZajhjd25YV2gzeWFQcmIyMVM0TklFS3hPS19jTV9zQTBVVUdqM2RCTnNTTHd2a1FlVXQ2eVdEREpPSHdzcEkzU3ZvNVkzLURYS1dfb2E3MnNBSmtHTkZR?oc=5\" target=\"_blank\">长鑫科技：董事长提议公司10亿元至20亿元回购公司股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1mYUxZajhjd25YV2gzeWFQcmIyMVM0TklFS3hPS19jTV9zQTBVVUdqM2RCTnNTTHd2a1FlVXQ2eVdEREpPSHdzcEkzU3ZvNVkzLURYS1dfb2E3MnNBSmtHTkZR?oc=5",
-      "published": "Sun, 18 Oct 2026 05:17:49 GMT"
+      "title": "沙特阿拉伯与也门胡塞武装相互袭击 埃及考虑提供防御支援",
+      "summary": "沙特阿拉伯与也门胡塞武装17日持续相互袭击。随着双方冲突近期升级，沙特的防空拦截弹库存日渐告急，不得不向多国求援。地区盟友埃及17日表态称，若沙特提出请求，埃及愿提供支援，但仅限于“防御”层面。8月上旬，沙特、土耳其和巴基斯坦三国领导人在沙特麦加签署《麦加共同防务协议》，约定“对三国中任何一国的武装攻击将被视为对三国全体的攻击”。土耳其当时表示，这一防务联盟对包括埃及在内的其他地区国家保持开放。埃及方面当时回应说，正“深入研究”协议。国际观察人士认为，随着胡塞武装愈加频繁袭击沙特，“麦加防务联盟”面临“首次真正检验”。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805896.shtml",
+      "published": "Sun, 18 Oct 2026 06:42:37 GMT"
     },
     {
       "source": "同花顺",
-      "title": "前三季度净利预增近20倍！688808，拟赴港上市 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sQmloeWtIUTh4TEhNRmpOU1h5a3YyTm9HUDJTUmJOZkJaS1FEV2xoVGFuNGZ6UTh6ZERCS0JVWDg4Z1pTRkFjLVpQa0NVNHhJeWVsb1RUWkoxeTZuTWM5Y0FR?oc=5\" target=\"_blank\">前三季度净利预增近20倍！688808，拟赴港上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sQmloeWtIUTh4TEhNRmpOU1h5a3YyTm9HUDJTUmJOZkJaS1FEV2xoVGFuNGZ6UTh6ZERCS0JVWDg4Z1pTRkFjLVpQa0NVNHhJeWVsb1RUWkoxeTZuTWM5Y0FR?oc=5",
-      "published": "Sun, 18 Oct 2026 04:07:17 GMT"
+      "title": "协鑫集团与巨融集团签署埃塞俄比亚LNG项目合作协议",
+      "summary": "据协鑫集团消息，埃塞俄比亚当地时间10月16日9时，协鑫集团执行总裁、协鑫非洲产业集团总裁王东与中国巨融集团董事长林融升率双方团队共同到访埃塞俄比亚矿业部，拜会新就任的矿业部部长阿莱姆采海·保洛斯，并举行工作会谈。在阿莱姆采海·保洛斯等见证下，协鑫能源投资有限公司埃塞分公司与巨融集团（控股）有限公司正式签署《液化天然气（LNG）承包建设及委托加工合同》。未来，双方将发挥各自在油气勘探开发、LNG产能建设及储运贸易等方面的优势，加快推动项目高质量落地见效，持续深化能源技术、装备制造、跨境贸易、绿色低碳等领域务实合作。(财联社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805873.shtml",
+      "published": "Sun, 18 Oct 2026 06:36:11 GMT"
     },
     {
       "source": "同花顺",
-      "title": "十年磨砺筑根基 申港证券多项业务指标实现跨越式增长 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lbjNVVWY4RGZLRkkyN1pYOS1EXzUtLTVyY2t1aEtqSU5rbWYxMjlJUUw0ZGV0U3NWZkc2VkoxOHoyajh3Tzgwc3JsSk1acmJTeHV2bWtEenBfVXFKanYxOENR?oc=5\" target=\"_blank\">十年磨砺筑根基 申港证券多项业务指标实现跨越式增长</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lbjNVVWY4RGZLRkkyN1pYOS1EXzUtLTVyY2t1aEtqSU5rbWYxMjlJUUw0ZGV0U3NWZkc2VkoxOHoyajh3Tzgwc3JsSk1acmJTeHV2bWtEenBfVXFKanYxOENR?oc=5",
-      "published": "Sun, 18 Oct 2026 05:59:11 GMT"
+      "title": "周末要闻回顾：商务部、科技部拟修订《中国禁止出口限制出口技术目录》",
+      "summary": "商务部、科技部拟修订《中国禁止出口限制出口技术目录》 增列部分人工智能、生物医药、光伏技术；商务部：中欧混动汽车磋商所谓“欧方施压奏效”的说法毫无依据；李强主持召开国务院常务会议，会议讨论并原则通过《中华人民共和国价格法（修正草案）》；国家发展改革委、国家能源局等部门在山西召开加快煤矿复产增产保供工作推进会。",
+      "link": "https://news.10jqka.com.cn/20261018/c680805854.shtml",
+      "published": "Sun, 18 Oct 2026 06:24:50 GMT"
     },
     {
       "source": "同花顺",
-      "title": "*ST动力：收到河北监管局行政处罚决定书 公司及相关人员被罚款 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwQ0xCZ283VkNYeVA5Um9oTDZRTVRVZUdwV3pESWg5RVVOa1lhYlhCMVMwTDhWLTZXcm9uQTNtTHN6N3FBTmFTMWZMcDgxRUlIRGpWbEpTR2VSUjQxb2JaVEd3?oc=5\" target=\"_blank\">*ST动力：收到河北监管局行政处罚决定书 公司及相关人员被罚款</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwQ0xCZ283VkNYeVA5Um9oTDZRTVRVZUdwV3pESWg5RVVOa1lhYlhCMVMwTDhWLTZXcm9uQTNtTHN6N3FBTmFTMWZMcDgxRUlIRGpWbEpTR2VSUjQxb2JaVEd3?oc=5",
-      "published": "Sun, 18 Oct 2026 05:27:30 GMT"
+      "title": "印度禁令或抑制糖价上涨，今年糖价已飙升",
+      "summary": "印度政府下令国有燃料零售商停止采购以食糖及主要甘蔗原料生产的乙醇，禁令将于11月1日新供应年度生效。此举旨在缓解因强厄尔尼诺现象导致的甘蔗减产和糖价飙升压力。今年夏天，干旱冲击甘蔗产量，全球食糖价格大幅上涨。印度作为全球第二大产糖国和最大消费国，正努力增加食糖供应，同时推进乙醇政策以减少石油依赖。此前，印度已考虑限制甘蔗生产乙醇，以增加食糖供应。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261018/c680805766.shtml",
+      "published": "Sun, 18 Oct 2026 06:18:53 GMT"
     },
     {
       "source": "同花顺",
-      "title": "长鑫科技：预计前三季度扭亏为盈 净利润1310亿至1325亿元 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IMWpiZVlrMHdMTEd6ZF8wZ21VQkpEZm1RbU1nc3F6SWFVdzEyT3hPdVRzQnNrdE9zUHI0WTZ1dE41X2pPcVpPNEZCY0s5ZmFVV1hjeFFpUW9FcUVqU3d2a3JB?oc=5\" target=\"_blank\">长鑫科技：预计前三季度扭亏为盈 净利润1310亿至1325亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IMWpiZVlrMHdMTEd6ZF8wZ21VQkpEZm1RbU1nc3F6SWFVdzEyT3hPdVRzQnNrdE9zUHI0WTZ1dE41X2pPcVpPNEZCY0s5ZmFVV1hjeFFpUW9FcUVqU3d2a3JB?oc=5",
-      "published": "Sun, 18 Oct 2026 05:17:43 GMT"
+      "title": "花旗：AI热潮削弱美股对利率上升的敏感度，标普500估值已高于合理区间",
+      "summary": "花旗分析师认为，人工智能推动的盈利增长及投资者持股结构变化，正在削弱美债收益率与美股估值之间的传统联系，利率上升对经济增长预期的影响可能比对股票估值更大。该机构的估值模型显示，标普500指数合理市盈率区间为17.1至22.1倍，而当前市盈率已达22.4倍，反映市场情绪偏乐观。花旗指出，自8月底以来，周期股和防御性股票受到利率上升拖累，但成长股因AI盈利预期支撑表现相对坚挺。此外，近期美债收益率上涨可能部分源于政府债券供应增加，而非经济过热。养老金制度向固定缴款型转变、年轻投资者偏好高股票配置及海外资金持续流入，也在支撑美股估值。不过，花旗认为，当前市场面临的关键问题是未来还有哪些新增资金能够继续推动股市上涨。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20261018/c680805752.shtml",
+      "published": "Sun, 18 Oct 2026 06:14:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "电影《小猪佩奇·完美假期》总票房破7000万",
+      "summary": "据猫眼专业版数据，电影《小猪佩奇·完美假期》上映18天，总票房破7000万。(界面)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805740.shtml",
+      "published": "Sun, 18 Oct 2026 06:11:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "粉笔将全面取消线下模考认证服务",
+      "summary": "10月18日，粉笔发布《关于粉笔模考的声明》。其中提到，从即日起，粉笔将全面取消线下模考认证服务。同时，为维护模考生态，后续85分以上的模考成绩将不予展示、不计入排名。(界面)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805731.shtml",
+      "published": "Sun, 18 Oct 2026 06:07:41 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "微博：三季度金橙V创作者13.9万，同比增11.3%",
+      "summary": "微博披露创作者生态最新策略与数据。二季度平台DAU2.5亿、MAU5.6亿；三季度金橙V创作者13.9万，同比增11.3%。平台扶持原创真人博主，整治低质、刷量内容。视频生态转向提质，周活视频作者增长35%，投入3000万元孵化精选IP栏目。热点用户需求转向深度解读，平台内测AI总编Agent，辅助创作者挖掘稀缺事实与观点。(21财经)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805727.shtml",
+      "published": "Sun, 18 Oct 2026 06:06:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "一拖船在阿联酋豪尔费坎东北部海域被“不明投射物”袭击",
+      "summary": "据英国海上贸易行动办公室（UKMTO）最新发布的警告通报，当地时间10月18日，阿联酋豪尔费坎东北部海域发生一起海上袭击事件。一艘正在向南航行的拖船被2枚“不明投射物”袭击，导致船体受损，并造成1人受轻伤。通报指出，尽管该拖船在袭击中受损，但目前仍在继续其既定航线。有关当局在对此事件进行调查。鉴于该海域的安全风险，英国海上贸易行动办公室已向所有过往船只发出安全警告，建议相关船只在途经该区域时保持高度警惕并谨慎通行，如发现任何可疑活动，应立即向英国海上贸易行动办公室报告。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805711.shtml",
+      "published": "Sun, 18 Oct 2026 05:58:06 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美国今年麻疹病例数已接近去年两倍",
+      "summary": "美国疾病控制和预防中心最新数据显示，截至15日，美国2026年累计报告4410例麻疹确诊病例，接近2025年全年报告的2289例的两倍，为1991年以来年度最高水平。数据显示，今年以来，美国47个州和地区共报告4392例麻疹病例，另有18例病例涉及国际旅行。5至19岁年龄段病例数最多，共1856例，占确诊病例总数的约42%。已有451名麻疹患者住院治疗，占确诊病例总数的约10%。约96%的确诊病例未接种过麻疹疫苗或接种情况不明。近期，美国宾夕法尼亚州麻疹病例持续增加。该州卫生部门16日公布的数据显示，该州今年累计报告1260例麻疹病例，其中238例住院治疗，5例死亡。自14日以来，该州新增38例确诊病例。据美国全国广播公司报道，美疾控中心计划派遣1名流行病学调查人员赴宾州协助应对当地疫情。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805700.shtml",
+      "published": "Sun, 18 Oct 2026 05:55:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "俄圣彼得堡石油码头遭无人机袭击起火",
+      "summary": "俄罗斯圣彼得堡市市长别格洛夫18日在社交媒体上说，圣彼得堡石油码头当天凌晨遭乌克兰无人机袭击起火，目前暂无人员伤亡报告。别格洛夫说，当天圣彼得堡市4个区的民用基础设施也在无人机袭击中起火，紧急救援部门正在现场灭火。出于安全考虑，圣彼得堡普尔科沃机场的运营已受到限制，圣彼得堡的移动互联网服务可能会出现中断。据俄新社报道，俄“接触”社交平台位于列宁格勒州的数据中心当天也遭到袭击。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805671.shtml",
+      "published": "Sun, 18 Oct 2026 05:39:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "广西出台财政常态化帮扶资金管理办法 增设少数民族任务方向，向重点领域精准倾斜",
+      "summary": "10月16日，记者从自治区财政厅获悉，为加强中央和自治区财政常态化帮扶资金管理，提高资金使用效益，近期，自治区财政厅会同农业农村厅、发展改革委、民宗委、林业局等部门联合印发《广西财政常态化帮扶资金管理办法》，支持做好过渡期后常态化帮扶工作。\n《办法》明确，自2026年起，自治区财政常态化帮扶资金增设少数民族任务方向，按当年自治区资金总量的4%切块安排，用于支持边境和美村寨建设，提升边境地区、民族地区基础设施水平，助力边贸加工、民族手工业等特色产业提质升级。同时，将华侨农林场纳入乡村振兴政策协同发展，支持符合条件的华侨农林场补齐小型公益性基础设施短板。\n在资金分配上，《办法》突出向重点领域精准倾斜，将联农带农帮扶产业融入全区农业全产业链发展布局，并向乡村振兴重点帮扶县、边境县、民族自治县及帮扶任务较重的区域倾斜。取消到县资金投向脱贫村比例的硬性规定，允许各地统筹资金，向基础设施薄弱、帮扶压力较大的村屯倾斜，兼顾区域均衡协同发展。\n项目管理方面，《办法》围绕帮扶项目“怎么建、怎么管、怎么见效”作出全流程规定，推动项目入库规范化、实施推进精细化、联农带农实效化、资金监管严格化、资产管理长效化",
+      "link": "https://news.10jqka.com.cn/20261018/c680805664.shtml",
+      "published": "Sun, 18 Oct 2026 05:36:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港股IPO火爆！募资刷新近15年纪录，香港证监会警示可疑认购",
+      "summary": "2026年前三季度，港股IPO市场交出一份远超预期的成绩单，共有115家企业上市，募资总额3855.66亿港元，这一募资规模已超过2011年以来任何一年的全年水平。在展望四季度时，德勤、毕马威近期先后表示，港股全年IPO融资额有机会逼近5000亿港元。市场火热也让中介机构受益。记者注意到，头部效应十分明显，前三家承销商的承销规模合计占比已达42%。不过，保荐机构的资源紧张问题以及执业质量仍然受到监管关注。10月13日香港证监会表示，当前资源紧张有所缓解，体现在五家最活跃保荐人的在审上市申请占比由年初的77%降至9月的65%；负担过重的主要签署人员数量减少78%。香港证监会特别提醒，当前保荐机构要警惕涉及首次公开招股及上市后活动的不透明安排，这些安排可能会产生可疑的认购指示、人为夸大首次公开招股的股份需求，或助长上市后潜在操纵买卖的交易活动。(券商中国)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805648.shtml",
+      "published": "Sun, 18 Oct 2026 05:26:22 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "银行托管新规后，首个持牌专营中心开业",
+      "summary": "获批筹建8个月后，10月16日，北京金融监管局批复了广发银行资产托管中心的开业。该资产托管中心也由此成为了今年2月1日《商业银行托管业务监督管理办法（试行）》（下称银行托管新规）施行后，首家获批并开业的独立专营托管业务的持牌机构。据记者了解，广发银行此前将资产托管部设为一级部门。行内较早将托管业务定位为重要业务板块，并充分借力股东中国人寿资源，在系统建设、协同托管等方面持续投入。记者查阅该行2025年年报，部分措辞透露了该行托管业务经营业绩：截至2025年末，广发银行资产托管及运营外包业务规模达4.33万亿元。2025年该行公私募基金托管规模突破万亿元，实现托管业务手续费收入5.86亿元。(券商中国)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805647.shtml",
+      "published": "Sun, 18 Oct 2026 05:25:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "新芯航途完成战略轮融资，雷诺首次入股、奇瑞追加、长鑫科技参与",
+      "summary": "记者获悉，物理AI算力芯片公司新芯航途（XHEART）近日完成战略轮融资，历史累计融资额约50亿元人民币。欧洲头部车企雷诺集团在本轮融资中首次投资该公司，奇瑞汽车追加投资，国产存储龙头企业长鑫科技亦参与其中。据了解，XHEART的首发车型为上汽大众ID.ERA 9X，后续陆续搭载到上汽旗下MG、荣威车型，通用旗下凯迪拉克车型，以及奇瑞旗下部分新能源和燃油车型。(21世纪经济报道)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805635.shtml",
+      "published": "Sun, 18 Oct 2026 05:16:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "年内超50家私募挺进百亿级梯队",
+      "summary": "数据显示，截至9月30日，今年以来共有52家证券类私募管理人管理规模突破百亿元大关，百亿级私募数量扩容至159家，较2025年底的114家增加了45家。从投资模式来看，在上述52家私募管理人中，主观和量化私募管理人数量均为23家，另外有6家为混合类（主观+量化）私募管理人。不过，7月以来管理规模突破百亿元的私募管理人中，主观私募管理人占据主导地位。融智投资FOF基金经理李春瑜认为，今年以来居民和机构的资产再配置需求持续释放，为优质管理人带来了增量资金。与此同时，今年上半年市场行情震荡上行，不少私募基金净值创出历史新高，形成了“净值上涨-资金申购-规模扩张”的良性循环。(上海证券报)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805621.shtml",
+      "published": "Sun, 18 Oct 2026 05:09:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Swisse斯维诗抗糖丸被检出铅超标，官方客服：相关批次未流转至消费者端，也未进入中国销售",
+      "summary": "10月17日，海关总署进出口食品安全局发布通报：澳大利亚药品管理局（TGA）发布通告称，Swisse斯维诗“抗糖丸”两个批次被检出铅超标，国内暂未发现涉事产品通过一般贸易渠道进口。提醒消费者，核对个人通过跨境电商、携带、代购等渠道可能保有的相关产品信息，立即停止使用涉事产品。10月18日，斯维诗官方客服表示，该产品回流情况仅涉及澳洲市场的14.452万、14.3217万两个批次，且相关批次未流转至消费者端，也未进入中国销售。（澎湃新闻）",
+      "link": "https://news.10jqka.com.cn/20261018/c680805609.shtml",
+      "published": "Sun, 18 Oct 2026 05:07:25 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美记者遭袭 鲁比奥要求以色列严打暴力行为",
+      "summary": "美国国务卿鲁比奥17日表示，他对美国记者在约旦河西岸遭袭感到“非常不安”，已要求以色列方面严厉打击此类行为。鲁比奥当天在马里兰州安德鲁斯联合基地回答记者提问时说，他已就此询问了美国驻以色列大使馆。这名美国记者遭到殴打，有相关现场视频。他强调，总统特朗普的态度非常明确，不希望看到约旦河西岸出现类似冲突或危机。据美媒报道，《华盛顿邮报》摄影记者海蒂·莱文当地时间16日在约旦河西岸遭一群犹太人定居者围攻，并被抢走相机等财物。以色列总理办公室16日在社交媒体上发表声明称，有关美国记者遇袭事件的事实“仍不明朗”，相关情况正在调查中。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261018/c680805606.shtml",
+      "published": "Sun, 18 Oct 2026 05:06:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "业绩强劲增长，港股保险龙头获资金连续21日净买入",
+      "summary": "本周南向资金合计净卖出66.37亿港元。友邦保险获南向资金连续21日净买入。本周（10月12日至10月16日）港股市场主要股指小幅回调，恒生指数累计跌0.1%，恒生科技指数跌2.13%，恒生中国企业指数跌0.24%。据证券时报·数据宝统计，本周南向资金合计净卖出66.37亿港元。从本周上榜成交活跃股名单来看，本周共有20只港股上榜，腾讯控股本周港股通合计买卖总额最高，达到155.48亿港元；阿里巴巴-W紧随其后，为143亿港元；小米集团-W、中芯国际等5股本周港股通买卖总额均超过100亿港元。从成交净买入金额来看，友邦保险获南向资金净买入14.93亿港元，已连续两周获南向资金净买入金额居首。本周南向资金对互联网巨头以买入为主，腾讯控股获净买入14.34亿港元，阿里巴巴-W获净买入7.34亿港元，美团-W获净买入2.78亿港元；小米集团-W遭净卖出7.56亿港元。其他港股方面，中芯国际、长飞光纤光缆分别被净卖出30.24亿港元、24.51亿港元。数据显示，友邦保险已连续21个交易日获南向资金持股量增长。公司上半年盈利能力显著增强，中期报告显示，上半年净利润42.94亿美元，同比增长69.",
+      "link": "https://news.10jqka.com.cn/20261018/c680805592.shtml",
+      "published": "Sun, 18 Oct 2026 04:59:37 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "ASML确定入局：混合键合行业的2027年混战，杀估值还是杀叙事？",
-      "summary": "<p style=\"text-align: left;\">ASML 至今没有发布任何公告，但专利、供应链报道与自身路线图三条证据已经指向同一件事：它正在造一台芯片对晶圆（D2W）混合键合设备。ASML 的量产不早于 2030 年，2027 年真正厮杀的是 Besi、韩华、SEMES 与中国设备商。</p><p style=\"text-align: left;\">但 ASML 入局的杀伤力不在抢走 2027 年的订单，而在于它把混合键合从「后道设备」重新定义为「前道设备」。这才是 Besi 三个月回撤46.8%的真实原因：市场杀的从来不是当期业绩，是估值框架的迁移。对国内而言，受益顺序是减薄 / CMP → 临时键合解键合 → 混合键合本体 → 材料，而混合键合设备本身的国产化率仍不足 5%。</p>",
-      "link": "https://wallstreetcn.com/member/articles/3783844",
-      "published": "Sun, 18 Oct 2026 04:47:48 GMT"
+      "title": "当美欧成为金融风险源",
+      "summary": "<p>货币当局作为官僚机构，在滚滚向前的低利率时代存量债务的续作压力，势不可挡的科技发展趋势以及愈演愈烈的民粹主义面前，是极其渺小的。总的来说，需要重估美欧市场作为全球利率基准的稳定性，这也正是“美欧正代替新兴市场，成为金融风险之源”的核心含义。</p>\n<p>过去讨论联储加息和美元流动性收紧，往往从资本回流美国出发，寻找外债较高、储备不足的新兴市场国家。本轮最大的不同是，新兴市场对强美元冲击的传统外部融资缓冲有所增强，发达经济体却面临更大的压力。</p>\n<section>\n<p>回看2022年以来的政策周期，从英国养老金危机到美国区域银行问题再到法国财政紧缩困境，发达经济体自身的利率与资产负债表风险已经反复暴露。如今，更显著的边际变化在于财政负担。疫情后覆水难收的财政扩张留下了更高存量债务，而初级赤字迟迟未能收敛，高利率又通过付息压力持续消耗整体财政空间。</p>\n<p>随着美欧国债利率保持高位，以及对联储紧缩周期的担忧，核心发达经济体的融资约束日益增强，紧缩效应会沿着融资成本与抵押品链条向外传递。</p>\n<p>除此之外，高通胀带来的实际价格水平压力依然推动着2008年至今全球民",
+      "link": "https://wallstreetcn.com/articles/3783854",
+      "published": "Sun, 18 Oct 2026 06:15:15 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "下周重磅日程",
-      "summary": "<p>中国GDP、金融街论坛与APEC财长会、英伟达GTC、特斯拉Meta与宁德时代财报。</p>",
-      "link": "https://wallstreetcn.com/charts/41960046",
-      "published": "Sun, 18 Oct 2026 04:38:10 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "A股PCB巨头，迎超100家机构调研！净利预增逾100%！ - 证券时报网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTdEhMZm9zWVd3c2JTaFo3YV9yMXJfNk1jd1ZJMDR0TWhRaWRkaW5KdFlyak9vdGpGQnl1eUVSMDM2Vk01eUFOMDJobzhtYlY2bGFPNHFuNk15b0JE?oc=5\" target=\"_blank\">A股PCB巨头，迎超100家机构调研！净利预增逾100%！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTdEhMZm9zWVd3c2JTaFo3YV9yMXJfNk1jd1ZJMDR0TWhRaWRkaW5KdFlyak9vdGpGQnl1eUVSMDM2Vk01eUFOMDJobzhtYlY2bGFPNHFuNk15b0JE?oc=5",
-      "published": "Sun, 18 Oct 2026 04:33:00 GMT"
-    },
-    {
-      "source": "证券时报",
-      "title": "资金大举买入！A股接近阶段性底部？ - 证券时报网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE05WXNPWjdnakxKRGJCMUxzczVXeVBiNHhiNmF5QWRqUDlCZmhGRDQycXhzbWR2NXByUUlLeGswY0VRaHVOOHlCYkFHOWpfaG9QVTZkbmRHRmctX0Nq?oc=5\" target=\"_blank\">资金大举买入！A股接近阶段性底部？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券时报网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05WXNPWjdnakxKRGJCMUxzczVXeVBiNHhiNmF5QWRqUDlCZmhGRDQycXhzbWR2NXByUUlLeGswY0VRaHVOOHlCYkFHOWpfaG9QVTZkbmRHRmctX0Nq?oc=5",
-      "published": "Sun, 18 Oct 2026 04:33:00 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "中远海能(01138)股票股价,行情,新闻,财报,数据 - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pNzdmZFNlMWNacGtZOTJsck9pVlUyZloydWRWd1J0cTU5a3I5QWZhckpnXzFSa1BoRWg0aDcxYU9FS05wbk9ZdU5VY2xpcTgtVjk0S3h3?oc=5\" target=\"_blank\">中远海能(01138)股票股价,行情,新闻,财报,数据</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pNzdmZFNlMWNacGtZOTJsck9pVlUyZloydWRWd1J0cTU5a3I5QWZhckpnXzFSa1BoRWg0aDcxYU9FS05wbk9ZdU5VY2xpcTgtVjk0S3h3?oc=5",
-      "published": "Sun, 18 Oct 2026 04:54:05 GMT"
-    },
-    {
-      "source": "雪球热帖",
-      "title": "施蒙的致富之旅 - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mR0hnbzNWLXV5OGg5cEwtWk9pNWJvWEo2cGhEbzlXZW93cUl3SnlkWDgweUlYVHE0TjE5TGxZQVhFUUZCM0twdg?oc=5\" target=\"_blank\">施蒙的致富之旅</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mR0hnbzNWLXV5OGg5cEwtWk9pNWJvWEo2cGhEbzlXZW93cUl3SnlkWDgweUlYVHE0TjE5TGxZQVhFUUZCM0twdg?oc=5",
-      "published": "Sun, 18 Oct 2026 05:39:16 GMT"
+      "title": "马斯克“第一性原理”：80%到90%的延误只是假设而已",
+      "summary": "<p>Neuralink总裁DJ Seo表示，马斯克激进的时间表是严格的从第一原理出发的工程方法，而全绿灯时间表显示，假设没有任何审批、物流延误和历史包袱，纯粹看最快能多久把芯片或机器人造出来。结果发现，平时拖垮进度的因素中，有80%~90%只是大家习惯成自然的“人为障碍”。</p>",
+      "link": "https://wallstreetcn.com/charts/41960047",
+      "published": "Sun, 18 Oct 2026 06:01:47 GMT"
     }
   ]
 }
