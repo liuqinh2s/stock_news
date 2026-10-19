@@ -1,71 +1,99 @@
 {
   "date": "2026-10-20",
   "hour": "04",
-  "total": 14,
-  "fetched_at": "2026-10-20T04:01:00.061482+08:00",
+  "total": 15,
+  "fetched_at": "2026-10-20T04:53:27.960965+08:00",
   "news": [
     {
       "source": "东方财富",
-      "title": "政策端释放积极信号 引导公募逆周期布局锚定长期价值 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WTXdWMVNFbEF5NDZ0OTJwVmVtNzNFczBmLTJmMnJnSXoyeUk3dE9HdTNuQnp4d1FTVktoWlQ1UnAyTDhWWEgzTjR0RzVHSDVfMC0wUGE0OGttejlMaElZMG1IWQ?oc=5\" target=\"_blank\">政策端释放积极信号 引导公募逆周期布局锚定长期价值</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WTXdWMVNFbEF5NDZ0OTJwVmVtNzNFczBmLTJmMnJnSXoyeUk3dE9HdTNuQnp4d1FTVktoWlQ1UnAyTDhWWEgzTjR0RzVHSDVfMC0wUGE0OGttejlMaElZMG1IWQ?oc=5",
-      "published": "Mon, 19 Oct 2026 18:20:08 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "公募费改再落重锤 佣金灰色地带加速出清 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hQ3h3SHlHYzRXQ212OEhyWGtoNGVxUlBidkljRlB0UUpZbDBBV2xaeDdHdTlLckpTOVFfUmw4Mi1UUFp4OUpEM2FwWEszUndIS1Y1bm9GMG95b2N3aDhNRWl0Uk13Zw?oc=5\" target=\"_blank\">公募费改再落重锤 佣金灰色地带加速出清</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hQ3h3SHlHYzRXQ212OEhyWGtoNGVxUlBidkljRlB0UUpZbDBBV2xaeDdHdTlLckpTOVFfUmw4Mi1UUFp4OUpEM2FwWEszUndIS1Y1bm9GMG95b2N3aDhNRWl0Uk13Zw?oc=5",
-      "published": "Mon, 19 Oct 2026 18:44:28 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "证监会拟进一步规范证券市场先行赔付 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE9rYmpFaDV4MGRSOFBCV3hKRE1YUFJtVVpZeHhhSVlnRVctRHRMZW96SDVEM3Axank1d2Z5ZE5VMGNtSnQtSFZZYmNjRGwweFpGQ3hDOE5jUG1VcFlyNEswdGJjR3RER0h6SjNEQg?oc=5\" target=\"_blank\">证监会拟进一步规范证券市场先行赔付</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rYmpFaDV4MGRSOFBCV3hKRE1YUFJtVVpZeHhhSVlnRVctRHRMZW96SDVEM3Axank1d2Z5ZE5VMGNtSnQtSFZZYmNjRGwweFpGQ3hDOE5jUG1VcFlyNEswdGJjR3RER0h6SjNEQg?oc=5",
-      "published": "Mon, 19 Oct 2026 18:40:15 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "智能服务新业态加快培育 上市公司抢抓机遇 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE81dm9TeDZxRVRsc3FqOXVsNnJfQmJRaHVHcGNjTUZkYjBUNFRWS192TE9mdVRSbURuVlJZRVBTYmtHaVlTRHltN3JCMUNEOFlsYWJlSVZ5c052M1ZiZ2JGb21qVXRwdw?oc=5\" target=\"_blank\">智能服务新业态加快培育 上市公司抢抓机遇</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81dm9TeDZxRVRsc3FqOXVsNnJfQmJRaHVHcGNjTUZkYjBUNFRWS192TE9mdVRSbURuVlJZRVBTYmtHaVlTRHltN3JCMUNEOFlsYWJlSVZ5c052M1ZiZ2JGb21qVXRwdw?oc=5",
-      "published": "Mon, 19 Oct 2026 18:11:15 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "资本市场包容性改革持续深化 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aeU0zRkJLdFgwU1pjamg5aG1vODJwWTNYOG5TUHUzQ2NDTWp0Q3ZQakY1ZXhZSEowUDI1eFZhTlpZMHlXMkN0SDlySkxmZWdnZGd5QUN1alh2TDhqcUdXd1g2am92Zw?oc=5\" target=\"_blank\">资本市场包容性改革持续深化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aeU0zRkJLdFgwU1pjamg5aG1vODJwWTNYOG5TUHUzQ2NDTWp0Q3ZQakY1ZXhZSEowUDI1eFZhTlpZMHlXMkN0SDlySkxmZWdnZGd5QUN1alh2TDhqcUdXd1g2am92Zw?oc=5",
-      "published": "Mon, 19 Oct 2026 18:18:07 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "从“讲故事”到“拼兑现” 机器人赛道迎商业化挑战 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5UDh0ZWxfRHVnU1QzSGtncktyeDJmTlM3ZFdFaUgwSHFiam1wRkxMM255Qnc1cW9BWGxTMTFFWUpzUlNNcElxMXpUd3QwNU5WS2RxMFdWN3ZRNFRqb2g0RGgtdGJOZw?oc=5\" target=\"_blank\">从“讲故事”到“拼兑现” 机器人赛道迎商业化挑战</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5UDh0ZWxfRHVnU1QzSGtncktyeDJmTlM3ZFdFaUgwSHFiam1wRkxMM255Qnc1cW9BWGxTMTFFWUpzUlNNcElxMXpUd3QwNU5WS2RxMFdWN3ZRNFRqb2g0RGgtdGJOZw?oc=5",
-      "published": "Mon, 19 Oct 2026 18:11:15 GMT"
+      "title": "回购股权激励利益输送（5大项，逐条对照） - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9YOXNTNnFIMVhWaXh0ZW1HamxpVVVPZXFJSlVRUE9kTm5zSEZhSUZkVG9FNmtfbmxKQWRGWV9GSUo3enFFcU16ZE9JQjhKMVFLWk0yelBIa2IwakZwQk1ZVW9Ra0FKTHRYQTFJ?oc=5\" target=\"_blank\">回购股权激励利益输送（5大项，逐条对照）</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YOXNTNnFIMVhWaXh0ZW1HamxpVVVPZXFJSlVRUE9kTm5zSEZhSUZkVG9FNmtfbmxKQWRGWV9GSUo3enFFcU16ZE9JQjhKMVFLWk0yelBIa2IwakZwQk1ZVW9Ra0FKTHRYQTFJ?oc=5",
+      "published": "Mon, 19 Oct 2026 19:46:00 GMT"
     },
     {
       "source": "同花顺",
-      "title": "今日公告透露利好：6只个股有潜力 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0ZUU2OXJoeVhuZXJuajJTU1lOdUs1RVExSld4VjR5Y1RkYTFlZDFhLVl0ZDcyQldIVVR2UjVwS3pwSkR1a2dkVW91eGtHV0QtdUx3YUVfbjNNSjFfZVBKSzZR?oc=5\" target=\"_blank\">今日公告透露利好：6只个股有潜力</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB0ZUU2OXJoeVhuZXJuajJTU1lOdUs1RVExSld4VjR5Y1RkYTFlZDFhLVl0ZDcyQldIVVR2UjVwS3pwSkR1a2dkVW91eGtHV0QtdUx3YUVfbjNNSjFfZVBKSzZR?oc=5",
-      "published": "Mon, 19 Oct 2026 18:03:57 GMT"
+      "title": "特朗普：马斯克正通过特朗普账户向儿童发放SpaceX股票",
+      "summary": "特朗普在社交媒体上发帖称，马斯克正在通过他的账户向儿童发放SpaceX股票。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20261020/c680854078.shtml",
+      "published": "Mon, 19 Oct 2026 20:44:23 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中国证监会发布《违规转让证券案件行政处罚实施规则》 依法严厉打击各类违规减持 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zSHI1WGNHankzRWVmUF81QmxaN0J3NjVUM3M0d0dJeUlpQVBvRTJ5dnBoYjYwaTNFTnBBMTF2MXBubjlHYWItLTRzZG51bUJETUNyWVpFQ19HVThiWngzRjhR?oc=5\" target=\"_blank\">中国证监会发布《违规转让证券案件行政处罚实施规则》 依法严厉打击各类违规减持</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zSHI1WGNHankzRWVmUF81QmxaN0J3NjVUM3M0d0dJeUlpQVBvRTJ5dnBoYjYwaTNFTnBBMTF2MXBubjlHYWItLTRzZG51bUJETUNyWVpFQ19HVThiWngzRjhR?oc=5",
-      "published": "Mon, 19 Oct 2026 18:16:33 GMT"
+      "title": "泽连斯基称美国决定难以解释",
+      "summary": "乌克兰总统泽连斯基当地时间10月19日晚在与美国国会代表团会晤时表示，美国就俄乌战争所作出的决定——包括推迟武器运输和限制情报共享——都“难以解释”。泽连斯基还表示，他希望乌克兰代表团能在未来几天于挪威与美国总统特使威特科夫和库什纳会面。（CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20261020/c680854064.shtml",
+      "published": "Mon, 19 Oct 2026 20:31:50 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中国证监会就《证券市场先行赔付指导意见》公开征求意见 快速化解证券矛盾纠纷 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTWWJSVVBxdWp5bWVxc0g0czlzQjdzMWJ4em5helB4aE5xVXBzM0dOclhnWkFxSEV3aXgyWmFpd3JYbEJaTTJJbm9ieC1hME1PUEwzQzNGb2k2RHFsVE1BUmpn?oc=5\" target=\"_blank\">中国证监会就《证券市场先行赔付指导意见》公开征求意见 快速化解证券矛盾纠纷</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTWWJSVVBxdWp5bWVxc0g0czlzQjdzMWJ4em5helB4aE5xVXBzM0dOclhnWkFxSEV3aXgyWmFpd3JYbEJaTTJJbm9ieC1hME1PUEwzQzNGb2k2RHFsVE1BUmpn?oc=5",
-      "published": "Mon, 19 Oct 2026 18:16:21 GMT"
+      "title": "特朗普称该换人代表乌克兰谈判",
+      "summary": "美国总统特朗普当地时间10月19日下午在白宫对媒体表示，他认为应该由乌克兰总统泽连斯基以外的人代表乌克兰进行谈判，以寻求结束与俄罗斯的战事。特朗普说：“也许泽连斯基是时候找别人来谈判了。”此前在10月10日，他曾呼吁乌克兰更换总统。特朗普表示，美国向乌克兰提供了很多，却未得到任何回报。他还补充称美国继续与乌克兰共享情报，并表示他将考虑允许乌克兰人在战争结束前以“临时保护身份”留在美国。（CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20261020/c680854063.shtml",
+      "published": "Mon, 19 Oct 2026 20:26:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "哥伦比亚一“黑鹰”直升机发生事故 机上15名军人全部生还",
+      "summary": "总台记者获悉，当地时间10月19日下午，一架隶属于哥伦比亚陆军的“黑鹰”UH-60直升机在该国西南部考卡省因萨市发生事故，机上载有15名军人。哥伦比亚陆军随后证实，机上15名军人全部生还，其中部分人员受伤，目前伤员已接受医疗救治，事故原因还未明确。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261020/c680854061.shtml",
+      "published": "Mon, 19 Oct 2026 20:14:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "秘鲁一客机起飞时引擎起火",
+      "summary": "当地时间10月19日清晨，在秘鲁首都利马的豪尔赫·查韦斯国际机场，一架原计划飞往秘鲁皮乌拉的拉塔姆航空公司客机在起飞过程中，左侧引擎突发起火，航班被迫中止起飞。据机上乘客描述，这架空客A320客机加速准备起飞时，乘客透过舷窗看到引擎起火，橙色火焰一度映亮机舱。拉塔姆航空表示，飞机在起飞前遭遇了意外技术故障，乘客随后被疏散。机场应急小组已对事故作出响应，目前无人员伤亡报告。（CCTV国际时讯）",
+      "link": "https://news.10jqka.com.cn/20261020/c680854057.shtml",
+      "published": "Mon, 19 Oct 2026 20:08:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收评：美股三大指数收盘涨跌不一",
+      "summary": "美股三大指数收盘涨跌不一，标普500指数涨0.41%，道指跌0.06%，纳指涨1.11%。大型科技股方面，亚马逊涨4.98%，特斯拉涨3.76%，美光科技涨2.97%，英特尔涨2.43%，超威半导体涨1.76%，英伟达涨1.38%，SpaceX涨1.32%，谷歌A涨1.05%。中概股方面，蔚来跌1.02%，携程跌1.05%。",
+      "link": "https://news.10jqka.com.cn/20261020/c680854054.shtml",
+      "published": "Mon, 19 Oct 2026 20:01:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美元指数19日上涨",
+      "summary": "美元指数19日上涨。衡量美元对六种主要货币的美元指数当天上涨0.14%，在汇市尾市收于101.98。截至纽约汇市尾市，1欧元兑换1.1212美元，低于前一交易日的1.1233美元；1英镑兑换1.3305美元，低于前一交易日的1.3319美元。1美元兑换158.52日元，高于前一交易日的158.05日元；1美元兑换0.8265瑞士法郎，高于前一交易日的0.8242瑞士法郎；1美元兑换1.4106加元，低于前一交易日的1.4153加元；1美元兑换9.92瑞典克朗，高于前一交易日的9.9192瑞典克朗。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261020/c680853995.shtml",
+      "published": "Mon, 19 Oct 2026 19:38:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "安理会一致通过决议 呼吁防范利用数字技术侵害冲突中儿童",
+      "summary": "当地时间10月19日下午，联合国安理会以15票赞成一致通过一项关于儿童与武装冲突的决议，呼吁应对利用数字技术实施、助长或加剧侵害儿童行为的风险。决议由希腊起草，敦促会员国加强在国内履行国际法义务，制止和预防侵害儿童的行为，包括通过数字技术实施、助长或加剧的相关行为。决议还强调，应提升儿童的数字素养，帮助他们识别潜在风险，防范侵害发生。安理会认定的针对武装冲突中儿童的六类严重侵害行为包括：招募和使用儿童、杀害和残害儿童、强奸及其他形式的性暴力、袭击学校和医院、绑架儿童，以及拒绝向儿童提供人道主义准入。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261020/c680853993.shtml",
+      "published": "Mon, 19 Oct 2026 19:36:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沙特主导联军警告胡塞武装不得利用传统船只走私武器",
+      "summary": "当地时间10月19日，沙特阿拉伯主导的多国联军联合部队司令部发布警告，要求也门胡塞武装不得利用传统船只，通过海路向也门走私武器、导弹及其他军事装备。联军表示，此类走私活动直接威胁也门安全以及地区和国际安全，并危及平民生命安全。联军同时呼吁所有相关船只所有者，不要参与胡塞武装通过海路向也门海岸走私武器、导弹和军事装备的活动，以保障自身生命和财产安全。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261020/c680853962.shtml",
+      "published": "Mon, 19 Oct 2026 19:18:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "大批日本民众在国会前抗议 反对扩军修宪",
+      "summary": "当地时间19日晚上，大批日本民众在日本国会前举行抗议集会，反对日本政府扩军修宪动向。集会参加者表示，不希望看到日本再度成为发动战争的一方，呼吁政府维护和平宪法，重视外交沟通。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261020/c680853961.shtml",
+      "published": "Mon, 19 Oct 2026 19:14:36 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "利弗莫尔中概股龙头指数收涨0.56% - 手机网易网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KY3J2MHJpRXBHRTlXa1Y5ZjJ5UFNaVFdvYzJiNjlhcWZnMkFYRnpHMVRCdUtVT2d4V2stbVFSa2hHdlN4ZHEwaGY4Tk9XUjlNMHZmcThMLWtGcEtNOFVUUGtR?oc=5\" target=\"_blank\">利弗莫尔中概股龙头指数收涨0.56%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机网易网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5KY3J2MHJpRXBHRTlXa1Y5ZjJ5UFNaVFdvYzJiNjlhcWZnMkFYRnpHMVRCdUtVT2d4V2stbVFSa2hHdlN4ZHEwaGY4Tk9XUjlNMHZmcThMLWtGcEtNOFVUUGtR?oc=5",
+      "published": "Mon, 19 Oct 2026 20:27:04 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "惠誉点名美国主权评级下调风险，发达市场债务利息突破3.3万亿美元",
+      "summary": "<p style=\"text-align: left;\">在2026财年美国联邦赤字扩大至1.99万亿美元、净利息支出达到创纪录的1.05万亿美元的背景下，惠誉评级明确点名美国主权评级面临下调风险。</p> <p style=\"text-align: left;\">美国财政部10月16日公布的数据显示，截至9月30日的2026财年，美国联邦政府财政赤字达到1.99万亿美元，同比扩大约12%，为2021年以来最大年度财政赤字，连续第四年维持在这一高位水平。</p> <p style=\"text-align: left;\">美国国债收益率上升使利息支出飙升，成为推动财政赤字扩大的关键因素。2026财年，美国联邦政府净利息支出同比增加814亿美元，达到创纪录的1.05万亿美元，成为政府三大支出项目之一。</p> <p style=\"text-align: left;\">惠誉预计，到年底发达市场政府债务总额将突破75万亿美元；<strong>据国际金融协会（IIF）数据，即便在本轮债券抛售潮之前，富裕国家政府每年支付的利息已超过3.3万亿美元，超过全球国防开支或人工智能投资总额。</stron",
+      "link": "https://wallstreetcn.com/articles/3783960",
+      "published": "Mon, 19 Oct 2026 20:44:32 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -80,27 +108,6 @@
       "summary": "<p>报道：Nscale与Anthropic洽谈450亿美元云计算协议。\nNscale位于Monarch的第二座大楼将提供460 MW算力。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
       "link": "https://wallstreetcn.com/articles/3783961",
       "published": "Mon, 19 Oct 2026 19:25:59 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "纽交所延长部分期权交易时段，英伟达、阿里巴巴等首批入选",
-      "summary": "<p>纽约证券交易所旗下NYSE American期权交易所正式启动延长交易时段，为投资者提供在常规市场开盘前及收盘后管理风险和捕捉机会的新渠道。</p>\n<p>根据纽交所周一发布的声明，延长交易时段分为盘前和盘后两个区间：早盘时段为美东时间上午7:30至9:25，晚盘时段为下午4:00至4:15。</p>\n<p>首批符合条件的标的证券包括跟踪标普500指数、罗素2000指数和黄金等资产的ETF期权，以及苹果、微软、英伟达、阿里巴巴、台积电、Alphabet、亚马逊、甲骨文等公司的相关期权。</p>\n<p>纽交所首席产品官Kevin Tyrrell表示，推出期权延长交易时段是对市场需求的直接回应，旨在为投资者提供更长时间窗口内的投资机会与风险管理工具。</p>\n<p>纽交所还计划于12月将类似安排扩展至股票市场。</p>\n<p>此前媒体报道称，美国市场正朝着每周五天、每天接近24小时的股票交易模式推进，相关安排计划于12月开始实施，涉及包括纳斯达克和NYSE Arca在内的多个交易场所。</p>\n<p>推动这一趋势的因素包括全球投资者对美股的持续需求，以及投资者希望在美国常规交易时段之",
-      "link": "https://wallstreetcn.com/articles/3783956",
-      "published": "Mon, 19 Oct 2026 18:47:20 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "英伟达在“木星”系统上实现创纪录的量子计算模拟，该公司运行104量子比特容错量子计算模拟",
-      "summary": "<p>英伟达在“木星”系统上实现创纪录的量子计算模拟，该公司运行104量子比特容错量子计算模拟。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3783958",
-      "published": "Mon, 19 Oct 2026 18:09:52 GMT"
-    },
-    {
-      "source": "上海证券报",
-      "title": "政策端释放积极信号 引导公募逆周期布局锚定长期价值 - 上海证券报电子版",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9qY09XM2paT2p6YkJ0RGU3aGRYQnRtalZQV082YmNWdHFRMF94UUl0UnVQMjRjM1VxS3VZM1VRN2FlYVU5bWJkMTRUcFZQQzJGZk1CZGZqTkVseHF2VlUzSExoNWx6T1VVZVE0YUJ3?oc=5\" target=\"_blank\">政策端释放积极信号 引导公募逆周期布局锚定长期价值</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">上海证券报电子版</font>",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qY09XM2paT2p6YkJ0RGU3aGRYQnRtalZQV082YmNWdHFRMF94UUl0UnVQMjRjM1VxS3VZM1VRN2FlYVU5bWJkMTRUcFZQQzJGZk1CZGZqTkVseHF2VlUzSExoNWx6T1VVZVE0YUJ3?oc=5",
-      "published": "Mon, 19 Oct 2026 18:03:15 GMT"
     }
   ]
 }
