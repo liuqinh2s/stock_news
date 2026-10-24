@@ -1,7 +1,50 @@
 {
   "date": "2026-10-25",
   "hour": "07",
-  "total": 0,
-  "fetched_at": "2026-10-25T07:01:01.056268+08:00",
-  "news": []
+  "total": 6,
+  "fetched_at": "2026-10-25T07:50:59.522416+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股指数重要调整明起实施 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE16Q0VBQnhBYXdqUnRrNHV3NUZFcW1qMGdHSWl3UXhqR1cyUGloaGctdWlKdTdGeWNrR1RkeWpZd2NwZmJSMEkzYzJ5aURHSUl0WHZPdi1oMkZVb2VpdlpiR3VBNmRlUnZVOUE1LS1oZFNLb2dPaWp5TA?oc=5\" target=\"_blank\">A股指数重要调整明起实施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16Q0VBQnhBYXdqUnRrNHV3NUZFcW1qMGdHSWl3UXhqR1cyUGloaGctdWlKdTdGeWNrR1RkeWpZd2NwZmJSMEkzYzJ5aURHSUl0WHZPdi1oMkZVb2VpdlpiR3VBNmRlUnZVOUE1LS1oZFNLb2dPaWp5TA?oc=5",
+      "published": "Sat, 24 Oct 2026 23:43:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "中国经济展现出较强韧性！兴业证券王涵最新表态 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XcjFuM1RzMnhOb3VxcUs4bW92VmRScGE2UzNETkh4d0VSVkFkanJucGM1Mmt0WmtoaEllUFVmSy1ZZl90R3g2WEdkMlUzazdZWGs3eUVIbnR4UmlDOUJvWmF4Yw?oc=5\" target=\"_blank\">中国经济展现出较强韧性！兴业证券王涵最新表态</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XcjFuM1RzMnhOb3VxcUs4bW92VmRScGE2UzNETkh4d0VSVkFkanJucGM1Mmt0WmtoaEllUFVmSy1ZZl90R3g2WEdkMlUzazdZWGs3eUVIbnR4UmlDOUJvWmF4Yw?oc=5",
+      "published": "Sat, 24 Oct 2026 23:42:32 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "A股指数重要调整，明起实施 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxSFpKTFk0bUJrZGdFaDVKT3diNUdESzQwR1UwVkR5cXhBRVIwc3dZVUpfWm5haW1aQlZRVUx0WV91SXBpbWpQT05QNWI2bmpTMW1pSnRWaGxaVVNwSVpyUnh3SQ?oc=5\" target=\"_blank\">A股指数重要调整，明起实施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxSFpKTFk0bUJrZGdFaDVKT3diNUdESzQwR1UwVkR5cXhBRVIwc3dZVUpfWm5haW1aQlZRVUx0WV91SXBpbWpQT05QNWI2bmpTMW1pSnRWaGxaVVNwSVpyUnh3SQ?oc=5",
+      "published": "Sat, 24 Oct 2026 23:45:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗总统指责美国未能与伊朗达成协议",
+      "summary": "当地时间24日，伊朗总统佩泽希齐扬在伊朗国家电视台发表讲话时，指责美国导致伊美双方的临时协议失败，但他同时表示，伊美应该做出新的尝试来达成协议。佩泽希齐扬此前表示，美国必须先解除威胁和制裁，才能进行对话。据美国方面21日消息，美以军方已制订在美国中期选举后再次打击伊朗的具体计划。美国总统特朗普23日称或再对伊朗发动小规模军事行动。伊朗方面则表示，若与伊朗开战，美国必将承担严重后果。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261025/c681053808.shtml",
+      "published": "Sat, 24 Oct 2026 23:39:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美司法部要求加州官员核查选民身份，不配合者或将遭审查",
+      "summary": "当地时间10月24日，美国司法部已向加利福尼亚州全部58个县的选举官员发函，要求其在48小时内协助核实联邦政府名单上相关人员的美国公民身份，并将身份尚未确认者的邮寄选票暂时单独存放，直至完成核查。司法部警告，拒绝配合的地方官员可能面临联邦政府的严格审查。司法部认为，名单上的部分人员可能不具备合法选民登记资格。这些人员属于司法部上周在加州识别出的约2万名疑似非美国公民中的一部分，他们可能已收到选票。此外，白宫正推动联邦机构加快审查国土安全部获取的至少47个州的选民登记名单。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261025/c681053753.shtml",
+      "published": "Sat, 24 Oct 2026 23:13:23 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？ - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LUENqM0tzSzRDNjhjWkplbmVSUjlSdTdPTEZfWF90aFNLRWIwMTFlM1kxVFl2WUd6V29LaEFiRENWS21LcmJ6LQ?oc=5\" target=\"_blank\">现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LUENqM0tzSzRDNjhjWkplbmVSUjlSdTdPTEZfWF90aFNLRWIwMTFlM1kxVFl2WUd6V29LaEFiRENWS21LcmJ6LQ?oc=5",
+      "published": "Sat, 24 Oct 2026 23:34:58 GMT"
+    }
+  ]
 }
