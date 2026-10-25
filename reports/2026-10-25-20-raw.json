@@ -1,22 +1,36 @@
 {
   "date": "2026-10-25",
   "hour": "20",
-  "total": 23,
-  "fetched_at": "2026-10-25T20:00:58.320065+08:00",
+  "total": 33,
+  "fetched_at": "2026-10-25T20:50:04.499946+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "中信建投：A股急跌结束，底部显现 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXZLWTlveU1FSm0zNzNrb2diOHNMbFJKREM3NF9aMkRaNWY2X3NRcmNHVFhzTGtYN3NmZ3hNeVh0ZThNa2d0WWhxTUc0elFaLVNtYkVUVEoyd0VWQ0dlTW1FXy05bVZxdWFIY1B6MGR3Q3hDUGJZbEw1eXNnNVZ5NVVQTzZ6d1FyVEJkR3FRV0xhdWFBaFVhUm9oZFd2WDVWQktPc2lvRURTczlvY1hwb1Z4NEdGc1lWVXFCZVprYldrUWVydHU5RUF6cTN6VkE?oc=5\" target=\"_blank\">中信建投：A股急跌结束，底部显现</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMXZLWTlveU1FSm0zNzNrb2diOHNMbFJKREM3NF9aMkRaNWY2X3NRcmNHVFhzTGtYN3NmZ3hNeVh0ZThNa2d0WWhxTUc0elFaLVNtYkVUVEoyd0VWQ0dlTW1FXy05bVZxdWFIY1B6MGR3Q3hDUGJZbEw1eXNnNVZ5NVVQTzZ6d1FyVEJkR3FRV0xhdWFBaFVhUm9oZFd2WDVWQktPc2lvRURTczlvY1hwb1Z4NEdGc1lWVXFCZVprYldrUWVydHU5RUF6cTN6VkE?oc=5",
+      "published": "Sun, 25 Oct 2026 11:19:13 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "机构：A股有望出现持续1个月上涨行情，关注三大主线 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbDBJeWl5ak4yNHhVMnBrNlhRNHgxdXFwM0pLdktJN2c5Qkpmbm1PeXUwTWZpUkM2cDBzTzBzbm1EV2tjYk1rRmZOd0RuSXMwckk1eU9DQ28tMVhZdXF3SElhTkRvV2U4M3Z3MlhPQUUtRE5maHA1Yg?oc=5\" target=\"_blank\">机构：A股有望出现持续1个月上涨行情，关注三大主线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IbDBJeWl5ak4yNHhVMnBrNlhRNHgxdXFwM0pLdktJN2c5Qkpmbm1PeXUwTWZpUkM2cDBzTzBzbm1EV2tjYk1rRmZOd0RuSXMwckk1eU9DQ28tMVhZdXF3SElhTkRvV2U4M3Z3MlhPQUUtRE5maHA1Yg?oc=5",
+      "published": "Sun, 25 Oct 2026 12:16:08 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "华夏基金轩伟：坚定看好A股中长期投资价值 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9oVE9hUjZ5Q1lIY0NTZ0hscWQ0enZ6eUlMbXU5QlR3VGc5eTlZYjFjS1BNcDR5ZDBYMVROZlZyUEc4YlBDbU5wMHJTYVBfTHBGanFkSmRQbEdkZE5mOE9YM2hweGZyUGp1akRaS3BIeURRd3VpYXhDLQ?oc=5\" target=\"_blank\">华夏基金轩伟：坚定看好A股中长期投资价值</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oVE9hUjZ5Q1lIY0NTZ0hscWQ0enZ6eUlMbXU5QlR3VGc5eTlZYjFjS1BNcDR5ZDBYMVROZlZyUEc4YlBDbU5wMHJTYVBfTHBGanFkSmRQbEdkZE5mOE9YM2hweGZyUGp1akRaS3BIeURRd3VpYXhDLQ?oc=5",
+      "published": "Sun, 25 Oct 2026 11:47:12 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "A股三季报图景：收入同比高增，环比降温 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBrd3pzNTBqTVJHNlk4UjVhUDFYSm5TcjQ3Tm93UkItRG96T3hlQndIdEc5emZsYnFVY0JweHMzS2NrblZsZjZGQ3k4VVE3cFlvZzMyRmlJZkhxQmExelFPNEdwcGo1SzJKRDBjeXBDY0g1aVR0WHlleg?oc=5\" target=\"_blank\">A股三季报图景：收入同比高增，环比降温</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrd3pzNTBqTVJHNlk4UjVhUDFYSm5TcjQ3Tm93UkItRG96T3hlQndIdEc5emZsYnFVY0JweHMzS2NrblZsZjZGQ3k4VVE3cFlvZzMyRmlJZkhxQmExelFPNEdwcGo1SzJKRDBjeXBDY0g1aVR0WHlleg?oc=5",
       "published": "Sun, 25 Oct 2026 11:12:33 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "又一A股宣布，筹划重大重组 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUo2NkhtcE1tMGZVOXVZVjRVRXJhNDJjZEZOSnlYMkltcnhjb2x3V0p2TkJCck1kT1NNTnlnNzlkLXc5MnFxZU9HMHdjcVk3cXk1cUgwSl9KamlzVjRHUmZJWGFSMk5paUVwbG9PTlQ0QXk1cVFVQ01CVnBCY1FDLVJ2SFlvRDY2OG84ZTR4NFVPa09OejBJczBvQnBCU2NsU3VFS0JTZEZ1ZkRYaEc0UUhhalRyLUNoZnM5a2I5MFJRbHFrbk9YVTZKNlp4OVk?oc=5\" target=\"_blank\">又一A股宣布，筹划重大重组</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUo2NkhtcE1tMGZVOXVZVjRVRXJhNDJjZEZOSnlYMkltcnhjb2x3V0p2TkJCck1kT1NNTnlnNzlkLXc5MnFxZU9HMHdjcVk3cXk1cUgwSl9KamlzVjRHUmZJWGFSMk5paUVwbG9PTlQ0QXk1cVFVQ01CVnBCY1FDLVJ2SFlvRDY2OG84ZTR4NFVPa09OejBJczBvQnBCU2NsU3VFS0JTZEZ1ZkRYaEc0UUhhalRyLUNoZnM5a2I5MFJRbHFrbk9YVTZKNlp4OVk?oc=5",
-      "published": "Sun, 25 Oct 2026 10:23:21 GMT"
     },
     {
       "source": "新浪财经",
@@ -27,10 +41,10 @@
     },
     {
       "source": "新浪财经",
-      "title": "华鑫股份控股股东可能有变：仪电集团酝酿股份转让，下周一A股已有3家公司停牌 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1lX2t4SjRkMExVUDltOEVEMGE2OENtdDBvT1FCS0dZeU15N0t4aENWdTFCU3Q0SHpyRXJ2dzUtbzUxS3hXeXVWUTZoNjFZTXZOSFFSS1IyTFZRNkRCcmtDVl83WFJCLXZ2OWxzN3V5NVZsWWhISkU5cg?oc=5\" target=\"_blank\">华鑫股份控股股东可能有变：仪电集团酝酿股份转让，下周一A股已有3家公司停牌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lX2t4SjRkMExVUDltOEVEMGE2OENtdDBvT1FCS0dZeU15N0t4aENWdTFCU3Q0SHpyRXJ2dzUtbzUxS3hXeXVWUTZoNjFZTXZOSFFSS1IyTFZRNkRCcmtDVl83WFJCLXZ2OWxzN3V5NVZsWWhISkU5cg?oc=5",
-      "published": "Sun, 25 Oct 2026 10:09:03 GMT"
+      "title": "近一周A股融资净偿还495.80亿元 31个申万一级行业均净偿还 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQWllOdDVqY2NFUG1BcXNsQTlvLVNaeG9LVHVKbWlxclVNbDhKYm1mWGgwS3hxMVVXSG9vcU9KeG5xWDNDeWRwS3NNbnQ3NVFNT2lhU0JhcUVwejhTMzY0STNpOEdwNnl3Q3Fqb0pLLW1BUlNLa2twQXNZaXBfM0xzcURNTEItVHlIMTVQSmxSbFpmT3M?oc=5\" target=\"_blank\">近一周A股融资净偿还495.80亿元 31个申万一级行业均净偿还</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWllOdDVqY2NFUG1BcXNsQTlvLVNaeG9LVHVKbWlxclVNbDhKYm1mWGgwS3hxMVVXSG9vcU9KeG5xWDNDeWRwS3NNbnQ3NVFNT2lhU0JhcUVwejhTMzY0STNpOEdwNnl3Q3Fqb0pLLW1BUlNLa2twQXNZaXBfM0xzcURNTEItVHlIMTVQSmxSbFpmT3M?oc=5",
+      "published": "Sun, 25 Oct 2026 11:47:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -41,6 +55,20 @@
     },
     {
       "source": "新浪财经",
+      "title": "PCB、CPO，资金操作方向曝光！ - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5LS1huODZNT0JPdU50bFlRU1JUaDR0TjBIYTd0OUo5QkRaSjQ5WERaYnNRLTdwUEpHdVMtcER6YnFnQXRJTk13NjY1R3BidzQ4bl9IT05uSDdnT3ppMFNxdVBPOUxoX0EybWlLTEdFNElvRGgzd1VhYw?oc=5\" target=\"_blank\">PCB、CPO，资金操作方向曝光！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LS1huODZNT0JPdU50bFlRU1JUaDR0TjBIYTd0OUo5QkRaSjQ5WERaYnNRLTdwUEpHdVMtcER6YnFnQXRJTk13NjY1R3BidzQ4bl9IT05uSDdnT3ppMFNxdVBPOUxoX0EybWlLTEdFNElvRGgzd1VhYw?oc=5",
+      "published": "Sun, 25 Oct 2026 12:37:49 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "ALCO HOLDINGS(00328)公告及通告- [配售 / 根据一般性授权发行股份]根据一般授权配售新股份 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEFaeEJvaUQtcmdZSFN5TVhJOUVHRGJsVllEWWwtMmtmY04wSERFc24ySEZ2cVZOZEhEX29CNGN3dGdrUVVvNUR5Z1Fib2s2M25VUVdLZzI5RGpidkVOUF9wYUtBU01rS0FqVzVCYkxqTGViWTV1dEpOanhmMDZhbE4xYWxfRlk?oc=5\" target=\"_blank\">ALCO HOLDINGS(00328)公告及通告- [配售 / 根据一般性授权发行股份]根据一般授权配售新股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSEFaeEJvaUQtcmdZSFN5TVhJOUVHRGJsVllEWWwtMmtmY04wSERFc24ySEZ2cVZOZEhEX29CNGN3dGdrUVVvNUR5Z1Fib2s2M25VUVdLZzI5RGpidkVOUF9wYUtBU01rS0FqVzVCYkxqTGViWTV1dEpOanhmMDZhbE4xYWxfRlk?oc=5",
+      "published": "Sun, 25 Oct 2026 12:10:04 GMT"
+    },
+    {
+      "source": "新浪财经",
       "title": "《生物医药市值报告》发布：投资逻辑转向业绩兑现 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBWdGFxbjh4bGNNbWhoYjNoNG1NblBWa0UtSDRXWC1tQ3FvanVNdWJsOFAzRWxITlBwNGFsdHdadENTLUhHR0RhMDhaSC1IQVBSeldNVXhNbEhRdFdWQ1JmbnRNNUxvcXYtdldnNzVaUDhPalQwdHp5TA?oc=5\" target=\"_blank\">《生物医药市值报告》发布：投资逻辑转向业绩兑现</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWdGFxbjh4bGNNbWhoYjNoNG1NblBWa0UtSDRXWC1tQ3FvanVNdWJsOFAzRWxITlBwNGFsdHdadENTLUhHR0RhMDhaSC1IQVBSeldNVXhNbEhRdFdWQ1JmbnRNNUxvcXYtdldnNzVaUDhPalQwdHp5TA?oc=5",
@@ -48,17 +76,31 @@
     },
     {
       "source": "东方财富",
-      "title": "名创优品(09896.HK)10月22日耗资24.92万美元回购9.88万股 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE83Nmc0WHY4dDR2bUdGR0pkZ0dfWU1MY2ZzYko4RE1FQVB3dXQ2My15TkVKSWFQMWJvR2pXTVFYRlhzb2t0dVVtYWgzTmhHQUJjeUZWSmZGN001bFpfUjV1dEJHQUNPQm1ycHdv?oc=5\" target=\"_blank\">名创优品(09896.HK)10月22日耗资24.92万美元回购9.88万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Nmc0WHY4dDR2bUdGR0pkZ0dfWU1MY2ZzYko4RE1FQVB3dXQ2My15TkVKSWFQMWJvR2pXTVFYRlhzb2t0dVVtYWgzTmhHQUJjeUZWSmZGN001bFpfUjV1dEJHQUNPQm1ycHdv?oc=5",
-      "published": "Sun, 25 Oct 2026 10:41:00 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "001309，前三季度净利暴增32400%！A股公司，密集公告 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tM0lOSmxla2p2TV9zZV80dkM3Y19ZOFRmbHpYZjZrdVRXRmg0WUVSNlVOTjduZ3h0WGhJNGFEdnBZOHhPOEctLWstZU4tTDBfQ1V4SExMQXdvMDFzNzUtbDlLenJWZw?oc=5\" target=\"_blank\">001309，前三季度净利暴增32400%！A股公司，密集公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tM0lOSmxla2p2TV9zZV80dkM3Y19ZOFRmbHpYZjZrdVRXRmg0WUVSNlVOTjduZ3h0WGhJNGFEdnBZOHhPOEctLWstZU4tTDBfQ1V4SExMQXdvMDFzNzUtbDlLenJWZw?oc=5",
       "published": "Sun, 25 Oct 2026 11:12:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "肯尼亚一主干道发生交通事故致22人死亡",
+      "summary": "肯尼亚首都内罗毕至沿海城市蒙巴萨的公路25日发生一起客车与卡车相撞事故，造成22人死亡、6人受伤。事发地点位于马库埃尼郡。当地政府官员说，当天早上7时45分，一辆载有45名乘客的客车在超车时失控，与迎面驶来的一辆卡车相撞。事故造成22人遇难，另有6名伤者被送往医院救治。内罗毕至蒙巴萨公路是肯尼亚交通干线之一，承载大量往返港口和内陆的物流运输。警方资料显示，鲁莽驾驶、危险超车和酒后驾驶等行为导致这条公路上交通事故频发。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261025/c681056950.shtml",
+      "published": "Sun, 25 Oct 2026 12:24:30 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "全国总工会拨付200万元支援西藏灾区救灾救助工作",
+      "summary": "10月22日，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。日前，全国总工会向西藏自治区总工会拨付200万元，用于对受灾职工群众的帮扶救助和参与救灾工作一线职工的慰问，助力抢险救灾及灾后帮扶工作。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261025/c681056943.shtml",
+      "published": "Sun, 25 Oct 2026 12:24:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "粤港澳推进大湾区人才高质量发展",
+      "summary": "以“才汇湾区、博创未来”为主题的第四届粤港澳大湾区人才高质量发展大会暨第三届粤港澳大湾区博士博士后创新创业大赛，25日在东莞松山湖开幕。活动包括高峰盛会、博创大赛、产业开放麦、主题展览、洽谈对接、人才嘉年华六大板块，报名现场参会参赛超万人。开幕式现场，多位粤港澳专家围绕湾区产业、科技、人才发展机遇分享了心得。中国工程院院士、比亚迪首席科学家廉玉波围绕新能源汽车产业发展趋势，以及企业博士后创新平台赋能产业进行深入剖析。香港科技大学教授、XbotPark机器人基地发起人李泽湘聚焦硬科技创新创业生态，分享了拔尖科创人才培养体系建设的经验；澳门大学校长、智慧城市物联网全国重点实验室主任宋永华针对人工智能时代的人才引育与科技创新进行探讨。第三届博创赛决赛同期开展。本届大赛累计吸引海内外3800多个项目团队、近12000名博士、博士后参赛，参赛项目数量创历史新高。最终306个优质项目晋级决赛，凸显了创新成果向产业化转化的巨大潜力。此外，现场还设创业扶持对接区、成果转化对接区、大湾区博创赛政产学研金对接区、博士博士后和留学人才招聘区等洽谈对接区，打通人才、项目、资本与产业的对接渠道。当天下午，共话跨",
+      "link": "https://news.10jqka.com.cn/20261025/c681056822.shtml",
+      "published": "Sun, 25 Oct 2026 12:11:54 GMT"
     },
     {
       "source": "同花顺",
@@ -110,27 +152,6 @@
       "published": "Sun, 25 Oct 2026 10:53:13 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "逾1300人在法国新一轮示威活动中被捕",
-      "summary": "当地时间10月25日，法国内政部公布的数据显示，24日法国全国共举行289场示威活动，约41万人参加，其中巴黎约11万人。示威活动中共1314人被捕，53名警察和宪兵受伤。根据法国内政部公布的数据，与17日举行的上一轮全国示威相比，24日的示威人数从55万人降至41万人，被捕人数从2628人降至1314人。法国内政部表示，部分激进团体在示威队伍内部或周边试图袭击执法人员、破坏公共及私人财产。警方采取干预措施，阻止了大部分暴力行动。全国共发生75起需要消防部门处置的火情，24家商铺遭到抢劫。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261025/c681056409.shtml",
-      "published": "Sun, 25 Oct 2026 10:49:16 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "第33届杨凌农高会开幕 1000多项最新农业科技成果集中发布",
-      "summary": "今天（25日），第33届中国杨凌农业高新科技成果博览会和2026上合组织农业博览会在陕西杨凌开幕。本届农高会会期5天，参展企业数量、展览规模、办会层次较往届均有较大提升。今年首次设立丰收市集，农业机器人、AI大模型等一批新质生产力成果集中亮相。展会期间，将集中发布核心种源、节水农业、智慧农业等1000多项我国最新农业科技成果。本届杨凌农高会同期举办2026上合组织农博会，上合组织展馆首次单独设立。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261025/c681056337.shtml",
-      "published": "Sun, 25 Oct 2026 10:32:56 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗军方称在南部地区击落一架美军无人机",
-      "summary": "伊朗军方25日表示，其防空部队在伊朗南部击落一架美军“低成本无人作战攻击系统”（卢卡斯）无人机。据伊朗军队网站当天发表的声明，该无人机在南部城市阿巴斯港上空被伊朗防空系统击中并摧毁。自2月28日美国和以色列对伊朗发起军事打击以来，伊朗武装部队已多次宣布击落美军和以军无人机。伊朗伊斯兰革命卫队20日发表声明说，其防空部队于19日夜间在霍尔木兹海峡上空击落一架美军MQ-9“死神”无人机。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261025/c681056237.shtml",
-      "published": "Sun, 25 Oct 2026 10:18:54 GMT"
-    },
-    {
       "source": "财联社",
       "title": "A股蓄势反弹可期？投资主线有哪些？十大券商策略来了 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE12NmhqV3hHNmVvT2RrRms2eGF4bml1aU0zZlBzOU9fSktncFZRQWdZTFh4QkJHM0RhNFROMjdDbUliWW8xY0dsS0l1NXg5Rjd3U3Axci1acFd4amp4eWlkRFM5dXo0VzA4eEhKNVI3UktFUFRPY21mZQ?oc=5\" target=\"_blank\">A股蓄势反弹可期？投资主线有哪些？十大券商策略来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
@@ -138,25 +159,74 @@
       "published": "Sun, 25 Oct 2026 11:02:25 GMT"
     },
     {
-      "source": "财联社",
-      "title": "18:33:33【周日A股上市公司重点业绩公告精选】 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LVUl4c21ubHRjQlg3bnBIYW1FZG1GWmEyVjA1WnRhMDlHa2Z3SzNBWXhKOUVUdlJPb2ZfOTM2QlI2UTljdFNvbA?oc=5\" target=\"_blank\">18:33:33【周日A股上市公司重点业绩公告精选】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9LVUl4c21ubHRjQlg3bnBIYW1FZG1GWmEyVjA1WnRhMDlHa2Z3SzNBWXhKOUVUdlJPb2ZfOTM2QlI2UTljdFNvbA?oc=5",
-      "published": "Sun, 25 Oct 2026 10:33:33 GMT"
+      "source": "第一财经",
+      "title": "IPO周报：中科创新、兢强科技二次冲A折戟",
+      "summary": "<figure><img alt=\"IPO周报：中科创新、兢强科技二次冲A折戟\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/a8c569f69498beef752ab75090e9745f.jpg\" /></figure><p>10月19日～10月25日当周，沪深北交易所有2家拟IPO企业提交注册，2家终止IPO程序，其中1家终止审核、1家终止注册。</p><p>10月19日～10月25日当周，沪深北交易所有2家拟IPO企业提交注册，2家终止IPO程序，其中1家终止审核、1家终止注册。</p>\n\n<p>申报科创板的武汉中科创新技术股份有限公司（下称“中科创新”）在IPO申请获受理不到4个月时间，便撤回材料。该公司的IPO申请于今年6月29日获得受理，在7月份进入已问询环节后，尚未披露问询与回复，便于10月22日被终止审核。</p>\n\n<p>这是该公司二次闯关A股IPO以失败告终。曾在2014年，该公司申请在创业板上市，但是最终无果。</p>\n\n<p>中科创新起源于中科院物数所，是一家从事工业无损检测装备研发、生产和销售的企业",
+      "link": "https://www.yicai.com/news/103408299.html",
+      "published": "Sun, 25 Oct 2026 12:38:16 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "价格打折，哪些股票超跌了？",
-      "summary": "<p>双十一，股市也开启了“打折促销”。近期市场快速调整，创业板指从4372点回落到2700点以下，科创综指来到1300附近。不少前期热门股票大幅回撤，以历史高点为参照，中际旭创、新易盛、东山精密等热门股价格已跌至约四折。</p>\n<p>尽管10月23日市场明显反弹，但科技成长板块此前的调整幅度已经不小，也引发了市场对科技股是否会重演周期股大幅波动的担忧。</p>\n<p><strong>股票毕竟不是普通商品，价格打折不等于估值便宜。</strong>从交易层面看，下跌太快，股价反而可能出现反弹。但这类交易性反弹，并不是我们要讨论的“超跌”。</p>\n<p><strong>我们所说“超跌”是基于完整盈利周期基础上的估值便宜。</strong>投资者在这个价格上购买股票，可能会输掉一些时间，但不会丧失本金。</p>\n<p><strong>为此，我们拿出光伏，锂电的龙头，跟光通信龙头进行比较。光伏和锂电都有完整的周期可以参考。</strong>通过选取隆基绿能、宁德时代和中际旭创作为典型案例，比较不同景气阶段下的盈利和估值变化，观察经历大幅调整后，当前股价是否已经出现估值超跌。</p>\n<h",
-      "link": "https://wallstreetcn.com/articles/3784416",
-      "published": "Sun, 25 Oct 2026 10:49:33 GMT"
+      "source": "第一财经",
+      "title": "从“拥抱AI”到“重提风控”，基金经理们震荡季如何调仓",
+      "summary": "<figure><img alt=\"从“拥抱AI”到“重提风控”，基金经理们震荡季如何调仓\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/4c523c79aff32c55f1fdbd64a51b173f.jpg\" /></figure><p>AI投资进入“算账时刻”</p><p>“产业趋势判断与组合风险管理同样重要”，上半年还在为“没买AI”道歉，三季度，轮到重仓AI的人反思了。</p>\n\n<p>过去数月，市场风格走了一个急转弯。上半年还被资金捧在聚光灯中央的科技成长，三季度遭遇深度回调；而曾经“陪跑”许久的医药、周期板块等，忽然接过了领涨接力棒。波动中，有人从AI撤身兑现，有人往医药里加倍下注。</p>\n\n<p>随着公募三季报集中披露，已披露季报的产品持仓图谱，揭开基金经理多空取舍的真实路径。Wind数据显示，在有数据的170只主动权益基金中，超七成产品在三季度下调股票仓位，科技类产品成为利润承压主力。</p>\n\n<p>净值的大幅回撤，催生一波集中复盘，一众深耕AI赛道的基金经理在季报中反思交易得失。在部分基金经理看来，本轮",
+      "link": "https://www.yicai.com/news/103408290.html",
+      "published": "Sun, 25 Oct 2026 12:28:37 GMT"
     },
     {
-      "source": "中国证券报",
-      "title": "“牛散夫妇”现身，存储芯片牛股，净利大增2902.75% - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1IZkdUMkZNOWh2SE9tNWtqR2xVRkMzZ01tZ0huSHFfNEM4VUpaclJOekFhTUVFVEhrR29DNjlVN0lnQ1BTVUdaYTlTbzM0bHI3a1pfLUJLNkhuYkZNUy0wczc0alJ5MloxcFhQYXl2N2RUbUI4OGdicw?oc=5\" target=\"_blank\">“牛散夫妇”现身，存储芯片牛股，净利大增2902.75%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IZkdUMkZNOWh2SE9tNWtqR2xVRkMzZ01tZ0huSHFfNEM4VUpaclJOekFhTUVFVEhrR29DNjlVN0lnQ1BTVUdaYTlTbzM0bHI3a1pfLUJLNkhuYkZNUy0wczc0alJ5MloxcFhQYXl2N2RUbUI4OGdicw?oc=5",
-      "published": "Sun, 25 Oct 2026 10:15:45 GMT"
+      "source": "第一财经",
+      "title": "科技企业集体喊话、成交逼近2万亿，A股探底回升意味着什么",
+      "summary": "<figure><img alt=\"科技企业集体喊话、成交逼近2万亿，A股探底回升意味着什么\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/f5ec8aa62f3948b06e08bb54f264a31d.jpg\" /></figure><p>后市如何演绎？</p><p>近期A股市场持续震荡下行，在10月23日创出阶段性新低后放量反弹。这释放了什么信号？</p>\n\n<p>10月23日，A股四大指数集体先抑后扬，由早盘的大幅下挫到午后强势反攻，沪指在探出新低后大幅反弹，收盘逼近3700点。最终四大指数集体收涨，其中科技股聚集的创业板指和科创综指分别上涨4.16%、3.68%。</p>\n\n<p>当日，多家科技企业披露近期生产经营情况及行业趋势。有业内人士分析称，由相关公告可见，产业链的景气信号并非停留在预期层面，芯片企业收入利润快速增长，PCB、光芯片及测试设备企业订单保持良好态势，存储产品需求结构加快升级，产能建设与下一代产品验证也在同步推进。由算力资本开支带动的产业链需求，正逐步转化为上市公司的经营成果。</p>\n\n<p>那么",
+      "link": "https://www.yicai.com/news/103408291.html",
+      "published": "Sun, 25 Oct 2026 12:28:27 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "我国家庭规模持续缩小，31省份平均家庭户规模公布",
+      "summary": "<figure><img alt=\"我国家庭规模持续缩小，31省份平均家庭户规模公布 \" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/a4b7a7b655c8c088b0da702597360a84.jpg\" /></figure><p>一个地区家庭户规模的高低，与区域的出生率高低、人口流动等因素紧密相关。</p><p>近年来，我国的家庭规模持续缩小。</p>\n\n<p>今年5月公布的《2025年全国1%人口抽样调查主要数据公报》显示，全国共有家庭户51465万户，家庭户人口为129685万人。平均每个家庭户人口为2.52人。</p>\n\n<p>在平均每个家庭户人口方面，与2000年第五次全国人口普查的3.44人相比，25年来减少0.92人。</p>\n\n<p>分省份看，各个省份的家庭户规模又存在哪些差异？</p>\n\n<p>国家统计局编著出版的《中国统计年鉴2026》公布了31个省份平均家庭户规模数据。数据显示，有12个省份平均家庭户规模超过2.6人/户，分别是海南、西藏、云南、贵州、青海、广西、新疆、福建、甘肃、江西、宁夏和河南。",
+      "link": "https://www.yicai.com/news/103408286.html",
+      "published": "Sun, 25 Oct 2026 12:04:57 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "稳定新出生人口，住房支持生育还有几张牌？",
+      "summary": "<figure><img alt=\"稳定新出生人口，住房支持生育还有几张牌？\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/3A107B02-8FCB-4A25-8FB3-A4B48F341650.jpg\" /></figure><p>楼市政策的目标，将拓展到服务人口长期均衡发展的层面。\n\n</p><p>从公积金额度提高、财税补贴、到保障房分配支持......近年来，住房与人口联动的政策密集出台，一场围绕“小家庭”的支持政策在多地展开。</p><p>10月23日，国务院常务会议再次提出，要持续完善婚嫁、生育、养育、教育等政策，优化面向家庭的财税、社保、住房等支持举措，努力稳定新出生人口规模。</p><p>高层会议定调之下，住房政策被置于人口发展战略的重要位置。业内人士认为，这意味着房地产政策已从单纯的经济工具，进一步转向服务国家人口战略的方向。</p><p>楼市政策的目标，也将从单一稳市场，拓展到服务人口长期均衡发展的宏观层面。</p><p><strong>住房政策编入“人口账”</strong></p><p>围绕住房与人",
+      "link": "https://www.yicai.com/news/103408278.html",
+      "published": "Sun, 25 Oct 2026 11:46:05 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "管涛：促进新旧动能转换平稳接续",
+      "summary": "<figure><img alt=\"管涛：促进新旧动能转换平稳接续\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/bed281cd3f8deee53f971e132d1329ac.jpg\" /></figure><p>我国培育新质生产力，走的是前沿突破与传统底盘协同并举的路径，重在维护产业体系的完整性与协同性。</p><p>今年以来，在复杂外部环境扰动下，中国经济顶压前行、运行总体平稳。</p>\n\n<p>前三季度，实际国内生产总值（GDP）累计同比增长4.6%，落在年初设定的预期增长目标内；名义GDP增长5.6%，重新高于实际GDP增速，GDP平减指数累计同比增长1%。得益于新质生产力加快培育壮大，高端制造、数智经济、现代服务等新动能对经济增长贡献率维持在40%以上，是国内经济平稳运行的重要支撑。</p>\n\n<p>但结构性分化仍然是当前经济运行的突出特征，促进新旧动能转换平稳接续是现阶段政策发力的核心。</p>\n\n<p><strong>经济结构性分化格局延续</strong></p>\n\n<p>从生产端看，新动能对经济增长的引领",
+      "link": "https://www.yicai.com/news/103408253.html",
+      "published": "Sun, 25 Oct 2026 11:18:35 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "国债崩盘，法国面临降级时刻",
+      "summary": "<figure><img alt=\"国债崩盘，法国面临降级时刻\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/ee3e3ec53db50e683ae2c5d1fa5e3480.jpg\" /></figure><p>欧元共享货币避免了资本外逃与法郎贬值。但这些保护是有代价的，压力以利差缓慢扩大、利息侵蚀预算、总理更迭等形式显现，而非突然的货币危机。</p><p>10月21日，法国10年期国债收益率盘中突破5%，与德国10年期国债收益率利差扩大至约157个基点，创下24年来新高。与此同时，大量法国高评级企业债（L’Oréal、Air Liquide、LVMH、Sanofi等）以及部分BBB级投资级公司债的收益率，已低于同期限法国国债。Bloomberg数据显示，约2150亿欧元法国高评级企业债（占市场38%）的收益率低于法国政府债，而年初这一规模仅120亿欧元。</p>\n\n<p>更引人注目的是，意大利与希腊的10年期国债收益率也低于法国。意大利10年期收益率约4.5%～4.6%，对德国利差约110个基点，希腊利差更窄。虽然法国官方",
+      "link": "https://www.yicai.com/news/103408252.html",
+      "published": "Sun, 25 Oct 2026 11:18:18 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美国前沿模型面临“安全执法”",
+      "summary": "<figure><img alt=\"美国前沿模型面临“安全执法”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/f5f23348510313345af0b362846b6be0.jpg\" /></figure><p>美国联邦贸易委员会正在调查OpenAI等企业模型对消费者带来的危险，以及企业是否就AI产品的潜在危害误导消费者。</p><p>近期，美国OpenAI等企业开发的AI智能体在训练和评测中出现越权访问外部系统、向外部传输用户内容等行为，引发了业界对前沿模型安全控制与开发者责任的关注。</p>\n\n<p>9月30日，美国联邦贸易委员会（FTC）发言人表示，委员会正在调查OpenAI、Anthropic及其他AI企业的模型对消费者带来的危险，以及企业是否就AI产品的潜在危害误导消费者；将通过调取相关记录和要求高管提供证言核实事实，并依据现有法律审查企业行为。</p>\n\n<p><strong>AI模型安全事件推动FTC调查</strong></p>\n\n<p>近期，美国头部AI企业陆续披露模型安全事件。7月21日OpenAI披露",
+      "link": "https://www.yicai.com/news/103408254.html",
+      "published": "Sun, 25 Oct 2026 11:18:11 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "跑得了人跑不了钱？ 美国加州财富税下亿万富翁迁徙困局",
+      "summary": "<figure><img alt=\"跑得了人跑不了钱？  美国加州财富税下亿万富翁迁徙困局\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/eb42c9c83a4f193fc8fb04e06e2f6672.jpg\" /></figure><p>加州《亿万富翁税法案》是一部设计精巧、机制复杂的财富税。</p><p>2026年的美国加州，空气里弥漫着一股奇特的气息。不是野火的烟，而是财富的流动。</p>\n\n<p>2025年以来，消息不胫而走。据报道，谷歌联合创始人谢尔盖·布林和拉里·佩奇已在2026年1月1日之前离开加州。同时，Meta创始人马克·扎克伯格在佛罗里达州悄悄置入了一套豪华地产。SpaceX CEO马斯克把特斯拉总部从加州搬到了得州的奥斯汀，后来SpaceX、X的总部也一股脑迁去了得州。</p>\n\n<p>这一切，都发生在加州《亿万富翁税法案》（CBTA）于2026年11月3日正式投票之前。这是一部设计精巧、机制复杂的财富税，专门盯着那些跑得了人却跑不了钱的超级富豪。这些提前出走的亿万富翁，真的能逃掉这笔税单吗？</p>",
+      "link": "https://www.yicai.com/news/103408255.html",
+      "published": "Sun, 25 Oct 2026 11:17:58 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "六大议题、90余场活动，2026进博会上海会议活动蓄势待发",
+      "summary": "<figure><img alt=\"六大议题、90余场活动，2026进博会上海会议活动蓄势待发\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/ff71881c1884c7d82c3040d5e1849c47.jpg\" /></figure><p>活动以“对话·破局·共生”为边会主题，着力把思想对话转化为实实在在的经贸合作成果，持续放大进博会溢出效应。</p><p>第九届中国国际进口博览会迎来开幕倒计时10天，作为进博会和虹桥国际经济论坛的延伸和有益补充，2026进博会上海会议活动今日公布90余场边会日程，“进博会上海会议活动小程序”现已开放报名。活动以“对话·破局·共生”为边会主题，设置六大议题，汇聚全球各界嘉宾，着力把思想对话转化为实实在在的经贸合作成果，持续放大进博会溢出效应。</p>\n\n<p>上海会议活动已连续举办两届，前两届活动共吸引近1.7万人参会，五成以上的活动有外籍嘉宾出席，外国政要、国际组织负责人、省部级领导、跨国公司高管、两院院士、专家学者等高级别嘉宾近400位。两届活动累计形成各类成果超160项，为开放合作",
+      "link": "https://www.yicai.com/news/103408247.html",
+      "published": "Sun, 25 Oct 2026 11:08:28 GMT"
     },
     {
       "source": "行业研报",
