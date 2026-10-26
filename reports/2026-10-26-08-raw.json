@@ -1,9 +1,16 @@
 {
   "date": "2026-10-26",
   "hour": "08",
-  "total": 37,
-  "fetched_at": "2026-10-26T08:00:54.495214+08:00",
+  "total": 54,
+  "fetched_at": "2026-10-26T08:50:15.165553+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "今日A股市场重要快讯汇总｜2026年10月26日 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5SaTZEVTZIaTFhNmtsc1lLQ0J4Z19WQ0RCVGh5VGV4MGtZNUhfbDUyVHBtVlJxNUh1ZzZQTDVrTV84QmE4ZENaWGh3WkZXSXJUWU5nZEpWbS1ISVo3enpndl9MTUpJV3d6aEpPQzBmTlVFMWdMYXZ1ZUNtUVJrZw?oc=5\" target=\"_blank\">今日A股市场重要快讯汇总｜2026年10月26日</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SaTZEVTZIaTFhNmtsc1lLQ0J4Z19WQ0RCVGh5VGV4MGtZNUhfbDUyVHBtVlJxNUh1ZzZQTDVrTV84QmE4ZENaWGh3WkZXSXJUWU5nZEpWbS1ISVo3enpndl9MTUpJV3d6aEpPQzBmTlVFMWdMYXZ1ZUNtUVJrZw?oc=5",
+      "published": "Mon, 26 Oct 2026 00:00:29 GMT"
+    },
     {
       "source": "新浪财经",
       "title": "国际投行最新研判：A股估值吸引力正在显现 - 新浪财经",
@@ -13,38 +20,66 @@
     },
     {
       "source": "新浪财经",
-      "title": "A股估值吸引力正在显现 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZV9HeHRBVUQ0UXRMdXA4OG8xenpOX0Z5OVV6WGFKUVVFX2FkZ2NHSTRLZXZPTHFzV1NfMS0zVkJBUkRyWUJ2VXpHUS0tMnF1Qi10TExyem1aQk45enIzQmJFdVFXUHQwVFZFYlVpblRVcEtZZTdFVUNpSXNNMnVKMzVQb0kyQlJtQ2NVYUhPUTlPVDBvYUJDT280TVZLdjBpUi1LbWpNUmg2OWNCZE9BZDRzTGZaY3g2MDJzbWdhSFVHaGhKTFl1NGNZblloLWM?oc=5\" target=\"_blank\">A股估值吸引力正在显现</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZV9HeHRBVUQ0UXRMdXA4OG8xenpOX0Z5OVV6WGFKUVVFX2FkZ2NHSTRLZXZPTHFzV1NfMS0zVkJBUkRyWUJ2VXpHUS0tMnF1Qi10TExyem1aQk45enIzQmJFdVFXUHQwVFZFYlVpblRVcEtZZTdFVUNpSXNNMnVKMzVQb0kyQlJtQ2NVYUhPUTlPVDBvYUJDT280TVZLdjBpUi1LbWpNUmg2OWNCZE9BZDRzTGZaY3g2MDJzbWdhSFVHaGhKTFl1NGNZblloLWM?oc=5",
-      "published": "Sun, 25 Oct 2026 22:43:58 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "A股震荡分化 私募寻求投资组合再平衡 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9HSndEei01Wnk5emdTTC1PRk0wZThDSDl1dnR3eXV3LWN5LUlOenZZeDB4V3hYaU9qQkYyOV9leW0xbHNsYk9yZEVvcHh2Yk9VUTJGZFMzZWJTUDFNNDhQa2dHU09uVlFTckJoV2duaENZM2gyWDdvRQ?oc=5\" target=\"_blank\">A股震荡分化 私募寻求投资组合再平衡</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HSndEei01Wnk5emdTTC1PRk0wZThDSDl1dnR3eXV3LWN5LUlOenZZeDB4V3hYaU9qQkYyOV9leW0xbHNsYk9yZEVvcHh2Yk9VUTJGZFMzZWJTUDFNNDhQa2dHU09uVlFTckJoV2duaENZM2gyWDdvRQ?oc=5",
-      "published": "Sun, 25 Oct 2026 23:09:51 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "机构：关注三季报预期向好的超跌方向 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1VTlJxd0JvQnNFVjZfcUFBNEwtQzY3UXk4SW1UM3RoUWsxeTljT3hpZ1NIa3ZzN0hucURPbjdxMG9RTHlOV2hyTHRVa1ZPUm5SWmtteElFYXd2cEk0Z05fQlRrdVZPMi1sQmtobjItMkNsVE5EbjRvRg?oc=5\" target=\"_blank\">机构：关注三季报预期向好的超跌方向</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VTlJxd0JvQnNFVjZfcUFBNEwtQzY3UXk4SW1UM3RoUWsxeTljT3hpZ1NIa3ZzN0hucURPbjdxMG9RTHlOV2hyTHRVa1ZPUm5SWmtteElFYXd2cEk0Z05fQlRrdVZPMi1sQmtobjItMkNsVE5EbjRvRg?oc=5",
-      "published": "Sun, 25 Oct 2026 23:44:40 GMT"
-    },
-    {
-      "source": "新浪财经",
-      "title": "福莱特玻璃遭小摩减持约53.51万股 每股作价约5.22港元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmsxajEyWG83dGVHQ2RXZ0twb1F0emxpLVUzVktwNGlSVjU5VjlkSlpuOWtFRlNfaXpnMHdZRU0tTkRFcTc3aTJHN2JMemZfWHk1TlcxVURFQzdBSWtDTHlibGFhVUpmX1l5N2lBOEJqSFoxc1A3NkdDemluc3JmNFFjdDB3Mzd0R0lsLWhkU3J3MFBmallCZ3NvbmZFRno1UDV3dXJ1bmhGU2UyLWRYeDh3dE9VRVZfMWowaEpNOTM3bXlERi04MmZ5XzFVSEh3Q2RlYkhFbVNkU3d1VGtCY09uOA?oc=5\" target=\"_blank\">福莱特玻璃遭小摩减持约53.51万股 每股作价约5.22港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMmsxajEyWG83dGVHQ2RXZ0twb1F0emxpLVUzVktwNGlSVjU5VjlkSlpuOWtFRlNfaXpnMHdZRU0tTkRFcTc3aTJHN2JMemZfWHk1TlcxVURFQzdBSWtDTHlibGFhVUpmX1l5N2lBOEJqSFoxc1A3NkdDemluc3JmNFFjdDB3Mzd0R0lsLWhkU3J3MFBmallCZ3NvbmZFRno1UDV3dXJ1bmhGU2UyLWRYeDh3dE9VRVZfMWowaEpNOTM3bXlERi04MmZ5XzFVSEh3Q2RlYkhFbVNkU3d1VGtCY09uOA?oc=5",
-      "published": "Sun, 25 Oct 2026 23:32:55 GMT"
+      "title": "今日看点｜修订后的上证系列综合指数实施 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVZhd3ZONFFjOTRQYzZEUUMyT0xNMGkxTExNWGVuZUJQSnpPdHJ4WTBYYUhyNHRDRGJmS3FTYWhBTlNNTHJmdEFOOENJMlhTdTN0X1ItRFNhMkJQZjBZaFpLM1FNVkcyOXNFQXFmLUcyQUp1cFZoZ2V6UDdud2VpRTZzZEU?oc=5\" target=\"_blank\">今日看点｜修订后的上证系列综合指数实施</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVZhd3ZONFFjOTRQYzZEUUMyT0xNMGkxTExNWGVuZUJQSnpPdHJ4WTBYYUhyNHRDRGJmS3FTYWhBTlNNTHJmdEFOOENJMlhTdTN0X1ItRFNhMkJQZjBZaFpLM1FNVkcyOXNFQXFmLUcyQUp1cFZoZ2V6UDdud2VpRTZzZEU?oc=5",
+      "published": "Mon, 26 Oct 2026 00:34:54 GMT"
     },
     {
       "source": "新浪财经",
       "title": "金斯瑞生物获FIL Limited增持约1047.31万股 每股作价约33.54港元 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRng3UEhPcnVZTHI0UlAydmt3bEc1ME50bTZqcXFoeFFBUkRnV0ZRSFlPLUtBWmxzejhWWnd2Nkkxa2Y4ckFJbS1mc1QyMDR6RlF3dEhoUE55VHZwWThKSWpOelVUcFdoR04taEVneXdmUjVoY2RONktNUEsxMTl0Q3FteXlmMkJMOGRrbUl4X3otcVRXS180M2dSR3ZIVDdfLWw4TEprWVo4TGpTTHlaazBYcUhPcXMzejlLVURfS1FpbkgwelR5N0dHOVdWRzNPd2FjdkFZbHRMRlpENGhDLVR0Ykw?oc=5\" target=\"_blank\">金斯瑞生物获FIL Limited增持约1047.31万股 每股作价约33.54港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRng3UEhPcnVZTHI0UlAydmt3bEc1ME50bTZqcXFoeFFBUkRnV0ZRSFlPLUtBWmxzejhWWnd2Nkkxa2Y4ckFJbS1mc1QyMDR6RlF3dEhoUE55VHZwWThKSWpOelVUcFdoR04taEVneXdmUjVoY2RONktNUEsxMTl0Q3FteXlmMkJMOGRrbUl4X3otcVRXS180M2dSR3ZIVDdfLWw4TEprWVo4TGpTTHlaazBYcUhPcXMzejlLVURfS1FpbkgwelR5N0dHOVdWRzNPd2FjdkFZbHRMRlpENGhDLVR0Ykw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSmIzcTB4elB4ZnZMa3lWYWxHQ2Uwd2U2MXhMa1ozY2E4ZzVSNEQwcFNuTlhrSEdETUVyOVE0VnA5N0R3U2E5ZnFtX092Q2pDVlNZM3NQbTV0VkJPZXpVMDdmb0dGcmF0cXpNNEVYcVV1NUp4ZXNpelo1Slp2c09zNGotTjFWRjY1SUF0eGpYT3M1WG9qWGxIQ1VabkNhN2d5U21IRFJKdzk0M1dwNnc5VDNncUJJbnpwaUZoUEhFYmpZS0xycFhnYmxvZEVGNy1xQUlURXM5MWJoTGZ3b0VHbmx4VkE?oc=5\" target=\"_blank\">金斯瑞生物获FIL Limited增持约1047.31万股 每股作价约33.54港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSmIzcTB4elB4ZnZMa3lWYWxHQ2Uwd2U2MXhMa1ozY2E4ZzVSNEQwcFNuTlhrSEdETUVyOVE0VnA5N0R3U2E5ZnFtX092Q2pDVlNZM3NQbTV0VkJPZXpVMDdmb0dGcmF0cXpNNEVYcVV1NUp4ZXNpelo1Slp2c09zNGotTjFWRjY1SUF0eGpYT3M1WG9qWGxIQ1VabkNhN2d5U21IRFJKdzk0M1dwNnc5VDNncUJJbnpwaUZoUEhFYmpZS0xycFhnYmxvZEVGNy1xQUlURXM5MWJoTGZ3b0VHbmx4VkE?oc=5",
       "published": "Sun, 25 Oct 2026 23:37:32 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "福莱特玻璃遭小摩减持约53.51万股 每股作价约5.22港元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT3o4eWw0d1p3V0J6VXh0N1lkN0d3MWRCdWoyZS04NWZkUTFyMUU0N0lzaXM2Nk9VVXZ4QU9xSGxGeHhYMlRZNUVtaXlnYkhPdkhKbjhKekY3dVpDWWVhbzJrWFYtUWNQaHQwWlp2YjJ6cjh1SElILUR3STRCVU1WbC14V05QVmdNZkx1bFNjQlczRmttNDlua3RoWFU0cm0wWUpydFR4LVFRTFBlSE1aMlRoRUJXbHNScUNiZWN5Q0VpWkowc1ozenc4ZFpiTFQzZ05aZzc3M25fdXFhUnBOVWZucUtkdw?oc=5\" target=\"_blank\">福莱特玻璃遭小摩减持约53.51万股 每股作价约5.22港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOT3o4eWw0d1p3V0J6VXh0N1lkN0d3MWRCdWoyZS04NWZkUTFyMUU0N0lzaXM2Nk9VVXZ4QU9xSGxGeHhYMlRZNUVtaXlnYkhPdkhKbjhKekY3dVpDWWVhbzJrWFYtUWNQaHQwWlp2YjJ6cjh1SElILUR3STRCVU1WbC14V05QVmdNZkx1bFNjQlczRmttNDlua3RoWFU0cm0wWUpydFR4LVFRTFBlSE1aMlRoRUJXbHNScUNiZWN5Q0VpWkowc1ozenc4ZFpiTFQzZ05aZzc3M25fdXFhUnBOVWZucUtkdw?oc=5",
+      "published": "Sun, 25 Oct 2026 23:32:55 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "新信号！增量资金来袭，主动ETF迎来重大机遇！量化策略无惧“抄作业” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1l3TXZkZjByY2EzQjVUdE5PV18tSnFlT0RvcElTWTExRnRQcEx3Q1BvcVhDc0xrbC1LNllRRTliZzQzZjNXaEtNcEpMLVYyeXV0ckpENlBPUUxsUlI5dm53c3dNR2JOUDRzNDJqLWFKZkxpTTl0WFdJbmdjR0NTMzQ3VFlkRmhTMGYyZWFnQkJ6VHN0RG5lU2ZSbGJMWE5DRFo3dzZkc2x2akxab3dIXzFkNkFQVnA5b2JVU0FxZWxwQV96S0RaNmhSVGxIX0Z6Y2hxSzc0cw?oc=5\" target=\"_blank\">新信号！增量资金来袭，主动ETF迎来重大机遇！量化策略无惧“抄作业”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxON1l3TXZkZjByY2EzQjVUdE5PV18tSnFlT0RvcElTWTExRnRQcEx3Q1BvcVhDc0xrbC1LNllRRTliZzQzZjNXaEtNcEpMLVYyeXV0ckpENlBPUUxsUlI5dm53c3dNR2JOUDRzNDJqLWFKZkxpTTl0WFdJbmdjR0NTMzQ3VFlkRmhTMGYyZWFnQkJ6VHN0RG5lU2ZSbGJMWE5DRFo3dzZkc2x2akxab3dIXzFkNkFQVnA5b2JVU0FxZWxwQV96S0RaNmhSVGxIX0Z6Y2hxSzc0cw?oc=5",
+      "published": "Sun, 25 Oct 2026 23:17:50 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "环球新材国际获王欢增持16.8万股 每股作价约8.94港元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZEZPNjA2ZlVkVUdqQzd6QXBPU0Y0dGVEdmkya1VxUVlTWF96QjdOdll0T1JXY214R0lVOEpUcUxtejVFTWNkSGRoTjBPRTJLQmR5bFZCWnhfRWxIcjdZTG14VVl4WS12V19qMFY5aGxIZGRyaUV3N3h1bXYxOGZCTjdtQV9XMHM4MjJSR0pUQWRTRFlGTFdreTB6bFFQTjBfYzBEZHJYWkpYaXJ6SUVUbkc1MXBFOWxxN2JoU3BaZDNXdTg0b0ktTVlyamJ0UXVndktzQi1oaU9weXlkUkRfLTRMbW45dw?oc=5\" target=\"_blank\">环球新材国际获王欢增持16.8万股 每股作价约8.94港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZEZPNjA2ZlVkVUdqQzd6QXBPU0Y0dGVEdmkya1VxUVlTWF96QjdOdll0T1JXY214R0lVOEpUcUxtejVFTWNkSGRoTjBPRTJLQmR5bFZCWnhfRWxIcjdZTG14VVl4WS12V19qMFY5aGxIZGRyaUV3N3h1bXYxOGZCTjdtQV9XMHM4MjJSR0pUQWRTRFlGTFdreTB6bFFQTjBfYzBEZHJYWkpYaXJ6SUVUbkc1MXBFOWxxN2JoU3BaZDNXdTg0b0ktTVlyamJ0UXVndktzQi1oaU9weXlkUkRfLTRMbW45dw?oc=5",
+      "published": "Mon, 26 Oct 2026 00:17:31 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "知行集团控股获黄文辉增持9万股 每股作价0.28港元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM1hlczdtRFhJMHYtN3B2SXBiMU5VaEZNT3ZsdlRyYjhoZlcxR2RhRjlFeXZmTmU1ZVZvT0RaYnF0TWNDQkt6MjkzOTlYWFlpd2t5QTI1c054cW1QY1dGWTBxRVo4RTVrYW9HaDkzRXVnZGtqc1o2WHc3azJVQUh2Tzh6YklsU2dVd0dCTHhjVFlSWWNOQWpBUnpmSE43QldxNko3bk5PeV9NWHF0Tmx0NU43eWJwVDVVZERVS2t4RVloZDExY21HVWFvUFotVGdzbTRJODRqc04yQlV2T0JlSVk4VDZRZw?oc=5\" target=\"_blank\">知行集团控股获黄文辉增持9万股 每股作价0.28港元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOM1hlczdtRFhJMHYtN3B2SXBiMU5VaEZNT3ZsdlRyYjhoZlcxR2RhRjlFeXZmTmU1ZVZvT0RaYnF0TWNDQkt6MjkzOTlYWFlpd2t5QTI1c054cW1QY1dGWTBxRVo4RTVrYW9HaDkzRXVnZGtqc1o2WHc3azJVQUh2Tzh6YklsU2dVd0dCTHhjVFlSWWNOQWpBUnpmSE43QldxNko3bk5PeV9NWHF0Tmx0NU43eWJwVDVVZERVS2t4RVloZDExY21HVWFvUFotVGdzbTRJODRqc04yQlV2T0JlSVk4VDZRZw?oc=5",
+      "published": "Sun, 25 Oct 2026 23:39:08 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "前三季度“保险版ABS”登记规模超1300亿元 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFSUNpa3VWa0pvdXBLVE9UanhjN1RWbXFmTm54MURfc3ZWSUFqRUh2c2xLVTQycnVPclZfb1V1WmtrTWpJaHdwdGhqbzhXcEF4dGI4ZzRoS3BJb2ozMkVEbTRsVEZDZw?oc=5\" target=\"_blank\">前三季度“保险版ABS”登记规模超1300亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFSUNpa3VWa0pvdXBLVE9UanhjN1RWbXFmTm54MURfc3ZWSUFqRUh2c2xLVTQycnVPclZfb1V1WmtrTWpJaHdwdGhqbzhXcEF4dGI4ZzRoS3BJb2ozMkVEbTRsVEZDZw?oc=5",
+      "published": "Mon, 26 Oct 2026 00:22:30 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "中国宏桥(01378.HK)10月23日耗资4.5亿港元回购2402.65万股 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBhT3RJMFhXMkIwb19lRjM5UDhtakV3UXloSHVaYVVTdXdHVTRZMVBoM0w3SUFNa2NiejEyaHJWb0JCeFNkUUFvQlhoeS1mb1Rqa3dfaXdVaEN0RUFjelZvSjdhOFdIUzNkcVZB?oc=5\" target=\"_blank\">中国宏桥(01378.HK)10月23日耗资4.5亿港元回购2402.65万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhT3RJMFhXMkIwb19lRjM5UDhtakV3UXloSHVaYVVTdXdHVTRZMVBoM0w3SUFNa2NiejEyaHJWb0JCeFNkUUFvQlhoeS1mb1Rqa3dfaXdVaEN0RUFjelZvSjdhOFdIUzNkcVZB?oc=5",
+      "published": "Mon, 26 Oct 2026 00:18:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股市必读：赢时胜三季报 - 第三季度单季净利润同比下降38.64% - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Mzkxa3AwT1pzUkVhV0g4NmZrWEJJcjBqdm4yNlJjME1KN0tJdnZWbU9JQ2pRdnZZUnAwUnZEc0hmQWhfWlF1VlNxdU9vQ2c0S213b3c2UGp1TmpDeFlMM2d2d1lmcEljYmhF?oc=5\" target=\"_blank\">股市必读：赢时胜三季报 - 第三季度单季净利润同比下降38.64%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Mzkxa3AwT1pzUkVhV0g4NmZrWEJJcjBqdm4yNlJjME1KN0tJdnZWbU9JQ2pRdnZZUnAwUnZEc0hmQWhfWlF1VlNxdU9vQ2c0S213b3c2UGp1TmpDeFlMM2d2d1lmcEljYmhF?oc=5",
+      "published": "Mon, 26 Oct 2026 00:16:00 GMT"
     },
     {
       "source": "东方财富",
@@ -55,10 +90,24 @@
     },
     {
       "source": "东方财富",
+      "title": "股市必读：英特集团三季报 - 第三季度单季净利润同比增长41.59% - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFByakZkU0ZnLWdVSGNBTjE0YURIMDF6UWlieDZuZlh2c251d3VFNnNuQlBNXzRMbFhoUHNISzJVeTlmQTlhem81bDFrd1FjT2NsaEV3N1VxWHdMUGtKNmJwbUtUZ054V1BobHk4?oc=5\" target=\"_blank\">股市必读：英特集团三季报 - 第三季度单季净利润同比增长41.59%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByakZkU0ZnLWdVSGNBTjE0YURIMDF6UWlieDZuZlh2c251d3VFNnNuQlBNXzRMbFhoUHNISzJVeTlmQTlhem81bDFrd1FjT2NsaEV3N1VxWHdMUGtKNmJwbUtUZ054V1BobHk4?oc=5",
+      "published": "Mon, 26 Oct 2026 00:16:00 GMT"
+    },
+    {
+      "source": "东方财富",
       "title": "股市必读：惠威科技新发布《关于回购公司股份实施完成暨股份变动的公告》 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE82bGdjTDNTcXZpQllGTXRfVmZFeHAzbkRtYWRaclBfNmxWNkVXUlR0NnFRalVsa0xtclptVUI3dWMybWtWbnk3Q2p5UzNIZkN1RFdGWWJSZUY5MXBmS2hzMVpXdWNITHl4OEc0?oc=5\" target=\"_blank\">股市必读：惠威科技新发布《关于回购公司股份实施完成暨股份变动的公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82bGdjTDNTcXZpQllGTXRfVmZFeHAzbkRtYWRaclBfNmxWNkVXUlR0NnFRalVsa0xtclptVUI3dWMybWtWbnk3Q2p5UzNIZkN1RFdGWWJSZUY5MXBmS2hzMVpXdWNITHl4OEc0?oc=5",
       "published": "Sun, 25 Oct 2026 23:16:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "股市必读：瑞华泰（688323）10月23日董秘有最新回复 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vcmlad2dueE1GQUppbGhXckdIQzc3UG56TlZDRFRuRU1KdkhXbS1jSURHRGNsSkJfcEJIZndOS215b3JrblFHODA1cGlxR2dSdHhnaU9Mb1FGNUJIWjZ2VTljYzRZYXl1cFVF?oc=5\" target=\"_blank\">股市必读：瑞华泰（688323）10月23日董秘有最新回复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Vcmlad2dueE1GQUppbGhXckdIQzc3UG56TlZDRFRuRU1KdkhXbS1jSURHRGNsSkJfcEJIZndOS215b3JrblFHODA1cGlxR2dSdHhnaU9Mb1FGNUJIWjZ2VTljYzRZYXl1cFVF?oc=5",
+      "published": "Mon, 26 Oct 2026 00:16:00 GMT"
     },
     {
       "source": "东方财富",
@@ -69,31 +118,94 @@
     },
     {
       "source": "东方财富",
-      "title": "股市必读：金牌家居新发布《金牌家居关于“金23转债”预计触发转股价格向下修正条件的提示性公告》 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWGFvamZyLWZ6QkY0V3VTRk9HYjVWQklnWlZkTEdTVjNQNXpqcVNGVlh4eWZnWDlSNmRWMGNuYkFNN2FZUmc1OHdXRWlNQlFBY2RwcXVBeEdsR2EwVkwwSkYxbU9WbkJXYzZZ?oc=5\" target=\"_blank\">股市必读：金牌家居新发布《金牌家居关于“金23转债”预计触发转股价格向下修正条件的提示性公告》</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zWGFvamZyLWZ6QkY0V3VTRk9HYjVWQklnWlZkTEdTVjNQNXpqcVNGVlh4eWZnWDlSNmRWMGNuYkFNN2FZUmc1OHdXRWlNQlFBY2RwcXVBeEdsR2EwVkwwSkYxbU9WbkJXYzZZ?oc=5",
-      "published": "Sun, 25 Oct 2026 22:19:00 GMT"
+      "title": "A股近期新规影响谁？我开始重点观察三季报业绩股 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT0Nfa3Z2S0pBS0dsN29jXzQtNXpaOEhOcEpoX2Q2d0lqRm1rUEpHVVBDNTlGY1VmX3VQckM0bVE3ek1HU0p5WXFkaDlZSDdNMWMwTHFMSVptdnVlZ05USkg1Znd3OXhPTWU2enl0MnBCZUh3ZmdqMmotTlhHQXkySk5xRG9LOXJzbnpENnIzWDh5WHlHU0hrci1EeGVJSE9rVmhiMmsxcThHN0g2ZlBtS1pYRVZheThTaXMxcHNod0gzZlBwSmdWMTY5TU9zbm5WQms5SFJJeldsQ3BVRVdKeDY4blNhVVBYUnVMclRDS05DTHZ0RGJmTGFB?oc=5\" target=\"_blank\">A股近期新规影响谁？我开始重点观察三季报业绩股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT0Nfa3Z2S0pBS0dsN29jXzQtNXpaOEhOcEpoX2Q2d0lqRm1rUEpHVVBDNTlGY1VmX3VQckM0bVE3ek1HU0p5WXFkaDlZSDdNMWMwTHFMSVptdnVlZ05USkg1Znd3OXhPTWU2enl0MnBCZUh3ZmdqMmotTlhHQXkySk5xRG9LOXJzbnpENnIzWDh5WHlHU0hrci1EeGVJSE9rVmhiMmsxcThHN0g2ZlBtS1pYRVZheThTaXMxcHNod0gzZlBwSmdWMTY5TU9zbm5WQms5SFJJeldsQ3BVRVdKeDY4blNhVVBYUnVMclRDS05DTHZ0RGJmTGFB?oc=5",
+      "published": "Sun, 25 Oct 2026 23:14:00 GMT"
     },
     {
       "source": "东方财富",
-      "title": "股市必读：康德莱新发布《上海康德莱企业发展集团股份有限公司关于子公司转让其控股子公司部分股权进展暨完成股权转让的公告》_财富号_东方财富网 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUzZJRHItYnd5LURjS3JsZ3hRN2E1NU1kMDZHWldMckpYRXp2X0JPVVZ3dXgwNmdBWXduM2x0NlRqbkNrNnNOUWU4QnV5d1ZXRndUNnI0Z2JuQklBYVo1d05Ua21PQnFOaG1Z?oc=5\" target=\"_blank\">股市必读：康德莱新发布《上海康德莱企业发展集团股份有限公司关于子公司转让其控股子公司部分股权进展暨完成股权转让的公告》_财富号_东方财富网</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMUzZJRHItYnd5LURjS3JsZ3hRN2E1NU1kMDZHWldMckpYRXp2X0JPVVZ3dXgwNmdBWXduM2x0NlRqbkNrNnNOUWU4QnV5d1ZXRndUNnI0Z2JuQklBYVo1d05Ua21PQnFOaG1Z?oc=5",
-      "published": "Sun, 25 Oct 2026 22:16:00 GMT"
+      "title": "股市必读：中荣股份三季报 - 第三季度单季净利润同比下降1.35% - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE95RlRhNnhzdGUtaW45UXlQeElMMHNTZm9MY3hhY3ZjdmtPT2ZrNXpfRHJDcDJPVHk5TmZqdUFOM2VvaFczQmRjWXl1a3JRQlNPNkJDWDFWR2hUbGdLM3FQb1N2TzE5dVlnbXVj?oc=5\" target=\"_blank\">股市必读：中荣股份三季报 - 第三季度单季净利润同比下降1.35%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95RlRhNnhzdGUtaW45UXlQeElMMHNTZm9MY3hhY3ZjdmtPT2ZrNXpfRHJDcDJPVHk5TmZqdUFOM2VvaFczQmRjWXl1a3JRQlNPNkJDWDFWR2hUbGdLM3FQb1N2TzE5dVlnbXVj?oc=5",
+      "published": "Mon, 26 Oct 2026 00:19:00 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "股市必读：沪宁股份三季报 - 第三季度单季净利润同比下降18.46% - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5mU1BFemdVVURIVDljTWVCSUxzWElfYkFCaGhYbDRzUnZHZlNObHRDUmR6c0tZV2tNVDlRSGl3ajh2WkFSdGNaRG9fUkZxNDQ3aGJkNzRTX29vMUxjeTF5dWhjeXNPa001alk0?oc=5\" target=\"_blank\">股市必读：沪宁股份三季报 - 第三季度单季净利润同比下降18.46%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mU1BFemdVVURIVDljTWVCSUxzWElfYkFCaGhYbDRzUnZHZlNObHRDUmR6c0tZV2tNVDlRSGl3ajh2WkFSdGNaRG9fUkZxNDQ3aGJkNzRTX29vMUxjeTF5dWhjeXNPa001alk0?oc=5",
-      "published": "Sun, 25 Oct 2026 22:22:00 GMT"
+      "source": "同花顺",
+      "title": "两市融资余额较上日减少242.79亿元",
+      "summary": "截至10月23日，上交所融资余额报12373.51亿元，较前一交易日减少95.87亿元；深交所融资余额报11574.71亿元，较前一交易日减少146.92亿元；两市合计23948.22亿元，较前一交易日减少242.79亿元。",
+      "link": "https://news.10jqka.com.cn/20261026/c681063037.shtml",
+      "published": "Mon, 26 Oct 2026 00:47:32 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "股市必读：国瑞科技（300600）10月23日董秘有最新回复 - 财富号",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBzeTJXMFp6T3poVWZiMUVxc21mZk4zUlg4OUJQenZmVXdRTXNnV3hpYzlPSEk5SnlRRU9tVGkzcnpCZzhwU1VDV2Y1UXRJejFMQlh4MDFwMUhacTBsMmFmbS1pWXNNdUx4dERV?oc=5\" target=\"_blank\">股市必读：国瑞科技（300600）10月23日董秘有最新回复</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzeTJXMFp6T3poVWZiMUVxc21mZk4zUlg4OUJQenZmVXdRTXNnV3hpYzlPSEk5SnlRRU9tVGkzcnpCZzhwU1VDV2Y1UXRJejFMQlh4MDFwMUhacTBsMmFmbS1pWXNNdUx4dERV?oc=5",
-      "published": "Sun, 25 Oct 2026 22:22:00 GMT"
+      "source": "同花顺",
+      "title": "网联平台单日处理支付交易46.4亿笔创新高",
+      "summary": "记者从网联清算有限公司获悉，网联平台10月20日处理支付交易46.4亿笔，创下单日处理交易历史新高，平稳支撑电商大促支付高峰。10月以来，双11电商大促预热活动全面开启，多家电商平台陆续启动预售。10月20日，电商尾款支付叠加现货抢购形成集中支付流量高峰，网联平台平稳承接本次流量冲击，系统成功率保持100%，行业全链路安全稳定运行。记者了解到，在今年双11峰值保障工作中，网联清算公司首次上线“AI（人工智能）员工”，实时跟踪分析各保障参与机构运行数据，将全链路监测分析时效压缩至秒级，大幅提升行业保障效能。（证券日报）",
+      "link": "https://news.10jqka.com.cn/20261026/c681062754.shtml",
+      "published": "Mon, 26 Oct 2026 00:37:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中信证券：算力产业仍在增长但将回归理性",
+      "summary": "中信证券研报称，中美算力领域正处于高度景气建设周期，高速增长之下，北美算力建设面临投融两端困局：其一，投资能否回本？其二，融资能否承接？中国算力资本开支增长空间较大，国资体系、信贷成本、基础设施承载条件有利，关键在于国产算力芯片性能及产能放量，2028年或迎供给释放节点。综合来看，中信证券认为产业仍在增长但将回归理性，考虑体量高度集中、估值比肩“科网”，且资金面“抽水”回升而净“注水”收窄，美股市场须警惕调整风险。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261026/c681062578.shtml",
+      "published": "Mon, 26 Oct 2026 00:31:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "本川智能：所有扩产全部投向高附加值产品，不再布局低端普通板",
+      "summary": "10月26日，本川智能在最新披露的投资者关系活动记录表中表示，泰国海外工厂2026年3月奠基，预计2027Q4投产，产能40万㎡，生产高多层板；珠海二期预计2026Q4基建，2028上半年投产，产能100万㎡，投资额不超10亿元，主要产品包括高多层、HDI、陶瓷基板、金属基板等；南京三期预计2027Q1基建，2028下半年投产，产能150万㎡，投资额不超20亿元，聚焦高多层、高阶HDI；CIPB专用工厂2026Q3开工，预计2027Q1量产，产能12万㎡。合计规划产能约300万㎡，建设投产期从2026年至2028年。仍应提示各位，上述全部项目预计基建、投产时间及及产能等均受到行业发展趋势、项目建设情况及市场需求等多方面因素影响，具体请以公司公开披露的公告及定期报告的内容为准。新产线投产后折旧刚性计提，调试期良率偏低，会阶段性压制毛利率；随着订单导入、良率提升，经过产能爬坡盈利逐步修复。所有扩产全部投向高附加值产品，不再布局低端普通板。（界面新闻）",
+      "link": "https://news.10jqka.com.cn/20261026/c681062561.shtml",
+      "published": "Mon, 26 Oct 2026 00:30:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中信证券：GPT-6 Astra进入机器人控制 物理AI迎来重大拐点",
+      "summary": "中信证券研报称，通用大模型正在从机器人的高层任务规划，进一步向动作生成和执行控制延伸。机器人大脑主要依赖经过机器人动作数据训练的VLA、WAM等专用模型，将视觉和语言指令转化为动作。近期，NVIDIA、Stanford等研究机构陆续探索将GPT-6 Astra应用于机器人控制，尝试利用通用模型已有的视觉理解、空间推理和任务规划能力，减少对专用策略训练的依赖。Astra在具身任务的数据集上展现出了较好的泛化性，中信证券认为，展望2027年，通用模型进入具身任务领域将成为AI行业的下一个投入方向，而通用模型与专用模型短期更可能形成分工协同的局面。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261026/c681062344.shtml",
+      "published": "Mon, 26 Oct 2026 00:24:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中信建投：关注物理AI数据与仿真、AI安全、国产芯片等方向",
+      "summary": "中信建投研报称，寒武纪、海光信息三季度收入增长，毛利率环比提升；国内部分配置及海外高端GPU租金上行，算力服务景气延续。通用大模型与执行框架协同提升机器人操作能力，头部厂商推进产能建设，高质量交互数据、仿真合成及评测体系建设有望扩大物理AI产业需求。PHP漏洞和LiteLLM供应链事件凸显漏洞利用、凭证管理及运行时防护需求，模型公司推进代码验证与执行隔离，推动AI安全产品落地。关注物理AI数据与仿真、AI安全、国产芯片与超节点及算力服务等方向。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261026/c681062181.shtml",
+      "published": "Mon, 26 Oct 2026 00:17:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "受卢拉当选巴西总统影响，日本市场上的巴西ETF下跌11%",
+      "summary": "受卢拉当选巴西总统影响，日本市场上的巴西ETF下跌11%。",
+      "link": "https://news.10jqka.com.cn/20261026/c681062118.shtml",
+      "published": "Mon, 26 Oct 2026 00:14:44 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "卢拉连任巴西总统",
+      "summary": "据巴西高等选举法院25日晚公布的计票结果，劳工党总统候选人、现任总统卢拉在2026年巴西总统选举第二轮投票中获胜，赢得连任。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261026/c681061664.shtml",
+      "published": "Mon, 26 Oct 2026 00:10:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "韩国综指跌幅扩大至1%",
+      "summary": "韩国综指跌幅扩大至1%，现报5492.88点。个股方面，三星电子跌超1%。",
+      "link": "https://news.10jqka.com.cn/20261026/c681061498.shtml",
+      "published": "Mon, 26 Oct 2026 00:05:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日韩股市集体低开",
+      "summary": "日经225指数低开0.39%，报62449.96点。韩国综指低开0.92%，报5499.05点。",
+      "link": "https://news.10jqka.com.cn/20261026/c681061314.shtml",
+      "published": "Mon, 26 Oct 2026 00:01:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "布伦特原油失守111美元/桶",
+      "summary": "布伦特原油失守111美元/桶，日内跌1.45%。",
+      "link": "https://news.10jqka.com.cn/20261026/c681061307.shtml",
+      "published": "Mon, 26 Oct 2026 00:01:08 GMT"
     },
     {
       "source": "同花顺",
@@ -159,81 +271,60 @@
       "published": "Sun, 25 Oct 2026 23:35:31 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "券商三季报业绩韧性显现 机构看好板块估值修复",
-      "summary": "近日，多家上市券商相继披露三季报，前三季度营业收入、净利润普遍实现增长，整体业绩展现较强韧性。与此同时，机构亦关注到券商板块当前的红利属性。中信证券分析称，A股头部券商股息率已接近或超越传统红利行业。开源证券非银首席分析师高超认为，三季度市场交易量和股市表现环比走弱，经纪、两融业务收入有所承压，但IPO（首发）市场复苏，长鑫科技等项目上市带来的直投和跟投收益增量，以及大财富管理和海外业务的经营韧性，有望为行业盈利提供支撑。当前头部券商ROE（净资产收益率）中枢及盈利持续性提升，与低估值水平明显错配，估值修复概率提升。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060563.shtml",
-      "published": "Sun, 25 Oct 2026 23:34:25 GMT"
+      "source": "财联社",
+      "title": "10月26日投资避雷针：8天4板人气股第三季度净利润同比下降43.60% - 搜狐网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3VFREQ3NkRNc0NfTXZTUlowVUJqR3dENFB5NlJueHk3RG1OY05sc1RWYXltRHBpOGJXTk4zdnl6clY1LUtkajdla0FsOG5DUHdOUVA4S3piaWMyelRPeUVtdzl1MkhTdTlaREc5bC1PYkRBV283VnJSWERtbk9Hc0RXU2h0VDhv?oc=5\" target=\"_blank\">10月26日投资避雷针：8天4板人气股第三季度净利润同比下降43.60%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3VFREQ3NkRNc0NfTXZTUlowVUJqR3dENFB5NlJueHk3RG1OY05sc1RWYXltRHBpOGJXTk4zdnl6clY1LUtkajdla0FsOG5DUHdOUVA4S3piaWMyelRPeUVtdzl1MkhTdTlaREc5bC1PYkRBV283VnJSWERtbk9Hc0RXU2h0VDhv?oc=5",
+      "published": "Mon, 26 Oct 2026 00:11:00 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "中央气象台对台风“蔷琵”停止编号",
-      "summary": "今年第30号台风“蔷琵”25日23时在东海东北部海面变性为温带气旋，中央气象台对其停止编号。（中央气象台）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060514.shtml",
-      "published": "Sun, 25 Oct 2026 23:32:55 GMT"
+      "source": "华尔街见闻",
+      "title": "机器人还没学会干活，为什么数据采集设备先卖爆了？",
+      "summary": "<p style=\"text-align: left;\">人形机器人尚未大规模走进工厂和家庭，一门围绕“教机器人干活”的生意已经出现规模化采购线索。产业调研显示，部分第一视角数据采集设备单月出货达到万套级；与此同时，数据工厂、动作捕捉、遥操作及仿真平台加速发展。</p><p style=\"text-align: left;\">这场建设的起点是机器人在陌生环境里仍难以稳定完成任务。硬件采购打开了第一层市场，数据质量、生产成本与复用效率决定第二层价值，而机器人能否减少失败、延长有效工作时间，将决定整个产业能走多远。</p><h2 style=\"text-align: left;\">一、发生了什么？——机器人还没开始大规模工作，数据设备先迎来订单</h2><p style=\"text-align: left;\"><strong>1．万套设备出货，“教机器人”的生意开始出现：</strong></p><p style=\"text-align: left;\">近期人形机器人产业中一项颇具反差的消息引起市场关注：龙旗科技参与配套的第一视角数据采集设备，8月和9月单月出货量均被估计在一万套左右，单套",
+      "link": "https://wallstreetcn.com/member/articles/3784100",
+      "published": "Mon, 26 Oct 2026 00:33:38 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "私募借道ETF配置资产 科创、港股两大主题受青睐",
-      "summary": "今年尽管市场波动相对较大，但私募资金借道ETF配置资产热情不减。私募排排网统计显示，截至10月25日，已有151家私募管理人及其产品现身207只年内新成立ETF的前十大持有人，合计持有份额23.25亿份。从持仓方向来看，港股、科创两大主题ETF最受私募青睐。数据显示，42家私募管理人及产品布局30只名称含“港股”“恒生”的新发ETF，合计持有3.36亿份，占私募持有新发ETF总份额的14.45%。其中工银港股通医疗ETF、博时恒指港股通ETF、国联恒生港股通科技ETF等13只港股主题ETF，私募持有份额均超1000万份。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060397.shtml",
-      "published": "Sun, 25 Oct 2026 23:29:28 GMT"
+      "source": "华尔街见闻",
+      "title": "韩国散户开始抄底！目标依旧是“三星和海力士杠杆ETF”",
+      "summary": "<p>韩国股市急跌之际，个人投资者再度涌入三星电子与SK海力士相关杠杆产品，押注半导体股反弹。与此同时，同类资金也在大规模买入美国市场的三倍杠杆半导体ETF。</p>\n<p>据韩国交易所与Koscom ETF Check数据，<strong>10月1日至23日，个人投资者净买入三星电子及SK海力士单一标的杠杆产品共14只，合计金额达3154亿韩元。其中</strong>SK海力士相关7只产品净买入2263亿韩元，三星电子相关7只产品净买入891亿韩元。这是自7月底监管收紧、个人投资者转为净卖出以来，本月首次重新转为净买入。</p>\n<p>在海外市场，韩国投资者同样动作积极。据韩国预托结算院数据，10月1日至22日，国内投资者净买入美股金额达48亿9000万美元（约6.36万亿韩元），其中追踪美国半导体指数单日收益率三倍的Direxion Daily Semiconductors Bull 3X Shares ETF（SOXL）净买入额高达35亿4764万美元（约4.70万亿韩元），占同期美股净买入总额的73.9%。</p>\n<h2>监管收紧后的首次回归</h2>\n<p>今年7月，个人投",
+      "link": "https://wallstreetcn.com/articles/3784427",
+      "published": "Mon, 26 Oct 2026 00:31:54 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "66家科创板公司披露三季报 前三季度合计净利翻倍增长",
-      "summary": "截至10月25日晚，已有66家科创板公司披露2026年三季报。数据显示，这66家科创板公司今年前三季度合计实现营业收入1620.46亿元，同比增长36.27%；合计实现归母净利润153.85亿元，同比增长101.38%。营业收入方面，视涯科技前三季度同比增幅最高，达346.73%，华盛锂电、五矿新能、晶丰明源、寒武纪等公司前三季度营收同比增幅也均在100%以上。归母净利润方面，天岳先进前三季度同比增幅高达2330.24%，同比增幅在500%以上的还有9家公司。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060374.shtml",
-      "published": "Sun, 25 Oct 2026 23:28:43 GMT"
+      "source": "华尔街见闻",
+      "title": "周末，物理AI“刷屏”",
+      "summary": "<p style=\"text-align: justify;\">这个周末，物理 AI 的材料突然密集起来...</p>\n<p style=\"text-align: justify;\">进门财经满屏都是物理AI...</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/a4b86ce8-6d42-4d3f-a8b9-af3af3e78e60.jpeg\" title=\"\" /></p>\n<p style=\"text-align: justify;\">不止国内卖方,外资也很热...</p>\n<p style=\"text-align: left;\"><img alt=\"图片\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/83a9c8e7-9f74-4fe2-ba10-cc855e3d0000.jpeg\" title=\"\" /></p>\n<p style=\"text-align: justify;\">JP",
+      "link": "https://wallstreetcn.com/articles/3784428",
+      "published": "Mon, 26 Oct 2026 00:28:05 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "两日净流入逾千亿元，资金借道股票型ETF入市",
-      "summary": "资金借道ETF入市。近两个交易日，股票型ETF获得资金净流入超过一千亿元。拉长期限来看，从9月28日至10月23日，15个交易日净流入近3200亿元。从具体流向看，宽基ETF成为“吸金”主力，沪深300ETF、科创50ETF和创业板ETF等成为吸金主力。（上海证券报）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060338.shtml",
-      "published": "Sun, 25 Oct 2026 23:27:55 GMT"
+      "source": "华尔街见闻",
+      "title": "跌破4000，金价回调是否接近尾声？",
+      "summary": "<p>从空间的角度看，黄金短期回调已经进入“深水区”，市场或许正在等待尾部的风险出清。 我们在《黄金是否充分定价短期利空？》中强调，若原油上涨的肥尾事件发生，黄金或上演“流动性挤压下的集中抛售”，而3个月黄金平值期权IV维持在20%-30%恰好对应9%-15%的最大回撤，伦敦金现跌破4000美元/盎司意味着2026年8月25日以来，金价最大回撤已经超过15%，短期市场或许正在等待尾部风险的出清。</p>\n<p><img alt=\"图片\" src=\"https://wpimg-wscn.awtmt.com/b1f2f3bd-2e56-4bf8-a910-1ff15e021255.jpeg\" title=\"\" /></p>\n<p>那么，从时间的角度看，随着黄金逐步进入熊市的“下半场”，短期哪些因素或催化其超跌反弹？</p>\n<p><img alt=\"图片\" src=\"https://wpimg-wscn.awtmt.com/fcd28638-cbd9-4dbc-a256-44bb48135b34.jpeg\" title=\"\" /></p>\n<p><strong>其一，市场对“金价提前抢跑未",
+      "link": "https://wallstreetcn.com/articles/3784426",
+      "published": "Mon, 26 Oct 2026 00:14:06 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "富时世界国债指数中国权重升至11.9% 人民币债券配置价值凸显",
-      "summary": "记者近日从富时罗素获悉，在富时世界国债指数（WGBI）的9月指数概况中，中国按权重计占指数的11.9%，为仅次于美国的第二大国债市场。中国债券“入指”，是中国金融市场开放历程中的标志性事件。随着中国国债在国际指数中的权重稳步攀升，全球投资者正愈发将其视为分散组合风险的重要工具。业内人士认为：在国际环境不确定性上升的背景下，中国债市展现出较强韧性；与此同时，人民币资本市场基础设施建设持续深化，境外机构配置人民币资产的意愿进一步增强。(上海证券报 ）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060240.shtml",
-      "published": "Sun, 25 Oct 2026 23:25:34 GMT"
+      "source": "华尔街见闻",
+      "title": "巴西总统卢拉赢得连任。（新华社）",
+      "summary": "<p>巴西总统卢拉赢得连任。（新华社）</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
+      "link": "https://wallstreetcn.com/articles/3784425",
+      "published": "Mon, 26 Oct 2026 00:10:44 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "机构：关注三季报预期向好的超跌方向",
-      "summary": "上周，A股市场探底回升，资金显著加大流入ETF力度。结合估值回落、筹码出清与情绪触底等多项指标，部分机构策略展望研报认为，当前市场底部信号密集释放，自9月下旬以来的市场流动性负反馈显著缓解，短期市场超跌反弹具备基本面与政策面的双重支撑。具体配置上，机构建议“攻守兼备”：进攻端关注三季报预期向好、产业趋势明确且基本面坚挺的超跌方向；防守端则可逢低布局红利资产以应对市场波动。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060153.shtml",
-      "published": "Sun, 25 Oct 2026 23:23:06 GMT"
+      "source": "华尔街见闻",
+      "title": "美以别无选择",
+      "summary": "<p>过去短短一周时间里，所有信号都在指向一个方向：美国和以色列正在为再次打击伊朗做最后的准备。</p> <p>10月18日，特朗普在Truth Social上给内塔尼亚胡“完全彻底的背书”，管他叫“伟大的战士总理”，然后说了一句分量极重的话：如果以色列由“比比以外的任何人”领导，“美国就得自己干这活，而我不想自己干”。</p> <p>10月19日，美国战争部长赫格塞斯秘密飞抵以色列南部的奥夫达空军基地（那里驻着美军战机和加油机）与内塔尼亚胡会面。以色列总参谋长扎米尔没有受邀。这是典型的非常规外交——有大事要发生。</p> <p>10月21日，内塔尼亚胡在国防军军官学校毕业典礼上宣布：伊朗再次在造核弹。他的原话是“推翻伊朗政权，这是我对国防军、摩萨德和安全部门的指令”。</p> <p>同一周，美国国务院下令削减驻沙特、约旦、黎巴嫩、卡塔尔和阿联酋的使馆人员。官方理由是伊朗针对美国人的“致命图谋”进入了“高级阶段”。海湾盟友已被告知：美国正在准备11月3日中期选举之后对伊朗发动新一轮打击，计划为期数天，聚焦经济目标。</p> <p>但这些信号只是表面，背后是美以两国国内政治与经济的结构性",
+      "link": "https://wallstreetcn.com/member/articles/3784420",
+      "published": "Mon, 26 Oct 2026 00:03:16 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "各地重大项目刷新“进度条” 四季度稳增长加力",
-      "summary": "时至四季度，冲刺全年经济目标进入关键时期。近期，北京、陕西、云南等地密集部署重大项目推进工作，成为四季度扩投资、稳增长的重要抓手。四季度以来，山西、河北、重庆等地陆续召开会议，提出着力扩大有效投资。能源转型、先进制造业发展、“六张网”建设、科技成果转化、“小而美”民生项目等成为地方部署的重点。（上海证券报）",
-      "link": "https://news.10jqka.com.cn/20261026/c681060109.shtml",
-      "published": "Sun, 25 Oct 2026 23:21:59 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "国际投行最新研判：A股估值吸引力正在显现",
-      "summary": "近段时间，瑞银集团、花旗集团等国际投行接连发布最新市场研判，集体将目光投向中国股票市场。机构普遍认为，A股估值吸引力正在显现，配置窗口或已打开。事实上，国际投行密集看好的背后，是A股自身基础正在被市场重新审视。尽管短期情绪低迷、指数出现明显回调，但支撑市场中长期运行的底层逻辑并未被破坏。（证券日报）",
-      "link": "https://news.10jqka.com.cn/20261026/c681059944.shtml",
-      "published": "Sun, 25 Oct 2026 23:15:52 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "多家机构看好A股中长期投资价值",
-      "summary": "近期，受外部市场波动传导等因素影响，A股市场出现阶段性调整。易方达基金、华夏基金、富国基金、南方基金、中欧瑞博、乐瑞资产等多家公募、私募机构在分析市场变化时，坚定看好A股中长期投资价值。（证券日报）",
-      "link": "https://news.10jqka.com.cn/20261026/c681059924.shtml",
-      "published": "Sun, 25 Oct 2026 23:15:05 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "电子布高端需求释放 相关上市公司经营向好",
-      "summary": "电子布是覆铜板与PCB（印制电路板）的核心基材。今年以来，AI（人工智能）服务器迭代升级，PCB用料规格随之提升，超薄、低介电特种电子布需求集中释放，电子布行业迎来结构性量价齐升。近期，宏和电子、中国巨石、平安电工等多家电子布上市公司披露2026年三季报，经营业绩向好。华龙证券表示，随着AI技术的快速发展和应用落地，高性能电子布的需求将持续放量。（证券日报）",
-      "link": "https://news.10jqka.com.cn/20261026/c681059917.shtml",
-      "published": "Sun, 25 Oct 2026 23:14:56 GMT"
+      "source": "华尔街见闻",
+      "title": "高盛下调韩股目标价25%，但认为“存储估值过于悲观”，韩股估值已成“全球最低”",
+      "summary": "<p style=\"text-align: left;\">高盛大幅下调韩国股市目标价，但同时警告市场对半导体行业的悲观定价已严重偏离基本面现实。</p>\n<p style=\"text-align: left;\">据彭博10月25日报道，高盛策略师团队上周五（10月23日）将韩国综合股价指数（KOSPI）12个月目标价由12000点下调至9000点，降幅达25%。这一调整发生在KOSPI自6月高点已累计下跌逾35%的背景下。尽管如此，高盛仍维持对韩国股市的积极立场，指出<strong>修订后的目标价较当前水平仍隐含逾60%的上行空间</strong>，并明确表示“市场正在定价一个过度悲观的基本面前景”。</p>\n<p style=\"text-align: left;\">AI交易退潮引发的科技股抛售，已将韩国从年内全球最热门主要市场之一，拖入估值最低的深渊。据彭博汇编数据，KOSPI 12个月远期市盈率已跌至约4倍，为2006年以来18个万亿美元级市场中从未出现过的极端低位，<strong>估值约为印度尼西亚雅加达综合指数（8倍市盈率）的一半</strong>。与此同时，部分投资者认为，<",
+      "link": "https://wallstreetcn.com/articles/3784421",
+      "published": "Sun, 25 Oct 2026 23:57:21 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -250,18 +341,46 @@
       "published": "Sun, 25 Oct 2026 23:00:59 GMT"
     },
     {
+      "source": "第一财经",
+      "title": "盘前必读丨A股指数重要调整今起实施；德明利Q3净利同比增长2903%",
+      "summary": "<figure><img alt=\"盘前必读丨A股指数重要调整今起实施；德明利Q3净利同比增长2903%\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/cb97f277eda27b552fa8abb531cfe14d.jpg\" /></figure><p>机构认为，短期内市场或迎来“风险释放后的修复窗口”。</p><p><strong>【财经日历】</strong></p>\n\n<p>中国共产党第二十届中央委员会第五次全体会议(北京，10/26-10/29)</p>\n\n<p>上证系列综合指数编制方案修订实施</p>\n\n<p>北交所无价格涨跌幅限制股票大宗交易价格新规实施</p>\n\n<p>百度被纳入恒生港股通新经济指数等3只指数生效</p>\n\n<p>CPE 2026国际算电展(上海，10/26-10/28)</p>\n\n<p>第二届一带一路国际先进材料大会(宁波，10/26-10/27)</p>\n\n<p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"\" height",
+      "link": "https://www.yicai.com/news/103408530.html",
+      "published": "Mon, 26 Oct 2026 00:10:36 GMT"
+    },
+    {
       "source": "中国证券报",
       "title": "四大证券报头版头条内容精华摘要_2026年10月26日_财经新闻 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5zaFJIRnFCQ25NcmVBb0tZTUdvYkF6Y1Z3bGVsS0xPd0FqU3c0aGJmb3l2SXdLRTA1cXhGaElvZXJKdTVqczYybGtseVNaZWZDbUIydmprMXVBRmpfQ1dBMXdESDhkRGh5VzR3R3lxbEQ5QWVUYXUxNmhMVkY?oc=5\" target=\"_blank\">四大证券报头版头条内容精华摘要_2026年10月26日_财经新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zaFJIRnFCQ25NcmVBb0tZTUdvYkF6Y1Z3bGVsS0xPd0FqU3c0aGJmb3l2SXdLRTA1cXhGaElvZXJKdTVqczYybGtseVNaZWZDbUIydmprMXVBRmpfQ1dBMXdESDhkRGh5VzR3R3lxbEQ5QWVUYXUxNmhMVkY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEt1N2ZqRXY2N2E5amhDdkJEamFEUmpnMXBCT0N2SGZJYzJjc2pSZ2V3V2F1T0pualVZdWpKVkxsZ2sxemRxRlIyZTFSQlRHeTZyVklnN1AzaGNrVWVRNGJWME9HZHV6MUljbWRkMnFndHBuNl9IMVNsN3liQUxmV3BwZ0ZTQkl4elhv?oc=5\" target=\"_blank\">四大证券报头版头条内容精华摘要_2026年10月26日_财经新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEt1N2ZqRXY2N2E5amhDdkJEamFEUmpnMXBCT0N2SGZJYzJjc2pSZ2V3V2F1T0pualVZdWpKVkxsZ2sxemRxRlIyZTFSQlRHeTZyVklnN1AzaGNrVWVRNGJWME9HZHV6MUljbWRkMnFndHBuNl9IMVNsN3liQUxmV3BwZ0ZTQkl4elhv?oc=5",
       "published": "Sun, 25 Oct 2026 23:04:02 GMT"
     },
     {
       "source": "上海证券报",
       "title": "四大证券报头版头条内容精华摘要_2026年10月26日_财经新闻 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5zaFJIRnFCQ25NcmVBb0tZTUdvYkF6Y1Z3bGVsS0xPd0FqU3c0aGJmb3l2SXdLRTA1cXhGaElvZXJKdTVqczYybGtseVNaZWZDbUIydmprMXVBRmpfQ1dBMXdESDhkRGh5VzR3R3lxbEQ5QWVUYXUxNmhMVkY?oc=5\" target=\"_blank\">四大证券报头版头条内容精华摘要_2026年10月26日_财经新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zaFJIRnFCQ25NcmVBb0tZTUdvYkF6Y1Z3bGVsS0xPd0FqU3c0aGJmb3l2SXdLRTA1cXhGaElvZXJKdTVqczYybGtseVNaZWZDbUIydmprMXVBRmpfQ1dBMXdESDhkRGh5VzR3R3lxbEQ5QWVUYXUxNmhMVkY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEt1N2ZqRXY2N2E5amhDdkJEamFEUmpnMXBCT0N2SGZJYzJjc2pSZ2V3V2F1T0pualVZdWpKVkxsZ2sxemRxRlIyZTFSQlRHeTZyVklnN1AzaGNrVWVRNGJWME9HZHV6MUljbWRkMnFndHBuNl9IMVNsN3liQUxmV3BwZ0ZTQkl4elhv?oc=5\" target=\"_blank\">四大证券报头版头条内容精华摘要_2026年10月26日_财经新闻</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEt1N2ZqRXY2N2E5amhDdkJEamFEUmpnMXBCT0N2SGZJYzJjc2pSZ2V3V2F1T0pualVZdWpKVkxsZ2sxemRxRlIyZTFSQlRHeTZyVklnN1AzaGNrVWVRNGJWME9HZHV6MUljbWRkMnFndHBuNl9IMVNsN3liQUxmV3BwZ0ZTQkl4elhv?oc=5",
       "published": "Sun, 25 Oct 2026 23:04:02 GMT"
+    },
+    {
+      "source": "澎湃新闻财经",
+      "title": "十大券商看后市｜A股急跌有望收尾，反弹修复或延续 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzWWV4UmpmVFUwTFg2djBSekZaZjVMTTRJRl92R3I2ZlNHZVFVc0VoYko3dHBhcUtIMXBxY3c2ZV9CdzIyN0hEV2VJSVBtdEZEdktaSjJNVDBYRjR6OHE1eA?oc=5\" target=\"_blank\">十大券商看后市｜A股急跌有望收尾，反弹修复或延续</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzWWV4UmpmVFUwTFg2djBSekZaZjVMTTRJRl92R3I2ZlNHZVFVc0VoYko3dHBhcUtIMXBxY3c2ZV9CdzIyN0hEV2VJSVBtdEZEdktaSjJNVDBYRjR6OHE1eA?oc=5",
+      "published": "Mon, 26 Oct 2026 00:44:00 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "开源证券：给予巨化股份买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mb2o2VFdoRERyZWdtSWRacHotUkVaaGJJa1BpT1Q0RWhUSlBpZ3YzSXRQaFdsd09YWHY0T2ZyR2hQT2tNODA3NWFDUUFmeHB5TXNIYUdvUnhFWW1SdVhPX3FR?oc=5\" target=\"_blank\">开源证券：给予巨化股份买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Mb2o2VFdoRERyZWdtSWRacHotUkVaaGJJa1BpT1Q0RWhUSlBpZ3YzSXRQaFdsd09YWHY0T2ZyR2hQT2tNODA3NWFDUUFmeHB5TXNIYUdvUnhFWW1SdVhPX3FR?oc=5",
+      "published": "Mon, 26 Oct 2026 00:35:15 GMT"
+    },
+    {
+      "source": "行业研报",
+      "title": "国金证券：给予雷赛智能买入评级_券商研报_数据解析 - 证券之星",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSYm1lLU43V2NFS0RJWFRPZWQ0SWVTalV6WWZ4U0RnUUVIMVRMcHdZWmd6bnlORllNMTBWMDEzNGJvc2FVYXpHSVZod1NrNUlZcVM3NkR4cU8zMWJaa0FrU0dB?oc=5\" target=\"_blank\">国金证券：给予雷赛智能买入评级_券商研报_数据解析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">证券之星</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSYm1lLU43V2NFS0RJWFRPZWQ0SWVTalV6WWZ4U0RnUUVIMVRMcHdZWmd6bnlORllNMTBWMDEzNGJvc2FVYXpHSVZod1NrNUlZcVM3NkR4cU8zMWJaa0FrU0dB?oc=5",
+      "published": "Mon, 26 Oct 2026 00:15:26 GMT"
     }
   ]
 }
