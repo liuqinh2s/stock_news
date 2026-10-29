@@ -1,8 +1,8 @@
 {
   "date": "2026-10-30",
   "hour": "06",
-  "total": 38,
-  "fetched_at": "2026-10-30T06:01:03.192252+08:00",
+  "total": 32,
+  "fetched_at": "2026-10-30T06:10:22.508165+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -38,6 +38,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBuUzhROUpYekxhaDBmejFScFF2dF9IY3JlMkJZWi0zRTNSQktXRjl1VzZNdTY5aEF3UVlHcWxnNjJacndpNmd3RUVOVnI2R211Y0U1SDVFNzlBOXdud09GS2lyS01vcVVDako0?oc=5\" target=\"_blank\">股市必读：中核科技三季报 - 第三季度单季净利润同比下降62.06%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuUzhROUpYekxhaDBmejFScFF2dF9IY3JlMkJZWi0zRTNSQktXRjl1VzZNdTY5aEF3UVlHcWxnNjJacndpNmd3RUVOVnI2R211Y0U1SDVFNzlBOXdud09GS2lyS01vcVVDako0?oc=5",
       "published": "Thu, 29 Oct 2026 21:36:00 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美联储12月加息25个基点的概率为74.9%",
+      "summary": "美联储到12月累计加息25个基点的概率为74.9%，维持利率不变的概率为25.1%。美联储到1月维持利率不变的概率为17.1%，累计加息25个基点的概率为58.9%，累计加息50个基点的概率为24.1%。",
+      "link": "https://news.10jqka.com.cn/20261030/c681264336.shtml",
+      "published": "Thu, 29 Oct 2026 22:07:55 GMT"
     },
     {
       "source": "同花顺",
@@ -152,34 +159,6 @@
       "published": "Thu, 29 Oct 2026 20:15:55 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "ROBLOX第四季度预订量为18.9亿至20亿美元，预计为19.9亿美元",
-      "summary": "ROBLOX第四季度预订量为18.9亿至20亿美元，预计为19.9亿美元。",
-      "link": "https://news.10jqka.com.cn/20261030/c681263679.shtml",
-      "published": "Thu, 29 Oct 2026 20:09:10 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "亚马逊盘后大跌12%",
-      "summary": "亚马逊盘后大跌12%。亚马逊预计第四季度销售净额2,400亿美元至2,470亿美元，市场预估2,445.2亿美元；预计经营利润285亿美元至335亿美元，市场预估329.9亿美元。",
-      "link": "https://news.10jqka.com.cn/20261030/c681263678.shtml",
-      "published": "Thu, 29 Oct 2026 20:09:03 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "Coinbase第三季度总收入为12.2亿美元，市场预计为12.2亿美元",
-      "summary": "Coinbase第三季度总收入为12.2亿美元，市场预计为12.2亿美元.",
-      "link": "https://news.10jqka.com.cn/20261030/c681263677.shtml",
-      "published": "Thu, 29 Oct 2026 20:08:40 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "闪迪预计第二财季营收为122亿至126亿美元，市场预估为121亿美元",
-      "summary": "闪迪预计第二财季营收为122亿至126亿美元，市场预估为121亿美元。",
-      "link": "https://news.10jqka.com.cn/20261030/c681263676.shtml",
-      "published": "Thu, 29 Oct 2026 20:08:32 GMT"
-    },
-    {
       "source": "财联社",
       "title": "闪迪预计第二财季营收为122亿至126亿美元 市场预估为121亿美元 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Q3V0VmZTcEdxWUxzSktWaHdkRHBGOFdVMF9CZThsSTduRFRvX3dtRFhTbHUxX1FOc2xLcDJpRkVYcWI5Y3BfQ2ZKeng5WVRmeHBZWHlyQXZsLWJ3a1ZfQQ?oc=5\" target=\"_blank\">闪迪预计第二财季营收为122亿至126亿美元 市场预估为121亿美元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
@@ -192,6 +171,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GalB0RTE5eHV4RjBqRnotWi1yS0JLQlEtSDhxaTd1N0Y0Z1FMcVhpNmpYTE9VUy10Y3ZINGRTTWRQS3NKTzhHaVJKOFdPOVJfUm5mcHZlVWFraGVjWTZSdQ?oc=5\" target=\"_blank\">英特尔公司第四季度营收预期低于市场预期</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GalB0RTE5eHV4RjBqRnotWi1yS0JLQlEtSDhxaTd1N0Y0Z1FMcVhpNmpYTE9VUy10Y3ZINGRTTWRQS3NKTzhHaVJKOFdPOVJfUm5mcHZlVWFraGVjWTZSdQ?oc=5",
       "published": "Thu, 29 Oct 2026 21:45:00 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "纳指期货跌1.4%，英特尔暴跌超21%，亚马逊跌约6%",
+      "summary": "<p>周五亚太盘初，纳指期货跌1.4%，英特尔目前（美股盘后）跌21.6%，Pinterest跌9.7%，AMD跌5.9%，Nebius跌5.8%，亚马逊跌5.7%，SK海力士ADR跌5.2%，闪迪跌3.4%，甲骨文、高通、希捷科技跌超3%。</p>",
+      "link": "https://wallstreetcn.com/livenews/3190805",
+      "published": "Thu, 29 Oct 2026 22:03:02 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -222,41 +208,6 @@
       "published": "Thu, 29 Oct 2026 20:23:28 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "力拓ADR一度跌超4%：蒙古奥尤陶勒盖铜矿发生岩崩事故，地下运营暂停",
-      "summary": "<p>力拓股价周四下跌，旗下位于蒙古国南部的奥尤陶勒盖铜矿发生岩崩事故，造成15名工人受伤。彭博报道称，该矿已暂时关闭地下运营，事故后续影响受到关注。</p>\n<p><strong>新华社周四报道称，奥尤陶勒盖铜矿当地时间10月29日18时左右发生岩崩事故。</strong></p>\n<p>矿场运营方奥尤陶勒盖有限责任公司表示，矿区井下岩石破碎带突发震动性地质事件，引发局部岩崩，现场作业人员受到波及。事故造成15名工人受伤，目前暂无人员死亡报告。</p>\n<p>事故发生后，运营方启动应急处置机制，对受伤工人开展医疗检查与救治，伤者伤情整体平稳。运营方表示，仍在对事故成因及现场安全状况进行全面评估。</p>\n<p><strong>彭博援引知情人士报道称，该矿暂时关闭地下运营；截至目前，事故造成的具体停产时长及对产量的影响尚不明确。</strong></p>\n<p>力拓ADR周四盘中一度跌超4%，创3月以来新低，随后小幅反弹，截至发稿下跌3.21%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/9b0f0e15-",
-      "link": "https://wallstreetcn.com/articles/3784795",
-      "published": "Thu, 29 Oct 2026 20:09:55 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "美国债务占GDP破100%：经济高增仍追不上举债，净利息成预算\"最不可撼动\"支出",
-      "summary": "<p>美国财政状况正站在一个历史性的临界点上。</p>\n<p>10月29日，据《华尔街日报》测算，<strong>截至9月30日的2026财年结束时，美国联邦债务与GDP之比达到100.03%，为二战结束以来首次突破三位数门槛。</strong></p>\n<p>与此同时，年度财政赤字接近2万亿美元，占GDP的6.2%，延续了一段在非战争、非衰退、非紧急状态下罕见的持续性赤字局面。</p>\n<p>这一数据的公布，叠加周四发布的第三季度经济产出初值，令外界对美国长期财政可持续性的担忧再度升温。</p>\n<p><strong>尽管当前比率尚低于美国国会预算办公室（CBO）今年2月预测的100.6%，但美国正稳步逼近1946年创下的历史峰值106%——彼时高企的债务水平源于二战期间的大规模借贷需求。</strong></p>\n<div>\n<h2 id=\"a56acfc7\">债务比率突破百分之百，逼近二战后历史峰值</h2>\n</div>\n<p>美国财政部此前披露，截至9月30日，公众持有的联邦债务规模为32.2万亿美元。</p>\n<p>报道指出，随着第三季度GDP数据出炉，这一数字恰好相当于该",
-      "link": "https://wallstreetcn.com/articles/3784796",
-      "published": "Thu, 29 Oct 2026 20:09:38 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "闪迪预计第二财季营收122亿-126亿美元，分析师预期121亿美元。 第一财季EDGE营收58.3亿美元。",
-      "summary": "<p>闪迪预计第二财季营收122亿-126亿美元，分析师预期121亿美元。\n第一财季EDGE营收58.3亿美元。\n</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3784802",
-      "published": "Thu, 29 Oct 2026 20:05:44 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "亚马逊三季度净销售2019亿美元，预期2022.6亿美元。 ASW净销售增长39%，预期增长38%。 预计2027-28年收入都将增超40%",
-      "summary": "<p>亚马逊三季度净销售2019亿美元，预期2022.6亿美元。\nASW净销售增长39%，预期增长38%。\n预计2027-28年收入都将增超40%。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3784799",
-      "published": "Thu, 29 Oct 2026 20:02:17 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "英特预计四季度营收150亿-160亿美元，分析师预期170.5亿美元",
-      "summary": "<p>英特预计四季度营收150亿-160亿美元，分析师预期170.5亿美元。</p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3784798",
-      "published": "Thu, 29 Oct 2026 20:01:24 GMT"
-    },
-    {
       "source": "Bloomberg China",
       "title": "Marvell Is Taking an Audacious $80+ Billion Run at Lumentum - Bloomberg.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFRadW4zejhscVB6R3duRmZnTFBMXzJCdzhpR3JqV0J1T29hVlROTXkyZnFYYnFSelhPc3YxVnpxdERpZGRFNmJuT0NBcURyMEN2aDVOOHliSncyY3NMY1lZVzY1TjBTcmxEc0ZvUmplMC12R0JRV3QxNmtnMzI5eUtZMDNzc0dBcUVXSHdvcHp3b0d0M3JaQjhLRjF1NEFsUWR0NlpoVjA4dDFIZG9DVg?oc=5\" target=\"_blank\">Marvell Is Taking an Audacious $80+ Billion Run at Lumentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
@@ -269,6 +220,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkwxb2NQVl9KQmpRTml6WHN1UXRDU3R0ZFllZFR4WkZScktoTGNWVHVVemZuUXREUmN2U2tVQWhqeHpWZ2RKaGN5X0FpbDJydjRZVG9pcG1GQ3FfWmU5UFcxYVBBbXBlN25FeFJzU3ZNYjl1YUExRmY0UXVFRTZITjJyNTEyWUhKRHJYN1dld09hS1FvYWYzZndIa2tiamtibk9PSWRFcXMtZw?oc=5\" target=\"_blank\">Intel Tumbles on Sputtering Demand for PC Processors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZkwxb2NQVl9KQmpRTml6WHN1UXRDU3R0ZFllZFR4WkZScktoTGNWVHVVemZuUXREUmN2U2tVQWhqeHpWZ2RKaGN5X0FpbDJydjRZVG9pcG1GQ3FfWmU5UFcxYVBBbXBlN25FeFJzU3ZNYjl1YUExRmY0UXVFRTZITjJyNTEyWUhKRHJYN1dld09hS1FvYWYzZndIa2tiamtibk9PSWRFcXMtZw?oc=5",
       "published": "Thu, 29 Oct 2026 21:36:44 GMT"
+    },
+    {
+      "source": "Bloomberg China",
+      "title": "BYD Profit Misses Estimates as Export-Led Recovery Loses Steam - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPalJfZ0I1eUxFaS1acnNmbG0yTDdnTXhTWXk4WWFXcDdGZjFTdkVZNkl3RG1BSnU5OGd5QUNvSmlLS2hjaHcxX25zN0dVTTNVaDhTM0oxMlJFSXc1Y0VubDFJT21QU2VlRVViT1YzcUlVb1dWTUFuOEVKMVVIekdtcFprUDlYdm1BRV9GQnZTaUN5QWl6eENsbmhWb3ZLWkdSY3dzd0RERlhaSnczN2h5ajFFOA?oc=5\" target=\"_blank\">BYD Profit Misses Estimates as Export-Led Recovery Loses Steam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPalJfZ0I1eUxFaS1acnNmbG0yTDdnTXhTWXk4WWFXcDdGZjFTdkVZNkl3RG1BSnU5OGd5QUNvSmlLS2hjaHcxX25zN0dVTTNVaDhTM0oxMlJFSXc1Y0VubDFJT21QU2VlRVViT1YzcUlVb1dWTUFuOEVKMVVIekdtcFprUDlYdm1BRV9GQnZTaUN5QWl6eENsbmhWb3ZLWkdSY3dzd0RERlhaSnczN2h5ajFFOA?oc=5",
+      "published": "Thu, 29 Oct 2026 21:00:00 GMT"
     }
   ]
 }
