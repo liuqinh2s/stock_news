@@ -1,16 +1,9 @@
 {
   "date": "2026-11-01",
   "hour": "23",
-  "total": 25,
-  "fetched_at": "2026-11-01T23:00:59.291378+08:00",
+  "total": 18,
+  "fetched_at": "2026-11-01T23:32:39.619122+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "关于A股后市 六大机构最新研判 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9aTmxzR1FZX0tRV2ZfTXJHMHVhT3lvaUNoR01jbTlQMU1lUmlZVXhsMnNQZzM4clJNYm5Za2hIQmRtVlB3Uk83X2RCVnU2Y2xxLUE4cGtxaWkzR2FTYWxrdnBWNkkxVW5Fa0FrbzM4WGRLNXp0NUdFXw?oc=5\" target=\"_blank\">关于A股后市 六大机构最新研判</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9aTmxzR1FZX0tRV2ZfTXJHMHVhT3lvaUNoR01jbTlQMU1lUmlZVXhsMnNQZzM4clJNYm5Za2hIQmRtVlB3Uk83X2RCVnU2Y2xxLUE4cGtxaWkzR2FTYWxrdnBWNkkxVW5Fa0FrbzM4WGRLNXp0NUdFXw?oc=5",
-      "published": "Sun, 01 Nov 2026 13:23:00 GMT"
-    },
     {
       "source": "新浪财经",
       "title": "公私募基金经理集体看多A股 - 新浪财经",
@@ -27,6 +20,13 @@
     },
     {
       "source": "新浪财经",
+      "title": "中国证券报：业内机构研判A股后市 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZHc2emtjQ084VmlQMXZzMlRmVHExNjFfaE5jZWpHTGFjNGhYNGdsLUFnekJKX25zOFU4c0xrb2ZoT0VNMjVRT1V4SUdMQ2J5Y2tkWjdPWFp5dUZmNlpPR0NtZ2RvenhMUDdpTGw2dFk3QkdMWWVINg?oc=5\" target=\"_blank\">中国证券报：业内机构研判A股后市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZHc2emtjQ084VmlQMXZzMlRmVHExNjFfaE5jZWpHTGFjNGhYNGdsLUFnekJKX25zOFU4c0xrb2ZoT0VNMjVRT1V4SUdMQ2J5Y2tkWjdPWFp5dUZmNlpPR0NtZ2RvenhMUDdpTGw2dFk3QkdMWWVINg?oc=5",
+      "published": "Sun, 01 Nov 2026 13:45:25 GMT"
+    },
+    {
+      "source": "新浪财经",
       "title": "博时基金首席策略分析师陈显顺：A股中期价值凸显 - 新浪财经",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1hYjJobnZBWUxEZk9sb2ZLQzJ5QlhzVzZKRzNjRFR4X05KREpoUmU5WWlkQW93T2RsMldybW9xSUJaNjV4dk95YzVfbjMxMFRwY3k4QWxVNHlyOTl5a21LaG5wZkFCVWZ6aVlWaEF6MjVzM0FtaG5Scg?oc=5\" target=\"_blank\">博时基金首席策略分析师陈显顺：A股中期价值凸显</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hYjJobnZBWUxEZk9sb2ZLQzJ5QlhzVzZKRzNjRFR4X05KREpoUmU5WWlkQW93T2RsMldybW9xSUJaNjV4dk95YzVfbjMxMFRwY3k4QWxVNHlyOTl5a21LaG5wZkFCVWZ6aVlWaEF6MjVzM0FtaG5Scg?oc=5",
@@ -34,17 +34,17 @@
     },
     {
       "source": "新浪财经",
-      "title": "涉嫌财务造假，又一A股公司被证监会立案 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9WOG0tOTZTOWkzTlhhaUg2N2VoSkZPZENqSFZvWkRDWlZGVVhkWUxOQkdYRXJUa2oxYTYtTDhQZjNxMzh5T0Z6M213RHI2a25rd3VKX29sUXlQVVdnRnNYMnFFa2VTaTNwMjhLNllVdzRVT3JUYnZhbA?oc=5\" target=\"_blank\">涉嫌财务造假，又一A股公司被证监会立案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WOG0tOTZTOWkzTlhhaUg2N2VoSkZPZENqSFZvWkRDWlZGVVhkWUxOQkdYRXJUa2oxYTYtTDhQZjNxMzh5T0Z6M213RHI2a25rd3VKX29sUXlQVVdnRnNYMnFFa2VTaTNwMjhLNllVdzRVT3JUYnZhbA?oc=5",
-      "published": "Sun, 01 Nov 2026 14:03:23 GMT"
+      "title": "每周研选 | A股有望在短期企稳 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTmpGbGJIaXFGQnFmeUZQdElVM2JtMHJoM29CSU1OVmQ3NnA4dUtjMUFwbW1DWkI2MU1PcTg5elVMZjVWVUx6ZWpiTkNCQ2s2cnBuUTQ1ajVZLWw2c2JkcVpEX3ZNYmo2T2s2N1pXcE9uaXVIdEN0MQ?oc=5\" target=\"_blank\">每周研选 | A股有望在短期企稳</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTmpGbGJIaXFGQnFmeUZQdElVM2JtMHJoM29CSU1OVmQ3NnA4dUtjMUFwbW1DWkI2MU1PcTg5elVMZjVWVUx6ZWpiTkNCQ2s2cnBuUTQ1ajVZLWw2c2JkcVpEX3ZNYmo2T2s2N1pXcE9uaXVIdEN0MQ?oc=5",
+      "published": "Sun, 01 Nov 2026 13:33:00 GMT"
     },
     {
       "source": "新浪财经",
-      "title": "A股三季报全景：银行撑总量、AI贡献增量，热门赛道环比表现引关注 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5PbVhHYW56d3hxSnplejJCcmc0WnM4TkhybTRKUkttc3FjUll6Z0kzUDVxeWdVWHgza04wTEp6Y29WWENaZWRLc0tBbzNHOFhKT01TdFZyYUcxdWQ2d2poZzJEM2t4OF8tYXpBRk1hYVRqM1JKZHVFNw?oc=5\" target=\"_blank\">A股三季报全景：银行撑总量、AI贡献增量，热门赛道环比表现引关注</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PbVhHYW56d3hxSnplejJCcmc0WnM4TkhybTRKUkttc3FjUll6Z0kzUDVxeWdVWHgza04wTEp6Y29WWENaZWRLc0tBbzNHOFhKT01TdFZyYUcxdWQ2d2poZzJEM2t4OF8tYXpBRk1hYVRqM1JKZHVFNw?oc=5",
-      "published": "Sun, 01 Nov 2026 13:29:18 GMT"
+      "title": "千亿资金逆市抄底 央行证监会明天开会！A股债市“双杀”后 利好来了 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9MQjZ3R0xuS1Z6UUxFLU1kc2IyV29XYXhIMHZ4VUlEV1cxZ2RNVmZyUDJhak1fX1EyVmpNeGx1dGQ1c01EdHRrbFZidGNxSHVReGdnc3daT2ZqbWtROVdiTjhYTWhIRzNwRjdwN0lObmRZSE1QTFhIUQ?oc=5\" target=\"_blank\">千亿资金逆市抄底 央行证监会明天开会！A股债市“双杀”后 利好来了</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MQjZ3R0xuS1Z6UUxFLU1kc2IyV29XYXhIMHZ4VUlEV1cxZ2RNVmZyUDJhak1fX1EyVmpNeGx1dGQ1c01EdHRrbFZidGNxSHVReGdnc3daT2ZqbWtROVdiTjhYTWhIRzNwRjdwN0lObmRZSE1QTFhIUQ?oc=5",
+      "published": "Sun, 01 Nov 2026 14:44:00 GMT"
     },
     {
       "source": "新浪财经",
@@ -69,24 +69,10 @@
     },
     {
       "source": "东方财富",
-      "title": "奥精医疗：涉嫌定期报告等财务数据虚假记载 证监会决定对公司立案 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yNWxRc1RqTV95RGxxYXplMDFBWmhkd2NISGxaa1NqYnE0NkplTHdGUEwwd19jb0h2d3NfYkJwZzNZNDNFLTlvM3R3dTFUUzdIZ2R6YjFPcjRNendjNGQ1Tw?oc=5\" target=\"_blank\">奥精医疗：涉嫌定期报告等财务数据虚假记载 证监会决定对公司立案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yNWxRc1RqTV95RGxxYXplMDFBWmhkd2NISGxaa1NqYnE0NkplTHdGUEwwd19jb0h2d3NfYkJwZzNZNDNFLTlvM3R3dTFUUzdIZ2R6YjFPcjRNendjNGQ1Tw?oc=5",
-      "published": "Sun, 01 Nov 2026 13:30:15 GMT"
-    },
-    {
-      "source": "东方财富",
       "title": "红塔证券：已斥资2404.74万元回购347.46万股股份 - 东方财富",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2T21VZGozTm5YTmNVZlU3RXJCS1ZNd2E2b0ctaGdHNF9mcVMwVTlzYjhMZGF0cV9aUWl4dWluTDhyTFlXNVR3aXN2cXRUNW02VFByc3dzck9nSE45eENTcVNEOA?oc=5\" target=\"_blank\">红塔证券：已斥资2404.74万元回购347.46万股股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2T21VZGozTm5YTmNVZlU3RXJCS1ZNd2E2b0ctaGdHNF9mcVMwVTlzYjhMZGF0cV9aUWl4dWluTDhyTFlXNVR3aXN2cXRUNW02VFByc3dzck9nSE45eENTcVNEOA?oc=5",
       "published": "Sun, 01 Nov 2026 14:23:24 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "赛力斯：已累计回购近10亿元股份 10月新能源车销量2.4921万辆 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LZkRVdU82dTBXckpYNjRFcDFocW5VNmJ5akRhTUdSQW1TTTktMlhhZWZzRWZBV2pNZVZOY3k2QmNnXzdLTzRLdHNFcmFBaXFvVUlzRHp0blZDZFc3bjYzaGpCdw?oc=5\" target=\"_blank\">赛力斯：已累计回购近10亿元股份 10月新能源车销量2.4921万辆</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LZkRVdU82dTBXckpYNjRFcDFocW5VNmJ5akRhTUdSQW1TTTktMlhhZWZzRWZBV2pNZVZOY3k2QmNnXzdLTzRLdHNFcmFBaXFvVUlzRHp0blZDZFc3bjYzaGpCdw?oc=5",
-      "published": "Sun, 01 Nov 2026 13:16:17 GMT"
     },
     {
       "source": "同花顺",
@@ -101,13 +87,6 @@
       "summary": "当地时间1日，在谈及伊朗代表团访问卡塔尔事宜时，伊朗外长阿拉格齐表示，此次访问由副外长率领，目的是继续与卡塔尔调解方进行磋商。阿拉格齐称，为期两天的磋商仍在继续，但尚未达成最终结论，能否取得成果取决于美国对伊朗提出的问题的答复。他表示，希望对方能够理性地选择外交途径而非其他途径。 (央视新闻)",
       "link": "https://news.10jqka.com.cn/20261101/c681329538.shtml",
       "published": "Sun, 01 Nov 2026 14:13:23 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "奥精医疗：涉嫌定期报告等财务数据虚假记载 公司被证监会立案",
-      "summary": "奥精医疗公告称，公司于2026年11月1日收到证监会《立案告知书》，因涉嫌定期报告等财务数据虚假记载，证监会决定对公司立案。若后续经行政处罚认定触及重大违法强制退市情形，公司股票将被实施重大违法强制退市。目前公司经营管理正常，将积极配合调查并履行信息披露义务。",
-      "link": "https://news.10jqka.com.cn/20261101/c681329127.shtml",
-      "published": "Sun, 01 Nov 2026 13:20:04 GMT"
     },
     {
       "source": "第一财经",
@@ -138,46 +117,18 @@
       "published": "Sun, 01 Nov 2026 13:35:20 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "单季浮亏超3500亿，险资难当剩余两月反攻主力",
-      "summary": "<figure><img alt=\"单季浮亏超3500亿，险资难当剩余两月反攻主力\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/11/ae7004a1951b62b8be2f2d1d92983a97.jpeg\" /></figure><p>A股五家上市险企前三季度归母净利润合计2765.77亿元，同比下滑35.1%，其中三家出现了三季度单季亏损。</p><p>三季度净利润集体下挫，甚至有三家出现了单季亏损，A股五大上市险企交出了一份看起来“不太好看”的三季报。</p>\n\n<p>第一财经记者统计发现，A股五大险企前三季度实现归母净利润2765.77亿元，同比下跌35.08%。三季度单季，中国人寿（601628.SH；02628.HK）、新华保险（601336.SH；01336.HK）、中国人保（601319.SH；01339.HK）更是出现了亏损。这与上半年五家险企归母净利润平均同比增长近八成形成鲜明反差。</p>\n\n<p>这轮净利下跌的源头指向了资本市场短期波动带来的公允价值损益，五家A股上市险企三季度单季浮亏超3540亿元。</",
-      "link": "https://www.yicai.com/news/103420267.html",
-      "published": "Sun, 01 Nov 2026 13:31:34 GMT"
+      "source": "中国证券报",
+      "title": "每周研选 | A股有望在短期企稳 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTmpGbGJIaXFGQnFmeUZQdElVM2JtMHJoM29CSU1OVmQ3NnA4dUtjMUFwbW1DWkI2MU1PcTg5elVMZjVWVUx6ZWpiTkNCQ2s2cnBuUTQ1ajVZLWw2c2JkcVpEX3ZNYmo2T2s2N1pXcE9uaXVIdEN0MQ?oc=5\" target=\"_blank\">每周研选 | A股有望在短期企稳</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTmpGbGJIaXFGQnFmeUZQdElVM2JtMHJoM29CSU1OVmQ3NnA4dUtjMUFwbW1DWkI2MU1PcTg5elVMZjVWVUx6ZWpiTkNCQ2s2cnBuUTQ1ajVZLWw2c2JkcVpEX3ZNYmo2T2s2N1pXcE9uaXVIdEN0MQ?oc=5",
+      "published": "Sun, 01 Nov 2026 13:33:00 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "上海10月二手房成交量创6年同期新高",
-      "summary": "<figure><img alt=\"上海10月二手房成交量创6年同期新高\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/8CE6B630-CD6A-4E1D-A2C9-5C617563F25E.jpg\" /></figure><p>上海二手房挂牌量也在震荡下行。</p><p>上海迎来成色十足的楼市“银十”。</p><p>上海市房地产交易中心官网“网上房地产”显示，10月份，上海二手房（含商业）累计网签量达到24653套，环比上涨4.2%，跑赢“金九”，韧性超预期，同比更是大幅增长32.9%，创下2021年以来的同期新高。</p><p>今年以来，上海二手房市场在经历了“金三银四”后进入高位平稳运行状态。9月以来，现房销售新政落地，再次激发市场活力。10月的单日成交表现显示，除国庆假期外，有7个交易日二手房单日网签量突破千套，并有两个单日网签超过1600套。</p><p>“10月份的二手房表现堪称‘银十镀金’，”上海中原地产资深市场分析师卢文曦告诉记者，“十一假期有7天，但整体的成交量还比9月份还高，说明当下市场的热度很不错。",
-      "link": "https://www.yicai.com/news/103420266.html",
-      "published": "Sun, 01 Nov 2026 13:27:17 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "全球资产遭遇洗盘，国内市场迎来两场重磅会议",
-      "summary": "<figure><img alt=\"全球资产遭遇洗盘，国内市场迎来两场重磅会议\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/fc9fe469b65c2d08672fe3be2f9d590e.jpg\" /></figure><p>在业内看来，上述会议的召开将给国内市场带来积极信号。</p><p>全球大类资产迎来一轮罕见的“流动性洗盘”，风险资产与避险资产遭遇无差别抛售。</p>\n\n<p>10月最后一个交易日，美股科技股因业绩指引不及预期出现恐慌性大跌，部分机构为补足保证金，被迫变现流动性最好的贵金属资产；叠加美联储加息预期再度升温，传统避险资产黄金接连跌破关键关口，走出深度回调行情，现货黄金上周五失守3900美元/盎司。</p>\n\n<p>“近期的回调，更多是反映了市场担心美联储采取鹰派立场、美元走强，以及科技股回调所带来的短期仓位调整。”瑞银财富管理投资总监办公室宏观策略师李慧琪对第一财经记者分析，短期内这些不利因素仍在持续，包括美国实际收益率和美元高企，可能令金价在当前水平继续震荡。</p>\n\n<p>国内市场方面，第一财经记",
-      "link": "https://www.yicai.com/news/103420264.html",
-      "published": "Sun, 01 Nov 2026 13:11:04 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "中美AI合作有何新空间",
-      "summary": "<figure><img alt=\"中美AI合作有何新空间\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/a26f243c7567632cd08d9a9f1b0fbe65.jpg\" /></figure><p>未来中美AI合作的关键，是合理区分“技术竞争”“国家安全”和“全球风险”。</p><p>中美人工智能（AI）关系进入2026年后展开的实质性战略互动超乎预期。两国不仅成功开展了AI政府间的首次对话，而且将AI对话正式升级为双边机制，同时双方约定11月前后举行首轮AI双边机制交流会议。中美AI合作正在由学术界和政策界长期讨论的“风险治理可能性”，逐步转化为政府间制度安排，并有望引致双方AI合作空间的进一步扩大。</p>\n\n<p><strong>中美AI关系的结构性转变</strong></p>\n\n<p>伴随着AI从实验室技术逐渐转化为影响经济增长、产业升级、国家安全和国际竞争力的通用技术，中美科技关系的基本逻辑开始发生变化。特别是生成式AI快速发展以后，算法、数据、算力、模型、能源和人才共同构成新的国家AI能力体系，掌握先",
-      "link": "https://www.yicai.com/news/103420242.html",
-      "published": "Sun, 01 Nov 2026 13:08:59 GMT"
-    },
-    {
-      "source": "第一财经",
-      "title": "政策利率换锚后，债市、信贷定价将迎哪些变化？",
-      "summary": "<figure><img alt=\"政策利率换锚后，债市、信贷定价将迎哪些变化？\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/11/1b9ced02b38eea619475f1a27171f880.jpeg\" /></figure><p>短期之内LPR大概率保持稳定。商业银行传统贷款定价逻辑则必须随之升级。</p><p>10月30日，央行正式官宣政策利率“换锚”：隔夜逆回购改为固定利率、数量招标，操作利率定为1.25%，公开市场核心政策利率由7天逆回购利率切换至隔夜逆回购利率。</p>\n\n<p>“换锚”落地后，对市场有何影响？多位市场分析人士认为，本次制度改革不等同于降息，而是货币政策价格型调控机制的深度优化。“换锚”落地后，将重塑货币与债券市场运行格局，压降银行整体负债成本，倒逼银行重构信贷定价体系，对全市场形成多层次深远影响。</p>\n\n<p><strong>贷款定价逻辑将随之升级</strong></p>\n\n<p>本次改革首先完成了公开市场工具的定位切换。</p>\n\n<p>天风证券分析师谭逸鸣分析称，隔夜逆回购或已在实际上成",
-      "link": "https://www.yicai.com/news/103420252.html",
-      "published": "Sun, 01 Nov 2026 13:08:27 GMT"
-    },
-    {
-      "source": "澎湃新闻财经",
-      "title": "牛市点线面_最新牛市点线面 - ThePaper.cn",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcC1fVGNrRkJaNGp3WGw4VnJlVW5jNDgtSW5EMlhnWDZoQUs4TUExZ3BIMkVmTm5UbVBvVm83Um5IUmZCTjRub2dobTdzd2NORjMwVU1QUkFGcjA3UlpEMlJNRndaWTRGbUE?oc=5\" target=\"_blank\">牛市点线面_最新牛市点线面</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxcC1fVGNrRkJaNGp3WGw4VnJlVW5jNDgtSW5EMlhnWDZoQUs4TUExZ3BIMkVmTm5UbVBvVm83Um5IUmZCTjRub2dobTdzd2NORjMwVU1QUkFGcjA3UlpEMlJNRndaWTRGbUE?oc=5",
-      "published": "Sun, 01 Nov 2026 13:11:41 GMT"
+      "source": "证监会新闻",
+      "title": "金融监管部门将召开座谈会，A股将迎哪些利好？ - 搜狐网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPMk50TUw1WFVNV1FMQjdTQ01kbWxvTlZCOGVfY1NLTzVlcHhUemhGcElOSVdfYm5meWt3OWthV1NGallnTmNTVWliUjZNSmE3MXVUWjQwai1LcXZvWHZZNVotbnRId1VMOEQxU1QxVzNiUm5TZWRick9qSjlXOXpjVjNGYnEtb3ZISWZEVg?oc=5\" target=\"_blank\">金融监管部门将召开座谈会，A股将迎哪些利好？</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMk50TUw1WFVNV1FMQjdTQ01kbWxvTlZCOGVfY1NLTzVlcHhUemhGcElOSVdfYm5meWt3OWthV1NGallnTmNTVWliUjZNSmE3MXVUWjQwai1LcXZvWHZZNVotbnRId1VMOEQxU1QxVzNiUm5TZWRick9qSjlXOXpjVjNGYnEtb3ZISWZEVg?oc=5",
+      "published": "Sun, 01 Nov 2026 14:31:59 GMT"
     }
   ]
 }
