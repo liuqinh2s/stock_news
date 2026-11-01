@@ -1,9 +1,23 @@
 {
   "date": "2026-11-02",
   "hour": "07",
-  "total": 10,
-  "fetched_at": "2026-11-02T07:01:04.613420+08:00",
+  "total": 13,
+  "fetched_at": "2026-11-02T07:16:19.998803+08:00",
   "news": [
+    {
+      "source": "新浪财经",
+      "title": "AI算力与新能源协同驱动，A股三季报“动能向新” - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5tSi1CQVh3UVJDNlMzNEdDTlE3bVFrVlVic3l5WFplRFMzY25DVnNWdVkxemNGd0x1MU5uUGFCNEpZaGxMcm5YSDFSdGlYNzRKMUxHWk95ZkxYQUR6S0xzbXZHSFpNeFRITUE4ZFV0ZkdXQ2JTZ1Y4TA?oc=5\" target=\"_blank\">AI算力与新能源协同驱动，A股三季报“动能向新”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tSi1CQVh3UVJDNlMzNEdDTlE3bVFrVlVic3l5WFplRFMzY25DVnNWdVkxemNGd0x1MU5uUGFCNEpZaGxMcm5YSDFSdGlYNzRKMUxHWk95ZkxYQUR6S0xzbXZHSFpNeFRITUE4ZFV0ZkdXQ2JTZ1Y4TA?oc=5",
+      "published": "Sun, 01 Nov 2026 22:49:57 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "科创板ETF三周净流入近五百亿元 - 新浪财经",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBYanFudEp4ckhnNHNkSmxpYVRZMUl1RjdUWFRCUEFGdEZzeXhkVXllQmE1MW9ib3NqUHNMMzYtNmlJOWZUQTZCSUhhM2JoWTZnNW1UVzF0Q2ZidGNlblpVT0xFdDVodExOSmg2Q081NXJ2UWlUM2c4Tw?oc=5\" target=\"_blank\">科创板ETF三周净流入近五百亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYanFudEp4ckhnNHNkSmxpYVRZMUl1RjdUWFRCUEFGdEZzeXhkVXllQmE1MW9ib3NqUHNMMzYtNmlJOWZUQTZCSUhhM2JoWTZnNW1UVzF0Q2ZidGNlblpVT0xFdDVodExOSmg2Q081NXJ2UWlUM2c4Tw?oc=5",
+      "published": "Sun, 01 Nov 2026 22:53:25 GMT"
+    },
     {
       "source": "东方财富",
       "title": "10月国际金价高位震荡 黄金主题ETF逆势吸金 - 东方财富",
@@ -34,31 +48,38 @@
     },
     {
       "source": "同花顺",
-      "title": "皇冠新材股票将于11月3日在深交所主板上市 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xQzc2RzRfMGlPdFNGRGVScGNzQU5EU3RHNFJvSVNYMFpoMXN6dFBYWUw2VEVFeUY3TVRWRFNfS1NmLTl5WUhMZHl4aF9vRkt6RjZXWVRwWlZXQXVHeC1jeU13?oc=5\" target=\"_blank\">皇冠新材股票将于11月3日在深交所主板上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xQzc2RzRfMGlPdFNGRGVScGNzQU5EU3RHNFJvSVNYMFpoMXN6dFBYWUw2VEVFeUY3TVRWRFNfS1NmLTl5WUhMZHl4aF9vRkt6RjZXWVRwWlZXQXVHeC1jeU13?oc=5",
-      "published": "Sun, 01 Nov 2026 22:56:31 GMT"
+      "title": "向天向海向AI 商业卫星重构空天信息应用版图",
+      "summary": "随着商业航天快速发展，商业卫星数量持续增长，叠加AI技术对卫星能力提升的促进，卫星在低空、海洋和具身智能等领域的应用加速铺开，成为新一代基础设施建设的重要组成部分。多位行业人士表示，AI等技术将助力卫星服务提效与运维能力提升，让卫星能力在商业应用上得到更好发展，也促使企业将卫星安全保障提上了日程。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20261102/c681331073.shtml",
+      "published": "Sun, 01 Nov 2026 23:10:42 GMT"
     },
     {
       "source": "同花顺",
-      "title": "拓新药业向特定对象发行股票申请获深交所审核通过 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE92cE4zVWJBUTVrYWkzOC1kNTA5cGxTTi12bTdwblBRVlVHRUVqSWN3UVFfWS1JSFpxandnOW5IR0NjRWVCQ2JzN29INWRIQnZmdHBybVp2WklsenYwYW9YQjV3?oc=5\" target=\"_blank\">拓新药业向特定对象发行股票申请获深交所审核通过</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92cE4zVWJBUTVrYWkzOC1kNTA5cGxTTi12bTdwblBRVlVHRUVqSWN3UVFfWS1JSFpxandnOW5IR0NjRWVCQ2JzN29INWRIQnZmdHBybVp2WklsenYwYW9YQjV3?oc=5",
-      "published": "Sun, 01 Nov 2026 22:51:31 GMT"
+      "title": "AI算力与新能源协同驱动 A股三季报“动能向新”",
+      "summary": "A股三季报披露收官，上市公司盈利重心持续向“新赛道”倾斜。随着算力基建持续扩容、全球能源转型稳步推进，AI算力与新能源产业链表现亮眼：AI算力产业链中芯片、存储、光模块、PCB等细分领域风头正盛，多家头部公司业绩呈爆发式增长；新能源板块迎来结构性复苏，动力电池、储能、锂电材料等细分领域多点开花，龙头企业盈利韧性充分显现。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20261102/c681331047.shtml",
+      "published": "Sun, 01 Nov 2026 23:09:51 GMT"
     },
     {
       "source": "同花顺",
-      "title": "两家A股公司，被证监会立案 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xclNRdGhOSF9LSG5QZ2F0MENhdU9oYXBXYTJ1RDFMbzhhRFdYSHE2Wks4eXZldW5DamdNUDF5T3EydHlLLXQtWHE4ZXZIV2RUNlNIMFpOT3ZUaFdiQ0ZYNUdn?oc=5\" target=\"_blank\">两家A股公司，被证监会立案</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xclNRdGhOSF9LSG5QZ2F0MENhdU9oYXBXYTJ1RDFMbzhhRFdYSHE2Wks4eXZldW5DamdNUDF5T3EydHlLLXQtWHE4ZXZIV2RUNlNIMFpOT3ZUaFdiQ0ZYNUdn?oc=5",
-      "published": "Sun, 01 Nov 2026 22:56:31 GMT"
+      "title": "三季报收官 北交所细分龙头增长动能持续释放",
+      "summary": "北交所上市公司2026年三季报披露收官。数据显示，截至10月31日，纳入统计的354家北交所上市公司中，246家公司前三季度营业收入同比增长，占比69.49%；162家公司归母净利润同比增长，占比45.76%；288家公司实现盈利，占比81.36%。整体经营展现一定韧性，营业收入增长覆盖面较广，部分企业业绩实现较快增长，机械设备、电子、电力设备等领域企业表现活跃，一批细分行业龙头依托技术积累、市场拓展和业务布局，展现出较强的发展活力。（中国证券报）",
+      "link": "https://news.10jqka.com.cn/20261102/c681331018.shtml",
+      "published": "Sun, 01 Nov 2026 23:09:03 GMT"
     },
     {
       "source": "同花顺",
-      "title": "688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wNVlITFJQOXlFOGNHeVVEM0FDbkw4VXhZVTFnYU84a3JhNWpkYzBMUjNzOElvRHhKSlJlTWlCSURBQWc0Rm16Vjh2dmszRHpDc0dvN1RxQ3luc2h1SENNNA?oc=5\" target=\"_blank\">688110，控股股东拟增持4亿—6亿元；白酒龙头，机构净买入2.49亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wNVlITFJQOXlFOGNHeVVEM0FDbkw4VXhZVTFnYU84a3JhNWpkYzBMUjNzOElvRHhKSlJlTWlCSURBQWc0Rm16Vjh2dmszRHpDc0dvN1RxQ3luc2h1SENNNA?oc=5",
-      "published": "Sun, 01 Nov 2026 22:57:40 GMT"
+      "title": "现货黄金站上3900美元/盎司",
+      "summary": "现货黄金站上3900美元/盎司，日内涨0.67%。同花顺黄金现货价格报831.3元/克，较开盘价持平。",
+      "link": "https://news.10jqka.com.cn/20261102/c681330957.shtml",
+      "published": "Sun, 01 Nov 2026 23:06:52 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街见闻早餐FM-Radio | 2026年11月2日",
+      "summary": "<p style=\"text-align: center;\"><a class=\"shield-text\" href=\"https://wallstreetcn.com/shop/item/1000409\" rel=\"noopener\" target=\"_blank\">别只围观 AI 风口！零基础也能上手，手把手带你实操 AI Agent、跑通项目。11月14—15日，限额50人，点击了解课程并立即报名！</a></p>\n<p><a href=\"https://wallstreetcn.com/shop/item/1000409\" rel=\"noopener\" target=\"_blank\"><img class=\"wscnph shield-text\" src=\"https://wpimg-wscn.awtmt.com/b3c2d900-3107-4faf-9ce8-134fa0b2942a.png\" /></a></p>\n<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img c",
+      "link": "https://wallstreetcn.com/articles/3784909",
+      "published": "Sun, 01 Nov 2026 23:02:47 GMT"
     },
     {
       "source": "雪球热帖",
