@@ -1,197 +1,148 @@
 {
   "date": "2026-11-04",
   "hour": "11",
-  "total": 41,
-  "fetched_at": "2026-11-04T11:00:58.651679+08:00",
+  "total": 29,
+  "fetched_at": "2026-11-04T11:45:58.233014+08:00",
   "news": [
     {
-      "source": "东方财富",
-      "title": "ETF追踪丨11月3日股票型ETF净申购841亿元 资金加仓沪深300ETF华泰柏瑞 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xUlVkYUJvcTFRZGZGZjh6d2REZmVYRkRfSjR4VUlYNHdIVGdkQjdiNmM3dElTTkdXUkRIdzRwWUY5U1hiWXdlNnRINXRhSXROcVhTdmViTmRoMDdFUVExZEsxT3pfQQ?oc=5\" target=\"_blank\">ETF追踪丨11月3日股票型ETF净申购841亿元 资金加仓沪深300ETF华泰柏瑞</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xUlVkYUJvcTFRZGZGZjh6d2REZmVYRkRfSjR4VUlYNHdIVGdkQjdiNmM3dElTTkdXUkRIdzRwWUY5U1hiWXdlNnRINXRhSXROcVhTdmViTmRoMDdFUVExZEsxT3pfQQ?oc=5",
-      "published": "Wed, 04 Nov 2026 01:30:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "最高50亿元！长鑫科技大幅上调回购金额 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKTWNjUmc3c3VwM1FMZmRjdUJZU2tBREZXOVpia3FmZTg4OEsxRkVucjRCdEVYRVRzMFFBajJOcGRwSU5HclZPdXhGZWVIX09DRlhKTnlxN3htR3ZYQ2hWNw?oc=5\" target=\"_blank\">最高50亿元！长鑫科技大幅上调回购金额</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKTWNjUmc3c3VwM1FMZmRjdUJZU2tBREZXOVpia3FmZTg4OEsxRkVucjRCdEVYRVRzMFFBajJOcGRwSU5HclZPdXhGZWVIX09DRlhKTnlxN3htR3ZYQ2hWNw?oc=5",
-      "published": "Wed, 04 Nov 2026 01:18:45 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "北美云厂商开启新一轮密集债务扩张，AI投资进入价值验证阶段，人工智能ETF华富(515980)连续3天净流入 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nSGhaNWRmVGhlTHRJOUNLWEhIb0tsb1k4MEVuNC1lemQ2aE5KWTFhZkRsck5YYnBWV2VmSkhIbjlYb0FsdHhlZ0Y4aVpIOEoyMTdzYVRjTGlBWjRNYVlka0hZVmNNQQ?oc=5\" target=\"_blank\">北美云厂商开启新一轮密集债务扩张，AI投资进入价值验证阶段，人工智能ETF华富(515980)连续3天净流入</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nSGhaNWRmVGhlTHRJOUNLWEhIb0tsb1k4MEVuNC1lemQ2aE5KWTFhZkRsck5YYnBWV2VmSkhIbjlYb0FsdHhlZ0Y4aVpIOEoyMTdzYVRjTGlBWjRNYVlka0hZVmNNQQ?oc=5",
-      "published": "Wed, 04 Nov 2026 01:42:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "创业板公司融资余额减少103.76亿元 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BcFJXYnlVR2xxenllTEhxRjBadlM2Tk9aUlZuOThNUm42YWJ2NzMyVm1TbExNOE11TF92TEc5TTBUWEhGMkdOWjZmcGtkbnVUSDdDd1A4dmtlY0JiV2FUeGhwQkxrZw?oc=5\" target=\"_blank\">创业板公司融资余额减少103.76亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BcFJXYnlVR2xxenllTEhxRjBadlM2Tk9aUlZuOThNUm42YWJ2NzMyVm1TbExNOE11TF92TEc5TTBUWEhGMkdOWjZmcGtkbnVUSDdDd1A4dmtlY0JiV2FUeGhwQkxrZw?oc=5",
-      "published": "Wed, 04 Nov 2026 01:45:44 GMT"
+      "source": "同花顺",
+      "title": "美民主党料近40年首获得州联邦参议院席位",
+      "summary": "美国选举数据分析机构决策台总部网站3日晚预测，得克萨斯州民主党联邦参议员候选人詹姆斯·塔拉里科将击败共和党候选人肯·帕克斯顿，成为1988年以来首名在该州赢得联邦参议院席位的民主党人。位于美国南部的得州是共和党传统票仓，过去三届总统选举中均支持特朗普。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261104/c681444218.shtml",
+      "published": "Wed, 04 Nov 2026 03:41:27 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国家发改委：“十五五”时期，我国将新建约2500公里国家高等级水运航道",
-      "summary": "11月4日，国家发展改革委召开奋进“十五五”系列新闻发布会。国家发展改革委基础设施发展司司长夏鑫表示，“十五五”时期我国将新建约2500公里国家高等级航道、100余个万吨级及以上自动化码头泊位，基本建成现代化水运体系。重点任务包括建设世界一流港口，增强环渤海、长三角、粤港澳世界级港口群航运服务、产业支撑、资源配置能力，系统提升长江干线通航能力，稳步打通重点省际航道通航瓶颈；重大工程方面，加快建设世界一流上海国际航运中心，积极发展东南沿海港口群、环北部湾港口群，建设三峡水运新通道。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261104/c681441625.shtml",
-      "published": "Wed, 04 Nov 2026 02:57:05 GMT"
+      "title": "“十五五”时期我国将加快建设400余个水网重大工程",
+      "summary": "记者从国家发展改革委新闻发布会上获悉，“十五五”时期我国将加快400多个水网重大工程建设，围绕洪涝风险防控和应对、水资源调控和供给、江河生态保护和治理等要求，统筹优化水网布局，不断完善流域防洪减灾体系、水资源配置和供水保障体系、河湖生态系统保护治理体系。国家发展改革委农村经济司副司长关锡璠表示，该时期规划了防洪减灾、供水灌溉、水生态保护修复等3方面、9个类型共400多个重大工程，按“建成竣工一批、加快建设一批、立项开工一批、前期推进一批、研究论证一批”思路梯次推进；将加大投资支持力度，保持中央投资合理强度，拓宽水利投融资渠道，用好新型政策性金融工具，吸引社会资本特别是民间资本参与，推动更多水利基础设施投资信托基金发行上市。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443888.shtml",
+      "published": "Wed, 04 Nov 2026 03:36:27 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国家发改委：“十五五”交通领域投资预计维持较大规模，严防项目跟风炒作",
-      "summary": "11月4日，国家发展改革委召开奋进“十五五”系列新闻发布会。国家发改委基础设施发展司司长夏鑫表示，交通运输是基础设施投资的主力军，今年以来高效完成中央预算内投资超长期特别国债、地方政府专项债券、新型政策性金融工具等项目的审核筛选。预计“十五五”时期交通领域投资仍将保持较大规模，发改委将坚持“适度超前、不过度超前”，扩大新兴领域投资，压减效益不高、利用率低、同质化重复建设的项目，严防新领域、新业态项目炒作概念、一哄而上。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261104/c681441508.shtml",
-      "published": "Wed, 04 Nov 2026 02:55:11 GMT"
+      "title": "广州湾区半导体产业集团等成立私募股权投资合伙企业",
+      "summary": "据企查查APP显示，近日，广东跃傲集芯私募股权投资合伙企业（有限合伙）成立，出资额约3亿元，经营范围包含以私募基金从事股权投资、投资管理、资产管理等活动。企查查股权穿透显示，该合伙企业由广州湾区半导体产业集团有限公司、广东粤澳半导体产业投资私募基金管理合伙企业（有限合伙）等共同持股。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443757.shtml",
+      "published": "Wed, 04 Nov 2026 03:34:18 GMT"
     },
     {
       "source": "同花顺",
-      "title": "存算一体AI芯片企业后摩智能完成数十亿元B轮融资",
-      "summary": "据知情人士透露，存算一体AI芯片企业后摩智能已于近期完成B轮融资，单笔融资金额达数十亿元人民币，近一年内连续完成多轮融资。本轮融资涵盖上下游产业资本、国有资本及国际投资人，多家老股东加码。据悉，本轮资金将主要用于扩大M50规模化交付，推进新一代M6X与下一代3D CIM产品研发。（科创板日报）",
-      "link": "https://news.10jqka.com.cn/20261104/c681441394.shtml",
-      "published": "Wed, 04 Nov 2026 02:53:17 GMT"
+      "title": "“十五五”我国将适度超前构建现代化基础设施体系",
+      "summary": "国家发展改革委举行新闻发布会，相关负责人介绍，“十五五”时期我国将坚持适度超前、不过度超前，加快构建先进适用、系统完备、集约高效、安全绿色的现代化基础设施体系。基础设施发展司司长夏鑫表示，将加强跨区域跨流域大通道建设，推进传统基础设施数智化升级，加快用能结构调整和绿色低碳转型，加强重点领域安全设施建设，增强应对自然灾害、意外事故、突发事件的预防抵御和快速修复能力。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443742.shtml",
+      "published": "Wed, 04 Nov 2026 03:33:46 GMT"
     },
     {
       "source": "同花顺",
-      "title": "美国或迎来首位非裔女性州长",
-      "summary": "据美国媒体预测，当地时间11月3日，民主党候选人、亚特兰大前市长凯莎·兰斯·博顿斯在佐治亚州州长选举中击败共和党候选人里克·杰克逊，使民主党时隔24年重新夺回这一关键摇摆州的州长职位。博顿斯成为佐治亚州首位当选州长的女性及首位非裔州长，也是美国历史上首位当选州长的非裔女性。此次竞选中她面临明显资金劣势，其对手杰克逊个人向竞选活动投入超1亿美元但最终落败。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261104/c681441364.shtml",
-      "published": "Wed, 04 Nov 2026 02:52:47 GMT"
+      "title": "前三季度我国服务进出口总额同比增长8.5%",
+      "summary": "今年前三季度我国服务进出口总额57687.7亿元，同比增长8.5%。其中服务出口22714亿元，同比增长14.8%；服务进口34973.7亿元，同比增长4.8%；服务贸易逆差12259.7亿元，同比缩小1326.6亿元。运输服务进出口12817.2亿元，同比增长33.9%，增速居各领域之首；知识密集型服务进出口25321.7亿元，同比增长7.4%，占服务进出口总额的43.9%，其中出口12199亿元，同比增长11.7%，占服务出口额的53.7%。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443719.shtml",
+      "published": "Wed, 04 Nov 2026 03:33:12 GMT"
     },
     {
       "source": "同花顺",
-      "title": "三大指数集体翻绿，创业板指跌0.16%",
-      "summary": "A股三大指数集体翻绿，乳业、房地产、油气开采及服务板块跌幅居前。",
-      "link": "https://news.10jqka.com.cn/20261104/c681440955.shtml",
-      "published": "Wed, 04 Nov 2026 02:46:26 GMT"
+      "title": "期货午评：能化、有色板块齐跌！低硫燃油跌近7%，沪锡跌超5%",
+      "summary": "期货午评：早盘收盘，商品跌多涨少，低硫燃油跌近7%，沪锡跌超5%，燃料油跌近5%，碳酸锂、铂、棕榈油跌超3%，20号胶、苯乙烯跌近3%。涨幅方面，烧碱涨超2%，纸浆、铁矿石、集运欧线涨超1%，鸡蛋涨近1%。",
+      "link": "https://news.10jqka.com.cn/20261104/c681443684.shtml",
+      "published": "Wed, 04 Nov 2026 03:32:44 GMT"
     },
     {
       "source": "同花顺",
-      "title": "上期所沪锡主力合约大跌5% LME锡主力合约跌超2%",
-      "summary": "上期所沪锡主力合约大跌5%，报344230元/吨。LME锡主力合约跌超2%，现报46310.0美元/吨。",
-      "link": "https://news.10jqka.com.cn/20261104/c681440589.shtml",
-      "published": "Wed, 04 Nov 2026 02:41:03 GMT"
+      "title": "ETF两市成交额报3461.51亿元，较昨日此时放量532.76亿元",
+      "summary": "截至目前，ETF两市成交额报3461.51亿元，较昨日此时放量532.76亿元，分类型来看，股票型ETF成交额1004.94亿元，债券型ETF成交额1723.78亿元，货币型ETF成交额264.41亿元，商品型ETF成交额53.01亿元，QDII型ETF成交额415.37亿元。其中，成交额最高的非货币型ETF分别是中韩半导体ETF（513310）、创业板ETF（159915）、沪深300ETF（510300），成交额分别为：93.28亿元、60.79亿元、55.72亿元。",
+      "link": "https://news.10jqka.com.cn/20261104/c681443664.shtml",
+      "published": "Wed, 04 Nov 2026 03:32:03 GMT"
     },
     {
       "source": "同花顺",
-      "title": "福斯特：推进服务器PCB中高端电子材料进口替代",
-      "summary": "福斯特在2026年第三季度业绩说明会上表示，公司正大力推进服务器PCB领域中高端电子材料进口替代，海外竞争对手主要是旭化成、力森诺科和杜邦，公司有多品类和本土化供应优势，可实现国内电子电路产业链协同，预计明后年能有更大销售。公司铝塑膜年度设计产能约3000万平方米，三季度利用率约70%，逐年提升；泰国和越南基地运行良好，海外业务占比30%至40%，盈利能力比国内更好，毛利率高5%至10%。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261104/c681440457.shtml",
-      "published": "Wed, 04 Nov 2026 02:39:03 GMT"
+      "title": "日经225指数跌幅扩大至4%",
+      "summary": "日经225指数跌幅扩大至4%，现报60572.37点。",
+      "link": "https://news.10jqka.com.cn/20261104/c681443627.shtml",
+      "published": "Wed, 04 Nov 2026 03:30:53 GMT"
     },
     {
       "source": "同花顺",
-      "title": "韩国综指跌幅扩大至3%",
-      "summary": "韩国综指跌幅扩大至3%，现报5478.89点。个股方面，SK海力士跌超5%，三星电子跌超3%。",
-      "link": "https://news.10jqka.com.cn/20261104/c681440254.shtml",
-      "published": "Wed, 04 Nov 2026 02:37:07 GMT"
+      "title": "A股午评：科创50指数震荡涨0.85%，半导体、汽车芯片板块涨幅居前",
+      "summary": "A股三大指数早盘涨跌不一，截至午盘，上证指数跌0.1%，深证成指涨0.14%，创业板指涨0.1%，北证50跌0.54%，科创50指数涨0.85%。全市场成交额9313亿元，较上日缩量683亿元，全市场超3700只个股下跌。板块题材上，半导体、汽车芯片、人形机器人、存储芯片、影视院线板块涨幅居前；乳业、饮料制造、房地产、造纸、油气开采及服务板块跌幅居前。盘面上，半导体板块站当走高，托伦斯、恒玄科技、矩芯科技等股涨超10%，乐鑫科技、芯源微、泰凌微涨幅居前。人形机器人板块表现活跃，兆威机电、索辰科技、征和工业等多股涨停，安培龙、柯力传感、华是科技涨幅居前。文化传媒板块局部强势，龙版传媒、引力传媒涨停，中信出版、易点天下、天娱数科涨幅居前。乳业板块表现低迷，阳光乳业、均瑶健康触及跌停，万辰集团、一鸣食品、西部牧业跌幅居前。房地产板块震荡下行，阳光股份、滨江集团、招商蛇口跌幅居前。",
+      "link": "https://news.10jqka.com.cn/20261104/c681443625.shtml",
+      "published": "Wed, 04 Nov 2026 03:30:51 GMT"
     },
     {
       "source": "同花顺",
-      "title": "“十五五”末我国社零总额预计达到60万亿元左右",
-      "summary": "记者从国家发展改革委获悉，预计到“十五五”末，我国流通业整体规模将持续扩大，社会消费品零售总额达到60万亿元左右；流通网络将更加健全，102个现代流通战略支点城市辐射带动能力进一步增强，将有6条国家级重要商品骨干流通走廊落地建设。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261104/c681440133.shtml",
-      "published": "Wed, 04 Nov 2026 02:34:51 GMT"
+      "title": "ETF午评：科创半导体ETF领涨4.15%，地产ETF领跌3.28%",
+      "summary": "ETF午间收盘涨跌不一，科创半导体ETF（588170）领涨4.15%，科创半导体设备ETF（589020）涨4.12%，半导体设备ETF（560780）涨4.05%，地产ETF（159707）领跌3.28%，房地产ETF（159768）跌3.2%，标普油气ETF（513350）跌2.57%。",
+      "link": "https://news.10jqka.com.cn/20261104/c681443620.shtml",
+      "published": "Wed, 04 Nov 2026 03:30:51 GMT"
     },
     {
       "source": "同花顺",
-      "title": "现货白银跌超1% COMEX白银期货跌超1%",
-      "summary": "现货白银跌超1%，现报49.37美元/盎司。COMEX白银期货跌超1%，现报49.23美元/盎司。",
-      "link": "https://news.10jqka.com.cn/20261104/c681440065.shtml",
-      "published": "Wed, 04 Nov 2026 02:33:42 GMT"
+      "title": "股指期货早盘收盘 主力合约全线上涨",
+      "summary": "股指期货早盘收盘，主力合约全线上涨。沪深300股指期货(IF)主力合约涨0.27%，上证50股指期货(IH)主力合约涨0.37%，中证500股指期货(IC)主力合约涨0.10%，中证1000股指期货(IM)主力合约涨0.24%。",
+      "link": "https://news.10jqka.com.cn/20261104/c681443602.shtml",
+      "published": "Wed, 04 Nov 2026 03:30:18 GMT"
     },
     {
       "source": "同花顺",
-      "title": "邦基科技：公司应收账款整体风险可控",
-      "summary": "邦基科技在2026年第三季度业绩说明会上表示，目前生猪行业处于周期底部，下游养殖客户盈利承压，但该部分合作客户抗风险能力较强、现金流基础相对稳健，公司持续动态跟踪客户经营与回款情况，应收账款整体风险可控。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261104/c681440056.shtml",
-      "published": "Wed, 04 Nov 2026 02:33:33 GMT"
+      "title": "苏丹南部一加油站遭无人机袭击 致7死36伤",
+      "summary": "当地时间11月3日，苏丹南部南科尔多凡州一处加油站遭无人机袭击，造成至少7名平民死亡、36人受伤，其中多人伤势危重。袭击发生时许多民用车辆正在排队加油。截至目前尚无个人或组织宣称对袭击负责。近期苏丹多个地区的发电站、输油管道、燃油储存库等能源设施频繁遭无人机袭击，电力和能源供应进一步恶化。2023年4月15日苏丹武装部队与快速支援部队在喀土穆爆发武装冲突，战火蔓延至其他地区，持续三年多的冲突已造成至少5.9万人死亡。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443547.shtml",
+      "published": "Wed, 04 Nov 2026 03:29:12 GMT"
     },
     {
       "source": "同花顺",
-      "title": "日本产业革新投资机构考虑向三井化学出售光刻胶厂商JSR，金额或超80亿美元",
-      "summary": "据报道，日本政府支持的投资基金——日本产业革新投资机构（JIC）计划将光刻胶厂商JSR出售给三井化学，最快可能在本月内做出决定，交易金额可能超过1.3万亿日元（约合82亿美元）。（界面新闻）",
-      "link": "https://news.10jqka.com.cn/20261104/c681440029.shtml",
-      "published": "Wed, 04 Nov 2026 02:33:12 GMT"
+      "title": "淘宝闪购“家宴”继续扩城：北京已开启灰测",
+      "summary": "11月4日，记者获悉，淘宝闪购高端到家餐饮项目“家宴”已于10月中旬在北京开启灰度测试，首批覆盖6个品牌、18家门店。继上海、杭州、成都、深圳之后，北京成为“家宴”灰测的新城市，项目全国覆盖也随之扩大至27个品牌、50余家门店。（21世纪经济报道）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443514.shtml",
+      "published": "Wed, 04 Nov 2026 03:28:46 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国台办：台湾作为中国的一部分 无权加入国际刑警组织",
-      "summary": "11月4日，国台办举行例行新闻发布会。针对国际刑警组织第九十四届全体大会将于11月30日至12月3日在香港举行，民进党当局呼吁各国政府支持台湾地区加入该组织，发言人朱凤莲表示，台湾作为中国的一部分，无权加入国际刑警组织，中国和国际刑警组织就台湾地区参与该组织框架下的合作及活动已做妥善安排，两岸警察机构和各国中心局之间信息共享和案件合作渠道畅通；民进党当局反复进行政治操弄，企图欺骗岛内民众，改变不了“谋独挑衅”注定失败的下场。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261104/c681439772.shtml",
-      "published": "Wed, 04 Nov 2026 02:28:57 GMT"
+      "title": "财政部副部长廖岷会见德国工业联合会驻华首席代表艾丽莎·雪格",
+      "summary": "2026年10月30日，财政部副部长廖岷在北京会见德国工业联合会驻华首席代表艾丽莎·雪格，就中德、中欧经济合作等议题交换意见。（财政部）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443436.shtml",
+      "published": "Wed, 04 Nov 2026 03:27:24 GMT"
     },
     {
       "source": "同花顺",
-      "title": "科创板半导体公司10月以来新增回购上限突破100亿元",
-      "summary": "11月4日早间，存储器制造龙头长鑫科技大幅提高回购计划上限至50亿元，较前次方案增加30亿元，为科创板目前单笔金额最大的回购交易。据记者不完全统计，截至11月4日，年内已有42家科创板半导体公司披露回购方案，合计130亿元；其中24家为10月以来新增方案，上限合计106.5亿元，突破百亿元大关。今年以来，科创板半导体公司股东及高管增持金额上限合计12.5亿元。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261104/c681439754.shtml",
-      "published": "Wed, 04 Nov 2026 02:28:49 GMT"
+      "title": "气温零下30℃？苹果官方客服：接到大量反馈，原因尚不确定",
+      "summary": "11月4日凌晨，部分苹果手机用户在社交媒体发帖称iPhone自带“天气”App出现异常气温，如零下30摄氏度等情况。苹果官方客服回应称，已接到大量用户反馈这一异常，目前该漏洞已修复，但尚不确定具体原因。（新京报贝壳财经）",
+      "link": "https://news.10jqka.com.cn/20261104/c681443250.shtml",
+      "published": "Wed, 04 Nov 2026 03:23:25 GMT"
     },
     {
       "source": "同花顺",
-      "title": "冰雪产业板块走高，冰山冷热涨停",
-      "summary": "冰雪产业板块走高，冰山冷热涨停，奥雅股份、欧亚集团、晶雪节能、雪人集团、龙江交通跟涨。",
-      "link": "https://news.10jqka.com.cn/20261104/c681439720.shtml",
-      "published": "Wed, 04 Nov 2026 02:28:22 GMT"
+      "title": "必得科技：现阶段公司海外业务占比较低",
+      "summary": "必得科技在2026年第三季度业绩说明会上表示，轨交行业正由以新线建设、新车采购为主，逐步转向新建与存量运维并重的发展阶段，公司将把握城轨更新改造、智能运维等机遇，持续推进“产品制造+技术维保+解决方案”一体化布局。公司主要客户包括中国中车、北京地铁等国内轨交重点客户，现阶段海外业务占比较低，将深耕国内市场，持续跟踪海外轨交市场机遇，审慎评估、择机拓展。",
+      "link": "https://news.10jqka.com.cn/20261104/c681442790.shtml",
+      "published": "Wed, 04 Nov 2026 03:14:24 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国台办：敦促欧洲议会在台湾问题上谨言慎行",
-      "summary": "11月4日，国台办举行例行新闻发布会，发言人朱凤莲就赖清德与欧洲“跨国议员团”见面时有关言论表示，世界上只有一个中国，台湾是中国领土不可分割的一部分，坚决反对建交国与中国台湾地区进行任何形式的官方往来，敦促欧洲议会一些人恪守一个中国原则，在台湾问题上谨言慎行；并指民进党当局与西方政客沆瀣一气，攻击抹黑大陆，煽动两岸对立对抗，暴露其“倚外谋独”的丑恶嘴脸。（央视新闻）",
-      "link": "https://news.10jqka.com.cn/20261104/c681439642.shtml",
-      "published": "Wed, 04 Nov 2026 02:27:09 GMT"
+      "title": "三峡集团、中国电建等成立资源循环公司",
+      "summary": "据企查查APP显示，近日，三峡资源循环（湖北）有限公司成立，法定代表人为陈浩，注册资本1.8亿元，经营范围包含再生资源加工、再生资源销售、国内贸易代理、供应链管理服务、轻质建筑材料制造等。股权穿透显示，该公司由中国长江三峡集团有限公司全资子公司长江生态环保集团有限公司、中国电建旗下中国水利水电第十二工程局有限公司等共同持股。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261104/c681442713.shtml",
+      "published": "Wed, 04 Nov 2026 03:13:06 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国家发改委：推动更多水利基础设施投资信托基金发行上市",
-      "summary": "11月4日，国家发展改革委召开奋进“十五五”系列新闻发布会。国家发展改革委农村经济司副司长、一级巡视员关锡璠表示，水网工程建设规模大、投资需求高，发改委将继续把水网工程作为重要支持领域，保持中央投资合理强度，努力拓宽水利投融资渠道，用好新型政策性金融工具，吸引社会资本特别是民间资本参与，推动更多水利基础设施投资信托基金发行上市。近期广东粤海水务水利REITs项目在深圳证券交易所上市交易，是我国水利领域第二例REITs项目。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261104/c681439569.shtml",
-      "published": "Wed, 04 Nov 2026 02:25:59 GMT"
+      "title": "聚焦民生关切 城市和社区可持续发展国家标准发布",
+      "summary": "记者今天了解到，市场监管总局批准发布国家标准《城市和社区可持续发展 城市服务和生活品质的指标》。该标准为衡量城市服务水平和居民生活品质建立了可量化、可比较、可追溯的“度量衡”。该标准共设置122项指标，划分为核心指标、辅助指标和概要指标三类，覆盖经济、教育、能源、环境与气候变化、健康、住房、交通、安全等19个领域，标准内容突出以下三个方面。一是聚焦民生关切搭建指标框架。围绕群众高度关注的医疗、教育、居住、出行、环境、城市安全等现实需求，设置了人均预期寿命、小学生师比、房价收入比、平均通勤时长、PM2.5年平均浓度、突发事件报警响应时间等重点指标，直观反映城市公共服务供给与人居品质实际水平。二是统一指标统计计算规则。对全部指标的统计口径、计算方法作出统一规范，降低不同城市评价偏差，确保城市之间评价结果横向可比、同一城市不同时期数据纵向可追溯。三是实现体系对接兼容。建立指标与城市可持续发展管理体系、联合国可持续发展目标的映射关系，兼顾国内城市治理实际和国际评价体系兼容性，拓展标准应用场景。 (央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261104/c681442621.shtml",
+      "published": "Wed, 04 Nov 2026 03:11:56 GMT"
     },
     {
       "source": "同花顺",
-      "title": "山东印发行动计划加快现代海洋产业发展",
-      "summary": "山东省近日印发《现代海洋产业发展行动计划（2026—2028年）》，提出锚定“打造现代海洋经济发展高地”目标，以智能化、绿色化、融合化为发展方向，加快构建现代海洋产业体系。到2028年，力争海洋产业增加值突破9600亿元；到2030年，现代海洋产业核心竞争力显著增强，基本建成具有国际竞争力的现代海洋产业体系。（人民财讯）",
-      "link": "https://news.10jqka.com.cn/20261104/c681439425.shtml",
-      "published": "Wed, 04 Nov 2026 02:23:21 GMT"
+      "title": "香港网约车逾1.8万人报名驾驶资格考试，车辆数量上限目前设为1万辆",
+      "summary": "截至今年10月30日，香港运输署已收到超过1.8万份的士及网约车综合笔试报名申请，考试面向有意申请网约车驾驶许可证或的士驾驶执照的人士。目前香港11间指定驾驶学校已于10月起推出网约车司机职前课程，通过综合笔试并完成职前课程者可申请网约车驾驶许可证，持有有效士驾驶执照者无须参加考试及课程，可直接申请。香港特区政府计划于11月公布网约车车辆许可证的分配安排，并将网约车数量上限设为1万辆。（界面新闻）",
+      "link": "https://news.10jqka.com.cn/20261104/c681442525.shtml",
+      "published": "Wed, 04 Nov 2026 03:10:20 GMT"
     },
     {
       "source": "同花顺",
-      "title": "特朗普：将结束对以援助 以媒：政府部门“惊讶”",
-      "summary": "美国总统特朗普3日表示，美国每年向以色列提供的约40亿美元援助将于今年年底结束，涵盖物资和资金，包括军事援助、现金或“以物易物”。他表示以色列不需要这些援助，称其“非常繁荣”，若有需要仍会提供帮助。据报道，现行美以安全援助协议每年约38亿美元，有效期至2028年。以媒称，以方政府部门对此“感到惊讶”并“担忧”后果，国防部门尚不清楚决定真正含义及落实时间表，也不确定以美安全关系是否会生变。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261104/c681439375.shtml",
-      "published": "Wed, 04 Nov 2026 02:22:23 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "机构：三艘载俄柴油赴美油轮中仅一艘仍似驶向美国",
-      "summary": "英国温沃德海事分析公司3日发布报告称，此前被报道装载俄柴油驶往美国的三艘油轮中，仅悬挂马耳他国旗的“AGIOI FANENDES”号仍似驶向美国东北部沿岸，另两艘原定赴美计划可能已调整：悬挂塞拉利昂国旗的“LERUO”号目的地改为“巴西，等待指令”，可能转向巴西；悬挂俄罗斯国旗的“TALISMAN”号不再注明具体目的地区域。两船均受欧盟、英国或美国中一方或多方制裁，这可能是调整原因。美国财政部10月9日曾公告未来几个月将放松针对俄柴油贸易的制裁以缓解美国国内柴油供应紧张、平抑油价。报告称尚无俄柴油运抵美国。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261104/c681439338.shtml",
-      "published": "Wed, 04 Nov 2026 02:21:57 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "美国打击伊朗岛屿后：和平谈判希望降温、原油风险溢价再上线 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE03aHhscUY4Q1RqaUpXWWdhc09DRTIyUTZDMjBGZV9pZVpOWHFKUnAxT2xYVnk5NFp0XzRoOUJfamQ4LTd2QmVjTA?oc=5\" target=\"_blank\">美国打击伊朗岛屿后：和平谈判希望降温、原油风险溢价再上线</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03aHhscUY4Q1RqaUpXWWdhc09DRTIyUTZDMjBGZV9pZVpOWHFKUnAxT2xYVnk5NFp0XzRoOUJfamQ4LTd2QmVjTA?oc=5",
-      "published": "Wed, 04 Nov 2026 01:08:00 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "央行下调回购增持再贷款利率 东山精密涨近6%领涨相关港股 - 搜狐网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2o2TTFLSnJJaElxOU1TeVdLQzZpUjl2OTFTRFFXSWZwdkZRbXlmckVJQzcyYlhpbkxrY19oOThIbW1kOFNrRFptSElVQnVrN19NV1NhZU1GS1FFM3F0UG9ocENPT2U5YWZoU3Nvb2hYdWxJUTc0LWhNTS1ZMnpUckt4VVFxUjRx?oc=5\" target=\"_blank\">央行下调回购增持再贷款利率 东山精密涨近6%领涨相关港股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">搜狐网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ2o2TTFLSnJJaElxOU1TeVdLQzZpUjl2OTFTRFFXSWZwdkZRbXlmckVJQzcyYlhpbkxrY19oOThIbW1kOFNrRFptSElVQnVrN19NV1NhZU1GS1FFM3F0UG9ocENPT2U5YWZoU3Nvb2hYdWxJUTc0LWhNTS1ZMnpUckt4VVFxUjRx?oc=5",
-      "published": "Wed, 04 Nov 2026 02:38:00 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "半导体设备景气依旧？韩媒：下游客户已在争夺三年后的订单 - 财联社",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RaU9aZzd6dEpaOFBXWnJlTkFKemtUTTdVUXJSSWNYZXlZaGljT1d4ek9PRmxRdzA1SktDS1A2ekZnREIwbDltQg?oc=5\" target=\"_blank\">半导体设备景气依旧？韩媒：下游客户已在争夺三年后的订单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RaU9aZzd6dEpaOFBXWnJlTkFKemtUTTdVUXJSSWNYZXlZaGljT1d4ek9PRmxRdzA1SktDS1A2ekZnREIwbDltQg?oc=5",
-      "published": "Wed, 04 Nov 2026 01:08:00 GMT"
+      "title": "比特币跌破76000美元，日内跌超2%",
+      "summary": "比特币跌破76000美元，日内跌超2%。",
+      "link": "https://news.10jqka.com.cn/20261104/c681442267.shtml",
+      "published": "Wed, 04 Nov 2026 03:06:38 GMT"
     },
     {
       "source": "财联社",
@@ -229,60 +180,18 @@
       "published": "Wed, 04 Nov 2026 02:05:08 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "中国10月RatingDog服务业PMI 50.8，前值 51.6。",
-      "summary": "<p>中国10月RatingDog服务业PMI 50.8，前值 51.6。 </p><div style=\"color: #666; margin-bottom: 15px;\">风险提示及免责条款</div>\n          <div>\n            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。\n          </div>",
-      "link": "https://wallstreetcn.com/articles/3785130",
-      "published": "Wed, 04 Nov 2026 01:45:25 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "纳指期货盘中跌2%，美国民主党在中期选举中势头强劲",
-      "summary": "<p>纳斯达克100指数期货盘中跌幅扩大至2%，标普500指数期货跌1%。美元指数走低，日内跌超0.5%；美债价格上涨。美国中期选举早期计票结果显示，民主党势头强劲。</p>",
-      "link": "https://wallstreetcn.com/livenews/3193704",
-      "published": "Wed, 04 Nov 2026 01:40:42 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "如何理解央行上调外汇存款准备金率？",
-      "summary": "<p>2026年11月3日，中国人民银行决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%上调至6%。</p>\n<p><strong>核心观点</strong></p>\n<p>1、本次外汇存款准备金率上调背景是人民币已持续升值约18个月，即期汇率升破6.65。</p>\n<p>2、从外汇存款准备金率作用机制来看，上调释放的信号意义或重于实质影响，有助于防范市场单边预期自我强化，防范“羊群效应”，保持汇率在合理均衡水平上的基本稳定。</p>\n<p>3、从历史复盘来看，“811”汇改以来、本轮调整以前，央行有两次在升值阶段上调外汇存准率，均发生在2020-2022年的升值周期。从结果来看，两次上调后，人民币均短期回调，虽未立即结束当时的人民币升值行情，但两次公告后的USDCNY剩余下行空间仅约0.8%和0.6%。这一有限历史样本提示，本次上调后人民币仍可能升值，但空间或较为有限。</p>\n<p>4、展望后续，短期出口韧性、结汇惯性与季节性结汇需求，或支撑人民币延续温和升值，但估值因子（基于历史数据与相关变量拟合，仅提供中长期汇率中枢的经验参",
-      "link": "https://wallstreetcn.com/articles/3785129",
-      "published": "Wed, 04 Nov 2026 01:34:53 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "苹果罕见警告：内存价格涨得前所未有，而且还没到头",
-      "summary": "<p>苹果CEO John Ternus认为，当前内存价格的涨幅前所未有，并且在未来几个季度仍将持续攀升，而随着早期低价库存带来的抵消红利逐渐消退，苹果面临的内存成本压力将越来越大。</p>",
-      "link": "https://wallstreetcn.com/charts/41960135",
-      "published": "Wed, 04 Nov 2026 01:34:44 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "德银复盘美股历史规律：中选后趋于上涨，但这一次可能不一样",
-      "summary": "<p>历史数据为中期选举后的美股走势提供了强有力的支撑，但当前市场结构的异常集中度令这一规律面临前所未有的挑战。</p>\n<p>据追风交易台，德意志银行最新研究报告显示，<strong>自二战以来，标普500指数在每一次中期选举后的12个月内均录得上涨，20次全部为正，平均涨幅达14.4%。</strong>这一纪录远超普通年份的平均表现。</p>\n<p>然而，德银策略师同时警告，<strong>当前指数集中度为历史上述所有样本中最高，</strong>少数几只超大市值股票的表现将在很大程度上决定这一连胜纪录能否延续至第22次。</p>\n<p>在利率市场层面，德银固收策略师指出，中期选举后10年期美国国债收益率往往下行，尤其是当选举结果导致\"新的分裂政府\"格局时，降幅更为显著。结合当前民主党大概率赢得众议院的预期，市场对政策僵局的定价逻辑或将在短期内主导利率走向。</p>\n<h2>历史胜率近乎完美，涨幅显著跑赢普通年份</h2>\n<p>德银报告对1930年以来每次中期选举后标普500指数12个月表现进行了系统梳理，结论高度一致：上涨几乎是常态。</p>\n<p>具体来看，自1946年以来",
-      "link": "https://wallstreetcn.com/articles/3785126",
-      "published": "Wed, 04 Nov 2026 01:08:27 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "中国人民银行加力实施股票回购增持再贷款政策",
-      "summary": "<p>为维护资本市场平稳运行，中国人民银行加力实施股票回购增持再贷款政策。</p>\n\n<p>一、自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。股票回购增持再贷款的支持对象为21家全国性银行和5家系统重要性城商行，支持比例为100%，期限1年，可根据银行需要展期。银行可在再贷款利率基础上适当加点，合理确定股票回购增持贷款期限和利率，加快贷款投放，增强上市公司、主要股东市值管理能力。</p>\n\n<p>二、向银行提供充足的再贷款额度保障。11月2日股票回购增持再贷款座谈会之后，银行已向中国人民银行报送股票回购增持再贷款额度申请超过2000亿元。后续，中国人民银行将继续充分满足银行的再贷款需求，支持银行积极对接上市公司、主要股东融资需求。</p>",
-      "link": "https://wallstreetcn.com/livenews/3193675",
-      "published": "Wed, 04 Nov 2026 01:05:01 GMT"
-    },
-    {
       "source": "第一财经",
-      "title": "纳指期货现跌1.3% - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBicUw4XzVoSWwyVG9QcDNHZEpZX2VTVkt5OTZLS3FjYUM4Zm42MlZoX0ZKRjUxajZ3WU5WRXJvZ001Nk90YzRyeGdLS3ZuMjNiZFo0?oc=5\" target=\"_blank\">纳指期货现跌1.3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBicUw4XzVoSWwyVG9QcDNHZEpZX2VTVkt5OTZLS3FjYUM4Zm42MlZoX0ZKRjUxajZ3WU5WRXJvZ001Nk90YzRyeGdLS3ZuMjNiZFo0?oc=5",
-      "published": "Wed, 04 Nov 2026 01:14:38 GMT"
+      "title": "外卖大战不打了，瑞幸第三季度省了11个亿快递费",
+      "summary": "<figure><img alt=\"外卖大战不打了，瑞幸第三季度省了11个亿快递费\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/AB3B9C0A-4BF7-42A5-B6A6-E3548BCDF09E.jpg\" /></figure><p>外卖大战退烧的影响仍未结束。</p><p>外卖大战熄火让瑞幸松了口气。11月3日晚，瑞幸咖啡（OTC:LKNCY）公布了三季报，单季总净收入179亿元，同比增长17%；non-GAAP净利润21.4亿元，同比增长50.9%，创单季历史新高；外卖补贴大战的退潮，则为瑞幸省下了约11亿元配送费。</p><p>财报显示，第三季度瑞幸外卖配送费用为17.9亿元，较上年同期的28.9亿元大幅下降38.1%，一年少花了约11亿元；该项费用占总净收入的比例也由18.9%降至10%。当晚举行的业绩会上，瑞幸管理层解释称，配送费用下降主要由于订单结构发生显著变化，外卖订单占比下降，自提订单占比上升。</p><p>瑞幸首席执行官郭谨一表示，随着外卖占比及配送成本大幅下降，自营门店盈利能力持续改善，门店层面",
+      "link": "https://www.yicai.com/news/103424764.html",
+      "published": "Wed, 04 Nov 2026 02:41:41 GMT"
     },
     {
       "source": "Bloomberg China",
       "title": "China Steps in to Boost Stocks, Cool Off Yuan - Bloomberg.com",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXZZcm5qZDJaUl9uVG45eUJGaldNd3hzU3R2TFkycXZHeHRoY1pLaHc2Rko4cUplM2d5ZXZMMWtjSmZmdTQtRE1JVV95R2V2RGNRcFZKb3ZhVFY3bW9xSzNfaUwyTVVYSnl0NUhOWjNFYnFEY000Y214c2hmQWFKOC1YbWpEV0I3Smo2ak5aVWJ3cGtMcEp0R1lvcDdxdWs?oc=5\" target=\"_blank\">China Steps in to Boost Stocks, Cool Off Yuan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXZZcm5qZDJaUl9uVG45eUJGaldNd3hzU3R2TFkycXZHeHRoY1pLaHc2Rko4cUplM2d5ZXZMMWtjSmZmdTQtRE1JVV95R2V2RGNRcFZKb3ZhVFY3bW9xSzNfaUwyTVVYSnl0NUhOWjNFYnFEY000Y214c2hmQWFKOC1YbWpEV0I3Smo2ak5aVWJ3cGtMcEp0R1lvcDdxdWs?oc=5",
-      "published": "Wed, 04 Nov 2026 01:59:10 GMT"
+      "published": "Wed, 04 Nov 2026 03:29:10 GMT"
     },
     {
       "source": "Bloomberg China",
@@ -290,6 +199,13 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVc2azZiNTdEZEJUM0RFOERmNk1QaTRQOGdkbE5EOUM5YVE5M2pqVTFkYmJsTC13MnpKaVRSd2ZLYmowSlhpOE5VcjdJNnJleWZsTDJ2SGN2b3JTOE9pdkZLMmdCblZhSE5ucGoyd2k2SEJwOFpVZVp1aWk1aWJYSHdvQ3VTMGtGa3FXa3NYUWxiWEsz?oc=5\" target=\"_blank\">Stock Futures Rise on AI Recovery as US Votes: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVc2azZiNTdEZEJUM0RFOERmNk1QaTRQOGdkbE5EOUM5YVE5M2pqVTFkYmJsTC13MnpKaVRSd2ZLYmowSlhpOE5VcjdJNnJleWZsTDJ2SGN2b3JTOE9pdkZLMmdCblZhSE5ucGoyd2k2SEJwOFpVZVp1aWk1aWJYSHdvQ3VTMGtGa3FXa3NYUWxiWEsz?oc=5",
       "published": "Wed, 04 Nov 2026 02:56:00 GMT"
+    },
+    {
+      "source": "Bloomberg China",
+      "title": "China Boosts Market Defense With National Team Buying, Buybacks - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUtvb3lwUzJuQjFxNlFVeExIN0tHeUhtVjdldlV5aUUzc3R5R1A0QzFjTzBYdmh2RzF1VGZ2cVJrRnM0ZUpNM0hnNFgtLXBBSnFucm9SakY3LVhkMHBLb0R3dUFwZ2o3d1Q5empFNHVMbmNDNzBlQzIyNGJlY2dZTm9PcUVPcGdMdjdQUjdFNWFwbXZBVHN1Z0xzYjd5V2NLbndUWXd2MHY4Y0JXRHJyaUh2TQ?oc=5\" target=\"_blank\">China Boosts Market Defense With National Team Buying, Buybacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQUtvb3lwUzJuQjFxNlFVeExIN0tHeUhtVjdldlV5aUUzc3R5R1A0QzFjTzBYdmh2RzF1VGZ2cVJrRnM0ZUpNM0hnNFgtLXBBSnFucm9SakY3LVhkMHBLb0R3dUFwZ2o3d1Q5empFNHVMbmNDNzBlQzIyNGJlY2dZTm9PcUVPcGdMdjdQUjdFNWFwbXZBVHN1Z0xzYjd5V2NLbndUWXd2MHY4Y0JXRHJyaUh2TQ?oc=5",
+      "published": "Wed, 04 Nov 2026 02:57:00 GMT"
     }
   ]
 }
