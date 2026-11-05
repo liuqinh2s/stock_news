@@ -1,29 +1,15 @@
 {
   "date": "2026-11-05",
   "hour": "15",
-  "total": 28,
-  "fetched_at": "2026-11-05T15:00:53.439645+08:00",
+  "total": 45,
+  "fetched_at": "2026-11-05T15:30:19.169138+08:00",
   "news": [
-    {
-      "source": "东方财富",
-      "title": "青云科技-U涨停 17只科创板股涨超10% - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRHFJdjhEM0ZGT3RLTTRENERWd3l0cjczWHFoR3ZIaWljZnN3Q3J2T1VqWkZhaC1YTUh3dE9WYlYtbGVZV256R2E5WmNmd01DSGllV2VjLUtvakpxWnY3UVhDT1YzUQ?oc=5\" target=\"_blank\">青云科技-U涨停 17只科创板股涨超10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRHFJdjhEM0ZGT3RLTTRENERWd3l0cjczWHFoR3ZIaWljZnN3Q3J2T1VqWkZhaC1YTUh3dE9WYlYtbGVZV256R2E5WmNmd01DSGllV2VjLUtvakpxWnY3UVhDT1YzUQ?oc=5",
-      "published": "Thu, 05 Nov 2026 06:47:14 GMT"
-    },
     {
       "source": "东方财富",
       "title": "Churchill Capital XIV递交IPO 拟纳斯达克上市 - 财富号",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE91Tm5xYnkyXzdzR2pneFR5QlZoWHFzcjJIQ21EdERQaDNpWk5xeGF4TDVZSGdJTy1ldzUzcmdMR0dJb3N3ZkRjRDZEQ2lBbFU2d3NzblZEQl9fbTZhcXBxQjl2NXZkOWRtdEg4?oc=5\" target=\"_blank\">Churchill Capital XIV递交IPO 拟纳斯达克上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91Tm5xYnkyXzdzR2pneFR5QlZoWHFzcjJIQ21EdERQaDNpWk5xeGF4TDVZSGdJTy1ldzUzcmdMR0dJb3N3ZkRjRDZEQ2lBbFU2d3NzblZEQl9fbTZhcXBxQjl2NXZkOWRtdEg4?oc=5",
       "published": "Thu, 05 Nov 2026 05:45:00 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "日韩股市收跌 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Mc1k1cWRmakh5bU9KeTVYSmhXM3BmRkhURVlSREtkZ19HZlZCZXJ6QTY1Zk1yVEFkSmUyYk90b0pKX1dST1dlTDhBelNLS3ZYUmxWMHBTWFh3V0dobDJ0WnFmMWgwUQ?oc=5\" target=\"_blank\">日韩股市收跌</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Mc1k1cWRmakh5bU9KeTVYSmhXM3BmRkhURVlSREtkZ19HZlZCZXJ6QTY1Zk1yVEFkSmUyYk90b0pKX1dST1dlTDhBelNLS3ZYUmxWMHBTWFh3V0dobDJ0WnFmMWgwUQ?oc=5",
-      "published": "Thu, 05 Nov 2026 06:50:54 GMT"
     },
     {
       "source": "东方财富",
@@ -41,157 +27,290 @@
     },
     {
       "source": "同花顺",
-      "title": "机构评级|招商证券给予芯源微“增持”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwM3M4M21lb2lLMEtORnBuZC03Q2hRbzJlYVMyRlB2TnliaUN2ak5ySEpaQVNXZUt5UTlyNTFPemtDeUxqbmU0eTFhX2Y2ODBhUVdjR3Z5U2NWM1lHZFlTXzJR?oc=5\" target=\"_blank\">机构评级|招商证券给予芯源微“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwM3M4M21lb2lLMEtORnBuZC03Q2hRbzJlYVMyRlB2TnliaUN2ak5ySEpaQVNXZUt5UTlyNTFPemtDeUxqbmU0eTFhX2Y2ODBhUVdjR3Z5U2NWM1lHZFlTXzJR?oc=5",
-      "published": "Thu, 05 Nov 2026 06:41:50 GMT"
+      "title": "华为发布首款鸿蒙台式机",
+      "summary": "在鸿蒙办公产业峰会上，华为首款鸿蒙电脑台式机华为擎云HM650系列发布，并发布鸿蒙电脑企业版，强化政企终端部署、设备管理与数据安全能力。（科创板日报）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500903.shtml",
+      "published": "Thu, 05 Nov 2026 07:28:53 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|华龙证券给予紫光股份“增持”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jUDIxcmZFUURqZFJ1NTFpNlhXV3pYamRnRnA1VnR0ZVFLNEdZTzVxWFVXMnIyZGJvZXhGZEtWNExUeWlVTV90OHJJVVBCVkRJOVh0LWVZWUE5QXdzZGJvMlln?oc=5\" target=\"_blank\">机构评级|华龙证券给予紫光股份“增持”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jUDIxcmZFUURqZFJ1NTFpNlhXV3pYamRnRnA1VnR0ZVFLNEdZTzVxWFVXMnIyZGJvZXhGZEtWNExUeWlVTV90OHJJVVBCVkRJOVh0LWVZWUE5QXdzZGJvMlln?oc=5",
-      "published": "Thu, 05 Nov 2026 06:47:21 GMT"
+      "title": "工信部：公开征求对《新能源汽车动力电池数字身份证管理暂行规定（征求意见稿）》的意见",
+      "summary": "为贯彻落实《健全新能源汽车动力电池回收利用体系行动方案》《新能源汽车废旧动力电池回收和综合利用管理暂行办法》，强化新能源汽车动力电池全链条监督管理，提升动力电池回收利用能力水平，工信部研究编制了《新能源汽车动力电池数字身份证管理暂行规定》，现向社会公开征求意见。(工信部)",
+      "link": "https://news.10jqka.com.cn/20261105/c681500855.shtml",
+      "published": "Thu, 05 Nov 2026 07:26:38 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|华源证券给予中炬高新“买入”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zc2NiUEdyS0ZJdUUtUFlHXzNCNFZrdGpTWEpRblNWU05Dd2ptR2xiWndMMHBkUFRleExUVzctbHd1ZmNzTGwwTXdYeDJBdVExYnJQN2V3MkQ1eUVlSkpNNDZ3?oc=5\" target=\"_blank\">机构评级|华源证券给予中炬高新“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zc2NiUEdyS0ZJdUUtUFlHXzNCNFZrdGpTWEpRblNWU05Dd2ptR2xiWndMMHBkUFRleExUVzctbHd1ZmNzTGwwTXdYeDJBdVExYnJQN2V3MkQ1eUVlSkpNNDZ3?oc=5",
-      "published": "Thu, 05 Nov 2026 06:42:36 GMT"
+      "title": "联想集团任命Amar Babu为移动业务总经理",
+      "summary": "联想集团任命集团高级副总裁、亚太区总裁Amar Babu为移动业务集团（MBG）总经理兼摩托罗拉全球总裁，自2027年1月1日起正式生效。履新后，Amar将向联想集团执行副总裁、智能设备业务集团（IDG）总裁Luca Rossi汇报，全面负责摩托罗拉全球业务，推动高端智能手机、个人AI及智能设备生态发展。（科创板日报）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500810.shtml",
+      "published": "Thu, 05 Nov 2026 07:24:34 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中际旭创跌超10%，科创创业ETF(159781)重仓股中该股票占比为9.69% - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBERzJ3UzUtRkV4SVFFWG5hcjllaUlMOU5WSEhYODRQNjhCRDdfd2gtVFl5Umlvc3FtS3pRWkkzZTU3YkxKMlBnSnF0VFowZnp6S0JrRWlaUU1JR1dwLVNUMg?oc=5\" target=\"_blank\">中际旭创跌超10%，科创创业ETF(159781)重仓股中该股票占比为9.69%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBERzJ3UzUtRkV4SVFFWG5hcjllaUlMOU5WSEhYODRQNjhCRDdfd2gtVFl5Umlvc3FtS3pRWkkzZTU3YkxKMlBnSnF0VFowZnp6S0JrRWlaUU1JR1dwLVNUMg?oc=5",
-      "published": "Thu, 05 Nov 2026 06:03:13 GMT"
+      "title": "布伦特原油站上95美元/桶",
+      "summary": "布伦特原油站上95美元/桶，日内涨0.4%。",
+      "link": "https://news.10jqka.com.cn/20261105/c681500789.shtml",
+      "published": "Thu, 05 Nov 2026 07:23:27 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|中邮证券给予三一重工“买入”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wejFCUnRxQjN4TmNPWUFlS1E5SENUdHB0bVhxaXdsQ1NJdXdGaS1TSFVpaFlvVElBdVhNQWc5eHVqczU1M1VUTHV6UEl3Q3V6alVXSGFvaWR0Y1pUMjFDTzNB?oc=5\" target=\"_blank\">机构评级|中邮证券给予三一重工“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wejFCUnRxQjN4TmNPWUFlS1E5SENUdHB0bVhxaXdsQ1NJdXdGaS1TSFVpaFlvVElBdVhNQWc5eHVqczU1M1VUTHV6UEl3Q3V6alVXSGFvaWR0Y1pUMjFDTzNB?oc=5",
-      "published": "Thu, 05 Nov 2026 06:47:25 GMT"
+      "title": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提",
+      "summary": "商务部新闻发言人黄玲在5日举行的例行新闻发布会上回答有关进口美国农产品的提问时表示，中美农产品贸易是双边经贸合作的重要组成部分。扩大两国在农业领域合作，既可以丰富两国民众的餐桌，也能给两国企业和农民提供稳定的经济收入，为双方带来实实在在的好处。中方一直对扩大自美采购农产品持开放态度，但前提是双方达成的“300亿对300亿”对等降税安排落地。希望美方与中方共同努力，通过共同降低关税、减少非关税壁垒、扩大市场准入等方式，为两国农产品贸易创造更多有利条件。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261105/c681500788.shtml",
+      "published": "Thu, 05 Nov 2026 07:23:15 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|招商证券给予亿纬锂能“强烈推荐”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sYUZuTUJLcVh3X1BUbXJDUVVEZVI2aXc3T1VaZHpKTTBnbFRZTUxpM0Ixcnp2QjVRemlQc21iV1pDWWpacDk2bHEySWhJUk5QT0ZIdVM2RTY4VnotUzF4Vmpn?oc=5\" target=\"_blank\">机构评级|招商证券给予亿纬锂能“强烈推荐”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sYUZuTUJLcVh3X1BUbXJDUVVEZVI2aXc3T1VaZHpKTTBnbFRZTUxpM0Ixcnp2QjVRemlQc21iV1pDWWpacDk2bHEySWhJUk5QT0ZIdVM2RTY4VnotUzF4Vmpn?oc=5",
-      "published": "Thu, 05 Nov 2026 06:47:19 GMT"
+      "title": "日本新版“安保三文件”防卫开支翻倍，外交部：国际社会必须高度警惕",
+      "summary": "11月5日，外交部发言人郭嘉昆主持例行记者会。有记者提问，据报道，日本政府拟于12月通过新版“安保三文件”，有消息人士称，新版“安保三文件”中拟继续将中国定位为“最大战略挑战”，提及未来5年将防卫开支提高至现行计划的近2倍，总额将达到70万亿至80万亿日元，重点加码远程打击、无人作战等进攻型军力建设，请问中方对此有何评论？郭嘉昆表示，日本迫不及待修订“安保三文件”，大幅提升军费开支、发展进攻力量，加速“再军事化”的野心昭然若揭，所谓“最大战略挑战”不过是日方以“防卫”为名行军事扩张之实的借口。“我们注意到，日本国内也在担忧和平国家理念变质，经济民生受到严重影响。”郭嘉昆指出，历史上，日本军国主义曾经犯下滔天罪行，给亚太和世界人民造成深重灾难，殷鉴不远，不可不察。日本“再军事化”狂飙突进，不断突破“专守防卫”，严重威胁地区和平稳定，挑战战后国际秩序，国际社会必须高度警惕、共同遏制。（澎湃新闻）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500775.shtml",
+      "published": "Thu, 05 Nov 2026 07:22:27 GMT"
     },
     {
       "source": "同花顺",
-      "title": "大股东增持+回购注销彰显信心，中邮证券维持徐工机械“买入”评级 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tWWR1aEZCQWQ4RUpYdHkxOENEUEoybXhQVjh5N01sUGhON2dZa0VrLW1jNGFCcmU4dEUxa0hmVHg4b2xaakl0X2lFUkd2cDVVaDJ6cWdWNGdZTk5DcGNKcTBn?oc=5\" target=\"_blank\">大股东增持+回购注销彰显信心，中邮证券维持徐工机械“买入”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9tWWR1aEZCQWQ4RUpYdHkxOENEUEoybXhQVjh5N01sUGhON2dZa0VrLW1jNGFCcmU4dEUxa0hmVHg4b2xaakl0X2lFUkd2cDVVaDJ6cWdWNGdZTk5DcGNKcTBn?oc=5",
-      "published": "Thu, 05 Nov 2026 06:26:47 GMT"
+      "title": "商务部回应欧盟对低价值进口商品叠加征收有关税费",
+      "summary": "欧盟自11月1日起对低价值进口商品征收2欧元手续费，此前已于7月开始征收3欧元关税。商务部新闻发言人黄玲在5日例行新闻发布会上表示，中方高度关注欧方有关新规，跨境电商为全球企业和消费者提供了多元化选择，希望欧方审慎评估相关政策影响，为中欧在电商等领域合作创造有利条件。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500426.shtml",
+      "published": "Thu, 05 Nov 2026 07:14:45 GMT"
     },
     {
       "source": "同花顺",
-      "title": "座谈会更多细节曝光！央行加力支持股票回购增持 工具运用常态化 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUDA5WGV2bHhrY2JGcHdJX2ZmMUZlM2VWUDNaYzd2Q1N3ck1Kd2dHMGRVS1VsTXlXeFFJam04dS0xU25IT3hTQndkTmlBcF8tQzdUcmxvX19JSWV3aFU2bA?oc=5\" target=\"_blank\">座谈会更多细节曝光！央行加力支持股票回购增持 工具运用常态化</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yUDA5WGV2bHhrY2JGcHdJX2ZmMUZlM2VWUDNaYzd2Q1N3ck1Kd2dHMGRVS1VsTXlXeFFJam04dS0xU25IT3hTQndkTmlBcF8tQzdUcmxvX19JSWV3aFU2bA?oc=5",
-      "published": "Thu, 05 Nov 2026 05:01:45 GMT"
+      "title": "世卫组织：六项气候与健康措施每年可救160万人",
+      "summary": "世界卫生组织4日发布的一份报告显示，六项经过验证的气候与健康措施每年可挽救160万人的生命，并带来数万亿美元的经济和财政收益，同时帮助减少碳排放。这六项措施包括建立高温健康预警系统，增强饮用水服务应对气候冲击的能力，提供基本环境卫生服务，改善个人卫生条件、完善洗手设施，推广更清洁的烹饪、取暖燃料及技术，以及完善化石燃料定价政策。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500338.shtml",
+      "published": "Thu, 05 Nov 2026 07:11:57 GMT"
     },
     {
       "source": "同花顺",
-      "title": "财达证券：11月3日召开业绩说明会，投资者参与 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vV3hQbE41TkY4Z1Jibk1LMmNDYWdDOUJyd01keG9peWpqWVZJYndMRGtWYldxbWtvZTRlRzZURTZtbXdRVy1FZFBxRDJvOGRrRGNXR1BuN1hxcmxGcnN2RFpn?oc=5\" target=\"_blank\">财达证券：11月3日召开业绩说明会，投资者参与</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vV3hQbE41TkY4Z1Jibk1LMmNDYWdDOUJyd01keG9peWpqWVZJYndMRGtWYldxbWtvZTRlRzZURTZtbXdRVy1FZFBxRDJvOGRrRGNXR1BuN1hxcmxGcnN2RFpn?oc=5",
-      "published": "Thu, 05 Nov 2026 05:21:27 GMT"
+      "title": "鱼跃医疗投资成立飞鱼智创创投合伙企业",
+      "summary": "企查查APP显示，近日，江苏飞鱼智创创业投资合伙企业（有限合伙）成立，经营范围包含创业投资（限投资未上市企业）。企查查股权穿透显示，该企业由鱼跃医疗间接全资持股。",
+      "link": "https://news.10jqka.com.cn/20261105/c681500316.shtml",
+      "published": "Thu, 05 Nov 2026 07:10:15 GMT"
     },
     {
       "source": "同花顺",
-      "title": "杭可科技：董事长拟以集中竞价方式回购5000万元至1亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SMUNHQ3pqaWdtbnhjSXVGLTFYNzFQcC1WSVJVR1VjZ2dabnNuTlRwS1pGQVVYSUNKWVpGazR6U1lSNkZkQ1I5UWdwTE1QUUh4b092REZURTBoX0dCU3FqdUF3?oc=5\" target=\"_blank\">杭可科技：董事长拟以集中竞价方式回购5000万元至1亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SMUNHQ3pqaWdtbnhjSXVGLTFYNzFQcC1WSVJVR1VjZ2dabnNuTlRwS1pGQVVYSUNKWVpGazR6U1lSNkZkQ1I5UWdwTE1QUUh4b092REZURTBoX0dCU3FqdUF3?oc=5",
-      "published": "Thu, 05 Nov 2026 06:47:31 GMT"
+      "title": "行业人士看好中欧电池产业合作前景",
+      "summary": "第六届匈牙利电池日大会4日在匈牙利东部城市德布勒森开幕。与会行业人士表示，中国企业的投资和技术优势将为欧洲电池产业发展带来重要机遇，中欧双方应加强合作，推动产业竞争力提升和可持续发展。欧洲先进可充电与锂电池产业协会总干事伊尔卡·冯·达尔维克在接受记者采访时表示，中国在电池技术领域走在前列，中欧合作为欧洲学习中国技术和经验提供了良好机会。国际能源署能源建模师奥斯卡拉斯·阿尔绍斯卡斯表示，电动汽车和储能行业的发展将继续带动电池需求增长，需求的地区分布也将更加多元。电池产业不仅为能源电气化转型提供关键支撑，也为新兴产业带来重要的发展机遇。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500233.shtml",
+      "published": "Thu, 05 Nov 2026 07:08:42 GMT"
     },
     {
       "source": "同花顺",
-      "title": "开源证券：维持泸州老窖“买入”评级，当下底部信号明确 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMmhvWjJfdmJNVzVvYVZSdGl0ZERONFBfWWVYdnY0ZUZaam1zdFFfWTRXZUxXQmpTdGVkZEZoekJTSXc4Y1k2d2RNU1JUQXR0UXlZX2h6SjRMWXhxZVpSMnBn?oc=5\" target=\"_blank\">开源证券：维持泸州老窖“买入”评级，当下底部信号明确</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IMmhvWjJfdmJNVzVvYVZSdGl0ZERONFBfWWVYdnY0ZUZaam1zdFFfWTRXZUxXQmpTdGVkZEZoekJTSXc4Y1k2d2RNU1JUQXR0UXlZX2h6SjRMWXhxZVpSMnBn?oc=5",
-      "published": "Thu, 05 Nov 2026 06:56:55 GMT"
+      "title": "宇树科技王兴兴：物理AI的核心挑战在于模型与物理世界的对齐",
+      "summary": "在第九届虹桥国际经济论坛上，宇树科技创始人、董事长王兴兴在“人形机器人与具身智能产业创新发展合作”分论坛上亮相。谈及物理AI的核心挑战，王兴兴认为主要在于模型与物理世界的对齐，目前多模态模型理解能力已较好，最大问题是输入输出对齐误差，包括传感器测量与真实状态的偏差及动作指令与实际运动的偏差，这部分问题未来1-2年或可解决。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500137.shtml",
+      "published": "Thu, 05 Nov 2026 07:06:54 GMT"
     },
     {
       "source": "同花顺",
-      "title": "超430亿，持续抄底！ - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqR0d4S0RiRm5DU1NkUnF5ZzVIUm5Pd0FwY1lkdzYyNTZNeFNob0Zac2U3NHp0dVRHVjRwaGNtMU04dmV4Y1IxcWVjaHdlRlNic2NkTkNyVThXcGpVbHRyUg?oc=5\" target=\"_blank\">超430亿，持续抄底！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqR0d4S0RiRm5DU1NkUnF5ZzVIUm5Pd0FwY1lkdzYyNTZNeFNob0Zac2U3NHp0dVRHVjRwaGNtMU04dmV4Y1IxcWVjaHdlRlNic2NkTkNyVThXcGpVbHRyUg?oc=5",
-      "published": "Thu, 05 Nov 2026 06:27:03 GMT"
+      "title": "比亚迪与vivo达成深度战略合作",
+      "summary": "据比亚迪消息，近日比亚迪与vivo在深圳正式签署战略合作协议，双方将在AI跨端融合、手车互联、数字车钥匙、车载快充等方向持续深化协同，联手打造标杆级跨端协同AI生态。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261105/c681500041.shtml",
+      "published": "Thu, 05 Nov 2026 07:03:24 GMT"
     },
     {
       "source": "同花顺",
-      "title": "“一支穿云箭！”大单涌入，24秒涨停 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUdThIZ2F1d2pUV2pTVXVxMkxGZTNVY1dnYzY1c2JpbkpGODJraXNhTElyelhYcnZIM2FIeURNSmwzQmtEaTBhd2hxTHBKYTBqT0ZRYXFLYTJ5bzZyZ1hZOHdR?oc=5\" target=\"_blank\">“一支穿云箭！”大单涌入，24秒涨停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUdThIZ2F1d2pUV2pTVXVxMkxGZTNVY1dnYzY1c2JpbkpGODJraXNhTElyelhYcnZIM2FIeURNSmwzQmtEaTBhd2hxTHBKYTBqT0ZRYXFLYTJ5bzZyZ1hZOHdR?oc=5",
-      "published": "Thu, 05 Nov 2026 05:02:44 GMT"
+      "title": "ETF两市成交额报7230.99亿元，较昨日此时放量172.31亿元",
+      "summary": "截至目前，ETF两市成交额报7230.99亿元，较昨日此时放量172.31亿元，分类型来看，股票型ETF成交额2494.57亿元，债券型ETF成交额3004.58亿元，货币型ETF成交额511.28亿元，商品型ETF成交额175.26亿元，QDII型ETF成交额1045.31亿元。其中，成交额最高的非货币型ETF分别是科创50ETF（588000）、中韩半导体ETF（513310）、创业板ETF（159915），成交额分别为：189.11亿元、182.56亿元、163.95亿元。",
+      "link": "https://news.10jqka.com.cn/20261105/c681500029.shtml",
+      "published": "Thu, 05 Nov 2026 07:02:48 GMT"
     },
     {
       "source": "同花顺",
-      "title": "5单计划、两条主线：海南上市公司回购增持释放信心信号 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWaUFhamtVOTlGRFpjZHpfTU4zUlJXelJZSU8yWUFIQ2NkT3FqRHlKWV9MTzU0RHF1bTI5Vjl2MTdOUG5WcUlsRmdwNGUwTFpqdmROT3J3cGtQYXJZb2dtaURR?oc=5\" target=\"_blank\">5单计划、两条主线：海南上市公司回购增持释放信心信号</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWaUFhamtVOTlGRFpjZHpfTU4zUlJXelJZSU8yWUFIQ2NkT3FqRHlKWV9MTzU0RHF1bTI5Vjl2MTdOUG5WcUlsRmdwNGUwTFpqdmROT3J3cGtQYXJZb2dtaURR?oc=5",
-      "published": "Thu, 05 Nov 2026 06:47:23 GMT"
+      "title": "ETF收评：半导体设备ETF领涨9.99%，标普油气ETF领跌6.83%",
+      "summary": "ETF收盘涨跌不一，半导体设备ETF（159327）领涨9.99%，半导体设备ETF（562590）涨9.73%，半导体设备ETF（560780）涨9.63%，标普油气ETF（513350）领跌6.83%，标普油气ETF（159518）跌6.67%，能源化工ETF（159981）跌5.85%。",
+      "link": "https://news.10jqka.com.cn/20261105/c681500009.shtml",
+      "published": "Thu, 05 Nov 2026 07:02:02 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|天风证券给予青岛啤酒“买入”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE92N0ZJcTRGT3FzWlQ2UzYwZ3d0U2RfNDJuRmdJYTJsX0lLWjZxdERETUg2OU5FaWxQbHdfWl9aTWVpbkRNSXVybzJPb1hDSTdzc2drd3hRdnMyN0REQktQU0x3?oc=5\" target=\"_blank\">机构评级|天风证券给予青岛啤酒“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92N0ZJcTRGT3FzWlQ2UzYwZ3d0U2RfNDJuRmdJYTJsX0lLWjZxdERETUg2OU5FaWxQbHdfWl9aTWVpbkRNSXVybzJPb1hDSTdzc2drd3hRdnMyN0REQktQU0x3?oc=5",
-      "published": "Thu, 05 Nov 2026 06:47:35 GMT"
+      "title": "A股收评：创业板指冲高回落涨0.87%，光伏设备、贵金属板块涨幅居前",
+      "summary": "A股三大指数今日集体上涨，截至收盘，上证指数涨0.1%，深证成指涨1.19%，创业板指涨0.87%，北证50涨1.79%，科创50指数涨1.68%。全市场成交额21351亿元，较上日放量832亿元，全市场超4800只个股上涨。板块题材上，光伏设备、贵金属、影视院线、AI语料、文化传媒板块涨幅居前；油气开采加工、油气开采及服务、港口航运、银行、元件板块跌幅居前。盘面上，光伏设备板块表现强势，贝特利、时创能源、钧达股份、赛伍技术、欧晶科技等十余股涨停，金刚光伏、迈为股份、拉普拉斯等多股涨超10%。贵金属板块表现活跃，四川黄金涨停，赤峰黄金、兴业银锡、晓程科技涨幅居前。影视院线板块午后活跃，慈文传媒、博纳影业触及涨停，华策影视、中国电影、中广天择涨幅居前。煤炭开采加工板块震荡走低，广汇能源、中煤能源、中国神华、晋控煤业跌幅居前。油气开采及服务板块亦走势低迷，中国海油、中曼石油、中海油服跌幅居前。",
+      "link": "https://news.10jqka.com.cn/20261105/c681499991.shtml",
+      "published": "Thu, 05 Nov 2026 07:00:50 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|中邮证券给予徐工机械“买入”评级 未给出目标价 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE00R3RlS0hheVltRXpobjh6OS0ya25kSDY3MXUwMkthNWQ1emtWQTNtTDZfWllieXNIV1EtWnRsOElEOUpxbW1MWjl6VFc4ZERnSk9ZNVpod2E5aXAxUkNsWmhB?oc=5\" target=\"_blank\">机构评级|中邮证券给予徐工机械“买入”评级 未给出目标价</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00R3RlS0hheVltRXpobjh6OS0ya25kSDY3MXUwMkthNWQ1emtWQTNtTDZfWllieXNIV1EtWnRsOElEOUpxbW1MWjl6VFc4ZERnSk9ZNVpod2E5aXAxUkNsWmhB?oc=5",
-      "published": "Thu, 05 Nov 2026 06:42:23 GMT"
+      "title": "期货收评：能化大面积跌停！燃油暴跌超14% 贵金属领涨 钯涨超8%",
+      "summary": "期货收评：商品涨跌分化，贵金属、有色领涨，能化大面积跌停。涨幅方面，钯涨超8%，沪银涨近6%；跌幅方面，燃油跌超14%，低硫燃油跌超10%。",
+      "link": "https://news.10jqka.com.cn/20261105/c681499983.shtml",
+      "published": "Thu, 05 Nov 2026 07:00:31 GMT"
     },
     {
       "source": "同花顺",
-      "title": "迅销有限公司发布减少投资单位立场通告 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iaXFrN1FETzEzTDBDOW1LWGUxNEhoX2NCZnJ0OEpIdEJQdDJkVDIweXNQcDZ4bThQR2VhZ3VwSXRoOGw1eFdMQ2d2eHJ6d0RPeEowT1lTVmE4UldadFloMUtB?oc=5\" target=\"_blank\">迅销有限公司发布减少投资单位立场通告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iaXFrN1FETzEzTDBDOW1LWGUxNEhoX2NCZnJ0OEpIdEJQdDJkVDIweXNQcDZ4bThQR2VhZ3VwSXRoOGw1eFdMQ2d2eHJ6d0RPeEowT1lTVmE4UldadFloMUtB?oc=5",
-      "published": "Thu, 05 Nov 2026 05:31:29 GMT"
+      "title": "股指期货午盘收盘 主力合约全线收涨",
+      "summary": "股指期货午盘收盘，主力合约全线收涨。沪深300股指期货(IF)主力合约涨0.55%，上证50股指期货(IH)主力合约涨0.30%，中证500股指期货(IC)主力合约涨1.84%，中证1000股指期货(IM)主力合约涨2.00%。",
+      "link": "https://news.10jqka.com.cn/20261105/c681499979.shtml",
+      "published": "Thu, 05 Nov 2026 07:00:21 GMT"
     },
     {
       "source": "同花顺",
-      "title": "雪人集团：11月3日投资者关系活动记录，东方财富、财通证券等多家机构参与 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RRHdjRmxzWmRfR2R0VE5NVFV3Rzd4c0VWV0xwVXA1Mzhxcms2V2RMRG5TWjJBM2xCZmJnUTJXaW1qaVFkaWt1Y2lQcS1QS3BaeDdZdmxEeFFfTnFGQWtabXZn?oc=5\" target=\"_blank\">雪人集团：11月3日投资者关系活动记录，东方财富、财通证券等多家机构参与</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RRHdjRmxzWmRfR2R0VE5NVFV3Rzd4c0VWV0xwVXA1Mzhxcms2V2RMRG5TWjJBM2xCZmJnUTJXaW1qaVFkaWt1Y2lQcS1QS3BaeDdZdmxEeFFfTnFGQWtabXZn?oc=5",
-      "published": "Thu, 05 Nov 2026 05:11:52 GMT"
+      "title": "日本国土交通大臣因涉嫌违规举办政治筹款活动道歉",
+      "summary": "据日本广播协会5日报道，日本国土交通大臣井林辰宪5日在参议院国土交通委员会会议上就涉嫌违规举办政治筹款活动公开道歉。其10月26日在东京都举办政治筹款聚会，邀请支持者参加，据阁僚行为规范，内阁大臣等官员在任期内原则上应避免举办此类活动，部分在野党议员质疑其涉嫌违规。井林辰宪称考虑不周，深表歉意。今年9月入阁的他还与梁和生、武部新等接连曝出丑闻，高市内阁支持率10月民调明显下滑，首相高市早苗的选人标准及管理能力受质疑。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261105/c681499954.shtml",
+      "published": "Thu, 05 Nov 2026 06:58:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "鸿蒙笔记本电脑累计发货量超过100万台",
+      "summary": "从鸿蒙办公产业峰会获悉，鸿蒙笔记本电脑累计发货量超过100万台。（科创板日报）",
+      "link": "https://news.10jqka.com.cn/20261105/c681499949.shtml",
+      "published": "Thu, 05 Nov 2026 06:57:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美副总统：伊朗战事是共和党选举失利根源所在",
+      "summary": "美国副总统万斯4日在社交媒体发文，直言伊朗战事是共和党中期选举失利的根源，并提出结束伊朗战事、聚焦生活成本和通胀、坚持“美国优先”、改变美以关系四项任务。美国媒体解读，此举是与特朗普切割、为2028年总统竞选布局。特朗普被问及表态时称“这在很大程度上是真的”，因伊朗战事短期内推高了汽油价格。福克斯新闻报道称，白宫要求统一信息发布口径，但万斯掌控信息发布，与特朗普在外交政策和美以关系上分道扬镳。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261105/c681499905.shtml",
+      "published": "Thu, 05 Nov 2026 06:55:58 GMT"
     },
     {
       "source": "财联社",
-      "title": "“易中天”股价集体重挫 - 21财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFZoTmI4eFJPRVRZSGdvX0VQbkhsbE9TWjhiMlBJVVgyM2ItVWtCNkMxNGJuaW9OeVUzY1d5d0FOQkU3NDJQX3piRi1ZTEtuWGhHZF9CU1ZheldTMVo0VW9sS1JOZ2lPMVYxcDNocGpoQ3pyRUV3MGlMMU5STTNiczlmOVZSX0xkWEhyLUVPRQ?oc=5\" target=\"_blank\">“易中天”股价集体重挫</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">21财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFZoTmI4eFJPRVRZSGdvX0VQbkhsbE9TWjhiMlBJVVgyM2ItVWtCNkMxNGJuaW9OeVUzY1d5d0FOQkU3NDJQX3piRi1ZTEtuWGhHZF9CU1ZheldTMVo0VW9sS1JOZ2lPMVYxcDNocGpoQ3pyRUV3MGlMMU5STTNiczlmOVZSX0xkWEhyLUVPRQ?oc=5",
-      "published": "Thu, 05 Nov 2026 06:01:49 GMT"
+      "title": "港股黄金股再掀升势！宏观预期修复带动反弹 多股创逾近两周新高 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvSExmaTlTYjU2dXJ5RzJ3ZWdSWHBRaFAzU1FvWEhfS3dzcHBhdlNBLVQ2UFFSV2FEaXcweWJUejBfaGJNX2FsYg?oc=5\" target=\"_blank\">港股黄金股再掀升势！宏观预期修复带动反弹 多股创逾近两周新高</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvSExmaTlTYjU2dXJ5RzJ3ZWdSWHBRaFAzU1FvWEhfS3dzcHBhdlNBLVQ2UFFSV2FEaXcweWJUejBfaGJNX2FsYg?oc=5",
+      "published": "Thu, 05 Nov 2026 07:04:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "15:11:20【11月5日涨停分析】 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMnVoX0twT3NvaGZVbDJqWktBNFIwdTE3MXd2TWxJU25nRlhLWUdaeGFhZ1hEOFpYaGE2UlI2U2lFNDNldnFKYg?oc=5\" target=\"_blank\">15:11:20【11月5日涨停分析】</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5wMnVoX0twT3NvaGZVbDJqWktBNFIwdTE3MXd2TWxJU25nRlhLWUdaeGFhZ1hEOFpYaGE2UlI2U2lFNDNldnFKYg?oc=5",
+      "published": "Thu, 05 Nov 2026 07:11:20 GMT"
     },
     {
       "source": "华尔街见闻",
-      "title": "AI交易松动，中国资产迎来机会！摩根大通也看好A股：还有10%-15%反弹空间 - 华尔街见闻",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWGliYndjOThfLXdFc2NUNWFER0ZXQjZLeTRHZTZOUXJfTkd6TnhZSFhZQWt3MFRIMUVtMnJuZHRLVmZscE5faGRreDg0OVNNT1BB?oc=5\" target=\"_blank\">AI交易松动，中国资产迎来机会！摩根大通也看好A股：还有10%-15%反弹空间</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUWGliYndjOThfLXdFc2NUNWFER0ZXQjZLeTRHZTZOUXJfTkd6TnhZSFhZQWt3MFRIMUVtMnJuZHRLVmZscE5faGRreDg0OVNNT1BB?oc=5",
+      "title": "指数重挫、“存储双雄”暴跌，韩国财长：准备应对金融市场波动加剧",
+      "summary": "<p>韩国股市周四遭遇剧烈震荡，KOSPI指数盘中跌幅一度逼近5%，程序化交易触发熔断机制被迫暂停，科创板KOSDAQ亦因期货暴跌同步触发熔断。美国中期选举民主党获胜引发市场对人工智能数据中心监管收紧的担忧，成为此轮抛售的直接导火索。</p>\n<p>韩国财政部长随后发表声明，<strong>表示将密切关注中期选举后美国人工智能政策走向，并持续监测美国关税政策动向及中东局势，强调已为金融市场波动进一步加剧的可能性做好应对准备。</strong></p>\n<p>以三星电子、SK海力士为代表的\"存储双雄\"首当其冲，两家芯片巨头股价大幅下挫，拖累大盘加速下行。此次波动再度凸显韩国市场对美国科技政策敏感性极高的结构性特征，投资者情绪趋于谨慎。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/2d0f93d8-3692-444c-86ab-23e86f21cc18.png\" /></p>\n<div>\n<h2 id=\"kospi-5\">熔断触发，KOSPI盘中跌近5%</h2>\n</div>\n<p>韩国交易所（KRX）周四上",
+      "link": "https://wallstreetcn.com/articles/3785256",
+      "published": "Thu, 05 Nov 2026 07:24:33 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "商务部回应扩大自美采购农产品：持开放态度 对等降税落地是前提",
+      "summary": "<p>商务部新闻发言人黄玲在5日举行的例行新闻发布会上回答有关进口美国农产品的提问时表示，中美农产品贸易是双边经贸合作的重要组成部分。扩大两国在农业领域合作，既可以丰富两国民众的餐桌，也能给两国企业和农民提供稳定的经济收入，为双方带来实实在在的好处。中方一直对扩大自美采购农产品持开放态度，但前提是双方达成的“300亿对300亿”对等降税安排落地。希望美方与中方共同努力，通过共同降低关税、减少非关税壁垒、扩大市场准入等方式，为两国农产品贸易创造更多有利条件。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3194840",
+      "published": "Thu, 05 Nov 2026 07:23:56 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "美国中期选举后中美关系进展如何？外交部回应",
+      "summary": "<p>外交部发言人郭嘉昆主持例行记者会。</p>\n\n<p>彭博社记者提问，发言人能否谈谈美国中期选举之后中美关系的情况。</p>\n\n<p>郭嘉昆表示：“我们此前已经回应了相关的问题。中期选举是美国的内政。中方愿继续同美方一道，维护好、落实好两国元首重要共识，加强沟通，妥处分歧，拓展合作，构建基于尊重、公平、对等的中美建设性战略稳定关系。”（北京日报）</p>",
+      "link": "https://wallstreetcn.com/livenews/3194835",
+      "published": "Thu, 05 Nov 2026 07:20:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "松下覆铜板工厂爆炸起火，全球高端CCL供给约4%面临中断风险",
+      "summary": "<p>中国台湾松下多层材料（PIDMTW）新竹湖口厂11月4日凌晨发生重大爆炸火灾，这场事故给全球AI服务器高端铜箔基板（CCL）供应链带来实质性冲击。业界初步评估，受损产能约占全球高端CCL供给的4%，中国台湾其他CCL厂商有望在短期内承接转单。</p>\n<p>据中国台湾《经济日报》报道，松下湖口厂是其旗舰MEGTRON系列超低损耗材料的核心生产基地，涵盖M6、M7、M8等高端产品线。工商时报援引供应链消息人士称，<strong>松下MEGTRON系列约占全球高端CCL市场20%份额，而湖口厂产能又约占该系列全球产能的两成，折算后约相当于全球高端供给的4%。</strong></p>\n<p>事故发生之际，英伟达及美系四大云端服务供应商正大举拉货，高端板材交期原已偏紧。松下湖口厂产线受损，将进一步加剧超低损耗材料的供应紧张局面，同时为台光电、台燿、联茂及腾辉等CCL厂商创造转单机遇——相关个股11月4日逆势收红。</p>\n<div>\n<h2 id=\"cf1a63ed\">爆炸波及逾万平方米，两名员工仍失联</h2>\n</div>\n<p>据新竹县消防局，<strong>爆炸发生于11月4日",
+      "link": "https://wallstreetcn.com/articles/3785259",
+      "published": "Thu, 05 Nov 2026 07:19:52 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "商务部回应欧盟对低价值进口商品叠加征收有关税费",
+      "summary": "<p>欧盟自11月1日起对低价值进口商品征收2欧元手续费，此前已于7月开始征收3欧元关税。商务部新闻发言人黄玲在5日举行的例行新闻发布会上对此表示，中方高度关注欧方有关新规。跨境电商作为国际贸易的新业态、新模式，为全球企业和消费者提供了多元化选择。希望欧方审慎评估相关政策影响，为中欧在电商等领域合作创造有利条件。（新华社）</p>",
+      "link": "https://wallstreetcn.com/livenews/3194830",
+      "published": "Thu, 05 Nov 2026 07:14:49 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "又熔断了！美国中选掀起市场风暴，韩国股市为何首当其冲？",
+      "summary": "<p>美国中期选举民主党横扫两院，由此引发的AI数据中心监管收紧忧虑如同一块石头投入平静湖面，冲击波迅速传导至首尔股市。韩国两大基准指数同日触发卖出熔断机制，半导体龙头股遭遇重挫，这场\"蓝色海啸\"正考验着韩国经济最核心的出口引擎。</p>\n<p>11月5日，韩国综合股价指数（KOSPI）开盘即跌1.82%，随后跌幅持续扩大，当日午前触发卖出侧车（Sell-Sidecar）机制，程序化卖盘被临时中止。截至当日下午2时25分，KOSPI较前一交易日下挫5.50%至5371.41点，科斯达克指数（KOSDAQ）同期下跌5.11%至678.4点，两大指数罕见地在同一交易日双双触发市场稳定机制。三星电子与SK海力士股价分别重挫7.8%和9.81%。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/46dc9e7f-6985-4a95-b37d-dc97f0415485.png\" /></p>\n<p>此轮暴跌的直接导火索，是民主党赢得德克萨斯、俄亥俄、佐治亚等数据中心重镇州长选举后，市场对新建数据中心审批受阻的担忧骤然升温",
+      "link": "https://wallstreetcn.com/articles/3785257",
+      "published": "Thu, 05 Nov 2026 07:11:03 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "民主党大胜，美国AI建设可能急刹车",
+      "summary": "",
+      "link": "https://wallstreetcn.com/charts/41960139",
+      "published": "Thu, 05 Nov 2026 06:34:28 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "到不了，也回不去：美股科技巨头的AI投资正面临两难",
+      "summary": "<p style=\"text-align: left;\">AI投资仍在加速，美股的定价逻辑却开始变化。资本开支持续攀升，科技巨头的自由现金流与回购能力受到挤压，传统业务也面临新的竞争挑战。与此同时，Non-AI交易升温。华尔街开始重新计算AI增长的代价。</p><p style=\"text-align: left;\">10月底的财报季，市场却开始把这些数字与折旧、融资、自由现金流和回购放在一张表上核算。AI故事仍然动人，投资者开始计较故事的成本。</p><h2 style=\"text-align: left;\">一、发生了什么？——美股10月突然变天</h2><p style=\"text-align: left;\"><strong>1. 同样是AI高增长，市场给出了不同答案：</strong></p><p style=\"text-align: left;\">2026年10月，纳斯达克综合指数下跌约5.3%，标普500下跌0.9%，道琼斯工业指数却上涨1.7%。行业内部的反差更大：科技ETF XLK当月下跌8.3%，能源、必需消费和医疗ETF分别上涨13.9%、10.9%和9.8%。科技",
+      "link": "https://wallstreetcn.com/member/articles/3784977",
+      "published": "Thu, 05 Nov 2026 06:25:43 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "科创半导体ETF华夏成交创历史最高纪录",
+      "summary": "<p>科创半导体ETF华夏（588170）今日爆量成交，截至发稿时间成交额突破137亿元较昨日全天放量47%，并刷新该ETF历史最高成交记录。该ETF当前涨幅为4.17%，前三大持仓分别为华海清科（持仓占比11.10%）、中科飞测（持仓占比10.76%)、中微公司（持仓占比10.19%）。</p>",
+      "link": "https://wallstreetcn.com/livenews/3194787",
+      "published": "Thu, 05 Nov 2026 06:21:01 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "黄金牛市命系中东！花旗：局势缓和冲5000美元，僵局持续恐跌至3500",
+      "summary": "<p>黄金价格走势正处于关键分叉口。花旗最新报告指出，黄金前景高度取决于中东局势走向——若局势缓和，金价有望在未来三个月内升至4500美元/盎司，12个月目标价5000美元；若冲突持续，金价则面临回落至3500美元的风险。</p>\n<p>花旗大宗商品全球主管Maximilian Layton及贵金属策略师Kenny Hu在报告中将基准情景概率定为60%，<strong>核心逻辑是：霍尔木兹海峡（SoH）重新开放叠加也门/沙特冲突降级，将带动油价回落、美联储从加息转向降息，从而重燃黄金投资需求。</strong>在此情景下，花旗将黄金0至3个月目标价从此前的4800美元下调至4500美元，6至12个月目标价维持5000美元。</p>\n<p>目前黄金市场呈现出两种截然相反的信号：实物需求走弱，但ETF持仓保持韧性、央行购金延续强劲。花旗分析师指出，<strong>纸面黄金（期货）空头头寸已大量出清，若中东局势出现积极进展，市场存在充足的\"干火药\"驱动金价反弹。</strong></p>\n<div>\n<h2 id=\"2f7497df\">中东局势主导金价走向，三种情景概率各异</h2>\n</d",
+      "link": "https://wallstreetcn.com/articles/3785250",
+      "published": "Thu, 05 Nov 2026 06:10:19 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI交易松动，中国资产迎来机会！摩根大通也看好A股：还有10%-15%反弹空间",
+      "summary": "<p>中国股市在美国中期选举落地后强势反弹，摩根大通认为，随着美国中期选举不确定性消散、全球AI交易出现松动，中国资产正在迎来新的配置窗口。</p>\n<p>11月5日，A股三大指数震荡走高，创业板指盘中涨超3%，科创50一度涨超5%，至午盘收盘均有回落。光伏设备、贵金属、锂电池等板块领涨。此前的4日，A股亦大幅走强，沪深300上涨2.3%，创业板指涨6.4%，科创50劲升9.9%，A股成交额时隔25个交易日重返2万亿元人民币。</p>\n<p>据追风交易台消息，摩根大通策略师Chloe Liu、Tim Huang等人在最新报告中将此次反弹归因于三大驱动因素：美国中期选举风险落地、估值与仓位大幅重置、以及国家队和监管机构入市提振情绪。分析师指出，<strong>A股估值距离\"924\"低点仅回升8%-10%，仍处于低位，预计有进一步10%-15%的反弹空间，</strong>并维持对A股优于港股的判断，重申看好境内科技股和券商板块。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/de83fa05-3aff-442f",
+      "link": "https://wallstreetcn.com/articles/3785248",
       "published": "Thu, 05 Nov 2026 05:48:05 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "A股午后回落，沪指转跌，存储、光模块回吐涨幅，光伏电池集体爆发，恒科指暴涨4%，科网股全线攀升 - 华尔街见闻",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydHpJM3pua2dSUTJiS192aS0wLXVQMlNqZnNOY21sRG5UQlk3djN1cUkyTzhGRk0zRWotTHlsdndvR0xjM096OGdkTE1HaVQ0aGYw?oc=5\" target=\"_blank\">A股午后回落，沪指转跌，存储、光模块回吐涨幅，光伏电池集体爆发，恒科指暴涨4%，科网股全线攀升</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">华尔街见闻</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydHpJM3pua2dSUTJiS192aS0wLXVQMlNqZnNOY21sRG5UQlk3djN1cUkyTzhGRk0zRWotTHlsdndvR0xjM096OGdkTE1HaVQ0aGYw?oc=5",
-      "published": "Thu, 05 Nov 2026 05:43:07 GMT"
+      "source": "第一财经",
+      "title": "《上海手册》15年：从世博遗产到全球城市的“案头参考书”",
+      "summary": "<figure><img alt=\"《上海手册》15年：从世博遗产到全球城市的“案头参考书”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/6c07ab75e4aaea63a6d8f10b7cb3f579.jpg\" /></figure><p>在2010年上海世博会的闭幕式上，一份《上海宣言》留下特殊遗产：除了将每年的10月31日定“为世界城市日”，更呼吁总结全球城市发展的思想成果、向世界分享。次年，《上海手册：21世纪城市可持续发展指南》正式全球首发。</p>\n\n<p>这份被合作方一致认同为“可更新的联合出版物”，就此踏上不断成长的道路。15年来，这本“可更新文件”已出版12本年度报告、收录260余个来自世界各地的城市案例，从一份世博知识遗产，成长为链接全球城市治理者、研究者与实践者的国际公共产品。</p>\n\n<p>深度参与《上海手册》编纂工作的同济大学建筑与城市规划学院城市规划系副系主任、副教授陈晨表示，2011 年首发时，手册更多是2010 上海世博会理念的总结输出，偏向经验汇编；经过15 年、十余版年度迭代，它已经跳出",
+      "link": "https://www.yicai.com/news/103427497.html",
+      "published": "Thu, 05 Nov 2026 07:27:34 GMT"
     },
     {
       "source": "第一财经",
-      "title": "港股光模块（CPO）指数大跌超10% - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wLVZhVVpEWVhBR2dESnp6eklGaDF5dnlaSldHVmZnMURlU29lRU9KdVM4TzVwMjNkNHNLejNDc2hOSG13bTB5Q2JKWkh3MDV6R1VR?oc=5\" target=\"_blank\">港股光模块（CPO）指数大跌超10%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wLVZhVVpEWVhBR2dESnp6eklGaDF5dnlaSldHVmZnMURlU29lRU9KdVM4TzVwMjNkNHNLejNDc2hOSG13bTB5Q2JKWkh3MDV6R1VR?oc=5",
-      "published": "Thu, 05 Nov 2026 05:53:54 GMT"
+      "title": "要评得准，更要用得上：上海指数五大场景如何走向全球城市应用",
+      "summary": "<figure><img alt=\"要评得准，更要用得上：上海指数五大场景如何走向全球城市应用\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/585a30d5fdef2b74af156d15d60bc138.jpg\" /></figure><p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/546008775e1743f446cdacc131c3330a.jpg\" style=\"width: 748px; height: 500px;\" /></p>\n\n<p style=\"text-align: justify;\">上海指数正在从“综合评估”进一步走向“专题诊断”，围绕气候韧性、城市更新、城市治理、健康城市、科创城市等城市核心议题，为不同发展阶段、不同类型的城市找问题、出解决方案。</p>\n\n<p>11月3日，2026年世界城市日城市可持续发展全球大会上海指数主题边会举行。上海指数研究团队针",
+      "link": "https://www.yicai.com/news/103427519.html",
+      "published": "Thu, 05 Nov 2026 07:27:04 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "收盘｜四大股指集体收涨 文化传媒、锂电池板块全天领涨",
+      "summary": "<figure><img alt=\"收盘｜四大股指集体收涨 文化传媒、锂电池板块全天领涨\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/e49a6cefcf52c5c307541a447d3756b8.jpg\" /></figure><p>全市场超4800只个股上涨。</p><p>11月5日，四大股指集体收涨，沪指涨0.1%，深成指涨1.19%，创业板指涨0.87%，科创综指涨1.38%。</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/9d594901852b4341c93b7c57754a07a2.jpg\" style=\"width: 436px; height: 209px;\" /></p>\n\n<p>盘面上，光伏、互联网、文化传媒、锂电池板块全天领涨，房地产、军工、半导体、基本金属板块活跃，油气、煤炭、海运板块同步调整，银行板块午后迎来逢低买盘。</p>\n\n<p>具体来看",
+      "link": "https://www.yicai.com/news/103427493.html",
+      "published": "Thu, 05 Nov 2026 07:17:44 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "惠民服务直达消费场景 建行信用卡助力“11.11”释放消费活力",
+      "summary": "<p>一年一度的“11.11”消费季如期而至。从家电家居等大件消费品，到餐饮文旅等体验式消费，“11.11”承载着居民多元消费需求，成为释放消费潜力的重要契机。建设银行信用卡立足“11.11”消费特征，深化与各类平台、商户协同联动，推动政策衔接、场景服务深度嵌入消费各环节，为消费旺季提供金融支持，让便民优惠融入日常生活。</p>\n\n<p>“11.11”期间，电商平台折扣力度较大，叠加家电以旧换新，不少消费者会集中采购电视机、洗衣机、手机等大件商品。围绕手机数码、家电家居等重点品类消费需求，建行信用卡提供“国补+分期”组合服务，在线上携手小米、vivo等品牌，在线下与京东五星卖场合作，推出“以旧换新+分期满减”活动，通过国补政策与金融服务联动，为居民更新耐用消费品提供有力支持。</p>\n\n<p>同时，针对“11.11”线上消费热潮，建行信用卡联动京东、淘宝、抖音、拼多多等头部电商平台，支付宝、云闪付等支付平台，苹果、小米、vivo等知名品牌，推出消费达标有礼、支付优惠、免息分期、分期满减等活动，为客户提供灵活多元的支付和优惠选择。其中，携手京东推出的“11.11”专项支付优惠可配套国补订",
+      "link": "https://www.yicai.com/news/103427431.html",
+      "published": "Thu, 05 Nov 2026 06:39:49 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "3M进博会第九年，如何把材料生意做成“产业基建”？",
+      "summary": "<figure><img alt=\"3M进博会第九年，如何把材料生意做成“产业基建”？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/1feb76991a62973edd67a4164d94520a.jpg\" /></figure><p>连续九年，3M在进博会的主题词换了一茬又一茬，但2026年这次最值得琢磨。从2023年的“气候科技驱动绿色未来”、2024年的“绿色科技创见美好未来”，到2025年的“3M科技共创绿色未来”，再到今年的“材料赋新，创领未来”，绿色并没有退场，叙事的关键词从“环保”转向了“材料”。</p>\n\n<p>11月5日开幕的第九届进博会上，这位“全勤生”把展台拆成汽车、电子、安全、制造材料及自动化四大展区。3M想讲的已经不只是产品，而是一种身份转变——把材料生意做成“产业基建”。</p>\n\n<p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/1fbfbf681e98eb",
+      "link": "https://www.yicai.com/news/103427413.html",
+      "published": "Thu, 05 Nov 2026 06:35:25 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "买黄金的年轻人，把日子过明白了",
+      "summary": "<figure><img alt=\"买黄金的年轻人，把日子过明白了\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/5f0aa77090e8f99ccbc2d9f679c017f0.jpg\" /></figure><p>在全民“过日子”的时代，黄金大概是把日子过得最明白的首饰——既可以搭配衣服、点亮造型，也能留在手里保值，成为市场上的硬通货，既有流通价值，也有情绪价值。</p>\n\n<p>这几年，年轻人的“血脉觉醒”，又给黄金消费添了一把火，买金不再只是婚嫁、送礼等重要时刻的专属，也可以是给自己的一份奖励。</p>\n\n<p>当年轻人开始把黄金戴进日常，传统黄金品牌也面临着新的问题：除了黄金本身的价值，品牌还能用什么打动消费者？</p>\n\n<p>为了回答这个问题，《DT商业观察》将目光投向老凤祥。</p>\n\n<p>东吴证券调研显示，老凤祥的品牌知名度在陆资黄金珠宝品牌中位居首位，达到了60.41%。作为传统黄金珠宝品牌的代表，老凤祥近年来的产品探索，为我们观察行业提供了一个很好的样本。</p>\n\n<p><strong>戴黄金的人，真",
+      "link": "https://www.yicai.com/news/103427275.html",
+      "published": "Thu, 05 Nov 2026 05:43:58 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "前三季度全国结婚登记464.8万对",
+      "summary": "<figure><img alt=\"前三季度全国结婚登记464.8万对\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/192eb26713ae8fcce90d10928873db3c.jpg\" /></figure><p>我国大力提倡适龄婚育，构建和完善全社会的婚育支持体系。</p><p>民政部网站发布的数据显示，今年前三季度，全国结婚登记为464.8万对，离婚登记208.2万对。</p>\n\n<p>近年来，我国大力提倡适龄婚育，构建和完善全社会的婚育支持体系。自2025年5月10日起新修订的《婚姻登记条例》实施，婚姻登记地域限制取消，新人领证不再需要户口本，婚姻登记全国各地通办。婚姻登记全国通办，对于长期在非户籍地工作的人们来说，进行婚姻登记更加方便了。</p>\n\n<p>10月30日，中国民政部召开第四季度例行新闻发布会，民政部新闻发言人李婉丽在会上表示，截至目前，全国累计办理婚姻登记“全国通办”101.4万对。</p>\n\n<p>在婚姻登记全国通办后，旅游即可就地结婚。不少城市、景区打造了“领证新地标”，发展结婚登记旅游，开辟",
+      "link": "https://www.yicai.com/news/103427177.html",
+      "published": "Thu, 05 Nov 2026 05:38:13 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "险资举牌再现 中国太保举牌中国神华H股 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fdm5Cb3VLaTFBVWhoenNBUGZnMmdZWHhfMWVJclNNTlFLV1JlRFBwWDlubk1UWnB2VDFuNlAyMXBtNTZQNU1BTVhTWF90WFA2YklJTzZqMl80bDYzUzB1SQ?oc=5\" target=\"_blank\">险资举牌再现 中国太保举牌中国神华H股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fdm5Cb3VLaTFBVWhoenNBUGZnMmdZWHhfMWVJclNNTlFLV1JlRFBwWDlubk1UWnB2VDFuNlAyMXBtNTZQNU1BTVhTWF90WFA2YklJTzZqMl80bDYzUzB1SQ?oc=5",
+      "published": "Thu, 05 Nov 2026 07:20:46 GMT"
     },
     {
       "source": "Bloomberg China",
