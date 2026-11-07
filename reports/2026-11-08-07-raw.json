@@ -1,7 +1,15 @@
 {
   "date": "2026-11-08",
   "hour": "07",
-  "total": 0,
-  "fetched_at": "2026-11-08T07:00:54.902382+08:00",
-  "news": []
+  "total": 1,
+  "fetched_at": "2026-11-08T07:12:45.762344+08:00",
+  "news": [
+    {
+      "source": "东方财富",
+      "title": "11月6日美股大跌传导亚太大跌上指跌1.1%创业板跌3.9%科创综指跌3.2% AI算力链关联股成为杀跌核心防御类资产走强 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBxOGxKS1dWMWo4RmJuaXYzWFUxRWNKUWFrR3ExMy1zOS16UHFZamZCcjBxSWxNZ3M1SGp0cU80bFo5TWctR2tVa1I2VW41MHFKQ2ZXZTZmSXdMTU94X09QTzNpTEkyMU5nSS1R?oc=5\" target=\"_blank\">11月6日美股大跌传导亚太大跌上指跌1.1%创业板跌3.9%科创综指跌3.2% AI算力链关联股成为杀跌核心防御类资产走强</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxOGxKS1dWMWo4RmJuaXYzWFUxRWNKUWFrR3ExMy1zOS16UHFZamZCcjBxSWxNZ3M1SGp0cU80bFo5TWctR2tVa1I2VW41MHFKQ2ZXZTZmSXdMTU94X09QTzNpTEkyMU5nSS1R?oc=5",
+      "published": "Sat, 07 Nov 2026 22:31:00 GMT"
+    }
+  ]
 }
