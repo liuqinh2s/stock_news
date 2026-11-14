@@ -1,15 +1,7 @@
 {
   "date": "2026-11-15",
   "hour": "02",
-  "total": 1,
-  "fetched_at": "2026-11-15T02:00:49.946231+08:00",
-  "news": [
-    {
-      "source": "雪球热帖",
-      "title": "zigzagPath - 雪球",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QdnhuTnhYTDU0MDBlaDJzbnp3cU9md1dTQ3NHYTZ0a2JpaFBGQXN1Y05sdWVCakNkaWlzMTFVOW56NXIyY0V0eg?oc=5\" target=\"_blank\">zigzagPath</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5QdnhuTnhYTDU0MDBlaDJzbnp3cU9md1dTQ3NHYTZ0a2JpaFBGQXN1Y05sdWVCakNkaWlzMTFVOW56NXIyY0V0eg?oc=5",
-      "published": "Sat, 14 Nov 2026 16:08:12 GMT"
-    }
-  ]
+  "total": 0,
+  "fetched_at": "2026-11-15T02:34:53.046356+08:00",
+  "news": []
 }
