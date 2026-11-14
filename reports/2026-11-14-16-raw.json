@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-14",
+  "hour": "16",
+  "total": 6,
+  "fetched_at": "2026-11-14T16:00:53.418053+08:00",
+  "news": [
+    {
+      "source": "华尔街见闻",
+      "title": "为何上市？Anthropic CEO点名医药、机器人和网络安全“都要钱”",
+      "summary": "<p>Anthropic CEO达里奥·阿莫代伊表示，现在上市的最大原因是现金：在低算力与高算力世界之间建立更大的缓冲，以便Anthropic能在生物学、机器人和网络安全领域投入足够资金。</p>",
+      "link": "https://wallstreetcn.com/charts/41960175",
+      "published": "Sat, 14 Nov 2026 07:26:59 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+      "summary": "<p>11月13日，中美双方通过视频会议方式举行中美经贸磋商机制项下贸易理事会首次会议。双方以中美元首会晤重要共识为引领，围绕落实前期中美经贸磋商成果，就关税、“300亿对300亿”对等降税安排、农产品贸易以及各自关心的其他议题进行了坦诚、深入、建设性的交流。</p>\n<p>双方将通过贸易理事会继续加强沟通，推动解决各自经贸关切，不断拉长合作清单，压缩问题清单，助力构建基于尊重、公平、对等的中美建设性战略稳定关系。（央视新闻）</p>",
+      "link": "https://wallstreetcn.com/livenews/3200113",
+      "published": "Sat, 14 Nov 2026 06:54:41 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "高盛全球股市展望：明年AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”",
+      "summary": "<p>随着AI资本开支热潮接近顶点，全球股市盈利增长引擎正在降速。高盛在最新发布的2027年全球股票策略展望中指出，尽管盈利增速将大幅放缓，当前被市场抛售的成长股——尤其是美国超大规模云计算企业反而具备了布局价值。</p>\n<p>高盛首席全球股票策略师Peter Oppenheimer在最新《Finding Value in Growth》的报告中指出，<strong>AI相关企业估值已大幅回调，反映出市场对AI资本开支见顶及回报放缓的担忧，这为投资者提供了具有吸引力的入场时机。</strong></p>\n<p>云巨头目前以19.7倍预期市盈率交易，不仅低于过去20年历史区间下沿，更低于必需消费品板块的21.0倍，高盛将其定性为\"相对防御性\"资产。</p>\n<p>这份展望出炉的背景，是纳斯达克100指数刚刚经历了自新冠疫情以来最惨烈的单日跌幅，英伟达亦在本周因创始人CEO离任消息冲击而暴跌。</p>\n<p><strong>高盛预测，未来12个月标普500指数目标价为8700点，较当前水平上涨约14%</strong>，日本东证指数和亚洲市场潜在涨幅最大，欧洲则最为逊色，预期回报仅约6%",
+      "link": "https://wallstreetcn.com/articles/3785935",
+      "published": "Sat, 14 Nov 2026 06:49:41 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？",
+      "summary": "<p>执掌英伟达33年后，黄仁勋的离职令外界将目光投向他手中价值逾千亿美元的股票。这批筹码的命运，已成为悬在英伟达股价上方的一块巨石。</p>\n<p><strong>黄仁勋目前持有约8.12亿股英伟达股票</strong>，市值约1350亿美元，是公司最大的个人股东。据William Blair分析师本周表示，<strong>这一庞大持仓在近期对英伟达股价构成\"重大压制\"。</strong></p>\n<p>市场普遍关注的问题在于，黄仁勋何时能够、以及是否会选择开始大规模减持。哈佛大学公司治理专家Jesse Fried指出，<strong>只要黄仁勋仍掌握可能压低股价的未公开重大信息，他就无法合规出售股票。</strong>英伟达定于下周二发布业绩，若届时相关负面信息得以披露，或将为其减持扫清部分法律障碍。</p>\n<div>\n<h2 id=\"803385bc\">三十年积累，出售寥寥</h2>\n</div>\n<p><strong>自英伟达1999年上市以来，黄仁勋的减持行为始终克制。</strong>据Capital IQ数据及公司文件，他迄今合计出售的股份约价值30亿美元。在其任职的大",
+      "link": "https://wallstreetcn.com/articles/3785938",
+      "published": "Sat, 14 Nov 2026 06:29:17 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "软件岗位停滞，基建招聘激增：AI就业冲击已开始？",
+      "summary": "<p style=\"text-align: left;\">近期，美国劳动力市场已出现不容忽视的结构性变化：软件岗位冻结与AI基础设施实体岗位扩张并存，来自AI高暴露行业的失业劳动者正面临愈发严峻的再就业压力。</p><p style=\"text-align: justify;\">从招聘结构看，科技公司职位空缺超过28.1万个，同比增长17%，但产品、工程和设计等核心岗位空缺仅增长2%；其中设计（-28%）与用户体验研究（-45%）岗位数量大幅萎缩。过去12个月，美国软件工程师实际招聘人数仅为11.3万人，不足2022年峰值的一半，企业对移动和前端开发的需求亦几近减半。</p><p style=\"text-align: justify;\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/d968c749-305b-4ffb-b685-82b95f6a9e9c.png\" title=\"\" /></p><p style=\"text-align: justify;\">与软件端收缩形成鲜明对比的是，AI算力基础设施建设相关",
+      "link": "https://wallstreetcn.com/member/articles/3785881",
+      "published": "Sat, 14 Nov 2026 06:15:38 GMT"
+    },
+    {
+      "source": "Bloomberg China",
+      "title": "Anthropic IPO Said to Restrict China, Hong Kong Institutions - The Defiant",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmllX1RubnB1Y2gtNUtnZEhtQ0t2bjYxYzYxb0prVHJjYjFvSlM1dlJWbWozdkpyZTFhM0ZGN21uMS0tUEM5Q3BaRnZZc3h1bDQ4YUZuZXZpa0tDeVUxLVNDdmw0aVFuRDRlVFY5OUpVMVd3UmpadnJLZHNtQ21TQnc0TXM5Nkx5ZVR1YXJ0cF9IaXY5bXppeA?oc=5\" target=\"_blank\">Anthropic IPO Said to Restrict China, Hong Kong Institutions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Defiant</font>",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmllX1RubnB1Y2gtNUtnZEhtQ0t2bjYxYzYxb0prVHJjYjFvSlM1dlJWbWozdkpyZTFhM0ZGN21uMS0tUEM5Q3BaRnZZc3h1bDQ4YUZuZXZpa0tDeVUxLVNDdmw0aVFuRDRlVFY5OUpVMVd3UmpadnJLZHNtQ21TQnc0TXM5Nkx5ZVR1YXJ0cF9IaXY5bXppeA?oc=5",
+      "published": "Sat, 14 Nov 2026 07:57:18 GMT"
+    }
+  ]
+}
