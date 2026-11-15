@@ -1,16 +1,9 @@
 {
   "date": "2026-11-16",
   "hour": "01",
-  "total": 11,
-  "fetched_at": "2026-11-16T01:00:50.692975+08:00",
+  "total": 10,
+  "fetched_at": "2026-11-16T01:29:47.694382+08:00",
   "news": [
-    {
-      "source": "新浪财经",
-      "title": "美财长施压英伟达：要求外部换帅，限期10天回应合规问题 - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE14MTJtcUVpbjZGZlVVUFNpbktrTjRPbE94OTVPdkUyQ3lIUzE5TEhoRk5iS2VLd2VjS013LTRtNml3eVhoZ2Q0Zm1SUy1JckhrY3Y4MHVDbU9KWW5Fd0FxVUMwQUc3Q25zSmJ0RVpOSHZlZWd5N04weQ?oc=5\" target=\"_blank\">美财长施压英伟达：要求外部换帅，限期10天回应合规问题</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14MTJtcUVpbjZGZlVVUFNpbktrTjRPbE94OTVPdkUyQ3lIUzE5TEhoRk5iS2VLd2VjS013LTRtNml3eVhoZ2Q0Zm1SUy1JckhrY3Y4MHVDbU9KWW5Fd0FxVUMwQUc3Q25zSmJ0RVpOSHZlZWd5N04weQ?oc=5",
-      "published": "Sun, 15 Nov 2026 15:16:53 GMT"
-    },
     {
       "source": "新浪财经",
       "title": "贝森特：预计下月通胀显著回落，呼吁美联储着眼未来 - 新浪财经",
@@ -21,9 +14,16 @@
     {
       "source": "东方财富",
       "title": "发挥长期资金“稳定器”作用 国有资本运营公司持续“加仓” - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObGl4MG1UbDZWNUloSFFsM09JdVduSHFkY21oeDI1Rm9lYmlJelpyLUViaUQwOW92Zl9aMWtHa0lBM1p3ZjdmUjdIaFJ6UlQ0aE16TGZfMjh3RFlBb2FfUTFrSGg5ZEVlN3oyMw?oc=5\" target=\"_blank\">发挥长期资金“稳定器”作用 国有资本运营公司持续“加仓”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ObGl4MG1UbDZWNUloSFFsM09JdVduSHFkY21oeDI1Rm9lYmlJelpyLUViaUQwOW92Zl9aMWtHa0lBM1p3ZjdmUjdIaFJ6UlQ0aE16TGZfMjh3RFlBb2FfUTFrSGg5ZEVlN3oyMw?oc=5",
-      "published": "Sun, 15 Nov 2026 16:37:48 GMT"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xZ0M2Y005akJMNG9QeDA2OVIweTNvRG54dVgxRml5RGpLUmpLQmhRNVBuak5XRHpyeW1tSVVyWjlxLU5YZkRTVHBTWXdES1JFQm9iRmxHa0xxcl9OVldqSA?oc=5\" target=\"_blank\">发挥长期资金“稳定器”作用 国有资本运营公司持续“加仓”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xZ0M2Y005akJMNG9QeDA2OVIweTNvRG54dVgxRml5RGpLUmpLQmhRNVBuak5XRHpyeW1tSVVyWjlxLU5YZkRTVHBTWXdES1JFQm9iRmxHa0xxcl9OVldqSA?oc=5",
+      "published": "Sun, 15 Nov 2026 16:35:49 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "掘金中国资产 海外资金看多信号密集显现 - 东方财富",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tTE5JelpRZVliRko0RWxrckZJNTJSblhnUzdzSG90UWJvcU02TGxFVjBEZF92SUpWdEZsaXlzdzBuTlU4QWNyNl96UDgtYWJBLVd0dHZPQkdWYXhQWUJCZDRHUQ?oc=5\" target=\"_blank\">掘金中国资产 海外资金看多信号密集显现</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tTE5JelpRZVliRko0RWxrckZJNTJSblhnUzdzSG90UWJvcU02TGxFVjBEZF92SUpWdEZsaXlzdzBuTlU4QWNyNl96UDgtYWJBLVd0dHZPQkdWYXhQWUJCZDRHUQ?oc=5",
+      "published": "Sun, 15 Nov 2026 17:20:49 GMT"
     },
     {
       "source": "同花顺",
@@ -73,13 +73,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiQ2RpNzU3dmJEXzk5MWJiTW1HRE5fZlQtbHRXVEZzR0VGY21KZHNDcm5yYlR1QlVYQkFpYThjVkJaMmdTY1V0cEFEb09HODgzd0x3SEN0ZHdNbGVwUXFTTg?oc=5\" target=\"_blank\">表决权委托、锁价定增与减持红线交织，A股“卖壳”生意为何越来越难做</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiQ2RpNzU3dmJEXzk5MWJiTW1HRE5fZlQtbHRXVEZzR0VGY21KZHNDcm5yYlR1QlVYQkFpYThjVkJaMmdTY1V0cEFEb09HODgzd0x3SEN0ZHdNbGVwUXFTTg?oc=5",
       "published": "Sun, 15 Nov 2026 16:40:40 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "贝森特：英伟达领导层需要“剧烈重组”",
-      "summary": "<p>美国财政部长贝森特：英伟达应当寻找外部人士来担任其新CEO。</p>\n\n<p>需要对其领导层进行“彻底改组”。</p>\n\n<p>黄仁勋是了不起的创新者，英伟达非常出色。（福克斯新闻）</p>",
-      "link": "https://wallstreetcn.com/livenews/3200212",
-      "published": "Sun, 15 Nov 2026 15:07:54 GMT"
     }
   ]
 }
