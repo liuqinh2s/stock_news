@@ -1,22 +1,134 @@
 {
   "date": "2026-11-15",
   "hour": "10",
-  "total": 6,
-  "fetched_at": "2026-11-15T10:00:59.799775+08:00",
+  "total": 27,
+  "fetched_at": "2026-11-15T10:15:47.460362+08:00",
   "news": [
     {
       "source": "同花顺",
-      "title": "利扬芯片拟3.06亿元收购众望达51%股权 完善“光存算”测试布局 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFem9DSFI2LUV0LVdDTGhlMjYwZnJHTzg2QXFfYlE0bUFWYU5KMFZqVFo5MC1Gd05QYk1aam1LcDlXSTB4cXd4QWd3YWhaTHY2aVgwVG5rZTFiQkRyVEFNeThB?oc=5\" target=\"_blank\">利扬芯片拟3.06亿元收购众望达51%股权 完善“光存算”测试布局</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFem9DSFI2LUV0LVdDTGhlMjYwZnJHTzg2QXFfYlE0bUFWYU5KMFZqVFo5MC1Gd05QYk1aam1LcDlXSTB4cXd4QWd3YWhaTHY2aVgwVG5rZTFiQkRyVEFNeThB?oc=5",
-      "published": "Sun, 15 Nov 2026 01:56:23 GMT"
+      "title": "雄忻高铁山西段进入联调联试阶段 预计2027年3月底具备开通条件",
+      "summary": "记者从国铁太原局获悉，11月15日早晨，55052次检测列车从山西省忻州西站驶出，雄忻高铁山西段正式进入联调联试阶段，计划用时66天完成。该高铁东起河北雄安新区、西至山西忻州，是山西首条设计时速350公里的高速铁路，预计2027年3月底具备开通条件。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828752.shtml",
+      "published": "Sun, 15 Nov 2026 02:11:26 GMT"
     },
     {
       "source": "同花顺",
-      "title": "千亿互换便利从额度走向买入，稳市机制补上哪块拼图 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE51dGdqMTRVcVg1MFp5TmtHT1VhM1dpMGx3MjVDUlFDeXV5MlNWYXd4dGthYnV1V3lwUFQ1TzE4NUx0ZkRBMXhCN2hPZDZUeUcxSjNNeTVqNUlqVmNvY2QweA?oc=5\" target=\"_blank\">千亿互换便利从额度走向买入，稳市机制补上哪块拼图</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51dGdqMTRVcVg1MFp5TmtHT1VhM1dpMGx3MjVDUlFDeXV5MlNWYXd4dGthYnV1V3lwUFQ1TzE4NUx0ZkRBMXhCN2hPZDZUeUcxSjNNeTVqNUlqVmNvY2QweA?oc=5",
-      "published": "Sun, 15 Nov 2026 00:45:45 GMT"
+      "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+      "summary": "在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此外，多位国际组织负责人及美国、俄罗斯、日本等经济体商协会负责人也将到场，共襄盛举。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261115/c681828742.shtml",
+      "published": "Sun, 15 Nov 2026 02:07:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+      "summary": "在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将于11月17日至18日在深圳前海国际会议中心举办，习近平主席和澳大利亚、加拿大、智利、中国香港、印度尼西亚、韩国、马来西亚、墨西哥、俄罗斯、泰国、越南APEC经济体领导人将出席峰会并发表演讲、致辞或参与专题研讨。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261115/c681828741.shtml",
+      "published": "Sun, 15 Nov 2026 02:07:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "浙江人形机器人创新中心产线：正建设新工厂、储备万台产能",
+      "summary": "记者探访宁波浙江人形机器人创新中心产线，副总经理留云介绍，藕池工厂人形机器人年产能已从数百台扩容至数千台；公司正新建集士港工厂扩充产能，通过与外部生产基地合作，预计未来可实现万台级产能。量产节点在今年，去年为小批量出货，今年产品已进入标准、可复制状态，通用柔性作业机器人NAVIAI WA2已批量出货。相比去年，今年市场订单已翻多倍，部分来自去年客户经概念验证后推动落地，另一部分来自新客户。（中证金牛座）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828704.shtml",
+      "published": "Sun, 15 Nov 2026 01:57:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沙特主导的多国联军称拦截摧毁两枚射向利雅得的弹道导弹",
+      "summary": "当地时间15日，沙特主导的多国联军发言人在社交媒体上发布消息称，联军防空部队拦截并摧毁了也门胡塞武装向沙特首都利雅得方向发射的两枚弹道导弹。稍早前，联军还表示在东部地区拦截并摧毁了两次无人机袭击。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828688.shtml",
+      "published": "Sun, 15 Nov 2026 01:50:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "比特币跌破62000美元，日内跌超5%",
+      "summary": "比特币跌破62000美元，日内跌超5%；以太坊日内跌超6%。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828685.shtml",
+      "published": "Sun, 15 Nov 2026 01:48:53 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴林发布警报提示潜在威胁",
+      "summary": "巴林内政部15日发布有关潜在威胁的警报，呼吁民众保持冷静，前往附近的安全地点。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261115/c681828676.shtml",
+      "published": "Sun, 15 Nov 2026 01:47:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "今天零时起北方多地正式集中供热",
+      "summary": "今天（15日），北方地区进入全面供暖季。北京、天津、石家庄、济南、郑州以及陕西关中地区等地今天零时起正式集中供热。陕西关中多地持续优化供热结构，大力发展地热等清洁供暖。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828664.shtml",
+      "published": "Sun, 15 Nov 2026 01:40:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "河南省印发加快推进水网建设实施方案",
+      "summary": "河南省水利厅近日印发实施《河南省加快推进水网建设实施方案（2026—2030年）》，为“十五五”全省水网建设提供行动指南。方案设定时间表：到2027年底，建设一批省级水网骨干工程，补齐水网短板和薄弱环节，水安全保障能力不断增强；到2030年底，现代化水网建设取得重大进展，全省水安全保障能力全面提升，基本实现水利现代化取得决定性进展，建设完成85%左右的“纲、目、结”规划任务。（河南日报）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828615.shtml",
+      "published": "Sun, 15 Nov 2026 01:16:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "金融机构外汇存款准备金率今起提高至6%",
+      "summary": "中国人民银行上调金融机构外汇存款准备金率正式生效，外汇存款准备金率由现行的4%提高到6%。本次上调有助于促进外汇市场供求平衡，打破人民币升值预期的自我实现。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828605.shtml",
+      "published": "Sun, 15 Nov 2026 01:15:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "沙特首都利雅得传出剧烈爆炸声",
+      "summary": "当地时间15日凌晨，沙特首都利雅得传出多声剧烈爆炸声，居民收到经由手机程序发布的防空警报。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261115/c681828603.shtml",
+      "published": "Sun, 15 Nov 2026 01:15:04 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "两股冷空气接连来袭 局地降幅超12℃",
+      "summary": "11月15日至18日，两股冷空气接连影响我国，中东部大部地区气温累计下降6至10℃，局地降幅将超12℃。降温过后，气温将大面积刷新今年下半年来新低，北方气温低点在17日前后，南方在18日前后。此外，大范围雨雪来袭，北方局地有暴雪，南方以降雨为主。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828483.shtml",
+      "published": "Sun, 15 Nov 2026 00:34:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "1至10月份国家铁路发送货物34.2亿吨",
+      "summary": "记者从国铁集团获悉，今年1至10月份国家铁路累计发送货物34.2亿吨，重点物资运输保障有力，铁路物流产品持续升级，中欧（亚）班列高质量开行。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828481.shtml",
+      "published": "Sun, 15 Nov 2026 00:34:13 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "以军称打死哈马斯一高级军事指挥官",
+      "summary": "以色列国防军15日发表声明称，以军打死了巴勒斯坦伊斯兰抵抗运动（哈马斯）一名高级军事指挥官。哈马斯随后发表声明说，拉法旅指挥官萨米尔·阿布·尤尼斯遭暗杀身亡。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828472.shtml",
+      "published": "Sun, 15 Nov 2026 00:31:45 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "今年中文水平考试考生人数首破百万人次",
+      "summary": "11月13日至15日，2026世界中文大会在北京举行，来自160多个国家和地区的约5000名代表参会。记者从大会获悉，今年中文水平考试（HSK）考生人数首次突破100万人次。HSK已在169个国家设立1500余个考点，考点覆盖国家数量居全球语言考试首位，累计服务考生超900万人次；海外学习和使用中文的人数达2.1亿。大会期间，教育部中外语言交流合作中心联合多家机构发起“中文+”产教融合伙伴计划倡议，助力各国培养既通晓中国语言文化、又掌握专业技能的本土人才。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261115/c681828471.shtml",
+      "published": "Sun, 15 Nov 2026 00:31:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "航行警告！渤海海峡黄海北部执行军事任务",
+      "summary": "据中国海事局网站消息，大连海事局发布航行警告，11月15日16时至29日16时，渤海海峡黄海北部部分海域执行军事任务，禁止驶入。",
+      "link": "https://news.10jqka.com.cn/20261115/c681828424.shtml",
+      "published": "Sun, 15 Nov 2026 00:16:56 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报",
+      "summary": "<p style=\"text-align: left;\"><strong> 11月16日 - 11月22日当周重磅财经事件一览，以下均为北京时间：</strong></p>\n<p style=\"text-align: left;\"><strong><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/ec0d21af-9dcc-4e29-87da-0cef6b14f637.png\" /></strong></p>\n<p style=\"text-align: left;\"><strong>见闻财经日历提醒下周重点关注：</strong></p>\n<p><strong>首先，关注APEC领导人非正式会议。</strong>峰会18—19日在深圳举行，中美俄元首是否会晤备受关注；中国外交部此前表示“就中俄美元首会晤同相关方保持沟通”。</p>\n<p><strong>其次，AI行情胜负手在英伟达。</strong>黄仁勋因丑闻辞任后，英伟达单周市值蒸发逾4900亿美元，北京时间18日凌晨临时CEO Kress主持首份财报电话会，数据中心收",
+      "link": "https://wallstreetcn.com/articles/3785932",
+      "published": "Sun, 15 Nov 2026 02:10:34 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "2027见闻历，财经人的桌面必备“神历”",
+      "summary": "<p style=\"text-align: left;\"><a href=\"https://wallstreetcn.com/shop/item/1000400\" rel=\"noopener noreferrer nofollow\" target=\"_self\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/2663ad18-9d59-4410-a6f2-0d36f76b43bb.png\" title=\"\" /></a></p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/07aeb3e7-f4ca-4207-befb-c987b3dc7011\" /></p>\n<p style=\"text-align: left;\"><a href=\"https://wallstreetcn.com/shop/item/1000400\" rel=\"noopener\" target=\"_blank\"><img alt=\"\" c",
+      "link": "https://wallstreetcn.com/articles/3782813",
+      "published": "Sun, 15 Nov 2026 02:06:35 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -45,6 +157,41 @@
       "summary": "<p style=\"text-align: left;\">火电板块三季度归母净利润同比暴跌76.5%，煤价上涨、年初低价长协与电量压力叠加，煤电价差被压缩至低位。与此同时，江苏、广东月度电力交易价格率先反弹，2027年年度长协即将进入集中验证窗口。沿海长协涨价决定下一年度盈利修复的起点；煤炭复产保供为成本端提供缓冲；容量电价与资本开支变化，则决定火电能否走向稳定的红利型资产。</p><h2 style=\"text-align: left;\">一、发生了什么？——火电三季报很难看，价格信号却开始转向</h2><p style=\"text-align: left;\"><strong>1．利润下滑七成，三重挤压同时出现：</strong></p><p style=\"text-align: left;\">2026年第三季度，火电行业遭遇了一次剧烈的利润收缩。长江证券统计的火电样本单季归母净利润约68.36亿元，同比下降76.51%；前三季度累计归母净利润约453.95亿元，同比下降40.49%。华能国际煤电度电利润总额降至约1.1分钱。</p><p style=\"text-align: lef",
       "link": "https://wallstreetcn.com/member/articles/3785528",
       "published": "Sun, 15 Nov 2026 00:20:10 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "下周外盘看点丨英伟达迎财报大考，Anthropic冲刺“史上最大IPO”",
+      "summary": "<figure><img alt=\"下周外盘看点丨英伟达迎财报大考，Anthropic冲刺“史上最大IPO”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/8ec51929f1097c35943d8bdcb52bc339.jpg\" /></figure><p>人工智能新贵Anthropic将成为史上最大IPO之一。</p><p>本周国际市场风云变幻，英伟达CEO黄仁勋宣布辞职引发广泛关注。</p>\n\n<p>市场方面，美股全线走高，道指周涨2.07%，纳指周涨3.53%，标普500指数周涨2.51%，欧股表现不俗，英国富时100指数周涨2.18%，德国DAX 30指数周涨3.73%，法国CAC 40指数周涨3.01%。</p>\n\n<p><strong>下周看点颇多，美联储10月会议纪要将成为市场关注的核心焦点之一，投资者将从中寻找未来进一步加息的时机与幅度线索。英国经济数据也将受到密切关注，外界将以此判断英国央行的高加息预期是否合理。英伟达将迎来黄仁勋离开后的首份财报，而人工智能新贵Anthropic备受期待的IPO将亮相。</",
+      "link": "https://www.yicai.com/news/103440909.html",
+      "published": "Sun, 15 Nov 2026 02:02:25 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "美股点金丨英伟达将AI板块带入迷茫期，下周三大风险事件如何搅动美股？",
+      "summary": "<figure><img alt=\"美股点金丨英伟达将AI板块带入迷茫期，下周三大风险事件如何搅动美股？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/82f7b246490115bb9a2e64568654bd22.jpg\" /></figure><p>Anthropic IPO成为焦点之一。</p><p>随着黄仁勋宣布卸任英伟达CEO职位，AI板块出现波动，不过美国三大股指依然迎来全线反弹，纳斯达克综合指数和标普500指数均结束了连续四周的下跌。</p>\n\n<p><strong>未来一周，市场将迎来美联储会议纪要和英伟达财报。与此同时，人工智能公司Anthropic首次公开募股IPO也可能会考验投资者对现有人工智能重量级公司的兴趣。</strong></p>\n\n<p style=\"text-align: center;\"><img alt=\"下周三大风险事件围绕美股市场（来源：新华社资料图）\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/ff5e3384731f1",
+      "link": "https://www.yicai.com/news/103440906.html",
+      "published": "Sun, 15 Nov 2026 02:02:11 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "SpaceX挑战星舰“双回收”完成一半：二级飞船首次被“筷子”接住",
+      "summary": "<figure><img alt=\"SpaceX挑战星舰“双回收”完成一半：二级飞船首次被“筷子”接住\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/318ae0a8-6b4f-4011-8c69-9b3f534c96e3.jpg\" /></figure><p>SpaceX星舰飞船从离开同一发射场再到被捕获回收，历经超过22个小时。</p><p>当SpaceX星舰飞船稳稳进入张开的机械臂“怀中”，现场观看的人群爆发出一片欢呼声。</p>\n\n<p>北京时间11月15日，在SpaceX星舰第十五次飞行中，星舰二级飞船返回得克萨斯州星港，在完成着陆点火和姿态翻转后，成功被“筷子”机械臂捕获。这是SpaceX首次成功捕获从地球轨道返回的星舰飞船。</p>\n\n<p><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/785b007df2e84987536530de68be10a7.jpg\" style=\"width: 1200px; height:",
+      "link": "https://www.yicai.com/news/103440907.html",
+      "published": "Sun, 15 Nov 2026 01:59:59 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "击穿百万价格后，首批转目录的创新药销量能大爆发吗？",
+      "summary": "<figure><img alt=\"击穿百万价格后，首批转目录的创新药销量能大爆发吗？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/4944bc5894b8b36c95cf4d098bfa6400.jpg\" /></figure><p>今年转入医保目录的2个药品，2026年的采购金额约为3700万元</p><p>“创新药要爆发了，这款CAR-T明年销量会大涨！”一位资深医药人士今天听到CAR-T细胞药物瑞基奥仑赛进入基本医保后难掩激动。</p>\n\n<p>药明巨诺的瑞基奥仑赛注射液成为继诺西那生钠之后，又一款靠医保谈判“破圈”的明星高值药。这位人士直言，随着CAR-T药物动辄百万的“天价”壁垒被击穿，创新药正迎来打破支付天花板的全新想象空间。</p>\n\n<p>今年医保目录调整首次建立了“双目录”衔接机制，允许商保目录品种申报基本医保，国家医保局鼓励高价值创新药上市初期先进入商保目录，通过临床使用积累数据、降低成本，后续可转入基本医保。</p>\n\n<p>“双目录”衔接机制的效果立竿见影，今年瑞基奥仑赛注射液和盐酸沙丙蝶呤片率先由",
+      "link": "https://www.yicai.com/news/103440856.html",
+      "published": "Sun, 15 Nov 2026 01:00:45 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "壹快评｜多地优化停车收费，小改变撬动大活力",
+      "summary": "<figure><img alt=\"壹快评｜多地优化停车收费，小改变撬动大活力\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/526e8b078e65fd6129f386ef4a2ff19f.jpg\" /></figure><p>城市治理要“算小账”，更要“算大账”</p><p>近期，上海、湖南、广州、济南、银川等多地密集出台停车收费优化新政。从“按分钟计费”到“短时免费”，从“夜间打折”到“居民包月”，一系列优惠便利的新收费办法，受到司机群体普遍欢迎。这不仅是停车计费模式的简单升级，更是城市治理的进一步精细化。更重要的是，新政有望重塑人们的用车习惯，在提高城市运转效率、激发商业活力、提升百姓获得感等多个方面产生积极的外溢效应。</p>\n\n<p>截至今年6月底，我国汽车保有量已达3.71亿辆，汽车驾驶人5.33亿人。停车计费看似小事，实则是民生、经济大事。这些新政，表面上是政策上的小调整，实则包含城市治理的大智慧，体现出地方政府“办小事，算大账”的长远考量。</p>\n\n<p>算好“效率账”，提升资源利用率。长期以来，国内停车收",
+      "link": "https://www.yicai.com/news/103440878.html",
+      "published": "Sun, 15 Nov 2026 01:00:35 GMT"
     }
   ]
 }
