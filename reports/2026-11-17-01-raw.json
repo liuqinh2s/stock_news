@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-17",
+  "hour": "01",
+  "total": 26,
+  "fetched_at": "2026-11-17T01:00:57.971114+08:00",
+  "news": [
+    {
+      "source": "同花顺",
+      "title": "谷歌云公布了第七代Ironwood TPU的10项测试结果",
+      "summary": "谷歌云公布了基于第七代Ironwood TPU的10项测试结果，涵盖前沿预训练及首个面向智能体强化学习（RL）的MLPerf基准。在智能体强化学习方面，640块Ironwood TPU在18.02分钟内达到目标模型的编码基准目标准确率，同时运行代码生成和学习，使训练芯片的等待时间占比低于3%。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261117/c681878723.shtml",
+      "published": "Mon, 16 Nov 2026 16:53:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "巴基斯坦陆军总参谋长会见伊朗外长 讨论双边关系及地区局势",
+      "summary": "当地时间16日，巴基斯坦陆军总参谋长穆尼尔在伊斯兰堡会见到访的伊朗外长阿拉格齐。双方回顾了地区及国际局势发展，就拓展共同关心的双边关系议题进行探讨，并就当前地区和平与安全面临的挑战与威胁交换意见，讨论了如何加强合作以维护和平与稳定。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261117/c681878714.shtml",
+      "published": "Mon, 16 Nov 2026 16:46:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "秘鲁伊卡地区发生5.4级地震",
+      "summary": "据秘鲁国家地球物理研究所通报，当地时间11月16日11时16分39秒，秘鲁伊卡大区纳斯卡省圣胡安德马尔科纳以西128公里处发生5.4级地震，震源深度31公里。目前通报未提供人员伤亡及财产损失情况。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261117/c681878711.shtml",
+      "published": "Mon, 16 Nov 2026 16:45:05 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "GE Vernova推出中压不间断电源稳定系统 以平滑AI电力需求",
+      "summary": "通用电气旗下能源业务公司GE Vernova推出中压不间断电源（MV-UPS）稳定系统，并将其规模化，以平滑AI快速变化的电力需求。(财联社)",
+      "link": "https://news.10jqka.com.cn/20261117/c681878703.shtml",
+      "published": "Mon, 16 Nov 2026 16:40:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧洲三大股指小幅收跌",
+      "summary": "欧洲三大股指小幅收跌，英国富时100指数收盘下跌0.09%，法国CAC40指数下跌0.08%，德国DAX指数下跌0.45%。",
+      "link": "https://news.10jqka.com.cn/20261117/c681878692.shtml",
+      "published": "Mon, 16 Nov 2026 16:33:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧足联：法国足协主席迪亚洛将参选国际足联主席",
+      "summary": "当地时间11月16日，欧足联执行委员会决定支持法国足协主席菲利普·迪亚洛参选国际足联主席，与寻求连任的现任主席因凡蒂诺展开竞争。迪亚洛参选资格预计将于11月17日获得法国足协执行委员会正式批准。国际足联主席选举将于2027年3月18日在摩洛哥首都拉巴特举行，候选人提名截止时间为当地时间11月18日午夜。7月28日，因凡蒂诺宣布推出“国际足联前进企业”计划，拟成立商业公司整合世界杯、世俱杯等核心赛事商业运营，并将约20%股份以大概42亿美元出售，遭强烈反对和争议；8月1日，因凡蒂诺宣布放弃该计划。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261117/c681878688.shtml",
+      "published": "Mon, 16 Nov 2026 16:32:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "微软数据显示，Claude在Office中落后于Copilot",
+      "summary": "微软数据显示，Claude在Office中落后于Copilot。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261117/c681878677.shtml",
+      "published": "Mon, 16 Nov 2026 16:20:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "英伟达推出面向高性能计算的Vera CPU机架级平台",
+      "summary": "英伟达宣布推出面向高性能计算的Vera CPU机架级平台，该平台为智能体科学带来更高性能，能效比x86 CPU提升一倍。完整的Vera CPU平台将由戴尔科技、HPE、联想和Supermicro提供。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261117/c681878632.shtml",
+      "published": "Mon, 16 Nov 2026 16:11:12 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "IBM、费米实验室与英伟达将推出量子协同设计平台",
+      "summary": "IBM、费米实验室与英伟达将推出量子协同设计平台。(财联社)",
+      "link": "https://news.10jqka.com.cn/20261117/c681878552.shtml",
+      "published": "Mon, 16 Nov 2026 16:04:24 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "OpenAI曾探讨以50多亿美元收购一家解码AI“思维”方式的初创公司",
+      "summary": "据报道，OpenAI曾探讨以50多亿美元收购一家解码AI“思维”方式的初创公司。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261116/c681878502.shtml",
+      "published": "Mon, 16 Nov 2026 15:59:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "欧元兑美元自2025年以来首次跌破1.10",
+      "summary": "欧元兑美元自2025年以来首次跌破1.10。",
+      "link": "https://news.10jqka.com.cn/20261116/c681878500.shtml",
+      "published": "Mon, 16 Nov 2026 15:57:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "世界航商大会在港举办 聚焦航运韧性与绿色转型",
+      "summary": "2026世界航商大会16日起在香港举办。大会以“畅航通链 驭变致远”为主题，汇聚全球航运、港口、贸易、金融、科技领域等各界人士，共商全球航运体系协同发展新路径。全国政协副主席梁振英致辞指出，当前，受地缘政治影响，供应链韧性遭遇挑战，数字智能化与绿色化转型全面来临，航运业正处于转折点。他建议发挥香港“一国两制”下的法律、商业生态及航运服务优势，共同构建全球协作航运秩序；提升香港枢纽功能，增强产业链与供应链韧性，形成香港港口设施、制度优势及大湾区集群协同效应；发挥香港绿色燃料加注、智慧港口、国际联系等优势，推动数字智能和绿色航运发展，促进全球航运治理。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261116/c681878488.shtml",
+      "published": "Mon, 16 Nov 2026 15:53:29 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "墨官员赴深圳考察垃圾焚烧发电",
+      "summary": "随着亚太经合组织（APEC）第三十三次领导人非正式会议将于11月18日至19日在深圳举行，多国政要已开始陆续抵达中国。其中，墨西哥环境与自然资源部部长在抵达深圳后发布的一则帖文，引起了不少中外网民的关注。让人有些意外的是，她对深圳最感兴趣的是当地的垃圾焚烧发电项目。“辛鲍姆总统指派我前往这些设施参观考察，学习相关经验并在墨西哥落地应用”，巴尔塞纳在一则帖文中写道，“中国的实践成果十分突出：2005年至2024年间，中国城市生活垃圾的能源化利用率从9.8%提升至84.6%，填埋处置占比则从85%降至5%。”(环球时报)",
+      "link": "https://news.10jqka.com.cn/20261116/c681878484.shtml",
+      "published": "Mon, 16 Nov 2026 15:51:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "日竭力拉民企入局加快催熟军工业",
+      "summary": "日本政府不断突破“专守防卫”原则，推动在年内修订“安保三文件”。共同社11月16日披露了日本政府为配合修订“安保三文件”而制定的“防卫产业基础战略”部分概要内容——其中，为了强化应对长期战争的“持续作战能力”，日本政府拟写入所谓“预备生产力”的理念，也就是平时生产民用产品的工厂在“突发事态”下转为生产防卫装备，并计划创设支援制度，向相关合作企业提供贷款和补助。(CCTV国际时讯)",
+      "link": "https://news.10jqka.com.cn/20261116/c681878479.shtml",
+      "published": "Mon, 16 Nov 2026 15:45:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "波黑新一届主席团成员宣誓就职",
+      "summary": "当地时间11月16日，波黑新一届主席团在首都萨拉热窝举行宣誓就职典礼，中央选举委员会向新当选的3位主席团成员热莉卡·茨维亚诺维奇、达里亚娜·菲利波维奇和戴尼斯·贝契罗维奇颁发证书，三人宣读并签署就职誓言。10月4日波黑大选中，三人分别代表波什尼亚克族、克罗地亚族、塞尔维亚族当选。波黑宪法规定，主席团由三族各1名代表组成，任期4年，主席为轮值制，每8个月轮换。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261116/c681878477.shtml",
+      "published": "Mon, 16 Nov 2026 15:44:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "习近平致电祝贺波黑新一届主席团成员就职",
+      "summary": "11月16日，国家主席习近平致电热莉卡·茨维亚诺维奇、戴尼斯·贝契罗维奇、达丽娅娜·菲利波维奇，祝贺他们就任波黑主席团成员。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261116/c681878462.shtml",
+      "published": "Mon, 16 Nov 2026 15:35:07 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "伊朗称多艘油轮在霍尔木兹海峡触雷",
+      "summary": "伊朗伊斯兰革命卫队和伊朗海军11月16日称，多艘油轮在霍尔木兹海峡触雷。伊朗方面强调，“关闭导航系统且未经伊朗授权擅自进入限制区域或不安全海域，会使违规船只面临严重风险。(CCTV国际时讯)",
+      "link": "https://news.10jqka.com.cn/20261116/c681878456.shtml",
+      "published": "Mon, 16 Nov 2026 15:30:48 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "专家说金价跌了别着急抄底",
+      "summary": "近期水贝市场迎来集中购金潮，首饰金报价上周五跌破每克千元关口，今日约983元/克，金条约867元/克，5克、10克、20克小克重金条卖得好，商户称整体销量增长30%左右，一天卖出约1.5公斤，柜台挤满人、一天补货4到5次。广东南方黄金市场研究中心主任宋蒋圳分析，12月中旬美联储议息会议前，金价不排除进一步下探至3800美元；普通投资者不要把黄金当成单边上场的资产，波动率已不低，不要加杠杆，也不要在下跌趋势里着急抄底。（央视财经）",
+      "link": "https://news.10jqka.com.cn/20261116/c681878444.shtml",
+      "published": "Mon, 16 Nov 2026 15:27:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "布伦特原油期货跌幅扩大至3%",
+      "summary": "布伦特原油期货跌幅扩大至3%，报92.969美元/桶。",
+      "link": "https://news.10jqka.com.cn/20261116/c681878440.shtml",
+      "published": "Mon, 16 Nov 2026 15:25:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货白银日内跌幅扩大至4%",
+      "summary": "现货白银日内跌幅扩大至4%，报46.71美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20261116/c681878432.shtml",
+      "published": "Mon, 16 Nov 2026 15:22:53 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "特朗普支持黄仁勋重掌英伟达，英伟达一度转涨",
+      "summary": "<p>英伟达股价周一震荡，特朗普公开表态支持黄仁勋重返CEO职位。</p>\n<p><strong>特朗普周一在白宫向记者表示，\"我不反对\"黄仁勋复职，并称\"很多人希望黄仁勋回来，这肯定不是个坏主意\"。他同时为黄仁勋辩护称，美国国家安全\"没有受到威胁\"。</strong></p>\n<p>在特朗普发表上述言论期间，英伟达股价一度短暂转涨，随后继续下跌，截至发稿，下跌2.3%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/6f41eb7b-92ba-4e0b-a071-faf9d9614e30.png\" /></p>\n<div>\n<h2 id=\"72e1a7eb\">特朗普与贝森特立场相左，硅谷游说力量集结力挺黄仁勋</h2>\n</div>\n<p>特朗普此番表态与财政部长贝森特的立场存在明显分歧。贝森特此前呼吁英伟达进行\"大幅重组\"，并启动外部领导层搜寻程序。</p>\n<p>特朗普还再度提及，<strong>他支持前苹果CEO蒂姆·库克出任英伟达新领导人——这一表态他在上周黄仁勋辞职后已首次提出，周一再次重申。</s",
+      "link": "https://wallstreetcn.com/articles/3786042",
+      "published": "Mon, 16 Nov 2026 16:45:45 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "OpenAI扩大AMD算力布局：与TensorWave签署六年协议，部署逾450MW算力",
+      "summary": "<p>AI云服务商TensorWave与OpenAI达成一项重大基础设施协议，进一步推动AMD在前沿AI算力市场的布局。</p>\n<p><strong>根据协议，TensorWave将在美国多个数据中心站点为OpenAI提供457MW（兆瓦）的IT算力容量，为期六年，全部搭载AMD Instinct MI455X GPU，预计2027年上半年开始投入使用，2028年初完成全面部署。</strong></p>\n<p>这是TensorWave迄今规模最大的单笔部署，也标志着其算力交付能力从现有的大型集群跃升至数百兆瓦量级。</p>\n<p>此次合作是OpenAI与AMD此前宣布的战略合作伙伴关系的组成部分，旨在支持OpenAI不断增长的产品与服务需求。</p>\n<p>对市场而言，该协议意味着AMD在AI基础设施领域正加速向英伟达主导的市场格局发起挑战，TensorWave则成为首家公开宣布作为OpenAI与AMD合作基础设施提供商的新兴云服务商。</p>\n<p>截至发稿，AMD周一盘中下跌5.18%。</p>\n<p><img class=\"wscnph\" src=\"https://wpimg",
+      "link": "https://wallstreetcn.com/articles/3786040",
+      "published": "Mon, 16 Nov 2026 15:34:41 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "消息人士称360市场负责人被带走调查",
+      "summary": "<p>11月16日，有消息人士确认，360副总裁、市场部负责人卜思南上周被警方带走调查。截至发稿，360方面暂未回应。今年8月，360集团宣布，为推进“安全+AI”战略，对集团市场与传播中心进行组织调整，设立公关部和市场部，任命卜思南为市场部负责人，向周鸿祎汇报。（一财）</p>",
+      "link": "https://wallstreetcn.com/livenews/3200737",
+      "published": "Mon, 16 Nov 2026 15:01:45 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "爱奇艺重回Non-GAAP运营盈利：重构内容投资逻辑，AI打开长视频新空间",
+      "summary": "<figure><img alt=\"爱奇艺重回Non-GAAP运营盈利：重构内容投资逻辑，AI打开长视频新空间\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/ed98906cbe7af3a9d55516b2b42fa272.jpg\" /></figure><p>自制做精品，分账做规模，中剧新突破，AI提效率。</p><p>长视频行业的竞争，正在从精品内容的较量延伸至内容生产效率与创作者生态的竞争。</p>\n\n<p>11月16日，爱奇艺（NASDAQ：IQ）发布2026年第三季度财报。三季度，爱奇艺实现总收入60.1亿元，其中会员服务收入39.7亿元，在线广告服务收入12.8亿元，内容发行收入4亿元，其他收入3.6亿元。非美国通用会计准则（Non-GAAP）下运营利润为2500万元。</p>\n\n<p>在财务表现改善的同时，爱奇艺进一步巩固了在长视频内容领域的领先地位。爱奇艺创始人、首席执行官龚宇表示，“我们正向以长视频为根基，去中心化与AI为两翼的长视频社交媒体转型，已初显成效。我们将继续以AI赋能内容生态，改善财务表现。”</",
+      "link": "https://www.yicai.com/news/103442678.html",
+      "published": "Mon, 16 Nov 2026 15:33:06 GMT"
+    },
+    {
+      "source": "Bloomberg China",
+      "title": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap - Bloomberg",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5\" target=\"_blank\">Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
+      "published": "Mon, 16 Nov 2026 16:09:51 GMT"
+    },
+    {
+      "source": "Bloomberg China",
+      "title": "US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO - Bloomberg",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFhFeVFsT0wxMG1zZWtMN1gzNzV5XzN2aUJtclZEa2NaUTN0a2Y3cV83djJMeWZ0Zk5uUThTa2o0SGhQb1NrUGJVWXBLV2xoRzFyUC1mU0s1bXJfekVJaDl2RndqTGJfN0Vkd25OS0JROUNZQ0V3bjJ0b0dkUDIwNlpCcXl4NVpHX3pGQkNCZjZOOFliV0JjaG96NnJVM1BfVDRIa2x1MElXNVZXZ1VHNXdyaXE?oc=5\" target=\"_blank\">US Futures Drop as Market Looks to Nvidia Results, Anthropic IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg</font>",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFhFeVFsT0wxMG1zZWtMN1gzNzV5XzN2aUJtclZEa2NaUTN0a2Y3cV83djJMeWZ0Zk5uUThTa2o0SGhQb1NrUGJVWXBLV2xoRzFyUC1mU0s1bXJfekVJaDl2RndqTGJfN0Vkd25OS0JROUNZQ0V3bjJ0b0dkUDIwNlpCcXl4NVpHX3pGQkNCZjZOOFliV0JjaG96NnJVM1BfVDRIa2x1MElXNVZXZ1VHNXdyaXE?oc=5",
+      "published": "Mon, 16 Nov 2026 15:02:50 GMT"
+    }
+  ]
+}
