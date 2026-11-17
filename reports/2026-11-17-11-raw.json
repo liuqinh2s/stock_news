@@ -1,183 +1,162 @@
 {
   "date": "2026-11-17",
   "hour": "11",
-  "total": 37,
-  "fetched_at": "2026-11-17T11:00:57.254786+08:00",
+  "total": 34,
+  "fetched_at": "2026-11-17T11:17:14.017951+08:00",
   "news": [
     {
-      "source": "东方财富",
-      "title": "ETF两市融资融券余额1166.14亿元 增加23.44亿元 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdVpkZ2VVZ2FFTml1Ulo3RjEybU5hUU1wZklWUTZQWTl2b2dWbHR0cU5jTkxYM3VQQTJubkFxMG9MNUlKMGpob2gtZHhHTkJoMmxBZm1kYjBhdThyUnpjMjZFVQ?oc=5\" target=\"_blank\">ETF两市融资融券余额1166.14亿元 增加23.44亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSdVpkZ2VVZ2FFTml1Ulo3RjEybU5hUU1wZklWUTZQWTl2b2dWbHR0cU5jTkxYM3VQQTJubkFxMG9MNUlKMGpob2gtZHhHTkJoMmxBZm1kYjBhdThyUnpjMjZFVQ?oc=5",
-      "published": "Tue, 17 Nov 2026 01:55:17 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "摩根士丹利：关注A股产业升级机会 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XeF9XQml3V2xBRUduSjB6bmxZU2xQbFlQcXdiRHRHR292MzFzbG9MQzZ0N3BNR01naENUbmY5MlJZNVllMldUS0xOcktTdjF3SUtNV0NpMGNVbDFwMTJCZjAxSjVHdw?oc=5\" target=\"_blank\">摩根士丹利：关注A股产业升级机会</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XeF9XQml3V2xBRUduSjB6bmxZU2xQbFlQcXdiRHRHR292MzFzbG9MQzZ0N3BNR01naENUbmY5MlJZNVllMldUS0xOcktTdjF3SUtNV0NpMGNVbDFwMTJCZjAxSjVHdw?oc=5",
-      "published": "Tue, 17 Nov 2026 02:19:15 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "个股异动 | 电网设备概念走强 顺钠股份、摩恩电气涨停 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE4weG5OSEk4ZGVkSnpfekZoWEVCMTVJOHBZQVY2eWEzMDlOZ2w5YlkzQ2drX3FCZ0psVDQ3S1JsdU5UWVBLd1lFUEc5NThGS3o1anJfdlNYV1NHdzBXMzF5SzZsY255Zw?oc=5\" target=\"_blank\">个股异动 | 电网设备概念走强 顺钠股份、摩恩电气涨停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4weG5OSEk4ZGVkSnpfekZoWEVCMTVJOHBZQVY2eWEzMDlOZ2w5YlkzQ2drX3FCZ0psVDQ3S1JsdU5UWVBLd1lFUEc5NThGS3o1anJfdlNYV1NHdzBXMzF5SzZsY255Zw?oc=5",
-      "published": "Tue, 17 Nov 2026 02:56:37 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "11月16日ETF资金整体净申购151.56亿元 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sdTlSeks2d25USndVdmxGeVpYQUp6THo4MEpSM2FNNmhwcmRfZzRrR2p1MC16SkRHRThDbVFyTm1rZkhPeXFudlVJOHprTjFTclljM1B4aUZnblFDbi1GZERXcGxIdw?oc=5\" target=\"_blank\">11月16日ETF资金整体净申购151.56亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sdTlSeks2d25USndVdmxGeVpYQUp6THo4MEpSM2FNNmhwcmRfZzRrR2p1MC16SkRHRThDbVFyTm1rZkhPeXFudlVJOHprTjFTclljM1B4aUZnblFDbi1GZERXcGxIdw?oc=5",
-      "published": "Tue, 17 Nov 2026 01:19:07 GMT"
-    },
-    {
-      "source": "东方财富",
-      "title": "模拟组合7541478 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zanNMQ0RUUHdEb2xBMkZ2dUVRMGQ4bTZfVW1UeUx5Zkk4ZlozdWttdUh1aGNnY3J6NmliZTdMV1FabXRDd2tDRnlNUkw0Y1NmYkNzU2R2RWtyMXE2WEl4UUxTQmVfZThQ?oc=5\" target=\"_blank\">模拟组合7541478</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zanNMQ0RUUHdEb2xBMkZ2dUVRMGQ4bTZfVW1UeUx5Zkk4ZlozdWttdUh1aGNnY3J6NmliZTdMV1FabXRDd2tDRnlNUkw0Y1NmYkNzU2R2RWtyMXE2WEl4UUxTQmVfZThQ?oc=5",
-      "published": "Tue, 17 Nov 2026 02:52:57 GMT"
+      "source": "同花顺",
+      "title": "力拓集团首席执行官乔德：供应链韧性比以往任何时候都更加重要",
+      "summary": "11月17日—18日，2026年APEC工商领导人峰会在深圳举行。在“亚太经济新图景与合作新机遇”工商对话上，力拓集团首席执行官乔德表示，随着全球对铜、锂等关键矿产需求激增以及项目开发难度增加，供应链韧性比以往任何时候都更加重要。如果缺乏整合的、协同运作的供应链，就难以满足巨大的矿产资源需求，而且也会看到物价高企。以西芒杜铁矿项目为例，他认为，该项目由几内亚政府、力拓集团和中国公司共同推进，集中展现了跨经济体的合作伙伴关系能够如何增强全球供应链的韧性。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261117/c681892915.shtml",
+      "published": "Tue, 17 Nov 2026 03:12:57 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中际旭创跌超5%，通信ETF(159583)重仓股中该股票占比为12.50% - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ySWE1alhKdmNiRGVOUVNWdTh5QlpTTEh5NXcyQmU0dU5lUDkxd0xhUDhhMW1RWGt1MThOejFEbjN0ZDNlbXV3SFJSd2dJSVo5RklZZTdoZXZEWVRIRXRWNg?oc=5\" target=\"_blank\">中际旭创跌超5%，通信ETF(159583)重仓股中该股票占比为12.50%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ySWE1alhKdmNiRGVOUVNWdTh5QlpTTEh5NXcyQmU0dU5lUDkxd0xhUDhhMW1RWGt1MThOejFEbjN0ZDNlbXV3SFJSd2dJSVo5RklZZTdoZXZEWVRIRXRWNg?oc=5",
-      "published": "Tue, 17 Nov 2026 01:53:21 GMT"
+      "title": "元件板块异动走高，晶赛科技涨超10%",
+      "summary": "元件板块异动走高，晶赛科技涨超10%，方正科技、生益电子、胜业电气、广合科技、红板科技等跟涨。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892857.shtml",
+      "published": "Tue, 17 Nov 2026 03:11:55 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|国泰海通证券给予伊利股份“增持”评级 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lYVAxY0taazdXdks2WWxtNjlBVmRFNkJNcmlJb3RaQll1NHhudkJfN0xDYkNDR2o0M2xaYko3SmZlYTNTX0QzczBhdFA0S25NMThYVUhzZFFGb2NPdEhWYndR?oc=5\" target=\"_blank\">机构评级|国泰海通证券给予伊利股份“增持”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lYVAxY0taazdXdks2WWxtNjlBVmRFNkJNcmlJb3RaQll1NHhudkJfN0xDYkNDR2o0M2xaYko3SmZlYTNTX0QzczBhdFA0S25NMThYVUhzZFFGb2NPdEhWYndR?oc=5",
-      "published": "Tue, 17 Nov 2026 02:28:51 GMT"
+      "title": "寒武纪盘中涨超5%",
+      "summary": "A股寒武纪盘中涨超5%，现报943.00元。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892762.shtml",
+      "published": "Tue, 17 Nov 2026 03:10:07 GMT"
     },
     {
       "source": "同花顺",
-      "title": "机构评级|国泰海通证券给予卓易信息“增持”评级 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUHJCZTVTd1E0VGNnR3JRcEVic1N6Z3dYTWw5QlRKQUotTHlXak96WjZyMnAzbXZYQ2lobWxKbjIwcEUxMnhtNE5BaEtfZVQzVDhtdE94N1Z3dVpaX0E5WVVn?oc=5\" target=\"_blank\">机构评级|国泰海通证券给予卓易信息“增持”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUHJCZTVTd1E0VGNnR3JRcEVic1N6Z3dYTWw5QlRKQUotTHlXak96WjZyMnAzbXZYQ2lobWxKbjIwcEUxMnhtNE5BaEtfZVQzVDhtdE94N1Z3dVpaX0E5WVVn?oc=5",
-      "published": "Tue, 17 Nov 2026 02:28:59 GMT"
+      "title": "科创50指数涨幅扩大至3%",
+      "summary": "科创50指数涨幅扩大至3%，现报1250.56点。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892604.shtml",
+      "published": "Tue, 17 Nov 2026 03:08:32 GMT"
     },
     {
       "source": "同花顺",
-      "title": "境外投资者持股比例超24%的股票名单 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kSl9VVVFKS0Rsd2tfY3ZjRlkycXhuSGg5eC1pSVVMamJLSTZpbFdPN1gwelhTZV9PeFQ2RG9pc2RNUlg1Q2hrWlhuN2lPdnB5QTJ0X2dWQW9nSVJKQ1NhRThB?oc=5\" target=\"_blank\">境外投资者持股比例超24%的股票名单</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kSl9VVVFKS0Rsd2tfY3ZjRlkycXhuSGg5eC1pSVVMamJLSTZpbFdPN1gwelhTZV9PeFQ2RG9pc2RNUlg1Q2hrWlhuN2lPdnB5QTJ0X2dWQW9nSVJKQ1NhRThB?oc=5",
-      "published": "Tue, 17 Nov 2026 02:07:10 GMT"
+      "title": "深圳前海合作区进出口首次突破万亿大关",
+      "summary": "据深圳海关统计，扩区五年来，前海合作区进出口额从2021年的3780.5亿元增至2025年的7574.3亿元。今年前10个月，前海合作区进出口1.07万亿元，首次站上万亿元台阶，同比增长超七成。其中，对APEC其他经济体进出口规模占前海合作区进出口总值的七成。集成电路、电脑及其零部件、3D打印机等高价值产品是外贸增长核心支撑。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261117/c681892539.shtml",
+      "published": "Tue, 17 Nov 2026 03:07:08 GMT"
     },
     {
       "source": "同花顺",
-      "title": "特朗普账户103次买卖英伟达股票，交易频度与特、黄关系同步升温 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2MVJFc1o4bVdmUG9XdjhXVjlZZUF3OE80OUV3c2ZaRUpjZkFGMk1fZDB2VGpjRERXcDA1T2xpbVRUQnRwdnRFbUx0YllVQkhJbG52ZWNkSDB6WmQ2ai1IZXdB?oc=5\" target=\"_blank\">特朗普账户103次买卖英伟达股票，交易频度与特、黄关系同步升温</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2MVJFc1o4bVdmUG9XdjhXVjlZZUF3OE80OUV3c2ZaRUpjZkFGMk1fZDB2VGpjRERXcDA1T2xpbVRUQnRwdnRFbUx0YllVQkhJbG52ZWNkSDB6WmQ2ai1IZXdB?oc=5",
-      "published": "Tue, 17 Nov 2026 01:46:49 GMT"
+      "title": "百度集团董事长李彦宏：AI的最终价值在应用层，期待更多APEC经济体开放Robotaxi商业化运营",
+      "summary": "11月17日—18日，2026年APEC工商领导人峰会在深圳举行。在“亚太经济新图景与合作新机遇”工商对话上，百度集团董事长李彦宏表示，AI可以分为芯片、云基础设施、模型与应用四层，其最终价值在于应用层。以AI在无人驾驶出租车（Robotaxi）的应用为例，李彦宏指出，近年来中国和美国的一些城市逐步开放Robotaxi商业化运营，百度萝卜快跑已在迪拜、伦敦、香港等城市落地或进行试点测试，期待未来更多APEC经济体开放Robotaxi商业化运营。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261117/c681892516.shtml",
+      "published": "Tue, 17 Nov 2026 03:06:47 GMT"
     },
     {
       "source": "同花顺",
-      "title": "ST东尼：申请撤销公司股票其他风险警示 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vblViZzV4X1JzYldkNEN1NklWdW5PYXd3eXd3QjFGVU83WXkzS3EySUdNaFhNU0Y0STZjUkJTeWlhWXhCaGdLRXNHUjNxZ2tJX3FIMzUyanhBNkxmWGFCUkJn?oc=5\" target=\"_blank\">ST东尼：申请撤销公司股票其他风险警示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vblViZzV4X1JzYldkNEN1NklWdW5PYXd3eXd3QjFGVU83WXkzS3EySUdNaFhNU0Y0STZjUkJTeWlhWXhCaGdLRXNHUjNxZ2tJX3FIMzUyanhBNkxmWGFCUkJn?oc=5",
-      "published": "Tue, 17 Nov 2026 01:13:20 GMT"
+      "title": "半导体板块短线拉升，伟测科技涨停",
+      "summary": "半导体板块短线拉升，伟测科技涨停，华虹宏力、清溢光电、灿芯股份跟涨。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892376.shtml",
+      "published": "Tue, 17 Nov 2026 03:04:52 GMT"
     },
     {
       "source": "同花顺",
-      "title": "A股最低价3股，集体跌停 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xbUFUS0dXaUdXVGp2aEdycGxmcHpDdG5Ba2ZtV0VFb19Bb015ekc4MWVXYUFDWHMwOXAtdHh6MzJPR0ZrdUpYZjNVNVN1U1h1dXVJXzhXTzFjdFdGbnhnQlJR?oc=5\" target=\"_blank\">A股最低价3股，集体跌停</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xbUFUS0dXaUdXVGp2aEdycGxmcHpDdG5Ba2ZtV0VFb19Bb015ekc4MWVXYUFDWHMwOXAtdHh6MzJPR0ZrdUpYZjNVNVN1U1h1dXVJXzhXTzFjdFdGbnhnQlJR?oc=5",
-      "published": "Tue, 17 Nov 2026 02:43:54 GMT"
+      "title": "多只半导体设备ETF涨超4%",
+      "summary": "半导体设备ETF广发、半导体设备ETF国泰、半导体设备ETF易方达等多只半导体设备ETF涨超4%。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892333.shtml",
+      "published": "Tue, 17 Nov 2026 03:03:47 GMT"
     },
     {
       "source": "同花顺",
-      "title": "港股股票回购一览：110只个股获公司回购 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wRDYxX3hXZHNNSFM0VnlPVEhQY0xnX25ETkxmVkN2R2pVMkdXcHRFWko3M2JSbDlERWs1TWVkYkdNUmhUZVpJMFVsd0twWl9YZkd0MkRSaWc2RWtSbFhwUW9R?oc=5\" target=\"_blank\">港股股票回购一览：110只个股获公司回购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wRDYxX3hXZHNNSFM0VnlPVEhQY0xnX25ETkxmVkN2R2pVMkdXcHRFWko3M2JSbDlERWs1TWVkYkdNUmhUZVpJMFVsd0twWl9YZkd0MkRSaWc2RWtSbFhwUW9R?oc=5",
-      "published": "Tue, 17 Nov 2026 01:38:20 GMT"
+      "title": "三大指数集体拉升，创业板指、深证成指双双翻红",
+      "summary": "A股三大指数集体拉升，创业板指、深证成指双双翻红，沪指现跌0.44%。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892305.shtml",
+      "published": "Tue, 17 Nov 2026 03:03:19 GMT"
     },
     {
       "source": "同花顺",
-      "title": "嘉美包装：11月16日融资买入1892.51万元，融资融券余额2.27亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMXFTelBfTjVmMXgxcUFHdG1mal9XXzdHTWFvcWNiLUpTdHZFbW53Wnd2SVRjZmVRYzdRVGxDRnFEdFZtNlE2SHN6OFdaZXdVVEN1aE5JMGZwaXM1dHZ4UzJn?oc=5\" target=\"_blank\">嘉美包装：11月16日融资买入1892.51万元，融资融券余额2.27亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rMXFTelBfTjVmMXgxcUFHdG1mal9XXzdHTWFvcWNiLUpTdHZFbW53Wnd2SVRjZmVRYzdRVGxDRnFEdFZtNlE2SHN6OFdaZXdVVEN1aE5JMGZwaXM1dHZ4UzJn?oc=5",
-      "published": "Tue, 17 Nov 2026 02:03:21 GMT"
+      "title": "宁德时代曾毓群：将电动化应用从陆地拓展至海洋和天空 赋能亚太地区发展",
+      "summary": "11月17日—18日，2026年APEC工商领导人峰会在深圳举行。在“亚太经济新图景与合作新机遇”工商对话上，宁德时代董事长曾毓群表示，技术创新是企业发展的主要动力。宁德时代始终聚焦技术创新，关注新能源汽车如何提升电池能量密度与安全性、如何将电动化应用从陆地拓展至海洋和天空等问题。曾毓群指出，亚太地区岛屿众多，更先进的技术能大幅缩短不同城市间的交通时间，更好赋能亚太地区的发展。（人民财讯）",
+      "link": "https://news.10jqka.com.cn/20261117/c681892219.shtml",
+      "published": "Tue, 17 Nov 2026 03:01:48 GMT"
     },
     {
       "source": "同花顺",
-      "title": "佳驰科技：11月16日融资买入535.06万元，融资融券余额1.99亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HV3JoQkNYLUcwdmxFNXBhT0lmbWR0dXNkLXUwbWdRVFd1b1VjT3VpQkFZNmRTUlZKYU1ETl9CUFBjMkV5RmhaUDNQSUY4MjJRZjF5LU9XZkNzOHdWN0FXanhR?oc=5\" target=\"_blank\">佳驰科技：11月16日融资买入535.06万元，融资融券余额1.99亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HV3JoQkNYLUcwdmxFNXBhT0lmbWR0dXNkLXUwbWdRVFd1b1VjT3VpQkFZNmRTUlZKYU1ETl9CUFBjMkV5RmhaUDNQSUY4MjJRZjF5LU9XZkNzOHdWN0FXanhR?oc=5",
-      "published": "Tue, 17 Nov 2026 02:18:22 GMT"
+      "title": "上海银行间同业拆放利率(Shibor)涨跌互现",
+      "summary": "隔夜shibor报1.3030%，下跌0.10个基点；7天shibor报1.4000%，上涨1.00个基点；14天shibor报1.4000%，上涨0.50个基点；1月shibor报1.3863%，上涨0.33个基点；3月shibor报1.4000%，与前一交易日持平。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892206.shtml",
+      "published": "Tue, 17 Nov 2026 03:01:37 GMT"
     },
     {
       "source": "同花顺",
-      "title": "精锻科技：11月16日融资买入1123.71万元，融资融券余额3.03亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LUTJybjBaVjVqdGFncTl2M2pqR1NnNXI4dTg4VkJBSHVOYUhlUE9wdmpURE1MYW11bHd3NGhjRzVSYS12V3dvWEJjX1VBd3hnQ25ZWm9xNGYteGFITXYxUXVn?oc=5\" target=\"_blank\">精锻科技：11月16日融资买入1123.71万元，融资融券余额3.03亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LUTJybjBaVjVqdGFncTl2M2pqR1NnNXI4dTg4VkJBSHVOYUhlUE9wdmpURE1MYW11bHd3NGhjRzVSYS12V3dvWEJjX1VBd3hnQ25ZWm9xNGYteGFITXYxUXVn?oc=5",
-      "published": "Tue, 17 Nov 2026 02:03:21 GMT"
+      "title": "TrendForce：DDR5 16Gb (2Gx8) 4800/5600现货均价较上日持平",
+      "summary": "TrendForce数据显示，11月17日内存颗粒DDR5 16Gb (2Gx8) 4800/5600现货均价较上日持平，DDR4 16Gb (2Gx8) 3200现货均价较上日下跌0.16%，DDR4 8Gb (1Gx8) 3200现货均价较上日下跌0.24%。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892150.shtml",
+      "published": "Tue, 17 Nov 2026 03:00:17 GMT"
     },
     {
       "source": "同花顺",
-      "title": "互换便利不是“央行印钱买股”：一个工具性质的辨析 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbmg4dXJWZlRxNkNCalZFUXFMOHE5bjV6VGZaZHgwcktuNmU0UnFIODh1ZmZLUTMxSHQtX0VzcUhkU1ZmYkVfMER6dmZndXQ0NVViLUJLdEtpZ0JMbi1UNA?oc=5\" target=\"_blank\">互换便利不是“央行印钱买股”：一个工具性质的辨析</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xbmg4dXJWZlRxNkNCalZFUXFMOHE5bjV6VGZaZHgwcktuNmU0UnFIODh1ZmZLUTMxSHQtX0VzcUhkU1ZmYkVfMER6dmZndXQ0NVViLUJLdEtpZ0JMbi1UNA?oc=5",
-      "published": "Tue, 17 Nov 2026 02:15:20 GMT"
+      "title": "冰雪产业板块短线拉升，冰山冷热涨停",
+      "summary": "冰雪产业板块短线拉升，冰山冷热涨停，龙江交通、晶雪节能、雪人集团跟涨。",
+      "link": "https://news.10jqka.com.cn/20261117/c681892017.shtml",
+      "published": "Tue, 17 Nov 2026 02:57:28 GMT"
     },
     {
       "source": "同花顺",
-      "title": "湘财股份：11月16日融券净卖出6.64万股，连续3日累计净卖出11.98万股 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5maHFOdTU5Vy1TSkQ4SDFGSHY3WU1KeE5CVjN6V0dFeE9COUp1TkdKMWlYRjA5QURrem9TSVRDTnJZMGFWa2d4b2VkbEhPcDJEclFTVWxjR1RCWWpNSFI4ZmdB?oc=5\" target=\"_blank\">湘财股份：11月16日融券净卖出6.64万股，连续3日累计净卖出11.98万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5maHFOdTU5Vy1TSkQ4SDFGSHY3WU1KeE5CVjN6V0dFeE9COUp1TkdKMWlYRjA5QURrem9TSVRDTnJZMGFWa2d4b2VkbEhPcDJEclFTVWxjR1RCWWpNSFI4ZmdB?oc=5",
-      "published": "Tue, 17 Nov 2026 01:53:21 GMT"
+      "title": "APEC领导人会议周期间将继续围绕贸易议题寻求“最大公约数”",
+      "summary": "今天（17日）上午，2026年APEC领导人会议周新闻中心举办第五场吹风会，2026年APEC高官会主席陈旭介绍，APEC因应经济全球化而生，贸易自由化和便利化一直是APEC合作的核心议题。作为今年APEC东道主，中方将开放作为APEC“中国年”三大优先领域之一，目的就是要推动各方坚持开放的区域主义和真正的多边合作，坚定维护全球多边贸易体系，提升区域一体化水平，维护良好贸易投资环境，为区域和世界经济注入更多稳定性和确定性。在今年5月举行的APEC贸易部长会上，各方普遍认可世贸组织对促进全球贸易的关键作用，重申对亚太自贸区长期愿景的坚定支持，呼吁在能力建设、经验分享、技术合作等方面加大投入。亚太工商界就支持亚太自贸区建设发表了联合声明，充分体现了各方对于推进亚太自贸区的广泛共识和强烈愿望。APEC领导人会议周期间，各方将继续围绕贸易议题进行深入讨论，积极寻求“最大公约数”，中方期待在本次APEC领导人非正式会议上达成更多贸易领域务实成果，为区域经济一体化提供更大助力。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261117/c681891865.shtml",
+      "published": "Tue, 17 Nov 2026 02:54:07 GMT"
     },
     {
       "source": "同花顺",
-      "title": "莱斯信息：11月16日融券净卖出2479股，连续3日累计净卖出8629股 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GM2VFWkZVZUZtX3BSUG8tNUxQcEYzQU9vMkxqUHhLWjRQU0YzY3FVdk1wUTkxTHQ1SEMtSXk3UUtHcXB0dnNRMlh1b1N2RG5oQjlITUdsY2RwejJ0aC1oMFBB?oc=5\" target=\"_blank\">莱斯信息：11月16日融券净卖出2479股，连续3日累计净卖出8629股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9GM2VFWkZVZUZtX3BSUG8tNUxQcEYzQU9vMkxqUHhLWjRQU0YzY3FVdk1wUTkxTHQ1SEMtSXk3UUtHcXB0dnNRMlh1b1N2RG5oQjlITUdsY2RwejJ0aC1oMFBB?oc=5",
-      "published": "Tue, 17 Nov 2026 01:53:21 GMT"
+      "title": "智利总统卡斯特抵达深圳",
+      "summary": "11月17日上午，智利总统卡斯特乘机抵达深圳，将出席亚太经合组织第三十三次领导人非正式会议。这是卡斯特总统今年3月就任以来首次来华。智利是首个同新中国建交的南美国家，也是第一个同中国签署自由贸易协定的拉美国家。建交50多年来，两国关系发展顺利。（央视新闻）",
+      "link": "https://news.10jqka.com.cn/20261117/c681891861.shtml",
+      "published": "Tue, 17 Nov 2026 02:54:03 GMT"
     },
     {
       "source": "同花顺",
-      "title": "中金辐照：11月16日融资买入2325.25万元，融资融券余额1.77亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdnI2Qi1iWGNmS3VhTC14TmtLVUQ3YmpmUDJCbV92NEVWT09jRWFBaHVJbzZWRUZsRVVGdXh3QVVDRzZ3X1lsZ0xlaXVuS0FyNnpBRHV4YzRtS21NMmFqYVJn?oc=5\" target=\"_blank\">中金辐照：11月16日融资买入2325.25万元，融资融券余额1.77亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mdnI2Qi1iWGNmS3VhTC14TmtLVUQ3YmpmUDJCbV92NEVWT09jRWFBaHVJbzZWRUZsRVVGdXh3QVVDRzZ3X1lsZ0xlaXVuS0FyNnpBRHV4YzRtS21NMmFqYVJn?oc=5",
-      "published": "Tue, 17 Nov 2026 02:03:21 GMT"
+      "title": "消费电子板块短线拉升， 影石创新涨超10%",
+      "summary": "消费电子板块短线拉升， 影石创新涨超10%，天键股份、贝仕达克、亿道信息、朝阳科技、光弘科技等跟涨。",
+      "link": "https://news.10jqka.com.cn/20261117/c681891799.shtml",
+      "published": "Tue, 17 Nov 2026 02:52:37 GMT"
     },
     {
       "source": "同花顺",
-      "title": "出版传媒：11月16日融券净卖出600股，连续3日累计净卖出2.88万股 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE85Q3diQXRFUWtMUDJKenF5SVZuRHlXV3M0dFlQX2VNd29JWGExVVhkdXMwMFhzYnZLVS1JSEJHdTlxOFdnMHEwWlFENmFpU3cwVUlLOFFOMjFVY3VaSjZHMDh3?oc=5\" target=\"_blank\">出版传媒：11月16日融券净卖出600股，连续3日累计净卖出2.88万股</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85Q3diQXRFUWtMUDJKenF5SVZuRHlXV3M0dFlQX2VNd29JWGExVVhkdXMwMFhzYnZLVS1JSEJHdTlxOFdnMHEwWlFENmFpU3cwVUlLOFFOMjFVY3VaSjZHMDh3?oc=5",
-      "published": "Tue, 17 Nov 2026 02:15:01 GMT"
+      "title": "凯撒文化上演“地天板”",
+      "summary": "凯撒文化盘中涨停，上演“地天板”，现报4.80元，成交额11.59亿元。",
+      "link": "https://news.10jqka.com.cn/20261117/c681891735.shtml",
+      "published": "Tue, 17 Nov 2026 02:51:11 GMT"
     },
     {
       "source": "同花顺",
-      "title": "时代出版：11月16日融资买入648.19万元，融资融券余额1.55亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTU5XMGRnN1V0TVhid0Y3WlZ1SzdKNTdxX2pqOVBiblEwQUpRVEZURmFaRTZTaWRUamU4Zi1BWDdjQS1XOURRcVdHU2FxTzRaNmtHd01qNy1LSXUtQXAxV3Zrd3huSm9y?oc=5\" target=\"_blank\">时代出版：11月16日融资买入648.19万元，融资融券余额1.55亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TTU5XMGRnN1V0TVhid0Y3WlZ1SzdKNTdxX2pqOVBiblEwQUpRVEZURmFaRTZTaWRUamU4Zi1BWDdjQS1XOURRcVdHU2FxTzRaNmtHd01qNy1LSXUtQXAxV3Zrd3huSm9y?oc=5",
-      "published": "Tue, 17 Nov 2026 02:03:21 GMT"
+      "title": "高盛：AI学习应用爆发，维持新东方及好未来“买入”评级",
+      "summary": "高盛发表研报指，根据教育行业10月份数据，八大主要学习设备品牌于主要电商平台合计GMV同比跌28%，对比9月为同比跌32%。其中好未来于主要电商平台售出约9.2万部，GMV约3.77亿元，GMV同比跌幅收窄至29%、环比升12%(9月为同比跌34%、环比跌5%)，平均售价同比升21%、环比跌5%。人工智能学习应用方面，豆包学习截至10月底日活跃用户同比升107%；传统学习形式则受压，线下非学科类培训牌照数目收缩，非学科类培训应用在线用户参与度整体偏弱，惟好未来旗下学而思培优除外。高盛认为学习平板及线下业务增长压力持续，但人工智能学习应用用户参与度继续上升；该行维持对新东方及好未来“买入”评级，并维持对东方甄选“沽售”评级；对新东方港股及美股目标价分别为54港元及69美元，好未来目标价16.1美元，东方甄选目标价17港元。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20261117/c681891485.shtml",
+      "published": "Tue, 17 Nov 2026 02:47:08 GMT"
     },
     {
       "source": "同花顺",
-      "title": "悍高集团：11月16日融资净买入242.32万元，连续3日累计净买入614.45万元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TbHlJUno3SjdwNzNJLVZOcVlLS1ZyX1FGMHF1SHRPRmFCbHBEU1doQ3BpTklpUTQxWGw2UVR5amxVc1JqSnI2UDdxQ2ZKclhTU2xjRFk4UlEtakx0QUtlYUNn?oc=5\" target=\"_blank\">悍高集团：11月16日融资净买入242.32万元，连续3日累计净买入614.45万元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TbHlJUno3SjdwNzNJLVZOcVlLS1ZyX1FGMHF1SHRPRmFCbHBEU1doQ3BpTklpUTQxWGw2UVR5amxVc1JqSnI2UDdxQ2ZKclhTU2xjRFk4UlEtakx0QUtlYUNn?oc=5",
-      "published": "Tue, 17 Nov 2026 01:53:21 GMT"
+      "title": "九阳股份上演“地天板”",
+      "summary": "九阳股份盘中涨停，上演“地天板”，现报31.52元，成交额31.66亿元。",
+      "link": "https://news.10jqka.com.cn/20261117/c681891074.shtml",
+      "published": "Tue, 17 Nov 2026 02:39:12 GMT"
     },
     {
       "source": "同花顺",
-      "title": "银龙股份：11月16日融资买入723.75万元，融资融券余额3.4亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0NW5vVE9NeXNGUldmUTNhUXlaS3hqMDE5M1AtaUhIZVhSclNQTE55d3dMSmFfc1lVUS1lZmxwZEVkWkNHNnZaR0sxMXBJYjBFeGMtQ1pZa1VHNndkWlVpd2JB?oc=5\" target=\"_blank\">银龙股份：11月16日融资买入723.75万元，融资融券余额3.4亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA0NW5vVE9NeXNGUldmUTNhUXlaS3hqMDE5M1AtaUhIZVhSclNQTE55d3dMSmFfc1lVUS1lZmxwZEVkWkNHNnZaR0sxMXBJYjBFeGMtQ1pZa1VHNndkWlVpd2JB?oc=5",
-      "published": "Tue, 17 Nov 2026 02:13:22 GMT"
+      "title": "我国成功实现Q/V频段最高码速率无线通信实验验证",
+      "summary": "记者11月17日获悉，中国科学院空天信息创新研究院等单位近日在中国遥感卫星地面站丽江站，联合开展面向新一代卫星互联网低轨高通量卫星的高阶体制高码速率双向通信实验，成功实现我国Q/V频段最高码速率无线通信实验验证，关键指标达到国内领先、国际先进水平，将为我国6G通信与卫星互联网技术发展提供技术支撑。(新华社)",
+      "link": "https://news.10jqka.com.cn/20261117/c681891001.shtml",
+      "published": "Tue, 17 Nov 2026 02:38:03 GMT"
     },
     {
-      "source": "同花顺",
-      "title": "博云新材：11月16日融资买入3031.16万元，融资融券余额5.14亿元 - 同花顺财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GR2ZYUDhibGllTzc3cXo0MXljcWFUWkdZTThDRHNwUDhtN2FlZWhBbzVnMWk3S1hHYTNYUEN2UHoyM2E3SV9JWV9kTFozZkp4NDM1VlBRU0I2d2JoS0VsMzMyaFZuRUwy?oc=5\" target=\"_blank\">博云新材：11月16日融资买入3031.16万元，融资融券余额5.14亿元</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GR2ZYUDhibGllTzc3cXo0MXljcWFUWkdZTThDRHNwUDhtN2FlZWhBbzVnMWk3S1hHYTNYUEN2UHoyM2E3SV9JWV9kTFozZkp4NDM1VlBRU0I2d2JoS0VsMzMyaFZuRUwy?oc=5",
-      "published": "Tue, 17 Nov 2026 01:48:53 GMT"
+      "source": "华尔街见闻",
+      "title": "强美元撕裂全球流动性：风险资产何时迎来转机？",
+      "summary": "<p style=\"text-align: left;\">随着美元指数连续四个交易日上涨，一度突破103.50，创年内新高。与此同时，美债市场遭遇抛售，收益率曲线呈现显著的熊平特征：对货币政策最为敏感的2年期美债收益率单周飙升35个基点至4.87%附近，创下两年多来最大单周涨幅；10年期基准美债收益率重返5.15%的高位，距离多年峰值仅一步之遥。</p><p style=\"text-align: justify;\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/c044bb7c-81cb-4033-bd59-9c49a27e2715.png\" title=\"\" /></p><p style=\"text-align: justify;\">在强美元与高利率双重挤压下，全球主要风险资产与避险品种均未能幸免于流动性抽离的冲击。黄金单周下跌4.7%至约3875.0美元/盎司，为金价自历史高位回落以来的最低点；高贝塔风险资产的去杠杆进程更为剧烈，加密货币市场在周末迎来大规模多头清算，比特币一度下探至62022美元的四个月低",
+      "link": "https://wallstreetcn.com/member/articles/3786020",
+      "published": "Tue, 17 Nov 2026 03:08:37 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱",
+      "summary": "<p style=\"text-align: left;\">高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终：<strong>AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。</strong></p>\n<p style=\"text-align: left;\">高盛跨资产策略师Kamakshya Trivedi与Dominic Wilson将这一逻辑浓缩为一句话：“<strong>AI对市场涨幅的贡献远超其对经济增长的贡献，因此AI增速见顶对市场的冲击将大于对经济的冲击</strong>。”数据印证了这一判断——AI仅贡献了美国GDP增长的21%，却贡献了标普500盈利增长的62%，以及峰值时期美国市值涨幅的92%。</p>\n<p style=\"text-align: left;\">在市场层面，高盛预计标普500指数未来12个月目标价为8700点，较当前约7619点有14%的上行空间，但<strong>美国企业盈利增速将从36%腰斩至11%</strong>；信用利差将走阔，美元将走软，债券重新具备对冲价值，",
+      "link": "https://wallstreetcn.com/articles/3786075",
+      "published": "Tue, 17 Nov 2026 03:07:51 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -229,39 +208,39 @@
       "published": "Tue, 17 Nov 2026 01:42:21 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "Ackman力挺黄仁勋：一个人最需要帮助的时候，就是他身处低谷时",
-      "summary": "<p>知名对冲基金经理Bill Ackman表示力挺黄仁勋。</p>\n\n<p>一是坚信无罪推定，媒体常“有罪推定”，应区分个人弱点与公司阴谋。二是女儿脑损伤时老黄二话没说帮忙，他深信“人最需要帮助时正是低谷”。</p>\n\n<p>黄持股3%，可与维权投资者凑15%召集特别会议，形势明朗后董事会或让其复职；但法律与国家安全未清前他不牵头，属有条件声援。</p>",
-      "link": "https://wallstreetcn.com/charts/41960187",
-      "published": "Tue, 17 Nov 2026 01:17:03 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "AI“牛市继续”还是“泡沫破灭”？本周，Anthropic IPO成关键试金石",
-      "summary": "<p style=\"text-align: left;\">投资者对人工智能的热情，将在本周迎来一次真实的市场检验。</p>\n<p style=\"text-align: left;\">Anthropic预计本周完成上市，市场对此次发行的需求据报道已严重超额认购，有望成为史上规模最大的IPO之一。<strong>Yorkville Ives的分析师Dan Ives及其团队认为，若Anthropic上市估值能够站稳1.25万亿至1.4万亿美元乃至更高水平，并伴随强劲的股价表现，将直接印证云计算巨头大规模资本开支的逻辑，并为整个AI投资链条提供有力背书。</strong>这一判断，令本次IPO的意义远超单一公司上市事件本身。</p>\n<p style=\"text-align: left;\">Anthropic被市场视为AI行业的风向标。此次上市将首次为投资者提供一家美国前沿AI开发商独立的公开市场估值——不受其他非相关业务的干扰。与此同时，Alphabet母公司谷歌、亚马逊与微软同时扮演Anthropic投资方、客户与算力供应商的多重角色，这一结构将超大规模云服务商的基础设施支出与Anthro",
-      "link": "https://wallstreetcn.com/articles/3786067",
-      "published": "Tue, 17 Nov 2026 01:11:22 GMT"
+      "source": "第一财经",
+      "title": "APEC会场每一度用电均可溯源",
+      "summary": "<figure><img alt=\"APEC会场每一度用电均可溯源\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/85137A8C-90A6-4AB0-9694-D1A18C781173.jpg\" /></figure><p>重要会场、交通枢纽、接待场所等相关场所将实现100%绿电供应。</p><p>11月17日，第一财经记者从南方电网获悉，即将于11月18日至19日在深圳举行的亚太经合组织（APEC）第三十三次领导人非正式会议，供电保障各项前置工作已落实到位。会议期间，重要会场、交通枢纽、接待场所等相关场所将实现100%绿电供应。</p><p>在位于深圳会展中心（福田）2号馆的APEC领导人会议周新闻中心的绿电·能量站，一块显示大屏上可以清晰看到前一天的绿电消费数据。11月16日，涉及APEC会议全场景使用绿电606万度电，相当于减少二氧化碳排放约3215吨。</p><p class=\"image-blot\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/",
+      "link": "https://www.yicai.com/news/103443078.html",
+      "published": "Tue, 17 Nov 2026 02:22:18 GMT"
     },
     {
       "source": "第一财经",
-      "title": "布伦特原油期货跌幅扩大至1% - 第一财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ETGlrNGI5WFV1UURUSTZQM2MtUUUxSVZuZjZqaS1VTFUxVFdOY2JNUG1jbDFlaFVrV2xKR2RkRXdSZkUzRk1UbURGSFl1TGhRZm9Z?oc=5\" target=\"_blank\">布伦特原油期货跌幅扩大至1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">第一财经</font>",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ETGlrNGI5WFV1UURUSTZQM2MtUUUxSVZuZjZqaS1VTFUxVFdOY2JNUG1jbDFlaFVrV2xKR2RkRXdSZkUzRk1UbURGSFl1TGhRZm9Z?oc=5",
-      "published": "Tue, 17 Nov 2026 02:29:05 GMT"
+      "title": "英伟达蒸发2万亿美元！Anthropic IPO箭在弦上，芯片股能否迎来转机",
+      "summary": "<figure><img alt=\"英伟达蒸发2万亿美元！Anthropic IPO箭在弦上，芯片股能否迎来转机\" src=\"https://imgcdn.yicai.com/uppics/thumbs/2026/11/d091f768d46fe6b06513ec4276266e6f.jpeg\" /></figure><p>人工智能驱动的牛市是否还能延续。</p><p>黄仁勋离任英伟达首席执行官的后续效应仍在持续发酵，市场周二将迎来这家人工智能巨头特殊的财报电话会议，与此同时，Anthropic本周的首次公开募股将检验由人工智能驱动的牛市是否还能延续。</p><p><strong>特殊的电话会议</strong></p><p>全球股市周一承压走低，科技股持续抛售打压市场情绪。</p><p>作为美国4年牛市的典型代表，<strong>伦敦证券交易所（LSEG）数据显示，英伟达市值从10月初的5.8万亿美元跌至3.8万亿美元，投资者在黄仁勋离开后选择抛售立场。</strong></p><p><strong>当英伟达在周二公布季度业绩时，其财报电话会议将成为今年最受期待的会议之一——华尔街正",
+      "link": "https://www.yicai.com/news/103442962.html",
+      "published": "Tue, 17 Nov 2026 02:21:25 GMT"
     },
     {
-      "source": "新股IPO",
-      "title": "A股年内135家新股上市，“两创板”募资占六成，硬科技站C位 - 手机新浪网",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPblFzR1VDTjAwWE9mdHhMNXl5UEJyTXJ5d0g2LVh2SUZCTTVQMFowTDhUdi1ZRzBtSlM1VnBEM1V1a3dBSkNiQi1WdC1MS2wtY2ZJbzM3Y0hub2t4UmhOTVBoUDFNNy1wOFlGNXBrLUMyamFfNFNoT3hGMTQ5LU5JMjNn?oc=5\" target=\"_blank\">A股年内135家新股上市，“两创板”募资占六成，硬科技站C位</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPblFzR1VDTjAwWE9mdHhMNXl5UEJyTXJ5d0g2LVh2SUZCTTVQMFowTDhUdi1ZRzBtSlM1VnBEM1V1a3dBSkNiQi1WdC1MS2wtY2ZJbzM3Y0hub2t4UmhOTVBoUDFNNy1wOFlGNXBrLUMyamFfNFNoT3hGMTQ5LU5JMjNn?oc=5",
-      "published": "Tue, 17 Nov 2026 02:13:03 GMT"
+      "source": "第一财经",
+      "title": "何小鹏：预计11月月销将首次超6万辆，人形机器人明年二季度对外发布",
+      "summary": "<p>小鹏短中期的经营目标是实现汽车业务正向的现金流和盈利。</p><p>11月16日，小鹏集团发布2026年第三季度财报并召开电话会议。Q3汽车交付量突破11万辆，创下单季度交付量历史新高；总营收242.8亿元，创下单季度营收历史新高；MONA Ｌ03和全球扩张驱动整车需求进入增长期。</p><p>在财报电话会上，何小鹏谈到公司短中期的经营目标是实现汽车业务正向的现金流和盈利，为物理AI的战略性投入提供保障。小鹏物理AI创新业务正在开辟2C和2B多元化的收入来源。同时，何小鹏计划明年把更多精力用于经营的全面改善，增强公司的自我造血能力，同时推进高阶机器人的量产和交付。</p><p><strong>一、核心财务</strong></p><p>1.小鹏集团Q3共交付新车118,390台，同比增长2.1%，环比增长14.6%，创下单季度交付量历史新高；2026年Q3总营收242.8亿，同比增长19.1%，环比增长23.0%，创下单季度营收历史新高。</p><p>2.盈利能力方面，<span style=\"background-color: rgb(255, 255, 255); color",
+      "link": "https://www.yicai.com/news/103442684.html",
+      "published": "Tue, 17 Nov 2026 02:14:59 GMT"
     },
     {
-      "source": "Bloomberg China",
-      "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5\" target=\"_blank\">Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5",
-      "published": "Tue, 17 Nov 2026 01:59:00 GMT"
+      "source": "第一财经",
+      "title": "A股四大指数集体低开，传媒、光模块等板块调整",
+      "summary": "<figure><img alt=\"A股四大指数集体低开，传媒、光模块等板块调整\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/8120b41a644e04aa83acefdf22c75eb9.jpg\" /></figure><p>市场逾4300股下跌。</p><p>11月17日，A股四大指数集体低开，上证指数跌0.47%，深成指跌0.8%，创业板指跌0.86%，科创综指跌0.62%。</p>\n\n<p align=\"center\"><img align=\"\" alt=\"\" border=\"0\" height=\"234\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/69e5fa78684cd1477733b457e0e159f7.jpg\" width=\"995\" /></p>\n\n<p>盘面上，传媒、光模块、存储器、稀土板块调整。电信、航空、银行、白酒板块活跃。市场逾4300股下跌。</p>\n\n<p>个股方面，山鹰国际低开超4%，公司公告，股票收盘价首次低于1元，存在终止",
+      "link": "https://www.yicai.com/news/103442963.html",
+      "published": "Tue, 17 Nov 2026 01:32:17 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "上海国际艺术节收官，带动消费规模超45.4亿元",
+      "summary": "<figure><img alt=\"上海国际艺术节收官，带动消费规模超45.4亿元\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/7e97346a38ebbe27654c37576840c4c2.jpg\" /></figure><p>作为第二十五届中国上海国际艺术节的闭幕演出，11月15日晚的《天鹅湖》为这场艺术盛会画上圆满句点。</p><p>11月12日至15日，美国芭蕾舞剧院镇团之作《天鹅湖》在上海大歌剧院上演。该版本以华丽梦幻的舞美、层次饱满的天鹅群舞与极具戏剧张力的角色诠释著称。作为第二十五届中国上海国际艺术节的闭幕演出，11月15日晚的《天鹅湖》为这场艺术盛会画上圆满句点。</p><p class=\"image-blot\" style=\"text-align: center;\"><img alt=\"《天鹅湖》剧照\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/e4bbcaec2426a5f53d9f66ce9a4d5d7e.jpg\" /></p><p>10月",
+      "link": "https://www.yicai.com/news/103442584.html",
+      "published": "Tue, 17 Nov 2026 01:23:31 GMT"
     }
   ]
 }
