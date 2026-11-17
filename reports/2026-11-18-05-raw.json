@@ -1,8 +1,8 @@
 {
   "date": "2026-11-18",
   "hour": "05",
-  "total": 31,
-  "fetched_at": "2026-11-18T05:01:01.316402+08:00",
+  "total": 24,
+  "fetched_at": "2026-11-18T05:26:06.540783+08:00",
   "news": [
     {
       "source": "东方财富",
@@ -19,11 +19,46 @@
       "published": "Tue, 17 Nov 2026 19:50:00 GMT"
     },
     {
-      "source": "东方财富",
-      "title": "首批主动ETF火速建仓 下周一集体上市 - 东方财富",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5HcVYyMmszbGZ3NXpyUGxBYlFZSzM5dWVIcEtwYmdKM3hQV3VvOWY1bUlBXzVHMlR2ZUVtRUc2eEY4TUk2M0xMZktOWjFjTG5DbW41a0d2ZVd2OGNiZ0o3VzZtbFNBVFNlZlZrdA?oc=5\" target=\"_blank\">首批主动ETF火速建仓 下周一集体上市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富</font>",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HcVYyMmszbGZ3NXpyUGxBYlFZSzM5dWVIcEtwYmdKM3hQV3VvOWY1bUlBXzVHMlR2ZUVtRUc2eEY4TUk2M0xMZktOWjFjTG5DbW41a0d2ZVd2OGNiZ0o3VzZtbFNBVFNlZlZrdA?oc=5",
-      "published": "Tue, 17 Nov 2026 19:24:20 GMT"
+      "source": "同花顺",
+      "title": "英伟达预计第四季度营收1274亿至1326亿美元 高于市场预期",
+      "summary": "英伟达第三季度营收1158亿美元，预期1093.3亿美元。其中数据中心营收1076亿美元，预期1018.7亿美元。调整后毛利率74.9%。英伟达预计第四季度营收1274亿至1326亿美元，预期1252.5亿美元。",
+      "link": "https://news.10jqka.com.cn/20261118/c681925883.shtml",
+      "published": "Tue, 17 Nov 2026 21:21:11 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时A50期指连续夜盘收跌0.09%",
+      "summary": "富时A50期指连续夜盘收跌0.09%，报12650点。",
+      "link": "https://news.10jqka.com.cn/20261118/c681925878.shtml",
+      "published": "Tue, 17 Nov 2026 21:17:42 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "Credo宣布与Marvell就有源电缆专利权利达成协议",
+      "summary": "Credo宣布与Marvell就有源电缆专利权利达成协议。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261118/c681925856.shtml",
+      "published": "Tue, 17 Nov 2026 21:07:16 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "纳斯达克100 ETF QQQ盘后上涨0.3%",
+      "summary": "纳斯达克100 ETF QQQ盘后上涨0.3%。",
+      "link": "https://news.10jqka.com.cn/20261118/c681925854.shtml",
+      "published": "Tue, 17 Nov 2026 21:06:39 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "纳斯达克金龙中国指数初步收跌1.9%",
+      "summary": "纳斯达克金龙中国指数初步收跌1.9%。热门中概股中，京东初步收跌7.7%，腾讯跌4.4%，阿里跌4.4%；ETF方面，KWEB跌2.1%，CQQQ跌1.5%。",
+      "link": "https://news.10jqka.com.cn/20261118/c681925841.shtml",
+      "published": "Tue, 17 Nov 2026 21:03:23 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美股收评：美股三大指数集体收跌 光通信股逆势小幅上扬",
+      "summary": "美股三大股指集体收跌，道琼斯指数跌1.64%，标普500指数跌1.02%，纳斯达克综合指数跌0.74%。芯片股多数走低，台积电跌近4%，美光科技跌近1%，英伟达跌0.44%；博通涨超2%。光通信股逆势小幅上扬，Coherent涨超3%，Lumentum、Ciena、Credo、康宁涨超2%。其他个股方面，SpaceX涨超3%，耐克跌超6%。",
+      "link": "https://news.10jqka.com.cn/20261118/c681925836.shtml",
+      "published": "Tue, 17 Nov 2026 21:01:23 GMT"
     },
     {
       "source": "同花顺",
@@ -122,90 +157,6 @@
       "summary": "纽约联储主席威廉姆斯表示，通胀“顽固地高企”，要让通胀回到2%仍有更多工作要做。但他同时指出，不认为当前形势需要采取重大行动。（财联社）",
       "link": "https://news.10jqka.com.cn/20261118/c681925715.shtml",
       "published": "Tue, 17 Nov 2026 19:27:59 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "SpaceX：计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务",
-      "summary": "SpaceX表示，计划于11月21日从范登堡太空军基地4E航天发射场用猎鹰9号执行NROL-136任务。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261118/c681925712.shtml",
-      "published": "Tue, 17 Nov 2026 19:26:48 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "苹果：iCloud账户及登录问题已解决",
-      "summary": "苹果表示，iCloud账户及登录问题已解决。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261118/c681925710.shtml",
-      "published": "Tue, 17 Nov 2026 19:25:07 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "伊朗方面正“认真寻求”通过外交途径结束僵局",
-      "summary": "据报道，伊朗方面正“认真寻求”通过外交途径结束僵局。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261118/c681925709.shtml",
-      "published": "Tue, 17 Nov 2026 19:23:17 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "苹果称中断并非由网络攻击所致，正努力“尽快”恢复系统运行",
-      "summary": "苹果称中断并非由网络攻击所致，正努力“尽快”恢复系统运行。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261118/c681925708.shtml",
-      "published": "Tue, 17 Nov 2026 19:19:45 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "在黄仁勋辞职后，英伟达联系了其投资的3家机器人初创公司",
-      "summary": "据报道，在黄仁勋辞职后，英伟达联系了其投资的3家机器人初创公司，向其保证英伟达的支持。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261118/c681925707.shtml",
-      "published": "Tue, 17 Nov 2026 19:19:32 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "耐克预计旗下品牌匡威将于2028年恢复增长",
-      "summary": "耐克预计旗下品牌匡威将于2028年恢复增长，预计匡威营收将突破10亿美元。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261118/c681925666.shtml",
-      "published": "Tue, 17 Nov 2026 19:09:26 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "特朗普还没走 投资者就已经吓跑了",
-      "summary": "<p style=\"text-align: left;\">故事要是停在这一天，结论很省事：华尔街为国会变天开香槟，特朗普的股票陪葬。可第二天，美股掉头暴跌，标普500指数创下去年4月以来的最大单日跌幅，把前一天的涨幅连本带利吐了回去，特朗普发帖把账算到民主党头上。特朗普媒体呢？又跌了一成。大盘涨，它跌；大盘跌，它还跌。</p><p style=\"text-align: left;\">大盘那两天的大起大落，吵的是别的事：伊朗的仗还打不打，油价往哪走，AI数据中心还能不能放开手脚地建。吵不出结果，所以今天涨、明天跌。唯独对贴着“特朗普”标签的资产，市场没有分歧。可见它的下跌和华尔街高不高兴没有关系——它跌的是自己的账。</p>",
-      "link": "https://wallstreetcn.com/member/articles/3786130",
-      "published": "Tue, 17 Nov 2026 20:24:39 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "德鲁肯米勒看空铜价、股票仓位归零，称当前市场能见度为记忆中最低",
-      "summary": "<p>亿万富翁投资者Stan Druckenmiller表示，面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。</p>\n<p>11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示，<strong>他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。</strong></p>\n<p><strong>目前他持有少量美元多头仓位，股票则既无多头也无空头，同时做空铜</strong>。他说：</p>\n<blockquote>\n<p>我们基本上在回避市场，目标是不亏钱，而不是赚钱。</p>\n</blockquote>\n<p>这一表态标志着其立场较今年1月发生显著转变，彼时他对经济前景持明显乐观态度。Druckenmiller以高确信度时果断重仓著称，当前的按兵不动本身即释放出鲜明信号，对风险资产构成潜在压力。</p>\n<div>\n<h2 id=\"641c3f4b\">经济信号恶化，联储停止降息成转折点</h2>\n</div>\n<p>Druckenmiller表示，尽管美国经济目前仍具韧性，但投资环境已明",
-      "link": "https://wallstreetcn.com/articles/3786129",
-      "published": "Tue, 17 Nov 2026 19:55:36 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "英伟达“隐身”的重要市场：新加坡子公司被曝去年营收超千亿美元、一年增72%",
-      "summary": "<p>去年，新加坡在英伟达对外披露的地域销售数据中“隐身”，但据新近报道曝光，当地的子公司一年营收增超七成、突破1000亿美元。</p>\n<p>英国《金融时报》的报道称，英伟达自2025年起停止单独披露新加坡销售额，转而按照客户总部所在地而非客户开票地址划分地域收入。与此同时，根据该报查阅的公司账目，英伟达新加坡子公司的营收规模远超其实际在当地的业务体量。</p>\n<p>这一反差引发外界对英伟达地域收入披露方式及其新加坡业务规模的关注。值得注意的是，尽管该子公司账面营收超过千亿美元，其2025年利润却只有5300万美元，营收与利润规模明显不匹配。</p>\n<h2><strong>新加坡曾是英伟达第二大收入来源，2025年突然从地域披露中消失</strong></h2>\n<p>英伟达此前一直将新加坡列为重要的地域收入来源。据公司2025财年年报，按客户开票地址统计，截至2025年1月26日的财年，英伟达来自新加坡的收入达到236.84亿美元，占公司总营收的18%，仅次于美国的612.57亿美元，是公司第二大收入来源国。</p>\n<p>但在截至2025年7月27日的英伟达2026财年第二财",
-      "link": "https://wallstreetcn.com/articles/3786126",
-      "published": "Tue, 17 Nov 2026 19:55:15 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "浑水做空英伟达。",
-      "summary": "<p>浑水做空英伟达。</p>",
-      "link": "https://wallstreetcn.com/livenews/3201490",
-      "published": "Tue, 17 Nov 2026 19:54:33 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "耐克公布五年复苏计划：2029财年争取重回行业增速",
-      "summary": "<p style=\"text-align: left;\">时隔近十年，耐克再次召开投资者日，试图向市场说明如何走出持续数年的经营低谷。</p>\n<p style=\"text-align: left;\">11月17日，耐克在美国投资者日正式演讲前发布战略及长期财务框架，宣布推出“全速前进”（Full Stride Ahead）战略，并提出到2031财年，较2027财年新增约50亿美元收入、将营业利润率提升至12%—14%的目标。</p>\n<p style=\"text-align: left;\">这份五年计划同时给出了耐克对复苏节奏的最新判断：2027财年和2028财年仍将以业务调整和投资为主，2029财年争取恢复至行业平均增长水平，2030财年和2031财年才有望实现超越市场的增长。</p>\n<p style=\"text-align: left;\">这意味着，耐克预计至少还需要两个财年才能走出当前调整阶段。</p>\n<p style=\"text-align: left;\">在增长来源上，耐克将进一步向专业运动倾斜。</p>\n<p style=\"text-align: left;\">未来5",
-      "link": "https://wallstreetcn.com/articles/3786121",
-      "published": "Tue, 17 Nov 2026 19:54:18 GMT"
-    },
-    {
-      "source": "Bloomberg China",
-      "title": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Market - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORlNRWmc0N3Uyc21OQ3RMb2x2U3VDbkxlLWk0SGdyd0xncEpzYTk4SDZKZzEzWWlNcHU2Snl6UXpiYXV4MzJ0aWl6SmdrVzVyb1B3XzVIYko0UGhGTVFtUml3SlpxTnE5MWZZVzl4VTN1WjQ4bDBUYmJvdVFTYkhISnNneENiNG1VMllvNGJqMDR2cHZNS0xWanY4VVV3aVlwLWRlU2ZRUUJvRDVxbEptcmNoazdZUQ?oc=5\" target=\"_blank\">Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlNRWmc0N3Uyc21OQ3RMb2x2U3VDbkxlLWk0SGdyd0xncEpzYTk4SDZKZzEzWWlNcHU2Snl6UXpiYXV4MzJ0aWl6SmdrVzVyb1B3XzVIYko0UGhGTVFtUml3SlpxTnE5MWZZVzl4VTN1WjQ4bDBUYmJvdVFTYkhISnNneENiNG1VMllvNGJqMDR2cHZNS0xWanY4VVV3aVlwLWRlU2ZRUUJvRDVxbEptcmNoazdZUQ?oc=5",
-      "published": "Tue, 17 Nov 2026 19:11:04 GMT"
     },
     {
       "source": "Bloomberg China",
