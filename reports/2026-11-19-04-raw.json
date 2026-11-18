@@ -1,134 +1,15 @@
 {
   "date": "2026-11-19",
   "hour": "04",
-  "total": 22,
-  "fetched_at": "2026-11-19T04:00:55.987440+08:00",
+  "total": 5,
+  "fetched_at": "2026-11-19T04:57:56.108718+08:00",
   "news": [
     {
-      "source": "同花顺",
-      "title": "马斯克的基金会在2025年捐出的近4亿美元超3.1亿美元流向了“The Foundation”",
-      "summary": "马斯克的基金会在2025年捐出了近4亿美元，其中超过3.1亿美元流向了“The Foundation”——一家由他本人创立的非营利组织。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972589.shtml",
-      "published": "Wed, 18 Nov 2026 19:43:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "哈马斯称以军在加沙中部军事行动违反停火协议",
-      "summary": "巴勒斯坦伊斯兰抵抗运动（哈马斯）18日发表声明，谴责以色列军队当天在加沙地带中部展开军事行动，称此举严重违反加沙停火协议。声明说，以色列军车越过停火协议划定的“黄线”向西推进，并强迫努赛赖特难民营东北区域的巴勒斯坦人离开住所。哈马斯称，以军行动旨在将巴勒斯坦人挤压至加沙地带狭小区域。声明谴责以色列内塔尼亚胡政府通过升级针对加沙平民的暴行来转移国内危机。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261119/c681972586.shtml",
-      "published": "Wed, 18 Nov 2026 19:41:02 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "WTI原油期货结算价报每桶83.26美元，跌幅3.20%",
-      "summary": "WTI原油期货结算价报每桶83.26美元，跌幅3.20%。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972583.shtml",
-      "published": "Wed, 18 Nov 2026 19:33:26 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "Anthropic在加拿大提交IPO招股说明书",
-      "summary": "Anthropic在加拿大提交IPO招股说明书。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972579.shtml",
-      "published": "Wed, 18 Nov 2026 19:30:09 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "ICE棉花期货下跌3%",
-      "summary": "ICE棉花期货下跌3%，最新报每磅78.86美分。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972578.shtml",
-      "published": "Wed, 18 Nov 2026 19:21:23 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储会议纪要公布后，美元指数触及日内高点",
-      "summary": "美联储会议纪要公布后，美元指数触及日内高点。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972573.shtml",
-      "published": "Wed, 18 Nov 2026 19:12:29 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "纳斯达克100指数涨幅收窄至0.2%；标普500指数下跌0.2%",
-      "summary": "纳斯达克100指数涨幅收窄至0.2%；标普500指数下跌0.2%。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972572.shtml",
-      "published": "Wed, 18 Nov 2026 19:10:18 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储会议纪要公布后，美国10年期国债收益率收窄跌幅，最新下跌3.67个基点",
-      "summary": "美联储会议纪要公布后，美国10年期国债收益率收窄跌幅，最新下跌3.67个基点，报5.066%；两年期国债收益率扩大涨幅，最新上涨1.1个基点，报4.802%。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972571.shtml",
-      "published": "Wed, 18 Nov 2026 19:08:37 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储会议纪要公布后，美国股市小幅走低，标普500指数最新下跌0.1%",
-      "summary": "美联储会议纪要公布后，美国股市小幅走低，标普500指数最新下跌0.1%。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972570.shtml",
-      "published": "Wed, 18 Nov 2026 19:06:22 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "恒生指数主连夜盘收跌0.54%，恒生科技指数主连夜盘收跌0.86%",
-      "summary": "恒生指数主连夜盘收跌0.54%，报23100点；恒生科技指数主连夜盘收跌0.86%，报3691点。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972569.shtml",
-      "published": "Wed, 18 Nov 2026 19:04:51 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储会议纪要：一些官员称12月加息超过25个基点或是合理的",
-      "summary": "美联储会议纪要显示，一些官员称12月加息超过25个基点或是合理的，几乎所有官员都认为采取进一步行动或是合适的。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972568.shtml",
-      "published": "Wed, 18 Nov 2026 19:02:51 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国天然气价格跳涨5%",
-      "summary": "美国天然气价格跳涨5%，寒冷天气预期引发空头挤压。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972566.shtml",
-      "published": "Wed, 18 Nov 2026 18:56:15 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储巴尔讲话后，美国国债收益率收窄跌幅",
-      "summary": "美联储巴尔讲话后，美国国债收益率收窄跌幅；10年期美国国债收益率最新下跌3.87个基点，报5.064%。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972561.shtml",
-      "published": "Wed, 18 Nov 2026 18:49:30 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美联储理事巴尔称进一步加息可能是合适之举",
-      "summary": "美联储理事巴尔表示，通胀“过高”，正给许多家庭带来压力，称若经济表现符合预期，支持进一步加息。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972547.shtml",
-      "published": "Wed, 18 Nov 2026 18:37:46 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "英伟达董事会在物色CEO过程中已接触Arm的Rene Haas",
-      "summary": "据报道，英伟达董事会在物色CEO过程中已接触Arm的Rene Haas。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972546.shtml",
-      "published": "Wed, 18 Nov 2026 18:36:36 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "谷歌：Genie4现已可用",
-      "summary": "谷歌表示，Genie4现已可用，称其是最逼真、最具交互性的世界模型。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972514.shtml",
-      "published": "Wed, 18 Nov 2026 18:19:25 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国20年期国债中标收益率为5.459%",
-      "summary": "美国20年期国债中标收益率为5.459%，与发售前预发行收益率持平。",
-      "link": "https://news.10jqka.com.cn/20261119/c681972497.shtml",
-      "published": "Wed, 18 Nov 2026 18:03:50 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "AI算力租赁商CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴",
-      "summary": "AI算力租赁商CoreWeave淡化黄仁勋离任影响，称英伟达仍是关键合作伙伴。(财联社)",
-      "link": "https://news.10jqka.com.cn/20261119/c681972487.shtml",
-      "published": "Wed, 18 Nov 2026 18:02:33 GMT"
+      "source": "华尔街见闻",
+      "title": "塔吉特Q3营收与利润双双超预期，同店销售增长5.6%，年内第三次上调全年指引｜财报见闻",
+      "summary": "<p>塔吉特（Target Corp.）的复苏势头正在加速，今年股价已经累涨近80%。</p>\n<p>11月18日周三美股盘前，大型零售商塔吉特公布截至10月31日的第三财季业绩，<strong>同店可比销售额增长5.6%，营收和每股收益均超出分析师预期，并第三次上调全年业绩指引。</strong></p>\n<p><strong><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/5c8b8bd5-678d-4e47-940c-e48b0c6f2d0a.png\" /></strong></p>\n<p>TD Cowen分析师Max Rakhlenko在周三的报告中写道，<strong>塔吉特整体业绩\"相当稳健，各部门表现持续改善，为后续进一步调整奠定了基础\"。</strong></p>\n<p>财报公布后，塔吉特股价盘前下跌，但随后反转，一度大涨超7.7%。今年迄今，该股累计上涨约78%，大幅跑赢标普500指数同期约7.2%的涨幅。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wsc",
+      "link": "https://wallstreetcn.com/articles/3786228",
+      "published": "Wed, 18 Nov 2026 20:48:54 GMT"
     },
     {
       "source": "华尔街见闻",
