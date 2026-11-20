@@ -1,22 +1,190 @@
 {
   "date": "2026-11-20",
   "hour": "09",
-  "total": 19,
-  "fetched_at": "2026-11-20T09:01:01.087350+08:00",
+  "total": 43,
+  "fetched_at": "2026-11-20T09:29:33.977006+08:00",
   "news": [
     {
-      "source": "同花顺",
-      "title": "A股股票回购一览：44家公司披露回购进展 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbUdCbGFLYzJVeS01Sm1iZlY3OEJVS1U2NmVhRzdxcEtNM1BFam1pN3BiTG53VmVKS3VneU83NFpobW1zN3NYdEdjMDhKajU4TEEyci1sUUZRQUtnNGVuaENR?oc=5\" target=\"_blank\">A股股票回购一览：44家公司披露回购进展</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9VbUdCbGFLYzJVeS01Sm1iZlY3OEJVS1U2NmVhRzdxcEtNM1BFam1pN3BiTG53VmVKS3VneU83NFpobW1zN3NYdEdjMDhKajU4TEEyci1sUUZRQUtnNGVuaENR?oc=5",
-      "published": "Fri, 20 Nov 2026 00:08:52 GMT"
+      "source": "东方财富",
+      "title": "国金证券：AI芯片功耗与热点密度持续提升 推动高导热散热材料需求增长 - 天天基金",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoVlhyWmNMdGFJdUtYd0ZObjhnUTN6dVFxV0hwdFpId0RuVUVNZnRNNkE1T2pHcEFZM3NmZUFNb0NJVmYzQjd1QkdDbGFndUxMQkZTMGRkX0F5Zkwzbzg2OUJn?oc=5\" target=\"_blank\">国金证券：AI芯片功耗与热点密度持续提升 推动高导热散热材料需求增长</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">天天基金</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoVlhyWmNMdGFJdUtYd0ZObjhnUTN6dVFxV0hwdFpId0RuVUVNZnRNNkE1T2pHcEFZM3NmZUFNb0NJVmYzQjd1QkdDbGFndUxMQkZTMGRkX0F5Zkwzbzg2OUJn?oc=5",
+      "published": "Thu, 19 Nov 2026 23:49:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "MSCI新兴市场股票指数较6月高峰下跌20% - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aZnRsTm42cW54SGhZdzZEMmFWUVZQQ3U0Ul9nSXE0SktGM2MxQzF3Rk56UF92Tk1nV2h5TzI0OUhtX2RwLWpEM2ZoTGtkTXE0RHV1Q1hIeno5aFUwRnp5Nkd4LWc?oc=5\" target=\"_blank\">MSCI新兴市场股票指数较6月高峰下跌20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aZnRsTm42cW54SGhZdzZEMmFWUVZQQ3U0Ul9nSXE0SktGM2MxQzF3Rk56UF92Tk1nV2h5TzI0OUhtX2RwLWpEM2ZoTGtkTXE0RHV1Q1hIeno5aFUwRnp5Nkd4LWc?oc=5",
+      "published": "Fri, 20 Nov 2026 01:05:47 GMT"
     },
     {
       "source": "同花顺",
-      "title": "国金证券：给予国轩高科买入评级 - 同花顺",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE96T3BRaFh5WkUyT2pyVGZ1aTFKX2pyQXRsUjlYUEp0VGtBZHV3MUFHc0NIVFlxdnRoRVRlRTI4WWNwb0ZHWGVEV1ZTdGtsX0lkSGFwVmFRX1JQaXNMa0JSUnlB?oc=5\" target=\"_blank\">国金证券：给予国轩高科买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96T3BRaFh5WkUyT2pyVGZ1aTFKX2pyQXRsUjlYUEp0VGtBZHV3MUFHc0NIVFlxdnRoRVRlRTI4WWNwb0ZHWGVEV1ZTdGtsX0lkSGFwVmFRX1JQaXNMa0JSUnlB?oc=5",
-      "published": "Fri, 20 Nov 2026 00:24:04 GMT"
+      "title": "股指期货早盘开盘 主力合约集体低开",
+      "summary": "股指期货早盘开盘，主力合约集体低开。沪深300股指期货(IF)主力合约跌0.66%，上证50股指期货(IH)主力合约跌0.87%，中证500股指期货(IC)主力合约跌1.80%，中证1000股指期货(IM)主力合约跌1.99%。",
+      "link": "https://news.10jqka.com.cn/20261120/c682029228.shtml",
+      "published": "Fri, 20 Nov 2026 01:29:18 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "影视院线板块低开，文投控股、金逸影视再次触及跌停",
+      "summary": "影视院线板块低开，文投控股、金逸影视再次触及跌停，慈文传媒、横店影视、幸福蓝海、上海电影、华策影视跟跌。",
+      "link": "https://news.10jqka.com.cn/20261120/c682029182.shtml",
+      "published": "Fri, 20 Nov 2026 01:27:40 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "ETF开盘：创业板新能源ETF领涨3.68%，消费电子ETF领跌9.78%",
+      "summary": "ETF开盘涨跌不一，创业板新能源ETF（159122）领涨3.68%，创业板新能源ETF（159190）涨1.45%，沪港深300ETF（517030）涨1.01%，消费电子ETF（159178）领跌9.78%，创业板算力ETF（158063）跌4.8%，创业板算力ETF（158041）跌4.8%。",
+      "link": "https://news.10jqka.com.cn/20261120/c682029150.shtml",
+      "published": "Fri, 20 Nov 2026 01:26:54 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "A股开盘：三大指数集体低开",
+      "summary": "A股开盘，上证指数低开1.41%，深证成指低开1.71%，创业板指低开2.15%。贵金属、CPO、影视院线板块跌幅居前。",
+      "link": "https://news.10jqka.com.cn/20261120/c682029114.shtml",
+      "published": "Fri, 20 Nov 2026 01:25:28 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货黄金失守3580美元/盎司",
+      "summary": "现货黄金失守3580美元/盎司，日内跌1.32%。同花顺黄金现货价格报771.02元/克，现跌1.35%。",
+      "link": "https://news.10jqka.com.cn/20261120/c682028989.shtml",
+      "published": "Fri, 20 Nov 2026 01:22:58 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "央行：11月20日开展了3795亿元隔夜逆回购操作",
+      "summary": "央行公告，11月20日开展了3795亿元隔夜逆回购操作，操作利率为1.25%。隔夜逆回购操作利率与上期保持不变。同花顺iFinD数据显示，今日有7675亿元隔夜、3000亿元7天期逆回购到期。",
+      "link": "https://news.10jqka.com.cn/20261120/c682028965.shtml",
+      "published": "Fri, 20 Nov 2026 01:21:33 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "港股开盘：恒生科技指数跌2.95%，恒生指数跌1.57%",
+      "summary": "港股开盘，恒生科技指数跌2.95%，恒生指数跌1.57%。个股方面，网易跌13.27%，智谱跌8.56%，MINIMAX-W跌8.54%，快手-W跌8.42%，紫金黄金国际跌7.24%。",
+      "link": "https://news.10jqka.com.cn/20261120/c682028963.shtml",
+      "published": "Fri, 20 Nov 2026 01:21:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "花旗下调阿里巴巴目标价 此前公司预计明年云服务营收增速将有所放缓",
+      "summary": "阿里巴巴周四公布季报，称云服务营收增速明年将从目前的53%放缓至30%至45%，到2028年自然年应重回至50%以上。花旗表示，鉴于行业整体估值下修，该行将阿里巴巴ADR和港股目标价分别下调至160美元和159港元。分析师Alicia Yap等人在报告中表示，阿里巴巴下调云业务收入增长指引是对算力出口限制不断演变的务实应对，但长期人工智能(AI)雄心不变。该行称，该公司重申2030年和2031年的云业务目标，表明短期政策逆风不改长期需求机遇。（科创板日报）",
+      "link": "https://news.10jqka.com.cn/20261120/c682028626.shtml",
+      "published": "Fri, 20 Nov 2026 01:18:20 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "苹果正自研AI智能体，正面挑战OpenAI和Anthropic",
+      "summary": "据报道，苹果公司正在研发可以代表用户完成任务的自主AI代理，旨在进军这一增长迅速的市场，该市场已由OpenAI、Anthropic、Meta等公司竞相布局。该公司本周在其网站发布的招聘信息中概述了这一计划。其中一则招聘信息显示，苹果正在为一款主动式、代理型AI助手寻找一名高级工程经理。根据招聘信息，该系统将代表用户编写代码、浏览网页、控制应用程序并操作设备。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261120/c682028608.shtml",
+      "published": "Fri, 20 Nov 2026 01:17:52 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "人民币兑美元中间价报6.7131，较上日调低3点",
+      "summary": "人民币兑美元中间价报6.7131，较上日调低3点。\n注：人民币中间价由中国外汇交易中心于每日银行间外汇市场开盘前向所有银行间外汇市场做市商询价，并将全部做市商报价作为人民币对美元汇率中间价的计算样本，去掉最高和最低报价后，将剩余做市商报价加权平均得到。人民币汇率中间价是即期银行间外汇交易市场和银行挂牌汇价的最重要参考指标。",
+      "link": "https://news.10jqka.com.cn/20261120/c682027884.shtml",
+      "published": "Fri, 20 Nov 2026 01:15:31 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上期所沪银主力合约大跌7% 广期所铂主力合约大跌5%",
+      "summary": "上期所沪银主力合约大跌7%，报10043元/千克。广期所铂主力合约大跌5%，报315元/克。",
+      "link": "https://news.10jqka.com.cn/20261120/c682027156.shtml",
+      "published": "Fri, 20 Nov 2026 01:06:27 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "现货白银失守42美元/盎司 NYMEX铂金主力合约跌超3%",
+      "summary": "现货白银失守42美元/盎司，日内跌2.03%。NYMEX铂金主力合约跌超3%，现报1307.1美元/盎司。",
+      "link": "https://news.10jqka.com.cn/20261120/c682027139.shtml",
+      "published": "Fri, 20 Nov 2026 01:05:51 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国家邮政局：1-10月邮政行业业务收入累计完成15485.7亿元",
+      "summary": "国家邮政局公布2026年1-10月邮政行业运行情况。1-10月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成15485.7亿元，同比增长5.3%。其中，快递业务收入累计完成12981.5亿元，同比增长6.6%。1-10月，邮政行业寄递业务量累计完成1830.3亿件，同比增长3.3%。其中，快递业务量累计完成1688.2亿件，同比增长3.8%。(央视新闻)",
+      "link": "https://news.10jqka.com.cn/20261120/c682026641.shtml",
+      "published": "Fri, 20 Nov 2026 01:04:50 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "广期所钯主力合约大跌7%",
+      "summary": "广期所钯主力合约大跌7%，报211.1元/克。",
+      "link": "https://news.10jqka.com.cn/20261120/c682026521.shtml",
+      "published": "Fri, 20 Nov 2026 01:02:57 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "11月LPR报价出炉：1年期和5年期利率均维持不变",
+      "summary": "央行公告，11月1年期贷款市场报价利率（LPR）为3.0%，5年期以上LPR为3.5%，1年期和5年期以上LPR连续18个月保持不变。",
+      "link": "https://news.10jqka.com.cn/20261120/c682026491.shtml",
+      "published": "Fri, 20 Nov 2026 01:01:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时中国A50指数期货盘初跌1.44%",
+      "summary": "富时中国A50指数期货在上一交易日夜盘收跌1.12%的基础上低开，盘初跌1.44%。",
+      "link": "https://news.10jqka.com.cn/20261120/c682026470.shtml",
+      "published": "Fri, 20 Nov 2026 01:00:37 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "上期所沪银主力合约大跌6%",
+      "summary": "上期所沪银主力合约大跌6%，报10145元/千克。",
+      "link": "https://news.10jqka.com.cn/20261120/c682026194.shtml",
+      "published": "Fri, 20 Nov 2026 01:00:17 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "期市早盘开盘，国内期货主力合约多数上涨",
+      "summary": "期市早盘开盘，国内期货主力合约多数上涨。涨幅方面，焦炭、焦煤涨超3%，合成橡胶、欧线集运、铁矿石涨超2%，原油、PTA、沥青、氧化铝、对二甲苯涨超1%。跌幅方面，钯、沪银跌超5%，铂、沪金跌超3%，燃油、苹果、沪锡跌超2%，沪铜、多晶硅、沪镍跌超1%。",
+      "link": "https://news.10jqka.com.cn/20261120/c682025924.shtml",
+      "published": "Fri, 20 Nov 2026 00:59:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "11月19日130股获融资买入超亿元 中际旭创获买入14.93亿元居首",
+      "summary": "11月19日共有3538只个股获融资资金买入，有130股买入金额超亿元。其中，中际旭创、新易盛、寒武纪融资买入金额排名前三，分别获买入14.93亿元、11.65亿元、10.83亿元。",
+      "link": "https://news.10jqka.com.cn/20261120/c682025921.shtml",
+      "published": "Fri, 20 Nov 2026 00:59:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美光：2027年存储芯片供需形势会比今年更加紧张",
+      "summary": "美光科技总裁兼首席技术与产品官Scott DeBoer在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。他指出，在可预见的未来，供需找不到明确的平衡点，预计2027年供需形势会比2026年更加紧张。（财联社）",
+      "link": "https://news.10jqka.com.cn/20261120/c682025797.shtml",
+      "published": "Fri, 20 Nov 2026 00:57:17 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "华尔街希望Anthropic明年站上3万亿",
+      "summary": "<p>知名科技投资人Brad Gerstner表示Anthropic 的长期估值锚点并不取决于当下的收入规模，而在于2028 年的 Gap 收入。</p>\n\n<p>2028年Gap收入2700–3000亿美元，10倍市销率推得Anthropic约3万亿美元企业价值。</p>\n\n<p>晨星牛熊情景分别为3万亿与5000亿。Altimeter拟IPO投50亿美元作基石，IPO定价1.5万亿锚定2026–2027收入，3万亿实为2028年后价值贴现。</p>",
+      "link": "https://wallstreetcn.com/charts/41960206",
+      "published": "Fri, 20 Nov 2026 01:09:50 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "消费数据还在寻底，为什么科技基金经理开始研究消费股了？",
+      "summary": "<p style=\"text-align: left;\">消费行业策略会涌入了科技基金经理？这不是段子，这是真实发生的事情。过去两年，AI、半导体几乎占据了成长基金经理的注意力；到了11月，消费重新成为不少投资者愿意坐下来认真听一听的方向。花旗银行分析师在最新中国策略会反馈中欣喜地表示：投资者对中国消费行业的兴趣达到过去三年最高水平。</p><p style=\"text-align: left;\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/6828dec5-6971-42f7-89cf-54686b42fde2.png\" title=\"\" /></p><p style=\"text-align: left;\">更有意思的是，消费者本人还没有回来。10月社会消费品零售总额同比仅增长0.4%，1—10月累计增长1.0%；但10月30日至11月17日，恒生消费指数上涨13%，中证消费上涨8%。于是问题来了：宏观经济和消费数据仍然疲软，市场为什么又开始关注消费股？</p><p style=\"text-align: l",
+      "link": "https://wallstreetcn.com/member/articles/3786171",
+      "published": "Fri, 20 Nov 2026 01:07:02 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中国11月LPR维持不变",
+      "summary": "<p>中国11月贷款市场报价利率（LPR）11月20日出炉，1年期和5年期以上LPR均未调整。</p>\n<p>中国人民银行授权全国银行间同业拆借中心公布显示，2026年11月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/22fb7aa6-0235-480c-8873-937c32b3899a.png\" /></p>\n<p>作为主要政策利率的7天期逆回购利率自2025年5月下调后已经连续17个月保持不变，因此，LPR报价的定价基础本月未发生改变。LPR上一次调整是在2025年5月，1年期和5年期以上LPR均下调10个基点。</p>\n<p><img class=\" wscnph\" src=\"https://wpimg-wscn.awtmt.com/39ea037e-aeb1-41c5-a47f-d40f90a3b8c0.png\" /></p><div style=\"color: #666",
+      "link": "https://wallstreetcn.com/articles/3786332",
+      "published": "Fri, 20 Nov 2026 01:01:03 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "首度突破1万亿美元！AI加持，韩国出口创下新纪录",
+      "summary": "<p>韩国年度商品出口额首次突破万亿美元，AI驱动的半导体出口热潮是这一历史性突破的核心引擎。</p>\n<p>11月19日周四，据韩国产业通商资源部公布的初步数据，<strong>韩国年度货物出口累计额正式越过万亿美元关口。</strong></p>\n<p><strong>这一成就距韩国年出口额首次突破7000亿美元仅一年之隔，使韩国成为继美国、中国和德国之后，全球第四个实现这一目标的经济体。</strong></p>\n<p>出口激增也为韩国宏观经济提供了支撑。<strong>韩国三季度GDP环比增长1%，超出市场预期。</strong></p>\n<p>然而，私人消费意外收缩，表明芯片热潮的红利尚未广泛传导至居民端，经济复苏的结构性隐忧依然存在。</p>\n<div>\n<h2 id=\"6c5e90fc\">科技资本开支浪潮带动出口全面走强，可持续性隐忧不容忽视</h2>\n</div>\n<p>今年韩国出口增长的核心驱动力来自半导体与计算机类产品，受益于全球科技巨头大规模资本投入。</p>\n<p><strong>据韩国产业通商资源部估算，九大主要科技企业的资本开支预计将从去年起至2026年近乎",
+      "link": "https://wallstreetcn.com/articles/3786327",
+      "published": "Fri, 20 Nov 2026 00:56:22 GMT"
     },
     {
       "source": "华尔街见闻",
@@ -75,32 +243,25 @@
       "published": "Thu, 19 Nov 2026 23:40:46 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "恒生科技指数将迎重大调整 宁德时代和中际旭创等股票或被纳入",
-      "summary": "<p>宁德时代和中际旭创等股票预计将在香港科技股基准指数的一次重大调整中被纳入。恒生指数公司预计将在周五收市后公布季度检讨结果，势将把恒生科技指数成份股数量从30只扩大至50只。分析师表示，在一批高科技制造企业赴港上市后，新纳入的股票可能包括先进硬件相关公司。</p>",
-      "link": "https://wallstreetcn.com/livenews/3202862",
-      "published": "Thu, 19 Nov 2026 23:24:44 GMT"
+      "source": "第一财经",
+      "title": "艺术社区与社区艺术：城市更新潮流中的“微美育”",
+      "summary": "<figure><img alt=\"艺术社区与社区艺术：城市更新潮流中的“微美育”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/6ea2e17eb80fc3bfc114f6538d500af3.jpg\" /></figure><p>“社区艺术活动的规模不在大小，专业程度要和在博物馆、美术馆里一模一样。居民们看到不同的艺术形态，审美能力是会有提升的。”</p><p>11月12日，在上海市宝山区上大路，因功能调整而沉寂了一年的上海大学附属小学山海校区迎来了一大批新客人。一座名为“老教室美术馆”的社区美术馆，在小学一楼的几间老教室里开张了。校长、老师带着小学生们重新回到这里，接待来访的爱好者、居民和艺术家们。孩子们讲解展览中的敦煌壁画，介绍画家从中国各地收集的岩彩矿石，一些家庭还参加了艺术家陈静主持的岩彩绘画工作坊。</p>\n\n<p style=\"text-align: center;\"><img alt=\"“老教室美术馆”保留了小学曾使用过的小桌椅。佟鑫/拍摄\" src=\"https://imgcdn.yicai.com/upp",
+      "link": "https://www.yicai.com/news/103447383.html",
+      "published": "Fri, 20 Nov 2026 01:14:50 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "11月20日会员早报：Anthropic完成史上最大IPO AMD股价盘中重挫11%",
-      "summary": "<p>1、【Anthropic完成史上最大IPO】人工智能公司Anthropic周四（11月19日）在纳斯达克挂牌交易，首日收涨17%。公司以每股83美元完成首次公开发行，股票在纳斯达克全球精选市场交易，代码“ANT”；首日收于97.17美元，市值约1.27万亿美元。算上面向大型投资者的私募配售，Anthropic此次共募资约1070亿美元，超过今年6月的SpaceX，成为有史以来规模最大的IPO。但投资者对AI行业依然谨慎，以科技股为主的纳斯达克综合指数当天下跌2.2%。</p> <p>2、【AMD股价盘中重挫11%】美东时间11月19日（周四），对冲基金Hunterbrook Capital披露做空AMD，其关联调查媒体Hunterbrook Media同日发布两份报告。第一份指AMD越来越多地为采购自家芯片的企业提供融资与担保，并称按营收规模算，AMD作出的承诺比英伟达多，手里的现金却比英伟达少。第二份称AMD的外国业务让它容易受到美国进一步出口管制的冲击，而它的增长恰恰押在管制正在收紧的芯片上。</p> <p>3、【美联储继续吹风一次加息50基点】据彭博社报道，芝加哥联储主席古",
-      "link": "https://wallstreetcn.com/member/articles/3786323",
-      "published": "Thu, 19 Nov 2026 23:20:41 GMT"
+      "source": "第一财经",
+      "title": "该不该给AI发身份证？一个人类早晚要面对的伦理学问题",
+      "summary": "<figure><img alt=\"该不该给AI发身份证？一个人类早晚要面对的伦理学问题\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/3dbd7bfff4102209b219e4526157ef45.jpg\" /></figure><p>机器人既不是人，也不是物；该怎样对待它，要看人和它怎样相处，而不是先去证明它有没有意识。</p><p>美国哲学家戴维·J.贡克尔（David J.Gunkel）研究“机器人该不该有权利”已经十多年。他的一系列相关论著被命名为“机器人三部曲”，《人、物、机器人：21世纪及以后的道德与法律本体论》（Person, Thing, Robot：A Moral and Legal Ontology for the 21st Century and Beyond）是系列终章。</p>\n\n<p>他的结论是：机器人既不是人，也不是物；该怎样对待它，要看人和它怎样相处，而不是先去证明它有没有意识。</p>\n\n<p>感觉这个问题关乎AI的命运，也关乎人类自己：人类正在用一把为自己量身定做的尺子，去衡量一个具有某",
+      "link": "https://www.yicai.com/news/103447381.html",
+      "published": "Fri, 20 Nov 2026 01:14:40 GMT"
     },
     {
-      "source": "华尔街见闻",
-      "title": "黑客经第三方泄露Visa、万事达和摩根大通部分客户数据，三家称支付网络未中断",
-      "summary": "<p style=\"text-align: left;\">Visa、万事达和摩根大通相继证实，一家或多家第三方服务商遭黑客攻击，导致部分客户信息外泄。三家机构均强调，自身支付网络和核心系统未受波及，但这一事件仍加剧了市场对大型金融机构网络安全的担忧。</p>\n<p style=\"text-align: left;\">据摩根大通周四声明，黑客入侵了其一家外部合作方，获取了部分营销数据，可能涉及客户姓名和电子邮件地址，并重申该事件与本周早些时候的服务中断无关。</p>\n<p style=\"text-align: left;\">Visa表示，事件源于亚洲一家第三方公司，其自身系统未受影响，支付数据（如卡号）未被波及。</p>\n<p style=\"text-align: left;\">万事达则称泄露内容为\"特定福利项目部分持卡人的有限非支付信息\"，主要为电子邮件地址，网络运营未受任何冲击。</p>\n<p style=\"text-align: left;\">三家公司股价当日均有不同程度下跌。周四Visa股价收跌3.1%，万事达收跌2.6%，摩根大通收跌1.2%。</p>\n<p style=\"te",
-      "link": "https://wallstreetcn.com/articles/3786322",
-      "published": "Thu, 19 Nov 2026 23:14:43 GMT"
-    },
-    {
-      "source": "华尔街见闻",
-      "title": "华尔街见闻早餐FM-Radio | 2026年11月20日",
-      "summary": "<h2>华见早安之声</h2>\n<p class=\"shield-text\">请各位听众升级为见闻最新版APP，以便成功收听以下音频。</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/2ed0c8c8-fb82-499d-b81c-3fd1de114eae\" /></p>\n<h2>要闻精选</h2>\n<blockquote>\n<p><strong>中国</strong></p>\n<p>习近平主持中俄美元首会晤。中俄美元首和平宣言。习近平就大国如何正确相处提出4点看法。</p>\n<p>阿里Q3净利润同比大增213%，云业务收入增长53%，AI投入推动资本开支增60%、负现金流扩大。电话会：20GW数据中心目标和资本开支计划可能降低，国产算力2028年放量，阿里云将恢复高速增长，现金流转正。</p>\n<p>拼多多Q3营收1083亿元不及预期，经营利润同比增长25%，股价收涨11%。电话会：千亿扶持计划仍在投入期，持续加码商家扶持与供应链建设。</p>\n<p><strong>海外</s",
-      "link": "https://wallstreetcn.com/articles/3786319",
-      "published": "Thu, 19 Nov 2026 23:10:02 GMT"
+      "source": "第一财经",
+      "title": "200多年前的广州和十三行究竟什么样 | 荐书",
+      "summary": "<figure><img alt=\"200多年前的广州和十三行究竟什么样 | 荐书\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/ab5ad8ad688628c2cb3286870ccb3403.jpg\" /></figure><p>200多年前广州和十三行是怎样的面貌？为什么荷马会说大海是“酒色”的？</p><p style=\"text-align: center;\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/04b423a2759fa5324e3244d0edb88a58.jpg\" style=\"width: 500px; height: 500px;\" /></p>\n\n<p style=\"text-align: center;\">《广州十三行西洋商馆图志（1760—1822）》</p>\n\n<p style=\"text-align: center;\">[美]范岱克、莫家咏 著</p>\n\n<p style=\"text-align: cent",
+      "link": "https://www.yicai.com/news/103447382.html",
+      "published": "Fri, 20 Nov 2026 01:14:27 GMT"
     },
     {
       "source": "第一财经",
@@ -117,11 +278,18 @@
       "published": "Thu, 19 Nov 2026 23:49:39 GMT"
     },
     {
-      "source": "第一财经",
-      "title": "Anthropic敲钟，美股跳水：AI狂欢要结束了吗？",
-      "summary": "<figure><img alt=\"Anthropic敲钟，美股跳水：AI狂欢要结束了吗？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/fe2c9aa096f0f58a9c67f64f18d89d26.jpg\" /></figure><p>市场大跌让“AI行情见顶”的说法再度升温。</p><p>当地时间11月19日，Claude大模型开发商Anthropic在纳斯达克挂牌上市，股票代码ANT。首日收报97.17美元，较83美元的发行价高17.07%，按完全稀释股本计算，市值约1.8万亿美元。</p>\n\n<p>同一天，美股三大股指均跌超2%。</p>\n\n<p><strong>募资创下纪录，股价冲高回落</strong></p>\n\n<p>Anthropic于18日晚间将其首次公开募股（IPO）定价为每股83美元，高于此前70至78美元的指导区间，发行规模也从8.25亿股扩大至9.8亿股。<strong>此次IPO募资约813亿美元，超过今年6月SpaceX的750亿美元，成为史上规模最大的IPO。</strong>此外，谷歌、英",
-      "link": "https://www.yicai.com/news/103447284.html",
-      "published": "Thu, 19 Nov 2026 23:15:27 GMT"
+      "source": "澎湃新闻财经",
+      "title": "市值1.27万亿美元！Anthropic上市首日收涨17%，募资813亿美元刷新纪录 - ThePaper.cn",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzeW5wWUVHMHNTWVlrM3ZOT3ZKNjJBM3VNcWpkVV9uT0hoTDlsdEE5dU9XelJLbTBwOTJ4UGZ2M1ZKLVdDZFhZY0wtVHE5RVkwYXZiUjhpdUhQc2M4Q29lbw?oc=5\" target=\"_blank\">市值1.27万亿美元！Anthropic上市首日收涨17%，募资813亿美元刷新纪录</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ThePaper.cn</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzeW5wWUVHMHNTWVlrM3ZOT3ZKNjJBM3VNcWpkVV9uT0hoTDlsdEE5dU9XelJLbTBwOTJ4UGZ2M1ZKLVdDZFhZY0wtVHE5RVkwYXZiUjhpdUhQc2M4Q29lbw?oc=5",
+      "published": "Fri, 20 Nov 2026 00:58:49 GMT"
+    },
+    {
+      "source": "雪球热帖",
+      "title": "Anthropic(ANT)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiPEFVX3lxTE5WbGdiN0RiaEgtZGFIX1pYankyZHJxZkQ5UG15ZkhqSzBnTExHVThJQ3hQUmpiY2czWUJ4RQ?oc=5\" target=\"_blank\">Anthropic(ANT)股票股价_股价行情_讨论_资讯_财报_数据报告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">雪球</font>",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5WbGdiN0RiaEgtZGFIX1pYankyZHJxZkQ5UG15ZkhqSzBnTExHVThJQ3hQUmpiY2czWUJ4RQ?oc=5",
+      "published": "Fri, 20 Nov 2026 01:05:38 GMT"
     },
     {
       "source": "证监会新闻",
