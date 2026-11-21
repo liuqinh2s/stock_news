@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-21",
+  "hour": "10",
+  "total": 5,
+  "fetched_at": "2026-11-21T10:00:58.164439+08:00",
+  "news": [
+    {
+      "source": "财联社",
+      "title": "美股收盘：高开低走三大指数重挫2% 科技巨头集体走弱英伟达再跌3% - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE95Uk5UVEhvOXR0RVFZYVNabVFkNmxkMHZ3RmJsZi13ZS1sSXhpLWFwc3VYOV9yTUs3eGU1a0I3VXZ3M3pOX0hicA?oc=5\" target=\"_blank\">美股收盘：高开低走三大指数重挫2% 科技巨头集体走弱英伟达再跌3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95Uk5UVEhvOXR0RVFZYVNabVFkNmxkMHZ3RmJsZi13ZS1sSXhpLWFwc3VYOV9yTUs3eGU1a0I3VXZ3M3pOX0hicA?oc=5",
+      "published": "Sat, 21 Nov 2026 01:17:50 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "“数学界第一神山”被攻克？Anthropic数学家宣称证明黎曼猜想，给出1700万行Lean源码，AI证明文件超过25万页",
+      "summary": "<p style=\"text-align: left;\">困扰数学界167年的黎曼猜想，或迎来首次重大突破，但AI生成的证明能否经受数学界检验，仍是最大悬念。</p>\n<p style=\"text-align: left;\">11月20日，<strong>Anthropic数学家Levent Alpöge发布声明，称自己与AI模型Claude合作，找到了黎曼猜想及广义黎曼猜想（GRH）的证明方法，并同步公布超过1700万行Lean形式化代码。</strong>由于声明发布恰逢Anthropic上市次日，这项数学突破也引发了外界对发布时间及商业动机的讨论。</p>\n<p style=\"text-align: left;\">Alpöge将证明以Lean语言写成，分为14个压缩文件发布。与此同时，<strong>他与Claude生成的文字版证明超过25万页，但因篇幅过长、难以阅读而没有公开。</strong></p>\n<p style=\"text-align: left;\">目前，尚无数学家正式确认这一证明成立。外界仍需核实Lean代码最终证明的定理是否确实对应黎曼猜想本身，以及整个证明过程",
+      "link": "https://wallstreetcn.com/articles/3786421",
+      "published": "Sat, 21 Nov 2026 01:14:53 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "通胀就业双重暴击！12月到底加25还是50bp？",
+      "summary": "<p style=\"text-align: left;\">11月10日，美国劳工统计局（BLS）公布CPI数据显示，10月份美国整体CPI环比上涨0.4%（预期0.30%），核心CPI环比上涨0.30%（预期0.20%）。由于去年10月美国政府停摆导致同比数据缺失，但从环比趋势看，美国通胀并未出现市场此前期待的持续降温。</p>\n<p style=\"text-align: justify;\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/332b869a-b04f-439d-b622-053180ef9763.png\" title=\"\" /></p>\n<p style=\"text-align: justify;\">核心CPI三个月年化增速升至3.75%，创下两年多最大涨幅，六个月年化增速也达到2.69%，潜在价格压力仍然顽固。10月核心PCE环比或将因此升至0.34%（对应同比升至3.3%）。</p>\n<p style=\"text-align: justify;\"><img alt=\"\" class=\"wscn",
+      "link": "https://wallstreetcn.com/member/articles/3785727",
+      "published": "Sat, 21 Nov 2026 01:12:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "2027见闻历，财经人的桌面必备“神历”",
+      "summary": "<p style=\"text-align: left;\"><a href=\"https://wallstreetcn.com/shop/item/1000400\" rel=\"noopener noreferrer nofollow\" target=\"_blank\"><img alt=\"\" class=\"wscnph\" src=\"https://wpimg-wscn.awtmt.com/ff6e28e3-1ef8-445f-947b-2565b7ea3c87.png\" title=\"\" /></a></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><img class=\"wscnph editor-placeholder\" src=\"https://wdl-wscn.awtmt.com/07aeb3e7-f4ca-4207-befb-c987b3dc7011\" /></p>\n<p style=\"text-align: left;\"><a href=\"https://wallstreetcn.com/shop/item/1000400\" rel",
+      "link": "https://wallstreetcn.com/articles/3782813",
+      "published": "Sat, 21 Nov 2026 01:02:55 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "费城联储主席Paulson：不排除连续加息，但强调“有节奏”",
+      "summary": "<p>费城联储主席Anna Paulson表示，愿意考虑在即将举行的政策会议上连续加息以遏制通胀，但强调美联储应以\"审慎\"步伐推进，给家庭、企业和银行留出调整时间。</p>\n<p>11月20日周五，Paulson在接受彭博新闻采访时明确表态，<strong>利率走向\"非常清晰\"，\"需要继续走高\"。</strong></p>\n<p><strong>她表示对连续加息\"持开放态度\"，认为这是\"完全合理的选项\"，但同时拒绝承诺具体节奏，称\"我既不承诺隔次会议加息，也不承诺每次会议加息\"。</strong></p>\n<p>这一表态进一步强化了市场对美联储12月加息的预期。目前，多位官员已公开支持在12月8日至9日的华盛顿会议上再度收紧政策。</p>\n<p><strong>投资者亦普遍预期12月及1月将相继加息，尽管科技股大幅下挫已令后者的概率有所回落。</strong></p>\n<div>\n<h2 id=\"e5620aae\">通胀是\"首要任务\"，经济韧性为加息提供空间</h2>\n</div>\n<p>Paulson认为，当前美国经济整体表现\"相当不错\"，就业市场招聘范围持续扩大，消费强度也超出年初",
+      "link": "https://wallstreetcn.com/articles/3786418",
+      "published": "Sat, 21 Nov 2026 00:52:24 GMT"
+    }
+  ]
+}
