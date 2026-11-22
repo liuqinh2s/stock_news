@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-22",
+  "hour": "09",
+  "total": 5,
+  "fetched_at": "2026-11-22T09:00:57.357033+08:00",
+  "news": [
+    {
+      "source": "华尔街见闻",
+      "title": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责",
+      "summary": "<p style=\"text-align: justify;\">在不久后的11月24日，富国银行新版《在线访问协议》即将生效。</p>\n<p style=\"text-align: justify;\"><strong>根据新增条款，客户把网银登录凭证交给第三方AI智能体，或以其他方式授权其代为操作后，除非法律法规另有规定，银行将把智能体发起的交易视为客户本人授权。</strong></p>\n<p style=\"text-align: justify;\">即使智能体误解指令或超出权限，协议也将相应责任归给客户。客户撤销授权时，须留存记录并通知银行。在法律允许的范围内，客户仍须对通知银行前智能体的操作负责。</p>\n<p style=\"text-align: justify;\">花旗银行也在11月更新了《在线用户协议》。</p>\n<p style=\"text-align: justify;\"><strong>若客户先将登录凭证交给第三方智能体，凭证随后被转交或泄露，他人使用这些凭证进行的操作，按协议仍将被视为客户授权。</strong></p>\n<p style=\"text-align: j",
+      "link": "https://wallstreetcn.com/articles/3786440",
+      "published": "Sun, 22 Nov 2026 00:51:05 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "纳指单周暴跌超10%，此前只发生过10次！",
+      "summary": "<p>CoinBureau在X发文：</p>\n\n<p>纳斯达克100指数刚刚在一周内暴跌10.4%，创下自2020年3月新冠疫情引发的股市崩盘以来最糟糕的一周表现。</p>\n\n<p>此前10次都发生在历史性的市场崩盘期间：</p>\n\n<p>-1987年：黑色星期一。纳斯达克100指数在一周内下跌20.7%，全球市场也随之崩盘。<br />\n-2000年：互联网泡沫破裂。泡沫达到顶峰并破裂后，股市连续5周下跌超过10%。<br />\n-2001年：9·11事件。袭击事件后市场重新开放，一周内下跌17.5%。<br />\n-2008年：全球金融危机。雷曼兄弟倒闭后，股市连续两周下跌超过12%。<br />\n-2020年：新冠疫情引发的股市崩盘。随着全球进入封锁状态，股市下跌12.5%。</p>\n\n<p>如今，2026年的人工智能抛售潮也加入了这一行列。</p>\n\n<p>有网友在下面评论：经历了所有这些波折之后，它又反弹并创下了历史新高。</p>",
+      "link": "https://wallstreetcn.com/charts/41960212",
+      "published": "Sat, 21 Nov 2026 23:33:39 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "AI周报|英伟达董事会不打算恢复黄仁勋职务；DeepSeek千亿融资落地",
+      "summary": "<figure><img alt=\"AI周报|英伟达董事会不打算恢复黄仁勋职务；DeepSeek千亿融资落地\" src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/2a6ec2c7-8c5b-4347-9088-784d3602a6d4.jpg\" /></figure><p>英伟达董事会的表态已将黄仁勋复职的可能性缩小，英伟达临时CEO则呼吁员工“向前看”。</p><p><strong>英伟达董事会不打算恢复黄仁勋职务</strong></p><p>当地时间11月17日，英伟达发布2027财年第三季度财报。该季度英伟达营收1158亿美元，同比增长103%，GAAP净利润653亿美元，同比增长105%，营收和净利润都超过此前市场预期。虽然黄仁勋同日表示他愿意重返CEO的岗位，但英伟达董事会主席哈维·C·琼斯（Harvey C.Jones）在财报电话会上称，董事会不打算恢复他的CEO职务。</p><p>【点评】在外部请愿黄仁勋回归的声浪下，英伟达董事会此次的表态，将黄仁勋复职的可能性缩小。此次财报发布处在一个特殊时期，外界想知",
+      "link": "https://www.yicai.com/news/103449139.html",
+      "published": "Sun, 22 Nov 2026 00:40:42 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "姚顺雨团队回应近百个问题：不刻意刷榜、将训练更大模型",
+      "summary": "<figure><img alt=\"姚顺雨团队回应近百个问题：不刻意刷榜、将训练更大模型\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/74EB5A47-8B34-4D21-9E1E-98E1EC2CC9D8.jpg\" /></figure><p>混元将同时做更大参数规模的模型和小模型。</p><p>11月接连发布Hy4和Hy4 flash后，腾讯开始逐步扭转“AI慢了”的质疑。</p><p>11月21日凌晨在技术社区Reddit上，腾讯首席AI科学家、混元大模型负责人姚顺雨和团队成员进行了持续120分钟的问答（AMA，Ask Me Anything），回答了关于混元研发方向和思路的提问。</p><p class=\"image-blot\"><img alt=\"\" src=\"https://imgcdn.yicai.com/uppics/images/2026/11/7ddd1ef65cc026556f2da88a67044b16.jpg\" /></p><p>模型的参数量问题受到关注，尤其是字节、Kimi都在向上万亿参数推进",
+      "link": "https://www.yicai.com/news/103449148.html",
+      "published": "Sun, 22 Nov 2026 00:40:08 GMT"
+    },
+    {
+      "source": "Bloomberg China",
+      "title": "China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5\" target=\"_blank\">China’s $1.7 Trillion AI Rout Turns Hot Trade Into Losing Bet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRFM5M0lfajByTmNXWHhadkRCd19qQUJGU1FUM0ZUQnBXdVhDQU42NVF1X2RuUHJXUUt4QW41UWpnWS12aHNsX1JZU0RtSTBacFZTU0dncHpmOTRTLWJMbGRwY2pSeHFOTTI3dFFmcXJlRnQwcnRQSjlMSTh1a1pjdkRNQ1dCQlJlSGZPcXZQRk9MdUJBaWlUVFBzT2xCaUV2cUtQTXVCVVY0S0xDWFJEMQ?oc=5",
+      "published": "Sun, 22 Nov 2026 00:00:00 GMT"
+    }
+  ]
+}
