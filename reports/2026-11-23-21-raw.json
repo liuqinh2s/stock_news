@@ -1,0 +1,421 @@
+{
+  "date": "2026-11-23",
+  "hour": "21",
+  "total": 59,
+  "fetched_at": "2026-11-23T21:00:58.637751+08:00",
+  "news": [
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHNYUjVBaVdGVDkyN05ydmFwWGJiS19OZzhHUnhXb0wwOWozV1VGc2lma0dGX1QtaGNQQlRDQ0RDVlliS0xnZnBhMWJUcXhvMlQxclYyNmg5YVdhNVpHYXpYdHhGZzNKcG5aTnplR0VFeDRraWFpckxuWEZUalJuUThSMkViVzNMR1Z1V192aHplZXlKRTZwOHY3SEgwVEdScWJ6aw?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdHNYUjVBaVdGVDkyN05ydmFwWGJiS19OZzhHUnhXb0wwOWozV1VGc2lma0dGX1QtaGNQQlRDQ0RDVlliS0xnZnBhMWJUcXhvMlQxclYyNmg5YVdhNVpHYXpYdHhGZzNKcG5aTnplR0VFeDRraWFpckxuWEZUalJuUThSMkViVzNMR1Z1V192aHplZXlKRTZwOHY3SEgwVEdScWJ6aw?oc=5",
+      "published": "Mon, 23 Nov 2026 12:39:04 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "策略周报：海外恐慌升温 A股承压调整 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1J4Q3dMQllGOENKQ3RBaEFobnpJaHBnVEF4Z2NLcjNXS04wdmlBTkxDMjg4ekFVSlpFclpiUWJYRjFZSnNRaVQxZnpKUEg5R3JhWm1KY013RnExX3JKMW5lWi1UQWtxWWV5Y2pwSkdURFR5d1V6cDhGYnZFTTVxdDRheXM0VldBSWRrY3RUSWtQWVNvNWtPd3BGcWp6Wk1TZWxnaA?oc=5\" target=\"_blank\">策略周报：海外恐慌升温 A股承压调整</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV1J4Q3dMQllGOENKQ3RBaEFobnpJaHBnVEF4Z2NLcjNXS04wdmlBTkxDMjg4ekFVSlpFclpiUWJYRjFZSnNRaVQxZnpKUEg5R3JhWm1KY013RnExX3JKMW5lWi1UQWtxWWV5Y2pwSkdURFR5d1V6cDhGYnZFTTVxdDRheXM0VldBSWRrY3RUSWtQWVNvNWtPd3BGcWp6Wk1TZWxnaA?oc=5",
+      "published": "Mon, 23 Nov 2026 12:05:01 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlRDRThoUTZsY2FVQVR6RlQ5UjRNVGdDcC03VGtJTHltaEhOenJqLWdDcGtrNEdCSE5US0lpQms1TE9idk9fLVZWcmNCSy05aGVfcVE3czZjREs3bzFzT2p4WW9zbm1SbDdBZkk4WjlHcEJONFBBZGk3Uk5BVUxBTzVVM3VkRWNybzVjcVl4SzE3TlJjSkdFaXRZT2FKbDRTYmVtZA?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRlRDRThoUTZsY2FVQVR6RlQ5UjRNVGdDcC03VGtJTHltaEhOenJqLWdDcGtrNEdCSE5US0lpQms1TE9idk9fLVZWcmNCSy05aGVfcVE3czZjREs3bzFzT2p4WW9zbm1SbDdBZkk4WjlHcEJONFBBZGk3Uk5BVUxBTzVVM3VkRWNybzVjcVl4SzE3TlJjSkdFaXRZT2FKbDRTYmVtZA?oc=5",
+      "published": "Mon, 23 Nov 2026 12:46:04 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWNHNFNZcFBjV3hGSTVkOXVFMHZnWUhucFJuTHRiLTF4Ukh0V0lqbU9JUFhaSEYwcUdBSk5naXZfZ2d1UmhjRHI1ME9CNUh1NzVLSTRkbVIwZ1FRSGFOZTNKT09iZXo1SFkwWWJJeG51TmpxTTcyVTdjR3o3aXpIa0pkQTV6bmhaZGNXRjhYT1FReUp2Sm9R?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWNHNFNZcFBjV3hGSTVkOXVFMHZnWUhucFJuTHRiLTF4Ukh0V0lqbU9JUFhaSEYwcUdBSk5naXZfZ2d1UmhjRHI1ME9CNUh1NzVLSTRkbVIwZ1FRSGFOZTNKT09iZXo1SFkwWWJJeG51TmpxTTcyVTdjR3o3aXpIa0pkQTV6bmhaZGNXRjhYT1FReUp2Sm9R?oc=5",
+      "published": "Mon, 23 Nov 2026 12:05:01 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVFU5dnhWUXEzUE9vdTFIa3NyQzZuc1c0LTY0cFkxelRmQW5pRE04blptaVNlOXhDbmxpcFZwa200cnFreEcydl9WWldtdjNOb01VS2JPZlZXbFRsR3kyQXBmT05fNXpjNzU1Q0xUR3l3X2dqLXdnbkl3VEVUeXlDZG1FazVxWUdzdkloaldpVko0N1NJSFUyTFh4eURSdC1ZNVdpbQ?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVFU5dnhWUXEzUE9vdTFIa3NyQzZuc1c0LTY0cFkxelRmQW5pRE04blptaVNlOXhDbmxpcFZwa200cnFreEcydl9WWldtdjNOb01VS2JPZlZXbFRsR3kyQXBmT05fNXpjNzU1Q0xUR3l3X2dqLXdnbkl3VEVUeXlDZG1FazVxWUdzdkloaldpVko0N1NJSFUyTFh4eURSdC1ZNVdpbQ?oc=5",
+      "published": "Mon, 23 Nov 2026 11:12:45 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW53UjdRaWkxeDJfb1UxWkFEOXpFeTVDc0lMc0NOa042ZVVzLV92djMyX2JsbG1oV3N4RUNSc3RhRGI1N0w5MnV2UXZVaVVPOHNRQWY0M2F5S2JLb2RoWWRmSU1udS1Memh6YWtlX2h4R2VhbWNMcWlNOWhSdUFhUlZSdFJPMU8tMDJpOHNnREt2VFc0Smp0aWFLcEMtc3B5RHB6OA?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYW53UjdRaWkxeDJfb1UxWkFEOXpFeTVDc0lMc0NOa042ZVVzLV92djMyX2JsbG1oV3N4RUNSc3RhRGI1N0w5MnV2UXZVaVVPOHNRQWY0M2F5S2JLb2RoWWRmSU1udS1Memh6YWtlX2h4R2VhbWNMcWlNOWhSdUFhUlZSdFJPMU8tMDJpOHNnREt2VFc0Smp0aWFLcEMtc3B5RHB6OA?oc=5",
+      "published": "Mon, 23 Nov 2026 11:40:49 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUER2LTZGNVdRbWZHQ25NOVF3SDJxbi12RzVCRkFtZWowUnY4Q21ldjVrZDBuV3NqRWJhSlhfc0t1RGp1X01xbzlyVzItTlY3QnJDLUkyLUk2N3Fxd2RIbzI0UDlXcGFwbmVuRE9Jb1NCc0s0SkhDWktHR21uTm14TDdqaDQyQ2dUQURrWXVQMjZkMXlmdng0?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUER2LTZGNVdRbWZHQ25NOVF3SDJxbi12RzVCRkFtZWowUnY4Q21ldjVrZDBuV3NqRWJhSlhfc0t1RGp1X01xbzlyVzItTlY3QnJDLUkyLUk2N3Fxd2RIbzI0UDlXcGFwbmVuRE9Jb1NCc0s0SkhDWktHR21uTm14TDdqaDQyQ2dUQURrWXVQMjZkMXlmdng0?oc=5",
+      "published": "Mon, 23 Nov 2026 12:39:05 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFVUcktUWE9QeUdPcWVQM096cFpvUVlOeTQzYWRxN2Z0cW05WFFmWk54WVg5WUxkUWw5MDJWT0dhd212X2ZiOF9Bc21DNnNIM0pxWlo0WFExZ2NmS29RWHlYT0pLM2V4N2RrLUstT3ZJSjZPMFhkWDUxMmdYTkRrR21Pc1FWTHFvQkhaMnczWDdiV09LeU44?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFVUcktUWE9QeUdPcWVQM096cFpvUVlOeTQzYWRxN2Z0cW05WFFmWk54WVg5WUxkUWw5MDJWT0dhd212X2ZiOF9Bc21DNnNIM0pxWlo0WFExZ2NmS29RWHlYT0pLM2V4N2RrLUstT3ZJSjZPMFhkWDUxMmdYTkRrR21Pc1FWTHFvQkhaMnczWDdiV09LeU44?oc=5",
+      "published": "Mon, 23 Nov 2026 12:05:01 GMT"
+    },
+    {
+      "source": "新浪财经",
+      "title": "A股-研报详情 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2NNMnZiWHE5R05qU09ucWVQX1Jucjc4cW91V01qeE9VYUpKclhKQmtQWmw4Rzd4VWVZQ0FfNExTc20tMkxjYTFmN0p2N2hPaTFwSjVSc0dlNmVfUUJlMFFoci1TUWs4T2hoaVI2OUtKRHoxZlBmLWlGSWxlVkVCSzlPSWpjOGg2ZndlSXBrM243bDVWX0pZ?oc=5\" target=\"_blank\">A股-研报详情</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM2NNMnZiWHE5R05qU09ucWVQX1Jucjc4cW91V01qeE9VYUpKclhKQmtQWmw4Rzd4VWVZQ0FfNExTc20tMkxjYTFmN0p2N2hPaTFwSjVSc0dlNmVfUUJlMFFoci1TUWs4T2hoaVI2OUtKRHoxZlBmLWlGSWxlVkVCSzlPSWpjOGg2ZndlSXBrM243bDVWX0pZ?oc=5",
+      "published": "Mon, 23 Nov 2026 12:29:01 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "ST洲际因涉嫌违反证券法律法规等违规行为被证监会立案调查 - 财富号",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Nmp0UDhTdWs3dGl0X0FyUkhwYUpKbFVYQ0QxR0lPTWZsaGF0R2ZGaUx3anB4TTBSdEc1d3pSSHBOWUZtNTZMYmxLVy1kMmVzdTFMNDJkX0tCczBTUmNfWi1KV1JtZWx4RVdZ?oc=5\" target=\"_blank\">ST洲际因涉嫌违反证券法律法规等违规行为被证监会立案调查</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财富号</font>",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Nmp0UDhTdWs3dGl0X0FyUkhwYUpKbFVYQ0QxR0lPTWZsaGF0R2ZGaUx3anB4TTBSdEc1d3pSSHBOWUZtNTZMYmxLVy1kMmVzdTFMNDJkX0tCczBTUmNfWi1KV1JtZWx4RVdZ?oc=5",
+      "published": "Mon, 23 Nov 2026 11:04:00 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "【调研快报】瑞芯微接待长江证券等60家机构调研 - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE41cUtPczk2Ykhud0h3Y0NEM0FmS3BLaDJOU2FmSC01Vlg0aTRETWptM0pWNi0yYTFRMEZsY1k4WDRkZmkyeFJaSkt4ZVc2V3FRTmpXYTBnZ1V0Sl9yb2tydFlR?oc=5\" target=\"_blank\">【调研快报】瑞芯微接待长江证券等60家机构调研</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41cUtPczk2Ykhud0h3Y0NEM0FmS3BLaDJOU2FmSC01Vlg0aTRETWptM0pWNi0yYTFRMEZsY1k4WDRkZmkyeFJaSkt4ZVc2V3FRTmpXYTBnZ1V0Sl9yb2tydFlR?oc=5",
+      "published": "Mon, 23 Nov 2026 11:05:50 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "宏桥控股：拟斥资2亿至4亿元回购股份 - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwV1UzSEZEQXZhNzFDQTI2S2dRN1hxblBNbUVrUGFuRHc3VTB6WExQTXNFeE5yZmlOcXNUR05CNVFzMTFPdXJwUC1ZTk9YdXV5ekI4OEtiLXdHMHlnQ1pDaFBobEVRUQ?oc=5\" target=\"_blank\">宏桥控股：拟斥资2亿至4亿元回购股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwV1UzSEZEQXZhNzFDQTI2S2dRN1hxblBNbUVrUGFuRHc3VTB6WExQTXNFeE5yZmlOcXNUR05CNVFzMTFPdXJwUC1ZTk9YdXV5ekI4OEtiLXdHMHlnQ1pDaFBobEVRUQ?oc=5",
+      "published": "Mon, 23 Nov 2026 12:11:58 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "成交破80亿！首批主动ETF上市首秀：最高仓位超99% - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MXzdBcGNicUxVakxXVVljNi1tRHNfTV9UeC0xVm1YVmJ6WlloRWJkdUd0RUFMVFZKeTlvb2pVd2h2VmVkYTlqNmdJVFZ2cjNrYlZrdkxMQ3lVbnE4Q2RCVndlWTZKdw?oc=5\" target=\"_blank\">成交破80亿！首批主动ETF上市首秀：最高仓位超99%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MXzdBcGNicUxVakxXVVljNi1tRHNfTV9UeC0xVm1YVmJ6WlloRWJkdUd0RUFMVFZKeTlvb2pVd2h2VmVkYTlqNmdJVFZ2cjNrYlZrdkxMQ3lVbnE4Q2RCVndlWTZKdw?oc=5",
+      "published": "Mon, 23 Nov 2026 11:37:30 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "盐湖股份：拟斥资15亿至20亿元回购股份 - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMjF0bTYtcm1kTmtUZ0RFeEZPb2hDT2MzenNaRGVrVDduYzBJaExSelYtYlFLby1LNENzNHRwYUZYbkdtRW5ZLUU0SHVEcXFRVTBmaDJLWlpLYy1wVTl1SXQ3eGtmUQ?oc=5\" target=\"_blank\">盐湖股份：拟斥资15亿至20亿元回购股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KMjF0bTYtcm1kTmtUZ0RFeEZPb2hDT2MzenNaRGVrVDduYzBJaExSelYtYlFLby1LNENzNHRwYUZYbkdtRW5ZLUU0SHVEcXFRVTBmaDJLWlpLYy1wVTl1SXQ3eGtmUQ?oc=5",
+      "published": "Mon, 23 Nov 2026 12:34:02 GMT"
+    },
+    {
+      "source": "东方财富",
+      "title": "广田集团：拟斥资3000万至6000万元回购股份 - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlWE5sQWljeElYZjJldnlqbDdlR0VJRWNRbGpYc0otU1ItX0hqXzlHRmxIMTR3QUdidy1VLUoxYlF0TjQ3S1hjMk5RaUlxa0ZDT0NLRjZQNDZuUll5YUlQaWpiMGhpQQ?oc=5\" target=\"_blank\">广田集团：拟斥资3000万至6000万元回购股份</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlWE5sQWljeElYZjJldnlqbDdlR0VJRWNRbGpYc0otU1ItX0hqXzlHRmxIMTR3QUdidy1VLUoxYlF0TjQ3S1hjMk5RaUlxa0ZDT0NLRjZQNDZuUll5YUlQaWpiMGhpQQ?oc=5",
+      "published": "Mon, 23 Nov 2026 12:56:03 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "机构评级|野村东方国际证券给予冰轮环境“增持”评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zYnJIeDlrZzBXSVEwaUhPMExfV29KSi0tN2hiZmxpQzJBVjlVSS1reER5UnV0NnI3UHk4cVB2MkRrdXJGNnBYajQ2TS1OeExRdV9sODJTd1kzODV0dlNqS1NB?oc=5\" target=\"_blank\">机构评级|野村东方国际证券给予冰轮环境“增持”评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zYnJIeDlrZzBXSVEwaUhPMExfV29KSi0tN2hiZmxpQzJBVjlVSS1reER5UnV0NnI3UHk4cVB2MkRrdXJGNnBYajQ2TS1OeExRdV9sODJTd1kzODV0dlNqS1NB?oc=5",
+      "published": "Mon, 23 Nov 2026 12:50:59 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "朝阳科技：向特定对象发行股票申请获深交所受理 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uSm43NDhBQXA0UC1HS25OcnBuUGtwTUdrWFdTakNjVU9yNHNpN3FyeVNsODFOZTNGV1UyWjR6ZFhWeUtxelNXRVNqN0xrcUtMT0xwS1FDMFl2QU1CUkE?oc=5\" target=\"_blank\">朝阳科技：向特定对象发行股票申请获深交所受理</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uSm43NDhBQXA0UC1HS25OcnBuUGtwTUdrWFdTakNjVU9yNHNpN3FyeVNsODFOZTNGV1UyWjR6ZFhWeUtxelNXRVNqN0xrcUtMT0xwS1FDMFl2QU1CUkE?oc=5",
+      "published": "Mon, 23 Nov 2026 11:10:22 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中邮证券经纪人谭红玉违规转佣金被警示 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoWE5VUU53aXUtZnRkWENWaGtjaVExclpwaVNfQ285cGpKTUJiY1B0UE5qSGFFLVVVUkdiQzZhUFhkUVB1VUpYZEhvSXhKNHRfY2pjb0QxTFNpYjFBVVVFUERn?oc=5\" target=\"_blank\">中邮证券经纪人谭红玉违规转佣金被警示</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoWE5VUU53aXUtZnRkWENWaGtjaVExclpwaVNfQ285cGpKTUJiY1B0UE5qSGFFLVVVUkdiQzZhUFhkUVB1VUpYZEhvSXhKNHRfY2pjb0QxTFNpYjFBVVVFUERn?oc=5",
+      "published": "Mon, 23 Nov 2026 11:51:19 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "福昕软件：国泰海通证券股份有限公司、深圳市全景网络有限公司等多家机构于11月20日调研我司 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE53QmhING5IMXZ6Z2gzQWdjdDllckl3eWhObnktUF82Qm5LY3V0YjJzT2ZCaDgyT1FlMkYxUVE0aGFMUEg5NVlnV0E5d0VHSVFvU0U0UlltOF8xVGYzd2VPLVln?oc=5\" target=\"_blank\">福昕软件：国泰海通证券股份有限公司、深圳市全景网络有限公司等多家机构于11月20日调研我司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53QmhING5IMXZ6Z2gzQWdjdDllckl3eWhObnktUF82Qm5LY3V0YjJzT2ZCaDgyT1FlMkYxUVE0aGFMUEg5NVlnV0E5d0VHSVFvU0U0UlltOF8xVGYzd2VPLVln?oc=5",
+      "published": "Mon, 23 Nov 2026 12:22:09 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "鄂尔多斯：长江证券、泓德基金等多家机构于11月20日调研我司 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMVctb2lJOFdqR0VKd2tWVTZtY0FHWWlnQUFiVlM5X1JCUEQ4WS1YMkZTTTJ4NnFsV3gxYWlLZmVlWWFjeF9SSHJmY1lQWDY0VEwyZm1FX05mZ21rQmJBSFF3?oc=5\" target=\"_blank\">鄂尔多斯：长江证券、泓德基金等多家机构于11月20日调研我司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMVctb2lJOFdqR0VKd2tWVTZtY0FHWWlnQUFiVlM5X1JCUEQ4WS1YMkZTTTJ4NnFsV3gxYWlLZmVlWWFjeF9SSHJmY1lQWDY0VEwyZm1FX05mZ21rQmJBSFF3?oc=5",
+      "published": "Mon, 23 Nov 2026 12:11:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "国机汽车：国泰海通证券投资者于11月20日调研我司 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NLWotMHhxemRFdDVER3hWWDdUOE43bFpxRkhxMWJkeVgtUzVfVG4wbXNhUzByM184QUlQd3RfZmctcXlpeVFid21fVnJmbl9JaVdPSXRSRVBZVFJub01VMTNn?oc=5\" target=\"_blank\">国机汽车：国泰海通证券投资者于11月20日调研我司</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NLWotMHhxemRFdDVER3hWWDdUOE43bFpxRkhxMWJkeVgtUzVfVG4wbXNhUzByM184QUlQd3RfZmctcXlpeVFid21fVnJmbl9JaVdPSXRSRVBZVFJub01VMTNn?oc=5",
+      "published": "Mon, 23 Nov 2026 12:20:55 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "先进数通：关于取得金融机构股票回购专项贷款承诺函的公告 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SRkQ3WVBIRi1ub3dPeERWWWR4UEU1ZDVXQVN4ZHBVNTh1cXZOaF9WTF9Vb2p5NnF0MEZxM1hxaG1KZ1pxc25VbWprdVU5MnExMERBQ01WamtDeDYzZVhySlZn?oc=5\" target=\"_blank\">先进数通：关于取得金融机构股票回购专项贷款承诺函的公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SRkQ3WVBIRi1ub3dPeERWWWR4UEU1ZDVXQVN4ZHBVNTh1cXZOaF9WTF9Vb2p5NnF0MEZxM1hxaG1KZ1pxc25VbWprdVU5MnExMERBQ01WamtDeDYzZVhySlZn?oc=5",
+      "published": "Mon, 23 Nov 2026 12:01:36 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中邮证券：给予中芯国际买入评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LdzBCdFFhTTRNbU92LXVvY09VTnp3TmtpYnp4UEZTZHNGR3lFRWZyOEtTNF9IbUJhMC1idWJPZUhEejF1LWRlR2pwZjNvSFUxSFEzcjhMUFNYcDI4VDd3OW9B?oc=5\" target=\"_blank\">中邮证券：给予中芯国际买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LdzBCdFFhTTRNbU92LXVvY09VTnp3TmtpYnp4UEZTZHNGR3lFRWZyOEtTNF9IbUJhMC1idWJPZUhEejF1LWRlR2pwZjNvSFUxSFEzcjhMUFNYcDI4VDd3OW9B?oc=5",
+      "published": "Mon, 23 Nov 2026 11:51:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "中邮证券：给予泸州老窖买入评级 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlaFh4SE5BT2JoV2FUS1Zsb0RFVHV6UjlYcGVCdzFocHlQUUF2Z2ZKV1laS0xodG42bHNDLTQ2bmkzMkJwVUFsQlVJQ05yTlo1SzhYaGJ2djlyYWI5bFQ2V1hn?oc=5\" target=\"_blank\">中邮证券：给予泸州老窖买入评级</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlaFh4SE5BT2JoV2FUS1Zsb0RFVHV6UjlYcGVCdzFocHlQUUF2Z2ZKV1laS0xodG42bHNDLTQ2bmkzMkJwVUFsQlVJQ05yTlo1SzhYaGJ2djlyYWI5bFQ2V1hn?oc=5",
+      "published": "Mon, 23 Nov 2026 11:01:21 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "广田集团：股票收盘价首次低于1元 存在终止上市风险 - 同花顺",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DalZ5a2pOLUZPaDdBUUVCR0s1ajl5N09CZkZHVDdlWUN4Vm1pNzhaTVQxM2t6eGFZLUdYY2FGbmFRWkYzdDRoem1ISlRUSi1zbExxWnhhV0luN3BrOHRpWUl3?oc=5\" target=\"_blank\">广田集团：股票收盘价首次低于1元 存在终止上市风险</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">同花顺</font>",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DalZ5a2pOLUZPaDdBUUVCR0s1ajl5N09CZkZHVDdlWUN4Vm1pNzhaTVQxM2t6eGFZLUdYY2FGbmFRWkYzdDRoem1ISlRUSi1zbExxWnhhV0luN3BrOHRpWUl3?oc=5",
+      "published": "Mon, 23 Nov 2026 11:20:45 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "南向资金追踪｜净卖出超96亿港元 抛售三大ETF加仓阿里及美团 - 财联社",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE51M0x1TThYVG9fNG91RUh0dzlQTWdKTW1ZWU81ZEZ5U1VRVzItSXZJbUtidG50M1VYM2NWTzBmb0dJcHdhODNScg?oc=5\" target=\"_blank\">南向资金追踪｜净卖出超96亿港元 抛售三大ETF加仓阿里及美团</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">财联社</font>",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51M0x1TThYVG9fNG91RUh0dzlQTWdKTW1ZWU81ZEZ5U1VRVzItSXZJbUtidG50M1VYM2NWTzBmb0dJcHdhODNScg?oc=5",
+      "published": "Mon, 23 Nov 2026 12:07:00 GMT"
+    },
+    {
+      "source": "财联社",
+      "title": "A股回购潮来了 逾30家公司集体发布回购公告 摩尔线程拟最高10亿元回购 - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9POTgtOVF3YTZaVGdRUVpDczA2bmNmeW8yQl9nWXJuZUNHUmJwYm5Tb3VUTFVFZmRwb3VWWnRHS2RaY21LU25od055alJJMVU3SmwwY3pSVDRNM04zVXhmNTcwa0tXUQ?oc=5\" target=\"_blank\">A股回购潮来了 逾30家公司集体发布回购公告 摩尔线程拟最高10亿元回购</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9POTgtOVF3YTZaVGdRUVpDczA2bmNmeW8yQl9nWXJuZUNHUmJwYm5Tb3VUTFVFZmRwb3VWWnRHS2RaY21LU25od055alJJMVU3SmwwY3pSVDRNM04zVXhmNTcwa0tXUQ?oc=5",
+      "published": "Mon, 23 Nov 2026 11:44:13 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中际旭创：拟以20亿元-40亿元回购股份，回购价格不超过600元/股",
+      "summary": "<p>中际旭创公告，回购股份用于实施股权激励计划或员工持股计划，以及为维护公司价值及股东权益所必需，回购期限自董事会审议通过回购股份议案之日起不超过3个月。</p>",
+      "link": "https://wallstreetcn.com/livenews/3204297",
+      "published": "Mon, 23 Nov 2026 12:31:06 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "面对英伟达挖角传闻，Arm CEO 哈斯最新承诺：将执掌公司至2033年，兼任软银集团副董事长",
+      "summary": "<p>Arm首席执行官雷内·哈斯与公司签署新协议，<strong>承诺将领导公司至2033年，同时出任软银集团副董事长，</strong>进一步强化了这家芯片设计公司与其控股股东之间的治理纽带。</p>\n<p>ARM于2026年11月23日正式宣布上述任命。哈斯在软银集团的新职位将于12月1日生效。就在此前数日，<strong>彭博曾报道哈斯于11月18日遭英伟达董事会招募机构接触，市场对其去留的不确定性随即升温，此次官宣有效平息了外界猜测。</strong></p>\n<p><strong>\"我从未像现在这样对ARM的未来充满信心，\"</strong>哈斯在公告中表示：</p>\n<blockquote>\n<p>\"我深信我们的团队、我们的战略以及未来的机遇，我全力致力于在未来多年实现ARM的全部潜力。\"</p>\n</blockquote>\n<p>此举对ARM股东意义重大。在哈斯领导下，ARM已完成纳斯达克上市，并将业务从单纯的IP授权延伸至自主芯片研发，恰逢AI浪潮推动算力需求急剧扩张之际，管理层的稳定性被视为关键变量。<strong>Arm盘前股价一度涨超11%。</strong></",
+      "link": "https://wallstreetcn.com/articles/3786529",
+      "published": "Mon, 23 Nov 2026 12:11:58 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "2018年噩梦重演？走势高度相似，纳斯达克反弹之后或还有下一波回调",
+      "summary": "<p style=\"text-align: left;\">美股抛售潮已将市场推至极端超卖状态，但历史经验显示，急跌后的反弹未必意味着市场已经触底，纳斯达克可能仍面临新一轮回调。</p>\n<p style=\"text-align: left;\">标普500指数已跌入极度超卖区间，科技股波动率飙升至2020年以来最高水平，对冲基金也在以近十年来最快的速度削减仓位。<strong>市场恐慌程度与资金撤退规模，均已达到罕见水平。</strong></p>\n<p style=\"text-align: left;\">高盛数据显示，其恐慌指标（Vol Panic Index）上周末收于9.8，满分为10。历史上，这一水平通常是强烈的逆向加仓信号。但当前美联储仍处于加息周期，情况有所不同：此前恐慌指数超过9且美联储同步加息时，标普500指数未来三个月平均仅上涨0.4%。</p>\n<p style=\"text-align: left;\">更值得警惕的是，当前市场走势与2018年纳斯达克的一轮调整高度相似。<strong>当年市场在急跌后曾出现快速反弹，但随后再度下探并创出新低。如今，随着科技股抛售加剧，",
+      "link": "https://wallstreetcn.com/articles/3786527",
+      "published": "Mon, 23 Nov 2026 12:09:30 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "Arm首席执行官雷内·哈斯（Rene Haas）确认对公司的长期承诺，Arm美股盘前涨幅扩大至10%。",
+      "summary": "<p>Arm首席执行官雷内·哈斯（Rene Haas）确认对公司的长期承诺，Arm美股盘前涨幅扩大至10%。</p>",
+      "link": "https://wallstreetcn.com/livenews/3204288",
+      "published": "Mon, 23 Nov 2026 12:05:58 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "知乎：基金间接投资DeepSeek获低个位数股权",
+      "summary": "<p>知乎在港交所公告，集团认购天津砺思星深股权投资合伙企业（有限合伙）的有限合伙权益，该基金已通过投资主体间接投资杭州深度求索人工智能基础技术研究有限公司（DeepSeek），获得DeepSeek低个位数百分比股权。集团于该基金的合伙权益低于30%。DeepSeek专注于通用人工智能研究，提供多种大型模型及API服务。</p>",
+      "link": "https://wallstreetcn.com/livenews/3204286",
+      "published": "Mon, 23 Nov 2026 12:01:06 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "439亿美元！CrowdStrike收购Zscaler，创网络安全行业并购纪录",
+      "summary": "<p>网络安全行业正在经历一场规模空前的整合。CrowdStrike宣布以约439亿美元全股票交易收购网络安全公司Zscaler，刷新该行业并购纪录，同时公布的第三财季业绩也超出市场预期，两大利好叠加，进一步强化了市场对这家公司成为AI时代网络安全领域主导平台的预期。</p>\n<p>根据双方周一发布的公告，Zscaler股东将以1.135股CrowdStrike普通股换取每股Zscaler普通股，折合每股Zscaler约260.41美元，较Zscaler 11月20日收盘价194.82美元溢价约34%。交易完成后，现有CrowdStrike股东将持有合并后公司约84.1%的股权，Zscaler股东持有约15.9%。</p>\n<p>与此同时，CrowdStrike公布2027财年第三季度营收15.8亿美元，高于市场预期的15.3亿美元；第四季度营收指引为16.4亿美元，亦超出市场预期的16.2亿美元。</p>\n<p>此次收购将使CrowdStrike从终端安全领域全面扩张至网络安全领域，可寻址市场规模预计扩大逾1850亿美元。合并后公司的年度经常性收入（ARR）预计逾100亿美元。Cro",
+      "link": "https://wallstreetcn.com/articles/3786525",
+      "published": "Mon, 23 Nov 2026 11:54:07 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "中国人民银行行长潘功胜会见欧洲中央银行、欧盟委员会和欧元集团相关负责人",
+      "summary": "<p>中国人民银行行长潘功胜会见欧洲中央银行执行委员奇波洛内、欧盟委员会经济与金融事务总司长沃威和欧元集团工作组主席萨伦海莫。双方围绕中国和欧元区经济金融形势、货币政策、汇率以及中欧在二十国集团框架下合作等议题进行了深入讨论。</p>\n<p>潘功胜表示，中国人民银行愿同欧盟三家机构一道，积极落实双方领导人达成的重要共识，坚持相互尊重、开放合作，通过对话协商妥善管控分歧，拓展各项务实合作，为中欧关系健康稳定发展作出积极贡献。中欧加强宏观经济金融政策的沟通与交流，有利于增进理解与互信，务实推进货币金融领域合作。</p>\n\n<p>欧方表示，当今世界充满不确定性，欧中宏观经济管理部门对话对加强政策沟通协调、深化合作有重要意义。三家机构愿同中国人民银行加强对话磋商，开展平等互利合作，推动欧中关系稳定平衡发展。（中国央行网站）</p>",
+      "link": "https://wallstreetcn.com/livenews/3204272",
+      "published": "Mon, 23 Nov 2026 11:47:22 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "AI服务器临交付暴涨45%，台积电收紧账期要现款：黄仁勋刚走，全球供应链撕破脸",
+      "summary": "<p style=\"text-align: left;\">过去几年，黄仁勋不只是英伟达掌门人，<strong>更像是全球 AI 供应链的“定海神针”</strong>，每逢AI泡沫的质疑此起彼伏，他总能镇住场子，给市场信心再添一把火。</p>\n<p style=\"text-align: justify;\">如今，随着核心人物的突然退场，最先崩盘或许并非技术叙事，也不是算力需求，而是<strong>支撑起这万亿投资狂潮的底层默契</strong>：上下游互相垫资、彼此兜底的好日子，到头了。</p>\n<p style=\"text-align: justify;\">从台积电卡账期，到戴尔们临交付加价 45%、英伟达撤融资——没了核心担保人，<strong>谁都不愿接最后一棒的“击鼓传花”</strong>。一夜之间，产业链正从“拼命加杠杆”，迅速切回“现款现货”。</p>\n<h2 style=\"text-align: justify;\">合同变废纸 宁吃官司也要涨价45%</h2>\n<p style=\"text-align: justify;\">英国量化交易巨头 XTX Markets 一纸",
+      "link": "https://wallstreetcn.com/articles/3786524",
+      "published": "Mon, 23 Nov 2026 11:38:53 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "智谱GLM-5.4携循环推理架构上线，如何以更少token完成思考",
+      "summary": "<p style=\"text-align: justify;\">11月23日，智谱（<a href=\"http://02513.hk/\" rel=\"noopener noreferrer nofollow\" target=\"_blank\">02513.HK</a>）新模型GLM-5.4上线GLM Coding Plan订阅体系，同步接入ZCode、Trae等编码平台。V2、V3及团队版订阅用户使用GLM-5.4的额度提升至原来的1.5倍。</p><p style=\"text-align: justify;\">智谱介绍，GLM-5.4是公司第一代采用Loop Transformer架构的旗舰模型，做法是把GLM-5基座中的28层改为共享权重、循环执行两轮，在不增加参数量的情况下增加模型的计算深度。基座参数量约750B。</p><p style=\"text-align: justify;\">智谱称，API将在完成安全评估后开放，模型权重计划开源。</p><p style=\"text-align: justify;\">相比上一代，GLM-5.4的变化集中在架构层。GLM-5.3与GLM-5.",
+      "link": "https://wallstreetcn.com/articles/3786523",
+      "published": "Mon, 23 Nov 2026 11:28:07 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "12月加息或成衰退导火索？对冲大佬阿克曼呼吁美联储将2%通胀红线上移至3%",
+      "summary": "<p style=\"text-align: left;\">美联储是否应该继续加息，正面临越来越大的争议。对冲基金大佬比尔·阿克曼<strong>（</strong>Bill Ackman）警告，当前金融条件已大幅收紧，如果美联储在12月9日的政策会议上继续加息，将是严重的政策失误，甚至可能把美国乃至全球经济推入衰退。</p>\n<p style=\"text-align: left;\">11月23日，阿克曼在X平台发文称，<strong>美联储可能在12月9日“再犯一个错误”，因为金融条件已经明显收紧。</strong>他以SpaceX为例指出，该公司近期有担保债务融资利率达到8.259%，而此前发行无担保债券时的利率尚不足6%。与此同时，近期股市大幅下跌也进一步推高了企业股权融资成本。</p>\n<p style=\"text-align: left;\">除了反对进一步加息，<strong>阿克曼还提出了一项更具争议性的主张：将美联储长期通胀目标从2%上调至3%。</strong>他认为，地缘风险、全球国防开支上升、关税壁垒，以及人工智能基础设施的大规模投资，正在改变全球经济的运行环境。</",
+      "link": "https://wallstreetcn.com/articles/3786522",
+      "published": "Mon, 23 Nov 2026 11:24:05 GMT"
+    },
+    {
+      "source": "华尔街见闻",
+      "title": "廖岷主持第十七次中欧财金对话",
+      "summary": "<p>财政部副部长廖岷与欧盟委员会经济与金融事务总司长沃威在北京共同主持第十七次中欧财金对话。会议围绕宏观经济形势和政策、中欧在二十国集团（G20）框架下的多边合作等议题进行了深入讨论。欧方欧元集团工作组主席萨伦海默、欧央行执行委员会委员奇波洛内以及中国财政部、人民银行相关司局代表参加会议。</p>\n<p>廖岷表示，当前形势下，中欧应共同维护和践行真正的多边主义，推动建设开放型世界经济，为世界经济注入更多稳定性和确定性。包括中欧在内的主要经济体应采取必要措施推动结构性改革，深化宏观政策协调，维护全球产业链供应链稳定畅通，促进全球经济金融稳定。中方愿同欧方扩大相互开放，做大合作蛋糕，推动中欧经济合作向上平衡发展。希望欧方尊重市场经济和公平竞争原则，为中国企业提供公平、公正、非歧视的营商环境。</p>\n\n<p>欧方表示，欧中财金对话机制是双方深化宏观政策协调、加强财金合作的重要平台。欧中是全球主要经济体，互为第二大贸易伙伴，欧方重视与中方的宏观政策沟通与务实合作。欧方愿同中方在相互尊重、对等开放的基础上加强建设性对话，开展平等互利合作，妥处矛盾分歧，有序推进欧中经济再平衡。（财政部网站）<",
+      "link": "https://wallstreetcn.com/livenews/3204253",
+      "published": "Mon, 23 Nov 2026 11:09:12 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "从超级个体迈向超级组织，陆家嘴金融沙龙第四十三期热议AI重塑公募投研新生态",
+      "summary": "<figure><img alt=\"从超级个体迈向超级组织，陆家嘴金融沙龙第四十三期热议AI重塑公募投研新生态\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/bdba81042c302d221f77df12f7e2bf22.jpg\" /></figure><p>当前，人工智能加速向金融领域渗透，资产管理行业正经历由数字化向智能化的深刻变革。</p><p>当前，人工智能加速向金融领域渗透，资产管理行业正经历由数字化向智能化的深刻变革。公募基金作为资本市场重要的专业机构投资者，如何把握机遇、应对挑战，推动人工智能与投研业务深度融合，成为行业高质量发展的必答题。</p>\n\n<p>11月21日，陆家嘴金融沙龙2026年第四十三期在上海浦东举行。本期沙龙以“人工智能重塑公募投研新生态——观察、机遇与挑战”为主题，与会嘉宾围绕人工智能技术在公募基金投研业务中的应用实践、AI资管业务的发展与协同以及人工智能赋能公募基金投研新生态的构建等话题展开研讨。</p>\n\n<p><strong>行业机遇在效率革命、能力平权、组织沉淀、信任重建四个方向<",
+      "link": "https://www.yicai.com/news/103450912.html",
+      "published": "Mon, 23 Nov 2026 12:55:12 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "“中国汽车第一城”今年产量持续下滑，未来要以AI壮大新增量",
+      "summary": "<figure><img alt=\"“中国汽车第一城”今年产量持续下滑，未来要以AI壮大新增量\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/d76140128586520126b0392c5b5c01d8.jpg\" /></figure><p>重庆去年登顶“中国汽车第一城”。</p><p>汽车产业的激烈竞争正在让产业区域格局风云变幻。去年登顶“中国汽车第一城”的重庆，今年汽车产量却急转直下，而且降幅逐月扩大。</p>\n\n<p>根据国家数据库数据显示，1-10月，重庆生产汽车186.63万辆，相比去年同期的219.93万辆，下降了15.1%。汽车产业增加值也从1-9月的零增长转为负增长，1-10月，重庆汽车产业增加值下降0.4%。</p>\n\n<p>不过，火石创造产业研究院院长冯雷表示，重庆汽车产业支撑因素也在积累——长安深蓝、启源系列在走量，出口依托西部陆海新通道持续扩张，赛力斯与华为合作理顺后存在新品周期的修复空间。</p>\n\n<p><strong>急转直下</strong></p>\n\n<p>过去5年，重庆汽车产量快速增加。",
+      "link": "https://www.yicai.com/news/103450568.html",
+      "published": "Mon, 23 Nov 2026 12:48:10 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "信托公司年内密集“补血”超160亿，增资含金量差异大",
+      "summary": "<figure><img alt=\"信托公司年内密集“补血”超160亿，增资含金量差异大\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/054d9a0fd394e829a161e98850b1a1ea.jpg\" /></figure><p>有何考虑？</p><p>今年以来，信托行业密集“补血”受到关注。近日，西藏信托公告办结相关工商变更登记，注册资本由52亿元增至85亿元。除西藏信托外，今年还有华宸信托、爱建信托、国民信托、上海信托和紫金信托获批增资，合计增资金额超百亿元。</p>\n\n<p>在受访人士看来，今年以来的信托增资并非单纯的资本补充，而是行业深度调整期的必然结果，本质上是行业从规模扩张转向质量竞争的前置准备。</p>\n\n<p>值得注意的是，从资金来源和增资方式看，各家信托公司的增资“含金量”存在差异。天府立言金融研究院院长曾刚对第一财经表示，近年来，信托行业回归本源的监管导向已十分明确，增资会成为部分机构的必要选择，但也意味着盈利不足、资本薄弱且无力增资的尾部机构面临更大的洗牌甚至是淘汰压力。</p>\n\n<p><st",
+      "link": "https://www.yicai.com/news/103450895.html",
+      "published": "Mon, 23 Nov 2026 12:44:26 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "居民用电连续走弱，产业用电韧性依旧",
+      "summary": "<figure><img alt=\"居民用电连续走弱，产业用电韧性依旧\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/3ff913975771eb2618bcc29a08646662.jpg\" /></figure><p>居民用电同比下滑主要是天气因素叠加基数效应。</p><p>11月23日，国家能源局发布2026年1-10月份全社会用电量数据。10月份，全社会用电量8709亿千瓦时，同比增长1.6%，较9月份回升0.4个百分点。</p>\n\n<p>分项来看，居民用电是本次数据中波动最突出的板块。当月，城乡居民生活用电量1081亿千瓦时，同比下降6.4%。第一财经记者根据官方数据梳理发现，自今年6月起，居民用电已经连续5个月同比下降，6—10月分别下降3.1%、5.1%、4%、6%、6.4%。</p>\n\n<p>受连续多月走弱拖累，1-10月，城乡居民生活用电量13427亿千瓦时，同比下降0.8%。</p>\n\n<p>居民用电同比下滑主要是天气因素叠加基数效应。国家能源局介绍，城乡居民用电量同比下降主要原因是去年同期华东、华中等高负",
+      "link": "https://www.yicai.com/news/103450864.html",
+      "published": "Mon, 23 Nov 2026 12:26:06 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "“老登”之争一年后，中际旭创终究没跑赢贵州茅台",
+      "summary": "<figure><img alt=\"“老登”之争一年后，中际旭创终究没跑赢贵州茅台\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/7460d03299d7affc3c1f8c9580fab2df.jpg\" /></figure><p>四只AI千元股全部跌回茅台之下，风格的钟摆永远在摆动</p><p>“买你的白酒去吧，老登。”一年多前，面对市场对光模块龙头中际旭创（300308.SZ）盈利的质疑，一位卖方通信分析师在社交平台留下此言。彼时AI行情正酣，科技成长与白酒价值之争被推至台前。</p>\n\n<p><strong>一年之后再看这句口号，市场已用两条趋同的收益曲线给出解答，结果颇具意味。自2025年10月至2026年11月23日，中际旭创股价累计上涨3.74%，贵州茅台（600519.SH）股价同期累计上涨3.75%，两者几乎分毫不差。</strong></p>\n\n<p><strong>单看收益结果无法体现这两只股过去一年的股价走势。中际旭创一度从336元冲至1414.71元，区间最大涨幅约3.2倍，又自2026年7月起累计回",
+      "link": "https://www.yicai.com/news/103450862.html",
+      "published": "Mon, 23 Nov 2026 12:25:53 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "一天内价格再跌200元，iPhone Duo开售一个月已较发售价跌去 1500 元",
+      "summary": "<figure><img alt=\"一天内价格再跌200元，iPhone Duo开售一个月已较发售价跌去 1500 元\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/7B7902A6-B7B2-4617-A467-9226D23D9DAD.jpg\" /></figure><p>iPhone Duo官方交付排期提前，在第三方渠道及二手市场的价格也大幅回落。</p><p>从加价数千元到跌破发售价1500元，曾经“又贵又难等”的iPhone Duo，只用了一个月。</p>\n\n<p>11月23日，记者查看天猫苹果官方旗舰店发现，苹果旗下首款折叠屏手机iPhone Duo的官方发货时间已提前至36天内发货，即12月底，客服告诉记者“这是最晚最晚的时间，从新品发售接待到现在，都没有卡点发出的。”而在苹果开启预购当晚，这款手机在天猫苹果官方旗舰店的预计发货时间一度排至明年1月23日。</p>\n\n<p>官方交付排期提前的同时，iPhone Duo在第三方渠道及二手市场的价格大幅回落。</p>\n\n<p>11月23日，记者查看拼多多百亿补贴频",
+      "link": "https://www.yicai.com/news/103450851.html",
+      "published": "Mon, 23 Nov 2026 12:25:41 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "一财社论：明确稳市内涵，搭建长效机制",
+      "summary": "<figure><img alt=\"一财社论：明确稳市内涵，搭建长效机制\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/f292e488382e95f9cdb1e1d3d8e54e01.jpg\" /></figure><p>用制度变革提高市场规范化发展，用制度的长效稳定机制护航市场健康发展。</p><p>22日，A股再度迎来一揽子稳市举措。沪深北交易所发布通知，将融资保证金比例下限从100%降低至80%；创业板就做市商制度公开征求意见；同时交易所推出一批组合式降费举措。</p>\n\n<p>下半年以来，市场波动加大。市场研究者认为，融资保证金调降，最高可为市场带来4000亿元的资金流；做市商制度在三大交易所的次第铺开，将为市场注入更多稳压器；降费等举措则将显著降低市场交易成本。</p>\n\n<p>市场期待相关政策能刹住目前下滑的市场走势。但要想让市场步入理性成熟的轨道，就必须赋予稳市科学合理的含义，即用制度变革提高市场规范化发展，用制度的长效稳定机制护航市场健康发展。</p>\n\n<p>最近数月，市场风险交易处于持续的出清过程中。其风",
+      "link": "https://www.yicai.com/news/103450810.html",
+      "published": "Mon, 23 Nov 2026 12:11:58 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "“科技成果供给”专章首次入法，上海明确怎么转、转什么",
+      "summary": "<figure><img alt=\"“科技成果供给”专章首次入法，上海明确怎么转、转什么\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/9a5aff76516d9c08b2c6cebd6a719a51.jpg\" /></figure><p>条例作为一部促进型专项立法，实施中还需要加快配套政策出台，加大关键环节和堵点难点攻坚力度。</p><p>近日，新修订的《上海市促进科技成果转化条例》（下称“条例”）对外公布，是全国首个将“科技成果供给”专章写入法规的条例。上海也结合自身实践推动科技创新与产业创新深度融合。</p>\n\n<p>条例将于2026年12月1日起施行。上海市科委科技成果转化与孵化器建设处副处长梁冰告诉第一财经记者，条例主要有五个亮点：突出高质量科技供给、强化企业创新主体地位、深化权益分配改革、健全全方位成果转化实施体系、加强支持保障。</p>\n\n<p><strong>立法理念拓宽</strong></p>\n\n<p>此次条例增设“科技成果供给”专章，立法理念从“怎么转”拓展到“转什么”，将高质量科技成果供给作为转化前提。",
+      "link": "https://www.yicai.com/news/103450821.html",
+      "published": "Mon, 23 Nov 2026 11:57:19 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "忽视了显而易见风险的AI投资者们",
+      "summary": "<figure><img alt=\"忽视了显而易见风险的AI投资者们\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/a53860633f466602e59f6986fe3a13d7.jpg\" /></figure><p>人工智能可以显著提高关键经济领域的生产率，但这仅仅在正确运用该技术的情况下才成立。</p><p>在9月初的一次非公开演讲中，我指出金融界和高科技界对人工智能普遍持乐观态度，而其他大多数领域却并非如此。这让我感到讶异，因为金融界人士理应知道利率，尤其是长期利率的上升会使局势变得复杂。金融环境收紧曾在过往的投资周期中考验过市场，如今这种情况也可能重演。因此我建议将潜在通胀前景列为需要关注的最重要指标之一。</p>\n\n<p>但在场的大多数人都用一种奇怪的眼神看着我，仿佛我是个没搞清楚状况的老古董。尽管如此，我还是顺带指出虽然人们越来越担心该技术会造成大规模失业、失控的人工智能系统可能扰乱关键基础设施运行，但投资者们似乎对此毫不在意。</p>\n\n<p>而美国公众在11月3日明确表达了立场：他们果断否定了与人工智能和科技",
+      "link": "https://www.yicai.com/news/103450773.html",
+      "published": "Mon, 23 Nov 2026 11:32:30 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "推理时代，中国算力的机会在哪里",
+      "summary": "<figure><img alt=\"推理时代，中国算力的机会在哪里\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/58dab9570cd27ca92ba3f562db13f021.jpg\" /></figure><p>推理并不总需要最先进的芯片，这意味着一个不必在最高端市场正面突破，也能参与竞争的机会。</p><p>大模型的一生分两个阶段：先是训练，用海量数据把模型教会；然后是推理，让学成的模型回答问题、写代码、办事情。过去几年，算力主要花在训练上；随着AI从回答问题走向完成复杂任务，推理正在成为算力需求的主体。</p>\n\n<p>这一变化对中国尤其重要。训练前沿模型需要最先进的芯片和几万张卡紧密协作，这正是中国受制约最深的地方。而推理并不总需要最先进的芯片，这意味着一个不必在最高端市场正面突破，也能参与竞争的机会。这个机会有多大？推理与训练究竟有何不同？中美两国又各有什么长处和短板？</p>\n\n<p><strong>训练与推理：两种不同的算力需求</strong></p>\n\n<p>训练像几万名桨手同划一条龙舟：所有人必须踩着同",
+      "link": "https://www.yicai.com/news/103450772.html",
+      "published": "Mon, 23 Nov 2026 11:32:12 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "白宫与国会权力的游戏即将开始：民主党亮出核心议程，特朗普进入“否决先生”模式？",
+      "summary": "<figure><img alt=\"白宫与国会权力的游戏即将开始：民主党亮出核心议程，特朗普进入“否决先生”模式？\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/9bb9b144d110b1f37199ff3a7289b35f.jpg\" /></figure><p>“他们会把法案送到我这儿，而我会把它们统统否决。”特朗普描绘明年的图景。   </p><p>距离美国新一届国会正式宣誓就职尚有一个多月，但刚刚重夺参众两院控制权的民主党，已提前亮出了新任期的核心立法与监督议程——直接瞄准特朗普政府经济政策的两大支柱：关税与减税。</p>\n\n<p>即将于明年1月执掌众议院筹款委员会的民主党资深议员尼尔（Richard Neal）表示，计划在掌控国会后立即召开听证会，对特朗普政府推行的全系列关税措施及减税政策展开全面调查。</p>\n\n<p>“一切都将回归到生活可负担性（议题上）。”尼尔将美国人的生活成本问题拟定为新国会的优先议题，他列出的审查清单包括10%的基准关税、钢铝和汽车行业关税，以及对加拿大征收的惩罚性关税。在更早前的11月6日",
+      "link": "https://www.yicai.com/news/103450763.html",
+      "published": "Mon, 23 Nov 2026 11:28:00 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "机构研判：三项稳市举措“减震”，AI投资从“讲故事”步入“算账”阶段",
+      "summary": "<figure><img alt=\"机构研判：三项稳市举措“减震”，AI投资从“讲故事”步入“算账”阶段\" src=\"https://imgcdn.yicai.com/uppics/images/ios/yicai/7C165DD4-2B7E-4E66-9104-C1AD567446DF.jpg\" /></figure><p>“交易政策是减震器，不是上涨的发动机。”他表示，后续市场真正企稳，还需要盈利修复、居民风险偏好回暖、外部利率环境平稳、产业主线兑现现金流等积极因素共振。</p><p>降低融资保证金比例、创业板将推做市商制度、新一批组合式降费措施落地，在上述稳市举措“三箭齐发”的刺激下，A股迎来久违的普涨行情。</p><p>11月23日，A股全天走出“V”形反弹行情。早盘沪指一度失守3500点，临近上午收盘时开始拉升，最终收于3538点，全天上涨0.15%。深证成指、创业板指、科创综指分别上涨1.93%、3.08%、2.62%。沪深两市全天成交额1.55万亿，较上一个交易日放量1307亿。</p><p>创金合信基金首席经济学家魏凤春向第一财经表示，这套稳市举措的核心作用是打断负反馈",
+      "link": "https://www.yicai.com/news/103450765.html",
+      "published": "Mon, 23 Nov 2026 11:25:23 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "揭秘恒昌系商业版图：曾经的“四大”之一，网贷行业最后的“活化石”",
+      "summary": "<figure><img alt=\"揭秘恒昌系商业版图：曾经的“四大”之一，网贷行业最后的“活化石”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/61db6ea84f24fa6380ef12ae99c37500.jpg\" /></figure><p>立案侦查！连续2年入选北京民企百强榜。</p><p>恒昌财富停兑事件发酵10余天后，迎来了司法介入。</p>\n\n<p>11月22日晚间，北京市公安局朝阳分局发布警情通报。通报称，近期朝阳分局依法对“恒昌系”相关公司涉嫌违法犯罪立案侦查，并对实控人秦某某（男，49岁）等多名犯罪嫌疑人依法采取刑事强制措施。</p>\n\n<p>10天前，11月12日，网传“恒昌系”创始人兼CEO秦洪涛失联。当时，一张微信截图在各个出借人社群快速转发。截图信息显示，秦洪涛失联，鉴于公司所有出款财务需要创始人秦洪涛授权，遂暂停募集和兑付。同时，投资人亦发现，恒昌旗下APP内产品被清空。</p>\n\n<p>第一财经从投资人处了解到，在这10余天里，不少客户自行前往属地派出所报案登记。</p>\n\n<p><stro",
+      "link": "https://www.yicai.com/news/103450759.html",
+      "published": "Mon, 23 Nov 2026 11:19:12 GMT"
+    },
+    {
+      "source": "第一财经",
+      "title": "支持加强资产管理行业风险管理能力建设，上海资产管理协会举办“资产管理与风险管理论坛”",
+      "summary": "<figure><img alt=\"支持加强资产管理行业风险管理能力建设，上海资产管理协会举办“资产管理与风险管理论坛”\" src=\"https://imgcdn.yicai.com/uppics/slides/2026/11/b6349e495aeeecab81332696c03eac09.jpg\" /></figure><p>将国际风险管理有益经验与本土治理结构相结合，共同推动上海全球资产管理中心建设。</p><p>“有效防范化解金融风险”是“十五五”时期重点任务之一。《关于深化上海全球资产管理中心建设的若干意见》明确提出“提升上海人民币资产全球配置和风险管理能力”。</p>\n\n<p>为支持加强资产管理行业风险管理能力建设，上海资产管理协会于11月18日在沪举办“资产管理与风险管理论坛”，贝莱德基金管理有限公司、贝莱德建信理财有限责任公司、上海交通大学中国金融研究院风险管理中心共同承办。</p>\n\n<p>上海资产管理协会监事长，立信会计党委委员、高级合伙人潘莉华代表主办方致辞。协会副会长、贝莱德中国区负责人、贝莱德基金董事长范华作承办方致辞并主持圆桌讨论。协会秘书长韩康出席论坛并与",
+      "link": "https://www.yicai.com/news/103450731.html",
+      "published": "Mon, 23 Nov 2026 11:12:54 GMT"
+    },
+    {
+      "source": "中国证券报",
+      "title": "梅安森资产购买交易对手完成对公司股票购买安排 - 东方财富网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ya0d0Zmhlek9TSjFObHd2NVdHenZlMVRteU9pSHk5cUlqMlZESlRJQ3NaSGJmdEw0bVcxLW9kbVJfclZqOUwxcURiQl9pdmFHb2FZQTY2bEVuR1JBNjBTQ0tKc3o?oc=5\" target=\"_blank\">梅安森资产购买交易对手完成对公司股票购买安排</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">东方财富网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ya0d0Zmhlek9TSjFObHd2NVdHenZlMVRteU9pSHk5cUlqMlZESlRJQ3NaSGJmdEw0bVcxLW9kbVJfclZqOUwxcURiQl9pdmFHb2FZQTY2bEVuR1JBNjBTQ0tKc3o?oc=5",
+      "published": "Mon, 23 Nov 2026 12:06:01 GMT"
+    },
+    {
+      "source": "证监会新闻",
+      "title": "裕太微(688515):向特定对象发行股票的审核中心意见落实函回复的提示性公告 - 中财网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE43R0E3U3RwNW42QTl1dGtYajRfX0JoWmNZVUVoNndKcm8xVjJjb2RYX2dHVmFoRWFlMFdLdC1kV3BwcElUbGQxTm41Vm1FdkV1b3pkU0xR?oc=5\" target=\"_blank\">裕太微(688515):向特定对象发行股票的审核中心意见落实函回复的提示性公告</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中财网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43R0E3U3RwNW42QTl1dGtYajRfX0JoWmNZVUVoNndKcm8xVjJjb2RYX2dHVmFoRWFlMFdLdC1kV3BwcElUbGQxTm41Vm1FdkV1b3pkU0xR?oc=5",
+      "published": "Mon, 23 Nov 2026 12:51:47 GMT"
+    },
+    {
+      "source": "证监会新闻",
+      "title": "捷佳伟创(300724):取得金融机构股票回购专项贷款承诺函 - 中财网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFByTV85WEdlQm53ZmZHMWtSZHI2d3J4UlctOXlRNktsZzBKUjhvNVRTNEdkanBvQlJtaGZQOGdWQXpqMU5UTjcyREdCUUdzdks0YU5nQ2tn?oc=5\" target=\"_blank\">捷佳伟创(300724):取得金融机构股票回购专项贷款承诺函</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">中财网</font>",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByTV85WEdlQm53ZmZHMWtSZHI2d3J4UlctOXlRNktsZzBKUjhvNVRTNEdkanBvQlJtaGZQOGdWQXpqMU5UTjcyREdCUUdzdks0YU5nQ2tn?oc=5",
+      "published": "Mon, 23 Nov 2026 11:26:58 GMT"
+    },
+    {
+      "source": "Bloomberg China",
+      "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh - Bloomberg.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhQcGtONXo1SHNRdHRjWHRPZ3gzaHJCUTdNbW1BdUJ3ZUhLTjZ6X1F2dVo3SDdmZHZlWFIwMHVOX3RSZ3lFaE9vRzFDdUE0YlhFbXVTOWxuM2J3dkVwYjE0VE5JV0ZIaHNVLVp3d1dIMGxlX3JvVTNkNnRsRldmeUsyVk9IYldqbTFsU3RZUXpWclpybnhaei1CU2U5WDdQb1ZfcHpZdm5TdldRUlVfMVNnV0dDMG56eWRfNEhCbw?oc=5\" target=\"_blank\">US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhQcGtONXo1SHNRdHRjWHRPZ3gzaHJCUTdNbW1BdUJ3ZUhLTjZ6X1F2dVo3SDdmZHZlWFIwMHVOX3RSZ3lFaE9vRzFDdUE0YlhFbXVTOWxuM2J3dkVwYjE0VE5JV0ZIaHNVLVp3d1dIMGxlX3JvVTNkNnRsRldmeUsyVk9IYldqbTFsU3RZUXpWclpybnhaei1CU2U5WDdQb1ZfcHpZdm5TdldRUlVfMVNnV0dDMG56eWRfNEhCbw?oc=5",
+      "published": "Mon, 23 Nov 2026 12:00:01 GMT"
+    },
+    {
+      "source": "融资融券",
+      "title": "两融保证金比例下调在即！监管明确两融风控细则、稳妥处置违约，多家券商表态后续将推进落实 - Sohu",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHd6NGszdlhmbmd6UDdIZnpONjlnRkpVbEhyZjZSUk5iMTUzR0F6VjdmdjgyQWRILVlyZ2pGMVQ5Rkd3c2VhREV6N05SanpNUWRQQ1dRUXhIUjQ3anhyZk1SOXpCLWY2OFk2MjN6NjdPMTVndlk0T0V5QzQ2T1A3QlNnT29jbjhKNGxz?oc=5\" target=\"_blank\">两融保证金比例下调在即！监管明确两融风控细则、稳妥处置违约，多家券商表态后续将推进落实</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Sohu</font>",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHd6NGszdlhmbmd6UDdIZnpONjlnRkpVbEhyZjZSUk5iMTUzR0F6VjdmdjgyQWRILVlyZ2pGMVQ5Rkd3c2VhREV6N05SanpNUWRQQ1dRUXhIUjQ3anhyZk1SOXpCLWY2OFk2MjN6NjdPMTVndlk0T0V5QzQ2T1A3QlNnT29jbjhKNGxz?oc=5",
+      "published": "Mon, 23 Nov 2026 11:41:57 GMT"
+    },
+    {
+      "source": "融资融券",
+      "title": "券商！券商！券商！重要的事情讲三遍！ - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5icWQ3TDFQN0NNakQ3N29yR0FjQjUzc3BRcnFKVzU0UlNnYzA4Rm5YSzRydXlLSFJhYlRKSk9uUlhpMHlNeGNoSGlTUlZrc0ZXZkxhRnRWR25nZ09pVVNXUUdoeHFsdjdOdFlJcXNvbVUxQQ?oc=5\" target=\"_blank\">券商！券商！券商！重要的事情讲三遍！</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5icWQ3TDFQN0NNakQ3N29yR0FjQjUzc3BRcnFKVzU0UlNnYzA4Rm5YSzRydXlLSFJhYlRKSk9uUlhpMHlNeGNoSGlTUlZrc0ZXZkxhRnRWR25nZ09pVVNXUUdoeHFsdjdOdFlJcXNvbVUxQQ?oc=5",
+      "published": "Mon, 23 Nov 2026 11:10:05 GMT"
+    },
+    {
+      "source": "融资融券",
+      "title": "A股连出三项利好，近4000亿元增量资金将入市 - 手机新浪网",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1zdjg0dmN3ZWhMRGVaN3B6WDJlS1YtLTdXcTZpS2xVc2d5QTdjVndYbWZ2M05mSkFpYlJrT1RleWNyM2RQd2UwcTRlczlYT0lGNE42TWNmclk1SGhDRGJ1ZzZrMGZDM3l2WW5vTEVsRmlkZw?oc=5\" target=\"_blank\">A股连出三项利好，近4000亿元增量资金将入市</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">手机新浪网</font>",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zdjg0dmN3ZWhMRGVaN3B6WDJlS1YtLTdXcTZpS2xVc2d5QTdjVndYbWZ2M05mSkFpYlJrT1RleWNyM2RQd2UwcTRlczlYT0lGNE42TWNmclk1SGhDRGJ1ZzZrMGZDM3l2WW5vTEVsRmlkZw?oc=5",
+      "published": "Mon, 23 Nov 2026 12:14:16 GMT"
+    }
+  ]
+}
