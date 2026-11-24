@@ -1,9 +1,65 @@
 {
   "date": "2026-11-25",
   "hour": "05",
-  "total": 10,
-  "fetched_at": "2026-11-25T05:00:59.317204+08:00",
+  "total": 11,
+  "fetched_at": "2026-11-25T05:40:30.991591+08:00",
   "news": [
+    {
+      "source": "同花顺",
+      "title": "惠普股价盘后转跌，最新下跌4%，此前一度上涨15%",
+      "summary": "惠普股价盘后转跌，最新下跌4%，此前一度上涨15%。",
+      "link": "https://news.10jqka.com.cn/20261125/c682173012.shtml",
+      "published": "Tue, 24 Nov 2026 21:39:35 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行",
+      "summary": "（新华社）新华社快讯：神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行。（新华社）",
+      "link": "https://news.10jqka.com.cn/20261125/c682172994.shtml",
+      "published": "Tue, 24 Nov 2026 21:33:06 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "AI服务器制造商慧与科技（HPE）收跌16.31%，创该公司2015年美国IPO以来最大单日跌幅，投资者担心其利润率",
+      "summary": "AI服务器制造商慧与科技（HPE）收跌16.31%，创该公司2015年美国IPO以来最大单日跌幅，投资者担心其利润率。",
+      "link": "https://news.10jqka.com.cn/20261125/c682172993.shtml",
+      "published": "Tue, 24 Nov 2026 21:32:34 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "惠普股价盘后上涨14.5%，此前公布业绩",
+      "summary": "惠普股价盘后上涨14.5%，此前公布业绩。",
+      "link": "https://news.10jqka.com.cn/20261125/c682172985.shtml",
+      "published": "Tue, 24 Nov 2026 21:26:10 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "富时A50期指连续夜盘收跌0.58%，报12697点",
+      "summary": "富时A50期指连续夜盘收跌0.58%，报12697点。",
+      "link": "https://news.10jqka.com.cn/20261125/c682172980.shtml",
+      "published": "Tue, 24 Nov 2026 21:21:15 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "纳斯达克：截至11月13日，所有纳斯达克证券空头持仓总计229.9亿股",
+      "summary": "纳斯达克：截至11月13日，所有纳斯达克证券的空头持仓总计229.9亿股。（新浪财经）",
+      "link": "https://news.10jqka.com.cn/20261125/c682172969.shtml",
+      "published": "Tue, 24 Nov 2026 21:14:26 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "戴尔第三季度人工智能优化服务器营收220.3亿美元，预期193亿美元",
+      "summary": "戴尔第三季度人工智能优化服务器营收为220.3亿美元，预期为193亿美元。",
+      "link": "https://news.10jqka.com.cn/20261125/c682172950.shtml",
+      "published": "Tue, 24 Nov 2026 21:09:14 GMT"
+    },
+    {
+      "source": "同花顺",
+      "title": "美三大指数表现分化：纳指跌近1.5% 英伟达跌近6% Anthropic破发",
+      "summary": "美股周二收盘，道指初步收涨0.86%，标普500指跌0.49%，纳指跌1.48%。Anthropic(ANT.O)跌6.5%，收于发行价之下。英伟达(NVDA.O)跌5.8%，AMD(AMD.O)跌8.8%，戴尔(DELL.N)跌13%。纳斯达克中国金龙指数涨0.13%，网易(NTES.O)跌超2%。",
+      "link": "https://news.10jqka.com.cn/20261125/c682172943.shtml",
+      "published": "Tue, 24 Nov 2026 21:03:34 GMT"
+    },
     {
       "source": "同花顺",
       "title": "现货黄金失守3550美元/盎司，日内跌2.36%",
@@ -24,55 +80,6 @@
       "summary": "新思科技在成交量激增中下挫，最新下跌2.9%。",
       "link": "https://news.10jqka.com.cn/20261125/c682172902.shtml",
       "published": "Tue, 24 Nov 2026 19:46:29 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "普京：必将回应乌对俄燃料能源设施的袭击",
-      "summary": "俄罗斯总统普京24日表示，乌克兰武装部队持续袭击俄燃料与能源基础设施，俄方必将予以回应。他要求加强对俄燃料和能源基础设施的保护。普京当天在燃料与能源综合体发展委员会会议上指出，尽管美国总统特朗普此前要求乌克兰停止此类袭击，乌方仍继续袭击俄燃料与能源基础设施。他表示，乌方推动局势升级的行动不会对俄造成致命打击。普京说，目前俄国内燃料市场保持稳定，民众和企业需求得到保障，国内汽油价格在经历峰值后趋稳。他强调，当前确保国内燃料供需平衡、供应稳定仍然是主要任务。（新华社）",
-      "link": "https://news.10jqka.com.cn/20261125/c682172888.shtml",
-      "published": "Tue, 24 Nov 2026 19:35:57 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "WTI原油期货结算价报每桶82.05美元，涨幅2.35%",
-      "summary": "WTI原油期货结算价报每桶82.05美元，涨幅2.35%。",
-      "link": "https://news.10jqka.com.cn/20261125/c682172887.shtml",
-      "published": "Tue, 24 Nov 2026 19:33:58 GMT"
-    },
-    {
-      "source": "同花顺",
-      "title": "美国和沙特讨论了解除黎巴嫩真主党武装的必要性",
-      "summary": "美国和沙特讨论了解除黎巴嫩真主党武装的必要性。（财联社）",
-      "link": "https://news.10jqka.com.cn/20261125/c682172885.shtml",
-      "published": "Tue, 24 Nov 2026 19:29:44 GMT"
-    },
-    {
-      "source": "财联社",
-      "title": "Anthropic，盘前股价“破发” - 新浪财经_金融信息服务商",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE8yYkxmdDV4YVh2U1AtQjQ0WXdhc193WXdxZEUyQWJmUTM2dHRCSUZRNTlyQXlwU2szV1R4UGNYX3FqbXBUc0pPV196WVZhM3Jad2RaRHk1RjRheEtMTnlZcmZRdVRxdG5nQTFJZ1lFWUVsUQ?oc=5\" target=\"_blank\">Anthropic，盘前股价“破发”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">新浪财经_金融信息服务商</font>",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yYkxmdDV4YVh2U1AtQjQ0WXdhc193WXdxZEUyQWJmUTM2dHRCSUZRNTlyQXlwU2szV1R4UGNYX3FqbXBUc0pPV196WVZhM3Jad2RaRHk1RjRheEtMTnlZcmZRdVRxdG5nQTFJZ1lFWUVsUQ?oc=5",
-      "published": "Tue, 24 Nov 2026 19:34:52 GMT"
-    },
-    {
-      "source": "Bloomberg China",
-      "title": "Shareholders Are Bankrolling AI Giants They Can’t Control - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHY0Smx1bjJWTEVqZFZSRURQMzBjSThrSU1udmhGbzU5NG95dXhOQUlndWlVTDNYZ21jNXRFQnA0Z2EwbkxweDN6TkZHbThwbm5wWmdscDN0Q0MwXy1CNEFPMjRFc2JUZDBDUWlBa1FVdC1zRkFvdWZXSFVMM1ZMaFRtWU9PM0x3d05fT1FHRmtBczR1a2NQU2lPbmJKWXVuUWEwekpOV2hmSHQzTVV4dFNpSEhmanVZQWpJVGlxS3RNYUk?oc=5\" target=\"_blank\">Shareholders Are Bankrolling AI Giants They Can’t Control</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTHY0Smx1bjJWTEVqZFZSRURQMzBjSThrSU1udmhGbzU5NG95dXhOQUlndWlVTDNYZ21jNXRFQnA0Z2EwbkxweDN6TkZHbThwbm5wWmdscDN0Q0MwXy1CNEFPMjRFc2JUZDBDUWlBa1FVdC1zRkFvdWZXSFVMM1ZMaFRtWU9PM0x3d05fT1FHRmtBczR1a2NQU2lPbmJKWXVuUWEwekpOV2hmSHQzTVV4dFNpSEhmanVZQWpJVGlxS3RNYUk?oc=5",
-      "published": "Tue, 24 Nov 2026 20:23:34 GMT"
-    },
-    {
-      "source": "Bloomberg China",
-      "title": "Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHhkVFpXSmc2SFJ3VEV3WHg5Vm4xYmRlM2l5R3Z2TEx6emJsdVRiQVBJTjJpaDJ3X2NsZFBURUR4anlRVDY4aTl0cHFvUzFTWUw5VUtXcE5pSEt1TzNPTWlXU0xHYV84QjVURk9LV1pFRGloYTQ1aU1iUmJ4TlN1NlVRYXN6QS1ub2Z6Mm1HMlNXS0hYV1YxNzF5SV9MSUNkNUtRTnRqb1phaUlESmRaMUxjcTM0dw?oc=5\" target=\"_blank\">Nasdaq 100 Tumbles as Nvidia Euphoria Fades, New Tariffs Floated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHhkVFpXSmc2SFJ3VEV3WHg5Vm4xYmRlM2l5R3Z2TEx6emJsdVRiQVBJTjJpaDJ3X2NsZFBURUR4anlRVDY4aTl0cHFvUzFTWUw5VUtXcE5pSEt1TzNPTWlXU0xHYV84QjVURk9LV1pFRGloYTQ1aU1iUmJ4TlN1NlVRYXN6QS1ub2Z6Mm1HMlNXS0hYV1YxNzF5SV9MSUNkNUtRTnRqb1phaUlESmRaMUxjcTM0dw?oc=5",
-      "published": "Tue, 24 Nov 2026 19:53:09 GMT"
-    },
-    {
-      "source": "Bloomberg China",
-      "title": "How Jensen Huang’s Return May Reduce Risks to US Growth - Bloomberg.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHBjUTVSdE5LSktuLUVtUVQ1Znh3UzRQTzdYV2hRYTVPQTREM2NtRE92UU5YcFR4X0t2Vkp2T01heDgwOEdZMjVIRm9aeE1fcnBzczBvMHRqWVRmUS1nWUNBdzA1TVJaQlpQS09BeWZlNk9zN0t6emI2ZURrZ3VEcFBWbFZITTJYT25oYW5LcnRCaFVjUFRIbXYyYVo5aDZMTWFmR1BhYWRMY2VtZWc?oc=5\" target=\"_blank\">How Jensen Huang’s Return May Reduce Risks to US Growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHBjUTVSdE5LSktuLUVtUVQ1Znh3UzRQTzdYV2hRYTVPQTREM2NtRE92UU5YcFR4X0t2Vkp2T01heDgwOEdZMjVIRm9aeE1fcnBzczBvMHRqWVRmUS1nWUNBdzA1TVJaQlpQS09BeWZlNk9zN0t6emI2ZURrZ3VEcFBWbFZITTJYT25oYW5LcnRCaFVjUFRIbXYyYVo5aDZMTWFmR1BhYWRMY2VtZWc?oc=5",
-      "published": "Tue, 24 Nov 2026 19:31:39 GMT"
     }
   ]
 }
